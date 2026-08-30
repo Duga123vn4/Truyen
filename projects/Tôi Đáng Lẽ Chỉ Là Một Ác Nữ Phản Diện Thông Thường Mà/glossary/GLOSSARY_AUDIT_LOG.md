@@ -1,0 +1,30 @@
+# 📜 SỔ CÁI NHẬT KÝ KIỂM TOÁN GLOSSARY
+
+### ⏱️ ĐỢT KHAI THÁC CANON: `2026-08-28 00:20:45` (Tập 1-35 RAW)
+• 🟢 **[MỚI]** `CHAR-001` **Aurelia Rosenberg** (オレーリア・ローゼンベルク): Nhân vật chính, con gái Công tước Rosenberg, cựu hôn thê của Hoàng tử Felix (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-002` **Silphy Lumière** (シルフィ・ルミエール): Nữ chính nguyên tác, con gái Nam tước Lumière, cựu thư ký Hội học sinh (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-003` **Felix** (フェリクス): Đệ nhất Hoàng tử Vương quốc Melba, Hội trưởng Hội học sinh (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-004` **Dylan Cromwell** (ディラン・クロムウェル): Con trai thứ ba của Bá tước Cromwell, thị vệ thân cận kiêm bạn học của Felix (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-005` **Nina** (ニナ): Hầu gái thân cận của Aurelia (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-006` **Theodore Wester** (テオドール・ヴェスター): Con trai Tử tước Wester, bạn thuở nhỏ kiêm 'tay sai' trung thành của Aurelia (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-007` **Elsa Eisenberg** (エルザ・アイゼンベルク): Tiểu thư Hầu tước Eisenberg (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-008` **Marta** (マルタ): Tiểu thư Nam tước, gián điệp của Elsa cài vào bên cạnh Aurelia (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-009` **Cedric Grandier** (セドリック・グランディエ): Con trai cả của Hầu tước kiêm Tể tướng Grandier, Phó hội trưởng Hội học sinh (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-010` **Maria** (マリア): Cô bé thường dân tại thị trấn suối nước nóng thuộc lãnh địa Rosenberg (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-011` **Beatrice** (ベアトリス): Đệ tam Công chúa của Vương quốc Gran (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-012` **Gazelle** (ガゼル): Hộ vệ của Công chúa Beatrice, quán quân Đại hội Kiếm thuật vương quốc Gran (Tập 1-35)
+• 🟢 **[MỚI]** `CHAR-013` **Camila** (カミラ): Em gái của Gazelle, tỳ nữ kiêm hộ vệ phụ tá của Công chúa Beatrice (Tập 1-35)
+• 🔮 **[MỚI]** `SKILL-001` **『Hoàng tử vương miện băng và thiếu nữ ngọc bích』** (『氷冠の王子と翡翠の乙女』): Tên cuốn tiểu thuyết mạng ngôn tình mô-típ phản diện bị kết tội mà Aurelia từng đọc kiếp trước. (Tập 1-35)
+• 🔮 **[MỚI]** `PLACE-001` **『Vương quốc Melba』** (メルバ国): Quốc gia bối cảnh chính của tác phẩm, nơi có gia tộc Rosenberg và Hoàng tộc Felix trị vì. (Tập 1-35)
+• 🔮 **[MỚI]** `PLACE-002` **『Vương quốc Gran』** (グラン国): Quốc gia láng giềng nơi Công chúa Beatrice, Gazelle và Camila xuất thân. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-001` **『Gia tộc Công tước Rosenberg』** (ローゼンベルク公爵家): Đại quý tộc hàng đầu Melba với lãnh địa rộng lớn, nhiều tài sản và cơ sở kinh doanh trải dài sang cả Gran. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-002` **『Đoàn Kỵ sĩ Rosenberg』** (ローゼンベルク騎士団): Lực lượng vũ trang tinh nhuệ thuộc quyền quản lý của gia tộc Công tước Rosenberg, danh tiếng lan sang cả Gran. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-003` **『Gia tộc Hầu tước Eisenberg』** (アイゼンベルク侯爵家): Gia tộc của Elsa, đã bị phế truất và tịch thu lãnh địa sau khi âm mưu hãm hại các tiểu thư quý tộc bị bại lộ. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-004` **『Gia tộc Hầu tước Grandier』** (グランディエ侯爵家): Gia tộc của Tể tướng đương triều và con trai Cedric Grandier. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-005` **『Gia tộc Bá tước Cromwell』** (クロムウェル伯爵家): Gia tộc thượng lưu xuất thân của thị vệ Dylan Cromwell. (Tập 1-35)
+• 🔮 **[MỚI]** `ORG-006` **『Gia tộc Tử tước Wester』** (ヴェスター子爵家): Gia tộc có lãnh địa tiếp giáp và giữ mối quan hệ giao thương, thông thương mật thiết với gia tộc Rosenberg. (Tập 1-35)
+• 🔮 **[MỚI]** `SKILL-002` **『Báo cáo nghiên cứu học sinh hội』** (生徒会主催の研究報告会): Sự kiện học thuật thay thế cho dạ hội Lễ kỷ niệm thành lập trường với đề tài 'Lưu thông giữa các lãnh địa'. (Tập 1-35)
+
+### ⏱️ ĐÍNH CHÍNH PHÂN LOẠI THỰC THỂ (CANON RETCON V3.1)
+• 🔄 **[ĐÍNH CHÍNH]** `SKILL-001` ➔ `ITEM-001` **『Hoàng tử vương miện băng và thiếu nữ ngọc bích』**: Chuyển từ Kỹ năng sang [Tác phẩm / Sách tiểu thuyết]
+• 🔄 **[ĐÍNH CHÍNH]** `SKILL-002` ➔ `EVENT-001` **『Báo cáo nghiên cứu học sinh hội』**: Chuyển từ Kỹ năng sang [Sự kiện học thuật / Hội thảo]

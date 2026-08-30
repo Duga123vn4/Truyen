@@ -1,0 +1,8 @@
+# DÒNG THỜI GIAN & SỰ KIỆN
+| Tập 1-35 | Aurelia nhớ lại tiền kiếp khi đỡ Silphy ở cầu thang, bị thương ở cánh tay và lợi dụng vết sẹo để thuận lợi hủy bỏ hôn ước với Hoàng tử Felix rồi lui về biệt thự suối nước nóng dưỡng bệnh. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Felix và Dylan điều tra lại vụ việc bắt nạt, phát hiện Elsa Eisenberg là kẻ chủ mưu đổ tội cho Aurelia, khiến gia tộc Eisenberg bị tước danh hiệu quý tộc và tịch thu lãnh địa. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Theodore tiết lộ những lần phá đồ của Silphy trước đây thực chất chỉ là đồ của chính Aurelia do cha cô phối hợp đánh tráo để bảo vệ thanh danh cho con gái. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Felix cùng đoàn Hội học sinh liên tục đến biệt thự của Aurelia xin ý kiến về đề tài lưu thông lãnh địa; tại đây Aurelia đưa ra nhiều đóng góp sắc sảo và dẫn mọi người trải nghiệm ẩm thực đường phố suối nước nóng. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Theodore phát hiện bằng chứng Silphy là nguồn cơn ngầm phát tán tin đồn bôi nhọ Aurelia, dẫn đến việc Silphy bị tước tư cách học sinh đặc cách và trục xuất khỏi Hội học sinh; Theodore bị Felix chỉ định thay thế làm thư ký. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Aurelia trở lại Vương đô, hỗ trợ Cedric xử lý công việc sổ sách tồn đọng của Hội học sinh và cùng anh đi ăn vặt đường phố. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Công chúa Beatrice của Gran du học tại Melba, gây chuyện hách dịch tại phòng Hội học sinh và sa thải hai người hầu cận thường dân Gazelle và Camila; Aurelia quyết định thu nhận cả hai về làm việc cho gia tộc Rosenberg. | Tuyến nhân vật | Diễn biến chính |

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"core_3","type":"text","text":"### 👑 Felix\n**Vai trò:** Đệ nhất Hoàng tử\n**Trạng thái:** CÒN SỐNG (Nam chính nguyên tác. Biệt danh *Hoàng tử Băng Vươ","x":450,"y":0,"width":340,"height":180,"color":"5"},
+		{"id":"core_6","type":"text","text":"### 👑 Beatrice\n**Vai trò:** Tam Công chúa vương quốc Grand\n**Trạng thái:** CÒN SỐNG (Kiêu ngạo, bốc đồng; say mê Felix nên sang Melba d","x":450,"y":300,"width":340,"height":180,"color":"5"},
+		{"id":"ally_1","type":"text","text":"### 🛡️ Dylan Cromwell\n**CLB / Chức Vụ:** Công tử Bá tước / Hiệp sĩ\n**Năng lực:** CÒN SỐNG (Hiệp sĩ hộ vệ của Felix. Mắt màu lý chua","x":-675,"y":-650,"width":320,"height":160,"color":"4"},
+		{"id":"ally_2","type":"text","text":"### 🛡️ Cedric Grandier\n**CLB / Chức Vụ:** Công tử Hầu tước / Hội phó\n**Năng lực:** CÒN SỐNG (Con trai Tể tướng. Tông màu *Vàng Cần Tâ","x":-225,"y":-650,"width":320,"height":160,"color":"4"},
+		{"id":"ally_3","type":"text","text":"### 🛡️ Marta\n**CLB / Chức Vụ:** Tiểu thư Nam tước\n**Năng lực:** CÒN SỐNG (Thuộc hạ cũ của Aurelia, thực chất là gi","x":225,"y":-650,"width":320,"height":160,"color":"4"},
+		{"id":"ally_4","type":"text","text":"### 🛡️ Công tước Rosenberg\n**CLB / Chức Vụ:** Gia chủ Rosenberg\n**Năng lực:** CÒN SỐNG (Cha của Aurelia. Vô cùng chiều chuộng co","x":675,"y":-650,"width":320,"height":160,"color":"4"},
+		{"id":"ally_5","type":"text","text":"### 🛡️ Phu nhân Rosenberg\n**CLB / Chức Vụ:** Phu nhân Công tước\n**Năng lực:** CÒN SỐNG (Mẹ của Aurelia. Dịu dàng, luôn ưu tiên c","x":-675,"y":-950,"width":320,"height":160,"color":"4"},
+		{"id":"ally_6","type":"text","text":"### 🛡️ Nina\n**CLB / Chức Vụ:** Hầu gái thân cận\n**Năng lực:** CÒN SỐNG (Hầu gái chăm sóc từng bữa ăn giấc ngủ củ","x":-225,"y":-950,"width":320,"height":160,"color":"4"},
+		{"id":"ally_7","type":"text","text":"### 🛡️ Mira\n**CLB / Chức Vụ:** Hầu gái biệt thự\n**Năng lực:** CÒN SỐNG (Hầu gái tại biệt thự suối nước nóng lãnh","x":225,"y":-950,"width":320,"height":160,"color":"4"},
+		{"id":"ally_8","type":"text","text":"### 🛡️ Tử tước Vester\n**CLB / Chức Vụ:** Lãnh chủ Vester\n**Năng lực:** CÒN SỐNG (Cha của Theodore. Vẻ ngoài hiền hòa, hòa","x":675,"y":-950,"width":320,"height":160,"color":"4"},
+		{"id":"ally_9","type":"text","text":"### 🛡️ Maria\n**CLB / Chức Vụ:** Lãnh dân nhí\n**Năng lực:** CÒN SỐNG (Cô bé tại phố suối nước nóng, coi Aureli","x":-675,"y":-1250,"width":320,"height":160,"color":"4"},
+		{"id":"ally_10","type":"text","text":"### 🛡️ Camilla\n**CLB / Chức Vụ:** Hầu cận Công chúa\n**Năng lực:** CÒN SỐNG (Nữ sinh hầu cận đi theo phục vụ Beatrice","x":-225,"y":-1250,"width":320,"height":160,"color":"4"},
+		{"id":"ally_11","type":"text","text":"### 🛡️ Gazel\n**CLB / Chức Vụ:** Hiệp sĩ hộ vệ\n**Năng lực:** CÒN SỐNG (Hộ vệ trung thực và lý trí của Beatrice;","x":225,"y":-1250,"width":320,"height":160,"color":"4"},
+		{"id":"enemy_1","type":"text","text":"### 🩸 Elsa Eisenberg\n**Phe phái:** Tiểu thư Hầu tước\n**Đặc điểm:** CÒN SỐNG (Tự tôn cao, chủ mưu bắt nạt Sylphy và cài gián điệ","x":0,"y":650,"width":340,"height":180,"color":"1"},
+		{"id":"core_1","type":"text","text":"### 👑 Aurelia Rosenberg\n**Vai trò:** Tiểu thư Công tước\n**Trạng thái:** CÒN SỐNG (Nữ chính chuyển sinh. Tông màu *Sô-cô-la Cam*. Thứ","x":-845,"y":-90,"width":340,"height":180,"color":"6"},
+		{"id":"core_4","type":"text","text":"### 👑 Sylphy Lumiere\n**Vai trò:** Thiếu nữ Phỉ Thúy / Nam tước\n**Trạng thái:** CÒN SỐNG (Nữ chính nguyên tác. Học sinh ưu tú được Aurelia c","x":-695,"y":560,"width":340,"height":180,"color":"5"},
+		{"id":"core_5","type":"text","text":"### 👑 Tể tướng Grandier\n**Vai trò:** Tể tướng vương quốc\n**Trạng thái:** CÒN SỐNG (Cha của Cedric Grandier).","x":0,"y":210,"width":340,"height":180,"color":"5"},
+		{"id":"core_2","type":"text","text":"### 👑 Theodore Vester (Teo)\n**Vai trò:** Công tử Tử tước\n**Trạng thái:** CÒN SỐNG (Thanh mai trúc mã của Aurelia. Tông màu *Trà sữa m","x":0,"y":-270,"width":340,"height":180,"color":"1"}
+	],
+	"edges":[
+		{"id":"e_core_1_2","fromNode":"core_1","fromSide":"right","toNode":"core_2","toSide":"left","label":"Đồng hành / Cạnh tranh"},
+		{"id":"e_core_1_3","fromNode":"core_1","fromSide":"bottom","toNode":"core_3","toSide":"top","label":"Quan hệ chiến lược"},
+		{"id":"e_core_enemy","fromNode":"core_1","fromSide":"bottom","toNode":"enemy_1","toSide":"top","label":"Kẻ thù đối đầu"}
+	]
+}

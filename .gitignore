@@ -1,0 +1,45 @@
+# ==============================================================================
+# NOVEL AI - GITIGNORE CONFIGURATION (BẢO MẬT TUYỆT ĐỐI)
+# ==============================================================================
+
+# 1. API Keys & Cấu hình bảo mật riêng tư
+config.json
+ai_config.json
+*config.json
+tools/config.json
+tools/ai_config.json
+*.key
+*.token
+.env
+.env.*
+
+# 2. Python Cache & Môi trường ảo
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# 3. File Tạm & Scratch AI
+scratch/
+temp/
+tmp/
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# 4. IDE & Hệ thống
+.vscode/
+.idea/
+.obsidian/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 5. Thư mục sao lưu cục bộ
+backups/

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "art_tap_238_1787854435",
+    "chapterId": "chuong_238",
+    "badge": "Tập 238",
+    "title": "Đòn Kết Liễu: Thiểm Quang Bạch Thỉ",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/tap_238_scene.jpg",
+    "context": "Khoảnh khắc quyết định của trận chiến khi Momokawa trở về từ hố sâu và dốc toàn lực cầm chân đàn quái vật, tạo thời cơ cho Sakura tung đòn chí mạng. Sakura giương cung phóng ra mũi tên ma pháp ánh sáng trắng khổng lồ bắn thẳng xuống điểm yếu đã bị phá vỡ trên thân thể Yamata no Orochi trong sự căng thẳng và quyết tâm tột cùng.",
+    "characters": [
+      "Sakura",
+      "Momokawa Kotarou"
+    ],
+    "prompt": "masterpiece, highly detailed, light novel illustration, dynamic angle, dramatic lighting. A heroic anime girl (Sakura) standing at the edge of a massive shattered vertical pit on the ground, drawing a glowing magical bow and releasing a colossal, blinding white beam arrow (White Flash Arrow) straight down into the abyss. Intense radiant light particles and magical runes swirl around her. In the midground, a dark-haired anime boy (Momokawa) fiercely fighting back hordes of shadowy gargoyles, holding a bizarre skull-topped staff (Fool's Staff) emitting dark purple toxic aura and shooting magical projectiles. The background shows a chaotic battlefield with collapsing stone walls, dust clouds, and the looming monstrous silhouette of a giant serpent. Cinematic composition, high contrast, vivid magical glow, sharp details, fantasy action."
+  },
+  {
+    "id": "art_tap_200_1787661687",
+    "chapterId": "chuong_200",
+    "badge": "Tập 200",
+    "title": "Sát thủ trong rừng rậm",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/tap_200_scene.jpg",
+    "context": "Minami, Shimokawa và Julia đang ẩn mình trong tán lá rậm rạp, tập trung quan sát đội hình Goma và Gove phía xa. Bầu không khí căng thẳng bao trùm khi họ chuẩn bị thực hiện một cuộc tập kích chớp nhoáng, với sự hiện diện kỳ dị của con Arachne (Rem) đang đứng lặng lẽ phía sau.",
+    "characters": [
+      "Natsukawa Minami",
+      "Shimokawa",
+      "Julia",
+      "Rem (Arachne)"
+    ],
+    "prompt": "Anime light novel illustration, a tense scene in a dense, mysterious jungle dungeon. In the foreground, Natsukawa Minami (scout, agile posture) is crouching and pointing ahead, Shimokawa (composed, readying weapon) and Julia (anxious but alert) are positioned beside her. In the shadows behind them, the silhouette of Rem the Arachne looms with multiple spider-like legs, eyes glowing faintly. Sunlight filtering through thick canopy, high-quality, sharp focus, cinematic composition, dynamic lighting, detailed fantasy gear, masterpiece style."
+  },
+  {
+    "id": "art_tap_162_1787601205",
+    "chapterId": "chuong_162",
+    "badge": "Tập 162",
+    "title": "Ẩn nấp trước bầy Grim Gore khổng lồ",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/tap_162_scene.jpg",
+    "context": "Vừa bước ra khỏi Quảng trường Yêu tinh, Kotaro và Mei phải lập tức ẩn nấp vào góc một phế tích rêu phong khi mặt đất rung chuyển bởi bầy quái thú khổng lồ. Cả hai nín thở, hồi hộp quan sát ba con Grim Gore mang ngoại hình như khủng long bọc giáp đá đang lù lù tiến qua, cố gắng tránh một cuộc đụng độ sinh tử không cần thiết.",
+    "characters": [
+      "Kotaro",
+      "Mei"
+    ],
+    "prompt": "Anime light novel illustration style, masterpiece, highly detailed, dramatic cinematic composition. In the foreground, a young male Japanese adventurer with short brown hair (Kotaro) and a cute blonde elf girl with long ears in light adventuring armor (Mei) are crouching low, hiding behind a crumbling ancient stone wall. They have nervous, tense expressions, peaking cautiously around the corner. In the middleground and background, three colossal bipedal predatory dinosaur monsters with rocky armored scales, square heavy heads, and smoking breath are stomping through the ancient overgrown ruins. Cinematic lighting with sunbeams cutting through dusty air, high contrast, deep depth of field, giant scale dynamic between tiny characters and massive monsters."
+  },
+  {
+    "id": "key_visual",
+    "chapter": 0,
+    "title": "Bộ Đôi Đũa Lệch: Kotarou & Mei-chan",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/key_visual_kotarou_mei.jpg",
+    "context": "Hình tượng chuẩn nguyên tác: Cậu bạn chú thuật sư nhỏ nhắn 1m50 xinh như con gái bên cạnh cô nàng cuồng chiến binh cao ráo, ngực khủng với thanh cự kiếm khổng lồ.",
+    "characters": [
+      "Momokawa Kotarou",
+      "Futaba Meiko"
+    ],
+    "created_at": "2026-08-25"
+  },
+  {
+    "id": "tap_1",
+    "chapter": 1,
+    "title": "Lời Hứa Dưới Ánh Nắng Phế Tích",
+    "image": "images/tap_1_scene.jpg",
+    "context": "Giữa bối cảnh thành phố ngầm cổ kính phủ đầy cây nhiệt đới um tùm và phế tích đền cổ, Tachibana Mei quay lại nhìn Tsukasa với ánh mắt sáng rực đầy quyết tâm. Cô bé vui vẻ hào hứng hứa sẽ săn thật nhiều quái vật để nấu những món thật ngon cho cậu, mang lại một khoảnh khắc tươi sáng, ấm áp và giàu sức sống giữa không gian dungeon đầy hiểm nguy.",
+    "characters": [
+      "Tachibana Mei",
+      "Tsukada Tsukasa"
+    ],
+    "created_at": "2026-08-25 01:56"
+  },
+  {
+    "id": "tap_152",
+    "chapter": 152,
+    "title": "Khởi Đầu Hành Trình Khám Phá Thành Phố Ngầm",
+    "image": "images/tap_152_scene.jpg",
+    "context": "Khoảnh khắc Mei-chan tràn đầy hăng hái và hào hứng trò chuyện cùng Tsukasa giữa khung cảnh thành phố ngầm hoang sơ rậm rạp cây cối nhiệt đới. Ánh sáng mờ ảo len lỏi qua tán cây cổ thụ, đàn chim nhỏ vỗ cánh bay qua tàn tích kiến trúc đền cổ đá rêu phong, tạo nên một bầu không khí phiêu lưu tươi sáng và tràn đầy sức sống.",
+    "characters": [
+      "Kurebayashi Mei (Mei-chan)",
+      "Miyama Tsukasa"
+    ],
+    "created_at": "2026-08-25 02:00"
+  },
+  {
+    "id": "mei_portrait",
+    "chapter": 154,
+    "title": "Chân Dung Cuồng Chiến Binh Futaba Meiko",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/futaba_berserker.jpg",
+    "context": "Mei-chan với nụ cười cuồng chiến tự tin, đôi mắt đỏ rực và thanh cự kiếm khổng lồ rực lửa chiến khí sẵn sàng đè bẹp mọi quái vật ngáng đường.",
+    "characters": [
+      "Futaba Meiko"
+    ],
+    "created_at": "2026-08-25"
+  },
+  {
+    "id": "tap_160",
+    "chapter": 160,
+    "title": "Tập 160: Đêm Tâm Sự & Lời Hứa Sinh Tồn",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/tap_160_scene.jpg",
+    "context": "Khoảnh khắc nửa đêm trong căn phòng phế tích, Mei-chan quỳ trên túi ngủ với những vết thương băng bó, xúc động bộc bạch nỗi sợ mất đi Kotarou dưới ánh trăng rọi qua ô cửa vòm và ánh đèn bão ấm áp.",
+    "characters": [
+      "Momokawa Kotarou",
+      "Futaba Meiko"
+    ],
+    "created_at": "2026-08-25"
+  },
+  {
+    "id": "tap_197",
+    "chapter": 197,
+    "title": "Ánh Sáng Luyện Thành Và Sự Ấm Áp Giữa Tàn Tích",
+    "image": "images/tap_197_scene.jpg",
+    "context": "Giữa không gian tàn tích cổ kính của Quảng trường Tinh linh thuộc Học viện Tháp, Momokawa đang thi triển ma pháp Luyện Thành để biến những sợi tơ nhện Arachne thô thành các trang phục và đồ lót mới tinh cho các bạn học. Randou đứng bên cạnh trong bộ đồ thể dục, khuôn mặt thoáng chút ửng hồng đầy ngại ngùng nhưng đượm vẻ nhẹ nhõm và biết ơn. Khoảnh khắc ánh sáng ma thuật lung linh hòa cùng nắng chiều rọi qua khe đá mang lại sự ấm áp hiếm hoi giữa cuộc sinh tồn khắc nghiệt.",
+    "characters": [
+      "Momokawa",
+      "Randou"
+    ],
+    "created_at": "2026-08-25 02:39"
+  }
+]
