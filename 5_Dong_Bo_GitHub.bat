@@ -286,6 +286,13 @@ def sync_and_push():
     if push_res.returncode == 0:
         console.print("\n[bold green]🎉 ĐỒNG BỘ LÊN GITHUB THÀNH CÔNG RỰC RỠ![/bold green]")
         console.print("  🌐 Toàn bộ bản dịch, Lore và Web Reader đã được sao lưu an toàn trên Cloud.")
+        try:
+            sys.path.insert(0, str(TOOLS_DIR))
+            from discord_notifier import notify_git_synced
+            notify_git_synced("https://github.com/Duga123vn4/Truyen", "https://duga123vn4.github.io/Truyen/", commit_msg)
+            console.print("  🔔 [bold green]Đã gửi thông báo Realtime lên kênh Discord thành công![/bold green]")
+        except Exception:
+            pass
     else:
         console.print("\n[bold yellow]⚠️ Nhánh từ xa có thể có dữ liệu mới. Đang thử kéo về (Pull & Rebase)...[/bold yellow]")
         run_git_cmd(['pull', '--rebase', 'origin', 'main'])
