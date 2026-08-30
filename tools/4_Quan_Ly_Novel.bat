@@ -55,6 +55,18 @@ def ensure_utf8_console():
 ensure_utf8_console()
 
 try:
+    from discord_notifier import (
+        notify_glossary_mined,
+        notify_glossary_normalized,
+        notify_term_refactored,
+        notify_unclassified_entity,
+        notify_batch_editor_done,
+        notify_backup_restored
+    )
+except Exception:
+    pass
+
+try:
     import httpx
     from rich.console import Console
     from rich.table import Table
@@ -1312,6 +1324,18 @@ def sync_web_reader(project_name: str = ""):
         pass
     finally:
         ensure_utf8_console()
+
+try:
+    from discord_notifier import (
+        notify_glossary_mined,
+        notify_glossary_normalized,
+        notify_term_refactored,
+        notify_unclassified_entity,
+        notify_batch_editor_done,
+        notify_backup_restored
+    )
+except Exception:
+    pass
 
 def get_dynamic_term_replacements(novel: NovelContext) -> List[Tuple[str, str]]:
     """Trích xuất danh bạ thuật ngữ và nhân vật động từ ENTITY_INDEX và toàn bộ Canon Database V3.0."""
