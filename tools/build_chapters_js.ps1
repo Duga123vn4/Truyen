@@ -214,11 +214,6 @@ if (Test-Path $docTruyenPath) {
     [System.IO.File]::WriteAllText($docTruyenPath, $htmlContent, [System.Text.Encoding]::UTF8)
 }
 
-$buildMapPy = Join-Path $toolsDir "build_map_and_graph.py"
-if (Test-Path $buildMapPy) {
-    try {
-        python $buildMapPy | Out-Null
-    } catch {}
-}
+
 
 Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao web/chapters.js (Active: $($activeDir.Name))." -ForegroundColor Green
