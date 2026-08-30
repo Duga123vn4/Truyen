@@ -1448,6 +1448,98 @@
             box-shadow: 0 0 12px rgba(56, 189, 248, 0.25);
         }
 
+    
+        /* Studio Tools Dropdown Menu */
+        .studio-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .studio-btn {
+            background: rgba(30, 41, 59, 0.9);
+            border: 1px solid rgba(56, 189, 248, 0.4);
+            color: #38bdf8;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s ease;
+            backdrop-filter: blur(8px);
+        }
+        .studio-btn:hover, .studio-btn.active {
+            background: rgba(56, 189, 248, 0.15);
+            border-color: #38bdf8;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.3);
+            transform: translateY(-1px);
+        }
+        .studio-dropdown-content {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: calc(100% + 8px);
+            background: #0f172a;
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            min-width: 240px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.7), 0 0 15px rgba(56, 189, 248, 0.15);
+            z-index: 1000;
+            padding: 6px;
+            backdrop-filter: blur(12px);
+            animation: dropdownFadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .studio-dropdown-content.show {
+            display: block;
+        }
+        @keyframes dropdownFadeIn {
+            from { opacity: 0; transform: translateY(-8px) scale(0.96); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+        .studio-dropdown-header {
+            padding: 6px 10px 4px 10px;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #64748b;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+            margin-bottom: 4px;
+        }
+        .studio-dropdown-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 12px;
+            color: #e2e8f0;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 500;
+            border-radius: 6px;
+            transition: all 0.15s ease;
+        }
+        .studio-dropdown-item:hover {
+            background: rgba(56, 189, 248, 0.12);
+            color: #38bdf8;
+            transform: translateX(3px);
+        }
+        .studio-dropdown-item .item-icon {
+            font-size: 16px;
+            width: 20px;
+            text-align: center;
+        }
+        .studio-dropdown-item .item-text {
+            flex: 1;
+        }
+        .studio-dropdown-item .item-badge {
+            font-size: 10px;
+            padding: 2px 6px;
+            border-radius: 4px;
+            background: rgba(255, 255, 255, 0.08);
+            color: #94a3b8;
+        }
+    
     </style>
 </head>
 <body>
@@ -1462,11 +1554,39 @@
         </div>
         <div class="header-btns">
             <select id="novelSelectDropdown" class="novel-select-box" onchange="switchNovel(this.value)" title="Chọn bộ truyện"></select>
-            <a href="Ban_Do_The_Gioi.html" class="btn" style="background: rgba(16, 185, 129, 0.15); border-color: rgba(16, 185, 129, 0.5); color: #34d399;" target="_blank" title="Xem Bản Đồ Thế Giới & Dòng Lịch Sử">🗺️ Bản Đồ Thế Giới</a>
-            <a href="So_Do_Quan_He.html" class="btn" style="background: rgba(236, 72, 153, 0.15); border-color: rgba(236, 72, 153, 0.5); color: #f472b6;" target="_blank" title="Xem Sơ Đồ Mạng Lưới Quan Hệ Nhân Vật">🕸️ Sơ Đồ Quan Hệ</a>
-            <a href="Kiem_Tra_Cache_Token.html" class="btn" style="background: rgba(168, 85, 247, 0.15); border-color: rgba(168, 85, 247, 0.5); color: #c084fc;" target="_blank" title="Xem Giám Sát Token & Cache RAM">📊 Token & Cache</a>
-            <a href="Bao_Cao_Chuan_Hoa.html" class="btn" style="background: rgba(234, 179, 8, 0.15); border-color: rgba(234, 179, 8, 0.5); color: #fde047;" target="_blank" title="Xem Báo Cáo Kiểm Duyệt & Chuẩn Hóa Chi Tiết">⚡ Chuẩn Hóa</a>
-            <a href="So_Sanh_Diff.html" class="btn" style="background: #1e293b; border-color: #38bdf8; color: #38bdf8;" target="_blank" title="Mở công cụ So sánh & Đối chiếu bản dịch">🔍 So Sánh Diff</a>
+            
+            <!-- Studio Tools Unified Dropdown -->
+            <div class="studio-dropdown">
+                <button class="studio-btn" id="studioMenuBtn" onclick="toggleStudioMenu(event)">
+                    <span>🛠️ Công Cụ Studio</span>
+                    <span style="font-size: 10px; opacity: 0.7;">▾</span>
+                </button>
+                <div class="studio-dropdown-content" id="studioDropdownContent">
+                    <div class="studio-dropdown-header">Khám Phá Cốt Truyện & Bản Đồ</div>
+                    <a href="Ban_Do_The_Gioi.html" class="studio-dropdown-item" target="_blank">
+                        <span class="item-icon">🗺️</span>
+                        <span class="item-text">Bản Đồ Thế Giới (Atlas)</span>
+                    </a>
+                    <a href="So_Do_Quan_He.html" class="studio-dropdown-item" target="_blank">
+                        <span class="item-icon">🕸️</span>
+                        <span class="item-text">Sơ Đồ Quan Hệ Nhân Vật</span>
+                    </a>
+                    <div class="studio-dropdown-header" style="margin-top: 6px;">Kiểm Duyệt & Giám Sát AI</div>
+                    <a href="So_Sanh_Diff.html" class="studio-dropdown-item" target="_blank">
+                        <span class="item-icon">🔍</span>
+                        <span class="item-text">So Sánh Đối Chiếu Bản Dịch</span>
+                    </a>
+                    <a href="Bao_Cao_Chuan_Hoa.html" class="studio-dropdown-item" target="_blank">
+                        <span class="item-icon">⚡</span>
+                        <span class="item-text">Báo Cáo Chuẩn Hóa Lore</span>
+                    </a>
+                    <a href="Kiem_Tra_Cache_Token.html" class="studio-dropdown-item" target="_blank">
+                        <span class="item-icon">📊</span>
+                        <span class="item-text">Giám Sát Token & Cache</span>
+                    </a>
+                </div>
+            </div>
+
             <button class="btn btn-primary" onclick="openModal()">⚙ Cài đặt TTS</button>
         </div>
     </header>
@@ -1478,7 +1598,7 @@
         <button class="tab-btn" id="tabTranslateBtn" onclick="switchTab('translate')">🔄 Dịch Thô (Raw)</button>
         <button class="tab-btn" id="tabGalleryBtn" onclick="switchTab('gallery')">🖼️ Bộ Sưu Tập Minh Họa</button>
         <button class="tab-btn" id="tabWikiBtn" onclick="switchTab('wiki')">📖 Bách Khoa Toàn Thư (Lore)</button>
-        <button class="tab-btn" style="color: #38bdf8;" onclick="let epNum = (chapterList[currentChapterIdx] && chapterList[currentChapterIdx].ep) || (currentChapterIdx + 1); window.open('So_Sanh_Diff.html?ch=' + epNum, '_blank')">🔍 So Sánh Đối Chiếu (Diff)</button>
+        
     </div>
 
     <!-- Chapter Navigation Bar (Library Tab) -->
@@ -4686,6 +4806,35 @@ Nhiệm vụ: Hãy trả lời câu hỏi của độc giả một cách sắc s
             chatBox.scrollTop = chatBox.scrollHeight;
         }
 
-</script>
+
+        // Studio Tools Dropdown Toggle
+        function toggleStudioMenu(event) {
+            if (event) event.stopPropagation();
+            const menu = document.getElementById('studioDropdownContent');
+            const btn = document.getElementById('studioMenuBtn');
+            if (!menu) return;
+            const isOpen = menu.classList.contains('show');
+            if (isOpen) {
+                menu.classList.remove('show');
+                if (btn) btn.classList.remove('active');
+            } else {
+                menu.classList.add('show');
+                if (btn) btn.classList.add('active');
+            }
+        }
+
+        // Đóng menu khi click ra ngoài
+        document.addEventListener('click', function(e) {
+            const menu = document.getElementById('studioDropdownContent');
+            const btn = document.getElementById('studioMenuBtn');
+            if (menu && menu.classList.contains('show')) {
+                if (!menu.contains(e.target) && !btn.contains(e.target)) {
+                    menu.classList.remove('show');
+                    if (btn) btn.classList.remove('active');
+                }
+            }
+        });
+    
+    </script>
 </body>
 </html>
