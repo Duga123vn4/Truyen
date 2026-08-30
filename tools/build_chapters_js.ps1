@@ -109,11 +109,12 @@ foreach ($dir in $novelDirs) {
             }
 
             $content = Get-FileTextContent $file.FullName
-            $content = $content.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+            $content = $content.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
 
             [void]$sb.AppendLine("            {")
             [void]$sb.AppendLine("                " + $q + "ep" + $q + ": " + $ep + ",")
-            [void]$sb.AppendLine("                " + $q + "title" + $q + ": " + $q + $title.Replace($q, "" + $q) + $q + ",")
+            $escapedTitle = $title.Replace('"', '\"')
+            [void]$sb.AppendLine("                " + $q + "title" + $q + ": " + $q + $escapedTitle + $q + ",")
             [void]$sb.AppendLine("                " + $q + "content" + $q + ": " + $bt + $content + $bt)
             
             $cCount++
@@ -149,19 +150,19 @@ foreach ($dir in $novelDirs) {
 
     if (Test-Path $termsPath) {
         $glossaryTerms = [System.IO.File]::ReadAllText($termsPath, [System.Text.Encoding]::UTF8)
-        $glossaryTerms = $glossaryTerms.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryTerms = $glossaryTerms.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $charsPath) {
         $glossaryChars = [System.IO.File]::ReadAllText($charsPath, [System.Text.Encoding]::UTF8)
-        $glossaryChars = $glossaryChars.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryChars = $glossaryChars.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $eventsPath) {
         $glossaryEvents = [System.IO.File]::ReadAllText($eventsPath, [System.Text.Encoding]::UTF8)
-        $glossaryEvents = $glossaryEvents.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryEvents = $glossaryEvents.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $stylePath) {
         $styleGuide = [System.IO.File]::ReadAllText($stylePath, [System.Text.Encoding]::UTF8)
-        $styleGuide = $styleGuide.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $styleGuide = $styleGuide.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
 
     [void]$sb.AppendLine("        ],")

@@ -4682,7 +4682,7 @@ Mãi đến ngày khai giảng ngập tràn cánh hoa anh đào bay tại Học 
 92. Khi trùm cuối xuất hiện, chúng tôi sẵn sàng.
 93. ***
 
-*Lưu ý:* Nhiều thuật ngữ mới xuất hiện: **腐り沼 (Swamp of Decay)**, **High‑Zombie**, **Gậy Ngớ Ngẩn (Fool's Staff)**, **Skull of the Witch**, **Linh Vật Xương Sắp Sống**. Các thuật ngữ này đã được cập nhật trong `glossary/terms.md`.
+*Lưu ý:* Nhiều thuật ngữ mới xuất hiện: **腐り沼 (Swamp of Decay)**, **High‑Zombie**, **Gậy Ngớ Ngẩn (Fool's Staff)**, **Skull of the Witch**, **Linh Vật Xương Sắp Sống**. Các thuật ngữ này đã được cập nhật trong \`glossary/terms.md\`.
 
 ---
 
@@ -7881,7 +7881,7 @@ Thứ mà Yokomichi phóng ra... chính là một luồng điện giật kinh ho
 ---
 
 **Kỹ năng Nuốt Chửng (Predation Skill):**  
-`『Phát Điện Khí Quan』`: Cơ quan sản sinh ma lực hệ Lôi trong cơ thể.
+\`『Phát Điện Khí Quan』\`: Cơ quan sản sinh ma lực hệ Lôi trong cơ thể.
 
 ---
 
@@ -7934,7 +7934,7 @@ Trái ngược với tiếng gào thét man dại, đòn kết liễu nhắm và
 ---
 
 **Kỹ năng Nuốt Chửng (Predation Skill):**  
-`『Death Stalker Chi Độc Thương Vĩ』`: Chiếc đuôi độc mang độc tố thần kinh cực mạnh của loài Đại Bọ Cạp Death Stalker.
+\`『Death Stalker Chi Độc Thương Vĩ』\`: Chiếc đuôi độc mang độc tố thần kinh cực mạnh của loài Đại Bọ Cạp Death Stalker.
 
 ---
 
@@ -7995,8 +7995,8 @@ Giữa đường đi, vì quá đói và khát mà hắn đã mất đi lý trí
 ---
 
 **Kỹ năng Nuốt Chửng (Predation Skill):**  
-`『Ooyama Daisuke Chi Viêm Ma Pháp』`: Tái hiện toàn bộ ma pháp hệ Hỏa hạ cấp và một phần trung cấp.  
-`『Đại Sơn Lưu Viêm Quyền Thuật』`: Quyền thuật chiến đấu kết hợp các ma pháp cường hóa hệ Hỏa.
+\`『Ooyama Daisuke Chi Viêm Ma Pháp』\`: Tái hiện toàn bộ ma pháp hệ Hỏa hạ cấp và một phần trung cấp.  
+\`『Đại Sơn Lưu Viêm Quyền Thuật』\`: Quyền thuật chiến đấu kết hợp các ma pháp cường hóa hệ Hỏa.
 
 ---
 
@@ -8131,17 +8131,17 @@ Nhà tôi theo Thiền tông, nhưng lúc này thần thánh phương nào cũng
 
 ---
 
-`『Sai Khiến Tinh Linh Tí Hon』`:  
+\`『Sai Khiến Tinh Linh Tí Hon』\`:  
 *Vẫn còn là những đứa trẻ bé bỏng thơ ngây. Thế nhưng những đứa trẻ này luôn luôn ở ngay bên cạnh bạn đấy. Nào, hãy lắng tai nghe, bạn sẽ nghe thấy tiếng nói của tất cả mọi người.*
 
 ---
 
-`『Trận Pháp Triệu Hoán Tinh Linh』`:  
+\`『Trận Pháp Triệu Hoán Tinh Linh』\`:  
 *Chỉ cần bạn cất tiếng gọi, chúng sẽ tới bên bạn. Dẫu có cách xa muôn trùng, trái tim đôi bên vẫn luôn gắn kết.*
 
 ---
 
-`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』`:  
+\`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』\`:  
 *Dù chỉ một chút thôi, bạn đã có thể trò chuyện cùng nhau. Hãy dồn hết tâm tình mà cất tiếng gọi nhé. Tấm lòng của bạn, chắc chắn sẽ chạm tới đối phương.*
 
 ---
@@ -8503,29 +8503,29 @@ Chính vì vậy, nó hoàn toàn xứng đáng để tôi tự tay đánh bại
 
 **Kỹ năng Tự Luyện (習得スキル):**
 
-`『Vô Song Kiếm Vũ』 (Peerless Sword Dance / Vô Song Kiếm Vũ)`:  
+\`『Vô Song Kiếm Vũ』 (Peerless Sword Dance / Vô Song Kiếm Vũ)\`:  
 *Gia tăng cực đại tốc độ và đòn tấn công liên hoàn. Những đường kiếm trảm kích liên tiếp uyển chuyển như một điệu múa trác tuyệt, chém gục muôn vàn kẻ địch.*
 
-`『Thiên Lý Tật Khu』 (Thiên Lý Tật Khu / Thiên Lý Tật Khu)`:  
+\`『Thiên Lý Tật Khu』 (Thiên Lý Tật Khu / Thiên Lý Tật Khu)\`:  
 *Gia tăng cực đại tốc độ di chuyển. Phi nước đại vượt ngàn dặm xa, đạp bằng mọi nẻo đường hiểm trở.*
 
-`『Súc Địa』 (Shrinking Ground / 縮地)`:  
+\`『Súc Địa』 (Shrinking Ground / 縮地)\`:  
 *Võ kỹ cao cấp của võ thuật phái Souma (Souma-ryu). Rút ngắn khoảng cách trong chớp mắt mà không để đối phương kịp nhận thức, tạo ảo giác như mặt đất vừa co rút lại.*
 
-`『Thương Công Ba Động』 (Blue Merit Wave / Thương Công Ba Động)`:  
+\`『Thương Công Ba Động』 (Blue Merit Wave / Thương Công Ba Động)\`:  
 *Luồng hào quang ma lực mật độ cực cao, kết hợp giữa ma lực thuộc tính Quang hùng mạnh và sinh mệnh lực dồi dào của Dũng Giả.*
 
 ---
 
 **Kỹ năng Sao Chép (獲得スキル):**
 
-`『Thánh Huyết Đao Thân』 (Holy Blood Blade / 聖血刀身)`:  
+\`『Thánh Huyết Đao Thân』 (Holy Blood Blade / 聖血刀身)\`:  
 *Được giải phóng bởi một giọt máu thiêng liêng, ban phát năng lực thanh tẩy cực mạnh lên thân lưỡi đao.*
 
-`『Đa Trọng Liên Tỏa Triệu Hoán Trận』 (Multi-Chain Summoning Circle / Đa Trùng Liên Tỏa Triệu Hoán Trận)`:  
+\`『Đa Trọng Liên Tỏa Triệu Hoán Trận』 (Multi-Chain Summoning Circle / Đa Trùng Liên Tỏa Triệu Hoán Trận)\`:  
 *Ma pháp trận chuyên dụng để triệu hồi tinh linh hạ cấp. Có thể triển khai hàng loạt ma pháp trận cùng lúc để triệu hồi và sai khiến một số lượng lớn tinh linh hạ cấp.*
 
-`『Bạch Ảnh Thương』 (White Shadow Spear / 白影槍)`:  
+\`『Bạch Ảnh Thương』 (White Shadow Spear / 白影槍)\`:  
 *Vật chất hóa ma lực thuộc tính Quang thành những ngọn thương màu trắng sắc bén. Có thể tùy ý đâm lên từ bất kỳ vị trí nào mà ánh sáng của bản thân chiếu rọi.*
 
 ---
@@ -9460,7 +9460,7 @@ Kiếm không thèm rút khỏi vỏ. Thế nhưng cậu ta tuyệt đối khôn
 ---
 
 **Kỹ năng Tự Luyện (習得スキル):**  
-`『Thể Băng』 (Body Collapse / Thể Băng)`: Tuyệt kỹ căn bản trong cận chiến của võ thuật phái Souma. Tóm bắt, phá vỡ trọng tâm đối thủ, và quật ngã xuống đất.
+\`『Thể Băng』 (Body Collapse / Thể Băng)\`: Tuyệt kỹ căn bản trong cận chiến của võ thuật phái Souma. Tóm bắt, phá vỡ trọng tâm đối thủ, và quật ngã xuống đất.
 
 ---
 
@@ -13491,7 +13491,7 @@ Chẳng lẽ cứ thế ấn thẳng vào vết thương sao? Đúng lúc tôi t
 Chiếc lá đột nhiên phát ra ánh sáng chói lọi. Trong luồng sáng xanh lá rực rỡ ấy, tôi như nhìn thấy hình ảnh những nhân vật hình que trong ảo giác khi nãy đang đồng loạt lao thẳng vào vết thương của Kinako.
 
 Kỹ năng đã học:  
-`『Tinh Linh Dược Hiệu』`: Nhận được sự trợ lực từ các Tinh linh Thảo mộc.
+\`『Tinh Linh Dược Hiệu』\`: Nhận được sự trợ lực từ các Tinh linh Thảo mộc.
 
 Một dòng thông báo chợt xuất hiện trong tâm trí tôi. Trước khi kịp hiểu ý nghĩa của nó là gì, tôi đã được tận mắt chứng kiến kết quả kỳ diệu mà chiếc lá phát sáng mang lại.
 
@@ -14183,7 +14183,7 @@ Nakai và Yamada cũng lần lượt cầm vũ khí lên chuẩn bị nghênh ch
 
 Vừa dứt lời, bóng dáng của Yuuto liền biến mất — không, đúng hơn là trông cậu ta như thể vừa tan biến vào hư không.
 
-`『Súc Địa』`: Cao đẳng võ kỹ của phái võ thuật Souma. Chiêu thức này giúp thu hẹp khoảng cách với đối thủ mà không để lộ bất kỳ sơ hở nào, tạo ra ảo giác như thể mặt đất dưới chân đang co rút lại.
+\`『Súc Địa』\`: Cao đẳng võ kỹ của phái võ thuật Souma. Chiêu thức này giúp thu hẹp khoảng cách với đối thủ mà không để lộ bất kỳ sơ hở nào, tạo ra ảo giác như thể mặt đất dưới chân đang co rút lại.
 
 Di chuyển với tốc độ thần sầu không khác gì dịch chuyển tức thời, cả các đồng đội lẫn lũ Người Sói đều không thể bắt kịp bóng hình của Yuuto.
 
@@ -14199,21 +14199,21 @@ Từ trên mái nhà, hai con Người Sói khác đồng loạt lao xuống v�
 
 “Khoảng cách này thì vẫn vừa vặn chạm tới.”
 
-`『Thánh Huyết Đao Thân』`: Kỹ năng giải phóng một giọt thánh huyết từ dòng máu thiêng liêng, ban phát năng lực thanh tẩy cực mạnh lên thân kiếm.
+\`『Thánh Huyết Đao Thân』\`: Kỹ năng giải phóng một giọt thánh huyết từ dòng máu thiêng liêng, ban phát năng lực thanh tẩy cực mạnh lên thân kiếm.
 
-Đây vốn là chiêu thức hóa máu thành lưỡi kiếm để kéo dài thân đao mà Dracula — Boss của Phố Hắc Ám — thường hay sử dụng. Khi được chuyển hóa thành kỹ năng của Thiên Chức 『Dũng Giả』, `『Thánh Huyết Đao Thân』` không dùng máu nữa mà tạo ra một lưỡi kiếm kéo dài bằng ma lực ánh sáng rực rỡ — *Xoẹt!* Một nhát chém ngọt lịm giữa không trung đã chẻ đôi cả hai con Người Sói cùng một lúc.
+Đây vốn là chiêu thức hóa máu thành lưỡi kiếm để kéo dài thân đao mà Dracula — Boss của Phố Hắc Ám — thường hay sử dụng. Khi được chuyển hóa thành kỹ năng của Thiên Chức 『Dũng Giả』, \`『Thánh Huyết Đao Thân』\` không dùng máu nữa mà tạo ra một lưỡi kiếm kéo dài bằng ma lực ánh sáng rực rỡ — *Xoẹt!* Một nhát chém ngọt lịm giữa không trung đã chẻ đôi cả hai con Người Sói cùng một lúc.
 
 “Vậy là chỉ còn con phía sau thôi nhỉ.”
 
 Nhìn lại, ngay trên con đường phía sau, một con Người Sói đang điên cuồng lao thẳng về phía Mari.
 
-Quả thực, dù là `『Thánh Huyết Đao Thân』` thì cũng không thể vươn tới khoảng cách vài chục mét ở phía sau khi bị vướng các đồng đội ở giữa. Nếu dùng các ma pháp tấn công tầm xa khác thì đồng đội lại nằm ngay trên đường đạn.
+Quả thực, dù là \`『Thánh Huyết Đao Thân』\` thì cũng không thể vươn tới khoảng cách vài chục mét ở phía sau khi bị vướng các đồng đội ở giữa. Nếu dùng các ma pháp tấn công tầm xa khác thì đồng đội lại nằm ngay trên đường đạn.
 
 Yuuto định bụng sẽ để mặc cho Mari tự giải quyết... Thế nhưng, dù cô ấy có sở hữu Thiên Chức 『Chiến Binh』 đi chăng nữa, việc chỉ đứng nhìn tấm lưng của một cô gái đang thủ thế vũ khí vẫn mang lại cho cậu một cảm giác bất an khó tả.
 
 “...Thử chiêu này xem sao.”
 
-`『Bạch Ảnh Thương』`: Vật chất hóa ma lực thuộc tính Quang để tạo ra những ngọn thương màu trắng. Người sử dụng có thể tùy ý cho thương đâm lên từ bất kỳ vị trí nào mà ánh sáng của bản thân chiếu rọi tới.
+\`『Bạch Ảnh Thương』\`: Vật chất hóa ma lực thuộc tính Quang để tạo ra những ngọn thương màu trắng. Người sử dụng có thể tùy ý cho thương đâm lên từ bất kỳ vị trí nào mà ánh sáng của bản thân chiếu rọi tới.
 
 Sau một thoáng ngập ngừng, Yuuto kích hoạt ma pháp.
 
@@ -15156,45 +15156,45 @@ Người vượt qua được nỗi đau từ cái chết của Yama-Jun không 
 
 Đã vài ngày trôi qua kể từ khi tôi giao nhiệm vụ phụ “thu thập nguyên liệu ma vật” — thực chất là thám hiểm — cho mọi người. Nhờ sự nỗ lực của cả tập thể, nguyên liệu được gom về vô cùng thuận lợi, giúp chúng tôi trang bị cho tất cả thành viên những món vũ khí do chính tay 『Hiền Giả』 chế tạo.
 
-`『Ngân Thiết Kiếm』`: Hình dáng nguyên bản của cây trường kiếm hoen rỉ. Lưỡi kiếm màu bạc thực chất là một loại hợp kim trông giống như bạc. Độ cứng của nó tương đương với thép thông thường, nhưng lại có khả năng gia tăng hiệu quả ma pháp. Nhờ ma pháp trận `『Sắc Bén』` được khắc trên thân, thanh kiếm sở hữu độ bén cực kỳ đáng nể.
+\`『Ngân Thiết Kiếm』\`: Hình dáng nguyên bản của cây trường kiếm hoen rỉ. Lưỡi kiếm màu bạc thực chất là một loại hợp kim trông giống như bạc. Độ cứng của nó tương đương với thép thông thường, nhưng lại có khả năng gia tăng hiệu quả ma pháp. Nhờ ma pháp trận \`『Sắc Bén』\` được khắc trên thân, thanh kiếm sở hữu độ bén cực kỳ đáng nể.
 
-`『Red Axe』`: Rìu chiến hệ Hỏa, cùng dòng với chiếc `『Dao Đỏ』` mà tôi vẫn luôn ưa dùng. Tuy nhiên, hỏa lực của món này vượt trội hơn hẳn và hoàn toàn đủ chuẩn để đưa vào thực chiến. Nó được chế tạo bằng cách dồn toàn bộ `『Quang Thạch hệ Hỏa』` có được vào cây đại rìu đẫm máu thu hoạch từ `Kị Sĩ Người Sói`.
+\`『Red Axe』\`: Rìu chiến hệ Hỏa, cùng dòng với chiếc \`『Dao Đỏ』\` mà tôi vẫn luôn ưa dùng. Tuy nhiên, hỏa lực của món này vượt trội hơn hẳn và hoàn toàn đủ chuẩn để đưa vào thực chiến. Nó được chế tạo bằng cách dồn toàn bộ \`『Quang Thạch hệ Hỏa』\` có được vào cây đại rìu đẫm máu thu hoạch từ \`Kị Sĩ Người Sói\`.
 
-`『Hắc Thiết Đại Phủ』`: Cây đại rìu được rèn từ loại kim loại nặng và cứng giống hệt như cây halberd của Mei. Dù không mang bất kỳ hiệu ứng ma pháp nào, nhưng sức tàn phá và độ bền bỉ của nó hoàn toàn có thể chịu đựng được phong cách chiến đấu dũng mãnh của một Chiến Binh. Món này được luyện thành từ vũ khí tịch thu của `Living Armor` phát hiện ở Thị Trấn Di Tích.
+\`『Hắc Thiết Đại Phủ』\`: Cây đại rìu được rèn từ loại kim loại nặng và cứng giống hệt như cây halberd của Mei. Dù không mang bất kỳ hiệu ứng ma pháp nào, nhưng sức tàn phá và độ bền bỉ của nó hoàn toàn có thể chịu đựng được phong cách chiến đấu dũng mãnh của một Chiến Binh. Món này được luyện thành từ vũ khí tịch thu của \`Living Armor\` phát hiện ở Thị Trấn Di Tích.
 
-`『Cool Cutlass』`: Thanh mã tấu hệ Băng, được cải tiến từ chiếc dao găm thượng hạng của `Jazeera` bằng cách sử dụng toàn bộ `『Quang Thạch hệ Băng』` thu thập được, kết hợp với sự trợ giúp của Lớp trưởng. Lưỡi kiếm một cạnh hơi ngắn, độ bén chỉ ở mức trung bình nhưng sức mạnh ma pháp của nó lại vượt trội hơn cả `『Red Axe』`. Tùy thuộc vào người sử dụng, nó thậm chí có thể thi triển được cả Băng ma thuật hạ cấp.
+\`『Cool Cutlass』\`: Thanh mã tấu hệ Băng, được cải tiến từ chiếc dao găm thượng hạng của \`Jazeera\` bằng cách sử dụng toàn bộ \`『Quang Thạch hệ Băng』\` thu thập được, kết hợp với sự trợ giúp của Lớp trưởng. Lưỡi kiếm một cạnh hơi ngắn, độ bén chỉ ở mức trung bình nhưng sức mạnh ma pháp của nó lại vượt trội hơn cả \`『Red Axe』\`. Tùy thuộc vào người sử dụng, nó thậm chí có thể thi triển được cả Băng ma thuật hạ cấp.
 
-Những món vũ khí này lần lượt được phân phát cho các thành viên: Ueta trang bị `『Ngân Thiết Kiếm』`, Nakai nhận `『Red Axe』`, Yamada sở hữu `『Hắc Thiết Đại Phủ』`, và Nakajima sử dụng `『Cool Cutlass』`.
+Những món vũ khí này lần lượt được phân phát cho các thành viên: Ueta trang bị \`『Ngân Thiết Kiếm』\`, Nakai nhận \`『Red Axe』\`, Yamada sở hữu \`『Hắc Thiết Đại Phủ』\`, và Nakajima sử dụng \`『Cool Cutlass』\`.
 
 Trong lớp hiện tại, vũ khí của bốn người này là nghèo nàn nhất, vì vậy tôi đã ưu tiên xóa bỏ khoảng cách trang bị này trước tiên.
 
-Chiến trường là một nơi khốc liệt, kẻ yếu sẽ là những người ngã xuống đầu tiên. Huống chi, so với Souma, họ yếu hơn rất nhiều. Đã như vậy mà trang bị còn thiếu thốn thì ngay cả trong những trận đụng độ quái vật tép riu, họ cũng dễ dàng gặp nguy hiểm. Chính tôi cũng từng suýt chết dưới tay Xích `Raptor` đấy thôi.
+Chiến trường là một nơi khốc liệt, kẻ yếu sẽ là những người ngã xuống đầu tiên. Huống chi, so với Souma, họ yếu hơn rất nhiều. Đã như vậy mà trang bị còn thiếu thốn thì ngay cả trong những trận đụng độ quái vật tép riu, họ cũng dễ dàng gặp nguy hiểm. Chính tôi cũng từng suýt chết dưới tay Xích \`Raptor\` đấy thôi.
 
-Hơn nữa, nếu muốn nâng cấp vũ khí chính cho nhóm Souma — những người vốn đã sở hữu trang bị luyện thành thuộc hàng top hiện tại — chúng tôi sẽ cần những nguyên liệu được chọn lọc kỹ càng hơn cùng một lượng `Lõi Ma Vật` khổng lồ. Việc đó chắc chắn sẽ ngốn rất nhiều thời gian. Thay vào đó, gom góp chế tạo những món vũ khí luyện thành có chỉ số ổn định một cách nhanh chóng sẽ hiệu quả hơn nhiều. Nâng cấp đồng đều trang bị của mọi người ngay lập tức mới là thượng sách.
+Hơn nữa, nếu muốn nâng cấp vũ khí chính cho nhóm Souma — những người vốn đã sở hữu trang bị luyện thành thuộc hàng top hiện tại — chúng tôi sẽ cần những nguyên liệu được chọn lọc kỹ càng hơn cùng một lượng \`Lõi Ma Vật\` khổng lồ. Việc đó chắc chắn sẽ ngốn rất nhiều thời gian. Thay vào đó, gom góp chế tạo những món vũ khí luyện thành có chỉ số ổn định một cách nhanh chóng sẽ hiệu quả hơn nhiều. Nâng cấp đồng đều trang bị của mọi người ngay lập tức mới là thượng sách.
 
 Bốn người họ rõ ràng là vô cùng vui sướng khi nhận được món vũ khí mới có hiệu năng vượt trội hơn hẳn đồ cũ. Điểm uy tín của tôi — người đứng ra phân phát — cũng nhờ thế mà tăng vọt, đúng là một mũi tên trúng hai đích.
 
 Nếu phải chỉ ra một điểm trừ, thì đó là việc Takanashi trông chẳng có chút động lực nào. Nếu không phải là trang bị cho Souma yêu dấu hay những người bạn thân thiết của cô ta, cô ta sẽ chẳng thèm dồn chút tâm huyết nào vào công việc.
 
-Theo tính toán của tôi, nếu Takanashi thực sự nghiêm túc, đáng lẽ giờ này chúng tôi đã có cả giáp trụ, `Potion` và vài món vật phẩm ma pháp thử nghiệm khác rồi. Thế mà đến nay mới chỉ có bốn món vũ khí được hoàn thành, rõ ràng là cô ta đang làm việc kiểu đối phó. Này Takanashi, tôi thừa biết lượng ma lực của cô vẫn còn dư dả nhé. Đừng có giả vờ cạn kiệt ma lực để trốn việc.
+Theo tính toán của tôi, nếu Takanashi thực sự nghiêm túc, đáng lẽ giờ này chúng tôi đã có cả giáp trụ, \`Potion\` và vài món vật phẩm ma pháp thử nghiệm khác rồi. Thế mà đến nay mới chỉ có bốn món vũ khí được hoàn thành, rõ ràng là cô ta đang làm việc kiểu đối phó. Này Takanashi, tôi thừa biết lượng ma lực của cô vẫn còn dư dả nhé. Đừng có giả vờ cạn kiệt ma lực để trốn việc.
 
 Có lẽ sắp tới tôi phải cho cô nàng này một bài học chỉnh đốn tinh thần mới được.
 
 “Này, Momokawa ơi... Tớ cũng muốn có một cây gậy phép lắm rồi đây này...”
 
-“Xin lỗi nhé Shimokawa-kun, lượng `『Quang Thạch hệ Thủy』` thu thập được ít quá, hiện tại vẫn chưa đủ để làm gậy phép đâu.”
+“Xin lỗi nhé Shimokawa-kun, lượng \`『Quang Thạch hệ Thủy』\` thu thập được ít quá, hiện tại vẫn chưa đủ để làm gậy phép đâu.”
 
 Nhìn Shimokawa lộ rõ vẻ tiếc nuối và lầm bầm thở dài, ừ thì, tôi cũng thấy hơi áy náy thật.
 
-Gậy ma pháp là món đồ có tỷ lệ rơi cực kỳ thấp. Họa hoằn lắm mới có một con `Living Armor` hệ ma thuật sở hữu nó, hoặc may mắn lắm mới tìm thấy trong `Rương Kho Báu`.
+Gậy ma pháp là món đồ có tỷ lệ rơi cực kỳ thấp. Họa hoằn lắm mới có một con \`Living Armor\` hệ ma thuật sở hữu nó, hoặc may mắn lắm mới tìm thấy trong \`Rương Kho Báu\`.
 
-Dù đội thám hiểm số một của Souma đã tìm thấy vài `Rương Kho Báu` ở Phố Hắc Ám, nhưng bên trong hầu hết chỉ toàn là `Potion` hoặc trang sức ma pháp thông thường. Chưa có món nào sở hữu hiệu ứng thực sự bá đạo xuất hiện cả.
+Dù đội thám hiểm số một của Souma đã tìm thấy vài \`Rương Kho Báu\` ở Phố Hắc Ám, nhưng bên trong hầu hết chỉ toàn là \`Potion\` hoặc trang sức ma pháp thông thường. Chưa có món nào sở hữu hiệu ứng thực sự bá đạo xuất hiện cả.
 
-Tuy nhiên, nghe nói nếu có đủ số lượng `『Quang Thạch』` thì vẫn có thể tự chế tạo gậy phép. Cứ tiếp tục thu thập nguyên liệu thế này, ngày sở hữu gậy phép cho `『Thủy Ma Thuật Sư』` sẽ không còn xa. Dĩ nhiên, đó là với điều kiện Takanashi chịu hợp tác làm việc.
+Tuy nhiên, nghe nói nếu có đủ số lượng \`『Quang Thạch』\` thì vẫn có thể tự chế tạo gậy phép. Cứ tiếp tục thu thập nguyên liệu thế này, ngày sở hữu gậy phép cho \`『Thủy Ma Thuật Sư』\` sẽ không còn xa. Dĩ nhiên, đó là với điều kiện Takanashi chịu hợp tác làm việc.
 
 “Được rồi, mọi người chú ý một chút nào!”
 
-Hiện tại đang là giờ ăn tối, tất cả thành viên đều đang tập trung tại nhà ăn ở `Quảng Trường Tinh Linh`.
+Hiện tại đang là giờ ăn tối, tất cả thành viên đều đang tập trung tại nhà ăn ở \`Quảng Trường Tinh Linh\`.
 
 Nhờ tôi cặm cụi đóng bàn đóng ghế suốt thời gian qua, một chiếc bàn tròn khổng lồ đã được dựng lên ngay bên cạnh đài phun nước. Tiếc là tôi không thể chế tạo được phần mâm xoay ở giữa giống như trong các nhà hàng Trung Hoa, nhưng ít ra cả lớp đã có chỗ ngồi quây quần đàng hoàng.
 
@@ -15206,11 +15206,11 @@ Cho đến nay, để phục vụ cho việc thu thập nguyên liệu, chúng t
 
 Xét về độ khó giữa Đảo Hoang Ven Biển và Phố Hắc Ám, Phố Hắc Ám rõ ràng là khó nhằn hơn hẳn. Nếu khoảng cách độ khó cứ tăng tiến như vậy, và khu vực sa mạc lại còn khắc nghiệt hơn cả Phố Hắc Ám, thì đó có thể sẽ là một thử thách cực kỳ cam go.
 
-Chúng tôi không hề liều lĩnh hay thiếu kế hoạch đến mức đâm đầu vào sa mạc ngay từ ngày đầu tiên, khi mà việc vận hành căn cứ `Học Viện Tháp` còn chưa đi vào ổn định.
+Chúng tôi không hề liều lĩnh hay thiếu kế hoạch đến mức đâm đầu vào sa mạc ngay từ ngày đầu tiên, khi mà việc vận hành căn cứ \`Học Viện Tháp\` còn chưa đi vào ổn định.
 
 Thế nhưng, đến thời điểm này, việc đi thám thính tình hình một chút là hoàn toàn hợp lý.
 
-Biết đâu ở đó lại ẩn giấu món bảo vật nào đó giúp ích cho việc thảo phạt `Yamata no Orochi` thì sao.
+Biết đâu ở đó lại ẩn giấu món bảo vật nào đó giúp ích cho việc thảo phạt \`Yamata no Orochi\` thì sao.
 
 “Ừm, tớ thấy ý kiến đó được đấy.”
 
@@ -15242,9 +15242,9 @@ Và sau đây, tôi xin phép được công bố đội hình tối thượng m
 
 Ái chà, bởi vì nếu cho Sakura vào, đến lúc dầu sôi lửa bỏng cô ta chắc chắn sẽ mè nheo gây rối chứ sao? Nghĩ đến thôi đã thấy phiền phức rồi.
 
-Dù ma pháp trị liệu của Thiên Chức `『Thánh Nữ』` là một phương án bảo hiểm cực kỳ tuyệt vời, nhưng tính cách của vị Thánh Nữ này lại là một điểm trừ lớn. So với việc đối phó với nguy cơ bất ngờ, khả năng xảy ra rắc rối nội bộ do sự bướng bỉnh của cô ta mang lại có tỷ lệ cao hơn nhiều.
+Dù ma pháp trị liệu của Thiên Chức \`『Thánh Nữ』\` là một phương án bảo hiểm cực kỳ tuyệt vời, nhưng tính cách của vị Thánh Nữ này lại là một điểm trừ lớn. So với việc đối phó với nguy cơ bất ngờ, khả năng xảy ra rắc rối nội bộ do sự bướng bỉnh của cô ta mang lại có tỷ lệ cao hơn nhiều.
 
-“Vì đây là khu vực mới, chúng ta bắt buộc phải có `『Đạo Tặc』` Natsukawa-san, người có khả năng dò đường và phát hiện, tháo gỡ bẫy cực tốt. Nếu tăng lên 7 người thì đội hình sẽ quá cồng kềnh, dễ thu hút những con ma vật mạnh mẽ kéo đến.”
+“Vì đây là khu vực mới, chúng ta bắt buộc phải có \`『Đạo Tặc』\` Natsukawa-san, người có khả năng dò đường và phát hiện, tháo gỡ bẫy cực tốt. Nếu tăng lên 7 người thì đội hình sẽ quá cồng kềnh, dễ thu hút những con ma vật mạnh mẽ kéo đến.”
 
 Tóm lại là: Không có chỗ cho cô đâu!
 
@@ -15274,7 +15274,7 @@ Cậu ta sở hữu phong cách tự do là có thể từ chối hợp tác ch�
 
 Tôi cứ ngỡ cô ấy đang trêu chọc một người yếu sức như tôi mà cũng đòi bon chen vào đội hình khai phá khu vực mới. Bản thân tôi tự ý thức được năng lực của mình mà.
 
-“Vì đây là khu vực lần đầu tiên chúng ta đặt chân đến, tôi muốn tự mắt mình kiểm chứng xem có thứ gì có thể tận dụng được hay không. Thực ra nếu để Takanashi-san sử dụng `『Ma Lực Giải Tích』` đi thay cũng được, nhưng mà...”
+“Vì đây là khu vực lần đầu tiên chúng ta đặt chân đến, tôi muốn tự mắt mình kiểm chứng xem có thứ gì có thể tận dụng được hay không. Thực ra nếu để Takanashi-san sử dụng \`『Ma Lực Giải Tích』\` đi thay cũng được, nhưng mà...”
 
 *Liếc.*
 
@@ -15396,7 +15396,7 @@ Sau khi xác nhận an toàn, chúng tôi bước xuống lối cầu thang dài
 
 “Đúng là có một nơi như thế thật. Nghĩ lại thấy nhớ ghê.”
 
-Nơi mà chúng tôi cứ ngỡ Boss là `Rook Spider` thì bỗng dưng có một con quái vật khác nhảy ra ngáng đường, rồi sau đó cả nhóm sập bẫy `Monster House`, nếu không có Souma xuất hiện ứng cứu kịp thời thì có lẽ chúng tôi đã bỏ mạng ở nơi đó rồi. Nhưng cuối cùng, vì sự cố đẩy người của `Asuna` xảy ra ngay sau đó mà ấn tượng về nơi này đã hoàn toàn bị lu mờ.
+Nơi mà chúng tôi cứ ngỡ Boss là \`Rook Spider\` thì bỗng dưng có một con quái vật khác nhảy ra ngáng đường, rồi sau đó cả nhóm sập bẫy \`Monster House\`, nếu không có Souma xuất hiện ứng cứu kịp thời thì có lẽ chúng tôi đã bỏ mạng ở nơi đó rồi. Nhưng cuối cùng, vì sự cố đẩy người của \`Asuna\` xảy ra ngay sau đó mà ấn tượng về nơi này đã hoàn toàn bị lu mờ.
 
 “Nhưng nơi này rõ ràng là có sự can thiệp của con người. Đây không giống như một hang động do ma vật đào ra chút nào.”
 
@@ -15414,7 +15414,7 @@ Men theo những vách đá gồ ghề lộ thiên, thỉnh thoảng lại xuấ
 
 Natsukawa đưa mắt hỏi ý kiến tôi trong im lặng.
 
-“Nhưng chắc chắn là không thể bằng `Yamata no Orochi` đúng không?”
+“Nhưng chắc chắn là không thể bằng \`Yamata no Orochi\` đúng không?”
 
 “Chuyện đó... thì tất nhiên là không rồi.”
 
@@ -15464,17 +15464,17 @@ Nó sở hữu thân hình nhân dạng khổng lồ ngang ngửa với Goliath,
 
 Và lý do khiến nó trông như đang phát sáng lấp lánh một cách tự nhiên không phải vì bản thân da thịt nó phát quang, mà là vì toàn thân nó được bao bọc bởi một lớp ngoại cốt cách có chất liệu như pha lê. Dưới ánh sáng của những tấm bảng phát quang lớn chiếu sáng khoảng sân, lớp vỏ tinh thể của nó phản chiếu ánh sáng lấp lánh như một lăng kính sắc màu.
 
-Con Minotaur pha lê có ngoại hình vô cùng lộng lẫy này, gọi tắt là `『Christaur』`, đang gục mặt vào vách hang đá và gặm nhấm một cách ngon lành.
+Con Minotaur pha lê có ngoại hình vô cùng lộng lẫy này, gọi tắt là \`『Christaur』\`, đang gục mặt vào vách hang đá và gặm nhấm một cách ngon lành.
 
 Đúng vậy, nó không hề ăn thịt của loài động vật nào hay gặm cỏ dưới đất, mà đang ngoạm trực tiếp vào vách đá lộ thiên. Cái gì thế kia, vách đá đó ngon đến thế cơ à? Vị gì vậy nhỉ?
 
-“...Ra là vậy, con quái này đang ăn `『Quang Thạch』`.”
+“...Ra là vậy, con quái này đang ăn \`『Quang Thạch』\`.”
 
-Dù ánh mắt dễ bị thu hút bởi vẻ ngoài nổi bật của `『Christaur』`, nhưng nếu nhìn lướt qua vách đá xung quanh khoảng sân, có thể nhận ra trên bề mặt đá có vô số những viên đá lấp lánh như bầu trời đầy sao. Đó không phải là ánh sáng nhân tạo, mà là ánh sáng tự nhiên.
+Dù ánh mắt dễ bị thu hút bởi vẻ ngoài nổi bật của \`『Christaur』\`, nhưng nếu nhìn lướt qua vách đá xung quanh khoảng sân, có thể nhận ra trên bề mặt đá có vô số những viên đá lấp lánh như bầu trời đầy sao. Đó không phải là ánh sáng nhân tạo, mà là ánh sáng tự nhiên.
 
-Những sắc màu đỏ, xanh, vàng lấp lánh rực rỡ kia chắc chắn chính là `『Quang Thạch』` — loại đá ẩn chứa ma lực mà chúng tôi đã quá quen thuộc trong các đợt thu hoạch gần đây.
+Những sắc màu đỏ, xanh, vàng lấp lánh rực rỡ kia chắc chắn chính là \`『Quang Thạch』\` — loại đá ẩn chứa ma lực mà chúng tôi đã quá quen thuộc trong các đợt thu hoạch gần đây.
 
-Và con `『Christaur』` này đang gặm nhấm những viên `『Quang Thạch』` găm trên vách đá.
+Và con \`『Christaur』\` này đang gặm nhấm những viên \`『Quang Thạch』\` găm trên vách đá.
 
 “Này, nhật ký quan sát ma vật của mày đã xong chưa thế?”
 
@@ -15482,15 +15482,15 @@ Và con `『Christaur』` này đang gặm nhấm những viên `『Quang Thạc
 
 “Được rồi, để tôi giải quyết nó nhanh gọn cho.”
 
-Từ ma pháp trận hoàng kim, Tendou rút ra `『Vương Kiếm Zamd』`. Luồng ma lực đậm đặc tỏa ra mạnh mẽ đến mức ngay cả tôi cũng có thể cảm nhận rõ ràng, cho thấy cậu ta đang vô cùng hăng hái trước một con mồi ra trò thế này.
+Từ ma pháp trận hoàng kim, Tendou rút ra \`『Vương Kiếm Zamd』\`. Luồng ma lực đậm đặc tỏa ra mạnh mẽ đến mức ngay cả tôi cũng có thể cảm nhận rõ ràng, cho thấy cậu ta đang vô cùng hăng hái trước một con mồi ra trò thế này.
 
-Sát khí hừng hực của cậu ta cuối cùng cũng đã đánh động đến con `『Christaur』` đang mải mê ăn uống.
+Sát khí hừng hực của cậu ta cuối cùng cũng đã đánh động đến con \`『Christaur』\` đang mải mê ăn uống.
 
-Sự hiện diện đồng thời của `『Dũng Giả』`, `『Vương』` và `『Cuồng Chiến Binh』`. Khi bị cả ba người tỏa ra sát khí nồng nặc nhắm vào, ngay cả con ma vật chậm chạp nhất cũng phải nhận ra tình hình.
+Sự hiện diện đồng thời của \`『Dũng Giả』\`, \`『Vương』\` và \`『Cuồng Chiến Binh』\`. Khi bị cả ba người tỏa ra sát khí nồng nặc nhắm vào, ngay cả con ma vật chậm chạp nhất cũng phải nhận ra tình hình.
 
 “Phù... Gừ gừ gừ, BUMỒỒỒỒỒỒỒỒỒỒ!”
 
-Con `『Christaur』` quay người lại, đôi mắt đỏ rực như hồng ngọc lóe sáng, nó gầm lên một tiếng vang dội làm rung chuyển cả hang động.
+Con \`『Christaur』\` quay người lại, đôi mắt đỏ rực như hồng ngọc lóe sáng, nó gầm lên một tiếng vang dội làm rung chuyển cả hang động.
 
 Và tiếng gầm đó chính là tiếng chuông báo hiệu trận chiến bắt đầu.`
             },
@@ -15829,7 +15829,7 @@ Nhìn chung, các bạn học dường như đã hoàn toàn thích nghi với c
 
 Nếu phải chỉ ra vấn đề, thì đó là việc chúng tôi vẫn chưa nghĩ ra cách đối phó triệt để với Yamata no Orochi, và tiến độ công việc của Takanashi còn hơi chậm chạp.
 
-Về phần Yamata no Orochi, kể từ ngày đầu tiên đặt chân đến đây, tôi đã liên tục giám sát nó bằng `『Phân Thân』`, nhưng điều đáng ngạc nhiên là nó hầu như không hề cử động.
+Về phần Yamata no Orochi, kể từ ngày đầu tiên đặt chân đến đây, tôi đã liên tục giám sát nó bằng \`『Phân Thân』\`, nhưng điều đáng ngạc nhiên là nó hầu như không hề cử động.
 
 Bất kể ngày hay đêm, Orochi chỉ ru rú trong núi đá. Trừ khi có kẻ địch bên ngoài như chúng tôi tiếp cận, bằng không nó tuyệt đối sẽ không lộ diện.
 
@@ -15961,7 +15961,7 @@ Lần phân chia lực lượng này không cần phải cân nhắc quá nhiề
 
 Đội hái lượm gồm bộ ba Jou-Chuu-Ge, Yamada, Nakajima và Himeno, toàn là những thành viên cũ từng đi chung với nhau.
 
-Mặt khác, đội tìm kiếm tổ ong gồm anh em nhà Souma, Lớp trưởng, Natsukawa, Kenzaki, Mei và phân thân của tôi thông qua `『Phân Thân』`.
+Mặt khác, đội tìm kiếm tổ ong gồm anh em nhà Souma, Lớp trưởng, Natsukawa, Kenzaki, Mei và phân thân của tôi thông qua \`『Phân Thân』\`.
 
 Tôi chẳng dại gì mà đi cùng nhóm này bằng cơ thể thật đâu. Phải đề phòng trường hợp bất trắc chứ, đúng không?
 
@@ -15975,7 +15975,7 @@ Thật là, cứ hở ra một chút là mấy người đó lại—— Ực...
 
 Hoàn toàn không có chút ăn năn nào.
 
-Bản thể của tôi đang nằm đung đưa trên chiếc võng ở Quảng Trường Tinh Linh như đang ngủ trưa để điều khiển `『Phân Thân』`, nhưng lại bị cô nàng gyaru rảnh rỗi này đến quấy rối. Nếu tôi đang ở trong trận chiến thì tính sao đây? Mặc dù với đội hình kia thì phân thân của tôi cũng chẳng đóng góp được gì nhiều.
+Bản thể của tôi đang nằm đung đưa trên chiếc võng ở Quảng Trường Tinh Linh như đang ngủ trưa để điều khiển \`『Phân Thân』\`, nhưng lại bị cô nàng gyaru rảnh rỗi này đến quấy rối. Nếu tôi đang ở trong trận chiến thì tính sao đây? Mặc dù với đội hình kia thì phân thân của tôi cũng chẳng đóng góp được gì nhiều.
 
 “Kotarou-kun, có chuyện gì thế?”
 
@@ -15997,7 +15997,7 @@ Con Alpha mà tôi đang cưỡi kêu lên một tiếng, như muốn báo cáo 
 
 “Ừm, với tình hình này, tớ nghĩ nó đã tìm thấy tổ ong rồi.”
 
-Lần này, để tìm kiếm những tổ ong không rõ vị trí, tôi đã sử dụng `『Đồng Điệu Ba Động』` sau một thời gian dài để thuần phục một chú chim hoang dã. Tất nhiên, tôi để con chim Rem làm chỉ huy dẫn dắt nó, rồi thả chúng bay vào khu rừng rộng lớn bao phủ khu vực Đảo Hoang Ven Biển này.
+Lần này, để tìm kiếm những tổ ong không rõ vị trí, tôi đã sử dụng \`『Đồng Điệu Ba Động』\` sau một thời gian dài để thuần phục một chú chim hoang dã. Tất nhiên, tôi để con chim Rem làm chỉ huy dẫn dắt nó, rồi thả chúng bay vào khu rừng rộng lớn bao phủ khu vực Đảo Hoang Ven Biển này.
 
 Khả năng dò tìm của Natsukawa tuy rất cừ, nhưng suy cho cùng cũng chỉ là năng lực cảm nhận của một người. Nếu muốn tìm kiếm trên phạm vi rộng, cô ấy không thể nào bì kịp tính cơ động và tầm nhìn của loài chim bay trên bầu trời.
 
@@ -16073,7 +16073,7 @@ Tôi cũng đâu có ý định dấn thân vào ngành nuôi ong chuyên nghi�
 
 “Nhưng thử một chút cũng đáng đấy chứ.”
 
-Trong tay tôi đang cầm `『Cây Gậy Của Kẻ Ngốc』` đã được trang bị `『Đầu Lâu Của Triệu Hoán Thuật Sư』`.
+Trong tay tôi đang cầm \`『Cây Gậy Của Kẻ Ngốc』\` đã được trang bị \`『Đầu Lâu Của Triệu Hoán Thuật Sư』\`.
 
 Ban đầu tôi định dùng chiến thuật Skeleton tự sát bằng lửa để chiếm tổ ong như lần trước, nhưng hiện tại tôi vừa nghĩ ra một phương pháp mang tính đột phá hơn.
 
@@ -16089,7 +16089,7 @@ Bên cạnh Mei, Natsukawa cũng không tiếc lời khen ngợi tôi.
 
 “Haha, thành công là tốt rồi.”
 
-Nếu đã có thể dùng `『Đồng Điệu Ba Động』` lên chim thì không có lý do gì lại không dùng được lên côn trùng. Con ong mật đó tuy to xác nhưng nó không phải là ma vật.
+Nếu đã có thể dùng \`『Đồng Điệu Ba Động』\` lên chim thì không có lý do gì lại không dùng được lên côn trùng. Con ong mật đó tuy to xác nhưng nó không phải là ma vật.
 
 Dưới sự điều khiển của Chú thuật sư, ong chúa đã dẫn theo những con ong thợ còn sống sót bay về phía vùng đất mới.
 
@@ -20386,37 +20386,37 @@ Natsukawa khi khoác lên mình chiếc áo khoác da kháng lửa trông rất 
 
 Sau khi liên tục thử nghiệm và tinh chỉnh, cuối cùng chúng tôi cũng đã hoàn thành danh mục trang bị phòng hộ cho toàn đội:
 
-`『Xà cạp và Giáp tay Ngân Thiết』`: Sử dụng chất liệu Ngân Thiết chứa ma lực. Vì giáp tay và xà cạp không cản trở cử động linh hoạt nên hầu như toàn bộ thành viên đội tiên phong đều được trang bị món này.
+\`『Xà cạp và Giáp tay Ngân Thiết』\`: Sử dụng chất liệu Ngân Thiết chứa ma lực. Vì giáp tay và xà cạp không cản trở cử động linh hoạt nên hầu như toàn bộ thành viên đội tiên phong đều được trang bị món này.
 
-`『Tiểu thuẫn Ngân Thiết』`: Chiếc khiên tròn nhỏ (Buckler) đeo ở tay trái làm từ Ngân Thiết, giao cho Ueta. Nhỏ gọn và giúp đỡ đòn nhanh mà không làm nặng tay.
+\`『Tiểu thuẫn Ngân Thiết』\`: Chiếc khiên tròn nhỏ (Buckler) đeo ở tay trái làm từ Ngân Thiết, giao cho Ueta. Nhỏ gọn và giúp đỡ đòn nhanh mà không làm nặng tay.
 
-`『Viên thuẫn Ngân Thiết』`: Chiếc khiên tròn cỡ trung (Round Shield) làm từ Ngân Thiết, giao cho Nakai, phù hợp với thể lực của Chiến Binh.
+\`『Viên thuẫn Ngân Thiết』\`: Chiếc khiên tròn cỡ trung (Round Shield) làm từ Ngân Thiết, giao cho Nakai, phù hợp với thể lực của Chiến Binh.
 
-`『Đại thuẫn Ngân Thiết』`: Chiếc khiên tháp lớn (Tower Shield) làm từ Ngân Thiết dày dặn, trang bị chuyên dụng cho Yamada để làm lá chắn vững chắc cho cả đội.
+\`『Đại thuẫn Ngân Thiết』\`: Chiếc khiên tháp lớn (Tower Shield) làm từ Ngân Thiết dày dặn, trang bị chuyên dụng cho Yamada để làm lá chắn vững chắc cho cả đội.
 
-`『Giáp trụ Ngân Thiết』`: Bộ toàn thân giáp đầu tiên được chỉnh sửa lại để Yamada sử dụng, tối ưu hóa khả năng chống chịu va đập.
+\`『Giáp trụ Ngân Thiết』\`: Bộ toàn thân giáp đầu tiên được chỉnh sửa lại để Yamada sử dụng, tối ưu hóa khả năng chống chịu va đập.
 
-`『Xà cạp và Giáp tay Hắc Thiết』`: Giáp làm từ Hắc Thiết cực kỳ cứng cáp và nặng, được giao cho Mei-chan — người sở hữu sức mạnh thể chất áp đảo và lối đánh uy lực của Cuồng Chiến Binh.
+\`『Xà cạp và Giáp tay Hắc Thiết』\`: Giáp làm từ Hắc Thiết cực kỳ cứng cáp và nặng, được giao cho Mei-chan — người sở hữu sức mạnh thể chất áp đảo và lối đánh uy lực của Cuồng Chiến Binh.
 
-`『Áo vest Sói』`: Áo bảo hộ làm từ bộ lông của Kị Sĩ Người Sói lông đen, mang lại độ dẻo dai và kháng nguyên tố nhẹ, trang bị cho Ueta, Nakai và Shimokawa.
+\`『Áo vest Sói』\`: Áo bảo hộ làm từ bộ lông của Kị Sĩ Người Sói lông đen, mang lại độ dẻo dai và kháng nguyên tố nhẹ, trang bị cho Ueta, Nakai và Shimokawa.
 
-`『Áo khoác Da Bò』`: Áo khoác làm từ da thú dày dặn, trang bị cho cặp đôi Nonomiya và Yoshizaki.
+\`『Áo khoác Da Bò』\`: Áo khoác làm từ da thú dày dặn, trang bị cho cặp đôi Nonomiya và Yoshizaki.
 
-`『Áo phao Banded』`: Áo khoác lông vũ của Gà biển (Decakokko), cực kỳ nhẹ và có độ kháng nguyên tố cao, rất phù hợp cho phong cách tốc độ của Natsukawa.
+\`『Áo phao Banded』\`: Áo khoác lông vũ của Gà biển (Decakokko), cực kỳ nhẹ và có độ kháng nguyên tố cao, rất phù hợp cho phong cách tốc độ của Natsukawa.
 
-`『Áo măng tô Grand Boar』`: Chiếc áo choàng làm từ lông của 『Thổ Trư』 (Grand Boar), có tác dụng cộng hưởng ma pháp hệ Thổ, được thiết kế thời trang và trang bị riêng cho Randou.
+\`『Áo măng tô Grand Boar』\`: Chiếc áo choàng làm từ lông của 『Thổ Trư』 (Grand Boar), có tác dụng cộng hưởng ma pháp hệ Thổ, được thiết kế thời trang và trang bị riêng cho Randou.
 
-`『Đồ ngụy trang Ghillie - Bản Sa mạc』`: Chiếc áo choàng ngụy trang giúp hòa lẫn với màu đất đá hoang mạc, giao cho Takanashi Kotori để cô ấy có thể an toàn ẩn nấp phía sau trong lúc hỗ trợ.
+\`『Đồ ngụy trang Ghillie - Bản Sa mạc』\`: Chiếc áo choàng ngụy trang giúp hòa lẫn với màu đất đá hoang mạc, giao cho Takanashi Kotori để cô ấy có thể an toàn ẩn nấp phía sau trong lúc hỗ trợ.
 
-`『Áo choàng Băng Mỏng』`: Áo choàng được tích hợp 『Băng Tinh Thể』, giúp tăng cường khả năng điều khiển và duy trì ma pháp hệ Băng cho Lớp trưởng.
+\`『Áo choàng Băng Mỏng』\`: Áo choàng được tích hợp 『Băng Tinh Thể』, giúp tăng cường khả năng điều khiển và duy trì ma pháp hệ Băng cho Lớp trưởng.
 
-`『Ủng da và Găng tay da』`: Trang bị bảo hộ cơ bản bằng da thuộc mềm mại kết hợp đế cao su ma thuật từ Trent, thay thế cho giày thể thao cũ của trường.
+\`『Ủng da và Găng tay da』\`: Trang bị bảo hộ cơ bản bằng da thuộc mềm mại kết hợp đế cao su ma thuật từ Trent, thay thế cho giày thể thao cũ của trường.
 
-`『Găng tay Chú thuật sư 「Cursed Hexa」』`: Găng tay hở ngón chuyên dụng do tôi tự chế tác, có thêu ma pháp trận 『Nhãn Lục Mang Tinh』 để hỗ trợ tập trung ma lực chú thuật.
+\`『Găng tay Chú thuật sư 「Cursed Hexa」』\`: Găng tay hở ngón chuyên dụng do tôi tự chế tác, có thêu ma pháp trận 『Nhãn Lục Mang Tinh』 để hỗ trợ tập trung ma lực chú thuật.
 
-`『Áo lót da mềm』`: Lớp áo mặc trong làm từ da mỏng bền chắc, giúp tăng khả năng bảo hộ cho toàn bộ các thành viên.
+\`『Áo lót da mềm』\`: Lớp áo mặc trong làm từ da mỏng bền chắc, giúp tăng khả năng bảo hộ cho toàn bộ các thành viên.
 
-`『Áo thun Pha lê』`: Làm từ da phát sáng của 『Christaur』, hỗ trợ phòng ngự và duy trì ma lực cho nhóm ma thuật sư hậu phương.
+\`『Áo thun Pha lê』\`: Làm từ da phát sáng của 『Christaur』, hỗ trợ phòng ngự và duy trì ma lực cho nhóm ma thuật sư hậu phương.
 
 ***
 
@@ -20661,7 +20661,7 @@ Các tinh linh nhỏ tung tăng bay quanh đống củi, và một ngọn lửa 
 
 “Tuyệt vời quá! Cảm ơn các bạn nhiều nhé!”
 
-Các `『Tinh Linh Lửa』` khẽ vẫy tay chào rồi hòa vào đốm lửa trại đang cháy ấm áp.
+Các \`『Tinh Linh Lửa』\` khẽ vẫy tay chào rồi hòa vào đốm lửa trại đang cháy ấm áp.
 
 Bên đống lửa bập bùng, tôi cẩn thận nướng xiên cá đã được nêm chút muối khoáng.
 
@@ -26325,7 +26325,7 @@ Thế nhưng tôi của hiện tại lại chẳng có đủ sức mạnh để 
 
 Dẫu vậy, tôi vẫn lao đi.
 
-Kích hoạt đồng thời cả hai kỹ năng tăng tốc `『Thiên Lý Tật Khu』` và `『Súc Địa』`, tôi dồn toàn bộ sức lực vào đôi chân đến mức tưởng chừng như các thớ cơ sắp đứt lìa ra, phóng thẳng về phía Asuna.
+Kích hoạt đồng thời cả hai kỹ năng tăng tốc \`『Thiên Lý Tật Khu』\` và \`『Súc Địa』\`, tôi dồn toàn bộ sức lực vào đôi chân đến mức tưởng chừng như các thớ cơ sắp đứt lìa ra, phóng thẳng về phía Asuna.
 
 Dù biết rõ rằng ngay cả khi đến nơi, mình cũng chẳng thể làm được trò trống gì.
 
@@ -26339,7 +26339,7 @@ Chắc chắn sẽ không trượt. Dù có lăn lộn hay chạy trốn thế n
 
 Dự cảm tấn công mang theo sự tuyệt vọng ấy truyền đến khiến giác quan thứ sáu của tôi tê dại điếng người.
 
-Giác quan thứ sáu mà tôi lờ mờ cảm nhận được nhờ chuỗi ngày rèn giũa kiếm phái Souma từ thuở nhỏ, giờ đây nhờ thiên chức `『Dũng Giả』` đã mang lại cho tôi một dự đoán chuẩn xác và rõ ràng hơn bao giờ hết.
+Giác quan thứ sáu mà tôi lờ mờ cảm nhận được nhờ chuỗi ngày rèn giũa kiếm phái Souma từ thuở nhỏ, giờ đây nhờ thiên chức \`『Dũng Giả』\` đã mang lại cho tôi một dự đoán chuẩn xác và rõ ràng hơn bao giờ hết.
 
 Chính vì vậy, trong tình cảnh bản thân tự đâm đầu vào luồng hơi thở không thể né tránh này, những hồi chuông cảnh báo nguy hiểm cứ liên tục vang lên inh ỏi trong tâm trí.
 
@@ -26411,13 +26411,13 @@ Trên cánh tay trái của tôi đang gắn một vật tựa như chiếc khi�
 
 Kỹ năng đặc hữu thứ hai.
 
-`『Thiên Tinh Thuẫn』`: Chiếc khiên của Dũng Giả, mang trong mình sự bảo hộ tối cao từ ngôi sao hộ mệnh tỏa sáng nơi thiên giới.
+\`『Thiên Tinh Thuẫn』\`: Chiếc khiên của Dũng Giả, mang trong mình sự bảo hộ tối cao từ ngôi sao hộ mệnh tỏa sáng nơi thiên giới.
 
 Một dòng thông tin quen thuộc tuôn trào vào tâm trí tôi. Có vẻ như chiếc khiên này chính là sức mạnh mới thức tỉnh của Dũng Giả.
 
-*Kỹ năng đặc hữu, hình như cùng loại với `『Thánh Kiếm Ánh Sáng』`.*
+*Kỹ năng đặc hữu, hình như cùng loại với \`『Thánh Kiếm Ánh Sáng』\`.*
 
-Chiêu thức được định danh là "Kỹ năng đặc hữu thứ nhất" chính là `『Thánh Kiếm Ánh Sáng』`. Những kỹ năng khác đều được phân loại thành kỹ năng tăng trưởng hoặc kỹ năng học được. Đây là lần thứ hai một kỹ năng có chữ "đặc hữu" xuất hiện, và nó chính là `『Thiên Tinh Thuẫn』` này.
+Chiêu thức được định danh là "Kỹ năng đặc hữu thứ nhất" chính là \`『Thánh Kiếm Ánh Sáng』\`. Những kỹ năng khác đều được phân loại thành kỹ năng tăng trưởng hoặc kỹ năng học được. Đây là lần thứ hai một kỹ năng có chữ "đặc hữu" xuất hiện, và nó chính là \`『Thiên Tinh Thuẫn』\` này.
 
 Dù có nghĩ thế nào đi chăng nữa, đây chắc chắn là một tuyệt kỹ tối thượng chỉ dành riêng cho Dũng Giả, hoàn toàn vượt trội so với các kỹ năng thông thường.
 
@@ -26471,7 +26471,7 @@ Có khi tôi sẽ bị cả lũ lôi ra thiêu sống như trong mấy phiên t�
 
 “Chết tiệt, mình vốn dĩ rất yếu bóng vía trước mấy thể loại áp lực thế này mà...”
 
-Trong lòng ngập tràn sự sốt ruột và bất an, tôi chẳng thể làm gì khác ngoài việc liên tục dồn ép ma lực thi triển `『Đầm Lầy Thối Rữa』`.
+Trong lòng ngập tràn sự sốt ruột và bất an, tôi chẳng thể làm gì khác ngoài việc liên tục dồn ép ma lực thi triển \`『Đầm Lầy Thối Rữa』\`.
 
 Nhờ vào hiệu năng của ma pháp trận, tôi đã đào sâu đầm lầy với hiệu suất tối đa mà bản thân có thể đạt tới — thế nhưng, lớp vỏ của Yamata no Orochi vẫn quá đỗi kiên cố.
 
@@ -26481,7 +26481,7 @@ Hiện tại độ sâu mới chỉ ngấp nghé được chừng ba mét.
 
 Dù đang ở thời khắc sinh tử ngàn cân treo sợi tóc, tôi vẫn không kìm được mà nghĩ lan man đến những chuyện dông dài như vậy.
 
-Nhưng dù có tính đi tính lại, ngoài `『Đầm Lầy Thối Rữa』` của tôi ra, tuyệt nhiên chẳng còn cách nào khác để đục thủng lớp vỏ bọc bên ngoài này.
+Nhưng dù có tính đi tính lại, ngoài \`『Đầm Lầy Thối Rữa』\` của tôi ra, tuyệt nhiên chẳng còn cách nào khác để đục thủng lớp vỏ bọc bên ngoài này.
 
 Rốt cuộc là do tốc độ ăn mòn của tôi quá rùa bò? Do mọi người không thể câu kéo đủ thời gian? Hay do cái lớp vỏ ngoài dày như pháo đài thép kia mới là thứ đáng trách?
 
@@ -26557,7 +26557,7 @@ Tuy nhiên, việc phong ấn ba cái đầu bị phá vỡ có lẽ lại là t
 
 Việc không thể tiếp tục kế hoạch lúc này là thực tế phũ phàng mà ai cũng có thể nhìn thấy rõ.
 
-Hiện tại, độ sâu của `『Đầm Lầy Thối Rữa』` mới chỉ đạt khoảng bốn mét. Vẫn chưa thấy đáy ở đâu cả.
+Hiện tại, độ sâu của \`『Đầm Lầy Thối Rữa』\` mới chỉ đạt khoảng bốn mét. Vẫn chưa thấy đáy ở đâu cả.
 
 “Tớ... tớ phải bảo vệ mọi người...”
 
@@ -26645,7 +26645,7 @@ Một khả năng xứng đáng để tôi đánh cược mạng sống của ch
 
 Xin hãy tiếp tục kế hoạch thêm một chút nữa thôi.
 
-Chẳng mấy chốc nữa, độ sâu của `『Đầm Lầy Thối Rữa』` sẽ chạm tới mốc năm mét.
+Chẳng mấy chốc nữa, độ sâu của \`『Đầm Lầy Thối Rữa』\` sẽ chạm tới mốc năm mét.
 
 Tôi sẽ lấy con số đó làm điểm mốc quyết định sinh tử.
 
@@ -26661,7 +26661,7 @@ Thế nên, đây thực sự là một canh bạc sinh tử.
 
 “Ở đây trông cậy cả vào cậu đấy, Souma-kun.”
 
-Dứt lời, tôi chủ động giải trừ kỹ năng `『Song Ảnh』`. Nhờ vậy, sự tập trung của tôi cũng được khôi phục lại phần nào.
+Dứt lời, tôi chủ động giải trừ kỹ năng \`『Song Ảnh』\`. Nhờ vậy, sự tập trung của tôi cũng được khôi phục lại phần nào.
 
 “Mei-chan cũng cố gắng thêm một chút nhé.”
 
@@ -26681,7 +26681,7 @@ Nhưng xin mọi người hãy ráng chịu đựng thêm một chút nữa thô
 
 “Làm ơn, hãy xuyên qua đi—”
 
-Dù tôi có khẩn thiết cầu nguyện đến thế nào, tốc độ ăn mòn chậm chạp của `『Đầm Lầy Thối Rữa』` vẫn không hề có dấu hiệu tăng tốc.
+Dù tôi có khẩn thiết cầu nguyện đến thế nào, tốc độ ăn mòn chậm chạp của \`『Đầm Lầy Thối Rữa』\` vẫn không hề có dấu hiệu tăng tốc.
 
 Tôi cũng chẳng cảm nhận được bất kỳ phản hồi đặc biệt nào truyền lại. Đơn thuần chỉ là từng chút, từng chút một làm tan chảy lớp vỏ ngoài siêu cứng để lún sâu hơn xuống dưới.
 
@@ -26697,7 +26697,7 @@ Và ngay vào khoảnh khắc tôi tưởng chừng như mình đã đánh mất
 
 Một sự biến chuyển rõ rệt, không thể nào nhầm lẫn.
 
-Tôi đột ngột cảm nhận được phần đáy của `『Đầm Lầy Thối Rữa』` đang mở rộng ra với một tốc độ chóng mặt.
+Tôi đột ngột cảm nhận được phần đáy của \`『Đầm Lầy Thối Rữa』\` đang mở rộng ra với một tốc độ chóng mặt.
 
 Cứ như thể bức tường chướng ngại vật ngăn cản thứ độc tố cực mạnh kia đã hoàn toàn bị xóa sổ. Cảm giác truyền lại cho tôi lúc này giống hệt như khi axit đang làm tan chảy từng thớ da thịt của kẻ địch sa bẫy.
 
@@ -29715,33 +29715,33 @@ Gì vậy Momokawa, đôi mắt lờ đờ thường ngày đột nhiên sắc l
 
 “Đến cả chuyện đó mà cậu cũng không biết sao... Hayama-kun, cậu có thể cho tớ biết những kỹ năng cậu đã học được không?”
 
-`『Sai Khiến Tinh Linh Tí Hon』`: Những đứa trẻ vẫn còn rất nhỏ bé. Nhưng chúng luôn ở ngay bên cạnh cậu. Nào, hãy lắng tai nghe, cậu sẽ nghe thấy tiếng của mọi người đấy.
+\`『Sai Khiến Tinh Linh Tí Hon』\`: Những đứa trẻ vẫn còn rất nhỏ bé. Nhưng chúng luôn ở ngay bên cạnh cậu. Nào, hãy lắng tai nghe, cậu sẽ nghe thấy tiếng của mọi người đấy.
 
-`『Trận Pháp Triệu Hoán Tinh Linh』`: Chỉ cần cậu cất tiếng gọi, chúng sẽ đến. Dù có cách xa bao nhiêu, trái tim vẫn luôn kết nối.
+\`『Trận Pháp Triệu Hoán Tinh Linh』\`: Chỉ cần cậu cất tiếng gọi, chúng sẽ đến. Dù có cách xa bao nhiêu, trái tim vẫn luôn kết nối.
 
-`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』`: Dù chỉ đôi chút, nhưng cậu đã có thể trò chuyện cùng chúng. Hãy gửi gắm tâm tình vào lời nói. Cảm xúc của cậu chắc chắn sẽ chạm đến nơi chúng.
+\`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』\`: Dù chỉ đôi chút, nhưng cậu đã có thể trò chuyện cùng chúng. Hãy gửi gắm tâm tình vào lời nói. Cảm xúc của cậu chắc chắn sẽ chạm đến nơi chúng.
 
 Đó là ba kỹ năng đầu tiên tôi thức tỉnh.
 
-`『Tinh Linh Dược Hiệu』`: Các tinh linh cỏ sẽ cho cậu mượn sức mạnh.
+\`『Tinh Linh Dược Hiệu』\`: Các tinh linh cỏ sẽ cho cậu mượn sức mạnh.
 
 Đây là kỹ năng tôi học được khi Kinako bị trọng thương lần đầu tiên.
 
 Và rồi, bằng cách này hay cách khác, trong suốt một tuần qua tôi đã học thêm được vài kỹ năng mới.
 
-`『Vòng Tròn Xanh Lá』`: Các tinh linh hoa cỏ đang vẫy gọi cậu. Dù chỉ là một vòng tròn nhỏ nhoi, nhưng chắc chắn sẽ giúp ích cho cậu.
+\`『Vòng Tròn Xanh Lá』\`: Các tinh linh hoa cỏ đang vẫy gọi cậu. Dù chỉ là một vòng tròn nhỏ nhoi, nhưng chắc chắn sẽ giúp ích cho cậu.
 
-`『Mối Gắn Kết Của Lửa』`: Sức mạnh của ngọn lửa đỏ rực, nóng bỏng sẽ trợ giúp cậu. Đốm lửa nhỏ rồi sẽ hóa thành ngọn lửa lớn.
+\`『Mối Gắn Kết Của Lửa』\`: Sức mạnh của ngọn lửa đỏ rực, nóng bỏng sẽ trợ giúp cậu. Đốm lửa nhỏ rồi sẽ hóa thành ngọn lửa lớn.
 
-`『Giọt Nước Tinh Khiết』`: Trong từng giọt nước đều có sự hiện diện của mọi người. Giọt nước thanh khiết này cũng là dành cho cậu.
+\`『Giọt Nước Tinh Khiết』\`: Trong từng giọt nước đều có sự hiện diện của mọi người. Giọt nước thanh khiết này cũng là dành cho cậu.
 
-`『Chiêu Lôi』`: Đoàng! Một tia sét khổng lồ giáng xuống!
+\`『Chiêu Lôi』\`: Đoàng! Một tia sét khổng lồ giáng xuống!
 
-Tôi nghĩ mình học được những kỹ năng này là nhờ các tinh linh luôn giúp đỡ tôi hàng ngày. `『Vòng Tròn Xanh Lá』` có được khi tôi chăm chỉ thu hái dược thảo, `『Mối Gắn Kết Của Lửa』` là nhờ nhóm lửa mỗi ngày, còn `『Giọt Nước Tinh Khiết』` xuất hiện khi tôi, Kinako và Beniwo thường xuyên uống nguồn nước do tinh linh nước tạo ra.
+Tôi nghĩ mình học được những kỹ năng này là nhờ các tinh linh luôn giúp đỡ tôi hàng ngày. \`『Vòng Tròn Xanh Lá』\` có được khi tôi chăm chỉ thu hái dược thảo, \`『Mối Gắn Kết Của Lửa』\` là nhờ nhóm lửa mỗi ngày, còn \`『Giọt Nước Tinh Khiết』\` xuất hiện khi tôi, Kinako và Beniwo thường xuyên uống nguồn nước do tinh linh nước tạo ra.
 
 Dù không cảm nhận rõ rệt hiệu quả, nhưng tôi có cảm giác uy lực của các tinh linh tương ứng đã được tăng cường so với trước.
 
-Kỹ năng duy nhất tôi thấy thực sự mạnh mẽ có lẽ là `『Chiêu Lôi』`. Tất nhiên, đây là kỹ năng tôi học được ngay sau khi dùng toàn bộ năng lượng của các tinh linh điện trong điện thoại để giáng một tia sét đánh bại con Trent lúc nãy.
+Kỹ năng duy nhất tôi thấy thực sự mạnh mẽ có lẽ là \`『Chiêu Lôi』\`. Tất nhiên, đây là kỹ năng tôi học được ngay sau khi dùng toàn bộ năng lượng của các tinh linh điện trong điện thoại để giáng một tia sét đánh bại con Trent lúc nãy.
 
 Dù đã trở thành kỹ năng, nhưng không có nghĩa là tôi muốn dùng bao nhiêu tùy thích. Nếu chiếc điện thoại không được sạc đầy pin thì có lẽ tôi chẳng thể bắn nổi một phát nào.
 
@@ -29819,11 +29819,11 @@ Dù Kinako gầm gừ tỏ vẻ khó chịu, Randou vẫn chẳng thèm bận t�
 
 “Thấy chưa?”
 
-“Không, tớ chỉ nghe thấy tiếng gầm gừ của Kinako thôi... Có lẽ là nhờ hiệu quả của kỹ năng `『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』` nên hai người mới giao tiếp được đấy.”
+“Không, tớ chỉ nghe thấy tiếng gầm gừ của Kinako thôi... Có lẽ là nhờ hiệu quả của kỹ năng \`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』\` nên hai người mới giao tiếp được đấy.”
 
 “Thật á!? Hóa ra là vậy sao!”
 
-Tôi cứ đinh ninh `『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』` chỉ giúp lắng nghe tiếng nói của các vi tinh linh, không ngờ việc trò chuyện được với Kinako và Beniwo cũng là nhờ vào nó.
+Tôi cứ đinh ninh \`『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』\` chỉ giúp lắng nghe tiếng nói của các vi tinh linh, không ngờ việc trò chuyện được với Kinako và Beniwo cũng là nhờ vào nó.
 
 Trời đất, đây rõ ràng là một kỹ năng cực kỳ quan trọng luôn ấy chứ.
 
@@ -32738,7 +32738,7 @@ Một khi đối phương đã thành thật nhận lỗi ngay tại đây, nh�
 
 “Không, chỉ là uy lực của nó lớn hơn mức tớ dự tính, lại còn có cả khả năng tự tìm mục tiêu nữa.”
 
-Cây Hồng Thương do tôi chế tạo, do cấu trúc thuật thức của nó, vốn dĩ chỉ có thể phát ra một mức uy lực cố định. Tuy nhiên, nếu người sử dụng là một `『Hỏa Ma Thuật Sư』`, họ có thể tự dùng ma pháp thuộc tính Hỏa của bản thân để gia tăng thêm uy lực.
+Cây Hồng Thương do tôi chế tạo, do cấu trúc thuật thức của nó, vốn dĩ chỉ có thể phát ra một mức uy lực cố định. Tuy nhiên, nếu người sử dụng là một \`『Hỏa Ma Thuật Sư』\`, họ có thể tự dùng ma pháp thuộc tính Hỏa của bản thân để gia tăng thêm uy lực.
 
 Hayama tuy không thể sử dụng ma pháp thuộc tính Hỏa, nhưng cậu ta đã cho Tinh Linh Lửa trú ngụ trong chiếc bật lửa Zippo và thiết lập mối quan hệ hữu nghị với chúng. Nếu vậy, không còn cách giải thích nào khác ngoài việc cậu ta đã nhận được sự hỗ trợ tăng cường hỏa lực từ chúng.
 
@@ -32820,7 +32820,7 @@ Rem, người vẫn đang cảnh giới xung quanh, nghe tiếng gọi liền đ
 
 “Không, tớ nghĩ là em ấy đang hỏi xem có nên hấp thụ nó làm nguyên liệu hay không thôi.”
 
-Dù đã tiến hóa thành `『Ảnh Nhân Hình』`, nhưng tính năng cơ bản của Rem vẫn không thay đổi. Nếu có thể hấp thụ các nguyên liệu ma vật mạnh mẽ hơn, em ấy hoàn toàn có thể gia tăng sức mạnh hơn nữa.
+Dù đã tiến hóa thành \`『Ảnh Nhân Hình』\`, nhưng tính năng cơ bản của Rem vẫn không thay đổi. Nếu có thể hấp thụ các nguyên liệu ma vật mạnh mẽ hơn, em ấy hoàn toàn có thể gia tăng sức mạnh hơn nữa.
 
 Thế nhưng, thứ tôi muốn thử nghiệm lần này không phải là nâng cấp, mà là một chú thuật nhánh khác của Rem.
 
@@ -32860,7 +32860,7 @@ Con Loyrops thở phì phò bằng mũi, chậm rãi lảng vảng xung quanh t�
 
 Trước đây, toàn bộ Thi Nhân Hình đều phải do Rem trực tiếp điều khiển... nhưng có vẻ như giờ đây, tương tự như khi sử dụng triệu hoán thuật Skeleton hay High Zombie, nó đã sở hữu một bộ não đủ khả năng tự lập hành động theo mệnh lệnh của thuật giả.
 
-Bản thân tôi cũng thường xuyên sử dụng `『Đầu lâu Triệu Hoán Thuật Sư』` rồi. Đúng vậy, từ con Loyrops hiện tại, tôi có thể cảm nhận được một mối liên kết y hệt như với những ma vật được gọi ra bằng triệu hoán thuật.
+Bản thân tôi cũng thường xuyên sử dụng \`『Đầu lâu Triệu Hoán Thuật Sư』\` rồi. Đúng vậy, từ con Loyrops hiện tại, tôi có thể cảm nhận được một mối liên kết y hệt như với những ma vật được gọi ra bằng triệu hoán thuật.
 
 “Cái này, em có thể lập tức chuyển đổi ý thức với Rem không?”
 
@@ -32936,7 +32936,7 @@ Bản thân tôi không thể nhìn thấy những vi tinh linh được mô t�
 
 Tuy nhiên, nếu những tồn tại dạng ác linh đó thực sự có thật, thì việc chú thuật mượn sức mạnh từ chúng cũng là một giả thuyết hoàn toàn khả thi. Suy cho cùng, tôi chỉ có thể thi triển những chú thuật được ban tặng chứ hoàn toàn không hiểu được cấu trúc thuật thức của chúng.
 
-Kể từ khi chế tạo được vũ khí ma pháp bằng cách kết hợp giữa `『Trận pháp Luyện thành Chú đạo』` và `『Giải Mã Ngoại Pháp』` như khẩu Súng Phóng Khí, tôi đã dần hiểu sâu hơn về ma pháp trận và thuật thức... Nhưng cũng chính vì thế, tôi mới nhận ra những chú thuật của mình đang vận hành dựa trên một cấu trúc thuật thức bí ẩn mà tôi không tài nào tưởng tượng nổi.
+Kể từ khi chế tạo được vũ khí ma pháp bằng cách kết hợp giữa \`『Trận pháp Luyện thành Chú đạo』\` và \`『Giải Mã Ngoại Pháp』\` như khẩu Súng Phóng Khí, tôi đã dần hiểu sâu hơn về ma pháp trận và thuật thức... Nhưng cũng chính vì thế, tôi mới nhận ra những chú thuật của mình đang vận hành dựa trên một cấu trúc thuật thức bí ẩn mà tôi không tài nào tưởng tượng nổi.
 
 Đúng là tác phẩm của thần linh có khác. Dù vậy, hiệu quả của nó thì...
 
@@ -33396,7 +33396,7 @@ Và ngày hôm sau, chúng tôi xuất phát với những thành viên mới gi
 
 Chúng gầm lên dữ tợn hệt như lúc tấn công chúng tôi hôm qua. Hai con Grimgoar.
 
-Lũ Grimgoar vốn khoác trên mình lớp giáp đá xám xịt, nhưng sau khi bị biến thành `『Thi Nhân Hình』`, cơ thể chúng đã chuyển sang màu đen tuyền. Lớp giáp đá vốn trông như bê tông giờ đây lại bóng bẩy như đá hắc diệu thạch, toát lên vẻ khá là sang trọng.
+Lũ Grimgoar vốn khoác trên mình lớp giáp đá xám xịt, nhưng sau khi bị biến thành \`『Thi Nhân Hình』\`, cơ thể chúng đã chuyển sang màu đen tuyền. Lớp giáp đá vốn trông như bê tông giờ đây lại bóng bẩy như đá hắc diệu thạch, toát lên vẻ khá là sang trọng.
 
 “Mọi người, hòa thuận với nhau nhé.”
 
@@ -33704,7 +33704,7 @@ Hôm nay nhất định phải vượt qua đỉnh núi để sang sườn bên 
 
 Trái ngược với vẻ hào hứng khoác lên mình chiếc áo lông thú mới của Hayama, nét mặt Kyouko lại vô cùng ủ rũ.
 
-Tôi đã làm cho cô ấy một chiếc `『Áo măng tô Grand Boar』` bằng da Thổ Trư giống hệt chiếc ở Học Viện Tháp. Tuy nhiên, phần lông thú trắng muốt ở cổ áo cùng những chi tiết trang trí cầu kỳ mà Kyouko cực kỳ tâm đắc đều bị lược bỏ hoàn toàn. Bởi vì lấy đâu ra nguyên liệu mà làm cơ chứ.
+Tôi đã làm cho cô ấy một chiếc \`『Áo măng tô Grand Boar』\` bằng da Thổ Trư giống hệt chiếc ở Học Viện Tháp. Tuy nhiên, phần lông thú trắng muốt ở cổ áo cùng những chi tiết trang trí cầu kỳ mà Kyouko cực kỳ tâm đắc đều bị lược bỏ hoàn toàn. Bởi vì lấy đâu ra nguyên liệu mà làm cơ chứ.
 
 Kết quả là chiếc áo măng tô Grand Boar lần này chỉ có một màu nâu xám xịt của da lợn rừng, trông vô cùng thô kệch.
 
@@ -33714,7 +33714,7 @@ Nhưng nó ấm áp là được rồi, chịu khó chút đi nhé.
 
 “Đáng... yêu...”
 
-Chiếc áo của Rem là tác phẩm tôi dồn nhiều tâm huyết nhất. Đó là một chiếc `『Áo khoác thỏ』` được làm từ da thỏ mà Beniwo đã chăm chỉ săn được hồi còn ở căn cứ bờ sông. Trên mũ trùm đầu tất nhiên là có gắn hai chiếc tai thỏ thật.
+Chiếc áo của Rem là tác phẩm tôi dồn nhiều tâm huyết nhất. Đó là một chiếc \`『Áo khoác thỏ』\` được làm từ da thỏ mà Beniwo đã chăm chỉ săn được hồi còn ở căn cứ bờ sông. Trên mũ trùm đầu tất nhiên là có gắn hai chiếc tai thỏ thật.
 
 Khi tôi chế tạo chiếc mũ tai thỏ thật này, Kinako đã ôm chặt tai mình với vẻ mặt vô cùng sợ hãi. Có lẽ trong mắt chú gấu, thiết kế này trông thật man rợ. Nghĩ lại thì nếu trên mũ của tôi mà gắn tai người thật thì tôi cũng thấy tởm thôi.
 
@@ -33722,7 +33722,7 @@ Bỏ qua sự khác biệt về thế giới quan, chiếc áo khoác thỏ sau 
 
 Nhân tiện, bộ quần áo Rem mặc bên trong áo khoác đã sớm không còn là bộ đồ tơ nhện thô sơ thuở ban đầu nữa.
 
-Trang phục thường ngày của cô bé Rem hiện tại là một bộ `『Đồng phục thủy thủ giả』`.
+Trang phục thường ngày của cô bé Rem hiện tại là một bộ \`『Đồng phục thủy thủ giả』\`.
 
 Dù sao thì mặc đồ giống mọi người vẫn tốt hơn đúng không? Thế nên tôi đã dùng những nguyên liệu sẵn có để may một bộ đồ giống với đồng phục nữ sinh của Học viện Hakurei nhất có thể cho em ấy mặc.
 
@@ -36804,11 +36804,11 @@ Nhưng tôi hiểu. Dù hình dáng có thay đổi, dù đôi bên không còn 
 
 Có lẽ là vị thần của Tinh Linh Thuật Sư. Vị thần đó đã mách bảo cho tôi biết rằng sức mạnh mới được ban tặng đã làm thay đổi hình dạng của Kinako.
 
-`『Sự chúc phúc của tám tinh linh』`: Khởi nguồn từ vòng xoáy hỗn mang, ánh sáng và bóng tối được phân tách. Sau đó, Hỏa, Thổ, Lôi, Băng, Phong, Thủy, sáu màu sắc nguyên bản này đã tô điểm cho thế giới. Vì vậy, đó chính là sự chúc phúc của thế giới. Ngươi đã đạt được tư cách thứ nhất.
+\`『Sự chúc phúc của tám tinh linh』\`: Khởi nguồn từ vòng xoáy hỗn mang, ánh sáng và bóng tối được phân tách. Sau đó, Hỏa, Thổ, Lôi, Băng, Phong, Thủy, sáu màu sắc nguyên bản này đã tô điểm cho thế giới. Vì vậy, đó chính là sự chúc phúc của thế giới. Ngươi đã đạt được tư cách thứ nhất.
 
-`『Sợi dây liên kết vượt qua chủng tộc』`: Đó là điều quan trọng nhất, nhưng cũng là điều khó khăn nhất. Không được ép buộc lệ thuộc. Không được bắt buộc phục dịch. Chỉ đơn giản là cùng nhau bước đi. Chỉ vậy là đủ. Dệt nên mối liên kết giữa con người và những thực thể không phải con người. Ngươi đã đạt được tư cách thứ hai.
+\`『Sợi dây liên kết vượt qua chủng tộc』\`: Đó là điều quan trọng nhất, nhưng cũng là điều khó khăn nhất. Không được ép buộc lệ thuộc. Không được bắt buộc phục dịch. Chỉ đơn giản là cùng nhau bước đi. Chỉ vậy là đủ. Dệt nên mối liên kết giữa con người và những thực thể không phải con người. Ngươi đã đạt được tư cách thứ hai.
 
-`『Triệu Hoán Linh Thú』`: Hỡi Tinh Linh Thuật Sư đã hội tụ đủ hai tư cách, giờ là lúc hãy triệu gọi Linh thú. Nếu mối liên kết đó là chân thật, thì dù ở bất cứ đâu, bất cứ lúc nào, chúng cũng chắc chắn sẽ đáp lại lời ngươi.
+\`『Triệu Hoán Linh Thú』\`: Hỡi Tinh Linh Thuật Sư đã hội tụ đủ hai tư cách, giờ là lúc hãy triệu gọi Linh thú. Nếu mối liên kết đó là chân thật, thì dù ở bất cứ đâu, bất cứ lúc nào, chúng cũng chắc chắn sẽ đáp lại lời ngươi.
 
 Đó là phần mô tả về sức mạnh của Tinh Linh Thuật Sư tự động khắc sâu vào tâm trí tôi từ lúc nào không hay. Tôi không chắc mình đã đọc kỹ nó chưa, và cũng chẳng thể hiểu chính xác ý nghĩa sâu xa của nó.
 
@@ -36834,7 +36834,7 @@ Nếu Kinako hiện tại đã trở thành Linh thú, thì tôi chẳng cần p
 
 Những tiếng gầm đinh tai nhức óc vang lên, hai con ma vật khổng lồ lao vào nhau như trong một trận quyết chiến giữa các quái thú.
 
-Một bên là Yokomichi ở trạng thái `『Biến Thái Hoàn Toàn』` đã hóa thành một con lợn khổng lồ.
+Một bên là Yokomichi ở trạng thái \`『Biến Thái Hoàn Toàn』\` đã hóa thành một con lợn khổng lồ.
 
 Bên còn lại là Kinako, dường như đã hóa thành một Linh thú dạng gấu.
 
@@ -36900,7 +36900,7 @@ Thực tế thì chỉ có một mình Kinako chiến đấu, nên nói thẳng 
 
 Hayama nhanh chóng giải thích qua những gì vừa xảy ra với bản thân.
 
-Ra là vậy, `『Sự chúc phúc của tám tinh linh』` và `『Sợi dây liên kết vượt qua chủng tộc』` chính là những kỹ năng điều kiện để mở khóa `『Triệu Hoán Linh Thú』`. Việc phải có được các kỹ năng cần thiết trước khi học được kỹ năng cấp cao hơn là một hệ thống quen thuộc trong các trò chơi điện tử.
+Ra là vậy, \`『Sự chúc phúc của tám tinh linh』\` và \`『Sợi dây liên kết vượt qua chủng tộc』\` chính là những kỹ năng điều kiện để mở khóa \`『Triệu Hoán Linh Thú』\`. Việc phải có được các kỹ năng cần thiết trước khi học được kỹ năng cấp cao hơn là một hệ thống quen thuộc trong các trò chơi điện tử.
 
 Có vẻ như Hayama đã may mắn đáp ứng đủ các điều kiện đó từ trước.
 
@@ -36948,7 +36948,7 @@ Nguy rồi, cứ đà này họ sẽ bị áp đảo hoàn toàn mất.
 
 Đáp lại tiếng gọi bằng cả sinh mạng của Hayama, Beniwo lao thẳng về phía Yokomichi.
 
-“Đi đi! `『Triệu Hoán Linh Thú』`!”
+“Đi đi! \`『Triệu Hoán Linh Thú』\`!”
 
 *Úúúúúúúúúúúúúúúúúúúú!*
 
@@ -36986,11 +36986,11 @@ Yokomichi cố gắng điều khiển những cái đầu khác để phản cô
 
 Yokomichi liên tục mọc ra những cái đầu và cánh tay mới để chống trả, nhưng chúng đều bị Kinako và Beniwo giật đứt từng cái một.
 
-“Lũ khốn kiếp kiaaaaa! Tao sẽ không tha cho chúng mày đâu, tao sẽ dùng toàn bộ sức mạnh để giết sạch—— `『Bộc Nhiệt Cân Nhục』`! `『Nhiệt Huyết Viêm Khí』`! Và cả `『Uyển Lực Cường Hóa』` nữa, lên đi lũ chó chết!”
+“Lũ khốn kiếp kiaaaaa! Tao sẽ không tha cho chúng mày đâu, tao sẽ dùng toàn bộ sức mạnh để giết sạch—— \`『Bộc Nhiệt Cân Nhục』\`! \`『Nhiệt Huyết Viêm Khí』\`! Và cả \`『Uyển Lực Cường Hóa』\` nữa, lên đi lũ chó chết!”
 
 Ngay lập tức, một vầng hào quang đỏ rực bùng lên, thân hình lợn khổng lồ của gã phồng to ra một cách bất thường.
 
-Đó chính là bộ ba phép cường hóa đáng tự hào của `『Hỏa Ma Thuật Sư』` Ooyama.
+Đó chính là bộ ba phép cường hóa đáng tự hào của \`『Hỏa Ma Thuật Sư』\` Ooyama.
 
 Vốn dĩ, ngay cả với một Ooyama thuộc hệ ma pháp không được hưởng lợi từ việc tăng cường thể chất, khi sử dụng chiêu thức này vẫn có thể đạt được sức mạnh siêu phàm đủ sức đấm bay cả ma vật khổng lồ. Vậy thì khi một kẻ đã hóa thành quái vật như Yokomichi sử dụng nó, sức mạnh sẽ còn khủng khiếp đến mức nào?
 
@@ -37000,7 +37000,7 @@ Một năng lực cường hóa đáng sợ. Một quân bài tẩy vô cùng x�
 
 “Sức... sức mạnh đang tràn trề! Nhìn đi, đây chính là trạng thái mạnh nhất của tao, kẻ sẽ nghiền nát tất cả! Sức mạnh chính là chân lý! Hahahahaha!”
 
-“Hãy gánh chịu cơn sốt không nguôi và nguyền rủa chính thân xác mình đi—— `『Xích Nhiệt Bệnh』`.”
+“Hãy gánh chịu cơn sốt không nguôi và nguyền rủa chính thân xác mình đi—— \`『Xích Nhiệt Bệnh』\`.”
 
 Ngay khi câu chú vừa dứt, cơ thể khổng lồ đang phồng to cuồn cuộn cơ bắp của Yokomichi đột nhiên xẹp xuống nhanh chóng, luồng hào quang khủng khiếp kia cũng biến mất tăm.
 
@@ -37012,9 +37012,9 @@ Nhưng kẻ biến sắc mặt nhiều nhất chắc chắn là Yokomichi.
 
 Ừ, tôi hiểu cảm giác đó mà. Chính tôi lúc đầu cũng nghĩ làm sao có chuyện vô lý như vậy được.
 
-Nhưng thật đáng tiếc, `『Xích Nhiệt Bệnh』`—át chủ bài số một không thể lay chuyển của trường phái chú thuật rác rưởi này—lại sở hữu một đặc tính vô cùng bá đạo: vô hiệu hóa hoàn toàn mọi trạng thái cường hóa của đối phương.
+Nhưng thật đáng tiếc, \`『Xích Nhiệt Bệnh』\`—át chủ bài số một không thể lay chuyển của trường phái chú thuật rác rưởi này—lại sở hữu một đặc tính vô cùng bá đạo: vô hiệu hóa hoàn toàn mọi trạng thái cường hóa của đối phương.
 
-Bộ ba phép cường hóa của Ooyama lập tức mất đi tác dụng trước sự hiện diện của `『Xích Nhiệt Bệnh』`.
+Bộ ba phép cường hóa của Ooyama lập tức mất đi tác dụng trước sự hiện diện của \`『Xích Nhiệt Bệnh』\`.
 
 “Sức... sức mạnh tối thượng của taooooo!”
 
@@ -37781,15 +37781,15 @@ Không chỉ vậy, ma pháp trận hoàng kim của 『Kho Báu』 mới chỉ 
 
 “Thế nào? Đây mới chính là uy lực thực sự từ 『Thần Thánh Ngôn Ngữ』 của tớ đấy.”
 
-`『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』`: Luật lệ thống trị thiên giới trao quyền thực thi cho kẻ giải mã nó —— Thần Thánh Ngôn Ngữ chính là ý chí tối cao của thần linh —— khi hiệu lực của nó áp đặt lên quy luật vật lý, ma lực và thần tính của hạ giới —— kẻ điều đình có thể thực thi đặc quyền cưỡng chế đình chỉ mọi hành vi chiến đấu.
+\`『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』\`: Luật lệ thống trị thiên giới trao quyền thực thi cho kẻ giải mã nó —— Thần Thánh Ngôn Ngữ chính là ý chí tối cao của thần linh —— khi hiệu lực của nó áp đặt lên quy luật vật lý, ma lực và thần tính của hạ giới —— kẻ điều đình có thể thực thi đặc quyền cưỡng chế đình chỉ mọi hành vi chiến đấu.
 
-Kỹ năng `『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』` của Kotori vốn là kỹ năng mà tất cả bạn học đều biết, nhưng cô ta rất hiếm khi sử dụng nó trong thực chiến. Vì không phải là thành viên thuộc tuyến đầu chiến đấu, Kotori luôn được cả lớp bao bọc. Trừ phi chạm trán Boss cực mạnh hoặc bị phục kích bất ngờ, các thành viên chủ lực khác, dẫn đầu là Souma Yuuto, luôn dốc toàn lực bảo vệ cô ta an toàn.
+Kỹ năng \`『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』\` của Kotori vốn là kỹ năng mà tất cả bạn học đều biết, nhưng cô ta rất hiếm khi sử dụng nó trong thực chiến. Vì không phải là thành viên thuộc tuyến đầu chiến đấu, Kotori luôn được cả lớp bao bọc. Trừ phi chạm trán Boss cực mạnh hoặc bị phục kích bất ngờ, các thành viên chủ lực khác, dẫn đầu là Souma Yuuto, luôn dốc toàn lực bảo vệ cô ta an toàn.
 
 Nhưng chỉ cần mọi người biết cô ta "có thể sử dụng", thì dù thỉnh thoảng có dùng đến, cô ta vẫn dễ dàng ngụy biện. Do đó, việc lén lút sử dụng kỹ năng này để tích lũy độ thuần thục mà không để bạn học nghi ngờ là một hành động có rủi ro cực thấp.
 
 Quá trình cày cấp kỹ năng của Kotori đã diễn ra trót lọt mà không một ai hay biết cho đến tận ngày hôm nay... Dù sự việc có bị bại lộ đi chăng nữa, chắc chắn cũng chẳng ai ngờ tới uy lực thực sự ẩn giấu đằng sau nó.
 
-Kỹ năng đã được Kotori nâng cấp lên tầng thứ cao hơn mang tên `『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』`, tuy vẫn chưa thể phát huy toàn bộ hiệu lực tối đa, nhưng nó vẫn sở hữu quyền năng áp đảo hoàn toàn so với "Lời Từ Chối".
+Kỹ năng đã được Kotori nâng cấp lên tầng thứ cao hơn mang tên \`『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』\`, tuy vẫn chưa thể phát huy toàn bộ hiệu lực tối đa, nhưng nó vẫn sở hữu quyền năng áp đảo hoàn toàn so với "Lời Từ Chối".
 
 Nó mạnh đến mức có thể phong tỏa tuyệt đối một 『Vương』 đang chuẩn bị tuốt kiếm sát phạt.
 
@@ -37907,7 +37907,7 @@ Nhưng nếu bảo cậu bây giờ phải cắm đầu đi thám hiểm một h
 
 Kỹ năng kế thừa:
 
-`『Tùy Tùng - Hầu Gái』`: Kẻ đi theo hầu hạ quân vương. Hầu gái sẽ đáp ứng mọi yêu cầu của vua, dâng hiến tất cả mọi thứ để phục vụ chủ nhân.
+\`『Tùy Tùng - Hầu Gái』\`: Kẻ đi theo hầu hạ quân vương. Hầu gái sẽ đáp ứng mọi yêu cầu của vua, dâng hiến tất cả mọi thứ để phục vụ chủ nhân.
 
 Sau Luyện Thành Sĩ, đây là một trong những kỹ năng thuộc chuỗi 『Tùy Tùng』 mà cậu nhận được. Cậu đã sở hữu nó từ hồi còn ở Học Viện Tháp, nhưng vì cuộc sống sinh hoạt khi đó không có gì bất tiện nên cậu chưa từng kích hoạt lần nào. Nói chính xác hơn, Ryuuichi có linh cảm rằng nếu một kẻ mang danh 『Hầu Gái』 lù lù xuất hiện trước mặt các bạn học, mọi chuyện chắc chắn sẽ trở nên rắc rối to.
 
@@ -39912,7 +39912,7 @@ Một ma pháp trận được vẽ ra ngay bên dưới cơ thể đang nằm c
 
 Khi Kotori mỉm cười vẫy tay, bóng dáng của nam sinh mang tên Shimokawa Junnosuke đã hoàn toàn biến mất không để lại một dấu vết nào.
 
-`『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』`: Đó là sự phán xét của thiên giới. Không một ai được phép trốn thoát—Việc thi hành thiên phạt chủ yếu do thiên sứ đảm nhận—Việc lựa chọn nơi trục xuất, để đảm bảo kẻ đó không bao giờ có thể quay trở lại, là một vùng đất ma quỷ nơi cái chết được định sẵn—Vì vậy, kẻ trên đây sẽ bị xử phạt trục xuất theo Điều 4 của Thiên Phạt Hình Pháp.`
+\`『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』\`: Đó là sự phán xét của thiên giới. Không một ai được phép trốn thoát—Việc thi hành thiên phạt chủ yếu do thiên sứ đảm nhận—Việc lựa chọn nơi trục xuất, để đảm bảo kẻ đó không bao giờ có thể quay trở lại, là một vùng đất ma quỷ nơi cái chết được định sẵn—Vì vậy, kẻ trên đây sẽ bị xử phạt trục xuất theo Điều 4 của Thiên Phạt Hình Pháp.`
             },
             {
                 "ep": 274,
@@ -40074,7 +40074,7 @@ Thật may vì chúng tôi đã cẩn thận vạch sẵn lối thoát hiểm t�
 
 Ngoài ra, trong quá trình đào tẩu, những quả bom khói dùng để đánh lạc hướng kẻ địch cũng đã phát huy tác dụng cực kỳ to lớn.
 
-Đó là thứ mà Momokawa gọi là `『Quả cầu khói』`, một vật phẩm do chính tay cậu ta chế tạo. Trong trận chiến với Yamata no Orochi thì chưa cần dùng đến, nhưng cậu ta từng bảo rằng trên chặng đường trốn chạy dài đằng đẵng sau này, chắc chắn sẽ có lúc phải dùng để cắt đuôi ma vật. Thế là cậu ta cứ lẳng lặng, cần mẫn làm ra những thứ như thế này.
+Đó là thứ mà Momokawa gọi là \`『Quả cầu khói』\`, một vật phẩm do chính tay cậu ta chế tạo. Trong trận chiến với Yamata no Orochi thì chưa cần dùng đến, nhưng cậu ta từng bảo rằng trên chặng đường trốn chạy dài đằng đẵng sau này, chắc chắn sẽ có lúc phải dùng để cắt đuôi ma vật. Thế là cậu ta cứ lẳng lặng, cần mẫn làm ra những thứ như thế này.
 
 Ngay cả sự nỗ lực âm thầm đó, có lẽ cũng chỉ là một màn kịch được dựng lên để đánh lừa chúng tôi mà thôi.
 
@@ -40180,7 +40180,7 @@ Chẳng thể cứu vãn được gì nữa rồi. Dù Sakura có dốc cạn to
 
 Thực ra, ngay từ đầu ai trong chúng tôi cũng đã rõ mười mươi. Chỉ cần nhìn qua một cái là biết không thể nào qua khỏi.
 
-Việc Nonomiya có thể duy trì hơi tàn cho đến tận lúc này hoàn toàn là nhờ vào sinh lực bền bỉ của thiên chức `『Kị Sĩ』`. Sức sống dẻo dai ấy, trớ trêu thay, lại chỉ càng kéo dài thêm nỗi thống khổ tột cùng trong những giây phút cuối đời của cô.
+Việc Nonomiya có thể duy trì hơi tàn cho đến tận lúc này hoàn toàn là nhờ vào sinh lực bền bỉ của thiên chức \`『Kị Sĩ』\`. Sức sống dẻo dai ấy, trớ trêu thay, lại chỉ càng kéo dài thêm nỗi thống khổ tột cùng trong những giây phút cuối đời của cô.
 
 Nhưng dù biết vậy, ai có thể nhẫn tâm xuống tay để giải thoát cho cô ấy đây? *À, Momokawa, nếu là cậu, có lẽ cậu sẽ làm được điều tàn nhẫn đó một cách dễ dàng nhỉ.*
 
@@ -40298,9 +40298,9 @@ Kẻ thủ ác đã ra tay tàn sát đồng đội của chúng tôi. Sức m�
 
 “Cậu nói sao?”
 
-“Hắn tự xưng là Zagan của chủng tộc `『Gira-Gogma』`.”
+“Hắn tự xưng là Zagan của chủng tộc \`『Gira-Gogma』\`.”
 
-Có lẽ, những cá thể bình thường mang hình hài Gove nhưng lại sở hữu khả năng hóa khổng lồ vượt trội hơn cả Gogma sẽ được gọi là `『Gira-Gogma』`.
+Có lẽ, những cá thể bình thường mang hình hài Gove nhưng lại sở hữu khả năng hóa khổng lồ vượt trội hơn cả Gogma sẽ được gọi là \`『Gira-Gogma』\`.
 
 Bản thân Gogma đã là ma vật cấp cao có khả năng chỉ huy cả một bầy Goma đông đảo. Kẻ đứng trên đỉnh cao của cấp độ đó chắc chắn phải nắm giữ địa vị tối cao trong quân đội của Vương quốc Goma.
 
@@ -42520,11 +42520,11 @@ Liệu kẻ nào mới thực sự là con mồi? Kết cục sẽ sớm đượ
 
 Kỹ năng săn mồi thu được:
 
-`『Hắc Ảnh Nhẫn』`: Lưỡi đao bằng thép đen kịt như bóng tối.
+\`『Hắc Ảnh Nhẫn』\`: Lưỡi đao bằng thép đen kịt như bóng tối.
 
-`『Hắc Ảnh Châm』`: Những chiếc kim bằng thép đen kịt như bóng tối.
+\`『Hắc Ảnh Châm』\`: Những chiếc kim bằng thép đen kịt như bóng tối.
 
-`『Hắc Ảnh Hành Giả』`: Di chuyển nhanh hơn và im lặng hơn trong bóng tối.
+\`『Hắc Ảnh Hành Giả』\`: Di chuyển nhanh hơn và im lặng hơn trong bóng tối.
 
 Những dòng thông tin ngắn gọn về ba kỹ năng mới lập tức khắc sâu vào tâm trí Ryuuichi.
 
@@ -42560,7 +42560,7 @@ Thế nhưng, tốc độ hồi phục và sự đa năng từ ma thuật của 
 
 Ngay khi cô hầu gái hướng ánh mắt về phía xác ma vật, những lưỡi đao đen kịt lập tức trồi lên từ mặt đất tăm tối.
 
-Kỹ năng săn mồi `『Hắc Ảnh Nhẫn』` rạch nát lồng ngực con quái vật một cách điêu luyện, chuẩn xác tách lấy viên lõi ma vật ẩn sâu bên trong. Khoảnh khắc viên tinh thể đỏ thẫm rơi ra, một ma pháp trận màu vàng kim rực rỡ lập tức bừng sáng dưới chân, hút trọn viên lõi vào trong `『Kho Báu』`.
+Kỹ năng săn mồi \`『Hắc Ảnh Nhẫn』\` rạch nát lồng ngực con quái vật một cách điêu luyện, chuẩn xác tách lấy viên lõi ma vật ẩn sâu bên trong. Khoảnh khắc viên tinh thể đỏ thẫm rơi ra, một ma pháp trận màu vàng kim rực rỡ lập tức bừng sáng dưới chân, hút trọn viên lõi vào trong \`『Kho Báu』\`.
 
 “Mày dám tự tiện xài kỹ năng của tao đấy à?”
 
@@ -43303,9 +43303,9 @@ Uy lực này đúng là tiệm cận cấp Boss. Nếu không có đầy đủ 
 
 Con báo tuyết khổng lồ dài chừng 3 mét ngã gục sau khi trúng đòn chí mạng vào yết hầu từ Kyouko. Nó nằm im bất động, chết ngay tức khắc. Nhờ hạ gục mục tiêu bằng một đòn hiểm duy nhất nên phần thân thể còn lại vẫn còn nguyên vẹn.
 
-Với khả năng di chuyển linh hoạt, chạy nhảy thoăn thoắt trên nền tuyết dày lẫn trên các nhánh cây, lại cộng thêm sức mạnh của Băng ma thuật, dù chúng tôi có áp đảo về số lượng thì cũng khó lòng tung ra đòn tấn công hiệu quả. Thế nhưng, Alpha đã liều mình lao vào cắn xé quấy nhiễu, tạo thời cơ để tôi thi triển `『Tóc Đen Trói Buộc』` khóa chặt lấy nó.
+Với khả năng di chuyển linh hoạt, chạy nhảy thoăn thoắt trên nền tuyết dày lẫn trên các nhánh cây, lại cộng thêm sức mạnh của Băng ma thuật, dù chúng tôi có áp đảo về số lượng thì cũng khó lòng tung ra đòn tấn công hiệu quả. Thế nhưng, Alpha đã liều mình lao vào cắn xé quấy nhiễu, tạo thời cơ để tôi thi triển \`『Tóc Đen Trói Buộc』\` khóa chặt lấy nó.
 
-Không bỏ lỡ vài giây ngắn ngủi khi con quái thú đang gồng mình chống cự bằng sức mạnh cơ bắp và lưỡi kiếm băng, Kyouko đã tung ra đòn dứt điểm `『Nham Thương』`.
+Không bỏ lỡ vài giây ngắn ngủi khi con quái thú đang gồng mình chống cự bằng sức mạnh cơ bắp và lưỡi kiếm băng, Kyouko đã tung ra đòn dứt điểm \`『Nham Thương』\`.
 
 Chìa khóa chiến thắng quả nhiên nằm ở ưu thế quân số cùng sự phối hợp nhịp nhàng. Dù không trực tiếp gây sát thương dứt điểm, nhưng nhóm Hayama cũng đã hoàn thành xuất sắc nhiệm vụ bao vây, dồn ép con báo tuyết vào góc chết khiến nó không thể trốn thoát.
 
@@ -43345,7 +43345,7 @@ Tôi chĩa đầu cây gậy mới chế tác về phía đống xác voi ma mú
 
 “Nào Yokomichi, mồi ngon dâng tận miệng đây, ăn cho thỏa thích đi.”
 
-Cây gậy `『Vô Đạo Nhất Thức』` trên tay tôi phát ra những tiếng ma sát lách cách khô khốc, rồi từ từ mở toạc chiếc hàm dị dạng.
+Cây gậy \`『Vô Đạo Nhất Thức』\` trên tay tôi phát ra những tiếng ma sát lách cách khô khốc, rồi từ từ mở toạc chiếc hàm dị dạng.
 
 Ngay khoảnh khắc tiếp theo, vô số xúc tu đen ngòm, to bản cuồn cuộn phóng ra từ miệng gậy. Đầu của chúng nứt toác thành những cái miệng đỏ lòm lởm chởm răng nanh, điên cuồng lao vào ngấu nghiến đống xác voi ma mút.
 
@@ -43353,7 +43353,7 @@ Những xúc tu tựa như bầy đại xà hung hãn, vừa ngấu nghiến c�
 
 Dù tính thế nào thì trọng lượng cơ thể của tôi khi cầm gậy và đống thịt voi ma mút kia cũng hoàn toàn chênh lệch, nhưng kỳ lạ thay, toàn bộ khối xác đồ sộ lại bị các xúc tu kéo lê về phía cây gậy một cách nhẹ nhàng. Bản thân tôi nắm giữ thân trượng cũng không hề cảm nhận phải chịu bất kỳ sức nặng hay phản lực kéo giật nào.
 
-Khi đống xác voi ma mút đã bị lôi đến sát tầm với của cây gậy, một ma pháp trận khổng lồ lập tức bừng nở từ đầu trượng, ngay vị trí khảm `『Đầu Lâu Của Thực Nhân Quỷ』`. Trên vòng tròn ma pháp tỏa ra ánh sáng đỏ đen ma mị, một luồng hỗn mang đen ngòm cuộn xoáy dữ dội, thoạt nhìn rất giống cảnh tượng mỗi khi tôi thi triển `『Thi Nhân Hình』`.
+Khi đống xác voi ma mút đã bị lôi đến sát tầm với của cây gậy, một ma pháp trận khổng lồ lập tức bừng nở từ đầu trượng, ngay vị trí khảm \`『Đầu Lâu Của Thực Nhân Quỷ』\`. Trên vòng tròn ma pháp tỏa ra ánh sáng đỏ đen ma mị, một luồng hỗn mang đen ngòm cuộn xoáy dữ dội, thoạt nhìn rất giống cảnh tượng mỗi khi tôi thi triển \`『Thi Nhân Hình』\`.
 
 Đống xác voi ma mút cứ thế bị bầy xúc tu lôi tuột vào tâm ma pháp trận. Dù là một khối thịt xương khổng lồ vượt xa đường kính của vòng tròn ma pháp, nhưng những xúc tu đang cắn xé ấy đã nghiền nát và nuốt chửng toàn bộ vào trong không gian chứa của cây trượng mà không để sót lại lấy một mảnh vụn.
 
@@ -44154,7 +44154,7 @@ Chỉ khi nhìn thấy dáng vẻ thảm hại của năm người bị dồn v�
 
 Nói là quen thì cũng không hẳn. Chỉ là tôi đã tự tìm được cách thỏa hiệp với bản thân về việc tước đoạt mạng sống của kẻ khác mà thôi.
 
-Bởi vì tôi là một `『Chú thuật sư』` mà. Việc nguyền rủa chết người khác cũng là chuyện thường tình thôi.
+Bởi vì tôi là một \`『Chú thuật sư』\` mà. Việc nguyền rủa chết người khác cũng là chuyện thường tình thôi.
 
 “Hayama-kun, cậu có sợ tớ không?”
 
@@ -44194,7 +44194,7 @@ Hửm, cái cảm giác xoa đầu chuẩn xác này là sao! Quả không hổ 
 
 “Thật là quá đáng mà.”
 
-Món nợ này tôi nhất định sẽ đòi lại sòng phẳng. Với trách nhiệm của một `『Chú thuật sư』`, tôi sẽ bắt Takanashi phải nếm trải nỗi đau đớn tột cùng của địa ngục trước khi nguyền rủa cậu ta đến chết.
+Món nợ này tôi nhất định sẽ đòi lại sòng phẳng. Với trách nhiệm của một \`『Chú thuật sư』\`, tôi sẽ bắt Takanashi phải nếm trải nỗi đau đớn tột cùng của địa ngục trước khi nguyền rủa cậu ta đến chết.
 
 “Thế rồi, kế hoạch tiếp theo thế nào? Lũ Goma đã lập thành cả một vương quốc, còn những kẻ đi cùng Takanashi thì lại coi cậu là kẻ thù đúng không?”
 
@@ -44272,7 +44272,7 @@ Sắc mặt của Yoshizaki trông không được tốt lắm. Kyouko đứng b
 
 Tôi chỉ đang quan tâm cậu ta một cách thuần túy thôi mà.
 
-Nakai cũng đã bị giết tại đây dưới tay Zagan. Nghe nói cậu ta bị chém đứt làm đôi và chết ngay lập tức... Một `『Chiến Binh』` dày dạn kinh nghiệm như Nakai mà còn bị hạ sát trong nháy mắt, xem ra tên Zagan đó quả thực là một đối thủ ở đẳng cấp hoàn toàn khác biệt.
+Nakai cũng đã bị giết tại đây dưới tay Zagan. Nghe nói cậu ta bị chém đứt làm đôi và chết ngay lập tức... Một \`『Chiến Binh』\` dày dạn kinh nghiệm như Nakai mà còn bị hạ sát trong nháy mắt, xem ra tên Zagan đó quả thực là một đối thủ ở đẳng cấp hoàn toàn khác biệt.
 
 Nhưng đứng ở lối vào mà gặm nhấm nỗi buồn thì cũng chẳng giải quyết được gì.
 
@@ -44288,7 +44288,7 @@ Vừa nghe Ueta kể lại tình hình lúc đó, chúng tôi vừa lục soát 
 
 Nhìn thấy đống đồ mà việc đầu tiên là kiểm tra điện thoại, đúng là lũ trẻ thời hiện đại.
 
-Nhưng vì đã bị bỏ xó vài ngày nên dĩ nhiên pin đã cạn sạch. Bộ sạc thì nằm trong tay Takanashi, đáng lẽ chúng sẽ không bao giờ có thể khởi động lại được nữa... nhưng bên phía chúng tôi lại có một `『Tinh Linh Thuật Sư』`. Tinh linh thuộc tính Lôi ơi, làm ơn giúp một tay nhé.
+Nhưng vì đã bị bỏ xó vài ngày nên dĩ nhiên pin đã cạn sạch. Bộ sạc thì nằm trong tay Takanashi, đáng lẽ chúng sẽ không bao giờ có thể khởi động lại được nữa... nhưng bên phía chúng tôi lại có một \`『Tinh Linh Thuật Sư』\`. Tinh linh thuộc tính Lôi ơi, làm ơn giúp một tay nhé.
 
 “Tuyệt quá, điện thoại của tớ cũng còn này!”
 
@@ -44454,7 +44454,7 @@ Takanashi chắc chắn đang ở trong cơ sở ẩn náu và theo dõi những
 
 Chậc, việc tôi đến được khu vực này và hội ngộ với năm người bị trục xuất vốn là một lợi thế thông tin cực kỳ quan trọng mà tôi muốn giấu Takanashi... nhưng nếu đã bị lộ rồi thì cũng đành chịu vậy.
 
-“Sao thế, ló mặt ra chút đi chứ đồ con gái ru rú trong nhà kia. Hửm, bộ đang sợ hãi lắm sao hả cô nàng `『Hiền Giả』`? Nếu vậy thì tốt nhất là cứ cầu nguyện với mụ nữ thần lẳng lơ mà cô tôn sùng đi. Từ giờ tôi sẽ dồn cô vào đường cùng. Tuyệt đối không để cô trốn thoát đâu. Tôi đã nói rồi mà nhỉ, tôi nhất định sẽ nguyền rủa cô cho đến chết.”
+“Sao thế, ló mặt ra chút đi chứ đồ con gái ru rú trong nhà kia. Hửm, bộ đang sợ hãi lắm sao hả cô nàng \`『Hiền Giả』\`? Nếu vậy thì tốt nhất là cứ cầu nguyện với mụ nữ thần lẳng lơ mà cô tôn sùng đi. Từ giờ tôi sẽ dồn cô vào đường cùng. Tuyệt đối không để cô trốn thoát đâu. Tôi đã nói rồi mà nhỉ, tôi nhất định sẽ nguyền rủa cô cho đến chết.”
 
 Được rồi, lời nhắn gửi như thế chắc là đủ rồi.
 
@@ -45654,11 +45654,11 @@ Tất cả các thành viên có khả năng sử dụng Luyện kim đều tậ
 
 Dù việc thám hiểm vẫn chưa mang lại phát hiện nào mang tính đột phá, nhưng chỉ riêng việc họ bắt được lũ quái vật tép riu như Raptor hay chim săn mồi để làm mắt xích cảnh giới cho tôi lúc này đã là quá đủ rồi.
 
-Để giám sát `『Kẻ Cuồng Chiến Lang Thang』`—con quái vật mà chỉ cần chạm trán là cầm chắc cái chết—chúng tôi hiện đang phải tiêu hao một lượng chim trinh sát không hề nhỏ.
+Để giám sát \`『Kẻ Cuồng Chiến Lang Thang』\`—con quái vật mà chỉ cần chạm trán là cầm chắc cái chết—chúng tôi hiện đang phải tiêu hao một lượng chim trinh sát không hề nhỏ.
 
 Ngoài ra, việc giám sát xung quanh căn cứ, trinh sát thực địa và nhiều hoạt động khác đều đòi hỏi rất nhiều "tai mắt" để thu thập thông tin. Song song với đó, tôi cũng cho người dò la xem liệu tổ đội của Souma có đang hoạt động ở bên ngoài hay không.
 
-Bên cạnh đó, lũ Raptor và các ma vật tương tự đã được chuyển sang chế độ tự lập của `『Xác Rối』` để bổ sung vào lực lượng hộ tống cho đội săn bắn bất cứ lúc nào. Lũ Goma tuy không dám bén mảng đến căn cứ dưới lòng đất, nhưng ở trên mặt đất thì chúng vẫn sẽ tấn công như bình thường.
+Bên cạnh đó, lũ Raptor và các ma vật tương tự đã được chuyển sang chế độ tự lập của \`『Xác Rối』\` để bổ sung vào lực lượng hộ tống cho đội săn bắn bất cứ lúc nào. Lũ Goma tuy không dám bén mảng đến căn cứ dưới lòng đất, nhưng ở trên mặt đất thì chúng vẫn sẽ tấn công như bình thường.
 
 Phía bên kia chắc chắn áp đảo về quân số, nên khi rút lui để tránh bị bao vây cũng cần phải hết sức cẩn trọng. Những lúc như thế, các xác rối dùng làm tốt thí sẽ phát huy tác dụng vô cùng tiện lợi.
 
@@ -45714,7 +45714,7 @@ Nhưng không cần phải nóng vội đâu. Cơ hội rồi sẽ đến thôi.
 
 “Ừ, hắn gầm lên một tiếng kỳ quái rồi cơ thể đột ngột phình to ra.”
 
-“Hắn thuộc kiểu biến hình bằng ma pháp khổng lồ hóa, thế nên điểm khó nhằn là chúng ta không thể phân biệt được kẻ nào là `『Gira-Gogma』` chỉ qua vẻ bề ngoài.”
+“Hắn thuộc kiểu biến hình bằng ma pháp khổng lồ hóa, thế nên điểm khó nhằn là chúng ta không thể phân biệt được kẻ nào là \`『Gira-Gogma』\` chỉ qua vẻ bề ngoài.”
 
 Hiện tại, tôi vẫn đang cử chim Rem liên tục do thám Vương quốc Goma.
 
@@ -45722,7 +45722,7 @@ Dù không thể bay vào sâu bên trong tòa tháp, nhưng cấu trúc tổng 
 
 Tuy nhiên, trong khi lũ Gogma to xác có thể dễ dàng nhận biết bằng mắt thường, thì những kẻ sở hữu năng lực khổng lồ hóa như Zagan lại không thể phân biệt nổi. Giá như trên người chúng lúc nào cũng phát ra luồng hào quang ma lực sáng rực thì tốt biết mấy.
 
-Chính vì lẽ đó, tôi hoàn toàn mù tịt về việc ngoài Zagan ra thì còn bao nhiêu kẻ thuộc đẳng cấp `『Gira-Gogma』`—những kẻ chắc chắn là lực lượng tác chiến tối cao của Vương quốc.
+Chính vì lẽ đó, tôi hoàn toàn mù tịt về việc ngoài Zagan ra thì còn bao nhiêu kẻ thuộc đẳng cấp \`『Gira-Gogma』\`—những kẻ chắc chắn là lực lượng tác chiến tối cao của Vương quốc.
 
 Vì chúng là dạng tồn tại cấp cao hơn cả Gogma nên số lượng chắc chắn không thể quá nhiều, nhưng... liệu chỉ có một tên, hay là tận mười tên? Cách thức ứng biến của chúng tôi sẽ khác biệt một trời một vực tùy thuộc vào con số đó. Dù thế nào, tôi vẫn phải nắm được quân số ước chừng của chúng.
 
@@ -45750,7 +45750,7 @@ Và theo những gì được nghe kể về sự hung hãn tột độ của Za
 
 “Triệu Hoán Linh Thú bị giới hạn thời gian phụ thuộc vào lượng ma lực của Hayama-kun. Đó là át chủ bài phòng thân cuối cùng, chúng ta không thể tùy tiện lạm dụng. Trừ khi hội tụ đủ các điều kiện tiên quyết như chắc chắn nắm phần thắng, và có thể thu hồi cậu ấy an toàn sau khi ngất đi vì cạn kiệt ma lực, bằng không tôi sẽ không bao giờ cho phép sử dụng năng lực đó.”
 
-Đối với chúng tôi lúc này, `『Triệu Hoán Linh Thú』` của Hayama chính là quân bài tẩy tối thượng.
+Đối với chúng tôi lúc này, \`『Triệu Hoán Linh Thú』\` của Hayama chính là quân bài tẩy tối thượng.
 
 Nhưng chính vì có hạn định ngặt nghèo nên không thể hình thành tâm lý ỷ lại. Tôi nghĩ việc cân nhắc thời cơ tung ra là trách nhiệm của tôi, còn việc kiến tạo một thế trận để quân bài đó phát huy tối đa uy lực là nghĩa vụ của tất cả mọi người.
 
@@ -45830,7 +45830,7 @@ Hayama tỏ ra vô cùng thán phục, trong khi Yamada lại đưa ra lời nh�
 
 Tôi hài lòng tháo chiếc mặt nạ Goma ra.
 
-`『Mặt nạ Goma』`: Chiếc mặt nạ được chế tác từ da mặt lột ra từ một con Goma còn nguyên vẹn. Dù gọi là mặt nạ nhưng cấu trúc của nó bao trùm toàn bộ phần đầu tương tự như mũ của một bộ mascot. Công đoạn phức tạp nhất chính là lột trọn vẹn lớp da mặt của con Goma sao cho thật lành lặn và thẩm mỹ. Ban đầu tôi thao tác khá vụng về, nhưng sau khi được hàng loạt tù binh Goma nhiệt tình "hợp tác", tay nghề của tôi giờ đây đã đạt đến độ thuần thục điêu luyện ngay cả khi chúng còn sống nhăn răng.
+\`『Mặt nạ Goma』\`: Chiếc mặt nạ được chế tác từ da mặt lột ra từ một con Goma còn nguyên vẹn. Dù gọi là mặt nạ nhưng cấu trúc của nó bao trùm toàn bộ phần đầu tương tự như mũ của một bộ mascot. Công đoạn phức tạp nhất chính là lột trọn vẹn lớp da mặt của con Goma sao cho thật lành lặn và thẩm mỹ. Ban đầu tôi thao tác khá vụng về, nhưng sau khi được hàng loạt tù binh Goma nhiệt tình "hợp tác", tay nghề của tôi giờ đây đã đạt đến độ thuần thục điêu luyện ngay cả khi chúng còn sống nhăn răng.
 
 Lũ Goma tuy có sắc tố da sẫm màu khó phân biệt hơn người bình thường, nhưng nếu chỉ đắp một lớp da chết trơ trọi thì chắc chắn sẽ bị lộ tẩy là hàng giả.
 
@@ -45838,13 +45838,13 @@ Nhìn lướt qua từ xa thì có thể đánh lừa được thị giác, như
 
 Chính vì vậy, đây là thời điểm hoàn hảo để chú thuật mới mà tôi nhận được từ Nữ thần Ruinhilde phát huy giá trị thực chiến.
 
-`『Hư Ảnh Tương Chiếu』`: Nhãn thuật của sự ngụy sức. Nếu thế nhân chỉ tin vào những gì họ muốn thấy, thì ta chỉ việc phơi bày cho họ thấy những thứ ta muốn họ tin. Tuy nhiên, lớp trang hoàng rỗng tuếch không có thực chất sẽ rất dễ bị lay chuyển và để lộ sơ hở. Dẫu vậy, nếu vẫn muốn phô diễn một hình hài giả dối, hãy trang hoàng nó sao cho thật tinh xảo và sống động. Kẻ phàm phu nào cũng vậy, chỉ quen nhìn vào bề nổi mà ngỡ mình đã thấu tỏ chân lý.
+\`『Hư Ảnh Tương Chiếu』\`: Nhãn thuật của sự ngụy sức. Nếu thế nhân chỉ tin vào những gì họ muốn thấy, thì ta chỉ việc phơi bày cho họ thấy những thứ ta muốn họ tin. Tuy nhiên, lớp trang hoàng rỗng tuếch không có thực chất sẽ rất dễ bị lay chuyển và để lộ sơ hở. Dẫu vậy, nếu vẫn muốn phô diễn một hình hài giả dối, hãy trang hoàng nó sao cho thật tinh xảo và sống động. Kẻ phàm phu nào cũng vậy, chỉ quen nhìn vào bề nổi mà ngỡ mình đã thấu tỏ chân lý.
 
 Nói một cách ngắn gọn, nó chẳng khác nào việc "trông gà hóa cuốc" vậy.
 
-`『Hư Ảnh Tương Chiếu』` là một dạng nhãn thuật ảo ảnh cho phép tôi áp đặt hình ảnh giả lập mà mình mong muốn lên tầm nhìn của đối phương. Tuy nhiên, thay vì tạo ra một ảnh ảo hologram lơ lửng giữa không trung như phép tương ảnh của Kotori, nó lại lợi dụng một vật thể hoặc cơ thể sống có sẵn để làm vật chủ phản chiếu hình ảnh ảo giác đó.
+\`『Hư Ảnh Tương Chiếu』\` là một dạng nhãn thuật ảo ảnh cho phép tôi áp đặt hình ảnh giả lập mà mình mong muốn lên tầm nhìn của đối phương. Tuy nhiên, thay vì tạo ra một ảnh ảo hologram lơ lửng giữa không trung như phép tương ảnh của Kotori, nó lại lợi dụng một vật thể hoặc cơ thể sống có sẵn để làm vật chủ phản chiếu hình ảnh ảo giác đó.
 
-Nói cách khác, ngay cả với chiếc mặt nạ Goma nhìn thô sơ dễ lộ kia, một khi được yểm `『Hư Ảnh Tương Chiếu』`, nó sẽ trở nên sống động, co giãn từng thớ cơ và chân thực y hệt khuôn mặt của một con Goma bằng xương bằng thịt.
+Nói cách khác, ngay cả với chiếc mặt nạ Goma nhìn thô sơ dễ lộ kia, một khi được yểm \`『Hư Ảnh Tương Chiếu』\`, nó sẽ trở nên sống động, co giãn từng thớ cơ và chân thực y hệt khuôn mặt của một con Goma bằng xương bằng thịt.
 
 Mức độ đánh lừa nhận thức của ảo thuật này phụ thuộc rất lớn vào việc vật thể làm nền có độ tương đồng về hình khối gần giống với hình ảnh muốn hiển thị đến mức nào.
 
@@ -45854,7 +45854,7 @@ Thế nhưng, nếu yểm phép lên một vật thể có khung xương và dá
 
 Do đó, chìa khóa cốt lõi của chú thuật này nằm ở việc tôi có thể chuẩn bị sẵn một vật dẫn có độ tương thích cao với ảo ảnh muốn tạo ra đến đâu. Quả nhiên, toàn bộ kỹ năng thuộc nhánh chú thuật của tôi lúc nào cũng đi kèm những điều kiện ràng buộc thực tế đến mức phiền toái.
 
-Nhưng ưu điểm tuyệt vời là `『Hư Ảnh Tương Chiếu』` được định danh là một nhãn thuật, đồng nghĩa với việc tôi có thể thi triển nó chỉ thông qua một ánh nhìn.
+Nhưng ưu điểm tuyệt vời là \`『Hư Ảnh Tương Chiếu』\` được định danh là một nhãn thuật, đồng nghĩa với việc tôi có thể thi triển nó chỉ thông qua một ánh nhìn.
 
 Khi dồn toàn bộ sự tập trung vào mục tiêu và kích hoạt thuật thức, ảo ảnh mong muốn sẽ bắt đầu hiện lên mờ ảo rồi dần trở nên sắc nét. Hình ảnh hiện lên càng chi tiết bao nhiêu thì hiệu lực thao túng giác quan của chú thuật càng bền bỉ bấy nhiêu.
 
@@ -45876,31 +45876,31 @@ Nhờ vào công năng luyện kim siêu tốc của đài phun nước tinh lin
 
 Nhờ vậy, chỉ trong vòng ba ngày ngắn ngủi, tôi đã hoàn thiện xong toàn bộ bộ trang bị thâm nhập chuyên dụng vô cùng ưng ý.
 
-`『Trang phục Goma』`: Bộ trang phục ngụy trang che kín toàn thân. Dựa trên các dữ liệu nghiên cứu về lối ăn mặc của lũ Goma thường dân qua các đợt do thám trước đó, tôi đã thiết kế nên bộ đồ này nhằm đảm bảo tính hòa nhập tối đa mà vẫn phong tỏa hoàn toàn đặc điểm nhận dạng của con người. Về cơ bản, nó là một chiếc áo choàng rách rưới chắp vá từ vô số mảnh vải vụn bẩn thỉu.
+\`『Trang phục Goma』\`: Bộ trang phục ngụy trang che kín toàn thân. Dựa trên các dữ liệu nghiên cứu về lối ăn mặc của lũ Goma thường dân qua các đợt do thám trước đó, tôi đã thiết kế nên bộ đồ này nhằm đảm bảo tính hòa nhập tối đa mà vẫn phong tỏa hoàn toàn đặc điểm nhận dạng của con người. Về cơ bản, nó là một chiếc áo choàng rách rưới chắp vá từ vô số mảnh vải vụn bẩn thỉu.
 
-`『Balo Goma』`: Chiếc túi hành trang dùng để chứa các vật dụng cần thiết cho chuyến thám hiểm. Nó được may ghép cẩu thả từ nhiều mảnh da thú thô ráp, trông giống một chiếc bao tải lớn đeo chéo qua vai hơn là một chiếc balo thông thường.
+\`『Balo Goma』\`: Chiếc túi hành trang dùng để chứa các vật dụng cần thiết cho chuyến thám hiểm. Nó được may ghép cẩu thả từ nhiều mảnh da thú thô ráp, trông giống một chiếc bao tải lớn đeo chéo qua vai hơn là một chiếc balo thông thường.
 
-`『Cây Gậy Ẩn Mật』`: Trang bị tác chiến hạt nhân của chuyến đi lần này. Tôi đã tích hợp `『Đầu lâu của Xạ thủ』` của Sakurai—thứ vốn chưa từng có đất dụng võ từ trước đến nay—để tôi luyện nên một cây gậy phép sở hữu toàn bộ các kỹ năng thuộc nhánh hành động ẩn mật. Các kỹ năng có thể kích hoạt gồm:
+\`『Cây Gậy Ẩn Mật』\`: Trang bị tác chiến hạt nhân của chuyến đi lần này. Tôi đã tích hợp \`『Đầu lâu của Xạ thủ』\` của Sakurai—thứ vốn chưa từng có đất dụng võ từ trước đến nay—để tôi luyện nên một cây gậy phép sở hữu toàn bộ các kỹ năng thuộc nhánh hành động ẩn mật. Các kỹ năng có thể kích hoạt gồm:
 
-`『Cảm Nhận Hiện Diện』`: Cường hóa tri giác, giúp phát hiện dấu vết sinh mệnh và sự hiện diện của kẻ địch trong phạm vi xung quanh một cách cực kỳ nhạy bén.
+\`『Cảm Nhận Hiện Diện』\`: Cường hóa tri giác, giúp phát hiện dấu vết sinh mệnh và sự hiện diện của kẻ địch trong phạm vi xung quanh một cách cực kỳ nhạy bén.
 
-`『Che Giấu Hiện Diện』`: Triệt tiêu hoàn toàn hơi thở và sự hiện diện của bản thân, hòa tan vào bóng tối để di chuyển hoàn toàn không phát ra tiếng động.
+\`『Che Giấu Hiện Diện』\`: Triệt tiêu hoàn toàn hơi thở và sự hiện diện của bản thân, hòa tan vào bóng tối để di chuyển hoàn toàn không phát ra tiếng động.
 
-`『Ưng Nhãn』`: Mở rộng tầm nhìn, giúp quan sát rõ mồn một các chi tiết và chuyển động ở khoảng cách cực xa tương tự như mắt chim ưng.
+\`『Ưng Nhãn』\`: Mở rộng tầm nhìn, giúp quan sát rõ mồn một các chi tiết và chuyển động ở khoảng cách cực xa tương tự như mắt chim ưng.
 
 Đây thực sự là bộ kỹ năng sinh ra để phục vụ cho các hoạt động thâm nhập bí mật sau lưng kẻ thù.
 
-Dẫu đây là những năng lực được rút ra từ `『Đầu lâu của Xạ thủ』`, nhưng việc nó hoàn toàn không kế thừa bất kỳ hiệu ứng bổ trợ nào cho các đòn bắn cung có lẽ bắt nguồn từ việc bản thân tôi không sở hữu chút thiên phú nào về xạ kích. Xem ra không phải cứ cướp đoạt được kỹ năng là có thể sử dụng một cách toàn năng được.
+Dẫu đây là những năng lực được rút ra từ \`『Đầu lâu của Xạ thủ』\`, nhưng việc nó hoàn toàn không kế thừa bất kỳ hiệu ứng bổ trợ nào cho các đòn bắn cung có lẽ bắt nguồn từ việc bản thân tôi không sở hữu chút thiên phú nào về xạ kích. Xem ra không phải cứ cướp đoạt được kỹ năng là có thể sử dụng một cách toàn năng được.
 
-`『Ngòi Độc Death Stalker』`: Vũ khí cận chiến được trích xuất từ ngòi độc bọ cạp khổng lồ mà Yokomichi để lại. Đây là công cụ được chuẩn bị riêng cho việc âm thầm thủ tiêu những con Goma cản đường trong quá trình thâm nhập nội thành. Vì đây là vũ khí chuyên dụng cho các đòn ám sát bất ngờ chứ không dùng để giao tranh trực diện, nên tôi giữ nguyên ngòi độc nguyên bản, chỉ gắn thêm một chuôi cầm ngắn để tăng lực đâm và thu gọn kích thước để dễ bề giấu trong tay áo. Chỉ cần một vết chích sượt qua da, một con Goma thông thường sẽ lập tức ngã gục và tê liệt tim mà không kịp ú ớ lấy một lời. Ngay cả Gove cũng không phải ngoại lệ.
+\`『Ngòi Độc Death Stalker』\`: Vũ khí cận chiến được trích xuất từ ngòi độc bọ cạp khổng lồ mà Yokomichi để lại. Đây là công cụ được chuẩn bị riêng cho việc âm thầm thủ tiêu những con Goma cản đường trong quá trình thâm nhập nội thành. Vì đây là vũ khí chuyên dụng cho các đòn ám sát bất ngờ chứ không dùng để giao tranh trực diện, nên tôi giữ nguyên ngòi độc nguyên bản, chỉ gắn thêm một chuôi cầm ngắn để tăng lực đâm và thu gọn kích thước để dễ bề giấu trong tay áo. Chỉ cần một vết chích sượt qua da, một con Goma thông thường sẽ lập tức ngã gục và tê liệt tim mà không kịp ú ớ lấy một lời. Ngay cả Gove cũng không phải ngoại lệ.
 
-`『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』`: Con cú trắng muốt thu được từ vùng bình nguyên băng tuyết trước đó. Tôi quyết định điều động nó làm vệ tinh bảo hộ tầm cao. Tuy nhiên, vì một con cú tuyết cỡ lớn rất dễ lọt vào tầm ngắm nên tôi sẽ luôn duy trì nó ở tầng mây trên cao. Sứ mệnh duy nhất của nó là lao xuống thu hồi hai trang bị tối quan trọng là `『Cây Gậy Ẩn Mật』` và `『Ngòi Độc Death Stalker』` trong kịch bản xấu nhất là phân thân của tôi bị tiêu diệt bên trong Vương quốc. Những thứ khác mất đi có thể làm lại, nhưng hai món này—đặc biệt là `『Cây Gậy Ẩn Mật』` mang đầu lâu của Sakurai—bắt buộc phải được mang về an toàn. Đó là trách nhiệm đối với cả Sakurai nữa.
+\`『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』\`: Con cú trắng muốt thu được từ vùng bình nguyên băng tuyết trước đó. Tôi quyết định điều động nó làm vệ tinh bảo hộ tầm cao. Tuy nhiên, vì một con cú tuyết cỡ lớn rất dễ lọt vào tầm ngắm nên tôi sẽ luôn duy trì nó ở tầng mây trên cao. Sứ mệnh duy nhất của nó là lao xuống thu hồi hai trang bị tối quan trọng là \`『Cây Gậy Ẩn Mật』\` và \`『Ngòi Độc Death Stalker』\` trong kịch bản xấu nhất là phân thân của tôi bị tiêu diệt bên trong Vương quốc. Những thứ khác mất đi có thể làm lại, nhưng hai món này—đặc biệt là \`『Cây Gậy Ẩn Mật』\` mang đầu lâu của Sakurai—bắt buộc phải được mang về an toàn. Đó là trách nhiệm đối với cả Sakurai nữa.
 
-`『Thành viên Đội Trinh Sát Rem - Quạ』`: Loài quạ đen ăn xác thường thấy rải rác ở khu vực này. Dù có bay lượn ở tầm thấp bên trong Vương quốc thì cũng không tạo ra sự chú ý đáng kể nào. Tuy nhiên, lũ Goma đôi khi vẫn bắn hạ chúng để nướng thịt nên nguy cơ bị tấn công vẫn tồn tại. Vai trò trinh sát tầm gần và cảnh giới điểm mù khi tôi đột nhập sẽ do nó phụ trách chính.
+\`『Thành viên Đội Trinh Sát Rem - Quạ』\`: Loài quạ đen ăn xác thường thấy rải rác ở khu vực này. Dù có bay lượn ở tầm thấp bên trong Vương quốc thì cũng không tạo ra sự chú ý đáng kể nào. Tuy nhiên, lũ Goma đôi khi vẫn bắn hạ chúng để nướng thịt nên nguy cơ bị tấn công vẫn tồn tại. Vai trò trinh sát tầm gần và cảnh giới điểm mù khi tôi đột nhập sẽ do nó phụ trách chính.
 
-`『Xác Rối - Rắn』`: Một con rắn hoang dã bình thường được tôi thu phục bằng `『Đồng Điệu Ba Động』`. Vì chim chóc đôi khi vẫn gây chú ý khi bay vào không gian hẹp nên tôi chuẩn bị nó để luồn lách thám thính bên trong các công trình kiến trúc, hiện đang nằm gọn trong balo.
+\`『Xác Rối - Rắn』\`: Một con rắn hoang dã bình thường được tôi thu phục bằng \`『Đồng Điệu Ba Động』\`. Vì chim chóc đôi khi vẫn gây chú ý khi bay vào không gian hẹp nên tôi chuẩn bị nó để luồn lách thám thính bên trong các công trình kiến trúc, hiện đang nằm gọn trong balo.
 
-`『Xác Rối - Nhện』`: Tương tự như con rắn, đây cũng chỉ là một cá thể nhện thông thường. Dùng để bò vào các khe hẹp điều tra địa hình và đang được cất trong balo.
+\`『Xác Rối - Nhện』\`: Tương tự như con rắn, đây cũng chỉ là một cá thể nhện thông thường. Dùng để bò vào các khe hẹp điều tra địa hình và đang được cất trong balo.
 
 Tạm thời, toàn bộ hành trang chuẩn bị cho chuyến đi thâm nhập gồm bấy nhiêu thứ.
 
@@ -45944,13 +45944,13 @@ Vậy thì, trong trường hợp nào một cá thể đi qua cổng sẽ dễ 
 
 Và đáp án chính là: khi chúng đang hì hục khiêng chiến lợi phẩm săn bắn trở về.
 
-“Được rồi, vị trí này là vừa đẹp————Giải trừ `『Xác Rối』`.”
+“Được rồi, vị trí này là vừa đẹp————Giải trừ \`『Xác Rối』\`.”
 
-Dù trước đây chưa có dịp sử dụng đến, nhưng trên thực tế thuật thức `『Xác Rối』` hoàn toàn có thể được giải trừ chủ động theo ý niệm của thuật giả.
+Dù trước đây chưa có dịp sử dụng đến, nhưng trên thực tế thuật thức \`『Xác Rối』\` hoàn toàn có thể được giải trừ chủ động theo ý niệm của thuật giả.
 
 Khi dòng ma lực liên kết bị cắt đứt, con vật dĩ nhiên sẽ lập tức quay trở lại trạng thái một cái xác chết thông thường.
 
-Sau khi tiếp cận một bụi rậm cách không xa cổng thành Vương quốc, tôi giải trừ xác rối của con Jaaja, biến nó thành một cái xác tươi nguyên trông như vừa bị đánh bẫy hạ gục tại chỗ. Để tăng thêm phần thuyết phục, tôi còn thi triển `『Hư Ảnh Tương Chiếu』` để phủ lên cái xác một lớp ảo ảnh khiến nó trông béo tốt và tươi mới hơn thực tế gấp bội.
+Sau khi tiếp cận một bụi rậm cách không xa cổng thành Vương quốc, tôi giải trừ xác rối của con Jaaja, biến nó thành một cái xác tươi nguyên trông như vừa bị đánh bẫy hạ gục tại chỗ. Để tăng thêm phần thuyết phục, tôi còn thi triển \`『Hư Ảnh Tương Chiếu』\` để phủ lên cái xác một lớp ảo ảnh khiến nó trông béo tốt và tươi mới hơn thực tế gấp bội.
 
 “Mau tìm một con Goma ở gần đây dẫn về đây cho ta. Ưu tiên đứa nào đang tách đàn đi hái lượm một mình ấy.”
 
@@ -46092,7 +46092,7 @@ Con Goma tuy có chút ngờ vực trước hành tung kỳ lạ của tôi, nh�
 
 Nó cũng thò đầu nghiêng người nhìn xuống dòng nước đen ngòm phía dưới————và thế là, tầm mắt của nó đã hoàn toàn rời khỏi tôi.
 
-Tôi nhẹ nhàng thu hẹp khoảng cách từ phía sau con Goma đang ngu ngốc dán mắt xuống đáy mương, rồi trượt bàn tay rút `『Ngòi Độc Death Stalker』` giấu trong ống tay áo ra.
+Tôi nhẹ nhàng thu hẹp khoảng cách từ phía sau con Goma đang ngu ngốc dán mắt xuống đáy mương, rồi trượt bàn tay rút \`『Ngòi Độc Death Stalker』\` giấu trong ống tay áo ra.
 
 *Phập!*
 
@@ -46114,7 +46114,7 @@ Bởi lẽ, đàn Ếch Lợn đói khát bên dưới đáy mương đã lập 
 
 “Được rồi, giờ thì bắt tay vào công cuộc điều tra Vương quốc một cách thật năng nổ thôi nào.”
 
-Sau khi tiện tay đẩy luôn xác con Jaaja xuống mương cho lũ Ếch Lợn dọn dẹp sạch sẽ nhằm phi tang toàn bộ chứng cứ, tôi siết chặt `『Cây Gậy Ẩn Mật』` trong tay, hòa mình vào màn đêm và sải bước tiến sâu vào những con ngõ vắng lặng không một bóng người của Vương quốc Goma.`
+Sau khi tiện tay đẩy luôn xác con Jaaja xuống mương cho lũ Ếch Lợn dọn dẹp sạch sẽ nhằm phi tang toàn bộ chứng cứ, tôi siết chặt \`『Cây Gậy Ẩn Mật』\` trong tay, hòa mình vào màn đêm và sải bước tiến sâu vào những con ngõ vắng lặng không một bóng người của Vương quốc Goma.`
             },
             {
                 "ep": 292,
@@ -47748,7 +47748,7 @@ Minami nhanh chóng lao ra khỏi căn phòng bí mật, chọn những lối đ
 
 “Tránh đường!”
 
-Trên đường đi, vài con Goma xuất hiện cản đường, nhưng nếu chúng không đi thành đàn thì chẳng phải là đối thủ của cô. Vừa lao đi với tốc độ cao, cô vừa vung dao găm `『Ancient Villains』` cắt ngọt cuống họng của chúng rồi tiếp tục hướng thẳng ra phía ngoài.
+Trên đường đi, vài con Goma xuất hiện cản đường, nhưng nếu chúng không đi thành đàn thì chẳng phải là đối thủ của cô. Vừa lao đi với tốc độ cao, cô vừa vung dao găm \`『Ancient Villains』\` cắt ngọt cuống họng của chúng rồi tiếp tục hướng thẳng ra phía ngoài.
 
 “Oa, phía bên ngoài thị trấn cũng đang náo loạn hết cả lên kìa.”
 
@@ -47942,7 +47942,7 @@ Năng lực khổng lồ hóa là thứ do Oh-ma ban tặng, và vì là ngườ
 
 Thế nhưng, chúng ta nên giả định rằng Oh-ma có thể tự do điều khiển năng lực khổng lồ hóa đã ban cho những con Gira-GoGame Mastera được tuyển chọn này.
 
-“Tớ đã nghĩ nếu `『Ác Linh Nhập』` có tác dụng với Zagan thì mọi chuyện sẽ dễ dàng hơn nhiều, nhưng vì có Oh-ma ở đó nên phương án này bất khả thi rồi.”
+“Tớ đã nghĩ nếu \`『Ác Linh Nhập』\` có tác dụng với Zagan thì mọi chuyện sẽ dễ dàng hơn nhiều, nhưng vì có Oh-ma ở đó nên phương án này bất khả thi rồi.”
 
 Mà thực ra, ngay cả khi không có Oh-ma, chú thuật đó cũng khó lòng có tác dụng với một kẻ mạnh như Zagan. Dù sao thì, việc loại bớt được một phương án thử nghiệm cũng là điều tốt.
 
@@ -50858,7 +50858,7 @@ Chuyện này, theo một nghĩa nào đó, còn quan trọng hơn cả việc c
 
 Cho đến tận bây giờ, tớ vẫn không coi Souma là kẻ thù cần phải giết. Dù sự thiên vị người nhà của cậu ta đôi lúc khiến tớ rất đau đầu, nhưng chính nghĩa của cậu ta là thật. Và tất nhiên, cả thực lực nữa. Cậu ta có đủ sức mạnh để bảo vệ các bạn học. Cậu ta không bảo vệ được chỉ là vì đã đi sai hướng mà thôi.
 
-Vì vậy, chúng ta không thể cứ thế lao vào giết Takanashi ngay lập tức. Nếu làm vậy, Souma sẽ lại ôm lòng căm hận tớ giống như lúc Reina bị giết. Lần này, cậu ta chắc chắn sẽ bị cơn thịnh nộ nuốt chửng và chuyển thiên chức từ `『Dũng Giả』` thành “Kẻ thù không đội trời chung của Momokawa”.
+Vì vậy, chúng ta không thể cứ thế lao vào giết Takanashi ngay lập tức. Nếu làm vậy, Souma sẽ lại ôm lòng căm hận tớ giống như lúc Reina bị giết. Lần này, cậu ta chắc chắn sẽ bị cơn thịnh nộ nuốt chửng và chuyển thiên chức từ \`『Dũng Giả』\` thành “Kẻ thù không đội trời chung của Momokawa”.
 
 Tớ phải nguyền rủa chết Takanashi, đồng thời hòa giải với Souma. Cả hai mục tiêu đó đều phải đạt được.
 
@@ -50886,23 +50886,23 @@ Phải, tòa nhà phế tích này ngoài những dây leo xanh mọc um tùm ra
 
 Dù có chút ngượng ngùng khi được khen ngợi chân thành, Nakajima vẫn giơ cao thanh kiếm đỏ trên tay.
 
-`『Trung Cấp Ma Pháp Kiếm Kỹ』`: Cho phép người sử dụng thi triển ma pháp trung cấp. Các ma pháp có thể sử dụng được quyết định bởi thuộc tính và hiệu năng của thanh ma pháp kiếm được trang bị.
+\`『Trung Cấp Ma Pháp Kiếm Kỹ』\`: Cho phép người sử dụng thi triển ma pháp trung cấp. Các ma pháp có thể sử dụng được quyết định bởi thuộc tính và hiệu năng của thanh ma pháp kiếm được trang bị.
 
-`『Viêm Kiếm Salamandra』`: Thanh ma pháp kiếm thuộc tính Hỏa cực kỳ xa xỉ được chế tạo từ rất nhiều nguyên liệu của Salamander. Với phần lưỡi kiếm rộng một cạnh được rèn từ móng chân lớn nhất của Salamander kết hợp với răng nanh và Hỏa Quang Thiết, một luồng sáng màu cam như dung nham rực cháy dọc theo thuật thức mà tôi đã khắc lên. Phần chuôi và đốc kiếm được bọc bằng lớp vảy thượng hạng, tạo nên một vẻ ngoài đỏ rực đặc trưng của Salamander. Nhân tiện, thiết kế của thanh kiếm này được tôi tham khảo từ thanh vương kiếm màu đỏ làm từ nguyên liệu Salamander mà Tendou từng sử dụng trước đây.
+\`『Viêm Kiếm Salamandra』\`: Thanh ma pháp kiếm thuộc tính Hỏa cực kỳ xa xỉ được chế tạo từ rất nhiều nguyên liệu của Salamander. Với phần lưỡi kiếm rộng một cạnh được rèn từ móng chân lớn nhất của Salamander kết hợp với răng nanh và Hỏa Quang Thiết, một luồng sáng màu cam như dung nham rực cháy dọc theo thuật thức mà tôi đã khắc lên. Phần chuôi và đốc kiếm được bọc bằng lớp vảy thượng hạng, tạo nên một vẻ ngoài đỏ rực đặc trưng của Salamander. Nhân tiện, thiết kế của thanh kiếm này được tôi tham khảo từ thanh vương kiếm màu đỏ làm từ nguyên liệu Salamander mà Tendou từng sử dụng trước đây.
 
-Kỹ năng mới mà Nakajima có được sau khi chúng tôi tiêu diệt Bazuzu chính là `『Trung Cấp Ma Pháp Kiếm Kỹ』`, và thanh kiếm tôi chế tạo riêng cho cậu ấy chính là `『Viêm Kiếm Salamandra』`.
+Kỹ năng mới mà Nakajima có được sau khi chúng tôi tiêu diệt Bazuzu chính là \`『Trung Cấp Ma Pháp Kiếm Kỹ』\`, và thanh kiếm tôi chế tạo riêng cho cậu ấy chính là \`『Viêm Kiếm Salamandra』\`.
 
-Khác với những dòng mô tả đầy tính văn học của Nữ thần Ruinhilde, phần giải thích của `『Trung Cấp Ma Pháp Kiếm Kỹ』` cực kỳ ngắn gọn, nhưng điểm mấu chốt nằm ở cụm từ “ma pháp trung cấp”.
+Khác với những dòng mô tả đầy tính văn học của Nữ thần Ruinhilde, phần giải thích của \`『Trung Cấp Ma Pháp Kiếm Kỹ』\` cực kỳ ngắn gọn, nhưng điểm mấu chốt nằm ở cụm từ “ma pháp trung cấp”.
 
 “Nakajima-kun, thử bắn một phát vào tòa nhà đằng kia xem. Dùng ma pháp phòng ngự ấy.”
 
-“Được rồi— `『Hỏa Viêm Phòng Bích』`!”
+“Được rồi— \`『Hỏa Viêm Phòng Bích』\`!”
 
 Chỉ với một nhát chém từ thanh viêm kiếm, ngọn lửa cuộn xoáy lập tức phóng ra từ lưỡi kiếm. Ngay khi chạm vào bức tường của tòa nhà mục tiêu, một cột lửa khổng lồ — không, một bức tường lửa dựng đứng bốc cao ngùn ngụt.
 
 Phải, cậu ấy không chỉ bắn ra những quả cầu lửa tấn công thuộc tính Hỏa, mà còn có thể sử dụng ma pháp phòng ngự tạo ra một bức tường lửa. Hơn nữa, đây không phải là loại phòng ngự đơn thể kiểu “khiên”, mà là ma pháp phòng ngự diện rộng kiểu “tường”.
 
-Trang bị `『Viêm Kiếm Salamandra』` giúp Nakajima không chỉ có khả năng tấn công phòng ngự thông thường, mà còn có thể sử dụng cả ma pháp diện rộng `『Hỏa Viêm Pháo』` lẫn ma pháp phòng ngự diện rộng `『Hỏa Viêm Phòng Bích』`. Cậu ấy lúc này đã có thể coi là một Hỏa ma thuật sư thực thụ.
+Trang bị \`『Viêm Kiếm Salamandra』\` giúp Nakajima không chỉ có khả năng tấn công phòng ngự thông thường, mà còn có thể sử dụng cả ma pháp diện rộng \`『Hỏa Viêm Pháo』\` lẫn ma pháp phòng ngự diện rộng \`『Hỏa Viêm Phòng Bích』\`. Cậu ấy lúc này đã có thể coi là một Hỏa ma thuật sư thực thụ.
 
 Sở hữu sức mạnh ma pháp đáng nể như vậy, lại còn có thể thi triển các võ kỹ kiếm thuật không thua gì một kiếm sĩ chuyên nghiệp, thực lực của Nakajima chắc chắn sẽ tăng vọt khi được trang bị vũ khí ma pháp mạnh mẽ này.
 
@@ -50912,11 +50912,11 @@ Với Nakajima của hiện tại, liệu cậu ấy có thể đánh bại và 
 
 “Hê hê, cuối cùng cũng được thử món này rồi— Lên đi!”
 
-Ueta đầy hào hứng ném một vật vào bức tường lửa `『Hỏa Viêm Phòng Bích』` đang cháy ngùn ngụt của Nakajima.
+Ueta đầy hào hứng ném một vật vào bức tường lửa \`『Hỏa Viêm Phòng Bích』\` đang cháy ngùn ngụt của Nakajima.
 
-`『Lựu Đạn Phóng Hỏa』`: Loại lựu đạn chuyên dụng để phóng hỏa, được chế tạo từ Hỏa Quang Thạch, bột vảy Salamander nghiền mịn và một lượng nhỏ Lõi ma vật, với mục đích lan rộng ngọn lửa hơn là tạo ra vụ nổ. Kích hoạt bằng ma lực, người dùng chỉ cần truyền một chút ma lực vào khi ném nên rất an toàn, không sợ bị phát nổ do va đập thông thường.
+\`『Lựu Đạn Phóng Hỏa』\`: Loại lựu đạn chuyên dụng để phóng hỏa, được chế tạo từ Hỏa Quang Thạch, bột vảy Salamander nghiền mịn và một lượng nhỏ Lõi ma vật, với mục đích lan rộng ngọn lửa hơn là tạo ra vụ nổ. Kích hoạt bằng ma lực, người dùng chỉ cần truyền một chút ma lực vào khi ném nên rất an toàn, không sợ bị phát nổ do va đập thông thường.
 
-Quả `『Lựu Đạn Phóng Hỏa』` được ném đi với lực rất mạnh, lao thẳng vào bức tường lửa cao 5 mét. Ngay khoảnh khắc tiếp theo—
+Quả \`『Lựu Đạn Phóng Hỏa』\` được ném đi với lực rất mạnh, lao thẳng vào bức tường lửa cao 5 mét. Ngay khoảnh khắc tiếp theo—
 
 *Đoành! Ùùùùù!*
 
@@ -50944,17 +50944,17 @@ Cặp bài trùng gyaru Kyouko và Yoshizaki vừa ném những quả lựu đ�
 
 Sau khi nghịch ngợm thỏa thích, chúng tôi chuyển sang phần ứng dụng nâng cao.
 
-Tôi chuẩn bị những viên đạn phóng hỏa chuyên dụng cho Kyouko để cô ấy bắn bằng khẩu `『Rock Blaster Sawed-off』`.
+Tôi chuẩn bị những viên đạn phóng hỏa chuyên dụng cho Kyouko để cô ấy bắn bằng khẩu \`『Rock Blaster Sawed-off』\`.
 
 Khẩu shotgun chuyên dụng cho Thổ ma thuật này là do tôi cật lực chế tạo ra, nhưng kể từ khi khẩu súng lục ổ quay hoàng kim của Tendou quay trở lại, vị trí vũ khí chính của nó đã hoàn toàn bị cướp mất.
 
-Tuy nhiên, giá trị thực sự của `『Rock Blaster Sawed-off』` nằm ở chỗ nó có thể tái hiện các hiệu ứng ngoài thuộc tính Thổ bằng cách sử dụng các loại đạn chuyên dụng. Và ví dụ điển hình chính là những viên đạn phóng hỏa lần này.
+Tuy nhiên, giá trị thực sự của \`『Rock Blaster Sawed-off』\` nằm ở chỗ nó có thể tái hiện các hiệu ứng ngoài thuộc tính Thổ bằng cách sử dụng các loại đạn chuyên dụng. Và ví dụ điển hình chính là những viên đạn phóng hỏa lần này.
 
-Cấu tạo của nó vô cùng đơn giản. Về cơ bản, viên đạn được bắn ra chỉ là một mảnh `『Thạch Tiễn』`, và phần đạn phóng hỏa chỉ được gắn ở đầu đạn.
+Cấu tạo của nó vô cùng đơn giản. Về cơ bản, viên đạn được bắn ra chỉ là một mảnh \`『Thạch Tiễn』\`, và phần đạn phóng hỏa chỉ được gắn ở đầu đạn.
 
 Khác với lựu đạn, đạn phóng hỏa có cấu trúc kích hoạt kép: bằng ma lực và bằng va đập. Việc chế tạo nó tốn công sức hơn lựu đạn rất nhiều.
 
-Khi bắn, Kyouko truyền ma lực vào viên đạn để giải phóng chốt an toàn, giúp nó phát nổ khi chịu một lực va đập nhất định. Vì được bắn ra với tốc độ của `『Thạch Tiễn』`, lực va đập khi trúng đích chắc chắn sẽ mạnh hơn nhiều so với việc ném bằng tay. Do đó, tôi đã thiết lập để ngay cả khi vô tình truyền ma lực mở khóa, viên đạn cũng không dễ dàng bị cướp cò bởi những va chạm nhẹ.
+Khi bắn, Kyouko truyền ma lực vào viên đạn để giải phóng chốt an toàn, giúp nó phát nổ khi chịu một lực va đập nhất định. Vì được bắn ra với tốc độ của \`『Thạch Tiễn』\`, lực va đập khi trúng đích chắc chắn sẽ mạnh hơn nhiều so với việc ném bằng tay. Do đó, tôi đã thiết lập để ngay cả khi vô tình truyền ma lực mở khóa, viên đạn cũng không dễ dàng bị cướp cò bởi những va chạm nhẹ.
 
 Dù sao thì đạn phóng hỏa cũng hoạt động rất tốt, về cơ bản không khác gì bắn ra những mũi tên lửa. Chỉ cần chiếm được một vị trí trên cao, việc thiêu rụi khu vực sinh sống dễ cháy của Vương quốc Goma sẽ chỉ là chuyện trong chớp mắt.
 
@@ -50996,17 +50996,17 @@ Dù sao thì việc thử nghiệm các vũ khí phóng hỏa cũng đã thành 
 
 “Có hơi nóng một chút, nhưng vẫn chịu đựng tốt. Thoải mái hơn nhiều so với việc mặc giáp bảo hộ của cầu thủ bắt bóng chày giữa mùa hè đấy.”
 
-Yamada bước ra từ bức tường lửa `『Hỏa Viêm Phòng Bích』` vẫn đang cháy ngùn ngụt của Nakajima, toàn thân bọc trong bộ giáp sắt màu đỏ thẫm.
+Yamada bước ra từ bức tường lửa \`『Hỏa Viêm Phòng Bích』\` vẫn đang cháy ngùn ngụt của Nakajima, toàn thân bọc trong bộ giáp sắt màu đỏ thẫm.
 
 Nhắc mới nhớ, Yamada từng ở câu lạc bộ bóng chày thì phải. Tôi hoàn toàn quên mất chuyện đó vì chẳng thấy kinh nghiệm đó giúp ích được gì từ trước đến nay.
 
-Dù sao đi nữa, việc cậu ấy có thể hiên ngang đứng giữa ngọn lửa dữ dội như vậy mà không hề hấn gì, ngoài khả năng phòng ngự và kháng tính cao của thiên chức `『Trọng Chiến Binh』`, phần lớn là nhờ bộ giáp mới chuyên dụng kháng nhiệt được chế tạo từ vảy Salamander.
+Dù sao đi nữa, việc cậu ấy có thể hiên ngang đứng giữa ngọn lửa dữ dội như vậy mà không hề hấn gì, ngoài khả năng phòng ngự và kháng tính cao của thiên chức \`『Trọng Chiến Binh』\`, phần lớn là nhờ bộ giáp mới chuyên dụng kháng nhiệt được chế tạo từ vảy Salamander.
 
 “Mà chính cậu cũng tự mình cảm nhận được hiệu quả rồi còn gì, Momokawa.”
 
 “Cũng đúng.”
 
-Đi lững thững phía sau Yamada là một bóng người nhỏ bé khác cũng đang đội một trang bị kháng nhiệt thử nghiệm, đó chính là `『Song Ảnh』` của tôi.
+Đi lững thững phía sau Yamada là một bóng người nhỏ bé khác cũng đang đội một trang bị kháng nhiệt thử nghiệm, đó chính là \`『Song Ảnh』\` của tôi.
 
 Để kiểm tra hiệu quả kháng nhiệt thì không còn cách nào khác ngoài việc trực tiếp lao vào lửa. Nhưng nếu hiệu quả không đủ thì không chỉ dừng lại ở mức bị bỏng đâu, nên chỉ có thể giao việc này cho những người không sợ bị thương. Việc Yamada chuyên về phòng thủ và phân thân không biết đau của tôi thực hiện bài kiểm tra này là điều hoàn toàn hợp lý.
 
@@ -51016,11 +51016,11 @@ Việc không bị cháy hay nóng chảy dù bị thiêu đốt bởi ngọn l�
 
 Sự kết hợp giữa nguyên liệu Salamander kháng nhiệt và hệ thống làm mát bằng Băng Tinh Thể đã tạo nên một bộ trang bị chuyên dụng kháng hỏa hoàn hảo.
 
-`『Salamand Mail MK I』`: Bộ giáp toàn thân của Yamada chế tạo tại Học Viện Tháp, nay được cường hóa bằng nguyên liệu Salamander để trở thành bộ giáp màu đỏ. Lớp giáp kim loại ban đầu được phủ thêm một lớp vỏ cứng dày, không chỉ tăng khả năng kháng nhiệt mà phòng ngự thuần túy cũng được nâng cao. Lớp vỏ của hỏa long quả thực không phải để trưng cho đẹp. Hệ thống làm mát bằng Băng Tinh Thể được lắp đặt ở ba vị trí: mũ giáp, ngực và thắt lưng. Nhờ hiệu quả làm mát mạnh mẽ này, người mặc có thể tự do di chuyển ngay cả trong biển lửa. Nhân tiện, để đối phó với khí độc carbon monoxide và tình trạng thiếu oxy, mũ giáp còn được tích hợp tính năng bình dưỡng khí sử dụng Phong Quang Thạch. Tuy nhiên, do nhồi nhét quá nhiều tính năng làm mát và dưỡng khí, phần mũ giáp đã trở nên khá cồng kềnh. Thực ra, cả bộ giáp cũng bị phình to ra do lớp vỏ cứng và các tính năng phụ trợ khác, khiến tổng thể trông to lớn và đồ sộ hơn hẳn trước đây. Trông nó giống một bộ đồ phi hành gia hơn là giáp toàn thân, nhưng với một `『Trọng Chiến Binh』` như Yamada thì chắc chắn cậu ấy vẫn sẽ sử dụng tốt thôi.
+\`『Salamand Mail MK I』\`: Bộ giáp toàn thân của Yamada chế tạo tại Học Viện Tháp, nay được cường hóa bằng nguyên liệu Salamander để trở thành bộ giáp màu đỏ. Lớp giáp kim loại ban đầu được phủ thêm một lớp vỏ cứng dày, không chỉ tăng khả năng kháng nhiệt mà phòng ngự thuần túy cũng được nâng cao. Lớp vỏ của hỏa long quả thực không phải để trưng cho đẹp. Hệ thống làm mát bằng Băng Tinh Thể được lắp đặt ở ba vị trí: mũ giáp, ngực và thắt lưng. Nhờ hiệu quả làm mát mạnh mẽ này, người mặc có thể tự do di chuyển ngay cả trong biển lửa. Nhân tiện, để đối phó với khí độc carbon monoxide và tình trạng thiếu oxy, mũ giáp còn được tích hợp tính năng bình dưỡng khí sử dụng Phong Quang Thạch. Tuy nhiên, do nhồi nhét quá nhiều tính năng làm mát và dưỡng khí, phần mũ giáp đã trở nên khá cồng kềnh. Thực ra, cả bộ giáp cũng bị phình to ra do lớp vỏ cứng và các tính năng phụ trợ khác, khiến tổng thể trông to lớn và đồ sộ hơn hẳn trước đây. Trông nó giống một bộ đồ phi hành gia hơn là giáp toàn thân, nhưng với một \`『Trọng Chiến Binh』\` như Yamada thì chắc chắn cậu ấy vẫn sẽ sử dụng tốt thôi.
 
-`『Áo Choàng Kháng Nhiệt Thử Nghiệm』`: Vì lần này chúng tôi sẽ phóng hỏa trên quy mô lớn nên bản thân chúng tôi cũng có nguy cơ bị lửa thiêu. Một trang bị kháng nhiệt ở mức độ nhất định là rất cần thiết, nhưng để chuẩn bị cho tất cả mọi người thì lượng nguyên liệu hiện tại không cho phép. Vốn dĩ một nửa nguyên liệu Salamander đã bị Yokomichi nuốt mất trong trận chiến với Bazuzu rồi, nên chúng tôi không được phép lãng phí. Vì vậy, tạm thời tôi chế tạo ra chiếc áo choàng này để bảo vệ toàn thân khỏi lửa đỏ.
+\`『Áo Choàng Kháng Nhiệt Thử Nghiệm』\`: Vì lần này chúng tôi sẽ phóng hỏa trên quy mô lớn nên bản thân chúng tôi cũng có nguy cơ bị lửa thiêu. Một trang bị kháng nhiệt ở mức độ nhất định là rất cần thiết, nhưng để chuẩn bị cho tất cả mọi người thì lượng nguyên liệu hiện tại không cho phép. Vốn dĩ một nửa nguyên liệu Salamander đã bị Yokomichi nuốt mất trong trận chiến với Bazuzu rồi, nên chúng tôi không được phép lãng phí. Vì vậy, tạm thời tôi chế tạo ra chiếc áo choàng này để bảo vệ toàn thân khỏi lửa đỏ.
 
-Cả `『Salamand Mail MK I』` lẫn `『Áo Choàng Kháng Nhiệt Thử Nghiệm』` đều mới chỉ ở giai đoạn thử nghiệm. Lần này chỉ là bài kiểm tra đầu tiên để xem hiệu quả kháng nhiệt hoạt động đến đâu. Chúng tôi sẽ còn phải cải tiến thêm nhiều trong thời gian tới.
+Cả \`『Salamand Mail MK I』\` lẫn \`『Áo Choàng Kháng Nhiệt Thử Nghiệm』\` đều mới chỉ ở giai đoạn thử nghiệm. Lần này chỉ là bài kiểm tra đầu tiên để xem hiệu quả kháng nhiệt hoạt động đến đâu. Chúng tôi sẽ còn phải cải tiến thêm nhiều trong thời gian tới.
 
 “Tạm thời trang bị phòng ngự cũng rất ổn rồi, chúng ta chuyển sang phần tiếp theo thôi.”
 
@@ -51795,7 +51795,7 @@ Nếu tốn quá nhiều thời gian ở bước này, lực lượng phòng v�
 
 Và thứ giúp chúng tôi đẩy nhanh tiến độ hoàn thành 『Đại Sơn Thành Lũy』 chính là những chiếc cọc sắt kia.
 
-`『Cọc sắt thi công siêu tốc - Tokkan Kouji Mẫu 1』`: Một loại trang bị hỗ trợ giúp tăng cường hiệu quả của Thổ ma thuật phòng ngự, thúc đẩy quá trình kiến tạo diễn ra nhanh hơn. Thiết kế của nó được tham khảo từ 『Phong Ấn Thương - Hắc Kim』 từng dùng trong trận chiến với Yamata no Orochi. Kyouko tự tay luyện thành chất liệu kim loại sao cho dễ sử dụng nhất rồi đúc thành hình cọc, tôi khắc thuật thức tăng khả năng dẫn truyền ma lực lên bề mặt, còn Hayama thì nhờ vả các thổ tinh linh hỗ trợ. Cấu tạo vô cùng đơn giản. Chỉ tiếc là do thua oẳn tù tì nên tôi bị Hayama cướp mất quyền đặt tên, kết quả là nó bị đặt cái tên ngớ ngẩn "Tokkan Kouji-kun" (Bé Thi Công Siêu Tốc), thật là một niềm hối hận tột cùng.
+\`『Cọc sắt thi công siêu tốc - Tokkan Kouji Mẫu 1』\`: Một loại trang bị hỗ trợ giúp tăng cường hiệu quả của Thổ ma thuật phòng ngự, thúc đẩy quá trình kiến tạo diễn ra nhanh hơn. Thiết kế của nó được tham khảo từ 『Phong Ấn Thương - Hắc Kim』 từng dùng trong trận chiến với Yamata no Orochi. Kyouko tự tay luyện thành chất liệu kim loại sao cho dễ sử dụng nhất rồi đúc thành hình cọc, tôi khắc thuật thức tăng khả năng dẫn truyền ma lực lên bề mặt, còn Hayama thì nhờ vả các thổ tinh linh hỗ trợ. Cấu tạo vô cùng đơn giản. Chỉ tiếc là do thua oẳn tù tì nên tôi bị Hayama cướp mất quyền đặt tên, kết quả là nó bị đặt cái tên ngớ ngẩn "Tokkan Kouji-kun" (Bé Thi Công Siêu Tốc), thật là một niềm hối hận tột cùng.
 
 Chúng tôi đã thử nghiệm hiệu quả của những chiếc cọc sắt này tại khu di tích cổ, đồng thời luyện tập thuần thục các bước từ cắm cọc cho đến kích hoạt ma pháp không biết bao nhiêu lần. Ở đó không thiếu những tòa nhà có độ cao tương đương với bức tường thành này.
 
@@ -51875,9 +51875,9 @@ May mắn thay, con sông bùn này bẩn đến mức nước sông đục ng�
 
 Cứ như vậy, chuẩn bị cho ngày hôm nay, tôi đã âm thầm cho các triệu hoán thú lẻn vào từ lòng sông và túc trực sẵn ở nơi này.
 
-`『Skeleton』` (Bộ Xương): Triệu hoán thú đời đầu và cũng là thực thể yếu nhất. Tuy nhiên, lượng ma lực tiêu hao để triệu hồi chúng là tối thiểu, trong khi số lượng lại là tối đa. Ban đầu tôi chỉ triệu hồi được 13 con, nhưng hiện tại con số đó đã tăng gấp đôi lên 26 con. Những con Skeleton được chuẩn bị sẵn ở đây đều đã được trang bị vũ khí. Tất nhiên tôi không có thời gian để chế tạo trang bị chất lượng cao cho chúng, hầu hết đều là vũ khí tận dụng từ lũ Goma. Giáp trụ cũng chỉ là những mảnh da ma vật thừa được khâu vá tạm bợ lại với nhau. Dẫu vậy, bộ giáp da chắp vá che kín toàn thân kết hợp với chiếc mũ trùm đầu che đi phần đầu lâu khiến chúng trông chẳng khác nào những chiến binh loài người bình thường nếu nhìn từ xa.
+\`『Skeleton』\` (Bộ Xương): Triệu hoán thú đời đầu và cũng là thực thể yếu nhất. Tuy nhiên, lượng ma lực tiêu hao để triệu hồi chúng là tối thiểu, trong khi số lượng lại là tối đa. Ban đầu tôi chỉ triệu hồi được 13 con, nhưng hiện tại con số đó đã tăng gấp đôi lên 26 con. Những con Skeleton được chuẩn bị sẵn ở đây đều đã được trang bị vũ khí. Tất nhiên tôi không có thời gian để chế tạo trang bị chất lượng cao cho chúng, hầu hết đều là vũ khí tận dụng từ lũ Goma. Giáp trụ cũng chỉ là những mảnh da ma vật thừa được khâu vá tạm bợ lại với nhau. Dẫu vậy, bộ giáp da chắp vá che kín toàn thân kết hợp với chiếc mũ trùm đầu che đi phần đầu lâu khiến chúng trông chẳng khác nào những chiến binh loài người bình thường nếu nhìn từ xa.
 
-`『High Zombie』` (Xác Sống Cấp Cao): Phiên bản nâng cấp của Skeleton với cơ bắp đầy đủ hơn. Số lượng triệu hồi của chúng cũng tăng gấp đôi so với trước, đạt 14 con. Ban đầu, High Zombie chỉ biết lao lên đấm đá, ôm vật và cắn xé, nhưng sau quá trình huấn luyện kiên trì của tôi, chúng đã biết vung vẩy vũ khí một cách bài bản. Dù vậy, động tác của chúng vẫn vụng về như những kẻ nghiệp dư giống Skeleton, chẳng có kỹ thuật gì cả. Nhưng chỉ cần chúng vung vũ khí hết sức bình sinh thì sức sát thương đối với lũ Goma cũng đã là quá đủ rồi. Tương tự như Skeleton, lũ này cũng được trang bị đầy đủ giáp trụ, một số con còn có thêm các bộ phận bằng kim loại. Tất nhiên, chiếc mũ trùm đầu là thứ không thể thiếu để che giấu diện mạo.
+\`『High Zombie』\` (Xác Sống Cấp Cao): Phiên bản nâng cấp của Skeleton với cơ bắp đầy đủ hơn. Số lượng triệu hồi của chúng cũng tăng gấp đôi so với trước, đạt 14 con. Ban đầu, High Zombie chỉ biết lao lên đấm đá, ôm vật và cắn xé, nhưng sau quá trình huấn luyện kiên trì của tôi, chúng đã biết vung vẩy vũ khí một cách bài bản. Dù vậy, động tác của chúng vẫn vụng về như những kẻ nghiệp dư giống Skeleton, chẳng có kỹ thuật gì cả. Nhưng chỉ cần chúng vung vũ khí hết sức bình sinh thì sức sát thương đối với lũ Goma cũng đã là quá đủ rồi. Tương tự như Skeleton, lũ này cũng được trang bị đầy đủ giáp trụ, một số con còn có thêm các bộ phận bằng kim loại. Tất nhiên, chiếc mũ trùm đầu là thứ không thể thiếu để che giấu diện mạo.
 
 Đó là những triệu hoán thú mà tôi đã sở hữu từ trước.
 
@@ -51885,7 +51885,7 @@ Nhưng như các bạn đã thấy, số lượng triệu hồi của chúng đ�
 
 Và nhờ sự thăng cấp lần này, một loại triệu hoán thú mới đã được mở khóa.
 
-`『Tank』` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài GoGame Mastera. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
+\`『Tank』\` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài GoGame Mastera. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
 
 Đây là toàn bộ lực lượng triệu hoán thú mạnh nhất mà tôi có thể tung ra ở thời điểm hiện tại. Gồm 26 Skeleton, 14 High Zombie và 3 Tank, tổng cộng là 43 thực thể. Tính ra thì quân số cũng đã khá ra dáng một đội quân rồi.
 
@@ -51905,9 +51905,9 @@ Những chiếc thùng không có kẽ hở bị ngâm dưới sông bùn hơn m
 
 Rem trong hình dạng Minotaur—thủ lĩnh của đội nghi binh—cất tiếng rống vang trời.
 
-`『Minotaur』` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-GoGame Mastera Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
+\`『Minotaur』\` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-GoGame Mastera Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
 
-`『Binh lính Gove』`: Những xác sống Gove được tôi tạo ra với số lượng tối đa mà Rem có thể kiểm soát. Tổng cộng là 20 con. Vì tôi để chúng hoạt động ở chế độ tự trị chứ không điều khiển trực tiếp nên cử động của chúng cũng chỉ tương đương với Skeleton hay High Zombie, nhưng đối với đội nghi binh thì càng đông càng tốt. Để che giấu thân phận, tôi cũng cho chúng đội những chiếc khăn trùm đầu thô sơ.
+\`『Binh lính Gove』\`: Những xác sống Gove được tôi tạo ra với số lượng tối đa mà Rem có thể kiểm soát. Tổng cộng là 20 con. Vì tôi để chúng hoạt động ở chế độ tự trị chứ không điều khiển trực tiếp nên cử động của chúng cũng chỉ tương đương với Skeleton hay High Zombie, nhưng đối với đội nghi binh thì càng đông càng tốt. Để che giấu thân phận, tôi cũng cho chúng đội những chiếc khăn trùm đầu thô sơ.
 
 Cộng thêm 43 triệu hoán thú, 20 xác sống Gove và đội trưởng Minotaur, đội nghi binh của chúng tôi đã lên tới 64 thành viên.
 
@@ -52839,7 +52839,7 @@ Dù có vẻ như đội chính của chúng tôi và đội nghi binh của Rem
 
 Trong khi đó, đội nghi binh lại hành động cực kỳ phô trương, tiến thẳng về phía tây dọc theo phố chợ. Đội quân tốt thí được tập hợp chỉ để lấy số lượng, tay cầm đuốc và dầu hỏa, tỏa ra khắp các ngõ ngách trong thành phố và liên tục châm lửa đốt phá.
 
-Khi nhìn từ trên cao, thiệt hại do đội nghi binh gây ra rõ ràng là lớn hơn và nhanh hơn. Đơn giản là vì nhìn lướt qua, quân số của đội nghi binh đông hơn hẳn. Hơn thế nữa, ngay cả những Skeleton thông thường cũng được ngụy trang thành con người nhờ kỹ năng `『Hư Ảnh Tương Chiếu』`. Goma đã mất đi hai Gira-GoGame Mastera rồi. Chúng chắc chắn sẽ cảnh giác với bên nào có số lượng con người đông hơn. Ngược lại, nếu chúng nhìn thấu hầu hết chỉ là Skeleton, khả năng cao đội chính của chúng tôi đã bị nhắm vào... Nhưng một khi chúng đã cử lực lượng chủ lực gồm ba Gira-GoGame Mastera tới chỗ đội nghi binh, thì mối lo đó cũng chỉ là hờ hờ.
+Khi nhìn từ trên cao, thiệt hại do đội nghi binh gây ra rõ ràng là lớn hơn và nhanh hơn. Đơn giản là vì nhìn lướt qua, quân số của đội nghi binh đông hơn hẳn. Hơn thế nữa, ngay cả những Skeleton thông thường cũng được ngụy trang thành con người nhờ kỹ năng \`『Hư Ảnh Tương Chiếu』\`. Goma đã mất đi hai Gira-GoGame Mastera rồi. Chúng chắc chắn sẽ cảnh giác với bên nào có số lượng con người đông hơn. Ngược lại, nếu chúng nhìn thấu hầu hết chỉ là Skeleton, khả năng cao đội chính của chúng tôi đã bị nhắm vào... Nhưng một khi chúng đã cử lực lượng chủ lực gồm ba Gira-GoGame Mastera tới chỗ đội nghi binh, thì mối lo đó cũng chỉ là hờ hờ.
 
 Dù sao đi nữa, tôi tin rằng với tính cách của Oh-ma, hắn sẽ nhìn thấu quy mô của đội chính và đội nghi binh, từ đó tập trung binh lực để tiêu diệt từng bộ phận một. Hắn tuyệt đối không phạm phải sai lầm ngu xuẩn là cứ thấy kẻ địch xuất hiện ở đâu thì lại chia nhỏ quân ra ném vào đó một cách chắp vá.
 
@@ -52855,7 +52855,7 @@ Tuy nhiên, giờ đây đội nghi binh đã bị tiêu diệt hoàn toàn dù 
 
 “Tớ đã cố gắng quan sát.”
 
-Phân thân `『Song Ảnh』` đầu tiên tôi lẻn vào vương quốc hiện vẫn đang ẩn nấp bên trong vương cung. Tôi đã để nó bò qua các lối đi ẩn, thò đầu ra ngoài ở một nơi có thể nhìn bao quát cả thành phố để trinh sát. Nhờ vậy, tôi nắm bắt được khá rõ chuyển động của kẻ địch. Cả quy mô của trận đại hỏa hoạn đang tiếp tục lan rộng nữa. Đúng nghĩa là một biển lửa.
+Phân thân \`『Song Ảnh』\` đầu tiên tôi lẻn vào vương quốc hiện vẫn đang ẩn nấp bên trong vương cung. Tôi đã để nó bò qua các lối đi ẩn, thò đầu ra ngoài ở một nơi có thể nhìn bao quát cả thành phố để trinh sát. Nhờ vậy, tôi nắm bắt được khá rõ chuyển động của kẻ địch. Cả quy mô của trận đại hỏa hoạn đang tiếp tục lan rộng nữa. Đúng nghĩa là một biển lửa.
 
 “Thật tốt khi đã tận mắt chứng kiến dạng Khổng Lồ Hóa của những tên Gira-GoGame Mastera còn lại.”
 
@@ -52867,7 +52867,7 @@ Không, thật sự là may mắn khi đã quan sát trước. Ba tên Gira-GoGa
 
 Đầu tiên là Bandon, kẻ được cho là phụ trách canh gác vương cung.
 
-Dạng khổng lồ của hắn được bao bọc bởi một lớp vỏ ngoài dày cộp như mai rùa. Trên lưng hắn là một chiếc mai khổng lồ, dày và chi chít gai nhọn, vẽ những hoa văn màu xanh lục và đen đầy điềm gở. Tấn công từ phía sau gần như là bất khả thi. Chiêu `『Phá Nham Trường Thương』` của Kyouko chắc chắn không thể phá vỡ được thứ đó. Ngay cả `『Thổ Tinh Pháo』` thì không biết sẽ phá hủy được đến mức nào.
+Dạng khổng lồ của hắn được bao bọc bởi một lớp vỏ ngoài dày cộp như mai rùa. Trên lưng hắn là một chiếc mai khổng lồ, dày và chi chít gai nhọn, vẽ những hoa văn màu xanh lục và đen đầy điềm gở. Tấn công từ phía sau gần như là bất khả thi. Chiêu \`『Phá Nham Trường Thương』\` của Kyouko chắc chắn không thể phá vỡ được thứ đó. Ngay cả \`『Thổ Tinh Pháo』\` thì không biết sẽ phá hủy được đến mức nào.
 
 Dù chiếc mai trên lưng là nổi bật nhất, nhưng toàn thân hắn cũng được bao bọc bởi lớp giáp vỏ cứng góc cạnh với hoa văn tương tự, trông như đang khoác một bộ giáp mũ tự nhiên. Đặc biệt, hai cánh tay của hắn phình to ra như thể đang đeo hai chiếc khiên nhỏ. Những đòn tấn công nửa vời chắc chắn sẽ bị đánh bật.
 
@@ -52941,7 +52941,7 @@ Cơn mưa xối xả trút xuống, những hạt mưa lớn bắt đầu rơi l
 
 “Này, Momokawa. Tớ thấy đám mây mưa kia có vẻ rất bất thường, hay nói đúng hơn là mang lại cảm giác rất đáng sợ. Tớ cảm nhận được sự hiện diện của tinh linh rất mạnh, nhưng đó không phải là tinh linh thông thường.”
 
-Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra sự bất thường với tư cách là một `『Tinh Linh Thuật Sư』` — tiến lại gần chiếc xe số 1 và gọi tôi.
+Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra sự bất thường với tư cách là một \`『Tinh Linh Thuật Sư』\` — tiến lại gần chiếc xe số 1 và gọi tôi.
 
 “Đây là cơn mưa lớn do Oh-ma thi triển nghi lễ cầu mưa. Làn khói tím kỳ lạ từ ma pháp trận bốc lên hóa thành mây trên không trung, nên tớ nghĩ bản thân đám mây đó chính là một dạng ma pháp.”
 
@@ -52951,7 +52951,7 @@ Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra s�
 
 “Chịu thôi. Cảm giác của nó hoàn toàn giống như một con ma vật hoang dã, tớ không cảm thấy ý chí của mình có thể truyền tới nó chút nào.”
 
-Hửm, hóa ra năng lực của `『Tinh Linh Thuật Sư』` chỉ có thể can thiệp vào các tinh linh tự nhiên, hoặc các tinh linh trú ngụ trong ma pháp do con người chúng ta thi triển sao? Một khi thuộc về ma pháp của tộc Goma, tính chất của chúng sẽ thay đổi, hoặc đó là một thực thể hoàn toàn khác dù trông rất giống tinh linh.
+Hửm, hóa ra năng lực của \`『Tinh Linh Thuật Sư』\` chỉ có thể can thiệp vào các tinh linh tự nhiên, hoặc các tinh linh trú ngụ trong ma pháp do con người chúng ta thi triển sao? Một khi thuộc về ma pháp của tộc Goma, tính chất của chúng sẽ thay đổi, hoặc đó là một thực thể hoàn toàn khác dù trông rất giống tinh linh.
 
 “Dù sao thì việc chiếm đóng Đông Môn cũng đã hoàn tất, chúng ta cũng mau chóng chuẩn bị cố thủ thôi.”
 
@@ -52995,7 +52995,7 @@ Việc chuẩn bị cố thủ sau khi đến Đông Môn đương nhiên cũng 
 
 Ba người Ueta, Yoshizaki và Yamada ôm những chiếc cọc sắt bước ra ngoài cánh cổng đã mở.
 
-`『Tokkan Kouji Mẫu 2』`: Vật phẩm hỗ trợ chuyên dụng cho hệ Thổ. Mẫu 1 được thiết kế để làm cột trụ bắc cầu, còn mẫu này được dùng để tạo ra những bức tường lớn.
+\`『Tokkan Kouji Mẫu 2』\`: Vật phẩm hỗ trợ chuyên dụng cho hệ Thổ. Mẫu 1 được thiết kế để làm cột trụ bắc cầu, còn mẫu này được dùng để tạo ra những bức tường lớn.
 
 Pháo đài dùng để cố thủ sẽ tận dụng chính bức tường thành của vương quốc. Lấy cánh cổng và tường thành làm mặt chính, chúng tôi sẽ dựng thêm ba bức tường ở phía ngoài để tạo thành một khu vực khép kín hình chữ nhật.
 
@@ -53019,7 +53019,7 @@ Sau khi hoàn thành việc xây dựng các bức tường ở hai bên và ph�
 
 “Bư mô, bư ô ô ô ô!”
 
-Con `『Minotaur』` vừa được hồi sinh cùng Nakajima dẫn theo các Skeleton, `『High Zombie』` và `『Tank』` mà tôi vừa triệu hồi lại, tiến về phía khu vực xung quanh để tiếp tục phóng hỏa.
+Con \`『Minotaur』\` vừa được hồi sinh cùng Nakajima dẫn theo các Skeleton, \`『High Zombie』\` và \`『Tank』\` mà tôi vừa triệu hồi lại, tiến về phía khu vực xung quanh để tiếp tục phóng hỏa.
 
 Cơn mưa đang ngày càng nặng hạt, nhưng chúng tôi cũng mang theo rất nhiều nhiên liệu. Chỉ cần có dầu, lửa vẫn sẽ tiếp tục cháy, và quan trọng hơn hết là ma pháp phòng ngự hệ Hỏa của Nakajima cũng có hiệu ứng duy trì sự cháy.
 
@@ -53071,7 +53071,7 @@ Có vẻ như cậu ấy đã đi xa hơn một chút để trinh sát đội ti
 
 “Cảm ơn cậu. Ngọn lửa xung quanh cũng đã lan rộng khá tốt rồi, thế là đủ rồi.”
 
-Tôi và Nakajima dùng thang dây làm từ `『Tóc Đen Trói Buộc』` để leo lên bức tường phòng ngự.
+Tôi và Nakajima dùng thang dây làm từ \`『Tóc Đen Trói Buộc』\` để leo lên bức tường phòng ngự.
 
 Phía trên, tất cả mọi người đã vào vị trí và sẵn sàng nghênh chiến. Những vũ khí tầm xa bao gồm cả lựu đạn phóng hỏa đã chuẩn bị sẵn, lúc này không cần phải tiết kiệm nữa mà cứ việc xả hết sạch.
 
@@ -53134,7 +53134,7 @@ Bandon đã học được cách tự kiềm chế bản thân dưới sự ch�
 
 “Vậy thì, tôi lên đây————”
 
-Gizaginzu dẫn đầu, kích hoạt kỹ năng `『Khổng Lồ Hóa』` của Đại Chiến Sĩ. Cùng với cảm giác vạn năng mang lại từ nguồn sức mạnh khổng lồ cuộn trào khắp cơ thể, ba Đại Chiến Sĩ đồng loạt giải phóng sức mạnh.
+Gizaginzu dẫn đầu, kích hoạt kỹ năng \`『Khổng Lồ Hóa』\` của Đại Chiến Sĩ. Cùng với cảm giác vạn năng mang lại từ nguồn sức mạnh khổng lồ cuộn trào khắp cơ thể, ba Đại Chiến Sĩ đồng loạt giải phóng sức mạnh.
 
 Hóa thành những gã khổng lồ cao hơn 5 mét, ba người ung dung bước vào khu vực Cổng Đông đang rực lửa.
 
@@ -53210,7 +53210,7 @@ Trước ánh mắt lườm nguýt đầy oán hận của Jiji-gogo, khuôn m�
 
 “Hừ... Đúng là về mặt phòng thủ thì ta không bằng Bandon...”
 
-“Kẻ xây dựng pháo đài vẫn chưa tung ra ma pháp tấn công nào. Nếu một kẻ mạnh như thế dốc toàn lực tấn công, ngay cả trạng thái `『Khổng Lồ Hóa』` cũng nguy hiểm đấy.”
+“Kẻ xây dựng pháo đài vẫn chưa tung ra ma pháp tấn công nào. Nếu một kẻ mạnh như thế dốc toàn lực tấn công, ngay cả trạng thái \`『Khổng Lồ Hóa』\` cũng nguy hiểm đấy.”
 
 Gizaginzu đoán rằng có lẽ Bazuzu đã quá tự mãn nên bị ma pháp tấn công của kẻ dùng Thổ ma thuật đập trúng đầu mà chết.
 
@@ -53270,7 +53270,7 @@ Và khi ngẩng đầu lên, gã nhìn thấy một bóng người nhân loại 
 
 Rồi, đứa trẻ nhân loại tà ác tột cùng đó giơ cao cây gậy và hét lớn.
 
-“Yoo-goo-mii-dii! De-roooo! (Đi thôi `『Vô Đạo Nhất Thức』`, giải phóng `『Hệ Biến Thái Hoàn Toàn』`!)”
+“Yoo-goo-mii-dii! De-roooo! (Đi thôi \`『Vô Đạo Nhất Thức』\`, giải phóng \`『Hệ Biến Thái Hoàn Toàn』\`!)”
 
 Một bóng đen khổng lồ đột ngột xuất hiện phía trên đầu Bandon.
 
@@ -53322,15 +53322,15 @@ Như thể biết rằng cái đầm lầy axit nhỏ này là cách duy nhất 
 
 Chiếc chân đang bị ăn mòn từng giây từng phút. Dù gã đã giật đứt từng cánh tay, xúc tu của con quái vật bám quanh, nhưng vẫn chưa đủ để thoát thân.
 
-Lần đầu tiên Bandon cảm thấy hoảng loạn khi bị dồn vào đường cùng. Đây cũng là lần đầu tiên gã phải chịu đau đớn và sát thương trong trạng thái `『Khổng Lồ Hóa』`.
+Lần đầu tiên Bandon cảm thấy hoảng loạn khi bị dồn vào đường cùng. Đây cũng là lần đầu tiên gã phải chịu đau đớn và sát thương trong trạng thái \`『Khổng Lồ Hóa』\`.
 
 Và kẻ nhân loại tà ác kia đã nhìn thấu sự hoảng loạn đó, xảo quyệt ra đòn quyết định.
 
 “Ganda! (Ngay lúc này!)”
 
-“Bungaaaa! `『Cương Đại Đả Kích』`!”
+“Bungaaaa! \`『Cương Đại Đả Kích』\`!”
 
-“Bongaaaa! `『Chân Nhất Thiểm』`!”
+“Bongaaaa! \`『Chân Nhất Thiểm』\`!”
 
 Từ trên bức tường thành, hai bóng người nhân loại lao xuống. Một chiến sĩ vung rìu và một kiếm sĩ lăm lăm thanh kiếm.
 
@@ -53436,7 +53436,7 @@ Dễ hiểu thôi. Cái cách chúng giăng bẫy dồn Bandon vào hiểm cản
 
 “Phần còn lại cứ giao cho ta. Lũ nhân loại ở đằng kia, chính tay ta sẽ tiễn chúng lên đường.”
 
-Thề sẽ báo thù, Zagan giải phóng sức mạnh `『Khổng Lồ Hóa』` theo sát ý đang cuộn trào từ tận đáy lòng.
+Thề sẽ báo thù, Zagan giải phóng sức mạnh \`『Khổng Lồ Hóa』\` theo sát ý đang cuộn trào từ tận đáy lòng.
 
 ---
 
@@ -58205,7 +58205,7 @@ Nơi cô ta hướng đến là vương tọa của Oh-ma. Không, xa hơn thế
 
 “Nào, mở ra đi. Chào đón sự nhậm chức của vị Quản lý mới.”
 
-`『———— Xác thực Sinclair Code. Chào mừng quý khách đến với Cơ quan Hành chính Trung ương Albion.』`
+\`『———— Xác thực Sinclair Code. Chào mừng quý khách đến với Cơ quan Hành chính Trung ương Albion.』\`
 
 Cùng với giọng thông báo trong trẻo của một người phụ nữ vang lên, cánh cổng khổng lồ bắt đầu chuyển động với tiếng động trầm đục.
 
@@ -58494,7 +58494,7 @@ Takanashi thực hiện một cú trượt người như cầu thủ bóng chày
 
 Và rồi, ngay khoảnh khắc Takanashi lăn qua phía bên kia cánh cổng tối tăm không ánh đèn, một giọng thông báo của phụ nữ vang lên:
 
-`『Yêu cầu chuyển giao quyền quản trị đã được chấp nhận. Chúc mừng ngài "Kotori Takanashi" đã nhậm chức Tổng đốc lâm thời của Albion.』`
+\`『Yêu cầu chuyển giao quyền quản trị đã được chấp nhận. Chúc mừng ngài "Kotori Takanashi" đã nhậm chức Tổng đốc lâm thời của Albion.』\`
 
 Ngay sau đó, như thể các chức năng của Tháp Trung Tâm đã thức tỉnh, những luồng sáng rực rỡ lần lượt thắp lên, soi rọi sảnh vào rộng lớn phía sau cánh cổng.
 
@@ -58506,7 +58506,7 @@ Như một nữ diễn viên chính đứng dưới ánh đèn sân khấu, cô 
 
 “Momokawa, giờ thì mày có làm gì, có giãy giụa thế nào cũng vô ích thôi. Bởi vì Kotori không còn là một 『Hiền Giả』 tầm thường nữa rồi—”
 
-`『Yêu cầu chương trình bảo vệ cấp cao đã được chấp nhận. Áp dụng Luật An ninh Quốc gia Emerodia, đồng thời ban bố tình trạng thiết quân luật khẩn cấp trên toàn bộ khu vực Albion, phê duyệt việc cấp vô hạn trang bị cấp Thánh Thiên cho ngài Tổng đốc lâm thời Takanashi.』`
+\`『Yêu cầu chương trình bảo vệ cấp cao đã được chấp nhận. Áp dụng Luật An ninh Quốc gia Emerodia, đồng thời ban bố tình trạng thiết quân luật khẩn cấp trên toàn bộ khu vực Albion, phê duyệt việc cấp vô hạn trang bị cấp Thánh Thiên cho ngài Tổng đốc lâm thời Takanashi.』\`
 
 Cùng với thông báo, một ma pháp trận ánh sáng trắng khổng lồ xuất hiện dưới chân và trên trần nhà của Takanashi. Ngay sau đó, toàn thân cô ta được bao phủ bởi một luồng sáng trắng rực rỡ.
 
@@ -58750,7 +58750,7 @@ Sự trốn tránh thực tại đã đạt đến đỉnh điểm.
 
 “Tớ nghĩ vật tế cần thiết chỉ cần Sakura-chan là đủ rồi, nhưng có lẽ cũng nên giữ lại Natsukawa cho chắc ăn— Kích hoạt cổng dịch chuyển, chế độ tự chọn.”
 
-`『Kích hoạt cổng dịch chuyển. Vui lòng chọn mục tiêu tùy ý.』`
+\`『Kích hoạt cổng dịch chuyển. Vui lòng chọn mục tiêu tùy ý.』\`
 
 Khi Takanashi cất tiếng, giọng thông báo vang lên phản hồi, và toàn bộ mặt sàn bắt đầu phát sáng.
 
@@ -59419,7 +59419,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 “Vì đây là cơ sở quân sự. Quyền hạn của tao được ưu tiên hơn.”
 
-“Cái gọi là `『Mã General Code』` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là `『Sinclair Code』`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
+“Cái gọi là \`『Mã General Code』\` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là \`『Sinclair Code』\`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
 
 “Mày vẫn thính tai như mọi khi nhỉ.”
 
@@ -59435,7 +59435,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 Tôi quyết định cố gắng hết sức để không bận tâm đến cô nàng Lớp trưởng vẫn còn đang bất ổn tâm lý kia... Dù sao thì, hiện tại Kotori đã rơi vào trạng thái không thể can thiệp vào pháo đài ẩn này nữa.
 
-Và chỉ cần có quyền hạn quân sự mang tên `『Mã General Code』` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
+Và chỉ cần có quyền hạn quân sự mang tên \`『Mã General Code』\` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
 
 *Ồ, cảm giác này đúng chuẩn một căn cứ bí mật.*
 
@@ -59455,7 +59455,7 @@ Trước mắt, cả nhóm tập hợp tại phòng ăn rộng lớn đủ sức
 
 “Không sao đâu mà. Hơn nữa, cuối cùng tớ cũng chỉ chiến đấu với Zagan thôi.”
 
-Dù cô ấy nói là “chỉ”, nhưng việc uống thứ thuốc cấm `『Berserk X』` rồi một mình cầm chân Zagan thì không thể dùng từ “chỉ” để khái quát được. Dù chúng tôi đã phải chiến đấu liên tục từ sáng sớm, nhưng Mei-chan cũng đã phải chịu đựng sự mệt mỏi không hề kém cạnh.
+Dù cô ấy nói là “chỉ”, nhưng việc uống thứ thuốc cấm \`『Berserk X』\` rồi một mình cầm chân Zagan thì không thể dùng từ “chỉ” để khái quát được. Dù chúng tôi đã phải chiến đấu liên tục từ sáng sớm, nhưng Mei-chan cũng đã phải chịu đựng sự mệt mỏi không hề kém cạnh.
 
 Thế nhưng, nhìn nụ cười rạng rỡ của cô ấy, tôi không nỡ ngăn cản thêm nữa.
 
@@ -59637,7 +59637,7 @@ Rất đáng ghi nhận, nhưng cái vẻ mặt nghiêm túc ra vẻ thư ký đ
 
 “Vì là thiết quân luật nên có thể cấm dịch chuyển để ngăn chặn việc di chuyển sao.”
 
-“Vâng. Do đó, phép dịch chuyển giữa các khu vực mà mọi người vẫn sử dụng từ trước đến nay, tên gọi chính thức là `『Portal』`, hiện tại cũng không thể sử dụng được nữa.”
+“Vâng. Do đó, phép dịch chuyển giữa các khu vực mà mọi người vẫn sử dụng từ trước đến nay, tên gọi chính thức là \`『Portal』\`, hiện tại cũng không thể sử dụng được nữa.”
 
 “Nhưng sau khi lệnh cấm được ban bố, Kotori vẫn dịch chuyển được đấy thôi?”
 
@@ -59649,7 +59649,7 @@ Và hiện tại, cô ta đang âm mưu kế hoạch cuối cùng tại tầng s
 
 “Không thể dùng quyền hạn của Tendou-kun để dừng toàn bộ chức năng của tòa tháp sao?”
 
-“Chỉ riêng cơ quan hành chính trung tâm là không thuộc quyền quản lý của quân đội, nên chúng ta chỉ có thể dừng các `『Portal』` để cô lập nơi đó mà thôi.”
+“Chỉ riêng cơ quan hành chính trung tâm là không thuộc quyền quản lý của quân đội, nên chúng ta chỉ có thể dừng các \`『Portal』\` để cô lập nơi đó mà thôi.”
 
 Theo đúng nghĩa đen, đó chính là pháo đài cuối cùng. Hay đối với chúng tôi, gọi là ải Boss cuối thì chính xác hơn.
 
@@ -59659,7 +59659,7 @@ Theo đúng nghĩa đen, đó chính là pháo đài cuối cùng. Hay đối v�
 
 “Ra vậy, quả nhiên chỉ còn cách giết cô ta thôi.”
 
-Nhờ quyền hạn quân sự của Tendou để vô hiệu hóa các chức năng của hầm ngục, bao gồm cả phép dịch chuyển `『Portal』`, chúng tôi đang nắm giữ một chút lợi thế.
+Nhờ quyền hạn quân sự của Tendou để vô hiệu hóa các chức năng của hầm ngục, bao gồm cả phép dịch chuyển \`『Portal』\`, chúng tôi đang nắm giữ một chút lợi thế.
 
 Kotori, kẻ đã có được năng lực chi phối Albion dưới danh nghĩa Tổng đốc, nếu không có gì cản trở thì cô ta hoàn toàn là một Dungeon Master thực thụ. Khi đó, cô ta có thể thả bao nhiêu con Boss cỡ Yamata no Orochi tùy thích vào bất cứ thời điểm nào, tại bất cứ đâu.
 
@@ -59681,7 +59681,7 @@ Nhưng ngay cả khi không có sự trợ giúp của chúng tôi, Tendou chắ
 
 Quả nhiên là vậy.
 
-Dù có hay không có thiết bị tẩy não tà ác từ thời cổ đại, chỉ cần nó được ban tặng dưới dạng kỹ năng của 『Hiền Giả』 thì không thành vấn đề. Chỉ riêng một phiên bản nâng cấp của `『Quy Tắc Ý Niệm』` thôi cũng đủ để dễ dàng thao túng một kẻ có suy nghĩ phiến diện và dễ bị ám thị như Souma theo ý muốn của mình.
+Dù có hay không có thiết bị tẩy não tà ác từ thời cổ đại, chỉ cần nó được ban tặng dưới dạng kỹ năng của 『Hiền Giả』 thì không thành vấn đề. Chỉ riêng một phiên bản nâng cấp của \`『Quy Tắc Ý Niệm』\` thôi cũng đủ để dễ dàng thao túng một kẻ có suy nghĩ phiến diện và dễ bị ám thị như Souma theo ý muốn của mình.
 
 “Sức mạnh của 『Dũng Giả』 vẫn chưa hoàn toàn thức tỉnh. Vì vậy, Kotori chắc chắn muốn biến những người sống sót như chúng ta thành vật tế cho một bi kịch nào đó để kích hoạt sự kiện thức tỉnh.”
 
@@ -60998,7 +60998,7 @@ Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hi�
 
 “Ha ha ha! Nhìn đi, đây chính là sức mạnh mới được ban tặng bởi Chú thần Ruinhilde-sama vĩ đại!”
 
-`『Giải Phóng Cấm Chú』`: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
+\`『Giải Phóng Cấm Chú』\`: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
 
 “Hửm, chẳng hiểu gì cả.”
 
@@ -61008,7 +61008,7 @@ Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hi�
 
 Hừm, với tầm cỡ như tôi thì chỉ cần đọc qua đoạn mô tả mơ hồ này là đã nắm được hòm hòm hiệu quả của nó rồi. Mà thực ra, chỉ nhìn cái tên kỹ năng thôi là đã quá rõ ràng.
 
-“Cái `『Giải Phóng Cấm Chú』` này, nói ngắn gọn thì chính là kỹ năng cấp cao của `『Giải Mã Ngoại Pháp』`.”
+“Cái \`『Giải Phóng Cấm Chú』\` này, nói ngắn gọn thì chính là kỹ năng cấp cao của \`『Giải Mã Ngoại Pháp』\`.”
 
 “Cái kỹ năng giúp cậu đọc được chữ Goma ấy hả? Nếu có thể giải mã sâu hơn nữa... ch-chẳng lẽ...”
 
@@ -61070,7 +61070,7 @@ Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, H
 
 Tôi nở một nụ cười rạng rỡ như hoa hướng dương, khẽ đặt tay lên vai Himeno và tung ra đòn quyết định.
 
-“— Cô đã thức tỉnh `『Luyện Thành Trận Cơ Bản』` rồi đúng không?”
+“— Cô đã thức tỉnh \`『Luyện Thành Trận Cơ Bản』\` rồi đúng không?”
 
 “...!?”
 
@@ -61080,19 +61080,19 @@ Sắc mặt cô nàng lập tức cắt không còn giọt máu, toàn thân run
 
 “C-Cậu nói gì thế... Tôi chẳng biết cái trận pháp luyện thành gì đó đâu...”
 
-“`『Luyện Thành Trận Cơ Bản』` là kỹ năng cấp cao của `『Trận Pháp Luyện Thành Giản Đơn』` mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đặc biệt.”
+“\`『Luyện Thành Trận Cơ Bản』\` là kỹ năng cấp cao của \`『Trận Pháp Luyện Thành Giản Đơn』\` mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đặc biệt.”
 
-Thế nên, sau khi sử dụng `『Trận Pháp Luyện Thành Giản Đơn』` để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
+Thế nên, sau khi sử dụng \`『Trận Pháp Luyện Thành Giản Đơn』\` để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
 
 Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp, tôi thực sự thấy mừng cho cô đấy.
 
 “Đã bảo là tôi không biết rồi mà!”
 
-“Có gì phải giấu chứ. Tôi cũng dùng được `『Trận Pháp Luyện Thành Giản Đơn』` mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
+“Có gì phải giấu chứ. Tôi cũng dùng được \`『Trận Pháp Luyện Thành Giản Đơn』\` mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
 
 “Chắc cậu nhìn nhầm thôi.”
 
-“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng `『Luyện Thành Trận Cơ Bản』` để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
+“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng \`『Luyện Thành Trận Cơ Bản』\` để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
 
 “Không có chuyện đó đâu... Tôi chỉ là đang làm việc chăm chỉ thôi mà...”
 
@@ -61106,7 +61106,7 @@ Tuy nhiên, tôi vẫn mỉm cười đáp lại.
 
 “Thật mà.”
 
-“...Tôi học được `『Luyện Thành Trận Cơ Bản』` rồi.”
+“...Tôi học được \`『Luyện Thành Trận Cơ Bản』\` rồi.”
 
 “Sao chuyện quan trọng thế này cô không nói sớm hả!”
 
@@ -61170,7 +61170,7 @@ Thời điểm Kotarou vượt mặt Takanashi để trốn thoát sau trận ch
 
 “Lúc gặp tớ, cậu ấy trông tơi tả lắm, và cũng chẳng được thư thả như bây giờ đâu.”
 
-Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một `『Chú thuật sư』` vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
+Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một \`『Chú thuật sư』\` vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
 
 “Nói vậy, họ giống như những người cộng sự đã cùng nhau vượt qua thời kỳ gian khổ nhất nhỉ.”
 
@@ -61200,7 +61200,7 @@ Vào đêm trước trận chiến quyết định với vương quốc Goma, Re
 
 Trong trận chiến quyết định cuối cùng khi Meiko xuất hiện, Kyouko dù đang trong trạng thái mơ màng vẫn chứng kiến trận đấu cho đến phút cuối cùng. Thế nhưng Rerite, người đã kiệt quệ ma lực sau khi triệu hoán Linh thú và ngất đi, lại hoàn toàn không được tận mắt chứng kiến sức mạnh của Meiko.
 
-Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi `『Thần Thánh Ngôn Ngữ』` nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của `『Cuồng Chiến Binh』` mà mọi người vẫn thường ca tụng.
+Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi \`『Thần Thánh Ngôn Ngữ』\` nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của \`『Cuồng Chiến Binh』\` mà mọi người vẫn thường ca tụng.
 
 Dù vóc dáng thon gọn xinh đẹp sau khi giảm cân thành công mang lại một cảm giác không hề tầm thường, nhưng nó lại khó liên tưởng đến sức mạnh cơ bắp. Thậm chí cậu còn nghĩ rằng, là một thằng đàn ông, trong trường hợp khẩn cấp mình phải đứng ra bảo vệ cô ấy mới đúng.
 
@@ -61322,7 +61322,7 @@ Mất đi cả ba cái đầu, con Cerberus đổ gục xuống đất.
 
 Từ đầu đến cuối, Rerite không hề chớp mắt một lần nào, nhưng chính cậu cũng không thể tin nổi vào những gì mình vừa chứng kiến.
 
-Có điều, cậu đã phần nào hiểu được thiên chức `『Cuồng Chiến Binh』` của Futaba Meiko đáng sợ đến nhường nào.
+Có điều, cậu đã phần nào hiểu được thiên chức \`『Cuồng Chiến Binh』\` của Futaba Meiko đáng sợ đến nhường nào.
 
 “Futaba-san đỉnh thật đấy... Mình cũng phải cố gắng thôi.”`
             },
@@ -61617,15 +61617,15 @@ Cứ như thế, thời gian trôi qua chắc chưa đầy 30 phút. Tuy nhiên,
 
 “Xong rồi... Chú Đạo Khắc Ấn: 『Mãnh Thú』.”
 
-`『Chú Đạo Khắc Ấn』: Kỹ thuật khắc ấn bằng cách khắc lên cơ thể những dấu vết nguyền rủa để ban cho đối phương sức mạnh của chú thuật. Từ những lời nguyền hộ mệnh nhỏ nhặt hàng ngày cho đến những đại cấm chú bị phong ấn, tất cả đều sẽ trở thành sức mạnh của người được khắc. Tuy nhiên, xin chớ quên rằng thứ được khắc lên đó chỉ là những vết sẹo, những lời thề ước, và cũng chỉ là một lời nguyền mà thôi.`
+\`『Chú Đạo Khắc Ấn』: Kỹ thuật khắc ấn bằng cách khắc lên cơ thể những dấu vết nguyền rủa để ban cho đối phương sức mạnh của chú thuật. Từ những lời nguyền hộ mệnh nhỏ nhặt hàng ngày cho đến những đại cấm chú bị phong ấn, tất cả đều sẽ trở thành sức mạnh của người được khắc. Tuy nhiên, xin chớ quên rằng thứ được khắc lên đó chỉ là những vết sẹo, những lời thề ước, và cũng chỉ là một lời nguyền mà thôi.\`
 
-`『Mãnh Thú』: Chú ấn tượng trưng cho loài mãnh thú hung tợn. Ban cho người nhận sức mạnh cơ bắp mạnh mẽ để áp đảo kẻ thù, tốc độ di chuyển nhanh nhạy để săn đuổi con mồi, và sự tàn bạo để xé xác đối phương bằng móng vuốt và răng nanh sắc nhọn. Kẻ nhận được ân huệ này tuyệt đối không được quên bản thân mình là con người.`
+\`『Mãnh Thú』: Chú ấn tượng trưng cho loài mãnh thú hung tợn. Ban cho người nhận sức mạnh cơ bắp mạnh mẽ để áp đảo kẻ thù, tốc độ di chuyển nhanh nhạy để săn đuổi con mồi, và sự tàn bạo để xé xác đối phương bằng móng vuốt và răng nanh sắc nhọn. Kẻ nhận được ân huệ này tuyệt đối không được quên bản thân mình là con người.\`
 
 Đoạn mô tả đi kèm với lời cảnh báo đầy nghiêm trọng vang vọng trong tâm trí tôi.
 
-`『Chú Đạo Khắc Ấn』`, hay còn gọi tắt là `『Chú Ấn』`, là một dạng ma pháp phụ trợ thuộc `『Khắc Ấn Thuật』` mà tôi có thể sử dụng sau khi học được `『Cấm Chú Giải Pháp』`.
+\`『Chú Đạo Khắc Ấn』\`, hay còn gọi tắt là \`『Chú Ấn』\`, là một dạng ma pháp phụ trợ thuộc \`『Khắc Ấn Thuật』\` mà tôi có thể sử dụng sau khi học được \`『Cấm Chú Giải Pháp』\`.
 
-Và một trong những chú ấn mà tôi có thể khắc lúc này chính là `『Mãnh Thú』`.
+Và một trong những chú ấn mà tôi có thể khắc lúc này chính là \`『Mãnh Thú』\`.
 
 Lấy hình ảnh hàm răng sắc nhọn của một loài thú ăn thịt làm trung tâm, tôi bố trí các thuật thức học được từ tộc Goma thành một vòng tròn xung quanh nó.
 
@@ -63851,7 +63851,7 @@ Dù nhớ rất rõ hình ảnh Momokawa ngồi trên vương tọa, nhưng ngay
 
 Thay vì kinh ngạc, trong lòng cậu lại dâng lên cảm giác *quả nhiên là vậy*.
 
-`『Chú thuật sư』` Momokawa Kotarou. Liệu tên đó có sở hữu loại chú thuật tà ác có thể tẩy não người khác hay không — Sakura và Asuna đã luôn cảnh giác về điều này từ lâu.
+\`『Chú thuật sư』\` Momokawa Kotarou. Liệu tên đó có sở hữu loại chú thuật tà ác có thể tẩy não người khác hay không — Sakura và Asuna đã luôn cảnh giác về điều này từ lâu.
 
 Dù có những hành vi đáng ngờ, nhưng hắn vẫn đóng góp rất lớn cho lớp. Cậu cũng nghĩ rằng nếu không có sức mạnh của hắn, chiến dịch thảo phạt Yamata no Orochi đã không thể thành công. Chính vì những chiến công đó, rốt cuộc việc Momokawa có thực sự dùng được chú thuật tẩy não hay không vẫn chưa bao giờ được làm sáng tỏ.
 
@@ -63955,9 +63955,9 @@ Lý do cậu còn mặt mũi sống sót đến giờ chỉ có vậy. Mạng s�
 
 Nỗ lực suốt một tháng qua cuối cùng cũng đơm hoa kết trái.
 
-Bằng cách sử dụng `『Quy Tắc Ý Niệm』` và `『Thần Thánh Ngôn Ngữ』` lên Souma Yuuto đang bị giam giữ, cô đã chậm rãi và cẩn thận cải tạo lại ký ức của cậu.
+Bằng cách sử dụng \`『Quy Tắc Ý Niệm』\` và \`『Thần Thánh Ngôn Ngữ』\` lên Souma Yuuto đang bị giam giữ, cô đã chậm rãi và cẩn thận cải tạo lại ký ức của cậu.
 
-Tuần đầu tiên thực sự rất tồi tệ. Quả không hổ danh là `『Dũng Giả』`, hay có lẽ là nhờ tinh thần kiên cường của chính Yuuto. Cậu đã thể hiện khả năng kháng cự cực cao trước sự can thiệp tinh thần và cải tạo ký ức, ngoan cố giữ lại ký ức về khoảnh khắc Kotori lộ ra bản chất thật.
+Tuần đầu tiên thực sự rất tồi tệ. Quả không hổ danh là \`『Dũng Giả』\`, hay có lẽ là nhờ tinh thần kiên cường của chính Yuuto. Cậu đã thể hiện khả năng kháng cự cực cao trước sự can thiệp tinh thần và cải tạo ký ức, ngoan cố giữ lại ký ức về khoảnh khắc Kotori lộ ra bản chất thật.
 
 Ý chí không muốn quên đi sự thật quan trọng nhất — rằng Takanashi Kotori chính là kẻ chủ mưu hãm hại cả lớp — vô cùng mạnh mẽ. Nhưng đồng thời, Yuuto cũng quá mềm lòng. Chẳng khác gì khoảnh khắc cậu lao ra đỡ đòn cho Kotori trước đòn tấn công của nhóm Kotarou lúc trước.
 
@@ -64351,7 +64351,7 @@ Những con rối da xanh phun ra dòng máu màu xanh lam dạ quang rực rỡ
 
 Võ kỹ 『Kích Chấn』 vốn đã tạo ra sóng xung kích cực mạnh, nhưng với thực lực hiện tại của Mei kết hợp cùng món vũ khí mới được cường hóa, uy lực từ một cú vung của cô ấy giờ đây còn mang sức công phá khủng khiếp hơn cả một quả lựu đạn phát nổ.
 
-`『Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm』`: Món vũ khí được cải tiến và cường hóa mạnh mẽ từ vũ khí chính ban đầu của cô ấy là `『Hắc Thiết Kích』`. Lớp sắt đen cứng và nặng được nấu chảy cùng với `『Thần Thiết』`—loại kim loại hiếm chiết xuất từ vũ khí thu được ở pháo đài ẩn—để tạo thành một loại hợp kim mới có độ bền vượt trội. Thêm vào đó, yếu tố tạo nên thuộc tính bão tố của món vũ khí này chính là hai cây rìu thuộc tính Lôi của Jiji-Gogo. Đúng như mong đợi từ vũ khí của một Gira-GoGame Mastera đại diện cho vương quốc, chúng là những món vũ khí ma pháp chất lượng cao vượt xa vũ khí của GoGame Mastera bốn tay. Một cây vẫn còn cắm trên tường thành, cây còn lại được thu hồi dưới đáy vực, cả hai đều được đem đi luyện kim để truyền vào nguồn sức mạnh thuộc tính Lôi cực mạnh.
+\`『Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm』\`: Món vũ khí được cải tiến và cường hóa mạnh mẽ từ vũ khí chính ban đầu của cô ấy là \`『Hắc Thiết Kích』\`. Lớp sắt đen cứng và nặng được nấu chảy cùng với \`『Thần Thiết』\`—loại kim loại hiếm chiết xuất từ vũ khí thu được ở pháo đài ẩn—để tạo thành một loại hợp kim mới có độ bền vượt trội. Thêm vào đó, yếu tố tạo nên thuộc tính bão tố của món vũ khí này chính là hai cây rìu thuộc tính Lôi của Jiji-Gogo. Đúng như mong đợi từ vũ khí của một Gira-GoGame Mastera đại diện cho vương quốc, chúng là những món vũ khí ma pháp chất lượng cao vượt xa vũ khí của GoGame Mastera bốn tay. Một cây vẫn còn cắm trên tường thành, cây còn lại được thu hồi dưới đáy vực, cả hai đều được đem đi luyện kim để truyền vào nguồn sức mạnh thuộc tính Lôi cực mạnh.
 
 Cầm trên tay cây kích mới được đúc từ những chiến lợi phẩm sau chiến dịch lật đổ vương quốc Goma, Mei dễ dàng quét sạch lũ rối.
 
@@ -64359,9 +64359,9 @@ Khi được truyền ma lực, Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ H�
 
 Thế nhưng, vũ khí mới của cô ấy không chỉ có một món.
 
-`『Zagan's Pride』`: Thanh kiếm yêu thích của Zagan. Đó là một thanh thẳng kiếm bản rộng, không có trang trí cầu kỳ, cũng không được yểm các thuộc tính tấn công lòe loẹt, một thiết kế vô cùng đơn giản. Thế nhưng, nó lại là một thanh kiếm vô cùng thực dụng khi tập trung hoàn toàn vào độ sắc bén lâu dài và sự kiên cố của lưỡi kiếm. Đây cũng là thanh kiếm mang đầy điềm gở đã sát hại Nakai và bạn Nonomiya trong lần chạm trán đầu tiên. Tuy nhiên, trong chiến dịch vương quốc, nó đã bị rơi xuống vực sâu ngay từ đầu nên tôi không có nhiều ấn tượng về thanh kiếm này của Zagan... Dù vậy, sự thật là thanh kiếm này đã được Zagan yêu thích suốt nhiều năm, và nhờ được vung lên cùng với quá trình Khổng Lồ Hóa của hắn, nó đã tự sinh ra một hiệu ứng đặc biệt mà ban đầu không hề có.
+\`『Zagan's Pride』\`: Thanh kiếm yêu thích của Zagan. Đó là một thanh thẳng kiếm bản rộng, không có trang trí cầu kỳ, cũng không được yểm các thuộc tính tấn công lòe loẹt, một thiết kế vô cùng đơn giản. Thế nhưng, nó lại là một thanh kiếm vô cùng thực dụng khi tập trung hoàn toàn vào độ sắc bén lâu dài và sự kiên cố của lưỡi kiếm. Đây cũng là thanh kiếm mang đầy điềm gở đã sát hại Nakai và bạn Nonomiya trong lần chạm trán đầu tiên. Tuy nhiên, trong chiến dịch vương quốc, nó đã bị rơi xuống vực sâu ngay từ đầu nên tôi không có nhiều ấn tượng về thanh kiếm này của Zagan... Dù vậy, sự thật là thanh kiếm này đã được Zagan yêu thích suốt nhiều năm, và nhờ được vung lên cùng với quá trình Khổng Lồ Hóa của hắn, nó đã tự sinh ra một hiệu ứng đặc biệt mà ban đầu không hề có.
 
-Thứ Mei đang nắm ở tay trái không phải là một chiếc đại khiên, mà chính là thanh `『Zagan's Pride』` này. Thanh kiếm đại diện cho niềm kiêu hãnh của Zagan quả thực vô cùng xứng đáng nằm trong tay vị Cuồng Chiến Binh đã đánh bại hắn.
+Thứ Mei đang nắm ở tay trái không phải là một chiếc đại khiên, mà chính là thanh \`『Zagan's Pride』\` này. Thanh kiếm đại diện cho niềm kiêu hãnh của Zagan quả thực vô cùng xứng đáng nằm trong tay vị Cuồng Chiến Binh đã đánh bại hắn.
 
 Thanh trường kiếm trông có vẻ vô cùng bình thường và giản đơn đó, thế nhưng—
 
@@ -64431,7 +64431,7 @@ Quả nhiên, em không phải là kiểu con gái chỉ biết cam chịu ở p
 
 Chính vì vậy, tôi đã không hề tiếc công sức để chế tạo ra món vũ khí chuyên dụng dành riêng cho Sakura.
 
-`『Anh Hoa Liêu Loạn』`: Một cây naginata có cán màu trắng tinh khiết và lưỡi đao tỏa ra ánh sáng xanh trắng. Bởi vì Sakura nói rằng vũ khí cận chiến mà cô ấy thành thạo nhất không phải là kiếm mà là naginata. Phôi nguyên liệu của nó là một khẩu súng Blaster dạng súng trường bắn tỉa có nòng cực dài, kết hợp với thanh trường kiếm mà cô ấy luôn mang theo bên mình như vũ khí phụ. Nòng súng trường dài có lẽ được thiết kế để bắn ra những tia sáng cực mạnh nên có cấu trúc vô cùng kiên cố, hơn nữa thuật thức khắc trên nòng súng thay cho rãnh xoắn lại sở hữu khả năng truyền dẫn ma lực vô cùng kinh ngạc. Nếu được sử dụng bởi một người có ma lực vượt trội, nó hoàn toàn có thể dùng thay thế cho một cây gậy phép. Dùng thứ này làm cán, kết hợp với thanh kiếm chất lượng cao được Takanashi gia công nghiêm túc làm lưỡi đao, chúng tôi đã tạo ra một cây naginata có thể phát huy trọn vẹn ma lực của Thánh Nữ.
+\`『Anh Hoa Liêu Loạn』\`: Một cây naginata có cán màu trắng tinh khiết và lưỡi đao tỏa ra ánh sáng xanh trắng. Bởi vì Sakura nói rằng vũ khí cận chiến mà cô ấy thành thạo nhất không phải là kiếm mà là naginata. Phôi nguyên liệu của nó là một khẩu súng Blaster dạng súng trường bắn tỉa có nòng cực dài, kết hợp với thanh trường kiếm mà cô ấy luôn mang theo bên mình như vũ khí phụ. Nòng súng trường dài có lẽ được thiết kế để bắn ra những tia sáng cực mạnh nên có cấu trúc vô cùng kiên cố, hơn nữa thuật thức khắc trên nòng súng thay cho rãnh xoắn lại sở hữu khả năng truyền dẫn ma lực vô cùng kinh ngạc. Nếu được sử dụng bởi một người có ma lực vượt trội, nó hoàn toàn có thể dùng thay thế cho một cây gậy phép. Dùng thứ này làm cán, kết hợp với thanh kiếm chất lượng cao được Takanashi gia công nghiêm túc làm lưỡi đao, chúng tôi đã tạo ra một cây naginata có thể phát huy trọn vẹn ma lực của Thánh Nữ.
 
 Nguồn nguyên liệu chế tạo thì không gặp mấy khó khăn, nhưng công đoạn tinh chỉnh sau khi hoàn thành mới thực sự là một cực hình. Nào là sự cân bằng giữa lưỡi đao và cán súng chưa tốt, đường truyền ma lực có vấn đề, thiết kế chỗ này chưa đẹp mắt, rồi thì cái bản mặt đáng ghét của tôi nhìn ngứa mắt, vân vân và mây mây. Tôi đã bị những đòi hỏi ích kỷ của Sakura xoay cho chóng mặt.
 
@@ -64481,7 +64481,7 @@ Cứ như vậy, tên bắn tỉa trên nóc container đã bị tinh linh cấp
 
 “Được rồi, mau chóng thu gom súng trường lại đi!”
 
-Tôi giơ cao cây gậy phép gắn `『Đầu Lâu Của Triệu Hoán Thuật Sư』` lên, lập tức triệu hồi ra toàn bộ số lượng Skeleton có thể.
+Tôi giơ cao cây gậy phép gắn \`『Đầu Lâu Của Triệu Hoán Thuật Sư』\` lên, lập tức triệu hồi ra toàn bộ số lượng Skeleton có thể.
 
 Tôi ra lệnh cho các Skeleton nhặt những khẩu súng trường mà lũ rối bỏ lại. Cách sử dụng súng trường thì tôi đã huấn luyện cho chúng từ trước rồi. Vấn đề còn lại chỉ là liệu chúng có thể sử dụng trực tiếp được hay không—*Keng!* Một tiếng súng nổ đặc trưng vang lên, con Skeleton đã bắn thử nghiệm thành công.
 
@@ -65614,7 +65614,7 @@ Khẽ rên rỉ một tiếng, Souma Sakura lảo đảo đứng dậy.
 
 Cơ thể cô vẫn nguyên vẹn. Không có cảm giác đau đớn hay bất kỳ dấu hiệu bất thường nào.
 
-Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên `『Đệm Khí』` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối `『Thánh Thiên Kết Giới』`, cô đã tiếp đất thành công mà không hề trầy xước một sợi tóc.
+Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên \`『Đệm Khí』\` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối \`『Thánh Thiên Kết Giới』\`, cô đã tiếp đất thành công mà không hề trầy xước một sợi tóc.
 
 “...Nhưng có vẻ như mình đã lạc mất mọi người rồi.”
 
@@ -65654,7 +65654,7 @@ Có vẻ như hiện tại nó đã bị mất kết nối.
 
 Cô cẩn thận quan sát xung quanh một lần nữa, đồng thời kiểm tra lại trang bị của bản thân.
 
-Cầm chắc trên tay vũ khí chính mới của mình là cây cung `『Anh Hoa Liêu Loạn』` dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay, Sakura bắt đầu đơn độc bước đi.
+Cầm chắc trên tay vũ khí chính mới của mình là cây cung \`『Anh Hoa Liêu Loạn』\` dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay, Sakura bắt đầu đơn độc bước đi.
 
 Có lẽ vì đây là một khu rừng được thiết kế như một khu vườn, nên nó không quá rậm rạp đến mức khiến người ta đi lạc. Dưới chân cô là một con đường đất rõ ràng, tầm nhìn cũng khá thoáng đãng nhờ khoảng cách giữa các hàng cây được phân bổ rất hợp lý.
 
@@ -65718,7 +65718,7 @@ Cậu ta chết rồi.
 
 Momokawa Kotarou.
 
-Tên `『Chú thuật sư』` đáng hận Momokawa Kotarou đã chết rồi sao?
+Tên \`『Chú thuật sư』\` đáng hận Momokawa Kotarou đã chết rồi sao?
 
 Ngay khi nhận thức được điều đó, cảm xúc trỗi dậy trong lòng Souma Sakura lại là...
 
@@ -65728,7 +65728,7 @@ Ngay khi nhận thức được điều đó, cảm xúc trỗi dậy trong lòn
 
 Cô từng nghĩ cậu ta nên chết đi. Cậu ta là kẻ đáng chết.
 
-`『Chú thuật sư』` Momokawa Kotarou là một đại tội nhân đã lừa dối cả lớp, một kẻ ích kỷ chỉ biết ưu tiên những ham muốn xấu xa của bản thân — cho dù tất cả những chuyện đó có là âm mưu vu khống của Takanashi Kotori đi chăng nữa, thì sự thật Kotarou đã trở thành kẻ sát nhân vẫn không hề thay đổi.
+\`『Chú thuật sư』\` Momokawa Kotarou là một đại tội nhân đã lừa dối cả lớp, một kẻ ích kỷ chỉ biết ưu tiên những ham muốn xấu xa của bản thân — cho dù tất cả những chuyện đó có là âm mưu vu khống của Takanashi Kotori đi chăng nữa, thì sự thật Kotarou đã trở thành kẻ sát nhân vẫn không hề thay đổi.
 
 Cậu ta đã dùng đôi bàn tay nhỏ bé đó để tước đi mạng sống của biết bao nhiêu người. Thậm chí cậu ta còn giết cả Reina, người bạn thuở nhỏ của cô.
 
@@ -65818,7 +65818,7 @@ Ngay cả khi đang rơi tự do giữa không trung, Mei vẫn kịp thời đ�
 
 Nếu là Mei, cô ấy dư sức một mình hạ gục Kenzaki dù cô ta có mọc thêm đôi cánh thiên sứ. Cho dù đôi cánh đó không phải là đồ trang trí, mà là một món vũ khí cổ đại mạnh mẽ tương đương với trang bị cấp Thánh Thiên của tên Dũng Giả kia đi chăng nữa.
 
-Bởi vì chúng tôi đã hoàn thành phương pháp phá giải `『Thánh Thiên Kết Giới』` rồi mà.
+Bởi vì chúng tôi đã hoàn thành phương pháp phá giải \`『Thánh Thiên Kết Giới』\` rồi mà.
 
 “Nơi này có vẻ nhiều tượng yêu tinh quá nhỉ...”
 
@@ -65830,7 +65830,7 @@ Tôi đã thấy quá nhiều tàn tích đổ nát rồi, nhưng đây là lầ
 
 Nếu hiểu theo cách đó, thì việc có nhiều bức tượng được đặt rải rác như những chú yêu tinh đang đùa nghịch trong rừng cũng là điều dễ hiểu. Theo những gì Liberta từng nói, tượng yêu tinh là những thực thể đặc biệt ẩn chứa sức mạnh của thần linh thực sự.
 
-Nếu tầng này chính là nguồn cội cung cấp sức mạnh cho tất cả các Quảng Trường Tinh Linh rải rác khắp hầm ngục... thì nơi đây chẳng khác nào thánh địa của chúng, một `『Khu Rừng Của Yêu Tinh』`.
+Nếu tầng này chính là nguồn cội cung cấp sức mạnh cho tất cả các Quảng Trường Tinh Linh rải rác khắp hầm ngục... thì nơi đây chẳng khác nào thánh địa của chúng, một \`『Khu Rừng Của Yêu Tinh』\`.
 
 “—!”
 
@@ -65844,7 +65844,7 @@ Rất có thể có ai đó đang rơi vào tình cảnh nguy hiểm do đụng 
 
 “Gư gư.”
 
-Rem đã chuyển sang dạng Hắc Kị Sĩ. Tôi nắm chặt `『Cây Gậy Của Kẻ Ngốc』` và `『Vô Đạo Nhất Thức』` trong tay.
+Rem đã chuyển sang dạng Hắc Kị Sĩ. Tôi nắm chặt \`『Cây Gậy Của Kẻ Ngốc』\` và \`『Vô Đạo Nhất Thức』\` trong tay.
 
 Phía trước chỉ có một người. Dù có thêm tôi và Rem thì cũng chẳng tăng thêm được bao nhiêu chiến lực. Nếu đối thủ là một con Boss mạnh mẽ, tôi sẽ lại dùng bài cũ: triệu hồi bia đỡ đạn để cầm chân rồi lập tức rút lui.
 
@@ -65868,7 +65868,7 @@ Thế này thì bắt quả tang tại trận rồi còn gì. Dù hiếm khi b�
 
 Như thể vừa nhận thức được hành vi điên rồ mà mình vừa gây ra, Sakura cuống cuồng hét lên “không phải” dù rõ ràng là “phải”, rồi vội vàng nhảy dựng ra khỏi người tôi.
 
-Đến lúc này, tôi mới giải trừ kỹ năng `『Song Ảnh』`.
+Đến lúc này, tôi mới giải trừ kỹ năng \`『Song Ảnh』\`.
 
 Phân thân của tôi — vốn đang nằm bất động như một xác chết đuối ướt sũng nước dưới hồ — lập tức hóa thành những hạt bụi đen rồi tan biến vào không trung.
 
@@ -65905,7 +65905,7 @@ Nơi đây vốn là một ngôi đền cổ nay đã đổ nát, nứt nẻ và
 
 “Cậu định tiếp tục trận đấu dở dang ngày trước à?”
 
-Meiko lịch sự đáp lời, thực chất là để âm thầm quan sát xung quanh xem có đồng đội nào khác của đối phương ở gần đây không. Dĩ nhiên, một `『Cuồng Chiến Binh』` như cô làm sao có được những phương pháp như ma pháp dò tìm hay thả sứ ma trinh sát.
+Meiko lịch sự đáp lời, thực chất là để âm thầm quan sát xung quanh xem có đồng đội nào khác của đối phương ở gần đây không. Dĩ nhiên, một \`『Cuồng Chiến Binh』\` như cô làm sao có được những phương pháp như ma pháp dò tìm hay thả sứ ma trinh sát.
 
 Cô chỉ có thể dựa vào thị giác, thính giác siêu phàm và giác quan thứ sáu để cảm nhận khí tức. Nhưng ít nhất, cô nhanh chóng đưa ra phán đoán rằng không có ai trong phạm vi cảm nhận của mình.
 
@@ -65927,7 +65927,7 @@ Bởi vì Asuna đã sớm vượt qua ranh giới không thể quay đầu rồ
 
 “Lần này, tôi sẽ giết cậu tại đây.”
 
-Sẽ không còn ai cản đường nữa. Chàng Dũng Giả yêu dấu của cô ta sẽ không đến cứu, và Kotarou cũng sẽ không ban phát lòng khoan dung. Meiko tự hiểu rằng đây chính là sứ mệnh của một `『Cuồng Chiến Binh』` như cô.
+Sẽ không còn ai cản đường nữa. Chàng Dũng Giả yêu dấu của cô ta sẽ không đến cứu, và Kotarou cũng sẽ không ban phát lòng khoan dung. Meiko tự hiểu rằng đây chính là sứ mệnh của một \`『Cuồng Chiến Binh』\` như cô.
 
 “Phải đấy, nhào vô đi, Futaba Meiko. Mối nhục bại dưới tay ngươi, ta chưa từng quên dù chỉ một khắc— Hôm nay, chỉ cần đánh bại ngươi tại đây, ta mới có thể tiếp tục bước tiếp.”
 
@@ -65935,7 +65935,7 @@ Sẽ không còn ai cản đường nữa. Chàng Dũng Giả yêu dấu của c
 
 Giờ đây, lời nói đã trở nên thừa thãi. Ngay cả một tín hiệu bắt đầu cũng không cần thiết.
 
-Kẻ động thủ trước là Meiko. Cô vung một nhát chém, phóng đại kích thước của thanh `『Zagan's Pride』` ở tay trái lên mức tối đa.
+Kẻ động thủ trước là Meiko. Cô vung một nhát chém, phóng đại kích thước của thanh \`『Zagan's Pride』\` ở tay trái lên mức tối đa.
 
 Trong lúc hai bên còn đang mải đấu khẩu, cô đã âm thầm rút ngắn khoảng cách đến giới hạn cận chiến của lưỡi đao. Tiến lên một bước, thanh đại kiếm của gã khổng lồ lao đến như muốn chém đôi Asuna.
 
@@ -65951,7 +65951,7 @@ Asuna chỉ cần vung nhẹ thanh đao bên tay phải là đã dễ dàng gạ
 
 Asuna nở nụ cười đắc ý, thủ thế với lưỡi đao đang tỏa ra ánh hào quang nhạt.
 
-Kiểu dáng của nó giống hệt thanh `『Thanh Tịnh Cổ Đao』` mà cô ta vẫn hằng yêu thích trong hầm ngục này. Thế nhưng, lưỡi đao của nó lại được làm từ thần thiết—một loại kim loại cực kỳ quý hiếm. Hơn nữa, khác với những thanh đao được cường hóa sơ sài ngoài mặt khi còn ở căn cứ, đây là một tác phẩm được Takanashi dồn hết tâm huyết chế tạo ra.
+Kiểu dáng của nó giống hệt thanh \`『Thanh Tịnh Cổ Đao』\` mà cô ta vẫn hằng yêu thích trong hầm ngục này. Thế nhưng, lưỡi đao của nó lại được làm từ thần thiết—một loại kim loại cực kỳ quý hiếm. Hơn nữa, khác với những thanh đao được cường hóa sơ sài ngoài mặt khi còn ở căn cứ, đây là một tác phẩm được Takanashi dồn hết tâm huyết chế tạo ra.
 
 Độ sắc bén và độ bền vượt trội cùng hàng loạt hiệu ứng bổ trợ. Và trên hết, thanh đao này sở hữu khả năng chủ động triển khai 『Thánh Thiên Kết Giới』 ngay trên lưỡi đao.
 
@@ -65979,7 +65979,7 @@ Tuy nhiên, đối với Meiko, điều đó chỉ càng làm cô buồn cười
 
 Đôi cánh vỗ mạnh, trái ngược với bộ pháp nhẹ nhàng thường ngày, Asuna lao thẳng vào áp sát với một tốc độ gia tốc kinh hoàng.
 
-Cặp song kiếm mang ánh sáng thần thánh `『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』` tung ra những đường kiếm liên hoàn tựa như một cơn bão ánh sáng. Như muốn chứng minh đây chính là đỉnh cao của một `『Song Kiếm Sĩ』` và là bí kỹ của phái Kenzaki, những nhát chém dồn dập không cho đối phương một nhịp thở liên tục được tung ra.
+Cặp song kiếm mang ánh sáng thần thánh \`『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』\` tung ra những đường kiếm liên hoàn tựa như một cơn bão ánh sáng. Như muốn chứng minh đây chính là đỉnh cao của một \`『Song Kiếm Sĩ』\` và là bí kỹ của phái Kenzaki, những nhát chém dồn dập không cho đối phương một nhịp thở liên tục được tung ra.
 
 Không chỉ tấn công từ chính diện. Với lực chân mạnh mẽ và bộ pháp uyển chuyển của phái Kenzaki, cộng thêm khả năng bay lượn từ đôi cánh thiên sứ—vốn là một món vũ khí cổ đại, Asuna lúc này sở hữu khả năng cơ động ba chiều cực kỳ đáng sợ.
 
@@ -66011,7 +66011,7 @@ Trong tư thế lộn ngược người, Asuna thật vung cặp song kiếm xu�
 
 “Tặc lưỡi, thanh kiếm đó còn có thể mở rộng lưỡi kiếm ra sao...”
 
-Meiko thậm chí không thèm quay đầu lại, cô chỉ giơ thanh `『Zagan's Pride』` lên đỉnh đầu để chặn đứng đòn đánh của Asuna.
+Meiko thậm chí không thèm quay đầu lại, cô chỉ giơ thanh \`『Zagan's Pride』\` lên đỉnh đầu để chặn đứng đòn đánh của Asuna.
 
 Lưỡi kiếm lúc này đã được mở rộng bề ngang một cách tối đa để biến thành một tấm khiên đúng nghĩa.
 
@@ -66023,9 +66023,9 @@ Asuna làu bàu chửi rủa. Điều đáng kinh ngạc không phải là khả
 
 Mà là sức mạnh thể chất kinh hoàng của Meiko, kẻ có thể dùng một tay đỡ nhẹ thanh kiếm để chặn đứng cú chém lấy đầu bằng cả hai tay của Asuna mà không hề suy suyển một phân.
 
-Dĩ nhiên, Asuna với thiên chức `『Song Kiếm Sĩ』` cũng đã sở hữu sức mạnh vượt trội hơn người thường. Cộng thêm hàng loạt vật phẩm ma pháp được Kotori ban cho và sự hỗ trợ lực từ đôi cánh thiên sứ, xét về mặt tổng thể, cô ta chắc chắn phải vượt trội hơn hẳn những kẻ có cùng thiên chức.
+Dĩ nhiên, Asuna với thiên chức \`『Song Kiếm Sĩ』\` cũng đã sở hữu sức mạnh vượt trội hơn người thường. Cộng thêm hàng loạt vật phẩm ma pháp được Kotori ban cho và sự hỗ trợ lực từ đôi cánh thiên sứ, xét về mặt tổng thể, cô ta chắc chắn phải vượt trội hơn hẳn những kẻ có cùng thiên chức.
 
-Thế nhưng, ngay cả như vậy, cô ta vẫn không thể bắt kịp sức mạnh thể chất áp đảo mà một `『Cuồng Chiến Binh』` tự hào sở hữu.
+Thế nhưng, ngay cả như vậy, cô ta vẫn không thể bắt kịp sức mạnh thể chất áp đảo mà một \`『Cuồng Chiến Binh』\` tự hào sở hữu.
 
 “Nhưng về tốc độ, ta hoàn toàn áp đảo ngươi.”
 
@@ -66097,7 +66097,7 @@ Dù đã giành chiến thắng áp đảo một lần, cô ta vẫn không hề
 
 Ngay khi nhận ra điều đó, một cảm giác ớn lạnh chạy dọc sống lưng Asuna.
 
-`『Cuồng Chiến Binh』` Futaba Meiko. Kẻ sở hữu thiên chức mạnh mẽ hơn mình, với phong cách chiến đấu phụ thuộc vào sức mạnh thể chất kinh hoàng đó chỉ là một kẻ nghiệp dư được ban tặng chỉ số cao.
+\`『Cuồng Chiến Binh』\` Futaba Meiko. Kẻ sở hữu thiên chức mạnh mẽ hơn mình, với phong cách chiến đấu phụ thuộc vào sức mạnh thể chất kinh hoàng đó chỉ là một kẻ nghiệp dư được ban tặng chỉ số cao.
 
 Từ trước đến nay cô ta vẫn luôn nghĩ như vậy. Không, cô ta đã quá coi thường đối thủ.
 
@@ -69210,23 +69210,23 @@ Nhận mệnh lệnh của chủ nhân, Rem đội 『Mũ Giáp Khổng Lồ』 
 
 Rem đáp lại tiếng hét đầy nhiệt huyết của tôi bằng chất giọng đều đều như đọc bài.
 
-Giống như các Gira-GoGame Mastera của vương quốc, ngay khi Rem hô lên từ khóa “Giga” và đội lên đầu `『Mũ Giáp Khổng Lồ』` — thứ được làm từ hộp sọ của Zagan — sức mạnh biến thân thành khổng lồ lập tức bộc phát trong cơ thể cô bé.
+Giống như các Gira-GoGame Mastera của vương quốc, ngay khi Rem hô lên từ khóa “Giga” và đội lên đầu \`『Mũ Giáp Khổng Lồ』\` — thứ được làm từ hộp sọ của Zagan — sức mạnh biến thân thành khổng lồ lập tức bộc phát trong cơ thể cô bé.
 
-Ma lực tuôn trào không sót một giọt vào thuật thức khắc trên `『Mũ Giáp Khổng Lồ』`, khiến nó tỏa ra luồng sáng đỏ thẫm đầy điềm gở. Cùng lúc đó, những hoa văn chú ấn khắc trên khắp cơ thể Rem cũng rực sáng. Luồng hào quang đỏ đen hỗn loạn phình to rồi bùng nổ dữ dội.
+Ma lực tuôn trào không sót một giọt vào thuật thức khắc trên \`『Mũ Giáp Khổng Lồ』\`, khiến nó tỏa ra luồng sáng đỏ thẫm đầy điềm gở. Cùng lúc đó, những hoa văn chú ấn khắc trên khắp cơ thể Rem cũng rực sáng. Luồng hào quang đỏ đen hỗn loạn phình to rồi bùng nổ dữ dội.
 
 *OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!*
 
 Dáng vẻ ấy, chính là sự tái sinh của Zagan.
 
-Gã khổng lồ sở hữu thân hình cơ bắp cuồn cuộn như ác quỷ, nhưng có lẽ do ảnh hưởng từ chú thuật của tôi nên toàn thân đã bị nhuộm một màu đen kịt. Bao bọc lấy cơ thể gã khổng lồ đen là bộ giáp cũng tỏa ra ánh kim sắc đen tuyền. Thiết kế của nó gần như y hệt dạng chiến đấu quen thuộc nhất của Rem — `『Hắc Kị Sĩ』`.
+Gã khổng lồ sở hữu thân hình cơ bắp cuồn cuộn như ác quỷ, nhưng có lẽ do ảnh hưởng từ chú thuật của tôi nên toàn thân đã bị nhuộm một màu đen kịt. Bao bọc lấy cơ thể gã khổng lồ đen là bộ giáp cũng tỏa ra ánh kim sắc đen tuyền. Thiết kế của nó gần như y hệt dạng chiến đấu quen thuộc nhất của Rem — \`『Hắc Kị Sĩ』\`.
 
-Kỹ năng `『Khổng Lồ Hóa』` của tộc Gira-GoGame Mastera không chỉ biến bản thân thành khổng lồ mà còn có một hiệu ứng quan trọng khác là phóng to các trang bị đi kèm. Nhờ vậy, lũ Goma mới có thể vung vẩy những món vũ khí cực mạnh ngay cả khi đã hóa khổng lồ. Rem cũng không ngoại lệ. Tận dụng khả năng phóng to trang bị, cô bé đã thành công hóa khổng lồ trong khi vẫn mặc nguyên bộ giáp toàn thân kiên cố của Hắc Kị Sĩ. Tuy nhiên, đáng tiếc là vũ khí lại không thể phóng to theo.
+Kỹ năng \`『Khổng Lồ Hóa』\` của tộc Gira-GoGame Mastera không chỉ biến bản thân thành khổng lồ mà còn có một hiệu ứng quan trọng khác là phóng to các trang bị đi kèm. Nhờ vậy, lũ Goma mới có thể vung vẩy những món vũ khí cực mạnh ngay cả khi đã hóa khổng lồ. Rem cũng không ngoại lệ. Tận dụng khả năng phóng to trang bị, cô bé đã thành công hóa khổng lồ trong khi vẫn mặc nguyên bộ giáp toàn thân kiên cố của Hắc Kị Sĩ. Tuy nhiên, đáng tiếc là vũ khí lại không thể phóng to theo.
 
 *Là do món vũ khí đó phải là thứ bản thân yêu thích, hay còn điều kiện nào khác, hoặc đơn giản là vì thiếu ma lực?* Dù lý do là gì, nếu chưa thể giải quyết ngay lúc này thì tôi chỉ có thể sử dụng Rem như một gã khổng lồ bọc giáp.
 
-Bí kỹ `『Khổng Lồ Hóa』` mà tôi đang sử dụng vốn là nguyên bản của Vua Oh-ma. Với một kẻ chỉ mới bập bẹ giải mã được chút ít chữ Goma như tôi, đây là một ma pháp cao cấp không thể nào tái hiện nổi. Hơn nữa, để kích hoạt nó, có lẽ còn cần phải mượn cả sức mạnh từ thần linh của tộc Goma. Đó là phép màu của thần thánh chỉ dành riêng cho tộc Goma, con người tuyệt đối không thể chạm tới.
+Bí kỹ \`『Khổng Lồ Hóa』\` mà tôi đang sử dụng vốn là nguyên bản của Vua Oh-ma. Với một kẻ chỉ mới bập bẹ giải mã được chút ít chữ Goma như tôi, đây là một ma pháp cao cấp không thể nào tái hiện nổi. Hơn nữa, để kích hoạt nó, có lẽ còn cần phải mượn cả sức mạnh từ thần linh của tộc Goma. Đó là phép màu của thần thánh chỉ dành riêng cho tộc Goma, con người tuyệt đối không thể chạm tới.
 
-Chính vì vậy, tôi mới bắt Oh-ma phải "sử dụng" nó. Việc tôi giữ cái xác của hắn trong trạng thái bị đóng đinh không phải là trò đùa hay sở thích quái đản. Chính nhờ việc tận dụng toàn bộ cái xác của hắn mà phép màu `『Khổng Lồ Hóa』` mới được thiết lập một cách kỳ diệu. Do đó, người duy nhất tôi có thể áp dụng `『Khổng Lồ Hóa』` là Rem, người đang sở hữu `『Mũ Giáp Khổng Lồ』`. Nhờ có tàn dư sinh mệnh của Oh-ma thật sự, Đại Chiến Sĩ Zagan mới chịu đáp lời.
+Chính vì vậy, tôi mới bắt Oh-ma phải "sử dụng" nó. Việc tôi giữ cái xác của hắn trong trạng thái bị đóng đinh không phải là trò đùa hay sở thích quái đản. Chính nhờ việc tận dụng toàn bộ cái xác của hắn mà phép màu \`『Khổng Lồ Hóa』\` mới được thiết lập một cách kỳ diệu. Do đó, người duy nhất tôi có thể áp dụng \`『Khổng Lồ Hóa』\` là Rem, người đang sở hữu \`『Mũ Giáp Khổng Lồ』\`. Nhờ có tàn dư sinh mệnh của Oh-ma thật sự, Đại Chiến Sĩ Zagan mới chịu đáp lời.
 
 “Được rồi, phần còn lại là một trận chiến sòng phẳng. Lên đi, Rem Gigas của tôi!”
 
@@ -69274,7 +69274,7 @@ Tận dụng lợi thế của mình, Kinako di chuyển cực kỳ linh hoạt 
 
 Nói là vậy, nhưng tình hình hiện tại không cho phép chúng tôi hành động bừa bãi. Sự hỗ trợ vụng về chỉ tổ làm vướng chân. Tôi đã ra lệnh cho Rem phải bảo vệ đồng đội. Nếu có ai đó vô tình rơi vào hiểm cảnh, Rem chắc chắn sẽ lấy thân mình ra che chở.
 
-Tuy nhiên, dù có cứu được mạng người đó, nhưng nếu Rem khổng lồ — chiến lực duy nhất có thể kìm chân Kinako lúc này — bị hạ gục, chúng tôi sẽ hoàn toàn bế tắc. Để chen vào chiến trường nơi hai thực thể khổng lồ đang va chạm với toàn bộ sức mạnh, đòi hỏi phải có thực lực vượt trội cỡ Mei hay Tendou. Đáng tiếc là Sakura, ngay cả khi sử dụng `『Thánh Thiên Kết Giới』`, vẫn chưa chạm tới cảnh giới đó.
+Tuy nhiên, dù có cứu được mạng người đó, nhưng nếu Rem khổng lồ — chiến lực duy nhất có thể kìm chân Kinako lúc này — bị hạ gục, chúng tôi sẽ hoàn toàn bế tắc. Để chen vào chiến trường nơi hai thực thể khổng lồ đang va chạm với toàn bộ sức mạnh, đòi hỏi phải có thực lực vượt trội cỡ Mei hay Tendou. Đáng tiếc là Sakura, ngay cả khi sử dụng \`『Thánh Thiên Kết Giới』\`, vẫn chưa chạm tới cảnh giới đó.
 
 “Nhưng cứ thế này thì...”
 
@@ -69302,23 +69302,23 @@ Như đã thấy, Kinako hiện tại không hề bình thường. Bộ lông ch
 
 Ngay từ khoảnh khắc nhìn thấy Kinako, chú thuật của tôi đã phản ứng vô cùng mạnh mẽ.
 
-`『Vòng Thiên Sứ - Mẫu Cuối Của Nhà Máy Vũ Khí Sinh Học Albion』`: Đó là chiếc vòng nô dịch đáng ghê tởm nhất. Món công cụ giam cầm cấm kỵ không thể dung thứ này chỉ được phép tồn tại dưới danh nghĩa của Thần. Sự ngạo mạn của nó từng biến nó thành xiềng xích phản nghịch đặt nền móng cho Ma Đế Quốc — tuy nhiên, ở thời hậu thế khi thần thoại đã bị lãng quên, việc tái hiện hoàn toàn món đồ này là bất khả thi. Nó không còn chứa đựng sức mạnh cấm kỵ cướp đi tự do và tôn nghiêm của con người, nhưng vẫn đủ sức làm một chiếc vòng cổ để thuần hóa lũ ma vật sống bằng bản năng.
+\`『Vòng Thiên Sứ - Mẫu Cuối Của Nhà Máy Vũ Khí Sinh Học Albion』\`: Đó là chiếc vòng nô dịch đáng ghê tởm nhất. Món công cụ giam cầm cấm kỵ không thể dung thứ này chỉ được phép tồn tại dưới danh nghĩa của Thần. Sự ngạo mạn của nó từng biến nó thành xiềng xích phản nghịch đặt nền móng cho Ma Đế Quốc — tuy nhiên, ở thời hậu thế khi thần thoại đã bị lãng quên, việc tái hiện hoàn toàn món đồ này là bất khả thi. Nó không còn chứa đựng sức mạnh cấm kỵ cướp đi tự do và tôn nghiêm của con người, nhưng vẫn đủ sức làm một chiếc vòng cổ để thuần hóa lũ ma vật sống bằng bản năng.
 
-Trước hết, kỹ năng chú thuật giám định đầy bí ẩn `『Mai Táng Thần Học』` phản ứng với các cổ vật đã chỉ ra sự tồn tại của nó. Dựa trên phần mô tả, đây chắc chắn là một vật phẩm ma pháp dùng để tẩy não và thao túng Kinako. Tuy nhiên, nhìn lướt qua thì không thấy vật thể nào dễ nhận biết như vậy cả... Hóa ra, nó được đeo ở gốc đôi tai thỏ dài vốn là đặc điểm nhận dạng của Kinako. Nơi đó bị bao phủ bởi lớp lông dày xù xì, nếu không vạch lông ở gốc tai ra thì không thể nào phát hiện được. Có lẽ để kiểm soát hoàn toàn Kinako cần một hiệu lực mạnh mẽ hơn, nên có tới hai chiếc vòng được đeo ở cả hai tai của nó.
+Trước hết, kỹ năng chú thuật giám định đầy bí ẩn \`『Mai Táng Thần Học』\` phản ứng với các cổ vật đã chỉ ra sự tồn tại của nó. Dựa trên phần mô tả, đây chắc chắn là một vật phẩm ma pháp dùng để tẩy não và thao túng Kinako. Tuy nhiên, nhìn lướt qua thì không thấy vật thể nào dễ nhận biết như vậy cả... Hóa ra, nó được đeo ở gốc đôi tai thỏ dài vốn là đặc điểm nhận dạng của Kinako. Nơi đó bị bao phủ bởi lớp lông dày xù xì, nếu không vạch lông ở gốc tai ra thì không thể nào phát hiện được. Có lẽ để kiểm soát hoàn toàn Kinako cần một hiệu lực mạnh mẽ hơn, nên có tới hai chiếc vòng được đeo ở cả hai tai của nó.
 
-Nếu chỉ chiến đấu thông thường thì không thể nào nhận ra, việc `『Mai Táng Thần Học』` phản ứng và chỉ ra vị trí của chiếc vòng chắc chắn là sự hỗ trợ đáng quý từ Nữ thần Ruinhilde. Thỉnh thoảng trong các trận đấu Boss khổng lồ yêu cầu cơ chế đặc biệt để tiêu diệt, game thường có những phần hướng dẫn hoặc hiệu ứng gợi ý rất dễ hiểu mà.
+Nếu chỉ chiến đấu thông thường thì không thể nào nhận ra, việc \`『Mai Táng Thần Học』\` phản ứng và chỉ ra vị trí của chiếc vòng chắc chắn là sự hỗ trợ đáng quý từ Nữ thần Ruinhilde. Thỉnh thoảng trong các trận đấu Boss khổng lồ yêu cầu cơ chế đặc biệt để tiêu diệt, game thường có những phần hướng dẫn hoặc hiệu ứng gợi ý rất dễ hiểu mà.
 
 *Đã được chỉ ra điểm yếu rõ ràng thế này rồi, mình không được phép thất bại...*
 
 But vội vàng tấn công ngay lập tức chỉ là hành động của kẻ nghiệp dư. Việc chỉ biết nhấn liên tục nút tấn công rồi lao vào như một kẻ không não chỉ dành cho học sinh tiểu học mà thôi. Khi một điểm yếu rõ ràng lộ ra, người ta thường chỉ chăm chăm chú ý vào nó, nhưng còn một thứ khác cần phải đề phòng, đó chính là đôi cánh trắng nổi bật kia.
 
-`『Thiết Bị Đẩy Cao Cơ Động Kiểu Bạch Dực - Bản Thử Nghiệm』`: Bản thử nghiệm của trang bị mở rộng dành cho vũ khí sinh học dựa trên vũ khí cấp Thánh Điển `『Cánh Vệ Thần』`. Đôi cánh trắng mọc trên lưng là biểu tượng của thiên sứ phụng sự Thần, tức là minh chứng cho sự nô dịch đối với Thần. Ban đầu đây là trang bị dùng để cung cấp khả năng bay lượn, nhưng do thiếu hụt công suất và việc tái hiện thuật thức thời Thần Đại không hoàn chỉnh, nó không đủ sức nâng một vũ khí sinh học khổng lồ lên không trung. Tuy nhiên, nhờ nguồn động lực cung cấp cho toàn thân từ lò phản ứng Ether và lực đẩy từ các bộ phận chuyển động dạng cánh, nó đã thành công trong việc gia tăng một phần cơ động và kéo dài thời gian hoạt động.
+\`『Thiết Bị Đẩy Cao Cơ Động Kiểu Bạch Dực - Bản Thử Nghiệm』\`: Bản thử nghiệm của trang bị mở rộng dành cho vũ khí sinh học dựa trên vũ khí cấp Thánh Điển \`『Cánh Vệ Thần』\`. Đôi cánh trắng mọc trên lưng là biểu tượng của thiên sứ phụng sự Thần, tức là minh chứng cho sự nô dịch đối với Thần. Ban đầu đây là trang bị dùng để cung cấp khả năng bay lượn, nhưng do thiếu hụt công suất và việc tái hiện thuật thức thời Thần Đại không hoàn chỉnh, nó không đủ sức nâng một vũ khí sinh học khổng lồ lên không trung. Tuy nhiên, nhờ nguồn động lực cung cấp cho toàn thân từ lò phản ứng Ether và lực đẩy từ các bộ phận chuyển động dạng cánh, nó đã thành công trong việc gia tăng một phần cơ động và kéo dài thời gian hoạt động.
 
-Đôi cánh đó không phải tự nhiên mọc ra mà là trang bị bổ sung được gắn từ bên ngoài. Món đồ này cũng được `『Mai Táng Thần Học』` giải thích một cách dễ hiểu một cách hiếm hoi. Đúng như dự đoán, nó không thể bay nhưng lại giúp gia tăng tốc độ di chuyển. Những chuyển động nhẹ nhàng như đang nhảy múa của Kinako có được là nhờ đôi cánh trắng lớn đập liên tục kia đang hoạt động rất hiệu quả.
+Đôi cánh đó không phải tự nhiên mọc ra mà là trang bị bổ sung được gắn từ bên ngoài. Món đồ này cũng được \`『Mai Táng Thần Học』\` giải thích một cách dễ hiểu một cách hiếm hoi. Đúng như dự đoán, nó không thể bay nhưng lại giúp gia tăng tốc độ di chuyển. Những chuyển động nhẹ nhàng như đang nhảy múa của Kinako có được là nhờ đôi cánh trắng lớn đập liên tục kia đang hoạt động rất hiệu quả.
 
 Và tính năng đáng ngại hơn cả sự cơ động chính là nguồn ma lực được cung cấp từ thứ gọi là lò phản ứng Ether. Đó là nguồn năng lượng ma lực dùng để vận hành các khẩu súng blaster và các chức năng của di tích cổ đại. Có lẽ họ gọi thứ năng lượng đó là Ether... Tóm lại, việc Kinako có thể phun ra luồng hơi thở thuộc tính Quang cực mạnh là nhờ Ether được cung cấp từ đôi cánh. Sức mạnh nâng đỡ Kinako trong dạng thánh thú chính là nguồn năng lượng Ether này.
 
-Nhưng điều may mắn nhất là đôi cánh đó không có chức năng triển khai `『Thánh Thiên Kết Giới』`. Có lẽ lượng Ether không đủ để duy trì một kết giới bao bọc cơ thể khổng lồ của Kinako. Ngay cả khi có thể triển khai, nó cũng chỉ kéo dài vài giây hoặc chỉ bảo vệ được một phần nhỏ ở các điểm yếu. Ít nhất, nếu nó có thể sử dụng vô hạn thì trận chiến giáp lá cà ngang tài ngang sức với Rem đã không thể xảy ra.
+Nhưng điều may mắn nhất là đôi cánh đó không có chức năng triển khai \`『Thánh Thiên Kết Giới』\`. Có lẽ lượng Ether không đủ để duy trì một kết giới bao bọc cơ thể khổng lồ của Kinako. Ngay cả khi có thể triển khai, nó cũng chỉ kéo dài vài giây hoặc chỉ bảo vệ được một phần nhỏ ở các điểm yếu. Ít nhất, nếu nó có thể sử dụng vô hạn thì trận chiến giáp lá cà ngang tài ngang sức với Rem đã không thể xảy ra.
 
 “Được rồi, trước tiên chúng ta sẽ phá hủy đôi cánh để làm suy yếu nó.”
 
@@ -72266,17 +72266,17 @@ Họ không nói với nhau lời nào. Thế nhưng, vị trí họ dừng châ
 
 “Tầm này là được rồi.”
 
-Yuuto chậm rãi quay người lại đối mặt với hai người kia. Cậu thủ thế song kiếm, tay phải cầm `『Thánh Kiếm Ánh Sáng』`, tay trái là `『Thánh Hỏa Thương Lôi』`.
+Yuuto chậm rãi quay người lại đối mặt với hai người kia. Cậu thủ thế song kiếm, tay phải cầm \`『Thánh Kiếm Ánh Sáng』\`, tay trái là \`『Thánh Hỏa Thương Lôi』\`.
 
 “Ừ.”
 
-Ryuuichi đáp lại cụt ngủn không chút áp lực. Cậu ta vác thanh hắc vương kiếm `『U Minh Vương Kiếm Zamd』` trên vai phải, đứng sừng sững.
+Ryuuichi đáp lại cụt ngủn không chút áp lực. Cậu ta vác thanh hắc vương kiếm \`『U Minh Vương Kiếm Zamd』\` trên vai phải, đứng sừng sững.
 
 *Koutarou liệu có ổn không nhỉ...*
 
 Meiko nhìn về phía nhóm Koutarou đã đi xa bằng ánh mắt của một người mẹ tiễn đứa con thơ chạy đi mà không hề ngoảnh lại. Cuối cùng, như đã hạ quyết tâm, cô quay sang nhìn Yuuto.
 
-Meiko cầm `『Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm』` ở tay phải và `『Zagan's Pride』` ở tay trái. Cả hai đều là song phủ biến dị có nguồn gốc từ tộc Goma.
+Meiko cầm \`『Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm』\` ở tay phải và \`『Zagan's Pride』\` ở tay trái. Cả hai đều là song phủ biến dị có nguồn gốc từ tộc Goma.
 
 Ánh mắt hiền từ hướng về phía Koutarou lập tức biến mất, thay vào đó là sát ý sắc lạnh như tu la nhắm thẳng vào Yuuto — và lưỡi rìu vung lên.
 
@@ -72286,7 +72286,7 @@ Cô lạnh lùng ra lệnh. Thanh kích sét đen vung dọc một đường nha
 
 Tiếng sấm sét chói tai vang lên, át đi tiếng xé gió hào hùng của lưỡi rìu khổng lồ. Luồng lôi điện đỏ đen phóng ra từ lưỡi rìu, quấn chặt lấy nhau như những con rắn độc lao thẳng về phía Yuuto.
 
-“`『Thiên Tinh Thuẫn』`.”
+“\`『Thiên Tinh Thuẫn』\`.”
 
 Yuuto chọn phòng thủ. Chiếc khiên ánh sáng thánh thiện lập tức hình thành ở đầu ngón tay trái đang nắm chặt thanh kiếm, chắn ngang luồng lôi điện đang lao tới.
 
@@ -72296,23 +72296,23 @@ Tuy nhiên, ánh chớp chói mắt và tiếng nổ đùng đoàng từ vụ va
 
 Và một tích tắc đó là quá đủ để thu hẹp khoảng cách.
 
-Tendou Ryuuichi lao lên với tốc độ tối đa ngay từ bước đầu tiên, vung mạnh `『U Minh Vương Kiếm Zamd』` xuống. Lưỡi kiếm khổng lồ đã tích tụ một lượng ma lực khổng lồ đến mức chực chờ tràn ra ngoài.
+Tendou Ryuuichi lao lên với tốc độ tối đa ngay từ bước đầu tiên, vung mạnh \`『U Minh Vương Kiếm Zamd』\` xuống. Lưỡi kiếm khổng lồ đã tích tụ một lượng ma lực khổng lồ đến mức chực chờ tràn ra ngoài.
 
-“— `『Vòng Xoáy U Minh』`!”
+“— \`『Vòng Xoáy U Minh』\`!”
 
 Luồng hắc ám cuộn xoáy như thác lũ ập xuống Yuuto.
 
-Thánh kiếm `『Thánh Kiếm Ánh Sáng』` và thánh thuẫn `『Thiên Tinh Thuẫn』` của Dũng Giả không thể triển khai cùng một lúc. Dù là kỹ năng đặc hữu vạn năng và mạnh mẽ, chúng vẫn có những hạn chế nhất định.
+Thánh kiếm \`『Thánh Kiếm Ánh Sáng』\` và thánh thuẫn \`『Thiên Tinh Thuẫn』\` của Dũng Giả không thể triển khai cùng một lúc. Dù là kỹ năng đặc hữu vạn năng và mạnh mẽ, chúng vẫn có những hạn chế nhất định.
 
 Cả kiếm lẫn khiên đều có thể biến hình hoặc phóng to tùy theo lượng ma lực và ý chí của Yuuto, nhưng cậu không thể triển khai hai cái trở lên ở hai bên trái phải cùng lúc.
 
-Hiện tại, chiếc khiên kiên cố của Dũng Giả đang bận chặn đòn lôi điện của Meiko, trong khi `『Vòng Xoáy U Minh』` đang ập đến từ mạn sườn phải.
+Hiện tại, chiếc khiên kiên cố của Dũng Giả đang bận chặn đòn lôi điện của Meiko, trong khi \`『Vòng Xoáy U Minh』\` đang ập đến từ mạn sườn phải.
 
 Đó là một đại chiêu tạo ra cơn lốc hủy diệt khổng lồ đủ sức phá hủy một cái đầu của Yamata no Orochi, và Ryuuichi đã áp sát đến cự ly mà mũi kiếm của thanh đại kiếm có thể chạm tới.
 
 “Hự—”
 
-Yuuto vội vàng dùng `『Thánh Kiếm Ánh Sáng』` để đỡ đòn.
+Yuuto vội vàng dùng \`『Thánh Kiếm Ánh Sáng』\` để đỡ đòn.
 
 Thế nhưng, sức mạnh từ cơn lốc hắc ám hung tợn cộng thêm lực chém ngàn cân từ thanh đại kiếm đã đánh bật thanh quang kiếm của cậu. Dù là Dũng Giả, việc dùng một tay vung kiếm để đỡ trọn vẹn một đại chiêu được tung ra ở cự ly gần là điều bất khả thi.
 
@@ -72320,7 +72320,7 @@ Trong cơn chấn động dữ dội tưởng chừng như thanh kiếm sắp tu
 
 Nhìn từ ngoài, trông cậu như bị đánh bay đi, nhưng nhờ khả năng kiểm soát cơ thể phi thường, cậu đã lộn vòng trên không trung để lấy lại thăng bằng, đồng thời tung ra ma pháp tấn công để kiềm chế đối phương truy kích.
 
-“`『Đa Trùng Liên Tỏa Triệu Hoán Trận』` — Bay múa đi, 『Hỏa Tinh Linh』, 『Lôi Tinh Linh』!”
+“\`『Đa Trùng Liên Tỏa Triệu Hoán Trận』\` — Bay múa đi, 『Hỏa Tinh Linh』, 『Lôi Tinh Linh』!”
 
 Dọc theo quỹ đạo bay của Yuuto, hàng loạt ma pháp trận cỡ nhỏ liên tục xuất hiện, phóng ra vô số quả cầu lửa và cầu sấm sét màu xanh trắng.
 
@@ -72328,39 +72328,39 @@ Có những quả lao thẳng vào hai kẻ địch, có những quả lơ lửn
 
 “Chậc, lũ ruồi nhặng phiền phức, biến xéo hết đi!”
 
-Ryuuichi vung ngang thanh kiếm vẫn đang giải phóng `『Vòng Xoáy U Minh』` về phía lũ tinh linh đang lao tới. Nhát chém khổng lồ quét sạch mọi thứ trên đường đi của nó, không phân biệt quả cầu nào đang nhắm vào cậu ta hay không. Trước sức hủy diệt hắc ám áp đảo, dù số lượng tinh linh nhỏ bé có nhiều đến đâu cũng không thể chống đỡ nổi.
+Ryuuichi vung ngang thanh kiếm vẫn đang giải phóng \`『Vòng Xoáy U Minh』\` về phía lũ tinh linh đang lao tới. Nhát chém khổng lồ quét sạch mọi thứ trên đường đi của nó, không phân biệt quả cầu nào đang nhắm vào cậu ta hay không. Trước sức hủy diệt hắc ám áp đảo, dù số lượng tinh linh nhỏ bé có nhiều đến đâu cũng không thể chống đỡ nổi.
 
 “Haaaaaa!”
 
-Trong khi đó, Meiko không dùng đại chiêu hay tiểu xảo nào. Cô chọn cách đột phá trực diện, dùng lưỡi kiếm rộng bản của `『Zagan's Pride』` ở tay trái làm lá chắn.
+Trong khi đó, Meiko không dùng đại chiêu hay tiểu xảo nào. Cô chọn cách đột phá trực diện, dùng lưỡi kiếm rộng bản của \`『Zagan's Pride』\` ở tay trái làm lá chắn.
 
 Vô số tinh linh như những phát đạn ma pháp liên tiếp bắn vào lưỡi đại kiếm của cô, nhưng bước chân đột kích của Cuồng Chiến Binh không hề lay chuyển.
 
 *Quả nhiên, bấy nhiêu đó không đủ để ngăn họ lại—*
 
-“`『Bạch Ảnh Thương』`!”
+“\`『Bạch Ảnh Thương』\`!”
 
-Hàng loạt ngọn thương trắng muốt nhằm đâm xuyên kẻ đang lao tới mọc lên san sát. Dù đối thủ có định dùng sức mạnh để tông phá đi chăng nữa, Meiko vẫn như biết rõ mọi thời điểm và tầm đánh của `『Bạch Ảnh Thương』`, cô nhảy vọt lên tránh né một cách nhẹ nhàng.
+Hàng loạt ngọn thương trắng muốt nhằm đâm xuyên kẻ đang lao tới mọc lên san sát. Dù đối thủ có định dùng sức mạnh để tông phá đi chăng nữa, Meiko vẫn như biết rõ mọi thời điểm và tầm đánh của \`『Bạch Ảnh Thương』\`, cô nhảy vọt lên tránh né một cách nhẹ nhàng.
 
-“`『Thương Lam Ba』`, `『Thương Lôi Xung』`!”
+“\`『Thương Lam Ba』\`, \`『Thương Lôi Xung』\`!”
 
-Tấn công Meiko đang ở trên không trung là hai ma pháp được phóng ra cùng lúc từ ma pháp kiếm `『Thánh Hỏa Thương Lôi』`.
+Tấn công Meiko đang ở trên không trung là hai ma pháp được phóng ra cùng lúc từ ma pháp kiếm \`『Thánh Hỏa Thương Lôi』\`.
 
-`『Thương Lam Ba』` lan rộng thành một làn sóng lửa xanh trắng khổng lồ không thể né tránh, và giữa biển lửa đó, `『Thương Lôi Xung』` hóa thành một ngọn lôi thương khổng lồ đâm xuyên qua.
+\`『Thương Lam Ba』\` lan rộng thành một làn sóng lửa xanh trắng khổng lồ không thể né tránh, và giữa biển lửa đó, \`『Thương Lôi Xung』\` hóa thành một ngọn lôi thương khổng lồ đâm xuyên qua.
 
-Việc đạp vào hư không để di chuyển khi đang ở trên trời là điều quá đỗi bình thường. Nếu Meiko chọn cách né tránh khi bị lửa bao vây thì tốt. Còn nếu cô vẫn muốn đột phá, áp lực từ `『Thương Lam Ba』` và uy lực của `『Thương Lôi Xung』` phóng ra trực diện sẽ đánh rơi cô xuống đất.
+Việc đạp vào hư không để di chuyển khi đang ở trên trời là điều quá đỗi bình thường. Nếu Meiko chọn cách né tránh khi bị lửa bao vây thì tốt. Còn nếu cô vẫn muốn đột phá, áp lực từ \`『Thương Lam Ba』\` và uy lực của \`『Thương Lôi Xung』\` phóng ra trực diện sẽ đánh rơi cô xuống đất.
 
 Thế nhưng, lựa chọn của Meiko vẫn là đột phá trực diện. Cuồng Chiến Binh không lùi bước dù chỉ một phân. Với khí thế như muốn tuyên bố điều đó, cô lao thẳng vào ngọn lửa đang bùng cháy dữ dội.
 
-“`『Cương Kích』`!”
+“\`『Cương Kích』\`!”
 
 “Khốn kiếp, thế này mà vẫn không cản nổi sao!”
 
 Cảm nhận được luồng khí tức đáng sợ từ trong ngọn lửa xanh, Yuuto biết đòn chặn đánh bằng hai ma pháp của mình đã thất bại. Không kịp suy nghĩ, cậu phản xạ tự nhiên thối lui sâu hơn.
 
-Chiêu `『Cương Kích』` của Meiko là võ kỹ đập khiên, hay còn gọi là Cương Kích. Trong trận chiến thảo phạt Yamata no Orochi, Yuuto nhớ rất rõ uy lực kinh hoàng của chiêu thức này khi cô dùng nó để đánh bay cái đầu khổng lồ của Orochi.
+Chiêu \`『Cương Kích』\` của Meiko là võ kỹ đập khiên, hay còn gọi là Cương Kích. Trong trận chiến thảo phạt Yamata no Orochi, Yuuto nhớ rất rõ uy lực kinh hoàng của chiêu thức này khi cô dùng nó để đánh bay cái đầu khổng lồ của Orochi.
 
-Đúng vậy, với `『Cương Kích』`, chút lửa và sấm sét kia làm sao có thể ngăn cô lại được.
+Đúng vậy, với \`『Cương Kích』\`, chút lửa và sấm sét kia làm sao có thể ngăn cô lại được.
 
 “Aaaah!!”
 
@@ -72372,35 +72372,35 @@ Cậu đã né được trong gang tấc, nhưng...
 
 Ryuuichi lại áp sát, vung vương kiếm nhắm vào Yuuto.
 
-Dù không phóng ra `『Vòng Xoáy U Minh』` liên tục, nhưng lưỡi kiếm đen kịt vẫn tràn ngập ma lực bóng tối mạnh mẽ. Yuuto dùng quang thuẫn đỡ lấy thanh đại kiếm hắc ám đáng sợ đó.
+Dù không phóng ra \`『Vòng Xoáy U Minh』\` liên tục, nhưng lưỡi kiếm đen kịt vẫn tràn ngập ma lực bóng tối mạnh mẽ. Yuuto dùng quang thuẫn đỡ lấy thanh đại kiếm hắc ám đáng sợ đó.
 
-Tiếng kim loại va chạm chát chúa hòa cùng tiếng ma lực xung khắc nổ tung vang vọng. Nếu là `『Thiên Tinh Thuẫn』`, cậu hoàn toàn có thể chống đỡ vững vàng những nhát chém đầy uy lực của Ryuuichi.
+Tiếng kim loại va chạm chát chúa hòa cùng tiếng ma lực xung khắc nổ tung vang vọng. Nếu là \`『Thiên Tinh Thuẫn』\`, cậu hoàn toàn có thể chống đỡ vững vàng những nhát chém đầy uy lực của Ryuuichi.
 
 Nếu gạt được đòn này sang một bên, việc vung thanh quang kiếm bằng một tay của cậu sẽ nhanh hơn thanh đại kiếm của Ryuuichi.
 
 Thế nhưng, vị vua của chiến trường và cô nàng Cuồng Chiến Binh sát cánh bên cậu ta làm sao để lộ sơ hở đó.
 
-“— `『Kích Chấn』`!”
+“— \`『Kích Chấn』\`!”
 
 Tiếng sấm sét gầm vang dữ dội, võ kỹ của Meiko ập đến.
 
-*Nguy rồi,* Yuuto lập tức nhận ra tình thế bất lợi của mình. Không phải vì cậu bị nhắm vào bởi võ kỹ `『Kích Chấn』`, mà vấn đề nằm ở vị trí áp sát của Meiko.
+*Nguy rồi,* Yuuto lập tức nhận ra tình thế bất lợi của mình. Không phải vì cậu bị nhắm vào bởi võ kỹ \`『Kích Chấn』\`, mà vấn đề nằm ở vị trí áp sát của Meiko.
 
 Ryuuichi và Meiko đang kẹp sườn cậu từ hai phía trái phải. Hơn nữa, đó là một khoảng cách tuyệt diệu — nơi lưỡi kiếm của những món vũ khí khổng lồ của họ có thể chạm tới, nhưng một thanh kiếm thẳng hay katana thông thường thì không thể với tới.
 
-“`『Tam Liệt Thiểm』` — `『Thương Phong Nhẫn』`!”
+“\`『Tam Liệt Thiểm』\` — \`『Thương Phong Nhẫn』\`!”
 
 Bằng võ kỹ tấn công liên hoàn ba nhát mượt mà, Yuuto tạm thời đỡ được đòn tấn công trước mắt.
 
-Nhát chém đầu tiên đánh bật `『Kích Chấn』`, nhát thứ hai đỡ đòn chém của Ryuuichi, và nhát cuối cùng chặn đứng thanh `『Zagan's Pride』` ở tay trái của Meiko. Dù né tránh là phương án tối ưu, nhưng thực lực của hai người kia không hề tầm thường để cho cậu làm vậy.
+Nhát chém đầu tiên đánh bật \`『Kích Chấn』\`, nhát thứ hai đỡ đòn chém của Ryuuichi, và nhát cuối cùng chặn đứng thanh \`『Zagan's Pride』\` ở tay trái của Meiko. Dù né tránh là phương án tối ưu, nhưng thực lực của hai người kia không hề tầm thường để cho cậu làm vậy.
 
 Và để đỡ được những đòn đánh kèm võ kỹ này, cậu cũng phải dùng đến võ kỹ, nếu không sẽ bị áp chế lực lượng. Nếu bị mất đà ở khoảng cách này, cậu sẽ bị truy kích ngay lập tức mà không kịp lùi lại.
 
-Võ kỹ `『Tam Liệt Thiểm』` thu được từ việc tiêu diệt Gấu Giáp Sắt vào ngày đầu tiên chinh phục Dungeon là chiêu thức Yuuto vô cùng thuần thục. Nhờ đó, cậu có thể vung kiếm theo những đường chém biến hóa để đỡ đòn của hai kẻ đang kẹp sườn mình.
+Võ kỹ \`『Tam Liệt Thiểm』\` thu được từ việc tiêu diệt Gấu Giáp Sắt vào ngày đầu tiên chinh phục Dungeon là chiêu thức Yuuto vô cùng thuần thục. Nhờ đó, cậu có thể vung kiếm theo những đường chém biến hóa để đỡ đòn của hai kẻ đang kẹp sườn mình.
 
-Uy lực và tốc độ của ba nhát chém liên hoàn đã xuất sắc hóa giải đòn tấn công của Ryuuichi và Meiko. Tuy nhiên, vì là võ kỹ, nó vẫn để lại một khoảng khựng nhỏ sau khi thi triển. Dù khoảng khựng của `『Tam Liệt Thiểm』` cực kỳ ngắn, nhưng trong tình cảnh này, đó vẫn là một sơ hở chí mạng.
+Uy lực và tốc độ của ba nhát chém liên hoàn đã xuất sắc hóa giải đòn tấn công của Ryuuichi và Meiko. Tuy nhiên, vì là võ kỹ, nó vẫn để lại một khoảng khựng nhỏ sau khi thi triển. Dù khoảng khựng của \`『Tam Liệt Thiểm』\` cực kỳ ngắn, nhưng trong tình cảnh này, đó vẫn là một sơ hở chí mạng.
 
-Vì vậy, cậu đã kích hoạt sẵn ma pháp tấn công hệ phong `『Thương Phong Nhẫn』` dưới chân. Sức ép từ luồng gió xanh trắng nổ tung ngay sát chân giúp cậu cưỡng chế di chuyển cơ thể đang bị khựng.
+Vì vậy, cậu đã kích hoạt sẵn ma pháp tấn công hệ phong \`『Thương Phong Nhẫn』\` dưới chân. Sức ép từ luồng gió xanh trắng nổ tung ngay sát chân giúp cậu cưỡng chế di chuyển cơ thể đang bị khựng.
 
 Cảm nhận được cơ thể nhẹ nhàng bay lên và lùi lại phía sau nhờ áp lực gió, Yuuto đáp đất và thủ thế kiếm khiên một lần nữa.
 
@@ -72420,7 +72420,7 @@ Một cơn mưa lưỡi rìu và kiếm thực sự trút xuống Yuuto.
 
 Họ không cần dùng đến đại chiêu. Chỉ bằng cách đan xen những võ kỹ quen thuộc nhất có thời gian khựng nhỏ nhất, hai người liên tục dồn dập tấn công.
 
-Ryuuichi vừa vung thanh đại kiếm bao phủ bởi hào quang hắc ám, vừa bắn ra ma pháp tấn công. Xen kẽ giữa những nhát chém ngàn cân của `『U Minh Vương Kiếm Zamd』` là các ma pháp tấn công cấp thấp đủ mọi thuộc tính để lấp đầy mọi kẽ hở.
+Ryuuichi vừa vung thanh đại kiếm bao phủ bởi hào quang hắc ám, vừa bắn ra ma pháp tấn công. Xen kẽ giữa những nhát chém ngàn cân của \`『U Minh Vương Kiếm Zamd』\` là các ma pháp tấn công cấp thấp đủ mọi thuộc tính để lấp đầy mọi kẽ hở.
 
 Meiko vừa phóng ra lôi điện từ cây rìu chiến, vừa kéo dài thanh kiếm bên tay trái lên kích thước của một thanh đại kiếm, tạo nên những nhát chém tốc độ cao đầy biến hóa của song đại đao. Với thể lực vô hạn và sức mạnh cơ bắp đáng sợ, cô dễ dàng vung vẩy những món vũ khí khổng lồ mà người thường chỉ cần vung một nhát đã hụt hơi.
 
@@ -72432,7 +72432,7 @@ Người duy nhất có thể sát cánh chiến đấu cùng một kẻ ngạo 
 
 Đồng thời, cậu cũng có một niềm tin tuyệt vọng rằng sẽ không bao giờ có sơ hở nào xuất hiện từ việc Ryuuichi và Meiko cản trở lẫn nhau.
 
-“`『Cương Lực』`, `『Nhất Thiểm』`, `『Xung Phá』`, `『Gia Tốc Hồi Phục』` —”
+“\`『Cương Lực』\`, \`『Nhất Thiểm』\`, \`『Xung Phá』\`, \`『Gia Tốc Hồi Phục』\` —”
 
 Ngược lại, Yuuto dù đã vận hành tối đa các kỹ năng mình có cũng chỉ có thể chật vật chống đỡ đợt tấn công dồn dập của hai kẻ phi nhân loại kia.
 
@@ -72446,7 +72446,7 @@ Nếu đấu tay đôi, cậu hoàn toàn có cơ hội chiến thắng. Nhưng 
 
 Bức tường chênh lệch lực lượng tuyệt đối. Và trước hai kẻ biết tận dụng tối đa sự chênh lệch đó để dồn ép, cậu không thể tìm thấy bất kỳ kẽ hở nào để xoay chuyển tình thế.
 
-“— `『Phá Đoạn』`!”
+“— \`『Phá Đoạn』\`!”
 
 Võ kỹ của Meiko ập đến, không biết đây đã là lần thứ bao nhiêu, nhưng lần này luồng khí lạnh chạy dọc sống lưng Yuuto dữ dội hơn bao giờ hết.
 
@@ -72540,11 +72540,11 @@ Không còn gì bảo vệ cậu nữa. Lưỡi rìu của Cuồng Chiến Binh 
 
 Hai đòn kết liễu đồng thời giáng xuống Yuuto khi cậu lộ ra sơ hở chí mạng.
 
-“`『Dũng Giả』` không bao giờ bại trận — `『Hoàng Linh Trang』`!”
+“\`『Dũng Giả』\` không bao giờ bại trận — \`『Hoàng Linh Trang』\`!”
 
 Kỹ năng đặc hữu thứ tư:
 
-`『Hoàng Linh Trang』`: Bộ giáp của Dũng Giả mang sức mạnh của tam vị nhất thể tinh linh.`
+\`『Hoàng Linh Trang』\`: Bộ giáp của Dũng Giả mang sức mạnh của tam vị nhất thể tinh linh.`
             },
             {
                 "ep": 379,
@@ -73629,15 +73629,15 @@ Vì vậy, Yuuto trước tiên đã sai khiến Đại Phong Tinh Linh để th
 
 Kỹ năng tăng trưởng:
 
-`『Tử Phong Bộc Kích』`: Cơn gió đen gầm rú bằng ma lực bóng tối.
+\`『Tử Phong Bộc Kích』\`: Cơn gió đen gầm rú bằng ma lực bóng tối.
 
 Kỹ năng săn mồi:
 
-`『Phong Ma Pháp Tối Cao』`: Có thể thi triển toàn bộ ma pháp cấp cao thuộc tính Phong.
+\`『Phong Ma Pháp Tối Cao』\`: Có thể thi triển toàn bộ ma pháp cấp cao thuộc tính Phong.
 
 Đối đầu với cơn gió màu xanh lục nhạt của Dũng Giả là một cơn gió đen kịt.
 
-Cơn bão `『Tử Phong Bộc Kích』` chỉ có thể nổi lên bằng ma lực bóng tối, nay được thi triển như một ma pháp cấp cao thông qua `『Phong Ma Pháp Tối Cao』`.
+Cơn bão \`『Tử Phong Bộc Kích』\` chỉ có thể nổi lên bằng ma lực bóng tối, nay được thi triển như một ma pháp cấp cao thông qua \`『Phong Ma Pháp Tối Cao』\`.
 
 Ngay khi Yuuto dùng Đại Phong Tinh Linh quét sạch làn khói xung quanh mình, một ma pháp phòng ngự diện rộng bằng gió đen cuộn xoáy dữ dội lập tức dựng lên chắn đường.
 
@@ -74014,7 +74014,7 @@ Chắc cậu ta nghĩ rằng lũ sứ ma của tôi đã chạm giới hạn, n�
 
 Nhưng thế là đủ rồi. Trận chiến sẽ được định đoạt tại đây. Những chuyện sau đó không cần phải bận tâm nữa.
 
-“`『Tam Liệt Thiểm』`!”
+“\`『Tam Liệt Thiểm』\`!”
 
 Vung song kiếm tỏa sáng rực rỡ, Dũng Giả dễ dàng chém đôi thân hình hộ pháp của lũ Tank một cách hoa mỹ. Thanh thánh kiếm được kéo dài bằng lưỡi đao ánh sáng sâu hoắm cắt qua lớp da thịt cứng cáp.
 
@@ -74117,49 +74117,49 @@ Thế nhưng, người đóng vai trò hậu cần không thể thiếu để t�
 
 Sau khi giao Rem cho Sakura tại cuộc họp ban cố vấn, tôi đã nhờ Lớp trưởng một việc.
 
-“Tôi muốn cậu học kỹ năng `『Huyễn Ảnh Băng Tượng』`.”
+“Tôi muốn cậu học kỹ năng \`『Huyễn Ảnh Băng Tượng』\`.”
 
-Đó là một loại ma pháp hệ Băng. Nó là ma pháp tạo ra ảo ảnh, được kích hoạt kết hợp với một ma pháp hạ cấp giống như màn sương băng giá gọi là `『Băng Vụ』`.
+Đó là một loại ma pháp hệ Băng. Nó là ma pháp tạo ra ảo ảnh, được kích hoạt kết hợp với một ma pháp hạ cấp giống như màn sương băng giá gọi là \`『Băng Vụ』\`.
 
-Dù chuyện đó giờ đây cảm giác như đã trôi qua từ rất lâu rồi... nhưng khi lần đầu tiên chạm trán Yokomichi trong hầm ngục này, tên đó đã tự phụ kể về năng lực của mình, và hắn đã học được `『Băng Vụ』` cùng `『Huyễn Ảnh Băng Tượng』` từ việc ăn thịt Nagae, thậm chí còn biểu diễn cho tôi xem.
+Dù chuyện đó giờ đây cảm giác như đã trôi qua từ rất lâu rồi... nhưng khi lần đầu tiên chạm trán Yokomichi trong hầm ngục này, tên đó đã tự phụ kể về năng lực của mình, và hắn đã học được \`『Băng Vụ』\` cùng \`『Huyễn Ảnh Băng Tượng』\` từ việc ăn thịt Nagae, thậm chí còn biểu diễn cho tôi xem.
 
 Theo lời Yokomichi, Nagae đã dùng hai kỹ năng này để triệt để né tránh các trận chiến với ma vật mà tiến lên. Dựa vào tính cách của cô bạn mà tôi nhớ, điều đó chắc chắn là sự thật.
 
 Nhưng đáng tiếc, hay phải nói là bất hạnh, Nagae Yukiko là nữ sinh duy nhất trong lớp tham gia CLB Văn học cùng tôi. Cô ấy là một cô gái trầm tính, mờ nhạt, nhưng thực chất lại là một mỹ nhân ngầm đúng gu của mấy đứa hướng nội. Thế nhưng, cô ấy lại hẹn hò với tên DQN rác rưởi nhất lớp là Higuchi, một sự tồn tại giống như quả mìn cực đại mang theo kỹ năng phá hủy tâm trí người khác.
 
-Có lẽ vì thế nên Yokomichi mới ăn thịt cô ấy. Tôi đoán đó chính là nguyên nhân khiến hắn thức tỉnh thành quyến thuộc tồi tệ nhất mang tên `『Thực Nhân Quỷ』`... nhưng thôi, cứ để sự thật đó bị chôn vùi trong bóng tối đi.
+Có lẽ vì thế nên Yokomichi mới ăn thịt cô ấy. Tôi đoán đó chính là nguyên nhân khiến hắn thức tỉnh thành quyến thuộc tồi tệ nhất mang tên \`『Thực Nhân Quỷ』\`... nhưng thôi, cứ để sự thật đó bị chôn vùi trong bóng tối đi.
 
-Điều quan trọng là sự tồn tại của ma pháp hệ Băng mang lại hiệu ứng ảo giác là `『Huyễn Ảnh Băng Tượng』` và kỹ năng che mắt `『Băng Vụ』`.
+Điều quan trọng là sự tồn tại của ma pháp hệ Băng mang lại hiệu ứng ảo giác là \`『Huyễn Ảnh Băng Tượng』\` và kỹ năng che mắt \`『Băng Vụ』\`.
 
-Về ma pháp hệ ảo ảnh, tôi cũng sở hữu `『Hư Ảnh Tương Chiếu』`, nhưng nó không mấy hiệu quả trong tình huống giả định này.
+Về ma pháp hệ ảo ảnh, tôi cũng sở hữu \`『Hư Ảnh Tương Chiếu』\`, nhưng nó không mấy hiệu quả trong tình huống giả định này.
 
 Yếu tố dàn dựng không thể thiếu trong kế hoạch này là phải làm sao để Reina đột ngột đứng sừng sững trước mặt cậu ta vào thời khắc quyết định.
 
 Tôi tuyệt đối không thể để Souma Yuuto nhìn thấy cảnh mình đứng niệm chú thật dài rồi triệu hồi Rem giả dạng Reina từ ma pháp trận của đầm lầy độc. Dù có thế nào đi nữa, nếu nhìn thấy cảnh đó, cậu ta sẽ lập tức gạt bỏ cảm xúc để tiếp tục tấn công vì biết đó là đồ giả.
 
-Trái lại, cậu ta có thể sẽ nổi trận lôi đình vì dám đùa giỡn với Reina và lao đến giết tôi bất chấp hậu quả. Tôi phải tuyệt đối tránh kết cục lưỡng bại câu thương bằng `『Phản Phục Thống Khổ』`.
+Trái lại, cậu ta có thể sẽ nổi trận lôi đình vì dám đùa giỡn với Reina và lao đến giết tôi bất chấp hậu quả. Tôi phải tuyệt đối tránh kết cục lưỡng bại câu thương bằng \`『Phản Phục Thống Khổ』\`.
 
 Đúng vậy, để tạo ra một màn xuất hiện có sức tác động lớn đến mức khiến Dũng Giả phải dừng chiêu tất sát, chúng tôi bắt buộc phải dàn dựng sao cho cô ta đột ngột hiện ra ngay trước mắt cậu ta.
 
 Để cậu ta nhìn thấy quá trình triệu hồi là không được. Để cậu ta nhìn thấy cô ta lững thững đi từ xa lại cũng không xong. Những cảnh xuất hiện làm giảm đi sự chấn động ban đầu đều bị cấm.
 
-Chính vì thế, `『Huyễn Ảnh Băng Tượng』` là thứ bắt buộc phải có. Nhờ hiệu ứng của nó, chúng tôi có thể che giấu và ngụy trang hình dáng của Reina trước mắt Souma Yuuto cho đến tận phút chót.
+Chính vì thế, \`『Huyễn Ảnh Băng Tượng』\` là thứ bắt buộc phải có. Nhờ hiệu ứng của nó, chúng tôi có thể che giấu và ngụy trang hình dáng của Reina trước mắt Souma Yuuto cho đến tận phút chót.
 
-Lý do tại sao Lớp trưởng lại cố chấp liên tục bắn `『Băng Mỏng Tiễn』` không hề gây sát thương lên Dũng Giả là gì? Đó là để âm thầm triển khai `『Băng Vụ』` mà không bị phát hiện.
+Lý do tại sao Lớp trưởng lại cố chấp liên tục bắn \`『Băng Mỏng Tiễn』\` không hề gây sát thương lên Dũng Giả là gì? Đó là để âm thầm triển khai \`『Băng Vụ』\` mà không bị phát hiện.
 
-Vốn dĩ, `『Băng Mỏng Tiễn』` là một ma pháp mang tính hỗ trợ hơn là tấn công, với mục đích phát tán các mảnh băng chứa ma lực của bản thân xung quanh mục tiêu để kích hoạt phong ấn đóng băng khống chế Kinako.
+Vốn dĩ, \`『Băng Mỏng Tiễn』\` là một ma pháp mang tính hỗ trợ hơn là tấn công, với mục đích phát tán các mảnh băng chứa ma lực của bản thân xung quanh mục tiêu để kích hoạt phong ấn đóng băng khống chế Kinako.
 
-Nếu đóng băng bằng `『Tái Băng Kết』`, đối phương sẽ bị đông cứng, nhưng ngược lại, người dùng cũng có thể làm tan rã các mảnh băng thành những hạt nhỏ hơn để khuếch tán thành `『Băng Vụ』`.
+Nếu đóng băng bằng \`『Tái Băng Kết』\`, đối phương sẽ bị đông cứng, nhưng ngược lại, người dùng cũng có thể làm tan rã các mảnh băng thành những hạt nhỏ hơn để khuếch tán thành \`『Băng Vụ』\`.
 
 Với lượng ma lực ít ỏi còn lại, cô ấy đang nỗ lực trong tuyệt vọng để đánh lạc hướng đối phương dù chỉ một chút... Souma Yuuto chắc chắn đã nghĩ rằng Lớp trưởng đang đứng trên chiến trường này với một sự cố gắng đáng thương như thế.
 
-Kết quả của việc coi thường đối thủ vì nghĩ rằng họ không thể gây sát thương cho mình là thế này đây. Cuối cùng, Dũng Giả đã để Lớp trưởng thoải mái bắn liên tiếp `『Băng Mỏng Tiễn』` mà không hề nhận ra ý đồ khuếch tán sương mù băng giá của cô ấy.
+Kết quả của việc coi thường đối thủ vì nghĩ rằng họ không thể gây sát thương cho mình là thế này đây. Cuối cùng, Dũng Giả đã để Lớp trưởng thoải mái bắn liên tiếp \`『Băng Mỏng Tiễn』\` mà không hề nhận ra ý đồ khuếch tán sương mù băng giá của cô ấy.
 
-Nhờ có Mei đã câu giờ bằng cách sử dụng cả `『Berserk X』`, sân khấu cuối cùng đã được chuẩn bị sẵn sàng. `『Băng Vụ』` đã lan tỏa đầy đủ.
+Nhờ có Mei đã câu giờ bằng cách sử dụng cả \`『Berserk X』\`, sân khấu cuối cùng đã được chuẩn bị sẵn sàng. \`『Băng Vụ』\` đã lan tỏa đầy đủ.
 
 Dù là sương mù được tạo ra bằng ma pháp, nhưng tỷ trọng của nó vẫn nặng hơn không khí, thế nên nó sẽ tích tụ đậm đặc từ dưới chân trở lên. Hiện tại, từ thắt lưng trở xuống đã ngập tràn trong làn sương mù dày đặc lạnh giá, và phía trên cũng bị bao phủ bởi một lớp sương mờ làm giảm tầm nhìn. Đây là một môi trường hoàn hảo để hiển thị ảo ảnh.
 
-Ngay khi tôi chọn đúng thời điểm để triệu hồi Rem trong hình dạng Reina, kỹ năng `『Huyễn Ảnh Băng Tượng』` của Lớp trưởng cũng được kích hoạt.
+Ngay khi tôi chọn đúng thời điểm để triệu hồi Rem trong hình dạng Reina, kỹ năng \`『Huyễn Ảnh Băng Tượng』\` của Lớp trưởng cũng được kích hoạt.
 
 Dù số lượng đã giảm đi, nhưng Skeleton và High Zombie vẫn còn vây quanh rất nhiều. Lớp trưởng đã dùng ảo ảnh để biến Reina trông giống như một Skeleton trong mắt Yuuto, và để cô ta tiến lên dưới sự che chở của làn sương mù dày đặc làm suy giảm tầm nhìn.
 
@@ -74183,7 +74183,7 @@ Souma Yuuto, trong tư thế vẫn đang giương cao thanh thánh kiếm tích 
 
 Sơ hở để hạ gục Dũng Giả, chúng tôi đã tạo ra quá đủ rồi.
 
-“—`『Hắc Nại』`.”
+“—\`『Hắc Nại』\`.”
 
 Một đòn chí mạng.
 
@@ -74203,7 +74203,7 @@ Một sơ hở nhỏ nhoi nhưng mang tính chí mạng được tạo ra từ s
 
 “Á... Rei... na...”
 
-Chiêu `『Hắc Nại』` của Mei được tung ra theo quỹ đạo chém ngược từ dưới lên. Vì cô ấy đang ở tư thế phủ phục trong sương mù, nên nhát chém sẽ đi từ dưới lên trên. Thanh `『Bát Táp Ngưu Ma Đao』` được nắm chặt trong tay đã chém rách lớp giáp ngực của `『Huy Quang Linh Trang』` đang bảo vệ Dũng Giả, để lưỡi đao nguyền rủa chạm vào da thịt cậu ta.
+Chiêu \`『Hắc Nại』\` của Mei được tung ra theo quỹ đạo chém ngược từ dưới lên. Vì cô ấy đang ở tư thế phủ phục trong sương mù, nên nhát chém sẽ đi từ dưới lên trên. Thanh \`『Bát Táp Ngưu Ma Đao』\` được nắm chặt trong tay đã chém rách lớp giáp ngực của \`『Huy Quang Linh Trang』\` đang bảo vệ Dũng Giả, để lưỡi đao nguyền rủa chạm vào da thịt cậu ta.
 
 Và ngay trước mặt Dũng Giả là cô bạn thanh mai trúc mã nhỏ nhắn đang ôm chặt lấy cậu ta. Cho dù vào khoảnh khắc này cậu ta có nhận ra mối đe dọa đang cận kề từ Mei đi chăng nữa thì cũng đã quá muộn.
 
@@ -74235,7 +74235,7 @@ Nhìn Dũng Giả đang lảo đảo với dòng máu phun trào từ ngực, v�
 
 “T-Tớ... Tớ... A A A A A A A A A A A A A A A A ! ! !”
 
-Nhưng vì tránh được việc bị chém làm đôi để chết ngay lập tức, Dũng Giả vẫn còn sót lại sức mạnh để chiến đấu, cậu ta định giải phóng siêu tất sát kỹ `『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』` vốn vẫn đang giương cao theo cảm xúc của mình.
+Nhưng vì tránh được việc bị chém làm đôi để chết ngay lập tức, Dũng Giả vẫn còn sót lại sức mạnh để chiến đấu, cậu ta định giải phóng siêu tất sát kỹ \`『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』\` vốn vẫn đang giương cao theo cảm xúc của mình.
 
 Lưỡi kiếm ánh sáng khổng lồ chứa đựng sức tàn phá khủng khiếp như muốn đâm toạc bầu trời bắt đầu nghiêng xuống,
 
@@ -78342,7 +78342,7 @@ Shimokawa, người thực sự nghĩ rằng việc để một mỹ nữ da nâ
 
 Khi Shimokawa đưa tay lên vết thương, một vệt sáng màu xanh lam nhạt lóe lên, và một chất lỏng sền sệt như chất nhầy nhỏ xuống. Nó uốn éo như một con slime rồi bao bọc lấy cánh tay của Latifa.
 
-`『Dược Hiệu Thánh Thủy』`: Phép trị liệu thuộc tính Thủy mà Shimokawa đã học được trong cuộc hành trình gian khổ trên sa mạc. Ban đầu, cậu định chế tạo Re-potion, nhưng do quá thiếu thốn nguyên liệu, trong lúc chật vật tìm cách tạo ra thuốc hồi phục có khả năng chữa trị tốt nhất từ những nguyên liệu ít ỏi, cậu nhận ra rằng mình có thể hồi phục chỉ bằng nước của bản thân, và đã hoàn thiện nó thành một ma pháp trị liệu thực thụ. Khả năng chữa trị của nó tương đương với Re-potion được chế tạo tại Học Viện Tháp. Mặc dù kém hơn potion về tính tức thời và khả năng hồi phục, nhưng nó lại sở hữu hiệu quả vạn năng đối với mọi loại vết thương.
+\`『Dược Hiệu Thánh Thủy』\`: Phép trị liệu thuộc tính Thủy mà Shimokawa đã học được trong cuộc hành trình gian khổ trên sa mạc. Ban đầu, cậu định chế tạo Re-potion, nhưng do quá thiếu thốn nguyên liệu, trong lúc chật vật tìm cách tạo ra thuốc hồi phục có khả năng chữa trị tốt nhất từ những nguyên liệu ít ỏi, cậu nhận ra rằng mình có thể hồi phục chỉ bằng nước của bản thân, và đã hoàn thiện nó thành một ma pháp trị liệu thực thụ. Khả năng chữa trị của nó tương đương với Re-potion được chế tạo tại Học Viện Tháp. Mặc dù kém hơn potion về tính tức thời và khả năng hồi phục, nhưng nó lại sở hữu hiệu quả vạn năng đối với mọi loại vết thương.
 
 “Dù là vết thương nhỏ đến đâu tôi cũng nhất định sẽ chữa lành cho cô, nên có gì thì phải nói ngay đấy nhé.”
 
@@ -78426,7 +78426,7 @@ Shimokawa đã tích lũy đủ kinh nghiệm để tự tin rằng dù có gặ
 
 “Ừm, phải rồi... Đi thôi, đây chính là vùng đất hy vọng của chúng ta.”
 
-`『Thung Lũng Tận Cùng』`. Đối với các bộ tộc sinh sống tại sa mạc lớn Avdran, nơi đó đồng nghĩa với tận cùng của thế giới.
+\`『Thung Lũng Tận Cùng』\`. Đối với các bộ tộc sinh sống tại sa mạc lớn Avdran, nơi đó đồng nghĩa với tận cùng của thế giới.
 
 Về mặt địa lý, nó thực sự nằm ở rìa phía Tây của sa mạc lớn, nhưng vốn dĩ một góc sa mạc không ai đặt chân tới thì lẽ ra chỉ là một vùng đất hoang sơ không có nổi một cái tên. Sở dĩ từ thời cổ đại, địa danh này đã được truyền tai nhau qua mọi bộ tộc với cái tên 『Thung Lũng Tận Cùng』 là bởi vì nơi đây từng tồn tại một vương đô huyền thoại phồn vinh nhất.
 
@@ -80756,19 +80756,19 @@ Tôi phát cho mỗi con skeleton ba quả lựu đạn mà tôi đã chế tạ
 
 Còn lũ high zombie có tốc độ chạy cực nhanh và lũ tank có khả năng đấu tay đôi với GoGame Mastera thì dù không có trang bị, chỉ số của chúng vẫn đủ sức đối phó với kị sĩ thông thường. Chưa dừng lại ở đó, tôi còn lắp đặt thêm các trang bị cường hóa được chế tác từ nguyên liệu ma vật tích hợp sẵn trong 『Vô Đạo Nhất Thức』.
 
-`『Cơ Quan Tăng Ma Lực』`: Tên gọi chung của các trang bị cường hóa dành cho triệu hoán thú tận dụng nguyên liệu ma vật, hoạt động nhờ vào khả năng sai khiến của 『Vô Đạo Nhất Thức』 giúp duy trì trạng thái “sống” ngay cả với những khối thịt dị dạng. Khi tách khỏi cây gậy, chúng sẽ nhanh chóng mất đi sinh mệnh lực, nhưng nếu bám vào vật chủ và hấp thụ ma lực, chúng có thể tiếp tục tồn tại. Về cơ bản, con người vẫn có thể sử dụng chúng, nhưng vì chúng được làm từ nguyên liệu ma vật tươi sống nên cảm giác khi trang bị sẽ gây ra sự ghê tởm về mặt sinh lý, thế nên tôi không khuyến khích dùng.
+\`『Cơ Quan Tăng Ma Lực』\`: Tên gọi chung của các trang bị cường hóa dành cho triệu hoán thú tận dụng nguyên liệu ma vật, hoạt động nhờ vào khả năng sai khiến của 『Vô Đạo Nhất Thức』 giúp duy trì trạng thái “sống” ngay cả với những khối thịt dị dạng. Khi tách khỏi cây gậy, chúng sẽ nhanh chóng mất đi sinh mệnh lực, nhưng nếu bám vào vật chủ và hấp thụ ma lực, chúng có thể tiếp tục tồn tại. Về cơ bản, con người vẫn có thể sử dụng chúng, nhưng vì chúng được làm từ nguyên liệu ma vật tươi sống nên cảm giác khi trang bị sẽ gây ra sự ghê tởm về mặt sinh lý, thế nên tôi không khuyến khích dùng.
 
-`『Móng Vuốt Đao』`: Một dạng của Cơ Quan Tăng Ma Lực. Trang bị đơn giản cho phép mọc ra những chiếc vuốt dài và sắc nhọn ở tay chân. Về cơ bản, nó được sử dụng như một lưỡi đao dài hoặc dao găm. Có thể chế tạo các trang bị cấp cao hơn bằng cách sử dụng nguyên liệu từ rồng như Salamander, hoặc các nguyên liệu có độc tố tự nhiên ở móng vuốt.
+\`『Móng Vuốt Đao』\`: Một dạng của Cơ Quan Tăng Ma Lực. Trang bị đơn giản cho phép mọc ra những chiếc vuốt dài và sắc nhọn ở tay chân. Về cơ bản, nó được sử dụng như một lưỡi đao dài hoặc dao găm. Có thể chế tạo các trang bị cấp cao hơn bằng cách sử dụng nguyên liệu từ rồng như Salamander, hoặc các nguyên liệu có độc tố tự nhiên ở móng vuốt.
 
-`『Thương Sừng』`: Một dạng của Cơ Quan Tăng Ma Lực. Cây thương có phần mũi là một chiếc sừng dài nhọn hoắt, với phần cán làm từ xương kéo dài. Do đặc tính của Cơ Quan Tăng Ma Lực là phải kết nối với phần thịt sống, trang bị này sẽ dung hợp trực tiếp với cánh tay của người sử dụng.
+\`『Thương Sừng』\`: Một dạng của Cơ Quan Tăng Ma Lực. Cây thương có phần mũi là một chiếc sừng dài nhọn hoắt, với phần cán làm từ xương kéo dài. Do đặc tính của Cơ Quan Tăng Ma Lực là phải kết nối với phần thịt sống, trang bị này sẽ dung hợp trực tiếp với cánh tay của người sử dụng.
 
-`『Thiết Bị Phun』`: Một dạng của Cơ Quan Tăng Ma Lực. Thiết bị phun lửa hoặc độc tố. Cấu trúc của nó được sao chép hoàn toàn từ cơ quan phun hơi thở (breath) từ miệng của ma vật. Đối với thiết bị phun lửa, nó kết nối từ túi lửa tạo ra nhiên liệu lỏng dễ cháy, qua thực quản đóng vai trò là ống dẫn nhiên liệu, đến khoang miệng đóng vai trò là bộ phận đánh lửa và vòi phun. Chuỗi cơ quan này được hợp nhất thành một ống duy nhất bọc trong lớp thịt sống như một con rắn. Khi kết nối với người sử dụng, ngay cả một con skeleton cũng có thể phun lửa một cách hoành tráng.
+\`『Thiết Bị Phun』\`: Một dạng của Cơ Quan Tăng Ma Lực. Thiết bị phun lửa hoặc độc tố. Cấu trúc của nó được sao chép hoàn toàn từ cơ quan phun hơi thở (breath) từ miệng của ma vật. Đối với thiết bị phun lửa, nó kết nối từ túi lửa tạo ra nhiên liệu lỏng dễ cháy, qua thực quản đóng vai trò là ống dẫn nhiên liệu, đến khoang miệng đóng vai trò là bộ phận đánh lửa và vòi phun. Chuỗi cơ quan này được hợp nhất thành một ống duy nhất bọc trong lớp thịt sống như một con rắn. Khi kết nối với người sử dụng, ngay cả một con skeleton cũng có thể phun lửa một cách hoành tráng.
 
-`『Giáp Cơ Bắp』`: Một dạng của Cơ Quan Tăng Ma Lực. Bộ giáp bằng cơ bắp, có thể coi là phiên bản giản lược của Thi Hài Giáp. Bằng cách quấn các sợi cơ mạnh mẽ quanh cơ thể, nó giúp nâng cao sức mạnh thể chất thuần túy. Nhờ đó, ngay cả những con skeleton yếu ớt cũng có được sức mạnh đủ để đấm chết người, lũ high zombie sẽ trở nên mạnh mẽ hơn, còn lũ tank sẽ biến thành những gã khổng lồ cơ bắp lực lưỡng như các võ sĩ sumo. Thiết bị này cũng có thể sử dụng riêng lẻ cho từng bộ phận như `『Cánh Tay Cơ Bắp』` hay `『Chân Cơ Bắp』`.
+\`『Giáp Cơ Bắp』\`: Một dạng của Cơ Quan Tăng Ma Lực. Bộ giáp bằng cơ bắp, có thể coi là phiên bản giản lược của Thi Hài Giáp. Bằng cách quấn các sợi cơ mạnh mẽ quanh cơ thể, nó giúp nâng cao sức mạnh thể chất thuần túy. Nhờ đó, ngay cả những con skeleton yếu ớt cũng có được sức mạnh đủ để đấm chết người, lũ high zombie sẽ trở nên mạnh mẽ hơn, còn lũ tank sẽ biến thành những gã khổng lồ cơ bắp lực lưỡng như các võ sĩ sumo. Thiết bị này cũng có thể sử dụng riêng lẻ cho từng bộ phận như \`『Cánh Tay Cơ Bắp』\` hay \`『Chân Cơ Bắp』\`.
 
-`『Vỏ Giáp Cứng』`: Một dạng của Cơ Quan Tăng Ma Lực. Lớp giáp bảo vệ bằng vỏ cứng dày cộp, đồng thời cũng đóng vai trò như một tấm khiên. Nếu kết hợp với `『Giáp Cơ Bắp』`, triệu hoán thú sẽ lập tức biến thành một kị sĩ bọc giáp đầy uy mãnh.
+\`『Vỏ Giáp Cứng』\`: Một dạng của Cơ Quan Tăng Ma Lực. Lớp giáp bảo vệ bằng vỏ cứng dày cộp, đồng thời cũng đóng vai trò như một tấm khiên. Nếu kết hợp với \`『Giáp Cơ Bắp』\`, triệu hoán thú sẽ lập tức biến thành một kị sĩ bọc giáp đầy uy mãnh.
 
-`『Nhân Tự Sát』`: Một dạng của Cơ Quan Tăng Ma Lực. Nói đơn giản thì đây chính là bom lõi. Dù chỉ là những mảnh ma thạch vụn không đáng một xu, thậm chí không đủ để thi triển một phép thuật sơ cấp, nhưng tích tiểu thì thành đại. Nếu cho 『Vô Đạo Nhất Thức』 hấp thụ thật nhiều ma thạch nhỏ hoặc các mảnh vỡ vô dụng, chúng sẽ được tổng hợp lại bên trong Dạ Dày Không Đáy. Khi biến nó thành một quả bom lõi và cấy vào bên trong cơ thể triệu hoán thú, chúng sẽ có khả năng tự sát. Những binh sĩ tự sát dạng high zombie lao đi với tốc độ của một vận động viên điền kinh là thứ mà bất kỳ kẻ khủng bố nào cũng thèm muốn. Nếu cấy nó vào lũ tank, khi chúng tiêu diệt được một kẻ địch lớn và bị bao vây, một cú nổ bùm sẽ kéo theo kha khá kẻ địch chết chung. Và trên hết, tự sát tập kích luôn là một nghệ thuật đầy lãng mạn.
+\`『Nhân Tự Sát』\`: Một dạng của Cơ Quan Tăng Ma Lực. Nói đơn giản thì đây chính là bom lõi. Dù chỉ là những mảnh ma thạch vụn không đáng một xu, thậm chí không đủ để thi triển một phép thuật sơ cấp, nhưng tích tiểu thì thành đại. Nếu cho 『Vô Đạo Nhất Thức』 hấp thụ thật nhiều ma thạch nhỏ hoặc các mảnh vỡ vô dụng, chúng sẽ được tổng hợp lại bên trong Dạ Dày Không Đáy. Khi biến nó thành một quả bom lõi và cấy vào bên trong cơ thể triệu hoán thú, chúng sẽ có khả năng tự sát. Những binh sĩ tự sát dạng high zombie lao đi với tốc độ của một vận động viên điền kinh là thứ mà bất kỳ kẻ khủng bố nào cũng thèm muốn. Nếu cấy nó vào lũ tank, khi chúng tiêu diệt được một kẻ địch lớn và bị bao vây, một cú nổ bùm sẽ kéo theo kha khá kẻ địch chết chung. Và trên hết, tự sát tập kích luôn là một nghệ thuật đầy lãng mạn.
 
 “—Thật là, tự dưng lại phải xả kho hàng loạt thế này.”
 
@@ -82271,7 +82271,7 @@ Người đang thở dài ngao ngán cằn nhằn Reina là Souma Sakura. Là th
 
 “Đúng là nói đến tiết mục kinh điển thì chính là nó rồi.”
 
-Vừa gật đầu, Lớp trưởng vừa viết ý kiến đầu tiên lên bảng đen: `『Quán cà phê hầu gái』`.
+Vừa gật đầu, Lớp trưởng vừa viết ý kiến đầu tiên lên bảng đen: \`『Quán cà phê hầu gái』\`.
 
 Chắc Reina chỉ đơn giản là muốn mặc thử bộ đồ hầu gái xếp nếp bồng bềnh, rồi dùng bộ dạng đó để làm nũng với Souma, hoặc muốn được cậu ấy cưng chiều thôi.
 
@@ -82638,7 +82638,7 @@ Tôi lật đật chui ra khỏi giường, nhanh chóng mặc bộ đồng ph�
 
 Bộ gakuran này gần đây cũng được tôi cải tiến khá nhiều rồi. Nó có khả năng kháng tất cả thuộc tính, và trên hết là sở hữu chỉ số phòng ngự vật lý cực cao để bảo vệ một kẻ yếu ớt như tôi. Nó còn có cả chức năng tự động phục hồi nữa đấy.
 
-Đã vậy, nếu tôi trang bị thêm `『Thánh Thiên cấp binh trang』`—vũ khí cổ đại nữa thì việc chinh phục Dungeon chỉ là chuyện nhỏ.
+Đã vậy, nếu tôi trang bị thêm \`『Thánh Thiên cấp binh trang』\`—vũ khí cổ đại nữa thì việc chinh phục Dungeon chỉ là chuyện nhỏ.
 
 “Con mời cả nhà ăn cơm.”
 
@@ -82742,7 +82742,7 @@ Vừa bước vào phòng riêng, tôi liền khởi động chiếc máy tính 
 
 Dù đã phải nhận một thất bại ê chề, nhưng bù lại tôi đã thu thập được kha khá thông tin từ trận chiến đó.
 
-Đặc biệt là việc `『Lò Luyện Ngục Của Hắc Ma Nữ』` vẫn tiếp tục hoạt động cho đến tận khoảnh khắc cuối cùng trước khi tôi bị hạ gục. Dù lực phân rã hoàn toàn không có tác dụng với cô ta, nhưng lượng thông tin phân tích được là vô cùng lớn.
+Đặc biệt là việc \`『Lò Luyện Ngục Của Hắc Ma Nữ』\` vẫn tiếp tục hoạt động cho đến tận khoảnh khắc cuối cùng trước khi tôi bị hạ gục. Dù lực phân rã hoàn toàn không có tác dụng với cô ta, nhưng lượng thông tin phân tích được là vô cùng lớn.
 
 “Momokawa Kotarou, ngươi đã hoàn thành xuất sắc nghĩa vụ của một đứa con rồi.”
 
@@ -83240,15 +83240,15 @@ Trước mắt họ, cú đá sắc lẹm của Riza chém đứt lìa những s
 
 Những cây cà phê bản địa ở vùng này không phải là thực vật bình thường. Chúng là ma vật dạng thực vật thuộc chủng tộc Trent. May mắn là chúng không quá hung dữ đến mức chủ động tấn công con người. Tuy nhiên, điều đó không có nghĩa là chúng sẽ để yên cho người ta đụng vào.
 
-Những con `『Coffee Trent』` với thân cây to khỏe như cột nhà, khi nhận thấy số lượng người xung quanh tăng lên hoặc khi bị hái đi một lượng quả nhất định, bản năng tự vệ của chúng sẽ kích hoạt. Chúng sẽ điều khiển vô số dây leo như những xúc tu để xua đuổi kẻ xâm phạm.
+Những con \`『Coffee Trent』\` với thân cây to khỏe như cột nhà, khi nhận thấy số lượng người xung quanh tăng lên hoặc khi bị hái đi một lượng quả nhất định, bản năng tự vệ của chúng sẽ kích hoạt. Chúng sẽ điều khiển vô số dây leo như những xúc tu để xua đuổi kẻ xâm phạm.
 
 Nếu bị một bó dây leo dày đặc quất trúng trực diện ở tốc độ cao, nạn nhân hoàn toàn có thể mất mạng. Hoặc tệ hơn là bị chúng quấn quanh cổ dẫn đến ngạt thở mà chết.
 
 Ngay cả khi may mắn không chết ngay lập tức, việc bị thương đối với một nô lệ cũng là một vấn đề sống còn. Chủ nô sẽ đặt lên bàn cân giữa giá mua và chi phí chữa trị; nếu thấy không có lời, họ sẽ bỏ mặc cho tự sinh tự diệt. Dù sống hay chết, cũng chẳng có ai thèm đoái hoài.
 
-Chỉ riêng việc phải gồng mình gánh vác lao dịch nặng nhọc suốt cả ngày đã đủ bào mòn cả thể xác lẫn tinh thần, vậy mà họ còn bị ép buộc phải tham gia vào công việc thu hoạch đầy hiểm nguy trước những con `『Coffee Trent』`. Sở dĩ đồn điền New Hope này cần số lượng nô lệ nhiều hơn các đồn điền khác là bởi tỷ lệ hao hụt nô lệ ở đây cực kỳ cao.
+Chỉ riêng việc phải gồng mình gánh vác lao dịch nặng nhọc suốt cả ngày đã đủ bào mòn cả thể xác lẫn tinh thần, vậy mà họ còn bị ép buộc phải tham gia vào công việc thu hoạch đầy hiểm nguy trước những con \`『Coffee Trent』\`. Sở dĩ đồn điền New Hope này cần số lượng nô lệ nhiều hơn các đồn điền khác là bởi tỷ lệ hao hụt nô lệ ở đây cực kỳ cao.
 
-Nhưng ngay cả khi phải vắt kiệt và đào thải những nô lệ vừa mua về, việc tiếp tục thu hoạch trực tiếp từ `『Coffee Trent』` vẫn mang lại nguồn lợi nhuận khổng lồ đủ để bù đắp.
+Nhưng ngay cả khi phải vắt kiệt và đào thải những nô lệ vừa mua về, việc tiếp tục thu hoạch trực tiếp từ \`『Coffee Trent』\` vẫn mang lại nguồn lợi nhuận khổng lồ đủ để bù đắp.
 
 Những phần nhánh phụ nằm xa thân chính có thể dễ dàng kiểm soát như một nông trường thông thường, sức sinh trưởng của chúng cũng rất mạnh mẽ, cho phép thu hoạch nhiều lần trong năm. Chất lượng hạt cà phê thu được cũng rất tuyệt vời. Tuy nhiên, những quả cà phê được hái trực tiếp từ gần thân chính của con Trent — nơi cực kỳ nguy hiểm — lại sở hữu hương vị đậm đà vượt trội, thuộc hàng cực phẩm thượng hạng.
 
@@ -83330,7 +83330,7 @@ Dưới bóng râm của khu tắm rửa đó, Riza cởi bỏ y phục mà khô
 
 Cơ thể cô giờ đây đã sụt cơ và gầy đi trông thấy so với trước kia. Dù không còn sự e thẹn của một người phụ nữ thường tình, nhưng mỗi khi nhìn vào cơ thể mình, cô vẫn nghĩ đây là một nỗi sỉ nhục đối với một chiến sĩ.
 
-Nhờ tố chất của một `『Tinh Linh Chiến Sĩ』`, cô vẫn duy trì được sức mạnh và thể chất đủ để chiến đấu tay không với con Trent, nhưng cô cũng không biết mình sẽ trụ được đến bao giờ. Trong môi trường khắc nghiệt này, dù là một chiến sĩ xuất sắc đến đâu cũng khó tránh khỏi việc suy kiệt sức lực.
+Nhờ tố chất của một \`『Tinh Linh Chiến Sĩ』\`, cô vẫn duy trì được sức mạnh và thể chất đủ để chiến đấu tay không với con Trent, nhưng cô cũng không biết mình sẽ trụ được đến bao giờ. Trong môi trường khắc nghiệt này, dù là một chiến sĩ xuất sắc đến đâu cũng khó tránh khỏi việc suy kiệt sức lực.
 
 “Giơ hai tay lên nào.”
 
@@ -83368,7 +83368,7 @@ Chính anh ta là người đang báo cáo về vụ náo loạn mà tên nô l�
 
 May mà kẻ bị thương do lời nguyền chỉ là một tên tay sai cấp thấp. Nếu người bị thương là bản thân ông ta, người nhà, hay những quản lý và lính gác mà ông ta phải trả đống tiền để thuê về, thì thật không thể tưởng tượng nổi.
 
-Với số lượng nô lệ khổng lồ, chủ yếu là người Diana, đồn điền New Hope đã thuê một đội lính gác chuyên nghiệp để phòng ngừa nổi loạn. Họ là những cựu binh dày dạn kinh nghiệm thực chiến, từng đối đầu với các chiến sĩ Diana ở chiến tuyến phía Đông, và đội trưởng của họ thậm chí còn được ban cho `『Thiên Chức』`.
+Với số lượng nô lệ khổng lồ, chủ yếu là người Diana, đồn điền New Hope đã thuê một đội lính gác chuyên nghiệp để phòng ngừa nổi loạn. Họ là những cựu binh dày dạn kinh nghiệm thực chiến, từng đối đầu với các chiến sĩ Diana ở chiến tuyến phía Đông, và đội trưởng của họ thậm chí còn được ban cho \`『Thiên Chức』\`.
 
 Nhờ vậy, những vụ náo loạn có nguy cơ bùng phát thành bạo động trước đây đều bị dập tắt nhanh chóng. Winston rất tự tin vào lực lượng an ninh của đồn điền. Có họ ở đây, ngay cả khi một bầy ma vật nhỏ hay một băng nhóm vũ trang tấn công, họ cũng dư sức đánh bật chúng.
 
@@ -83454,7 +83454,7 @@ Dairick nhắc đến từ "lũ Diana" bằng tiếng lóng miệt thị của b
 
 Trong Liên minh Tinh linh Diana, Thần tử rõ ràng thuộc tầng lớp thống trị, và sẽ trở thành tướng lĩnh dẫn dắt quân đội trên chiến trường.
 
-Trong số đó, `『Tinh Linh Chiến Sĩ』` là lực lượng tinh nhuệ cực kỳ mạnh mẽ, và cũng là nguyên nhân khiến Astoria không thể một hơi nuốt chửng toàn bộ lãnh thổ Diana.
+Trong số đó, \`『Tinh Linh Chiến Sĩ』\` là lực lượng tinh nhuệ cực kỳ mạnh mẽ, và cũng là nguyên nhân khiến Astoria không thể một hơi nuốt chửng toàn bộ lãnh thổ Diana.
 
 Và có vẻ như, các Tinh Linh Chiến Sĩ chỉ có thể phát huy sức mạnh áp đảo đó dưới sự dẫn dắt của Thần tử.
 
@@ -83488,7 +83488,7 @@ Nhìn vẻ hoảng hốt của những người đàn ông bên trong, Momoka t�
 
 Dairick thầm nghĩ không biết trong lúc mình đi vắng, hệ thống an ninh của dinh thự đã trở nên lỏng lẻo đến mức nào rồi, nhưng vẫn lập tức đuổi theo theo mệnh lệnh.
 
-Sự chênh lệch về tốc độ giữa người lớn và trẻ con là quá rõ ràng, chưa kể thiên chức `『Đạo Tặc』` của Dairick còn mang lại điểm cộng lớn về tốc độ. Nếu nghiêm túc, anh ta có thể bắt sống cậu nhóc ngay trong tích tắc. Tuy nhiên, anh ta quyết định thả lỏng một chút để xem đứa trẻ được gọi là Thần tử này sẽ hành động thế nào.
+Sự chênh lệch về tốc độ giữa người lớn và trẻ con là quá rõ ràng, chưa kể thiên chức \`『Đạo Tặc』\` của Dairick còn mang lại điểm cộng lớn về tốc độ. Nếu nghiêm túc, anh ta có thể bắt sống cậu nhóc ngay trong tích tắc. Tuy nhiên, anh ta quyết định thả lỏng một chút để xem đứa trẻ được gọi là Thần tử này sẽ hành động thế nào.
 
 “Này, đứng lại đó xem nào~”
 
@@ -83524,9 +83524,9 @@ Vậy thì câu trả lời đúng chỉ còn một nơi duy nhất. Nơi mà m�
 
 Không có ai cả. Rõ ràng anh ta đã tận mắt nhìn thấy cậu nhóc chạy vào căn phòng này.
 
-*Mình nhìn sót sao? Hay bị lừa rồi? Không, không thể nào. Làm sao có chuyện một đứa trẻ qua mặt được đôi mắt của `『Đạo Tặc』` này chứ.*
+*Mình nhìn sót sao? Hay bị lừa rồi? Không, không thể nào. Làm sao có chuyện một đứa trẻ qua mặt được đôi mắt của \`『Đạo Tặc』\` này chứ.*
 
-Để tự trấn an bản thân, Dairick kích hoạt kỹ năng `『Cảm Nhận Hiện Diện』` ở mức tối đa.
+Để tự trấn an bản thân, Dairick kích hoạt kỹ năng \`『Cảm Nhận Hiện Diện』\` ở mức tối đa.
 
 “K-Không có... Hoàn toàn không có chút hiện diện nào...”
 
@@ -85928,19 +85928,19 @@ Thật sự, nếu không có ngài Ruinhilde bảo vệ, tôi đã sớm bỏ m
 
 “Là một chú thuật sư mà lại để kẻ khác thao túng đầu óc thì thật đáng xấu hổ, con sẽ không để chuyện đó xảy ra lần nữa đâu.”
 
-Bắt đầu từ `『Quy Tắc Ý Niệm』` của Takanashi, những kỹ năng và thuật thức thao túng tâm trí con người thực sự tồn tại ở thế giới này. Lần này tôi cũng đã bị Lilith phong ấn bản ngã, và việc Elshion có thể dễ dàng sử dụng các kỹ năng tẩy não là một điều vô cùng phiền phức.
+Bắt đầu từ \`『Quy Tắc Ý Niệm』\` của Takanashi, những kỹ năng và thuật thức thao túng tâm trí con người thực sự tồn tại ở thế giới này. Lần này tôi cũng đã bị Lilith phong ấn bản ngã, và việc Elshion có thể dễ dàng sử dụng các kỹ năng tẩy não là một điều vô cùng phiền phức.
 
 Chính vì thế, tôi cần phải có biện pháp đối phó, và trước hết bản thân tôi phải tự mình ngăn chặn được chúng.
 
 Nhờ việc trực tiếp nếm trải, tôi đã hoàn tất việc phân tích thuật thức đó.
 
-Tôi cũng đã học được cách phòng ngự tinh thần để bảo vệ trí óc và linh hồn sau khi quan sát phương pháp của ngài Ruinhilde. Lần tới, ngay cả đòn tấn công tinh thần tôi cũng có thể phản lại bằng `『Phản Phục Thống Khổ』`.
+Tôi cũng đã học được cách phòng ngự tinh thần để bảo vệ trí óc và linh hồn sau khi quan sát phương pháp của ngài Ruinhilde. Lần tới, ngay cả đòn tấn công tinh thần tôi cũng có thể phản lại bằng \`『Phản Phục Thống Khổ』\`.
 
-Nhắc mới nhớ, uy lực phản đòn của `『Phản Phục Thống Khổ』` dường như đã tăng lên gấp bội. Đặc biệt là khi những kẻ yếu ớt không có bất kỳ kháng tính nào chạm vào tôi, đòn phản phệ dội lại sẽ mang một sức tàn phá vô cùng khủng khiếp.
+Nhắc mới nhớ, uy lực phản đòn của \`『Phản Phục Thống Khổ』\` dường như đã tăng lên gấp bội. Đặc biệt là khi những kẻ yếu ớt không có bất kỳ kháng tính nào chạm vào tôi, đòn phản phệ dội lại sẽ mang một sức tàn phá vô cùng khủng khiếp.
 
 Đây không đơn thuần là việc cấp độ kỹ năng tăng lên, mà có khả năng là do ngài Ruinhilde đã chỉ dẫn cho tôi.
 
-Thật xấu hổ khi trước đây tôi cứ đinh ninh rằng mình chỉ có thể phản lại lượng sát thương tương đương, từ đó vô tình kìm hãm sự phát triển của `『Phản Phục Thống Khổ』`. Là một chú thuật sư, tôi vừa được dạy một bài học rằng trong bất kỳ hoàn cảnh nào cũng phải trả lại mối hận gấp mười, gấp trăm lần.
+Thật xấu hổ khi trước đây tôi cứ đinh ninh rằng mình chỉ có thể phản lại lượng sát thương tương đương, từ đó vô tình kìm hãm sự phát triển của \`『Phản Phục Thống Khổ』\`. Là một chú thuật sư, tôi vừa được dạy một bài học rằng trong bất kỳ hoàn cảnh nào cũng phải trả lại mối hận gấp mười, gấp trăm lần.
 
 “Nơi Nữ Dũng Giả bảo vệ là Thánh vực của Elshion. Astoria vừa là pháo đài bao quanh nơi đó, vừa là bệ tế để tiếp nhận sức mạnh to lớn hơn. Nếu muốn khiêu chiến, hãy cẩn trọng.”
 
@@ -85964,7 +85964,7 @@ Một nụ hôn nóng bỏng, ngọt ngào và như muốn tan chảy, nhưng b�
 
 “Lời của Thần là chân lý. Nếu là ngụy thần, tất cả chỉ là lời dối trá. Song, phàm nhân làm sao phân biệt được thật giả. Vậy thì, ngươi cứ việc tha hồ dối lừa và mạo nhận đi.”
 
-Chẳng lẽ ngài ấy vừa ban cho tôi một chú thuật kiểu như `『Thần Thánh Ngôn Ngữ』` sao?
+Chẳng lẽ ngài ấy vừa ban cho tôi một chú thuật kiểu như \`『Thần Thánh Ngôn Ngữ』\` sao?
 
 Nhưng mà nghĩ lại thì, phong cách của ngài Ruinhilde đời nào lại cho tôi một năng lực tiện lợi và dễ dùng như thế, chắc chắn hiệu ứng của nó cũng sẽ có điểm quái gở cho xem.
 
@@ -86424,11 +86424,11 @@ Tôi ở trong mơ điều khiển bản thân ngoài đời thực giống như
 
 Nhưng tôi ngoài đời thực lại nói năng và hành động như một đứa trẻ tiểu học thiểu năng. Mọi người chịu chăm sóc cho một kẻ như thế suốt thời gian qua đúng là kỳ tích mà.
 
-Dù vậy, tôi cũng đã ở đồn điền này gần một tháng rồi. Chỉ cần thả phân thân của `『Song Ảnh』` cùng những loài côn trùng đã biến thành sứ ma đi, tôi có thể điều tra được hầu hết mọi thông tin. Từ những kiến thức thường thức của Astoria, tình hình kinh doanh của đồn điền, cho đến cả chuyện ngoại tình hay vụng trộm của bọn họ nữa.
+Dù vậy, tôi cũng đã ở đồn điền này gần một tháng rồi. Chỉ cần thả phân thân của \`『Song Ảnh』\` cùng những loài côn trùng đã biến thành sứ ma đi, tôi có thể điều tra được hầu hết mọi thông tin. Từ những kiến thức thường thức của Astoria, tình hình kinh doanh của đồn điền, cho đến cả chuyện ngoại tình hay vụng trộm của bọn họ nữa.
 
 Đặc biệt, việc tôi có thể tự mình đồng điệu cảm giác để chia sẻ thị giác và thính giác với sứ ma — thay vì phụ thuộc hoàn toàn vào Rem như trước — là lý do lớn giúp việc đơn độc thu thập thông tin tiến triển vô cùng thuận lợi.
 
-Đây cũng giống như một món quà khuyến mãi mà ngài Ruinhilde đã dạy cho tôi, tương tự như cơ chế nhân đôi sát thương của `『Phản Phục Thống Khổ』` vậy.
+Đây cũng giống như một món quà khuyến mãi mà ngài Ruinhilde đã dạy cho tôi, tương tự như cơ chế nhân đôi sát thương của \`『Phản Phục Thống Khổ』\` vậy.
 
 Trong giấc mơ, việc điều khiển sứ ma mang lại cảm giác thao tác bận rộn như một trò chơi chiến thuật thời gian thực cực kỳ phức tạp, khiến tôi trầy trật mãi mới quen được. Nhưng đúng là trăm hay không bằng tay quen. Cứ làm nhiều rồi sẽ thành thục thôi.
 
@@ -86448,7 +86448,7 @@ Những thông tin về một thế lực thù địch vẫn đang tồn tại n
 
 Winston là người vận hành một đồn điền lớn ở vị trí địa lý như vậy, nên ông ta luôn thu thập thông tin tiền tuyến mới nhất từ những binh lính Astoria thường xuyên có xung đột nhỏ ở phía đông nam. Nhờ thế mà tôi cũng hiểu rõ phần nào mối quan hệ giữa Astoria và Diana.
 
-Giờ thì, nói về `『Tinh Linh Chiến Sĩ』` của Diana, thật kinh ngạc khi đây không phải là một `『Thiên Chức』`, mà là một dạng `『Quyến Thuộc』`.
+Giờ thì, nói về \`『Tinh Linh Chiến Sĩ』\` của Diana, thật kinh ngạc khi đây không phải là một \`『Thiên Chức』\`, mà là một dạng \`『Quyến Thuộc』\`.
 
 Thú thật, tôi không phân biệt rõ ràng lắm sự khác biệt giữa Thiên Chức và Quyến Thuộc. Nếu buộc phải nói, thì Quyến Thuộc mang lại cảm giác sử dụng những năng lực giống ma vật hơn.
 
@@ -86456,35 +86456,35 @@ Thằng quỷ ăn thịt người Yokomichi là ví dụ điển hình cho kiể
 
 Tất nhiên, ngay cả tôi cũng chẳng điên mà đi điều tra kỹ chỗ đó của Himeno làm gì.
 
-Và theo những gì tôi nghe được, năng lực của `『Tinh Linh Chiến Sĩ』` cũng thuộc kiểu biến hình giống như Yokomichi.
+Và theo những gì tôi nghe được, năng lực của \`『Tinh Linh Chiến Sĩ』\` cũng thuộc kiểu biến hình giống như Yokomichi.
 
 Tùy thuộc vào sức mạnh của tinh linh trú ngụ trong cơ thể, họ có thể biến thành ma nhân, khổng lồ, hoặc nhiều loại ma vật dạng người khác nhau.
 
-Ma nhân chắc là kiểu giống như Dark Rerite hay trạng thái `『Ma Nhân Hóa - Thổ Tinh Linh』` của Kyouko, còn khổng lồ thì chắc giống như Gira-Gogma. Có vẻ như ngoại hình và năng lực của họ có sự khác biệt rất lớn, tạo nên sự đa dạng phong phú.
+Ma nhân chắc là kiểu giống như Dark Rerite hay trạng thái \`『Ma Nhân Hóa - Thổ Tinh Linh』\` của Kyouko, còn khổng lồ thì chắc giống như Gira-Gogma. Có vẻ như ngoại hình và năng lực của họ có sự khác biệt rất lớn, tạo nên sự đa dạng phong phú.
 
-Tuy nhiên, đặc trưng của `『Tinh Linh Chiến Sĩ』` là họ cần một thuật giả gốc ban phát sự bảo hộ, gọi là `『Thần Tử』`.
+Tuy nhiên, đặc trưng của \`『Tinh Linh Chiến Sĩ』\` là họ cần một thuật giả gốc ban phát sự bảo hộ, gọi là \`『Thần Tử』\`.
 
 Tôi nghĩ đây là một hệ thống thuật thức tương tự như cách Oh-ma ban sức mạnh khổng lồ hóa cho các Gira-Gogma.
 
 Kẻ nhận được sự bảo hộ mạnh mẽ sẽ chia sẻ sức mạnh cho người khác, giúp nhiều người cùng lúc bộc phát sức mạnh siêu phàm, có thể coi là một hình thức gia tăng chiến lực tổng thể.
 
-Chính vì thế, những `『Thần Tử』` có khả năng ban phát sức mạnh thuộc tầng lớp đặc quyền ở Diana.
+Chính vì thế, những \`『Thần Tử』\` có khả năng ban phát sức mạnh thuộc tầng lớp đặc quyền ở Diana.
 
 Đối với họ, Thần Tử là một sự tồn tại tối cao, hội tụ cả quyền lực của quý tộc, quyền ra lệnh của cấp trên và đức tin tôn giáo đối với thần linh.
 
-Riza quỳ gối trước tôi cũng là vì cô ấy công nhận tôi là một `『Thần Tử』`. Những nô lệ Diana khác cũng đi theo vì Riza — một cựu Tinh Linh Chiến Sĩ — đã xác nhận thân phận `『Thần Tử』` của tôi.
+Riza quỳ gối trước tôi cũng là vì cô ấy công nhận tôi là một \`『Thần Tử』\`. Những nô lệ Diana khác cũng đi theo vì Riza — một cựu Tinh Linh Chiến Sĩ — đã xác nhận thân phận \`『Thần Tử』\` của tôi.
 
 Nhờ văn hóa của người Diana mà tôi, dù trong bộ dạng một kẻ thiểu năng trí tuệ, vẫn được bảo vệ và chăm sóc chu đáo.
 
-Thú thật thì tôi chẳng phải `『Thần Tử』` gì của Diana cả... nhưng kết quả là tôi đã có thể ban cho Riza sức mạnh của một `『Tinh Linh Chiến Sĩ』`.
+Thú thật thì tôi chẳng phải \`『Thần Tử』\` gì của Diana cả... nhưng kết quả là tôi đã có thể ban cho Riza sức mạnh của một \`『Tinh Linh Chiến Sĩ』\`.
 
 Chà, thực sự phải cảm ơn ngài Oh-ma đấy. Nhờ việc thực thi quá trình khổng lồ hóa cho Rem, tôi đã hiểu và giải mã được phần lớn hệ thống thuật thức này.
 
 Mặc dù đối phó với Lilith thì hoàn toàn vô dụng.
 
-Dù sao thì, Riza khi mất đi Thần Tử của mình sẽ không thể phát huy sức mạnh của `『Tinh Linh Chiến Sĩ』`. Sức mạnh hiện tại của cô ấy chỉ nhỉnh hơn một binh lính được huấn luyện, nhưng vẫn dưới tầm của một người sở hữu Thiên Chức.
+Dù sao thì, Riza khi mất đi Thần Tử của mình sẽ không thể phát huy sức mạnh của \`『Tinh Linh Chiến Sĩ』\`. Sức mạnh hiện tại của cô ấy chỉ nhỉnh hơn một binh lính được huấn luyện, nhưng vẫn dưới tầm của một người sở hữu Thiên Chức.
 
-Nhưng bằng cách lập khế ước với tôi, sức mạnh `『Tinh Linh Chiến Sĩ』` của cô ấy sẽ một lần nữa thức tỉnh —
+Nhưng bằng cách lập khế ước với tôi, sức mạnh \`『Tinh Linh Chiến Sĩ』\` của cô ấy sẽ một lần nữa thức tỉnh —
 
 “Nhân tiện, tôi sẽ trở thành một Thần Tử khác với 『Cự Thần Vĩ Đại』 đấy, như vậy có ổn không?”
 
@@ -86578,13 +86578,13 @@ Nhưng việc một Tinh Linh Chiến Sĩ có sức mạnh lớn áp đặt lý 
 
 “Đối phương có súng đấy. Bảo mọi người chỉ cầm gậy gộc rồi dùng ý chí và lòng quyết tâm để chọi lại thì tàn nhẫn quá.”
 
-Trong cuộc nổi loạn lần này, tôi không đưa các nô lệ Diana vào danh sách lực lượng chiến đấu. Ngay cả Riza, người đã trở thành `『Tinh Linh Chiến Sĩ』` của tôi, cũng chỉ đóng vai trò là một bảo hiểm mà thôi.
+Trong cuộc nổi loạn lần này, tôi không đưa các nô lệ Diana vào danh sách lực lượng chiến đấu. Ngay cả Riza, người đã trở thành \`『Tinh Linh Chiến Sĩ』\` của tôi, cũng chỉ đóng vai trò là một bảo hiểm mà thôi.
 
 Bởi vì lực lượng phòng thủ tại đồn điền New Hope này chỉ có khoảng 30 binh lính. Chỉ tương đương với một tiểu đội.
 
 Ngay cả khi tính cả những tên giám thị chỉ biết cầm roi đi nghênh ngang, tổng số cũng chưa tới 100 tên. Hơn nữa, phần lớn bọn chúng đều đã ra về vào ban đêm.
 
-Và quan trọng hơn cả, kẻ duy nhất sở hữu `『Thiên Chức』` — trụ cột chiến lực của bọn chúng — chỉ có tên đội trưởng. Mà thiên chức của hắn cũng chỉ là một 『Đạo Tặc』 thông thường. Nhìn kiểu gì cũng thấy chậm chạp và vụng về hơn nhiều so với Natsukawa. Không biết có phải là tân binh mới nhận được thiên chức gần đây không nữa.
+Và quan trọng hơn cả, kẻ duy nhất sở hữu \`『Thiên Chức』\` — trụ cột chiến lực của bọn chúng — chỉ có tên đội trưởng. Mà thiên chức của hắn cũng chỉ là một 『Đạo Tặc』 thông thường. Nhìn kiểu gì cũng thấy chậm chạp và vụng về hơn nhiều so với Natsukawa. Không biết có phải là tân binh mới nhận được thiên chức gần đây không nữa.
 
 “Thế nên mọi người cứ đứng sau quan sát là được rồi. Vạn nhất tôi có gặp nguy hiểm thì lúc đó ra tay giúp đỡ là tôi vui rồi.”
 
@@ -86604,7 +86604,7 @@ Nhờ thế mà mắt của đội cảnh vệ đều hướng ra ngoài để �
 
 Loại này thì ngay cả tôi, chỉ cần ẩn mình trong đêm tối rồi tập kích bất ngờ là có thể dễ dàng hạ gục.
 
-Giống như lúc lẻn vào vương quốc Goma, tôi dùng `『Tóc Đen Trói Buộc』` siết cổ bọn chúng không cho phát ra tiếng động rồi treo lên. Chỉ có ba tên thì ba phân thân của tôi có thể ra tay cùng một thời điểm.
+Giống như lúc lẻn vào vương quốc Goma, tôi dùng \`『Tóc Đen Trói Buộc』\` siết cổ bọn chúng không cho phát ra tiếng động rồi treo lên. Chỉ có ba tên thì ba phân thân của tôi có thể ra tay cùng một thời điểm.
 
 Nhìn cảnh ba tên lính gác thấy bản thân và đồng đội đều bị trói chặt bằng sợi dây tóc đen, mắt trợn ngược tuyệt vọng đúng là một cảnh tượng thú vị. Người ta bảo mắt là cửa sổ tâm hồn quả không sai chút nào.
 
@@ -95815,13 +95815,13 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **Dịch thuật:** Dịch thoát ý, tự nhiên theo ngữ pháp Việt Nam, tránh dịch thô cứng/giữ nguyên cấu trúc câu tiếng Nhật/Anh/Trung.
 
 ## 2. Quy tắc Định dạng & Ký hiệu
-- **Thiên Chức / Kỹ năng:** Dùng dấu ngoặc kép kiểu Nhật: `『Thiên Chức』`, `『Chú thuật sư』`.
-- **Hội thoại:** Dùng dấu ngoặc kép tiếng Việt: `“...”` hoặc gạch đầu dòng `— ...`.
-- **Suy nghĩ nội tâm:** Dùng gạch nghiêng `*...*` hoặc ngoặc đơn `(...)`.
+- **Thiên Chức / Kỹ năng:** Dùng dấu ngoặc kép kiểu Nhật: \`『Thiên Chức』\`, \`『Chú thuật sư』\`.
+- **Hội thoại:** Dùng dấu ngoặc kép tiếng Việt: \`“...”\` hoặc gạch đầu dòng \`— ...\`.
+- **Suy nghĩ nội tâm:** Dùng gạch nghiêng \`*...*\` hoặc ngoặc đơn \`(...)\`.
 
 ## 3. Quy tắc Xưng hô & Kính ngữ
-- **Kính ngữ tiếng Nhật:** GIỮ NGUYÊN các hậu tố kính ngữ tiếng Nhật (`-san`, `-kun`, `-chan`, `-senpai`, `-sama`, `-dono`, `-sensei`) khi gắn liền với tên nhân vật (ví dụ: `Momokawa-kun`, `Souma-kun`, `Kotori-san`, `Mei-chan`, `Ryouko-senpai`, `Kyouko-san`, `Asuna-chan`). Không tự ý dịch thành `cậu/bạn/ngài/tiền bối`.
-- **Nhân vật chính (Momokawa Kotarou):** `cậu / cậu ta`, xưng `tôi` với bạn học/kẻ thù tùy ngữ cảnh, xưng `tớ` với bạn bè thân.
+- **Kính ngữ tiếng Nhật:** GIỮ NGUYÊN các hậu tố kính ngữ tiếng Nhật (\`-san\`, \`-kun\`, \`-chan\`, \`-senpai\`, \`-sama\`, \`-dono\`, \`-sensei\`) khi gắn liền với tên nhân vật (ví dụ: \`Momokawa-kun\`, \`Souma-kun\`, \`Kotori-san\`, \`Mei-chan\`, \`Ryouko-senpai\`, \`Kyouko-san\`, \`Asuna-chan\`). Không tự ý dịch thành \`cậu/bạn/ngài/tiền bối\`.
+- **Nhân vật chính (Momokawa Kotarou):** \`cậu / cậu ta\`, xưng \`tôi\` với bạn học/kẻ thù tùy ngữ cảnh, xưng \`tớ\` với bạn bè thân.
 - **Bạn học / Nhóm phản diện / Yandere:** Cập nhật xưng hô dựa theo quan hệ nhân vật ở từng chương (tớ - cậu, tao - mày, ta - ngươi, anh - em,...).
 
 ## 4. Ghi Chú Riêng Biệt Cho Nhân Vật (Custom Notes)
@@ -98194,7 +98194,7 @@ Felix hỏi khi họ đang rảo bước trên hành lang dẫn ra lối vào ch
 
 Vấn đề lưu thông giữa các lãnh địa mà tôi từng học trước đây.
 
-Đó là những kiến thức như `『Phương pháp cải tạo đường sá để vận chuyển hàng hóa nhanh hơn』`, `『Cách thức xếp được nhiều hàng hóa hơn lên xe ngựa』`, hay `『Phương pháp tận dụng các thành phố trung chuyển』`.
+Đó là những kiến thức như \`『Phương pháp cải tạo đường sá để vận chuyển hàng hóa nhanh hơn』\`, \`『Cách thức xếp được nhiều hàng hóa hơn lên xe ngựa』\`, hay \`『Phương pháp tận dụng các thành phố trung chuyển』\`.
 
 Tất cả đều là những chủ đề quan trọng trong việc quản lý lãnh địa.
 
@@ -102579,7 +102579,7 @@ Chắc hẳn đã đoán ra đây lại là vụ trốn đi ăn vặt ở các q
 
 Trước câu trả lời của Gazel, Aurelia khẽ mở to mắt kinh ngạc.
 
-“Thật sao? Lần đầu tham gia mà đã vô địch thì thực lực của cậu không phải dạng vừa đâu. Nếu đã không làm hộ vệ cho Công chúa Beatrice nữa, hay là cậu gia nhập hiệp sĩ đoàn nhà ta đi? Dù không thể sánh bằng Hiệp sĩ đoàn Hoàng gia vương quốc Grand, nhưng `『Hiệp sĩ đoàn Rosenberg』` của nhà ta cũng có chút tiếng tăm ở vương quốc Melba này đấy.”
+“Thật sao? Lần đầu tham gia mà đã vô địch thì thực lực của cậu không phải dạng vừa đâu. Nếu đã không làm hộ vệ cho Công chúa Beatrice nữa, hay là cậu gia nhập hiệp sĩ đoàn nhà ta đi? Dù không thể sánh bằng Hiệp sĩ đoàn Hoàng gia vương quốc Grand, nhưng \`『Hiệp sĩ đoàn Rosenberg』\` của nhà ta cũng có chút tiếng tăm ở vương quốc Melba này đấy.”
 
 — Hiệp sĩ đoàn Rosenberg cũng rất nổi tiếng ở vương quốc Grand. Thế nhưng...
 
@@ -102963,16 +102963,16 @@ Dù cằn nhằn như vậy, Cedric vẫn bắt đầu dọn dẹp bàn làm vi�
 - **Tiết tấu:** Nhịp điệu lôi cuốn, chú trọng vào cảm xúc và diễn biến tâm lý nhân vật.
 
 ## 2. Quy Tắc Định Dạng & Ký Hiệu Chuẩn (Formatting Rules)
-- **Hội thoại trực tiếp:** Đặt trong dấu ngoặc kép: `“...”` hoặc gạch đầu dòng `— ...`.
-- **Suy nghĩ nội tâm / Độc thoại:** Đặt trong dấu nghiêng `*...*` hoặc ngoặc đơn `(...)`.
-- **Kỹ năng, Năng lực, Chức nghiệp, Bảo vật:** Đặt trong dấu ngoặc kép kiểu Nhật: `『...』` (Ví dụ: `『Kỹ Năng』`).
+- **Hội thoại trực tiếp:** Đặt trong dấu ngoặc kép: \`“...”\` hoặc gạch đầu dòng \`— ...\`.
+- **Suy nghĩ nội tâm / Độc thoại:** Đặt trong dấu nghiêng \`*...*\` hoặc ngoặc đơn \`(...)\`.
+- **Kỹ năng, Năng lực, Chức nghiệp, Bảo vật:** Đặt trong dấu ngoặc kép kiểu Nhật: \`『...』\` (Ví dụ: \`『Kỹ Năng』\`).
 - **Âm thanh, Tiếng động mô phỏng (Onomatopoeia):** In nghiêng tự nhiên (Ví dụ: *Roẹt*, *Ầm*, *Bộp*, *Chíp chíp*).
 
 ## 3. Quy Tắc Xưng Hô Cơ Bản (Pronoun Rules)
-- **Bạn bè / Đồng trang lứa:** `tôi - cậu` hoặc `mình - bạn` (tùy độ thân thiết).
-- **Tình cảm nam nữ / Thân mật:** `anh - em` hoặc `cậu - tớ`.
-- **Bậc trên - Bậc dưới / Thầy trò:** `tiền bối - hậu bối`, `thầy/cô - em`.
-- **Đối thủ / Kẻ thù / Chiến đấu:** `ta - ngươi` hoặc `mày - tao` (khi xung đột cao trào).
+- **Bạn bè / Đồng trang lứa:** \`tôi - cậu\` hoặc \`mình - bạn\` (tùy độ thân thiết).
+- **Tình cảm nam nữ / Thân mật:** \`anh - em\` hoặc \`cậu - tớ\`.
+- **Bậc trên - Bậc dưới / Thầy trò:** \`tiền bối - hậu bối\`, \`thầy/cô - em\`.
+- **Đối thủ / Kẻ thù / Chiến đấu:** \`ta - ngươi\` hoặc \`mày - tao\` (khi xung đột cao trào).
 
 ## 4. Ghi Chú Riêng Biệt Cho Nhân Vật (Custom Notes)
 - **Aurelia và Gazel/Camilla:** Aurelia xưng 'ta' - gọi 'cậu' (Gazel) và 'em' (Camilla) thể hiện vị thế chủ nhân quý tộc. Gazel và Camilla xưng 'tôi/em' - gọi 'Tiểu thư Aurelia' hoặc 'Tiểu thư' đầy kính trọng. *(Tự động học từ Tập 35)*
