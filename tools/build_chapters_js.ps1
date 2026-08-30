@@ -283,4 +283,11 @@ if (Test-Path $docTruyenPath) {
     [System.IO.File]::WriteAllText($rootIndexPath, $htmlContent, [System.Text.Encoding]::UTF8)
 }
 
-Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao $outputFile va index.html (Active: $($activeDir.Name))." -ForegroundColor Green
+$buildMapPy = Join-Path $toolsDir "build_map_and_graph.py"
+if (Test-Path $buildMapPy) {
+    try {
+        python $buildMapPy | Out-Null
+    } catch {}
+}
+
+Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao $outputFile, map_data.js va graph_data.js (Active: $($activeDir.Name))." -ForegroundColor Green

@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Công cụ So sánh Văn bản Trực quan | Light Novel Diff Studio Pro</title>
+  <style>
+    :root {
+      --bg-main: #0b0f19;
+      --bg-card: #111827;
+      --bg-header: #1e293b;
+      --border-color: #334155;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --del-bg: rgba(239, 68, 68, 0.18);
+      --del-text: #fca5a5;
+      --del-highlight: #dc2626;
+      --ins-bg: rgba(34, 197, 94, 0.18);
+      --ins-text: #86efac;
+      --ins-highlight: #16a34a;
+      --accent: #38bdf8;
+      --accent-hover: #0ea5e9;
+      --primary: #6366f1;
+      --active-row-bg: rgba(234, 179, 8, 0.25);
+      --active-row-border: #eab308;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      text-align: center;
+      padding: 24px 20px 16px;
+      background: linear-gradient(180deg, #131d31 0%, var(--bg-main) 100%);
+      border-bottom: 1px solid var(--border-color);
+      position: relative;
+    }
+    header h1 {
+      font-size: 2.1rem;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      color: #ffffff;
+      margin-bottom: 6px;
+    }
+    header p {
+      color: var(--text-muted);
+      font-size: 0.92rem;
+      max-width: 850px;
+      margin: 0 auto 10px;
+    }
+    .badge-bar {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      font-size: 0.82rem;
+      color: #38bdf8;
+      flex-wrap: wrap;
+    }
+
+    .container {
+      max-width: 1680px;
+      width: 96%;
+      margin: 15px auto 25px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    /* Controls Bar */
+    .controls-panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 12px 18px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .control-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    label {
+      font-size: 0.86rem;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+    select, button, input {
+      background: #1e293b;
+      color: #f8fafc;
+      border: 1px solid var(--border-color);
+      padding: 6px 12px;
+      border-radius: 7px;
+      font-size: 0.86rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      outline: none;
+    }
+    select:focus, button:focus, input:focus {
+      border-color: var(--accent);
+    }
+    button:hover {
+      background: #334155;
+    }
+    button.active {
+      background: var(--primary);
+      border-color: #818cf8;
+      color: white;
+      font-weight: 600;
+    }
+    .btn-primary {
+      background: #0284c7;
+      color: white;
+      font-weight: 600;
+      border-color: #38bdf8;
+    }
+    .btn-primary:hover {
+      background: #0369a1;
+    }
+    .btn-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .btn-toggle.active {
+      background: #059669;
+      border-color: #34d399;
+      color: white;
+    }
+
+    /* Sub Toolbar / Stats Bar */
+    .toolbar-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 10px 16px;
+      background: #162032;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+    }
+    .stats-group {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 0.86rem;
+      flex-wrap: wrap;
+    }
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .stat-del { color: var(--del-text); font-weight: bold; }
+    .stat-ins { color: var(--ins-text); font-weight: bold; }
+    .stat-match { color: #38bdf8; font-weight: bold; }
+
+    .nav-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .nav-counter {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: #fbbf24;
+      min-width: 90px;
+      text-align: center;
+    }
+
+    /* Tag List Drawer */
+    .tags-container {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      background: #0d1524;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      overflow-x: auto;
+      white-space: nowrap;
+      font-size: 0.82rem;
+    }
+    .tags-label {
+      font-weight: 700;
+      color: #94a3b8;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .diff-tag {
+      background: #1e293b;
+      color: #38bdf8;
+      border: 1px solid #334155;
+      padding: 3px 9px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .diff-tag:hover {
+      background: #0284c7;
+      color: white;
+      border-color: #38bdf8;
+    }
+
+    /* Diff View Container */
+    .diff-wrapper {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 650px;
+    }
+
+    .diff-header {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      background: #0f172a;
+      border-bottom: 1px solid var(--border-color);
+      font-size: 0.92rem;
+      font-weight: 700;
+    }
+    .diff-header.inline-mode {
+      grid-template-columns: 1fr;
+    }
+    .col-title {
+      padding: 10px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .col-title.left {
+      border-right: 1px solid var(--border-color);
+      color: #f87171;
+    }
+    .col-title.right {
+      color: #4ade80;
+    }
+
+    .diff-body {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      flex: 1;
+      height: 680px;
+      overflow: hidden;
+      position: relative;
+    }
+    .diff-body.inline-mode {
+      grid-template-columns: 1fr;
+    }
+
+    .diff-pane {
+      overflow-y: scroll;
+      overflow-x: auto;
+      font-family: "Cascadia Code", "Fira Code", Consolas, monospace;
+      font-size: 0.92rem;
+      background: #090d16;
+    }
+    .diff-pane.left {
+      border-right: 1px solid var(--border-color);
+    }
+
+    /* Diff Lines */
+    .diff-row {
+      display: flex;
+      min-height: 27px;
+      line-height: 1.6;
+      border-bottom: 1px solid rgba(255,255,255,0.02);
+      transition: background 0.15s;
+    }
+    .diff-row.is-active-target {
+      background: var(--active-row-bg) !important;
+      border-left: 3px solid var(--active-row-border);
+    }
+    .line-num {
+      width: 48px;
+      min-width: 48px;
+      text-align: right;
+      padding-right: 10px;
+      color: #475569;
+      user-select: none;
+      background: #070a12;
+      border-right: 1px solid #1e293b;
+      font-size: 0.8rem;
+    }
+    .line-content {
+      padding: 3px 12px;
+      flex: 1;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .diff-row.deleted {
+      background: var(--del-bg);
+      color: #fecaca;
+    }
+    .diff-row.deleted .line-num {
+      color: #ef4444;
+      background: rgba(239, 68, 68, 0.15);
+    }
+    .diff-row.inserted {
+      background: var(--ins-bg);
+      color: #dcfce7;
+    }
+    .diff-row.inserted .line-num {
+      color: #22c55e;
+      background: rgba(34, 197, 94, 0.15);
+    }
+    .diff-row.empty {
+      background: rgba(0, 0, 0, 0.2);
+    }
+    .diff-row.folded-notice {
+      background: #0f172a;
+      color: #64748b;
+      font-size: 0.8rem;
+      font-style: italic;
+      justify-content: center;
+      padding: 4px;
+      border-top: 1px dashed #334155;
+      border-bottom: 1px dashed #334155;
+    }
+
+    .word-del {
+      background: var(--del-highlight);
+      color: #ffffff;
+      padding: 1px 4px;
+      border-radius: 3px;
+      font-weight: 700;
+      text-decoration: line-through;
+      box-shadow: 0 0 3px rgba(220, 38, 38, 0.4);
+    }
+    .word-ins {
+      background: var(--ins-highlight);
+      color: #ffffff;
+      padding: 1px 4px;
+      border-radius: 3px;
+      font-weight: 700;
+      box-shadow: 0 0 3px rgba(22, 163, 74, 0.4);
+    }
+
+    /* Text Input Mode */
+    .edit-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      padding: 15px;
+      height: 680px;
+    }
+    textarea {
+      width: 100%;
+      height: 100%;
+      background: #070a12;
+      color: #f8fafc;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 15px;
+      font-family: inherit;
+      font-size: 0.95rem;
+      resize: none;
+      outline: none;
+    }
+    textarea:focus {
+      border-color: var(--accent);
+    }
+
+    /* Bottom Status Bar */
+    .bottom-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 18px;
+      background: #0f172a;
+      border-top: 1px solid var(--border-color);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    /* Scrollbar */
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: #0b0f19; }
+    ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+    @media (max-width: 1024px) {
+      .diff-body, .diff-header, .edit-grid {
+        grid-template-columns: 1fr;
+      }
+      .diff-pane.left { border-right: none; border-bottom: 2px solid var(--border-color); }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        padding: 16px 12px 12px;
+      }
+      header h1 {
+        font-size: 1.35rem;
+      }
+      header p {
+        font-size: 0.8rem;
+        margin-bottom: 6px;
+      }
+      .badge-bar {
+        font-size: 0.72rem;
+        gap: 8px;
+      }
+      .container {
+        width: 100%;
+        margin: 8px auto 16px;
+        padding: 0 8px;
+        gap: 8px;
+      }
+      .controls-panel {
+        padding: 10px 12px;
+        gap: 10px;
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .control-group {
+        width: 100%;
+        gap: 6px;
+      }
+      .control-group label {
+        font-size: 0.8rem;
+      }
+      select, button, input {
+        font-size: 0.82rem;
+        padding: 6px 10px;
+      }
+      #novelSelect, #chapterSelect, #sourceSelect {
+        width: 100%;
+        max-width: 100%;
+      }
+      .btn-primary {
+        width: 100%;
+        padding: 8px;
+        justify-content: center;
+      }
+      .toolbar-bar {
+        padding: 8px 12px;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+      }
+      .stats-group {
+        font-size: 0.78rem;
+        gap: 8px;
+        justify-content: space-between;
+      }
+      .nav-group {
+        width: 100%;
+        justify-content: space-between;
+      }
+      .nav-group button {
+        flex: 1;
+        padding: 6px 8px;
+        font-size: 0.8rem;
+      }
+      .nav-counter {
+        min-width: 70px;
+        font-size: 0.8rem;
+      }
+      .diff-wrapper {
+        min-height: 480px;
+        border-radius: 8px;
+      }
+      .diff-body {
+        height: 520px;
+      }
+      .diff-pane {
+        font-size: 0.84rem;
+      }
+      .line-num {
+        width: 36px;
+        min-width: 36px;
+        font-size: 0.72rem;
+        padding-right: 6px;
+      }
+      .line-content {
+        padding: 2px 8px;
+      }
+      .bottom-bar {
+        padding: 8px 12px;
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+      }
+      .bottom-bar > div:last-child {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+      .bottom-bar button {
+        flex: 1;
+        min-width: 90px;
+        font-size: 0.78rem;
+        padding: 6px 8px;
+      }
+    }
+
+  
+    /* Highlight riêng cho Thuật ngữ & Chiêu thức 『...』 */
+    .bracket-term {
+      background: rgba(234, 179, 8, 0.22) !important;
+      color: #fde047 !important;
+      border: 1px solid rgba(234, 179, 8, 0.65);
+      padding: 1px 5px;
+      border-radius: 4px;
+      font-weight: 700;
+      display: inline-block;
+      margin: 0 1px;
+    }
+    .btn-restore-active {
+      background: linear-gradient(135deg, #b91c1c 0%, #dc2626 100%) !important;
+      color: white !important;
+      border: 1px solid #ef4444 !important;
+      font-weight: 700 !important;
+      box-shadow: 0 2px 8px rgba(220, 38, 38, 0.35);
+    }
+    .btn-restore-active:hover {
+      background: #ef4444 !important;
+      transform: translateY(-1px);
+    }
+
+</style>
+</head>
+<body>
+
+  <header>
+    <h1>Công cụ So sánh Văn bản Trực quan Pro</h1>
+    <p>Đối chiếu chi tiết từng từ, từng câu giữa <strong>Bản Gốc (Trước chuẩn hóa / biên tập)</strong> và <strong>Bản Đã Xử Lý (Sau chuẩn hóa / biên tập)</strong>. Hoạt động Offline 100% bảo mật.</p>
+    <div class="badge-bar">
+      <span>⚡ Nhảy nhanh điểm sửa (Phím J / K)</span>
+      <span>🔍 Chế độ Compact chỉ xem dòng thay đổi</span>
+      <span>📑 Trích xuất thuật ngữ thông minh</span>
+      <span>📖 Hỗ trợ đa nguồn: Biên Tập AI & Chuẩn Hóa Thuật Ngữ</span>
+    </div>
+  </header>
+
+  <div class="container">
+    <!-- Thanh điều khiển chính -->
+    <div class="controls-panel">
+      <div class="control-group">
+        <label for="novelSelect">📚 Bộ truyện:</label>
+        <select id="novelSelect" onchange="onNovelChange()">
+          <option value="Chu_Thuat_Su_Dung_Gia">Chú Thuật Sư Không Thể Trở Thành Dũng Giả</option>
+        </select>
+
+        <label for="chapterSelect">📑 Chọn Tập:</label>
+        <select id="chapterSelect" onchange="onChapterChange()">
+          <option value="">-- Đang quét dữ liệu --</option>
+        </select>
+
+        <!-- Bộ chọn nguồn so sánh -->
+        <label for="sourceSelect">🔬 Nguồn đối chiếu:</label>
+        <select id="sourceSelect" onchange="onSourceChange()">
+          <option value="auto">🌟 Tự động (Ưu tiên bản mới nhất)</option>
+          <option value="bien_tap">🤖 Trước Biên Tập AI (backup_truoc_bien_tap)</option>
+          <option value="chuan_hoa">⚡ Trước Chuẩn Hóa (backup_truoc_chuan_hoa)</option>
+        </select>
+
+        <button class="btn-primary" onclick="loadSelectedChapter()">🔄 Nạp So Sánh</button>
+        <button class="btn-restore-active" onclick="restoreOriginalChapter()" title="Khôi phục chương này về Bản Gốc cũ">⏪ Khôi Phục Bản Cũ (Undo)</button>
+      </div>
+
+      <div class="control-group">
+        <label>Chế độ:</label>
+        <button id="btnSideBySide" class="active" onclick="setViewMode('split')">👥 Chia đôi</button>
+        <button id="btnInline" onclick="setViewMode('inline')">📑 Nội tuyến</button>
+        
+        <label style="margin-left: 6px;">Chi tiết:</label>
+        <button id="btnWordDiff" class="active" onclick="setDiffType('word')">Từ</button>
+        <button id="btnCharDiff" onclick="setDiffType('char')">Ký tự</button>
+        
+        <label style="margin-left: 6px;">Cỡ chữ:</label>
+        <button onclick="changeFontSize(-1)">A-</button>
+        <button onclick="changeFontSize(1)">A+</button>
+        
+        <button id="btnEditMode" onclick="toggleEditMode()">✏️ Tự do dán</button>
+      </div>
+    </div>
+
+    <!-- Thanh công cụ & Điều hướng nhanh -->
+    <div class="toolbar-bar">
+      <div class="stats-group">
+        <div class="stat-item">
+          <span>🔴 Xóa / Sửa cũ:</span>
+          <span id="statDel" class="stat-del">0 dòng</span>
+        </div>
+        <div class="stat-item">
+          <span>🟢 Đã sửa / Chuẩn hóa:</span>
+          <span id="statIns" class="stat-ins">0 dòng</span>
+        </div>
+        <div class="stat-item">
+          <span>📊 Độ tương đồng:</span>
+          <span id="statMatch" class="stat-match">100%</span>
+        </div>
+        
+        <!-- Toggle Compact Filter -->
+        <button id="btnCompact" class="btn-toggle" onclick="toggleCompactMode()">
+          <span>🔍 Chỉ xem dòng đã sửa</span>
+        </button>
+      </div>
+
+      <!-- Điều hướng nhảy nhanh điểm sửa -->
+      <div class="nav-group">
+        <button onclick="navigateChange(-1)" title="Phím tắt: K hoặc Mũi tên Lên">⬆️ Điểm trước (K)</button>
+        <span id="navCounter" class="nav-counter">Điểm: 0 / 0</span>
+        <button onclick="navigateChange(1)" title="Phím tắt: J hoặc Mũi tên Xuống">⬇️ Tiếp theo (J)</button>
+
+        <label style="margin-left: 8px; cursor: pointer; display: flex; align-items: center; gap: 5px; font-size: 0.84rem;">
+          <input type="checkbox" id="syncScrollCheck" checked onchange="toggleSyncScroll()"> Cuộn đồng bộ
+        </label>
+      </div>
+    </div>
+
+    <!-- Drawer danh sách thuật ngữ thay đổi nhanh -->
+    <div id="tagsDrawer" class="tags-container" style="display: none;">
+      <span class="tags-label">🏷️ Thuật ngữ đổi nhanh:</span>
+      <div id="tagsList" style="display: flex; gap: 6px;"></div>
+    </div>
+
+    <!-- Khung xem Diff -->
+    <div class="diff-wrapper">
+      <div id="diffHeader" class="diff-header">
+        <div class="col-title left">
+          <span id="titleColLeft">📂 🔴 BẢN GỐC (Thư mục backups/)</span>
+          <button style="padding: 2px 8px; font-size: 0.75rem;" onclick="copyText('left')">📋 Sao chép</button>
+        </div>
+        <div class="col-title right">
+          <span id="titleColRight">✨ 🟢 BẢN BIÊN TẬP AI MỚI (Thư mục translated/)</span>
+          <button style="padding: 2px 8px; font-size: 0.75rem;" onclick="copyText('right')">📋 Sao chép</button>
+        </div>
+      </div>
+
+      <!-- Chế độ Diff đồ họa -->
+      <div id="diffBody" class="diff-body">
+        <div id="paneLeft" class="diff-pane left">
+          <div id="contentLeft"></div>
+        </div>
+        <div id="paneRight" class="diff-pane right">
+          <div id="contentRight"></div>
+        </div>
+      </div>
+
+      <!-- Chế độ So sánh Tự do (Dán text) -->
+      <div id="editGrid" class="edit-grid" style="display: none;">
+        <textarea id="textLeft" placeholder="Dán văn bản gốc vào đây..." oninput="triggerCustomDiff()"></textarea>
+        <textarea id="textRight" placeholder="Dán văn bản đã sửa đổi vào đây..." oninput="triggerCustomDiff()"></textarea>
+      </div>
+
+      <!-- Thanh trạng thái cuối -->
+      <div class="bottom-bar">
+        <div id="statusMsg">💡 Dùng phím [J] và [K] để nhảy nhanh giữa các điểm thay đổi.</div>
+        <div style="display: flex; gap: 8px;">
+          <button onclick="clearAll()">🗑️ Xóa tất cả</button>
+          <button onclick="swapTexts()">🔄 Đổi vị trí 2 bên</button>
+          <a class="btn" href="Kiem_Tra_Cache_Token.html" target="_blank" style="background: rgba(168, 85, 247, 0.2); color: #c084fc; border-color: rgba(168, 85, 247, 0.5);">📊 Token & Cache</a>
+          <a class="btn" href="Bao_Cao_Chuan_Hoa.html" target="_blank" style="background: rgba(234, 179, 8, 0.2); color: #fde047; text-decoration: none; border-color: rgba(234, 179, 8, 0.5);">⚡ Báo Cáo Chuẩn Hóa</a>
+          <button class="btn-primary" onclick="window.location.href='Doc_Truyen.html'">📖 Quay lại Web Đọc Truyện</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Nạp dữ liệu các chương và bộ truyện -->
+  <script src="chapters.js"></script>
+  <script src="diff_data.js"></script>
+
+  <script>
+    let viewMode = 'split';
+    let diffType = 'word';
+    let isEditMode = false;
+    let syncScroll = true;
+    let isCompactMode = false;
+    let currentFontSize = 0.92;
+
+    let originalText = "";
+    let polishedText = "";
+
+    let changeRowIndices = [];
+    let currentChangeIndex = -1;
+
+    
+    function highlightBrackets(text) {
+      if (!text) return "";
+      return text.replace(/『([^』]+)』/g, '<span class="bracket-term">『$1』</span>');
+    }
+
+    function restoreOriginalChapter() {
+      const chSelect = document.getElementById('chapterSelect');
+      const ep = chSelect.value;
+      if (!ep || !originalText) {
+        alert("⚠️ Không có dữ liệu bản gốc để khôi phục.");
+        return;
+      }
+      
+      const confirmRestore = confirm(`⚠️ BẠN CÓ CHẮC CHẮN MUỐN KHÔI PHỤC TẬP ${ep}?\n\nBản dịch hiện tại sẽ được quay về Bản Dịch Gốc (Trước khi biên tập).\n\nNhấn OK để tải về file gốc hoặc sao chép ngay.`);
+      if (!confirmRestore) return;
+
+      // 1. Copy vào Clipboard
+      navigator.clipboard.writeText(originalText).then(() => {
+        // 2. Tạo file tải về
+        const blob = new Blob([originalText], { type: 'text/plain;charset=utf-8' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = `chuong_${ep}_dich.txt`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        
+        alert(`✅ ĐÃ KHÔI PHỤC TẬP ${ep}!\n\n1. Đã tự động tải file 'chuong_${ep}_dich.txt' về máy.\n2. Đã sao chép nội dung gốc vào bộ nhớ tạm (Clipboard).\n\n👉 Bạn cũng có thể dùng Menu [7] trong '4_Quan_Ly_Novel.bat' để Hoàn tác 1-Click tự động!`);
+      }).catch(err => {
+        alert("Nội dung gốc:\n" + originalText.substring(0, 300) + "...");
+      });
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+      initNovelsAndChapters();
+      setupSyncScroll();
+      setupKeybindings();
+    });
+
+    function setupKeybindings() {
+      window.addEventListener('keydown', (e) => {
+        if (isEditMode) return;
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+
+        if (e.key === 'j' || e.key === 'J' || e.key === 'ArrowDown') {
+          e.preventDefault();
+          navigateChange(1);
+        } else if (e.key === 'k' || e.key === 'K' || e.key === 'ArrowUp') {
+          e.preventDefault();
+          navigateChange(-1);
+        }
+      });
+    }
+
+    function initNovelsAndChapters() {
+      const novelSelect = document.getElementById('novelSelect');
+      novelSelect.innerHTML = "";
+
+      const allNovels = window.ALL_NOVELS || {};
+      const novelKeys = Object.keys(allNovels);
+
+      // Nạp danh sách tất cả các bộ novel vào dropdown
+      if (novelKeys.length > 0) {
+        novelKeys.forEach(k => {
+          const nData = allNovels[k];
+          const opt = document.createElement('option');
+          opt.value = k;
+          opt.textContent = nData.title || k;
+          novelSelect.appendChild(opt);
+        });
+      } else {
+        const opt = document.createElement('option');
+        opt.value = "Chu_Thuat_Su_Dung_Gia";
+        opt.textContent = "Chú Thuật Sư Không Thể Trở Thành Dũng Giả";
+        novelSelect.appendChild(opt);
+      }
+
+      // Đọc URL param hoặc localStorage
+      const urlParams = new URLSearchParams(window.location.search);
+      let targetNovel = urlParams.get('novel') || localStorage.getItem('active_novel_key') || (window.DIFF_DATA && window.DIFF_DATA.novel_key);
+      if (targetNovel && novelSelect.querySelector(`option[value="${targetNovel}"]`)) {
+        novelSelect.value = targetNovel;
+      }
+
+      updateChaptersForSelectedNovel();
+    }
+
+    function updateChaptersForSelectedNovel() {
+      const novelSelect = document.getElementById('novelSelect');
+      const chSelect = document.getElementById('chapterSelect');
+      const selectedNovelKey = novelSelect.value;
+      chSelect.innerHTML = "";
+
+      const allNovels = window.ALL_NOVELS || {};
+      const activeNovelData = allNovels[selectedNovelKey] || window.NOVEL_DATA || {};
+      const chapters = activeNovelData.chapters || [];
+
+      const activeDiffData = (window.ALL_DIFF_DATA && window.ALL_DIFF_DATA[selectedNovelKey]) || (window.DIFF_DATA && window.DIFF_DATA.novel_key === selectedNovelKey ? window.DIFF_DATA : null);
+      const hasExactDiff = activeDiffData && activeDiffData.chapters && Object.keys(activeDiffData.chapters).length > 0;
+      let firstEditedEp = null;
+
+      if (hasExactDiff) {
+        const diffChaps = activeDiffData.chapters;
+        const sortedEps = Object.keys(diffChaps).sort((a, b) => parseInt(a) - parseInt(b));
+        sortedEps.forEach(ep => {
+          const item = diffChaps[ep];
+          const hasBak = item.has_edit_backup || item.has_clean_backup;
+          if (hasBak && !firstEditedEp) firstEditedEp = ep;
+
+          const badge = hasBak ? " 🔥 [ĐÃ BIÊN TẬP]" : "";
+          const opt = document.createElement('option');
+          opt.value = ep;
+          opt.textContent = (item.title || `Tập ${ep}`) + badge;
+          if (hasBak) {
+            opt.style.fontWeight = "bold";
+            opt.style.color = "#4ade80";
+          }
+          chSelect.appendChild(opt);
+        });
+      } else if (chapters.length > 0) {
+        chapters.forEach(ch => {
+          const epNum = ch.number || ch.ep || parseInt((ch.id || '').replace(/\D/g, '')) || 1;
+          const opt = document.createElement('option');
+          opt.value = epNum;
+          opt.textContent = ch.title || `Tập ${epNum}`;
+          chSelect.appendChild(opt);
+        });
+      }
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const targetEp = urlParams.get('ch');
+      if (targetEp && chSelect.querySelector(`option[value="${targetEp}"]`)) {
+        chSelect.value = targetEp;
+      } else if (firstEditedEp && chSelect.querySelector(`option[value="${firstEditedEp}"]`)) {
+        chSelect.value = firstEditedEp;
+      }
+
+      if (chSelect.options.length > 0) {
+        loadSelectedChapter();
+      } else {
+        setDemoSample();
+      }
+    }
+
+    function setDemoSample() {
+      originalText = `# Tập 210: Huấn luyện\n\nMột buổi sáng mới lại đến, sau khi cả nhóm cùng nhau ăn xong bữa sáng, tôi vừa mở lời như vậy thì y như rằng, bầu không khí xung quanh lập tức chùng xuống với những tiếng thở dài ngao ngán.\n\n“Hảaa? Cái gì thế, tôi chưa từng nghe nói về chuyện này nha.”\n\n“Tại sao bọn này lại phải học từ Souma chứ?”\n\nCâu trả lời nghe đầy vẻ ngụy biện, nhưng nếu xét theo bản chất của Thiên Chức thì nó lại hoàn toàn chính xác.\n\nNếu không thể đông lạnh bảo quản bằng Vạc của ma nữ (Ma Nữ Chi Đỉnh), có lẽ thịt đã bị hỏng rồi.`;
+      
+      polishedText = `# Tập 210: Huấn luyện\n\nMột buổi sáng mới lại đến. Sau khi cả nhóm cùng nhau ăn xong bữa sáng, tôi vừa mở lời như vậy thì y như rằng, bầu không khí xung quanh lập tức chùng xuống cùng những tiếng thở dài ngao ngán.\n\n“Hả? Cái gì thế, tớ chưa từng nghe nói về chuyện này nha.”\n\n“Tại sao bọn tớ lại phải học từ Souma chứ?”\n\nCâu trả lời nghe đầy vẻ ngụy biện, nhưng nếu xét theo bản chất của 『Thiên Chức』 thì nó lại hoàn toàn chính xác.\n\nNếu không thể đông lạnh bảo quản bằng 『Vạc Của Phù Thủy』, có lẽ thịt đã bị hỏng rồi.`;
+
+      document.getElementById('textLeft').value = originalText;
+      document.getElementById('textRight').value = polishedText;
+      renderDiff();
+    }
+
+    function onChapterChange() {
+      loadSelectedChapter();
+    }
+
+    function onNovelChange() {
+      updateChaptersForSelectedNovel();
+    }
+
+    function onSourceChange() {
+      loadSelectedChapter();
+    }
+
+    function loadSelectedChapter() {
+      const ep = document.getElementById('chapterSelect').value;
+      if (!ep) return;
+
+      const sourceMode = document.getElementById('sourceSelect').value;
+      let leftTitle = "# 🔴 Văn bản gốc (Trước xử lý / backup)";
+      let rightTitle = "# 🟢 Văn bản đã hoàn thiện (Sau xử lý / translated)";
+
+      const selectedNovelKey = document.getElementById('novelSelect').value;
+      const activeDiffData = (window.ALL_DIFF_DATA && window.ALL_DIFF_DATA[selectedNovelKey]) || (window.DIFF_DATA && window.DIFF_DATA.novel_key === selectedNovelKey ? window.DIFF_DATA : null);
+      const diffChaps = (activeDiffData && activeDiffData.chapters) || window.DIFF_CHAPTERS;
+
+      if (diffChaps && diffChaps[ep]) {
+        const item = diffChaps[ep];
+        polishedText = item.polished || "";
+
+        if (sourceMode === 'bien_tap' && item.backup_bien_tap) {
+          originalText = item.backup_bien_tap;
+          leftTitle = "# 📂 🔴 BẢN GỐC (backups/truoc_bien_tap)";
+          rightTitle = "# ✨ 🟢 BẢN BIÊN TẬP AI MỚI (translated/)";
+        } else if (sourceMode === 'chuan_hoa' && item.backup_chuan_hoa) {
+          originalText = item.backup_chuan_hoa;
+          leftTitle = "# 📂 🔴 BẢN GỐC (backups/truoc_chuan_hoa)";
+          rightTitle = "# ✨ 🟢 BẢN CHUẨN HÓA (translated/)";
+        } else {
+          // Auto
+          originalText = item.backup_bien_tap || item.backup_chuan_hoa || item.original || polishedText;
+          if (item.backup_bien_tap) {
+            leftTitle = "# 📂 🔴 BẢN GỐC (backups/truoc_bien_tap)";
+            rightTitle = "# ✨ 🟢 BẢN BIÊN TẬP AI MỚI (translated/)";
+          } else if (item.backup_chuan_hoa) {
+            leftTitle = "# 📂 🔴 BẢN GỐC (backups/truoc_chuan_hoa)";
+            rightTitle = "# ✨ 🟢 BẢN CHUẨN HÓA (translated/)";
+          } else {
+            leftTitle = "# 📂 🔴 BẢN GỐC (Chưa có bản sao lưu)";
+            rightTitle = "# ✨ 🟢 BẢN DỊCH HIỆN TẠI (translated/)";
+          }
+        }
+      } else {
+        const selectedNovelKey = document.getElementById('novelSelect').value;
+        const allNovels = window.ALL_NOVELS || {};
+        const nData = allNovels[selectedNovelKey] || window.NOVEL_DATA || {};
+        const chapters = nData.chapters || [];
+        const ch = chapters.find(c => (c.number == ep || c.ep == ep || String(c.id).includes(`chuong_${ep}`)));
+        if (ch) {
+          polishedText = ch.content || "";
+          originalText = ch.original_content || polishedText;
+        }
+      }
+
+      document.getElementById('titleColLeft').textContent = leftTitle;
+      document.getElementById('titleColRight').textContent = rightTitle;
+
+      document.getElementById('textLeft').value = originalText;
+      document.getElementById('textRight').value = polishedText;
+      renderDiff();
+      document.getElementById('statusMsg').textContent = `✅ Đã nạp thành công dữ liệu đối chiếu Tập ${ep}.`;
+    }
+
+    function computeDiff(text1, text2) {
+      const lines1 = (text1 || '').split('\n');
+      const lines2 = (text2 || '').split('\n');
+
+      const rows = [];
+      let delCount = 0;
+      let insCount = 0;
+
+      let i = 0, j = 0;
+      while (i < lines1.length || j < lines2.length) {
+        const l1 = i < lines1.length ? lines1[i] : null;
+        const l2 = j < lines2.length ? lines2[j] : null;
+
+        if (l1 !== null && l2 !== null && l1 === l2) {
+          rows.push({ type: 'equal', line1: i + 1, line2: j + 1, text1: l1, text2: l2 });
+          i++; j++;
+        } else if (l1 !== null && l2 !== null && isSimilar(l1, l2)) {
+          const diffWords = diffType === 'char' ? highlightCharDiff(l1, l2) : highlightWordDiff(l1, l2);
+          rows.push({ 
+            type: 'modified', 
+            line1: i + 1, 
+            line2: j + 1, 
+            html1: diffWords.html1, 
+            html2: diffWords.html2 
+          });
+          delCount++;
+          insCount++;
+          i++; j++;
+        } else {
+          let foundMatch = false;
+          for (let look = 1; look <= 5; look++) {
+            if (i + look < lines1.length && lines1[i + look] === l2) {
+              for (let k = 0; k < look; k++) {
+                rows.push({ type: 'deleted', line1: i + 1, line2: null, text1: lines1[i], text2: '' });
+                delCount++;
+                i++;
+              }
+              foundMatch = true;
+              break;
+            } else if (j + look < lines2.length && lines2[j + look] === l1) {
+              for (let k = 0; k < look; k++) {
+                rows.push({ type: 'inserted', line1: null, line2: j + 1, text1: '', text2: lines2[j] });
+                insCount++;
+                j++;
+              }
+              foundMatch = true;
+              break;
+            }
+          }
+
+          if (!foundMatch) {
+            if (l1 !== null && l2 !== null) {
+              const diffWords = diffType === 'char' ? highlightCharDiff(l1, l2) : highlightWordDiff(l1, l2);
+              rows.push({ type: 'modified', line1: i + 1, line2: j + 1, html1: diffWords.html1, html2: diffWords.html2 });
+              delCount++; insCount++;
+              i++; j++;
+            } else if (l1 !== null) {
+              rows.push({ type: 'deleted', line1: i + 1, line2: null, text1: l1, text2: '' });
+              delCount++;
+              i++;
+            } else if (l2 !== null) {
+              rows.push({ type: 'inserted', line1: null, line2: j + 1, text1: '', text2: lines2[j] });
+              insCount++;
+              j++;
+            }
+          }
+        }
+      }
+
+      return { rows, delCount, insCount };
+    }
+
+    function isSimilar(s1, s2) {
+      if (!s1 || !s2) return false;
+      if (Math.abs(s1.length - s2.length) > Math.max(s1.length, s2.length) * 0.6) return false;
+      return true;
+    }
+
+    function highlightWordDiff(str1, str2) {
+      const w1 = (str1 || '').split(/(\s+|[.,!?:;"'“”『』()（）\[\]])/);
+      const w2 = (str2 || '').split(/(\s+|[.,!?:;"'“”『』()（）\[\]])/);
+
+      let h1 = "";
+      let h2 = "";
+
+      let i = 0, j = 0;
+      while (i < w1.length || j < w2.length) {
+        const item1 = i < w1.length ? w1[i] : null;
+        const item2 = j < w2.length ? w2[j] : null;
+
+        if (item1 === item2) {
+          if (item1) {
+            h1 += escapeHtml(item1);
+            h2 += escapeHtml(item2);
+          }
+          i++; j++;
+        } else {
+          if (item1 !== null && !w2.slice(j, j + 6).includes(item1)) {
+            h1 += `<span class="word-del">${escapeHtml(item1)}</span>`;
+            i++;
+          }
+          if (item2 !== null && !w1.slice(i, i + 6).includes(item2)) {
+            h2 += `<span class="word-ins">${escapeHtml(item2)}</span>`;
+            j++;
+          }
+          if (item1 !== null && item2 !== null && w2.slice(j, j + 6).includes(item1) && w1.slice(i, i + 6).includes(item2)) {
+            h1 += `<span class="word-del">${escapeHtml(item1)}</span>`;
+            h2 += `<span class="word-ins">${escapeHtml(item2)}</span>`;
+            i++; j++;
+          }
+        }
+      }
+
+      return { html1: h1, html2: h2 };
+    }
+
+    function highlightCharDiff(str1, str2) {
+      const c1 = Array.from(str1 || '');
+      const c2 = Array.from(str2 || '');
+
+      let h1 = "";
+      let h2 = "";
+      let i = 0, j = 0;
+
+      while (i < c1.length || j < c2.length) {
+        if (i < c1.length && j < c2.length && c1[i] === c2[j]) {
+          h1 += escapeHtml(c1[i]);
+          h2 += escapeHtml(c2[j]);
+          i++; j++;
+        } else {
+          if (i < c1.length) {
+            h1 += `<span class="word-del">${escapeHtml(c1[i])}</span>`;
+            i++;
+          }
+          if (j < c2.length) {
+            h2 += `<span class="word-ins">${escapeHtml(c2[j])}</span>`;
+            j++;
+          }
+        }
+      }
+      return { html1: h1, html2: h2 };
+    }
+
+    function escapeHtml(text) {
+      return (text || '').replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+
+    function renderDiff() {
+      const { rows, delCount, insCount } = computeDiff(originalText, polishedText);
+
+      document.getElementById('statDel').textContent = `${delCount} đoạn/từ`;
+      document.getElementById('statIns').textContent = `${insCount} đoạn/từ`;
+      
+      const totalRows = rows.length || 1;
+      const matchRate = Math.max(0, Math.min(100, 100 - ((delCount + insCount) / (totalRows * 2) * 100))).toFixed(1);
+      document.getElementById('statMatch').textContent = `${matchRate}%`;
+
+      const paneL = document.getElementById('contentLeft');
+      const paneR = document.getElementById('contentRight');
+      paneL.innerHTML = '';
+      paneR.innerHTML = '';
+
+      changeRowIndices = [];
+      currentChangeIndex = -1;
+
+      extractDiffTags(rows);
+
+      let hiddenCount = 0;
+
+      rows.forEach((r, idx) => {
+        const isChanged = r.type !== 'equal';
+        if (isChanged) {
+          changeRowIndices.push(idx);
+        }
+
+        if (isCompactMode && !isChanged) {
+          hiddenCount++;
+          return;
+        } else if (isCompactMode && isChanged && hiddenCount > 0) {
+          const foldL = document.createElement('div');
+          const foldR = document.createElement('div');
+          foldL.className = 'diff-row folded-notice';
+          foldR.className = 'diff-row folded-notice';
+          foldL.textContent = `... Đã ẩn ${hiddenCount} dòng giống nhau ...`;
+          foldR.textContent = `... Đã ẩn ${hiddenCount} dòng giống nhau ...`;
+          paneL.appendChild(foldL);
+          paneR.appendChild(foldR);
+          hiddenCount = 0;
+        }
+
+        const rowL = document.createElement('div');
+        const rowR = document.createElement('div');
+        rowL.className = 'diff-row';
+        rowR.className = 'diff-row';
+        rowL.id = `row-left-${idx}`;
+        rowR.id = `row-right-${idx}`;
+
+        if (r.type === 'equal') {
+          rowL.innerHTML = `<div class="line-num">${r.line1}</div><div class="line-content">${escapeHtml(r.text1)}</div>`;
+          rowR.innerHTML = `<div class="line-num">${r.line2}</div><div class="line-content">${escapeHtml(r.text2)}</div>`;
+        } else if (r.type === 'modified') {
+          rowL.className += ' deleted';
+          rowR.className += ' inserted';
+          rowL.innerHTML = `<div class="line-num">${r.line1}</div><div class="line-content">${r.html1}</div>`;
+          rowR.innerHTML = `<div class="line-num">${r.line2}</div><div class="line-content">${r.html2}</div>`;
+        } else if (r.type === 'deleted') {
+          rowL.className += ' deleted';
+          rowR.className += ' empty';
+          rowL.innerHTML = `<div class="line-num">${r.line1}</div><div class="line-content">${escapeHtml(r.text1)}</div>`;
+          rowR.innerHTML = `<div class="line-num"></div><div class="line-content"></div>`;
+        } else if (r.type === 'inserted') {
+          rowL.className += ' empty';
+          rowR.className += ' inserted';
+          rowL.innerHTML = `<div class="line-num"></div><div class="line-content"></div>`;
+          rowR.innerHTML = `<div class="line-num">${r.line2}</div><div class="line-content">${escapeHtml(r.text2)}</div>`;
+        }
+
+        paneL.appendChild(rowL);
+        paneR.appendChild(rowR);
+      });
+
+      updateNavCounter();
+    }
+
+    function extractDiffTags(rows) {
+      const terms = new Set();
+      rows.forEach(r => {
+        if (r.type === 'modified' || r.type === 'inserted') {
+          const text = r.html2 || r.text2 || '';
+          const matches = text.match(/『([^』]+)』/g);
+          if (matches) {
+            matches.forEach(m => terms.add(m));
+          }
+        }
+      });
+
+      const drawer = document.getElementById('tagsDrawer');
+      const list = document.getElementById('tagsList');
+      list.innerHTML = '';
+
+      if (terms.size > 0) {
+        drawer.style.display = 'flex';
+        terms.forEach(term => {
+          const btn = document.createElement('span');
+          btn.className = 'diff-tag';
+          btn.textContent = term;
+          btn.onclick = () => scrollToTerm(term);
+          list.appendChild(btn);
+        });
+      } else {
+        drawer.style.display = 'none';
+      }
+    }
+
+    function scrollToTerm(term) {
+      const paneR = document.getElementById('paneRight');
+      const cleanTerm = term.replace(/[『』]/g, '');
+      const elements = paneR.querySelectorAll('.diff-row');
+      
+      for (const el of elements) {
+        if (el.textContent.includes(cleanTerm)) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          highlightActiveRow(el);
+          break;
+        }
+      }
+    }
+
+    function navigateChange(direction) {
+      if (changeRowIndices.length === 0) return;
+
+      currentChangeIndex += direction;
+      if (currentChangeIndex >= changeRowIndices.length) {
+        currentChangeIndex = 0;
+      } else if (currentChangeIndex < 0) {
+        currentChangeIndex = changeRowIndices.length - 1;
+      }
+
+      const rowIdx = changeRowIndices[currentChangeIndex];
+      const targetL = document.getElementById(`row-left-${rowIdx}`);
+      const targetR = document.getElementById(`row-right-${rowIdx}`);
+
+      if (targetL || targetR) {
+        const el = targetR || targetL;
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        highlightActiveRow(targetL);
+        highlightActiveRow(targetR);
+      }
+
+      updateNavCounter();
+    }
+
+    function highlightActiveRow(el) {
+      if (!el) return;
+      document.querySelectorAll('.diff-row.is-active-target').forEach(r => r.classList.remove('is-active-target'));
+      el.classList.add('is-active-target');
+    }
+
+    function updateNavCounter() {
+      const total = changeRowIndices.length;
+      const cur = total > 0 && currentChangeIndex >= 0 ? currentChangeIndex + 1 : (total > 0 ? 0 : 0);
+      document.getElementById('navCounter').textContent = `Điểm: ${cur} / ${total}`;
+    }
+
+    function toggleCompactMode() {
+      isCompactMode = !isCompactMode;
+      document.getElementById('btnCompact').classList.toggle('active', isCompactMode);
+      renderDiff();
+    }
+
+    function changeFontSize(delta) {
+      currentFontSize = Math.max(0.75, Math.min(1.4, currentFontSize + (delta * 0.08)));
+      document.getElementById('paneLeft').style.fontSize = `${currentFontSize}rem`;
+      document.getElementById('paneRight').style.fontSize = `${currentFontSize}rem`;
+    }
+
+    function setupSyncScroll() {
+      const pL = document.getElementById('paneLeft');
+      const pR = document.getElementById('paneRight');
+      let isSyncingL = false;
+      let isSyncingR = false;
+
+      pL.addEventListener('scroll', () => {
+        if (!syncScroll || isSyncingL) return;
+        isSyncingR = true;
+        pR.scrollTop = pL.scrollTop;
+        setTimeout(() => isSyncingR = false, 50);
+      });
+
+      pR.addEventListener('scroll', () => {
+        if (!syncScroll || isSyncingR) return;
+        isSyncingL = true;
+        pL.scrollTop = pR.scrollTop;
+        setTimeout(() => isSyncingL = false, 50);
+      });
+    }
+
+    function toggleSyncScroll() {
+      syncScroll = document.getElementById('syncScrollCheck').checked;
+    }
+
+    function setViewMode(mode) {
+      viewMode = mode;
+      document.getElementById('btnSideBySide').classList.toggle('active', mode === 'split');
+      document.getElementById('btnInline').classList.toggle('active', mode === 'inline');
+
+      const body = document.getElementById('diffBody');
+      const header = document.getElementById('diffHeader');
+      if (mode === 'inline') {
+        body.classList.add('inline-mode');
+        header.classList.add('inline-mode');
+      } else {
+        body.classList.remove('inline-mode');
+        header.classList.remove('inline-mode');
+      }
+    }
+
+    function setDiffType(type) {
+      diffType = type;
+      document.getElementById('btnWordDiff').classList.toggle('active', type === 'word');
+      document.getElementById('btnCharDiff').classList.toggle('active', type === 'char');
+      renderDiff();
+    }
+
+    function toggleEditMode() {
+      isEditMode = !isEditMode;
+      document.getElementById('btnEditMode').classList.toggle('active', isEditMode);
+      document.getElementById('diffBody').style.display = isEditMode ? 'none' : 'grid';
+      document.getElementById('editGrid').style.display = isEditMode ? 'grid' : 'none';
+      if (!isEditMode) {
+        originalText = document.getElementById('textLeft').value;
+        polishedText = document.getElementById('textRight').value;
+        renderDiff();
+      }
+    }
+
+    function triggerCustomDiff() {
+      originalText = document.getElementById('textLeft').value;
+      polishedText = document.getElementById('textRight').value;
+    }
+
+    function copyText(side) {
+      const txt = side === 'left' ? originalText : polishedText;
+      navigator.clipboard.writeText(txt).then(() => {
+        alert(`Đã sao chép văn bản ${side === 'left' ? 'Bản gốc' : 'Bản đã chuẩn hóa'} vào clipboard!`);
+      });
+    }
+
+    function clearAll() {
+      if (confirm("Bạn có chắc chắn muốn xóa toàn bộ văn bản đang so sánh?")) {
+        originalText = "";
+        polishedText = "";
+        document.getElementById('textLeft').value = "";
+        document.getElementById('textRight').value = "";
+        renderDiff();
+      }
+    }
+
+    function swapTexts() {
+      const temp = originalText;
+      originalText = polishedText;
+      polishedText = temp;
+      document.getElementById('textLeft').value = originalText;
+      document.getElementById('textRight').value = polishedText;
+      renderDiff();
+    }
+  </script>
+</body>
+</html>

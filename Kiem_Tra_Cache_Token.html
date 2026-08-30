@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bảng Giám Sát Token, Cache & Soi Input Prompt AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-body: #0b0f19;
+      --bg-card: #111827;
+      --bg-card-header: #1a2336;
+      --border: #23304b;
+      --border-focus: #38bdf8;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-sub: #64748b;
+      
+      --accent-cyan: #38bdf8;
+      --accent-green: #22c55e;
+      --accent-amber: #f59e0b;
+      --accent-purple: #a855f7;
+      --accent-red: #ef4444;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-body);
+      color: var(--text-main);
+      line-height: 1.6;
+      min-height: 100vh;
+      padding: 30px 20px 80px;
+    }
+
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 22px;
+    }
+
+    /* Header */
+    .hero-header {
+      background: linear-gradient(180deg, #162238 0%, #101726 100%);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 30px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+    .hero-title-box h1 {
+      font-size: 1.75rem;
+      font-weight: 800;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 6px;
+    }
+    .hero-title-box p {
+      color: var(--text-muted);
+      font-size: 0.92rem;
+    }
+    .hero-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      background: #1e293b;
+      color: #f8fafc;
+      border: 1px solid var(--border);
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+    }
+    .btn:hover {
+      background: #27354f;
+      border-color: var(--accent-cyan);
+      transform: translateY(-1px);
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #0284c7 0%, #0369a1 100%) !important;
+      border-color: #38bdf8 !important;
+      color: white !important;
+    }
+
+    /* Live Sync Indicator Pill */
+    .live-sync-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(34, 197, 94, 0.12);
+      border: 1px solid rgba(34, 197, 94, 0.4);
+      color: #4ade80;
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    .pulse-dot {
+      width: 9px;
+      height: 9px;
+      background-color: #22c55e;
+      border-radius: 50%;
+      box-shadow: 0 0 10px #22c55e;
+      animation: pulse-glow 1.5s infinite;
+    }
+    @keyframes pulse-glow {
+      0% { transform: scale(0.9); opacity: 0.7; }
+      50% { transform: scale(1.3); opacity: 1; box-shadow: 0 0 14px #22c55e; }
+      100% { transform: scale(0.9); opacity: 0.7; }
+    }
+
+    /* Metrics Grid */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+    .metric-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      position: relative;
+      overflow: hidden;
+    }
+    .metric-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 3px;
+      background: #334155;
+    }
+    .metric-card.cyan::before { background: var(--accent-cyan); }
+    .metric-card.green::before { background: var(--accent-green); }
+    .metric-card.amber::before { background: var(--accent-amber); }
+    .metric-card.purple::before { background: var(--accent-purple); }
+
+    .metric-label {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .metric-value {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: #fff;
+      margin: 4px 0 2px;
+      transition: all 0.3s ease;
+    }
+    .metric-sub {
+      font-size: 0.82rem;
+      color: var(--text-sub);
+    }
+
+    /* Table Panel */
+    .table-panel {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    }
+    .panel-header {
+      padding: 16px 24px;
+      background: var(--bg-card-header);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .panel-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .search-input {
+      background: #090d16;
+      border: 1px solid var(--border);
+      color: #fff;
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      outline: none;
+      min-width: 220px;
+    }
+    .search-input:focus {
+      border-color: var(--accent-cyan);
+    }
+
+    /* Usage Table */
+    .table-responsive {
+      overflow-x: auto;
+      width: 100%;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      text-align: left;
+    }
+    th {
+      background: #0d1320;
+      color: var(--text-muted);
+      font-weight: 700;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 12px 18px;
+      border-bottom: 1px solid var(--border);
+    }
+    td {
+      padding: 14px 18px;
+      border-bottom: 1px solid #1a2438;
+      color: #cbd5e1;
+      font-family: inherit;
+    }
+    tr:hover td {
+      background: rgba(56, 189, 248, 0.03);
+    }
+    .font-mono {
+      font-family: 'JetBrains Mono', monospace;
+    }
+    
+    /* Badges */
+    .badge-cache-hit {
+      background: rgba(34, 197, 94, 0.15);
+      color: #4ade80;
+      border: 1px solid rgba(34, 197, 94, 0.4);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.78rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .badge-cache-miss {
+      background: rgba(148, 163, 184, 0.1);
+      color: #94a3b8;
+      border: 1px solid #334155;
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.78rem;
+    }
+    .model-tag {
+      background: #1e293b;
+      color: #fde047;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      border: 1px solid #334155;
+    }
+
+    /* Modal Soi Input Prompt */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(6px);
+      z-index: 9999;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-box {
+      background: #111827;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      width: 100%;
+      max-width: 960px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.6);
+    }
+    .modal-header {
+      padding: 18px 24px;
+      background: #192336;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .modal-header h3 {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #38bdf8;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .modal-close {
+      background: #1e293b;
+      color: #fff;
+      border: none;
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .modal-close:hover { background: #ef4444; }
+
+    .modal-tabs {
+      display: flex;
+      background: #0f1523;
+      border-bottom: 1px solid var(--border);
+      padding: 0 16px;
+      gap: 6px;
+    }
+    .tab-btn {
+      padding: 12px 18px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+    }
+    .tab-btn.active {
+      color: #38bdf8;
+      border-bottom-color: #38bdf8;
+      background: rgba(56, 189, 248, 0.05);
+    }
+
+    .modal-body {
+      padding: 20px 24px;
+      overflow-y: auto;
+      flex: 1;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.88rem;
+      line-height: 1.7;
+      color: #cbd5e1;
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: #080c14;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Header -->
+    <header class="hero-header">
+      <div class="hero-title-box">
+        <h1>
+          📊 Bảng Giám Sát Token, Cache & Soi Input Prompt AI
+          <span style="font-size: 0.72rem; color: #38bdf8; background: rgba(56, 189, 248, 0.12); padding: 2px 8px; border-radius: 10px; border: 1px solid rgba(56, 189, 248, 0.35); font-weight: 700; letter-spacing: 0.5px;">v3.7.2 Pro</span>
+        </h1>
+        <p>Tự động cập nhật thời gian thực Input / Output Tokens, Tỷ lệ trúng Cache RAM và Chi phí API.</p>
+      </div>
+      <div class="hero-actions">
+        <div class="live-sync-pill" id="syncStatusPill">
+          <span class="pulse-dot"></span>
+          <span id="syncStatusText">Tự động cập nhật: BẬT (2s)</span>
+        </div>
+        <button class="btn" onclick="toggleAutoSync()" id="btnToggleSync" title="Bật/Tắt tự động cập nhật ngầm">⏸ Tạm dừng</button>
+        <button class="btn btn-primary" onclick="manualSync()" title="Làm mới dữ liệu ngay lập tức">🔄 Làm Mới Ngay</button>
+        <button class="btn" onclick="openInputInspector('master')">🔍 Soi System Prompt (~90k)</button>
+        <a class="btn" href="Doc_Truyen.html">📖 Web Đọc</a>
+      </div>
+    </header>
+
+    <!-- Metrics Cards -->
+    <div class="metrics-grid">
+      <div class="metric-card cyan">
+        <div class="metric-label">📥 Tổng Input Tokens</div>
+        <div id="statTotalInput" class="metric-value">0</div>
+        <div id="statTotalRequests" class="metric-sub">0 requests thực hiện</div>
+      </div>
+      <div class="metric-card purple">
+        <div class="metric-label">📤 Tổng Output Tokens</div>
+        <div id="statTotalOutput" class="metric-value">0</div>
+        <div class="metric-sub">Văn bản đã biên tập & dịch</div>
+      </div>
+      <div class="metric-card green">
+        <div class="metric-label">⚡ Tokens Đã Đọc Từ Cache RAM</div>
+        <div id="statTotalCache" class="metric-value" style="color: #4ade80;">0</div>
+        <div id="statCacheHitRate" class="metric-sub">Tỷ lệ trúng Cache: 0%</div>
+      </div>
+      <div class="metric-card amber">
+        <div class="metric-label">💰 Tổng Chi Phí Ước Tính</div>
+        <div id="statTotalCost" class="metric-value" style="color: #fde047;">$0.000</div>
+        <div id="statSavedCost" class="metric-sub">Tiết kiệm: ~$0.00</div>
+      </div>
+    </div>
+
+    <!-- Live Requests Table -->
+    <div class="table-panel">
+      <div class="panel-header">
+        <div class="panel-title">
+          ⚡ Chi Tiết Từng Request (Thời Gian Thực)
+          <span id="lastUpdatedLabel" style="font-size: 0.8rem; font-weight: normal; color: #94a3b8; margin-left: 8px;"></span>
+        </div>
+        <input type="text" id="filterInput" class="search-input" placeholder="🔍 Tìm theo tập truyện..." oninput="filterTable()">
+      </div>
+      <div class="table-responsive">
+        <table>
+          <thead>
+            <tr>
+              <th>Thời Gian</th>
+              <th>Tập Truyện</th>
+              <th>Model</th>
+              <th>Thời Gian Sinh</th>
+              <th>Input Tokens</th>
+              <th>Output Tokens</th>
+              <th>Cache RAM Tokens</th>
+              <th>Chi Phí ($)</th>
+              <th>Thao Tác</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody">
+            <tr>
+              <td colspan="9" class="empty-state">Đang nạp dữ liệu thống kê Token & Cache...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Soi Chi Tiết Input Prompt -->
+  <div class="modal-overlay" id="promptModal" onclick="closeModal(event)">
+    <div class="modal-box" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h3 id="modalTitle">🔍 Soi Chi Tiết Nội Dung Input Token Gửi Lên Gemini</h3>
+        <button class="modal-close" onclick="closeModal()">✕</button>
+      </div>
+      <div class="modal-tabs">
+        <button class="tab-btn active" id="tabSystem" onclick="switchModalTab('system')">🏛️ 1. System Prompt & Bách Khoa Toàn Thư (~90k tokens Cache)</button>
+        <button class="tab-btn" id="tabRules" onclick="switchModalTab('rules')">📖 2. Master Style Guide (Quy Chuẩn 2.1)</button>
+        <button class="tab-btn" id="tabGlossary" onclick="switchModalTab('glossary')">⚔️ 3. Characters & Terms Canon</button>
+        <button class="tab-btn" id="tabChapter" onclick="switchModalTab('chapter')">📝 4. User Prompt (Nội Dung Chương)</button>
+      </div>
+      <div class="modal-body" id="modalBody">
+        Đang nạp nội dung...
+      </div>
+    </div>
+  </div>
+
+  <script id="usageScriptLoader" src="usage_data.js"></script>
+  <script>
+    let usageLogs = [];
+    let isAutoSyncActive = true;
+    let syncIntervalTimer = null;
+    let lastRenderedHash = "";
+    let currentChapterContext = '';
+
+    window.addEventListener('DOMContentLoaded', () => {
+      renderDashboardFromGlobalData();
+      startContinuousLiveSync();
+    });
+
+    // 1. Khởi động vòng lặp Tự Động Cập Nhật Liên Tục (Mỗi 2 giây)
+    function startContinuousLiveSync() {
+      if (syncIntervalTimer) clearInterval(syncIntervalTimer);
+      syncIntervalTimer = setInterval(() => {
+        if (isAutoSyncActive) {
+          reloadUsageDataLive();
+        }
+      }, 2000);
+    }
+
+    function toggleAutoSync() {
+      isAutoSyncActive = !isAutoSyncActive;
+      const statusPill = document.getElementById('syncStatusPill');
+      const statusText = document.getElementById('syncStatusText');
+      const btnToggle = document.getElementById('btnToggleSync');
+
+      if (isAutoSyncActive) {
+        statusPill.style.background = 'rgba(34, 197, 94, 0.12)';
+        statusPill.style.borderColor = 'rgba(34, 197, 94, 0.4)';
+        statusPill.style.color = '#4ade80';
+        statusText.textContent = 'Tự động cập nhật: BẬT (2s)';
+        btnToggle.textContent = '⏸ Tạm dừng';
+        reloadUsageDataLive();
+      } else {
+        statusPill.style.background = 'rgba(239, 68, 68, 0.12)';
+        statusPill.style.borderColor = 'rgba(239, 68, 68, 0.4)';
+        statusPill.style.color = '#f87171';
+        statusText.textContent = 'Tự động cập nhật: TẮT';
+        btnToggle.textContent = '▶ Tiếp tục';
+      }
+    }
+
+    function manualSync() {
+      reloadUsageDataLive(true);
+    }
+
+    // 2. Nạp dữ liệu mới qua song song 2 kênh: Fetch API & Dynamic Script Injection (Hỗ trợ 100% cả khi mở file://)
+    async function reloadUsageDataLive(isManual = false) {
+      const now = Date.now();
+      let updatedViaFetch = false;
+
+      try {
+        const response = await fetch(`api_usage_log.json?t=${now}`, { cache: 'no-store' });
+        if (response.ok) {
+          const freshList = await response.json();
+          if (Array.isArray(freshList)) {
+            window.USAGE_DATA = { requests: freshList };
+            updatedViaFetch = true;
+            processAndRenderData(freshList);
+          }
+        }
+      } catch (e) {
+        // file:// offline fallback
+      }
+
+      if (!updatedViaFetch) {
+        // Nạp lại thẻ script usage_data.js với cache-buster
+        const oldScript = document.getElementById('dynamicUsageScript');
+        if (oldScript) oldScript.remove();
+
+        const script = document.createElement('script');
+        script.id = 'dynamicUsageScript';
+        script.src = `usage_data.js?v=${now}`;
+        script.onload = () => {
+          if (window.USAGE_DATA && window.USAGE_DATA.requests) {
+            processAndRenderData(window.USAGE_DATA.requests);
+          }
+        };
+        document.body.appendChild(script);
+      }
+
+      const d = new Date();
+      const timeStr = d.toLocaleTimeString('vi-VN');
+      document.getElementById('lastUpdatedLabel').textContent = `(Vừa đồng bộ lúc ${timeStr})`;
+    }
+
+    function renderDashboardFromGlobalData() {
+      if (window.USAGE_DATA && window.USAGE_DATA.requests) {
+        processAndRenderData(window.USAGE_DATA.requests);
+      }
+    }
+
+    function processAndRenderData(logs) {
+      const currentHash = JSON.stringify(logs);
+      if (currentHash === lastRenderedHash) return; // Không có thay đổi mới -> không cần render lại
+      lastRenderedHash = currentHash;
+      usageLogs = logs;
+
+      let totalInput = 0;
+      let totalOutput = 0;
+      let totalCache = 0;
+      let totalCost = 0;
+      let cacheHits = 0;
+
+      logs.forEach(r => {
+        totalInput += (r.input_tokens || 0);
+        totalOutput += (r.output_tokens || 0);
+        totalCache += (r.cache_tokens || 0);
+        totalCost += (r.cost || 0);
+        if ((r.cache_tokens || 0) > 0) cacheHits++;
+      });
+
+      const hitRate = logs.length > 0 ? ((cacheHits / logs.length) * 100).toFixed(1) : 0;
+      const savedTokens = totalCache;
+      const savedDollar = (savedTokens / 1000000) * 0.075;
+
+      document.getElementById('statTotalInput').textContent = totalInput.toLocaleString();
+      document.getElementById('statTotalRequests').textContent = `${logs.length} requests đã gọi`;
+      document.getElementById('statTotalOutput').textContent = totalOutput.toLocaleString();
+      document.getElementById('statTotalCache').textContent = totalCache.toLocaleString();
+      document.getElementById('statCacheHitRate').textContent = `Tỷ lệ trúng Cache: ${hitRate}% (${cacheHits}/${logs.length} reqs)`;
+      document.getElementById('statTotalCost').textContent = `$${totalCost.toFixed(4)}`;
+      document.getElementById('statSavedCost').textContent = `Tiết kiệm ~${(savedDollar * 25400).toLocaleString('vi-VN')} đ ($${savedDollar.toFixed(3)})`;
+
+      renderTableRows(logs);
+    }
+
+    function renderTableRows(logs) {
+      const tbody = document.getElementById('tableBody');
+      if (!logs || logs.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="9" class="empty-state">
+              <h3>Chưa có dữ liệu Request nào được ghi nhận</h3>
+              <p>Mỗi khi bạn chạy Biên Tập AI hoặc Dịch Truyện, các thông số Token và Cache sẽ tự động cập nhật thời gian thực tại đây.</p>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      let html = '';
+      logs.forEach(r => {
+        const hasCache = (r.cache_tokens || 0) > 0;
+        const cacheBadge = hasCache 
+          ? `<span class="badge-cache-hit">⚡ Cache Read: ${r.cache_tokens.toLocaleString()}</span>`
+          : `<span class="badge-cache-miss">Cache: 0</span>`;
+
+        html += `
+          <tr data-search="${(r.chapter_title || '').toLowerCase()} tap ${r.chapter_ep || ''}">
+            <td class="font-mono" style="font-size: 0.82rem; color: #94a3b8;">${r.timestamp || '--'}</td>
+            <td style="font-weight: 700; color: #38bdf8;">${r.chapter_title || `Tập ${r.chapter_ep || '--'}`}</td>
+            <td><span class="model-tag">${r.model || 'gemini-3.7-flash'}</span></td>
+            <td class="font-mono" style="color: #cbd5e1;">⏱️ ${r.elapsed_sec ? r.elapsed_sec + 's' : '--'}</td>
+            <td class="font-mono" style="color: #60a5fa;">📥 ${(r.input_tokens || 0).toLocaleString()}</td>
+            <td class="font-mono" style="color: #c084fc;">📤 ${(r.output_tokens || 0).toLocaleString()}</td>
+            <td>${cacheBadge}</td>
+            <td class="font-mono" style="font-weight: 700; color: #fde047;">$${(r.cost || 0).toFixed(4)}</td>
+            <td>
+              <button class="btn" style="padding: 3px 8px; font-size: 0.78rem; border-color: #38bdf8; color: #38bdf8;" onclick="openInputInspector('${r.chapter_ep || ''}', '${r.chapter_title || ''}')">🔍 Soi Prompt</button>
+            </td>
+          </tr>
+        `;
+      });
+
+      tbody.innerHTML = html;
+      filterTable();
+    }
+
+    function filterTable() {
+      const q = document.getElementById('filterInput').value.trim().toLowerCase();
+      const rows = document.querySelectorAll('#tableBody tr');
+      rows.forEach(tr => {
+        const text = tr.innerText.toLowerCase();
+        if (!q || text.includes(q)) {
+          tr.style.display = '';
+        } else {
+          tr.style.display = 'none';
+        }
+      });
+    }
+
+    // Modal Controller
+    function openInputInspector(ep, title) {
+      document.getElementById('promptModal').style.display = 'flex';
+      currentChapterContext = title || `Tập ${ep}`;
+      document.getElementById('modalTitle').textContent = `🔍 Soi Chi Tiết Input Token (${currentChapterContext})`;
+      switchModalTab('system');
+    }
+
+    function closeModal() {
+      document.getElementById('promptModal').style.display = 'none';
+    }
+
+    function switchModalTab(tab) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      if (tab === 'system') document.getElementById('tabSystem').classList.add('active');
+      if (tab === 'rules') document.getElementById('tabRules').classList.add('active');
+      if (tab === 'glossary') document.getElementById('tabGlossary').classList.add('active');
+      if (tab === 'chapter') document.getElementById('tabChapter').classList.add('active');
+
+      const body = document.getElementById('modalBody');
+
+      if (tab === 'system') {
+        body.textContent = `=== BẢN TỔNG QUAN SYSTEM PROMPT NẠP VÀO RAM CACHE CỦA GOOGLE (~90.000 - 110.000 TOKENS) ===
+
+[1. VAI TRÒ & NHIỆM VỤ]
+Bạn là Chuyên gia Dịch thuật & Biên tập viên Cao cấp chuyên chuẩn hóa Light Novel tiếng Nhật sang tiếng Việt.
+
+[2. BỘ QUY CHUẨN DỊCH & BIÊN TẬP MASTER RULESET V2.1]
+• Ưu tiên tối cao: Ý nghĩa & dữ kiện nguyên tác > Tính cách & giọng nhân vật > Ngữ cảnh quan hệ > Glossary Canon > Ngữ pháp tiếng Việt.
+• Tuyệt đối không tự ý phóng tác, thêm bớt tình tiết.
+• Chuẩn hóa toàn bộ chiêu thức, ma pháp, vũ khí bằng cặp ngoặc 『...』.
+
+[3. DANH BẠ NHÂN VẬT (CHARACTERS CANON - characters.md)]
+• Souma Yuuto (Dũng giả / Chú thuật sư)
+• Rerite (Bán tinh linh hệ hỏa)
+• Kenzaki, Shimokawa, Takanashi, Mei-chan...
+
+[4. THUẬT NGỮ & MA PHÁP (TERMS CANON - terms.md)]
+• 『Nguyên Tố Ma Thuật』 (Thay cho ma pháp)
+• 『Rồng Đỏ Lông Vũ Crimson Rex』
+• 『Yamata no Orochi』, 『Đô Thị Cổ Đại Albion』...
+
+[5. DÒNG THỜI GIAN SỰ KIỆN (EVENTS TIMELINE - events.md)]
+• Cuộc thảo phạt Yokomichi
+• Chiến dịch tiêu diệt Yamata no Orochi...
+
+===> Toàn bộ khối văn bản khổng lồ trên được đóng băng gửi lên Gemini 3.7 và được Google nạp trực tiếp vào RAM (Cache Read: ~90.286 tokens)!`;
+      } else if (tab === 'rules') {
+        body.textContent = `# 📖 MASTER RULESET — QUY CHUẨN DỊCH & BIÊN TẬP LIGHT NOVEL ĐA THỂ LOẠI (MASTER_STYLE_GUIDE.md)
+
+## I. THỨ TỰ ƯU TIÊN TỐI CAO
+1. Ý nghĩa & dữ kiện nguyên tác
+2. Tính cách, ý đồ & giọng nói nhân vật
+3. Ngữ cảnh và diễn biến quan hệ hiện tại
+4. Glossary / Canon đã xác lập
+5. Ngữ pháp tiếng Việt chuẩn
+6. Văn phong tự nhiên, mượt mà
+7. Trang trí câu chữ
+
+> Hay nhưng sai nghĩa → CẤM.
+> Tự nhiên nhưng đổi tính cách → CẤM.
+> Đẹp văn nhưng tự bịa → CẤM.
+
+## II. TRUNG THÀNH NGUYÊN TÁC
+• Bảo toàn tối đa và chính xác ý nghĩa, thông tin, dữ kiện, sắc thái và ý đồ của nguyên tác.
+• Không tự ý thêm, bớt, phóng tác hoặc suy diễn.
+• Chuẩn hóa dấu câu, ngắt đoạn, không dùng từ ngữ tối nghĩa / Convert thô.`;
+      } else if (tab === 'glossary') {
+        body.textContent = `=== BÁCH KHOA TOÀN THƯ GLOSSARY CANON (glossary/characters.md & terms.md) ===
+
+| STT | Tên Nhân Vật / Danh Xưng | Vai Trò & Tính Cách | Quan Hệ & Xưng Hô Chuẩn |
+| :-- | :----------------------- | :------------------ | :----------------------- |
+| 1   | Souma Yuuto              | Nhân vật chính      | Tôi - Cậu / Ngươi / Cậu ấy |
+| 2   | Rerite                   | Bán tinh linh lửa   | Em / Rerite - Anh / Ngài   |
+| 3   | Kenzaki                  | Lớp trưởng          | Cậu / Kenzaki - Tôi        |
+
+| STT | Tên Thuật Ngữ / Kỹ Năng  | Nguồn Gốc           | Dạng Chuẩn Hóa Bắt Buộc |
+| :-- | :----------------------- | :------------------ | :----------------------- |
+| 1   | Hỏa Ma Thuật             | Ma pháp lửa         | 『Hỏa Ma Thuật』         |
+| 2   | Crimson Rex              | Quái vật rồng đỏ    | 『Rồng Đỏ Lông Vũ Crimson Rex』 |
+| 3   | Yamata no Orochi         | Thần thoại rắn 8 đầu| 『Yamata no Orochi』     |`;
+      } else if (tab === 'chapter') {
+        body.textContent = `=== USER PROMPT (NỘI DUNG CHƯƠNG GỬI LÊN AI - ~5.000 - 15.000 TOKENS) ===
+
+Dưới đây là nội dung chương ${currentChapterContext} cần biên tập lại chuẩn chỉ 100%:
+
+[Nội dung văn bản chương truyện được trích xuất từ translated/chuong_XXX.md]
+• Đoạn mở đầu...
+• Các đoạn hội thoại của nhân vật...
+• Miêu tả cảnh chiến đấu và chiêu thức...
+• Đoạn kết chương...`;
+      }
+    }
+  </script>
+</body>
+</html>
