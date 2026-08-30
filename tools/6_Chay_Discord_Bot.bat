@@ -4,11 +4,23 @@ title NOVEL AI — DISCORD BOT STUDIO V3.0
 color 0b
 cls
 
+:: Tự động nhận diện đường dẫn chạy từ root hay từ tools/
+if exist "%~dp0discord_novel_bot.py" (
+    set "BOT_SCRIPT=%~dp0discord_novel_bot.py"
+    set "BOT_CONFIG=%~dp0discord_bot_config.json"
+) else (
+    set "BOT_SCRIPT=%~dp0tools\discord_novel_bot.py"
+    set "BOT_CONFIG=%~dp0tools\discord_bot_config.json"
+)
+
+:menu
+cls
 echo ===============================================================================
 echo      🤖 NOVEL AI DISCORD STUDIO — TRẠM RADIO & THƯ VIỆN TRUYỆN DISCORD V3.0
 echo ===============================================================================
 echo.
 echo   • Kết nối Discord Server, phát Radio Audio TTS và đọc truyện qua Slash Commands
+echo   • Vị trí Bot Script: %BOT_SCRIPT%
 echo.
 echo -------------------------------------------------------------------------------
 echo [1] 🚀 Khởi Chạy Discord Bot Ngay
@@ -33,9 +45,9 @@ echo   🚀 ĐANG KHỞI CHẠY DISCORD BOT NOVEL AI...
 echo   (Nhấn Ctrl + C để dừng Bot)
 echo ===============================================================================
 echo.
-python "%~dp0tools\discord_novel_bot.py"
+python "%BOT_SCRIPT%"
 pause
-exit /b
+goto menu
 
 :config_bot
 cls
@@ -43,8 +55,8 @@ echo ===========================================================================
 echo   ⚙️ CẤU HÌNH DISCORD BOT TOKEN
 echo ===============================================================================
 echo.
-notepad "%~dp0tools\discord_bot_config.json"
-exit /b
+notepad "%BOT_CONFIG%"
+goto menu
 
 :install_deps
 cls
@@ -56,4 +68,4 @@ python -m pip install "discord.py[voice]" edge-tts PyNaCl imageio-ffmpeg
 echo.
 echo ✅ Cài đặt hoàn tất!
 pause
-exit /b
+goto menu
