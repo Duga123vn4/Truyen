@@ -3,11 +3,12 @@ sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 import os
 import re
 import json
-import shutil
 from pathlib import Path
 
-novel_root = Path(r"d:\Novel")
+tools_dir = Path(__file__).resolve().parent
+novel_root = tools_dir.parent
 projects_dir = novel_root / "projects"
+web_dir = novel_root / "web"
 
 def parse_characters(chars_file):
     if not chars_file.exists(): return []
@@ -135,7 +136,6 @@ def parse_locations(loc_file, novel_key):
 
 def build_all():
     novel_dirs = [d for d in projects_dir.iterdir() if d.is_dir() and not d.name.startswith(".")]
-    
     all_graphs = {}
     all_maps = {}
 
@@ -166,24 +166,9 @@ def build_all():
     graph_js = f"window.GRAPH_DATA = {json.dumps(all_graphs, ensure_ascii=False, indent=2)};\n"
     map_js = f"window.MAP_DATA = {json.dumps(all_maps, ensure_ascii=False, indent=2)};\n"
 
-    for root in [novel_root, Path(r"d:\Novel_Sandbox")]:
-        (root / "web" / "graph_data.js").write_text(graph_js, encoding="utf-8")
-        (root / "graph_data.js").write_text(graph_js, encoding="utf-8")
-        
-        (root / "web" / "map_data.js").write_text(map_js, encoding="utf-8")
-        (root / "map_data.js").write_text(map_js, encoding="utf-8")
-        
-        for h in ["Ban_Do_The_Gioi.html", "So_Do_Quan_He.html", "So_Sanh_Diff.html", "Bao_Cao_Chuan_Hoa.html", "Kiem_Tra_Cache_Token.html"]:
-            src = root / "web" / h
-            if src.exists():
-                (root / h).write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
-
-    # Lưu tool build_map_and_graph.py vào tools/
-    script_content = Path(__file__).read_text(encoding="utf-8")
-    (novel_root / "tools" / "build_map_and_graph.py").write_text(script_content, encoding="utf-8")
-    (Path(r"d:\Novel_Sandbox") / "tools" / "build_map_and_graph.py").write_text(script_content, encoding="utf-8")
-
-    print(f"🎉 Đã tự động cập nhật map_data.js và graph_data.js cho {len(novel_dirs)} bộ truyện!")
+    (web_dir / "graph_data.js").write_text(graph_js, encoding="utf-8")
+    (web_dir / "map_data.js").write_text(map_js, encoding="utf-8")
+    print(f"🎉 Đã tự động cập nhật web/map_data.js và web/graph_data.js cho {len(novel_dirs)} bộ truyện!")
 
 if __name__ == "__main__":
     build_all()

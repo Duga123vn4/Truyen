@@ -78,155 +78,90 @@ $bt = [char]96
 [void]$sb.AppendLine("window.ALL_NOVELS = {")
 
 $novelCount = 0
-
-foreach ($nDir in $novelDirs) {
-    $nName = $nDir.Name
-    $transDir = Join-Path $nDir.FullName "translated"
-    $galleryPath = Join-Path $nDir.FullName "gallery.json"
-    
-    $nTitle = $nName.Replace("_", " ")
-    $nOrigTitle = "Light Novel Reader"
-    
-    if ($nName -eq "Chu_Thuat_Su_Dung_Gia") {
-        $nTitle = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("Q2jDuiB0aHXhuq10IHPGsCBraMO0bmcgdGjhu4MgdHLhu58gdGjDoG5oIETFqW5nIEdp4bqj"))
-        $nOrigTitle = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String("5Ziq6KGT5bir44Gv5YuH6ICF44Gr44Gq44KM44Gq44GEIC0gSnVqdXRzdXNoaSB3YSBZdXVzaGEgbmkgTmFyZW5haQ=="))
+foreach ($dir in $novelDirs) {
+    $nKey = $dir.Name
+    $nTitle = $dir.Name.Replace("_", " ")
+    $metaFile = Join-Path $dir.FullName "meta.json"
+    if (Test-Path $metaFile) {
+        try {
+            $meta = Get-Content $metaFile -Raw -Encoding UTF8 | ConvertFrom-Json
+            if ($meta.title) { $nTitle = $meta.title }
+        } catch {}
     }
 
-    $chapters = [System.Collections.Generic.List[PSCustomObject]]::new()
+    [void]$sb.AppendLine("    " + $q + $nKey + $q + ": {")
+    [void]$sb.AppendLine("        " + $q + "title" + $q + ": " + $q + $nTitle.Replace($q, "" + $q) + $q + ",")
+    [void]$sb.AppendLine("        " + $q + "chapters" + $q + ": [")
+
+    $transDir = Join-Path $dir.FullName "translated"
     if (Test-Path $transDir) {
-        $allFiles = Get-ChildItem -Path $transDir | Where-Object {
-            $_.Name -match '\.(md|docx|txt)$' -and 
-            -not $_.Name.Equals('README.md', [System.StringComparison]::OrdinalIgnoreCase) -and 
-            -not $_.Name.StartsWith('~$')
-        }
-        
-        $fileMap = @{}
-        foreach ($f in $allFiles) {
-            $baseKey = $f.BaseName
-            if (-not $fileMap.ContainsKey($baseKey) -or $f.Extension -eq '.md') {
-                $fileMap[$baseKey] = $f
-            }
+        $files = Get-ChildItem -Path $transDir -File | Where-Object { $_.Extension -match "\.(md|txt|docx)$" -and $_.Name -ne "README.md" }
+        $sortedFiles = $files | Sort-Object {
+            if ($_.BaseName -match "(\d+)") { [int]$Matches[1] } else { 0 }
         }
 
-        foreach ($f in $fileMap.Values) {
-            $rawContent = Get-FileTextContent $f.FullName
-            if ([string]::IsNullOrWhiteSpace($rawContent)) { continue }
-
-            $num = 0
-            if ($f.Name -match '^chuong_(\d+)') {
-                $num = [int]$matches[1]
+        $cCount = 0
+        foreach ($file in $sortedFiles) {
+            $title = $file.BaseName
+            $ep = 0
+            if ($title -match "(\d+)") {
+                $ep = [int]$Matches[1]
             }
 
-            $id = "chuong_$num"
-            $title = "Tap $num"
-            if ($rawContent -match '(?m)^#\s+(.*?)(?:\r?\n|$)') {
-                $title = $matches[1].Trim()
-            }
+            $content = Get-FileTextContent $file.FullName
+            $content = $content.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
 
-            $volume = "Tap 1"
-            if ($rawContent -match '(?:\*\*Thuoc:\*\*|Thuoc:|\*\*Thuộc:\*\*|Thuộc:)\s*(.*?)(?:\r?\n|$)') {
-                $volume = $matches[1].Trim()
-            }
-
-            $storyBody = ""
-            $parts = $rawContent -split '(?m)^---\s*$', 2
-            if ($parts.Length -gt 1) {
-                $storyBody = $parts[1].Trim()
+            [void]$sb.AppendLine("            {")
+            [void]$sb.AppendLine("                " + $q + "ep" + $q + ": " + $ep + ",")
+            [void]$sb.AppendLine("                " + $q + "title" + $q + ": " + $q + $title.Replace($q, "" + $q) + $q + ",")
+            [void]$sb.AppendLine("                " + $q + "content" + $q + ": " + $bt + $content + $bt)
+            
+            $cCount++
+            if ($cCount -lt $sortedFiles.Count) {
+                [void]$sb.AppendLine("            },")
             } else {
-                $lines = $rawContent -split '\r?\n'
-                if ($lines.Length -gt 1 -and ($lines[0].Trim() -eq $title -or $lines[0].StartsWith('#'))) {
-                    $storyBody = ($lines[1..($lines.Length - 1)] -join "`r`n").Trim()
-                } else {
-                    $storyBody = $rawContent.Trim()
-                }
+                [void]$sb.AppendLine("            }")
             }
-
-            $escapedBody = $storyBody.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
-
-            $chObj = [PSCustomObject]@{
-                id = $id
-                number = $num
-                title = $title
-                volume = $volume
-                path = "../$nName/translated/$($f.Name)"
-                content = $escapedBody
-            }
-            $chapters.Add($chObj)
         }
-
-        $chapters.Sort({
-            param($a, $b)
-            if ($a.number -ne $b.number) { return $a.number.CompareTo($b.number) }
-            return $a.title.CompareTo($b.title)
-        })
     }
 
     $galleryJson = "[]"
-    if (Test-Path $galleryPath) {
+    $galleryFile = Join-Path $dir.FullName "gallery.json"
+    if (Test-Path $galleryFile) {
         try {
-            $galleryJson = [System.IO.File]::ReadAllText($galleryPath, [System.Text.Encoding]::UTF8).Trim()
-            if ([string]::IsNullOrWhiteSpace($galleryJson)) { $galleryJson = "[]" }
+            $galleryJson = Get-Content $galleryFile -Raw -Encoding UTF8
+            if (-not $galleryJson.Trim()) { $galleryJson = "[]" }
         } catch {
             $galleryJson = "[]"
         }
     }
 
-    $escNName = $nName.Replace('\', '\\').Replace('"', '\"')
-    $escNTitle = $nTitle.Replace('\', '\\').Replace('"', '\"')
-    $escNOrigTitle = $nOrigTitle.Replace('\', '\\').Replace('"', '\"')
-
-    [void]$sb.AppendLine("    " + $q + $escNName + $q + ": {")
-    [void]$sb.AppendLine("        " + $q + "id" + $q + ": " + $q + $escNName + $q + ",")
-    [void]$sb.AppendLine("        " + $q + "title" + $q + ": " + $q + $escNTitle + $q + ",")
-    [void]$sb.AppendLine("        " + $q + "originalTitle" + $q + ": " + $q + $escNOrigTitle + $q + ",")
-    [void]$sb.AppendLine("        " + $q + "chapters" + $q + ": [")
-
-    for ($i = 0; $i -lt $chapters.Count; $i++) {
-        $c = $chapters[$i]
-        $escId = $c.id.Replace('\', '\\').Replace('"', '\"')
-        $escTitle = $c.title.Replace('\', '\\').Replace('"', '\"')
-        $escVolume = $c.volume.Replace('\', '\\').Replace('"', '\"')
-        $escPath = $c.path.Replace('\', '\\').Replace('"', '\"')
-
-        [void]$sb.AppendLine("            {")
-        [void]$sb.AppendLine("                " + $q + "id" + $q + ": " + $q + $escId + $q + ",")
-        [void]$sb.AppendLine("                " + $q + "number" + $q + ": " + $c.number + ",")
-        [void]$sb.AppendLine("                " + $q + "title" + $q + ": " + $q + $escTitle + $q + ",")
-        [void]$sb.AppendLine("                " + $q + "volume" + $q + ": " + $q + $escVolume + $q + ",")
-        [void]$sb.AppendLine("                " + $q + "path" + $q + ": " + $q + $escPath + $q + ",")
-        [void]$sb.AppendLine("                " + $q + "content" + $q + ": " + $bt + $c.content + $bt)
-        if ($i -lt ($chapters.Count - 1)) {
-            [void]$sb.AppendLine("            },")
-        } else {
-            [void]$sb.AppendLine("            }")
-        }
-    }
+    $glossaryDir = Join-Path $dir.FullName "glossary"
+    $termsPath = Join-Path $glossaryDir "terms.md"
+    $charsPath = Join-Path $glossaryDir "characters.md"
+    $eventsPath = Join-Path $glossaryDir "events.md"
+    $stylePath = Join-Path $dir.FullName "style_guide.md"
 
     $glossaryTerms = ""
     $glossaryChars = ""
     $glossaryEvents = ""
     $styleGuide = ""
 
-    $termsPath = Join-Path $nDir.FullName "glossary\terms.md"
-    $charsPath = Join-Path $nDir.FullName "glossary\characters.md"
-    $eventsPath = Join-Path $nDir.FullName "glossary\events.md"
-    $stylePath = Join-Path $nDir.FullName "style_guide.md"
-
     if (Test-Path $termsPath) {
         $glossaryTerms = [System.IO.File]::ReadAllText($termsPath, [System.Text.Encoding]::UTF8)
-        $glossaryTerms = $glossaryTerms.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryTerms = $glossaryTerms.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $charsPath) {
         $glossaryChars = [System.IO.File]::ReadAllText($charsPath, [System.Text.Encoding]::UTF8)
-        $glossaryChars = $glossaryChars.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryChars = $glossaryChars.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $eventsPath) {
         $glossaryEvents = [System.IO.File]::ReadAllText($eventsPath, [System.Text.Encoding]::UTF8)
-        $glossaryEvents = $glossaryEvents.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $glossaryEvents = $glossaryEvents.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
     if (Test-Path $stylePath) {
         $styleGuide = [System.IO.File]::ReadAllText($stylePath, [System.Text.Encoding]::UTF8)
-        $styleGuide = $styleGuide.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+        $styleGuide = $styleGuide.Replace('', '\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
     }
 
     [void]$sb.AppendLine("        ],")
@@ -257,7 +192,6 @@ $sanitizedCfgJson = "{}"
 if (Test-Path $cfgPath) {
     try {
         $cfgObj = Get-Content $cfgPath -Raw -Encoding UTF8 | ConvertFrom-Json
-        # Xóa bỏ hoàn toàn API key nhạy cảm để bảo mật tuyệt đối khi push GitHub
         if ($cfgObj.PSObject.Properties['gemini_api_key']) { $cfgObj.gemini_api_key = "" }
         if ($cfgObj.PSObject.Properties['relay_api_key']) { $cfgObj.relay_api_key = "" }
         if ($cfgObj.PSObject.Properties['api_key']) { $cfgObj.api_key = "" }
@@ -268,10 +202,7 @@ if (Test-Path $cfgPath) {
 }
 [void]$sb.AppendLine("window.APP_CONFIG = " + $sanitizedCfgJson + ";")
 
-$rootChaptersPath = Join-Path $rootDir "chapters.js"
-$rootIndexPath = Join-Path $rootDir "index.html"
 [System.IO.File]::WriteAllText($outputFile, $sb.ToString(), [System.Text.Encoding]::UTF8)
-[System.IO.File]::WriteAllText($rootChaptersPath, $sb.ToString(), [System.Text.Encoding]::UTF8)
 
 $docTruyenPath = Join-Path $webDir "Doc_Truyen.html"
 $indexPath = Join-Path $webDir "index.html"
@@ -280,7 +211,6 @@ if (Test-Path $docTruyenPath) {
     $htmlContent = $htmlContent -replace 'src="chapters\.js(?:\?v=[^"]+)?"', 'src="chapters.js"'
     [System.IO.File]::WriteAllText($indexPath, $htmlContent, [System.Text.Encoding]::UTF8)
     [System.IO.File]::WriteAllText($docTruyenPath, $htmlContent, [System.Text.Encoding]::UTF8)
-    [System.IO.File]::WriteAllText($rootIndexPath, $htmlContent, [System.Text.Encoding]::UTF8)
 }
 
 $buildMapPy = Join-Path $toolsDir "build_map_and_graph.py"
@@ -290,4 +220,4 @@ if (Test-Path $buildMapPy) {
     } catch {}
 }
 
-Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao $outputFile, map_data.js va graph_data.js (Active: $($activeDir.Name))." -ForegroundColor Green
+Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao web/chapters.js (Active: $($activeDir.Name))." -ForegroundColor Green

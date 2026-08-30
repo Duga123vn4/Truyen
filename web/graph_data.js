@@ -498,8 +498,8 @@ window.GRAPH_DATA = {
     ],
     "edges": [],
     "factions": [
-      "Nhân vật chính",
-      "Khác"
+      "Khác",
+      "Nhân vật chính"
     ]
   },
   "Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy": {
@@ -771,8 +771,8 @@ window.GRAPH_DATA = {
     ],
     "edges": [],
     "factions": [
-      "Nhân vật chính",
-      "Khác"
+      "Khác",
+      "Nhân vật chính"
     ]
   }
 };
