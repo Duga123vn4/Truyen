@@ -17834,7 +17834,7 @@ Ngay khi vừa đặt chân đến khu vực lòng chảo của Yamata no Orochi
 
 Hệ thống chiến hào bao quanh khu vực lòng chảo cùng các công sự kiên cố về cơ bản đã hoàn thành.
 
-Chiến trường vốn dĩ vô cùng rộng lớn, nên việc tạo ra một vòng chiến hào khép kín đòi hỏi sự hỗ trợ rất lớn từ Thổ ma pháp của Randou-san.
+Chiến trường vốn dĩ vô cùng rộng lớn, nên việc tạo ra một vòng chiến hào khép kín đòi hỏi sự hỗ trợ rất lớn từ Thổ ma thuật của Randou-san.
 
 “Trước tiên, mọi người hãy vào bên trong công sự chỉ huy đã.”
 
@@ -21609,7 +21609,7 @@ Người lên tiếng bảo chứng cho hiệu quả của nó chính là Randou
 
 Ma pháp trận này cũng đã được chúng tôi thử nghiệm và tinh chỉnh rất nhiều lần trong suốt quá trình diễn tập xây dựng boongke và đào chiến hào.
 
-Thiết kế cốt lõi của ma pháp trận được mô phỏng theo trận pháp màu cam rực sáng như tia lửa đầu nòng mỗi khi Randou bắn Thổ ma pháp từ khẩu súng lục ổ quay của mình.
+Thiết kế cốt lõi của ma pháp trận được mô phỏng theo trận pháp màu cam rực sáng như tia lửa đầu nòng mỗi khi Randou bắn Thổ ma thuật từ khẩu súng lục ổ quay của mình.
 
 Tôi đã dùng điện thoại chụp lại khoảnh khắc ấy rồi vẽ lại y hệt từng đường nét hoa văn.
 
@@ -21621,9 +21621,9 @@ Sau đó, tôi sao chép ma pháp trận hệ Thổ đó, rồi lồng ghép th�
 
 Ma pháp được sử dụng ở đây là 『Nham Thạch Đại Khiên』, một ma pháp phòng ngự trung cấp.
 
-Trong suốt quá trình đào hào và đắp boongke, đây là Thổ ma pháp vận hành hiệu quả nhất và có tần suất sử dụng vượt trội nhất trong mọi hạng mục công trình. Dạo gần đây, độ thuần thục của Randou đối với ma pháp này cũng tăng lên vùn vụt.
+Trong suốt quá trình đào hào và đắp boongke, đây là Thổ ma thuật vận hành hiệu quả nhất và có tần suất sử dụng vượt trội nhất trong mọi hạng mục công trình. Dạo gần đây, độ thuần thục của Randou đối với ma pháp này cũng tăng lên vùn vụt.
 
-Bằng cách sử dụng Thổ ma pháp quen tay nhất kết hợp với sự hỗ trợ từ ma pháp trận, hiệu suất đào sâu xuống lòng đất sẽ được tối ưu hóa đến mức tối đa.
+Bằng cách sử dụng Thổ ma thuật quen tay nhất kết hợp với sự hỗ trợ từ ma pháp trận, hiệu suất đào sâu xuống lòng đất sẽ được tối ưu hóa đến mức tối đa.
 
 Việc còn lại chỉ là xem cần bao nhiêu phát bắn để chạm tới lớp vỏ ngoài của Yamata no Orochi mà thôi.
 
@@ -21643,7 +21643,7 @@ Nghe tiếng gọi của Shimokawa, tôi đảo mắt nhìn quanh một lượt.
 
 Trên bốn bức tường xung quanh và ngay chính giữa trần nhà, những cuộn giấy da tương tự cũng đã được dán kín.
 
-Tuy nhiên, đây không phải là Thổ ma pháp trận, mà là 『Nhãn Lục Mang Tinh』 quen thuộc của tôi.
+Tuy nhiên, đây không phải là Thổ ma thuật trận, mà là 『Nhãn Lục Mang Tinh』 quen thuộc của tôi.
 
 “Hỡi dòng nước đỏ úa tàn và nhơ bẩn, hãy tụ hội nơi đáy sâu—『Đầm Lầy Thối Rữa』.”
 
@@ -21829,7 +21829,7 @@ Và người có thể khỏa lấp khuyết điểm đó chính là Haruma, nh�
 
 Cậu tra thanh Ngân Thiết Kiếm vào bao, rồi rút ra một thanh ma pháp kiếm khác.
 
-『Hắc Thiết Hoàn』: Thanh kiếm do Takanashi rèn đúc, sử dụng cùng loại nguyên liệu với 『Phong Ấn Thương - Hắc Kim』. Lưỡi kiếm đen tuyền này tuy có phần đầm tay và nặng nề, nhưng Thổ ma pháp kích hoạt từ nó lại mạnh đến mức có thể hóa sắt.
+『Hắc Thiết Hoàn』: Thanh kiếm do Takanashi rèn đúc, sử dụng cùng loại nguyên liệu với 『Phong Ấn Thương - Hắc Kim』. Lưỡi kiếm đen tuyền này tuy có phần đầm tay và nặng nề, nhưng Thổ ma thuật kích hoạt từ nó lại mạnh đến mức có thể hóa sắt.
 
 “Haaaaaa—『Nham Pháo』!”
 
@@ -21837,7 +21837,7 @@ Cậu không bắn ma pháp tấn công hệ Thổ này như một đòn tầm x
 
 Bằng cách tiêu tốn lượng ma lực gấp đôi so với 『Nham Pháo』 bình thường, những mảnh đá bắn ra lập tức hóa thành sắt đen rắn rỏi.
 
-Và trên thân 『Phong Ấn Thương - Hắc Kim』 có khắc một hiệu ứng bổ trợ: nếu có Thổ ma pháp cùng chất liệu sắt đen xuất hiện ở cự ly gần, nó sẽ tự động hấp thụ để tự phục hồi và gia cố bản thân.
+Và trên thân 『Phong Ấn Thương - Hắc Kim』 có khắc một hiệu ứng bổ trợ: nếu có Thổ ma thuật cùng chất liệu sắt đen xuất hiện ở cự ly gần, nó sẽ tự động hấp thụ để tự phục hồi và gia cố bản thân.
 
 Hiệu ứng hấp thụ này là một đặc tính vô cùng tinh vi mà Kotori không tài nào tự mình khắc nổi, nó chỉ có thể thành hình nhờ vào quyền năng luyện kim của Ryuuichi. Đây chính là tính năng độc nhất được tích hợp sau khi Kotarou liên tục mè nheo, thuyết phục Ryuuichi rằng đây là thứ bắt buộc phải có bằng mọi giá.
 
@@ -22673,7 +22673,7 @@ Vậy thì một Dũng Giả như cậu làm sao có thể chấp nhận đầu 
 
 “Này Yuuto, đừng có đứng đực mặt ra thế chứ! Bữa tiệc giờ mới thực sự bắt đầu cơ mà. Đây chính là thời khắc quyết định đấy!”
 
-Vừa dùng Hỏa ma pháp hất văng cái đầu Orochi đang nhe nanh múa vuốt, Ryuuichi vừa hét lớn để xốc lại tinh thần cho người bạn thân đang đứng chôn chân.
+Vừa dùng Hỏa ma thuật hất văng cái đầu Orochi đang nhe nanh múa vuốt, Ryuuichi vừa hét lớn để xốc lại tinh thần cho người bạn thân đang đứng chôn chân.
 
 “Ừ, tớ biết rồi, Ryuuichi! Mọi người nghe đây, chỉ còn một chút nữa là phá hủy được lõi bản thể thôi! Dù đối thủ có là cả tám cái đầu đi chăng nữa, chúng ta cũng phải cắn răng chịu đựng đến cùng!”
 
@@ -28695,9 +28695,9 @@ Tiên phong là Rem và Kinako, bọc lót ở giữa là Hayama, chốt chặn 
 
 Trụ cột vững chắc nhất của tổ đội này không ai khác ngoài Kyouko.
 
-Khi thiếu vắng cả Mei-chan lẫn Souma, tuyến đầu của chúng tôi khó lòng có thể coi là áp đảo tuyệt đối. Vào những thời khắc sinh tử, chỗ dựa đáng tin cậy nhất chính là Thổ ma pháp của Kyouko. Đó là sự kết hợp giữa sức công phá hủy diệt của ma pháp tấn công cấp cao, cùng với bức tường phòng ngự kiên cố bằng đá tảng được tôi luyện qua hàng loạt công trình xây dựng với tốc độ dựng lũy thần tốc.
+Khi thiếu vắng cả Mei-chan lẫn Souma, tuyến đầu của chúng tôi khó lòng có thể coi là áp đảo tuyệt đối. Vào những thời khắc sinh tử, chỗ dựa đáng tin cậy nhất chính là Thổ ma thuật của Kyouko. Đó là sự kết hợp giữa sức công phá hủy diệt của ma pháp tấn công cấp cao, cùng với bức tường phòng ngự kiên cố bằng đá tảng được tôi luyện qua hàng loạt công trình xây dựng với tốc độ dựng lũy thần tốc.
 
-Dù cho quân địch có đông đến mức tràn qua cả hàng tiên phong, hay khi chúng tôi bị đánh úp tập kích từ phía sau dẫn đến thế gọng kìm, chỉ cần có bức tường kiên cố của Thổ ma pháp che chở, chúng tôi vẫn thừa sức lật ngược tình thế.
+Dù cho quân địch có đông đến mức tràn qua cả hàng tiên phong, hay khi chúng tôi bị đánh úp tập kích từ phía sau dẫn đến thế gọng kìm, chỉ cần có bức tường kiên cố của Thổ ma thuật che chở, chúng tôi vẫn thừa sức lật ngược tình thế.
 
 Do đó, chiến thuật căn bản là chúng tôi tuyệt đối không được lao lên tấn công mù quáng, mà phải tận dụng tối đa năng lực phòng thủ kiên cố này để làm bàn đạp tác chiến.
 
@@ -28869,7 +28869,7 @@ Sau khi ngắm nghía bản đồ một hồi và kiểm tra các chức năng c
 
 Đứng trước tấm bản đồ ba chiều khổng lồ được trình chiếu từ bệ tế, Hayama tỏ ra vô cùng phấn khích, còn Kyouko tuy không hào hứng bằng nhưng cả hai đều đang đưa tay ra vờn lấy luồng ánh sáng ảo ảnh kia.
 
-Vì bản đồ này có vẻ được chiếu bằng Quang ma pháp hay thứ gì đó tương tự, nên dĩ nhiên khi chạm vào sẽ chẳng có cảm giác gì.
+Vì bản đồ này có vẻ được chiếu bằng Quang ma thuật hay thứ gì đó tương tự, nên dĩ nhiên khi chạm vào sẽ chẳng có cảm giác gì.
 
 “Vị trí hiện tại của chúng ta là ở đây. Ngay chỗ điểm sáng màu đỏ này.”
 
@@ -34867,6 +34867,306 @@ Chính vì vậy, Takanashi cũng đang dốc hết sức mình để nâng cấ
 Cho dù có bất kỳ trở ngại nào ngáng đường đi chăng nữa, tôi cũng sẽ bảo vệ tất cả mọi người.
 
 Bởi vì tôi tin rằng, đó chính là sứ mệnh của bản thân—người được ban tặng thiên chức 『Dũng Giả』.`
+            },
+            {
+                "id": "chuong_270",
+                "number": 270,
+                "title": "Tap 270",
+                "volume": "Tap 1",
+                "path": "../Chu_Thuat_Su_Dung_Gia/translated/chuong_270_chuong_270_toi_tang_sau_nhat_2.md",
+                "content": `**Chương 270: Tới tầng sâu nhất (2)**
+
+“——Này, Ueta, Nakai, tụi mày thấy thế nào?”
+
+Đó là khi cả nhóm chuẩn bị rời đi, sau chuyến đi săn Lõi cần thiết cho việc dịch chuyển tại khu vực Đảo Hoang.
+
+Shimokawa cất lời hỏi hai người bạn thân thiết và đáng tin cậy nhất của mình.
+
+“Thấy thế nào là sao?”
+
+“Ý mày là chuyện gì?”
+
+“Tất cả mọi chuyện. Giờ ở đây chỉ có ba thằng mình, nên tao mới nói đấy.”
+
+Sau cú sốc trước sự phản bội của Kotarou, Lớp trưởng và Yuuto đã đứng ra nắm quyền lãnh đạo, tạm thời vạch ra phương hướng hành động tiếp theo cho cả lớp. Vì mọi người đều chấp thuận, nên cả ba người họ mới tham gia vào chuyến đi săn này.
+
+Thế nhưng, việc có thực sự chấp nhận từ tận đáy lòng và cảm thấy thuyết phục hay không lại là chuyện hoàn toàn khác.
+
+Bản thân Shimokawa thấy thế, và cậu tin chắc Ueta cùng Nakai cũng có chung cảm giác. Nói thẳng ra, những ai không thuộc phe Souma thì ít nhiều đều đang ôm trong lòng nỗi bất mãn.
+
+Dẫu vậy, việc thẳng thắn bộc bạch tất cả những điều đó lại khiến người ta phải e dè.
+
+Giờ đây, khi Kotarou đã phản bội, còn Ryuuichi và Kyouko cũng không còn ở đây, phe Souma đã nghiễm nhiên trở thành phe đa số trong lớp. Nếu lỡ lời nói ra điều gì không phải, chẳng biết chuyện gì sẽ xảy ra với họ.
+
+Vốn dĩ trước đây, chính nhờ có Kotarou mà bộ ba Jou-Chuu-Ge, Yamada, nhóm Himeno và Nakajima, cùng cặp đôi Juri-Mari mới gắn kết lại ở một mức độ nhất định, tạo thành một phe đối trọng ngoài phe Souma. Chỉ khi nắm giữ được thế đa số để tạo tầm ảnh hưởng, họ mới có thể đưa ra những ý kiến công bằng và có cơ hội biến chúng thành hiện thực.
+
+Dù mức độ nhận thức về tình hình này ở mỗi người có khác nhau, nhưng ai nấy đều cảm nhận được điều đó, dù là trong ý thức hay trong tiềm thức. Chính vì thế, ở Học Viện Tháp — nơi toàn bộ nhóm Souma và cả lớp cùng tề tựu — đã tự nhiên hình thành một bầu không khí kiềm chế, không ai dám tùy tiện bàn tán những chuyện nhạy cảm.
+
+“Nói thật nhé, tụi mày không thấy con nhỏ Takanashi đáng ngờ à?”
+
+“Shimokawa, mày...”
+
+“Uầy, giờ này mà mày còn nói chuyện đó ra làm gì...”
+
+Phải, tóm lại, điều cấm kỵ nhất không được phép thốt ra bằng lời chính là mối nghi ngờ nhắm vào 『Hiền Giả』 Takanashi Kotori.
+
+Trong buổi họp lớp khi phương hướng đi săn Lõi để dịch chuyển được thông qua, tuyệt nhiên không một ai đả động đến chuyện đó. Đừng vội tin lời Momokawa mà nghi ngờ Kotori, lúc này mọi người phải đồng lòng đoàn kết — sở dĩ Ryouko và Yuuto không buồn nhắc đến chuyện đó... theo suy đoán của Shimokawa, có lẽ là vì họ sợ rằng càng nói ra thì mối nghi ngờ lại càng đào sâu thêm.
+
+Trên thực tế, dẫu Yuuto chẳng nói nửa lời, trong lớp cũng chẳng có ai dám hé răng về giả thuyết Takanashi mới là kẻ chủ mưu thực sự. Ý kiến đòi truy cứu nghi vấn lại càng là điều không tưởng.
+
+Dù tốt hay xấu, mọi người đều đang cố gắng nhìn trước ngó sau, giữ ý tứ.
+
+“Thực ra tao muốn nói sớm hơn rồi, nhưng mãi không có cơ hội.”
+
+Mối nghi ngờ của Shimokawa đối với Takanashi bắt đầu xuất hiện vào sáng hôm sau, sau một đêm ngủ dậy khi đầu óc đã bình tĩnh trở lại.
+
+Tuy nhiên, nhận thấy tình hình lúc đó không thích hợp để nói ra, cậu đã luôn tìm kiếm cơ hội để bàn bạc riêng với Ueta và Nakai. Hôm nay tình cờ có được thời điểm chỉ có ba người nán lại khu vực Đảo Hoang, cậu mới quyết định đem chuyện này ra nói.
+
+Ryouko, người giữ vai trò đội trưởng trong tổ đội lần này, đã cùng Minami quay trở về Học Viện Tháp trước một bước. Yamada thì dẫn Nakajima ra biển câu cá, còn lâu mới quay lại.
+
+Và bộ ba Jou-Chuu-Ge thì lấy cớ ở lại thu thập thêm một ít nguyên liệu quanh đây rồi mới về sau. Họ có thừa thời gian để thảo luận những chuyện phức tạp.
+
+“Nhưng mà chuyện cả lớp bị hạ độc là sự thật rành rành ra đấy thôi.”
+
+“Quả đấy công nhận kinh vãi đái.”
+
+“Tụi mày này, lúc đó tụi mày có nhớ thằng Momokawa đã gào thét những gì không?”
+
+“Thì nó bảo Takanashi là kẻ chủ mưu chứ gì.”
+
+“Hình như còn nói gì mà Dũng Giả các kiểu nữa đúng không?”
+
+“Đúng, chính nó đấy! Tụi mày thử bình tĩnh suy nghĩ lại mà xem, nếu những gì Momokawa nói là thật, thì mọi chuyện lại cực kỳ hợp lý.”
+
+Điều đó đồng nghĩa với việc bản thân Takanashi có đủ động cơ để đầu độc cả lớp. Và cô ta đã che giấu năng lực đủ sức thực hiện mưu đồ đó.
+
+Ít nhất thì, điều đó không hề có mâu thuẫn nào.
+
+“Lúc đó ai nấy đều hoảng loạn tột độ nên chẳng có tâm trí đâu mà tin lời nó, nhưng sau này ngẫm lại, tao thấy chuyện đó đâu phải là không có khả năng.”
+
+“Ừm, chuyện đó... thật thế sao?”
+
+“Momokawa đầu óc nó nhảy số nhanh lắm. Mấy cái lý do nghe có vẻ hợp lý như thế, đến phút chót nó vẫn thừa sức bịa ra được chứ?”
+
+Lập luận của Nakai không phải là không có lý. Họ thừa hiểu sức bộc phát của Kotarou mỗi khi bị dồn vào đường cùng.
+
+“Hơn nữa nhé, chuyện nó giết bé Reina cũng là thật mà.”
+
+“Ừ, nếu Momokawa nghiêm túc thì việc giết người nó làm cái một.”
+
+Cả ba đều hiểu đó chính là điểm đáng sợ ở Momokawa Kotarou. Dù sao thì, đến cả thằng Higuchi còn bị nó giết cơ mà.
+
+Khi đối mặt trực tiếp với nó ở Học Viện Tháp thì không có cảm giác đó. Nhưng cứ nghĩ đến việc nó trở thành kẻ thù, tự dưng trong lòng lại thấy rợn tóc gáy.
+
+“Tao cũng nghĩ nếu nó thực sự muốn làm thì việc đầu độc cả lớp nó thừa sức làm được. Nhưng mà, tao thấy động cơ của nó không đủ.”
+
+“Lý do thì chẳng phải là để một mình trốn thoát sao?”
+
+“Đúng thế, lý do quá rõ ràng còn gì.”
+
+“Không, chuyện thằng Momokawa trốn thoát ‘một mình’ là điều không thể nào xảy ra được.”
+
+Cứ thử đặt giả thiết Kotarou chính là hung thủ thực sự trong tình huống lúc đó mà xem.
+
+Điều kiện tiên quyết là Kotarou phải đinh ninh rằng nơi dịch chuyển tiếp theo sẽ là khu vực có Thiên Tống Môn để trốn thoát. Ở đó không có trận chiến với Boss nào cả. Bởi nếu có, nó tuyệt đối không thể vứt bỏ lực lượng chiến đấu cần thiết để hạ Boss ngay lúc này.
+
+Chính vì đã đến rất gần lối thoát mà không cần thêm bất kỳ chiến lực nào nữa, nên nó mới chọn thời điểm này để hạ độc.
+
+Thế rồi nó hạ độc cả lớp, nhưng sức mạnh của Sakura thức tỉnh, giải độc cho tất cả mọi người và lật ngược tình thế.
+
+Kotarou, kẻ sẵn sàng giết chết tất cả bạn học chỉ để một mình trốn thoát, cuối cùng lại phải chật vật dùng ma pháp trận dịch chuyển tháo chạy đi đâu đó.
+
+“Lúc đó, Momokawa hoàn toàn bị dồn vào chân tường.”
+
+“Ừ.”
+
+“Nếu không có trận pháp dịch chuyển, chắc nó đã bị cả lũ đập chết tươi theo quán tính rồi.”
+
+“Phải, nó đã bỏ chạy. Dù không chống cự lại ở đó thì mục tiêu lớn nhất là một mình thoát thân sẽ tan thành mây khói.”
+
+“Nhưng rơi vào thế đấy thì ai chả chạy.”
+
+“Bị bao vây kín mít thế cơ mà.”
+
+“Đúng thế, một khi bị bọn mình bao vây, Momokawa hoàn toàn không có sức mạnh để phá vây. Điều đó chứng tỏ nó chẳng giấu giếm thêm năng lực bí mật ghê gớm nào nữa cả.”
+
+Dù có sự tồn tại của loại chú thuật bí ẩn đã kết liễu Yamata no Orochi, nhưng việc nó không dùng đến trong hoàn cảnh ngàn cân treo sợi tóc đó chứng tỏ chiêu đó phải có hạn chế nào đó, hoặc chỉ mang lại hiệu quả trong trường hợp đặc thù.
+
+Dù có giả định rằng nó đang giấu năng lực nào khác đi chăng nữa... thì rõ ràng Kotarou không hề nắm trong tay quân bài tẩy nào có thể lật ngược thế cờ khi phải đối đầu với toàn bộ lớp học. Trong tình huống buộc phải tung át chủ bài mà nó vẫn không tung, điều đó đồng nghĩa với việc ngay từ đầu thứ đó đã không hề tồn tại.
+
+“Đó chính là giới hạn sức mạnh của Momokawa. Năng lực của nó chỉ cần bị mười mấy người bao vây là coi như bế tắc hoàn toàn.”
+
+“Nhưng mà, tính cả thằng Souma thì bọn mình đứa nào cũng mạnh vãi ra.”
+
+“Không làm gì được cũng là bình thường thôi.”
+
+“Tụi mày nghĩ xem, sắp sửa bước ra một vương quốc dị giới hoàn toàn xa lạ, với cái mức sức mạnh cỏn con như thế, liệu nó có dám đi một mình không?”
+
+“Ừm...”
+
+“Nhưng nếu bảo là có thể lập tức thoát khỏi đây, thì cũng có khả năng chứ?”
+
+“Người bình thường nghĩ thế thì không lạ. Không lạ chút nào, nhưng đó là thằng Momokawa cơ mà! Nó có bao giờ đưa ra một quyết định thiển cận như thế không? Đã là nó, thì chắc chắn nó phải tối đa hóa chiến lực của bản thân rồi mới chịu đặt chân đến vương quốc chứ.”
+
+“A...”
+
+“Ra là vậy.”
+
+“Tụi mày nghe này, ngay từ lúc nó ‘vứt bỏ’ bạn Futaba là đã thấy sai quá sai rồi.”
+
+Sức mạnh cũng như lòng trung thành của Futaba Meiko là điều ai ai cũng biết. Dù vướng phải Lệnh Cấm Yêu Đương nên không có chuyện quan hệ nam nữ bất chính, nhưng nếu không có luật đó, thì với khoảng cách giữa hai người, việc có con với nhau bất cứ lúc nào cũng chẳng khiến ai bất ngờ.
+
+“Momokawa là Chú thuật sư. Rốt cuộc thì một mình nó không thể mạnh được. Nó cần có đồng đội. Những đồng đội mạnh mẽ và đáng tin cậy.”
+
+Chính vì tự hiểu rõ điều đó nên Kotarou luôn tìm cách kết nạp đồng minh một cách khôn khéo. Lúc hội quân với nhóm Shimokawa nó cũng lấy lòng rất mượt, và ở Học Viện Tháp, nó thậm chí đã vươn lên đến mức dẫn dắt cả lớp.
+
+Thế nhưng, chuyện đó chưa bao giờ là dễ dàng. Vì không có loại chú thuật tiện lợi nào có thể tẩy não đối phương trong chớp mắt, nên Kotarou chỉ còn cách dùng đủ mọi thủ đoạn để gia tăng vây cánh.
+
+“Đối với nó, không có người đồng đội nào tuyệt vời hơn bạn Futaba cả. Nếu đã tính đường trốn thoát, chắc chắn nó phải mang cô ấy theo cùng.”
+
+“À... đúng thật, có khi là thế đấy.”
+
+“Chuẩn rồi, thằng Momokawa đời nào chịu từ bỏ bộ ngực khủng của bạn Futaba chứ.”
+
+“Ừ, tao thấy cái lý do đấy nghe cũng thực tế vãi ra.”
+
+Cùng là đàn ông với nhau nên họ hiểu rõ, sở thích mê ngực bự của Kotarou không phải là giả vờ mà là hàng thật giá thật.
+
+Cỡ như Kenzaki Asuna hay Takanashi Kotori cũng thuộc dạng ngực nở nang trong giới nữ sinh cấp ba, thế nhưng khi đứng trước mặt họ, Kotarou lại dửng dưng như đang nhìn ma-nơ-canh.
+
+Thế nhưng, hễ gặp những cỡ vượt chuẩn ngực bự như Futaba hay Randou, ánh mắt của nó lại dán chặt vào lộ liễu đến mức người ta phải tự hỏi không biết nó có bị ăn tát hay không. Cái ánh nhìn nghiêm túc đến mức chẳng thèm che giấu ấy, đứng trên góc độ đàn ông, thậm chí còn đáng được tôn trọng.
+
+“Tao không muốn nghĩ theo hướng này đâu, nhưng nếu Momokawa rủ rê, khéo bạn Futaba cũng chẳng thèm ngăn nó đầu độc cả lớp đâu.”
+
+“Chuẩn luôn!”
+
+“Dù chuyện đấy đùa không vui chút nào.”
+
+Đến cả bộ ba Jou-Chuu-Ge đứng ngoài nhìn vào còn nhận thức được điều đó. Một kẻ nhạy bén với tâm lý con người hơn bất kỳ ai trong lớp như Kotarou, đời nào lại không biết lợi dụng tình cảm của Meiko.
+
+Futaba Meiko là một quân cờ hoàn hảo đến mức quá đỗi tiện lợi cho Momokawa Kotarou. Chẳng có bất kỳ lợi ích nào đủ lớn để nó phải vứt bỏ cô ấy trong một kế hoạch đầu độc để trốn thoát một mình cả.
+
+“Với lại ngay từ đầu, cần quái gì phải làm cái trò tày đình như hạ độc... Với cái mồm của thằng Momokawa, nó thừa sức lọt vào một trong ba suất trốn thoát kia mà.”
+
+“Đúng thật, vốn dĩ nó đã chắc suất trốn thoát rồi, việc bịa ra một lý do hợp lý nào đó đối với nó dễ như trở bàn tay.”
+
+“Chưa kể, nó bảo cử phân thân đi nhưng lén tráo đổi với bản thể thật thì bố ai mà biết được.”
+
+Xét theo vị thế và năng lực của Kotarou, khả năng nó trốn thoát qua Thiên Tống Môn mà không cần giết bạn học là cực kỳ cao.
+
+Ở điểm này, việc mưu tính đầu độc lại càng không mang lại chút lợi ích nào.
+
+“Càng nghĩ tao lại càng không tin là thằng Momokawa làm. Thế nên là, cái điện thoại nắp gập mà nó bảo đã quay lại video bằng chứng ấy, khéo là thật đấy.”
+
+“Ý mày là không phải nó nói phét á? Nhưng đứa bắn nát cái máy đó là Sakura-chan mà.”
+
+“Này, thế chẳng lẽ Sakura-chan cũng đồng lõa với sự phản bội của Takanashi sao?!”
+
+“Không, Sakura-chan chỉ đơn giản là tức điên lên với Momokawa nên mới bắn thôi.”
+
+Mối quan hệ như nước với lửa giữa Kotarou và Sakura cũng là chuyện cả lớp đều biết. Trong hoàn cảnh đó, việc Sakura giương cung bắn nát điện thoại cũng chẳng có gì là bất thường.
+
+“Này, thế chẳng lẽ kẻ phản bội thực sự lại là Takanashi thật à?”
+
+“Thế thì nguy to rồi còn gì. Nghĩa là tính mạng của tụi mình vẫn đang bị nhắm tới sao?”
+
+“Thôi nào, hai đứa mày bình tĩnh đã. Đúng là có khả năng Momokawa không phải thủ phạm, nhưng bọn mình vẫn chưa có bằng chứng. Mà bằng chứng Takanashi là hung thủ thực sự thì lại càng không. Giờ mà làm ầm lên thì chỉ khiến đám thằng Souma thêm nghi ngờ bọn mình thôi.”
+
+Hung thủ đầu độc là Kotarou, Takanashi, hay còn có một kẻ chủ mưu nào khác hoàn toàn? Ở giai đoạn hiện tại, tất cả chỉ dừng lại ở mức giả thuyết, chưa có bất kỳ bằng chứng vật chất nào đủ sức phơi bày sự thật.
+
+Nếu bây giờ cứ nhảy dựng lên bảo Takanashi đáng ngờ, kết cục duy nhất là dẫn đến xung đột với phe Souma — những người không đời nào chịu tin vào điều đó.
+
+“Nghe này, chuyện này tuyệt đối phải giữ bí mật với nhóm thằng Souma. Souma Yuuto, Sakura, Lớp trưởng, Natsukawa, Kenzaki, và dĩ nhiên là cả bản thân Takanashi nữa. Nếu để lũ đó biết tụi mình đang nhìn chúng nó bằng ánh mắt nghi ngờ, chắc chắn sẽ rắc rối to.”
+
+“Mà kể ra, vừa nói ra cái là con nhỏ Takanashi lại khóc lóc ỉ ôi rồi biến tụi mình thành kẻ xấu ngay cho xem.”
+
+“Nhưng mà này, biết chuyện này rồi thì bọn mình làm được cái gì cơ chứ?”
+
+“Không, không hẳn là vô ích đâu. Nghe này, vì thằng Momokawa biến mất nên những người ngoài phe Souma đang có cảm giác như bị tan đàn xẻ nghé đúng không? Bọn mình sẽ dùng chính mối nghi ngờ về Takanashi này để gom tất cả lại thành một khối.”
+
+“...Shimokawa, mày đang tính toán mấy trò y hệt như thằng Momokawa đấy.”
+
+“Tao cũng có ham hố gì đâu! Nhưng nếu không làm thế, vị thế của tụi mình chắc chắn sẽ ngày càng thảm hại hơn thôi.”
+
+“Chuyện đó... khéo đúng thật... Bây giờ tụi mình chỉ toàn răm rắp nghe theo lệnh của thằng Souma.”
+
+Có thể nói buổi họp lớp coi như đã không còn hoạt động đúng nghĩa nữa rồi.
+
+Cả chuyện săn Boss thu thập Lõi này cũng vậy, trong lúc mọi người còn chưa hết bàng hoàng sau vụ phản bội, quyết định gần như đã được áp đặt một cách đơn phương. Dĩ nhiên, xét về việc muốn tiến lên phía trước thì đây là con đường duy nhất nên chẳng ai có lý do để phản đối kịch liệt... thế nhưng bầu không khí như thể vị trí đứng đầu đã bị ấn định theo chiều gió là có thật.
+
+Bây giờ đang là tình huống khẩn cấp, nên dù có đôi chút bất mãn, mọi người vẫn nén lại để hợp tác.
+
+Thế nhưng, nếu cứ tiếp tục im lặng duy trì tình trạng này, Shimokawa cảm thấy một mối nguy cơ rằng chẳng mấy chốc họ sẽ trở thành những kẻ chỉ biết phục tùng mù quáng.
+
+“Nghe cho rõ đây, tụi mình không phải là tay sai của thằng Souma. Cứ mãi nghe theo lời bọn nó thì thế nào cũng có ngày tụi mình phải chịu thiệt thòi. Và quan trọng hơn cả, nếu đúng như lời Momokawa nói rằng Takanashi là hung thủ thực sự, thì ít nhất tụi mình cũng phải tự biết đường mà đề phòng cô ta.”
+
+Bị hạ độc một lần là đã quá đủ rồi, tuyệt đối không có lần thứ hai.
+
+Muốn vậy thì không được để lộ sơ hở. Đừng vì muốn đoàn kết mà đi nghi ngờ Takanashi — kẻ muốn rao giảng điều đó chỉ có phe Souma, còn đối với nhóm Shimokawa, cô ta là đối tượng tình nghi cực kỳ lớn.
+
+Nếu cứ ngây thơ tin tưởng một cách mù quáng, thế nào cũng có ngày họ để lộ sơ hở chí mạng và lại bị hạ độc thêm lần nữa.
+
+“Nếu Takanashi là hung thủ thật sự, thì đây là một tội ác có tính toán nhằm đổ tội cho Momokawa. Đó không phải là chuyện cứ bộc phát là làm được ngay. Chỉ cần bọn mình không để lộ sơ hở và liên tục cảnh giác, cô ta sẽ không thể dễ dàng ra tay được đâu.”
+
+“Ý mày là việc cảnh giác sẽ giúp bảo vệ an toàn cho chính bản thân mình hả?”
+
+“Dù không phải vậy đi chăng nữa, thì việc bọn mình tự tập hợp lại cũng là điều cần thiết để giữ được một vị thế có tiếng nói mà.”
+
+“Tạm thời tao tính sẽ bắt chuyện với Yamada trước. Tiếp theo sẽ là cặp Juri-Mari hoặc Himeno.”
+
+“Thế còn thằng Nakajima thì sao?”
+
+“Thằng đó đang mê mẩn con nhỏ Kenzaki như điếu đổ, nói cho nó biết thế nào nó cũng đi mách lẻo cho xem.”
+
+Bản thân Nakajima chắc tưởng mình giấu kỹ lắm, nhưng chuyện cậu ta để ý Kenzaki Asuna thì người ngoài nhìn vào là thấy rõ mồn một. Kẻ duy nhất không nhận ra có lẽ chỉ là đương sự Asuna, cùng với tên Souma Yuuto vốn nổi tiếng là đầu gỗ chậm tiêu.
+
+Thứ tình cảm của mình lại không thể truyền đạt tới người mình thích, mà cũng chẳng tới được người mà người mình thích đang thích, quả là một tình cảnh éo le sốt ruột chẳng khác nào truyện tranh thiếu nữ. Cơ mà họ cũng chẳng rảnh rỗi đến mức đi ủng hộ đường tình duyên của Nakajima làm gì.
+
+“Sau đó, khi ý kiến của phe mình đã thống nhất, tao sẽ lựa thời cơ để nói chuyện với Lớp trưởng.”
+
+“Này, có ổn không đấy?”
+
+“Nghe bảo sau vụ đó, Lớp trưởng đã lén kiểm tra xem Takanashi có giấu thuốc giải độc trong người hay không đấy.”
+
+“Thật á?! Sao bọn tao không nghe thấy gì hết vậy?”
+
+“Chuyện này là hôm kia tao được bạn Natsukawa kể cho nghe.”
+
+Là thành viên của đội săn bắn gánh vác nguồn lương thực cho cuộc sống ở Học Viện Tháp, Shimokawa có mối quan hệ khá cởi mở với Minami. Chính nhờ sự thân thiết đó mà Minami mới buột miệng tâm sự chuyện này.
+
+“Lớp trưởng cũng có phần nào đó nghi ngờ Takanashi. Mà cũng phải thôi, danh hiệu Lớp trưởng đâu phải để trưng, những điểm phi lý trong chuyện Momokawa là hung thủ mà tao nghĩ ra được thì chắc chắn cô ấy cũng tự nhận ra rồi.”
+
+“Nhưng vì cô ấy cũng ở vị trí chơi thân với Takanashi, nên không thể nói thẳng ra mặt được.”
+
+“Đúng thế, lỡ lời nói ra là sẽ xích mích với đám thằng Souma ngay. Nhưng nếu bên phe mình cũng thống nhất ý kiến là đang nghi ngờ Takanashi, thì bọn mình sẽ trở thành một phe đối trọng đàng hoàng.”
+
+“...Này, làm vậy chẳng phải lớp mình sẽ bị chia rẽ làm đôi sao?”
+
+“Tao cũng nghĩ chuyện đó rất nguy hiểm. Nhưng mà... không có thằng Momokawa thì hết cách rồi. Muốn cả lớp đồng lòng thành một khối là điều tuyệt đối không thể nào nữa đâu.”
+
+Vốn dĩ ngay từ đầu, sự gắn kết trong dàn harem — hay đúng hơn là phe phái xoay quanh Souma Yuuto — đã quá đỗi bền chặt, khiến lớp 2-7 chẳng thể nào có được một phe phái đủ sức đối trọng với họ. Nếu là thời điểm cuộc sống học đường còn yên bình, đó chỉ đơn thuần là một nhóm tinh hoa gồm toàn trai xinh gái đẹp được người người ngưỡng mộ... thế nhưng trong một cuộc sinh tồn ngục tối đánh cược cả mạng sống, họ lại biến thành một nhóm quyền lực vững chắc có sức chi phối không ai dám cãi lại.
+
+Sở dĩ trước đây họ không phải răm rắp nghe lời lũ đó, mà vẫn có thể tận hưởng cuộc sống yên bình tại Học Viện Tháp, tất cả đều là nhờ vào công lao chèo chống của Momokawa Kotarou.
+
+Nó đã tập hợp toàn bộ các nhóm ngoài phe Souma lại để chiếm thế đa số tạo thành phe đối trọng, rồi trên cơ sở đó, liên tục đàm phán, thương lượng để không bao giờ rơi vào thế đối đầu sống còn với phe Souma.
+
+Làm được điều đó hoàn toàn là nhờ vào tài năng cá nhân của Kotarou, cũng như năng lực của một Chú thuật sư.
+
+Shimokawa hiểu rất rõ rằng mình có thể bắt chước Kotarou đôi chút, nhưng tuyệt đối không thể làm được y hệt như nó. Không chỉ là vấn đề tài năng, mà những quân bài trong tay của một Chú thuật sư và một Thủy Ma Thuật Sư là hoàn toàn khác biệt.
+
+“Lớp có thể sẽ bị chia rẽ. Nhưng thế vẫn còn hơn là để bọn mình bị sai khiến đơn phương, vả lại việc đề phòng Takanashi để phòng ngừa bất trắc cũng là điều cần thiết. Cả lớp không thể hòa thuận như trước được nữa đâu. Dẫu vậy nếu vẫn phải ở cùng nhau dưới danh nghĩa một tập thể lớp, bọn mình buộc phải tự nâng mình lên vị thế có thể bình đẳng lên tiếng đối thoại với bọn nó——Ueta, Nakai, nếu hai đứa mày không đồng ý với ý kiến của tao, thì chuyện này coi như dừng lại ở đây. Bởi nếu không có được sự thấu hiểu từ tụi mày, tao cũng chẳng làm được gì cả.”
+
+“Này này, Shimokawa, mày coi thường tụi tao quá đấy nhé?”
+
+“Từ đầu đến giờ ba thằng mình đã cùng vào sinh ra tử liều mạng chiến đấu bao nhiêu lần rồi. Tụi mình giờ là bạn chí cốt ở cái đẳng cấp khác hẳn đám ngoài kia rồi đấy.”
+
+“Tụi mày...”
+
+“Shimokawa, từ hôm nay mày sẽ thay thằng Momokawa đứng ra gom phe phái lại.”
+
+“Bọn tao việc quái gì phải nghe lời thằng Souma. Mày mới là thủ lĩnh của bọn tao.”
+
+Nói rồi, ba người họ siết chặt tay nhau thật mạnh, mối gắn kết của bộ ba lại càng thêm phần thắt chặt.`
             },
             {
                 "id": "chuong_270",
@@ -68983,7 +69283,7 @@ Mà thực chất, dù bản thân tôi gần như còn lành lặn vô sự, nh
 
 “————『Nham Sơn Cự Thuẫn』!”
 
-Giữa lúc cảm giác tuyệt vọng đen tối chuẩn bị nuốt chửng tầm nhìn của tôi, một bức tường đá đồ sộ đột ngột trồi lên sừng sững ngay trước mặt. Kẻ có thể thi triển Thổ ma pháp xuất sắc đến mức độ này trong lớp 2-7 chỉ có duy nhất một người.
+Giữa lúc cảm giác tuyệt vọng đen tối chuẩn bị nuốt chửng tầm nhìn của tôi, một bức tường đá đồ sộ đột ngột trồi lên sừng sững ngay trước mặt. Kẻ có thể thi triển Thổ ma thuật xuất sắc đến mức độ này trong lớp 2-7 chỉ có duy nhất một người.
 
 “Kyouko!”
 
@@ -69073,7 +69373,7 @@ Thuở ban đầu, chính cô cũng nào có khác gì.
 
 Mang trên mình thiên chức của một Thổ Ma Thuật Sư vô dụng. Cô chỉ biết lầm lũi bám theo sau lưng Tendou Ryuuichi cùng cặp đôi Juri-Mari để cầu xin sự che chở. Thế nhưng, chính Kotarou đã khai sáng, dạy cho cô cách vận dụng và làm chủ nguồn sức mạnh ấy.
 
-Ngoảnh đi ngoảnh lại, cô đã mạnh mẽ hơn xưa gấp bội. Cô có thể tùy ý điều khiển Thổ ma pháp để kiến tạo nên đủ mọi thứ công sự kỳ tích. Randou Kyouko đã vươn mình trở thành một át chủ bài thuộc hàng ngũ ma thuật sư hàng đầu mà bất kỳ ai cũng phải ngả mũ công nhận.
+Ngoảnh đi ngoảnh lại, cô đã mạnh mẽ hơn xưa gấp bội. Cô có thể tùy ý điều khiển Thổ ma thuật để kiến tạo nên đủ mọi thứ công sự kỳ tích. Randou Kyouko đã vươn mình trở thành một át chủ bài thuộc hàng ngũ ma thuật sư hàng đầu mà bất kỳ ai cũng phải ngả mũ công nhận.
 
 Thế nhưng, chỉ khi chạm tới cảnh giới này, Kyouko mới cay đắng nhận ra một sự thật. Dù đã trở nên mạnh mẽ nhường ấy, thâm tâm cô vẫn luôn vô thức dựa dẫm vào Kotarou.
 
@@ -85772,6 +86072,19 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
         ],
         "gallery": [
   {
+    "id": "art_tap_238_1787854435",
+    "chapterId": "chuong_238",
+    "badge": "Tập 238",
+    "title": "Đòn Kết Liễu: Thiểm Quang Bạch Thỉ",
+    "image": "../Chu_Thuat_Su_Dung_Gia/images/tap_238_scene.jpg",
+    "context": "Khoảnh khắc quyết định của trận chiến khi Momokawa trở về từ hố sâu và dốc toàn lực cầm chân đàn quái vật, tạo thời cơ cho Sakura tung đòn chí mạng. Sakura giương cung phóng ra mũi tên ma pháp ánh sáng trắng khổng lồ bắn thẳng xuống điểm yếu đã bị phá vỡ trên thân thể Yamata no Orochi trong sự căng thẳng và quyết tâm tột cùng.",
+    "characters": [
+      "Sakura",
+      "Momokawa Kotarou"
+    ],
+    "prompt": "masterpiece, highly detailed, light novel illustration, dynamic angle, dramatic lighting. A heroic anime girl (Sakura) standing at the edge of a massive shattered vertical pit on the ground, drawing a glowing magical bow and releasing a colossal, blinding white beam arrow (White Flash Arrow) straight down into the abyss. Intense radiant light particles and magical runes swirl around her. In the midground, a dark-haired anime boy (Momokawa) fiercely fighting back hordes of shadowy gargoyles, holding a bizarre skull-topped staff (Fool's Staff) emitting dark purple toxic aura and shooting magical projectiles. The background shows a chaotic battlefield with collapsing stone walls, dust clouds, and the looming monstrous silhouette of a giant serpent. Cinematic composition, high contrast, vivid magical glow, sharp details, fantasy action."
+  },
+  {
     "id": "art_tap_200_1787661687",
     "chapterId": "chuong_200",
     "badge": "Tập 200",
@@ -85872,866 +86185,1462 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
   }
 ],
         "glossary": {
-            "terms": `# BẢNG TRA CỨU THUẬT NGỮ, VŨ KHÍ & MA PHÁP (GLOSSARY)
-**Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả (呪術師は勇者になれない - Chu Thuat Su Dung Gia)  
-*(Cập nhật đầy đủ & chuẩn hóa đến Tập 205)*
+            "terms": `# ⚔️ THUẬT NGỮ, KỸ NĂNG, VẬT PHẨM & QUÁI VẬT (CANON V3.0)
+> **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả
+> **Quy chuẩn:** Compact Entity Cards (Phân loại rành mạch: SKILL, ITEM, MONSTER, TERM)
 
 ---
 
-## 1. ⚔️ VŨ KHÍ, TRANG BỊ & VẬT PHẨM MA PHÁP
+### 1. ⚔️ KỸ NĂNG & MA PHÁP (SKILLS & SPELLS)
 
-| STT | Tên Thuật Ngữ / Vũ Khí | Tên Gốc (JP / Eng) | Mô Tả & Hiệu Ứng Thực Chiến | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Ngân Thiết Kiếm** | 銀鉄の剣 / Gintetsu no Ken | Thanh kiếm hợp kim bạc cứng ngang thép, dẫn truyền ma lực cực tốt, khắc ma pháp trận 『Sắc Bén』. | Tập 202 |
-| **2** | **Red Axe** | レッドアックス / Red Axe | Rìu chiến hệ Hỏa luyện từ Đại Rìu Đẫm Máu kết hợp nhiều ma thạch Hỏa, sở hữu hỏa lực cực mạnh. | Tập 202 |
-| **3** | **Cool Cutlass** | クールカトラス / Cool Cutlass | Mã tấu hệ Băng luyện từ dao găm Jazeera yểm Băng ma pháp, cho phép người dùng thi triển phép Băng hạ cấp. | Tập 202 |
-| **4** | **Hắc Thiết Đại Phủ** | 黒鉄の大斧 / Kurogane no Oofu | Đại rìu chế tạo từ vũ khí của Living Armor, trọng lượng cực nặng, độ bền và sức tàn phá tối thượng. | Tập 202 |
-| **5** | **Vòng Tay Sức Mạnh** | 力の腕輪 / Bracelet of Strength | Vòng tay ma pháp yểm sẵn phép cường hóa 『Uyển Lực Cường Hóa』 giúp tăng mạnh lực cơ bắp. | Tập 200 |
-| **6** | **Cây Gậy Của Kẻ Ngốc** | 愚者の杖 / The Fool's Cane | Gậy ma thuật gắn đầu lâu người chết, cho phép Kotarou thi triển kỹ năng/ma pháp của chủ nhân hộp sọ. | Toàn truyện |
-| **7** | **Tam Đầu Lâu Chú Thuật** | Three Cursed Skulls | 3 hộp sọ Kotarou sở hữu: Sakurai Kouji (Xạ Thủ), Hinagiku Haya (Độc Chú/Luyện Kim), Sugino (Trọng Chiến Binh). | Toàn truyện |
-| **8** | **Đại Rìu Đẫm Máu** | 血塗れた大斧 / Bloody Great Axe | Cây đại rìu của Kị Sĩ Người Sói, chất lượng thượng hạng và được yểm sẵn ma pháp. | Tập 200 |
-| **9** | **Trường Kiếm Hoen Rỉ** | 錆付いた長剣 / Rusty Longsword | Kiếm của Kị Sĩ Người Sói, phôi nguyên liệu để Hiền giả Kotori tôi luyện thành Ngân Thiết Kiếm. | Tập 200 |
-| **10** | **Quang Thạch (Ma Thạch)** | 光石 / Light Stone | Tên gọi chính xác của ma thạch tự nhiên trong dungeon sa mạc, nguồn năng lượng ma lực quý giá. | Tập 203 |
-| **11** | **Đường Kính Trắng** | グラニュー糖 / Granulated Sugar | Bột trắng tinh luyện do Gove thủ lĩnh mang theo, vật phẩm thương mại cao cấp đổi từ Vua Goma. | Tập 200 & 205 |
-| **12** | **Potion Thoái Hóa** | 劣化したポーション / Degraded Potion | Lọ thuốc hồi phục bị giảm dược hiệu do để lâu năm, chỉ còn lại một phần công hiệu nhỏ. | Tập 200 |
-| **13** | **Lõi Ma Vật (Core)** | コア / Monster Core | Viên ngọc rơi ra khi hạ quái vật/học sinh, dùng để kích hoạt cơ chế thoát khỏi Dungeon và cống nạp. | Toàn truyện |
-| **14** | **Rương Kho Báu** | 宝箱 / Treasure Chest | Rương cổ vật có chức năng bảo quản đồ vật tươi sống khi đóng mở bằng ma lực. | Toàn truyện |
+## [SKILL-001] 『Ảo Ảnh Chú』 (Illusion Curse)
+
+- **id:** SKILL-001
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Ảo Ảnh Chú』 (Illusion Curse)
+- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Tạo phân thân ảo ảnh đánh lừa thị giác và giác quan của kẻ địch trong bóng tối.
 
 ---
 
-## 2. 🐉 MA VẬT & SINH VẬT DUNGEON
+## [SKILL-002] 『Tật Tốc Chú』 (Speed Curse)
 
-| STT | Tên Sinh Vật / Ma Vật | Tên Gốc (JP / Eng) | Đặc Điểm Sinh Thái, Vũ Khí & Năng Lực | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Christaur** | クリスタウルス / Christaur | Quái vật Minotaur khổng lồ bọc vỏ tinh thể pha lê phản quang, ăn quặng Quang Thạch trên vách sa mạc. | Tập 202 |
-| **2** | **Quang Thạch Chủng** | 光石種 / Light Stone Species | Biến thể ma vật tiến hóa hoặc mạnh lên đột biến nhờ ăn khoáng thạch Quang Thạch. | Tập 203 |
-| **3** | **Người Sói (Werewolf)** | 狼男 / Werewolf | Quái vật phổ biến nhất Phố Hắc Ám, biết dùng vũ khí, tốc độ và sức mạnh vượt xa Goma/Skeleton. | Tập 199 |
-| **4** | **Kị Sĩ Người Sói** | 狼男の騎士 / Werewolf Knight | Ma vật người sói mặc giáp sắt tinh xảo, trang bị đại rìu và trường kiếm yểm ma pháp. | Tập 200 |
-| **5** | **Goma (Yêu Tinh Nhỏ)** | ゴーマ / Goma | Quái vật da đen hình dạng như con gián, đẻ trứng (6 con/ngày), thờ thần Oh-ma, dùng vũ khí thô sơ. | Tập 196 & 205 |
-| **6** | **Ếch Lợn** | 豚ガエル / Buta-kaeru | Ma vật ếch có mặt giống lợn, được Goma nuôi bằng trứng ung để lấy nguồn thịt dự trữ. | Tập 205 |
-| **7** | **Gà biển (Giant Chicken)** | 海鶏 / デカコッコ | Ma vật chim khổng lồ lai giữa gà và dodo, được Ban Chăn Nuôi thuần dưỡng lấy trứng và thịt. | Tập 200 & 204 |
-| **8** | **Ong Mật Khổng Lồ** | Giant Honeybee | Ong mật to như chim sẻ, được Kotarou thuần dưỡng Ong Chúa để nuôi lấy mật tại Quảng trường. | Tập 204 |
-| **9** | **Mandragora** | マンドラゴラ / Mandragora | Nguyên liệu chú thuật vạn năng, phát ra tiếng thét nguyền rủa khi bị nhổ khỏi mặt đất. | Tập 200 |
-| **10** | **Tinh Linh Thảo Mộc** | 草の精霊 / Grass Spirit | Tinh linh tí hon cao 5cm phát sáng xanh lá trên thảo dược, giúp Rerite thức tỉnh phép trị liệu. | Tập 196 |
-| **11** | **Geela & Jazeera** | ジーラ / ジャジーラ | Người cá cống ngầm; Jazeera là dạng tiến hóa bọc giáp hà biển cứng như đá. | Tập 199 |
-| **12** | **Minogorilla** | ミノゴリラ / Minogorilla | Ma vật đầu bò đực mình khỉ đột đi bằng 2 chân, cơ bắp đồ sộ tại khu rừng rậm. | Tập 200 |
-| **13** | **Yamata no Orochi** | ヤマタノオロチ / 8-Headed Snake | Siêu Boss 8 đầu đại xà khổng lồ to hơn tàu hỏa, phun lửa phóng sét và tái sinh vô hạn. | Boss Tháp |
-| **14** | **Living Armor** | リビングアーマー / Living Armor | Giáp sống kim loại cầm đại khiên Dark Tower Shield và đại kiếm 2 tay. | Di Tích |
-| **15** | **Gargoyle** | ガーゴイル / Gargoyle | Quái vật bay có cánh dơi giống Goma hóa đá làm tổ dày đặc quanh núi của Orochi. | Núi Orochi |
+- **id:** SKILL-002
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Tật Tốc Chú』 (Speed Curse)
+- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Tăng tốc độ di chuyển và phản xạ lên mức siêu phàm trong tích tắc.
 
 ---
 
-## 3. 🏰 QUY TẮC, TỔ CHỨC & ĐỊA DANH HỌC VIỆN THÁP
+## [SKILL-003] 『Thao Khôi Lỗi Chú』 (Puppet Master)
 
-| STT | Tổ Chức / Quy Tắc / Địa Danh | Tên Gốc (JP / Eng) | Ý Nghĩa, Chức Năng & Vai Trò Trong Cốt Truyện | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Ban Chăn Nuôi** | 飼育委員 / Animal Husbandry | Ban phụ trách gia súc tại Tháp do Futaba Meiko làm Trưởng ban, Yamada Genki làm Phó ban. | Tập 204 |
-| **2** | **Hòm Thư Góp Ý** | 目安箱 / Meyasubako | Hệ thống tiếp nhận ý kiến ẩn danh qua email gửi Kotarou/Ryouko để giải tỏa mâu thuẫn nội bộ. | Tập 201 |
-| **3** | **Bệ Tế Goma** | ゴーマの祭壇 / Goma Altar | Bệ đá ma pháp trận đỏ trong tháp Goma dùng liên lạc và dâng Lõi Ma Vật đổi đường với Vua Goma. | Tập 205 |
-| **4** | **Oh-ma** | オーマ / Oh-ma | Từ ngữ cầu nguyện hoặc danh xưng thần linh mà toàn bộ chủng tộc Goma tôn sùng. | Tập 205 |
-| **5** | **Học Viện Tháp (Gakuentou)** | 学園塔 / Gakuentou | Tòa tháp trung tâm đặt Quảng Trường Tinh Linh, căn cứ sinh hoạt và thảo phạt Orochi của Lớp 2-7. | Căn cứ chính |
-| **6** | **5 Nội Quy Học Viện Tháp** | School Tower 5 Rules | 1. Tuân thủ Học Cấp Hội; 2. Cấm Yêu Đương; 3. Giải trừ vũ trang; 4. Cấm tư hình; 5. Cấm tự ý rời tháp. | Căn cứ chính |
-| **7** | **Lệnh Cấm Yêu Đương** | 恋愛禁止 / Ren'ai Kinshi | Quy tắc tối thượng do Kotarou đề xuất nhằm tránh rạn nứt nội bộ 18 học sinh khi phá đảo dungeon. | Căn cứ chính |
-| **8** | **Thỏa Thuận Đại Xá** | Hiệp Ước Miễn Truy Cứu | Miễn xử phạt toàn bộ tội lỗi quá khứ để 18 người hợp lực sinh tồn; xác lập Quyền Im Lặng. | Căn cứ chính |
-| **9** | **4 Khu Vực Mạng Dịch Chuyển** | 4 Warp Zones | 1. Đảo Hoang Ven Biển; 2. Phố Hắc Ám (Đêm vĩnh hằng); 3. Phế Tích Cung Điện; 4. Sa Mạc Cổ Đại. | Bản đồ chính |
-| **10** | **Quảng Trường Tinh Linh** | 妖精広場 / Fairy Square | Vùng an toàn tuyệt đối (Safe Zone), có đài phun nước hồi phục và cây dẻ Yêu tinh duy trì sự sống. | Học Viện Tháp |
+- **id:** SKILL-003
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Thao Khôi Lỗi Chú』 (Puppet Master)
+- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Điều khiển sứ ma con rối bùn và Hắc Kị Sĩ Rem bắn cung bách phát bách trúng.
 
 ---
 
-## 4. 🔮 MA PHÁP, VÕ KỸ & THIÊN CHỨC ĐẶC THÙ
+## [SKILL-004] 『Độc Chú & Luyện Kim Chú』
 
-| STT | Kỹ Năng / Võ Kỹ / Ma Pháp | Chủ Sở Hữu / Hệ Phái | Hiệu Ứng & Ứng Dụng Thực Chiến | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **『Ảo Ảnh Chú』 (Illusion Curse)** | **Momokawa Kotarou** *(Ruinhilde)* | Tạo phân thân ảo ảnh đánh lừa thị giác và giác quan của kẻ địch trong bóng tối. | Toàn truyện |
-| **2** | **『Tật Tốc Chú』 (Speed Curse)** | **Momokawa Kotarou** *(Ruinhilde)* | Tăng tốc độ di chuyển và phản xạ lên mức siêu phàm trong tích tắc. | Toàn truyện |
-| **3** | **『Thao Khôi Lỗi Chú』 (Puppet Master)** | **Momokawa Kotarou** *(Ruinhilde)* | Điều khiển sứ ma con rối bùn và Hắc Kị Sĩ Rem bắn cung bách phát bách trúng. | Toàn truyện |
-| **4** | **『Độc Chú & Luyện Kim Chú』** | **Momokawa Kotarou** *(Đầu lâu Hinagiku)* | Chiết xuất độc dược từ quái vật (ong mật, bọ cạp) và tôi luyện dược liệu. | Toàn truyện |
-| **5** | **『Thánh Kiếm』 (Holy Sword)** | **Souma Yuuto** *(Dũng Giả)* | Phóng thích kiếm khí ánh sáng cực mạnh, gây sát thương chí mạng cho ma vật bóng tối. | Toàn truyện |
-| **6** | **『Súc Địa』 (Shukuchi)** | **Souma Yuuto** *(Kiếm đạo)* | Bộ pháp rút ngắn khoảng cách trong chớp mắt, áp sát đối phương không tiếng động. | Toàn truyện |
-| **7** | **『Bạch Ảnh Thương』 (White Shadow Spear)** | **Souma Yuuto** *(Dũng Giả)* | Tuyệt kỹ đâm thương ánh sáng tốc độ cao xé toạc phòng thủ đối phương. | Toàn truyện |
-| **8** | **『Cuồng Hóa』 (Berserk Mode)** | **Futaba Meiko** *(Cuồng Chiến Binh)* | Bộc phát sức mạnh thể chất phi nhân loại, vung Hắc Thiết Đại Phủ chém đứt sắt thép. | Toàn truyện |
-| **9** | **『Băng Kết Đại Thuẫn』 (Frozen Aegis)** | **Kisaragi Ryouko** *(Băng Ma Thuật)* | Dựng khiên băng khổng lồ đỡ đòn tấn công diện rộng từ quái vật và trùm Dungeon. | Toàn truyện |
-| **10** | **『Địa Thành Lũy / Boongke Đất』** | **Randou Kyouko** *(Thổ Ma Thuật)* | Dựng tường đất kiên cố xếp gạch tạo thành công sự phòng thủ tuyệt đối. | Toàn truyện |
-| **11** | **『Giám Định Cổ Ngữ & Rèn Đúc Ma Pháp』** | **Takanashi Kotori** *(Hiền Giả)* | Giải mã bản đồ cổ, tôi luyện phôi vũ khí rỉ sét thành Ngân Thiết Kiếm, Red Axe, Cool Cutlass. | Tập 200 & 202 |
-| **12** | **『Kho Báu Hoàng Kim & Vương Kiếm Zamd』** | **Tendou Ryuuichi** *(Vương)* | Triệu hồi và giải phóng kho vũ khí bảo vật hoàng kim vô tận, chiến lực áp đảo #1. | Toàn truyện |
-| **13** | **『Độc Thương Vĩ & Hấp Thụ Đồng Hóa』** | **Yokomichi Hajime** *(Thực Nhân Quỷ)* | Đuôi bọ cạp kịch độc hấp thụ từ Boss, nuốt chửng đồng loại để cướp đoạt thiên chức. | Toàn truyện |
-| **14** | **『Thánh Quang Trị Liệu』 (Holy Heal)** | **Souma Sakura** *(Thánh Nữ)* | Trị liệu phục hồi vết thương nặng và giải độc thanh tẩy cơ thể. | Toàn truyện |
-- **Quả óc chó Yêu tinh (Yousei Kurumi / 妖精胡桃):** Loại quả khô đặc sản tại khu vực Tinh Linh, thường được ngâm mật ong làm đồ ngọt. *(Xuất hiện tại Tập 207)*
-- **Chú thuật phái Hinagiku (Hinagiku-ryuu Jujutsu / 雛菊流呪術):** Hệ thống chú thuật do Hinagiku Haya sử dụng, có thiên hướng gần với ma thuật thông thường hơn hệ chú thuật của Ruinhilde. *(Xuất hiện tại Tập 207)*
-- **Trận pháp Luyện thành Giản đơn (Kanyi Renseijin / 簡易錬成陣):** Trận pháp luyện kim sơ cấp dùng để phân tách, tinh lọc nguyên liệu thô và loại bỏ tạp chất. *(Xuất hiện tại Tập 213)*
-- **Trận pháp Luyện thành Nước (Suibun Renseijin / 水分錬成陣):** Trận pháp luyện kim hệ Thủy dùng để phân tích, hòa tan và phối trộn các thành phần chất lỏng. *(Xuất hiện tại Tập 213)*
-- **Trận pháp Luyện thành Thiết quặng (Tekkou Renseijin / 鉄鉱錬成陣):** Trận pháp luyện kim hệ Thổ/Kim loại chuyên dùng để tinh luyện quặng sắt thành Quang Thiết. *(Xuất hiện tại Tập 213)*
-- **Trận pháp Luyện thành Băng kết (Hyouketsu Renseijin / 氷結錬成陣):** Trận pháp luyện kim hệ Băng đặc thù của Kisaragi Ryouko dùng để tạo ra Băng Tinh Thể. *(Xuất hiện tại Tập 213)*
-- **Trận pháp Luyện thành Ánh sáng (Hikari Renseijin / 光錬成陣):** Trận pháp luyện kim hệ Quang của Souma Sakura dùng để chế tạo các thiết bị chiếu sáng. *(Xuất hiện tại Tập 213)*
-- **Băng Tinh Thể (Ice Crystal / 氷結晶):** Khối kết tinh ma lực hệ Băng có mật độ cực cao do Kisaragi Ryouko chế tạo. *(Xuất hiện tại Tập 213)*
-- **Hộ Vệ Ánh Sáng (Hikari no Morite / 光の守り手):** Ma pháp phụ trợ/yểm ma lực hệ Quang của Souma Sakura. *(Xuất hiện tại Tập 213)*
-- **Vạc Của Phù Thủy (Majo no Kama / 魔女の釜):** Chiếc vạc ma thuật do Kotarou chế tạo, được Meiko sử dụng để kiểm soát quá trình lên men và chưng cất rượu siêu tốc. *(Xuất hiện tại Tập 208)*
-- **Hũ Cổ Độc (Kodoku no Utsuwa / 蠱毒の器):** Kỹ năng bị động kháng độc của Kotarou, giúp cậu vô hiệu hóa phần lớn độc tố và nồng độ cồn trong cơ thể. *(Xuất hiện tại Tập 208)*
-- **Rượu mật ong (Mead / ハチミツ酒):** Loại rượu ngọt lên men từ mật ong do Meiko chế tạo bằng Vạc Của Phù Thủy. *(Xuất hiện tại Tập 208)*
-- **Kiếm phái Kenzaki (Kenzaki-ryuu / 剣崎流):** Kiếm thuật gia truyền của nhà Kenzaki do Kenzaki Asuna truyền dạy, thiên về phòng thủ và phản công bằng song kiếm. *(Xuất hiện tại Tập 212)*
-- **Đỡ Chồng Kiếm (Kasanetuke / 重ね受け):** Kỹ thuật phòng thủ đặc trưng của kiếm phái Kenzaki, bắt chéo hai thanh kiếm để triệt tiêu lực tấn công cực mạnh của đối thủ. *(Xuất hiện tại Tập 212)*
-- **Phi Đao Phái Momokawa (Momokawa Hito-ryu / 桃川飛刀流):** Tên gọi tự chế của Momokawa Kotarou khi dùng kỹ năng Tóc Đen Trói Buộc để điều khiển song tiểu đao bay lượn chiến đấu như xích liêm. *(Xuất hiện tại Tập 212)*
-- **Giải độc (Detoxification / 解毒):** Ma pháp trị liệu thanh tẩy độc tố và cồn trong cơ thể của Thánh Nữ Souma Sakura. *(Xuất hiện tại Tập 209)*
-- **Đứa trẻ được chúc phúc (Blessed Child / 祝福の子):** Biến thể hiếm gặp của tộc Goma, sinh ra không có vỏ trứng mà ở dạng thai nhi người, ngay từ đầu đã là Gove và có tiềm năng tiến hóa cực nhanh lên Gogma. *(Xuất hiện tại Tập 206)*
-- **High Zombie (High Zombie / ハイゾンビ):** Xác sống cấp cao được Kotarou triệu hồi làm sứ ma để truy đuổi và tiêu diệt kẻ địch. *(Xuất hiện tại Tập 206)*
-- **Nhãn Lục Mang Tinh (Hexagram Eye / 六芒星の眼):** Ma pháp trận nguyên bản do Kotarou tự sáng tạo và vẽ tay trong trận chiến với Basilisk, dùng để làm bẫy. *(Xuất hiện tại Tập 210)*
-- **Quang Thiết (Light Iron / 光鉄):** Kim loại đã được truyền ma lực, dùng làm nguyên liệu chế tạo trang bị ma pháp. *(Xuất hiện tại Tập 211)*
-- **Quang Độ (Light Intensity / 光度):** Chỉ số phân cấp lượng ma lực tích tụ trong kim loại, chia làm 5 cấp độ từ 1 đến 5. *(Xuất hiện tại Tập 211)*
-- **Thuốc ngủ thảo dược (Sleeping pills / 睡眠薬):** Thuốc ngủ nhẹ được bào chế từ loài hoa màu nhạt ở bồn hoa trên Quảng Trường Tinh Linh, có tác dụng hỗ trợ giấc ngủ nhẹ nhàng. *(Xuất hiện tại Tập 215)*
-- **Thuốc đau dạ dày thảo dược (Stomach medicine / 胃薬):** Thuốc hỗ trợ dạ dày được bào chế từ thảo dược hiếm do Natsukawa Minami tìm thấy, tinh chế bằng Trận pháp Luyện thành Nước của Shimokawa. *(Xuất hiện tại Tập 215)*
-- **Nham Thương (Rock Spear / 岩石槍):** Kỹ năng ma pháp hệ Thổ của Randou Kyouko, tạo ra ngọn thương bằng đá để tấn công hoặc găm giữ mục tiêu. *(Xuất hiện tại Tập 223)*
-- **Vĩnh Cửu (Permanence / 永続):** Ma pháp bổ trợ đặc biệt giúp duy trì hiệu lực của các ma pháp hoặc vật phẩm khác vô hạn thời gian, ngăn chúng bị biến mất hoặc suy yếu. *(Xuất hiện tại Tập 223)*
-- **Lao cố định (Harpoon / 銛):** Loại lao sắt dùng để phóng găm vào đầu Yamata no Orochi nhằm cố định nó. *(Xuất hiện tại Tập 223)*
-- **Neo cố định (Anchor / アンカー):** Thiết bị đóng sâu xuống đất, kết nối với lao bằng xích sắt để giữ chặt đầu của Orochi. *(Xuất hiện tại Tập 223)*
-- **Gargoyle khổng lồ (Large Gargoyle / 大型ガーゴイル):** Biến thể khổng lồ của Gargoyle có kích thước và sức mạnh ngang ngửa Minotaur. *(Xuất hiện tại Tập 220)*
-- **Đầu hai ngả (Double Head / ダブルヘッド):** Viện binh đầu rắn xuất hiện sau khi cái đầu đầu tiên của Yamata no Orochi bị tiêu diệt. *(Xuất hiện tại Tập 220)*
-- **Giọt Lệ Sinh Mệnh (Seimei-chan no Shizuku / Teardrop of Life / 生命の雫):** Vật phẩm ma pháp có hiệu quả hồi phục cực kỳ vượt trội, được giao cho Souma Yuuto sử dụng. *(Xuất hiện tại Tập 217)*
-- **Thổ Trư (Tsuchi-ino / Earth Boar / 土猪):** Ma vật lợn rừng sử dụng ma pháp hệ Thổ ở khu vực đảo hoang, lông của nó được dùng làm nguyên liệu chế tạo trang bị tăng cường ma pháp hệ Thổ. *(Xuất hiện tại Tập 217)*
-- **Trent (Trent / トレント):** Ma vật hệ thực vật ở khu vực đảo hoang, có đặc tính giống cây cao su, cung cấp nguyên liệu làm đế giày. *(Xuất hiện tại Tập 217)*
-- **Cursed Hexa (Cursed Hexa / カースドヘキサ):** Găng tay hở ngón chuyên dụng của Momokawa Kotarou, thêu ma pháp trận Nhãn Lục Mang Tinh giúp tăng hiệu quả chú thuật. *(Xuất hiện tại Tập 217)*
-- **Áo choàng Băng Mỏng (Usurai no Robe / Thin Ice Robe / 薄氷のローブ):** Trang bị chuyên dụng cho ma thuật sư hệ Băng (Kisaragi Ryouko), giúp tăng cường ma pháp hệ Băng thông qua việc luyện thành Băng Tinh Thể. *(Xuất hiện tại Tập 217)*
-- **Áo măng tô Grand Boar (Grand Boar Coat / グランドボアコート):** Áo khoác làm từ lông Thổ Trư, trang bị chuyên dụng của Randou Kyouko giúp tăng cường ma pháp hệ Thổ. *(Xuất hiện tại Tập 217)*
-- **Áo phao Banded (Banded Down / バンデッドダウン):** Áo khoác lông vũ siêu nhẹ làm từ lông Gà biển (Decakokko), trang bị chuyên dụng của Natsukawa Minami. *(Xuất hiện tại Tập 217)*
-- **Áo thun Pha lê (Crystal Shirt / クリスタルシャツ):** Áo làm từ da Christaur, tăng phòng ngự và bổ trợ ma lực, dành cho các ma pháp sư. *(Xuất hiện tại Tập 217)*
-- **Thủy vụ (Suimu / 水霧):** Kỹ năng ma pháp hệ Thủy của Shimokawa Junnosuke dùng để tạo ra màn sương mù nước dày đặc che mắt kẻ địch. *(Xuất hiện tại Tập 222)*
-- **Độc tê liệt của Ếch Nhện (Kumo-kaeru no Mahi-doku / クモカエルの麻痺毒):** Chất độc tê liệt cực mạnh chiết xuất từ loài Ếch Nhện, có thể làm chậm chuyển động của cả Gogma. *(Xuất hiện tại Tập 222)*
-- **Xích Nhiệt Bệnh (Akaki Netsubyou / 赤き熱病):** Kỹ năng chú thuật của Momokawa Kotarou gây ra bệnh sốt nóng đỏ cho mục tiêu. *(Xuất hiện tại Tập 222)*
-- **Nhất Kích Xuyên (Ichigekisen / 一撃穿):** Võ kỹ thương thuật đâm xuyên mục tiêu của Nonomiya Jun'ai *(Xuất hiện tại Tập 216)*
-- **Cường Đại Đả (Kyoudaita / 強大打):** Võ kỹ rìu chiến tung đòn chém cực mạnh của Yoshizaki Hiroe *(Xuất hiện tại Tập 216)*
-- **Loạn Trảm - Hoa Trà (Midarezaki Tsubaki / 乱れ裂き・椿):** Võ kỹ song kiếm liên hoàn chém vào các điểm yếu của phái Kenzaki do Nakajima Haruma thi triển *(Xuất hiện tại Tập 216)*
-- **Re-potion (Re-potion / リポーション):** Thuốc hồi phục tái chế từ potion thoái hóa do Shimokawa chế tạo, có tác dụng cầm máu tức thời nhưng lượng hồi phục ít *(Xuất hiện tại Tập 216)*
-- **Song Ảnh (Souei / 双影):** Kỹ năng phân thân của Momokawa Kotarou cho phép điều khiển song song bản thể và phân thân *(Xuất hiện tại Tập 216)*
-- **Vi Hồi Phục (Bikaihoku / 微回復):** Phép trị liệu cấp thấp của Himeno Airi sau khi mất thiên chức chính thức *(Xuất hiện tại Tập 216)*
-- **Bột mì (Wheat flour / 小麦粉):** Lương thực dự trữ tìm thấy tại pháo đài ngoại ô Phố Hắc Ám *(Xuất hiện tại Tập 216)*
-- **Raptor (Raptor / ラプター):** Ma vật khủng long chạy nhanh được bắt sống để làm nguyên liệu chế tạo thú cưỡi mới cho Kotarou *(Xuất hiện tại Tập 216)*
-- **Phá Đoạn (Hadan / 破断):** Kỹ năng tấn công cực mạnh bằng rìu của Cuồng Chiến Binh Futaba Meiko. *(Xuất hiện tại Tập 219)*
-- **Thánh Kiếm Ánh Sáng (Hikari no Seiken / 光の聖剣):** Tuyệt kỹ chém kiếm bọc ánh sáng của Dũng Giả Souma Yuuto. *(Xuất hiện tại Tập 219)*
-- **Bột trắng của Goma (White powder / 白い粉):** Thứ bột trắng đựng trong túi da của tên trùm Goma. Kinako cảnh báo nó rất nguy hiểm và làm mất trí (thực chất là Đường Kính Trắng tinh luyện). *(Xuất hiện tại Tập 218)*
-- **Cây đá khổng lồ (Stone Tree / 石の木):** Vật thể mọc trên đỉnh núi đá của Yamata no Orochi, nằm ngay phía trên lõi của bản thể. *(Xuất hiện tại Tập 221)*
-- **Thương Lam Cương Cầu (Blue Flame Sphere / 蒼炎剛球):** Ma pháp tấn công hệ Hỏa cấp cao của Souma Yuuto, tạo ra ngọn lửa màu xanh lam có nhiệt độ cực cao. *(Xuất hiện tại Tập 231)*
-- **Hơi Thở Đỏ (Red Breath / レッドブレス):** Ma pháp hệ Hỏa/Bộc phát của Tendou Ryuuichi thu được sau khi hạ Hỏa long Salamander, phát huy uy lực tối đa khi kết hợp với hồng kiếm. *(Xuất hiện tại Tập 231)*
-- **Sát Na Nhất Thiểm (Instant Flash / 刹那一閃):** Tuyệt kỹ chém kiếm tốc độ cao của Souma Yuuto dùng để kết liễu mục tiêu trong nháy mắt. *(Xuất hiện tại Tập 231)*
-- **Vòng Xoáy U Minh (Nether Vortex / ネザーヴォルテクス):** Tuyệt kỹ tạo vòng xoáy bóng tối nghiền nát mục tiêu của Tendou Ryuuichi. *(Xuất hiện tại Tập 231)*
-- **Bách Liệt Tán Hoa (Hyakuretsu Sanga / 百烈散華):** Võ kỹ song kiếm liên hoàn chém tốc độ cao kết hợp xoay tròn cơ thể của Kenzaki Asuna. *(Xuất hiện tại Tập 231)*
-- **Rem-3 Alpha (Rem Unit 3 Alpha / レム三号機『アルファ』):** Con rối Rem thế hệ thứ ba của Kotarou được đưa vào chiến đấu thực tế. *(Xuất hiện tại Tập 231)*
-- **Hố má (Pit organ / ピット器官):** Cơ quan cảm nhiệt trên đầu rắn giúp Yamata no Orochi phát hiện con mồi qua sự thay đổi nhiệt độ. *(Xuất hiện tại Tập 231)*
-- **Giải Mã Ngoại Pháp (Gehou Kaidoku / 外法解読):** Chú thuật mới do Ruinhilde ban cho Kotarou, cho phép đọc và giải mã các ngôn ngữ cấm kỵ đã thất truyền như chữ Ma tộc, ngôn ngữ Tà thần, Ác quỷ học và chữ viết của tộc Goma. *(Xuất hiện tại Tập 224)*
-- **Trận pháp Luyện thành Chú đạo (Judou Renseijin / 呪導錬成陣):** Kỹ năng luyện kim cao cấp thức tỉnh từ đầu lâu của Hinagiku Haya, cho phép truyền chú thuật vào vật phẩm trong quá trình luyện thành và sử dụng Lõi Ma Vật làm nguyên liệu chế tạo. *(Xuất hiện tại Tập 224)*
-- **Quả cầu khói độc (Dokukemuridama / 毒煙玉):** Vật phẩm ma pháp dạng quả cầu, phát tán khói độc khi va chạm, do Hinagiku chế tạo bằng Trận pháp Luyện thành Chú đạo. *(Xuất hiện tại Tập 224)*
-- **Hắc Giác Cung (Kokkakukyuu / 黒角弓):** Cây cung ma pháp làm từ sừng lớn của ma vật do Hinagiku Haya chế tạo bằng Trận pháp Luyện thành Chú đạo. *(Xuất hiện tại Tập 224)*
-- **Tinh Linh Nước (Water Spirit / 水の精霊):** Tinh linh hệ Thủy trú ngụ trong túi da đựng nước của Rerite, giúp tạo ra nguồn nước mát vô tận. *(Xuất hiện tại Tập 228)*
-- **Tinh Linh Ánh Sáng (Light Spirit / 光の精霊):** Tinh linh hệ Quang trú ngụ trong điện thoại của Rerite, giúp sạc pin và phát sáng. *(Xuất hiện tại Tập 228)*
-- **Tinh Linh Sét (Lightning Spirit / 雷の精霊):** Tinh linh hệ Lôi trú ngụ trong điện thoại của Rerite, cung cấp điện năng vô hạn. *(Xuất hiện tại Tập 228)*
-- **Rồng đỏ (Red Dragon / 赤いドラゴン):** Ma vật rồng khổng lồ hệ Hỏa cực kỳ nguy hiểm xuất hiện tại khu rừng rậm. *(Xuất hiện tại Tập 228)*
-- **Thỏ có sừng (Horned Rabbit / ツノウサギ):** Ma vật giống thỏ nhưng có màu xanh lá, tai ngắn và có sừng trên đầu, chạy rất nhanh. *(Xuất hiện tại Tập 229)*
-- **Jaaja (Jaaja / ジャージャ):** Ma vật giống hươu, là con mồi săn bắn chủ yếu của tộc gấu như Kinako. *(Xuất hiện tại Tập 229)*
-- **Tinh Linh Điện (Electric Spirit / 電気の精霊):** Các tinh linh hệ lôi điện trú ngụ trong chiếc điện thoại thông minh của Rerite. *(Xuất hiện tại Tập 229)*
-- **Lãnh địa của Yêu tinh (Fairy Territory / 妖精の縄張り):** Khu vực ngầm dưới di tích cổ, có đài phun nước tượng yêu tinh và thảm cỏ xanh, nơi các ma vật thông thường không dám đến gần. *(Xuất hiện tại Tập 229)*
-- **Thuần ma lực (Pure Mana / Jun Maryoku / 純魔力):** Trạng thái cơ bản nhất của ma lực tích tụ trong Lõi Ma Vật, chưa bị phân hóa thuộc tính và có thể chuyển đổi thành bất kỳ hệ ma pháp nào. *(Xuất hiện tại Tập 225)*
-- **Thánh Thiên Kết Giới (Holy Heaven Barrier / 聖天結界):** Kỹ năng kết giới phòng ngự đa dụng hệ Quang của Thánh Nữ Souma Sakura. *(Xuất hiện tại Tập 225)*
-- **Kelpie (Kelpie / ケルピー):** Ma vật dạng ngựa sống dưới nước, có sừng xoắn màu xanh tím trên trán, bốn chân phủ vảy xanh và bờm đuôi biến thành vây cá. *(Xuất hiện tại Tập 226)*
-- **Death Stalker (Death Stalker / デスストーカー):** Ma vật bọ cạp khổng lồ có nửa thân trên dạng người bọc giáp dày như Living Armor, hai tay là càng lớn và đuôi có ngòi độc đỏ tươi cực kỳ nguy hiểm. *(Xuất hiện tại Tập 226)*
-- **Đồ bảo hộ tơ nhện (Spider Silk Workwear / 蜘蛛糸作業着):** Trang phục bảo hộ lao động do Kotarou chế tạo từ tơ nhện, dùng cho công việc khai thác và rã xác ma vật. *(Xuất hiện tại Tập 226)*
-- **Cương Kích (Gougeki / Shield Bash / 剛撃):** Võ kỹ thúc khiên của Cuồng Chiến Binh Futaba Meiko, giúp tăng uy lực đập và nghiền nát mục tiêu bằng khiên. *(Xuất hiện tại Tập 230)*
-- **Phong Ấn Thương - Băng Kết (Fuinyou Hyouketsu / 封印槍・氷結):** Ngọn thương chế tạo từ Băng Tinh Thể, dùng làm vật dẫn để cường hóa ma pháp hệ Băng. *(Xuất hiện tại Tập 230)*
-- **Phong Ấn Thương - Hắc Kim (Fuinyou Kurogane / 封印槍・黒金):** Ngọn thương chế tạo từ Quang Thạch hệ Thổ tinh luyện, dùng làm vật dẫn để cường hóa ma pháp hệ Thổ. *(Xuất hiện tại Tập 230)*
-- **Đóng Băng Trường Thương (Touketsu Chousou / 凍結長槍):** Ma pháp tấn công cao cấp hệ Băng của Kisaragi Ryouko. *(Xuất hiện tại Tập 230)*
-- **Phá Nham Trường Thương (Hagan Chousou / 破岩長槍):** Ma pháp tấn công cao cấp hệ Thổ của Randou Kyouko. *(Xuất hiện tại Tập 230)*
-- **Chiến Khiếu (Senkyou / War Cry / 戦叫):** Kỹ năng gầm thét thu hút sự chú ý và thù hận của ma vật thuộc thiên chức Cuồng Chiến Binh. *(Xuất hiện tại Tập 230)*
-- **Nhẫn Phòng Ngự (Guard Ring / ガード・リング):** Vật phẩm ma pháp yểm võ kỹ 『Cứng Cáp』 giúp cơ thể người đeo trở nên cứng cáp, vô hiệu hóa các đòn tấn công vật lý thông thường. *(Xuất hiện tại Tập 227)*
-- **Lông Vũ Tốc Hành (Feather of Dash / 疾駆の羽根飾り):** Vật phẩm ma pháp yểm võ kỹ 『Tốc Hành』 giúp tăng mạnh tốc độ di chuyển và khả năng nhảy cao. *(Xuất hiện tại Tập 227)*
-- **Huy Chương Dũng Cảm (Medal of Courage / 勇気のメダル):** Vật phẩm ma pháp giúp người đeo kháng lại trạng thái sợ hãi và giữ vững tinh thần. *(Xuất hiện tại Tập 227)*
-- **Vòng Tay Sinh Lực (Vital Bracelet / バイタル・ブレスレット):** Vật phẩm ma pháp giúp tăng cường thể lực, sức bền và khả năng sinh tồn khi bị thương. *(Xuất hiện tại Tập 227)*
-- **Súng Phóng Khí (Air Launcher / エアランチャー):** Thiết bị phóng dạng súng phóng lựu do Kotarou chế tạo bằng cách cải tiến một cây gậy phép hệ Phong, dùng để bắn các loại bom khói độc hoặc lựu đạn ma pháp đi xa. *(Xuất hiện tại Tập 227)*
-- **Gậy Kelpie (Kelpie Rod / ケルピーロッド):** Cây gậy dài ma pháp hệ Thủy chế tạo từ sừng, xương và da của Kelpie, giúp tăng hiệu suất truyền dẫn ma lực hệ Thủy. *(Xuất hiện tại Tập 232)*
-- **Đại Sơn Thành Lũy (Taizan Jouheki / 大山城壁):** Ma pháp phòng ngự diện rộng cấp cao thuộc hệ Thổ của Randou Kyouko, tạo ra các bức tường đá khổng lồ dày 50cm bao quanh. *(Xuất hiện tại Tập 232)*
-- **Nham Thạch Đại Khiên (Ganseki Ootate / 岩石大盾):** Ma pháp phòng ngự trung cấp hệ Thổ của Randou Kyouko, có thể dùng để tạo trần nhà bằng đá. *(Xuất hiện tại Tập 232)*
-- **Triệu Hoán Quang Tinh Linh (Hikari Seirei Shoukan / 光精霊召喚):** Ma pháp triệu hồi Tinh Linh Ánh Sáng của Souma Sakura để chiếu sáng. *(Xuất hiện tại Tập 232)*
-- **A-xít Thuẫn (Acid Shield / 酸盾):** Ma pháp kết hợp đầu tiên giữa Đầm Lầy Thối Rữa của Kotarou và Thủy ma pháp của Shimokawa, tạo ra một tấm khiên nước chứa axit ăn mòn để phòng thủ và tiêu diệt kẻ địch chạm vào. *(Xuất hiện tại Tập 233)*
-- **Death Stinger (Death Stinger / デススティンガー):** Đoản kiếm kịch độc chế tạo từ đuôi độc của bọ cạp khổng lồ Death Stalker, gây ra chất độc thần kinh cực mạnh làm tê liệt và dẫn đến tử vong chỉ với một vết xước nhẹ. *(Xuất hiện tại Tập 233)*
-- **Yellow Paralyzer (Yellow Paralyzer / イエローパラライザー):** Dao găm gây tê liệt chứa độc tố của loài Ếch Nhện (kết hợp tơ nhện Arachne và độc ếch vàng), liên tục sản sinh độc tố dựa trên ma lực của người sử dụng. *(Xuất hiện tại Tập 233)*
-- **Cool Cutlass Cải tiến (Cool Cutlass Custom / クールカトラス・改):** Phiên bản nâng cấp của Cool Cutlass được tích hợp thêm Băng Tinh Thể của Kisaragi Ryouko, giúp tăng cường đáng kể ma lực thuộc tính Băng cho người sử dụng. *(Xuất hiện tại Tập 233)*
-- **Hắc Thiết Hoàn (Kuroganemaru / 黒鉄丸):** Thanh ma pháp kiếm hệ Thổ do Kotori chế tạo từ cùng chất liệu với Phong Ấn Thương - Hắc Kim, có trọng lượng khá nặng và giúp thi triển thổ ma pháp mạnh mẽ. *(Xuất hiện tại Tập 233)*
-- **Nham Pháo (Rock Cannon / 岩砲):** Thổ ma pháp tấn công sơ cấp, tạo ra các mảnh đá bắn vào mục tiêu. Khi dùng lượng ma lực gấp đôi thông qua Hắc Thiết Hoàn, các mảnh đá sẽ hóa thành sắt đen. *(Xuất hiện tại Tập 233)*
-- **Vực Sâu Vô Tận (Endless Abyss / 果てる底無き):** Ma pháp trận chuyên dụng dành riêng cho Đầm Lầy Thối Rữa, giữ nguyên diện tích bề mặt nhưng tối ưu hóa hoàn toàn để ăn mòn sâu xuống dưới *(Xuất hiện tại Tập 234)*
-- **Lõi Death Stalker (Death Stalker Core / デスストーカーのコア):** Lõi ma vật thu được từ Death Stalker ở sa mạc, có màu đỏ tím và chứa hiệu ứng đặc biệt giúp cường hóa ma pháp hệ Độc *(Xuất hiện tại Tập 234)*
-- **Túi Độc Lớn Của Ếch Vàng (Yellow Frog Poison Gland / キイロカエルの大毒腺):** Túi độc lớn thu thập từ loài ếch vàng khổng lồ, dùng làm vật tế tăng cường độc tính *(Xuất hiện tại Tập 234)*
-- **Bốn Dạ Dày Của Christaur (Four Stomachs of Christaur / クリスタウルスの四つ胃袋):** Dạ dày của ma vật Christaur, có khả năng tiêu hóa cực mạnh ngay cả đá ma thạch, dùng làm vật tế tăng khả năng ăn mòn *(Xuất hiện tại Tập 234)*
-- **Vây Lớn Của Kelpie (Kelpie's Big Fin / ケルピーの大ヒレ):** Vây của ma vật Kelpie, dùng làm vật tế bổ trợ cho các ma pháp liên quan đến chất lỏng *(Xuất hiện tại Tập 234)*
-- **Thủ Cấp Của Gove Thủ Lĩnh (Gove Leader's Head / 首領ゴーヴの生首):** Cái đầu tươi của thủ lĩnh Gove bị Kotarou chặt hạ, chứa đựng oán hận và đau đớn tột cùng, làm vật tế tối thượng cho chú thuật *(Xuất hiện tại Tập 234)*
-- **Hắc Huyết Mạch (Black Bloodline / 黒の血脈):** Chú thuật bổ trợ của Kotarou giúp cường hóa hiệu quả của các chú thuật hệ Độc và Đầm Lầy Thối Rữa *(Xuất hiện tại Tập 234)*
-- **Tinh Linh Ánh Sáng Tí Hon (Tiny Light Spirit / 微小な光精霊):** Tinh linh ánh sáng cấp thấp được phong ấn vào thiết bị để làm nguồn sáng vĩnh cửu *(Xuất hiện tại Tập 234)*
-- **Thạch Thuẫn (Sekijun / Earth Shield / 石盾):** Ma pháp phòng thủ hệ Thổ của Randou Kyouko, dùng để tạo ra hoặc vá lại các bức tường đá bảo vệ. *(Xuất hiện tại Tập 235)*
-- **Bạch Quang Tiễn (Byakkooshi / White Light Arrow / 白光矢):** Ma pháp tấn công trung cấp hệ Quang của Souma Sakura, bắn ra một mũi tên ánh sáng trắng có sức công phá cao. *(Xuất hiện tại Tập 235)*
-- **Thánh Nữ Hòa Cung (Seijo no Wakyū / Sacred Bow of the Saint / 聖女の和弓):** Cung gỗ kiểu Nhật (Wakyū) dành riêng cho Thánh Nữ Souma Sakura, giúp tăng cường uy lực của ma pháp hệ Quang. *(Xuất hiện tại Tập 235)*
-- **Rem-4 Minotaur (Rem Unit 4 Minotaur / ４号機ミノタウルス):** Con rối Rem thế hệ thứ tư của Kotarou, được chế tạo từ xác quái vật Minotaur. *(Xuất hiện tại Tập 235)*
-- **Dơi mỏ đỏ (Bat-like Gargoyle / コウモリ型ガーゴイル):** Biến thể Gargoyle khổng lồ có hình dạng giống dơi với chiếc mỏ lớn phát sáng đỏ chuyên dùng để đục khoét đất đá. *(Xuất hiện tại Tập 235)*
-- **Quang Thuẫn (Light Shield / 光盾):** Ma pháp phòng ngự hệ Quang của Dũng Giả Souma Yuuto dùng để tạo ra lá chắn ánh sáng đánh bật các đòn tấn công. *(Xuất hiện tại Tập 236)*
-- **Thiên Tinh Thuẫn (Heavenly Star Shield / 天の星盾):** Kỹ năng đặc hữu thứ hai của Dũng Giả Souma Yuuto, tạo ra một chiếc khiên ánh sáng trắng mang sự bảo hộ của ngôi sao hộ mệnh để cản phá các đòn tấn công cực mạnh. *(Xuất hiện tại Tập 237)*
-- **Thiên Lý Tật Khu (Thousand-Mile Sprint / 千里疾駆):** Kỹ năng tăng tốc độ di chuyển của Dũng Giả Souma Yuuto. *(Xuất hiện tại Tập 237)*
-- **Thiểm Quang Bạch Thỉ (Senkou Hakushi / Flash White Arrow / 閃光白矢):** Kỹ năng ma pháp ánh sáng của Souma Sakura, tạo ra mũi tên ánh sáng trắng có sức công phá mạnh. *(Xuất hiện tại Tập 239)*
-- **Điệp Vũ Ngược (Gyakumai Kochou / 逆舞い胡蝶):** Kỹ năng chú thuật của Momokawa Kotarou, có khả năng đảo ngược hiệu ứng hồi phục hoặc sinh mệnh thành lời nguyền sát thương/đoạt mạng. *(Xuất hiện tại Tập 239)*
-- **Yêu Tinh Điệp Báo Tử (Kokushi no Youseichou / 告死の妖精蝶):** Chú thuật tối thượng của Momokawa Kotarou được thi triển bằng cách dâng hiến Giọt Lệ Sinh Mệnh qua Điệp Vũ Ngược. Triệu hồi một yêu tinh mang đôi cánh bướm đỏ gieo rắc cái chết tuyệt đối không thể tránh khỏi lên mục tiêu. *(Xuất hiện tại Tập 239)*
-- **激流砲 (Gekiryūhou / Torrent Cannon / 激流砲):** Ma pháp tấn công diện rộng cấp trung hệ Thủy. *(Xuất hiện tại Tập 238)*
-- **Hỏa Quang Thạch (Kakoroseki / Fire Light Stone / 火光石):** Loại ma thạch thuộc tính Hỏa phát sáng, dùng làm nguyên liệu chế tạo các vật phẩm gây nổ hoặc ma pháp hệ Hỏa. *(Xuất hiện tại Tập 238)*
-- **Vương Giáp (Tiến hóa) (Ooyoroi / 王鎧):** Trạng thái tiến hóa của Vương Giáp thuộc sở hữu của Tendou Ryuuichi. Giờ đây giáp đen xuất hiện thêm ở cả cánh tay trái với độ dày lớn hơn, có khả năng chặn đứng và phản xạ lại đòn tấn công của kẻ địch. *(Xuất hiện tại Tập 241)*
-- **Cấp Cứu Hồi Phục (Oukyuu Kaihoku / 応急回復):** Ma pháp trị liệu cấp trung, là phiên bản nâng cấp của Vi Hồi Phục, được Himeno Airi học được sau quá trình huấn luyện khắc nghiệt của Kotarou. *(Xuất hiện tại Tập 241)*
-- **Loyrops (Loyrops / ロイロプス):** Một loài ma vật trong Dungeon, thịt của chúng được dùng làm nguyên liệu chế tạo món steak thượng hạng cho bữa tiệc. *(Xuất hiện tại Tập 241)*
-- **Phá Tà Hiển Chính (Haja Kensho / 破邪顕正):** Ma pháp hệ Quang/Thánh pháp cấp cao của Thánh Nữ Souma Sakura, có khả năng thanh tẩy tà khí và giải trừ kịch độc diện rộng. *(Xuất hiện tại Tập 243)*
-- **Thiên Tống Môn (Heavenly Gate / Teleportation Gate / 天送門):** Cổng dịch chuyển nằm ở tầng sâu nhất của Dungeon, dùng để thoát ra thế giới bên ngoài. *(Xuất hiện tại Tập 243)*
-- **Sai Khiến Tinh Linh Tí Hon (Bishou Seirei Shieki / 微小精霊使役):** Kỹ năng cho phép người dùng sai khiến và nghe thấy tiếng nói của các tinh linh tí hon ở ngay bên cạnh. *(Xuất hiện tại Tập 245)*
-- **Trận Pháp Triệu Hoán Tinh Linh (Seirei Shoukanjin / 精霊召喚陣):** Kỹ năng triệu gọi tinh linh từ xa thông qua trận pháp ma pháp. *(Xuất hiện tại Tập 245)*
-- **Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp (Seirei Gengo Kaidoku - Jo / 精霊言語解読・序):** Kỹ năng cho phép người dùng hiểu và giao tiếp cơ bản với các tinh linh cũng như các ma vật đồng hành. *(Xuất hiện tại Tập 245)*
-- **Vòng Tròn Xanh Lá (Midori no Wa / 緑の輪):** Kỹ năng bổ trợ hệ Thảo, giúp tăng cường mối liên kết với tinh linh hoa cỏ và hỗ trợ thu hoạch dược thảo. *(Xuất hiện tại Tập 245)*
-- **Mối Gắn Kết Của Lửa (Hi no Kizuna / 火の絆):** Kỹ năng bổ trợ hệ Hỏa, giúp mượn sức mạnh của tinh linh lửa để nhóm lửa hoặc tạo ra đốm lửa. *(Xuất hiện tại Tập 245)*
-- **Giọt Nước Tinh Khiết (Kiyoi Shizuku / 清い雫):** Kỹ năng bổ trợ hệ Thủy, giúp tạo ra nguồn nước sạch từ tinh linh nước. *(Xuất hiện tại Tập 245)*
-- **Chiêu Lôi (Shourai / 招雷):** Kỹ năng ma pháp tấn công hệ Lôi, triệu hồi một tia sét khổng lồ đánh xuống mục tiêu. *(Xuất hiện tại Tập 245)*
-- **Linh thú (Reijuu / 霊獣):** Những triệu hoán thú cực mạnh được triệu hồi bởi các Tinh Linh Thuật Sư có tài năng hoặc vận may lớn. *(Xuất hiện tại Tập 245)*
-- **Engard của Lửa (Flame Engard / 炎のエンガルド):** Một trong ba Linh thú mạnh mẽ thuộc hệ Hỏa. *(Xuất hiện tại Tập 245)*
-- **Ramdein của Sét (Lightning Ramdein / 雷のラムデイン):** Một trong ba Linh thú mạnh mẽ thuộc hệ Lôi. *(Xuất hiện tại Tập 245)*
-- **Seilam của Nước (Water Seilam / 水のセイラム):** Một trong ba Linh thú mạnh mẽ thuộc hệ Thủy. *(Xuất hiện tại Tập 245)*
-- **Vương quốc Astoria (Astoria Kingdom / アストリア王国):** Quốc gia dị giới nơi có vương đô Sigrun, điểm đến của Thiên Tống Môn. *(Xuất hiện tại Tập 240)*
-- **Vương đô Sigrun (Royal Capital Sigrun / 王都シグルーン):** Thủ đô của Vương quốc Astoria, nơi đặt ngôi đền có điểm dịch chuyển đến từ Thiên Tống Môn. *(Xuất hiện tại Tập 240)*
-- **Tương Ảnh Thuật (Projection Art / 投影術):** Kỹ năng phân thân tạo ra ảnh ảo (hologram) của bản thân ở một địa điểm khác, cho phép nghe nhìn, nói chuyện và di chuyển nhưng không có thực thể. *(Xuất hiện tại Tập 242)*
-- **Quy Tắc Ý Niệm (Idea Code / イデアコード):** Kỹ năng chuyên dụng của thiên chức Hiền Giả, cho phép thao túng và khuếch đại cảm xúc/suy nghĩ của mục tiêu để thúc đẩy họ hành động theo ý muốn. *(Xuất hiện tại Tập 242)*
-- **Game Master (Game Master / GM / ゲームマスター):** Vai trò điều hành và giám sát quá trình phá đảo dungeon do thần Elysion giao cho Takanashi Kotori. *(Xuất hiện tại Tập 242)*
-- **Không Gian Mở Rộng - Giai Đoạn Hai (Kakuchou Kuukan - Dai-ni Kaitei / 拡張空間・第二階梯):** Một á không gian được tạo ra bằng ma lực cho phép người dùng cất giấu và kiểm soát vật phẩm tùy ý. *(Xuất hiện tại Tập 247)*
-- **Giải Mã Cổ Ngữ - Sơ Cấp (Kodaigo Kaidoku - Jo / 古代語解読・序):** Kỹ năng bị động cho phép đọc và giải mã các ký tự cổ ngữ ở mức độ cơ bản. *(Xuất hiện tại Tập 247)*
-- **Giải Mã Trận Pháp - Sơ Cấp (Mahoujin Kaidoku - Sho / 魔法陣解読・初):** Kỹ năng bị động cho phép đọc hiểu cấu trúc và vận hành các ma pháp trận cơ bản. *(Xuất hiện tại Tập 247)*
-- **Dao Đỏ (Red Knife / レッドナイフ):** Con dao găm màu đỏ, vũ khí phụ cận chiến gắn bó lâu năm của Kotarou. *(Xuất hiện tại Tập 249)*
-- **Bọ ngựa đêm (Night Mantis / ナイトマンティス):** Ma vật bọ ngựa khổng lồ có cánh và hai lưỡi hái sắc bén, thường đi cùng đàn kiến. *(Xuất hiện tại Tập 249)*
-- **Kiến lính (Pawn Ant / ポーンアント):** Ma vật kiến cấp thấp thường đi theo bầy đàn hỗ trợ cho Night Mantis. *(Xuất hiện tại Tập 249)*
-- **Rối bóng (Shadow Puppet / 影人形):** Năng lực của Rem cho phép ẩn mình vào bóng tối và biến hình thành các thực thể ma vật mà nó đã từng thu thập được (như Hắc Kị Sĩ). *(Xuất hiện tại Tập 249)*
-- **Con Rối Bóng Tối Lệ Thuộc (Reizoku no Kage Ningyou / 隷属の影人形):** Chú thuật mới của Kotarou do Ruinhilde ban cho, là dạng tiến hóa của Con Rối Bùn Ô Uế sau khi hấp thụ lõi Yamata no Orochi. *(Xuất hiện tại Tập 248)*
-- **Con Rối Bùn Ô Uế (Odaku no Doro Ningyou / 汚濁の泥人形):** Chú thuật triệu hồi nguyên bản của Kotarou dùng để tạo ra Rem trước khi tiến hóa. *(Xuất hiện tại Tập 248)*
-- **Nữ thần Elshion (Goddess Elshion / 女神エルシオン):** Vị thần bảo hộ của nhóm Dũng Giả và ban phát Thiên chức cho học sinh, bị Ruinhilde coi là kẻ thù và gọi là 'kẻ ngu muội điên cuồng'. *(Xuất hiện tại Tập 248)*
-- **Sứ giả màu trắng giả danh Hiền giả (White Apostle posing as Sage / 賢者を騙る白の使徒):** Danh xưng mà Ruinhilde dùng để chỉ Takanashi Kotori, kẻ nhận được sự bảo hộ đặc biệt từ Nữ thần Elshion. *(Xuất hiện tại Tập 248)*
-- **Sự bảo hộ của Nữ hoàng Yêu tinh (Protection of the Fairy Queen / 妖精女王の加護):** Nguồn sức mạnh bổ trợ giúp Kotarou thi triển chú thuật tối thượng Yêu Tinh Điệp Báo Tử. *(Xuất hiện tại Tập 248)*
-- **Đứa con của Nữ thần Elysion (Child of Goddess Elysion / 女神エルシオンの御子):** Danh hiệu ẩn đi kèm thiên chức Dũng Giả của Souma Yuuto. *(Xuất hiện tại Tập 253)*
-- **Đứa con của Chú thần Ruinhilde (Child of Curse God Ruinhilde / 呪神ルインヒルデの御子):** Danh hiệu ẩn đi kèm thiên chức Chú thuật sư của Momokawa Kotarou. *(Xuất hiện tại Tập 253)*
-- **Sứ giả của Nữ thần Elysion (Apostle of Goddess Elysion / 女神エルシオンの使徒):** Danh hiệu ẩn đi kèm thiên chức Hiền Giả của Takanashi Kotori. *(Xuất hiện tại Tập 253)*
-- **Succubus (Succubus / 淫魔):** Thiên chức mới của Himeno Airi sau khi bị tước đoạt thiên chức Trị Liệu Thuật Sư. *(Xuất hiện tại Tập 253)*
-- **Hồng Thương (Red Lance / レッドランス):** Cây thương hệ Hỏa được cải tiến từ thương sắt của Hayama, có khả năng bắn cầu lửa. *(Xuất hiện tại Tập 250)*
-- **Liệt Phong Đường Lang Hoàn (Reppu Kamakiri-maru / 烈風カマキリ丸):** Thanh phong kiếm được luyện thành từ càng của Night Mantis và Phong Quang Thiết, có khả năng phóng ra trảm kích bằng gió. *(Xuất hiện tại Tập 250)*
-- **Hỏa Quang Thiết (Fire Light Iron / 火光鉄):** Kim loại chứa ma lực hệ Hỏa dùng để chế tạo trang bị thuộc tính Hỏa. *(Xuất hiện tại Tập 250)*
-- **Phong Quang Thiết (Wind Light Iron / 風光鉄):** Kim loại chứa ma lực hệ Phong dùng để chế tạo trang bị thuộc tính Phong. *(Xuất hiện tại Tập 250)*
-- **Phong Quang Thạch (Wind Light Stone / 風光石):** Loại ma thạch thuộc tính Phong phát sáng, dùng làm nguyên liệu chế tạo các vật phẩm ma pháp hệ Phong. *(Xuất hiện tại Tập 250)*
-- **Mật Lâm Tháp (Jungle Tower / 密林塔):** Tòa tháp nằm trong khu vực rừng rậm của hầm ngục. *(Xuất hiện tại Tập 251)*
-- **Large Skeleton (Large Skeleton / ラージスケルトン):** Xác xương khổng lồ. Quái vật Boss đầu tiên của Tendou và Nakajima, kích thước gấp đôi Skeleton thông thường, trang bị đại kiếm thô kệch. *(Xuất hiện tại Tập 252)*
-- **Oán Sa Thi Nhân Hình (Ensa no Shikabane Ningyou / 怨嗟の屍人形):** Chú thuật nhánh tiến hóa từ Thi Nhân Hình của Kotarou. Biến xác ma vật thành xác sống màu đen có vân đỏ chạy dọc cơ thể, có khả năng tự lập hành động theo mệnh lệnh mà không tốn nhiều năng lượng kiểm soát của thuật giả. *(Xuất hiện tại Tập 253)*
-- **Ác linh (Akuryou / 悪霊):** Những tồn tại tương tự tinh linh nhưng mang thuộc tính hắc ám, xuất hiện dưới hình dạng người que màu đen đối với người có khả năng nhìn thấy tinh linh như Rerite. *(Xuất hiện tại Tập 253)*
-- **Người que màu đen (Kuroi Bou Ningen / 黒い棒人間):** Hình dạng của các ác linh hoặc tinh linh bóng tối dưới góc nhìn của Rerite. *(Xuất hiện tại Tập 253)*
-- **Hơi thở cát (Sand Breath / 砂のブレス):** Đòn tấn công đặc trưng hệ Thổ của ma vật Grimgoa, phun ra luồng bão cát với uy lực cực mạnh. *(Xuất hiện tại Tập 255)*
-- **Áo khoác thỏ (Rabbit Coat / うさぎコート):** Trang phục chống lạnh của Rem, chế tạo từ da thỏ do Beniwo săn được, có mũ trùm gắn tai thỏ thật. *(Xuất hiện tại Tập 255)*
-- **Đồng phục thủy thủ giả (Fake Sailor Uniform / ニセセーラー服):** Trang phục thường ngày của Rem, được Kotarou may mô phỏng theo đồng phục nữ sinh của Học viện Hakurei. *(Xuất hiện tại Tập 255)*
-- **Tuyết Hôi Lang (Sekkairou / Snow Ash Wolf / 雪灰狼):** Ma vật sói màu xám tro sống ở khu vực tuyết, di chuyển cực nhanh trên tuyết bất chấp bão bùng, có xu hướng tấn công theo bầy đàn và phối hợp săn mồi. *(Xuất hiện tại Tập 257)*
-- **Grimgoar (Grimgoar / グリムゴア):** Ma vật khổng lồ được Kotarou sử dụng làm xác rối chiến đấu. *(Xuất hiện tại Tập 257)*
-- **Ưng Hói Đỏ (Aka-hagetaka / アカハゲタカ):** Loài ma vật dạng chim ưng săn mồi cỡ lớn sống ở sườn núi, có bộ lông màu nâu đỏ như rỉ sét và chiếc mỏ lớn có răng cưa lởm chởm. Bản tính thận trọng và nhút nhát, chỉ tấn công các mục tiêu đi lẻ. *(Xuất hiện tại Tập 254)*
-- **Ác Linh Nhập (Akuryou-tsuki / 悪霊憑き):** Chú thuật mới của Kotarou do Nữ thần Ruinhilde ban cho. Bằng cách ngưng tụ các ác linh yếu ớt trôi nổi xung quanh và nhập vào mục tiêu, chú thuật này khiến đối phương phát điên và tấn công điên cuồng bất kể địch ta. *(Xuất hiện tại Tập 254)*
-- **Thạch Tiễn (Ishiya / 石矢):** Ma pháp tấn công hệ Thổ tạo ra các mũi tên bằng đá bắn vào mục tiêu. *(Xuất hiện tại Tập 254)*
-- **Đèn bão Tinh Linh Ánh Sáng (Kanteira / カンテラ):** Chiếc đèn bão ma pháp do Sakura chế tạo bằng cách phong ấn Tinh Linh Ánh Sáng bên trong, phát ra ánh sáng thuộc tính Quang cực kỳ hiệu quả để xua đuổi ác linh. *(Xuất hiện tại Tập 254)*
-- **Nồng độ Môi trường Ma lực Cấp 4 (Magic Density Environment Level 4 / 魔力濃度環境４):** Khu vực hầm ngục có nồng độ ma lực đậm đặc cấp độ 4, nơi có độ nguy hiểm cao và chứa các ma vật mạnh mẽ. *(Xuất hiện tại Tập 256)*
-- **Túi sưởi tinh linh (Spirit-style Hand Warmer / 精霊式カイロ):** Thiết bị sưởi ấm cầm tay do Kotarou và Hayama chế tạo, sử dụng Hỏa Quang Thạch độ 3, da và lõi của Sói Tro Tuyết, được yểm ma pháp trận Goma và trú ngụ bởi Tinh Linh Lửa để tỏa nhiệt lượng dễ chịu. *(Xuất hiện tại Tập 258)*
-- **Khói mù phái Hinagiku (Hinagiku-style Smoke Screen / 雛菊式煙幕):** Loại bom khói tạo ra làn khói trắng dày đặc để che mắt kẻ địch, do Hinagiku Haya chế tạo. *(Xuất hiện tại Tập 261)*
-- **Quái vật giun khổng lồ (Worm Monster / ミミズの化け物 / ワームモンスター):** Những con giun khổng lồ có đường kính khoảng 30cm, miệng tròn lởm chởm răng sắc nhọn, được Yokomichi Hajime phóng ra từ miệng để tấn công. *(Xuất hiện tại Tập 261)*
-- **『Biến Thái Hoàn Toàn』 (Kanten Hentai / Complete Metamorphosis / 完全変態):** Kỹ năng biến đổi tối thượng của Yokomichi Hajime, cho phép hắn vứt bỏ cơ thể sâu bướm cũ để hóa thân hoàn toàn thành một con quái vật lợn khổng lồ tám mắt lai Gogma với sức mạnh vượt trội. *(Xuất hiện tại Tập 264)*
-- **『Hỏa Phong Luân』 (Kafurin / Fire-Wind Ring / 火風輪):** Vòng tay ma pháp đeo ở tay trái của Hayama Ritsuki, giúp cường hóa và kết hợp ma pháp thuộc tính Hỏa và Phong. *(Xuất hiện tại Tập 264)*
-- **Voi ma mút gai (Spike Mammoth / スパイクマンモス):** Ma vật voi ma mút khổng lồ có gai nhọn sống ở khu vực tuyết của hầm ngục. *(Xuất hiện tại Tập 264)*
-- **『Xích Phát Phược』 (Akagami Kukuri / Red Hair Binding / 赤髪括り):** Kỹ năng chú thuật của Momokawa Kotarou, sử dụng các sợi tóc đỏ từ đầm lầy độc để trói buộc và kiềm chế mục tiêu. *(Xuất hiện tại Tập 264)*
-- **Rồng đỏ lông vũ Crimson Rex (Crimson Rex / クリムゾンレックス):** Bá chủ của khu rừng tuyết, một ma vật cực kỳ mạnh mẽ có lông vũ màu đỏ. *(Xuất hiện tại Tập 263)*
-- **Kẻ nuốt chửng kỹ năng (Skill Eater / スキルイーター):** Năng lực đặc thù tự xưng của Yokomichi Hajime, cho phép hắn ăn thịt ma vật để tái hiện các bộ phận và sử dụng kỹ năng của chúng. *(Xuất hiện tại Tập 263)*
-- **Orfrost (Orfrost / オルフロスト):** Ma vật sói tro tuyết khổng lồ hai đầu, biến thể hệ băng của Orthrus, có khả năng thống lĩnh đàn sói. *(Xuất hiện tại Tập 259)*
-- **Bạch Hùng Giáp Sắt (Armored White Bear / 鎧白熊):** Biến thể gấu trắng mặc giáp băng ở vùng tuyết, sức mạnh thể chất cực lớn và vô cùng dai dẳng khi săn mồi. *(Xuất hiện tại Tập 259)*
-- **Băng Tinh Linh Cấp Cao (Ice High Elemental / アイズ・ハイエレメンタル):** Người khổng lồ băng cao 3 mét, ma vật hệ tinh linh băng cấp cao không thể giao tiếp. *(Xuất hiện tại Tập 259)*
-- **Băng Tinh Linh (Ice Elemental / アイズ・エレメンタル):** Ma vật tinh linh băng hình người tuyết hung dữ thường đi theo bầy đàn. *(Xuất hiện tại Tập 259)*
-- **Điện Lưu Thủy Hoàn (Denryu Suikan / 電流水環):** Vòng cổ ma pháp kết hợp Lôi Quang Thiết và Thủy Quang Thiết chế tạo cho Rerite. *(Xuất hiện tại Tập 259)*
-- **Đai Lưng Terra (Terra Belt / テラ・ベルト):** Thắt lưng da nạm Thổ Quang Thiết chế tạo cho Rerite để tăng cường thổ ma pháp. *(Xuất hiện tại Tập 259)*
-- **Băng Hộ Phù (Ice Amulet / アイズ・アミュレット):** Hộ phù ma pháp chứa Băng Tinh Thể của Lớp trưởng chế tạo cho Rerite. *(Xuất hiện tại Tập 259)*
-- **Rock Blaster Sawed-off (Rock Blaster Sawed-off / ロックブラスター・ソードオフ):** Súng shotgun ma pháp hệ Thổ cưa nòng chế tạo cho Kyouko, sử dụng đạn kim loại luyện thành làm vật dẫn. *(Xuất hiện tại Tập 259)*
-- **Chiến Thú Giáp Tro Bạch (Ash-White War Beast Armor / 灰白の戦獣鎧):** Bộ giáp xích bọc lông thú chế tạo riêng cho gấu Kinako từ nguyên liệu Orfrost và Bạch Hùng Giáp Sắt. *(Xuất hiện tại Tập 259)*
-- **Vòng Cổ Hồng Liên (Crimson Collar / 紅蓮の首輪):** Vòng cổ ma pháp hệ Hỏa chế tạo riêng cho chó đỏ Beniwo để tăng cường hỏa lực. *(Xuất hiện tại Tập 259)*
-- **Sự chúc phúc của tám tinh linh (Eight Spirits' Blessing / 八精霊の祝福):** Kỹ năng điều kiện của Tinh Linh Thuật Sư, đạt được khi nhận được sự công nhận của tám thuộc tính tinh linh cơ bản. *(Xuất hiện tại Tập 265)*
-- **Sợi dây liên kết vượt qua chủng tộc (Bond Beyond Races / 種族を越えた絆):** Kỹ năng điều kiện của Tinh Linh Thuật Sư, đạt được khi thiết lập mối quan hệ đồng hành bình đẳng, không bắt buộc phục dịch với các sinh vật khác chủng tộc. *(Xuất hiện tại Tập 265)*
-- **Triệu Hoán Linh Thú (Spirit Beast Summoning / 霊獣召喚):** Kỹ năng tối thượng của Tinh Linh Thuật Sư, cho phép triệu gọi các linh thú mạnh mẽ từ mối liên kết chân thật. *(Xuất hiện tại Tập 265)*
-- **Bộc Nhiệt Cân Nhục (Explosive Heat Muscle / 爆熱筋肉):** Ma pháp cường hóa thể chất hệ Hỏa nguyên bản của Ooyama, giúp tăng mạnh cơ bắp và sức mạnh vật lý. *(Xuất hiện tại Tập 265)*
-- **Nhiệt Huyết Viêm Khí (Hot-Blooded Flame Aura / 熱血炎気):** Ma pháp cường hóa thể chất hệ Hỏa nguyên bản của Ooyama, bao phủ cơ thể bằng luồng khí lửa nóng bỏng. *(Xuất hiện tại Tập 265)*
-- ** (Yokomichi's Water Form / 横道の水中形態):** Hình dạng biến dị của Yokomichi dưới nước, nửa thân dưới là cá mập có vây đuôi khổng lồ, hai chân có màng bơi giống Kappa. *(Xuất hiện tại Tập 262)*
-- ** (Yokomichi's Caterpillar Form / 横道の芋虫形態):** Hình dạng biến dị trên cạn của Yokomichi, nửa thân dưới biến thành sâu bướm khổng lồ dài 5m màu trắng đục với nhiều chân bọc giáp đen giúp di chuyển cực nhanh trên tuyết. *(Xuất hiện tại Tập 262)*
-- ** (Worm Head / ワームヘッド):** Kỹ năng của Yokomichi cho phép phóng ra vô số xúc tu dạng giun đất từ bên trong cơ thể để tấn công diện rộng. *(Xuất hiện tại Tập 262)*
-- ** (Wind Sword / 風の剣):** Thanh đại đao một lưỡi có đường vân xanh lá của Gogma, có khả năng phóng ra các nhát chém gió Phong Nhẫn. *(Xuất hiện tại Tập 262)*
-- ** (Fire Axe / 炎の斧):** Cây đại rìu có lưỡi nhuộm đỏ của Gogma, có khả năng phun ra ngọn lửa dữ dội khi tấn công. *(Xuất hiện tại Tập 262)*
-- **Phản Phục Thống Khổ (Itami-gaeshi / 痛み返し):** Chiến thuật phản đòn bằng cách trả lại sát thương/vết thương cho đối thủ. *(Xuất hiện tại Tập 266)*
-- **Dạ Dày Không Đáy (Sokonashi Ibukuro / 底無胃袋):** Kỹ năng tích trữ con mồi đã nuốt của Yokomichi Hajime để duy trì sức mạnh. *(Xuất hiện tại Tập 266)*
-- **Đại Khẩu (Oogaito / オオアギト):** Bộ phận miệng khổng lồ đầy răng nanh biến dị của Yokomichi Hajime dùng để ngoạm con mồi. *(Xuất hiện tại Tập 266)*
-- **Tóc Đen Trói Buộc (Kurokami Shibari / 黒髪縛り):** Chú thuật trói buộc bằng cách điều khiển các sợi tóc đen của Momokawa Kotarou. *(Xuất hiện tại Tập 266)*
-- **Tháp Trung Tâm (Central Tower / セントラルタワー):** Tòa tháp khổng lồ nằm ở trung tâm của tầng sâu nhất hầm ngục, là nơi đặt Thiên Tống Môn và cũng là phòng Boss cuối cùng. *(Xuất hiện tại Tập 271)*
-- **Vương quốc Goma (Goma Kingdom / ゴーマの王国):** Lãnh thổ và thành thị pháo đài do tộc Goma xây dựng xung quanh Tháp Trung Tâm ở tầng sâu nhất, được canh gác bởi quân đội Goma vũ trang thép. *(Xuất hiện tại Tập 271)*
-- **Đầu Lâu Của Thực Nhân Quỷ (Ogre Skull / Skull of the Man-Eater / 食人鬼の頭蓋骨):** Vật phẩm rơi ra sau khi tiêu diệt Yokomichi Hajime (Thực Nhân Quỷ). Là minh chứng cho việc tiêu diệt kẻ ăn thịt người, mang tàn tích của sự phàm ăn và luôn bị giam cầm trong cơn đói khát vô tận. *(Xuất hiện tại Tập 267)*
-- **Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1" (Holy Pronouncement: Heavenly Law Article 15 - Mediator Privilege Clause 1 / 神聖言語「天界法１５条・調停者特権第１項」):** Kỹ năng thần thánh cấp cao tiến hóa từ Lời Từ Chối của Takanashi Kotori, có khả năng cưỡng chế đình chỉ mọi hành vi chiến đấu và khóa chặt cử động của mục tiêu bất kể quy luật vật lý hay ma lực. *(Xuất hiện tại Tập 268)*
-- **Tùy Tùng - Hầu Gái (Servant - Maid / 従者・侍女):** Kỹ năng kế thừa thuộc chuỗi Tùy Tùng của thiên chức Vương (Tendou Ryuuichi), cho phép triệu hồi một hầu gái trung thành phục vụ mọi nhu cầu sinh hoạt và hỗ trợ chiến đấu. *(Xuất hiện tại Tập 268)*
-- **Khu Vực Cách Ly (Isolated Area / 隔離区域):** Khu vực đặc biệt bị bỏ hoang và cô lập trong Dungeon, nơi từng là một Quảng Trường Tinh Linh nhưng nay đã bị tàn phá hoàn toàn và biến thành tổ của các ma vật màu trắng dị dạng. *(Xuất hiện tại Tập 268)*
-- **Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình (Heavenly Punishment Penal Code Article 4 - Banishment Sentence / 天罰刑法４条・追放刑):** Kỹ năng ma pháp mới của Takanashi Kotori được ban cho bởi Thần linh, dùng để trục xuất mục tiêu đến một vùng đất ma quỷ xa xôi (nơi cái chết được định sẵn) để đảm bảo mục tiêu không thể quay lại, khiến họ biến mất không dấu vết. *(Xuất hiện tại Tập 273)*
-- **Gira-Gogma (Gira-Gogma / ギラ・ゴグマ):** Biến thể Goma khổng lồ vượt trội hơn cả Gogma, có khả năng hóa khổng lồ từ hình dạng Gove. *(Xuất hiện tại Tập 275)*
-- **Nhãn Thần Chân Giả (Shingan no Hitomi / 真贋の瞳):** Kỹ năng của thiên chức Hiền Giả (Takanashi Kotori) giúp nhìn thấu bản chất, thiên chức hoặc trạng thái quyến thuộc của mục tiêu. *(Xuất hiện tại Tập 276)*
-- **Trực Giác Dược Học (Intuitive Pharmacology / 直感薬学):** Kỹ năng bị động của Momokawa Kotarou, giúp cậu nhận biết và đọc được thông tin, công dụng của các vật phẩm/nguyên liệu dược học hoặc các bộ phận ma vật khi tiếp xúc. *(Xuất hiện tại Tập 282)*
-- **Khổng Lồ Hóa (Kyodaika / Giantification / 巨大化):** Kỹ năng của tộc Goma (như Zagan) cho phép cơ thể hóa khổng lồ để tăng cường sức mạnh vật lý vượt trội. *(Xuất hiện tại Tập 279)*
-- **Bạch Cuồng Thần (Shiroki Kyoujin / White Mad God / 白き狂神):** Danh xưng mà tộc Goma dùng để gọi Nữ thần Elysion (kẻ thù truyền kiếp của thần Goma). *(Xuất hiện tại Tập 279)*
-- **Quang Chi Tử (Hikari no Miko / Child of Light / 光の御子):** Danh hiệu ẩn đi kèm thiên chức Dũng Giả của Souma Yuuto dưới góc nhìn của tộc Goma. *(Xuất hiện tại Tập 279)*
-- **Tháp Thử Thách (Shiren no Tou / Tower of Trials / 試練の塔):** Tên gọi của tộc Goma dành cho tòa tháp cổ xưa ở trung tâm vương quốc Goma (Tháp Trung Tâm). *(Xuất hiện tại Tập 279)*
-- **Kháng Độc (Doku Taisei / Poison Resistance / 毒耐性):** Kỹ năng bị động của Yamada Genki giúp kháng độc tố ở mức độ nhẹ, có được sau quá trình xử lý cá độc tại Học Viện Tháp. *(Xuất hiện tại Tập 279)*
-- **Vô Đạo Nhất Thức (Mudou Isshiki / 無道一式):** Cây gậy ma thuật chuyên dụng đầu tiên của Kotarou chế tạo từ đầu lâu và xương sống của Yokomichi Hajime, được Nữ thần Ruinhilde ban tên và mô tả đặc biệt. *(Xuất hiện tại Tập 283)*
-- **Báo Tuyết (Snow Leopard / ユキヒョウ):** Ma vật hệ Băng có hình dáng giống báo tuyết với bộ lông trắng muốt, di chuyển nhanh nhẹn và có khả năng bắn băng tiễn. *(Xuất hiện tại Tập 283)*
-- **Sa Khuyển (Suna-inu / Desert Dog / 砂犬):** Ma vật dạng chó màu cát có đốm trắng thích nghi với môi trường sa mạc. *(Xuất hiện tại Tập 281)*
-- **Hắc Ảnh Nhẫn (Shadow Edge / シャドウエッジ):** Kỹ năng săn mồi hệ bóng tối, tạo ra lưỡi đao bằng thép đen kịt để tấn công. *(Xuất hiện tại Tập 281)*
-- **Hắc Ảnh Châm (Shadow Needle / シャドウニードル):** Kỹ năng săn mồi hệ bóng tối, bắn ra các kim thép đen kịt chứa độc tố. *(Xuất hiện tại Tập 281)*
-- **Hắc Ảnh Hành Giả (Shadow Runner / シャドウランナー):** Kỹ năng săn mồi hệ bóng tối, giúp di chuyển nhanh hơn và im lặng hơn trong bóng tối. *(Xuất hiện tại Tập 281)*
-- **Kẻ Cuồng Chiến Lang Thang (Samaou Kyousenshi / Wandering Berserker / 彷徨う狂戦士):** Một thực thể ma vật cực kỳ mạnh mẽ mặc giáp trụ đen tuyền, giống như dạng tối thượng của Living Armor. Sở hữu đòn tấn công diện rộng bỏ qua phòng ngự và hoạt động bằng sức mạnh của một vị thần đáng sợ. *(Xuất hiện tại Tập 289)*
-- **Mai Táng Thần Học (Maisou Shingaku / Burial Theology / 埋葬神学):** Chú thuật giám định cổ xưa thuộc hệ thống của Chú thần Ruinhilde, hiển thị thông tin dưới dạng các mô tả mang tính thần thoại/tôn giáo mơ hồ. *(Xuất hiện tại Tập 289)*
-- **Ga tàu điện ngầm giả định (Subway Platform (Temporary Name) / 地下鉄ホーム（仮称）):** Căn cứ tạm thời hiện tại của nhóm Momokawa Kotarou tại tầng sâu nhất, có cấu trúc giống như một ga tàu điện ngầm bê tông thô ráp. *(Xuất hiện tại Tập 287)*
-- **Gririn (Gririn / グリリン):** Tên gọi con rối Grimgoar số 1 (Grim 1) thuộc sở hữu của Randou Kyouko, được dùng làm thú cưỡi và phương tiện chở đồ. *(Xuất hiện tại Tập 287)*
-- **Sứ ma của Oh-ma (Oh-ma's Familiar / オーマの使い魔):** Sứ ma có hình dạng một con mắt khổng lồ mọc cánh dơi, được khắc thuật thức ma pháp Goma để Vua Goma Oh-ma dùng giám sát khu vực. *(Xuất hiện tại Tập 285)*
-- **Cánh tay tinh linh bóng tối (Dark Spirit's Right Arm / 闇の精霊の右腕):** Cánh tay phải mới của Hayama Ritsuki sau khi cấy ghép từ phân thân Song Ảnh của Kotarou, đã biến đổi và dung hợp hoàn toàn với năng lực Tinh Linh Thuật Sư của cậu. *(Xuất hiện tại Tập 285)*
-- **Rem chim (Rem-dori / レム鳥):** Các phân thân dạng chim của Rem được dùng để trinh sát từ trên không. *(Xuất hiện tại Tập 288)*
-- **Thần Thiết Thánh Kiếm (Seikishi no Shintekken / 聖騎士の神鉄剣):** Thanh kiếm của Souma Yuuto sau khi được cường hóa bằng kim loại hiếm Thần Thiết, lưỡi kiếm biến thành hợp kim Orichalcum phát sáng dịu nhẹ, tăng mạnh uy lực ma pháp truyền dẫn. *(Xuất hiện tại Tập 280)*
-- **Thánh Nữ Hòa Cung (Seijo no Wakyū / 聖女の大和弓):** Cây cung của Souma Sakura sau khi được cường hóa, khắc ma pháp trận chuyên dụng tương thích với quang ma pháp của cô, tỏa ra ánh sáng dịu nhẹ. *(Xuất hiện tại Tập 280)*
-- **Snow White Bloom (Snow White Bloom / スノウホワイト・ブルーム):** Cây gậy phép hệ Băng nâng cấp của Kisaragi Ryouko, chuyển sang màu trắng muốt, tăng mạnh uy lực, phạm vi, tốc độ kích hoạt và số lượng băng ma pháp. *(Xuất hiện tại Tập 280)*
-- **Ancient Villains (Ancient Villains / エンシェントヴィランズ):** Con dao găm của Natsukawa Minami sau khi được cường hóa, mang mô tả u tối và khát máu từ thời cổ đại. *(Xuất hiện tại Tập 280)*
-- **Thanh Tịnh Cổ Đao (Seijou no Kodachi / 清浄の古太刀):** Thanh thái đao của Kenzaki Asuna sau khi được nâng cấp thành hợp kim Orichalcum. *(Xuất hiện tại Tập 280)*
-- **Power Inner (Power Inner / パワーインナー):** Đồ lót chiến đấu được may từ sợi ma lực đặc biệt của binh lính cổ đại, có độ bền cao, kháng thuộc tính và tự động triển khai màng bảo vệ mỏng phản ứng theo ma lực người mặc. *(Xuất hiện tại Tập 280)*
-- **Assassin Suit (Assassin Suit / アサシンスーツ):** Trang phục cường hóa bó sát giống đồ bơi thi đấu dệt từ sợi ma lực đặc biệt, chỉ kích hoạt chức năng phòng ngự khi được mặc bởi Natsukawa Minami. *(Xuất hiện tại Tập 280)*
-- **Shield Protector (Shield Protector / シールドプロテクター):** Giáp tay và giáp chân làm từ hợp kim Orichalcum và sợi ma lực đặc biệt trên nền quang thiết, cho phép kích hoạt tức thời ma pháp phòng ngự ánh sáng bao phủ toàn thân. Được giao cho Asuna. *(Xuất hiện tại Tập 280)*
-- **Diamond Duster (Diamond Duster / ダイアモンドダスター):** Chiếc áo choàng màu trắng của Lớp trưởng Ryouko, tự động tạo khiên băng ngăn chặn các đòn tấn công tầm xa sơ cấp bằng cách phun ra sương giá tinh thể băng. *(Xuất hiện tại Tập 280)*
-- **Lợn Ký Sinh Nấm (Kinoko-buta / キノコ豚):** Ma vật giống lợn bị loài nấm ma vật ký sinh trên lưng, mọc ra 4 xúc tu và có khả năng phun bào tử độc màu xanh lục, thịt của nó hoàn toàn không thể ăn được. *(Xuất hiện tại Tập 280)*
-- **Chim Tròn (Maru-dori / 丸鳥):** Loài chim bình thường có thân hình tròn xoe như quả bóng do lớp lông vũ cực dày, thực chất rất ít thịt (chỉ bằng 1/3 gà thường sau khi vặt lông). *(Xuất hiện tại Tập 280)*
-- **Crimson Grilleen (Crimson Grilleen / クリムゾングリリーン):** Ma vật khủng long bọc lớp giáp màu đỏ thẫm được Randou Kyouko cưỡi làm thú cưỡi/triệu hồi. *(Xuất hiện tại Tập 280)*
-- **Nham Sơn Băng Lở (Ganzan Houraku / 岩山崩落):** Ma pháp tấn công diện rộng cấp cao thuộc hệ Thổ, tạo ra một trận lở đất đá khổng lồ càn quét kẻ địch. *(Xuất hiện tại Tập 280)*
-- **Mặt nạ Goma (Goma Mask / ゴーママスク):** Chiếc mặt nạ làm từ da mặt lột ra từ một con Goma thật, dùng để cải trang. *(Xuất hiện tại Tập 291)*
-- **Hư Ảnh Tương Chiếu (Utsuro Utsushi / 虚ろ写し):** Nhãn thuật ảo ảnh do Ruinhilde ban cho Kotarou, giúp phản chiếu ảo ảnh mong muốn lên một vật thể làm nền để đánh lừa thị giác kẻ địch. *(Xuất hiện tại Tập 291)*
-- **Trang phục Goma (Goma's Clothes / ゴーマの服):** Chiếc áo choàng rách rưới được khâu ghép từ nhiều mảnh vải vụn để giả dạng Goma thường dân. *(Xuất hiện tại Tập 291)*
-- **Balo Goma (Goma's Backpack / ゴーマのリュック):** Chiếc túi lớn làm từ da thú rách rưới dùng để đựng đồ thám hiểm. *(Xuất hiện tại Tập 291)*
-- **Cây Gậy Ẩn Mật (Cane of Stealth / 隠密の杖):** Cây gậy phép tích hợp đầu lâu của Sakurai Touya, cho phép sử dụng các kỹ năng Cảm Nhận Hiện Diện, Che Giấu Hiện Diện và Ưng Nhãn. *(Xuất hiện tại Tập 291)*
-- **Cú Tuyết (White Owl / 白フクロウ):** Sứ ma Rem dạng cú trắng thu được từ vùng tuyết, dùng làm đội trưởng đội trinh sát trên không và thu hồi trang bị khi Kotarou tử trận. *(Xuất hiện tại Tập 291)*
-- **Quạ (Crow / カラス):** Sứ ma Rem dạng quạ đen dùng để trinh sát tầm gần trong Vương quốc Goma. *(Xuất hiện tại Tập 291)*
-- **Vòng cổ phòng ngự (Defensive Necklace / 防御系のネックレス):** Vật phẩm ma pháp phòng ngự của Goma quý tộc, có khả năng vô hiệu hóa hoặc giảm nhẹ đòn tấn công vật lý theo số lần giới hạn. *(Xuất hiện tại Tập 295)*
-- **Đại Chiến Sĩ Đoàn (Great Warrior Group / 大戦士団):** Lực lượng tinh nhuệ nhất của Vương quốc Goma gồm 37 thành viên (6 Đại Chiến Sĩ và 30 Gogma dưới quyền). *(Xuất hiện tại Tập 293)*
-- **Kẻ Diệt Khổng Lồ (Giant Killer / 巨人殺し):** Danh hiệu vinh quang mà Zagan cảnh báo các Đại Chiến Sĩ không được để con người đoạt lấy. *(Xuất hiện tại Tập 293)*
-- **Nhãn Quan của Oh-ma (Oh-ma's Eyes / オーマ様の目):** Hệ thống giám sát bằng ma pháp của Vua Oh-ma đặt khắp vương quốc, liên tục bị Kotarou phá hủy. *(Xuất hiện tại Tập 293)*
-- **Đậu Bùn (Doro-mame / 泥豆):** Loại đậu được canh tác trên ruộng bùn hôi thối của tộc Goma, có sức sống mãnh liệt và sản lượng cao. *(Xuất hiện tại Tập 292)*
-- **Khoai Bùn (Doro-imo / 泥芋):** Loại khoai được canh tác trên ruộng bùn hôi thối của tộc Goma, là nguồn lương thực chính cùng với Đậu Bùn. *(Xuất hiện tại Tập 292)*
-- **Thể Băng (Tai-kuzushi / 体崩し):** Kỹ thuật cận chiến cơ bản thuộc phái Souma dùng để làm mất thăng bằng và ném ngã đối thủ. *(Xuất hiện tại Tập 296)*
-- **Kiếm đạo tam bội đoạn (Kendo Sanbaidan / 剣道三倍段):** Một câu nói trong kiếm đạo ngụ ý rằng người sử dụng vũ khí có tầm đánh dài hơn (như thương) sẽ có lợi thế gấp ba lần so với người dùng kiếm. *(Xuất hiện tại Tập 296)*
-- **Pháo đài ẩn (Kakushi Toride / 隠し砦):** Một trong những địa điểm ẩn nấp tiềm năng của con người được Gizagins dự đoán. *(Xuất hiện tại Tập 298)*
-- **Hang động ác mộng (Akumu no Doukutsu / 悪夢の洞窟):** Nơi nguy hiểm được cho là lãnh địa của 'Hóa thân của ác mộng đen' (Chiến Binh Cuồng Loạn Lang Thang). *(Xuất hiện tại Tập 298)*
-- **Hóa thân của ác mộng đen (Kuroki Akumu no Keshin / 黒き悪夢の化身):** Danh xưng mà tộc Goma dùng để gọi 'Chiến Binh Cuồng Loạn Lang Thang' (Wandering Berserker). *(Xuất hiện tại Tập 298)*
-- **Thổ Tinh Pháo (Doseihou / Saturn Cannon / 土星砲):** Chiêu thổ ma pháp tất sát của Randou Kyouko, cải tiến từ Phá Nham Trường Thương bằng cách mượn sức mạnh của các Thổ Tinh Linh, tạo ra một khối đá khổng lồ xoáy quanh bởi vành đai cát như Sao Thổ. *(Xuất hiện tại Tập 300)*
-- **Thổ Tinh Linh (Earth Spirit / 土精霊):** Các tinh linh thuộc tính Thổ hỗ trợ Kyouko tích tụ và phóng ma pháp hệ Thổ với quy mô cực lớn. *(Xuất hiện tại Tập 300)*
-- **Cương Đại Đả Kích (Goudai Dageki / 剛大打撃):** Võ kỹ tấn công cận chiến cấp cao bằng rìu của Yoshizaki Hiroe (Mari), thức tỉnh sau trận chiến Yamata no Orochi. *(Xuất hiện tại Tập 300)*
-- **Đại Đoạn Kích Phá (Daidan Gekiha / 大断撃破):** Võ kỹ tấn công cận chiến cấp cao bằng kiếm của Yamada Genki, thức tỉnh sau trận chiến Yamata no Orochi. *(Xuất hiện tại Tập 300)*
-- **Hệ Biến Thái Hoàn Toàn (Kanten Hentai-kei / 完全変態系):** Kỹ năng đặc thù của gậy phép Vô Đạo Nhất Thức, cho phép giải phóng các phần cơ thể của những ma vật đã bị hấp thụ để tấn công và khống chế mục tiêu. *(Xuất hiện tại Tập 302)*
-- **Linh Thú Hóa (Reijuuka / 霊獣化):** Trạng thái hoặc kỹ năng biến đổi liên quan đến Linh thú của Tinh Linh Thuật Sư, đi kèm với cái giá phải trả rất lớn về ma lực và thể chất. *(Xuất hiện tại Tập 302)*
-- **Bom Lõi (Core Bomb / コア爆弾):** Vũ khí nổ tự chế của Kotarou sử dụng Lõi Ma Vật làm chất nổ chính để tạo ra sức công phá cực lớn. *(Xuất hiện tại Tập 302)*
-- **Terra Fortis Sagitta (Terra Fortis Sagitta / テラ・フォルティスサギタ):** Ma pháp tấn công hệ Thổ cấp cao, tạo ra các mũi tên bằng đá sắc nhọn có uy lực cực mạnh găm sâu vào mục tiêu. *(Xuất hiện tại Tập 304)*
-- **Kích hoạt cơ thể (Physical Activation / 肉体活性):** Kỹ năng tự hồi phục cơ thể của tộc Goma, giúp nối liền xương thịt và chữa lành vết thương. *(Xuất hiện tại Tập 304)*
-- **Đào xoài (Momo-mango / モモマンゴー):** Một loại trái cây dị giới quý hiếm thu hoạch gần ga ngầm, được Kotarou dùng để ủ rượu mừng chiến thắng. *(Xuất hiện tại Tập 304)*
-- **Đoản Kiếm Trì Hoãn (Slowing Dagger / スロウダガー):** Kỹ năng ném dao của thiên chức cận chiến, giúp tăng độ chính xác và hiệu quả khi ném dao găm. *(Xuất hiện tại Tập 301)*
-- **Emerodia (Emerodia / エメローディア):** Đế quốc cổ đại từng thống trị đại lục, tôn sùng Nữ thần Ánh sáng Elshion nhưng bị hủy diệt do nghiên cứu sức mạnh của Ma thần bóng tối. *(Xuất hiện tại Tập 303)*
-- **Ma thần bóng tối (Dark Demon God / 闇の魔神):** Thực thể tà ác cổ đại mà đế quốc Emerodia nghiên cứu sức mạnh, dẫn đến sự bạo tẩu không gian tạo ra hầm ngục. *(Xuất hiện tại Tập 303)*
-- **Vương Kị (Royal Mount / King's Steed / 王騎):** Vai trò thú cưỡi/hộ vệ huyền thoại dành riêng cho người sở hữu thiên chức Vương. *(Xuất hiện tại Tập 303)*
-- **Trung Cấp Ma Pháp Kiếm Kỹ (Mid-tier Magic Sword Skills / 中級魔法剣技):** Kỹ năng cho phép người sử dụng thi triển ma pháp trung cấp thông qua thanh ma pháp kiếm tương ứng. *(Xuất hiện tại Tập 306)*
-- **Viêm Kiếm Salamandra (Flame Sword Salamandra / 炎剣・サラマンドラ):** Thanh ma pháp kiếm thuộc tính Hỏa cực kỳ xa xỉ được chế tạo từ móng, răng nanh, vảy của Salamander và Hỏa Quang Thiết. *(Xuất hiện tại Tập 306)*
-- **Hỏa Viêm Phòng Bích (Fire Wall / 火炎防壁):** Ma pháp phòng ngự diện rộng thuộc tính Hỏa, tạo ra một bức tường lửa ngùn ngụt để ngăn chặn kẻ địch. *(Xuất hiện tại Tập 306)*
-- **Hỏa Viêm Pháo (Fire Cannon / 火炎砲):** Ma pháp tấn công diện rộng thuộc tính Hỏa. *(Xuất hiện tại Tập 306)*
-- **Lựu Đạn Phóng Hỏa (Incendiary Grenade / 焼夷グレネード):** Lựu đạn chuyên dụng để phóng hỏa, chế tạo từ Hỏa Quang Thạch, bột vảy Salamander và Lõi ma vật, kích hoạt bằng ma lực. *(Xuất hiện tại Tập 306)*
-- **Salamand Mail MK I (Salamand Mail MK I / サラマンドメイルＭＫⅠ):** Bộ giáp toàn thân màu đỏ của Yamada được nâng cấp bằng vỏ cứng Salamander, tích hợp hệ thống làm mát bằng Băng Tinh Thể và bình dưỡng khí. *(Xuất hiện tại Tập 306)*
-- **Áo Choàng Kháng Nhiệt Thử Nghiệm (Prototype Heat-Resistant Cloak / 試作型耐熱マント):** Áo choàng thử nghiệm giúp bảo vệ toàn thân khỏi lửa đỏ, tiết kiệm nguyên liệu Salamander. *(Xuất hiện tại Tập 306)*
-- **Dâm Văn (Inmon / 淫紋):** Dấu ấn ma thuật liên quan đến tình dục và ma lực, được mô tả là nghi thức chuyển hóa tinh lực và ma lực từ thời cổ đại. *(Xuất hiện tại Tập 308)*
-- **Loyrops Số 1 - Bản Vận Tải Thiết Giáp (Loyrops Unit 1 - Armored Transport Spec / ロイロプス一号車・装甲輸送仕様):** Bản nâng cấp của Loyrops dành cho Himeno Airi, trang bị cabin thép chống tên đạn và khoang y tế khẩn cấp. *(Xuất hiện tại Tập 308)*
-- **Loyrops Số 2 - Bản Đột Kích Trọng Trang (Loyrops Unit 2 - Heavy Assault Spec / ロイロプス二号車・重装突撃仕様):** Bản nâng cấp của Loyrops dành cho Yamada Genki, bọc giáp gai nhọn và trang bị súng phun lửa hạng nặng. *(Xuất hiện tại Tập 308)*
-- **Cọc sắt thi công siêu tốc - Tokkan Kouji-kun Mẫu 1 (Tokkan Kouji-kun Type 1 / 土魔法造成用鉄杭・突貫工事くん１型):** Cọc sắt đặc biệt do Kyouko luyện thành, Kotarou khắc thuật thức dẫn truyền ma lực và Rerite nhờ thổ tinh linh hỗ trợ. Có tác dụng đẩy nhanh tốc độ thi công và tăng cường hiệu quả của Thổ ma pháp phòng ngự. *(Xuất hiện tại Tập 309)*
-- **Tank (Tank / タンク):** Triệu hoán thú xác sống mới của Kotarou, có thân hình hộ pháp vạm vỡ giống võ sĩ sumo, da xám cứng cáp, sức mạnh vật lý và độ bền cao nhưng tốc độ di chuyển chậm. *(Xuất hiện tại Tập 309)*
-- **Thi hài giáp (Shikabane Yoroi / Corpse Armor / 屍鎧):** Chú thuật mới do Kotarou tự phát triển, cho phép thuật giả tự bao bọc bản thể vào bên trong một Thi nhân hình (như xác Bazuzu) để trực tiếp điều khiển và chiến đấu cận chiến mà không tốn năng lượng kiểm soát của Rem. *(Xuất hiện tại Tập 311)*
-- **Bom lõi điều khiển từ xa kiểu Hắc Phát "Vương Quốc Sụp Đổ (Fallen Kingdom)" (Black Hair Remote Core Bomb "Fallen Kingdom" / 黒髪式遠隔コア爆弾「王国崩し（フォールンキングダム）」):** Vũ khí nổ tự chế của Kotarou, gồm 2 lõi ma vật ngăn cách bởi vách ngăn nối với Tóc Đen Trói Buộc, đặt trong hộp kháng ăn mòn để kích nổ từ xa. *(Xuất hiện tại Tập 311)*
-- ** (Oonie no Amagoi / 大贄の雨乞い):** Nghi lễ ma pháp thần thánh tối cao của Vua Oh-ma, hiến tế mạng sống của các vu nữ để cầu xin thần Goma ban mưa dập tắt hỏa hoạn quy mô lớn. *(Xuất hiện tại Tập 312)*
-- ** (Priest Gove / 神官ゴーヴ):** Tầng lớp tinh anh của tộc Gove, mặc lễ phục sặc sỡ, thân hình mảnh khảnh, chuyên trách về ma lực và trí tuệ thay vì sức mạnh vật lý. *(Xuất hiện tại Tập 312)*
-- ** (Bull-demon / 牛魔人):** Cách gọi của tộc Goma dành cho con rối Minotaur khổng lồ (Rem-4 Minotaur) do Kotarou điều khiển. *(Xuất hiện tại Tập 312)*
-- **Áo Khoác Tản Nhiệt (Radiator Jacket / ラジエータージャケット):** Trang bị kháng nhiệt dạng áo khoác lông thú màu đỏ, sử dụng lông kháng hỏa của Yokomichi và Băng Tinh Thể của Lớp trưởng làm kết giới làm mát, tích hợp Phong Quang Thạch để cung cấp oxy. *(Xuất hiện tại Tập 310)*
-- **Áo Choàng Tản Nhiệt (Radiator Cloak / ラジエーターマント):** Phiên bản cải tiến chính thức của áo choàng kháng nhiệt thử nghiệm, dành cho đội hậu phương không cần cận chiến. *(Xuất hiện tại Tập 310)*
-- **Phong Lưu Yển Nguyệt Đao (Wind Flow Guandao / 風流偃月刀):** Thanh ma kiếm hệ phong bản rộng được chế tạo lại từ vũ khí của Gogma để phù hợp với Ueta, có thể bắn Phong Tiễn và tạo gió lốc. *(Xuất hiện tại Tập 310)*
-- **Rìu Rực Lửa (Blaze Axe / ブレイズアックス):** Đại rìu hệ hỏa cải tiến từ vũ khí của Gogma giao cho Mari, có khả năng tích tụ ma lực để bắn ra quả cầu lửa khổng lồ tương đương Hỏa Thương. *(Xuất hiện tại Tập 310)*
-- **Bách Thủ Phược (Hundred Arms Grasp / 百腕掴み):** Chiêu thức khống chế của Kotarou phát triển từ gậy Vô Đạo Nhất Thức, phóng ra khối thịt hình rết khổng lồ mọc chi chít các loại cánh tay để khóa chặt mục tiêu. *(Xuất hiện tại Tập 310)*
-- **Chân Nhất Thiểm (True Single Flash / 真一閃):** Phiên bản nâng cấp của võ kỹ Nhất Thiểm thuộc hệ kiếm thuật của Ueta. *(Xuất hiện tại Tập 310)*
-- **Song Liệt (Double Rend / 双烈):** Võ kỹ liên hoàn chém song kiếm của Ma Pháp Kiếm Sĩ Nakajima Haruma. *(Xuất hiện tại Tập 310)*
-- **Nguyền Chi Tử (Noroi no Miko / Child of Curse / 呪いの御子):** Danh hiệu Vua Oh-ma dùng để gọi Momokawa Kotarou, coi cậu là đứa con nhận được sự bảo hộ của vị thần đen tối nhất (Ruinhilde), đối trọng với danh hiệu Quang Chi Tử của Souma Yuuto. *(Xuất hiện tại Tập 316)*
-- **Nham Lịch Băng (Ganrekihou / 岩礫崩):** Thổ ma pháp tấn công của Randou Kyouko, tạo ra một trận mưa đá lở dội xuống đầu kẻ thù. *(Xuất hiện tại Tập 318)*
-- **Hắc Nại (Kuronagi / 黒凪):** Kỹ năng chém tốc độ cao tạo ra vệt chém màu đỏ đen đầy điềm gở của Futaba Meiko. *(Xuất hiện tại Tập 319)*
-- **Berserk X (Berserk X / ベルセルクＸ):** Thuốc cường hóa tối thượng dùng cho trận quyết chiến được cải tiến từ Thuốc thử X, kết hợp Lõi ma vật tinh khiết và tinh linh bóng tối để tăng mạnh ma lực và thể chất. *(Xuất hiện tại Tập 319)*
-- **Bát Táp Ngưu Ma Đao (Yatsuzaki Gyūmatō / 八つ裂き牛魔刀):** Thanh đao nguyền rủa khổng lồ của Futaba Meiko dùng để chiến đấu cận chiến. *(Xuất hiện tại Tập 319)*
-- **Hoang Thiên Lạc Lôi (Kōten Rakurai / 荒天落雷):** Ma pháp hệ Lôi cấp cao của Vua Oh-ma, triệu hồi mây đen và giáng xuống vô số tia sét liên tục. *(Xuất hiện tại Tập 319)*
-- **Nộ Đào Thổ Thạch (Dotō Doseki / 怒涛土石):** Ma pháp hệ Thổ của Vua Oh-ma, tạo ra vô số tảng đá lơ lửng xung quanh để bắn liên tục hoặc làm khiên chắn. *(Xuất hiện tại Tập 319)*
-- **Cuồng Hóa A (Berserk A / ベルセルクＡ):** Kỹ năng cường hóa thể chất và sức mạnh chiến đấu của thiên chức Trọng Chiến Binh/Cuồng Chiến Binh. *(Xuất hiện tại Tập 321)*
-- **Kích Chấn (Gekishin / 撃震):** Võ kỹ của thiên chức Cuồng Chiến Binh, tạo ra xung lực chấn động cực mạnh khi tấn công. *(Xuất hiện tại Tập 321)*
-- **Khải Triệt (Yoroi Tooshi / 鎧徹し):** Võ kỹ đấm xuyên giáp, tập trung ma lực đỏ đen vào nắm đấm để tạo ra sóng xung kích phá hủy từ bên trong. *(Xuất hiện tại Tập 321)*
-- **Cánh Vỗ Trói Buộc (Habataki Garami / 羽ばたき絡み):** Kỹ năng khống chế phóng ra từ gậy Vô Đạo Nhất Thức, triệu hồi một khối thịt bay lơ lửng được ghép từ cánh chim và côn trùng để trói buộc mục tiêu cơ động. *(Xuất hiện tại Tập 320)*
-- **Berserk A (Berserk A / ベルセルク・Ａ):** Thuốc tăng lực được bào chế từ Thử nghiệm dược X, phiên bản an toàn hơn Berserk X dành cho mọi người, giúp hồi phục thể chất, tinh thần và ma lực để chiến đấu hết công suất trong thời gian ngắn. *(Xuất hiện tại Tập 320)*
-- **Thi hài giáp Bazuzu (Corpse Armor Bazuzu / 屍鎧バズズ):** Biến thể của chú thuật Thi hài giáp sử dụng xác của Đại Chiến Sĩ Bazuzu, tăng mạnh sức mạnh vật lý, phòng ngự và tốc độ. *(Xuất hiện tại Tập 320)*
-- **Kho Kiếm (Sword Storage / ソードストレージ):** Kỹ năng ma pháp không gian dùng để cất giữ vũ khí của Souma Yuuto (và Kenzaki Asuna cũng mới học được biến thể tương tự). *(Xuất hiện tại Tập 328)*
-- **Avdran (Avdran / アヴドラン):** Vùng đất sa mạc khô cằn nơi Shimokawa bị trục xuất tới. *(Xuất hiện tại Tập 324)*
-- **Thung Lũng Tận Cùng (Owari no Tani / 終わりの谷):** Địa danh nằm ở rìa phía Tây sa mạc Avdran. *(Xuất hiện tại Tập 324)*
-- **Saladina (Saladina / サラディナ):** Tên bộ tộc sa mạc do Latifa dẫn dắt, vừa thất bại trong cuộc chiến bộ tộc và đang trên đường trốn chạy. *(Xuất hiện tại Tập 324)*
-- **Zeal (Zeal / ゼアル):** Một địa danh hoặc thế lực tại vùng đất Avdran. *(Xuất hiện tại Tập 324)*
-- **Lãng Tai (Nancho / 難聴):** Kỹ năng chuyên dụng mang tính châm biếm của Kotarou dành cho các nam chính đần độn trong light novel, ám chỉ việc Yuuto không nghe rõ hoặc cố tình không hiểu vấn đề. *(Xuất hiện tại Tập 327)*
-- **Chính trị và Kinh tế (Seiji Keizai / 政治経済):** Môn học từ thế giới cũ của các học sinh. *(Xuất hiện tại Tập 326)*
-- **Kẻ phân biệt đối xử bằng sức mạnh (Combat Power Racist / 戦闘力レイシスト):** Thuật ngữ châm biếm của Kotarou dành cho tư duy coi thường kẻ yếu của Kenzaki Asuna. *(Xuất hiện tại Tập 326)*
-- **Căn cứ Albion (Albion Base / アルビオンベース):** Căn cứ quân sự cổ đại nằm bên trong Tháp Trung Tâm. *(Xuất hiện tại Tập 331)*
-- **Chỉ huy trưởng lâm thời (Temporary Commander / 臨時司令官):** Quyền hạn quân sự lâm thời được hệ thống di tích cấp cho Tendou Ryuuichi. *(Xuất hiện tại Tập 331)*
-- **Mã General Code (General Code / ジェネラルコード):** Mã xác thực quyền hạn tối cao để điều khiển hệ thống di tích cổ đại. *(Xuất hiện tại Tập 331)*
-- **Quân lệnh Emerodia (Emerodia Military Order / エメローディア軍令):** Các điều luật và mệnh lệnh quân sự tối cao của đế quốc cổ đại Emerodia. *(Xuất hiện tại Tập 331)*
-- **Tổng đốc lâm thời Takanashi (Temporary Governor Takanashi / タカナシ臨時総督):** Chức danh quản trị hệ thống di tích được cấp cho Takanashi Kotori. *(Xuất hiện tại Tập 331)*
-- **Sâu bướm tôm (Ebi-imomushi / エビ芋虫):** Ma vật dạng sâu bướm khổng lồ có hương vị giống tôm hùm, được dùng làm nguyên liệu chiên giòn (tempura). *(Xuất hiện tại Tập 335)*
-- **Đô thị cổ đại Albion (Ancient City Albion / 古代都市アルビオン):** Thành phố cổ đại bị hủy diệt do sức mạnh Ma thần bóng tối bạo tẩu, nơi đặt Tháp Trung Tâm và pháo đài ẩn. *(Xuất hiện tại Tập 333)*
-- **Sinclair Code (Sinclair Code / シンクレアコード):** Quyền hạn dân sự/hành chính của Hiền Giả Kotori tại Albion, tương đương chức vụ Tổng Đốc Tạm Thời. *(Xuất hiện tại Tập 333)*
-- **Thần giao cách cảm của Goma (Goma Telepathy / テレパシー):** Bản chất giao tiếp của tộc Goma, sử dụng âm thanh gào thét làm phương tiện truyền dẫn ý niệm trực tiếp đến đối phương thay vì dùng ngôn ngữ âm thanh thông thường. *(Xuất hiện tại Tập 337)*
-- **Giải Phóng Cấm Chú (Kinjyu Kaihou / 禁呪解法):** Kỹ năng chú thuật cấp cao của Momokawa Kotarou, là bản nâng cấp của Giải Mã Ngoại Pháp, cho phép giải mã sâu hơn các cấm thuật và chế tác các nguyên liệu cực hạn như của Oh-ma và Zagan. *(Xuất hiện tại Tập 338)*
-- **Luyện Thành Trận Cơ Bản (Kiso Renseijin / 基礎錬成陣):** Kỹ năng luyện kim cấp trung, bản nâng cấp của Trận Pháp Luyện Thành Giản Đơn, giúp tăng đáng kể tốc độ và chất lượng chế tác nguyên liệu. Thức tỉnh bởi Himeno Airi. *(Xuất hiện tại Tập 338)*
-- **Green Cerberus (Green Cerberus / グリーンケルベロス):** Ma vật chó ba đầu khổng lồ hệ Phong, có bộ lông màu xanh lục bảo cát, là biến thể hệ phong của Cerberus thông thường. *(Xuất hiện tại Tập 338)*
-- **Chú Đạo Khắc Ấn (Judou Kokuin / 呪導刻印):** Kỹ năng khắc ấn chú thuật (một dạng ma pháp phụ trợ) có được sau khi học Cấm Chú Giải Pháp. *(Xuất hiện tại Tập 339)*
-- **Mãnh Thú (Takeki Kemono / 猛き獣):** Chú ấn thuộc hệ Chú Đạo Khắc Ấn, giúp tăng mạnh sức mạnh thể chất, tốc độ và sự hung tợn của mục tiêu. *(Xuất hiện tại Tập 339)*
-- **Thuật Phục Vụ Phái Momoko: Tức Thời Thay Phục Sức! (Momoko-style Service Art: Instant Clothes Swap! / 桃子流奉仕術、瞬身衣替え！):** Kỹ năng cải trang đặc biệt của hầu gái Momoko, cho phép cô hoán đổi trang phục của bản thân với mục tiêu trong nháy mắt. *(Xuất hiện tại Tập 343)*
-- **Ma vật cá sấu cơ khí (Mechanical Crocodile Dragon / ワニ型ドラゴン):** Ma vật cấp Boss dài 20m ở sâu trong Khu Vực Cách Ly, cơ thể nửa sinh học nửa cơ khí, trang bị pháo bắn tia sáng và có độc tê liệt cực mạnh. *(Xuất hiện tại Tập 341)*
-- **Triệu Hoán Trung Cấp Thổ Tinh Linh (Mid-tier Earth Spirit Summoning / 中級土精霊召喚):** Ma pháp triệu hồi tinh linh hệ Thổ cấp trung, được Randou Kyouko dùng để tạo ra Guririn bằng đất đá. *(Xuất hiện tại Tập 341)*
-- **Triệu Hoán Trung Cấp Băng Tinh Linh (Mid-tier Ice Spirit Summoning / 中級氷精霊召喚):** Ma pháp triệu hồi tinh linh hệ Băng cấp trung của Kisaragi Ryouko. *(Xuất hiện tại Tập 341)*
-- **Ice Golem (Ice Golem / アイスゴーレム):** Thực thể người đá băng giá được triệu hồi từ ma pháp hệ Băng cấp trung của Ryouko. *(Xuất hiện tại Tập 341)*
-- **Bạch Tật Phong (White Gale / Shirohayate / 白疾風):** Tinh linh ánh sáng cấp trung có hình dáng chim ưng trắng bằng xương thịt do Souma Sakura triệu hồi. *(Xuất hiện tại Tập 341)*
-- **Triệu Hoán Cao Cấp Tinh Linh (High-tier Spirit Summoning / 上級精霊召喚):** Ma pháp triệu hồi tinh linh cấp cao đang được nhóm học sinh thử nghiệm. *(Xuất hiện tại Tập 341)*
-- **Triệu Hoán Trung Cấp Tinh Linh (Mid-tier Spirit Summoning / 中級精霊召喚):** Ma pháp triệu hồi tinh linh cấp trung. *(Xuất hiện tại Tập 341)*
-- **Băng Đạn Không Gian (Space Magazine / マガジン):** Một băng đạn cổ đại được yểm ma pháp không gian, có khả năng chứa và tuôn ra lượng đạn cực lớn vượt xa kích thước vật lý của nó. *(Xuất hiện tại Tập 344)*
-- **Đạn Ma Pháp Cổ Đại (Ancient Magic Bullet / 弾丸):** Loại đạn có hình dạng như đinh vít không đầu, thân khắc các ma pháp trận xoắn ốc nhỏ dùng cho các loại súng thực đạn cổ đại. *(Xuất hiện tại Tập 344)*
-- **Điệu Nhảy Khâu Bóng (Shadow Sewing Dance / 影縫いの舞い):** Kỹ năng chiến đấu của Momoko sử dụng bóng tối để khâu hoặc trói buộc mục tiêu. *(Xuất hiện tại Tập 344)*
-- **Tượng yêu tinh (Fairy Statue / 妖精さん像):** Bức tượng đặt tại đài phun nước trung tâm của Quảng Trường Tinh Linh trong Tháp Trung Tâm. Thực chất đây là một bệ pháo laser tự động (turret) có khả năng phóng ra tia sáng chết người cực mạnh để tiêu diệt bất kỳ kẻ xâm nhập nào không phải con người (hoặc cả con người nếu bị thay đổi thiết lập). *(Xuất hiện tại Tập 340)*
-- **Xưởng Lối Vào (Entrance Workshop / エントランス工房):** Xưởng chế tạo/luyện kim nằm ở lối vào pháo đài ẩn, nơi sản xuất trang bị và nhu yếu phẩm chất lượng cao. *(Xuất hiện tại Tập 346)*
-- **Văn phòng Thị trưởng Albion (Albion Mayor's Office / アルビオン市長室):** Căn phòng rộng lớn nằm ở tầng sâu nhất của Tháp Trung Tâm, đóng vai trò như phòng chỉ huy quân sự và phòng vương tọa của Takanashi Kotori. *(Xuất hiện tại Tập 347)*
-- **Tia laser của tượng yêu tinh (Fairy Statue Laser / 妖精像のビーム):** Hệ thống phòng thủ tự động tại Quảng Trường Tinh Linh của Tháp Trung Tâm, bắn ra tia laser cực mạnh từ mắt bức tượng yêu tinh để tiêu diệt kẻ xâm nhập không được phép. *(Xuất hiện tại Tập 347)*
-- **Thang máy thô sơ (Simple Elevator / 簡易的な昇降機):** Thiết bị nâng hạ thô sơ bằng khung sắt và ván gỗ do Kotarou chế tạo để đưa người và trang bị nặng xuống lối bốc dỡ hàng của Tháp. *(Xuất hiện tại Tập 348)*
-- **Xe vận tải đời thứ hai (Second-generation Transport / 二代目輸送車):** Danh hiệu Kotarou đặt cho xác sống Loyrops dùng để thồ hàng. *(Xuất hiện tại Tập 348)*
-- **General Armor (General Armor / ジェネラルアーマー):** Ma vật cấp Boss, phiên bản chỉ huy khổng lồ của Living Armor, trang bị đại khiên và giáp trụ kiên cố. *(Xuất hiện tại Tập 352)*
-- **Vampire (Vampire / ヴァンパイア):** Ma vật cấp Boss dạng người khoác áo choàng đen, sử dụng kiếm liễu (saber), có tốc độ cực nhanh và máu màu xanh lam. *(Xuất hiện tại Tập 352)*
-- **Nham Thạch Phòng Bích (Ganseki Bouheki / 岩石防壁):** Ma pháp phòng ngự hệ Thổ của Randou Kyouko, tạo ra một bức tường đá khổng lồ kiên cố để chặn lối đi. *(Xuất hiện tại Tập 352)*
-- **Rock Blaster E3 (Rock Blaster E3 / ロックブラスターＥ３):** Khẩu shotgun ma pháp hệ Thổ cải tiến từ Rock Blaster Sawed-off, tích hợp linh kiện từ súng blaster cổ đại để tăng uy lực, độ chính xác, tầm bắn và hiệu suất truyền dẫn ma lực. Chữ E3 đại diện cho ba từ Enhanced, Ancient, Elemental. *(Xuất hiện tại Tập 351)*
-- **Song Kích Liệt (Sougekiretsu / 双激烈):** Võ kỹ liên hoàn song kiếm của Ma Pháp Kiếm Sĩ Nakajima Haruma, cho phép lồng ghép các đòn tấn công thuộc tính khác nhau vào từng nhát chém. *(Xuất hiện tại Tập 351)*
-- **High Slash (High Slash / ハイ・スラッシュ):** Võ kỹ chém mạnh tốc độ cao của thiên chức Đạo Tặc, thường được Natsukawa Minami sử dụng để tập kích bất ngờ. *(Xuất hiện tại Tập 351)*
-- **Orthros (Orthros / オルトロス):** Ma vật chó săn hai đầu, phiên bản yếu hơn của Cerberus, có dòng máu màu xanh lam nhạt trong khu vực nhà xưởng. *(Xuất hiện tại Tập 351)*
-- **Quang Pháo (Kouhou / Light Cannon / 光砲):** Ma pháp tấn công diện rộng thuộc tính Quang cấp thấp của Souma Sakura, có khả năng thanh tẩy và tiêu diệt nhanh chóng các ma vật bất tử như Zombie. *(Xuất hiện tại Tập 350)*
-- **Binh bét Skeleton (Skeleton Private Third Class / スケルトン三等兵):** Cách gọi đùa của Momokawa Kotarou dành cho những bộ xương được triệu hồi làm bia đỡ đạn và sử dụng súng trường trong chiến đấu. *(Xuất hiện tại Tập 350)*
-- **Băng Sơn Thành Lũy (Hyōzan Jōheki / 氷山城壁):** Phép phòng ngự diện rộng cấp cao thuộc tính Băng của Kisaragi Ryouko, tạo ra lớp băng dày bao phủ toàn bộ khu vực để ngăn chặn các đòn tấn công hoặc khí độc. *(Xuất hiện tại Tập 353)*
-- **Đệm Khí (Air Cushion / エアクッション):** Vật phẩm ma pháp dạng viên bi lớn phát sáng xanh lá nhạt, giúp giảm chấn thương và tiếp đất an toàn khi rơi từ trên cao xuống. *(Xuất hiện tại Tập 353)*
-- **Phong Thuẫn (Wind Shield / 風盾):** Phép phòng ngự cấp thấp thuộc tính Phong, được Kotarou sử dụng để tạo màng ngăn cách không khí bên ngoài, hoạt động như một trang bị phòng độc. *(Xuất hiện tại Tập 353)*
-- **Quy trình đóng băng toàn diện (Zenmen Tōketsu Shori / 全面凍結処理):** Cơ chế khẩn cấp của Tháp Trung Tâm, thu nạp toàn bộ cấu trúc của một tầng vào á không gian lưu trữ, khiến sàn nhà và các công trình biến mất. *(Xuất hiện tại Tập 353)*
-- **Anh Hoa Liêu Loạn (Ouka Ryouran / 桜花繚乱):** Cây cung ma pháp mới (vũ khí chính mới) của Souma Sakura. *(Xuất hiện tại Tập 354)*
-- **Khu Rừng Của Yêu Tinh (Fairy Forest / 妖精の森):** Tên gọi của tầng hiện tại trong Tháp Trung Tâm, có cảnh quan như một khu rừng nhân tạo tuyệt đẹp và bố trí rất nhiều tượng yêu tinh. *(Xuất hiện tại Tập 354)*
-- **Zagan's Pride (Zagan's Pride / ザガンズ・プライド):** Thanh đại kiếm của Futaba Meiko, chế tạo từ nguyên liệu của Gira-Gogma Zagan, có khả năng phóng to thu nhỏ kích thước lưỡi kiếm theo ý muốn. *(Xuất hiện tại Tập 355)*
-- **Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ (Tenmei-chanken Seichou Hageki / 天命剣・聖鳥羽撃):** Thanh kiếm thần thiết do Takanashi Kotori chế tạo riêng cho Kenzaki Asuna, có khả năng chủ động triển khai Thánh Thiên Kết Giới trên lưỡi kiếm để phòng ngự. *(Xuất hiện tại Tập 355)*
-- **Power Seed (Power Seed / パワーシード):** Loại hạt ma thuật giúp tăng cường sức mạnh cơ bắp tạm thời nhưng gây tiêu hao ma lực và tạo cảm giác đói dữ dội. Được Meiko dùng làm nguyên liệu nướng bánh quy tăng lực. *(Xuất hiện tại Tập 355)*
-- **Nise-corn (Ngựa sừng giả) (Nise-corn / ニセコーン):** Thú cưỡi chuyên dụng của Souma Sakura, được Kotarou cải tạo từ ma vật Jaaja (loài hươu) để có ngoại hình giống hệt một con kỳ lân (unicorn) với sừng xoắn màu xanh lam và bờm trắng. *(Xuất hiện tại Tập 356)*
-- **Rock Golem (Rock Golem / ロックゴーレム):** Thực thể người đá khổng lồ cấp trung được triệu hồi từ Quang thạch hệ Thổ của Randou Kyouko yểm ma lực. *(Xuất hiện tại Tập 357)*
-- **Song Trảm (Futatsu Nagi / 双つ薙ぎ):** Võ kỹ song kiếm của Kenzaki Asuna, vung hai thanh kiếm cùng lúc tạo thành đường chém đan chéo hình chữ X từ phía sau. *(Xuất hiện tại Tập 360)*
-- **Thạch Long (Stone Dragon / 石竜):** Biến thể ma vật làm bằng đá có hình dáng giống phi long, có khả năng bay lượn vượt trội hơn Gargoyle thông thường. *(Xuất hiện tại Tập 362)*
-- **Tento-Rem (Tento-Rem / テントウレム):** Một loại sứ ma Rem nhỏ có hình dạng giống bọ cánh cam, được phát cho các học sinh để định vị và dẫn đường cho nhau khi bị lạc. *(Xuất hiện tại Tập 358)*
-- **Hồi Thiên Song Liệt (Kaiten Souretsu / 回天双烈):** Kỹ năng chiến đấu cận chiến của thiên chức Đạo Tặc (Natsukawa Minami), xoay tròn cơ thể như con quay và dùng song dao tạo ra các nhát chém liên hoàn như lưỡi cưa tròn. *(Xuất hiện tại Tập 358)*
-- **Rock & Ice Golem (Rock & Ice Golem / ロック＆アイスゴーレム):** Thực thể Golem kết hợp giữa đá và băng được triệu hồi bởi Hayama Ritsuki. *(Xuất hiện tại Tập 358)*
-- **Cánh Vệ Thần (Guardian Wing / ガーディアンウイング):** Trang bị cấp Thánh Thiên (Thánh Thiên cấp binh trang) được Kotori ban cho Asuna, sở hữu năng lực triển khai Thánh Thiên Kết Giới mạnh mẽ và tự động trị liệu vết thương cho người sử dụng. *(Xuất hiện tại Tập 361)*
-- **Mũ Giáp Khổng Lồ (Giant's Helmet / 巨人の兜):** Mũ giáp được chế tác từ hộp sọ của Đại Chiến Sĩ Zagan, dùng để kích hoạt kỹ năng Khổng Lồ Hóa cho Rem. *(Xuất hiện tại Tập 366)*
-- **Vòng Thiên Sứ - Mẫu Cuối Của Nhà Máy Vũ Khí Sinh Học Albion (Angel Ring - Albion Bio-weapon Factory Late Model / エンゼルリング・アルビオン生体兵器工廠製・後期型):** Thiết bị ma pháp cổ đại dùng để tẩy não và thao túng ma vật, được đeo ở gốc tai của Kinako. *(Xuất hiện tại Tập 366)*
-- **Thiết Bị Đẩy Cao Cơ Động Kiểu Bạch Dực - Bản Thử Nghiệm (Prototype White Wing High Mobility Propulsion Device / 試作型・白翼式高機動推進装置):** Trang bị bổ sung gắn ngoài dạng cánh trắng trên lưng Kinako, giúp tăng tốc độ di chuyển và cung cấp năng lượng Ether. *(Xuất hiện tại Tập 366)*
-- **Súng phóng đa năng (Multi-Launcher / マルチランチャー):** Phiên bản nâng cấp của súng phóng khí (Air Launcher) sử dụng linh kiện súng cổ đại, bắn đạn bom lõi ổn định và xa hơn. *(Xuất hiện tại Tập 366)*
-- **Rem Gigas (Rem Gigas / レムギガス):** Biệt danh Kotarou đặt cho Rem khi cô bé kích hoạt trạng thái Khổng Lồ Hóa bọc giáp Hắc Kị Sĩ. *(Xuất hiện tại Tập 366)*
-- **Death Crimson Stinger (Death Crimson Stinger / デスクリムゾンスティンガー):** Phiên bản cường hóa của đoản kiếm kịch độc Death Stinger, chế tác từ ngòi độc của bọ cạp khổng lồ Death Stalker. Lưỡi kiếm chuyển sang màu đỏ thẫm như nhuốm máu, sở hữu độc tính đậm đặc tương đương nọc độc nguyên chất. *(Xuất hiện tại Tập 364)*
-- **Gamma Gold Paralyzer (Gamma Gold Paralyzer / ガンマ式ゴールドパラライザー):** Phiên bản cường hóa của dao găm gây tê liệt Yellow Paralyzer. Tích hợp răng nanh và bộ phận điều chế độc hóa học cơ khí từ Boss Lizard Type Gamma Biến Dị Thử Nghiệm, tiết ra hai loại độc tê liệt cực mạnh. *(Xuất hiện tại Tập 364)*
-- **Băng Mỏng Thương (Usurai Yari / 薄氷槍):** Ma pháp tấn công trung cấp hệ Băng của Kisaragi Ryouko, tạo ra các ngọn thương băng giòn dễ vỡ để phát tán mảnh vụn làm chất dẫn. *(Xuất hiện tại Tập 364)*
-- **Tái Băng Kết (Saitouketu / 再凍結):** Ma pháp hệ Băng của Kisaragi Ryouko, đóng băng tức thời các mảnh vỡ của Băng Mỏng Thương để phong tỏa mục tiêu. *(Xuất hiện tại Tập 364)*
-- **Thạch Hóa Kết Hợp Pháo Đạn (Sekika Ketsugou Houdan / 石化結合砲弾):** Thổ ma pháp của Randou Kyouko, bắn ra đá lỏng như bê tông bám vào mục tiêu rồi đông cứng lại. *(Xuất hiện tại Tập 364)*
-- **Băng Tuyết Cự Thuẫn (Hyousetsu Kyodai / 氷雪巨盾):** Ma pháp phòng ngự cấp cao hệ Băng của Kisaragi Ryouko, tạo cột băng khổng lồ. *(Xuất hiện tại Tập 364)*
-- **Nham Sơn Cự Thuẫn (Ganzan Kyodai / 岩山巨盾):** Ma pháp phòng ngự cấp cao hệ Thổ của Randou Kyouko, tạo cột đá khổng lồ. *(Xuất hiện tại Tập 364)*
-- **Hắc Xích Chú Phát (Kokusai Juhatsu / 黒鎖呪髪):** Kỹ năng chú thuật điều khiển tóc đen của Momokawa Kotarou, biến tóc thành những con đại xà đen khổng lồ có răng nanh sắc nhọn để quấn chặt và cắn xé mục tiêu. *(Xuất hiện tại Tập 368)*
-- **Triệu Hoán Cao Cấp Băng Tinh Linh (Jōkyū Kōri Seirei Shōkan / 上級氷精霊召喚):** Ma pháp triệu hồi tinh linh hệ Băng cấp cao của Kisaragi Ryouko, tiêu tốn lượng ma lực cực lớn để gọi ra các thực thể băng giá mạnh mẽ. *(Xuất hiện tại Tập 368)*
-- **Ice Titan (Ice Titan / アイスタイタン):** Thực thể người khổng lồ băng giá được triệu hồi từ ma pháp hệ Băng cấp cao của Ryouko, có thân hình to lớn, nặng nề và khả năng tỏa ra hàn khí cực mạnh để đóng băng mục tiêu. *(Xuất hiện tại Tập 368)*
-- **Xuyên Quán Hoàn (Ugate Nukunikimaru / 穿て貫き丸):** Mũi tên ma pháp chuyên dụng cho khả năng xuyên thấu với phần đầu mũi tên dạng xoắn ốc, do Kotarou chế tạo và được Hayama Ritsuki đặt tên. *(Xuất hiện tại Tập 367)*
-- **Vòng tẩy não (Brainwashing Ring / 洗脳リング / 洗脳の指輪):** Chiếc vòng bạc đeo trên tai của Kinako dùng để thao túng và tẩy não cô gấu theo mệnh lệnh của Takanashi Kotori. *(Xuất hiện tại Tập 369)*
-- **Tinh linh giả (Pseudo-spirit / 偽精霊):** Thực thể tinh linh nhân tạo ẩn bên trong chiếc vòng tẩy não để duy trì hiệu lực khống chế. *(Xuất hiện tại Tập 369)*
-- **Gà rán tình bạn (Friendship Karaage / 友情の唐揚げ):** Món gà rán do Hayama Ritsuki tự tay làm để đón Kinako trở về, biểu tượng cho tình bạn giữa hai người. *(Xuất hiện tại Tập 369)*
-- **Thánh Thú Kinako (Sacred Beast Kinako / 聖獣キナコ):** Danh xưng mới của gấu Kinako sau khi tiến hóa và bị Takanashi Kotori tẩy não để làm vật tế. *(Xuất hiện tại Tập 369)*
-- **Thánh Hỏa Thương Lôi (Seika Sourai / 聖火蒼雷):** Thanh ma pháp kiếm song thuộc tính Hỏa và Lôi được Kotori hợp nhất từ Thương Viêm Kiếm và Thương Lôi Kiếm bằng kỹ năng luyện kim. *(Xuất hiện tại Tập 371)*
-- **Đa Trùng Liên Tỏa Triệu Hoán Trận (Tajuu Rensa Shoukanjin / 多重連鎖召喚陣):** Ma pháp trận triệu hồi đa tầng của Souma Yuuto dùng để gọi ra nhiều tinh linh hỗ trợ chiến đấu cùng lúc. *(Xuất hiện tại Tập 371)*
-- **Thương Công Ba Động (Soukou Hadou / 蒼功波動):** Kỹ năng tạo luồng ma lực hộ thể từ sinh mệnh lực và ánh sáng thánh thiện của Dũng Giả, dùng để cường hóa đòn đánh hoặc thanh tẩy bóng tối. *(Xuất hiện tại Tập 371)*
-- **Thủ Hộ Thiên Sứ (Shugo Tenshi / 守護天使):** Ma vật triệu hồi dạng kị sĩ giáp trắng có cánh thiên thần, trang bị vũ khí cổ đại tầm xa và được bảo vệ bởi Thánh Thiên Kết Giới. *(Xuất hiện tại Tập 371)*
-- **Nữ Thần Đang Dõi Theo (Megami-sama ga Miteiru / 女神様が見ている):** Kỹ năng hỗ trợ của Hiền Giả Takanashi Kotori giúp cường hóa và kích hoạt sức mạnh đặc biệt cho Dũng Giả. *(Xuất hiện tại Tập 371)*
-- **Bí Thạch Trắng (Shiro no Hiseki / 白の秘石):** Kỹ năng đặc hữu thứ ba của Dũng Giả Souma Yuuto, xuất hiện dưới dạng viên đá quý màu xanh lam nhạt xích vào tay trái. *(Xuất hiện tại Tập 371)*
-- **Dark Rerite (Dark Rerite / ダークリライト):** Trạng thái hắc hóa thức tỉnh của Hayama Ritsuki (Rerite) khi bị nuốt chửng bởi sức mạnh bóng tối do lòng căm thù tột độ. *(Xuất hiện tại Tập 370)*
-- **Vô Song Kiếm Vũ (Musou Kenbu / 無双剣舞):** Võ kỹ kiếm thuật liên hoàn cực mạnh của Souma Yuuto. *(Xuất hiện tại Tập 372)*
-- **Hoang Nghịch Ba (Are Sakanami / 荒れ逆波):** Một võ kỹ trường đao (naginata) thuộc kiếm phái Souma, thực hiện một nhát chém ngang sắc bén. *(Xuất hiện tại Tập 373)*
-- **Dẫn Bạch Ba (Hiki Shiranami / 引き白波):** Một võ kỹ trường đao (naginata) thuộc kiếm phái Souma, nhắm vào phần ống chân của đối thủ. *(Xuất hiện tại Tập 373)*
-- **Requiem Heart - Smart Guy (Requiem Heart - Smart Guy / レクイエムハート・スマートガイ):** Một trong những quân bài tẩy của Kotarou, được sử dụng trong đòn tấn công cảm tử để tiêu diệt Yamata no Orochi. *(Xuất hiện tại Tập 377)*
-- **Vong Vương Tích「Nghiệp Ma Phùng Ma」 (Vong Vương Tích "Gyouma Ouma" / 亡王錫「業魔逢魔」):** Vũ khí dạng trượng (tích trượng) độc nhất vô nhị của Kotarou, từng được phân thân của cậu sử dụng. *(Xuất hiện tại Tập 377)*
-- **Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện (Assassin Suit Custom - Insulated Spec / アサシンスーツ改・絶縁仕様):** Bộ đồ bó sát toàn thân được cải tiến từ Assassin Suit thông qua luyện thành và khắc chú ấn, giúp tăng cường khả năng cận chiến và đặc biệt là kháng lôi điện cực cao để chống lại phép tê liệt của Yuuto. *(Xuất hiện tại Tập 377)*
-- **Huy Quang Phòng Bích (Kikou Bouheki / Radiant Barrier / 輝光防壁):** Ma pháp phòng ngự diện rộng thuộc tính Quang cấp trung của Thánh Nữ Souma Sakura, tạo ra một bức tường ánh sáng trong suốt như thủy tinh để chặn các đòn tấn công. *(Xuất hiện tại Tập 377)*
-- **Hắc Lam Kiếm Phủ Gilastorm (Gilastorm / 黒嵐剣斧ギラストーム):** Thanh kiếm rìu khổng lồ hệ lôi điện đỏ đen có nguồn gốc từ tộc Goma, vũ khí chính của Futaba Meiko. *(Xuất hiện tại Tập 378)*
-- **Thương Lam Ba (Souenha / 蒼炎波):** Ma pháp tấn công hệ Hỏa phóng ra từ ma pháp kiếm Thánh Hỏa Thương Lôi, tạo ra làn sóng lửa xanh trắng lan rộng diện rộng. *(Xuất hiện tại Tập 378)*
-- **Thương Lôi Xung (Souraishou / 蒼雷衝):** Ma pháp tấn công hệ Lôi phóng ra từ ma pháp kiếm Thánh Hỏa Thương Lôi, tạo ra ngọn lôi thương khổng lồ đâm xuyên mục tiêu. *(Xuất hiện tại Tập 378)*
-- **Thương Phong Nhẫn (Soufuujin / 蒼風刃):** Ma pháp tấn công hệ Phong tạo ra luồng gió xanh trắng nổ tung dưới chân để đẩy lùi bản thân hoặc kẻ địch. *(Xuất hiện tại Tập 378)*
-- **Hoàng Linh Trang (Kou no Reisou / Glittering Spiritual Armor / 煌の霊装):** Kỹ năng đặc hữu thứ tư của Dũng Giả Souma Yuuto, triệu hồi bộ giáp thánh mang sức mạnh tam vị nhất thể tinh linh. *(Xuất hiện tại Tập 378)*
-- **Đại Phong Tinh Linh (Wind Greater Spirit / 大風聖霊):** Tinh linh gió cấp cao được triệu hồi để tạo ra bão tố hoặc thổi bay chướng ngại vật. *(Xuất hiện tại Tập 383)*
-- **Hắc Lam Thành Lũy (Black Storm Wall / 黒嵐城壁):** Ma pháp phòng ngự diện rộng thuộc tính Phong kết hợp bóng tối của Tendou Ryuuichi, tạo ra cơn lốc xoáy đen kịt chắn đường. *(Xuất hiện tại Tập 383)*
-- **Tử Phong Bộc Kích (Death Blast / デスブラスト):** Cơn gió đen gầm rú bằng ma lực bóng tối, kỹ năng tăng trưởng của Tendou Ryuuichi. *(Xuất hiện tại Tập 383)*
-- **Phong Ma Pháp Tối Cao (Air Superior Magia / エール・スペリオルマギア):** Kỹ năng săn mồi cho phép thi triển toàn bộ ma pháp cấp cao thuộc tính Phong. *(Xuất hiện tại Tập 383)*
-- **Băng Mỏng Tiễn (Thin Ice Arrow / 薄氷矢):** Ma pháp tấn công cấp thấp hệ Băng của Kisaragi Ryouko, bắn ra các mũi tên băng mỏng manh. *(Xuất hiện tại Tập 383)*
-- **Đại Thổ Tinh Linh (Earth Greater Spirit / 大土聖霊):** Tinh linh đất cấp cao được triệu hồi để tạo ra các cột tinh thể giam cầm mục tiêu vật lý mà không gây sát thương. *(Xuất hiện tại Tập 383)*
-- **Đại Thủ Hộ Thiên Sứ (Archangel / 大守護天使):** Thủ hộ thiên sứ cấp cao nhất của Takanashi Kotori, một vũ khí cổ đại cực kỳ mạnh mẽ. *(Xuất hiện tại Tập 383)*
-- **Đại Hỏa Tinh Linh (Taika Seirei / 大火聖霊):** Ma pháp triệu hồi tinh linh lửa khổng lồ có ý chí riêng, được cường hóa thông qua viên hồng ngọc trên vương miện của Dũng Giả. *(Xuất hiện tại Tập 381)*
-- **Phi Lôi Thiểm (Hiraisen / 飛雷閃):** Võ kỹ ném vũ khí tầm xa mang theo lôi điện với tốc độ và sự sắc bén cực đại như tia chớp. *(Xuất hiện tại Tập 381)*
-- **Thi Hài Giáp "Nghiệp Ma Hồng Ma" (Shikai "Goma Kouma" / 屍鎧「業魔紅魔」):** Bộ thi hài giáp được tạo từ xác của Goma/Gira-Gogma (ở đây là Bazuzu kết hợp với giáp) do Momokawa Kotarou điều khiển. *(Xuất hiện tại Tập 382)*
-- **Yêu cầu hộ vệ - Đơn xin cấp cao nhất (Guardian Request - Highest Level Application / 護衛依頼・最上級申請):** Lệnh triệu hồi khẩn cấp cấp cao nhất của Hiền Giả thông qua hệ thống di tích để gọi ra Đại Thủ Hộ Thiên Sứ. *(Xuất hiện tại Tập 382)*
-- **Băng Vụ (Hyoumu / 氷霧):** Ma pháp hệ Băng hạ cấp tạo ra màn sương mù băng giá làm giảm tầm nhìn của đối phương. *(Xuất hiện tại Tập 385)*
-- **Huyễn Ảnh Băng Tượng (Gen'ei Hyouzou / 幻影氷像):** Ma pháp hệ Băng tạo ra ảo ảnh ngụy trang, thường được sử dụng kết hợp với Băng Vụ. *(Xuất hiện tại Tập 385)*
-- **Thánh Thiên Huy Hoàng Dũng Giả Kiếm (Seiten ni Kagayaku Yuusha no Ken / 聖天に輝く勇者の剣):** Siêu tất sát kỹ tối thượng của Dũng Giả Souma Yuuto, tạo ra một lưỡi kiếm ánh sáng khổng lồ có sức tàn phá cực lớn. *(Xuất hiện tại Tập 385)*
-- **Thần Phán Chi Thủ (Shinpan no Ude / 神判の腕):** Cánh tay ma lực được tạo ra từ kỹ năng của Dũng Giả để thay thế cánh tay bị mất. *(Xuất hiện tại Tập 386)*
-- **Thần Phán Chi Chưởng Trảo Thánh Thiên (Seiten wo Tsukamu Shinpan no Shou / 聖天を掴む神判の掌):** Đại chiêu tấn công bằng ma lực ánh sáng cực mạnh phát ra từ Thần Phán Chi Thủ của Dũng Giả. *(Xuất hiện tại Tập 386)*
-- **Vương Giáp - Phantom Mail Full Armored (Ooyoroi - Phantom Mail Full Armored / 王鎧・「ファントムメイル・フルアーマード」):** Trạng thái phòng ngự tối thượng bọc trong giáp đen và hào quang u minh của Tendou Ryuuichi. *(Xuất hiện tại Tập 386)*
-- **Đại Hắc Anh - Uy Thiên Xung Giác (Daikokuo - Iten Shoukaku / 大黒桜・威天衝角):** Cây cung nguyền rủa được dung hợp từ Hắc Giác Cung và Đầu Lâu Của Xạ Thủ (Sakurai Touya), có gắn đầu lâu ác quỷ đen. *(Xuất hiện tại Tập 386)*
-- **Nhãn Quan Nhìn Vào Thâm Uyên (Shinen wo Nozoku Hitomi / 深淵を覗く瞳):** Chú ấn khắc trên mũi tên thép đen dùng cho Đại Hắc Anh, tượng trưng cho bóng tối sâu thẳm không đáy. *(Xuất hiện tại Tập 386)*
-- **Hắc Lưu Tinh (Kuro Ryusei / 黒流星):** Bí kỹ chuyên dụng của Đại Hắc Anh, bắn ra mũi tên mang hào quang nguyền rủa với tốc độ cực cao để xuyên phá kết giới ánh sáng. *(Xuất hiện tại Tập 386)*
-- **Kháng Dịch (Boueki / 防疫):** Ma pháp trị liệu của Dũng Giả giúp giải trừ trạng thái bất thường và tăng cường khả năng kháng tính của cơ thể. *(Xuất hiện tại Tập 387)*
-- **Băng Kết Phong Tinh (Hyouketsu Fuushou / 氷結封晶):** Ma pháp phong ấn hệ Băng cấp cao của Kisaragi Ryouko, đóng băng mục tiêu cùng những người xung quanh vào khối tinh thể băng giá vĩnh cửu. *(Xuất hiện tại Tập 387)*
-- **Giga Michaela (Giga Michaela / ギガ・ミカエラ):** Đại Thủ Hộ Thiên Sứ khổng lồ, một vũ khí cổ đại dạng robot do Takanashi Kotori điều khiển. *(Xuất hiện tại Tập 388)*
-- **Tinh Linh Khôi Lỗi (Spirit Puppet / 精霊傀儡):** Ma pháp tự điều khiển bản thân thông qua tinh linh để chống lại kỹ năng khống chế Thần Thánh Ngôn Ngữ. *(Xuất hiện tại Tập 388)*
-- **Ma Nhân Hóa - Thổ Tinh Linh (Earth Spirit Demonization / 魔人化・土精霊):** Trạng thái biến đổi đặc biệt của Randou Kyouko bằng cách dâng hiến toàn bộ cơ thể cho các Thổ Tinh Linh để bộc phát ma lực hệ Thổ cực hạn. *(Xuất hiện tại Tập 388)*
-- **Prim Tact - Love & Double Peace (Prim Tact - Love & Double Peace / プリムタクト・ラブ＆ダブルピース):** Cây đũa phép chứa đựng sức mạnh của Succubus, thu được từ kho báu của vương cung Goma, giúp người dùng giải phóng sức mạnh bóng tối dựa trên tinh lực hấp thụ được. *(Xuất hiện tại Tập 390)*
-- **Ảnh Tiễn (Kageya / Shadow Arrow / 影矢):** Ma pháp tấn công cấp thấp thuộc tính bóng tối, bắn ra mũi tên đen tuyền. *(Xuất hiện tại Tập 390)*
-- **Hắc Ảnh Thương (Kokueisou / Black Shadow Spear / 黒影槍):** Ma pháp tấn công cấp trung thuộc tính bóng tối, bắn ra ngọn thương đen kịt. *(Xuất hiện tại Tập 390)*
-- **Ái Dạ Hắc Thương (Aiya Kokushou / Love Night Black Spear / 愛夜黒槍):** Ma pháp tấn công tối thượng thuộc tính bóng tối kết hợp tinh lực của Succubus, bắn ra mũi thương khổng lồ màu hồng đen từ đũa phép Prim Tact. *(Xuất hiện tại Tập 390)*
-- **Hóa thân của Nữ thần Elshion ():** Thực thể thần thánh khổng lồ được triệu hồi từ bức tượng đá tại Thiên Tống Môn, sở hữu ma lực vạn năng vượt trội hơn mọi ma vật. *(Xuất hiện tại Tập 391)*
-- ** (Mumei-chan Shudan / 無命首断):** Chiêu thức chém bay đầu tối thượng của Chú thần Ruinhilde, được mô tả là cơn gió đen diệt trừ thần ma. *(Xuất hiện tại Tập 392)*
-- ** (Maou no Ken / 魔王の剣):** Thanh đại kiếm nguyền rủa mô phỏng mà Ruinhilde sử dụng để chém bay đầu Elysion. *(Xuất hiện tại Tập 392)*
-- **Bạch Tarou (Shiroutarou / 白太郎):** Phân thân cải tiến từ kỹ năng Song Ảnh của Kotarou, có mái tóc trắng muốt và làn da nhợt nhạt bệnh tật, chuyên dùng để thi triển Bạch Ngân Thần Nhạc. *(Xuất hiện tại Tập 393)*
-- **Hồng Tarou (Benitarou / 紅太郎):** Phân thân cải tiến từ kỹ năng Song Ảnh của Kotarou, có mái tóc đỏ rực, sừng và vuốt quỷ, tích hợp Hệ Biến Thái Hoàn Toàn của gậy Vô Đạo Nhất Thức để cận chiến. *(Xuất hiện tại Tập 393)*
-- **Bạch Ngân Thần Nhạc (Shirogane Kagura / 白銀神楽):** Phiên bản nâng cấp của Ngân Phát Trảm, sử dụng dây thép siêu cứng làm từ thần thiết để quấn chặt và khống chế mục tiêu. *(Xuất hiện tại Tập 393)*
-- **Bạch Giao (Byakukou / 白蛟):** Bí kỹ của Phi Đao Phái Momokawa do phân thân Bạch Tarou thi triển. *(Xuất hiện tại Tập 393)*
-- **Xích Long Ngạc (Sekiryuugaku / 赤竜顎):** Võ kỹ giải phóng Hệ Biến Thái Hoàn Toàn của Hồng Tarou để triệu hồi đầu Salamander tấn công. *(Xuất hiện tại Tập 393)*
-- **Ngự Ảnh Loạn Vũ (Mikage Ranbu / 御影乱舞):** Chiêu thức thuộc Minh Thổ Lưu Ma Kiếm Thuật của hầu gái Momoko. *(Xuất hiện tại Tập 393)*
-- **Lò Luyện Ngục Của Hắc Ma Nữ (Kuromajo no Rengokuro / 黒魔女の煉獄炉):** Bản nâng cấp của 『Vạc Của Phù Thủy』. Nấu chảy tế phẩm bằng ngọn lửa hắc ám và oán hận, có thể tác động hiệu ứng luyện kim lên cả sinh vật sống để nguyền rủa và tiêu diệt linh hồn của chúng. *(Xuất hiện tại Tập 395)*
-- **Full Boost (Full Boost / フルブースト):** Kỹ năng cường hóa thể chất tối đa của Takanashi Kotori. *(Xuất hiện tại Tập 395)*
-- **Thần điện Vương đô Sigrun (Sigrun Temple / シグルーンの神殿):** Điểm dịch chuyển chính thức của Thiên Tống Môn dẫn đến thế giới bên ngoài, nằm tại vương đô Sigrun của vương quốc Astoria. *(Xuất hiện tại Tập 398)*
-- **Đền Yêu Tinh (Fairy Shrine / 妖精神社):** Ý tưởng tự chế của Kotarou nhằm biến Quảng Trường Tinh Linh ở tầng một Tháp Trung Tâm thành nơi thờ phụng tượng yêu tinh mang sự bảo hộ chân chính. *(Xuất hiện tại Tập 398)*
-- **Dâm Môn Hàng Ma Nghi Lễ (Inmon Kouma no Gi / 淫門降魔の儀):** Phòng trung thuật tái hiện lại ma pháp đặc hữu của Succubus, giúp đôi bên trao đổi tình yêu và sức mạnh cùng với khoái lạc. *(Xuất hiện tại Tập 396)*
-- **Đặt Cược Vào Thiếu Nữ Ước Hẹn (Yakusoku no Otome ni Kakete / 約束の乙女に賭けて):** Chú ấn khế ước chung thủy dành cho một người duy nhất, giúp dâm văn phát huy hiệu quả tinh khiết và mạnh mẽ hơn, nhưng sẽ mất hết tác dụng nếu phản bội lời thề. *(Xuất hiện tại Tập 396)*
-- **Thề Nguyện Trinh Khiết Với Nữ Thần (Megami ni Chikau Junketsu / 女神に誓う純潔):** Chú ấn khế ước chung thủy thể hiện dục vọng và tình yêu vĩnh cửu dành cho một người duy nhất, giúp tối ưu hóa hiệu quả của dâm văn. *(Xuất hiện tại Tập 396)*
-- **Sức Mạnh Để Nắm Chặt Kiếm (Ken wo Nigiru Chikara wo / 剣を握る力を):** Ma pháp cường hóa hạ cấp thuộc hệ Succubus hắc ma pháp, tăng nhẹ năng lực thể chất nhờ ma lực của dâm văn. *(Xuất hiện tại Tập 396)*
-- **Hãy Giương Cao Quyền Trượng (Takaku Tsue wo Kageyo / 高く杖を掲げよ):** Ma pháp cường hóa hạ cấp thuộc hệ Succubus hắc ma pháp, tăng nhẹ khả năng tính toán thuật thức. *(Xuất hiện tại Tập 396)*
-- **Sức Mạnh Phi Thường Để Vung Đại Kiếm (Taiken wo Furuu Gouriki wo / 大剣を振るう剛力を):** Ma pháp cường hóa trung cấp thuộc hệ Succubus hắc ma pháp, nâng cao năng lực thể chất và sinh mệnh lực. *(Xuất hiện tại Tập 396)*
-- **Hãy Ngâm Vịnh Chân Lý Giữa Trời Cao (Ten Takaku Kotowari wo Utae / 天高く理を詠え):** Ma pháp cường hóa trung cấp thuộc hệ Succubus hắc ma pháp, nâng cao khả năng tính toán thuật thức và hiệu suất ma lực. *(Xuất hiện tại Tập 396)*
-- **Gửi Tặng Chiến Sĩ Bước Vào Tử Địa (Shichi he Omomuku Senshi ni Okuru / 死地へ赴く戦士に贈る):** Ma pháp cường hóa cao cấp thuộc hệ Succubus hắc ma pháp, tăng mạnh thể chất và sinh mệnh lực cho chiến sĩ. *(Xuất hiện tại Tập 396)*
-- **Gửi Tặng Ma Thuật Sư Đối Mặt Thâm Uyên (Shinen ni Nozomu Majutsushi he Okuru / 深淵に臨む魔術師へ贈る):** Ma pháp cường hóa cao cấp thuộc hệ Succubus hắc ma pháp, tăng mạnh khả năng tính toán thuật thức và tối ưu hóa tối đa hiệu suất ma lực. *(Xuất hiện tại Tập 396)*
-- **Nụ Hôn Của Nữ Thần (Megami no Kuchizuke / 女神の口づけ):** Tuyệt kỹ tối thượng của hệ thống thuật thức Succubus hắc ma pháp. *(Xuất hiện tại Tập 396)*
-- **Cường Hóa Dâm Văn (Inmon Boost / 淫紋ブースト):** Trạng thái tăng cường ma lực và thể chất vượt trội nhờ dấu ấn dâm văn của Succubus truyền qua quan hệ thể xác. *(Xuất hiện tại Tập 397)*
-- **Kiếm Lực Lượng (Force Edge / フォースエッジ):** Thanh kiếm cổ đại tạo ra lưỡi kiếm ánh sáng có uy lực cực mạnh, là trang bị cao cấp của Takanashi Kotori. *(Xuất hiện tại Tập 394)*
-- **Cự Long Đại Ngạc (Giant Dragon Jaw / 巨竜大顎):** Chiêu thức thuộc Hệ Biến Thái Hoàn Toàn của Kotarou, tạo ra một hàm răng rồng khổng lồ chắp vá từ các nguyên liệu trong Dạ Dày Không Đáy để cắn xé kết giới. *(Xuất hiện tại Tập 394)*
-- **Bạch Diện Chi Vũ - Cửu Vĩ (Dance of the White Face - Nine Tails / 白面の舞・九尾):** Tuyệt kỹ thuộc Phi Đao Phái Momokawa, bện tóc Bạch Ngân Thần Nhạc thành chín sợi roi Orichalcum để quất liên hoàn. *(Xuất hiện tại Tập 394)*
-- **Dandram (Dandram / ダンドラム):** Ma vật dạng bò rừng bizon bọc giáp đá thô ráp, tuy ăn cỏ nhưng tính khí vô cùng hung dữ, là nguồn thực phẩm quý giá trên sa mạc. *(Xuất hiện tại Tập 400)*
-- **Xích Nhiệt Nhất Thiểm (Sekinetsu Issen / 赤熱一閃):** Võ kỹ kiếm thuật thuộc tính Hỏa của Latifa, nung đỏ lưỡi kiếm và bộc phát lửa để tăng tốc độ chém. *(Xuất hiện tại Tập 400)*
-- **Viêm Kiếm Thuật Sĩ (Flame Sword Mage / Flame Fencer / 炎剣術士):** Thiên chức cận chiến chuyên sử dụng kiếm thuật kết hợp ma pháp thuộc tính Hỏa. *(Xuất hiện tại Tập 400)*
-- **Dược Hiệu Thánh Thủy (Yakkou Seisui / 薬効聖水):** Ma pháp trị liệu thuộc tính Thủy do Shimokawa Junnosuke tự sáng tạo, tạo ra chất lỏng dạng nhầy như slime bao bọc và chữa lành mọi vết thương, hiệu quả tương đương Re-potion. *(Xuất hiện tại Tập 400)*
-- **Thánh Giả Nước (Water Saint / 水の聖者):** Danh hiệu tôn kính mà bộ tộc Saladina dành cho Shimokawa Junnosuke nhờ khả năng tạo nước vô hạn và trị liệu. *(Xuất hiện tại Tập 400)*
-- **Thủ Hộ Chiến Sĩ (Guardian Warrior / 守護戦士):** Thiên chức tiến hóa từ Trọng Chiến Binh của Yamada Genki, chuyên về phòng thủ và bảo vệ đồng đội. *(Xuất hiện tại Tập 401)*
-- **Cương Thể (Rigid Body / 剛体):** Kỹ năng bị động của Thủ Hộ Chiến Sĩ, biến cơ thể thành lá chắn thép để bảo vệ người khác. *(Xuất hiện tại Tập 401)*
-- **Bất Thối Chuyển Thệ Ước (Unyielding Covenant / 不退転の誓約):** Kỹ năng của Thủ Hộ Chiến Sĩ, tăng sức mạnh phòng ngự vô hạn khi đứng vững trên chiến trường với ý chí kiên định. *(Xuất hiện tại Tập 401)*
-- **Trọng Cương Đột Tiến (Heavy Rigid Charge / 重剛突進):** Võ kỹ đột kích tốc độ cao của Thủ Hộ Chiến Sĩ, dậm chân vững như đá và lao đi nhanh như gió để phá vỡ đội hình địch. *(Xuất hiện tại Tập 401)*
-- **Vanheit (Vanheit / ヴァンハイト):** Một thành phố hầm ngục lớn và sầm uất thuộc vương quốc Astoria. *(Xuất hiện tại Tập 401)*
-- **Mạo hiểm giả (Adventurer / 冒険者):** Danh xưng chung dành cho những người thám hiểm hầm ngục để kiếm sống ở thế giới bên ngoài. *(Xuất hiện tại Tập 401)*
-- **Kiếm Hào (Kengou / Swordmaster / 剣豪):** Thiên chức tiến hóa từ Kiếm Sĩ của Ueta Youhei, mang lại tốc độ và khả năng cảm nhận hiện diện vượt trội hơn cả Đạo Tặc. *(Xuất hiện tại Tập 402)*
-- **Thánh Chiến Sĩ (Seisenshi / Holy Warrior / 聖戦士):** Thiên chức tiến hóa từ Chiến Binh của Yoshizaki Hiroe (Mari), sở hữu các kỹ năng thuộc tính Quang và hỗ trợ/trị liệu. *(Xuất hiện tại Tập 402)*
-- **Thần Điện Kết Giới (Temple Barrier / 神殿結界):** Kỹ năng của Thánh Chiến Sĩ, tạo kết giới phòng ngự kiên cố dựa trên lời cầu nguyện. *(Xuất hiện tại Tập 402)*
-- **Thánh Ấn - Thanh Phong Ban Tặng (Holy Seal: Blue Wind's Blessing / 聖印・青き風の恵み):** Kỹ năng của Thánh Chiến Sĩ, hồi phục/tiếp dũng khí cho đồng minh bằng gió lành, hoặc tạo bão tấn công kẻ thù. *(Xuất hiện tại Tập 402)*
-- **Hào Quang Dũng Cảm (Glow of Courage / 勇気の輝き):** Kỹ năng của Thánh Chiến Sĩ, bao phủ bản thân và vũ khí bằng hào quang thuộc tính Quang để tăng sức mạnh. *(Xuất hiện tại Tập 402)*
-- **Thánh Phá Đoạn (Holy Rupture / 聖破断):** Võ kỹ của Thánh Chiến Sĩ, kết hợp chiêu chém Đại Phá Đoạn với thuộc tính Quang tạo ra vụ nổ ánh sáng diện rộng. *(Xuất hiện tại Tập 402)*
-- **Quạ nhiều mắt (Eyeball Crow / 目玉カラス):** Sứ ma giám sát có 5 mắt đỏ ngầu trên đầu, thường được dùng bởi kẻ điều khiển xác sống. *(Xuất hiện tại Tập 402)*
-- **Ma cà rồng (Vampire / 吸血鬼):** Kẻ đứng sau điều khiển đàn xác sống tại khu vực mới. *(Xuất hiện tại Tập 402)*
-- **Pandora Thánh Giáo (Pandora Holy Church / パンドラ聖教):** Giáo hội tôn thờ Nữ thần Ánh sáng Elshion tại Vương quốc Astoria, chuyên can thiệp hỗ trợ các nạn nhân của tai nạn triệu hồi dị giới. *(Xuất hiện tại Tập 404)*
-- **Y Tế Cung (Medical Palace / 医療宮):** Khu vực điều trị y tế tráng lệ nằm bên trong vương thành Astoria. *(Xuất hiện tại Tập 404)*
-- **Đảo Albion (Albion Island / アルビオン島):** Hòn đảo khổng lồ nơi hầm ngục Albion tọa lạc, được bao quanh bởi rừng nguyên sinh và biển cả. *(Xuất hiện tại Tập 405)*
-- **Chuyến bay quốc tế Liberta của hãng hàng không Tendou (Tendou Aviation Liberta International Flight / 天道航空リベルタ国際便):** Cách gọi trêu chọc của Kotarou khi nhóm Tendou cưỡi phi long Liberta bay vượt đại dương. *(Xuất hiện tại Tập 405)*
-- **Hộp chim non (Kotori Box / 小鳥箱):** Vật phẩm độc nhất vô nhị chứa đựng oán niệm và sức mạnh/tư cách Hiền Giả của Takanashi Kotori sau khi cô ta chết. *(Xuất hiện tại Tập 405)*
-- **Cơ Quan Tăng Ma Lực (Zouma Kikan / 増魔器官):** Tên gọi chung của các trang bị cường hóa dành cho triệu hoán thú tận dụng nguyên liệu ma vật của Vô Đạo Nhất Thức. *(Xuất hiện tại Tập 407)*
-- **Móng Vuốt Đao (Claw Blade / クローブレイド):** Một dạng Cơ Quan Tăng Ma Lực tạo ra móng vuốt dài sắc bén ở tay chân cho triệu hoán thú. *(Xuất hiện tại Tập 407)*
-- **Thương Sừng (Horn Lance / ホーンランス):** Một dạng Cơ Quan Tăng Ma Lực tạo ra thương sừng gắn liền với cánh tay của triệu hoán thú. *(Xuất hiện tại Tập 407)*
-- **Thiết Bị Phun (Thrower / スロワー):** Một dạng Cơ Quan Tăng Ma Lực mô phỏng cơ quan phun hơi thở của ma vật để phun lửa hoặc độc tố. *(Xuất hiện tại Tập 407)*
-- **Giáp Cơ Bắp (Muscle Suit / マッスルスーツ):** Một dạng Cơ Quan Tăng Ma Lực bọc các sợi cơ mạnh mẽ giúp nâng cao sức mạnh thể chất của triệu hoán thú. *(Xuất hiện tại Tập 407)*
-- **Vỏ Giáp Cứng (Armor Shell / アーマーシェル):** Một dạng Cơ Quan Tăng Ma Lực tạo lớp giáp bảo vệ bằng vỏ cứng dày cho triệu hoán thú. *(Xuất hiện tại Tập 407)*
-- **Nhân Tự Sát (Jibaku Kaku / 自爆核):** Một dạng Cơ Quan Tăng Ma Lực tích hợp bom lõi tự chế vào cơ thể triệu hoán thú để kích nổ tự sát. *(Xuất hiện tại Tập 407)*
-- **Thần Thánh Ngôn Ngữ "Lời Thề" (Holy Pronouncement: Word of Oath / 神聖言語「誓いの言葉」):** Kỹ năng Thần Thánh Ngôn Ngữ của Lilith dùng để thiết lập một lời thề quyết đấu. *(Xuất hiện tại Tập 408)*
-- **Hắc Thánh Hòm (Black Ark / 黒の聖櫃):** Ma pháp dịch chuyển không gian/kết giới của Lilith dùng để đưa bản thân và đối thủ vào một không gian trắng vô tận để quyết đấu. *(Xuất hiện tại Tập 408)*
-- **Kẻ lập khế ước với Hắc Long (Contractor of the Black Dragon / 黒竜の契約者):** Danh hiệu đặc biệt của Tendou Ryuuichi sau khi lập khế ước với Liberta. *(Xuất hiện tại Tập 412)*
-- **Hắc Ám Ma Nhân (Dark Demon / 闇の魔人):** Trạng thái tiến hóa/danh hiệu của Hayama Ritsuki sau khi thức tỉnh sức mạnh bóng tối. *(Xuất hiện tại Tập 412)*
-- **Đại Địa Ma Nhân (Earth Demon / 大地の魔人):** Trạng thái tiến hóa/danh hiệu của Randou Kyouko sau khi dung hợp với Thổ tinh linh. *(Xuất hiện tại Tập 412)*
-- **Dungeon Master (Dungeon Master / ダンジョンマスター):** Danh hiệu của Momokawa Kotarou sau khi chiếm quyền kiểm soát khối lõi của Đại mê cung Albion. *(Xuất hiện tại Tập 412)*
-- ** (Great Colossus / Giant God / 大いなる巨神):** Vị thần tối cao được tộc người Diana và các Tinh Linh Chiến Sĩ của họ thờ phụng. *(Xuất hiện tại Tập 413)*
-- ** (Momoka / モモカ):** Tên gọi chệch đi của Momokawa Kotarou khi cậu ở dạng đứa trẻ và cố gắng phát âm tên mình, được Riza hiểu nhầm là tôn danh của cậu. *(Xuất hiện tại Tập 413)*
-- **Dịch Vụ Nô Lệ Velvet - Chi Nhánh Easthope (Velvet Servant Service - Easthope Branch / ベルベット・サーヴァントサービス・イーストホープ支店):** Thương hội nô lệ duy nhất tại thị trấn Easthope. *(Xuất hiện tại Tập 412)*
-- **Dãy núi Elemental (Elemental Mountains / エレメンタル山脈):** Dãy núi hùng vĩ đóng vai trò biên giới giữa Astoria và lãnh thổ của người Diana. *(Xuất hiện tại Tập 412)*
-- **Đồn điền New Hope (New Hope Plantation / ニューホープ農園):** Trang trại khổng lồ của Winston chuyên sản xuất cà phê. *(Xuất hiện tại Tập 412)*
-- **Elemental Mountain (Elemental Mountain Coffee / エレメンタルマウンテン):** Thương hiệu cà phê nổi tiếng khắp vương quốc Astoria do Winston sản xuất. *(Xuất hiện tại Tập 412)*
-- **Liên minh Tinh linh Diana (Diana Spirit Alliance / ディアナ精霊同盟):** Tộc người bản địa da nâu, tóc và mắt nhạt màu sống bên kia núi Elemental. *(Xuất hiện tại Tập 412)*
-- **Quán cà phê hầu gái và quản gia đảo ngược (Reverse Maid and Butler Cafe / 逆転メイド＆執事喫茶):** Tiết mục lễ hội trường do Takanashi Kotori đề xuất, trong đó nam sinh giả gái làm hầu gái và nữ sinh giả trai làm quản gia. *(Xuất hiện tại Tập 413)*
-- **Coffee Trent (Coffee Trent / コーヒートレント):** Ma vật dạng thực vật bản địa của dãy núi Elemental, có thân to như cột nhà và vô số dây leo xúc tu tự vệ khi bị hái quả. *(Xuất hiện tại Tập 414)*
-- **Tinh Linh Chiến Sĩ (Spirit Warrior / 精霊戦士):** Lực lượng chiến đấu tinh nhuệ của người Diana, có sức mạnh vượt trội dưới sự dẫn dắt của Thần tử. *(Xuất hiện tại Tập 414)*
-- **Chiến dịch dồn lực cho át chủ bài (Kanbanmusume Itten Shuuchuu Sakusen / 看板娘一点集中作戦):** Chiến thuật dồn toàn bộ ngân sách trang phục hầu gái cho Souma Yuuto (át chủ bài nhan sắc) và cho những nam sinh khác mặc đồ rẻ tiền. *(Xuất hiện tại Tập 415)*
-- **Hầu gái át chủ bài (Ace maid / エースメイド):** Vị trí hầu gái đại diện cho lớp trong lễ hội trường, được đầu tư trang điểm lộng lẫy nhất. *(Xuất hiện tại Tập 417)*
-- **Red Berry (Red Berry / 赤ベリー):** Loại quả mọng màu đỏ thuộc họ mâm xôi mọc hoang, vị chua ngọt phổ biến ở Diana. *(Xuất hiện tại Tập 415)*
-- **Bullwhip (Bullwhip / ブルウィップ):** Loại roi da dài dạng dây thừng chuyên dùng để thi hành hình phạt, gây đau đớn kinh hoàng. *(Xuất hiện tại Tập 415)*
-- **Thiết Giáp Hùng (Armored Bear / 鎧熊):** Quái vật gấu khổng lồ bọc giáp từ dãy núi Elemental đi xuống, tấn công các trang trại chăn nuôi. *(Xuất hiện tại Tập 416)*
-- **Cơm cuộn trứng sốt Hayashi (Omu-hayashi / オムハヤシ):** Món cơm cuộn trứng rưới nước sốt thịt bò hầm hành tây (sốt Hayashi) do Kotarou đề xuất cho lễ hội trường. *(Xuất hiện tại Tập 416)*
-- **Khay sơn mài nhiều tầng (Juubako / 重箱):** Hộp đựng thức ăn nhiều tầng truyền thống của Nhật Bản, được Futaba Meiko dùng để mang cơm cuộn trứng thử nghiệm. *(Xuất hiện tại Tập 416)*
-- **Phòng ngự tinh thần (Mental Defense / 精神防護):** Kỹ thuật bảo vệ trí óc và linh hồn khỏi các đòn tấn công tâm linh hoặc tẩy não, Kotarou học được từ Ruinhilde. *(Xuất hiện tại Tập 418)*
-- **Kẹp bấm mi (Eyelash curler / ビューラー):** Dụng cụ trang điểm dùng để kẹp cho lông mi cong vút lên. *(Xuất hiện tại Tập 418)*
-- **Kem nền (Foundation / ファンデーション):** Mỹ phẩm trang điểm dùng để tạo lớp nền mịn màng cho da mặt. *(Xuất hiện tại Tập 418)*
-- **Kem che khuyết điểm (Concealer / コンシーラー):** Mỹ phẩm dùng để che các vết thâm, mụn hoặc tàn nhang trên khuôn mặt. *(Xuất hiện tại Tập 418)*
-- **Destiny Land (Destiny Land / デスティニーランド):** Công viên giải trí nổi tiếng nhất Nhật Bản nằm ở Tokyo (mô phỏng Disneyland ở thế giới thực). *(Xuất hiện tại Tập 419)*
-- **Tượng Moai bí ẩn (Moai Statue / モアイ象):** Bức tượng Moai khổng lồ đặt tại quảng trường nhà ga, địa điểm hẹn gặp quen thuộc của học sinh ở thế giới cũ. *(Xuất hiện tại Tập 419)*
-- **Dao Phế Liệu (Junk Knife / ジャンクナイフ):** Dao găm thô sơ có chất lượng cực thấp do Kotarou chế tạo từ phế liệu kim loại bằng luyện kim. *(Xuất hiện tại Tập 420)*
-- **Súng Blaster kiểu súng trường (Rifle-type Blaster / ライフル型ブラスター):** Loại súng trường bắn ra đạn ánh sáng ma lực, là vũ khí tiêu chuẩn của quân đội và cảnh vệ Astoria. *(Xuất hiện tại Tập 420)*
-- **Destinyland (Destinyland / ディスティニーランド):** Công viên giải trí nổi tiếng ở thế giới cũ nơi Reina bắt Yuuto dẫn đi chơi. *(Xuất hiện tại Tập 421)*
-- **Tượng đất nung Dogu (Dogu / 土偶):** Tượng đất nung thời cổ đại của Nhật Bản, thường mô tả hình dáng người phụ nữ đầy đặn biểu tượng cho sự sinh sản và phì nhiêu. *(Xuất hiện tại Tập 421)*
-- **Nữ Thần Lời Nguyền (Goddess of Curses / 呪いの女神):** Danh xưng mà Riza dùng để gọi Chú thần Ruinhilde, vị thần bảo hộ của Momokawa Kotarou. *(Xuất hiện tại Tập 419)*
-- **Primheart (Primheart / プリムハート):** Thương hiệu quán cà phê hầu gái lớn nhất và lâu đời nhất trong thành phố của thế giới cũ. *(Xuất hiện tại Tập 420)*
-- **Pure Pink (Pure Pink / ピュアピンク):** Quán cà phê hầu gái có phong cách náo nhiệt, nổi tiếng với người quản lý có tính cách tăng động. *(Xuất hiện tại Tập 422)*
-- **Quản lý Pink (Pink Manager / ピンク店長):** Quản lý của quán Pure Pink, nổi tiếng với tính cách nhiệt tình thái quá và thích chèo kéo nhân tài. *(Xuất hiện tại Tập 422)*
-- **Binh nhì High Zombie (High Zombie Private Second Class / ハイゾンビ二等兵):** Biến thể triệu hồi High Zombie có sức mạnh thể chất và tốc độ vượt trội hơn Skeleton, được Kotarou dùng làm quân tiên phong đột kích. *(Xuất hiện tại Tập 421)*
-- **Hỏa Hình Địa Ngục (Jigokubi-okuri no Kei / 地獄火送りの刑):** Hình phạt thiêu sống bằng nghi lễ chứa đầy lời nguyền của tộc Diana, dâng hiến linh hồn kẻ bị phạt làm vật tế cho Thần Luyện Ngục để chịu đau đớn vĩnh hằng. *(Xuất hiện tại Tập 424)*
-- **Thần Luyện Ngục (Rengoku no Kami / 煉獄の神):** Vị thần trong tín ngưỡng cổ xưa của tộc Diana, nơi tiếp nhận linh hồn tội nhân chịu hỏa hình. *(Xuất hiện tại Tập 424)*
-- **Hắc phục (Kurofuku / 黒服):** Từ dùng để chỉ những nhân viên bảo vệ, bảo kê mặc vest đen tại các tụ điểm giải trí hoặc cửa hàng để xử lý khách gây rối. *(Xuất hiện tại Tập 424)*
-- **Súng Blaster kiểu súng lục ổ quay (Revolver-type Blaster / リボルバー型ブラスター):** Một biến thể của súng blaster cầm tay có hình dáng giống súng lục ổ quay, sử dụng pin ma lực làm băng đạn, có dung lượng ma lực thấp hơn súng trường nhưng có thể bắn liên tục nhiều phát. *(Xuất hiện tại Tập 423)*
-- **Cự Nhân Chiến Trang (Kyojin Sensou / Giant War Gear / 巨人戦装):** Trạng thái biến đổi của Tinh Linh Chiến Sĩ Riza khi nhận ma lực từ Kotarou, hóa thành dạng quỷ khổng lồ cao hơn 3m bọc giáp thép đen và dung nham. *(Xuất hiện tại Tập 422)*
-- **Tật Phong Chi Vũ - Thánh Nữ Thủ Trung Lưu (Shippuu no Hane: Seinaru Otome no Te ni Tomare / 疾風の羽根・聖なる乙女の手にとまれ):** Chú ấn chuyên dụng của Souma Sakura. *(Xuất hiện tại Tập 422)*
-- **Nham Khắc Trảo Vết (Iwa ni Kizamu Tsumato / 巌に刻む爪痕):** Chú ấn hệ Thổ cường hóa thuộc tính của Randou Kyouko. *(Xuất hiện tại Tập 422)*
-- **Bão Tuyết Cuồng Phong (Fukisabu Shirayuki / 吹き荒ぶ白雪):** Chú ấn hệ Băng cường hóa thuộc tính của Kisaragi Ryouko. *(Xuất hiện tại Tập 422)*
-- **Phe Giải Phóng (Liberation Faction / 解放派):** Tổ chức phản đối chế độ nô lệ và kêu gọi giải phóng nô lệ, đang phát triển mạnh mẽ và gây ảnh hưởng đến cả Pandora Thánh Giáo ở Astoria. *(Xuất hiện tại Tập 425)*
-- **Kính cận quỷ súc (Kichiku Megane / 鬼畜眼鏡):** Biệt danh châm biếm mà Tendou Ryuuichi đặt cho Lớp trưởng Kisaragi Ryouko do tính cách nghiêm khắc của cô. *(Xuất hiện tại Tập 427)*
-- **Chiến dịch Quảng cáo Đi trước một bước (Flying Ad Strategy / フライング広告戦略):** Chiến lược quảng cáo sớm cho gian hàng lễ hội trường bằng cách công bố trước hình ảnh lộng lẫy của các hầu gái và quản gia át chủ bài để thu hút sự chú ý. *(Xuất hiện tại Tập 426)*
-- **Kiếm Thánh (Kensei / Sword Saint / 剣聖):** Thiên chức của kiếm sĩ mạnh nhất trong tổ đội Dũng Giả của vương quốc Astoria. *(Xuất hiện tại Tập 426)*
-- **Tokkan Kouji-kun Mẫu 2 (Tokkan Kouji-kun Type 2 / 土魔法造成用鉄杭・突貫工事くん２型):** Cọc sắt hỗ trợ Thổ ma pháp chuyên dụng để tạo ra các bức tường phòng ngự lớn. *(Xuất hiện tại Tập 313)*
-- **Nghi lễ cầu mưa (Rain-making ritual / 雨乞いの儀式):** Nghi lễ hiến tế của tộc Goma do Oh-ma thực hiện để tạo mưa dập lửa. *(Xuất hiện tại Tập 313)*
-- **Ma vật dạng cá mập (Shark-like monster / サメ型モンスター):** Ma vật tầm trung có đầu giống cá mập, thân giống sư tử biển, có vây lưng lớn nhô cao. Có khả năng di chuyển linh hoạt và ẩn nấp dưới lớp tuyết dày. *(Xuất hiện tại Tập 260)*
-- **Hồ không đóng băng (Non-freezing lake / 不凍液の湖):** Hồ nước hình tròn trịa nằm ở rìa thị trấn tuyết, chứa chất lỏng đặc biệt mang ma lực băng giá không bao giờ đông, liên tục tỏa ra hàn khí khủng khiếp làm lạnh cả khu vực. *(Xuất hiện tại Tập 260)*
-- **Không Gian Mở Rộng - Giai Đoạn Ba (Kakuchou Kuukan - Dai-san Kaitei / 拡張空間・第三階梯):** Kỹ năng ma pháp không gian cấp cao hơn Giai Đoạn Hai, cho phép cất giữ và triệu hồi vật phẩm/vũ khí quy mô lớn hơn. *(Xuất hiện tại Tập 329)*
-- **Cơ quan Hành chính Trung ương Albion (Albion Chuuou Seichou / アルビオン中央政庁):** Khu vực hành chính trung tâm nằm bên trong Tháp Trung Tâm, nơi quản lý toàn bộ chức năng của hầm ngục Albion. *(Xuất hiện tại Tập 329)*
-- **Trứng Salamander (Salamander Egg / サラマンダーの卵):** Quả trứng của ma vật hệ hỏa Salamander, được Hayama Ritsuki lén giữ trong ba lô và bắt đầu nở. *(Xuất hiện tại Tập 334)*
-- **Thánh Thiên Cấp Binh Trang (Holy Heaven Class Armament / 聖天級兵装):** Trang bị cổ đại cực mạnh cấp cho Tổng đốc lâm thời Takanashi, biểu hiện qua đôi cánh trắng phát sáng ma lực. *(Xuất hiện tại Tập 330)*
-- **Ma Đạo Nhân Hình (Madou Ningyou / Sorcery Doll / 魔導人形):** Những con người nhân tạo được chế tạo bằng ma pháp cổ đại, có làn da màu xanh lam và đôi mắt trắng dã, thường được dùng làm lính gác hoặc nô lệ tại Albion. *(Xuất hiện tại Tập 349)*
-- **Nega Wave (Nega Wave / ネガウェイブ):** Kỹ năng phóng ra luồng sóng xung kích mang ma lực bóng tối màu tím đen từ Vương Kiếm của Tendou Ryuuichi. *(Xuất hiện tại Tập 349)*
-- **Loạn Trảm - Diên Vĩ (Midarezaki Ayame / 乱れ裂き・菖蒲):** Một biến thể võ kỹ kiếm thuật liên hoàn mới thuộc kiếm phái Kenzaki, có thể chuyển đổi mượt mà từ chiêu Loạn Trảm - Hoa Trà để tạo bất ngờ cho đối thủ. *(Xuất hiện tại Tập 359)*
-- **Ma Nhân Hóa - Thổ Tinh Linh (Majin-ka: Tsuchi Seirei / 魔人化・土精霊):** Thuật tinh linh ký sinh tối thượng của Randou Kyouko, hòa làm một với Thổ tinh linh, khoác vũ y trắng thướt tha và trang sức bảo ngọc hoàng kim bảy màu với ma pháp trận dung nham. *(Xuất hiện tại Tập 389)*
-- **Thất Thiên Bảo Kính (Shichiten Houkyou / 七天宝鏡):** Ma pháp phòng ngự tối thượng của Kyouko tạo ra tấm gương bảo ngọc bảy màu khổng lồ viền vàng tán xạ và chặn đứng mọi chùm tia photon hủy diệt. *(Xuất hiện tại Tập 389)*
-- **Cự Nhân Sát (Kyojin-goroshi / Giant Killer / 巨人殺し):** Bí kỹ tối thượng thuộc Một Trong Bảy Thử Thách Của Thần ban cho Cuồng Chiến Binh Futaba Meiko sau khi đơn đả độc đấu chém chết Zagan, tụ lực 10 giây rồi vung đại kiếm sét đen đỏ chém đôi mọi cỗ máy/quái vật khổng lồ. *(Xuất hiện tại Tập 389)*
-- **Tiểu Điểu Tương (Kotori-bako / 小鳥箱):** Chiếc hộp kim loại đen tuyền do Kotarou luyện chế từ Hắc Ma Nữ Chi Luyện Ngục Lô, phong ấn trọn vẹn thân xác, linh hồn và tri thức Hiền Giả của Takanashi Kotori để Chú thuật sư thao túng quyền năng Hiền Giả và quản trị di tích. *(Xuất hiện tại Tập 399)*
-- **Tổng Đốc Lâm Thời Albion (Acting Governor-General of Albion / アルビオン総督代理):** Danh vị Dungeon Master tối cao của di tích cổ đại Albion do Momokawa Kotarou kế nhiệm từ Kotori. *(Xuất hiện tại Tập 399)*
-- **Đào Ảnh (Touei / Momokage / 桃影):** Thượng cấp Ám tinh linh cao 20cm sinh ra từ cánh tay phải ghép chú thuật của Hayama Ritsuki, mang hình hài Momokawa Kotarou mặc áo choàng đen Tử thần mắt đỏ, đóng vai trò cố vấn tinh linh cho Rerite. *(Xuất hiện tại Tập 403)*
-- **Bạch Chi Bí Thạch (White Secret Stone / 白の秘石):** Kỹ năng cố hữu thứ ba của Dũng Giả, tạo dải lụa ánh sáng và viên tinh thể phong ấn tuyệt đối; tàn dư của nó dung hợp vào tay trái Rerite và phong ấn bảo tồn an toàn linh hồn gấu Kinako. *(Xuất hiện tại Tập 403, 409)*
-- **Thánh Đường Kỵ Sĩ Đoàn (Holy Temple Knights / 聖堂騎士団):** Lực lượng kỵ sĩ tinh nhuệ bọc giáp bạc của Giáo Hội Pandora tại Vương Quốc Astoria. *(Xuất hiện tại Tập 406)*
-- **Mãnh Độc Long Pháo (Venom Dragon Cannon / 猛毒竜砲):** Đòn xả hơi thở kịch độc Basilisk từ miệng rồng của trượng Vô Đạo Nhất Thức của Kotarou. *(Xuất hiện tại Tập 409)*
-- **Vạn Cân Trọng Cước (Megaton Kick / メガトンキック):** Cú rơi tự do tung cước dồn trọn vẹn hàng chục tấn thể trọng của Cự Nhân Rem. *(Xuất hiện tại Tập 409)*
-- **Hắc Chi Thánh Quỹ (Black Ark / 黒の聖櫃):** Kỹ năng kết giới không gian của Nữ Dũng Giả Lilith dùng để cô lập đối thủ vào không gian quyết đấu 1v1. *(Xuất hiện tại Tập 409)*
-- **Thần Thụ Tháp (Shinjuutou / 神授塔):** Tòa tháp di tích cổ đại cấm địa nối liền với Thiên Tống Môn tại thủ đô Sigrun. *(Xuất hiện tại Tập 410)*
-- **Tứ Đại Thánh Khanh (Four Holy Lords / 四聖卿):** Bốn vị lãnh đạo tối cao cai quản 4 Đại Giáo khu Đông, Tây, Nam, Bắc của Giáo Hội Pandora, chỉ đứng sau Thánh Hoàng. *(Xuất hiện tại Tập 411)*
-- **Thánh Hoàng (Holy Emperor / Pope / 聖皇猊下):** Người đứng đầu tối cao của Giáo Hội Pandora và Vương Quốc Astoria. *(Xuất hiện tại Tập 411)*
-- **Trục Xuất Hình (Exile Punishment / 追放刑):** Bản án xóa ký ức, tước đoạt ma lực và bán làm nô lệ đày ải nơi biên viễn. *(Xuất hiện tại Tập 411)*
-- **Vong Khước Hình (Oblivion Punishment / 忘却刑):** Bản án xóa bỏ ký ức và tẩy não phục tòng. *(Xuất hiện tại Tập 411)*
-- **Tứ Đại Mê Cung (Four Great Dungeons / 四大迷宮):** Bốn đại mê cung cổ đại khổng lồ phân bổ ở bốn hướng Đông, Tây, Nam, Bắc bao quanh thủ đô Sigrun của Vương Quốc Astoria. *(Xuất hiện tại Tập 428)*
-- **Tà Thần Chronos (Dark Evil God Chronos / 闇の邪神クロノス):** Tà thần bóng tối cổ đại bị phong ấn dưới đáy Tứ Đại Mê Cung, đối địch với Nữ Thần Ánh Sáng Elshion. *(Xuất hiện tại Tập 428)*
-- **Long Tai (Dragon Disaster / 竜災):** Thảm họa ma vật quy mô lớn (Monster Stampede) bùng phát khi sức mạnh tà thần ngưng tụ thành Hắc Long dẫn dắt bầy quái vật tràn ra khỏi mê cung tàn phá thế giới loài người. *(Xuất hiện tại Tập 428)*
-- **Dũng Tinh Thập Tự Đoàn (Brave Star Cross Clan / 勇星十字団):** Clan mạo hiểm giả viễn chinh hàng đầu của Vương Quốc Astoria do Dũng Giả Lilith bảo hộ, chuyên trách nhiệm vụ chinh phạt Tứ Đại Mê Cung. *(Xuất hiện tại Tập 428)*
-- **Mê Cung Đô Thị Vanheit (Labyrinth City Vanheit / 迷宮都市ヴァンハイト):** Thành phố mê cung lớn ở phía Đông Vương Quốc Astoria, nơi đặt lối vào của Đại Mê Cung Vô Hạn Luyện Ngục. *(Xuất hiện tại Tập 429)*
-- **Mê Cung Quản Lý Cục (Dungeon Administration Bureau / 迷宮管理局):** Cơ quan nhà nước của Vương Quốc Astoria quản lý hoạt động thám hiểm dungeon và cấp Giấy Phép Mê Cung theo hệ thống 5 Rank. *(Xuất hiện tại Tập 429)*
-- **Vô Hạn Luyện Ngục (Infinite Purgatory / 無限煉獄):** Một trong Tứ Đại Mê Cung khổng lồ của Vương Quốc Astoria nằm tại thành phố Vanheit. *(Xuất hiện tại Tập 429)*
-- **Hỏa Ngưu (Fire Bull / 火牛):** Ma vật bò mộng bọc giáp đỏ phun lửa khổng lồ hung hãn ở tầng sâu của Vô Hạn Luyện Ngục. *(Xuất hiện tại Tập 429)*
-- **Trọng Cương Đột Tiến (Heavy Steel Dash / 重剛突進):** Võ kỹ lao nhanh bọc thép hộ thân của Thủ Hộ Chiến Sĩ Yamada Genki. *(Xuất hiện tại Tập 429)*
-- **Yamuda Gain (ヤムダゲイン):** Tên phiên âm dị giới trên Giấy Phép Mê Cung Rank 3 của Yamada Genki do người dị giới ghi. *(Xuất hiện tại Tập 430)*
-- **Lava Lizardman (Nhân Hình Thằn Lằn Dung Nham / ラヴァリザードマン):** Ma vật thằn lằn người bọc vảy cam và giáp đá tro sống ở khu vực núi lửa Tầng 3 Vô Hạn Luyện Ngục. *(Xuất hiện tại Tập 431)*
-- **Đại Nham Oa (Ooiwagaeru / Giant Rock Frog / 大岩蛙):** Ma vật ếch đá khổng lồ ở Tầng 2 Vô Hạn Luyện Ngục, gan nướng rất béo và thơm ngon. *(Xuất hiện tại Tập 431)*
-- **Cà Phê Treant (Coffee Treant / コーヒートレント):** Ma vật thực vật cây cà phê khổng lồ ở đồn điền New Hope, hạt thu hoạch được cho chất lượng cà phê Elemental Mountain hảo hạng bậc nhất. *(Xuất hiện tại Tập 432)*
-- **Đậu Bùn (Nitorimame / Mud Beans / 泥豆):** Giống đậu siêu sinh trưởng dễ trồng ở ruộng bùn mang từ Vương quốc Goma tại Albion sang đồn điền New Hope làm lương thực tự cấp. *(Xuất hiện tại Tập 432)*
-- **Khoai Bùn (Nitorimo / Mud Taro / 泥芋):** Giống khoai siêu sinh trưởng dễ trồng ở ruộng bùn mang từ Vương quốc Goma sang làm lương thực chủ lực. *(Xuất hiện tại Tập 432)*
-- **Tàu Ma Đạo (Magic Train / 魔導列車):** Phương tiện giao thông đường sắt hiện đại của Vương Quốc Astoria, chạy bằng động cơ ma lực đốt khoáng thạch Quang Thạch khai thác từ Dungeon. *(Xuất hiện tại Tập 433)*
-- **Quang Thạch (Light Stone / 光石):** Khoáng thạch chứa ma lực khai thác từ dungeon, dùng làm nhiên liệu đốt cho động cơ ma lực của Tàu Ma Đạo và các máy móc ma đạo. *(Xuất hiện tại Tập 433)*
-- **Quang Thiết (Light Iron / 光鉄):** Kim loại gia công từ Quang Thạch dùng chế tạo linh kiện máy móc ma đạo và động cơ ma lực. *(Xuất hiện tại Tập 433)*
-- **Thần Uy Vạn Biệt (Divine Aura Discrimination / 神威万別):** Năng lực thần nhãn nhìn thấu hào quang thần tính để phân biệt Thiên Chức và Quyến thuộc của Momokawa Kotarou. *(Xuất hiện tại Tập 434)*
-- **Phái Nữ Thần (Goddess Faction / 女神派):** Đại phái thờ phụng Nữ Thần Ánh Sáng Elshion lớn nhất và cực đoan nhất trong Giáo Hội Pandora. *(Xuất hiện tại Tập 434)*
-- **Phái Chiến Thần (War God Faction / 戦神派):** Phái thờ thần chiến binh/kiếm sĩ trong Giáo Hội Pandora (chi phối vùng Easthope). *(Xuất hiện tại Tập 434)*
-- **Phái Ma Đạo (Mage Faction / 魔道派):** Phái thờ thần ma thuật trong Giáo Hội Pandora. *(Xuất hiện tại Tập 434)*
-- **Phái Cứu Tế (Salvation Faction / 救済派):** Phái thờ thần trị liệu trong Giáo Hội Pandora (chi phối vùng Vanheit / Đông Thánh Khanh). *(Xuất hiện tại Tập 434)*
-- **Clan Highlander (ハイランダー):** Đại Clan mạo hiểm giả lâu đời nhất và quy mô lớn nhất tại Mê Cung Đô Thị Vanheit. *(Xuất hiện tại Tập 434)*
-- **Clan Tượng Nha Chi Tháp (Ivory Tower / 象牙の塔):** Đại Clan ma thuật sư quy mô toàn quốc tại Astoria. *(Xuất hiện tại Tập 434)*
-- **Clan Tối Đại Cuồng Hóa (Maximum Frenzy / 最大狂化):** Clan chiến binh cuồng bạo xăm trổ bọc giáp gai tại Vanheit. *(Xuất hiện tại Tập 434)*
-- **Lightning Armament (ライトニング・アーマメント):** Tập đoàn vũ khí lớn nhất Astoria chuyên cung cấp súng Blaster và súng trường ma pháp quân dụng. *(Xuất hiện tại Tập 434)*
-- **Fenrir Pride (フェンリル・プライド):** Tập đoàn chế tác vũ khí ma pháp quý tộc cao cấp tại Astoria. *(Xuất hiện tại Tập 434)*
-- **General Guard (ジェネラル・ガード):** Tập đoàn sản xuất giáp trụ bền bỉ giá bình dân tại Astoria. *(Xuất hiện tại Tập 434)*
-- **Xích Phong Chi Nhận (Red Wind Blade / 赤風の刃):** Quán rượu tàn tạ tại khu ổ chuột Vanheit quy tụ những cựu binh mạo hiểm giả tàn phế cụt chi. *(Xuất hiện tại Tập 434)*
-- **Linh Cảm Giải Phẫu Học (Inspirational Anatomy / 霊感解剖学):** Chú thuật mới của Kotarou do Ruinhilde ban tặng, cho phép nhìn thấu cấu trúc vi mô, chức năng tạng phủ và cơ khí khi tự tay giải phẫu/tháo dỡ vật thể. *(Xuất hiện tại Tập 435)*
-- **Phân Thân Dung Hợp (Clone Fusion Rejuvenation / 分身融合):** Thuật thức cấm kỵ của Kotarou dung hợp toàn bộ thể ma lực của phân thân Song Ảnh vào cơ thể người sống, giúp tái tạo toàn bộ tạng phủ và trẻ hóa cơ thể, đánh đổi bằng việc tiêu hao tuổi thọ gấp bội. *(Xuất hiện tại Tập 435)*
-- **Hắc Phát Giáo Hội (Black Hair Church / 黒髪教会):** Cơ sở nhà thờ kiêm Clan Mạo Hiểm Giả do Momokawa Kotarou thành lập tại thành phố Vanheit, thờ phụng Nữ Thần Ruinhilde (Hắc Phát Chi Nữ Thần) và kinh doanh dịch vụ tái sinh chi tàn phế cùng cấy tóc Chú thuật. *(Xuất hiện tại Tập 436)*
-- **Nhiên Đồn (Burning Boar / 燃豚):** Ma vật lợn lòi bọc giáp đỏ bốc lửa ở Tầng 2-3 Vô Hạn Luyện Ngục, khứu giác cực nhạy chuyên đánh hơi người ẩn nấp. *(Xuất hiện tại Tập 437)*
-- **Đại Đoạn Kích Phá (Great Severing Smash / 大断撃破):** Võ kỹ búa/rìu giáng đòn xung kích chấn động hủy diệt diện rộng của Yamada Genki. *(Xuất hiện tại Tập 437)*
-- **Cổng Không Gian (Gate / ゲート):** Hiện tượng khe nứt không gian mở ra trong đợt Long Tai nối thẳng từ mê cung ra mặt đất khiến ma vật tràn ngập thế giới loài người. *(Xuất hiện tại Tập 437)*
-- **Thiết Giáp Ngưu Xa "Raging Bull" (Armored Bull Carriage Raging Bull / 装甲牛車レイジングブル):** Xe bọc thép siêu hạng 4 bánh kéo bởi 4 con Hỏa Ngưu Thi Nhân Hình do Kotarou chế tạo, dùng làm phương tiện chiến đấu và vận tải cơ động trong dungeon. *(Xuất hiện tại Tập 438)*
-- **Thiết Giáp Khốc Hào (Armored Cry / アーマードクライ):** Kỹ năng khiêu khích thu hút toàn bộ sự chú ý của ma vật về phía bản thân đồng thời tăng cường phòng ngự của Thủ Hộ Chiến Sĩ Yamada Genki. *(Xuất hiện tại Tập 438)*
-- **Phi Tường Thiểm (Flying Flash / 飛翔閃):** Võ kỹ phóng phi lao tầm xa chuẩn xác của Tinh Linh Chiến Sĩ Riza. *(Xuất hiện tại Tập 438)*
-- **Hắc Hóa (Blackening / 黒化):** Hiện tượng ma vật trong Dungeon bị ô nhiễm biến dị biến thành màu đen tuyền, mắt đỏ ngầu và tỏa ra hào quang tà ác, sức mạnh tăng vọt gấp bội và là kẻ cầm đầu phát động thảm họa Long Tai. *(Xuất hiện tại Tập 439)*
-- **Hắc Hóa Salamander (Blackened Salamander / 黒化サラマンダー):** Con trùm Hắc Hóa rồng lửa phát động thảm họa Long Tai tại Vanheit, đã bị liên quân trên mặt đất tiêu diệt. *(Xuất hiện tại Tập 439)*
-- **Full Helgar (フルヘルガー):** Đại Boss thống trị Tầng 3 Vô Hạn Luyện Ngục (Chúa tể Tầng 3). *(Xuất hiện tại Tập 439)*
-- **Quang Thạch Thủy Băng (Water & Ice Light Stone / 水と氷の光石):** Khoáng thạch nguyên tố thủy và băng cực hiếm được khai thác bí mật tại mỏ Tầng 2 Vô Hạn Luyện Ngục của tập đoàn General Guard. *(Xuất hiện tại Tập 439)*
-- **Hỏa Sơn Thần Điện (Volcano Shrine / 火山神殿):** Vùng thánh địa dung nham Tầng 3 Vô Hạn Luyện Ngục, nơi cư ngụ của Đại Boss Tầng 3 Full Helgar. *(Xuất hiện tại Tập 440)*
-- **Kết Giới Cơ Làm Mát (Cooling Barrier Device / 冷却用結界機):** Ma đạo cụ do Kotarou thiết kế và Milene (Tượng Nha Chi Tháp) chế tạo từ Tinh Thể Băng, tạo luồng khí lạnh bao bọc cơ thể chống lại nhiệt độ cực hạn trong hỏa sơn. *(Xuất hiện tại Tập 440)*
+- **id:** SKILL-004
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Độc Chú & Luyện Kim Chú』
+- **tên_gốc:** Momokawa Kotarou (Đầu lâu Hinagiku)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Chiết xuất độc dược từ quái vật (ong mật, bọ cạp) và tôi luyện dược liệu.
 
+---
 
+## [SKILL-005] 『Thánh Kiếm』 (Holy Sword)
 
+- **id:** SKILL-005
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Thánh Kiếm』 (Holy Sword)
+- **tên_gốc:** Souma Yuuto (Dũng Giả)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Phóng thích kiếm khí ánh sáng cực mạnh, gây sát thương chí mạng cho ma vật bóng tối.
 
+---
 
+## [SKILL-006] 『Súc Địa』 (Shukuchi)
 
+- **id:** SKILL-006
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Súc Địa』 (Shukuchi)
+- **tên_gốc:** Souma Yuuto (Dũng Giả)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Kỹ thuật di chuyển thu ngắn khoảng cách thần tốc trong nháy mắt.
 
+---
 
+## [SKILL-007] 『Bạch Ảnh Thương』 (White Shadow Spear)
 
+- **id:** SKILL-007
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Bạch Ảnh Thương』 (White Shadow Spear)
+- **tên_gốc:** Souma Yuuto (Dũng Giả)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Kỹ năng đâm thương ánh sáng tốc độ cao phá vỡ giáp trụ.
 
+---
 
+## [SKILL-008] 『Cuồng Hóa』 (Berserk Mode)
 
+- **id:** SKILL-008
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Cuồng Hóa』 (Berserk Mode)
+- **tên_gốc:** Yamada Genki (Trọng Chiến Binh)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Kích hoạt trạng thái cuồng nộ tăng gấp bội sức mạnh thể chất và độ lì đòn.
 
+---
+
+## [SKILL-009] 『Băng Kết Đại Thuẫn』 (Frozen Aegis)
+
+- **id:** SKILL-009
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Băng Kết Đại Thuẫn』 (Frozen Aegis)
+- **tên_gốc:** Kisaragi Ryouko (Băng Ma Thuật)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Tạo lá chắn băng giá khổng lồ ngăn chặn mọi đòn tấn công vật lý và ma pháp.
+
+---
+
+## [SKILL-010] 『Địa Thành Lũy / Boongke Đất』
+
+- **id:** SKILL-010
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Địa Thành Lũy / Boongke Đất』
+- **tên_gốc:** Randou Kyouko (Thổ Ma Thuật)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Thao túng đất đá dựng thành lũy phòng thủ kiên cố hoặc chiến hào trú ẩn.
+
+---
+
+## [SKILL-011] 『Giám Định Cổ Ngữ & Rèn Đúc Ma Pháp』
+
+- **id:** SKILL-011
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Giám Định Cổ Ngữ & Rèn Đúc Ma Pháp』
+- **tên_gốc:** Kouzuki Shiori (Hiền Giả)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Giải mã văn tự cổ, phân tích cấu trúc ma thuật và gia trì thuộc tính cho trang bị.
+
+---
+
+## [SKILL-012] 『Kho Báu Hoàng Kim & Vương Kiếm Zamd』
+
+- **id:** SKILL-012
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Kho Báu Hoàng Kim & Vương Kiếm Zamd』
+- **tên_gốc:** Tendou Ryuuichi (Vương)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Triệu hồi vũ khí từ kho báu không gian, thống lĩnh chiến trường bằng thanh kiếm tối thượng Zamd.
+
+---
+
+## [SKILL-013] 『Độc Thương Vĩ & Hấp Thụ Đồng Hóa』
+
+- **id:** SKILL-013
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Độc Thương Vĩ & Hấp Thụ Đồng Hóa』
+- **tên_gốc:** Yokomichi Hajime (Thực Nhân Quỷ)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Đuôi bọ cạp kịch độc và năng lực nuốt chửng quái vật để đoạt lấy kỹ năng.
+
+---
+
+## [SKILL-014] 『Thánh Quang Trị Liệu』 (Holy Heal)
+
+- **id:** SKILL-014
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Thánh Quang Trị Liệu』 (Holy Heal)
+- **tên_gốc:** Souma Sakura (Thánh Nữ)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Ma pháp trị thương cao cấp phục hồi vết thương và thanh tẩy nguyền rủa.
+
+---
+
+### 2. 🛡️ VẬT PHẨM, TRANG BỊ & DƯỢC PHẨM (ITEMS & WEAPONS)
+
+## [ITEM-001] Ngân Thiết Kiếm
+
+- **id:** ITEM-001
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Ngân Thiết Kiếm
+- **tên_gốc:** 銀鉄の剣 / Gintetsu no Ken
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Kiếm tiêu chuẩn chế tác từ hợp kim ngân thiết, trang bị cho hàng tiền tuyến.
+
+---
+
+## [ITEM-002] Red Axe
+
+- **id:** ITEM-002
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Red Axe
+- **tên_gốc:** レッドアックス / Red Axe
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Rìu chiến cường hóa thuộc tính hỏa, có khả năng chém vỡ giáp quái vật.
+
+---
+
+## [ITEM-003] Cool Cutlass
+
+- **id:** ITEM-003
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Cool Cutlass
+- **tên_gốc:** クールカトラス / Cool Cutlass
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Kiếm ngắn lưỡi cong linh hoạt hỗ trợ tốc chiến.
+
+---
+
+## [ITEM-004] Hắc Thiết Đại Phủ
+
+- **id:** ITEM-004
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Hắc Thiết Đại Phủ
+- **tên_gốc:** 黒鉄の大斧 / Kurogane no Oofu
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Đại rìu thép đen cực nặng, yêu cầu thể lực cao của Trọng Chiến Binh.
+
+---
+
+## [ITEM-005] Vòng Tay Sức Mạnh
+
+- **id:** ITEM-005
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Vòng Tay Sức Mạnh
+- **tên_gốc:** 力の腕輪 / Bracelet of Strength
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Vật phẩm ma pháp tăng cường sức mạnh cơ bắp cho người đeo.
+
+---
+
+## [ITEM-006] Cây Gậy Của Kẻ Ngốc
+
+- **id:** ITEM-006
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Cây Gậy Của Kẻ Ngốc
+- **tên_gốc:** 愚者の杖 / The Fool's Cane
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Gậy phép bí ẩn sở hữu khả năng khuếch đại chú thuật bóng tối.
+
+---
+
+## [ITEM-007] Đại Rìu Đẫm Máu
+
+- **id:** ITEM-007
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Đại Rìu Đẫm Máu
+- **tên_gốc:** 血塗れた大斧 / Bloody Great Axe
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Vũ khí dropped từ Kị Sĩ Người Sói, mang sát khí hắc ám.
+
+---
+
+## [ITEM-008] Trường Kiếm Hoen Rỉ
+
+- **id:** ITEM-008
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Trường Kiếm Hoen Rỉ
+- **tên_gốc:** 錆付いた長剣 / Rusty Longsword
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Thanh kiếm rỉ sét tìm thấy ở phế tích, có thể tôi luyện lại.
+
+---
+
+## [ITEM-009] Quang Thạch (Ma Thạch)
+
+- **id:** ITEM-009
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Quang Thạch (Ma Thạch)
+- **tên_gốc:** 光石 / Light Stone
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Khoáng thạch phát quang dùng để thắp sáng và làm lõi năng lượng ma thuật.
+
+---
+
+## [ITEM-010] Đường Kính Trắng
+
+- **id:** ITEM-010
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Đường Kính Trắng
+- **tên_gốc:** グラニュー糖 / Granulated Sugar
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Vật phẩm sinh hoạt Momokawa cất giấu để làm nguyên liệu chú thuật và trao đổi.
+
+---
+
+## [ITEM-011] Potion Thoái Hóa
+
+- **id:** ITEM-011
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Potion Thoái Hóa
+- **tên_gốc:** 劣化したポーション / Degraded Potion
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Dược phẩm hồi phục bị suy giảm dược tính theo thời gian.
+
+---
+
+## [ITEM-012] Lõi Ma Vật (Core)
+
+- **id:** ITEM-012
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Lõi Ma Vật (Core)
+- **tên_gốc:** コア / Monster Core
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Hạch tâm năng lượng thu hoạch từ cơ thể quái vật và ma thú.
+
+---
+
+## [ITEM-013] Rương Kho Báu
+
+- **id:** ITEM-013
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Rương Kho Báu
+- **tên_gốc:** 宝箱 / Treasure Chest
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Hòm chứa trang bị, ma thạch quý giá phân bố rải rác trong Mê cung.
+
+---
+
+## [ITEM-014] Vương Kiếm Zamd
+
+- **id:** ITEM-014
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Vương Kiếm Zamd
+- **tên_gốc:** 王剣ザムド / Zamd
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Thanh bảo kiếm hoàng kim tối thượng thuộc quyền sở hữu của Tendou Ryuuichi.
+
+---
+
+### 3. 🐺 SINH VẬT, QUÁI VẬT & MA THÚ (MONSTERS & BEASTS)
+
+## [MONSTER-001] Christaur
+
+- **id:** MONSTER-001
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Christaur
+- **tên_gốc:** クリスタウルス / Christaur
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Quái thú kết tinh tinh thể đá quý sở hữu lớp giáp phản xạ ma pháp.
+
+---
+
+## [MONSTER-002] Quang Thạch Chủng
+
+- **id:** MONSTER-002
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Quang Thạch Chủng
+- **tên_gốc:** 光石種 / Light Stone Species
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Chủng loại quái vật ký sinh ma thạch phát quang trong hang động.
+
+---
+
+## [MONSTER-003] Người Sói (Werewolf)
+
+- **id:** MONSTER-003
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Người Sói (Werewolf)
+- **tên_gốc:** 狼男 / Werewolf
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Quái thú dạng người lai sói, di chuyển thần tốc và móng vuốt sắc bén.
+
+---
+
+## [MONSTER-004] Kị Sĩ Người Sói
+
+- **id:** MONSTER-004
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Kị Sĩ Người Sói
+- **tên_gốc:** 狼男の騎士 / Werewolf Knight
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Thủ lĩnh bầy Người Sói trang bị giáp trụ và đại rìu chiến đấu.
+
+---
+
+## [MONSTER-005] Goma (Yêu Tinh Nhỏ)
+
+- **id:** MONSTER-005
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Goma (Yêu Tinh Nhỏ)
+- **tên_gốc:** ゴーマ / Goma
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Chủng yêu tinh hạ cấp hung hãn, đông đúc, thường đi theo bầy đàn cướp bóc.
+
+---
+
+## [MONSTER-006] Ếch Lợn
+
+- **id:** MONSTER-006
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Ếch Lợn
+- **tên_gốc:** 豚ガエル / Buta-kaeru
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Sinh vật đầm lầy lai giữa lợn rừng và ếch khổng lồ.
+
+---
+
+## [MONSTER-007] Gà biển (Giant Chicken)
+
+- **id:** MONSTER-007
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Gà biển (Giant Chicken)
+- **tên_gốc:** 海鶏 / デカコッコ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Loài chim khổng lồ phân bố ven biển và rừng rậm.
+
+---
+
+## [MONSTER-008] Ong Mật Khổng Lồ
+
+- **id:** MONSTER-008
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Ong Mật Khổng Lồ
+- **tên_gốc:** Giant Honeybee
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Côn trùng săn mồi bay theo đàn, ngòi chích chứa nọc độc gây tê liệt.
+
+---
+
+## [MONSTER-009] Mandragora
+
+- **id:** MONSTER-009
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Mandragora
+- **tên_gốc:** マンドラゴラ / Mandragora
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Thực vật ma quái có tiếng thét gây choáng váng và rối loạn tâm trí.
+
+---
+
+## [MONSTER-010] Tinh Linh Thảo Mộc
+
+- **id:** MONSTER-010
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Tinh Linh Thảo Mộc
+- **tên_gốc:** 草の精霊 / Grass Spirit
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Sinh linh nguyên tố ngụ trong cây cỏ rừng sâu.
+
+---
+
+## [MONSTER-011] Geela & Jazeera
+
+- **id:** MONSTER-011
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Geela & Jazeera
+- **tên_gốc:** ジーラ / ジャジーラ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Quái điểu săn mồi sa mạc với sải cánh rộng và thị lực tầm xa.
+
+---
+
+## [MONSTER-012] Minogorilla
+
+- **id:** MONSTER-012
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Minogorilla
+- **tên_gốc:** ミノゴリラ / Minogorilla
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Ma thú lai giữa bò rừng Minotaur và khỉ đột khổng lồ.
+
+---
+
+## [MONSTER-013] Yamata no Orochi
+
+- **id:** MONSTER-013
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Yamata no Orochi
+- **tên_gốc:** ヤマタノオロチ / 8-Headed Snake
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Boss đại xà 8 đầu trấn giữ ngọn núi lửa thiêng trong Mê cung Tháp.
+
+---
+
+## [MONSTER-014] Living Armor
+
+- **id:** MONSTER-014
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Living Armor
+- **tên_gốc:** リビングアーマー / Living Armor
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Giáp trụ rỗng được điều khiển bởi linh hồn ma thuật hắc ám.
+
+---
+
+## [MONSTER-015] Gargoyle
+
+- **id:** MONSTER-015
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Gargoyle
+- **tên_gốc:** ガーゴイル / Gargoyle
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Quái vật tượng đá biết bay canh giữ pháo đài và vách núi.
+
+---
+
+### 4. 📜 THUẬT NGỮ & KHÁI NIỆM THẾ GIỚI (WORLD TERMS)
+
+## [TERM-001] Tam Đầu Lâu Chú Thuật
+
+- **id:** TERM-001
+- **loại:** THUẬT NGỮ THẾ GIỚI
+- **tên_chuẩn:** Tam Đầu Lâu Chú Thuật
+- **tên_gốc:** Three Cursed Skulls
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Hệ thống chú thuật hắc ám thờ phụng 3 đầu lâu thần thánh (Hinagiku, Ruinhilde, Nerine).
+
+---
 `,
-            "characters": `# BẢNG DANH BẠ NHÂN VẬT (CHARACTER ROSTER)
-**Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả (呪術師は勇者になれない - Jujutsushi wa Yuusha ni Narenai)  
-**Tập thể:** Năm 2 Lớp 7 - Học viện Tư lập Hakurei (白嶺学園)  
-*(Cập nhật đầy đủ theo Danh bạ Lớp chính thức & Cốt truyện đến Tập 205)*
+            "characters": `# 👥 HỒ SƠ NHÂN VẬT (CHARACTER DATABASE)
+> **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả  
+> **Quy chuẩn:** Compact Entity Cards (Thuần Việt 100%)
 
 ---
 
-## I. 👦 NAM SINH (LỚP 2-7)
+## [CHAR-001] Momokawa Kotarou
 
-|  STT   | Tên Nhân Vật (Romaji)   | Tên Việt Hóa                | CLB / Chức Vụ  | Thiên Chức & Kỹ Năng                                    | Trạng Thái Hiện Tại                          |
-| :----: | :---------------------- | :-------------------------- | :------------- | :------------------------------------------------------ | :------------------------------------------- |
-| **1**  | **Momokawa Kotarou**    | **Momokawa Kotarou**        | CLB Văn học    | 『Chú thuật sư』 (Phái Ruinhilde, Tam Đầu Lâu)            | **CÒN SỐNG** (Nam chính, Thủ lĩnh bóng tối)  |
-| **2**  | **Souma Yuuto**         | **Souma Yuuto**             | CLB Kiếm đạo   | 『Dũng Giả』 (Thánh Kiếm, Súc Địa, Bạch Ảnh Thương)       | **CÒN SỐNG** (Thủ lĩnh nhóm Dũng Giả)        |
-| **3**  | **Tendou Ryuuichi**     | **Tendou Ryuuichi**         |                | 『Vương』 (Kho Báu Hoàng Kim, Vương Kiếm Zamd)            | **CÒN SỐNG** (Độc hành, chiến lực áp đảo #1) |
-| **4**  | **Yamada Genki**        | **Yamada Genki**            | CLB Bóng chày  | 『Trọng Chiến Binh』 (Phó ban Chăn Nuôi, Ngân Thiết Kiếm) | **CÒN SỐNG**                                 |
-| **5**  | **Ueta Youhei**         | **Ueta Youhei**             | CLB Cung đạo   | 『Kiếm Sĩ』 (Bộ ba Jou-Chuu-Ge, Ngân Thiết Kiếm)          | **CÒN SỐNG**                                 |
-| **6**  | **Nakai Shouta**        | **Nakai Shouta**            |                | 『Chiến Binh』 (Bộ ba Jou-Chuu-Ge, Red Axe)               | **CÒN SỐNG**                                 |
-| **7**  | **Shimokawa Junnosuke** | **Shimokawa Junnosuke**     |                | 『Thủy Ma Thuật Sư』 (Tạo sương mù, Đội săn bắn)          | **CÒN SỐNG**                                 |
-| **8**  | **Nakajima Haruma**     | **Nakajima Haruma**         | CLB Mỹ thuật   | 『Ma Pháp Kiếm Sĩ』 (Cool Cutlass)                        | **CÒN SỐNG**                                 |
-| **9**  | **Hayama Ritsuki**      | **Hayama Ritsuki (Rerite)** | CLB Bóng rổ    | 『Tinh Linh Thuật Sư』 (Bạn gấu Kinako, Tinh Linh Dược)   | **CÒN SỐNG** (Sống trong rừng rậm)           |
-| **10** | **Yokomichi Hajime**    | **Yokomichi Hajime**        |                | 『Thực Nhân Quỷ』 (Nuốt Boss Bọ cạp, Độc Thương Vĩ)       | **CÒN SỐNG / BIẾN DỊ** (Kẻ thù nguy hiểm)    |
-| **11** | Azuma Shin'ichi         | Azuma Shin'ichi             | Lớp trưởng Nam | 『Triệu Hoán Thuật Sư』 (Đầu lâu trên gậy Kotarou)        | ✝️ **ĐÃ CHẾT** (Bị Tendou hạ)                |
-| **12** | Yamakawa Jun'ichirou    | Yama-Jun                    | CLB Kịch nói   | 『Trị Liệu Thuật Sư』 (Bạn thân Kotarou)                  | ✝️ **ĐÃ CHẾT**                               |
-| **13** | Ooyama Daisuke          | Ooyama Daisuke              | CLB Karate     | 『Hỏa Ma Thuật Sư』                                       | ✝️ **ĐÃ CHẾT** (Bị Yokomichi nuốt)           |
-| **14** | Sugino Takashi          | Sugino Takashi              | CLB Judo       | 『Trọng Chiến Binh』 (Đầu lâu Sugino)                     | ✝️ **ĐÃ CHẾT** (Hy sinh vì Ooyama)           |
-| **15** | Sakurai Touya           | Sakurai Touya               | CLB Cung đạo   | 『Xạ Thủ』 (Đầu lâu Sakurai trên gậy)                     | ✝️ **ĐÃ CHẾT** (Bị Meiko chém)               |
-| **16** | Kousaka Hiroki          | Kousaka Hiroki              | CLB Bóng đá    | 『Kị Sĩ』                                                 | ✝️ **ĐÃ CHẾT**                               |
-| **17** | Saitou Masaru           | Saitou Masaru               | CLB Cung đạo   | 『Chiến Binh』                                            | ✝️ **ĐÃ CHẾT**                               |
-| **18** | Itou Seiji              | Itou Seiji                  |                | 『Đạo Tặc』                                               | ✝️ **ĐÃ CHẾT**                               |
-| **19** | Higuchi Kyouya          | Higuchi Kyouya              |                | 『Đạo Tặc』                                               | ✝️ **ĐÃ CHẾT**                               |
-| **20** | Hirano Kouhei           | Hirano Kouhei               | CLB Bóng đá    | 『Kiếm Sĩ』                                               | ✝️ **ĐÃ CHẾT**                               |
-| **21** | Takashima Yuudai        | Takashima Yuudai            | CLB Bóng chày  | *Không rõ Thiên Chức*                                   | ✝️ **ĐÃ CHẾT**                               |
-| **22** | Satou Yuuya             | Satou Yuuya                 |                | *Không rõ Thiên Chức*                                   | ❓ **MẤT TÍCH**                               |
+- **id:** CHAR-001
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Momokawa Kotarou
+- **tên_gốc:** Momokawa Kotarou
+- **tên_romaji:** Momokawa Kotarou
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Chú thuật sư』 (Phái Ruinhilde, Tam Đầu Lâu)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Văn học • Thiên chức: 『Chú thuật sư』 (Phái Ruinhilde, Tam Đầu Lâu) • Ghi chú: CÒN SỐNG (Nam chính, Thủ lĩnh bóng tối)
 
 ---
 
-## II. 👧 NỮ SINH (LỚP 2-7)
+## [CHAR-002] Souma Yuuto
 
-|  STT   | Tên Nhân Vật (Romaji) | Tên Việt Hóa                | CLB / Chức Vụ   | Thiên Chức & Kỹ Năng                                         | Trạng Thái Hiện Tại                               |
-| :----: | :-------------------- | :-------------------------- | :-------------- | :----------------------------------------------------------- | :------------------------------------------------ |
-| **1**  | **Futaba Meiko**      | **Futaba Meiko (Mei-chan)** | CLB Nấu ăn      | 『Cuồng Chiến Binh』 (Trưởng ban Chăn Nuôi, Hắc Thiết Đại Phủ) | **CÒN SỐNG** (Nữ chính, trợ thủ số 1 của Kotarou) |
-| **2**  | **Kisaragi Ryouko**   | **Kisaragi Ryouko**         | Lớp trưởng Nữ   | 『Băng Ma Thuật Sư』 (Băng Kết Đại Thuẫn, Trưởng tháp)         | **CÒN SỐNG**                                      |
-| **3**  | **Souma Sakura**      | **Souma Sakura**            | CLB Cung đạo    | 『Thánh Nữ』 (Thánh Pháp, Ban Y Tế, Em gái Yuuto)              | **CÒN SỐNG**                                      |
-| **4**  | **Takanashi Kotori**  | **Takanashi Kotori**        | CLB Khoa học    | 『Hiền Giả』 (Đọc di tích, Luyện kim chế tạo vũ khí)           | **CÒN SỐNG**                                      |
-| **5**  | **Kenzaki Asuna**     | **Kenzaki Asuna**           | CLB Kiếm đạo    | 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao)                        | **CÒN SỐNG**                                      |
-| **6**  | **Natsukawa Minami**  | **Natsukawa Minami**        | CLB Điền kinh   | 『Đạo Tặc』 (Do thám, Ban Tuyên Truyền)                        | **CÒN SỐNG**                                      |
-| **7**  | **Randou Kyouko**     | **Randou Kyouko**           |                 | 『Thổ Ma Thuật Sư』 (Ban Kỷ Luật, Boongke xếp gạch)            | **CÒN SỐNG**                                      |
-| **8**  | **Himeno Airi**       | **Himeno Airi**             |                 | 『Trị Liệu Thuật Sư』 (Ban Y Tế)                               | **CÒN SỐNG**                                      |
-| **9**  | **Yoshizaki Hiroe**   | **Yoshizaki Hiroe**         | CLB Quần vợt    | 『Chiến Binh』 (Đội tuần tra)                                  | **CÒN SỐNG**                                      |
-| **10** | **Nonomiya Jun'ai**   | **Nonomiya Jun'ai**         | CLB Quần vợt    | 『Kị Sĩ』                                                      | **CÒN SỐNG**                                      |
-| **11** | Hinagiku Haya         | Hinagiku Haya               | CLB Cung đạo    | 『Chú thuật sư』 (Đầu lâu Độc Chú/Luyện Kim)                   | ✝️ **ĐÃ CHẾT** (Thủ cấp trên gậy Kotarou)         |
-| **12** | Reina Adelheid Ayase  | Reina Adelheid Ayase        | Học sinh lai    | 『Tinh Linh Thuật Sư』                                         | ✝️ **ĐÃ CHẾT** (Bị Kotarou hạ)                    |
-| **13** | Nagae Yukiko          | Nagae Yukiko                | CLB Văn học     | 『Băng Ma Thuật Sư』                                           | ✝️ **ĐÃ CHẾT** (Bị Yokomichi nuốt)                |
-| **14** | Satou Aya             | Satou Aya                   |                 | 『Xạ Thủ』                                                     | ✝️ **ĐÃ CHẾT**                                    |
-| **15** | Nishiyama Minoru      | Nishiyama Minoru            | CLB Nhạc cụ hơi | 『Phong Ma Thuật Sư』                                          | ✝️ **ĐÃ CHẾT**                                    |
-| **16** | Iijima Mayumi         | Iijima Mayumi               |                 | *Không rõ Thiên Chức*                                        | ❓ **MẤT TÍCH**                                    |
-| **17** | Kitaouji Rurika       | Kitaouji Rurika             | CLB Nấu ăn      | *Không rõ Thiên Chức*                                        | ❓ **MẤT TÍCH**                                    |
-| **18** | Kizaki Akane          | Kizaki Akane                | CLB Bóng chuyền | *Không rõ Thiên Chức*                                        | ❓ **MẤT TÍCH**                                    |
-| **19** | Shinohara Emi         | Shinohara Emi               | CLB Minh họa    | *Không rõ Thiên Chức*                                        | ❓ **MẤT TÍCH**                                    |
+- **id:** CHAR-002
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Souma Yuuto
+- **tên_gốc:** Souma Yuuto
+- **tên_romaji:** Souma Yuuto
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Dũng Giả』 (Thánh Kiếm, Súc Địa, Bạch Ảnh Thương)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Kiếm đạo • Thiên chức: 『Dũng Giả』 (Thánh Kiếm, Súc Địa, Bạch Ảnh Thương) • Ghi chú: CÒN SỐNG (Thủ lĩnh nhóm Dũng Giả)
 
 ---
 
-## III. 👹 NHÂN VẬT & THỰC THỂ NGOÀI LỚP (DUNGEON BOSSES & ENTITIES)
+## [CHAR-003] Tendou Ryuuichi
 
-| Tên Thực Thể        | Tên Gốc (JP / Eng)      | Phân Loại / Chức Vụ                 | Trạng Thái & Mô Tả Chi Tiết                                                                                |
-| :------------------ | :---------------------- | :---------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| **Vua Goma**        | ゴーマの王 / Goma King       | Thủ lĩnh tối cao chủng tộc Goma     | **CÒN SỐNG** *(Xuất hiện tại Tập 205: Đạo sĩ già đội vương miện vàng, giao dịch đường lấy Lõi qua bệ tế).* |
-| **Boss Goma**       | ゴーマのボス / Goma Leader    | Chủ lực bầy Goma rừng rậm           | ✝️ **ĐÃ CHẾT** *(Tập 196: Bị gấu Kinako xé cổ chết).*                                                      |
-| **Kị Sĩ Người Sói** | 狼男の騎士 / Werewolf Knight | Thủ lĩnh tuần tra Phố Hắc Ám        | ✝️ **ĐÃ CHẾT** *(Tập 200: Bị Souma Yuuto đâm xuyên yết hầu).*                                              |
-| **Rem**             | レム / Rem Doll           | Con rối bùn & Hắc Kị Sĩ             | **HOẠT ĐỘNG** *(Sứ ma trung thành tuyệt đối của Kotarou, khai thác mỏ & chiến đấu).*                       |
-| **Kinako**          | きなこ / Kinako Bear       | Gấu thông minh biết nói tiếng người | **CÒN SỐNG** *(Bạn đồng hành sinh tử của Hayama Ritsuki trong rừng).*                                      |
-- **Gove thủ lĩnh (ゴーヴの首領):** Chiến binh Gove | Thủ lĩnh làng khai hoang Goma | Trạng thái: Bị bắt làm vật thí nghiệm *(Xuất hiện tại Tập 206: Chồng của con gái Vua Goma, bị Kotarou giăng bẫy bắt sống để thí nghiệm độc dược.)*
-- **Con gái Vua Goma (ゴーマの王の娘):** Không rõ | Vợ của Gove thủ lĩnh | Trạng thái: Đã chết *(Xuất hiện tại Tập 206: Con gái ruột của ngài Oh-ma (Vua Goma). Bị Living Armor xé bụng và ném xác vào bụi rậm.)*
-- **Vợ thanh mai trúc mã (幼馴染の妻):** Không rõ | Vợ thứ hai của Gove thủ lĩnh | Trạng thái: Đã chết *(Xuất hiện tại Tập 206: Bạn thanh mai trúc mã từ nhỏ của Gove thủ lĩnh. Bị Meiko dùng Hắc Thiết Đại Phủ chém làm đôi.)*
-- **Tinh Linh Lửa (火の精霊):** Tạo lửa/Hỗ trợ | Tinh linh tự nhiên | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 218: Những tinh linh tí hon màu đỏ xuất hiện từ chiếc bật lửa Zippo của Rerite và giúp cậu nhóm lửa.)*
-- **Chó đỏ nhỏ (赤犬):** Không có | Thú nuôi/Đồng hành mới của Rerite | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 228: Một con chó hoang lông đỏ nhỏ bị thương ở chân sau và bị đàn bỏ rơi, được Rerite dùng Tinh Linh Thảo Dược cứu chữa.)*
-- **Beniwo (ベニヲ):** Chó đỏ (phun lửa) | Đồng hành của Rerite | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 229: Chú chó đỏ nhỏ được Rerite cứu trong rừng, có khả năng phun lửa nhờ Tinh Linh Lửa hỗ trợ và săn mồi rất giỏi.)*
-- **Julia (ジュリア):** Chiến Binh | Học sinh lớp 2-7, thành viên nhóm Juri-Mari | Trạng thái: Còn sống *(Xuất hiện tại Tập 234: Thường phối hợp chiến đấu cùng Maria)*
-- **Maria (マリア):** Chiến Binh | Học sinh lớp 2-7, thành viên nhóm Juri-Mari | Trạng thái: Còn sống *(Xuất hiện tại Tập 234: Thường phối hợp chiến đấu cùng Julia)*
-- **Elysion (エルシオン):** Thần linh | Nữ thần ban thiên chức cho Takanashi Kotori | Trạng thái: Hoạt động *(Xuất hiện tại Tập 242: Kẻ đứng sau chỉ đạo Takanashi Kotori thiết lập kịch bản nuôi dưỡng Dũng Giả bằng cách hy sinh các học sinh khác.)*
-- **Nữ thần Elshion (女神エルシオン):** Nữ thần | Thần linh / Kẻ triệu hồi | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 246: Vị thần đã triệu hồi lớp học 2-7 tới dị giới, ban thiên chức Dũng Giả và Hiền Giả nhằm mục đích nuôi dưỡng Dũng Giả thông qua việc hiến tế các học sinh khác.)*
-- **Rem (Dạng bé gái) (幼女レム):** Con Rối Bóng Tối Lệ Thuộc | Sứ ma của Momokawa Kotarou | Trạng thái: Còn sống *(Xuất hiện tại Tập 248: Hình dạng mới của Rem sau khi tiến hóa nhờ hấp thụ mảnh vỡ lõi của Yamata no Orochi. Có mái tóc trắng cắt bằng, da trắng, mắt xanh lam như sapphire và hình dáng một bé gái chập chững biết đi.)*
-- **Iijima Mayumi (飯島麻由美):** 『Kiếm Sĩ』 | Học sinh lớp 2-7 | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 253: Bị Higuchi Kyouya sát hại.)*
-- **Kitaouji Rurika (北大路瑠璃華):** 『Kiếm Sĩ』 | Học sinh lớp 2-7, CLB Nấu ăn | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 253: Bị Yokomichi Hajime sát hại.)*
-- **Kizaki Akane (木崎茜):** 『Hỏa Ma Thuật Sư』 | Học sinh lớp 2-7, CLB Bóng chuyền | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 253: Tự sát.)*
-- **Shinohara Emi (篠原恵美):** 『Thủy Ma Thuật Sư』 | Học sinh lớp 2-7, CLB Minh họa | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 253: Tử vong do tai nạn.)*
-- **Gove thủ lĩnh giáp sắt (蛮族の全身鎧のゴーヴ):** Chỉ huy / Chiến binh Gove | Thủ lĩnh đội quân Goma tại trường học | Trạng thái: Còn sống *(Xuất hiện tại Tập 262: Mặc bộ giáp kim loại cao cấp trang trí lông thú và lông vũ sặc sỡ, chỉ huy hai con Gogma.)*
-- **Hầu gái Kotarou (桃川 (侍女)):** Hầu gái (Maid) | Sứ ma/Tùy tùng của Tendou Ryuuichi | Trạng thái: Hoạt động *(Xuất hiện tại Tập 268: Thực thể được triệu hồi từ kỹ năng 『Tùy Tùng - Hầu Gái』 của Tendou Ryuuichi. Do hình ảnh chăm sóc mọi người của Kotarou in sâu vào tâm trí Tendou nên thực thể này có ngoại hình giống hệt Kotarou mặc đồ hầu gái, tính cách lém lỉnh, thích trêu chọc chủ nhân.)*
-- **Zagan (ザガン):** Gira-Gogma | Chỉ huy/Chiến binh của tộc Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 275: Một tên Goma khổng lồ tự xưng là Gira-Gogma, sở hữu sức mạnh vượt trội hơn cả Gogma và có kiếm kỹ điêu luyện.)*
-- **Người bản địa sa mạc (人間):** Không rõ | Người dân dị giới | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 281: Người bản địa dị giới đầu tiên mà Shimokawa Junnosuke nhìn thấy trực tiếp tại tàn tích sa mạc.)*
-- **Chủ nhân Khu Vực Cách Ly (ここの主):** Không rõ | Thực thể bị phong ấn | Trạng thái: BỊ PHONG ẤN *(Xuất hiện tại Tập 281: Thực thể tự xưng là chủ nhân nơi này, bị phong ấn sau cánh cổng kim loại khổng lồ ở Khu Vực Cách Ly, trò chuyện với Tendou Ryuuichi.)*
-- **Koyuki (コユキ):** Không có | Thú cưng của nhóm Kotarou | Trạng thái: Còn sống *(Xuất hiện tại Tập 285: Một chú mèo con nghịch ngợm được Kyouko và Kotarou nuôi dưỡng.)*
-- **Vợ của Zagan (ザガンの妻):** Không rõ | Goma quý tộc | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 295: Vợ của Đại Chiến Sĩ Trưởng Zagan, mặc trang phục trắng tinh khiết biểu thị địa vị cao. Bị Kotarou ám sát trong ngõ hẻm bằng độc châm.)*
-- **Bazuzu (バズズ):** Đại Chiến Sĩ (Gira-Gogma) | Đại Chiến Sĩ Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 293: Trẻ tuổi, kiêu ngạo, sở hữu tài năng thiên bẩm, luôn nhắm đến vị trí Đại Chiến Sĩ Trưởng.)*
-- **Gizaginzu (ギザギンズ):** Đại Chiến Sĩ (Gira-Gogma) | Đại Chiến Sĩ Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 293: Trẻ tuổi, lười biếng, thiếu chí tiến thủ nhưng thực lực rất mạnh, khéo léo.)*
-- **Bon (ボン):** Đại Chiến Sĩ (Gira-Gogma) | Đại Chiến Sĩ Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 293: To béo, trí tuệ kém phát triển, hành động theo bản năng, thèm ăn thịt người.)*
-- **Jiji-Gogo (ジジゴーゴ):** Đại Chiến Sĩ (Gira-Gogma) | Đại Chiến Sĩ Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 293: Đại Chiến Sĩ lớn tuổi nhất, râu trắng, lão tướng dày dạn kinh nghiệm từ hai đời thủ lĩnh trước.)*
-- **Bandon (バンドン):** Đại Chiến Sĩ (Gira-Gogma) | Đại Chiến Sĩ Goma | Trạng thái: Còn sống *(Xuất hiện tại Tập 293: Tính cách thực trực, trung thành và tôn kính Zagan, phụ trách canh gác vương cung.)*
-- **Vợ của Zagan (サガンの妻):** Không rõ | Vương quốc Goma | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 294: Một cô nàng Goma cái nhỏ nhắn mặc đồ trắng tinh khôi, là người vợ duy nhất được Đại Chiến Sĩ Trưởng Zagan yêu chiều hết mực. Bị phân thân của Kotarou sát hại dã man để tạo hỗn loạn.)*
-- **Liberta (リベルタ):** Vương Kị (王騎) | Vũ khí sinh học cổ đại / Vương Kị của Tendou Ryuuichi | Trạng thái: Còn sống (Đã lập khế ước) *(Xuất hiện tại Tập 303: Một con rồng đen viền vàng kim thuộc chủng Wyvern, bị phong ấn trong bể nước chứa ma lực ở Khu Vực Cách Ly.)*
-- **Momoko (桃子):** Hầu gái (侍女) | Tùy tùng / Hầu gái của Tendou Ryuuichi | Trạng thái: Hoạt động *(Xuất hiện tại Tập 303: Tên mới do Tendou Ryuuichi đặt cho Hầu gái Kotarou ở tập này.)*
-- **Shidou Aki / Syd (シド / 紫藤亜輝):** Hiền Giả | Đại tư tế của Giáo Hội Pandora / Cựu Game Master / Cựu học sinh Bạch Lĩnh Học Viện (Năm 3 Lớp 5 Số 7) | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 406: Người duy nhất sống sót từ đợt triệu hồi Dũng Giả trước đó, hiện làm Đại Tư Tế phục vụ Giáo Hội Pandora thờ phụng Elshion).*
-- **Nữ Dũng Giả (女勇者):** Dũng Giả | Dũng Giả của thế giới bên ngoài | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 412: Mái tóc bạc, bịt mắt trắng, có mối liên kết bí ẩn và bày tỏ sự ám ảnh với Momokawa Kotarou.)*
-- **Riza (リザ):** Tinh Linh Chiến Sĩ | Nô lệ người Diana tại trang điền của Astoria, cựu Tinh Linh Chiến Sĩ của Diana | Trạng thái: Còn sống *(Xuất hiện tại Tập 413: Nhận ra Kotarou (dưới dạng đứa trẻ) là Đứa con của thần nhờ hiệu ứng phản phệ sát thương của cậu, nguyện trung thành và tôn cậu làm chủ nhân dưới tên gọi Momoka.)*
-- **Pringlut Velvet (プリングルト・ベルベット):** Thương nhân nô lệ | Chủ hội của Velvet Slave Merchant Guild | Trạng thái: Còn sống *(Xuất hiện tại Tập 412: Thân hình tròn trịa, thấp bé, mặc đồ đuôi tôm và mũ cao, nói giọng kéo dài điệu đà.)*
-- **Winston (ウィンストン):** Chủ đồn điền | Chủ trang trại lớn nhất Easthope | Trạng thái: Còn sống *(Xuất hiện tại Tập 412: Người đàn ông trung niên béo tốt, sở hữu đồn điền New Hope sản xuất cà phê Elemental Mountain.)*
-- **Momo-chan (Đứa trẻ nô lệ) (モモちゃん / 奴隷の子):** Không rõ (Nghi ngờ là Momokawa Kotarou) | Nô lệ mới tại đồn điền New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 412: Đứa trẻ tóc đen mắt đen, da trắng, có biểu hiện thiểu năng trí tuệ và mang lời nguyền phản sát thương.)*
-- **Saitou Masaru (斉藤勝):** Chiến Binh (sau này) | Bạn học cùng lớp 2-7, biệt danh là Katsu (勝) | Trạng thái: Còn sống (trong phân cảnh hồi tưởng) *(Xuất hiện tại Tập 414: Bạn thân của Kotarou thời đi học, trêu chọc Kotarou khi cậu bị chọn làm maid.)*
-- **Malcolm (マルコム):** Trí thức tốt nghiệp học viện Sigrun | Trợ lý / Cánh tay phải của Winston | Trạng thái: Còn sống *(Xuất hiện tại Tập 414: Người đàn ông mảnh khảnh đeo kính gọng tròn, phụ trách quản lý đồn điền.)*
-- **Dairick (デイリック):** Đạo Tặc / Cựu binh / Lính đánh thuê | Đội trưởng đội gác đồn điền New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 414: Người đàn ông tóc vàng mắt xanh, phong trần, có kinh nghiệm chiến đấu với người Diana.)*
-- **Karon (カロン):** Nô lệ | Nô lệ trẻ tuổi tại trang trại New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 415: Cậu bé nô lệ bướng bỉnh cùng lứa tuổi với Momoka.)*
-- **Latina (ラティナ):** Nô lệ | Nô lệ trẻ tuổi tại trang trại New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 415: Cô bé nô lệ ngây thơ, dịu dàng.)*
-- **Wonta (ウォンタ):** Người thừa kế đồn điền (tương lai) | Con trai của Winston, chủ đồn điền New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 416: Đứa trẻ tàn nhẫn, thích hành hạ nô lệ bằng roi.)*
-- **Togo (トーゴ):** Chiến sĩ / Thủ lĩnh nô lệ | Cựu chiến sĩ tộc Diana, trưởng nhóm nô lệ ở nông điền đối diện | Trạng thái: Còn sống *(Xuất hiện tại Tập 416: Muốn khởi nghĩa sau khi hồi phục thể chất nhờ thức ăn của Momoka.)*
-- **Derrick Junior (デイリックジュニア):** Sĩ quan dự bị tương lai | Con trai của Đội trưởng Derrick, thuộc hạ của đồn điền New Hope | Trạng thái: MẤT TÍCH (Bị Gấu Giáp Sắt bắt đi) *(Xuất hiện tại Tập 417: 15 tuổi, kiêu ngạo, tàn nhẫn với nô lệ Diana, coi Wonta như em trai.)*
-- **Riza Titania (リザ・タイタニア):** Tinh Linh Chiến Sĩ | Cựu Tinh Linh Chiến Sĩ của Diana, nô lệ tại đồn điền New Hope | Trạng thái: Còn sống *(Xuất hiện tại Tập 418: Tên đầy đủ của Riza, quyến thuộc của Đại Cự Thần.)*
-- **Nagae Yukiko (長江有希子):** Học sinh | Học sinh lớp 2-7, thành viên câu lạc bộ văn học, bạn gái của Higuchi Kyouya | Trạng thái: Còn sống (trong hồi tưởng) *(Xuất hiện tại Tập 421: Có biệt danh là Yuki, ngoài đời ăn mặc theo phong cách punk nổi loạn trái ngược với hình ảnh nữ sinh văn học dịu dàng ở trường.)*
-- **Chị gái tiệm làm tóc (美容室の姉さん):** Thợ làm tóc | Người quen từ nhỏ của Randou Kyouko, thợ làm tóc chuyên nghiệp | Trạng thái: Còn sống (Thế giới cũ) *(Xuất hiện tại Tập 420: Người phụ nữ trưởng thành, cởi mở, có vóc dáng quyến rũ giống nhóm Juri-Mari, đã trang điểm và làm tóc thử nghiệm cho Kotarou.)*
-- **Phu nhân Winston (ウィンストンの奥様):** Không có | Vợ của chủ đồn điền Winston | Trạng thái: Bị bắt giữ *(Xuất hiện tại Tập 424: Người phụ nữ quý tộc kiêu kỳ, bị các bộ xương của Kotarou lôi ra khỏi dinh thự trong cuộc khởi nghĩa.)*
-- **Elise (エリーゼ):** Hầu gái (Maid) | Gia nhân tại dinh thự Winston / Nhân tình của Winston / Người trong mộng của Malcolm | Trạng thái: CÒN SỐNG (Bị Kotarou kiểm soát và giao cho Malcolm) *(Xuất hiện tại Tập 425: Một phụ nữ người Astoria xinh đẹp, là nhân tình bí mật của Winston nhưng thực chất là người Malcolm thầm yêu. Được Kotarou dùng làm phần thưởng để thuyết phục Malcolm hợp tác.)*
-- **Kiếm Thánh (剣聖):** Kiếm sĩ mạnh nhất | Thành viên tổ đội Dũng Giả của Astoria | Trạng thái: Còn sống *(Xuất hiện tại Tập 426: Kẻ đã đánh bại Thần tử của Diana và bắt giữ Riza cùng các chiến sĩ khác đưa về làm nô lệ.)*
-- **Ozma (オズマ):** Người thừa kế vương quốc Goma | Hoàng tử tộc Goma / Con trai của Oh-ma | Trạng thái: ĐÃ CHẾT *(Xuất hiện tại Tập 322: Đứa con ưu tú nhất được Oh-ma cưng chiều và chọn làm người kế vị, bị phân thân của Kotarou ám sát trước khi kịp dịch chuyển trốn thoát.)*
-- **Đào Ảnh (Touei / Momokage / 桃影):** Thượng cấp Ám Tinh Linh | Cố vấn tinh linh của Hayama Ritsuki | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 403: Ám tinh linh cao 20cm sinh ra từ cánh tay ghép chú thuật của Rerite, mang hình hài Momokawa Kotarou mặc áo choàng đen Tử thần mắt đỏ).*
-- **Luka (ルカ):** Nữ Đạo Tặc cải trang nam / Trẻ mồ côi khu ổ chuột | Đàn em / Hỗ trợ viên của Yamada Genki | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 429-430, 437: Cậu bé khu ổ chuột thành phố Vanheit, ngoại hình giống "chuột đồng" lanh lợi, mặt tàn nhang tóc hung đỏ buộc dây da, thông thuộc địa hình mê cung và tin tức chợ đen; thực chất là con gái giả trang nam được Kotarou nhìn thấu tại Tập 437, mang chìa khóa két sắt đi cầu cứu Kotarou giải cứu Yamada).*
-- **Gerald / Lão Gerald (Jera-jiisan / ジェラ爺さん):** Song Kiếm Sĩ (Dual Swordsman / 双剣士) | Thành viên Clan của Kotarou / Cựu Song Kiếm Sĩ lão làng tàn phế tại quán rượu Xích Phong Chi Nhận | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 433-435: Từng bị Kiếm Thánh chém đứt tay phải và chân phải 30 năm trước. Được Kotarou phẫu thuật ghép chi phân thân và thi triển Phân Thân Dung Hợp trẻ hóa trở lại thành thiếu niên tóc đỏ mắt xanh lục kiệt xuất với tuổi thọ còn 1-3 năm, gia nhập Clan của Kotarou chuẩn bị công phá Boss Tầng 3).*
-- **Milene (Mirene / ミレーネ):** Đại Phù Thủy / Chế tác Ma Đạo Cụ | Thành viên cấp cao của Clan ma thuật sư 『Tượng Nha Chi Tháp』 (Ivory Tower) tại Vanheit | Trạng thái: CÒN SỐNG *(Xuất hiện tại Tập 440: Đại mỹ nhân phù thủy tóc vàng mắt biếc, thân hình bốc lửa đẫy đà xẻ tà quyến rũ, thực chất đã hơn 70 tuổi duy trì thanh xuân; nhận thiết kế thiết bị kết giới làm mát cho Kotarou và phát hiện Kotarou nắm giữ kiến thức Ma thuật Cổ đại, chủ động tiếp cận hỗ trợ để mở đường xuống Tầng 4).*
+- **id:** CHAR-003
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Tendou Ryuuichi
+- **tên_gốc:** Tendou Ryuuichi
+- **tên_romaji:** Tendou Ryuuichi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Vương』 (Kho Báu Hoàng Kim, Vương Kiếm Zamd)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Vương』 (Kho Báu Hoàng Kim, Vương Kiếm Zamd) • Ghi chú: CÒN SỐNG (Độc hành, chiến lực áp đảo #1)
 
+---
 
+## [CHAR-004] Yamada Genki
 
+- **id:** CHAR-004
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Yamada Genki
+- **tên_gốc:** Yamada Genki
+- **tên_romaji:** Yamada Genki
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Trọng Chiến Binh』 (Phó ban Chăn Nuôi, Ngân Thiết Kiếm)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng chày • Thiên chức: 『Trọng Chiến Binh』 (Phó ban Chăn Nuôi, Ngân Thiết Kiếm) • Ghi chú: CÒN SỐNG
 
+---
 
+## [CHAR-005] Ueta Youhei
+
+- **id:** CHAR-005
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Ueta Youhei
+- **tên_gốc:** Ueta Youhei
+- **tên_romaji:** Ueta Youhei
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Kiếm Sĩ』 (Bộ ba Jou-Chuu-Ge, Ngân Thiết Kiếm)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Cung đạo • Thiên chức: 『Kiếm Sĩ』 (Bộ ba Jou-Chuu-Ge, Ngân Thiết Kiếm) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-006] Nakai Shouta
+
+- **id:** CHAR-006
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nakai Shouta
+- **tên_gốc:** Nakai Shouta
+- **tên_romaji:** Nakai Shouta
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Chiến Binh』 (Bộ ba Jou-Chuu-Ge, Red Axe)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Chiến Binh』 (Bộ ba Jou-Chuu-Ge, Red Axe) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-007] Shimokawa Junnosuke
+
+- **id:** CHAR-007
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Shimokawa Junnosuke
+- **tên_gốc:** Shimokawa Junnosuke
+- **tên_romaji:** Shimokawa Junnosuke
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Thủy Ma Thuật Sư』 (Tạo sương mù, Đội săn bắn)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Thủy Ma Thuật Sư』 (Tạo sương mù, Đội săn bắn) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-008] Nakajima Haruma
+
+- **id:** CHAR-008
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nakajima Haruma
+- **tên_gốc:** Nakajima Haruma
+- **tên_romaji:** Nakajima Haruma
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Ma Pháp Kiếm Sĩ』 (Cool Cutlass)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Mỹ thuật • Thiên chức: 『Ma Pháp Kiếm Sĩ』 (Cool Cutlass) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-009] Hayama Ritsuki (Rerite)
+
+- **id:** CHAR-009
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Hayama Ritsuki (Rerite)
+- **tên_gốc:** Hayama Ritsuki
+- **tên_romaji:** Hayama Ritsuki
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Tinh Linh Thuật Sư』 (Bạn gấu Kinako, Tinh Linh Dược)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng rổ • Thiên chức: 『Tinh Linh Thuật Sư』 (Bạn gấu Kinako, Tinh Linh Dược) • Ghi chú: CÒN SỐNG (Sống trong rừng rậm)
+
+---
+
+## [CHAR-010] Yokomichi Hajime
+
+- **id:** CHAR-010
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Yokomichi Hajime
+- **tên_gốc:** Yokomichi Hajime
+- **tên_romaji:** Yokomichi Hajime
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (BIẾN DỊ) (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Thực Nhân Quỷ』 (Nuốt Boss Bọ cạp, Độc Thương Vĩ)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Thực Nhân Quỷ』 (Nuốt Boss Bọ cạp, Độc Thương Vĩ) • Ghi chú: CÒN SỐNG / BIẾN DỊ (Kẻ thù nguy hiểm)
+
+---
+
+## [CHAR-011] Azuma Shin'ichi
+
+- **id:** CHAR-011
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Azuma Shin'ichi
+- **tên_gốc:** Azuma Shin'ichi
+- **tên_romaji:** Azuma Shin'ichi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Triệu Hoán Thuật Sư』 (Đầu lâu trên gậy Kotarou)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: Lớp trưởng Nam • Thiên chức: 『Triệu Hoán Thuật Sư』 (Đầu lâu trên gậy Kotarou) • Ghi chú: ✝️ ĐÃ CHẾT (Bị Tendou hạ)
+
+---
+
+## [CHAR-012] Yama-Jun
+
+- **id:** CHAR-012
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Yama-Jun
+- **tên_gốc:** Yamakawa Jun'ichirou
+- **tên_romaji:** Yamakawa Jun'ichirou
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Trị Liệu Thuật Sư』 (Bạn thân Kotarou)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Kịch nói • Thiên chức: 『Trị Liệu Thuật Sư』 (Bạn thân Kotarou) • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-013] Ooyama Daisuke
+
+- **id:** CHAR-013
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Ooyama Daisuke
+- **tên_gốc:** Ooyama Daisuke
+- **tên_romaji:** Ooyama Daisuke
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Hỏa Ma Thuật Sư』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Karate • Thiên chức: 『Hỏa Ma Thuật Sư』 • Ghi chú: ✝️ ĐÃ CHẾT (Bị Yokomichi nuốt)
+
+---
+
+## [CHAR-014] Sugino Takashi
+
+- **id:** CHAR-014
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Sugino Takashi
+- **tên_gốc:** Sugino Takashi
+- **tên_romaji:** Sugino Takashi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Trọng Chiến Binh』 (Đầu lâu Sugino)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Judo • Thiên chức: 『Trọng Chiến Binh』 (Đầu lâu Sugino) • Ghi chú: ✝️ ĐÃ CHẾT (Hy sinh vì Ooyama)
+
+---
+
+## [CHAR-015] Sakurai Touya
+
+- **id:** CHAR-015
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Sakurai Touya
+- **tên_gốc:** Sakurai Touya
+- **tên_romaji:** Sakurai Touya
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Xạ Thủ』 (Đầu lâu Sakurai trên gậy)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Cung đạo • Thiên chức: 『Xạ Thủ』 (Đầu lâu Sakurai trên gậy) • Ghi chú: ✝️ ĐÃ CHẾT (Bị Meiko chém)
+
+---
+
+## [CHAR-016] Kousaka Hiroki
+
+- **id:** CHAR-016
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Kousaka Hiroki
+- **tên_gốc:** Kousaka Hiroki
+- **tên_romaji:** Kousaka Hiroki
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Kị Sĩ』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng đá • Thiên chức: 『Kị Sĩ』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-017] Saitou Masaru
+
+- **id:** CHAR-017
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Saitou Masaru
+- **tên_gốc:** Saitou Masaru
+- **tên_romaji:** Saitou Masaru
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Chiến Binh』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Cung đạo • Thiên chức: 『Chiến Binh』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-018] Itou Seiji
+
+- **id:** CHAR-018
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Itou Seiji
+- **tên_gốc:** Itou Seiji
+- **tên_romaji:** Itou Seiji
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Đạo Tặc』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Đạo Tặc』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-019] Higuchi Kyouya
+
+- **id:** CHAR-019
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Higuchi Kyouya
+- **tên_gốc:** Higuchi Kyouya
+- **tên_romaji:** Higuchi Kyouya
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Đạo Tặc』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Đạo Tặc』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-020] Hirano Kouhei
+
+- **id:** CHAR-020
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Hirano Kouhei
+- **tên_gốc:** Hirano Kouhei
+- **tên_romaji:** Hirano Kouhei
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Kiếm Sĩ』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng đá • Thiên chức: 『Kiếm Sĩ』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-021] Takashima Yuudai
+
+- **id:** CHAR-021
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Takashima Yuudai
+- **tên_gốc:** Takashima Yuudai
+- **tên_romaji:** Takashima Yuudai
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng chày • Thiên chức: Không rõ Thiên Chức • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-022] Satou Yuuya
+
+- **id:** CHAR-022
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Satou Yuuya
+- **tên_gốc:** Satou Yuuya
+- **tên_romaji:** Satou Yuuya
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** MẤT TÍCH (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
+
+---
+
+## [CHAR-023] Futaba Meiko (Mei-chan)
+
+- **id:** CHAR-023
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Futaba Meiko (Mei-chan)
+- **tên_gốc:** Futaba Meiko
+- **tên_romaji:** Futaba Meiko
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Cuồng Chiến Binh』 (Trưởng ban Chăn Nuôi, Hắc Thiết Đại Phủ)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Nấu ăn • Thiên chức: 『Cuồng Chiến Binh』 (Trưởng ban Chăn Nuôi, Hắc Thiết Đại Phủ) • Ghi chú: CÒN SỐNG (Nữ chính, trợ thủ số 1 của Kotarou)
+
+---
+
+## [CHAR-024] Kisaragi Ryouko
+
+- **id:** CHAR-024
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Kisaragi Ryouko
+- **tên_gốc:** Kisaragi Ryouko
+- **tên_romaji:** Kisaragi Ryouko
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Băng Ma Thuật Sư』 (Băng Kết Đại Thuẫn, Trưởng tháp)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: Lớp trưởng Nữ • Thiên chức: 『Băng Ma Thuật Sư』 (Băng Kết Đại Thuẫn, Trưởng tháp) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-025] Souma Sakura
+
+- **id:** CHAR-025
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Souma Sakura
+- **tên_gốc:** Souma Sakura
+- **tên_romaji:** Souma Sakura
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Thánh Nữ』 (Thánh Pháp, Ban Y Tế, Em gái Yuuto)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Cung đạo • Thiên chức: 『Thánh Nữ』 (Thánh Pháp, Ban Y Tế, Em gái Yuuto) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-026] Takanashi Kotori
+
+- **id:** CHAR-026
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Takanashi Kotori
+- **tên_gốc:** Takanashi Kotori
+- **tên_romaji:** Takanashi Kotori
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Hiền Giả』 (Đọc di tích, Luyện kim chế tạo vũ khí)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Khoa học • Thiên chức: 『Hiền Giả』 (Đọc di tích, Luyện kim chế tạo vũ khí) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-027] Kenzaki Asuna
+
+- **id:** CHAR-027
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Kenzaki Asuna
+- **tên_gốc:** Kenzaki Asuna
+- **tên_romaji:** Kenzaki Asuna
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Kiếm đạo • Thiên chức: 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-028] Natsukawa Minami
+
+- **id:** CHAR-028
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Natsukawa Minami
+- **tên_gốc:** Natsukawa Minami
+- **tên_romaji:** Natsukawa Minami
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Đạo Tặc』 (Do thám, Ban Tuyên Truyền)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Điền kinh • Thiên chức: 『Đạo Tặc』 (Do thám, Ban Tuyên Truyền) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-029] Randou Kyouko
+
+- **id:** CHAR-029
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Randou Kyouko
+- **tên_gốc:** Randou Kyouko
+- **tên_romaji:** Randou Kyouko
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Thổ Ma Thuật Sư』 (Ban Kỷ Luật, Boongke xếp gạch)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Thổ Ma Thuật Sư』 (Ban Kỷ Luật, Boongke xếp gạch) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-030] Himeno Airi
+
+- **id:** CHAR-030
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Himeno Airi
+- **tên_gốc:** Himeno Airi
+- **tên_romaji:** Himeno Airi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Trị Liệu Thuật Sư』 (Ban Y Tế)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Trị Liệu Thuật Sư』 (Ban Y Tế) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-031] Yoshizaki Hiroe
+
+- **id:** CHAR-031
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Yoshizaki Hiroe
+- **tên_gốc:** Yoshizaki Hiroe
+- **tên_romaji:** Yoshizaki Hiroe
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Chiến Binh』 (Đội tuần tra)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Quần vợt • Thiên chức: 『Chiến Binh』 (Đội tuần tra) • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-032] Nonomiya Jun'ai
+
+- **id:** CHAR-032
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nonomiya Jun'ai
+- **tên_gốc:** Nonomiya Jun'ai
+- **tên_romaji:** Nonomiya Jun'ai
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Kị Sĩ』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Quần vợt • Thiên chức: 『Kị Sĩ』 • Ghi chú: CÒN SỐNG
+
+---
+
+## [CHAR-033] Hinagiku Haya
+
+- **id:** CHAR-033
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Hinagiku Haya
+- **tên_gốc:** Hinagiku Haya
+- **tên_romaji:** Hinagiku Haya
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Chú thuật sư』 (Đầu lâu Độc Chú/Luyện Kim)
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Cung đạo • Thiên chức: 『Chú thuật sư』 (Đầu lâu Độc Chú/Luyện Kim) • Ghi chú: ✝️ ĐÃ CHẾT (Thủ cấp trên gậy Kotarou)
+
+---
+
+## [CHAR-034] Reina Adelheid Ayase
+
+- **id:** CHAR-034
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Reina Adelheid Ayase
+- **tên_gốc:** Reina Adelheid Ayase
+- **tên_romaji:** Reina Adelheid Ayase
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Tinh Linh Thuật Sư』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: Học sinh lai • Thiên chức: 『Tinh Linh Thuật Sư』 • Ghi chú: ✝️ ĐÃ CHẾT (Bị Kotarou hạ)
+
+---
+
+## [CHAR-035] Nagae Yukiko
+
+- **id:** CHAR-035
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nagae Yukiko
+- **tên_gốc:** Nagae Yukiko
+- **tên_romaji:** Nagae Yukiko
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Băng Ma Thuật Sư』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Văn học • Thiên chức: 『Băng Ma Thuật Sư』 • Ghi chú: ✝️ ĐÃ CHẾT (Bị Yokomichi nuốt)
+
+---
+
+## [CHAR-036] Satou Aya
+
+- **id:** CHAR-036
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Satou Aya
+- **tên_gốc:** Satou Aya
+- **tên_romaji:** Satou Aya
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Xạ Thủ』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: 『Xạ Thủ』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-037] Nishiyama Minoru
+
+- **id:** CHAR-037
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nishiyama Minoru
+- **tên_gốc:** Nishiyama Minoru
+- **tên_romaji:** Nishiyama Minoru
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** ĐÃ CHẾT (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** 『Phong Ma Thuật Sư』
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Nhạc cụ hơi • Thiên chức: 『Phong Ma Thuật Sư』 • Ghi chú: ✝️ ĐÃ CHẾT
+
+---
+
+## [CHAR-038] Iijima Mayumi
+
+- **id:** CHAR-038
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Iijima Mayumi
+- **tên_gốc:** Iijima Mayumi
+- **tên_romaji:** Iijima Mayumi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** MẤT TÍCH (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
+
+---
+
+## [CHAR-039] Kitaouji Rurika
+
+- **id:** CHAR-039
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Kitaouji Rurika
+- **tên_gốc:** Kitaouji Rurika
+- **tên_romaji:** Kitaouji Rurika
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** MẤT TÍCH (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Nấu ăn • Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
+
+---
+
+## [CHAR-040] Kizaki Akane
+
+- **id:** CHAR-040
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Kizaki Akane
+- **tên_gốc:** Kizaki Akane
+- **tên_romaji:** Kizaki Akane
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** MẤT TÍCH (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Bóng chuyền • Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
+
+---
+
+## [CHAR-041] Shinohara Emi
+
+- **id:** CHAR-041
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Shinohara Emi
+- **tên_gốc:** Shinohara Emi
+- **tên_romaji:** Shinohara Emi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** MẤT TÍCH (Cập nhật Tập 205)
+- **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
+- **thiên_chức:** Không rõ Thiên Chức
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
+- **mô_tả:** CLB / Vị trí: CLB Minh họa • Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
 
 `,
             "events": `# DÒNG THỜI GIAN & BIÊN NIÊN SỬ KIỆN (TIMELINE & EVENTS)
@@ -88224,6 +89133,10 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - Thánh thú Kinako đột phá phong ấn đá băng của nhóm Ryouko, thức tỉnh sức mạnh mới, mọc cánh ánh sáng xanh lam và khổng lồ hóa vượt quá 10 mét.
 - Souma Sakura và Momokawa Kotarou kịp thời xuất hiện cứu nhóm Ryouko khỏi luồng hơi thở hủy diệt của Kinako bằng 『Thánh Thiên Kết Giới』.
 - Kotarou chuẩn bị đối đầu với Kinako khổng lồ bằng cách triệu hồi Rem và sử dụng hai trang bị tối thượng mới: 『Mũ Giáp Khổng Lồ』 và 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 để kích hoạt khổng lồ hóa cho Rem.
+| Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
+| Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
+| Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
+| Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
 `,
             "style_guide": `# Quy Tắc Văn Phong & Định Dạng (Style Guide)
 **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả (呪術師は勇者になれない)
@@ -88336,110 +89249,710 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **Randou Kyouko và Himeno Airi:** Kyouko tỏ ra cực kỳ nghiêm khắc, không ngần ngại dùng bạo lực (tét mông) để dập tắt sự nhõng nhẽo của Airi. *(Tự động học từ Tập 203)*
 - **Randou Kyouko và Souma Yuuto:** Kyouko nói chuyện thẳng thắn, có phần gay gắt và không muốn được Yuuto bảo vệ quá mức, muốn tự mình mạnh lên. *(Tự động học từ Tập 203)*
 - **Randou Kyouko:** Xưng hô 'tôi' - 'cậu' với Momokawa Kotarou, tính cách có phần lười biếng, thiếu kiên nhẫn nhưng thực chất rất hợp tác và dễ tính. *(Tự động học từ Tập 198)*
+
+### Quy tắc mới từ Tập 270:
+- **Shimokawa Junnosuke ↔ Ueta Youhei ↔ Nakai Shouta:** Xưng hô 'mày - tao' / 'tụi mày/chúng mày' suồng sã, thân thiết giữa bộ ba Jou-Chuu-Ge chí cốt. [Bằng chứng: "「————なぁ、上田、中井、お前らさ、どう思う？」..."] *(Tự động học từ Tập 270)*
 `
         }
     },
-    "Hầm Ngục Đơn Độc": {
-        "id": "Hầm Ngục Đơn Độc",
-        "title": "Hầm Ngục Đơn Độc",
+    "Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy": {
+        "id": "Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy",
+        "title": "Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy",
         "originalTitle": "Light Novel Reader",
         "chapters": [
+            {
+                "id": "chuong_1",
+                "number": 1,
+                "title": "Tap 1",
+                "volume": "Tap 1",
+                "path": "../Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy/translated/chuong_1_chuong_1_co_ban_thuo_nho_khang_khang_va_tieu_thu_t.md",
+                "content": `**Chương 1: Cô bạn thuở nhỏ khăng khăng, và tiểu thư trầm lặng**
+
+Trong đại sảnh hoàng cung, ba mươi chân nến sáp ong xếp thành hàng, tỏa ánh sáng vàng rực xuống sàn nhà bóng loáng. Tà váy lụa bồng bềnh dập dờn theo điệu valse do ban nhạc tấu lên, các người hầu bưng khay bạc đựng rượu vang và bánh nướng nhân thịt bê đi lại thoăn thoắt. Mùi tiêu và bơ bốc lên từ những chiếc bánh nướng mới ra lò khiến Elena sực nhớ ra mình hầu như chưa ăn gì cho bữa tối, song chiếc áo nịt thắt chặt lấy vòng eo mảnh khảnh làm cô chẳng còn chút cảm giác thèm ăn. Bộ váy màu xanh nhạt này vốn được sửa lại từ trang phục thời thiếu nữ của mẹ cô, ở mặt trong cổ tay áo vẫn còn sót lại một sợi chỉ trắng do thị nữ may vá để lại. Elena khẽ cuộn sợi chỉ ấy nơi đầu ngón tay như muốn tránh ánh nhìn của người khác, mắt hướng về Lucas đang đứng giữa sảnh đường.
+
+Lucas khoác trên mình bộ lễ phục xanh thẫm của kỵ sĩ đoàn, ngực áo bên trái cài gia huy Sói Bạc. Những chiếc khuy cài trang trí bằng bạc cài ngay ngắn tới tận cổ áo không một vết ố mờ, đúng với tác phong thường ngày của một người luôn tự tay đánh bóng từng chiếc móc trên đai kiếm như anh. Thế nhưng, từ nãy đến giờ anh chưa hề nhấp một ngụm rượu vang nào, những ngón tay thon dài cứ miết đi miết lại trên thân ly. Nhớ lại thói quen tương tự của anh mỗi khi bị ép uống chén thuốc đắng hồi nhỏ, Elena khẽ đặt tay lên trước ngực váy. Mùa đông mười ba năm trước, Lucas từng định lén đổ thuốc vào tro bếp lò thì bị mẹ phát hiện, kết quả là cả ba đứa đều bị phạt đứng ngoài hành lang.
+
+“Elena, cậu đang nói chuyện với bức tường đấy à?”
+
+Mireille với mái tóc đỏ buông xõa trên vai, tay vẫn khoác lấy cánh tay Lucas, cất tiếng gọi. Cô ta diện một chiếc váy trắng đính ngọc trai, quanh eo thêu hình hoa hồng và sói bằng chỉ bạc. Việc một tiểu thư chưa đính ước lại mang trên mình biểu tượng Sói Bạc của Hầu tước gia Valfen vốn là điều rất kỳ quặc, song các phu nhân xung quanh đều vờ như không thấy, chỉ phe phẩy quạt trơn tru. Từ làn da của Mireille tỏa ra hương dầu thơm ngạt ngào tựa hoa bách hợp, ẩn sâu bên trong là mùi thảo mộc ngai ngái làm tê buốt cả cuống lưỡi.
+
+“Tôi chỉ đang ngắm hoa văn dát vàng trên tường thôi. Thấy nó đẹp hơn năm ngoái nhiều quá.”
+
+Elena chuyển ánh nhìn sang hoa văn chùm nho khắc trên tường, xác nhận lời mình nói không phải dối trá rồi mới đáp. Có vẻ như sau đợt tu sửa hồi mùa xuân, lớp vàng lá đã được dát lại, từng chiếc lá đều ánh lên vẻ rực rỡ tươi mới. Tuy nhiên, dưới chân chiếc ghế dài kê ngay phía dưới vẫn còn vết xước nhỏ; Elena từng nghe cha kể rằng vài năm trước, một vị hoàng tử bé đã đâm ngựa gỗ vào đó rồi bị nhũ mẫu mắng. Nghĩ đến việc ngay cả hoàng cung lộng lẫy thế này cũng có những vết thương không thể xóa nhòa, hơi thở đang đè nặng lồng ngực cô bỗng nhẹ đi đôi chút.
+
+“Thế à. Cậu lúc nào cũng chỉ toàn để ý đến những thứ chẳng ai quan tâm từ xưa đến giờ nhỉ.”
+
+Mireille nhếch môi, nép người sát hơn vào cánh tay Lucas. Khoảnh khắc ấy, vai Lucas cứng đờ, rượu vang đỏ trong ly sóng sánh mạnh. Elena có thể nhận ra luồng ma lực màu bạc bao quanh anh đang dựng ngược lên như những chiếc gai nhọn. Vậy mà Mireille chẳng hề nhận ra, cô ta ghé má sát vào tay áo Lucas, thỏa mãn híp mắt lại.
+
+“Mireille, buông ra đi. Tối nay ta hơi đau đầu.”
+
+Lucas trầm giọng bảo, nhưng Mireille không hề buông tay. Trái lại, như muốn chứng minh chỉ có bản thân mới là chỗ dựa cho anh, những ngón tay mang găng trắng của cô ta bọc lấy cổ tay anh. Hương bách hợp càng thêm nồng nặc, Lucas đưa một tay day trán. Elena không hề biết rằng, vì không có cả thời gian ăn trưa, ổ bánh mì đen cứng ngắc mà Alfred lén lấy từ bếp kỵ sĩ đoàn cho anh vẫn còn nằm nguyên trong túi trong của áo khoác.
+
+“Chàng đau đầu thì lại càng phải ở cạnh thiếp chứ. Chẳng phải hương thơm của bạn đời sẽ xoa dịu thú nhân mỏi mệt hay sao?”
+
+Tiếng của Mireille vừa cất lên, những quý tộc gần đó liền ngưng cuộc trò chuyện. Những chiếc quạt khựng lại, chỉ còn tiếng nhạc của ban nhạc cùng tiếng lách cách của dao nĩa va chạm vang vọng trong đại sảnh. Lucas định lên tiếng, song Mireille chẳng buồn đợi anh nói mà bước thẳng lên bậc thang ở trung tâm. Gấu váy trắng lướt trên sàn, những viên ngọc trai đính kèm lấp lánh dưới ánh nến.
+
+“Thưa quý vị, nhân đêm nay, tôi xin mạn phép mượn nơi này để thông báo một chuyện.”
+
+Mireille bước lên hai bậc thang rồi đưa mắt nhìn khắp đám đông tề tựu. Trong một dạ hội mừng sinh nhật Vương Thái Hậu, việc tự ý đưa ra tuyên bố cá nhân khi chưa được chủ nhân bữa tiệc cho phép là hành vi vô cùng thất lễ, thế nhưng cha cô ta — Hầu tước Langley — lại chẳng hề có ý định ngăn cản. Ngược lại, ông ta còn vuốt nhẹ chòm râu, nở nụ cười đầy ẩn ý về phía Hầu tước Valfen. Elena hiểu ngay, ông ta định nhân lời phát biểu của con gái để biến hôn sự giữa hai nhà thành chuyện đã rồi.
+
+“Mireille, dừng lại đi. Vẫn chưa có gì được xác nhận cả.”
+
+Lucas gằn giọng ngăn lại, song cô ta vờ như không nghe thấy mà mỉm cười. Qua lớp găng tay, cô ta siết chặt cánh tay anh hơn, ưỡn ngực ngẩng cao cằm. Sắc mặt Lucas tái đi, đôi mắt màu xám bạc nheo lại đầy vẻ gay gắt. Khi một vị phu nhân hầu tước thốt lên giọng đầy mong đợi: “Ôi chao, chẳng lẽ là…”, Mireille như chỉ chờ có thế liền hít một hơi thật sâu.
+
+“Bạn đời định mệnh của ngài Lucas chính là tôi. Từ thuở ấu thơ, linh hồn của chúng tôi đã gắn kết bền chặt bên nhau.”
+
+Tiếng reo hò rộ lên khắp đại sảnh, ngay cả nhạc trưởng của ban nhạc cũng ngừng chỉ huy để vỗ tay tán thưởng. Nếu gia tộc Valfen và gia tộc Langley liên kết, sức mạnh quân sự phương Bắc cùng vựa lúa trù phú của vương quốc sẽ hợp làm một, đây là mối hôn sự vô cùng có lợi đối với giới quý tộc. Có ai đó hô lớn bảo chuẩn bị rượu vang chúc mừng, người hầu vội vã xoay chuyển chiếc khay bạc. Đúng lúc ấy, một chiếc bánh mì nhân thịt nhỏ rơi xuống sàn, chẳng ai buồn nhặt, mặc cho nó bị giẫm nát dưới những đôi giày hoa lệ.
+
+“Xin chúc mừng tiểu thư Mireille. Quả nhiên, hai người thật là một đôi trời sinh mà.”
+
+Một tiểu thư mặc váy màu hồng phấn cất giọng hớn hở, những người xung quanh cũng nối tiếp nhau gửi lời chúc phúc. Mireille ửng hồng đôi má, cúi đầu đáp lễ với dáng vẻ như thể mình đã là phu nhân của Lucas. Nhưng Lucas không hề cười, anh đang từ tốn rút cánh tay bị cô ta bấu chặt ra. Trên thái dương anh lấm tấm mồ hôi mỏng, cơ hàm bên phải nghiến chặt lại, dẫu đứng ở khoảng cách xa Elena vẫn nhìn thấy rõ.
+
+Nơi đầu mũi Elena bỗng thoảng qua một mùi hương tựa như khu rừng ướt mưa hòa quyện cùng khói lửa trại. Đó không phải hương dầu thơm hay hoa cỏ, mà là khí tức linh hồn mà cô đã cảm nhận bên cạnh Lucas từ thuở ấu thơ. Bình thường nó êm dịu như vạt nắng vương trên chiếc chăn mùa đông, nhưng đêm nay lại tựa như dã thú mất phương hướng đang lang thang khắp đại sảnh, rồi cuộn thẳng vào tâm can Elena. Lồng ngực cô nóng rực lên, đầu ngón tay khẽ run rẩy, song cô vội chắp hai tay lại để kìm nén.
+
+“Tiểu thư Elena không định chúc phúc cho họ sao?”
+
+Vị tiểu thư váy hồng vừa rồi quay người lại, kéo theo ánh mắt của những người xung quanh đổ dồn về phía Elena. Mireille đứng cạnh Lucas, nở nụ cười của kẻ nắm chắc phần thắng trong tay. Nếu lúc này cô lên tiếng khẳng định mình mới là bạn đời, dạ hội sẽ càng thêm hỗn loạn, và Lucas sẽ bị đem ra tranh giành như một món đồ sở hữu giữa hai tiểu thư. Elena khẽ cắn vào mặt trong môi, cảm nhận vị sắt tanh nồng lan tỏa trong khoang miệng rồi mới ngẩng đầu lên.
+
+“Đây là chuyện hệ trọng, tôi nghĩ nên đến đền thờ để xác nhận thì tốt hơn. Hơn nữa, chúng ta vẫn chưa được nghe ý kiến từ chính ngài Lucas mà.”
+
+Một vết nứt rạn khẽ len vào bầu không khí chúc tụng, vài quý tộc ngượng ngùng đưa ly lên miệng uống. Mireille khẽ nhướng mày nhưng nhanh chóng lấy lại nụ cười. Lucas lần đầu tiên thở phào một hơi, định bước một bước về phía Elena. Thế nhưng Mireille lại túm chặt lấy tay anh, chen bờ vai trắng muốt vào giữa hai người.
+
+“Cần gì phải xác nhận chứ. Thiếp tự biết rõ mà. Phải không, ngài Lucas?”
+
+Mireille cất giọng nũng nịu hỏi, nhưng Lucas không đáp lời. Đôi mắt màu xám bạc của anh, xuyên qua bờ vai của những kẻ đang vỗ tay chúc tụng, chỉ chăm chú nhìn về phía Elena. Elena đón nhận ánh nhìn ấy và hạ quyết tâm: dẫu bản thân không thể tự mình đứng ra nhận lấy danh phận, nhưng một khi anh cần sự giúp đỡ, cô tuyệt đối sẽ không quay lưng. Giữa lúc ban nhạc bắt đầu tấu lên một khúc ca rộn rã mới, một cậu hầu trẻ tuổi dùng khăn vải nhặt mẩu bánh mì nhân thịt rơi dưới sàn lên, khẽ thở dài sao cho không ai nhìn thấy.`
+            },
+            {
+                "id": "chuong_2",
+                "number": 2,
+                "title": "Tap 2",
+                "volume": "Tap 1",
+                "path": "../Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy/translated/chuong_2_chuong_2_cang_cham_vao_long_cang_xa_cach.md",
+                "content": `**Chương 2: Càng chạm vào, lòng càng xa cách**
+
+Ba ngày sau đêm dạ yến, nhà ăn của trụ sở đoàn kỵ sĩ nồng nặc mùi xúc xích nướng cùng súp đậu hầm. Dù chuông báo trưa đã điểm quá nửa khắc, đĩa gỗ đặt trước mặt Lucas vẫn chẳng hề có dấu vết đụng đũa, lớp váng mỡ trắng bắt đầu đông lại trên mặt nước dùng. Những kỵ sĩ vừa kết thúc buổi huấn luyện vắt áo khoác màu xám ướt đẫm mồ hôi lên lưng ghế, vừa chấm bánh mì đen vào súp đậu vừa rôm rả bàn tán về ván cược tối qua hay chuyện con ngựa cái ở chuồng vừa sinh một chú ngựa con. Bình thường, Lucas sẽ không rời bàn trước khi cấp dưới dùng bữa xong, thế nhưng hôm nay anh chỉ tựa một tay lên trán, nhấp từng ngụm nước đã nguội ngắt.
+
+“Đội trưởng, nếu ngài không thích món đậu đó thì để tôi ăn giùm cho nhé? Sáng nay tôi ngủ quên nên bỏ mất bữa sáng.”
+
+Người kỵ sĩ trẻ ngồi đối diện chỉ vào đĩa của Lucas rồi hỏi. Người đàn ông bên cạnh bật cười: “Cái ngữ chú mày thì có ăn sáng ba lần cũng chẳng đủ no đâu,” khiến tiếng hưởng ứng rộ lên khắp phòng ăn. Như mọi khi, Lucas hẳn sẽ bật cười cay đắng, nhưng cơn đau nhức nhối sâu trong hốc mắt khiến anh chẳng thể nhếch nổi khóe môi. Ngay lúc anh định đẩy đĩa về phía kỵ sĩ trẻ, cánh cửa nhà ăn bỗng bật mở đầy mạnh mẽ.
+
+“Ôi chao, Lucas-sama. Quả nhiên là ngài vẫn chưa dùng bữa gì cả.”
+
+Mireille diện một bộ váy màu hồng nhạt hoàn toàn lạc lõng với bầu không khí nơi trụ sở kỵ sĩ đoàn, bước vào cùng hai thị nữ đang xách theo chiếc giỏ lớn. Từ ống tay áo thêu viền chỉ vàng lấp ló đôi găng tay trắng muốt, mái tóc cài chiếc lược nạm ngọc trai. Trong giỏ chất đầy bánh nướng quết mật ong, thịt gà nướng thảo mộc và táo ngào đường; hương thơm ngọt ngào lập tức lấn át cả mùi xúc xích lẫn súp đậu. Các kỵ sĩ hốt hoảng đứng dậy trước sự xuất hiện bất ngờ của vị tiểu thư Hầu tước, chàng kỵ sĩ trẻ còn đang ngậm đầy bánh mì đen trong miệng, không kịp nuốt đành phồng má chào theo nghi thức.
+
+“Đây là cơ sở của kỵ sĩ đoàn. Lính gác cổng không nói với cô rằng không được phép tự tiện vào sao?”
+
+Lucas toan đứng dậy, nhưng cảm giác sàn nhà hơi chao đảo khiến anh phải chống tay xuống mặt bàn. Khoảnh khắc hương dầu hoa bách hợp tỏa ra từ người Mireille xộc vào mũi, cổ họng anh thắt lại, cảm giác buồn nôn trào dâng nơi cuống họng. Mùi hương này còn nồng hơn cả ở đêm dạ yến, ẩn bên dưới là thứ mùi đắng ngắt như thảo dược bị thiêu cháy. Dù cố tự nhủ rằng mùi hương của bạn đời định mệnh lẽ ra phải mang lại cảm giác bình yên, nhưng cơ thể anh lại hoàn toàn kháng cự lời nói ấy.
+
+“Tất nhiên là lính gác có nói rồi. Nhưng thiếp là bạn đời của Lucas-sama cơ mà. Chăm lo cho sức khỏe của bạn đời chẳng phải là bổn phận của thiếp sao?”
+
+Mireille đáp lại mà chẳng hề có chút áy náy, rồi ra hiệu đặt một chiếc ghế cạnh Lucas. Người kỵ sĩ vừa ngồi đó vội vàng bê cả đĩa xúc xích đang ăn dở chuyển sang bàn khác. Mireille lấy từ trong giỏ ra một chiếc đĩa sứ trắng, gắp một miếng thịt gà rồi dùng con dao bạc nhỏ cắt thành từng miếng vừa ăn. Thịt gà được rắc rất nhiều hương thảo, mùi dầu mỡ quyện cùng thảo mộc bốc lên nghi ngút theo làn hơi nóng.
+
+“Nào, Lucas-sama. Để thiếp đút cho ngài nhé.”
+
+Mireille đưa chiếc nĩa xiên thịt đến bên khóe môi, Lucas liền quay mặt đi. Các kỵ sĩ lập tức cúi gằm mặt xuống đĩa như thể vừa thấy điều không nên thấy, không gian chỉ còn lại tiếng thìa va lách cách vào đĩa gỗ. Lucas định đẩy cổ tay cô ta ra, nhưng vừa chạm vào lớp găng tay, một cơn đau nhói buốt đã chạy dọc từ thái dương ra sau gáy. Đầu ngón tay anh lạnh toát, vị chua chát trào ngược lên tận cuống họng.
+
+“Dừng lại đi. Tôi không có hứng ăn.”
+
+“Chính vì vậy ngài mới càng phải ăn chứ. Nếu thiếp không đến, ngài đâu có biết tự quý trọng thân thể của mình đâu.”
+
+Mireille nói như đang dỗ dành một đứa trẻ bướng bỉnh, bàn tay còn lại khẽ chạm lên vai Lucas. Theo phản xạ tự nhiên, Lucas hất mạnh bàn tay ấy ra, chân ghế cọ xát xuống sàn phát ra một tiếng rít chói tai. Miếng thịt gà rơi khỏi nĩa bạc, để lại vệt dầu mỡ loang lổ trên mũi giày da bóng lộn của anh. Mireille vội thu tay về trước ngực, sau khi liếc nhìn để chắc chắn rằng mọi ánh mắt trong nhà ăn đều đang đổ dồn về phía mình, cô ta mới ngấn lệ ngước nhìn Lucas:
+
+“Ngài quá đáng lắm. Thiếp rõ ràng chỉ muốn tốt cho ngài thôi mà.”
+
+“Nếu bảo là vì tôi, thì bây giờ cô hãy về đi. Trong giờ làm việc, tôi không có ý định tiếp đón việc riêng.”
+
+Lucas vừa điều chỉnh lại hơi thở rối loạn vừa nói, tay chỉ về phía cửa ra vào của nhà ăn. Bờ môi Mireille run rẩy, nhưng cô ta không hề bảo thị nữ thu dọn chiếc giỏ. Trái lại, cô ta còn quay sang mỉm cười với các kỵ sĩ, bảo họ cứ tự nhiên thưởng thức số bánh nướng, diễn trọn vai một người bạn đời đầy thấu hiểu. Các kỵ sĩ chẳng thể chối từ đành phải cúi đầu nhận, nhưng ngay cả khi cô ta đã rời đi, tuyệt nhiên không một ai buồn với tay lấy miếng bánh mật ong nào.
+
+***
+
+Chiều hôm ấy, Elena cùng mẹ đến tham dự buổi tiệc trà của một vị phu nhân Bá tước ở khu phía Tây vương đô. Căn phòng tiếp khách nhỏ được trang trí bằng những đóa hồng vàng, trên bàn tròn bày biện bánh nướng nhân óc chó và những lát bánh mì kẹp dưa chuột cắt mỏng. Elena mặc một chiếc váy màu xanh mạ non kết hợp với khăn choàng lụa mộc, cô dùng chiếc thìa bạc khuấy nhẹ tách trà hai lần nhưng không hề nhấp môi. Nhìn lớp màng mỏng nổi trên mặt nước trà, cô nghe thấy tiếng các tiểu thư ngồi đối diện đang hạ giọng sau chiếc quạt xếp.
+
+“Nghe nói ngài Valphen dạo này sức khỏe không được tốt lắm. Hình như tiểu thư Mireille ngày nào cũng đến chăm sóc ngài ấy đấy.”
+
+Một tiểu thư mặc váy tím lên tiếng, phu nhân ngồi bên cạnh gật đầu đồng tình trong khi thả liền ba viên đường vào tách trà. Mỗi lần chiếc thìa khuấy lên lại tạo thành âm thanh va chạm lách cách vào thành sứ, chú chó nhỏ lông trắng nằm trên đùi phu nhân khẽ động đậy đôi tai. Nghe tin sức khỏe Lucas sa sút, ngón tay Elena khựng lại. Khuôn mặt nhễ nhại mồ hôi của anh trong đêm dạ yến lại hiện về trong tâm trí, cô tự hỏi liệu mình có nên gửi một lá thư thăm hỏi hay không.
+
+“Thế mà nghe đâu vẫn có người khác cố tình tiếp cận ngài Lucas đấy. Dù là bạn thuở nhỏ đi chăng nữa, chen ngang vào giữa đôi bạn đời định mệnh như thế thật là khó coi.”
+
+Ánh mắt của phu nhân hướng thẳng về phía Elena, các tiểu thư khác cũng đồng loạt im bặt. Ở góc phòng, chú chó nhỏ của phu nhân Bá tước dùng chân trước đè lát dưa chuột rơi ra rồi khéo léo lôi khỏi miếng bánh mì. Elena gấp lại chiếc khăn tay trên đầu gối, nhận ra mẹ đang nhìn mình với ánh mắt lo lắng từ bên cạnh. Cô hiểu rằng nếu lúc này mình cúi đầu, chẳng khác nào thừa nhận những lời đồn thổi ấy, nên liền thẳng lưng nhìn thẳng vào vị phu nhân:
+
+“Nếu phu nhân đang ám chỉ cháu, thì cháu chưa từng có ý định tiếp cận Lucas-sama. Chuyện ngài ấy không khỏe, cháu cũng mới chỉ vừa nghe thấy lần đầu.”
+
+“Thế nhưng trong đêm dạ yến, chẳng phải hai người đã nhìn nhau đầy ẩn ý đó sao?”
+
+Tiểu thư áo tím rướn người tới trước, chờ đợi câu trả lời từ Elena. Mùi trà và vị ngọt của bánh nướng hòa quyện vào nhau khiến không khí trong căn phòng kín càng thêm ngột ngạt. Elena không thể giải thích chuyện ma lực của Lucas đã khao khát tìm đến cô như thế nào. Nếu nói rằng chính mình mới là bạn đời định mệnh, người ta sẽ chỉ xem cô như một kẻ giống Mireille, mượn cớ định mệnh để tranh giành đàn ông.
+
+“Chỉ là tình cờ chạm mắt mà thôi. Ngoài ra không có ý tứ gì khác.”
+
+Ngay khi Elena vừa dứt lời, cánh cửa phòng tiếp khách mở ra, Mireille – người đến muộn – xuất hiện. Hôm nay cô ta mặc một bộ váy màu tím nho, trước ngực cài chiếc trâm cài hình ngân lang. Phu nhân Bá tước vội sai người chuẩn bị chỗ ngồi, nhưng Mireille không ngồi xuống mà sải bước thẳng đến trước mặt Elena. Mùi dầu hoa bách hợp phả tới, chiếc mũi nhạy cảm của Elena lập tức ngửi thấy rõ mồn một thứ mùi thuốc nồng nặc lẫn bên trong.
+
+“Ngươi nói những lời trơ tráo thật đấy. Chẳng phải ngươi đã gửi thư mời thăm hỏi đến cho Lucas-sama sao?”
+
+“Đó không phải thư mời thăm hỏi. Đó là thiệp mời dự Lễ hội Thu hoạch do cha tôi tổ chức hàng năm. Năm nay tôi cũng gửi đến Hầu tước gia Valphen như thường lệ mà thôi.”
+
+Elena đứng dậy khỏi ghế, đối mặt với Mireille. Trong thiệp mời, cô viết rằng sẽ chuẩn bị những món bánh làm từ táo do cha tự tay trồng, và đã cẩn thận đóng dấu sáp gia huy lên phong bì. Thế nhưng, cô vẫn chưa nhận được hồi âm. Nhận thấy một mảnh sáp đỏ còn dính trên mu bàn tay phải của Mireille, Elena lập tức hiểu ra lý do vì sao cô ta lại biết về thiệp mời.
+
+“Những thứ gửi cho Lucas-sama, đích thân ta đã tiêu hủy rồi. Không thông qua người làm bạn đời như ta mà dám gửi thiệp mời trực tiếp cho một người đàn ông, đúng là đồ vô phép tắc.”
+
+“Đó là thư tín chính thức gửi cho Hầu tước gia, cớ sao cô lại có quyền tự ý tiêu hủy?”
+
+Giọng Elena trầm xuống, các phu nhân trong phòng tiệc trà đưa mắt nhìn nhau đầy bối rối. Mireille thoáng khựng lại một nhịp, nhưng rồi lập tức hếch cằm lên. Mẹ của Elena đứng dậy, bước đến bên cạnh con gái. Dưới gầm bàn, chú chó nhỏ đã ăn xong lát dưa chuột, giờ đang quẹt miệng vào gấu váy của nữ chủ nhân.
+
+“Ta là bạn đời của Lucas-sama. Việc ta kiểm tra thư từ gửi đến ngài ấy là lẽ đương nhiên. Kẻ chen ngang vào giữa đôi bạn đời định mệnh mới là kẻ nên biết xấu hổ!”
+
+Giọng nói the the của Mireille vang vọng khắp phòng tiếp khách, chẳng còn ai buồn đụng tay vào đĩa bánh nướng nữa. Elena thở ra một hơi thật chậm, tựa như đang rút đi mũi kim đâm nơi lồng ngực. Nói lại rằng chính mình mới là bạn đời thì thật dễ dàng, nhưng làm vậy chẳng khác nào biến Lucas thành chiến lợi phẩm trong cuộc tranh đoạt. Khi chưa từng lắng nghe xem anh cảm thấy thế nào, muốn sống bên cạnh ai, cô không thể ích kỷ áp đặt cảm nhận của riêng mình lên anh như một chân lý tuyệt đối.
+
+“Tôi không hề có ý định tiếp cận nếu phải phớt lờ cảm xúc của Lucas-sama. Nhưng cô cũng tuyệt đối không có quyền tự ý vứt bỏ thư từ của ngài ấy.”
+
+Gò má Mireille giật mạnh, những ngón tay nắm chặt chiếc trâm cài ngân lang siết lại đầy tức tối. Phu nhân Bá tước dường như không thể chịu nổi bầu không khí ngột ngạt này thêm nữa, vội gọi thị nữ đổi ấm trà đã nguội ngắt. Mireille ghé sát mặt vào Elena, dùng một tông giọng trầm thấp vừa đủ để người khác không nghe thấy, đe dọa cô hãy biến mất khỏi cuộc đời Lucas. Elena không buồn đáp lời, cô nắm lấy tay mẹ rồi xin phép cáo lui khỏi buổi tiệc trà.
+
+***
+
+Cùng lúc đó, tại phòng làm việc ở trụ sở kỵ sĩ đoàn, Alfred đang xếp đống báo cáo ba ngày qua lên bàn. Nào là sổ ghi chép cong queo mép vì dột nước mưa, bảng tuần tra dính váng mỡ thịt khô, thậm chí có cả biên bản huấn luyện bị ai đó viết hóa đơn quán rượu ở mặt sau; vốn là người tỉ mỉ, anh cẩn thận phân loại từng tờ một. Lucas ngồi trên chiếc ghế cạnh cửa sổ, chịu đựng cơn đau đầu kéo dài từ trưa đến giờ, nhấp từng ngụm trà thảo mộc đã nguội lạnh. Dù trong trà có vỏ cây liễu mang tác dụng giảm đau, nhưng ngoài vị đắng đọng lại trên đầu lưỡi, cơn đau buốt hầu như chẳng hề thuyên giảm.
+
+“Chỉ riêng hôm nay, cô ta đã vi phạm ba quy định ra vào nhà ăn. Có lời đồn rằng Đội trưởng đã cho phép, việc đó có đúng sự thật không?”
+
+Alfred giơ bản báo cáo ra, chờ đợi câu trả lời. Khi Lucas lắc đầu, anh lẳng lặng đánh một dấu đỏ lên tờ giấy đầu tiên. Là một thú nhân hệ báo, khứu giác của Alfred vô cùng nhạy bén, anh cũng cảm thấy có điểm bất thường ở mùi hoa bách hợp còn vương lại trong nhà ăn. Tuy nhiên, khi chưa có bằng chứng xác thực, anh không tùy tiện nghi ngờ người bạn thuở nhỏ của chủ nhân mà chỉ muốn xác nhận các hành vi vi phạm quy tắc trước.
+
+“Hãy lệnh cho lính gác cổng, lần sau tuyệt đối không cho vào. Ta cũng sẽ chuyển lời tương tự đến Hầu tước gia.”
+
+Chưa kịp dứt lời, tiếng bước chân đã dồn dập tiến lại từ hành lang. Cánh cửa bật mở, Mireille – người ngỡ như đã về – lại dẫn theo thị nữ bước vào. Mùi dầu thơm nồng nặc hơn cả ban trưa, lập tức xua tan mùi giấy khô và mực viết trong phòng làm việc. Lucas bấu chặt lấy tay vịn ghế, cố nén cơn đau nhói buốt nơi đáy mắt.
+
+“Thiếp nghe hết cả rồi. Con ả Elena đó dám sỉ nhục thiếp trước mặt mọi người!”
+
+Chẳng đợi được mời ngồi, Mireille đã sấn tới trước bàn làm việc của Lucas. Tà váy màu tím quét qua đống tài liệu, làm lật tung một tờ bảng tuần tra đặt dưới sàn. So với lời buộc tội của cô ta, Lucas nhíu mày trước chuyện cô ta tự ý tiêu hủy thư từ gửi đến Hầu tước gia hơn. Alfred cũng dừng tay, lặng lẽ quan sát nét mặt của Mireille.
+
+“Cô đã vứt thiệp mời Elena gửi cho tôi sao?”
+
+“Thiệp mời như thế chẳng cần thiết chút nào. Con ả đó rõ ràng đang muốn quyến rũ ngài mà!”
+
+Mireille đáp lại như thể đó là lẽ hiển nhiên, rồi vòng qua bàn làm việc, đặt tay lên vai Lucas. Từ chỗ bị chạm vào, một luồng tê dại lạnh buốt lan ra khắp người, dạ dày Lucas co thắt dữ dội. Anh bật dậy để né tránh bàn tay ấy, nhưng cơ thể không theo kịp chuyển động đột ngột khiến hông va mạnh vào mép bàn. Lọ mực đổ nhào, vệt mực đen ngòm lập tức loang lổ khắp những bản báo cáo đã xử lý xong.
+
+“Đừng có chạm vào tôi! Và cho đến khi có phán định chính thức, cô cũng hãy bỏ cái danh xưng bạn đời đó đi!”
+
+Tiếng quát của Lucas khiến không chỉ Mireille mà cả các thị nữ cũng phải run rẩy bả vai. Alfred nhanh chóng dựng thẳng lọ mực bị đổ, mau lẹ sơ tán những tài liệu chưa bị vấy bẩn. Mireille mở to mắt, rồi nhìn trân trân vào vệt mực đen đang lan rộng trên mặt bàn. Trên gương mặt cô ta, thay vì hiểu ra mình vừa bị cự tuyệt, lại hiện lên vẻ quy chụp rằng chính Lucas – người vừa đẩy cô ta ra – mới là kẻ sai trái.
+
+“Chắc chắn là Elena đã rót vào tai ngài điều gì rồi đúng không? Con ả đó đã mê hoặc tâm trí ngài, nên ngài mới nghi ngờ thiếp chứ gì?”
+
+“Chuyện này không liên quan đến Elena! Cứ hễ cô chạm vào là người tôi lại khó chịu. Nếu thật sự là bạn đời, cớ sao cơ thể tôi lại bài xích cô đến thế này?!”
+
+Trước câu hỏi thẳng thừng của Lucas, nụ cười trên môi Mireille hoàn toàn tắt ngấm. Cô ta lùi lại một bước, ngón tay liên tục chà xát lên chiếc trâm cài trước ngực. Trong lúc cô ta loay hoay tìm câu trả lời, căn phòng chỉ còn lại tiếng mưa rào quất vào cửa kính và tiếng Alfred rải cát để thấm khô vệt mực. Cuối cùng, Mireille buông lại một câu rằng ngay cả tình trạng sức khỏe tồi tệ của Lucas cũng là do ma thuật của Elena hãm hại, rồi dẫn đám thị nữ hậm hực rời khỏi phòng.
+
+***
+
+Mãi đến đêm khuya, cơn đau đầu của Lucas vẫn không hề thuyên giảm. Cứ nằm xuống giường nhắm mắt lại là cơn buồn nôn lại dâng lên dữ dội, nên anh vẫn mặc nguyên chiếc áo sơ mi trắng cùng quần âu đen, khoác thêm chiếc áo choàng dài rồi bước ra sân trong của trụ sở kỵ sĩ đoàn. Cơn mưa đã tạnh hẳn, nhưng trên nền đá lát vẫn còn đọng lại những vũng nước, phía sau gian bếp có mấy tấm khăn lau vừa giặt xong đang phơi trên dây thừng. Mỗi khi ngọn gió đêm thổi qua, những mảnh vải ướt lại đung đưa, mang theo mùi xà phòng quyện cùng than củi thoang thoảng.
+
+“Lucas-sama?”
+
+Nghe thấy giọng nói quen thuộc, anh ngẩng đầu lên và thấy Elena đang đứng ở phía bên kia hành lang. Khoác chiếc áo choàng màu xám bên ngoài bộ váy màu xanh mạ non từ buổi tiệc trà ban chiều, cô đang ôm một bọc nhỏ bằng cả hai tay. Cô giải thích rằng trên đường về nhà, bánh xe ngựa của mẹ bị lún vào vũng bùn, nên đành mượn bãi đỗ xe của kỵ sĩ đoàn để sửa chữa. Trong chiếc bọc nhỏ là hai chiếc bánh nướng nhân óc chó được gói mang về từ buổi tiệc trà vì ăn không hết.
+
+“Đêm hôm thế này ngài còn ở đây làm gì vậy? Sắc mặt ngài trông tệ quá.”
+
+Khi Elena tiến lại gần vài bước, Lucas bất giác phòng thủ theo phản xạ. Cơn đau buốt lúc bị Mireille chạm vào lại ùa về khiến anh lo sợ mình sẽ lại bị cơn buồn nôn giày vò. Thế nhưng, thứ hương thơm tỏa ra từ người Elena lại là mùi ngai ngái của đất sau cơn mưa hòa lẫn với hương sữa ấm ngọt dịu. Khoảng cách giữa hai người càng thu hẹp, những mạch máu đang đập loạn xạ nơi thái dương anh lại càng từ từ dịu lại.
+
+“Ta hơi khó ngủ nên ra hóng gió một chút thôi. Còn cậu thì sao, buổi tiệc trà thế nào?”
+
+“Bánh nướng nhân óc chó rất ngon ạ. Cơ mà, có một chú chó trắng cứ rút dưa chuột ra khỏi bánh mì để ăn. Dù nó chẳng ngoan chút nào nhưng chẳng ai nỡ mắng cả.”
+
+Elena khẽ bật cười, khiến đôi vai căng cứng của Lucas bất giác thả lỏng. Cơn đau đầu dù chưa tan biến hoàn toàn, nhưng cảm giác nhức nhối đến mức mở mắt cũng thấy khó chịu lúc nãy giờ đã lùi ra xa. Cô mở chiếc bọc nhỏ, đưa cho anh một chiếc bánh nướng hơi bị vỡ mép. Sực nhớ từ trưa đến giờ mình chưa bỏ bụng thứ gì, Lucas liền đưa tay nhận lấy.
+
+“Bánh đã nguội rồi, nhưng nếu ngài không chê thì xin mời dùng.”
+
+“Ta xin nhận. Hôm nay ta đã bỏ lỡ cả súp đậu hầm lẫn thịt gà nướng rồi.”
+
+Miếng bánh nướng bị mẻ một góc, lớp giấy gói thấm đẫm dầu óc chó. Thế nhưng khi đưa vào miệng, vị ngọt của đường caramen hòa quyện với vị bùi béo thơm lừng của hạt óc chó lan tỏa, khiến chiếc dạ dày rỗng tuếch của anh cuối cùng cũng bắt đầu hoạt động trở lại. Elena không hề hối thúc mà kiên nhẫn đứng đợi anh ăn xong, mắt ngắm nhìn những tấm khăn lau đang đung đưa trên dây phơi ngoài gian bếp. Ngắm nhìn góc nghiêng của cô, Lucas chợt nhận ra hơi thở của mình đã trở nên êm dịu tự lúc nào.
+
+“Elena. Ở bên cạnh cậu, cơn đau đầu của ta dịu hẳn đi.”
+
+Khi Lucas cất lời, ngón tay Elena khựng lại trên lớp giấy gói. Cô cụp mắt xuống như thể đã biết trước điều gì đó, nhưng không đáp lại ngay. Ánh mắt cô nhìn anh trong đêm dạ yến và sự ngập ngừng đêm nay như nối liền lại với nhau, dấy lên trong lòng Lucas một mối nghi hoặc mới. Càng chạm vào Mireille – kẻ tự xưng là bạn đời – anh lại càng đau đớn, trong khi chỉ cần ở cạnh một Elena chẳng hề đòi hỏi điều gì, cơ thể anh lại tìm thấy sự an yên. Khoảnh khắc thừa nhận sự thật ấy, những điều anh từng cố ép mình tin là đúng đắn bấy lâu nay bỗng lặng lẽ sụp đổ ngay dưới chân mình.`
+            },
+            {
+                "id": "chuong_3",
+                "number": 3,
+                "title": "Tap 3",
+                "volume": "Tap 1",
+                "path": "../Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy/translated/chuong_3_chuong_3_mui_huong_gia_doi_va_su_cong_huong_dich_t.md",
+                "content": `Chương 3: Mùi hương giả dối và sự cộng hưởng đích thực
+
+Sáng hôm sau, Alfred quỳ một gối trên hành lang vắng vẻ của trụ sở kỵ sĩ đoàn, ghé sát mũi vào kẽ hở giữa những tấm ván sàn. Cơn mưa rả rích kéo dài đến tận trước lúc rạng đông khiến toàn bộ tòa nhà ẩm ướt, vương lại mùi áo choàng ướt cùng mùi gỗ cũ. Dưới nhà bếp, món súp hành tây cho bữa sáng đang được ninh nhừ, bốc làn khói thơm phức cùng với mẻ bánh mì đen nướng cháy. Thế nhưng, riêng một góc hành lang này vẫn bám lại mùi hoa ly nồng nặc đến mức lấn át hết thảy mọi thứ xung quanh. Đó chính là nơi Mireille đã đứng ngày hôm qua, và trên sàn vẫn còn hằn lại vệt mực đen mờ mờ do nàng giẫm phải.
+
+“Ngài phó đoàn trưởng, ngài làm gì ở đó vậy? Tối qua ngài đánh rơi đồng bạc sao?”
+
+Một phụ nữ dọn dẹp lớn tuổi ôm chiếc giỏ giặt trống không, nhìn Alfred với vẻ mặt đầy khó hiểu. Trên chiếc tạp dề màu nâu của bà còn dính bột xà phòng trắng, hai ống tay áo xắn cao đến tận khuỷu. Alfred đáp rằng không phải đánh rơi bạc, song chàng thầm nghĩ nếu cảnh tượng này bị đám kỵ sĩ trẻ bắt gặp, chẳng biết chừng sẽ lại lan truyền tin đồn kỳ quặc rằng ngửi sàn hành lang là thói quen hằng ngày của phó đoàn trưởng. Tháng trước ở kỵ sĩ đoàn cũng từng có chuyện đoàn trưởng đuổi theo con gà ở sân sau, qua lời đồn thổi thêu dệt cuối cùng lại biến thành ngài ấy dắt gà đến vũ hội hoàng cung.
+
+“Mùi hương của tiểu thư Hầu tước Langley đến đây hôm qua vẫn còn vương lại. Sau khi lau sàn, có ai đi qua đây nữa không?”
+
+Nghe Alfred hỏi, người phụ nữ dọn dẹp đặt giỏ xuống sàn, vừa đấm lưng thùm thụp vừa nhớ lại công việc hôm qua. Bà kể rằng sau khi Mireille rời đi, bà đã dùng nước nóng pha tro lau sàn hai lần, cửa sổ cũng mở toang suốt gần hai tiếng đồng hồ. Ấy thế mà mùi hương vẫn chẳng chịu tan, khiến cậu phụ việc trẻ tuổi tưởng chừng có lọ nước hoa nào vỡ nên đã kiểm tra đến tận gầm sàn. Người phụ nữ dọn dẹp cau mày nhăn trán: “Nhờ thế mà trưa hôm qua tôi lỡ mất cả bữa khoai tây đấy nhé.”
+
+“Dưới gầm sàn chẳng có gì đâu. Nhưng tôi lại nhặt được cái này. Thấy chẳng giống đá quý nên tôi cất vào ngăn tủ đựng dụng cụ dọn dẹp rồi.”
+
+Thứ bà lấy ra từ túi tạp dề là một mảnh thủy tinh màu xanh lam chỉ nhỏ bằng đầu móng tay. Bề mặt mảnh vỡ mờ đục như có lớp dầu khô phủ lên, khi đưa lại gần, từ sâu bên dưới vị ngọt của hoa ly xốc lên một mùi hôi thối pha lẫn giữa thảo dược cháy khét và rỉ sét. Đôi tai của Alfred khẽ giật giật, đồng tử của Báo thú nhân hơi hẹp lại. Nếu là dầu thơm tự nhiên thì đáng lẽ phải nhạt dần sau vài giờ, vậy mà mảnh thủy tinh này lại liên tục rò rỉ một luồng ma lực yếu ớt.
+
+“Vật này tôi xin phép giữ lại. Giẻ lau ngày hôm qua vẫn chưa giặt chứ?”
+
+Người phụ nữ dọn dẹp đáp rằng giẻ vẫn còn trong thùng ở khu giặt giũ, rồi bà ngoảnh mặt về phía tiếng chuông báo bữa sáng vừa vang lên. Dường như muốn húp bát súp hành tây trước khi nó nguội ngắt, bà nhấc chiếc giỏ dưới chân lên rồi liên tục ngó nghiêng về phía nhà bếp. Alfred không giữ bà lại nữa, chàng hứa lát nữa sẽ báo tên mình với nhà bếp để bà được nhận thêm một ổ bánh mì đen. Tâm trạng người phụ nữ dọn dẹp lập tức phấn chấn hẳn lên, bà buông lại một câu: “Thế thì nhớ xin thêm cho tôi một lát thịt khô nữa nhé,” rồi rảo bước rời đi.
+
+Alfred bọc mảnh thủy tinh xanh vào khăn vải rồi mang đến phòng nghiên cứu ma thuật. Bên trong phòng nghiên cứu, các lọ thuốc và sách cổ chất cao gần chạm trần, nơi góc bàn vẫn còn đĩa xương cá từ bữa tối hôm qua. Johann, vị quan nghiên cứu, buộc túm mái tóc xám sau gáy, khoác trên mình chiếc áo choàng trắng dính đầy vết ố thảo dược nơi cổ tay. Một bên tất của anh ta màu đỏ, bên kia lại màu xanh, nhưng dường như chính chủ chẳng hề hay biết.
+
+“Mới sáng sớm đã bắt ta điều tra nước hoa của tiểu thư hầu tước, kỵ sĩ đoàn dạo này rảnh rỗi quá nhỉ.”
+
+Johann vừa ngáp dài vừa nói, đoạn đặt mảnh thủy tinh lên một chiếc khay bạc nhỏ. Khi Alfred giải thích về chứng đau đầu và cảm giác buồn nôn của Lucas, bàn tay của quan nghiên cứu chợt khựng lại. Đôi mắt ngái ngủ của Johann mở to, anh ta lấy ra một lọ thuốc thử màu tím từ sâu trong kệ. Vừa nhỏ một giọt lên mảnh thủy tinh, mùi hoa ly ngọt ngào lập tức tan biến, thay vào đó là thứ mùi xú uế tựa như trái cây thối rữa lan tỏa khắp căn phòng.
+
+“Mở cửa sổ ra giúp tôi với. Mùi này còn tệ hơn cả con cá hôm qua của anh đấy.”
+
+Alfred vội bịt mũi, Johann vừa càu nhàu bảo đừng có nói xấu bữa tối của anh ta, vừa đẩy mạnh cánh cửa sổ lên. Gió lạnh ùa vào phòng, thổi bay những tờ giấy vương vãi trên bàn rơi lả tả xuống sàn. Trong số đó có một tờ không ghi liều lượng thảo dược, mà lại ghi chi tiết các khoản nợ quán rượu mà quan nghiên cứu phải trả vào cuối tháng. Johann nhanh tay nhặt tờ giấy giấu vội vào trong vạt áo choàng trắng, rồi chăm chú nhìn những bọt khí màu đen nổi lên trên khay bạc.
+
+“Đây là ma đạo dược hệ huyễn hoặc. Đã vậy còn là một công thức cực kỳ cổ xưa. Thành phần gồm có Ngân Diệp Thảo, Mộng Kiến Thảo, và dịch tiết lấy từ Nguyệt Lang giống cái.”
+
+“Loại thuốc này có thể tạo ra mùi hương của bạn đời thú nhân sao?”
+
+“Không phải tạo ra. Nó khơi gợi và lặp lại những mùi hương dễ chịu vốn có trong ký ức của người ngửi phải. Kẻ chưa từng biết đến sự hiện diện của bạn đời có thể sẽ bị lừa gạt, nhưng phẩm chất ma lực thì hoàn toàn khác xa hàng thật.”
+
+Johann mở cuốn từ điển dược vật dày cộp, lật qua vô số trang giấy ố vàng. Cuối cùng, tay anh ta dừng lại ở mục có tiêu đề 『Hương Dầu Hoặc Nguyệt』 rồi quay cuốn sách về phía Alfred. Sách ghi rõ rằng, chỉ cần thoa một lượng nhỏ lên da sẽ tỏa ra mùi hương ngọt ngào thu hút thú nhân, song nếu ngửi liên tục trong thời gian dài, nó sẽ làm tổn hại đến kinh mạch ma lực của đối phương, gây ra đau đầu, buồn nôn, mất ngủ và chán ăn. Tại vương quốc, loại thuốc này đã bị cấm sử dụng và buôn bán từ hai mươi năm trước, chỉ riêng việc tàng trữ thôi cũng đủ cấu thành tội danh bị xử phạt.
+
+“Đội trưởng đã phải chịu đựng những cơn đau đầu không rõ nguyên nhân suốt vài năm nay. Cứ mỗi khi tiểu thư Mireille ở gần, triệu chứng lại càng trở nên dữ dội hơn.”
+
+Alfred dùng ngón tay lần theo từng dòng chữ trên trang sách, hồi tưởng lại toàn bộ những chuyện đã qua. Cứ mỗi lần Mireille đến tham dự nghi lễ của kỵ sĩ đoàn, Lucas lại không thể nuốt nổi một miếng cơm cho đến tận đêm muộn. Chỉ trong khoảng thời gian xuất chinh rời khỏi vương đô, ngài ấy mới có thể chợp mắt, nhưng hễ vừa trở về là cơn đau đầu lại tái phát. Vì hai người là thanh mai trúc mã nên chẳng ai mảy may nghi ngờ, thế nhưng thời điểm triệu chứng bắt đầu xuất hiện lại trùng khớp hoàn toàn với lúc Mireille bắt đầu ám chỉ chuyện bạn đời.
+
+“Tôi muốn điều tra xem thứ này có thể mua được ở đâu. Các hiệu thuốc chính quy chắc chắn không bán nó.”
+
+Johann chỉ cho Alfred biết ở các con hẻm phía sau vương đô có những thương nhân ma đạo dược chuyên lén lút bán hàng cấm. Tuy nhiên, việc đích thân một tiểu thư quý tộc đến cửa tiệm là điều khó xảy ra, rất có thể ả đã mua qua tỳ nữ hoặc thương nhân trung gian. Alfred nhận lấy mảnh thủy tinh cùng bản sao chép trang từ điển, toan bước ra khỏi phòng nghiên cứu. Phía sau lưng, Johann với theo dặn nếu dưới bếp còn thừa thì nhớ mang cho anh ta một bát súp hành tây.
+
+Chiều hôm ấy, Alfred dẫn theo hai thuộc cấp rảo bước trong con hẻm chật hẹp ở khu nam vương đô. Dây phơi quần áo giăng chằng chịt giữa các tòa nhà, những giọt nước rỏ xuống từ đồ lót trắng và tất trẻ em tạo thành từng vệt đen loang lổ trên mặt đường lát đá. Trên phố, một hàng cá đang mổ cá thu, quầy hàng bên cạnh thì chất đầy những túi giấy đựng khoai tây chiên ngập dầu. Cậu cấp dưới vốn chỉ ăn lót dạ bữa sáng bằng bánh mì đen cứ ngoái nhìn quầy khoai tây chiên mãi, khiến Alfred phải hứa xong việc điều tra sẽ mua cho.
+
+“Phó đoàn trưởng ơi, hai túi được không ạ? Từ sáng đến giờ em chưa có hạt cơm nào vào bụng cả.”
+
+“Hồi sáng ở nhà ăn chẳng phải cậu đã ngốn hết ba cây xúc xích rồi sao?”
+
+“Không ngờ ngài lại để tâm đến em tới mức đếm từng cây như thế đấy ạ.”
+
+Cậu cấp dưới tự biên tự diễn vẻ mặt cảm kích, người còn lại thì cố nén cười đến mức phải húng hắng ho. Alfred không buồn đáp lại, bước thẳng vào cửa tiệm treo tấm biển bán đồ cũ. Bên trong chất đống bát đĩa sứt mẻ và chân nến hoen rỉ, sâu trong góc kệ có một lão già gầy gò đang nhẩn nha nhai từng quả nho khô. Khi Alfred chìa mảnh thủy tinh xanh ra, ngón tay của lão già bỗng khựng lại.
+
+“Ta muốn xem sổ sách ghi lại việc bán chiếc lọ này. Nếu từ chối, lão sẽ phải lên trụ sở kỵ sĩ đoàn nói chuyện đấy.”
+
+Lão già khăng khăng bảo không biết, nhưng khi Alfred thốt ra tên của thứ dược phẩm cấm, mồ hôi trên trán lão liền túa ra ròng ròng. Cuốn sổ cái ngầm được giấu kỹ trong một chiếc hộp dưới sàn nhà, bìa sổ dính đầy vết dầu mỡ cùng dấu chân chuột. Suốt ba năm qua, cùng một người đã liên tục đặt mua Hương Dầu Hoặc Nguyệt, tiền bạc được thanh toán thông qua một thương nhân tơ lụa có giao dịch làm ăn với gia đình Hầu tước Langley. Tên người đặt hàng được ghi là “Marie Lange”, nhưng phần mô tả đặc điểm của người nhận lại là một tỳ nữ trẻ tuổi có mái tóc màu hạt dẻ cùng một nốt ruồi nhỏ trên má phải.
+
+“Trong số tỳ nữ của tiểu thư Mireille có một ả mang đúng đặc điểm này. Hôm qua ả cũng đi theo đến kỵ sĩ đoàn.”
+
+Một thuộc cấp vừa nhìn vào cuốn sổ vừa lên tiếng. Alfred ra lệnh tịch thu những trang cần thiết, đồng thời áp giải lão già về quy án với tội danh buôn bán hàng cấm. Lúc rời khỏi cửa tiệm thì quầy khoai tây chiên đã bắt đầu dọn hàng, cậu cấp dưới đang đói meo thất vọng ỉu xìu buông thõng hai vai. Alfred đưa đồng bạc bảo lão bán hàng chưa chạy mất đâu nên cứ chạy đi mà mua nhanh lên, bản thân chàng cũng nhận lấy một phần, song khoai tây đã nguội ngắt, chỉ còn lớp muối đóng tảng dưới đáy túi.
+
+***
+
+Trong khi đó, ngoài cổng bắc vương đô, các kỵ sĩ vừa hoàn thành nhiệm vụ thảo phạt đang trở về trong bộ dạng đầy thương tích. Ban đầu có báo cáo rằng hai con Gấu Nanh đã xâm nhập vào đất nông nghiệp, song đến nơi mới hay có một con gấu mẹ cùng ba con gấu con đã trưởng thành, khiến trận chiến kéo dài hơn dự kiến. Bộ quân phục kỵ sĩ màu xanh thẫm của Lucas lấm lem bùn đất và máu đen kịt, tay áo bên trái rách toạc một mảng lớn từ vai đến tận khuỷu tay. Ngay cả khi xuống ngựa chàng cũng không thể cử động cánh tay trái, thuộc cấp phải vội vàng bước tới đỡ lấy dây cương.
+
+“Đội trưởng, cánh tay đó phải khâu ngay lập tức. Lỡ răng nanh của nó cắm sâu vào tận xương thì biết làm sao!”
+
+Một kỵ sĩ trẻ lo lắng kêu lên với khuôn mặt tái mét, nhưng Lucas lại hạ lệnh đưa những người bị thương nặng vào bệnh xá trước. Từng giọt máu rơi từ cánh tay chàng nhỏ xuống nền đá tạo thành những chấm đỏ tươi, nền đất ẩm ướt vẫn còn nồng nặc mùi tanh tưởi của dã thú. Bánh mì đen cùng phô mai cứng mang theo cho bữa trưa lúc thảo phạt đã bị nghiền nát bét trong túi, chẳng ai có lấy một giây để ăn. Những kỵ sĩ đói lả vừa ngoảnh mặt về phía mùi thịt hầm thơm nức mũi đang bay ra từ nhà bếp, vừa dìu vai những người đồng đội bị thương.
+
+“Ta tự đi được. Cứ khám cho Dino trước đi, cậu ta bị cào trúng mạn sườn đấy.”
+
+Lucas tự mình đưa những người bị thương đến trước cửa bệnh xá, song bên trong các giường bệnh dã chiến đều đã chật kín, các trị liệu sư thì hai tay nhuốm máu, tất bật chạy đôn chạy đáo khắp nơi. Băng gạc bị cắt vụn vương vãi đầy trên sàn, từ chiếc nồi đun nước sôi bốc lên mùi máu tanh hòa lẫn với thảo dược nồng nặc. Lucas tựa lưng vào tường, tay ghì chặt lấy ống tay áo rách bươm. Cùng với cơn đau buốt từ vết thương, cơn đau đầu dai dẳng suốt mấy ngày qua lại ập đến, khiến khóe mắt chàng tối sầm lại.
+
+Đúng lúc đó, Elena trong chiếc tạp dề trắng bước ra từ sâu bên trong bệnh xá. Nghe tin có nhiều người bị thương, nàng đã cùng mẹ mang thảo dược đến viện trợ cho kỵ sĩ đoàn. Khoác chiếc tạp dề bằng vải thô bên ngoài bộ váy mộc mạc màu nâu nhạt, mái tóc nàng được buộc thấp gọn gàng phía sau để không vướng víu. Trong túi tạp dề có một chiếc kéo nhỏ dùng để cắt băng gạc cùng một bó cỏ cầm máu đã phơi khô.
+
+“Ngài Lucas, đưa cánh tay đó cho em xem nào.”
+
+Nhìn thấy ống tay áo đẫm máu của chàng, Elena lập tức đặt giỏ thảo dược xuống sàn. Lucas đáp rằng chỉ là vết thương ngoài da không sao đâu, nhưng Elena nhìn chăm chú vào vết rách rồi chau mày lại. Hồi còn nhỏ, khi Lucas trèo cây bị ngã trầy xước cả cánh tay, chàng cũng từng khăng khăng rằng máu đã ngừng chảy rồi nên không tính là bị thương. Khi ấy Elena đã phải chạy đi gọi mẹ, và rốt cuộc chàng phải khâu tới tận ba mũi.
+
+“Vết thương ngoài da mà lại chảy nhiều máu thế này sao? Từ xưa đến nay, cái tính hay giấu giếm vết thương của ngài vẫn chẳng chịu thay đổi chút nào nhỉ.”
+
+Nghe Elena nói, Lucas chẳng thể cãi lại lời nào, chỉ biết ngượng ngùng dời tầm mắt đi nơi khác. Vì trong bệnh xá không còn chiếc giường nào trống, hai người bèn chuyển sang căn phòng kho kế bên. Nơi đó chất đống chăn dự phòng, nạng gỗ cùng những dải băng gạc đang phơi dở, bên bậu cửa sổ còn đặt một bát súp đậu mà người trị liệu sư ăn dở. Bát súp đã nguội ngắt, lớp màng mỡ đông lại trên bề mặt có vài con ruồi nhỏ đang chực bu vào.
+
+“Ngài có cởi áo ra được không? Hay là để em cắt ống tay áo nhé.”
+
+Elena vừa hỏi, Lucas liền thử dùng một tay phải để cởi khuy áo. Thế nhưng, lớp vải đẫm máu dính chặt vào vết thương, chỉ cần khẽ cử động một chút thôi cũng đủ khiến chàng nghẹt thở vì đau đớn. Elena dùng kéo cắt dọc ống tay áo, rồi lấy một mảnh vải thấm nước ấm nhẹ nhàng lau sạch lớp máu đã đông lại. Móng vuốt của Gấu Nanh rạch một đường sâu hoắm từ trên khuỷu tay kéo dài xuống tận cẳng tay.
+
+“Có đau lắm không ngài?”
+
+“Bị Gấu Nanh cào trúng mà bảo không đau chút nào thì là nói dối rồi.”
+
+“Vậy thì xin ngài đừng nói xem mình có chịu đựng được hay không, mà hãy nói rõ cho em biết ngài đau đến mức nào. Truyền đạt chính xác cho người chữa trị cũng là nhiệm vụ của đội trưởng đấy ạ.”
+
+Elena nhẹ nhàng khuyên nhủ như đang dỗ dành một đứa trẻ, rồi cẩn thận dùng đầu ngón tay kiểm tra xung quanh vết thương. Nhìn gương mặt nghiêm túc của nàng, Lucas cảm thấy sự căng thẳng đè nặng trên đôi vai suốt chuyến thảo phạt dần dần tan biến. Giữa mùi máu tanh và thảo dược nồng nặc, từ người Elena lại thoang thoảng một luồng khí tức tựa như mùi đất sau cơn mưa hòa cùng hương sữa ấm. Chàng thầm nghĩ, lần này nhất định phải làm sáng tỏ lý do vì sao chỉ cần ở bên cạnh nàng, cơn đau đầu của mình lại dịu bớt.
+
+“Elena. Đêm hôm trước, có phải em định nói điều gì đó không?”
+
+Nghe Lucas hỏi, bàn tay đang nghiền nát cỏ cầm máu của Elena bỗng khựng lại. Trong chiếc cối nhỏ bằng sứ, từ những chiếc lá xanh bốc lên một mùi hương đắng ngắt. Nàng toan đáp rằng không có gì, nhưng khi nhận thấy đôi mắt màu xám bạc của Lucas đang nhìn thẳng vào mình, nàng liền mím chặt môi. Nếu nói dối, nàng sẽ chẳng khác nào làm điều tương tự như kẻ mà nàng đang nghi ngờ là Mireille.
+
+“Từ nhỏ em đã cảm nhận được ma lực của ngài Lucas như một mùi hương rất khác biệt so với những người khác. Thế nhưng, em chưa từng dám chắc chắn điều đó có ý nghĩa gì.”
+
+“Tại đêm hội, em đã cảm nhận được điều gì?”
+
+“Ma lực của ngài lúc đó đang vô cùng đau đớn. Nó như đang chối bỏ Mireille, và khao khát muốn đến một nơi khác.”
+
+Elena không thể thốt ra câu “đến bên em”, nàng chỉ lặng lẽ trải cỏ cầm máu lên một tấm vải sạch. Ý nghĩ rằng nếu mình tự nhận là bạn đời thì sẽ cướp mất câu trả lời của chàng đến nay vẫn không hề thay đổi. Lucas im lặng ngắm nhìn góc nghiêng gương mặt nàng. Dù chưa hề chạm vào nhau, cơn khát khao sâu thẳm trong tâm hồn đã dày vò chàng suốt mấy năm qua dường như đang dần lắng dịu chỉ bằng việc lắng nghe giọng nói của nàng.
+
+“Em sẽ đắp thuốc lên vết thương nhé. Sẽ hơi xót một chút, ngài hãy nắm lấy tay phải của em.”
+
+Elena dặn dò rồi đưa những ngón tay ra định đỡ lấy bàn tay trái của Lucas. Bàn tay trần của nàng khẽ chạm vào lòng bàn tay đã được lau sạch máu của chàng. Ngay khoảnh khắc tiếp theo, một luồng nhiệt nóng rực chạy dọc từ những đầu ngón tay đang đan vào nhau, phóng thẳng lên cánh tay rồi ùa vào lồng ngực của cả hai. Không khí trong căn phòng kho khẽ rung chuyển, những cuộn băng gạc chất đống rơi lả tả xuống sàn, trên mặt bát súp đậu nguội lạnh lan tỏa những gợn sóng li ti.
+
+“Ngài Lucas, chuyện này là……”
+
+Elena toan rụt tay lại thì Lucas đã theo phản xạ siết chặt lấy những ngón tay của nàng. Ma lực của hai người chạm vào nhau, hóa thành luồng ánh sáng vàng kim rực rỡ trào dâng qua từng kẽ tay. Ánh sáng chạy dọc khắp các bức tường và trần nhà, soi sáng rực rỡ từ những chiếc chăn cũ kỹ, đôi nạng gỗ cho đến cả những lọ thuốc rỗng nằm lăn lóc trên sàn. Các trị liệu sư đang đi ngoài hành lang giật mình kéo đến trước cửa xem có chuyện gì, song chẳng một ai dám bước chân vào trong.
+
+Cơn đau buốt thắt nghẽn đầu óc của Lucas cứ thế tan biến theo từng nhịp thở. Cảm giác buồn nôn cùng sự lạnh lẽo nơi đầu ngón tay hoàn toàn biến mất, thay vào đó là một luồng ấm áp rót đầy khoảng trống rỗng bấy lâu trong lồng ngực. Mùi hạt dẻ nướng mà Elena chia cho chàng vào cái ngày chàng tập luyện thất bại thuở ấu thơ, cảm giác hai đứa cùng cuộn tròn trong một tấm chăn ấm vào ngày tuyết rơi, lý do vì sao mỗi lần trở về sau chuyến viễn chinh chàng lại vô thức đưa mắt tìm kiếm bóng hình nàng… tất cả đều kết nối lại thành một. Cơ thể chàng vốn đã luôn biết rõ câu trả lời, chỉ có bản thân chàng là vẫn cố tình nhắm mắt làm ngơ.
+
+Trong lồng ngực của Elena cũng lan tỏa một hơi ấm tương tự. Mùi hương linh hồn mà nàng cảm nhận từ thuở nhỏ lần đầu tiên hòa quyện trọn vẹn với ma lực của chính mình, len lỏi đến từng ngóc ngách trên cơ thể theo từng hơi thở. Nàng nắm chặt dải băng gạc trên đầu gối, rồi lại một lần nữa đan những ngón tay vào tay Lucas như muốn xác nhận đây không phải là một giấc mơ. Ánh sáng vàng kim càng bừng lên rực rỡ hơn, nhưng kỳ lạ thay lại chẳng hề chói mắt.
+
+“Elena…… Hóa ra là em.”
+
+Giọng nói của Lucas khàn đặc. Elena không biết phải đáp lại thế nào, chỉ biết siết chặt mảnh vải ướt trong tay mà nhìn thẳng vào mắt chàng. Giữa hai người họ, chẳng cần đến thứ hương dầu hoa ly nồng nặc, cũng chẳng cần đến những lời tiên định vận mệnh do ai đó thốt ra. Chính linh hồn vừa chạm vào nhau đã nói cho họ biết, họ rốt cuộc đã tìm thấy người mà mình tìm kiếm bấy lâu nay.
+
+Đúng lúc ấy, cánh cửa phòng kho bật mở, Alfred xuất hiện với cuốn sổ cái cùng mảnh thủy tinh xanh trên tay. Nhìn luồng ánh sáng vàng kim đang lướt trên sàn, hai bàn tay siết chặt lấy nhau cùng vệt máu đang rỏ xuống từ cánh tay Lucas, đôi mắt chàng phó đoàn trưởng hiếm hoi mở to vì kinh ngạc. Thế nhưng, chàng nhanh chóng lấy lại vẻ điềm tĩnh thường ngày, kẹp cuốn sổ cái vào nách. Dù mang theo một báo cáo vô cùng hệ trọng, nhưng chàng nhận thấy việc trước mắt là phải chữa trị xong vết thương đã.
+
+“Đội trưởng, rất xin lỗi vì đã cắt ngang lúc ngài tìm thấy hàng thật, nhưng cánh tay đó dù có phát sáng thì vết thương cũng không tự lành lại được đâu. Xin ngài hãy để người ta khâu lại trước đã.”
+
+Lời nói của Alfred khiến Elena giật mình nhớ ra mình vẫn đang cầm máu dở. Lucas cũng cúi nhìn vết thương, thấy máu chảy nhiều hơn lúc nãy thì khẽ chau mày. Người trị liệu sư ngoài hành lang vội vã chạy đi lấy kim chỉ, một người khác thì gom nhặt những cuộn băng gạc rơi trên sàn. Dẫu cho ánh sáng vàng kim đã dịu dàng mờ dần, bàn tay của Lucas vẫn không hề buông tay Elena ra.
+
+“Alfred, cuốn sổ đó là thế nào?”
+
+Nghe Lucas hỏi, Alfred đặt mảnh thủy tinh xanh lên tấm vải. Mùi hoa ly ngòn ngọt khẽ thoảng qua, mang theo mùi thảo dược cháy khét chạm vào khứu giác của Elena. Thấy cơ thể Lucas khẽ cứng đờ trong chốc lát, Elena liền siết chặt tay chàng hơn một chút. Nhờ thế, cơn đau đầu đã không tái phát, hơi thở của chàng cũng chẳng hề bị xáo trộn.
+
+“Mùi hương mà tiểu thư Mireille mang trên người hoàn toàn không phải là hương thơm của bạn đời. Đó là ma đạo dược cấm, 『Hương Dầu Hoặc Nguyệt』. Thứ thuốc này đã được mua bằng tên giả suốt ba năm qua, từng chút một hủy hoại khứu giác và ma lực của ngài.”
+
+Không gian trong phòng kho bỗng chốc im bặt, chẳng còn một tiếng động. Ở bệnh xá kế bên, một kỵ sĩ bị thương đang càu nhàu vì thuốc đắng ngắt, liền bị người trị liệu sư quát mắng bắt phải im lặng mà uống hết. Dưới nhà bếp, tiếng chuông báo bữa tối vang lên, bước chân của những kẻ đang mong chờ món thịt hầm rầm rập chạy dọc hành lang. Giữa những âm thanh thường nhật ấy, Lucas đăm đăm nhìn mảnh thủy tinh màu xanh lam, tiếp nhận sự thật rằng mình đã phải chịu đựng nỗi thống khổ từ một mùi hương giả dối suốt bao nhiêu năm qua.
+
+“Hãy điều tra tường tận mọi chuyện. Kẻ nào đã mua thuốc, kẻ nào đã sử dụng, và kẻ nào biết về chuyện này, phải làm sáng tỏ toàn bộ, không được bỏ sót một ai.”
+
+Trong giọng nói của Lucas, sự nuông chiều xem như thanh mai trúc mã từng dành cho Mireille trước đây đã hoàn toàn tan biến. Alfred đáp rằng đã rõ, rồi ôm chặt lại cuốn sổ cái vừa tịch thu. Elena vẫn ngồi bên cạnh, không ngừng truyền hơi ấm từ bàn tay mình sang cho Lucas. Lucas quay sang nhìn nàng, cất tiếng gọi tên nàng một lần nữa như để khắc sâu vào tâm khảm.
+
+“Elena. Người mà ta tìm kiếm bấy lâu nay, luôn luôn là em.”
+
+Elena không lập tức đáp lại bằng những lời mừng rỡ, mà chỉ khẽ bảo trước hết hãy chữa trị xong vết thương đã. Thế nhưng, những ngón tay đang thoa cỏ cầm máu của nàng lại khẽ run rẩy, đôi gò má cúi thấp ửng lên sắc hồng rạng rỡ, hoàn toàn khác biệt với thứ ánh sáng vàng kim khi nãy. Lucas dẫu đang chịu đựng cơn đau, nhìn thấy đôi bàn tay ấy cũng lần đầu tiên nở một nụ cười thanh thản. Bên cạnh bát súp đậu nguội ngắt, con ruồi vừa bị xua đi lại đậu xuống mép đĩa, một người trị liệu sư vừa bước vào liền vung khăn lau đuổi nó bay ra ngoài cửa.`
+            }
         ],
         "gallery": [],
         "glossary": {
-            "terms": `# BẢNG TRA CỨU THUẬT NGỮ & KHÁI NIỆM (GLOSSARY)
-**Bộ truyện:** Hầm Ngục Đơn Độc
+            "terms": `# ⚔️ THUẬT NGỮ, KỸ NĂNG, MA PHÁP & BẢO KHÍ (TERMS & SKILLS)
+> **Bộ truyện:** Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy
+> **Quy tắc:** Kỹ năng, ma pháp, bảo khí chuẩn hóa theo cặp ngoặc 『...』
 
 ---
 
-## 1. ⚔️ VŨ KHÍ, TRANG BỊ & VẬT PHẨM MA PHÁP
+---
 
-| STT | Tên Thuật Ngữ / Vũ Khí | Tên Gốc (JP / Eng) | Mô Tả & Hiệu Ứng Thực Chiến | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
+## [JOB-001] Bạn đời định mệnh
+
+- **id:** JOB-001
+- **loại:** THIÊN CHỨC
+- **tên_chuẩn:** Bạn đời định mệnh
+- **tên_gốc:** 運命の番
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 1
+- **bằng_chứng:** 番の香りは、疲れた獣人を癒やすのでしょう？
+- **mô_tả:** Bạn đời linh hồn gắn kết với thú nhân, hương thơm của bạn đời có thể xoa dịu thú nhân mỏi mệt
 
 ---
 
-## 2. 🐉 MA VẬT, SINH VẬT & TỘC LOÀI
+## [ITEM-001] Huy hiệu Sói Bạc
 
-| STT | Sinh Vật / Quái Vật | Tên Gốc (JP / Eng) | Đặc Điểm Sinh Thái & Năng Lực | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
+- **id:** ITEM-001
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Huy hiệu Sói Bạc
+- **tên_gốc:** 銀狼の紋章
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 1
+- **bằng_chứng:** まだ婚約もしていない令嬢がヴァルフェン侯爵家の銀狼を身につけるのは不自然だったが
+- **mô_tả:** Gia huy của Hầu tước gia Valfen
 
 ---
 
-## 3. 🏰 QUY TẮC, TỔ CHỨC & ĐỊA DANH
+## [ITEM-002] Hương Dầu Hoặc Nguyệt
 
-| STT | Tên Tổ Chức / Địa Danh | Tên Gốc (JP / Eng) | Ý Nghĩa & Vai Trò Cốt Truyện | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
+- **id:** ITEM-002
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Hương Dầu Hoặc Nguyệt
+- **tên_gốc:** 月惑いの香油
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 「月惑いの香油」と書かれた項目で手を止め、アルフレッドへ本を向ける。少量を肌につければ獣人を引きつける甘い匂いを発するが、使い続ければ嗅いだ者の魔力経路を傷つけ、頭痛、吐き気、不眠、食欲不振を引き起こすと記されていた。王国では二十年前に使用も売買も禁止され、所持だけでも処罰の対象になる薬だった。
+- **mô_tả:** Ma đạo dược hệ huyễn hoặc cổ xưa bị cấm 20 năm trước tại Vương quốc. Điều chế từ Ngân Diệp Thảo, Mộng Kiến Thảo và dịch tiết Nguyệt Lang cái. Khơi gợi mùi hương dễ chịu trong ký ức người ngửi để tạo cảm giác giả về bạn đời, dùng lâu dài gây tổn hại kinh mạch ma lực, đau đầu, buồn nôn, mất ngủ, chán ăn.
 
 ---
 
-## 4. 🔮 MA PHÁP & KỸ NĂNG ĐẶC THÙ
+## [MONSTER-001] Gấu Nanh
 
-| STT | Kỹ Năng / Ma Pháp | Hệ Phái / Chủ Sở Hữu | Hiệu Ứng & Ứng Dụng Thực Chiến |
-| :-: | :--- | :--- | :--- |
+- **id:** MONSTER-001
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Gấu Nanh
+- **tên_gốc:** 牙熊
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 農地へ入り込んだ牙熊は二頭と報告されていたが、現地には親熊一頭と成長した子熊三頭がおり、戦闘は予定より長引いた。
+- **mô_tả:** Loài ma thú dạng gấu có răng nanh và móng vuốt sắc nhọn, nguy hiểm đối với vùng đất nông nghiệp.
+
+---
+
+## [ITEM-003] Ngân Diệp Thảo
+
+- **id:** ITEM-003
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Ngân Diệp Thảo
+- **tên_gốc:** 銀葉草
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 銀葉草、夢見草、雌の月狼から採った分泌液が入っている
+- **mô_tả:** Loại cỏ lá bạc dùng làm nguyên liệu ma đạo dược.
+
+---
+
+## [ITEM-004] Mộng Kiến Thảo
+
+- **id:** ITEM-004
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Mộng Kiến Thảo
+- **tên_gốc:** 夢見草
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 銀葉草、夢見草、雌の月狼から採った分泌液が入っている
+- **mô_tả:** Loại cỏ mộng mị dùng trong ma đạo dược gây ảo giác/mê hoặc.
+
+---
+
+## [MONSTER-001] Nguyệt Lang
+
+- **id:** MONSTER-001
+- **loại:** SINH VẬT / QUÁI VẬT
+- **tên_chuẩn:** Nguyệt Lang
+- **tên_gốc:** 月狼
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 銀葉草、夢見草、雌の月狼から採った分泌液が入っている
+- **mô_tả:** Loài sói mặt trăng, dịch tiết của con cái được dùng trong chế tạo ma đạo dược Mê Hoặc Nguyệt.
+
+---
+
+## [ITEM-005] Cỏ cầm máu
+
+- **id:** ITEM-005
+- **loại:** VẬT PHẨM / TRANG BỊ
+- **tên_chuẩn:** Cỏ cầm máu
+- **tên_gốc:** 止血草
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 前掛けのポケットには包帯を切る小さな鋏と、乾燥させた止血草が入っていた。
+- **mô_tả:** Thảo dược dùng để giã nát đắp lên vết thương hở nhằm cầm máu.
 `,
-            "characters": `# BẢNG DANH BẠ NHÂN VẬT (CHARACTER ROSTER)
-**Bộ truyện:** Hầm Ngục Đơn Độc
+            "characters": `# 👥 HỒ SƠ NHÂN VẬT (CHARACTER DATABASE)
+> **Bộ truyện:** Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy
+> **Quy chuẩn:** Compact Entity Cards (Thuần Việt 100%)
 
 ---
 
-## I. 👑 NHÂN VẬT CHÍNH & TRUNG TÂM (PROTAGONISTS)
+---
 
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Vai Trò | Đặc Điểm & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
+## [CHAR-001] Elena
+
+- **id:** CHAR-001
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Elena
+- **tên_gốc:** エレナ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 2)
+- **thân_phận:** Nữ chính / Quý tộc / Bạn thuở nhỏ của Lucas, tiểu thư quý tộc
+- **thiên_chức:** Nhận biết ma lực và khí tức linh hồn / Tiểu thư quý tộc
+- **nguồn:** Tập 1
+- **bằng_chứng:** 
+- **mô_tả:**
 
 ---
 
-## II. 🏰 HOÀNG TỘC, HỌC VIỆN & BẠN ĐỒNG HÀNH (ALLIES & MAIN CAST)
+## [CHAR-002] Mireille
 
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Chức Vụ | Mô Tả & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
+- **id:** CHAR-002
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Mireille
+- **tên_gốc:** ミレイユ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 2)
+- **thân_phận:** Tiểu thư Hầu tước gia Langley / Bạn thuở nhỏ / Tiểu thư Hầu tước, người tự xưng là bạn đời định mệnh của Lucas
+- **thiên_chức:** Tiểu thư quý tộc
+- **nguồn:** Tập 1
+- **bằng_chứng:** 
+- **mô_tả:**
 
 ---
 
-## III. 👨‍👩‍👧 GIA ĐÌNH, HẦU CẬN & NHÂN VẬT PHỤ (SUPPORTING CAST)
+## [CHAR-003] Hầu tước Langley
 
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Vị Trí | Ghi Chú & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
+- **id:** CHAR-003
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Hầu tước Langley
+- **tên_gốc:** ラングレー侯爵
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 1)
+- **thân_phận:** Cha của Mireille / Quý tộc
+- **thiên_chức:** Chưa rõ
+- **nguồn:** Tập 1
+- **bằng_chứng:** 
+- **mô_tả:**
 
 ---
 
-## IV. 👹 ĐỐI THỦ, KẺ ĐỊCH & PHE PHÁI KHÁC (RIVALS & ANTAGONISTS)
+## [CHAR-004] Hầu tước Valfen
 
-| STT | Tên Thực Thể / Đối Thủ | Tên Gốc (JP) | Phe Phái / Đặc Điểm | Trạng Thái Hiện Tại |
-| :-: | :--- | :--- | :--- | :--- |
+- **id:** CHAR-004
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Hầu tước Valfen
+- **tên_gốc:** ヴァルフェン侯爵
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 1)
+- **thân_phận:** Gia chủ Hầu tước gia Valfen / Cha của Lucas
+- **thiên_chức:** Chưa rõ
+- **nguồn:** Tập 1
+- **bằng_chứng:** 
+- **mô_tả:**
+
+---
+
+## [CHAR-005] Alfred
+
+- **id:** CHAR-005
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Alfred
+- **tên_gốc:** アルフレッド
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 2)
+- **thân_phận:** Thành viên kỵ sĩ đoàn / Kỵ sĩ / Thuộc cấp của Lucas
+- **thiên_chức:** Thú nhân hệ báo (豹系獣人)
+- **nguồn:** Tập 1
+- **bằng_chứng:** 
+- **mô_tả:**
+
+---
+
+## [CHAR-006] Johann
+
+- **id:** CHAR-006
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Johann
+- **tên_gốc:** ヨハン
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 3)
+- **thân_phận:** Quan nghiên cứu ma thuật tại phòng nghiên cứu ma thuật của Kỵ sĩ đoàn
+- **thiên_chức:** Nghiên cứu ma pháp / Giám định dược phẩm
+- **nguồn:** Tập 3
+- **bằng_chứng:** 
+- **mô_tả:**
+
+---
+
+## [CHAR-007] Marie Lange
+
+- **id:** CHAR-007
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Marie Lange
+- **tên_gốc:** マリー・ランゲ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 3)
+- **thân_phận:** Tên giả được sử dụng để mua Hương Dầu Hoặc Nguyệt / Tỳ nữ của Mireille
+- **thiên_chức:** Tỳ nữ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 
+- **mô_tả:**
+
+---
+
+## [CHAR-008] Dino
+
+- **id:** CHAR-008
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Dino
+- **tên_gốc:** ディーノ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** CHƯA XÁC NHẬN
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** BÌNH THƯỜNG (Cập nhật Tập 3)
+- **thân_phận:** Kỵ sĩ thuộc Kỵ sĩ đoàn
+- **thiên_chức:** Kỵ sĩ
+- **nguồn:** Tập 3
+- **bằng_chứng:** 
+- **mô_tả:** 
 `,
             "events": `# DÒNG THỜI GIAN & BIÊN NIÊN SỰ KIỆN (TIMELINE & EVENTS)
-**Bộ truyện:** Hầm Ngục Đơn Độc
+> **Bộ truyện:** Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy
 
 ---
 
 | Tập | Tóm Tắt Diễn Biến Cốt Truyện Trọng Tâm | Nhân Vật Trọng Tâm | Địa Điểm / Bối Cảnh |
 | :---: | :--- | :--- | :--- |
+| Tập 1 | Mireille tự tiện tuyên bố mình là bạn đời định mệnh của Lucas trước toàn thể quý tộc tại dạ hội sinh nhật Vương Thái Hậu | XÁC NHẬN | 「皆様、今夜、この場をお借りしてお知らせしたいことがございます」...「リュカ様の運命の番は、わたくしです」 |
+| Tập 1 | Elena phản bác một cách chừng mực, đề nghị cần đến đền thờ xác nhận và lắng nghe ý kiến của Lucas | XÁC NHẬN | 「大切なことですから、神殿で確かめていただくのがよいと思います。リュカ様ご自身のお考えも、まだ伺っておりませんもの」 |
+| Tập 2 | Mireille mang thức ăn đến trụ sở kỵ sĩ đoàn quấy rầy Lucas, khiến cơ thể Lucas bài xích và lên cơn đau đầu, buồn nôn. | XÁC NHẬN | ミレイユの肌から漂う百合の香油が鼻へ届いた途端、喉の奥が狭くなり、胃の中のものが逆流しかける。 |
+| Tập 2 | Tại buổi tiệc trà, Mireille thừa nhận đã tự ý tiêu hủy thiệp mời Lễ hội Thu hoạch mà Elena gửi cho Hầu tước gia Valphen. | XÁC NHẬN | 「リュカ様宛てのものは、わたくしが処分しましたわ。」 |
+| Tập 2 | Lucas quát mắng và cự tuyệt Mireille tại phòng làm việc, cấm cô ta tự xưng là bạn đời trước khi có kết quả phán định chính thức. | XÁC NHẬN | 「俺に触れるな。そして、正式な判定を受けるまで番を名乗ることもやめろ」 |
+| Tập 2 | Lucas tình cờ gặp Elena trong sân trụ sở kỵ sĩ đoàn vào đêm khuya, ăn bánh nướng của cô và nhận ra ở cạnh cô khiến cơn đau đầu dịu đi hoàn toàn. | XÁC NHẬN | 「エレナ。君のそばにいると、頭の痛みが和らぐ」 |
+| Tập 3 | Alfred thu thập mảnh thủy tinh chứa tàn dư ma lực và được Johann giám định ra đó là ma đạo dược cấm 'Hương Dầu Hoặc Nguyệt'. Sau đó, Alfred điều tra ra thị nữ của Mireille đã bí mật mua thứ này suốt 3 năm. | XÁC NHẬN | 三年前から同じ人物が月惑いの香油を購入し、代金はラングレー侯爵家と取引のある服飾商を通して支払われている。 |
+| Tập 3 | Elena sơ cứu vết thương do Gấu Nanh cho Lucas; khi hai người chạm tay, ma lực cộng hưởng phát ra ánh sáng vàng kim, chứng minh Elena mới chính là bạn đời định mệnh đích thực của Lucas và giải trừ cơn đau đầu của chàng. | XÁC NHẬN | 血を拭き取った彼の手のひらへ、彼女の素手が触れる。次の瞬間、熱いものが重なった指先から腕を駆け上がり、二人の胸の中心へ流れ込んだ。...二人の魔力が触れ合い、金 |
+| Tập 3 | Lucas biết được sự thật Mireille dùng cấm dược lừa dối và đầu độc mình suốt 3 năm, chính thức ra lệnh điều tra và vạch trần toàn bộ sự việc. | XÁC NHẬN | 「すべて調べてくれ。誰が薬を買い、誰が使い、誰がそれを知っていたのか、一つも残さず明らかにする」 |
 `,
-            "style_guide": `# Quy Tắc Văn Phong & Định Dạng (Style Guide)
-**Bộ truyện:** Hầm Ngục Đơn Độc
-**Thể loại chính:** Đa Thể Loại (Universal)
+            "style_guide": `# 📖 QUY TẮC VĂN PHONG & ĐẶC TRƯNG TÁC PHẨM (STYLE GUIDE)
+> **Tác phẩm:** Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy
 
-## 1. Tông Giọng & Văn Phong Chủ Đạo (Tone & Voice)
-- **Đặc trưng:** Linh hoạt, tự động nhận diện theo ngữ cảnh từng chương.
-- **Dịch thuật:** Dịch thoát ý thuần Việt, giàu cảm xúc, tuyệt đối tránh dịch thô cứng theo cấu trúc tiếng Nhật/Trung/Anh.
-- **Tiết tấu:** Nhịp điệu lôi cuốn, chú trọng vào cảm xúc và diễn biến tâm lý nhân vật.
+---
 
-## 2. Quy Tắc Định Dạng & Ký Hiệu Chuẩn (Formatting Rules)
-- **Hội thoại trực tiếp:** Đặt trong dấu ngoặc kép: \`“...”\` hoặc gạch đầu dòng \`— ...\`.
-- **Suy nghĩ nội tâm / Độc thoại:** Đặt trong dấu nghiêng \`*...*\` hoặc ngoặc đơn \`(...)\`.
-- **Kỹ năng, Năng lực, Chức nghiệp, Bảo vật:** Đặt trong dấu ngoặc kép kiểu Nhật: \`『...』\` (Ví dụ: \`『Kỹ Năng』\`).
-- **Âm thanh, Tiếng động mô phỏng (Onomatopoeia):** In nghiêng tự nhiên (Ví dụ: *Roẹt*, *Ầm*, *Bộp*, *Chíp chíp*).
+## 1. TONE & GIỌNG ĐIỆU CHỦ ĐẠO
+- Giữ vững văn phong mượt mà, cảm xúc, không lạm dụng từ Hán Việt cổ xưa.
 
-## 3. Quy Tắc Xưng Hô Cơ Bản (Pronoun Rules)
-- **Bạn bè / Đồng trang lứa:** \`tôi - cậu\` hoặc \`mình - bạn\` (tùy độ thân thiết).
-- **Tình cảm nam nữ / Thân mật:** \`anh - em\` hoặc \`cậu - tớ\`.
-- **Bậc trên - Bậc dưới / Thầy trò:** \`tiền bối - hậu bối\`, \`thầy/cô - em\`.
-- **Đối thủ / Kẻ thù / Chiến đấu:** \`ta - ngươi\` hoặc \`mày - tao\` (khi xung đột cao trào).
+## 2. QUY TẮC XƯNG HÔ ĐẶC TRÙ
+- Tuân thủ nghiêm ngặt Master Style Guide 2.1.
 
-## 4. Ghi Chú Riêng Biệt Cho Nhân Vật (Custom Notes)
-*(Bạn có thể tự do thêm hoặc sửa đổi các quy tắc xưng hô riêng bên dưới, AI sẽ lập tức tuân theo)*
+### Quy tắc mới từ Tập 1:
+- **Mireille ↔ Lucas:** Mireille xưng thiếp (わたくし) gọi Lucas là chàng/ngài Lucas (リュカ様); Lucas xưng ta gọi cô (お前/ミレイユ) [Bằng chứng: "「頭が痛むのなら、なおさらわたくしのそばにいなければなりませんわ」 / 「ミレイユ、離れてくれ」..."] *(Tự động học từ Tập 1)*
+- **Mireille ↔ Elena:** Mireille gọi Elena bằng tên, xưng cậu - tôi (あなた - わたくし); Elena xưng tôi - cậu [Bằng chứng: "「エレナ、壁とお話ししているの？」 / 「壁の金細工を見ていただけよ」..."] *(Tự động học từ Tập 1)*
+
+### Quy tắc mới từ Tập 2:
+- **Elena ↔ Lucas:** Elena xưng 'tôi/em' (私) gọi 'Lucas-sama', Lucas xưng 'tôi/ta' (俺) gọi 'cậu/em' (君), giữ thái độ dịu dàng, tự nhiên. [Bằng chứng: "「エレナ。君のそばにいると、頭の痛みが和らぐ」..."] *(Tự động học từ Tập 2)*
+
+### Quy tắc mới từ Tập 3:
+- **Lucas ↔ Elena:** Lucas xưng 'ta' (俺 - ore), gọi 'em' (君 - kimi) / Elena xưng 'em' (私 - watashi), gọi 'ngài Lucas' (リュカ様 - Lucas-sama) [Bằng chứng: "「エレナ。先日の夜、君は何か言いかけなかったか」/「リュカ様、その腕を見せてください」..."] *(Tự động học từ Tập 3)*
+- **Alfred ↔ Lucas:** Alfred gọi Lucas là 'đội trưởng' (隊長 - taichō), xưng 'tôi' trung tính lịch sự; Lucas gọi 'Alfred' [Bằng chứng: "「隊長、本物を見つけられたところ申し訳ありませんが、その腕は光っていても治ってはいません。」/「アルフレッド、その帳簿は..."] *(Tự động học từ Tập 3)*
 `
         }
     },
@@ -94547,153 +96060,283 @@ Dù cằn nhằn như vậy, Cedric vẫn bắt đầu dọn dẹp bàn làm vi�
   }
 ],
         "glossary": {
-            "terms": `# BẢNG TRA CỨU THUẬT NGỮ & KHÁI NIỆM (GLOSSARY)
-**Bộ truyện:** Tôi Đáng Lẽ Chỉ Là Một Ác Nữ Phản Diện Thông Thường Mà (よくある悪役令嬢だったはずなのに)  
-*(Cập nhật đầy đủ & chuẩn hóa đến Tập 35)*
+            "terms": `# ⚔️ THUẬT NGỮ & VẬT PHẨM & SỰ KIỆN CANON
 
 ---
 
-## 1. 🏰 GIA TỘC QUÝ TỘC, VƯƠNG QUỐC & ĐỊA DANH
+## [ITEM-001] 『Hoàng tử vương miện băng và thiếu nữ ngọc bích』
 
-| STT | Thuật Ngữ / Địa Danh | Tên Gốc (JP / Eng) | Mô Tả & Ý Nghĩa Trong Cốt Truyện | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Hoàng Tử Băng Vương Và Thiếu Nữ Phỉ Thúy** | 氷冠の王子と翡翠の乙女 | Tựa game Otome / tiểu thuyết nguyên tác nơi Aurelia chuyển sinh vào. | Tập 1 |
-| **2** | **Vương quốc Melba** | メルバ / Melba Kingdom | Vương quốc bối cảnh chính của tác phẩm nơi các gia tộc sinh sống. | Tập 2 |
-| **3** | **Gia tộc Rosenberg** | ローゼンベルク / Rosenberg | Gia tộc Công tước quyền lực bậc nhất vương quốc, xuất thân của Aurelia. | Tập 2 |
-| **4** | **Gia tộc Vester** | ヴェスター / Vester | Gia tộc Tử tước giáp ranh Rosenberg, quản lý vận tải và thương mại. | Tập 5 |
-| **5** | **Gia tộc Cromwell** | クロムウェル / Cromwell | Gia tộc Bá tước có truyền thống hiệp sĩ danh giá, xuất thân của Dylan. | Tập 3 |
-| **6** | **Gia tộc Grandier** | グランディエ / Grandier | Gia tộc Hầu tước của Tể tướng vương quốc và Cedric. | Tập 12 |
-| **7** | **Vương quốc Grand** | グラン国 / Grand Kingdom | Vương quốc lân bang hùng mạnh của vương quốc Melba. | Tập 27 |
-| **8** | **Khu phố suối nước nóng** | 温泉街 / Onsen-gai | Địa danh nghỉ dưỡng sầm uất thuộc lãnh địa Rosenberg nơi Aurelia dưỡng bệnh. | Tập 20 |
-
----
-
-## 2. 📜 CHÍNH SÁCH, KINH TẾ & LOGISTICS QUẢN LÝ LÃNH ĐỊA
-
-| STT | Thuật Ngữ / Khái Niệm | Tên Gốc (JP / Eng) | Nội Dung, Ý Tưởng & Đề Xuất Chính Sách | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Lưu thông giữa các lãnh địa** | 領地間の流通 / Territory Logistics | Đề tài nghiên cứu của Hội học sinh nhằm tối ưu hóa việc vận chuyển hàng hóa. | Tập 10 & 13 |
-| **2** | **Thuế thông hành & Cửa ải** | 通行税 / Transit Tax | Khoản thuế tại cửa ải lãnh địa; Aurelia đề xuất miễn giảm để thúc đẩy kinh tế. | Tập 14 & 28 |
-| **3** | **Cải tạo đường sá & Đô thị trung chuyển** | 街道整備 / Road Infrastructure | Đề xuất quy hoạch đường liên tỉnh và tận dụng đô thị trung chuyển hàng hóa. | Tập 10 & 14 |
-| **4** | **Quy tắc Horenso** | ホウレンソウ / Horenso | Quy tắc làm việc nhóm kiếp trước của Aurelia: Báo cáo - Liên lạc - Thảo luận. | Tập 9 |
-| **5** | **Nới lỏng quy định quầy hàng đường phố** | 屋台の出店規制緩和 | Chính sách kinh tế vi mô Aurelia dùng để chất vấn và làm khó Beatrice. | Tập 32 |
-| **6** | **Phương châm ngoại giao toàn diện** | 包括的外交指針 | Khái niệm chính trị vĩ mô Aurelia đưa ra để đánh gục lập luận của Beatrice. | Tập 34 |
+- **id:** ITEM-001
+- **loại:** TÀI LIỆU / TÁC PHẨM
+- **tên_chuẩn:** 『Hoàng tử vương miện băng và thiếu nữ ngọc bích』
+- **tên_gốc:** 『氷冠の王子と翡翠の乙女』
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Tên cuốn tiểu thuyết mạng ngôn tình mô-típ phản diện bị kết tội mà Aurelia từng đọc kiếp trước.
 
 ---
 
-## 3. 🍰 ẨM THỰC, ĐỒ ĂN VẶT & MÓN TRÁNG MIỆNG YÊU THÍCH
+## [EVENT-001] 『Báo cáo nghiên cứu học sinh hội』
 
-| STT | Món Ăn / Thức Uống | Tên Gốc (JP / Eng) | Đặc Điểm, Hương Vị & Ý Nghĩa Gắn Liền | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Sô-cô-la Cam** | ショコラ・オランジュ | Món ngọt yêu thích nhất của Aurelia, đại diện cho tông màu ngoại hình của cô. | Tập 23 |
-| **2** | **Trà sữa mật ong** | ハニーミルクティー | Thức uống ngọt ngào Nina pha cho Aurelia và Theodore khi đàm đạo. | Tập 16 |
-| **3** | **Chuối bọc sô-cô-la** | チョコバナナ / Choco Banana | Món ăn vặt đường phố xiên que phủ sô-cô-la rắc kẹo cốm màu yêu thích. | Tập 31 |
-| **4** | **Bánh quy hình xiên nướng** | 串焼き型のクッキー | Bánh quy đầu bếp làm riêng mô phỏng xiên nướng (thịt, hành tây, cần tây). | Tập 25 |
-| **5** | **Bánh tart chanh** | レモンタルト / Lemon Tart | Bánh ngọt học viện có vị chua ngọt thanh mát giúp Aurelia xua tan mệt mỏi. | Tập 34 |
-
----
-
-## 4. ⚔️ TỔ CHỨC, HỌC VIỆN & ĐOÀN HIỆP SĨ
-
-| STT | Tổ Chức / Chức Danh | Tên Gốc (JP / Eng) | Vai Trò & Chức Năng Hoạt Động | Nguồn Gốc |
-| :-: | :--- | :--- | :--- | :-: |
-| **1** | **Hội học sinh Melba** | 生徒会 / Student Council | Tổ chức điều hành học thuật và các sự kiện lớn của học viện. | Tập 10 |
-| **2** | **Học sinh ưu tú (Đặc cách)** | 特待生 / Tokutaisei | Danh hiệu dành cho học sinh xuất sắc/học bổng, có nghĩa vụ tham gia Hội học sinh. | Tập 24 |
-| **3** | **Hiệp sĩ đoàn Rosenberg** | ローゼンベルク騎士団 | Đội quân hiệp sĩ tinh nhuệ trực thuộc gia tộc Công tước Rosenberg. | Tập 35 |
-| **4** | **Hiệp sĩ đoàn Hoàng gia Grand** | グラン国王宮騎士団 | Lực lượng hộ vệ hoàng gia của vương quốc Grand (nơi Gazel từng phục vụ). | Tập 35 |
-| **5** | **Đại hội kiếm thuật vương quốc Grand** | 剣術大会 / Sword Tournament | Giải đấu kiếm thuật thường niên quy mô lớn do vương quốc Grand tổ chức. | Tập 35 |`,
-            "characters": `# BẢNG DANH BẠ NHÂN VẬT (CHARACTER ROSTER)
-**Bộ truyện:** Tôi Đáng Lẽ Chỉ Là Một Ác Nữ Phản Diện Thông Thường Mà (よくある悪役令嬢だったはずなのに)  
-*(Cập nhật đầy đủ theo diễn biến cốt truyện đến Tập 35)*
+- **id:** EVENT-001
+- **loại:** SỰ KIỆN HỌC THUẬT
+- **tên_chuẩn:** 『Báo cáo nghiên cứu học sinh hội』
+- **tên_gốc:** 生徒会主催の研究報告会
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Sự kiện học thuật thay thế cho dạ hội Lễ kỷ niệm thành lập trường với đề tài 'Lưu thông giữa các lãnh địa'.
+`,
+            "characters": `# HỒ SƠ NHÂN VẬT
 
 ---
 
-## I. 👑 NHÂN VẬT CHÍNH & TRUNG TÂM (PROTAGONISTS & LEADS)
+## [CHAR-001] Aurelia Rosenberg
 
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Vai Trò | Đặc Điểm, Tính Cách & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
-| **1** | **Aurelia Rosenberg** | オレーリア | **Tiểu thư Công tước** | **CÒN SỐNG** (Nữ chính chuyển sinh. Tông màu *Sô-cô-la Cam*. Thức tỉnh ký ức tiền kiếp sau cú ngã cầu thang, quyết tâm hủy hôn với Hoàng tử Felix để sống an nhàn dưỡng bệnh). |
-| **2** | **Theodore Vester (Teo)** | テオドール・ヴェスター | **Công tử Tử tước** | **CÒN SỐNG** (Thanh mai trúc mã của Aurelia. Tông màu *Trà sữa mật ong*. Tóc beige sữa mềm mại, mắt mật ong. Tính cách cợt nhả, thực tế nhưng luôn bảo vệ và giúp đỡ Aurelia vô điều kiện). |
-
----
-
-## II. 🏰 HOÀNG TỘC, HỘI HỌC SINH & QUÝ TỘC MELBA (ROYAL & ACADEMY CAST)
-
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Chức Vụ | Quan Hệ Với Aurelia & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
-| **1** | **Felix** | フェリクス | **Đệ nhất Hoàng tử** | **CÒN SỐNG** (Nam chính nguyên tác. Biệt danh *Hoàng tử Băng Vương*. Vị hôn phu cũ của Aurelia; hối hận muộn màng sau khi hủy hôn vì nhận ra sự bao dung, đáng yêu và thông tuệ của cô). |
-| **2** | **Dylan Cromwell** | ディラン・クロムウェル | **Công tử Bá tước / Hiệp sĩ** | **CÒN SỐNG** (Hiệp sĩ hộ vệ của Felix. Mắt màu lý chua đen. Tính cách nghiêm túc, thành thật; luôn day dứt gửi thư xin lỗi vì đã đỡ Aurelia ngã làm cô bị sẹo tay). |
-| **3** | **Cedric Grandier** | セドリック・グランディエ | **Công tử Hầu tước / Hội phó** | **CÒN SỐNG** (Con trai Tể tướng. Tông màu *Vàng Cần Tây*. Đeo kính, tính cách nghiêm khắc, ghét cần tây nhưng cực hảo ngọt; rất tôn trọng sự sắc sảo của Aurelia). |
-| **4** | **Sylphy Lumiere** | シルフィ | **Thiếu nữ Phỉ Thúy / Nam tước** | **CÒN SỐNG** (Nữ chính nguyên tác. Học sinh ưu tú được Aurelia cứu khi suýt ngã cầu thang; thường khóc lóc nhưng đã trực tiếp nhận lỗi với Aurelia). |
-| **5** | **Elsa Eisenberg** | エルザ・アイゼンベルク | **Tiểu thư Hầu tước** | **CÒN SỐNG** (Tự tôn cao, chủ mưu bắt nạt Sylphy và cài gián điệp Marta kích động Aurelia; đã bị tước đoạt tước vị và gia tộc bị xóa sổ). |
-| **6** | **Marta** | マルタ | **Tiểu thư Nam tước** | **CÒN SỐNG** (Thuộc hạ cũ của Aurelia, thực chất là gián điệp của Elsa cài vào để xúi giục Aurelia gây hại cho Sylphy). |
+- **id:** CHAR-001
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Aurelia Rosenberg
+- **tên_gốc:** オレーリア・ローゼンベルク
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Nhân vật chính, con gái Công tước Rosenberg, cựu hôn thê của Hoàng tử Felix
+- **thiên_chức:** Công tước tiểu thư
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Nhớ lại tiền kiếp là nhân viên văn phòng (shachiku) khi cứu Silphy khỏi ngã cầu thang. Quyết định hủy hôn ước, về lãnh địa dưỡng bệnh và tận hưởng cuộc sống suối nước nóng, ăn vặt đường phố.
 
 ---
 
-## III. 👨‍👩‍👧 GIA ĐÌNH, HẦU CẬN & LÃNH DÂN (FAMILY & ATTENDANTS)
+## [CHAR-002] Silphy Lumière
 
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Vị Trí | Mô Tả Chi Tiết & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
-| **1** | **Công tước Rosenberg** | オレーリアの父 | **Gia chủ Rosenberg** | **CÒN SỐNG** (Cha của Aurelia. Vô cùng chiều chuộng con gái, lập tức tiến cung hủy hôn và rút toàn bộ sự hậu thuẫn hoàng gia cho Felix). |
-| **2** | **Phu nhân Rosenberg** | オレーリアの母 | **Phu nhân Công tước** | **CÒN SỐNG** (Mẹ của Aurelia. Dịu dàng, luôn ưu tiên cảm xúc và sức khỏe của con gái lên hàng đầu). |
-| **3** | **Nina** | ニナ | **Hầu gái thân cận** | **CÒN SỐNG** (Hầu gái chăm sóc từng bữa ăn giấc ngủ của Aurelia, thường xuyên quản lý việc ăn vặt của tiểu thư). |
-| **4** | **Mira** | ミラ | **Hầu gái biệt thự** | **CÒN SỐNG** (Hầu gái tại biệt thự suối nước nóng lãnh địa Rosenberg). |
-| **5** | **Tử tước Vester** | ヴェスター子爵 | **Lãnh chủ Vester** | **CÒN SỐNG** (Cha của Theodore. Vẻ ngoài hiền hòa, hòa nhã trong giao thiệp quý tộc). |
-| **6** | **Tể tướng Grandier** | グランディエ宰相 | **Tể tướng vương quốc** | **CÒN SỐNG** (Cha của Cedric Grandier). |
-| **7** | **Maria** | マリア | **Lãnh dân nhí** | **CÒN SỐNG** (Cô bé tại phố suối nước nóng, coi Aurelia là thần tượng mẫu mực). |
-
----
-
-## IV. 🌐 VƯƠNG QUỐC LÂN BANG GRAND (GRAND KINGDOM)
-
-| STT | Tên Nhân Vật (Romaji) | Tên Gốc (JP) | Thân Phận / Quốc Gia | Đặc Điểm & Trạng Thái |
-| :-: | :--- | :--- | :--- | :--- |
-| **1** | **Beatrice** | ベアトリス | **Tam Công chúa vương quốc Grand** | **CÒN SỐNG** (Kiêu ngạo, bốc đồng; say mê Felix nên sang Melba du học, liên tục bị Aurelia làm khó bằng các câu hỏi chính sách hóc búa). |
-| **2** | **Camilla** | カミラ | **Hầu cận Công chúa** | **CÒN SỐNG** (Nữ sinh hầu cận đi theo phục vụ Beatrice). |
-| **3** | **Gazel** | ガゼル | **Hiệp sĩ hộ vệ** | **CÒN SỐNG** (Hộ vệ trung thực và lý trí của Beatrice; từ chối lệnh rút kiếm chém Dylan nên bị Beatrice sa thải). |`,
-            "events": `# DÒNG THỜI GIAN & BIÊN NIÊN SỰ KIỆN (TIMELINE & EVENTS)
-**Bộ truyện:** Tôi Đáng Lẽ Chỉ Là Một Ác Nữ Phản Diện Thông Thường Mà (よくある悪役令嬢だったはずなのに)  
-*(Sắp xếp theo thứ tự thời gian chuẩn xác từ Tập 1 đến Tập 35)*
+- **id:** CHAR-002
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Silphy Lumière
+- **tên_gốc:** シルフィ・ルミエール
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Nữ chính nguyên tác, con gái Nam tước Lumière, cựu thư ký Hội học sinh
+- **thiên_chức:** Nam tước tiểu thư, học sinh danh dự (đã bị tước)
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Sở hữu đôi mắt xanh ngọc màu nho Shine Muscat. Bị tước tư cách học sinh đặc cách và trục xuất khỏi Hội học sinh do bị phát hiện là người đứng sau định hướng các tin đồn ác ý nhắm vào Aurelia.
 
 ---
 
-| Tập | Tóm Tắt Diễn Biến Cốt Truyện Trọng Tâm | Nhân Vật Trọng Tâm | Địa Điểm / Bối Cảnh |
-| :---: | :--- | :--- | :--- |
-| **Tập 1** | • Aurelia thức tỉnh ký ức tiền kiếp khi đỡ Sylphy ngã cầu thang và bị thương sâu ở cánh tay trái.<br>• Dylan cứu cô nhưng để lại sẹo vĩnh viễn; Aurelia quyết định lấy vết sẹo làm lý do để hủy hôn với Felix. | Aurelia, Sylphy, Felix, Dylan | Cầu thang Học viện |
-| **Tập 2** | • Aurelia nhận ra mắt Sylphy giống màu 'nho mẫu đơn' tiền kiếp; thuyết phục cha mẹ hủy hôn.<br>• Công tước Rosenberg tiến cung hủy hôn thành công và rút toàn bộ sự hậu thuẫn dành cho Felix. | Aurelia, Cha & Mẹ Rosenberg | Dinh thự Rosenberg |
-| **Tập 3** | • Aurelia về sống an nhàn dưỡng bệnh tại biệt thự suối nước nóng.<br>• Dylan liên tục gửi thư tạ tội; Aurelia hồi âm bức thư dài như nhật ký kể về cuộc sống bình yên. | Aurelia, Dylan, Nina | Biệt thự Suối Nước Nóng |
-| **Tập 4** | • Dylan đến thăm bất ngờ khi Aurelia để mặt mộc; tiết lộ kết quả điều tra giải oan cho Aurelia.<br>• Elsa Eisenberg bị kết tội là kẻ chủ mưu bắt nạt Sylphy. | Aurelia, Dylan | Biệt thự Suối Nước Nóng |
-| **Tập 5** | • Theodore đến gặp Aurelia vào sáng sớm; Aurelia nhận ra ngoại hình Theodore như 'trà sữa mật ong'.<br>• Theodore hốt hoảng vì Aurelia đã gặp Dylan mặt mộc. | Aurelia, Theodore Vester | Biệt thự Suối Nước Nóng |
-| **Tập 6** | • Cuộc điều tra của Felix vạch trần Marta là gián điệp của Elsa cài vào xúi giục Aurelia.<br>• Gia tộc Hầu tước Eisenberg bị xóa sổ, tước vị bị bãi bỏ. | Felix, Elsa, Marta | Vương đô Melba |
-| **Tập 7** | • Aurelia thảnh thơi tắm suối nước nóng và thưởng thức ẩm thực lãnh địa. | Aurelia, Nina | Biệt thự Suối Nước Nóng |
-| **Tập 8** | • Aurelia nghiên cứu cách vận chuyển đồ ăn vặt và bánh ngọt từ Vương đô về lãnh địa nhanh hơn. | Aurelia, Theodore | Biệt thự Suối Nước Nóng |
-| **Tập 9** | • Felix và Dylan đích thân đến biệt thự xin lỗi Aurelia vì đã hiểu lầm cô trong các vụ bắt nạt.<br>• Aurelia chúc phúc cho Felix & Sylphy khiến Felix bối rối đính chính chỉ là đồng nghiệp. | Aurelia, Felix, Dylan | Biệt thự Suối Nước Nóng |
-| **Tập 10** | • Dylan nhắc lại chi tiết thư vẽ thỏ; Felix tiết lộ Hội học sinh sẽ làm báo cáo nghiên cứu Logistics thay dạ tiệc.<br>• Aurelia vô tình lộ ý tưởng giao thương để chuyển đồ ăn vặt nhanh hơn. | Aurelia, Felix, Dylan | Biệt thự Suối Nước Nóng |
-| **Tập 11** | • Felix thông báo sẽ cùng cả Hội học sinh đến biệt thự dưỡng bệnh của Aurelia để họp bàn. | Aurelia, Felix | Biệt thự Suối Nước Nóng |
-| **Tập 12** | • Hội học sinh (Felix, Dylan, Sylphy, Cedric) đến biệt thự; Theodore và Cedric ép Sylphy xin lỗi Aurelia.<br>• Sylphy khóc lóc nhận lỗi và cảm ơn Aurelia đã cứu mạng. | Aurelia, Theodore, Cedric, Sylphy | Biệt thự Suối Nước Nóng |
-| **Tập 13** | • Cedric trình tài liệu nghiên cứu Logistics cho Aurelia xem trước; Sylphy mang bánh quy tự làm mời mọi người.<br>• Bầu không khí ngượng ngùng khi hiểu lầm về chuyện khen bánh được làm rõ. | Aurelia, Cedric, Sylphy, Felix | Phòng họp Biệt thự |
-| **Tập 14** | • Aurelia chỉ ra điểm yếu chi phí của việc sửa đường; đề xuất miễn giảm thuế thông hành & đơn giản thủ tục.<br>• Felix thán phục tầm nhìn của Aurelia, bày tỏ sự hối tiếc vì hủy hôn. | Aurelia, Felix, Cedric | Phòng họp Biệt thự |
-| **Tập 15** | • Sylphy vô tình để lộ chuyện cơm hộp sandwich; Cedric nghiêm khắc khiển trách Sylphy vì tin đồn nhảm.<br>• Aurelia phát hiện Cedric ghét cần tây và cùng Nina trêu chọc anh. | Aurelia, Cedric, Sylphy, Nina | Phòng ăn Biệt thự |
-| **Tập 16** | • Nhóm Felix về Vương đô; Aurelia & Theodore uống trà sữa mật ong.<br>• Tiết lộ Cedric hảo ngọt (cho 4 thìa đường); Theodore khuyên Aurelia tuyệt đối tránh xa Felix. | Aurelia, Theodore | Ban công Biệt thự |
-| **Tập 17** | • Hội học sinh về Vương đô; Cedric phê bình thái độ của Sylphy.<br>• Felix bày tỏ hối hận muộn màng; Cedric kể chuyện Aurelia từng bao trọn tiệm thời trang chỉ để ăn vụng đồ ăn vặt. | Felix, Cedric, Sylphy | Phòng Hội Học Sinh |
-| **Tập 18** | • Cedric gửi bản thảo sửa đổi về lưu thông lãnh địa đã tiếp thu toàn bộ góp ý của Aurelia. | Aurelia, Cedric | Biệt thự Suối Nước Nóng |
-| **Tập 19** | • Aurelia lên kế hoạch phát triển du lịch và dịch vụ ẩm thực tại phố suối nước nóng. | Aurelia, Theodore | Phố Suối Nước Nóng |
-| **Tập 20** | • Aurelia dạo phố suối nước nóng, gặp bé Maria và các trẻ em lãnh dân; được người dân yêu mến. | Aurelia, Bé Maria, Nina | Phố Suối Nước Nóng |
-| **Tập 21** | • Hội học sinh tổ chức buổi báo cáo nghiên cứu Logistics thành công rực rỡ tại Vương đô. | Felix, Cedric, Dylan | Hội trường Học viện |
-| **Tập 22** | • Các đại quý tộc và thương đoàn đánh giá cực cao đề án cải cách thuế thông hành của Hội học sinh. | Felix, Tể tướng Grandier | Vương cung Melba |
-| **Tập 23** | • Aurelia thưởng thức Sô-cô-la cam tại biệt thự và nhớ về những kỷ niệm êm đềm với Theodore. | Aurelia, Theodore | Biệt thự Suối Nước Nóng |
-| **Tập 24** | • Felix và Cedric gửi thư cảm ơn chính thức cùng quà tặng đặc biệt từ Hoàng gia cho Aurelia. | Aurelia, Felix, Cedric | Biệt thự Suối Nước Nóng |
-| **Tập 25** | • Aurelia yêu cầu đầu bếp sáng tạo món bánh quy hình xiên nướng đường phố độc đáo. | Aurelia, Nina, Đầu bếp | Nhà bếp Biệt thự |
-| **Tập 26** | • Vương quốc Grand cử phái đoàn ngoại giao và học thuật sang thăm vương quốc Melba. | Felix, Phái đoàn Grand | Cửa ải Biên giới |
-| **Tập 27** | • Tam Công chúa Beatrice của vương quốc Grand say mê Felix sau khi nghe báo cáo nghiên cứu, quyết định du học tại Melba. | Công chúa Beatrice, Felix | Học viện Vương đô |
-| **Tập 28** | • Beatrice kiêu ngạo đối chất với Aurelia; Aurelia dùng bài toán thuế thông hành và thủ tục biên giới làm Beatrice á khẩu. | Aurelia, Beatrice, Camilla | Học viện Melba |
-| **Tập 29** | • Theodore bí mật thu thập thông tin về phái đoàn vương quốc Grand để hỗ trợ Aurelia. | Theodore, Aurelia | Biệt thự Suối Nước Nóng |
-| **Tập 30** | • Felix tìm cách khéo léo giữ khoảng cách và từ chối những hành vi bám đuổi thái quá của Beatrice. | Felix, Beatrice, Dylan | Khuôn viên Học viện |
-| **Tập 31** | • Aurelia cùng Theodore đi ăn chuối bọc sô-cô-la tại hội chợ đường phố. | Aurelia, Theodore | Hội chợ Vương đô |
-| **Tập 32** | • Aurelia chất vấn Beatrice về chính sách nới lỏng quầy hàng đường phố, khiến Beatrice lúng túng thừa nhận thiếu kiến thức thực tế. | Aurelia, Beatrice | Sảnh Học viện |
-| **Tập 33** | • Beatrice giận dữ ra lệnh cho hộ vệ Gazel rút kiếm tấn công Dylan; Gazel từ chối mệnh lệnh vô lý nên bị sa thải. | Beatrice, Gazel, Dylan | Sân tập Hiệp sĩ |
-| **Tập 34** | • Aurelia thưởng thức bánh tart chanh và dùng học thuyết 'Phương châm ngoại giao toàn diện' đánh gục hoàn toàn Beatrice. | Aurelia, Beatrice, Cedric | Thư viện Học viện |
-| **Tập 35** | • Gazel được Hiệp sĩ đoàn Rosenberg mời gia nhập; chuẩn bị cho Đại hội kiếm thuật giữa hai vương quốc. | Gazel, Dylan, Aurelia | Doanh trại Hiệp sĩ |`,
+## [CHAR-003] Felix
+
+- **id:** CHAR-003
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Felix
+- **tên_gốc:** フェリクス
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Đệ nhất Hoàng tử Vương quốc Melba, Hội trưởng Hội học sinh
+- **thiên_chức:** Hoàng tử / Hội trưởng Hội học sinh
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Được mệnh danh là 'Băng chi Vương tử'. Sau khi điều tra làm rõ sự thật về Aurelia và Silphy, anh dần nhận ra sự thông tuệ của Aurelia và bắt đầu hối hận vì đã lạnh nhạt rồi hủy hôn ước với cô.
+
+---
+
+## [CHAR-004] Dylan Cromwell
+
+- **id:** CHAR-004
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Dylan Cromwell
+- **tên_gốc:** ディラン・クロムウェル
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Con trai thứ ba của Bá tước Cromwell, thị vệ thân cận kiêm bạn học của Felix
+- **thiên_chức:** Kỵ sĩ Hội học sinh
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Kỵ sĩ trẻ tài năng, người đã đỡ Aurelia khi cô ngã cầu thang nhưng vô tình để vỏ kiếm cứa rách tay cô. Luôn mang lòng áy náy và nhiều lần viết thư xin lỗi, đến thăm hỏi Aurelia.
+
+---
+
+## [CHAR-005] Nina
+
+- **id:** CHAR-005
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Nina
+- **tên_gốc:** ニナ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Hầu gái thân cận của Aurelia
+- **thiên_chức:** Hầu gái
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Rất chu đáo, tháo vát và trung thành, luôn quản lý nghiêm ngặt việc nghỉ ngơi, trang phục và thói quen ăn vặt lề đường của Aurelia.
+
+---
+
+## [CHAR-006] Theodore Wester
+
+- **id:** CHAR-006
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Theodore Wester
+- **tên_gốc:** テオドール・ヴェスター
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Con trai Tử tước Wester, bạn thuở nhỏ kiêm 'tay sai' trung thành của Aurelia
+- **thiên_chức:** Tử tước thiếu gia / Tân thư ký Hội học sinh
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Có vẻ ngoài dịu dàng như trà sữa mật ong nhưng miệng lưỡi sắc bén, luôn bảo vệ Aurelia và là người âm thầm điều tra thu thập chứng cứ vạch trần bộ mặt thật của Silphy.
+
+---
+
+## [CHAR-007] Elsa Eisenberg
+
+- **id:** CHAR-007
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Elsa Eisenberg
+- **tên_gốc:** エルザ・アイゼンベルク
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Tiểu thư Hầu tước Eisenberg
+- **thiên_chức:** Hầu tước tiểu thư (đã bị tước đoạt)
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Nhắm vào vị trí hôn thê của Felix, đã sai thuộc hạ giật dây bắt nạt Silphy và đổ tội cho Aurelia. Sau khi bị Felix điều tra ra, gia tộc Eisenberg bị tước danh hiệu quý tộc và tịch thu lãnh địa.
+
+---
+
+## [CHAR-008] Marta
+
+- **id:** CHAR-008
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Marta
+- **tên_gốc:** マルタ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Tiểu thư Nam tước, gián điệp của Elsa cài vào bên cạnh Aurelia
+- **thiên_chức:** Nam tước tiểu thư
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Đã thú nhận việc bị Elsa sai khiến để kích động Aurelia ra tay với Silphy.
+
+---
+
+## [CHAR-009] Cedric Grandier
+
+- **id:** CHAR-009
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Cedric Grandier
+- **tên_gốc:** セドリック・グランディエ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Con trai cả của Hầu tước kiêm Tể tướng Grandier, Phó hội trưởng Hội học sinh
+- **thiên_chức:** Hầu tước thiếu gia / Phó hội trưởng Hội học sinh
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Nghiêm khắc, trọng quy củ và phẩm cách, ghét vị đắng (nhất là cần tây), thích đồ ngọt và uống trà cho 4 thìa đường. Dần hợp tác ăn ý và nể phục năng lực xử lý công việc của Aurelia.
+
+---
+
+## [CHAR-010] Maria
+
+- **id:** CHAR-010
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Maria
+- **tên_gốc:** マリア
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Cô bé thường dân tại thị trấn suối nước nóng thuộc lãnh địa Rosenberg
+- **thiên_chức:** Thường dân
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Rất quý mến và thường xuyên dẫn đường cho Aurelia đi ăn các hàng quán ven đường.
+
+---
+
+## [CHAR-011] Beatrice
+
+- **id:** CHAR-011
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Beatrice
+- **tên_gốc:** ベアトリス
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Đệ tam Công chúa của Vương quốc Gran
+- **thiên_chức:** Công chúa / Lưu học sinh
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Tính cách kiêu ngạo, hống hách, say mê Felix sau buổi báo cáo nghiên cứu và quyết định ở lại Melba du học ngắn hạn, liên tục gây rắc rối cho Hội học sinh.
+
+---
+
+## [CHAR-012] Gazelle
+
+- **id:** CHAR-012
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Gazelle
+- **tên_gốc:** ガゼル
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Hộ vệ của Công chúa Beatrice, quán quân Đại hội Kiếm thuật vương quốc Gran
+- **thiên_chức:** Hộ vệ / Kỵ sĩ (xuất thân thường dân)
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Tóc đỏ, tính cách điềm tĩnh, bị Beatrice đuổi việc và đe dọa trục xuất. Được Aurelia ngỏ ý đưa về thi tuyển vào Đoàn Kỵ sĩ Rosenberg.
+
+---
+
+## [CHAR-013] Camila
+
+- **id:** CHAR-013
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Camila
+- **tên_gốc:** カミラ
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 1-35)
+- **thân_phận:** Em gái của Gazelle, tỳ nữ kiêm hộ vệ phụ tá của Công chúa Beatrice
+- **thiên_chức:** Tỳ nữ (xuất thân thường dân, biết dùng kiếm)
+- **nguồn:** Tập 1 - 35
+- **mô_tả:** Bị Beatrice sa thải cùng anh trai. Được Aurelia giúp đỡ, chiêu mộ để chuẩn bị làm hộ vệ kiêm người mua đồ ăn vặt cho cô.
+`,
+            "events": `# DÒNG THỜI GIAN & SỰ KIỆN
+| Tập 1-35 | Aurelia nhớ lại tiền kiếp khi đỡ Silphy ở cầu thang, bị thương ở cánh tay và lợi dụng vết sẹo để thuận lợi hủy bỏ hôn ước với Hoàng tử Felix rồi lui về biệt thự suối nước nóng dưỡng bệnh. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Felix và Dylan điều tra lại vụ việc bắt nạt, phát hiện Elsa Eisenberg là kẻ chủ mưu đổ tội cho Aurelia, khiến gia tộc Eisenberg bị tước danh hiệu quý tộc và tịch thu lãnh địa. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Theodore tiết lộ những lần phá đồ của Silphy trước đây thực chất chỉ là đồ của chính Aurelia do cha cô phối hợp đánh tráo để bảo vệ thanh danh cho con gái. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Felix cùng đoàn Hội học sinh liên tục đến biệt thự của Aurelia xin ý kiến về đề tài lưu thông lãnh địa; tại đây Aurelia đưa ra nhiều đóng góp sắc sảo và dẫn mọi người trải nghiệm ẩm thực đường phố suối nước nóng. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Theodore phát hiện bằng chứng Silphy là nguồn cơn ngầm phát tán tin đồn bôi nhọ Aurelia, dẫn đến việc Silphy bị tước tư cách học sinh đặc cách và trục xuất khỏi Hội học sinh; Theodore bị Felix chỉ định thay thế làm thư ký. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Aurelia trở lại Vương đô, hỗ trợ Cedric xử lý công việc sổ sách tồn đọng của Hội học sinh và cùng anh đi ăn vặt đường phố. | Tuyến nhân vật | Diễn biến chính |
+| Tập 1-35 | Công chúa Beatrice của Gran du học tại Melba, gây chuyện hách dịch tại phòng Hội học sinh và sa thải hai người hầu cận thường dân Gazelle và Camila; Aurelia quyết định thu nhận cả hai về làm việc cho gia tộc Rosenberg. | Tuyến nhân vật | Diễn biến chính |
+`,
             "style_guide": `# Quy Tắc Văn Phong & Định Dạng (Style Guide)
 **Bộ truyện:** 123
 **Thể loại chính:** Đa Thể Loại (Universal)
@@ -94747,4 +96390,4 @@ Dù cằn nhằn như vậy, Cedric vẫn bắt đầu dọn dẹp bàn làm vi�
 window.ACTIVE_NOVEL_KEY = "Chu_Thuat_Su_Dung_Gia";
 window.NOVEL_DATA = window.ALL_NOVELS[window.ACTIVE_NOVEL_KEY] || Object.values(window.ALL_NOVELS)[0];
 
-window.APP_CONFIG = {"gemini_api_key":"","selected_model":"gemini-2.5-flash","requests_today":288,"last_usage_date":"2026-08-25","daily_requests":{"2026-08-25":288},"engine":"relay","relay_model":"gemini-3.7-flash","relay_base_url":"https://llmgate.app/v1","relay_api_key":"","image_model":"gemini-3.1-flash-image"};
+window.APP_CONFIG = {"gemini_api_key":"","selected_model":"gemini-2.5-flash","requests_today":5,"last_usage_date":"2026-08-30","daily_requests":{"2026-08-25":288,"2026-08-30":5},"engine":"relay","relay_model":"gemini-3.7-flash","relay_base_url":"https://llmgate.app/v1","relay_api_key":"","image_model":"gemini-3.1-flash-image"};

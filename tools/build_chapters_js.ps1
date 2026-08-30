@@ -268,7 +268,10 @@ if (Test-Path $cfgPath) {
 }
 [void]$sb.AppendLine("window.APP_CONFIG = " + $sanitizedCfgJson + ";")
 
+$rootChaptersPath = Join-Path $rootDir "chapters.js"
+$rootIndexPath = Join-Path $rootDir "index.html"
 [System.IO.File]::WriteAllText($outputFile, $sb.ToString(), [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllText($rootChaptersPath, $sb.ToString(), [System.Text.Encoding]::UTF8)
 
 $docTruyenPath = Join-Path $webDir "Doc_Truyen.html"
 $indexPath = Join-Path $webDir "index.html"
@@ -277,6 +280,7 @@ if (Test-Path $docTruyenPath) {
     $htmlContent = $htmlContent -replace 'src="chapters\.js(?:\?v=[^"]+)?"', 'src="chapters.js"'
     [System.IO.File]::WriteAllText($indexPath, $htmlContent, [System.Text.Encoding]::UTF8)
     [System.IO.File]::WriteAllText($docTruyenPath, $htmlContent, [System.Text.Encoding]::UTF8)
+    [System.IO.File]::WriteAllText($rootIndexPath, $htmlContent, [System.Text.Encoding]::UTF8)
 }
 
 Write-Host "Da dong bo thanh cong $($novelDirs.Count) bo truyen vao $outputFile va index.html (Active: $($activeDir.Name))." -ForegroundColor Green

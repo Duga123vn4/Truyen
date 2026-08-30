@@ -1433,14 +1433,32 @@
             }
         }
 
+    
+        .app-version-badge {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(56, 189, 248, 0.18);
+            color: #38bdf8;
+            border: 1px solid rgba(56, 189, 248, 0.6);
+            font-size: 0.74rem;
+            font-weight: 800;
+            padding: 2px 8px;
+            border-radius: 20px;
+            letter-spacing: 0.5px;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.25);
+        }
+
     </style>
 </head>
 <body>
 
     <header>
         <div class="header-title-box">
-            <h1 id="novelAppTitle">Chú thuật sư không thể trở thành Dũng Giả</h1>
-            <div id="novelSubTitle">Light Novel Reader & Audio Library <span style="font-size: 0.72rem; color: #38bdf8; background: rgba(56, 189, 248, 0.12); padding: 2px 8px; border-radius: 10px; border: 1px solid rgba(56, 189, 248, 0.35); font-weight: 700; margin-left: 6px; letter-spacing: 0.5px;">v3.7.2 Pro</span></div>
+            <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+                <h1 id="novelAppTitle" style="margin: 0;">Chú thuật sư không thể trở thành Dũng Giả</h1>
+                <span class="app-version-badge">v3.7.2 Pro</span>
+            </div>
+            <div id="novelSubTitle">Light Novel Reader & Audio Library</div>
         </div>
         <div class="header-btns">
             <select id="novelSelectDropdown" class="novel-select-box" onchange="switchNovel(this.value)" title="Chọn bộ truyện"></select>
