@@ -3877,10 +3877,35 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
             let container = document.getElementById('storyContent');
             container.innerHTML = '';
 
+            let curChap = chapterList[currentChapterIdx];
+            let chapterTitleText = (curChap && curChap.title) ? curChap.title : "";
+
+            let foundTitleInMd = "";
+            let bodyLines = [];
+
             lines.forEach(line => {
                 let trimmed = line.trim();
-                if (!trimmed || trimmed.startsWith('#') || trimmed.startsWith('---') || trimmed.startsWith('**Tên gốc')) return;
+                if (!trimmed || trimmed.startsWith('---') || trimmed.startsWith('**Tên gốc') || trimmed.startsWith('**Raw')) return;
                 
+                if (trimmed.startsWith('#')) {
+                    if (!foundTitleInMd) {
+                        foundTitleInMd = trimmed.replace(/^#+\s*/, '').trim();
+                    }
+                    return;
+                }
+                bodyLines.push(trimmed);
+            });
+
+            let finalTitle = foundTitleInMd || chapterTitleText;
+            if (finalTitle) {
+                let titleP = document.createElement('p');
+                titleP.className = 'chapter-title-para';
+                titleP.style.cssText = 'font-weight: 700; font-size: 1.2rem; color: #4db6ac; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px dashed rgba(77,182,172,0.35); line-height: 1.5;';
+                titleP.innerText = finalTitle;
+                container.appendChild(titleP);
+            }
+
+            bodyLines.forEach(trimmed => {
                 let p = document.createElement('p');
                 p.innerText = trimmed.replace(/\*\*|\*|`/g, '');
                 container.appendChild(p);
