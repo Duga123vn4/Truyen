@@ -1,16 +1,16 @@
 # Tập 352: Nhà máy ma vật (2)
 
-“Ừm, quả nhiên đẳng cấp của hai người này ở cái tầm hoàn toàn khác biệt.”
+“Ừm, quả nhiên đẳng cấp của hai người này hoàn toàn ở một tầm khác biệt.”
 
-Sau khi tung các trung cấp tinh linh hệ Thổ và Băng vào để cầm chân lũ quái vật, chúng tôi lập tức hội quân với Mei-chan và Tendou tại tiền tuyến. Tại đây, một trận quyết chiến ở đẳng cấp vượt trội đang diễn ra.
+Sau khi tung các trung cấp tinh linh hệ Thổ và Băng ra để cầm chân lũ quái vật, chúng tôi lập tức hội quân với Mei-chan và Tendou tại tiền tuyến. Tại đây, một trận quyết chiến ở đẳng cấp vượt trội đang diễn ra.
 
 “Hàaaaaaa————yaaa!”
 
-Cùng với tiếng thét đầy khí thế, Mei-chan vung rìu đánh bật hai con General Armor — những bộ giáp sắt khổng lồ đóng vai trò thủ lĩnh của lũ Living Armor. Không phải một con, mà là hai con cùng lúc.
+Cùng với tiếng thét đầy khí thế, Mei-chan vung rìu đánh bật hai con General Armor — những bộ giáp sắt khổng lồ đóng vai trò chỉ huy của lũ Living Armor. Không phải một con, mà là hai con cùng lúc.
 
 “Ở đằng kia!”
 
-Ngay khi một bóng đen khoác áo choàng — một con Vampire cấp Boss — lao ra từ trong góc khuất phía sau và vung kiếm liễu lên, thanh 『Bát Táp Ngưu Ma Đao』 đã quét qua một đường tàn khốc.
+Ngay khi một bóng đen khoác áo choàng — một con Vampire cấp Boss — lao ra từ góc khuất phía sau và vung kiếm liễu lên, thanh 『Bát Táp Ngưu Ma Đao』 đã quét qua một đường tàn khốc.
 
 Đồng thời, cô ấy cũng vung một nhát chém ngang bằng thanh 『Zagan's Pride』 đang kéo dài lưỡi kiếm hết cỡ, nhắm thẳng vào một con Vampire khác ở phía trước.
 
@@ -30,7 +30,7 @@ Ngay từ lúc hội quân và chứng kiến cô ấy một mình đối đầu
 
 Ở ngay bên cạnh, vừa thong thả trò chuyện với Liberta, Tendou vừa một mình tiếp chiêu bốn con Boss có cùng đội hình như phía bên kia.
 
-Sở hữu thanh Vương Kiếm to ngang ngửa đại kiếm, Tendou không chỉ giỏi kiếm thuật mà còn có thể thi triển đa dạng các loại ma pháp. Khác với một cuồng chiến binh như Mei-chan luôn dùng những đường đao bão táp để ngăn không cho kẻ địch tiếp cận, cậu ta kết hợp những nhát chém của Vương Kiếm với hàng loạt ma pháp tấn công, dễ dàng hóa giải các đòn thế của bốn con Boss mà chẳng gặp chút hiểm nguy nào.
+Sở hữu thanh Vương Kiếm to ngang ngửa đại kiếm, Tendou không chỉ giỏi kiếm thuật mà còn có thể thi triển đa dạng các loại ma pháp. Khác với một Cuồng Chiến Binh như Mei-chan luôn dùng những đường đao bão táp để ngăn không cho kẻ địch tiếp cận, cậu ta kết hợp những nhát chém của Vương Kiếm với hàng loạt ma pháp tấn công, dễ dàng hóa giải các đòn thế của bốn con Boss mà chẳng gặp chút hiểm nguy nào.
 
 “Này, thế này thì tụi mình có cần yểm trợ không vậy?”
 
@@ -80,7 +80,7 @@ Chắc chắn tầng này có một hệ thống sản sinh ma vật quy mô l�
 
 Vì vậy, bỏ qua những con quái còn sót lại cùng lũ vừa hồi sinh để nhanh chóng tiến xuống dưới là phương án tối ưu nhất.
 
-“Cọc sắt thi công siêu tốc đã lắp đặt xong! Kyouko, nhờ cậu đấy.”
+“『Cọc Thi Công Thần Tốc』 đã lắp đặt xong! Kyouko, nhờ cậu đấy.”
 
 “Cứ giao cho tớ————『Nham Thạch Phòng Bích』!”
 
@@ -98,7 +98,7 @@ Chỉ cần nhìn lướt qua cũng có thể nhận ra cấu trúc của tầng
 
 “Nhưng trông nó sạch sẽ hơn nhiều... Phải chăng nơi này được bảo quản tốt hơn?”
 
-Không hề thấy lớp bụi dày cộp tích tụ qua năm tháng, cũng chẳng có vết rỉ sét nào trên các chi tiết kim loại. Nơi này được sơn một màu trắng tinh khôi, sạch sẽ giống như Quảng trường Tinh Linh ở tầng cao nhất.
+Không hề thấy lớp bụi dày cộp tích tụ qua năm tháng, cũng chẳng có vết rỉ sét nào trên các chi tiết kim loại. Nơi này được sơn một màu trắng tinh khôi, sạch sẽ giống như Quảng Trường Tinh Linh ở tầng cao nhất.
 
 “Ừm, chắc chắn là có bẫy được bố trí ở đây rồi.”
 

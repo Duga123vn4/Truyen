@@ -14,7 +14,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 “Vì đây là cơ sở quân sự. Quyền hạn của tao được ưu tiên hơn.”
 
-“Cái gọi là `『Mã General Code』` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là `『Sinclair Code』`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
+“Cái gọi là `『General Code』` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là `『Sinclair Code』`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
 
 “Mày vẫn thính tai như mọi khi nhỉ.”
 
@@ -30,7 +30,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 Tôi quyết định cố gắng hết sức để không bận tâm đến cô nàng Lớp trưởng vẫn còn đang bất ổn tâm lý kia... Dù sao thì, hiện tại Kotori đã rơi vào trạng thái không thể can thiệp vào pháo đài ẩn này nữa.
 
-Và chỉ cần có quyền hạn quân sự mang tên `『Mã General Code』` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
+Và chỉ cần có quyền hạn quân sự mang tên `『General Code』` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
 
 *Ồ, cảm giác này đúng chuẩn một căn cứ bí mật.*
 
@@ -172,7 +172,7 @@ Từ cách nói của Liberta, có vẻ như việc dùng con người làm nguy
 
 Quả nhiên là tên đó. Kẻ cuồng chiến khoác trên mình bộ giáp như ma vương, lầm lũi bước đi trong những lối đi ngầm.
 
-Tôi đã nghĩ hắn không phải là một Living Armor thông thường, nhưng hóa ra hắn còn nguy hiểm hơn tôi tưởng tượng rất nhiều.
+Tôi đã nghĩ hắn không phải là một `『Living Armor』` thông thường, nhưng hóa ra hắn còn nguy hiểm hơn tôi tưởng tượng rất nhiều.
 
 “Tuyệt đối không được khiêu khích thứ đó. Đây không phải là vấn đề thắng hay bại. Nếu hắn lại bạo tẩu một lần nữa, không biết tai họa khủng khiếp nào sẽ giáng xuống đâu.”
 

@@ -1492,3 +1492,8 @@
 | Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
 | Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
 | Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
+
+### Tập 342:
+- Momokawa Kotarou triệu tập cuộc họp cơ mật cùng Souma Sakura, Kisaragi Ryouko và Tendou Ryuuichi để triển khai kế hoạch bắt sống Dũng Giả Souma Yuuto.
+- Kotarou phân tích kế hoạch đánh vào tâm lý và điểm yếu trực giác của Yuuto; Sakura kịch liệt phản đối vì cho là phi nhân tính nhưng bị Ryouko và Tendou bác bỏ để bảo đảm tỷ lệ thành công tối đa.
+- Nhóm thống nhất phương án phối hợp chế tác mô hình giả và chuẩn bị bẫy khống chế Dũng Giả.

@@ -2,11 +2,11 @@
 
 “C... Cứu tớ với... Souma-kun...”
 
-“Dừng lại đi...iiiiiiiiiiii!”
+“Dừng lại điiiiiiiiii!”
 
 Khoảnh khắc ấy, một luồng sáng trắng xóa thiêu đốt tầm mắt tôi.
 
-*Cái gì thế này?* Tôi tự hỏi rồi hé mở mi mắt. Hiện ra trước mắt tôi là bóng dáng Souma đang đứng chắn trước mặt Takanashi để bảo vệ cô ta, đồng thời triển khai chiếc khiên Dũng Giả tỏa sáng rực rỡ — 『Thiên Tinh Thuẫn』.
+*Cái gì thế này?* Tôi tự hỏi rồi hé mở mi mắt. Hiện ra trước mắt tôi là bóng dáng Souma đang đứng chắn trước mặt Takanashi để bảo vệ cô ta, đồng thời triển khai chiếc khiên Dũng Giả rực sáng — 『Thiên Tinh Thuẫn』.
 
 “Dừng lại... Xin cậu hãy dừng lại đi!”
 
@@ -76,7 +76,7 @@ Dựa vào nội dung thông báo, thứ đó chính là 『Thánh Thiên Cấp 
 
 “Hưm, giờ phải làm sao đây ta? Kotori đã trở thành thiên sứ mạnh nhất rồi nên có thể làm được mọi thứ đấy. Đúng không? Phải rồi, Souma-kun muốn thế nào?”
 
-Vài vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cười híp mắt nói.
+Vừa vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cười híp mắt nói.
 
 “Tớ không muốn bất kỳ ai phải chết nữa! Thế nên vừa rồi tớ mới cứu cậu! Takanashi-san có vẻ không phải là một cô gái yếu đuối như tớ từng tin tưởng... Nhưng dù vậy, đó cũng không phải là lý do để cậu phải chết, hay bị giết!”
 
@@ -88,7 +88,7 @@ Vài vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cư
 
 *Không muốn giết. Không muốn để ai bị giết.*
 
-*Đường thôi, một niềm tin vô cùng cao cả.*
+*Được thôi, một niềm tin vô cùng cao cả.*
 
 *Vậy thì, những hy sinh xảy ra do cậu đã cứu Takanashi, cậu định đền bù thế nào đây?*
 
@@ -248,7 +248,7 @@ Không phải vì tôi đã tìm ra lối thoát cho tình cảnh tuyệt vọng
 
 Nhưng việc khiêu khích để kéo sự căm ghét của cô ta về phía tôi là có ý nghĩa. Chỉ cần Takanashi tập trung vào tôi, cô ta sẽ không tùy tiện làm biến mất những người khác.
 
-And dù tôi có khiêu khích thế nào đi nữa, cô ta chắc chắn sẽ không dễ dàng trục xuất tôi.
+Vả lại, dù tôi có khiêu khích thế nào đi nữa, cô ta chắc chắn sẽ không dễ dàng trục xuất tôi.
 
 Khi đã nắm giữ lợi thế tuyệt đối thế này, nếu muốn giết tôi, cô ta chắc chắn sẽ muốn làm điều đó một cách hoành tráng và thảm khốc nhất.
 
@@ -336,7 +336,7 @@ Bức tường đột ngột đổ sập.
 
 Chuyện đó xảy ra ngay phía sau nơi Takanashi đang bay lơ lửng đầy kiêu ngạo, tại một góc của sảnh vào rộng lớn của tòa tháp.
 
-Bức tường ngoài và trần nhà của sảnh vào, cùng với vài cây cột tròn dựng đứng đổ sập và vỡ vụn một cách hoáng tráng. Cứ như thể vừa xảy ra một vụ nổ lớn... Không, không phải. Không phải là một vụ nổ, mà là một khối lượng khổng lồ vừa đâm sầm vào.
+Bức tường ngoài và trần nhà của sảnh vào, cùng với vài cây cột tròn dựng đứng đổ sập và vỡ vụn một cách hoành tráng. Cứ như thể vừa xảy ra một vụ nổ lớn... Không, không phải. Không phải là một vụ nổ, mà là một khối lượng khổng lồ vừa đâm sầm vào.
 
 Thấp thoáng phía sau làn khói bụi mù mịt là đôi cánh rồng đen tuyền.
 

@@ -1,339 +1,343 @@
 # Tập 328: Buổi họp lớp cuối cùng (3)
 
-“Yamada-kun, độ nguy hiểm của việc chinh phục Tháp, tớ đã nói trước đó rồi. Dù vậy, cậu vẫn muốn chiến đấu sao?”
+“Yamada-kun, mức độ nguy hiểm của việc chinh phục Tháp, tớ đã giải thích trước đó rồi. Dù vậy, cậu vẫn muốn tham chiến sao?”
 
 “Ừm, tớ đã chuẩn bị tâm lý rồi.”
 
 Yamada gật đầu với vẻ mặt vô cùng nghiêm túc.
 
-Những nội dung tôi vừa nói với Souma, về việc dùng suất thoát hiểm để trục xuất và để Dũng Giả solo chinh phục Tháp. Mấy chuyện này tôi đã giải thích kỹ càng cho mọi người rồi.
+Những nội dung tôi vừa nói với Souma — về việc dùng suất thoát hiểm để trục xuất bớt thành viên và để Dũng Giả độc hành chinh phục Tháp — tôi đều đã giải thích cặn kẽ cho mọi người từ trước.
 
-Dù biết là sẽ giam giữ nghiêm ngặt kẻ chủ mưu Takanashi, nhưng việc để cô ta sống sót đi cùng nguy hiểm đến mức nào, chắc hẳn ai cũng hiểu rõ...
+Dù biết rõ chúng tôi sẽ giam giữ nghiêm ngặt kẻ chủ mưu Takanashi, nhưng việc để cô ta sống sót đi cùng nguy hiểm đến nhường nào, ắt hẳn ai ở đây cũng hiểu rõ...
 
 “Tại sao cậu lại muốn chiến đấu?”
 
-“Nếu cứ giao hết cho một mình Souma, thì biết đến bao giờ mới chinh phục xong Tháp chứ.”
+“Nếu cứ trút hết gánh nặng lên một mình Souma, thì biết đến bao giờ mới chinh phục xong Tháp chứ.”
 
-“Thì đúng là vậy. Trong trường hợp xấu nhất, tớ đã tính đến việc phải mất hàng năm trời, nhưng mạng sống vẫn là trên hết mà.”
+“Thì đúng là vậy thật. Trong trường hợp xấu nhất, tớ thậm chí đã tính đến viễn cảnh phải mất hàng năm trời, nhưng mạng sống vẫn là trên hết mà.”
 
-“Momokawa, đừng lo lắng thế. Tớ trâu bò lắm. Hơn nữa, việc biết rõ nguy hiểm mà vẫn chiến đấu, từ trước đến nay chúng ta chẳng phải vẫn luôn làm thế sao.”
+“Momokawa, đừng lo lắng quá. Tớ trâu bò lắm. Hơn nữa, việc biết rõ hiểm nguy cận kề mà vẫn phải vung vũ khí chiến đấu, từ trước đến nay chúng ta chẳng phải vẫn luôn làm thế sao.”
 
-“Đúng là chỉ cần có thêm một 『Trọng Chiến Binh』 như Yamada-kun, chiến lực sẽ tăng lên đáng kể, nhưng mà...”
+“Đúng là chỉ cần có thêm một 『Trọng Chiến Binh』 như Yamada-kun, chiến lực toàn đội sẽ tăng lên đáng kể, nhưng mà...”
 
-Cơ chế điều chỉnh độ khó của Dungeon không giống như mấy game co-op nhiều người chơi, kiểu cứ thêm một đồng đội là máu của Boss lại tăng gấp đôi.
+Cơ chế cân bằng độ khó của Dungeon không giống như mấy tựa game co-op nhiều người chơi, kiểu cứ hễ thêm một đồng đội là thanh máu của Boss lại tự động nhân đôi.
 
-Kẻ địch mà chúng tôi phải đối mặt chỉ là những con ma vật Boss vốn đã tồn tại sẵn trong tòa tháp này. Dù Takanashi có cố gắng cường hóa chúng đến đâu, tôi cũng không nghĩ cô ta có thể chuẩn bị gấp một con quái vật mạnh cỡ Yamata no Orochi được.
+Kẻ địch mà chúng tôi phải đối mặt chỉ là những con ma vật Boss vốn đã hiện diện sẵn trong tòa tháp này. Dù Takanashi có dốc sức cường hóa chúng đến mức nào, tôi cũng không nghĩ cô ta có thể lâm thời chuẩn bị gấp một con quái vật hùng mạnh cỡ Yamata no Orochi được.
 
-Nếu sức mạnh của kẻ địch không thay đổi theo số lượng người tham gia, thì càng đông người, phe ta càng có lợi.
+Một khi thực lực của kẻ địch không tỷ lệ thuận theo quân số tham gia, thì càng đông người, phe ta lại càng nắm chắc phần thắng.
 
-Lời đề nghị của Yamada mang lại lợi ích rõ rệt cho việc chinh phục Tháp, và bản thân cậu ta cũng đã hạ quyết tâm. Tôi không thể nghĩ ra ngay lý do hay lập luận nào đủ sức thuyết phục cậu ta thay đổi ý định.
+Lời đề nghị của Yamada mang lại lợi ích rõ rệt cho tiến độ chinh phục Tháp, và bản thân cậu ta cũng đã hạ quyết tâm sắt đá. Nhất thời, tôi không thể tìm ra bất kỳ lý lẽ hay luận điểm xác đáng nào đủ sức lay chuyển ý định của cậu ta.
 
-Tôi đang cố gắng hết sức để đảm bảo an toàn tối đa cho mạng sống của các bạn học, nhưng suy cho cùng, mạng sống là của riêng mỗi người. Nếu Yamada đã muốn chiến đấu mà không màng đến tính mạng của bản thân, tôi cũng chẳng có quyền gì để ngăn cản.
+Dù tôi luôn nỗ lực hết mình để bảo đảm an toàn tối đa cho tính mạng của các bạn học, nhưng suy cho cùng, sinh mạng là của riêng mỗi người. Một khi Yamada đã quyết tâm dấn thân vào hiểm cảnh mà không màng sống chết, tôi cũng chẳng có tư cách gì để ngăn cản.
 
-“Souma-kun nghĩ thế nào?”
+“Souma-kun thấy thế nào?”
 
-“Tớ muốn nói là một mình tớ là đủ rồi... nhưng nếu cậu đã biết rõ nguy hiểm mà vẫn muốn chiến đấu cùng tớ, thì tớ rất cảm kích.”
+“Tớ rất muốn nói rằng chỉ một mình tớ là đủ... nhưng nếu cậu đã thấu suốt mọi hiểm nguy mà vẫn nguyện kề vai sát cánh cùng tớ, thì tớ vô cùng cảm kích.”
 
-Chắc đó là những lời thật lòng của cậu ta. Dù sao thì ngay cả Souma chắc cũng thấy bất an nếu phải solo chinh phục Tháp.
+Có lẽ đó là những lời bộc bạch thật lòng từ tận đáy lòng cậu ta. Dù sao đi nữa, ngay cả Souma chắc chắn cũng không tránh khỏi cảm giác bất an tột cùng nếu phải đơn thương độc mã chinh phạt tòa tháp này.
 
-“Cậu thực sự quyết định thế chứ?”
+“Cậu thực sự quyết định như vậy chứ?”
 
 “Ừ.”
 
-Vậy thì tôi sẽ không cản nữa. Tôi sẽ tôn trọng tinh thần tự hy sinh cao cả của Yamada và đồng ý cho cậu ta tham gia.
+Vậy thì tôi sẽ không can thiệp thêm nữa. Tôi sẽ tôn trọng tinh thần tự hy sinh cao cả của Yamada và chấp thuận cho cậu ta tham gia chiến dịch.
 
 “Em cũng sẽ chiến đấu cùng anh!”
 
-“Vậy thì, còn ai muốn tham gia chinh phục Tháp nữa không nào~?”
+“Vậy thì, còn ai muốn đăng ký tham gia chinh phục Tháp nữa không nào~?”
 
-“Momokawa im đi chút coi! Nghe em nói nè, anh!!”
+“Momokawa im mồm giùm cái coi! Nghe em nói nè, anh hai!!”
 
-Nhìn Sakura lại bắt đầu làm ầm lên, Souma chỉ biết thở dài ngao ngán: “Hầy...”
+Nhìn thấy Sakura lại bắt đầu nhảy dựng lên làm ầm ĩ, Souma chỉ biết buông một tiếng thở dài thườn thượt: 
 
-Thật là, biết là Sakura cũng sẽ tham gia rồi, nhưng để lát nữa bày tỏ nỗi lòng không được sao?
+“Hầy...”
 
-“Sakura, em không cần phải ép buộc bản thân đâu.”
+Thật tình, ai mà chẳng biết tỏng Sakura thể nào cũng đòi đi theo, nhưng bộ không thể để lát nữa rồi hãy bày tỏ nỗi lòng hay sao chứ?
 
-“Em không thể để anh chiến đấu một mình được!”
+“Sakura, em không việc gì phải gượng ép bản thân như thế.”
 
-“Đây sẽ là trận chiến nguy hiểm nhất từ trước đến nay đấy. Ngay cả em, anh cũng không thể đảm bảo mạng sống—”
+“Em tuyệt đối không thể để anh phải chiến đấu một mình!”
 
-“Chính vì vậy em mới phải đi. Em tin tưởng Kotori, và em không tin bất cứ lời nào của Momokawa cả. Em vẫn sẽ chiến đấu cùng anh như từ trước đến nay.”
+“Đây sẽ là trận quyết chiến nguy hiểm nhất từ trước đến nay đấy. Ngay cả bản thân em, anh cũng chẳng dám đoan chắc có thể bảo toàn được mạng sống—”
 
-“Ra là vậy~, Sakura-chan nói đúng đấy.”
+“Chính vì vậy em mới càng phải đi! Em tuyệt đối tin tưởng Kotori, và em không bao giờ tin bất cứ lời xảo trá nào thốt ra từ miệng của Momokawa cả. Em sẽ tiếp tục kề vai chiến đấu cùng anh như từ trước đến giờ.”
 
-Tôi cố tình xen vào bằng giọng điệu mỉa mai, khiến Sakura lập tức lườm tôi cháy mắt. *Hừm, chỉ lườm thôi thì làm sao truyền tải được cảm xúc chứ?*
+“Ra là vậy sao~ Sakura-chan nói chí phải đấy.”
 
-“Cậu có ý gì đây, Momokawa?”
+Tôi cố tình chen ngang bằng một tông giọng mỉa mai châm chọc, khiến Sakura lập tức lườm tôi như muốn tóe lửa. *Hừm, chỉ dùng mỗi ánh mắt lườm nguýt thế kia thì làm sao truyền tải hết được ngọn lửa căm hờn chứ?*
 
-“Ý gì đâu chứ. Như Sakura-chan đã nói đấy, nếu tin Takanashi vô tội thì cứ việc chiến đấu như bình thường mà không cần lo lắng về âm mưu gì cả. Chỉ đơn giản thế thôi.”
+“Cậu có ý gì đây hả, Momokawa?”
 
-Việc Sakura có chấp nhận lời giải thích của tôi hay không chẳng phải vấn đề lớn. Đó gọi là tự do tư tưởng mà, phải không?
+“Có ý gì đâu nào. Đúng như những gì Sakura-chan vừa dõng dạc tuyên bố đấy thôi, nếu đã đinh ninh Takanashi vô tội thì cứ việc vung kiếm chiến đấu như bình thường mà chẳng cần phải bận tâm lo nghĩ về bất kỳ âm mưu quỷ quyệt nào cả. Vấn đề chỉ đơn giản có bấy nhiêu thôi mà.”
 
-Mỗi người đều có suy nghĩ riêng, nhưng điều quan trọng là hành động thực tế và sự hợp tác sẽ như thế nào. Một khi Souma đã chấp nhận yêu cầu của bên này, thì bất kể cảm xúc của Sakura ra sao, cô ta cũng buộc phải tuân theo—nói thế nghe hơi khó nghe nhỉ? Phải là, cô ta sẽ hợp tác một cách nghiêm túc.
+Việc Sakura có chịu thấu hiểu và chấp nhận lời giải thích của tôi hay không vốn dĩ chẳng phải là vấn đề to tát. Đó gọi là tự do tư tưởng mà, đúng chứ?
 
-“Tất cả chúng tôi đều nghi ngờ Takanashi là kẻ chủ mưu. Nhưng vẫn còn ba người không tin vào điều đó đúng không?”
+Mỗi cá nhân đều có quyền giữ lấy chính kiến riêng, nhưng điều cốt lõi nằm ở hành động thực tế và mức độ phục tùng trên chiến trường. Một khi Souma đã cúi đầu chấp nhận các yêu sách từ phía tôi, thì bất kể tâm can Sakura có gào thét phản đối ra sao, ả cũng buộc phải răm rắp tuân theo — ồ, dùng từ ngữ như thế nghe chừng hơi chướng tai nhỉ? Phải diễn đạt là: ả sẽ ngoan ngoãn hợp tác một cách nghiêm túc mới đúng.
 
-Souma. Sakura. Và một người nữa.
+“Toàn bộ phe chúng tôi đều khẳng định Takanashi chính là kẻ chủ mưu. Nhưng bên phía các người vẫn còn ba kẻ mù quáng không chịu tin vào sự thật hiển nhiên đó, đúng không?”
 
-“Kenzaki Asuna, cô cũng sẽ chiến đấu cùng chứ?”
+Souma. Sakura. Và còn một kẻ nữa.
 
-Ngoại trừ kẻ chủ mưu Takanashi, kẻ đáng chết nhất chính là Kenzaki Asuna. Một tên tội phạm hung ác với hai tiền án mưu sát bất thành. Ai mà thèm tha thứ cho mày chứ.
+“Kenzaki Asuna, cô cũng sẽ vác mặt tham chiến chứ?”
 
-“...Dĩ nhiên rồi. Tôi tuyệt đối không bao giờ để một mình Souma phải chiến đấu đâu.”
+Ngoại trừ đầu sỏ Takanashi, kẻ đáng phải chịu tội chết nhất không ai khác chính là Kenzaki Asuna. Một ả tội phạm máu lạnh với hai tiền án mưu sát bất thành dơ bẩn. Làm như trên đời này có kẻ rỗi hơi đi tha thứ cho mày không bằng.
 
-“Ăn nói cho cẩn thận vào hả con mụ tội phạm kia. Mày cũng sẽ giống như Takanashi, bình thường sẽ bị giam giữ nghiêm ngặt. Chỉ khi nào chiến đấu mới được thả ra thôi. Hãy tự ý thức rằng mày chỉ là một con nô lệ chiến đấu đi.”
+“...Dĩ nhiên rồi. Tôi tuyệt đối sẽ không bao giờ để Souma phải cô độc chiến đấu đâu.”
 
-“M-Ngươi...! Được nước lấn tới vừa thôi chứ!!”
+“Mở mồm ăn nói cho cẩn thận vào hả con ả tội phạm kia. Mày cũng sẽ chịu chung số phận với Takanashi, ngày thường sẽ bị xích lại và giám sát nghiêm ngặt. Chỉ đến khi lâm trận, bọn tao mới tháo xích thả mày ra thôi. Hãy tự biết thân biết phận rằng mày giờ đây chẳng qua chỉ là một con nô lệ chiến đấu không hơn không kém đi.”
 
-Ngay khi Kenzaki gầm lên định lao tới, một tấm giáp thép đen kịt khổng lồ đột ngột chắn ngang trước mặt tôi.
+“M-Ngươi...! Đừng có mà được nước lấn tới!!”
 
-“Dám bước tới gần Kotarou-kun dù chỉ một bước, tôi sẽ giết cô.”
+Ngay khoảnh khắc Kenzaki gầm thét định lao thẳng về phía tôi, một tấm đại khiên bằng thép đen kịt khổng lồ bất ngờ giáng mạnh xuống, chắn ngang trước tầm mắt.
 
-Thần hộ mệnh Mei của tôi đã phản ứng lại sát ý của ả ta và đứng ra bảo vệ.
+“Dám bước tới gần Kotarou-kun dù chỉ nửa bước, tôi sẽ băm vằn cô ra.”
 
-“Đừng giết cô ta, Mei-chan. Đó là một con nô lệ chiến đấu quý giá đấy.”
+Thần hộ mệnh Mei của tôi đã lập tức bắt trọn luồng sát khí hung bạo từ ả ta và bước lên che chắn.
 
-“Asuna, nhịn đi. Có làm loạn ở đây cũng chẳng giải quyết được gì đâu.”
+“Đừng giết cô ta vội, Mei-chan. Đó dẫu sao cũng là một con nô lệ chiến đấu có giá trị đấy.”
 
-Thật bất ngờ, người đứng ra can ngăn lại là Sakura.
+“Asuna, nhẫn nhịn đi! Có làm loạn lên ở đây cũng chẳng giải quyết được việc gì đâu!”
 
-Chắc là vì cô ta được tham gia với tư cách thành viên chính thức, nên cảm thấy mình ở vị thế thượng đẳng hơn hẳn so với kẻ bị đối xử như nô lệ chiến đấu như Kenzaki chăng.
+Người đứng ra can ngăn tình thế căng thẳng lại là Sakura, khiến tôi có đôi chút bất ngờ.
 
-“Xin lỗi, Asuna. Bây giờ... bây giờ hãy nhẫn nhịn đã. Momokawa, cậu cũng bớt dùng những lời lẽ khiêu khích đi được không?”
+Ắt hẳn là vì ả được đường đường chính chính tham gia với tư cách thành viên chính thức, nên trong lòng liền tự huyễn hoặc rằng bản thân đang ở vị thế thượng đẳng hơn hẳn so với kẻ bị đày xuống hàng nô lệ chiến đấu như Kenzaki chăng.
 
-“Biết sao được chứ, dù sao thì Kenzaki cũng đã gây ra chuyện đến mức ngay cả cậu cũng không thể bao che nổi mà. Ả ta có thể ghét tớ đến mức muốn giết, nhưng tớ cũng ghét ả đến mức muốn băm vằm ra ngay lập tức đấy. Đúng không, Himeno-san?”
+“Xin lỗi cậu, Asuna. Lúc này... lúc này hãy ráng nhẫn nhục chịu đựng đã. Momokawa, cậu cũng bớt buông những lời lẽ khiêu khích châm chọc đi có được không?”
 
-“Đúng thế! Loại người như mày không còn giá trị gì để được Souma-kun bảo vệ nữa đâu, con khốn!”
+“Biết làm sao được chứ, dẫu sao thì Kenzaki cũng đã gây ra cái tội tày đình đến mức ngay cả cậu cũng chẳng thể nào mở mồm bao che nổi nữa rồi mà. Ả ta có quyền thù ghét tớ đến mức muốn băm xác tớ ra làm trăm mảnh, thì ngược lại, tớ cũng căm ghét ả đến mức chỉ muốn nghiền nát ả ngay tại chỗ này thôi. Đúng không nào, Himeno-san?”
 
-Himeno lập tức phụ họa chửi bới vô cùng ăn ý.
+“Chuẩn không cần chỉnh! Cái loại cặn bã như mày chẳng còn chút giá trị nào để xứng đáng được Souma-kun che chở nữa đâu, con khốn!”
 
-“Tớ xin lỗi... nhưng đừng kích động thêm nữa. Nếu cậu muốn sử dụng Asuna như một chiến lực hiệu quả, thì hãy để cô ấy yên đi. Cơn giận quá mức sẽ làm đường kiếm bị chệch nhịp đấy.”
+Himeno lập tức cất giọng phụ họa, đay nghiến vô cùng ăn ý.
 
-“Ồ, đó là một lời bào chữa khá khôn ngoan đối với Souma-kun đấy chứ. Được rồi, tạm thời dừng ở đây vậy.”
+“Tớ xin lỗi... nhưng xin các cậu đừng kích động thêm nữa. Nếu cậu thực sự muốn sử dụng Asuna như một mũi nhọn chiến lực hiệu quả, thì xin hãy để cô ấy được yên tĩnh. Cơn thịnh nộ mù quáng sẽ làm đường kiếm bị chệch nhịp đấy.”
 
-Tôi tuy nói là tùy thuộc vào thái độ của Kenzaki, nhưng sự thật là tôi vẫn muốn đưa ả ta—một 『Song Kiếm Sĩ』 mạnh mẽ—vào đội chinh phục để tận dụng chiến lực.
+“Ồ, đối với một kẻ như Souma-kun thì đó quả là một lời biện minh khá thông minh và sắc sảo đấy chứ. Được rồi, chuyện này tạm thời dừng lại ở đây vậy.”
 
-Bên tôi hiện tại đang bị hạn chế số lượng người xuất chiến vì Takanashi. Số người có thể tham gia chiến đấu càng nhiều thì càng tốt chứ sao.
+Dù ngoài miệng tôi tuyên bố việc sử dụng ả còn tùy thuộc vào thái độ, nhưng thâm tâm tôi vẫn muốn đẩy ả ta — một 『Song Kiếm Sĩ』 sở hữu tốc độ và sức sát thương đáng gờm — vào đội hình xung kích để tận dụng triệt để giá trị lợi dụng.
 
-Trong trường hợp xấu nhất, Kenzaki có chết tôi cũng chẳng thấy đau lòng hay tiếc nuối gì, ả ta chỉ là một quân cờ thí mạng quý giá. Tôi đã cất công kiềm chế mối thù bị mưu sát để giữ lại mạng sống cho ả, nên nếu không bắt ả cống hiến hết mình thì lỗ to rồi.
+Hiện tại, quân số phe tôi có thể xuất trận đang bị giới hạn ngặt nghèo vì phải phân tán lực lượng canh chừng Takanashi. Thế nên, số lượng tay sai có thể ném vào chiến trường càng nhiều thì hiển nhiên càng có lợi.
 
-“Phải rồi, trước tiên phải giải trừ vũ khí đã. Sakura-chan, tịch thu kiếm của Kenzaki rồi đưa qua đây.”
+Trong tình huống tồi tệ nhất, dẫu Kenzaki có phơi thây nơi chiến địa, tôi cũng chẳng mảy may mủi lòng hay tiếc nuối nửa phần; ả đơn thuần chỉ là một quân cờ thí mạng thượng hạng. Tôi đã phải cắn răng đè nén mối thù bị mưu sát để chừa cho ả một con đường sống, nên nếu không vắt kiệt từng giọt giá trị của ả đến tận cùng thì chẳng phải là tôi chịu lỗ to rồi sao?
 
-“Đừng có ra lệnh cho tôi.”
+“Phải rồi, việc đầu tiên cần làm là giải trừ toàn bộ vũ trang. Sakura-chan, tịch thu hết kiếm của Kenzaki rồi mang qua đây nộp mạng.”
 
-“Souma-kun, Sakura-chan nổi loạn quá kìa. Vì trật tự trị an của lớp, tớ có nên đối xử với cô ta như nô lệ chiến đấu luôn không nhỉ?”
+“Đừng có dùng cái giọng đó ra lệnh cho tôi!”
 
-“Sakura, nghe lời đi. Đừng có nói năng hay hành động gây ra tranh chấp vô ích nữa.”
+“Souma-kun, Sakura-chan nhà cậu lại bắt đầu nổi loạn chống đối rồi kìa. Vì trật tự và kỷ cương của cả lớp, liệu tớ có nên tiện tay giáng cô ta xuống làm nô lệ chiến đấu luôn cho tiện quản lý không nhỉ?”
+
+“Sakura, nghe lời đi em. Đừng buông những lời lẽ hay có hành vi châm ngòi cho những tranh chấp vô nghĩa nữa.”
 
 “Ư...!”
 
-Với vẻ mặt ấm ức thấy rõ, Sakura tiến lại gần định lấy kiếm từ Kenzaki—nhưng không lấy được, Kenzaki đang kháng cự. *Mày vừa phải thôi chứ...*
+Gương mặt hậm hực lộ rõ vẻ ấm ức khôn cùng, Sakura đành phải tiến lại gần định tước lấy thanh kiếm từ tay Kenzaki — thế nhưng ả không thể rút ra được, Kenzaki đang dùng sức ghì chặt lại nhằm kháng cự. *Mày cũng vừa vừa phải phải thôi chứ con điên kia...*
 
-“Nè, thế này được chưa.”
+“Nè! Thế này đã vừa lòng cậu chưa?!”
 
-“Ừm, vất vả rồi!”
+“Ừm, vất vả cho cậu rồi!”
 
-Tôi khoanh tay, nhận lấy thanh kiếm của Kenzaki từ Sakura với thái độ vô cùng kiêu ngạo.
+Tôi thong thả khoanh tay trước ngực, đón lấy thanh kiếm của Kenzaki từ tay Sakura với một thái độ ngạo nghễ tột cùng.
 
-“Vậy thì, giao nốt mấy thanh còn lại đây luôn nào~”
+“Nào, giao nộp nốt mấy thanh còn lại luôn đi chứ~”
 
 “...Hả?”
 
-“Trang bị của Kenzaki đâu phải chỉ có một thanh kiếm đó chứ.”
+“Trang bị của Kenzaki đâu thể nào chỉ vỏn vẹn có duy nhất một thanh kiếm cùn đó được, đúng không nè?”
 
-“Ai mà biết được chứ.”
+“Ai... ai mà biết được chứ!”
 
-“Lớp trưởng, trang bị của Kenzaki gồm những gì?”
+“Lớp trưởng, toàn bộ trang bị của Kenzaki gồm những món gì vậy?”
 
-“Cô ta có một thanh kiếm thuộc tính Hỏa, một thanh thuộc tính Phong, và một thanh đoản đao dự phòng.”
+“Ả ta sở hữu một thanh kiếm mang thuộc tính Hỏa, một thanh mang thuộc tính Phong, và một thanh đoản đao găm dự phòng bên hông.”
 
-Thành viên trong tổ đội của các người đã phản bội và về phe tôi rồi đấy nhé. Đừng có nói dối kiểu hỏi một câu là lộ tẩy ngay thế chứ.
+Một thành viên cốt cán từng nằm trong tổ đội tinh anh của các người giờ đây đã đào tẩu và ngả hẳn về phe tôi rồi đấy nhé. Đừng có giở trò dối trá vụng về kiểu chỉ cần mở miệng hỏi một câu là lòi đuôi cáo ra ngay như thế chứ.
 
-Nhưng cái thái độ giả vờ ngây ngô một cách nông cạn và dễ đoán của Sakura, tôi lại chẳng ghét nổi. Sakura thì phải thế này mới đúng điệu.
+Tuy nhiên, cái thói giả vờ ngây thơ một cách nông cạn và dễ đoán của Sakura lại là thứ tôi chẳng tài nào ghét nổi. Phải lố lăng và ngốc nghếch như thế thì mới đúng chuẩn bản sắc của Sakura chứ.
 
-“Nghe thấy gì chưa. Cậu thực sự không biết sao?”
+“Đã nghe rõ mồn một rồi chứ? Cậu thực sự không biết hay cố tình giả ngu vậy?”
 
-“Nghe cậu nói thì hình như đúng là vậy thật.”
+“Nghe... nghe cậu liệt kê thì hình như đúng là có ngần ấy thứ thật...”
 
-“Thật là, chỉ biết làm theo những gì được bảo thì đi làm công ty làm sao nổi chứ? Sakura-chan à, cứ thế này thì ra ngoài xã hội cậu không sống nổi đâu. Phải biết nhanh nhạy và chủ động hơn trong công việc đi chứ.”
+“Thiệt tình, mới có ngần ấy việc mà chỉ biết bảo sao làm vậy thì sau này đi làm công sở làm sao mà sống sót nổi hả? Sakura-chan à, cứ giữ cái thói thụ động nông cạn này thì bước chân ra ngoài xã hội người ta vùi dập cho không ngóc đầu lên được đâu. Phải biết nhanh nhạy, linh hoạt và chủ động hơn trong công việc đi chứ.”
 
-“Tôi đi lấy ngay đây, câm miệng và đợi đó đi!”
+“Tôi đi gom hết về ngay đây! Câm cái mồm thối lại và đứng đó mà đợi đi!!”
 
-Sakura hét lên rồi quay ngoắt người bỏ đi.
+Sakura gào toáng lên rồi hậm hực quay ngoắt gót chân bỏ đi.
 
-Đằng nào cũng đuối lý rồi nổi khùng lên, thà ngay từ đầu cứ ngoan ngoãn làm theo có phải hơn không.
+Đằng nào rốt cuộc cũng đuối lý rồi nổi đóa lên như điên dại, thà rằng ngay từ đầu cứ ngoan ngoãn cụp đuôi làm theo có phải đỡ tốn nước bọt hơn không.
 
-“Chao ôi, tương lai của cô bé đáng lo thật đấy, phải không anh trai?”
+“Chao ôi, nhìn tương lai mù mịt của cô em gái nhỏ mà thấy đáng lo ngại thật đấy, phải không người anh trai mẫu mực?”
 
-“Lo chuyện bao đồng.”
+“Bớt lo chuyện bao đồng giùm cái.”
 
-Miệng thì nói thế nhưng trong lòng chắc cũng đồng tình với tôi đến một nửa rồi. Không được đâu đấy, cứ chiều chuộng em gái quá mức như thế thì sau này cô bé chẳng nên người nổi đâu.
+Ngoài miệng thì buông lời cộc lốc thế thôi, chứ trong thâm tâm cậu ta ắt hẳn cũng phải gật gù đồng tình với tôi đến một nửa rồi. Không ổn chút nào đâu đấy nhé, cứ nuông chiều và bao bọc em gái thái quá như thế thì sau này cô bé chẳng thể nào nên thân nổi đâu.
 
-“Nè, thế này là được rồi chứ gì!”
+“Nè! Đầy đủ toàn bộ rồi đấy, đã thỏa mãn chưa hả?!”
 
-“Ừm, vất vả rồi!”
+“Ừm, vất vả cho cậu rồi nhé!”
 
-Cuối cùng thì việc giải trừ vũ khí của Kenzaki cũng hoàn tất.
+Cuối cùng thì công đoạn tước đoạt vũ trang của Kenzaki cũng đã hoàn tất êm đẹp.
 
-Nhìn qua thì tưởng ả ta chỉ mang theo thanh kiếm bị tịch thu đầu tiên, nhưng hóa ra Kenzaki cũng đã tự lúc nào học được kỹ năng mới dạng ma pháp không gian để cất giữ vũ khí. Kiểu như 『Kho Kiếm』 của Souma vậy.
+Thoạt nhìn qua thì cứ tưởng ả chỉ mang theo bên mình thanh kiếm lộ liễu bị tịch thu đợt đầu, nhưng hóa ra tự lúc nào Kenzaki cũng đã lén lút học được một kỹ năng mới dạng ma pháp không gian dùng để cất giấu vũ khí. Đại loại như một phiên bản thu nhỏ của 『Kho Kiếm』 mà Souma sở hữu.
 
-Kenzaki là kẻ đầu óc ngu si tứ chi phát triển, nên chắc chắn sẽ không có chuyện ả ta lén giấu vũ khí phòng hờ lúc nguy cấp mà không nói cho ai biết đâu. Dù chỉ giới hạn ở vũ khí, nhưng nếu đã có thể cất giữ bằng ma pháp không gian, tôi nghĩ đáng lẽ phải nghiên cứu kỹ lưỡng xem có thể cất được những gì và đến giới hạn nào để tận dụng chứ.
+Đầu óc của Kenzaki vốn dĩ thuộc dạng tứ chi phát triển não phẳng, nên tuyệt đối sẽ không có chuyện ả đủ mưu mô để âm thầm giấu giếm vũ khí phòng hờ lúc lâm nguy mà giấu nhẹm đi không hé răng cho đồng đội biết đâu. Dù kỹ năng ấy chỉ giới hạn ở việc lưu trữ vũ khí, nhưng một khi đã nắm giữ ma pháp không gian tiện lợi dường ấy, tôi nghĩ đáng lẽ ra ả phải đào sâu nghiên cứu xem có thể nhét thêm được những thứ gì và đạt đến giới hạn thể tích nào để tối ưu hóa công năng chứ.
 
-“Được rồi, giờ quay lại chủ đề chính nhé. Còn ai muốn tham gia chinh phục Tháp cùng Souma-kun nữa không?”
+“Được rồi, giờ thì quay trở lại chủ đề chính nào. Còn ai muốn tự nguyện tham gia chiến dịch chinh phục Tháp cùng Souma-kun nữa không?”
 
-Không một cánh tay nào giơ lên. Điều này là hiển nhiên, chỉ có Yamada là đặc biệt hiến dâng bản thân mà thôi.
+Không có lấy một cánh tay nào giơ lên giữa bầu không khí im phăng phắc. Đây là phản ứng hoàn toàn dễ hiểu, ngoại trừ một trường hợp đặc thù sẵn sàng hiến dâng thân mình như Yamada ra.
 
-Nếu có ai giơ tay kiểu nửa vời, tôi cũng sẽ ngăn lại thôi.
+Kể cả có kẻ nào giơ tay theo kiểu bốc đồng nửa vời, tôi cũng sẽ lập tức dập tắt và ngăn cản ngay tức khắc.
 
-Đến nước này thì ngay cả Lớp trưởng cũng không tự ứng cử. Mà cũng phải, một khi đã quay xe về phe tôi, cô ấy đã kéo theo sự thù hận rõ ràng từ Takanashi. Sợ hãi đến mức không dám để lộ sơ hở sau lưng cho cô ta là điều dễ hiểu.
+Đến nước này thì ngay cả Lớp trưởng cũng chẳng dại gì mà đứng ra tự ứng cử. Mà cũng phải thôi, một khi đã công khai trở cờ quay xe về phe tôi, cô ấy đã kéo trọn sự thù hằn tột độ từ Takanashi về phía mình. Nỗi sợ hãi sâu sắc đến mức không bao giờ dám phơi bày sơ hở sau lưng cho ả rắn độc kia là điều hoàn toàn hiển nhiên.
 
-Vì lẽ đó, đáng lẽ ra không thể có thêm ai tự ứng cử nữa, thế nhưng—
+Vì lẽ đó, về mặt logic, đáng lẽ ra sẽ chẳng còn bất kỳ ai tự nguyện dấn thân vào chỗ chết nữa, thế nhưng—
 
-“...T-Tớ cũng sẽ chiến đấu.”
+“...T-Tớ cũng sẽ tham chiến.”
 
-Vào phút chót, người lên tiếng với giọng run rẩy lại là Nakajima.
+Vào phút chót, kẻ cất lên tiếng nói với chất giọng run rẩy ngập ngừng lại chính là Nakajima.
 
-“Tớ không thể cho phép Nakajima-kun tham gia.”
+“Tớ không thể chấp thuận cho Nakajima-kun tham gia.”
 
-“T-Tại sao chứ!”
+“T-Tại sao chứ?!”
 
-“Động cơ của cậu khác với Yamada-kun. Quyết tâm cũng khác. Quá nguy hiểm.”
+“Động cơ của cậu hoàn toàn khác biệt so với Yamada-kun. Mức độ quyết tâm cũng khác một trời một vực. Quá mức nguy hiểm.”
 
-“Nếu là quyết tâm thì tớ cũng—”
+“Nếu là nói về quyết tâm thì tớ cũng—”
 
-“Nakajima-kun, tớ hiểu cảm xúc của cậu mà. Chính vì thế, tớ mới phải ngăn cậu lại.”
+“Nakajima-kun, tớ thấu hiểu tường tận tâm tư tình cảm của cậu mà. Chính vì thế, tớ mới càng phải chặn cậu lại.”
 
-Chắc cậu ta muốn bảo vệ Kenzaki. Cũng muốn thể hiện vẻ ngầu lòi trước mặt cô ta nữa. Huống chi hiện tại Kenzaki đang rơi xuống đáy xã hội với thân phận nô lệ.
+Chắc chắn cậu ta đang nung nấu ý định bảo vệ Kenzaki. Cậu ta cũng khao khát được phô diễn hình ảnh ngầu lòi, phong độ trước mặt người trong mộng. Huống hồ chi vào thời điểm hiện tại, Kenzaki đã bị đày xuống tận đáy xã hội với thân phận nô lệ hèn mọn.
 
-Nếu đã đem lòng yêu cô ta, thì những lúc thế này không ra tay giúp đỡ thì chẳng còn mặt mũi nam nhi nữa.
+Nếu đã trót đem lòng si mê ả ta, thì vào những khoảnh khắc dầu sôi lửa bỏng thế này mà không chịu xông pha ra tay tương cứu thì làm sao còn xứng mặt đấng nam nhi nữa chứ.
 
-Thế nhưng, đó lại là động cơ nguy hiểm nhất. Tình cảm đó của cậu chắc chắn sẽ bị lợi dụng.
+Thế nhưng, đó lại chính là loại động cơ đen tối và nguy hiểm chết người nhất. Thứ tình cảm mù quáng, ủy mị đó của cậu chắc chắn sẽ bị kẻ khác giật dây và lợi dụng triệt để.
 
-“Tớ tuyệt đối phải tránh việc cậu tự lao ra đỡ đòn rồi chết thay cho người khác khi gặp nguy hiểm.”
+“Tớ tuyệt đối phải ngăn chặn viễn cảnh cậu tự biến mình thành lá chắn thịt, lao ra đỡ đòn rồi chết thay cho kẻ khác khi gặp nguy biến.”
 
-“L-Làm gì có chuyện đó...”
+“L-Làm gì có chuyện vô lý đó được...”
 
-“Cậu dám khẳng định là không có không? Khi lâm vào tình thế nguy cấp, cậu có thể sẽ trở thành tấm khiên cho ai đó, nhưng người sẵn sàng làm khiên đỡ đòn cho cậu thì ngoài Yamada-kun ra chẳng có ai đâu.”
+“Cậu dám vỗ ngực khẳng định là điều đó sẽ không bao giờ xảy ra không? Khi lâm vào lằn ranh sinh tử, cậu có thể sẵn sàng làm tấm khiên chắn đỡ mạng cho kẻ khác, nhưng kẻ cam tâm tình nguyện làm lá chắn chịu đòn thay cho cậu thì ngoài Yamada-kun ra, tuyệt đối chẳng có lấy một ai đâu.”
 
-Tiếc thay, Nakajima à, mày chỉ là một nhân vật phụ làm nền mà thôi.
+Thật đáng tiếc cho mày, Nakajima à, trong vở kịch này mày rốt cuộc cũng chỉ là một nhân vật phụ làm nền mờ nhạt mà thôi.
 
-Đối với Takanashi, Kenzaki, hay cả Souma, mày không phải là sự tồn tại khiến họ sẵn sàng đánh đổi mạng sống để bảo vệ đến cùng.
+Đối với Takanashi, Kenzaki, hay thậm chí là cả Souma, mày vĩnh viễn không bao giờ là sự tồn tại đủ trọng lượng để khiến bọn họ cam tâm tình nguyện đánh đổi tính mạng nhằm bảo vệ tới cùng.
 
-Chính vì thế, Yamada—người sẵn sàng che chở cho bất kỳ ai mà cậu ta coi là đồng đội—mới thật phi thường. Dù hành động đó có phần xuất phát từ vết thương lòng sau cái chết của Yama-Jun, sự tự hủy hay lòng tự trọng, thì tinh thần tự hy sinh đó của cậu ta đã đạt đến cảnh giới của một vị thánh rồi.
+Chính vì lẽ đó, một kẻ như Yamada — người sẵn sàng xả thân che chở cho bất kỳ ai mà cậu ta xem là đồng đội — mới thực sự là một sự tồn tại phi thường đến mức dị biệt. Dẫu hành động ấy có phần bắt nguồn từ vết thương lòng chưa lành sau cái chết của Yama-Jun, hay là sự tự hủy hoại bản thân và lòng tự tôn méo mó, thì tinh thần tự hy sinh cao thượng đó của cậu ta cũng đã chạm tới cảnh giới của một bậc thánh nhân rồi.
 
-“Souma-kun sẽ không cứu cậu. Kenzaki hay Sakura-chan cũng tuyệt đối không bao giờ cứu cậu. Dù cậu có tin tưởng họ, họ cũng chẳng bao giờ tin tưởng cậu đâu.”
+“Souma-kun sẽ không bao giờ cứu mạng cậu đâu. Cả Kenzaki lẫn Sakura-chan lại càng không đời nào chịu ra tay cứu vớt cậu. Dẫu cho cậu có đặt trọn niềm tin mù quáng nơi họ, thì trong mắt bọn họ, cậu cũng chẳng bao giờ có được nửa phần tin tưởng.”
 
-“Này, Momokawa, sao cậu lại nói kiểu đó—”
+“Này, Momokawa, sao cậu lại có thể buông những lời lẽ cay nghiệt đó—”
 
-“Souma-kun im lặng đi. Đây là vấn đề của ‘chúng tôi’.”
+“Souma-kun ngậm miệng lại đi. Đây hoàn toàn là chuyện nội bộ của ‘chúng tôi’.”
 
-Người chào đón Nakajima như một đồng đội là chúng tôi. Trong dàn harem của Souma làm gì có chỗ cho cậu ta.
+Những người thực sự mở rộng vòng tay đón nhận Nakajima như một đồng đội chân chính là phe chúng tôi. Trong dàn harem độc tôn của Souma làm gì có chỗ dung thân cho một kẻ thừa thãi như cậu ta.
 
-“Tớ tuyệt đối sẽ không bao giờ bỏ mặc bất kỳ ai nữa!”
+“Tớ tuyệt đối sẽ không bao giờ bỏ mặc bất kỳ ai phải chết thêm một lần nào nữa!!”
 
-“Tớ cũng chẳng trách cứ việc cậu đặt ra thứ tự ưu tiên cho mạng sống của mọi người đâu. Ai cũng sẽ ưu tiên cứu những người quan trọng, thân thiết với mình trước, đó là lẽ thường tình mà.”
+“Tớ cũng chẳng buồn trách cứ cái việc cậu tự đặt ra bảng thứ tự ưu tiên cho sinh mạng của từng người đâu. Con người ta ai nấy đều có xu hướng ưu tiên cứu vớt những kẻ quan trọng, thân thiết với mình trước tiên, âu đó cũng là lẽ thường tình ở đời mà thôi.”
 
-Thế nên tôi chẳng buồn chỉ trích việc Souma ưu tiên những thành viên trong dàn harem của mình nữa. Ai cũng vậy thôi, tôi cũng thế. Tôi sẽ bảo vệ Mei và Kyouko trước tiên.
+Bởi vậy nên tôi chẳng thèm tốn công chỉ trích cái thói bao bọc, ưu tiên các thành viên trong hậu cung của Souma làm gì nữa. Bản chất con người ai mà chẳng ích kỷ như nhau, bản thân tôi cũng thế thôi. Nếu lâm vào cảnh ngặt nghèo, tôi sẽ chọn bảo vệ Mei và Kyouko trước nhất.
 
-“Mối liên kết bền chặt giữa ai với ai là tùy thuộc vào mỗi người. Việc đối xử bình đẳng với tất cả mọi người là bất khả thi, và thứ tự ưu tiên đó chắc chắn sẽ lộ ra trong những tình huống khẩn cấp—Chính vì vậy, tớ không thể để Nakajima-kun tham gia vào đợt chinh phục với số lượng thành viên giới hạn lần này.”
+“Mối liên kết gắn bó sâu sắc giữa người với người vốn dĩ là chuyện riêng của mỗi cá nhân. Việc đối xử công bằng, san sẻ tình cảm đồng đều cho tất cả mọi người là điều hoàn toàn bất khả thi, và cái bảng thứ tự ưu tiên tàn nhẫn đó chắc chắn sẽ lộ rõ mồn một trong những khoảnh khắc ngàn cân treo sợi tóc — Chính vì lý do đó, tớ tuyệt đối không thể để Nakajima-kun chen chân vào một đợt chinh phạt bị giới hạn quân số ngặt nghèo như lần này.”
 
-Điều này không có nghĩa là Nakajima đặc biệt không được mọi người tin tưởng.
+Điều này hoàn toàn không đồng nghĩa với việc Nakajima là một kẻ đặc biệt bị người khác ghẻ lạnh hay bài xích.
 
-Ueta hay Yoshizaki cũng vậy thôi. Ngay cả tôi cũng thế. Một khi Souma là trung tâm, mối quan hệ tin cậy giữa các thành viên chắc chắn sẽ có sự chênh lệch.
+Ueta hay Yoshizaki nếu rơi vào tình cảnh này cũng sẽ nhận lấy kết cục tương tự mà thôi. Thậm chí ngay cả bản thân tôi cũng vậy. Một khi Souma nắm giữ vai trò hạt nhân trung tâm, mức độ tin cậy và gắn kết giữa các thành viên chắc chắn sẽ xuất hiện những hố sâu ngăn cách khổng lồ.
 
-Tất nhiên, nếu tôi là người chỉ huy và tất cả mọi người cùng tham gia chiến đấu thì không cần lo lắng chuyện này. Nhưng với đội hình ít người thế này, việc hỗ trợ nhau lúc nguy cấp thực sự vô cùng đáng ngại.
+Dĩ nhiên, nếu người đứng ra nắm quyền tổng chỉ huy là tôi và toàn bộ thành viên trong lớp đều đồng loạt xuất trận, thì chúng tôi hoàn toàn không cần phải bận tâm đến mối lo này. Nhưng với một đội hình tác chiến tinh giản vỏn vẹn vài ba người như thế này, việc phó thác mạng sống cho nhau để tương trợ lúc hiểm nghèo thực sự là một canh bạc vô cùng đáng sợ.
 
-Tóm lại, chỉ là tôi ngay từ đầu đã không tin tưởng Souma có thể bảo vệ được tất cả mọi người mà thôi. Đã bảo rồi mà, uy tín của cậu ta đã chạm đáy từ lâu rồi.
+Tựu trung lại, nguyên nhân sâu xa chỉ đơn giản là vì ngay từ đầu, tôi chưa từng đặt một mảy may niềm tin vào cái viễn cảnh Souma có thể dang tay bảo bọc được tính mạng của tất cả mọi người mà thôi. Tôi đã cảnh báo từ trước rồi, cái thứ gọi là uy tín của cậu ta đã chạm đáy bùn đen từ lâu lắm rồi.
 
-“Vì thế, Nakajima-kun, cậu có thể chấp nhận điều này không?”
+“Vì lẽ đó, Nakajima-kun, cậu có thể chấp nhận rút lui trong êm đẹp được không?”
 
-“Chuyện đó... làm sao tớ chấp nhận nổi chứ! Nếu lùi bước ở đây, tớ... tình cảm của tớ sẽ...”
+“Chuyện đó... làm sao mà tớ có thể nuốt trôi nổi chứ! Nếu như hèn nhát lùi bước ngay tại đây, thì tớ... tấm chân tình bấy lâu nay của tớ sẽ...”
 
-“Ái chà, thật là hết cách với cậu mà—Cậu thực sự rất muốn chiến đấu sao, Nakajima-kun?”
+“Ái chà chà, thật là hết cách với cái tính bướng bỉnh của cậu mà—Cậu thực sự khao khát được vung kiếm chiến đấu đến mức đó sao, Nakajima-kun?”
 
-“Ừm, tớ cũng muốn chiến đấu. Chắc chắn tớ sẽ giúp ích được.”
+“Ừm! Tớ thực sự muốn chiến đấu! Tớ dám chắc chắn rằng bản thân mình sẽ giúp ích được rất nhiều cho trận chiến!”
 
-Tôi đâu có nghi ngờ thực lực của cậu ta. Nakajima đã mạnh lên rất nhiều với tư cách là một 『Ma Pháp Kiếm Sĩ』 thực thụ rồi.
+Tôi đâu có hề nghi ngờ hay coi thường thực lực của cậu ta. Nakajima đã tôi luyện và mạnh lên trông thấy với tư cách là một 『Ma Pháp Kiếm Sĩ』 thực thụ rồi.
 
-Nếu Nakajima đã kiên quyết đến mức này, tôi cũng nên đưa ra một phương án dự phòng đã chuẩn bị sẵn. Diễn biến thế này thì có thể nói ra rồi.
+Nếu như Nakajima đã thể hiện một quyết tâm sắt đá đến nhường này, có lẽ tôi cũng nên lật ngửa một phương án dự phòng mà bản thân đã dày công chuẩn bị sẵn từ trước. Cục diện đã biến chuyển đến nước này thì hoàn toàn có thể tung ra được rồi.
 
-“Souma-kun, tớ có một đề xuất thế này.”
+“Souma-kun, tớ có một đề xuất thế này muốn gửi tới cậu.”
 
-“...Cái gì.”
+“...Cái gì nữa đây.”
 
-Vẻ mặt của Souma lộ rõ vẻ chán ghét, như thể linh cảm thấy điều chẳng lành. Đừng lo lắng thế chứ, chuyện này đâu có gì phức tạp đâu.
+Nét mặt của Souma lộ rõ vẻ chán chường và cảnh giác, tựa hồ như linh tính mách bảo cậu ta sắp sửa phải đối mặt với một điều chẳng lành. Đừng có trưng ra cái bộ mặt căng thẳng quá mức như thế chứ, câu chuyện này thực chất đâu có gì phức tạp hay đánh đố đâu nào.
 
-Phải, đây chỉ là một câu chuyện trao đổi đồng giá vô cùng đơn giản mà thôi.
+Phải, đây đơn thuần chỉ là một câu chuyện trao đổi ngang giá vô cùng sòng phẳng và minh bạch mà thôi.
 
-“Chúng ta hãy đem mạng sống của Takanashi ra đặt cược đi.”
+“Chúng ta hãy đem chính mạng sống của Takanashi ra làm vật thế chấp đặt cược đi.”
 
 “...Cái gì cơ?”
 
-“Yamada-kun, Sakura-chan, và cả Nakajima-kun nữa. Trong số ba người đã quyết định tham gia chiến đấu này, chỉ cần một người bỏ mạng, Takanashi cũng sẽ phải chết theo.”
+“Yamada-kun, Sakura-chan, và cả Nakajima-kun nữa. Trong số ba người đã hạ quyết tâm tham gia đợt chinh phục lần này, chỉ cần có bất kỳ ai bỏ mạng nơi chiến trường, Takanashi cũng sẽ lập tức phải đền mạng theo.”
 
-“C-Cái gì chứ! Chuyện nhảm nhí—”
+“C-Cái quái gì chứ! Cái thứ nhảm nhí điên rồ—”
 
-“Tớ không đùa đâu. Đây là một đề nghị cực kỳ nghiêm túc đấy.”
+“Tớ không hề nói đùa đâu nhé. Đây là một lời đề nghị hoàn toàn nghiêm túc và thấu đáo đấy.”
 
-Thậm chí, nếu đem mạng sống của Takanashi ra cược, tôi cho cả lớp tham gia cũng được nữa là.
+Thậm chí, nếu đã đem tính mạng của Takanashi ra làm con tin thế chấp, tôi sẵn lòng để toàn bộ thành viên trong lớp cùng kéo nhau đi tham chiến cũng chẳng thành vấn đề.
 
-Nhưng nếu tất cả cùng lao vào trận đấu Boss, chắc chắn sẽ lộ ra sơ hở, nên việc duy trì trạng thái có thể giết chết Takanashi bất cứ lúc nào vẫn là điều bắt buộc.
+Thế nhưng, nếu tất cả mọi người cùng ồ ạt lao vào hang ổ của Boss, vòng vây canh giữ chắc chắn sẽ để lộ ra những sơ hở chết người, vậy nên việc duy trì một trạng thái có thể lập tức thi hành án tử hình vặn gãy cổ Takanashi bất cứ lúc nào vẫn là điều kiện tiên quyết mang tính sống còn.
 
-“Dù Souma-kun có tuyên bố hùng hồn rằng sẽ không để ai phải hy sinh nữa, thì điều đó cũng chẳng có chút sức thuyết phục nào cả. Nếu cứ thế này mà chiến đấu, rồi lỡ như Yamada-kun hoặc Nakajima-kun tử trận, cậu có chịu trách nhiệm nổi không?”
+“Dẫu cho Souma-kun có lớn tiếng tuyên thệ hùng hồn rằng sẽ không để bất kỳ ai phải ngã xuống thêm nữa, thì những lời thề thốt sáo rỗng đó cũng chẳng mang lại chút sức nặng thuyết phục nào cả. Nếu cứ nhắm mắt lao vào tử địa theo cách này, rồi chẳng may Yamada-kun hoặc Nakajima-kun phải bỏ mạng nơi chiến trường, liệu cậu có gánh vác nổi trách nhiệm đền mạng đó hay không?”
 
-“Chuyện đó... Cậu muốn tớ phải mổ bụng tự sát sao...”
+“Chuyện đó... Rốt cuộc cậu muốn ép tớ phải mổ bụng tự sát để tạ tội sao...”
 
-“Thứ cậu cần là quyết tâm.”
+“Thứ mà cậu đang thiếu thốn trầm trọng chính là sự giác ngộ.”
 
-“Quyết tâm sao... Cậu bảo tớ vẫn chưa đủ quyết tâm à?”
+“Giác ngộ sao... Cậu dám mở miệng bảo rằng sự giác ngộ của tớ bấy lâu nay vẫn chưa đủ à?”
 
-“Đúng vậy, chỉ cần thêm một người bạn học nữa nằm xuống thì mọi chuyện sẽ chấm dứt, đó chính là quyết tâm tớ muốn nói.”
+“Đúng vậy. Chỉ cần có thêm một người bạn học nữa ngã xuống thì toàn bộ ván cờ này sẽ lập tức sụp đổ tan tành, đó mới chính là sự giác ngộ tối thượng mà tớ muốn nói tới.”
 
-Dù Yamada hay Nakajima có chết, Sakura cũng chẳng hề hấn gì. Người quan trọng nhất, người mà cậu trân quý nhất sẽ không bị tổn thương.
+Dẫu cho Yamada hay Nakajima có phơi thây nơi chiến địa, Sakura cũng chẳng hề mảy may sứt mẻ lấy một sợi tóc. Người quan trọng nhất, bảo vật vô giá mà cậu nâng niu trân quý nhất vẫn sẽ bình an vô sự.
 
-Vái kết quả là đây. Cuối cùng, những người còn sống sót bên cạnh cậu chẳng phải chỉ toàn là những người cậu yêu quý thôi sao?
+Và kết quả sau cùng sẽ là gì đây? Rốt cuộc thì những kẻ còn sót lại, sống sót an nhàn bên cạnh cậu chẳng phải toàn là những gương mặt thân quen mà cậu hết mực yêu thương bảo bọc đó sao?
 
-“Bằng cách đặt cược mạng sống của Takanashi, cậu sẽ phải gánh vác trách nhiệm và quyết tâm đối với mạng sống của những người đồng đội của tớ.”
+“Bằng cách đặt cược chính sinh mạng của Takanashi lên bàn cân, cậu sẽ buộc phải gánh vác trọn vẹn trách nhiệm và sự giác ngộ cao nhất đối với sinh mạng của những người đồng đội thuộc phe tớ.”
 
-Tất nhiên, mục đích của tôi không chỉ dừng lại ở đó.
+Dĩ nhiên, mưu đồ thực sự của tôi đâu chỉ dừng lại ở mỗi mục đích răn đe cỏn con đó.
 
-Thực chất, so với quyết tâm của Souma, đây mới là mục tiêu chính.
+Trên thực tế, so với việc ép Souma phải giác ngộ, đây mới chính là mục tiêu cốt lõi mang tính quyết định.
 
-“Hơn nữa, làm vậy sẽ ngăn chặn việc Takanashi âm thầm trừ khử từng người một.”
+“Hơn thế nữa, làm như vậy sẽ phong tỏa hoàn toàn dã tâm âm thầm trừ khử từng người một của Takanashi.”
 
-Chỉ cần một người chết, án tử hình của cô ta sẽ lập tức được thi hành. Cho dù có ngụy tạo thành một cái chết tự nhiên đến mức nào, cô ta cũng không thoát khỏi án tử.
+Chỉ cần có duy nhất một người trong đội ngũ bỏ mạng, bản án tử hình dành cho ả sẽ lập tức được thi hành không một giây trì hoãn. Cho dù ả có dùng mưu ma chước quỷ để ngụy tạo cái chết đó thành một tai nạn tự nhiên hay rủi ro chiến đấu hoàn hảo đến mức nào đi chăng nữa, ả cũng tuyệt đối không thể thoát khỏi lưỡi hái tử thần.
 
-Để giết các bạn học, Takanashi buộc phải tìm cách tiêu diệt toàn bộ bọn họ cùng một lúc. Chỉ riêng điều này thôi cũng đủ để hạn chế đáng kể hành động của cô ta rồi.
+Để có thể tiêu diệt các bạn học, Takanashi buộc lòng phải tìm cách quét sạch toàn bộ bọn họ cùng một lúc trong một đòn hủy diệt. Chỉ riêng rào cản chí mạng này thôi cũng đã đủ sức bẻ gãy và hạn chế đáng kể mọi toan tính ngầm của ả ta rồi.
 
-Mà nói đúng ra, nếu Kenzaki tự ý bỏ mạng rồi nhờ đó tôi có thể thi hành án tử với Takanashi thì đúng là kịch bản hoàn hảo nhất. Hay là tôi cũng học tập Takanashi, tìm cách mưu sát Kenzaki ngay trong trận chiến nhỉ?
+Mà nếu nói một cách thẳng thắn ra, nếu như Kenzaki tự ý sẩy chân bỏ mạng rồi nhờ cái chết của ả mà tôi có thể danh chính ngôn thuận thi hành án tử hình đối với Takanashi, thì đó mới thực sự là một kịch bản hoàn mỹ nhất. Hay là nhân lúc hỗn chiến, tôi cũng nên học tập phong cách của Takanashi, tìm cơ hội mượn tay quái vật để mưu sát Kenzaki ngay giữa trận địa nhỉ?
 
-“Ch-Chuyện đó... tớ không thể... chấp nhận được...”
+“Ch-Chuyện đó... tớ không thể nào... chấp nhận một yêu sách điên rồ như thế được...”
 
-“Nếu không chấp nhận, điều đó chứng tỏ quyết tâm của cậu cũng chỉ đến thế mà thôi. Suy cho cùng, những bạn học khác có chết thì cậu cũng chỉ thấy hơi đau lòng một chút là cùng.”
+“Nếu như cậu khăng khăng không chịu chấp nhận, điều đó chỉ càng chứng minh rằng sự giác ngộ của cậu rốt cuộc cũng chỉ nông cạn đến mức ấy mà thôi. Suy cho cùng, dẫu các bạn học khác có chết bờ chết bụi, trong lòng cậu cũng chỉ dấy lên một chút xót xa, thương hại thoáng qua là cùng.”
 
-“Không phải! Tớ đã phải đau khổ thế nào khi mất đi đồng đội, làm sao một kẻ như cậu có thể hiểu được chứ!”
+“Không phải như thế!! Tớ đã phải nếm trải nỗi đau đớn cùng cực dường nào khi chứng kiến từng người đồng đội ngã xuống, một kẻ máu lạnh tàn nhẫn như cậu làm sao có thể thấu hiểu được chứ?!”
 
-“Đúng vậy, cậu chỉ biết đau khổ thôi chứ chẳng làm được trò trống gì cả. Và kết cục của sự bất lực đó chính là tình cảnh hiện tại đấy.”
+“Đúng vậy đấy, cậu chỉ biết ngồi một chỗ mà ôm đầu gặm nhấm nỗi đau khổ vô dụng thôi, chứ bản thân cậu có làm nên được trò trống gì đâu nào? Và cái kết cục thảm hại cho sự bất lực, yếu hèn đó của cậu chính là tình cảnh bi đát ở hiện tại này đây.”
 
-Cậu ta đang ở trong tình cảnh thảm hại khi bị một kẻ như tôi dồn vào thế bí. Tất cả những chuyện này xảy ra là do cậu ta, với tư cách là một 『Dũng Giả』, đã không thể cứu được mọi người.
+Cậu ta đang bị một kẻ cặn bã như tôi dồn ép đến bước đường cùng trong một tình thế nhục nhã ê chề. Toàn bộ những thảm kịch và sự bế tắc này xảy ra, cội nguồn đều bắt nguồn từ chính sự bất tài của cậu ta — một kẻ mang danh 『Dũng Giả』 nhưng lại chẳng đủ sức cứu vớt lấy nổi tính mạng của bất kỳ ai.
 
-Nếu đã thích lên mặt dạy đời thì hãy cứu hết tất cả mọi người cho tôi xem.
+Nếu đã thích mở mồm lên mặt dạy đời và rao giảng đạo đức, thì hãy thử dang tay cứu vớt toàn bộ sinh mạng cho tôi mở rộng tầm mắt xem nào.
 
-Còn nếu không làm được thì hãy ngậm miệng lại và tuân theo phương án chinh phục đề cao tính an toàn và hiệu quả này đi.
+Còn nếu bản thân vốn dĩ bất tài vô dụng không làm nổi, thì tốt nhất hãy ngậm chặt cái miệng lại và ngoan ngoãn phục tùng theo phương án chinh phục đề cao tối đa tính an toàn và hiệu quả thực tế này đi.
 
-“Nào, hãy đặt cược mạng sống của Takanashi đi.”
+“Nào, hãy đặt cược chính sinh mạng của Takanashi lên bàn cân đi chứ.”
 
 “—Cái...”
 
-Souma nghẹn họng, không thốt nên lời. Thay vào đó, một tiếng thì thầm nhỏ bé lọt vào tai tôi.
+Souma nghẹn ứ nơi cổ họng, không thốt nên nổi một lời nào. 
+
+Ngay giữa khoảng không gian tĩnh lặng đến ngột ngạt ấy, một tiếng lẩm bẩm thì thào đầy ma quái bỗng lọt vào tai tôi.
 
 “...đừng có giỡn.”
 
-Tiếng nói phát ra từ cô gái đang ngồi bệt dưới sàn, tấm lưng nhỏ nhắn run lên bần bật.
+Âm thanh đó phát ra từ hình bóng của cô gái đang ngồi bệt dưới nền đất, tấm lưng nhỏ nhắn khẽ co rúm lại và run lên bần bật.
 
-Thế nhưng, bờ vai và tấm lưng ấy run rẩy tuyệt đối không phải vì sợ hãi hay bất an.
+Thế nhưng, bờ vai và tấm lưng gầy gò ấy run rẩy tuyệt đối không phải vì nỗi sợ hãi hay sự hoang mang bất an.
 
-“...ĐỪNG CÓ MÀ GIỠN MẶT TAO, MOMOKAWA! THẰNG RÁC RƯỞI KIA, MÀY VỪA PHẢI THÔI CHỨ!!”
+“...ĐỪNG CÓ MÀ GIỠN MẶT TAO, MOMOKAWA! THẰNG RÁC RƯỞI KIA, MÀY VỪA PHẢI THÔI CHỨ ĐẤYYYYYY!!”
 
-Takanashi Kotori cuối cùng đã lộ ra bản chất thật của mình, gào lên một tiếng thét đầy giận dữ.
+Takanashi Kotori cuối cùng đã xé toạc lớp mặt nạ thánh thiện, bộc lộ trọn vẹn bản chất ác quỷ gớm ghiếc bên trong, gầm thét lên một tiếng rống man dại tràn ngập ngọn lửa hận thù tột cùng.

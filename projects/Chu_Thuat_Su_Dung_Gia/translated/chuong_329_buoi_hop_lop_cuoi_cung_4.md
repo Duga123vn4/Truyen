@@ -4,7 +4,7 @@
 
 Cùng với tiếng thét giận dữ, Takanashi bật dậy.
 
-Đồng thời, tôi cũng hét lên:
+Đồng thời, tôi cũng hét lớn:
 
 “Bắn đi, Kyouko!”
 
@@ -12,13 +12,13 @@ Cùng với tiếng thét giận dữ, Takanashi bật dậy.
 
 Từ khẩu súng lục ổ quay hoàng kim mà Kyouko vẫn luôn thủ thế, một ma pháp tấn công cấp cao được phóng ra không chút do dự.
 
-Cô ấy vẫn chưa từng giết người. Dù Takanashi có là kẻ chủ mưu đi chăng nữa, chắc chắn trong lòng cô ấy vẫn có sự kháng cự. Thế nhưng, trong tình cảnh này, người duy nhất có thể lập tức ra tay tấn công chỉ có thể là Kyouko.
+Cô ấy chưa từng giết người. Dù Takanashi có là kẻ chủ mưu đi chăng nữa, chắc chắn trong lòng cô ấy vẫn có sự kháng cự. Thế nhưng trong tình cảnh này, người duy nhất có thể lập tức ra tay tấn công chỉ có thể là Kyouko.
 
-Tôi đã nghĩ rằng dù cô ấy có ngần ngại không dám bắn thì cũng đành chịu, nhưng cô ấy đã không phụ sự kỳ vọng của tôi.
+Tôi từng nghĩ dù cô ấy có ngần ngại không dám bắn thì cũng đành chịu, nhưng cô ấy đã không phụ sự kỳ vọng của tôi.
 
 Đòn 『Phá Nham Trường Thương』 được phóng ra là một ma pháp tấn công cực mạnh, dư sức nghiền nát một người bình thường thành thịt vụn chỉ trong nháy mắt. Uy lực của nó là quá dư thừa để kết liễu một cô gái yếu ớt như Takanashi Kotori.
 
-Một đòn chắc chắn sẽ là quá tay bằng cọc đá khổng lồ lao đi, thế nhưng——
+Một đòn chắc chắn sẽ là quá tay bằng cọc đá khổng lồ lao đi xé gió, thế nhưng——
 
 “Dừng lại cho taooooo!!”
 
@@ -32,45 +32,45 @@ Trong lúc tôi còn đang tự hỏi bằng cái lý lẽ quái quỷ nào mà 
 
 “Dừng lại, và quỳ xuống đi. Lũ nhân vật phụ yếu đuối không biết lượng sức mình.”
 
-*Rầm*, cơ thể tôi tự động quỳ sụp xuống.
+*Rầm!* Cơ thể tôi tự động quỳ sụp xuống.
 
 Không phải là cơ thể không nghe theo mệnh lệnh, mà cảm giác giống như có một áp lực khổng lồ từ trên cao đang cưỡng ép đè chặt tôi xuống đất.
 
-Cảm giác bị ma pháp trọng lực ép sát xuống đất chắc cũng đến thế này là cùng.
+Cảm giác bị ma pháp trọng lực ép sát xuống sàn chắc cũng đến thế này là cùng.
 
-“Thấy sao, đây là khi Kotori này nghiêm túc đấy. 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có thể ngăn chặn mọi hành vi chiến đấu. Nói cách khác, dù các người có giãy giụa thế nào đi nữa, cũng đừng hòng chạm được vào một sợi tóc của Kotori này!”
+“Thấy sao hả? Đây là khi Kotori này nghiêm túc đấy. 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có thể ngăn chặn mọi hành vi chiến đấu. Nói cách khác, dù các người có giãy giụa thế nào đi nữa, cũng đừng hòng chạm được vào một sợi tóc của Kotori này!”
 
 Takanashi cất tiếng cười lảnh lót, chói tai.
 
 Nhưng quả thực cô ta có vốn liếng để tự đắc như vậy, khi đã thành công khóa chặt cử động của tất cả mọi người ở đây.
 
-Chết tiệt, đây đúng là năng lực gian lận hàng thật giá thật rồi. 『Thần Thánh Ngôn Ngữ』 một khi được nâng cấp độ kỹ năng lên cao lại có thể mang lại hiệu quả bá đạo đến mức phi lý này sao.
+Chết tiệt, đây đúng là năng lực gian lận hàng thật giá thật rồi. 『Thần Thánh Ngôn Ngữ』 một khi được nâng cấp độ kỹ năng lên cao lại có thể mang lại hiệu quả bá đạo đến mức phi lý nhường này sao.
 
-“Thật là, người ta đã im lặng thì chớ, lại cứ được đà lấn tới. Tưởng thế này là dồn được tao vào đường cùng rồi sao? Đừng có tinh tướng, Momokawa!”
+“Thật là, người ta đã nhịn không thèm nói thì chớ, lại cứ được đằng chân lân đằng đầu. Tưởng thế này là dồn được tao vào đường cùng rồi chắc? Đừng có tinh tướng, Momokawa!”
 
 Vâng, đúng vậy đấy. Tôi cứ tưởng đã dồn được cô vào chân tường nên mới đắc ý thế đấy.
 
 Ai mà ngờ cô lại nổi điên rồi lộ nguyên hình trong hoàn cảnh này chứ. Đáng lẽ ra tôi phải hoàn toàn khống chế và khóa chặt cô ta từ trước mới đúng.
 
-“C-Cậu thấy chưa, cậu Souma... Đây mới là bản chất thật của Takanashi.”
+“C-Cậu thấy chưa, Souma-kun... Đây mới là bản chất thật của Takanashi.”
 
-“Không thể nào... Chuyện này là sao hả, bạn Takanashi?”
+“Không thể nào... Chuyện này là sao hả, Takanashi-san?”
 
-“Hì hì, chẳng sao cả đâu, cậu Souma. Tại vì Momokawa ngứa mắt quá mà, nên dù Kotori có bao dung đến mấy cũng phải nổi điên thôi.”
+“Hì hì, chẳng sao cả đâu, Souma-kun. Tại vì Momokawa ngứa mắt quá mà, nên dù Kotori có bao dung đến mấy cũng phải nổi điên thôi.”
 
-Cô ta thản nhiên thốt ra những lời đó với nụ cười ngây thơ thường ngày vẫn hay trưng ra trước mặt cậu Souma.
+Cô ta thản nhiên thốt ra những lời đó với nụ cười ngây thơ thường ngày vẫn hay trưng ra trước mặt Souma-kun.
 
-Xem ra, cô ta cũng chẳng thèm giả vờ làm con nai tơ nữa rồi.
+Xem ra, cô ta cũng chẳng buồn giả vờ làm con nai tơ nữa rồi.
 
-“Takanashi, mày đã chuẩn bị sẵn sàng để thao túng tâm trí cậu Souma rồi đúng không?”
+“Takanashi, mày đã chuẩn bị sẵn sàng để thao túng tâm trí Souma-kun rồi đúng không?”
 
 “Bởi vậy ta mới ghét nhất cái kiểu tự đắc đó của mày đấy.”
 
 Bị nói trúng tim đen, cô ta nhìn xuống tôi đang quỳ rạp dưới đất với vẻ mặt vô cùng khó chịu.
 
-Nhưng sở hữu cái tà pháp mê hoặc lòng người như 『Quy Tắc Ý Niệm』 thì việc đoán ra là đương nhiên thôi.
+Nhưng khi ả sở hữu cái tà pháp mê hoặc lòng người như 『Quy Tắc Ý Niệm』 thì việc đoán ra là quá đỗi hiển nhiên.
 
-Tôi chưa bao giờ nghĩ mày sẽ dùng con đường chính đạo để chinh phục cậu Souma ngay từ đầu. Với tính cách của mày, mục tiêu cuối cùng chắc chắn là tẩy não để biến cậu Souma thành con rối theo ý muốn của mình.
+Tôi chưa bao giờ nghĩ mày sẽ dùng con đường chính đạo để chinh phục Souma-kun ngay từ đầu. Với bản tính của mày, mục tiêu cuối cùng chắc chắn là tẩy não để biến Souma-kun thành con rối theo ý muốn của mình.
 
 Có lẽ, tôi đã dự đoán rằng chuyện đó sẽ xảy ra khi mọi việc tiến triển theo đúng kế hoạch của ả, và chỉ còn lại hai người họ với nhau...
 
@@ -78,29 +78,29 @@ Có lẽ, tôi đã dự đoán rằng chuyện đó sẽ xảy ra khi mọi vi�
 
 “Gừ... ừ... ỐỐỐỐỐỐỐỐỐỐỐỐ!”
 
-Một tiếng gầm như thú dữ vang lên.
+Một tiếng gầm như thú dữ vang lên xé toạc không gian.
 
-Trong không gian mà mọi thứ đều bị đóng băng, có một bóng người bắt đầu chuyển động.
+Trong khoảng không gian mà mọi thứ đều bị đông cứng, có một bóng người bắt đầu chuyển động.
 
 “Ủa, Mei-chan, cậu cử động được sao?”
 
-Cử động ấy vô cùng ngượng ngịu như một con robot rỉ sét. Thế nhưng, Mei vẫn bước từng bước, từng bước một tiến về phía Takanashi.
+Cử động ấy vô cùng ngượng nghịu như một cỗ máy rỉ sét. Thế nhưng, Mei-chan vẫn bước từng bước, từng bước một tiến về phía Takanashi.
 
 Trên tay cô ấy nắm chặt cây kích thiết đen chứa đựng sát ý tuyệt đối.
 
 “Hảaaaa?! Tại sao con mụ này lại cử động được! Dừng lại! Dừng lại đi, tao bảo dừng lại cơ mà!!”
 
-Ngay cả cái kỹ năng đao to búa lớn như 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 đang được thi triển hết công suất cũng không thể khóa chặt hoàn toàn cử động của Mei, khiến Takanashi bắt đầu hoảng loạn.
+Ngay cả cái kỹ năng đao to búa lớn như 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 đang được thi triển hết công suất cũng không thể khóa chặt hoàn toàn cử động của Mei-chan, khiến Takanashi bắt đầu hoảng loạn.
 
-A, chẳng lẽ... trong thời gian ở pháo đài ẩn, cô ta đã dùng chiêu này quá nhiều lần với Mei chăng? Chắc chắn Mei đã nhận được kỹ năng kháng tính rồi.
+A, chẳng lẽ... trong thời gian ở pháo đài ẩn, cô ta đã dùng chiêu này quá nhiều lần với Mei-chan chăng? Chắc chắn Mei-chan đã hình thành kỹ năng kháng tính rồi.
 
 “Nhờ cả vào cậu đấy, Mei-chan! Mau hạ gục Takanashi————”
 
 “Ồồồồồồồồồ!”
 
-Bản thân Mei chắc cũng đang phải chịu đựng đau đớn tột cùng chỉ để di chuyển. Cô ấy nghiến chặt răng, gương mặt đằng đằng sát khí như một vị Tu La, tiếp tục tiến bước không ngừng trong không gian tràn ngập sức mạnh cưỡng chế dừng lại kia.
+Bản thân Mei-chan chắc cũng đang phải chịu đựng đau đớn tột cùng chỉ để di chuyển. Cô ấy nghiến chặt răng, gương mặt đằng đằng sát khí như một vị Tu La, tiếp tục tiến bước không ngừng trong không gian tràn ngập sức mạnh cưỡng chế dừng lại kia.
 
-Nhìn xem, cậu Souma. Trong tình cảnh tuyệt vọng mà ai cũng bất động, chỉ có một mình Mei đứng lên tiêu diệt kẻ thù. Dáng vẻ của Mei lúc này mới thực sự xứng đáng là một Dũng Giả.
+Nhìn xem, Souma-kun. Trong tình cảnh tuyệt vọng mà ai nấy đều bất động, chỉ có một mình Mei-chan đứng lên tiêu diệt kẻ thù. Dáng vẻ của Mei-chan lúc này mới thực sự xứng đáng là một Dũng Giả.
 
 “Kh-Không dừng lại... Khốn kiếp, khốn kiếp! Làm gì đi chứ, Asunaaaaa!”
 
@@ -122,17 +122,17 @@ Một ma pháp trận tỏa ánh sáng trắng tinh khôi hiện ra ngay bên c�
 
 “Đừng có... cản đường taooooo!”
 
-Dù chuyển động vẫn còn chậm chạp, Mei vẫn vung cây kích nhắm thẳng vào Kenzaki đang chắn đường.
+Dù chuyển động vẫn còn chậm chạp, Mei-chan vẫn vung cây kích nhắm thẳng vào Kenzaki đang chắn đường.
 
 “Futabaaa! Uốốốốốốốốốốốố!”
 
-Ở phía đối diện, Kenzaki nắm chặt hai thanh kiếm dự phòng do Takanashi đưa cho, chặn đứng đà tiến công của Mei.
+Ở phía đối diện, Kenzaki nắm chặt hai thanh kiếm dự phòng do Takanashi đưa cho, chặn đứng đà tiến công của Mei-chan.
 
 “Ha ha, a ha ha! Đúng rồi Asuna-chan, bảo vệ Kotori đi. Cứ chặn con lợn xề đó lại cho tao!”
 
-Nhờ chặn đứng được người duy nhất có thể cử động là Mei, Takanashi cất tiếng cười đắc thắng đầy phấn khích.
+Nhờ chặn đứng được người duy nhất có thể cử động là Mei-chan, Takanashi cất tiếng cười đắc thắng đầy phấn khích.
 
-Thế nhưng, có lẽ do phải tập trung điều khiển Kenzaki, tôi cảm thấy... cơ thể mình đã có thể cử động được một chút.
+Thế nhưng, có lẽ do phải tập trung điều khiển Kenzaki, tôi cảm thấy... cơ thể mình đã có thể cử động được đôi chút.
 
 Dù chỉ là suy đoán lạc quan, nhưng việc khống chế toàn bộ mọi người ở đây bằng 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có lẽ đã là giới hạn tối đa của Takanashi rồi.
 
@@ -190,7 +190,7 @@ Trong một khoảnh khắc, luồng tử điện bùng lên đã đánh trúng 
 
 Người vừa phóng ra đòn đó là một nam sinh đang quỳ một gối dưới đất, tay phải vẫn đang giơ chiếc điện thoại hướng về phía trước.
 
-“Cậu Hayama?!”
+“Hayama-kun?!”
 
 “Momokawa, là tinh linh! Sức mạnh của tinh linh không bị ảnh hưởng bởi năng lực dừng lại này!”
 
@@ -198,7 +198,7 @@ Ra là vậy! Tinh linh nằm ngoài phạm vi tác động của 『Thần Thá
 
 Điều đó có nghĩa là, tinh linh là một khái niệm hoàn toàn khác biệt, một sự tồn tại về mặt bản chất không chịu sự chi phối từ sức mạnh của Nữ thần Elshion.
 
-Nhận ra điều đó thật xuất sắc. Không, nếu không phải là một 『Tinh Linh Thuật Sư』 như cậu Hayama thì không thể nào nhận ra được. Bởi vì ngay từ đầu, chúng tôi đâu có thể chủ động sử dụng sức mạnh của tinh linh.
+Nhận ra điều đó thật xuất sắc. Không, nếu không phải là một 『Tinh Linh Thuật Sư』 như Hayama-kun thì không thể nào nhận ra được. Bởi vì ngay từ đầu, chúng tôi đâu có thể chủ động sử dụng sức mạnh của tinh linh.
 
 Thế nhưng, lúc này đây chỉ có thể đánh cược vào phương án đó.
 
@@ -220,7 +220,7 @@ Kyouko run rẩy chĩa khẩu súng về phía trước, một lần nữa ngưn
 
 “Đ-Đau quá... Tại sao lại thế này, tàn nhẫn, tàn nhẫn quá...”
 
-Bị trúng trực diện đòn 『Chiêu Lôi』 từ lôi tinh linh tích tụ trong điện thoại của cậu Hayama, Takanashi ngã gục xuống sàn, vừa khóc lóc thảm thiết vừa lồm cồm bò dậy.
+Bị trúng trực diện đòn 『Chiêu Lôi』 từ lôi tinh linh tích tụ trong điện thoại của Hayama-kun, Takanashi ngã gục xuống sàn, vừa khóc lóc thảm thiết vừa lồm cồm bò dậy.
 
 Quả nhiên chỉ có năng lực là gian lận, chứ bản thân cô ta khả năng chịu đòn rất kém. Tuy nhiên, dù không trực tiếp chiến đấu nhưng trang bị của cô ta lại vô cùng hoàn hảo. Bộ đồng phục chỉ bị cháy xém đen thui chứ bản thân cô ta dường như không phải chịu vết bỏng nặng nào.
 
@@ -230,7 +230,7 @@ Quả nhiên chỉ có năng lực là gian lận, chứ bản thân cô ta kh�
 
 Takanashi gào khóc thảm thiết.
 
-Mặc kệ cậu Hayama đang chĩa chiếc điện thoại đang xẹt điện về phía mình, tay Takanashi khẽ lóe lên ánh sáng của ma pháp không gian, và cô ta đã nắm chặt một thứ gì đó.
+Mặc kệ Hayama-kun đang chĩa chiếc điện thoại đang xẹt điện về phía mình, tay Takanashi khẽ lóe lên ánh sáng của ma pháp không gian, và cô ta đã nắm chặt một thứ gì đó.
 
 C-Cái gì thế kia, không lẽ là súng sao?!
 
@@ -252,7 +252,7 @@ Có lẽ đó là một món vũ khí cổ đại mà cô ta đã âm thầm thu
 
 Tôi nhận ra trên cổ tay trái của cô ta, từ lúc nào đã đeo một chiếc vòng lạ mắt giống như đồng hồ đeo tay. Cũng giống như khẩu blaster, nó được làm từ kim loại trắng với các chi tiết phát sáng xanh lam nhạt.
 
-Và tôi đã tận mắt chứng kiến phát 『Chiêu Lôi』 thứ hai của cậu Hayama bị chặn lại hoàn toàn bởi một tấm khiên phát sáng xanh trắng triển khai từ chiếc vòng đó.
+Và tôi đã tận mắt chứng kiến phát 『Chiêu Lôi』 thứ hai của Hayama-kun bị chặn lại hoàn toàn bởi một tấm khiên phát sáng xanh trắng triển khai từ chiếc vòng đó.
 
 Chắc chắn chiếc vòng đó cũng là một món đồ cổ đại, một trang bị phòng ngự có khả năng triển khai 『Quang Thuẫn』.
 
@@ -260,11 +260,11 @@ Chắc chắn chiếc vòng đó cũng là một món đồ cổ đại, một t
 
 “Uôi, K-Kinako!”
 
-Những tia sáng liên hoàn từ khẩu blaster của Takanashi lao thẳng về phía cậu Hayama, người vẫn đang bị đông cứng dưới tác động của 『Thần Thánh Ngôn Ngữ』.
+Những tia sáng liên hoàn từ khẩu blaster của Takanashi lao thẳng về phía Hayama-kun, người vẫn đang bị đông cứng dưới tác động của 『Thần Thánh Ngôn Ngữ』.
 
 Nhưng người đã lấy thân mình ra che chắn đòn tấn công đó lại chính là người bạn đồng hành thân thiết nhất của cậu, Kinako.
 
-Dù đang chịu ảnh hưởng của sức mạnh cưỡng chế dừng lại, chú gấu vẫn cố gắng lết thân hình hộ pháp của mình đến để làm tấm khiên che chở cho cậu Hayama.
+Dù đang chịu ảnh hưởng của sức mạnh cưỡng chế dừng lại, chú gấu vẫn cố gắng lết thân hình hộ pháp của mình đến để làm tấm khiên che chở cho Hayama-kun.
 
 Những tiếng *bụp bụp* vang lên khi vài tia sáng găm thẳng vào người Kinako, đốt cháy xém lớp lông dày của chú gấu.
 
@@ -272,11 +272,11 @@ Những tiếng *bụp bụp* vang lên khi vài tia sáng găm thẳng vào ng�
 
 “Đừng, Kinako, đừng làm càn!”
 
-“Bắn đi, cậu Hayama!”
+“Bắn đi, Hayama-kun!”
 
 “Khốn kiếp, Takanashi!”
 
-Sự hy sinh của Kinako đã tiếp thêm động lực cho cậu Hayama.
+Sự hy sinh của Kinako đã tiếp thêm động lực cho Hayama-kun.
 
 Cậu giơ cao chiếc điện thoại cùng với cây Hồng Thương đang lập lòe những đốm lửa ở đầu mũi thương.
 
@@ -310,9 +310,9 @@ Vị trí đứng lúc này thật là may mắn. Kyouko đã nhắm bắn Takan
 
 Đối mặt với khẩu súng ổ quay của Kyouko, Takanashi cũng chĩa khẩu blaster về phía cô ấy.
 
-Nguy rồi. Kyouko lúc này cũng giống như cậu Hayama lúc nãy, chỉ có thể đứng chôn chân một chỗ. Cô ấy không có vật che chắn, cũng không có đồng đội nào có thể đỡ đòn hộ như Kinako.
+Nguy rồi. Kyouko lúc này cũng giống như Hayama-kun lúc nãy, chỉ có thể đứng chôn chân một chỗ. Cô ấy không có vật che chắn, cũng không có đồng đội nào có thể đỡ đòn hộ như Kinako.
 
-“Làm ơn, hãy bảo vệ bạn Randou———— 『Triệu Hoán Băng Tinh Linh』!”
+“Làm ơn, hãy bảo vệ Randou-san———— 『Triệu Hoán Băng Tinh Linh』!”
 
 Ngay lúc đó, Lớp trưởng đã hành động.
 
@@ -326,7 +326,7 @@ Thế nhưng, mỗi con vẫn kiên cường đỡ được hai phát bắn, b�
 
 “Đừng hòng làm càn thêm nữa...”
 
-Mày tưởng từ nãy đến giờ tao chỉ biết im lặng đứng nhìn, phó mặc mọi chuyện cho cậu Hayama và Kyouko, những người có thể tấn công bằng sức mạnh tinh linh sao?
+Mày tưởng từ nãy đến giờ tao chỉ biết im lặng đứng nhìn, phó mặc mọi chuyện cho Hayama-kun và Kyouko, những người có thể tấn công bằng sức mạnh tinh linh sao?
 
 Tao cũng đang cố gắng hết sức đây. Trong tình thế ngàn cân treo sợi tóc này, tao đang thử nghiệm một phương pháp chưa từng nghĩ tới, cũng chưa từng làm thử bao giờ, hoàn toàn là ứng biến ngay tại trận.
 
@@ -368,7 +368,7 @@ Có vẻ như tinh linh bóng tối rất hiểu cách sử dụng chú thuật 
 
 “Nhắm cho chuẩn vào, thổ tinh linh!”
 
-Đòn tấn công dồn dập của cậu Hayama và Kyouko ập xuống Takanashi.
+Đòn tấn công dồn dập của Hayama-kun và Kyouko ập xuống Takanashi.
 
 “Ư... ư... ááá...”
 
@@ -384,11 +384,11 @@ Chỉ cần một bước nữa thôi, chưa đầy một phút nữa, cô ta s�
 
 Giết.
 
-Nhất định phải giết sạch tại đây.
+Nhất định phải giết chết tại đây.
 
 Sau khi tiêu diệt con khốn chủ mưu này, chúng tôi nhất định sẽ cùng nhau thoát khỏi hầm ngục này để trở về thế giới bên ngoài————
 
-“C... Cứu em với... Cậu Souma...”
+“C... Cứu em với... Souma-kun...”
 
 “DỪNG LẠI ĐIIIIIIIIIIIIIIIIIIIIIIIIII!”
 

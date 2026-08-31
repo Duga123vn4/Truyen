@@ -24,9 +24,9 @@ Nó lắc lư cái đầu nhỏ tròn trịa, không ngừng dáo dác nhìn qua
 
 “Thật là, nếu cậu muốn ấp trứng thì cứ nói một tiếng, tớ sẽ hỗ trợ đàng hoàng mà.”
 
-“Tại cậu cứ hớn hở đòi ăn cái trứng đó chứ bộ...”
+“Tại cậu cứ hớn hở đòi ăn quả trứng đó chứ bộ...”
 
-Từ chiến lợi phẩm thu được sau khi tiêu diệt Đại Chiến Sĩ Bon của tộc Gira-Gogma, ngoài xác của con Salamander, chúng tôi còn thu hồi được cả trứng của nó.
+Từ chiến lợi phẩm thu được sau khi tiêu diệt Đại Chiến Sĩ Bon của tộc Gira-Goma, ngoài xác của con Salamander, chúng tôi còn thu hồi được cả trứng của nó.
 
 Về phần con Salamander, từ vảy, lớp vỏ cứng cho đến lõi ma vật đều đã được tận dụng triệt để cho chiến dịch công kích vương quốc. Tuy nhiên, tôi đã hơi đắn đo không biết nên làm gì với quả trứng.
 

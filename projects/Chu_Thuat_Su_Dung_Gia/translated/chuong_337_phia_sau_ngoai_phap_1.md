@@ -1,24 +1,24 @@
 # Tập 337: Phía sau ngoại pháp (1)
 
-“Ừm, quả nhiên 『Thánh Thiên Kết Giới』 vạn năng thật đấy.”
+“Ừm, quả nhiên 『Thánh Thiên Kết Giới』 đúng là vạn năng thật đấy.”
 
-Nhờ sự hy sinh cao cả của Sakura, toàn bộ kết quả thực nghiệm đã được phơi bày.
+Nhờ sự hy sinh cao cả của Sakura, toàn bộ kết quả thực nghiệm đã được phơi bày rõ ràng.
 
-Chúng tôi đã thử nghiệm mọi thuộc tính ma pháp tấn công, dẫn đầu là Kyouko. Với những thuộc tính còn thiếu như lôi điện, chúng tôi đã dùng vũ khí ma pháp hoặc nhờ tinh linh của Hayama bổ trợ để bắn đủ tất cả các hệ. Đúng như dự đoán, không có thuộc tính nào tỏ ra đặc biệt hiệu quả để khắc chế nó cả.
+Chúng tôi đã thử nghiệm qua mọi thuộc tính ma pháp tấn công, dẫn đầu là Kyouko. Với những thuộc tính còn thiếu như lôi điện, chúng tôi đã dùng vũ khí ma pháp hoặc nhờ tinh linh của Hayama bổ trợ để bắn đủ tất cả các hệ. Đúng như dự đoán, chẳng có thuộc tính nào tỏ ra đặc biệt hiệu quả để khắc chế nó cả.
 
-Tất nhiên, tôi cũng bảo Mei và Natsukawa tung võ kỹ vào để kiểm tra khả năng kháng vật lý. Có cảm giác khả năng phòng ngự vật lý của nó còn bá đạo hơn cả kháng thuộc tính.
+Tất nhiên, tôi cũng bảo Mei-chan và Natsukawa-san tung võ kỹ vào để kiểm tra khả năng kháng vật lý. Có cảm giác năng lực phòng ngự vật lý của nó thậm chí còn bá đạo hơn cả kháng thuộc tính.
 
-Đòn võ kỹ tung ra bằng toàn bộ sức mạnh của Mei đánh trực diện mà nó vẫn chịu được một phát. Độ cứng cáp đó phải ngang ngửa với cổ của Zagan đấy.
+Đòn võ kỹ tung ra bằng toàn bộ sức mạnh của Mei-chan đánh trực diện mà nó vẫn chịu được một phát. Độ cứng cáp đó chắc chắn phải ngang ngửa với phần cổ của Zagan.
 
-Nhiều khả năng 『Thánh Thiên Kết Giới』 do Takanashi sử dụng còn mạnh hơn cả của Sakura. Nếu không thể dễ dàng phá vỡ kết giới của Sakura, cơ hội để đả thương ả ta gần như bằng không.
+Nhiều khả năng 『Thánh Thiên Kết Giới』 do Takanashi thi triển còn mạnh hơn cả của Sakura-chan. Nếu không thể dễ dàng phá vỡ kết giới của Sakura-chan, cơ hội để đả thương ả ta gần như bằng không.
 
-“Về cơ bản là kháng mọi thuộc tính kèm theo kháng vật lý cực cao. Cái thiết lập lỗi game phiền phức gì thế này, cái này đáng lẽ phải bị nerf đi chứ.”
+“Về cơ bản là kháng mọi thuộc tính kèm theo kháng vật lý cực cao. Cái thiết lập lỗi game phiền phức gì thế này, thứ này đáng lẽ phải bị nerf đi mới phải chứ.”
 
 “Hộc, hộc... Xong... Xong rồi... Anh hai ơi, em đã vượt qua... thử thách khắc nghiệt này rồi...”
 
-Sau khi chống đỡ được đợt oanh tạc võ kỹ toàn lực cuối cùng của Mei, Sakura thở không ra hơi, ánh mắt xa xăm vô định. Đến mức cô nàng còn lẩm nhẩm trò chuyện với người anh trai không có mặt ở đây, đủ hiểu buổi thí nghiệm làm bao cát này đã vắt kiệt sức lực của cô ta thế nào.
+Sau khi chống đỡ đợt oanh tạc võ kỹ toàn lực cuối cùng của Mei-chan, Sakura-chan thở không ra hơi, ánh mắt xa xăm vô định. Đến mức cô nàng còn lẩm nhẩm trò chuyện với người anh trai không hề có mặt ở đây, đủ hiểu buổi thí nghiệm làm bao cát này đã vắt kiệt sức lực của cô ta đến nhường nào.
 
-Nhưng mà, Sakura ơi, hình như cô đang hiểu lầm gì đó thì phải?
+Nhưng mà, Sakura-chan ơi, hình như cô đang hiểu lầm gì đó thì phải?
 
 “Không hề, vẫn chưa xong đâu. Những gì vừa rồi chỉ là kiểm chứng cho các kết quả đã dự đoán trước thôi. Từ bây giờ chúng ta mới bắt đầu thử nghiệm nhiều phương thức tấn công khác nhau để tìm ra điểm yếu chứ.”
 
@@ -32,15 +32,15 @@ Nhưng mà, Sakura ơi, hình như cô đang hiểu lầm gì đó thì phải?
 
 “Ơ, chạy mất rồi.”
 
-Giống như Himeno ngày trước, Sakura hét lên một tiếng thảm thiết rồi vắt chân lên cổ chạy trốn với tốc độ tối đa.
+Giống hệt như Himeno ngày trước, Sakura-chan hét lên một tiếng thảm thiết rồi vắt chân lên cổ chạy trốn với tốc độ tối đa.
 
 “Mà thôi kệ đi. Thí nghiệm tiếp theo cũng cần thời gian chuẩn bị, cứ để cô ta nghỉ ngơi... À mà không, cô ta đã trốn việc, ru rú trong phòng suốt hai ngày trời rồi, phải bắt làm việc nhiều hơn mới huề vốn được chứ.”
 
-Vậy thì, cứ bắt cô ta đi săn là được.
+Vậy thì, cứ bắt cô ta đi săn là xong.
 
 Giờ đây không còn phải lo lắng về tai mắt của lũ Goma nữa, cả nhóm có thể tự do săn bắn quái vật trên một bản đồ rộng lớn. Sự tự do và sảng khoái này chắc chắn sẽ là liều thuốc đổi gió tuyệt vời nhất.
 
-Vì vậy, cuộc thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 tạm thời gác lại.
+Vì vậy, cuộc thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 tạm thời được gác lại.
 
 Sáng hôm sau, tại nhà ăn nơi mọi người tập hợp đông đủ, tôi thông báo lịch trình hôm nay sau bữa sáng.
 
@@ -52,7 +52,7 @@ Người đáp lại tôi một cách hăng hái giờ chỉ còn mỗi Hayama.
 
 Dạo gần đây, cặp đôi Ueta - Yoshizaki hay Yamada thường sẽ phản hồi ngay lập tức, nhưng bóng dáng của bộ ba tiên phong đáng tin cậy ấy giờ đã không còn ở đây nữa.
 
-Với thực lực hiện tại, tôi tin rằng chỉ cần không phải là những khu vực có môi trường quá khắc nghiệt, họ hoàn toàn có thể sinh tồn ở bất cứ đâu. Bởi vì họ ra đi trong trạng thái trang bị tận răng và mang theo lượng nhu yếu phẩm kha khá.
+Với thực lực hiện tại, tôi tin rằng chỉ cần không phải là những khu vực có môi trường quá đỗi khắc nghiệt, họ hoàn toàn có thể sinh tồn ở bất cứ đâu. Bởi vì họ ra đi trong trạng thái được trang bị tận răng và mang theo lượng nhu yếu phẩm kha khá.
 
 Dù tự nhủ ba người họ sẽ ổn thôi, nhưng thỉnh thoảng nỗi bất an vẫn cứ dâng trào trong lòng tôi. Takanashi, tao nhất định không tha cho mày.
 
@@ -62,7 +62,7 @@ Gạt bỏ cảm xúc đó sang một bên, quân số còn lại của chúng t
 
 “Cậu là đứa một mình đồ sát Zagan đấy, nói thế mà nghe được à?”
 
-Trước lời phát biểu thiếu tự tin một cách kỳ lạ của Mei, Kyouko liền đáp lại bằng vẻ mặt nghiêm túc. Đã hạ được Zagan thì ở tầng sâu nhất này làm gì còn con ma vật nào làm khó được cô ấy nữa. Ngoại trừ gã chiến binh cuồng loạn hay lảng vảng dưới ga ngầm ra.
+Trước lời phát biểu thiếu tự tin một cách kỳ lạ của Mei-chan, Kyouko liền đáp lại bằng vẻ mặt nghiêm túc. Đã hạ được Zagan thì ở tầng sâu nhất này làm gì còn con ma vật nào làm khó được cậu ấy nữa. Ngoại trừ gã chiến binh cuồng loạn hay lảng vảng dưới ga ngầm ra.
 
 “Thế phân chia tổ đội thế nào đây?”
 
@@ -82,9 +82,9 @@ Có lẽ cơ chế đó cũng có thể bù đắp bằng ma lực của pháo �
 
 Đội hình cụ thể như sau:
 
-Đội săn bắn số 1: Mei, Kyouko, Hayama, Nakajima.
+Đội săn bắn số 1: Mei-chan, Kyouko, Hayama, Nakajima.
 
-Đội săn bắn số 2: Lớp trưởng, Natsukawa, Sakura.
+Đội săn bắn số 2: Lớp trưởng, Natsukawa-san, Sakura-chan.
 
 Về cơ bản vẫn là những thành viên quen thuộc hay đi chung với nhau. Dù có sự chênh lệch quân số giữa đội bốn người và đội ba người, nhưng tôi sẽ bù đắp bằng cách bố trí Rem và các triệu hoán thú đi kèm.
 
@@ -150,9 +150,9 @@ Mong là cấp độ kỹ năng của Himeno sớm tăng lên.
 
 Sau khi Takanashi bỏ trốn, chúng tôi lập tức di chuyển đến pháo đài ẩn này. Lúc đó ai nấy đều mệt mỏi rã rời, và việc tìm kiếm một vùng an toàn để nghỉ ngơi là ưu tiên hàng đầu, nên đó là lựa chọn hiển nhiên.
 
-Nhưng chuyện đó là một lẽ, còn ở chiến trường cũ, nói chính xác hơn là phần cung điện và pháo đài trung tâm còn sót lại sau vụ sụp đổ của vương quốc Goma. Nơi đó vẫn còn vô số xác binh lính Goma nằm la liệt. Đó đều là những chiến binh Gove lực lưỡng được trang bị giáp trụ tử tế, những tư tế chỉ xuất hiện trong cung điện, và cả những con GoGame Mastera tinh nhuệ nhất mang theo vũ khí ma pháp.
+Nhưng chuyện đó là một lẽ, còn ở chiến trường cũ, nói chính xác hơn là phần cung điện và pháo đài trung tâm còn sót lại sau vụ sụp đổ của vương quốc Goma... nơi đó vẫn còn vô số xác binh lính Goma nằm la liệt. Đó đều là những chiến binh Gove lực lưỡng được trang bị giáp trụ tử tế, những tư tế chỉ xuất hiện trong cung điện, và cả những con Goma tinh nhuệ nhất mang theo vũ khí ma pháp.
 
-Và trên hết, còn có cả xác của Zagan, kẻ mạnh nhất trong số các Gira-GoGame Mastera.
+Và trên hết, còn có cả xác của Zagan, kẻ mạnh nhất trong số các Gira-Goma.
 
 “Phân thân của tớ và Rem đã làm việc gần như không nghỉ để thu hoạch lõi và lột sạch trang bị của chúng, nên lượng lõi cần dùng ngay trước mắt đã được đảm bảo rồi.”
 
@@ -164,7 +164,7 @@ Cảm ơn vì đã tích trữ nhiều đồ tốt thế nhé, Oh-ma. Di sản c
 
 Nhờ vậy, bằng cách kiên trì rã xác lính Gove để lấy lõi, rồi dùng số lõi đó để tăng thêm số lượng xác sống của Rem, rồi lại dùng lõi thu được tiếp theo để tăng số lượng triệu hoán thú... Việc tự cung tự cấp lõi tại chỗ đã giúp chúng tôi gia tăng đáng kể nhân lực, và hiện tại khu vực đó vẫn đang vô cùng nhộn nhịp với công việc thu hoạch của chúng tôi.
 
-Cả Rem lẫn các triệu hoán thú đều đang làm việc hết công suất không ngừng nghỉ. Đúng là những nhân viên kiểu mẫu. Himeno và Sakura nên học tập theo đi nhé.
+Cả Rem lẫn các triệu hoán thú đều đang làm việc hết công suất không ngừng nghỉ. Đúng là những nhân viên kiểu mẫu. Himeno và Sakura-chan nên học tập theo đi nhé.
 
 “Này, nếu đã có nhiều đồ như thế rồi thì chúng ta không cần đi săn nữa cũng được mà?”
 
@@ -222,7 +222,7 @@ Oh-ma là một vị vua vĩ đại, Zagan là một chiến sĩ kiêu hãnh. T�
 
 U là trời, tình huống phiền phức thật đấy... Nhưng một khi đã được bảo đảm là cậu ta vẫn còn cứu được, nghĩa là tôi lại phải còng lưng ra thuyết phục cậu ta rồi.
 
-Ài, thật là, Souma ơi, sau khi quay về cậu phải làm việc bán mạng để đền ơn tôi đấy nhé. Phải trả nợ gấp đôi, không, gấp ba lần cho tôi. Tính cả công sức tôi phải đi trông nom Sakura nữa đấy.
+Ài, thật là, Souma ơi, sau khi quay về cậu phải làm việc bán mạng để đền ơn tôi đấy nhé. Phải trả nợ gấp đôi, không, gấp ba lần cho tôi. Tính cả công sức tôi phải đi trông nom Sakura-chan nữa đấy.
 
 “Ta sẽ ban cho ngươi chú thuật mới.”
 

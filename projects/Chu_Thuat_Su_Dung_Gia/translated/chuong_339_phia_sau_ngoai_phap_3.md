@@ -1,16 +1,16 @@
 # Tập 339: Phía sau Ngoại Pháp (3)
 
-“Chào cậu, Nakajima. Trông vẻ mặt cậu có vẻ ủ rũ thế?”
+“Chào cậu, Nakajima. Trông sắc mặt cậu có vẻ ủ rũ thế?”
 
 “Ơ, Momokawa, sao cậu lại...”
 
 Tối hôm đó, tôi ghé qua phòng của Nakajima.
 
-Không giống như Mei, Kyouko hay Hayama, tôi và cậu ta không phải là những người bạn quá thân thiết trong đời sống riêng tư. Có lẽ vì thế mà cậu ta tỏ ra khá ngạc nhiên khi thấy tôi xuất hiện vào giờ này.
+Không giống như Mei-chan, Kyouko hay Hayama, tôi và cậu ta vốn không phải là bạn bè quá đỗi thân thiết trong đời sống riêng tư. Có lẽ vì thế mà cậu ta tỏ ra khá ngạc nhiên khi thấy tôi xuất hiện vào giờ này.
 
-*Chắc là ngạc nhiên lắm nhỉ? Nhưng vẻ mặt đó không phải là ghét bỏ lộ liễu đâu đúng không?*
+*Chắc là ngạc nhiên lắm nhỉ? Nhưng nét mặt đó chí ít cũng không phải là chán ghét lộ liễu, đúng chứ?*
 
-“Tôi có chút chuyện muốn nói với cậu đây, Nakajima. À, không phải chuyện gì xấu đâu, cứ thoải mái nghe đi. Nào, vừa uống chút rượu vừa nói chuyện nhé.”
+“Tôi có chút chuyện muốn bàn với cậu đây, Nakajima. À, không phải chuyện gì xấu đâu, cứ thoải mái nghe đi. Nào, vừa nhâm nhi chút rượu vừa nói chuyện nhé.”
 
 “Chuyện muốn nói với tôi sao... Được rồi, vào đi.”
 
@@ -18,33 +18,33 @@ Không giống như Mei, Kyouko hay Hayama, tôi và cậu ta không phải là 
 
 Có vẻ như Nakajima đã hạ quyết tâm, cậu ta ngoan ngoãn mời tôi vào phòng.
 
-Tôi mang theo chút đồ nhắm. Theo sau là Rem đang ôm một chai rượu lớn bước vào.
+Tôi mang theo chút đồ nhắm. Theo sau là Rem đang ôm một bình rượu lớn bước vào.
 
-Trên chiếc bàn có sẵn trong phòng, Rem bày biện xúc xích salami, phô mai và đậu rang ra những chiếc đĩa nhỏ, rồi dùng đôi tay bé xíu ôm lấy chai rượu, rót đầy vào ly của hai chúng tôi.
+Trên chiếc bàn tròn có sẵn trong phòng, Rem thoăn thoắt bày biện xúc xích salami, phô mai cùng đậu rang ra từng đĩa nhỏ, rồi dùng đôi tay bé xíu cẩn thận ôm lấy bình rượu, rót đầy vào ly của hai chúng tôi.
 
-“Chai rượu này tôi lấy từ kho lương thực đấy, uống cũng khá được. Không biết là đồ từ mấy ngàn năm trước nữa.”
+“Bình rượu này tôi lấy từ kho lương thực đấy, hương vị cũng khá được. Chẳng biết là đồ ủ từ mấy ngàn năm trước nữa.”
 
-“Đến nông nỗi này rồi thì tôi cũng chẳng bận tâm chuyện đó đâu.”
+“Đến nông nỗi này rồi thì tôi cũng chẳng bận tâm mấy chuyện đó đâu.”
 
-Đến cả thức ăn trong kho lương thực chúng tôi còn ăn như bình thường rồi, thì một chai rượu đã là gì chứ.
+Đến cả lương khô tồn kho từ thời cổ đại chúng tôi còn ăn ngon lành như thường, thì một bình rượu lâu năm đã là gì.
 
-Dù sao thì, sau khi mọi thứ đã chuẩn bị xong, tôi và Nakajima cùng cụng ly.
+Sau khi mọi thứ đã tươm tất, tôi nâng ly cùng Nakajima.
 
-“Hôm nay cậu đã vất vả rồi. Kể từ chiến dịch chinh phục vương quốc đến giờ, đây là lần đầu tiên cậu thực sự chiến đấu nhỉ.”
+“Hôm nay vất vả cho cậu rồi. Kể từ sau chiến dịch chinh phục Vương quốc Goma đến nay, đây là lần đầu tiên cậu thực sự vung kiếm chiến đấu trở lại nhỉ.”
 
-“Dù nói thế, nhưng tính ra vẫn chưa đầy một tuần mà.”
+“Dù nói thế, nhưng tính ra cũng chưa đầy một tuần mà.”
 
-“Kiếm kỹ của cậu vẫn không hề mai một chút nào. Ngay ngày đầu tiên đã săn được nhiều ma vật như vậy, giúp ích cho tôi nhiều lắm.”
+“Kiếm kỹ của cậu vẫn sắc bén như xưa, không hề mai một chút nào. Ngay ngày đầu tiên đã săn được chừng ấy ma vật, giúp ích cho tôi nhiều lắm.”
 
-“Không đâu, phần lớn là do Futaba làm hết đấy chứ... Bọn tôi chỉ việc hưởng sái thôi.”
+“Không đâu, phần lớn công lao đều nhờ Futaba gánh vác hết đấy chứ... Bọn tôi chỉ theo sau dọn dẹp tàn cuộc thôi.”
 
-Với nguyên liệu của Cerberus hệ Phong làm chủ đạo, cùng với một vài nguyên liệu cấp Boss khác, và cả một số lượng lớn Lõi ma vật thông thường vốn là mục tiêu ban đầu, họ đã mang về rất nhiều chiến lợi phẩm. Kết quả của ngày đi săn đầu tiên này không chỉ dừng lại ở mức tốt, mà phải gọi là xuất sắc.
+Với nguyên liệu thu hoạch từ Cerberus hệ Phong làm chủ đạo, cùng một vài nguyên liệu cấp Boss khác, cộng thêm số lượng lớn Lõi Ma Vật thông thường vốn là mục tiêu ban đầu, chuyến đi săn đã mang về rất nhiều chiến lợi phẩm giá trị. Kết quả của ngày đầu tiên này không chỉ dừng lại ở mức khả quan, mà phải gọi là vô cùng xuất sắc.
 
-Có khi những con ma vật đáng chú ý quanh khu vực này đã bị họ quét sạch rồi cũng nên.
+Có khi lũ ma vật đáng gờm quanh khu vực này đã bị họ quét sạch sẽ rồi cũng nên.
 
-“Ngày mai Nakajima sẽ vào xưởng chế tạo hỗ trợ tôi nhé, làm phiền cậu vậy.”
+“Ngày mai Nakajima vào xưởng chế tác hỗ trợ tôi một tay nhé, làm phiền cậu vậy.”
 
-“Bên đó nghe chừng có vẻ vất vả hơn đấy.”
+“Bên đó nghe chừng có vẻ vất vả hơn nhiều đấy.”
 
 “Cứ thong thả làm việc cùng Himeno là được rồi.”
 
@@ -52,270 +52,270 @@ Có khi những con ma vật đáng chú ý quanh khu vực này đã bị họ 
 
 “Sao lại cười khổ thế kia?”
 
-Chúng tôi vừa uống rượu vừa trò chuyện xoay quanh công việc, chẳng mấy chốc ly của cả hai đã cạn sạch.
+Chúng tôi vừa uống rượu vừa trò chuyện rôm rả xoay quanh công việc, chẳng mấy chốc ly của cả hai đã cạn đáy.
 
-Chờ Rem nhón chân rót đầy ly thứ hai, Nakajima mới nghiêm túc vào thẳng vấn đề.
+Chờ Rem nhón chân châm đầy ly thứ hai, Nakajima mới nghiêm nét mặt, đi thẳng vào vấn đề chính.
 
 “Vậy, chuyện cậu muốn nói với tôi là gì?”
 
 “Về Kenzaki.”
 
-Đôi lông mày của cậu ta khẽ giật nảy lên.
+Đôi chân mày của cậu ta khẽ giật nảy lên.
 
 “Chuyện đó... Cậu định giết cô ấy sao?”
 
-Sau một nhịp im lặng, cậu ta nhìn tôi với ánh mắt nghiêm nghị và hỏi.
+Sau một nhịp im lặng nặng nề, cậu ta nhìn xoáy vào tôi với ánh mắt nghiêm nghị và cất tiếng hỏi.
 
-Chà, phản ứng này nằm ngoài dự đoán của tôi đấy, cậu ta bình tĩnh hơn tôi tưởng. Xem ra sau khi chứng kiến hành động phản bội của Kenzaki khi cô ta tự nguyện đi theo kẻ chủ mưu Kotori, ngay cả một kẻ si tình như Nakajima cũng phải cay đắng thừa nhận rằng cô ta đáng tội, và đã chuẩn bị tâm lý cho tình huống xấu nhất.
+Chà, phản ứng này quả thực nằm ngoài dự liệu của tôi, cậu ta bình tĩnh hơn tôi tưởng. Xem ra sau khi tận mắt chứng kiến hành vi phản bội của Kenzaki khi cô ta tự nguyện đi theo kẻ chủ mưu Kotori, ngay cả một kẻ si tình mù quáng như Nakajima cũng phải cay đắng thừa nhận rằng cô ta có tội, và đã chuẩn bị sẵn tâm lý cho tình huống xấu nhất.
 
-“Xử lý Kenzaki thế nào, điều đó hoàn toàn phụ thuộc vào cậu đấy, Nakajima.”
+“Xử lý Kenzaki thế nào, điều đó hoàn toàn phụ thuộc vào quyết định của cậu đấy, Nakajima.”
 
 “Ý cậu là sao... Cậu đang đe dọa tôi à?”
 
 “Tôi tuyệt đối không bao giờ dùng thủ đoạn đe dọa để bắt ép những người đồng đội quan trọng của mình phải hành động. Hy vọng cậu tin tưởng tôi ở điểm này.”
 
-“...Đúng vậy thật. Chính vì thế mà mọi người mới hết lòng ủng hộ cậu, Momokawa.”
+“...Đúng vậy thật. Chính vì thế mà mọi người mới hết lòng tin tưởng và ủng hộ cậu, Momokawa.”
 
-“Nghe cậu công nhận nỗ lực của tôi như vậy, tôi vui lắm. Công sức tôi bỏ ra quả không uổng phí.”
+“Nghe cậu công nhận nỗ lực của tôi như vậy, tôi vui lắm. Công sức tôi bỏ ra bấy lâu quả không uổng phí.”
 
 “Vậy, việc của Kenzaki-san phụ thuộc vào tôi nghĩa là thế nào?”
 
-“Nghĩa đen đấy. Giết hay cứu Kenzaki, cậu cứ việc quyết định.”
+“Nghĩa đen trên từng mặt chữ đấy. Giết hay tha, cứu mạng hay trừ khử Kenzaki, cậu cứ việc toàn quyền quyết định.”
 
-“Tại sao cậu lại giao việc đó cho tôi... Cứ làm theo những gì cậu muốn là được mà, Momokawa?”
+“Tại sao cậu lại giao việc hệ trọng đó cho tôi... Cứ làm theo những gì cậu muốn là được mà, Momokawa?”
 
-“Nakajima, tôi chưa từng quên tình cảm cậu dành cho Kenzaki đâu. Nếu tôi chà đạp lên cảm xúc của cậu để ưu tiên cho lòng thù hận của bản thân, chẳng phải cậu sẽ căm ghét tôi sao?”
+“Nakajima, tôi chưa từng quên tình cảm chân thành cậu dành cho Kenzaki đâu. Nếu tôi chà đạp lên cảm xúc của cậu để ưu tiên cho lòng thù hận của bản thân, chẳng phải cậu sẽ căm ghét tôi suốt đời sao?”
 
-Là một Chú thuật sư, tôi không ngại bị kẻ thù căm ghét, nhưng bị đồng đội oán hận thì phiền phức lắm.
+Là một 『Chú thuật sư』, tôi không ngại bị kẻ thù căm ghét nguyền rủa, nhưng để đồng đội ngầm oán hận sau lưng thì phiền toái lắm.
 
-Thế nên, tôi sẽ tôn trọng cảm xúc của cậu nhiều nhất có thể. Không giống như ai kia đâu, Souma ạ.
+Thế nên, tôi sẽ tôn trọng cảm xúc của cậu nhiều nhất có thể. Không bao giờ hành xử độc đoán, vô tâm giống như ai kia đâu, Souma-kun ạ.
 
-“Chuyện đó, tình cảm của tôi thì có là gì...”
+“Chuyện đó... chút tình cảm cỏn con của tôi thì đáng giá gì chứ...”
 
-“Đến giờ phút này rồi thì chẳng có gì phải xấu hổ cả. Tôi muốn cậu hãy thành thật chia sẻ cảm xúc của mình. Dù cậu vẫn còn yêu Kenzaki, hay đã quyết định từ bỏ cô ta sau khi cô ta đi theo Kotori, tôi cũng sẽ không phủ nhận suy nghĩ của cậu.”
+“Đến giờ phút sinh tử này rồi thì chẳng có gì phải giấu giếm hay xấu hổ cả. Tôi muốn cậu hãy thành thật đối diện với cảm xúc sâu kín nhất của mình. Dù cậu vẫn còn yêu Kenzaki, hay đã quyết định từ bỏ sau khi chứng kiến cô ta mù quáng chạy theo Kotori, tôi cũng sẽ không bao giờ phủ nhận suy nghĩ của cậu.”
 
-“Tôi... Tôi vẫn còn yêu Kenzaki-san. Tôi muốn cứu cô ấy, và tuyệt đối không muốn cô ấy phải chết... Nhưng, cô ấy đã đi theo Kotori...”
+“Tôi... Tôi vẫn còn yêu Kenzaki-san rất nhiều. Tôi muốn cứu cô ấy, và tuyệt đối không muốn cô ấy phải chết... Nhưng, cô ấy đã tự nguyện đi theo Kotori mất rồi...”
 
-“Không sao đâu, Nakajima. Việc con đàn bà ngu ngốc đó đi theo Kotori không phải là chuyện cậu phải bận lòng. Điều quan trọng là cảm xúc của cậu kìa. Vì vậy, tôi hứa sẽ hành động theo đúng nguyện vọng của cậu.”
+“Không sao đâu, Nakajima. Việc người phụ nữ ngu ngốc đó bị Kotori thao túng dẫn dắt không phải là điều cậu cần tự trách. Điều quan trọng nhất chính là nguyện vọng của cậu kìa. Vì vậy, tôi hứa sẽ hành động theo đúng ý muốn của cậu.”
 
-“Cậu nói vậy tôi rất biết ơn, nhưng... Như thế thì Kenzaki-san rõ ràng đã trở thành kẻ thù của chúng ta rồi còn gì. Sức mạnh của một 『Song Kiếm Sĩ』 là thật sự đáng gờm. Muốn khống chế cô ấy mà không làm tổn hại đến tính mạng đâu phải chuyện dễ dàng.”
+“Cậu nói vậy tôi thật sự rất biết ơn, nhưng... Như thế thì Kenzaki-san rõ ràng đã trở thành kẻ thù cản đường chúng ta rồi còn gì. Sức mạnh của một 『Song Kiếm Sĩ』 thực sự vô cùng đáng gờm. Muốn khống chế cô ấy trong trận chiến mà không làm tổn hại đến tính mạng đâu phải chuyện dễ dàng.”
 
-Ra vậy, Nakajima cũng đã suy nghĩ đến những khía cạnh thực tế. Chính vì thế mà cậu ta mới trăn trở như vậy.
+Ra vậy, Nakajima cũng đã cân nhắc đến những khía cạnh thực tế đầy gai góc. Chính vì thế mà cậu ta mới trăn trở khôn nguôi như vậy.
 
-Nếu là Souma, dù việc đó có khó khăn đến đâu, cậu ta chắc chắn vẫn sẽ tin vào sức mạnh của bản thân và lao vào với một tinh thần lạc quan tát nước theo mưa. Dù rằng sự tự tin đó đã bị nghiền nát không thương tiếc trong buổi họp lớp cuối cùng rồi.
+Nếu là Souma, dù việc đó có bất khả thi đến đâu, cậu ta chắc chắn vẫn sẽ tự mãn dựa dẫm vào sức mạnh Dũng Giả của bản thân rồi lao vào với một tinh thần lạc quan tát nước theo mưa. Dù rằng sự tự tin ngây thơ đó đã bị nghiền nát không thương tiếc trong buổi họp lớp định mệnh rồi.
 
-Thật là, rõ ràng mọi chuyện đang dần đi vào quỹ đạo tốt đẹp, vậy mà con khốn Kotori lại lộ bản chất vào phút chót làm đảo lộn tất cả...
+Thật là, rõ ràng mọi kế hoạch đang dần đi vào quỹ đạo êm đẹp, vậy mà con khốn Kotori lại lộ bản chất độc ác vào phút chót làm đảo lộn tất cả...
 
-“Cậu cứ yên tâm đi. Dù không có chuyện của Kenzaki, chúng ta vẫn phải tìm cách cứu Souma-kun và Kinako an toàn. Một khi hai người đó đã rơi vào tay Kotori, không đời nào cô ta chỉ nhốt họ vào lồng sắt rồi để yên đâu. Chắc chắn cô ta sẽ dùng thuật tẩy não hoặc thôi miên để biến họ thành công cụ giết chúng ta.”
+“Cậu cứ yên tâm đi. Dù không có chuyện của Kenzaki, chúng ta vẫn phải tìm cách bắt sống và giải cứu Souma-kun cùng Kinako một cách an toàn. Một khi hai kẻ đó đã rơi vào tay Kotori, không đời nào cô ta chỉ nhốt họ vào lồng sắt rồi để yên. Chắc chắn cô ta sẽ dùng cấm thuật tẩy não hoặc thôi miên để biến họ thành công cụ giết chóc nhằm tiêu diệt chúng ta.”
 
-“Cậu đã có cách nào để ngăn chặn chuyện đó chưa, Momokawa?”
+“Cậu đã có đối sách nào để ngăn chặn chuyện đó chưa, Momokawa?”
 
-“Hiện tại thì chưa. Nhưng đó là lý do tôi đang chuẩn bị mọi thứ thế này đây. Vậy nên Nakajima, nếu cậu muốn cứu cả Kenzaki nữa, từ giờ hãy cố gắng hợp tác với tôi nhé.”
+“Hiện tại thì đang hoàn thiện. Nhưng đó là lý do tôi đang ngày đêm chuẩn bị mọi thứ thế này đây. Vậy nên Nakajima, nếu cậu muốn cứu cả Kenzaki nữa, từ giờ hãy dốc toàn lực hợp tác với tôi nhé.”
 
-“Ý cậu là, nếu cậu chuẩn bị được cách ngăn chặn Souma-kun, cậu cũng sẽ áp dụng cách đó để cứu Kenzaki-san chứ?”
+“Ý cậu là... nếu cậu hoàn thiện được cách vô hiệu hóa Souma-kun, cậu cũng sẽ áp dụng phương pháp đó để cứu sống Kenzaki-san ư?”
 
-“Nếu đó là điều cậu muốn, tôi xin hứa.”
+“Nếu đó là điều cậu khao khát, tôi xin lấy danh dự ra bảo đảm.”
 
-“Làm ơn, Momokawa! Xin cậu hãy cứu Kenzaki-san, đừng giết cô ấy!”
+“Làm ơn, Momokawa! Xin cậu hãy cứu lấy Kenzaki-san, làm ơn đừng giết cô ấy!”
 
-Cậu ta cúi đầu cầu xin tôi không một chút do dự.
+Cậu ta cúi rạp đầu cầu xin tôi không một chút do dự.
 
-Xem ra, cậu ta vẫn còn yêu Kenzaki sâu đậm lắm.
+Xem ra, ngọn lửa si tình trong lòng cậu ta dành cho Kenzaki vẫn còn nồng cháy lắm.
 
-Ừm, quả nhiên việc tôi đến nói chuyện với cậu ta vào lúc này là hoàn toàn chính xác. Nếu tôi cứ lờ đi và bỏ mặc nỗi bất an của Nakajima, rất có thể cậu ta sẽ phản bội tôi để chạy theo Kotori hòng có được Kenzaki.
+Ừm, quả nhiên việc tôi chủ động đến đàm đạo với cậu ta vào lúc này là hoàn toàn sáng suốt. Nếu tôi cứ lờ đi và bỏ mặc nỗi bất an âm ỉ của Nakajima, rất có thể cậu ta sẽ phản bội tập thể, chạy theo Kotori hòng đổi lấy sự an toàn cho Kenzaki.
 
-Nhưng giờ đây, khi tôi — thủ lĩnh hiện tại của lớp 2-7 — đã khẳng định sẽ cứu Kenzaki, cậu ta sẽ yên tâm mà đi theo tôi. Dù việc có cứu được cô ta thật hay không lại là chuyện khác, nhưng ít nhất cho đến thời điểm trận chiến diễn ra, cậu ta chỉ còn cách tin tưởng vào tôi mà thôi.
+Nhưng giờ đây, khi tôi — thủ lĩnh nắm giữ vận mệnh của Lớp 2-7 — đã cam kết sẽ cứu sống Kenzaki, cậu ta sẽ an tâm tuyệt đối mà cúc cung tận tụy dưới trướng tôi. Dù việc có cứu được ả ta trọn vẹn hay không lại là câu chuyện khác, nhưng ít nhất cho đến thời điểm trận chiến ngã ngũ, cậu ta chỉ còn cách đặt trọn niềm tin vào tôi mà thôi.
 
-“Tất nhiên rồi, Nakajima. Nếu quyết tâm của cậu đã vững vàng như vậy, tôi sẽ giúp cậu một tay———— Tôi hứa sẽ không giết Kenzaki.”
+“Tất nhiên rồi, Nakajima. Nếu quyết tâm của cậu đã kiên định như vậy, tôi nhất định sẽ giúp cậu một tay———— Tôi hứa sẽ không lấy mạng Kenzaki.”
 
-*Nhưng tôi đâu có hứa là sẽ để cô ta lành lặn trở về.*
+*Nhưng tôi đâu có hứa là sẽ để ả ta lành lặn nguyên vẹn trở về.*
 
-Mất đi một hai cái tay chân là chuyện đương nhiên, cậu cũng nên chuẩn bị tinh thần nhìn cô ta biến thành một con búp bê không chi đi là vừa. Còn về phần đầu óc, tôi cũng không dám đảm bảo cô ta có thể giữ được bao nhiêu phần tỉnh táo đâu.
+Mất đi một hai cánh tay hay đôi chân cũng là cái giá phải trả cho kẻ phản bội, cậu cũng nên chuẩn bị sẵn tinh thần nhìn ả ta biến thành một con búp bê tàn phế đi là vừa. Còn về phần trí não, tôi cũng chẳng dám đảm bảo ả ta có thể giữ được bao nhiêu phần tỉnh táo sau những thuật thức nguyền rủa đâu.
 
-“Cảm ơn cậu, Momokawa... Tôi thậm chí còn chưa kịp bày tỏ tình cảm của mình với cô ấy nữa...”
+“Cảm ơn cậu nhiều lắm, Momokawa... Tôi thậm chí còn chưa từng có cơ hội bày tỏ tình cảm thật của mình với cô ấy nữa...”
 
-“Này, Nakajima. Chỉ cần bày tỏ tình cảm thôi là cậu đã thỏa mãn rồi sao?”
+“Này, Nakajima. Chẳng lẽ chỉ cần nói ra được lời tỏ tình thôi là cậu đã cam lòng thỏa mãn rồi sao?”
 
-“Đương nhiên rồi. Tình cảm của tôi là một chuyện, còn việc Kenzaki-san có đáp lại hay không lại là chuyện khác.”
+“Đương nhiên rồi. Tình cảm của tôi là việc của tôi, còn chuyện Kenzaki-san có chấp nhận đáp lại hay không lại là quyền của cô ấy.”
 
-“Cậu nghiêm túc thật đấy. Tôn trọng cảm nhận của người con gái mình tỏ tình, một câu trả lời vô cùng thành thực———— Nhưng, cậu thực sự cam lòng như thế sao?”
+“Cậu đúng là một người đàn ông nghiêm túc đến đáng kinh ngạc đấy. Luôn đặt cảm xúc của người con gái mình yêu lên hàng đầu, một câu trả lời vô cùng cao thượng———— Nhưng, sâu thẳm trong lòng, cậu thực sự cam chịu kết cục đó sao?”
 
 “Hả...?”
 
-“Nếu như có một cách giúp cậu sở hữu được Kenzaki ngay cả khi cô ta từ chối cậu... cậu sẽ làm gì?”
+“Nếu như tồn tại một phương pháp giúp cậu hoàn toàn sở hữu được Kenzaki ngay cả khi ả ta tàn nhẫn cự tuyệt cậu... cậu sẽ làm gì?”
 
-“Cái... Chuyện đó, sao có thể cho phép được chứ! Như thế chẳng phải là tẩy não, hay cưỡng bức sao, đó đâu phải là những thủ đoạn đàng hoàng!?”
+“Cái... Chuyện đó, sao có thể chấp nhận được chứ! Như thế chẳng phải là dùng tà thuật tẩy não, hay cưỡng bức tâm trí người khác sao, đó đâu phải là hành vi quang minh chính đại!?”
 
-Thật là, nghe thấy thế mà lập tức thốt ra những lời như vậy, không biết Nakajima nghĩ tôi là loại người gì nữa.
+Thật là, vừa nghe gợi mở một chút mà đã giãy nảy thốt ra những lời đạo đức như vậy, không biết Nakajima đang đánh giá tôi là loại người nào nữa.
 
-Tôi là một 『Chú thuật sư』 đấy nhé? Đi theo con đường tà đạo, sử dụng những thủ đoạn bất chính mới chính là chính đạo của tôi, điều này đã được chính vị Thần tối cao chỉ dạy tận tay rồi———— Nhận định của cậu, thực sự rất chính xác đấy.
+Tôi là một 『Chú thuật sư』 đấy nhé? Dẫm đạp lên luân thường đạo lý, sử dụng những thủ đoạn hèn hạ tà độc nhất mới chính là chính đạo mà tôi theo đuổi, điều này đã được chính Chú thần tối cao chỉ dạy tận tay rồi———— Nhận định của cậu, thực sự chuẩn xác không trượt phát nào đấy.
 
-“Giả sử trong trận chiến sắp tới, nhờ sự nỗ lực của cậu mà mọi chuyện đều diễn ra suôn sẻ. Và cuối cùng, cậu đứng trước mặt Kenzaki để tỏ tình. Kết quả là————”
+“Giả sử trong trận quyết chiến sắp tới, nhờ sự nỗ lực tột cùng của cậu mà mọi việc đều diễn ra êm đẹp. Và cuối cùng, cậu đứng trước mặt Kenzaki để thổ lộ tâm can. Kết quả sẽ là gì nào————”
 
-“Xin lỗi Nakajima, tớ rất trân trọng tình cảm của cậu, nhưng tớ chỉ có Yuuto mà thôi. Tớ yêu Yuuto.”
+“Xin lỗi Nakajima, tớ rất trân trọng tình cảm của cậu, nhưng trong tim tớ chỉ có mỗi Yuuto mà thôi. Người tớ yêu duy nhất là Yuuto.”
 
-Rem, nãy giờ vẫn im lặng đứng sau lưng tôi, bất ngờ cất tiếng nói bằng giọng điệu giống hệt Kenzaki Asuna.
+Rem, nãy giờ vẫn im lìm đứng sau lưng tôi, bất ngờ cất tiếng nói bằng tông giọng trong trẻo, sắc lạnh giống hệt Kenzaki Asuna.
 
-Nếu thực sự nghiêm túc, Rem hoàn toàn có thể tái hiện lại ngoại hình và giọng nói của tôi. Việc giả giọng của Kenzaki, hay bất kỳ ai trong lớp, đối với cô bé thực ra chỉ là chuyện nhỏ.
+Một khi tập trung thi triển chú thuật, Rem hoàn toàn có thể sao chép hoàn hảo từ ngoại hình cho đến âm sắc của tôi. Việc giả giọng Kenzaki, hay bất kỳ thành viên nào trong lớp, đối với con rối của tôi thực chất chỉ là trò vặt vãnh.
 
 “Hự... aaaaaaaa!”
 
-Và đòn tấn công tinh thần này mang lại hiệu quả cực kỳ vượt trội đối với Nakajima.
+Và đòn công kích tâm lý tàn nhẫn này đã mang lại hiệu quả sát thương cực kỳ khủng khiếp đối với Nakajima.
 
-Kết cục bi thảm này, chắc chắn cậu ta đã tự mình tưởng tượng ra không biết bao nhiêu lần rồi. Đó gần như là một tương lai chắc chắn sẽ xảy ra. Chính vì muốn thay đổi nó mà cậu ta mới trăn trở, suy nghĩ đến nát óc, nhưng cuối cùng vẫn không tìm được chút tự tin hay bằng chứng nào cho thấy mình có thể khiến Kenzaki thay lòng đổi dạ.
+Viễn cảnh bi thảm này, chắc chắn trong những đêm mất ngủ cậu ta đã tự mình mường tượng ra không biết bao nhiêu lần. Đó gần như là một tương lai nghiệt ngã tất yếu sẽ xảy ra. Chính vì muốn thay đổi cái kết đau đớn đó mà cậu ta mới trăn trở, vắt kiệt tâm can suy nghĩ, nhưng rốt cuộc vẫn chẳng tìm thấy chút tự tin hay hy vọng nào le lói cho thấy mình có thể khiến Kenzaki thay lòng đổi dạ.
 
-Đòn này không thể không đau được. Càng yêu sâu đậm bao nhiêu, vết thương lòng chí mạng này càng rỉ máu bấy nhiêu.
+Nhát dao đâm thẳng vào tim này làm sao mà không đau đớn cho được. Càng si tình bao nhiêu, vết rách tâm can chí mạng này lại càng rỉ máu cay đắng bấy nhiêu.
 
-“Tôi không muốn nhìn thấy những nỗ lực và sự đau khổ của cậu từ trước đến nay bị đổ sông đổ bể như thế đâu.”
+“Tôi thật sự không đành lòng nhìn thấy bao nhiêu nỗ lực, mồ hôi và những giọt nước mắt đau khổ của cậu từ trước đến nay bị vứt bỏ như rác rưởi đâu.”
 
-“Ư... ư... Nhưng tôi... cảm xúc của Kenzaki-san...”
+“Ư... ư... Nhưng tôi... còn cảm xúc của Kenzaki-san...”
 
-“Cảm xúc của Kenzaki thì có gì quan trọng chứ?”
+“Cảm xúc của con đàn bà đó thì có giá trị gì chứ?”
 
 “...Hả?”
 
-“Cậu việc gì phải bận lòng dù chỉ một chút đến cảm xúc của một con đàn bà phản bội rác rưởi như thế. Nghe này Nakajima, một người đàn ông chân thành và nghiêm túc như cậu đã phải chịu bao nhiêu đau đớn vì cô ta———— Vậy thì, Kenzaki xứng đáng thuộc về cậu chứ?”
+“Cậu việc gì phải bận lòng, dù chỉ là một chút thương hại, đến cảm xúc của một kẻ phản bội đốn mạt như thế. Nghe này Nakajima, một người đàn ông chân thành, chung thủy và nghiêm túc như cậu đã phải chịu đựng biết bao dày vò đau đớn vì ả ta———— Vậy thì, Kenzaki hoàn toàn xứng đáng trở thành phần thưởng thuộc về cậu chứ?”
 
-“Mo... Momokawa... Cậu đang nói cái gì thế...”
+“Mo... Momokawa... Cậu đang nói những lời điên rồ gì thế...”
 
-“Thứ cần được tôn trọng không phải là cảm xúc của Kenzaki, mà là cảm xúc của cậu. Cậu định ngoan ngoãn nghe lời con khốn đó, để cô ta quay lại gia nhập vào cái dàn harem của Souma, rồi cậu tự thỏa mãn với điều đó sao? Nhìn cô ta không thể đến được với Souma-kun, nhưng cứ lảng vảng bên cạnh cậu ta trong một mối quan hệ mập mờ, cậu thực sự cam lòng nhìn cảnh đó à?”
+“Thứ duy nhất đáng được trân trọng lúc này không phải là cảm xúc của Kenzaki, mà chính là sự đền đáp cho cậu. Cậu định tiếp tục làm một kẻ nhu nhược ngoan ngoãn nghe lời ả ta, để ả quay lại bám víu vào cái dàn harem của Souma-kun, rồi cậu đứng từ xa mỉm cười tự thỏa mãn sao? Nhìn ả ta cả đời không bao giờ có được danh phận chính thức bên cạnh Souma-kun, nhưng cứ lượn lờ dây dưa trong một mối quan hệ mập mờ, cậu thực sự cam tâm đứng nhìn cảnh tượng chướng mắt đó à?”
 
-“Chuyện đó... Chuyện đó, làm sao tôi có thể thỏa mãn hay cam lòng được chứ!”
+“Chuyện đó... Chuyện nhục nhã đó, làm sao tôi có thể cam lòng hay chấp nhận được chứ!”
 
-“Đúng vậy, đúng vậy. Chính xác là như thế. Đằng nào thì Souma-kun cũng không bao giờ chọn một mình Kenzaki đâu. Sẽ chẳng bao giờ có một kết cục hạnh phúc trọn vẹn để cậu có thể cam tâm từ bỏ cả.”
+“Đúng vậy, đúng vậy. Chính xác là như thế đấy. Đằng nào thì Souma-kun cũng không bao giờ chọn riêng một mình Kenzaki đâu. Sẽ chẳng bao giờ có một cái kết viên mãn trọn vẹn để cậu có thể thanh thản buông tay cả.”
 
-Thế nên, tốt nhất là cứ biến Kenzaki thành sở hữu của Nakajima đi.
+Thế nên, phương án tối ưu nhất là biến Kenzaki thành vật sở hữu tuyệt đối của riêng Nakajima.
 
-Nói đúng hơn, tôi không bao giờ muốn để Kenzaki đến gần Souma thêm một lần nào nữa. Sức mạnh của một 『Song Kiếm Sĩ』. Sự yếu đuối trong tâm hồn luôn lộ ra vào những thời khắc quyết định. Và hành vi phản bội không thể tha thứ khi tự nguyện đi theo kẻ chủ mưu Kotori.
+Nói thẳng ra, tôi tuyệt đối không bao giờ để Kenzaki có cơ hội bén mảng lại gần Souma thêm một lần nào nữa. Uy lực cận chiến nguy hiểm của một 『Song Kiếm Sĩ』. Sự yếu đuối, dao động trong tâm lý luôn bộc phát vào những thời khắc then chốt. Và đỉnh điểm là hành vi phản trắc không thể dung thứ khi tự nguyện quy phục kẻ chủ mưu Kotori.
 
-Giữ một con đàn bà như thế bên cạnh thì làm sao mà yên ổn được.
+Dung túng cho một con đàn bà mang mầm mống phản nghịch như thế tồn tại bên cạnh thì làm sao tôi có thể kê cao gối ngủ.
 
-Đây là chuyện sau khi chúng tôi thoát khỏi Dungeon. Giả sử tất cả chúng tôi đều đến được vương quốc loài người mang tên Astoria một cách an toàn, thì tiếp theo sẽ thế nào?
+Hãy nghĩ đến tương lai sau khi chúng tôi thoát khỏi Dungeon ngột ngạt này. Giả sử toàn bộ lớp học đều đặt chân đến vương quốc loài người mang tên Astoria một cách an toàn, thì kịch bản tiếp theo sẽ là gì?
 
-Ở một vương quốc hòa bình, nếu Kenzaki quay lại dàn harem của Souma, con khốn đó chắc chắn sẽ âm mưu trả thù tôi.
+Ở một thế giới trần tục thanh bình, nếu Kenzaki quay lại vòng tay che chở của phe Souma, con khốn đó chắc chắn sẽ âm thầm vạch kế hoạch ám sát, trả thù tôi.
 
-Chẳng cần biết có lý do chính đáng hay không. Cô ta chỉ đơn giản nghĩ rằng mọi đau khổ mình phải gánh chịu đều do một tay Momokawa Kotarou này gây ra, nên cô ta sẽ tìm mọi cách để tiêu diệt tôi.
+Ả ta sẽ chẳng cần quan tâm đến lý lẽ hay công lý. Kenzaki sẽ chỉ đơn giản đổ hết mọi bi kịch, nhục nhã mà ả phải nếm trải lên đầu Momokawa Kotarou này, và tìm mọi cách trừ khử tôi cho bằng được.
 
-Ngay cả khi đã trốn thoát đến vương quốc Astoria, tôi tuyệt đối không muốn để một con khốn mang tư tưởng nguy hiểm như thế được tự do tự tại.
+Dù đã trốn thoát đến vương quốc Astoria, tôi cũng không bao giờ cho phép một mối hiểm họa khó lường như ả được tự do đi lại ngoài tầm kiểm soát.
 
-Thực ra, cách nhanh nhất là giết quách cô ta cùng với Kotori cho rảnh nợ... nhưng vì thể diện của Nakajima và Souma, trước mắt tôi vẫn sẽ để cô ta sống. Nếu cô ta có thể gặp tai nạn rồi chết một cách tự nhiên mà không liên quan đến tôi thì tốt quá.
+Thực lòng mà nói, giải pháp nhanh gọn nhất là chém đầu ả ta cùng lúc với Kotori cho sạch nợ... nhưng nể mặt mũi của Nakajima và để giữ thế cân bằng với Souma, trước mắt tôi vẫn sẽ chừa cho ả một con đường sống. Nếu ả ta chẳng may gặp tai nạn bất ngờ rồi bỏ mạng nơi chiến trường mà không dính líu đến tôi thì càng đỡ rắc rối.
 
-Dù sao thì, trong trường hợp Kenzaki mạng lớn sống sót đến cuối cùng, cách tốt nhất để phong ấn cô ta chính là Nakajima.
+Bằng không, trong trường hợp Kenzaki mạng lớn sống sót qua cuộc thanh trừng, xiềng xích phong ấn hoàn hảo nhất dành cho ả chính là Nakajima.
 
-“Tôi thật sự không thể chấp nhận được việc một người luôn trăn trở, đau khổ và hết lòng hợp tác chiến đấu cùng chúng tôi như cậu lại phải nhận một kết cục thất bại. Kenzaki nhất định phải thuộc về cậu.”
+“Tôi thật lòng không thể chấp nhận được việc một người luôn trăn trở, gánh vác đau thương và hết mình chiến đấu vì tập thể như cậu lại phải nhận lấy một kết cục cay đắng trắng tay. Kenzaki nhất định phải thuộc quyền sở hữu của cậu.”
 
-“Cậu đã nghĩ cho tôi đến mức đó sao... N-Nhưng, việc phản bội lại cảm xúc của chính Kenzaki-san thì...”
+“Cậu đã tính toán và nghĩ cho tôi đến mức này sao... N-Nhưng, hành vi cưỡng ép tước đoạt cảm xúc của Kenzaki-san thì...”
 
-“Nhân tiện, Nakajima này, cậu có biết cái vòng trên đầu Tôn Ngộ Không không?”
+“Nhân tiện, Nakajima này, cậu có biết chiếc vòng kim cô trên đầu Tôn Ngộ Không không?”
 
-“Hả? Cái gì, Tôn Ngộ Không á?”
+“Hả? Cái gì cơ, Tôn Ngộ Không á?”
 
-“Hay là cái vòng cổ phát nổ quen thuộc trong các bộ phim sinh tồn. Hoặc là vòng cổ nô lệ mà các elf hay đeo trong truyện giả tưởng dị giới ấy.”
+“Hay là chiếc vòng cổ gắn bom quen thuộc trong mấy bộ phim sinh tồn battle royale. Hoặc là loại vòng cổ phong ấn nô lệ mà tộc elf hay bị gông cùm trong mấy cuốn tiểu thuyết dị giới chẳng hạn.”
 
-“À, ừ, tôi có biết... Nhưng tự nhiên cậu nói chuyện đó làm gì?”
+“À, ừ, mấy thứ đó thì tôi biết... Nhưng đột nhiên cậu nhắc đến chuyện đó làm gì?”
 
-“Thực ra, gần đây tôi mới được Chú thần Ruinhilde ban cho một chú thuật mới.”
+“Thực ra, gần đây tôi vừa được Chú thần Ruinhilde khai mở và ban thưởng cho một hệ thống chú thuật hoàn toàn mới.”
 
 “V-Vậy sao.”
 
-“Nó là một chú thuật giúp cường hóa năng lực luyện thành có tên là 『Cấm Chú Giải Pháp』———— Cậu nghĩ sao nếu tôi có thể dùng nó để chế tạo ra một vật phẩm nguyền rủa có khả năng bắt người khác phải phục tùng?”
+“Đó là một bí thuật tăng cường khả năng luyện thành mang tên 『Cấm Chú Giải Pháp』———— Cậu nghĩ thế nào nếu tôi có thể vận dụng nó để chế tác ra một món ma đạo cụ nguyền rủa có năng lực bắt ép kẻ khác phải phục tùng vô điều kiện?”
 
 ***
 
-Sáng sớm hôm sau.
+Sáng sớm ngày hôm sau.
 
-“Momokawa, tôi sẽ làm! Cứ giao hết cho tôi!”
+“Momokawa, cứ để tôi làm! Cứ giao hết mọi việc cho tôi!”
 
-Tại xưởng chế tạo ở sảnh chính, tiếng hét tràn đầy nhiệt huyết của một “nhân viên” vang vọng khắp không gian.
+Tại xưởng chế tác ma đạo cụ ở sảnh chính Học Viện Tháp, tiếng hô dõng dạc, tràn đầy khí thế của một “công nhân” mẫn cán vang vọng khắp không gian.
 
-“Cảm ơn cậu nhé, Nakajima. Sáng sớm thế này đã làm phiền cậu rồi.”
+“Cảm ơn cậu nhiều nhé, Nakajima. Sáng sớm tinh mơ thế này đã bắt cậu phải vất vả rồi.”
 
-“Không có gì đâu, đó là lẽ đương nhiên mà. Momokawa đã đồng ý nghe theo yêu cầu ích kỷ của tôi, tôi sẽ không tiếc công sức giúp đỡ cậu.”
+“Không sao đâu, đó là bổn phận của tôi mà! Cậu đã rộng lượng chấp thuận yêu cầu ích kỷ của tôi, tôi nhất định sẽ dốc hết tâm sức phò tá cậu!”
 
-Nakajima tuyên bố với một ánh mắt kiên định và tràn đầy quyết tâm.
+Nakajima ưỡn ngực tuyên bố với ánh mắt rực lửa quyết tâm.
 
-Giờ làm việc chính thức của xưởng chế tạo là từ 8 giờ 30 phút sau khi ăn sáng xong, nhưng dạo này tôi không còn thói quen thức khuya nữa nên thường dậy khá sớm. Những lúc như vậy, việc vào xưởng làm việc là cách giết thời gian tốt nhất.
+Giờ vận hành chính thức của xưởng chế tác thường bắt đầu từ 8 giờ 30 phút sau bữa ăn sáng, nhưng dạo gần đây tôi đã bỏ thói quen thức khuya nên thường thức dậy từ rất sớm. Những lúc rảnh rỗi như thế này, chui vào xưởng mày mò nghiên cứu ma pháp là cách giết thời gian hữu hiệu nhất.
 
-Bình thường chỉ có một kẻ cuồng công việc như tôi mới có mặt ở đây từ sáng sớm, nhưng từ hôm nay đã có thêm Nakajima đồng hành.
+Bình thường chỉ có một kẻ nghiện công việc như tôi mới cặm cụi ở đây từ tờ mờ sáng, nhưng kể từ hôm nay đã có thêm một cánh tay đắc lực là Nakajima đồng hành.
 
-“Vậy thì, trước tiên phiền cậu phân giải đống vũ khí chất đống ở đằng kia nhé.”
+“Vậy thì, trước tiên phiền cậu dùng năng lực phân giải toàn bộ đống phế liệu vũ khí chất đống ở góc kia nhé.”
 
 “Rõ rồi!”
 
-Nhìn bóng lưng Nakajima hăm hở bắt tay vào công việc luyện thành, vẻ ủ rũ thường ngày của cậu ta đã hoàn toàn biến mất, thay vào đó là một luồng sinh khí mạnh mẽ.
+Nhìn theo bóng lưng Nakajima hăm hở lao vào công việc phân kim luyện khoáng, vẻ u sầu, ủ rũ thường ngày trên gương mặt cậu ta đã hoàn toàn biến mất, thay vào đó là một nguồn năng lượng sống hừng hực.
 
-Quả nhiên khi có động lực, con người ta sẽ thay đổi hoàn toàn nhỉ.
+Quả nhiên khi được bơm đúng động lực đen tối, tâm tính của một con người sẽ lập tức lột xác ngoạn mục nhỉ.
 
-*Cố lên nhé, Nakajima. Việc có biến Kenzaki Asuna thành nô lệ xác thịt dâm đãng được hay không đều phụ thuộc vào sự nỗ lực của cậu đấy!*
+*Cố lên nhé, Nakajima. Việc có biến được Kenzaki Asuna thành món đồ chơi nô lệ biết vâng lời hay không, tất cả đều trông cậy vào sự cần cù của cậu đấy!*
 
-“————Vì vậy, tôi cũng phải cố gắng hết sức vì Nakajima mới được. Rem, chuẩn bị xong chưa em?”
+“————Vì tương lai của Nakajima, bản thân tôi cũng phải nỗ lực hết mình mới được. Rem, em chuẩn bị xong xuôi chưa?”
 
 “O-kê.”
 
-Rem trả lời rồi nằm sấp xuống trước mặt tôi trong tình trạng không một mảnh vải che thân.
+Rem khẽ đáp một tiếng rồi ngoan ngoãn nằm sấp xuống bàn làm việc trước mặt tôi trong trạng thái hoàn toàn trút bỏ xiêm y.
 
-Tôi thề là mình không có ý định làm chuyện gì đồi bại với cô bé đâu.
+Tôi xin lấy danh dự thề là mình tuyệt đối không có bất kỳ mưu đồ đồi bại nào với cơ thể của cô bé đâu.
 
-Dù rằng, việc tôi sắp làm đây có khi còn vượt qua cả mức đồi bại và tiến thẳng vào ranh giới của sự phi nhân đạo.
+Dù rằng, thí nghiệm ma thuật mà tôi sắp sửa tiến hành đây có khi còn vượt xa cả khái niệm đồi bại, bước thẳng vào ranh giới của sự tàn bạo phi nhân tính.
 
-“Em đã tắt cảm giác đau chưa?”
+“Em đã ngắt hoàn toàn thụ cảm đau đớn chưa?”
 
-“Không sao đâu. Không đau đâu ạ.”
+“Không sao đâu ạ. Rem không đau đâu.”
 
 “Được rồi, vậy tôi bắt đầu đây———— 『Xích Phát Phược』.”
 
-Từ lòng bàn tay phải của tôi, những sợi tóc xúc tu đỏ thẫm đẫm chất độc axit vươn ra.
+Từ lòng bàn tay phải của tôi, những sợi tóc đỏ thẫm đẫm dịch độc axit ăn mòn bắt đầu vươn dài ra như những xúc tua ma quái.
 
-Đầu của những sợi tóc đỏ lướt nhẹ trên tấm lưng trắng ngần của Rem. Tiếng xèo xèo ghê rợn vang lên khi làn da non nớt bị thiêu cháy một cách tàn nhẫn.
+Đầu ngọn của những sợi tóc đỏ sắc lẹm lướt nhẹ trên tấm lưng trắng ngần không tì vết của Rem. Tiếng xèo xèo ghê rợn lập tức vang lên khi từng mảng da thịt nhân tạo bị thiêu đốt, cháy sém một cách tàn nhẫn.
 
-Tiếng động lớn đến mức Nakajima, người đang tập trung làm việc ở phía xa, cũng phải ngẩng đầu lên nhìn.
+Âm thanh bỏng rát chói tai đến mức Nakajima, người đang cặm cụi đập búa ở góc xa, cũng phải giật mình ngẩng đầu lên nhìn.
 
-Thế nhưng, lúc này tôi không có thời gian để giải thích cho cậu ta, tôi phải tập trung toàn bộ tinh thần để khắc họa lên lưng của Rem.
+Thế nhưng, lúc này tôi không còn tâm trí đâu để giải thích dông dài cho cậu ta, tôi phải dồn 100% sự tập trung cao độ để khắc họa trận đồ ma thuật lên lưng Rem.
 
-Đây là lần đầu tiên tôi thử nghiệm kỹ thuật này. Nhưng tôi tin chắc mình sẽ thành công. Thần Ruinhilde ban cho tôi 『Cấm Chú Giải Pháp』 chắc chắn là để tôi sử dụng kỹ năng này.
+Đây là lần đầu tiên tôi tiến hành thực nghiệm kỹ thuật này. Nhưng tôi có linh cảm chắc chắn mình sẽ thành công mỹ mãn. Việc Thần Ruinhilde truyền thụ 『Cấm Chú Giải Pháp』 cho tôi chính là để tôi hiện thực hóa loại cấm thuật này.
 
 “... 『Hắc Huyết Mạch』.”
 
-Trong lúc dùng những sợi tóc đỏ làm bút vẽ để khắc dấu vết cháy sém lên lưng Rem, tôi dùng bàn tay trái còn trống để nhỏ những giọt máu từ 『Hắc Huyết Mạch』 xuống.
+Trong lúc dùng những sợi tóc đỏ rực làm ngòi bút để vạch từng đường nét cháy đen ăn sâu vào da thịt Rem, tôi dùng bàn tay trái còn lại cẩn thận nhỏ từng giọt máu hắc ám từ 『Hắc Huyết Mạch』 xuống các rãnh khắc.
 
-Vì chưa biết liều lượng chính xác nên tôi nhỏ hơi nhiều một chút.
+Vì chưa nắm rõ liều lượng tối ưu nên tôi lỡ tay nhỏ hơi đậm đặc một chút.
 
-Máu phản ứng với chất axit cực mạnh của Xích Phát Phược, tạo ra những làn khói màu đỏ cam bốc lên nghi ngút, kích thích cánh mũi. Tôi khẽ nhíu mày trước thứ mùi hôi thối khó tả pha lẫn mùi máu và mùi khói khét lẹt, nhưng mắt vẫn không rời khỏi công việc.
+Dòng máu hắc ám lập tức phản ứng dữ dội với axit cực mạnh của Xích Phát Phược, tạo nên những làn khói đặc quánh màu cam đỏ bốc lên nghi ngút, xộc thẳng vào cánh mũi. Tôi khẽ nhíu mày trước thứ mùi hôi thối nồng nặc pha lẫn giữa vị tanh tưởi của huyết dịch và mùi khét lẹt của da thịt cháy, nhưng ánh mắt vẫn không rời khỏi bề mặt trận đồ dù chỉ nửa khắc.
 
-Cứ như thế, thời gian trôi qua chắc chưa đầy 30 phút. Tuy nhiên, việc làm tổn thương tấm lưng xinh đẹp của Rem đã ngốn của tôi một lượng tinh thần lực khổng lồ. Cuối cùng, mọi việc cũng hoàn tất.
+Cứ như thế, thời gian cặm cụi tỉ mỉ trôi qua chừng 30 phút. Việc phải khắc từng nét hoa văn nguyền rủa phức tạp lên tấm lưng mỏng manh của Rem đã tiêu tốn của tôi một lượng tinh thần lực khổng lồ. Cuối cùng, công đoạn khắc ấn cũng hoàn tất.
 
 “Xong rồi... Chú Đạo Khắc Ấn: 『Mãnh Thú』.”
 
-`『Chú Đạo Khắc Ấn』: Kỹ thuật khắc ấn bằng cách khắc lên cơ thể những dấu vết nguyền rủa để ban cho đối phương sức mạnh của chú thuật. Từ những lời nguyền hộ mệnh nhỏ nhặt hàng ngày cho đến những đại cấm chú bị phong ấn, tất cả đều sẽ trở thành sức mạnh của người được khắc. Tuy nhiên, xin chớ quên rằng thứ được khắc lên đó chỉ là những vết sẹo, những lời thề ước, và cũng chỉ là một lời nguyền mà thôi.`
+`『Chú Đạo Khắc Ấn』: Kỹ thuật bí truyền vận dụng tà thuật khắc sâu những ấn ký nguyền rủa vĩnh viễn lên cơ thể sống để ban cấp năng lực gia trì của chú thuật. Từ những lời nguyền hộ mệnh vi mô thường nhật cho đến các đại cấm chú bị niêm phong ngàn năm, tất cả đều sẽ chuyển hóa thành nguồn sức mạnh nội tại cho vật chủ mang ấn. Tuy nhiên, xin hãy luôn khắc cốt ghi tâm rằng thứ được khắc lên da thịt vĩnh viễn chỉ là những vết sẹo rỉ máu, những giao ước ma quỷ, và bản chất của nó vĩnh viễn chỉ là một lời nguyền tàn độc.`
 
-`『Mãnh Thú』: Chú ấn tượng trưng cho loài mãnh thú hung tợn. Ban cho người nhận sức mạnh cơ bắp mạnh mẽ để áp đảo kẻ thù, tốc độ di chuyển nhanh nhạy để săn đuổi con mồi, và sự tàn bạo để xé xác đối phương bằng móng vuốt và răng nanh sắc nhọn. Kẻ nhận được ân huệ này tuyệt đối không được quên bản thân mình là con người.`
+`『Mãnh Thú』: Chú ấn đại diện cho bản năng săn mồi hung hãn của loài dã thú. Ban cấp cho kẻ mang ấn sức mạnh cơ bắp cuồng bạo để nghiền nát kẻ thù, tốc độ bộc phát kinh hoàng để truy đuổi con mồi, và sự tàn bạo hoang dã để phanh thây đối phương bằng nanh vuốt. Kẻ đón nhận ân huệ nguyền rủa này tuyệt đối không được để thú tính làm lu mờ bản ngã con người.`
 
-Đoạn mô tả đi kèm với lời cảnh báo đầy nghiêm trọng vang vọng trong tâm trí tôi.
+Đoạn văn tự cảnh báo ma thuật với tông giọng u ám vang vọng sâu trong tâm trí tôi.
 
-`『Chú Đạo Khắc Ấn』`, hay còn gọi tắt là `『Chú Ấn』`, là một dạng ma pháp phụ trợ thuộc `『Khắc Ấn Thuật』` mà tôi có thể sử dụng sau khi học được `『Cấm Chú Giải Pháp』`.
+`『Chú Đạo Khắc Ấn』`, hay còn được gọi vắn tắt là `『Chú Ấn』`, là một nhánh ma pháp phụ trợ cấp cao thuộc hệ thống `『Khắc Ấn Thuật』` mà tôi vừa mở khóa sau khi lĩnh ngộ `『Cấm Chú Giải Pháp』`.
 
-Và một trong những chú ấn mà tôi có thể khắc lúc này chính là `『Mãnh Thú』`.
+Và một trong những loại chú ấn hoàn chỉnh đầu tiên mà tôi có thể tự tay khắc họa lúc này chính là `『Mãnh Thú』`.
 
-Lấy hình ảnh hàm răng sắc nhọn của một loài thú ăn thịt làm trung tâm, tôi bố trí các thuật thức học được từ tộc Goma thành một vòng tròn xung quanh nó.
+Lấy biểu tượng hàm răng sắc nhọn ngoác rộng của loài thú săn mồi làm trung tâm hạch tâm, tôi bố trí các ký tự thuật thức cổ ngữ học lỏm từ tộc Goma kết thành một vòng tròn phong tỏa xung quanh.
 
-Đúng như mô tả, hiệu quả của chú ấn này là tăng cường sức mạnh vật lý và tốc độ một cách đơn giản. Còn về việc sự hung tợn của loài thú ảnh hưởng thế nào đến tinh thần của người nhận thì phải qua thực chiến mới kiểm chứng được.
+Đúng như mô tả chi tiết của kỹ năng, hiệu năng cốt lõi của chú ấn này là gia tăng toàn diện chỉ số sức mạnh vật lý và tốc độ di chuyển thuần túy. Còn việc bản tính khát máu hoang dã của loài thú sẽ tác động tiêu cực đến tâm lý người mang ấn ra sao thì chỉ có thể đưa vào thực chiến mới kiểm chứng chính xác được.
 
-Dù sao thì, điều quan trọng lúc này là kiểm tra xem việc khắc chú ấn có thực sự mang lại hiệu quả tăng cường chỉ số hay không, và mức độ hiệu quả của nó là bao nhiêu.
+Dù sao đi nữa, nhiệm vụ tối quan trọng lúc này là kiểm tra xem kỹ thuật khắc chú ấn có thực sự kích hoạt hiệu ứng tăng cường chỉ số hay không, và biên độ cường hóa cụ thể đạt được là bao nhiêu phần trăm.
 
-“Rem, em không sao chứ?”
+“Rem, em thấy trong người thế nào, ổn chứ?”
 
-“Em không sao.”
+“Rem không sao ạ.”
 
-Cô bé trả lời rồi đứng phắt dậy với những động tác vô cùng nhanh nhẹn, hoàn toàn không có vẻ gì là đang phải chịu đựng cơn đau ở lưng.
+Cô bé đáp lời rồi lập tức chống tay đứng phắt dậy với những cử động vô cùng thanh thoát, nhẹ nhàng, hoàn toàn không hề có biểu hiện gì là đang phải chịu đựng cơn đau rát từ vết bỏng sau lưng.
 
-Ối chà, cơ thể trần truồng đáng yêu lộ ra hết rồi kìa. Tôi nhanh chóng lấy chiếc áo choàng đã chuẩn bị sẵn bên cạnh khoác lên người cô bé, thế là xong việc thay đồ.
+Ấy chà, thân hình trần trụi lộ hết cả ra rồi. Tôi nhanh chóng với lấy chiếc áo choàng ma pháp đã để sẵn bên cạnh khoác lên người cô bé, thế là hoàn tất khâu mặc trang phục.
 
-Tiếp theo, tôi sẽ cho Rem tiến hành đo đạc sức mạnh cơ bắp và tốc độ chạy.
+Bước tiếp theo, tôi sẽ đưa Rem vào phòng đo đạc để tiến hành kiểm tra chi tiết các chỉ số sức mạnh cơ bắp và tốc độ phản xạ.
 
-Các chỉ số cơ bản của Rem khi chưa được cường hóa đã được tôi ghi chép lại đầy đủ từ trước. Dù mang hình dáng của một bé gái yếu ớt, nhưng thể chất của cô bé thực chất vẫn vượt trội hơn hẳn so với một người đàn ông trưởng thành bình thường.
+Các thông số thể chất cơ bản của Rem khi ở trạng thái thông thường đều đã được tôi ghi chép tỉ mỉ vào sổ tay từ trước. Dù khoác lên mình hình hài của một bé gái mảnh khảnh, nhưng bản chất là một ma đạo nhân hình khiến năng lực thể chất của cô bé vẫn vượt trội hơn hẳn một người đàn ông trưởng thành được trui rèn.
 
-“Giờ thì, để xem kỹ thuật khắc ấn của tôi mang lại hiệu quả đến mức nào nào...”
+“Giờ thì, để xem kỹ thuật khắc ấn đầu tay của mình mang lại uy lực đột phá đến mức nào...”
 
-Kết quả này sẽ quyết định xem Khắc Ấn Thuật của tôi có thể trở thành một thần chú giúp cường hóa sức mạnh cho cả lớp, hay chỉ là một thứ chú thuật phế phẩm với chỉ số tăng thêm ít ỏi.
+Kết quả kiểm tra này sẽ đưa ra câu trả lời dứt khoát: Liệu Khắc Ấn Thuật của tôi sẽ trở thành một phép bổ trợ thần thánh giúp cường hóa sức mạnh cho toàn bộ thành viên trong lớp, hay nó chỉ là một thứ chú thuật phế phẩm với lượng chỉ số cộng thêm chẳng bõ dính răng.
 
-Liệu hiệu quả thực sự của nó sẽ ra sao đây————
+Liệu uy lực thực sự ẩn giấu bên trong nó sẽ khủng khiếp đến nhường nào đây————

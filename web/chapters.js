@@ -57915,343 +57915,347 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
                 "title": "Tập 328: Buổi họp lớp cuối cùng (3)",
                 "content": `# Tập 328: Buổi họp lớp cuối cùng (3)
 
-“Yamada-kun, độ nguy hiểm của việc chinh phục Tháp, tớ đã nói trước đó rồi. Dù vậy, cậu vẫn muốn chiến đấu sao?”
+“Yamada-kun, mức độ nguy hiểm của việc chinh phục Tháp, tớ đã giải thích trước đó rồi. Dù vậy, cậu vẫn muốn tham chiến sao?”
 
 “Ừm, tớ đã chuẩn bị tâm lý rồi.”
 
 Yamada gật đầu với vẻ mặt vô cùng nghiêm túc.
 
-Những nội dung tôi vừa nói với Souma, về việc dùng suất thoát hiểm để trục xuất và để Dũng Giả solo chinh phục Tháp. Mấy chuyện này tôi đã giải thích kỹ càng cho mọi người rồi.
+Những nội dung tôi vừa nói với Souma — về việc dùng suất thoát hiểm để trục xuất bớt thành viên và để Dũng Giả độc hành chinh phục Tháp — tôi đều đã giải thích cặn kẽ cho mọi người từ trước.
 
-Dù biết là sẽ giam giữ nghiêm ngặt kẻ chủ mưu Takanashi, nhưng việc để cô ta sống sót đi cùng nguy hiểm đến mức nào, chắc hẳn ai cũng hiểu rõ...
+Dù biết rõ chúng tôi sẽ giam giữ nghiêm ngặt kẻ chủ mưu Takanashi, nhưng việc để cô ta sống sót đi cùng nguy hiểm đến nhường nào, ắt hẳn ai ở đây cũng hiểu rõ...
 
 “Tại sao cậu lại muốn chiến đấu?”
 
-“Nếu cứ giao hết cho một mình Souma, thì biết đến bao giờ mới chinh phục xong Tháp chứ.”
+“Nếu cứ trút hết gánh nặng lên một mình Souma, thì biết đến bao giờ mới chinh phục xong Tháp chứ.”
 
-“Thì đúng là vậy. Trong trường hợp xấu nhất, tớ đã tính đến việc phải mất hàng năm trời, nhưng mạng sống vẫn là trên hết mà.”
+“Thì đúng là vậy thật. Trong trường hợp xấu nhất, tớ thậm chí đã tính đến viễn cảnh phải mất hàng năm trời, nhưng mạng sống vẫn là trên hết mà.”
 
-“Momokawa, đừng lo lắng thế. Tớ trâu bò lắm. Hơn nữa, việc biết rõ nguy hiểm mà vẫn chiến đấu, từ trước đến nay chúng ta chẳng phải vẫn luôn làm thế sao.”
+“Momokawa, đừng lo lắng quá. Tớ trâu bò lắm. Hơn nữa, việc biết rõ hiểm nguy cận kề mà vẫn phải vung vũ khí chiến đấu, từ trước đến nay chúng ta chẳng phải vẫn luôn làm thế sao.”
 
-“Đúng là chỉ cần có thêm một 『Trọng Chiến Binh』 như Yamada-kun, chiến lực sẽ tăng lên đáng kể, nhưng mà...”
+“Đúng là chỉ cần có thêm một 『Trọng Chiến Binh』 như Yamada-kun, chiến lực toàn đội sẽ tăng lên đáng kể, nhưng mà...”
 
-Cơ chế điều chỉnh độ khó của Dungeon không giống như mấy game co-op nhiều người chơi, kiểu cứ thêm một đồng đội là máu của Boss lại tăng gấp đôi.
+Cơ chế cân bằng độ khó của Dungeon không giống như mấy tựa game co-op nhiều người chơi, kiểu cứ hễ thêm một đồng đội là thanh máu của Boss lại tự động nhân đôi.
 
-Kẻ địch mà chúng tôi phải đối mặt chỉ là những con ma vật Boss vốn đã tồn tại sẵn trong tòa tháp này. Dù Takanashi có cố gắng cường hóa chúng đến đâu, tôi cũng không nghĩ cô ta có thể chuẩn bị gấp một con quái vật mạnh cỡ Yamata no Orochi được.
+Kẻ địch mà chúng tôi phải đối mặt chỉ là những con ma vật Boss vốn đã hiện diện sẵn trong tòa tháp này. Dù Takanashi có dốc sức cường hóa chúng đến mức nào, tôi cũng không nghĩ cô ta có thể lâm thời chuẩn bị gấp một con quái vật hùng mạnh cỡ Yamata no Orochi được.
 
-Nếu sức mạnh của kẻ địch không thay đổi theo số lượng người tham gia, thì càng đông người, phe ta càng có lợi.
+Một khi thực lực của kẻ địch không tỷ lệ thuận theo quân số tham gia, thì càng đông người, phe ta lại càng nắm chắc phần thắng.
 
-Lời đề nghị của Yamada mang lại lợi ích rõ rệt cho việc chinh phục Tháp, và bản thân cậu ta cũng đã hạ quyết tâm. Tôi không thể nghĩ ra ngay lý do hay lập luận nào đủ sức thuyết phục cậu ta thay đổi ý định.
+Lời đề nghị của Yamada mang lại lợi ích rõ rệt cho tiến độ chinh phục Tháp, và bản thân cậu ta cũng đã hạ quyết tâm sắt đá. Nhất thời, tôi không thể tìm ra bất kỳ lý lẽ hay luận điểm xác đáng nào đủ sức lay chuyển ý định của cậu ta.
 
-Tôi đang cố gắng hết sức để đảm bảo an toàn tối đa cho mạng sống của các bạn học, nhưng suy cho cùng, mạng sống là của riêng mỗi người. Nếu Yamada đã muốn chiến đấu mà không màng đến tính mạng của bản thân, tôi cũng chẳng có quyền gì để ngăn cản.
+Dù tôi luôn nỗ lực hết mình để bảo đảm an toàn tối đa cho tính mạng của các bạn học, nhưng suy cho cùng, sinh mạng là của riêng mỗi người. Một khi Yamada đã quyết tâm dấn thân vào hiểm cảnh mà không màng sống chết, tôi cũng chẳng có tư cách gì để ngăn cản.
 
-“Souma-kun nghĩ thế nào?”
+“Souma-kun thấy thế nào?”
 
-“Tớ muốn nói là một mình tớ là đủ rồi... nhưng nếu cậu đã biết rõ nguy hiểm mà vẫn muốn chiến đấu cùng tớ, thì tớ rất cảm kích.”
+“Tớ rất muốn nói rằng chỉ một mình tớ là đủ... nhưng nếu cậu đã thấu suốt mọi hiểm nguy mà vẫn nguyện kề vai sát cánh cùng tớ, thì tớ vô cùng cảm kích.”
 
-Chắc đó là những lời thật lòng của cậu ta. Dù sao thì ngay cả Souma chắc cũng thấy bất an nếu phải solo chinh phục Tháp.
+Có lẽ đó là những lời bộc bạch thật lòng từ tận đáy lòng cậu ta. Dù sao đi nữa, ngay cả Souma chắc chắn cũng không tránh khỏi cảm giác bất an tột cùng nếu phải đơn thương độc mã chinh phạt tòa tháp này.
 
-“Cậu thực sự quyết định thế chứ?”
+“Cậu thực sự quyết định như vậy chứ?”
 
 “Ừ.”
 
-Vậy thì tôi sẽ không cản nữa. Tôi sẽ tôn trọng tinh thần tự hy sinh cao cả của Yamada và đồng ý cho cậu ta tham gia.
+Vậy thì tôi sẽ không can thiệp thêm nữa. Tôi sẽ tôn trọng tinh thần tự hy sinh cao cả của Yamada và chấp thuận cho cậu ta tham gia chiến dịch.
 
 “Em cũng sẽ chiến đấu cùng anh!”
 
-“Vậy thì, còn ai muốn tham gia chinh phục Tháp nữa không nào~?”
+“Vậy thì, còn ai muốn đăng ký tham gia chinh phục Tháp nữa không nào~?”
 
-“Momokawa im đi chút coi! Nghe em nói nè, anh!!”
+“Momokawa im mồm giùm cái coi! Nghe em nói nè, anh hai!!”
 
-Nhìn Sakura lại bắt đầu làm ầm lên, Souma chỉ biết thở dài ngao ngán: “Hầy...”
+Nhìn thấy Sakura lại bắt đầu nhảy dựng lên làm ầm ĩ, Souma chỉ biết buông một tiếng thở dài thườn thượt: 
 
-Thật là, biết là Sakura cũng sẽ tham gia rồi, nhưng để lát nữa bày tỏ nỗi lòng không được sao?
+“Hầy...”
 
-“Sakura, em không cần phải ép buộc bản thân đâu.”
+Thật tình, ai mà chẳng biết tỏng Sakura thể nào cũng đòi đi theo, nhưng bộ không thể để lát nữa rồi hãy bày tỏ nỗi lòng hay sao chứ?
 
-“Em không thể để anh chiến đấu một mình được!”
+“Sakura, em không việc gì phải gượng ép bản thân như thế.”
 
-“Đây sẽ là trận chiến nguy hiểm nhất từ trước đến nay đấy. Ngay cả em, anh cũng không thể đảm bảo mạng sống—”
+“Em tuyệt đối không thể để anh phải chiến đấu một mình!”
 
-“Chính vì vậy em mới phải đi. Em tin tưởng Kotori, và em không tin bất cứ lời nào của Momokawa cả. Em vẫn sẽ chiến đấu cùng anh như từ trước đến nay.”
+“Đây sẽ là trận quyết chiến nguy hiểm nhất từ trước đến nay đấy. Ngay cả bản thân em, anh cũng chẳng dám đoan chắc có thể bảo toàn được mạng sống—”
 
-“Ra là vậy~, Sakura-chan nói đúng đấy.”
+“Chính vì vậy em mới càng phải đi! Em tuyệt đối tin tưởng Kotori, và em không bao giờ tin bất cứ lời xảo trá nào thốt ra từ miệng của Momokawa cả. Em sẽ tiếp tục kề vai chiến đấu cùng anh như từ trước đến giờ.”
 
-Tôi cố tình xen vào bằng giọng điệu mỉa mai, khiến Sakura lập tức lườm tôi cháy mắt. *Hừm, chỉ lườm thôi thì làm sao truyền tải được cảm xúc chứ?*
+“Ra là vậy sao~ Sakura-chan nói chí phải đấy.”
 
-“Cậu có ý gì đây, Momokawa?”
+Tôi cố tình chen ngang bằng một tông giọng mỉa mai châm chọc, khiến Sakura lập tức lườm tôi như muốn tóe lửa. *Hừm, chỉ dùng mỗi ánh mắt lườm nguýt thế kia thì làm sao truyền tải hết được ngọn lửa căm hờn chứ?*
 
-“Ý gì đâu chứ. Như Sakura-chan đã nói đấy, nếu tin Takanashi vô tội thì cứ việc chiến đấu như bình thường mà không cần lo lắng về âm mưu gì cả. Chỉ đơn giản thế thôi.”
+“Cậu có ý gì đây hả, Momokawa?”
 
-Việc Sakura có chấp nhận lời giải thích của tôi hay không chẳng phải vấn đề lớn. Đó gọi là tự do tư tưởng mà, phải không?
+“Có ý gì đâu nào. Đúng như những gì Sakura-chan vừa dõng dạc tuyên bố đấy thôi, nếu đã đinh ninh Takanashi vô tội thì cứ việc vung kiếm chiến đấu như bình thường mà chẳng cần phải bận tâm lo nghĩ về bất kỳ âm mưu quỷ quyệt nào cả. Vấn đề chỉ đơn giản có bấy nhiêu thôi mà.”
 
-Mỗi người đều có suy nghĩ riêng, nhưng điều quan trọng là hành động thực tế và sự hợp tác sẽ như thế nào. Một khi Souma đã chấp nhận yêu cầu của bên này, thì bất kể cảm xúc của Sakura ra sao, cô ta cũng buộc phải tuân theo—nói thế nghe hơi khó nghe nhỉ? Phải là, cô ta sẽ hợp tác một cách nghiêm túc.
+Việc Sakura có chịu thấu hiểu và chấp nhận lời giải thích của tôi hay không vốn dĩ chẳng phải là vấn đề to tát. Đó gọi là tự do tư tưởng mà, đúng chứ?
 
-“Tất cả chúng tôi đều nghi ngờ Takanashi là kẻ chủ mưu. Nhưng vẫn còn ba người không tin vào điều đó đúng không?”
+Mỗi cá nhân đều có quyền giữ lấy chính kiến riêng, nhưng điều cốt lõi nằm ở hành động thực tế và mức độ phục tùng trên chiến trường. Một khi Souma đã cúi đầu chấp nhận các yêu sách từ phía tôi, thì bất kể tâm can Sakura có gào thét phản đối ra sao, ả cũng buộc phải răm rắp tuân theo — ồ, dùng từ ngữ như thế nghe chừng hơi chướng tai nhỉ? Phải diễn đạt là: ả sẽ ngoan ngoãn hợp tác một cách nghiêm túc mới đúng.
 
-Souma. Sakura. Và một người nữa.
+“Toàn bộ phe chúng tôi đều khẳng định Takanashi chính là kẻ chủ mưu. Nhưng bên phía các người vẫn còn ba kẻ mù quáng không chịu tin vào sự thật hiển nhiên đó, đúng không?”
 
-“Kenzaki Asuna, cô cũng sẽ chiến đấu cùng chứ?”
+Souma. Sakura. Và còn một kẻ nữa.
 
-Ngoại trừ kẻ chủ mưu Takanashi, kẻ đáng chết nhất chính là Kenzaki Asuna. Một tên tội phạm hung ác với hai tiền án mưu sát bất thành. Ai mà thèm tha thứ cho mày chứ.
+“Kenzaki Asuna, cô cũng sẽ vác mặt tham chiến chứ?”
 
-“...Dĩ nhiên rồi. Tôi tuyệt đối không bao giờ để một mình Souma phải chiến đấu đâu.”
+Ngoại trừ đầu sỏ Takanashi, kẻ đáng phải chịu tội chết nhất không ai khác chính là Kenzaki Asuna. Một ả tội phạm máu lạnh với hai tiền án mưu sát bất thành dơ bẩn. Làm như trên đời này có kẻ rỗi hơi đi tha thứ cho mày không bằng.
 
-“Ăn nói cho cẩn thận vào hả con mụ tội phạm kia. Mày cũng sẽ giống như Takanashi, bình thường sẽ bị giam giữ nghiêm ngặt. Chỉ khi nào chiến đấu mới được thả ra thôi. Hãy tự ý thức rằng mày chỉ là một con nô lệ chiến đấu đi.”
+“...Dĩ nhiên rồi. Tôi tuyệt đối sẽ không bao giờ để Souma phải cô độc chiến đấu đâu.”
 
-“M-Ngươi...! Được nước lấn tới vừa thôi chứ!!”
+“Mở mồm ăn nói cho cẩn thận vào hả con ả tội phạm kia. Mày cũng sẽ chịu chung số phận với Takanashi, ngày thường sẽ bị xích lại và giám sát nghiêm ngặt. Chỉ đến khi lâm trận, bọn tao mới tháo xích thả mày ra thôi. Hãy tự biết thân biết phận rằng mày giờ đây chẳng qua chỉ là một con nô lệ chiến đấu không hơn không kém đi.”
 
-Ngay khi Kenzaki gầm lên định lao tới, một tấm giáp thép đen kịt khổng lồ đột ngột chắn ngang trước mặt tôi.
+“M-Ngươi...! Đừng có mà được nước lấn tới!!”
 
-“Dám bước tới gần Kotarou-kun dù chỉ một bước, tôi sẽ giết cô.”
+Ngay khoảnh khắc Kenzaki gầm thét định lao thẳng về phía tôi, một tấm đại khiên bằng thép đen kịt khổng lồ bất ngờ giáng mạnh xuống, chắn ngang trước tầm mắt.
 
-Thần hộ mệnh Mei của tôi đã phản ứng lại sát ý của ả ta và đứng ra bảo vệ.
+“Dám bước tới gần Kotarou-kun dù chỉ nửa bước, tôi sẽ băm vằn cô ra.”
 
-“Đừng giết cô ta, Mei-chan. Đó là một con nô lệ chiến đấu quý giá đấy.”
+Thần hộ mệnh Mei của tôi đã lập tức bắt trọn luồng sát khí hung bạo từ ả ta và bước lên che chắn.
 
-“Asuna, nhịn đi. Có làm loạn ở đây cũng chẳng giải quyết được gì đâu.”
+“Đừng giết cô ta vội, Mei-chan. Đó dẫu sao cũng là một con nô lệ chiến đấu có giá trị đấy.”
 
-Thật bất ngờ, người đứng ra can ngăn lại là Sakura.
+“Asuna, nhẫn nhịn đi! Có làm loạn lên ở đây cũng chẳng giải quyết được việc gì đâu!”
 
-Chắc là vì cô ta được tham gia với tư cách thành viên chính thức, nên cảm thấy mình ở vị thế thượng đẳng hơn hẳn so với kẻ bị đối xử như nô lệ chiến đấu như Kenzaki chăng.
+Người đứng ra can ngăn tình thế căng thẳng lại là Sakura, khiến tôi có đôi chút bất ngờ.
 
-“Xin lỗi, Asuna. Bây giờ... bây giờ hãy nhẫn nhịn đã. Momokawa, cậu cũng bớt dùng những lời lẽ khiêu khích đi được không?”
+Ắt hẳn là vì ả được đường đường chính chính tham gia với tư cách thành viên chính thức, nên trong lòng liền tự huyễn hoặc rằng bản thân đang ở vị thế thượng đẳng hơn hẳn so với kẻ bị đày xuống hàng nô lệ chiến đấu như Kenzaki chăng.
 
-“Biết sao được chứ, dù sao thì Kenzaki cũng đã gây ra chuyện đến mức ngay cả cậu cũng không thể bao che nổi mà. Ả ta có thể ghét tớ đến mức muốn giết, nhưng tớ cũng ghét ả đến mức muốn băm vằm ra ngay lập tức đấy. Đúng không, Himeno-san?”
+“Xin lỗi cậu, Asuna. Lúc này... lúc này hãy ráng nhẫn nhục chịu đựng đã. Momokawa, cậu cũng bớt buông những lời lẽ khiêu khích châm chọc đi có được không?”
 
-“Đúng thế! Loại người như mày không còn giá trị gì để được Souma-kun bảo vệ nữa đâu, con khốn!”
+“Biết làm sao được chứ, dẫu sao thì Kenzaki cũng đã gây ra cái tội tày đình đến mức ngay cả cậu cũng chẳng thể nào mở mồm bao che nổi nữa rồi mà. Ả ta có quyền thù ghét tớ đến mức muốn băm xác tớ ra làm trăm mảnh, thì ngược lại, tớ cũng căm ghét ả đến mức chỉ muốn nghiền nát ả ngay tại chỗ này thôi. Đúng không nào, Himeno-san?”
 
-Himeno lập tức phụ họa chửi bới vô cùng ăn ý.
+“Chuẩn không cần chỉnh! Cái loại cặn bã như mày chẳng còn chút giá trị nào để xứng đáng được Souma-kun che chở nữa đâu, con khốn!”
 
-“Tớ xin lỗi... nhưng đừng kích động thêm nữa. Nếu cậu muốn sử dụng Asuna như một chiến lực hiệu quả, thì hãy để cô ấy yên đi. Cơn giận quá mức sẽ làm đường kiếm bị chệch nhịp đấy.”
+Himeno lập tức cất giọng phụ họa, đay nghiến vô cùng ăn ý.
 
-“Ồ, đó là một lời bào chữa khá khôn ngoan đối với Souma-kun đấy chứ. Được rồi, tạm thời dừng ở đây vậy.”
+“Tớ xin lỗi... nhưng xin các cậu đừng kích động thêm nữa. Nếu cậu thực sự muốn sử dụng Asuna như một mũi nhọn chiến lực hiệu quả, thì xin hãy để cô ấy được yên tĩnh. Cơn thịnh nộ mù quáng sẽ làm đường kiếm bị chệch nhịp đấy.”
 
-Tôi tuy nói là tùy thuộc vào thái độ của Kenzaki, nhưng sự thật là tôi vẫn muốn đưa ả ta—một 『Song Kiếm Sĩ』 mạnh mẽ—vào đội chinh phục để tận dụng chiến lực.
+“Ồ, đối với một kẻ như Souma-kun thì đó quả là một lời biện minh khá thông minh và sắc sảo đấy chứ. Được rồi, chuyện này tạm thời dừng lại ở đây vậy.”
 
-Bên tôi hiện tại đang bị hạn chế số lượng người xuất chiến vì Takanashi. Số người có thể tham gia chiến đấu càng nhiều thì càng tốt chứ sao.
+Dù ngoài miệng tôi tuyên bố việc sử dụng ả còn tùy thuộc vào thái độ, nhưng thâm tâm tôi vẫn muốn đẩy ả ta — một 『Song Kiếm Sĩ』 sở hữu tốc độ và sức sát thương đáng gờm — vào đội hình xung kích để tận dụng triệt để giá trị lợi dụng.
 
-Trong trường hợp xấu nhất, Kenzaki có chết tôi cũng chẳng thấy đau lòng hay tiếc nuối gì, ả ta chỉ là một quân cờ thí mạng quý giá. Tôi đã cất công kiềm chế mối thù bị mưu sát để giữ lại mạng sống cho ả, nên nếu không bắt ả cống hiến hết mình thì lỗ to rồi.
+Hiện tại, quân số phe tôi có thể xuất trận đang bị giới hạn ngặt nghèo vì phải phân tán lực lượng canh chừng Takanashi. Thế nên, số lượng tay sai có thể ném vào chiến trường càng nhiều thì hiển nhiên càng có lợi.
 
-“Phải rồi, trước tiên phải giải trừ vũ khí đã. Sakura-chan, tịch thu kiếm của Kenzaki rồi đưa qua đây.”
+Trong tình huống tồi tệ nhất, dẫu Kenzaki có phơi thây nơi chiến địa, tôi cũng chẳng mảy may mủi lòng hay tiếc nuối nửa phần; ả đơn thuần chỉ là một quân cờ thí mạng thượng hạng. Tôi đã phải cắn răng đè nén mối thù bị mưu sát để chừa cho ả một con đường sống, nên nếu không vắt kiệt từng giọt giá trị của ả đến tận cùng thì chẳng phải là tôi chịu lỗ to rồi sao?
 
-“Đừng có ra lệnh cho tôi.”
+“Phải rồi, việc đầu tiên cần làm là giải trừ toàn bộ vũ trang. Sakura-chan, tịch thu hết kiếm của Kenzaki rồi mang qua đây nộp mạng.”
 
-“Souma-kun, Sakura-chan nổi loạn quá kìa. Vì trật tự trị an của lớp, tớ có nên đối xử với cô ta như nô lệ chiến đấu luôn không nhỉ?”
+“Đừng có dùng cái giọng đó ra lệnh cho tôi!”
 
-“Sakura, nghe lời đi. Đừng có nói năng hay hành động gây ra tranh chấp vô ích nữa.”
+“Souma-kun, Sakura-chan nhà cậu lại bắt đầu nổi loạn chống đối rồi kìa. Vì trật tự và kỷ cương của cả lớp, liệu tớ có nên tiện tay giáng cô ta xuống làm nô lệ chiến đấu luôn cho tiện quản lý không nhỉ?”
+
+“Sakura, nghe lời đi em. Đừng buông những lời lẽ hay có hành vi châm ngòi cho những tranh chấp vô nghĩa nữa.”
 
 “Ư...!”
 
-Với vẻ mặt ấm ức thấy rõ, Sakura tiến lại gần định lấy kiếm từ Kenzaki—nhưng không lấy được, Kenzaki đang kháng cự. *Mày vừa phải thôi chứ...*
+Gương mặt hậm hực lộ rõ vẻ ấm ức khôn cùng, Sakura đành phải tiến lại gần định tước lấy thanh kiếm từ tay Kenzaki — thế nhưng ả không thể rút ra được, Kenzaki đang dùng sức ghì chặt lại nhằm kháng cự. *Mày cũng vừa vừa phải phải thôi chứ con điên kia...*
 
-“Nè, thế này được chưa.”
+“Nè! Thế này đã vừa lòng cậu chưa?!”
 
-“Ừm, vất vả rồi!”
+“Ừm, vất vả cho cậu rồi!”
 
-Tôi khoanh tay, nhận lấy thanh kiếm của Kenzaki từ Sakura với thái độ vô cùng kiêu ngạo.
+Tôi thong thả khoanh tay trước ngực, đón lấy thanh kiếm của Kenzaki từ tay Sakura với một thái độ ngạo nghễ tột cùng.
 
-“Vậy thì, giao nốt mấy thanh còn lại đây luôn nào~”
+“Nào, giao nộp nốt mấy thanh còn lại luôn đi chứ~”
 
 “...Hả?”
 
-“Trang bị của Kenzaki đâu phải chỉ có một thanh kiếm đó chứ.”
+“Trang bị của Kenzaki đâu thể nào chỉ vỏn vẹn có duy nhất một thanh kiếm cùn đó được, đúng không nè?”
 
-“Ai mà biết được chứ.”
+“Ai... ai mà biết được chứ!”
 
-“Lớp trưởng, trang bị của Kenzaki gồm những gì?”
+“Lớp trưởng, toàn bộ trang bị của Kenzaki gồm những món gì vậy?”
 
-“Cô ta có một thanh kiếm thuộc tính Hỏa, một thanh thuộc tính Phong, và một thanh đoản đao dự phòng.”
+“Ả ta sở hữu một thanh kiếm mang thuộc tính Hỏa, một thanh mang thuộc tính Phong, và một thanh đoản đao găm dự phòng bên hông.”
 
-Thành viên trong tổ đội của các người đã phản bội và về phe tôi rồi đấy nhé. Đừng có nói dối kiểu hỏi một câu là lộ tẩy ngay thế chứ.
+Một thành viên cốt cán từng nằm trong tổ đội tinh anh của các người giờ đây đã đào tẩu và ngả hẳn về phe tôi rồi đấy nhé. Đừng có giở trò dối trá vụng về kiểu chỉ cần mở miệng hỏi một câu là lòi đuôi cáo ra ngay như thế chứ.
 
-Nhưng cái thái độ giả vờ ngây ngô một cách nông cạn và dễ đoán của Sakura, tôi lại chẳng ghét nổi. Sakura thì phải thế này mới đúng điệu.
+Tuy nhiên, cái thói giả vờ ngây thơ một cách nông cạn và dễ đoán của Sakura lại là thứ tôi chẳng tài nào ghét nổi. Phải lố lăng và ngốc nghếch như thế thì mới đúng chuẩn bản sắc của Sakura chứ.
 
-“Nghe thấy gì chưa. Cậu thực sự không biết sao?”
+“Đã nghe rõ mồn một rồi chứ? Cậu thực sự không biết hay cố tình giả ngu vậy?”
 
-“Nghe cậu nói thì hình như đúng là vậy thật.”
+“Nghe... nghe cậu liệt kê thì hình như đúng là có ngần ấy thứ thật...”
 
-“Thật là, chỉ biết làm theo những gì được bảo thì đi làm công ty làm sao nổi chứ? Sakura-chan à, cứ thế này thì ra ngoài xã hội cậu không sống nổi đâu. Phải biết nhanh nhạy và chủ động hơn trong công việc đi chứ.”
+“Thiệt tình, mới có ngần ấy việc mà chỉ biết bảo sao làm vậy thì sau này đi làm công sở làm sao mà sống sót nổi hả? Sakura-chan à, cứ giữ cái thói thụ động nông cạn này thì bước chân ra ngoài xã hội người ta vùi dập cho không ngóc đầu lên được đâu. Phải biết nhanh nhạy, linh hoạt và chủ động hơn trong công việc đi chứ.”
 
-“Tôi đi lấy ngay đây, câm miệng và đợi đó đi!”
+“Tôi đi gom hết về ngay đây! Câm cái mồm thối lại và đứng đó mà đợi đi!!”
 
-Sakura hét lên rồi quay ngoắt người bỏ đi.
+Sakura gào toáng lên rồi hậm hực quay ngoắt gót chân bỏ đi.
 
-Đằng nào cũng đuối lý rồi nổi khùng lên, thà ngay từ đầu cứ ngoan ngoãn làm theo có phải hơn không.
+Đằng nào rốt cuộc cũng đuối lý rồi nổi đóa lên như điên dại, thà rằng ngay từ đầu cứ ngoan ngoãn cụp đuôi làm theo có phải đỡ tốn nước bọt hơn không.
 
-“Chao ôi, tương lai của cô bé đáng lo thật đấy, phải không anh trai?”
+“Chao ôi, nhìn tương lai mù mịt của cô em gái nhỏ mà thấy đáng lo ngại thật đấy, phải không người anh trai mẫu mực?”
 
-“Lo chuyện bao đồng.”
+“Bớt lo chuyện bao đồng giùm cái.”
 
-Miệng thì nói thế nhưng trong lòng chắc cũng đồng tình với tôi đến một nửa rồi. Không được đâu đấy, cứ chiều chuộng em gái quá mức như thế thì sau này cô bé chẳng nên người nổi đâu.
+Ngoài miệng thì buông lời cộc lốc thế thôi, chứ trong thâm tâm cậu ta ắt hẳn cũng phải gật gù đồng tình với tôi đến một nửa rồi. Không ổn chút nào đâu đấy nhé, cứ nuông chiều và bao bọc em gái thái quá như thế thì sau này cô bé chẳng thể nào nên thân nổi đâu.
 
-“Nè, thế này là được rồi chứ gì!”
+“Nè! Đầy đủ toàn bộ rồi đấy, đã thỏa mãn chưa hả?!”
 
-“Ừm, vất vả rồi!”
+“Ừm, vất vả cho cậu rồi nhé!”
 
-Cuối cùng thì việc giải trừ vũ khí của Kenzaki cũng hoàn tất.
+Cuối cùng thì công đoạn tước đoạt vũ trang của Kenzaki cũng đã hoàn tất êm đẹp.
 
-Nhìn qua thì tưởng ả ta chỉ mang theo thanh kiếm bị tịch thu đầu tiên, nhưng hóa ra Kenzaki cũng đã tự lúc nào học được kỹ năng mới dạng ma pháp không gian để cất giữ vũ khí. Kiểu như 『Kho Kiếm』 của Souma vậy.
+Thoạt nhìn qua thì cứ tưởng ả chỉ mang theo bên mình thanh kiếm lộ liễu bị tịch thu đợt đầu, nhưng hóa ra tự lúc nào Kenzaki cũng đã lén lút học được một kỹ năng mới dạng ma pháp không gian dùng để cất giấu vũ khí. Đại loại như một phiên bản thu nhỏ của 『Kho Kiếm』 mà Souma sở hữu.
 
-Kenzaki là kẻ đầu óc ngu si tứ chi phát triển, nên chắc chắn sẽ không có chuyện ả ta lén giấu vũ khí phòng hờ lúc nguy cấp mà không nói cho ai biết đâu. Dù chỉ giới hạn ở vũ khí, nhưng nếu đã có thể cất giữ bằng ma pháp không gian, tôi nghĩ đáng lẽ phải nghiên cứu kỹ lưỡng xem có thể cất được những gì và đến giới hạn nào để tận dụng chứ.
+Đầu óc của Kenzaki vốn dĩ thuộc dạng tứ chi phát triển não phẳng, nên tuyệt đối sẽ không có chuyện ả đủ mưu mô để âm thầm giấu giếm vũ khí phòng hờ lúc lâm nguy mà giấu nhẹm đi không hé răng cho đồng đội biết đâu. Dù kỹ năng ấy chỉ giới hạn ở việc lưu trữ vũ khí, nhưng một khi đã nắm giữ ma pháp không gian tiện lợi dường ấy, tôi nghĩ đáng lẽ ra ả phải đào sâu nghiên cứu xem có thể nhét thêm được những thứ gì và đạt đến giới hạn thể tích nào để tối ưu hóa công năng chứ.
 
-“Được rồi, giờ quay lại chủ đề chính nhé. Còn ai muốn tham gia chinh phục Tháp cùng Souma-kun nữa không?”
+“Được rồi, giờ thì quay trở lại chủ đề chính nào. Còn ai muốn tự nguyện tham gia chiến dịch chinh phục Tháp cùng Souma-kun nữa không?”
 
-Không một cánh tay nào giơ lên. Điều này là hiển nhiên, chỉ có Yamada là đặc biệt hiến dâng bản thân mà thôi.
+Không có lấy một cánh tay nào giơ lên giữa bầu không khí im phăng phắc. Đây là phản ứng hoàn toàn dễ hiểu, ngoại trừ một trường hợp đặc thù sẵn sàng hiến dâng thân mình như Yamada ra.
 
-Nếu có ai giơ tay kiểu nửa vời, tôi cũng sẽ ngăn lại thôi.
+Kể cả có kẻ nào giơ tay theo kiểu bốc đồng nửa vời, tôi cũng sẽ lập tức dập tắt và ngăn cản ngay tức khắc.
 
-Đến nước này thì ngay cả Lớp trưởng cũng không tự ứng cử. Mà cũng phải, một khi đã quay xe về phe tôi, cô ấy đã kéo theo sự thù hận rõ ràng từ Takanashi. Sợ hãi đến mức không dám để lộ sơ hở sau lưng cho cô ta là điều dễ hiểu.
+Đến nước này thì ngay cả Lớp trưởng cũng chẳng dại gì mà đứng ra tự ứng cử. Mà cũng phải thôi, một khi đã công khai trở cờ quay xe về phe tôi, cô ấy đã kéo trọn sự thù hằn tột độ từ Takanashi về phía mình. Nỗi sợ hãi sâu sắc đến mức không bao giờ dám phơi bày sơ hở sau lưng cho ả rắn độc kia là điều hoàn toàn hiển nhiên.
 
-Vì lẽ đó, đáng lẽ ra không thể có thêm ai tự ứng cử nữa, thế nhưng—
+Vì lẽ đó, về mặt logic, đáng lẽ ra sẽ chẳng còn bất kỳ ai tự nguyện dấn thân vào chỗ chết nữa, thế nhưng—
 
-“...T-Tớ cũng sẽ chiến đấu.”
+“...T-Tớ cũng sẽ tham chiến.”
 
-Vào phút chót, người lên tiếng với giọng run rẩy lại là Nakajima.
+Vào phút chót, kẻ cất lên tiếng nói với chất giọng run rẩy ngập ngừng lại chính là Nakajima.
 
-“Tớ không thể cho phép Nakajima-kun tham gia.”
+“Tớ không thể chấp thuận cho Nakajima-kun tham gia.”
 
-“T-Tại sao chứ!”
+“T-Tại sao chứ?!”
 
-“Động cơ của cậu khác với Yamada-kun. Quyết tâm cũng khác. Quá nguy hiểm.”
+“Động cơ của cậu hoàn toàn khác biệt so với Yamada-kun. Mức độ quyết tâm cũng khác một trời một vực. Quá mức nguy hiểm.”
 
-“Nếu là quyết tâm thì tớ cũng—”
+“Nếu là nói về quyết tâm thì tớ cũng—”
 
-“Nakajima-kun, tớ hiểu cảm xúc của cậu mà. Chính vì thế, tớ mới phải ngăn cậu lại.”
+“Nakajima-kun, tớ thấu hiểu tường tận tâm tư tình cảm của cậu mà. Chính vì thế, tớ mới càng phải chặn cậu lại.”
 
-Chắc cậu ta muốn bảo vệ Kenzaki. Cũng muốn thể hiện vẻ ngầu lòi trước mặt cô ta nữa. Huống chi hiện tại Kenzaki đang rơi xuống đáy xã hội với thân phận nô lệ.
+Chắc chắn cậu ta đang nung nấu ý định bảo vệ Kenzaki. Cậu ta cũng khao khát được phô diễn hình ảnh ngầu lòi, phong độ trước mặt người trong mộng. Huống hồ chi vào thời điểm hiện tại, Kenzaki đã bị đày xuống tận đáy xã hội với thân phận nô lệ hèn mọn.
 
-Nếu đã đem lòng yêu cô ta, thì những lúc thế này không ra tay giúp đỡ thì chẳng còn mặt mũi nam nhi nữa.
+Nếu đã trót đem lòng si mê ả ta, thì vào những khoảnh khắc dầu sôi lửa bỏng thế này mà không chịu xông pha ra tay tương cứu thì làm sao còn xứng mặt đấng nam nhi nữa chứ.
 
-Thế nhưng, đó lại là động cơ nguy hiểm nhất. Tình cảm đó của cậu chắc chắn sẽ bị lợi dụng.
+Thế nhưng, đó lại chính là loại động cơ đen tối và nguy hiểm chết người nhất. Thứ tình cảm mù quáng, ủy mị đó của cậu chắc chắn sẽ bị kẻ khác giật dây và lợi dụng triệt để.
 
-“Tớ tuyệt đối phải tránh việc cậu tự lao ra đỡ đòn rồi chết thay cho người khác khi gặp nguy hiểm.”
+“Tớ tuyệt đối phải ngăn chặn viễn cảnh cậu tự biến mình thành lá chắn thịt, lao ra đỡ đòn rồi chết thay cho kẻ khác khi gặp nguy biến.”
 
-“L-Làm gì có chuyện đó...”
+“L-Làm gì có chuyện vô lý đó được...”
 
-“Cậu dám khẳng định là không có không? Khi lâm vào tình thế nguy cấp, cậu có thể sẽ trở thành tấm khiên cho ai đó, nhưng người sẵn sàng làm khiên đỡ đòn cho cậu thì ngoài Yamada-kun ra chẳng có ai đâu.”
+“Cậu dám vỗ ngực khẳng định là điều đó sẽ không bao giờ xảy ra không? Khi lâm vào lằn ranh sinh tử, cậu có thể sẵn sàng làm tấm khiên chắn đỡ mạng cho kẻ khác, nhưng kẻ cam tâm tình nguyện làm lá chắn chịu đòn thay cho cậu thì ngoài Yamada-kun ra, tuyệt đối chẳng có lấy một ai đâu.”
 
-Tiếc thay, Nakajima à, mày chỉ là một nhân vật phụ làm nền mà thôi.
+Thật đáng tiếc cho mày, Nakajima à, trong vở kịch này mày rốt cuộc cũng chỉ là một nhân vật phụ làm nền mờ nhạt mà thôi.
 
-Đối với Takanashi, Kenzaki, hay cả Souma, mày không phải là sự tồn tại khiến họ sẵn sàng đánh đổi mạng sống để bảo vệ đến cùng.
+Đối với Takanashi, Kenzaki, hay thậm chí là cả Souma, mày vĩnh viễn không bao giờ là sự tồn tại đủ trọng lượng để khiến bọn họ cam tâm tình nguyện đánh đổi tính mạng nhằm bảo vệ tới cùng.
 
-Chính vì thế, Yamada—người sẵn sàng che chở cho bất kỳ ai mà cậu ta coi là đồng đội—mới thật phi thường. Dù hành động đó có phần xuất phát từ vết thương lòng sau cái chết của Yama-Jun, sự tự hủy hay lòng tự trọng, thì tinh thần tự hy sinh đó của cậu ta đã đạt đến cảnh giới của một vị thánh rồi.
+Chính vì lẽ đó, một kẻ như Yamada — người sẵn sàng xả thân che chở cho bất kỳ ai mà cậu ta xem là đồng đội — mới thực sự là một sự tồn tại phi thường đến mức dị biệt. Dẫu hành động ấy có phần bắt nguồn từ vết thương lòng chưa lành sau cái chết của Yama-Jun, hay là sự tự hủy hoại bản thân và lòng tự tôn méo mó, thì tinh thần tự hy sinh cao thượng đó của cậu ta cũng đã chạm tới cảnh giới của một bậc thánh nhân rồi.
 
-“Souma-kun sẽ không cứu cậu. Kenzaki hay Sakura-chan cũng tuyệt đối không bao giờ cứu cậu. Dù cậu có tin tưởng họ, họ cũng chẳng bao giờ tin tưởng cậu đâu.”
+“Souma-kun sẽ không bao giờ cứu mạng cậu đâu. Cả Kenzaki lẫn Sakura-chan lại càng không đời nào chịu ra tay cứu vớt cậu. Dẫu cho cậu có đặt trọn niềm tin mù quáng nơi họ, thì trong mắt bọn họ, cậu cũng chẳng bao giờ có được nửa phần tin tưởng.”
 
-“Này, Momokawa, sao cậu lại nói kiểu đó—”
+“Này, Momokawa, sao cậu lại có thể buông những lời lẽ cay nghiệt đó—”
 
-“Souma-kun im lặng đi. Đây là vấn đề của ‘chúng tôi’.”
+“Souma-kun ngậm miệng lại đi. Đây hoàn toàn là chuyện nội bộ của ‘chúng tôi’.”
 
-Người chào đón Nakajima như một đồng đội là chúng tôi. Trong dàn harem của Souma làm gì có chỗ cho cậu ta.
+Những người thực sự mở rộng vòng tay đón nhận Nakajima như một đồng đội chân chính là phe chúng tôi. Trong dàn harem độc tôn của Souma làm gì có chỗ dung thân cho một kẻ thừa thãi như cậu ta.
 
-“Tớ tuyệt đối sẽ không bao giờ bỏ mặc bất kỳ ai nữa!”
+“Tớ tuyệt đối sẽ không bao giờ bỏ mặc bất kỳ ai phải chết thêm một lần nào nữa!!”
 
-“Tớ cũng chẳng trách cứ việc cậu đặt ra thứ tự ưu tiên cho mạng sống của mọi người đâu. Ai cũng sẽ ưu tiên cứu những người quan trọng, thân thiết với mình trước, đó là lẽ thường tình mà.”
+“Tớ cũng chẳng buồn trách cứ cái việc cậu tự đặt ra bảng thứ tự ưu tiên cho sinh mạng của từng người đâu. Con người ta ai nấy đều có xu hướng ưu tiên cứu vớt những kẻ quan trọng, thân thiết với mình trước tiên, âu đó cũng là lẽ thường tình ở đời mà thôi.”
 
-Thế nên tôi chẳng buồn chỉ trích việc Souma ưu tiên những thành viên trong dàn harem của mình nữa. Ai cũng vậy thôi, tôi cũng thế. Tôi sẽ bảo vệ Mei và Kyouko trước tiên.
+Bởi vậy nên tôi chẳng thèm tốn công chỉ trích cái thói bao bọc, ưu tiên các thành viên trong hậu cung của Souma làm gì nữa. Bản chất con người ai mà chẳng ích kỷ như nhau, bản thân tôi cũng thế thôi. Nếu lâm vào cảnh ngặt nghèo, tôi sẽ chọn bảo vệ Mei và Kyouko trước nhất.
 
-“Mối liên kết bền chặt giữa ai với ai là tùy thuộc vào mỗi người. Việc đối xử bình đẳng với tất cả mọi người là bất khả thi, và thứ tự ưu tiên đó chắc chắn sẽ lộ ra trong những tình huống khẩn cấp—Chính vì vậy, tớ không thể để Nakajima-kun tham gia vào đợt chinh phục với số lượng thành viên giới hạn lần này.”
+“Mối liên kết gắn bó sâu sắc giữa người với người vốn dĩ là chuyện riêng của mỗi cá nhân. Việc đối xử công bằng, san sẻ tình cảm đồng đều cho tất cả mọi người là điều hoàn toàn bất khả thi, và cái bảng thứ tự ưu tiên tàn nhẫn đó chắc chắn sẽ lộ rõ mồn một trong những khoảnh khắc ngàn cân treo sợi tóc — Chính vì lý do đó, tớ tuyệt đối không thể để Nakajima-kun chen chân vào một đợt chinh phạt bị giới hạn quân số ngặt nghèo như lần này.”
 
-Điều này không có nghĩa là Nakajima đặc biệt không được mọi người tin tưởng.
+Điều này hoàn toàn không đồng nghĩa với việc Nakajima là một kẻ đặc biệt bị người khác ghẻ lạnh hay bài xích.
 
-Ueta hay Yoshizaki cũng vậy thôi. Ngay cả tôi cũng thế. Một khi Souma là trung tâm, mối quan hệ tin cậy giữa các thành viên chắc chắn sẽ có sự chênh lệch.
+Ueta hay Yoshizaki nếu rơi vào tình cảnh này cũng sẽ nhận lấy kết cục tương tự mà thôi. Thậm chí ngay cả bản thân tôi cũng vậy. Một khi Souma nắm giữ vai trò hạt nhân trung tâm, mức độ tin cậy và gắn kết giữa các thành viên chắc chắn sẽ xuất hiện những hố sâu ngăn cách khổng lồ.
 
-Tất nhiên, nếu tôi là người chỉ huy và tất cả mọi người cùng tham gia chiến đấu thì không cần lo lắng chuyện này. Nhưng với đội hình ít người thế này, việc hỗ trợ nhau lúc nguy cấp thực sự vô cùng đáng ngại.
+Dĩ nhiên, nếu người đứng ra nắm quyền tổng chỉ huy là tôi và toàn bộ thành viên trong lớp đều đồng loạt xuất trận, thì chúng tôi hoàn toàn không cần phải bận tâm đến mối lo này. Nhưng với một đội hình tác chiến tinh giản vỏn vẹn vài ba người như thế này, việc phó thác mạng sống cho nhau để tương trợ lúc hiểm nghèo thực sự là một canh bạc vô cùng đáng sợ.
 
-Tóm lại, chỉ là tôi ngay từ đầu đã không tin tưởng Souma có thể bảo vệ được tất cả mọi người mà thôi. Đã bảo rồi mà, uy tín của cậu ta đã chạm đáy từ lâu rồi.
+Tựu trung lại, nguyên nhân sâu xa chỉ đơn giản là vì ngay từ đầu, tôi chưa từng đặt một mảy may niềm tin vào cái viễn cảnh Souma có thể dang tay bảo bọc được tính mạng của tất cả mọi người mà thôi. Tôi đã cảnh báo từ trước rồi, cái thứ gọi là uy tín của cậu ta đã chạm đáy bùn đen từ lâu lắm rồi.
 
-“Vì thế, Nakajima-kun, cậu có thể chấp nhận điều này không?”
+“Vì lẽ đó, Nakajima-kun, cậu có thể chấp nhận rút lui trong êm đẹp được không?”
 
-“Chuyện đó... làm sao tớ chấp nhận nổi chứ! Nếu lùi bước ở đây, tớ... tình cảm của tớ sẽ...”
+“Chuyện đó... làm sao mà tớ có thể nuốt trôi nổi chứ! Nếu như hèn nhát lùi bước ngay tại đây, thì tớ... tấm chân tình bấy lâu nay của tớ sẽ...”
 
-“Ái chà, thật là hết cách với cậu mà—Cậu thực sự rất muốn chiến đấu sao, Nakajima-kun?”
+“Ái chà chà, thật là hết cách với cái tính bướng bỉnh của cậu mà—Cậu thực sự khao khát được vung kiếm chiến đấu đến mức đó sao, Nakajima-kun?”
 
-“Ừm, tớ cũng muốn chiến đấu. Chắc chắn tớ sẽ giúp ích được.”
+“Ừm! Tớ thực sự muốn chiến đấu! Tớ dám chắc chắn rằng bản thân mình sẽ giúp ích được rất nhiều cho trận chiến!”
 
-Tôi đâu có nghi ngờ thực lực của cậu ta. Nakajima đã mạnh lên rất nhiều với tư cách là một 『Ma Pháp Kiếm Sĩ』 thực thụ rồi.
+Tôi đâu có hề nghi ngờ hay coi thường thực lực của cậu ta. Nakajima đã tôi luyện và mạnh lên trông thấy với tư cách là một 『Ma Pháp Kiếm Sĩ』 thực thụ rồi.
 
-Nếu Nakajima đã kiên quyết đến mức này, tôi cũng nên đưa ra một phương án dự phòng đã chuẩn bị sẵn. Diễn biến thế này thì có thể nói ra rồi.
+Nếu như Nakajima đã thể hiện một quyết tâm sắt đá đến nhường này, có lẽ tôi cũng nên lật ngửa một phương án dự phòng mà bản thân đã dày công chuẩn bị sẵn từ trước. Cục diện đã biến chuyển đến nước này thì hoàn toàn có thể tung ra được rồi.
 
-“Souma-kun, tớ có một đề xuất thế này.”
+“Souma-kun, tớ có một đề xuất thế này muốn gửi tới cậu.”
 
-“...Cái gì.”
+“...Cái gì nữa đây.”
 
-Vẻ mặt của Souma lộ rõ vẻ chán ghét, như thể linh cảm thấy điều chẳng lành. Đừng lo lắng thế chứ, chuyện này đâu có gì phức tạp đâu.
+Nét mặt của Souma lộ rõ vẻ chán chường và cảnh giác, tựa hồ như linh tính mách bảo cậu ta sắp sửa phải đối mặt với một điều chẳng lành. Đừng có trưng ra cái bộ mặt căng thẳng quá mức như thế chứ, câu chuyện này thực chất đâu có gì phức tạp hay đánh đố đâu nào.
 
-Phải, đây chỉ là một câu chuyện trao đổi đồng giá vô cùng đơn giản mà thôi.
+Phải, đây đơn thuần chỉ là một câu chuyện trao đổi ngang giá vô cùng sòng phẳng và minh bạch mà thôi.
 
-“Chúng ta hãy đem mạng sống của Takanashi ra đặt cược đi.”
+“Chúng ta hãy đem chính mạng sống của Takanashi ra làm vật thế chấp đặt cược đi.”
 
 “...Cái gì cơ?”
 
-“Yamada-kun, Sakura-chan, và cả Nakajima-kun nữa. Trong số ba người đã quyết định tham gia chiến đấu này, chỉ cần một người bỏ mạng, Takanashi cũng sẽ phải chết theo.”
+“Yamada-kun, Sakura-chan, và cả Nakajima-kun nữa. Trong số ba người đã hạ quyết tâm tham gia đợt chinh phục lần này, chỉ cần có bất kỳ ai bỏ mạng nơi chiến trường, Takanashi cũng sẽ lập tức phải đền mạng theo.”
 
-“C-Cái gì chứ! Chuyện nhảm nhí—”
+“C-Cái quái gì chứ! Cái thứ nhảm nhí điên rồ—”
 
-“Tớ không đùa đâu. Đây là một đề nghị cực kỳ nghiêm túc đấy.”
+“Tớ không hề nói đùa đâu nhé. Đây là một lời đề nghị hoàn toàn nghiêm túc và thấu đáo đấy.”
 
-Thậm chí, nếu đem mạng sống của Takanashi ra cược, tôi cho cả lớp tham gia cũng được nữa là.
+Thậm chí, nếu đã đem tính mạng của Takanashi ra làm con tin thế chấp, tôi sẵn lòng để toàn bộ thành viên trong lớp cùng kéo nhau đi tham chiến cũng chẳng thành vấn đề.
 
-Nhưng nếu tất cả cùng lao vào trận đấu Boss, chắc chắn sẽ lộ ra sơ hở, nên việc duy trì trạng thái có thể giết chết Takanashi bất cứ lúc nào vẫn là điều bắt buộc.
+Thế nhưng, nếu tất cả mọi người cùng ồ ạt lao vào hang ổ của Boss, vòng vây canh giữ chắc chắn sẽ để lộ ra những sơ hở chết người, vậy nên việc duy trì một trạng thái có thể lập tức thi hành án tử hình vặn gãy cổ Takanashi bất cứ lúc nào vẫn là điều kiện tiên quyết mang tính sống còn.
 
-“Dù Souma-kun có tuyên bố hùng hồn rằng sẽ không để ai phải hy sinh nữa, thì điều đó cũng chẳng có chút sức thuyết phục nào cả. Nếu cứ thế này mà chiến đấu, rồi lỡ như Yamada-kun hoặc Nakajima-kun tử trận, cậu có chịu trách nhiệm nổi không?”
+“Dẫu cho Souma-kun có lớn tiếng tuyên thệ hùng hồn rằng sẽ không để bất kỳ ai phải ngã xuống thêm nữa, thì những lời thề thốt sáo rỗng đó cũng chẳng mang lại chút sức nặng thuyết phục nào cả. Nếu cứ nhắm mắt lao vào tử địa theo cách này, rồi chẳng may Yamada-kun hoặc Nakajima-kun phải bỏ mạng nơi chiến trường, liệu cậu có gánh vác nổi trách nhiệm đền mạng đó hay không?”
 
-“Chuyện đó... Cậu muốn tớ phải mổ bụng tự sát sao...”
+“Chuyện đó... Rốt cuộc cậu muốn ép tớ phải mổ bụng tự sát để tạ tội sao...”
 
-“Thứ cậu cần là quyết tâm.”
+“Thứ mà cậu đang thiếu thốn trầm trọng chính là sự giác ngộ.”
 
-“Quyết tâm sao... Cậu bảo tớ vẫn chưa đủ quyết tâm à?”
+“Giác ngộ sao... Cậu dám mở miệng bảo rằng sự giác ngộ của tớ bấy lâu nay vẫn chưa đủ à?”
 
-“Đúng vậy, chỉ cần thêm một người bạn học nữa nằm xuống thì mọi chuyện sẽ chấm dứt, đó chính là quyết tâm tớ muốn nói.”
+“Đúng vậy. Chỉ cần có thêm một người bạn học nữa ngã xuống thì toàn bộ ván cờ này sẽ lập tức sụp đổ tan tành, đó mới chính là sự giác ngộ tối thượng mà tớ muốn nói tới.”
 
-Dù Yamada hay Nakajima có chết, Sakura cũng chẳng hề hấn gì. Người quan trọng nhất, người mà cậu trân quý nhất sẽ không bị tổn thương.
+Dẫu cho Yamada hay Nakajima có phơi thây nơi chiến địa, Sakura cũng chẳng hề mảy may sứt mẻ lấy một sợi tóc. Người quan trọng nhất, bảo vật vô giá mà cậu nâng niu trân quý nhất vẫn sẽ bình an vô sự.
 
-Vái kết quả là đây. Cuối cùng, những người còn sống sót bên cạnh cậu chẳng phải chỉ toàn là những người cậu yêu quý thôi sao?
+Và kết quả sau cùng sẽ là gì đây? Rốt cuộc thì những kẻ còn sót lại, sống sót an nhàn bên cạnh cậu chẳng phải toàn là những gương mặt thân quen mà cậu hết mực yêu thương bảo bọc đó sao?
 
-“Bằng cách đặt cược mạng sống của Takanashi, cậu sẽ phải gánh vác trách nhiệm và quyết tâm đối với mạng sống của những người đồng đội của tớ.”
+“Bằng cách đặt cược chính sinh mạng của Takanashi lên bàn cân, cậu sẽ buộc phải gánh vác trọn vẹn trách nhiệm và sự giác ngộ cao nhất đối với sinh mạng của những người đồng đội thuộc phe tớ.”
 
-Tất nhiên, mục đích của tôi không chỉ dừng lại ở đó.
+Dĩ nhiên, mưu đồ thực sự của tôi đâu chỉ dừng lại ở mỗi mục đích răn đe cỏn con đó.
 
-Thực chất, so với quyết tâm của Souma, đây mới là mục tiêu chính.
+Trên thực tế, so với việc ép Souma phải giác ngộ, đây mới chính là mục tiêu cốt lõi mang tính quyết định.
 
-“Hơn nữa, làm vậy sẽ ngăn chặn việc Takanashi âm thầm trừ khử từng người một.”
+“Hơn thế nữa, làm như vậy sẽ phong tỏa hoàn toàn dã tâm âm thầm trừ khử từng người một của Takanashi.”
 
-Chỉ cần một người chết, án tử hình của cô ta sẽ lập tức được thi hành. Cho dù có ngụy tạo thành một cái chết tự nhiên đến mức nào, cô ta cũng không thoát khỏi án tử.
+Chỉ cần có duy nhất một người trong đội ngũ bỏ mạng, bản án tử hình dành cho ả sẽ lập tức được thi hành không một giây trì hoãn. Cho dù ả có dùng mưu ma chước quỷ để ngụy tạo cái chết đó thành một tai nạn tự nhiên hay rủi ro chiến đấu hoàn hảo đến mức nào đi chăng nữa, ả cũng tuyệt đối không thể thoát khỏi lưỡi hái tử thần.
 
-Để giết các bạn học, Takanashi buộc phải tìm cách tiêu diệt toàn bộ bọn họ cùng một lúc. Chỉ riêng điều này thôi cũng đủ để hạn chế đáng kể hành động của cô ta rồi.
+Để có thể tiêu diệt các bạn học, Takanashi buộc lòng phải tìm cách quét sạch toàn bộ bọn họ cùng một lúc trong một đòn hủy diệt. Chỉ riêng rào cản chí mạng này thôi cũng đã đủ sức bẻ gãy và hạn chế đáng kể mọi toan tính ngầm của ả ta rồi.
 
-Mà nói đúng ra, nếu Kenzaki tự ý bỏ mạng rồi nhờ đó tôi có thể thi hành án tử với Takanashi thì đúng là kịch bản hoàn hảo nhất. Hay là tôi cũng học tập Takanashi, tìm cách mưu sát Kenzaki ngay trong trận chiến nhỉ?
+Mà nếu nói một cách thẳng thắn ra, nếu như Kenzaki tự ý sẩy chân bỏ mạng rồi nhờ cái chết của ả mà tôi có thể danh chính ngôn thuận thi hành án tử hình đối với Takanashi, thì đó mới thực sự là một kịch bản hoàn mỹ nhất. Hay là nhân lúc hỗn chiến, tôi cũng nên học tập phong cách của Takanashi, tìm cơ hội mượn tay quái vật để mưu sát Kenzaki ngay giữa trận địa nhỉ?
 
-“Ch-Chuyện đó... tớ không thể... chấp nhận được...”
+“Ch-Chuyện đó... tớ không thể nào... chấp nhận một yêu sách điên rồ như thế được...”
 
-“Nếu không chấp nhận, điều đó chứng tỏ quyết tâm của cậu cũng chỉ đến thế mà thôi. Suy cho cùng, những bạn học khác có chết thì cậu cũng chỉ thấy hơi đau lòng một chút là cùng.”
+“Nếu như cậu khăng khăng không chịu chấp nhận, điều đó chỉ càng chứng minh rằng sự giác ngộ của cậu rốt cuộc cũng chỉ nông cạn đến mức ấy mà thôi. Suy cho cùng, dẫu các bạn học khác có chết bờ chết bụi, trong lòng cậu cũng chỉ dấy lên một chút xót xa, thương hại thoáng qua là cùng.”
 
-“Không phải! Tớ đã phải đau khổ thế nào khi mất đi đồng đội, làm sao một kẻ như cậu có thể hiểu được chứ!”
+“Không phải như thế!! Tớ đã phải nếm trải nỗi đau đớn cùng cực dường nào khi chứng kiến từng người đồng đội ngã xuống, một kẻ máu lạnh tàn nhẫn như cậu làm sao có thể thấu hiểu được chứ?!”
 
-“Đúng vậy, cậu chỉ biết đau khổ thôi chứ chẳng làm được trò trống gì cả. Và kết cục của sự bất lực đó chính là tình cảnh hiện tại đấy.”
+“Đúng vậy đấy, cậu chỉ biết ngồi một chỗ mà ôm đầu gặm nhấm nỗi đau khổ vô dụng thôi, chứ bản thân cậu có làm nên được trò trống gì đâu nào? Và cái kết cục thảm hại cho sự bất lực, yếu hèn đó của cậu chính là tình cảnh bi đát ở hiện tại này đây.”
 
-Cậu ta đang ở trong tình cảnh thảm hại khi bị một kẻ như tôi dồn vào thế bí. Tất cả những chuyện này xảy ra là do cậu ta, với tư cách là một 『Dũng Giả』, đã không thể cứu được mọi người.
+Cậu ta đang bị một kẻ cặn bã như tôi dồn ép đến bước đường cùng trong một tình thế nhục nhã ê chề. Toàn bộ những thảm kịch và sự bế tắc này xảy ra, cội nguồn đều bắt nguồn từ chính sự bất tài của cậu ta — một kẻ mang danh 『Dũng Giả』 nhưng lại chẳng đủ sức cứu vớt lấy nổi tính mạng của bất kỳ ai.
 
-Nếu đã thích lên mặt dạy đời thì hãy cứu hết tất cả mọi người cho tôi xem.
+Nếu đã thích mở mồm lên mặt dạy đời và rao giảng đạo đức, thì hãy thử dang tay cứu vớt toàn bộ sinh mạng cho tôi mở rộng tầm mắt xem nào.
 
-Còn nếu không làm được thì hãy ngậm miệng lại và tuân theo phương án chinh phục đề cao tính an toàn và hiệu quả này đi.
+Còn nếu bản thân vốn dĩ bất tài vô dụng không làm nổi, thì tốt nhất hãy ngậm chặt cái miệng lại và ngoan ngoãn phục tùng theo phương án chinh phục đề cao tối đa tính an toàn và hiệu quả thực tế này đi.
 
-“Nào, hãy đặt cược mạng sống của Takanashi đi.”
+“Nào, hãy đặt cược chính sinh mạng của Takanashi lên bàn cân đi chứ.”
 
 “—Cái...”
 
-Souma nghẹn họng, không thốt nên lời. Thay vào đó, một tiếng thì thầm nhỏ bé lọt vào tai tôi.
+Souma nghẹn ứ nơi cổ họng, không thốt nên nổi một lời nào. 
+
+Ngay giữa khoảng không gian tĩnh lặng đến ngột ngạt ấy, một tiếng lẩm bẩm thì thào đầy ma quái bỗng lọt vào tai tôi.
 
 “...đừng có giỡn.”
 
-Tiếng nói phát ra từ cô gái đang ngồi bệt dưới sàn, tấm lưng nhỏ nhắn run lên bần bật.
+Âm thanh đó phát ra từ hình bóng của cô gái đang ngồi bệt dưới nền đất, tấm lưng nhỏ nhắn khẽ co rúm lại và run lên bần bật.
 
-Thế nhưng, bờ vai và tấm lưng ấy run rẩy tuyệt đối không phải vì sợ hãi hay bất an.
+Thế nhưng, bờ vai và tấm lưng gầy gò ấy run rẩy tuyệt đối không phải vì nỗi sợ hãi hay sự hoang mang bất an.
 
-“...ĐỪNG CÓ MÀ GIỠN MẶT TAO, MOMOKAWA! THẰNG RÁC RƯỞI KIA, MÀY VỪA PHẢI THÔI CHỨ!!”
+“...ĐỪNG CÓ MÀ GIỠN MẶT TAO, MOMOKAWA! THẰNG RÁC RƯỞI KIA, MÀY VỪA PHẢI THÔI CHỨ ĐẤYYYYYY!!”
 
-Takanashi Kotori cuối cùng đã lộ ra bản chất thật của mình, gào lên một tiếng thét đầy giận dữ.`
+Takanashi Kotori cuối cùng đã xé toạc lớp mặt nạ thánh thiện, bộc lộ trọn vẹn bản chất ác quỷ gớm ghiếc bên trong, gầm thét lên một tiếng rống man dại tràn ngập ngọn lửa hận thù tột cùng.`
             },
             {
                 "id": "ep_329",
@@ -58263,7 +58267,7 @@ Takanashi Kotori cuối cùng đã lộ ra bản chất thật của mình, gào
 
 Cùng với tiếng thét giận dữ, Takanashi bật dậy.
 
-Đồng thời, tôi cũng hét lên:
+Đồng thời, tôi cũng hét lớn:
 
 “Bắn đi, Kyouko!”
 
@@ -58271,13 +58275,13 @@ Cùng với tiếng thét giận dữ, Takanashi bật dậy.
 
 Từ khẩu súng lục ổ quay hoàng kim mà Kyouko vẫn luôn thủ thế, một ma pháp tấn công cấp cao được phóng ra không chút do dự.
 
-Cô ấy vẫn chưa từng giết người. Dù Takanashi có là kẻ chủ mưu đi chăng nữa, chắc chắn trong lòng cô ấy vẫn có sự kháng cự. Thế nhưng, trong tình cảnh này, người duy nhất có thể lập tức ra tay tấn công chỉ có thể là Kyouko.
+Cô ấy chưa từng giết người. Dù Takanashi có là kẻ chủ mưu đi chăng nữa, chắc chắn trong lòng cô ấy vẫn có sự kháng cự. Thế nhưng trong tình cảnh này, người duy nhất có thể lập tức ra tay tấn công chỉ có thể là Kyouko.
 
-Tôi đã nghĩ rằng dù cô ấy có ngần ngại không dám bắn thì cũng đành chịu, nhưng cô ấy đã không phụ sự kỳ vọng của tôi.
+Tôi từng nghĩ dù cô ấy có ngần ngại không dám bắn thì cũng đành chịu, nhưng cô ấy đã không phụ sự kỳ vọng của tôi.
 
 Đòn 『Phá Nham Trường Thương』 được phóng ra là một ma pháp tấn công cực mạnh, dư sức nghiền nát một người bình thường thành thịt vụn chỉ trong nháy mắt. Uy lực của nó là quá dư thừa để kết liễu một cô gái yếu ớt như Takanashi Kotori.
 
-Một đòn chắc chắn sẽ là quá tay bằng cọc đá khổng lồ lao đi, thế nhưng——
+Một đòn chắc chắn sẽ là quá tay bằng cọc đá khổng lồ lao đi xé gió, thế nhưng——
 
 “Dừng lại cho taooooo!!”
 
@@ -58291,45 +58295,45 @@ Trong lúc tôi còn đang tự hỏi bằng cái lý lẽ quái quỷ nào mà 
 
 “Dừng lại, và quỳ xuống đi. Lũ nhân vật phụ yếu đuối không biết lượng sức mình.”
 
-*Rầm*, cơ thể tôi tự động quỳ sụp xuống.
+*Rầm!* Cơ thể tôi tự động quỳ sụp xuống.
 
 Không phải là cơ thể không nghe theo mệnh lệnh, mà cảm giác giống như có một áp lực khổng lồ từ trên cao đang cưỡng ép đè chặt tôi xuống đất.
 
-Cảm giác bị ma pháp trọng lực ép sát xuống đất chắc cũng đến thế này là cùng.
+Cảm giác bị ma pháp trọng lực ép sát xuống sàn chắc cũng đến thế này là cùng.
 
-“Thấy sao, đây là khi Kotori này nghiêm túc đấy. 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có thể ngăn chặn mọi hành vi chiến đấu. Nói cách khác, dù các người có giãy giụa thế nào đi nữa, cũng đừng hòng chạm được vào một sợi tóc của Kotori này!”
+“Thấy sao hả? Đây là khi Kotori này nghiêm túc đấy. 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có thể ngăn chặn mọi hành vi chiến đấu. Nói cách khác, dù các người có giãy giụa thế nào đi nữa, cũng đừng hòng chạm được vào một sợi tóc của Kotori này!”
 
 Takanashi cất tiếng cười lảnh lót, chói tai.
 
 Nhưng quả thực cô ta có vốn liếng để tự đắc như vậy, khi đã thành công khóa chặt cử động của tất cả mọi người ở đây.
 
-Chết tiệt, đây đúng là năng lực gian lận hàng thật giá thật rồi. 『Thần Thánh Ngôn Ngữ』 một khi được nâng cấp độ kỹ năng lên cao lại có thể mang lại hiệu quả bá đạo đến mức phi lý này sao.
+Chết tiệt, đây đúng là năng lực gian lận hàng thật giá thật rồi. 『Thần Thánh Ngôn Ngữ』 một khi được nâng cấp độ kỹ năng lên cao lại có thể mang lại hiệu quả bá đạo đến mức phi lý nhường này sao.
 
-“Thật là, người ta đã im lặng thì chớ, lại cứ được đà lấn tới. Tưởng thế này là dồn được tao vào đường cùng rồi sao? Đừng có tinh tướng, Momokawa!”
+“Thật là, người ta đã nhịn không thèm nói thì chớ, lại cứ được đằng chân lân đằng đầu. Tưởng thế này là dồn được tao vào đường cùng rồi chắc? Đừng có tinh tướng, Momokawa!”
 
 Vâng, đúng vậy đấy. Tôi cứ tưởng đã dồn được cô vào chân tường nên mới đắc ý thế đấy.
 
 Ai mà ngờ cô lại nổi điên rồi lộ nguyên hình trong hoàn cảnh này chứ. Đáng lẽ ra tôi phải hoàn toàn khống chế và khóa chặt cô ta từ trước mới đúng.
 
-“C-Cậu thấy chưa, cậu Souma... Đây mới là bản chất thật của Takanashi.”
+“C-Cậu thấy chưa, Souma-kun... Đây mới là bản chất thật của Takanashi.”
 
-“Không thể nào... Chuyện này là sao hả, bạn Takanashi?”
+“Không thể nào... Chuyện này là sao hả, Takanashi-san?”
 
-“Hì hì, chẳng sao cả đâu, cậu Souma. Tại vì Momokawa ngứa mắt quá mà, nên dù Kotori có bao dung đến mấy cũng phải nổi điên thôi.”
+“Hì hì, chẳng sao cả đâu, Souma-kun. Tại vì Momokawa ngứa mắt quá mà, nên dù Kotori có bao dung đến mấy cũng phải nổi điên thôi.”
 
-Cô ta thản nhiên thốt ra những lời đó với nụ cười ngây thơ thường ngày vẫn hay trưng ra trước mặt cậu Souma.
+Cô ta thản nhiên thốt ra những lời đó với nụ cười ngây thơ thường ngày vẫn hay trưng ra trước mặt Souma-kun.
 
-Xem ra, cô ta cũng chẳng thèm giả vờ làm con nai tơ nữa rồi.
+Xem ra, cô ta cũng chẳng buồn giả vờ làm con nai tơ nữa rồi.
 
-“Takanashi, mày đã chuẩn bị sẵn sàng để thao túng tâm trí cậu Souma rồi đúng không?”
+“Takanashi, mày đã chuẩn bị sẵn sàng để thao túng tâm trí Souma-kun rồi đúng không?”
 
 “Bởi vậy ta mới ghét nhất cái kiểu tự đắc đó của mày đấy.”
 
 Bị nói trúng tim đen, cô ta nhìn xuống tôi đang quỳ rạp dưới đất với vẻ mặt vô cùng khó chịu.
 
-Nhưng sở hữu cái tà pháp mê hoặc lòng người như 『Quy Tắc Ý Niệm』 thì việc đoán ra là đương nhiên thôi.
+Nhưng khi ả sở hữu cái tà pháp mê hoặc lòng người như 『Quy Tắc Ý Niệm』 thì việc đoán ra là quá đỗi hiển nhiên.
 
-Tôi chưa bao giờ nghĩ mày sẽ dùng con đường chính đạo để chinh phục cậu Souma ngay từ đầu. Với tính cách của mày, mục tiêu cuối cùng chắc chắn là tẩy não để biến cậu Souma thành con rối theo ý muốn của mình.
+Tôi chưa bao giờ nghĩ mày sẽ dùng con đường chính đạo để chinh phục Souma-kun ngay từ đầu. Với bản tính của mày, mục tiêu cuối cùng chắc chắn là tẩy não để biến Souma-kun thành con rối theo ý muốn của mình.
 
 Có lẽ, tôi đã dự đoán rằng chuyện đó sẽ xảy ra khi mọi việc tiến triển theo đúng kế hoạch của ả, và chỉ còn lại hai người họ với nhau...
 
@@ -58337,29 +58341,29 @@ Có lẽ, tôi đã dự đoán rằng chuyện đó sẽ xảy ra khi mọi vi�
 
 “Gừ... ừ... ỐỐỐỐỐỐỐỐỐỐỐỐ!”
 
-Một tiếng gầm như thú dữ vang lên.
+Một tiếng gầm như thú dữ vang lên xé toạc không gian.
 
-Trong không gian mà mọi thứ đều bị đóng băng, có một bóng người bắt đầu chuyển động.
+Trong khoảng không gian mà mọi thứ đều bị đông cứng, có một bóng người bắt đầu chuyển động.
 
 “Ủa, Mei-chan, cậu cử động được sao?”
 
-Cử động ấy vô cùng ngượng ngịu như một con robot rỉ sét. Thế nhưng, Mei vẫn bước từng bước, từng bước một tiến về phía Takanashi.
+Cử động ấy vô cùng ngượng nghịu như một cỗ máy rỉ sét. Thế nhưng, Mei-chan vẫn bước từng bước, từng bước một tiến về phía Takanashi.
 
 Trên tay cô ấy nắm chặt cây kích thiết đen chứa đựng sát ý tuyệt đối.
 
 “Hảaaaa?! Tại sao con mụ này lại cử động được! Dừng lại! Dừng lại đi, tao bảo dừng lại cơ mà!!”
 
-Ngay cả cái kỹ năng đao to búa lớn như 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 đang được thi triển hết công suất cũng không thể khóa chặt hoàn toàn cử động của Mei, khiến Takanashi bắt đầu hoảng loạn.
+Ngay cả cái kỹ năng đao to búa lớn như 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 đang được thi triển hết công suất cũng không thể khóa chặt hoàn toàn cử động của Mei-chan, khiến Takanashi bắt đầu hoảng loạn.
 
-A, chẳng lẽ... trong thời gian ở pháo đài ẩn, cô ta đã dùng chiêu này quá nhiều lần với Mei chăng? Chắc chắn Mei đã nhận được kỹ năng kháng tính rồi.
+A, chẳng lẽ... trong thời gian ở pháo đài ẩn, cô ta đã dùng chiêu này quá nhiều lần với Mei-chan chăng? Chắc chắn Mei-chan đã hình thành kỹ năng kháng tính rồi.
 
 “Nhờ cả vào cậu đấy, Mei-chan! Mau hạ gục Takanashi————”
 
 “Ồồồồồồồồồ!”
 
-Bản thân Mei chắc cũng đang phải chịu đựng đau đớn tột cùng chỉ để di chuyển. Cô ấy nghiến chặt răng, gương mặt đằng đằng sát khí như một vị Tu La, tiếp tục tiến bước không ngừng trong không gian tràn ngập sức mạnh cưỡng chế dừng lại kia.
+Bản thân Mei-chan chắc cũng đang phải chịu đựng đau đớn tột cùng chỉ để di chuyển. Cô ấy nghiến chặt răng, gương mặt đằng đằng sát khí như một vị Tu La, tiếp tục tiến bước không ngừng trong không gian tràn ngập sức mạnh cưỡng chế dừng lại kia.
 
-Nhìn xem, cậu Souma. Trong tình cảnh tuyệt vọng mà ai cũng bất động, chỉ có một mình Mei đứng lên tiêu diệt kẻ thù. Dáng vẻ của Mei lúc này mới thực sự xứng đáng là một Dũng Giả.
+Nhìn xem, Souma-kun. Trong tình cảnh tuyệt vọng mà ai nấy đều bất động, chỉ có một mình Mei-chan đứng lên tiêu diệt kẻ thù. Dáng vẻ của Mei-chan lúc này mới thực sự xứng đáng là một Dũng Giả.
 
 “Kh-Không dừng lại... Khốn kiếp, khốn kiếp! Làm gì đi chứ, Asunaaaaa!”
 
@@ -58381,17 +58385,17 @@ Một ma pháp trận tỏa ánh sáng trắng tinh khôi hiện ra ngay bên c�
 
 “Đừng có... cản đường taooooo!”
 
-Dù chuyển động vẫn còn chậm chạp, Mei vẫn vung cây kích nhắm thẳng vào Kenzaki đang chắn đường.
+Dù chuyển động vẫn còn chậm chạp, Mei-chan vẫn vung cây kích nhắm thẳng vào Kenzaki đang chắn đường.
 
 “Futabaaa! Uốốốốốốốốốốốố!”
 
-Ở phía đối diện, Kenzaki nắm chặt hai thanh kiếm dự phòng do Takanashi đưa cho, chặn đứng đà tiến công của Mei.
+Ở phía đối diện, Kenzaki nắm chặt hai thanh kiếm dự phòng do Takanashi đưa cho, chặn đứng đà tiến công của Mei-chan.
 
 “Ha ha, a ha ha! Đúng rồi Asuna-chan, bảo vệ Kotori đi. Cứ chặn con lợn xề đó lại cho tao!”
 
-Nhờ chặn đứng được người duy nhất có thể cử động là Mei, Takanashi cất tiếng cười đắc thắng đầy phấn khích.
+Nhờ chặn đứng được người duy nhất có thể cử động là Mei-chan, Takanashi cất tiếng cười đắc thắng đầy phấn khích.
 
-Thế nhưng, có lẽ do phải tập trung điều khiển Kenzaki, tôi cảm thấy... cơ thể mình đã có thể cử động được một chút.
+Thế nhưng, có lẽ do phải tập trung điều khiển Kenzaki, tôi cảm thấy... cơ thể mình đã có thể cử động được đôi chút.
 
 Dù chỉ là suy đoán lạc quan, nhưng việc khống chế toàn bộ mọi người ở đây bằng 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có lẽ đã là giới hạn tối đa của Takanashi rồi.
 
@@ -58449,7 +58453,7 @@ Trong một khoảnh khắc, luồng tử điện bùng lên đã đánh trúng 
 
 Người vừa phóng ra đòn đó là một nam sinh đang quỳ một gối dưới đất, tay phải vẫn đang giơ chiếc điện thoại hướng về phía trước.
 
-“Cậu Hayama?!”
+“Hayama-kun?!”
 
 “Momokawa, là tinh linh! Sức mạnh của tinh linh không bị ảnh hưởng bởi năng lực dừng lại này!”
 
@@ -58457,7 +58461,7 @@ Ra là vậy! Tinh linh nằm ngoài phạm vi tác động của 『Thần Thá
 
 Điều đó có nghĩa là, tinh linh là một khái niệm hoàn toàn khác biệt, một sự tồn tại về mặt bản chất không chịu sự chi phối từ sức mạnh của Nữ thần Elshion.
 
-Nhận ra điều đó thật xuất sắc. Không, nếu không phải là một 『Tinh Linh Thuật Sư』 như cậu Hayama thì không thể nào nhận ra được. Bởi vì ngay từ đầu, chúng tôi đâu có thể chủ động sử dụng sức mạnh của tinh linh.
+Nhận ra điều đó thật xuất sắc. Không, nếu không phải là một 『Tinh Linh Thuật Sư』 như Hayama-kun thì không thể nào nhận ra được. Bởi vì ngay từ đầu, chúng tôi đâu có thể chủ động sử dụng sức mạnh của tinh linh.
 
 Thế nhưng, lúc này đây chỉ có thể đánh cược vào phương án đó.
 
@@ -58479,7 +58483,7 @@ Kyouko run rẩy chĩa khẩu súng về phía trước, một lần nữa ngưn
 
 “Đ-Đau quá... Tại sao lại thế này, tàn nhẫn, tàn nhẫn quá...”
 
-Bị trúng trực diện đòn 『Chiêu Lôi』 từ lôi tinh linh tích tụ trong điện thoại của cậu Hayama, Takanashi ngã gục xuống sàn, vừa khóc lóc thảm thiết vừa lồm cồm bò dậy.
+Bị trúng trực diện đòn 『Chiêu Lôi』 từ lôi tinh linh tích tụ trong điện thoại của Hayama-kun, Takanashi ngã gục xuống sàn, vừa khóc lóc thảm thiết vừa lồm cồm bò dậy.
 
 Quả nhiên chỉ có năng lực là gian lận, chứ bản thân cô ta khả năng chịu đòn rất kém. Tuy nhiên, dù không trực tiếp chiến đấu nhưng trang bị của cô ta lại vô cùng hoàn hảo. Bộ đồng phục chỉ bị cháy xém đen thui chứ bản thân cô ta dường như không phải chịu vết bỏng nặng nào.
 
@@ -58489,7 +58493,7 @@ Quả nhiên chỉ có năng lực là gian lận, chứ bản thân cô ta kh�
 
 Takanashi gào khóc thảm thiết.
 
-Mặc kệ cậu Hayama đang chĩa chiếc điện thoại đang xẹt điện về phía mình, tay Takanashi khẽ lóe lên ánh sáng của ma pháp không gian, và cô ta đã nắm chặt một thứ gì đó.
+Mặc kệ Hayama-kun đang chĩa chiếc điện thoại đang xẹt điện về phía mình, tay Takanashi khẽ lóe lên ánh sáng của ma pháp không gian, và cô ta đã nắm chặt một thứ gì đó.
 
 C-Cái gì thế kia, không lẽ là súng sao?!
 
@@ -58511,7 +58515,7 @@ Có lẽ đó là một món vũ khí cổ đại mà cô ta đã âm thầm thu
 
 Tôi nhận ra trên cổ tay trái của cô ta, từ lúc nào đã đeo một chiếc vòng lạ mắt giống như đồng hồ đeo tay. Cũng giống như khẩu blaster, nó được làm từ kim loại trắng với các chi tiết phát sáng xanh lam nhạt.
 
-Và tôi đã tận mắt chứng kiến phát 『Chiêu Lôi』 thứ hai của cậu Hayama bị chặn lại hoàn toàn bởi một tấm khiên phát sáng xanh trắng triển khai từ chiếc vòng đó.
+Và tôi đã tận mắt chứng kiến phát 『Chiêu Lôi』 thứ hai của Hayama-kun bị chặn lại hoàn toàn bởi một tấm khiên phát sáng xanh trắng triển khai từ chiếc vòng đó.
 
 Chắc chắn chiếc vòng đó cũng là một món đồ cổ đại, một trang bị phòng ngự có khả năng triển khai 『Quang Thuẫn』.
 
@@ -58519,11 +58523,11 @@ Chắc chắn chiếc vòng đó cũng là một món đồ cổ đại, một t
 
 “Uôi, K-Kinako!”
 
-Những tia sáng liên hoàn từ khẩu blaster của Takanashi lao thẳng về phía cậu Hayama, người vẫn đang bị đông cứng dưới tác động của 『Thần Thánh Ngôn Ngữ』.
+Những tia sáng liên hoàn từ khẩu blaster của Takanashi lao thẳng về phía Hayama-kun, người vẫn đang bị đông cứng dưới tác động của 『Thần Thánh Ngôn Ngữ』.
 
 Nhưng người đã lấy thân mình ra che chắn đòn tấn công đó lại chính là người bạn đồng hành thân thiết nhất của cậu, Kinako.
 
-Dù đang chịu ảnh hưởng của sức mạnh cưỡng chế dừng lại, chú gấu vẫn cố gắng lết thân hình hộ pháp của mình đến để làm tấm khiên che chở cho cậu Hayama.
+Dù đang chịu ảnh hưởng của sức mạnh cưỡng chế dừng lại, chú gấu vẫn cố gắng lết thân hình hộ pháp của mình đến để làm tấm khiên che chở cho Hayama-kun.
 
 Những tiếng *bụp bụp* vang lên khi vài tia sáng găm thẳng vào người Kinako, đốt cháy xém lớp lông dày của chú gấu.
 
@@ -58531,11 +58535,11 @@ Những tiếng *bụp bụp* vang lên khi vài tia sáng găm thẳng vào ng�
 
 “Đừng, Kinako, đừng làm càn!”
 
-“Bắn đi, cậu Hayama!”
+“Bắn đi, Hayama-kun!”
 
 “Khốn kiếp, Takanashi!”
 
-Sự hy sinh của Kinako đã tiếp thêm động lực cho cậu Hayama.
+Sự hy sinh của Kinako đã tiếp thêm động lực cho Hayama-kun.
 
 Cậu giơ cao chiếc điện thoại cùng với cây Hồng Thương đang lập lòe những đốm lửa ở đầu mũi thương.
 
@@ -58569,9 +58573,9 @@ Vị trí đứng lúc này thật là may mắn. Kyouko đã nhắm bắn Takan
 
 Đối mặt với khẩu súng ổ quay của Kyouko, Takanashi cũng chĩa khẩu blaster về phía cô ấy.
 
-Nguy rồi. Kyouko lúc này cũng giống như cậu Hayama lúc nãy, chỉ có thể đứng chôn chân một chỗ. Cô ấy không có vật che chắn, cũng không có đồng đội nào có thể đỡ đòn hộ như Kinako.
+Nguy rồi. Kyouko lúc này cũng giống như Hayama-kun lúc nãy, chỉ có thể đứng chôn chân một chỗ. Cô ấy không có vật che chắn, cũng không có đồng đội nào có thể đỡ đòn hộ như Kinako.
 
-“Làm ơn, hãy bảo vệ bạn Randou———— 『Triệu Hoán Băng Tinh Linh』!”
+“Làm ơn, hãy bảo vệ Randou-san———— 『Triệu Hoán Băng Tinh Linh』!”
 
 Ngay lúc đó, Lớp trưởng đã hành động.
 
@@ -58585,7 +58589,7 @@ Thế nhưng, mỗi con vẫn kiên cường đỡ được hai phát bắn, b�
 
 “Đừng hòng làm càn thêm nữa...”
 
-Mày tưởng từ nãy đến giờ tao chỉ biết im lặng đứng nhìn, phó mặc mọi chuyện cho cậu Hayama và Kyouko, những người có thể tấn công bằng sức mạnh tinh linh sao?
+Mày tưởng từ nãy đến giờ tao chỉ biết im lặng đứng nhìn, phó mặc mọi chuyện cho Hayama-kun và Kyouko, những người có thể tấn công bằng sức mạnh tinh linh sao?
 
 Tao cũng đang cố gắng hết sức đây. Trong tình thế ngàn cân treo sợi tóc này, tao đang thử nghiệm một phương pháp chưa từng nghĩ tới, cũng chưa từng làm thử bao giờ, hoàn toàn là ứng biến ngay tại trận.
 
@@ -58627,7 +58631,7 @@ Có vẻ như tinh linh bóng tối rất hiểu cách sử dụng chú thuật 
 
 “Nhắm cho chuẩn vào, thổ tinh linh!”
 
-Đòn tấn công dồn dập của cậu Hayama và Kyouko ập xuống Takanashi.
+Đòn tấn công dồn dập của Hayama-kun và Kyouko ập xuống Takanashi.
 
 “Ư... ư... ááá...”
 
@@ -58643,11 +58647,11 @@ Chỉ cần một bước nữa thôi, chưa đầy một phút nữa, cô ta s�
 
 Giết.
 
-Nhất định phải giết sạch tại đây.
+Nhất định phải giết chết tại đây.
 
 Sau khi tiêu diệt con khốn chủ mưu này, chúng tôi nhất định sẽ cùng nhau thoát khỏi hầm ngục này để trở về thế giới bên ngoài————
 
-“C... Cứu em với... Cậu Souma...”
+“C... Cứu em với... Souma-kun...”
 
 “DỪNG LẠI ĐIIIIIIIIIIIIIIIIIIIIIIIIII!”
 
@@ -58661,11 +58665,11 @@ Ngay lập tức, một luồng sáng trắng xóa thiêu rụi hoàn toàn tầ
 
 “C... Cứu tớ với... Souma-kun...”
 
-“Dừng lại đi...iiiiiiiiiiii!”
+“Dừng lại điiiiiiiiii!”
 
 Khoảnh khắc ấy, một luồng sáng trắng xóa thiêu đốt tầm mắt tôi.
 
-*Cái gì thế này?* Tôi tự hỏi rồi hé mở mi mắt. Hiện ra trước mắt tôi là bóng dáng Souma đang đứng chắn trước mặt Takanashi để bảo vệ cô ta, đồng thời triển khai chiếc khiên Dũng Giả tỏa sáng rực rỡ — 『Thiên Tinh Thuẫn』.
+*Cái gì thế này?* Tôi tự hỏi rồi hé mở mi mắt. Hiện ra trước mắt tôi là bóng dáng Souma đang đứng chắn trước mặt Takanashi để bảo vệ cô ta, đồng thời triển khai chiếc khiên Dũng Giả rực sáng — 『Thiên Tinh Thuẫn』.
 
 “Dừng lại... Xin cậu hãy dừng lại đi!”
 
@@ -58735,7 +58739,7 @@ Dựa vào nội dung thông báo, thứ đó chính là 『Thánh Thiên Cấp 
 
 “Hưm, giờ phải làm sao đây ta? Kotori đã trở thành thiên sứ mạnh nhất rồi nên có thể làm được mọi thứ đấy. Đúng không? Phải rồi, Souma-kun muốn thế nào?”
 
-Vài vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cười híp mắt nói.
+Vừa vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cười híp mắt nói.
 
 “Tớ không muốn bất kỳ ai phải chết nữa! Thế nên vừa rồi tớ mới cứu cậu! Takanashi-san có vẻ không phải là một cô gái yếu đuối như tớ từng tin tưởng... Nhưng dù vậy, đó cũng không phải là lý do để cậu phải chết, hay bị giết!”
 
@@ -58747,7 +58751,7 @@ Vài vỗ vỗ đôi cánh thiên sứ một cách vui vẻ, Takanashi vừa cư
 
 *Không muốn giết. Không muốn để ai bị giết.*
 
-*Đường thôi, một niềm tin vô cùng cao cả.*
+*Được thôi, một niềm tin vô cùng cao cả.*
 
 *Vậy thì, những hy sinh xảy ra do cậu đã cứu Takanashi, cậu định đền bù thế nào đây?*
 
@@ -58907,7 +58911,7 @@ Không phải vì tôi đã tìm ra lối thoát cho tình cảnh tuyệt vọng
 
 Nhưng việc khiêu khích để kéo sự căm ghét của cô ta về phía tôi là có ý nghĩa. Chỉ cần Takanashi tập trung vào tôi, cô ta sẽ không tùy tiện làm biến mất những người khác.
 
-And dù tôi có khiêu khích thế nào đi nữa, cô ta chắc chắn sẽ không dễ dàng trục xuất tôi.
+Vả lại, dù tôi có khiêu khích thế nào đi nữa, cô ta chắc chắn sẽ không dễ dàng trục xuất tôi.
 
 Khi đã nắm giữ lợi thế tuyệt đối thế này, nếu muốn giết tôi, cô ta chắc chắn sẽ muốn làm điều đó một cách hoành tráng và thảm khốc nhất.
 
@@ -58995,7 +58999,7 @@ Bức tường đột ngột đổ sập.
 
 Chuyện đó xảy ra ngay phía sau nơi Takanashi đang bay lơ lửng đầy kiêu ngạo, tại một góc của sảnh vào rộng lớn của tòa tháp.
 
-Bức tường ngoài và trần nhà của sảnh vào, cùng với vài cây cột tròn dựng đứng đổ sập và vỡ vụn một cách hoáng tráng. Cứ như thể vừa xảy ra một vụ nổ lớn... Không, không phải. Không phải là một vụ nổ, mà là một khối lượng khổng lồ vừa đâm sầm vào.
+Bức tường ngoài và trần nhà của sảnh vào, cùng với vài cây cột tròn dựng đứng đổ sập và vỡ vụn một cách hoành tráng. Cứ như thể vừa xảy ra một vụ nổ lớn... Không, không phải. Không phải là một vụ nổ, mà là một khối lượng khổng lồ vừa đâm sầm vào.
 
 Thấp thoáng phía sau làn khói bụi mù mịt là đôi cánh rồng đen tuyền.
 
@@ -59019,285 +59023,287 @@ Tendou Ryuuichi đã xuất hiện.`
 
 “Tao quay lại chứ sao. Mắt mày để làm cảnh à?”
 
-Hóa ra là vậy. Vào cái đêm xảy ra vụ mưu sát bằng độc dược bất thành đó, cậu ta đã bị Takanashi dịch chuyển đi đâu mất — nhưng giờ đây, cậu ta đã đường đường chính chính cưỡi trên lưng con phi long đen tuyền kia để trở về.
+Hóa ra là vậy. Vào cái đêm xảy ra vụ mưu sát bằng độc dược bất thành đó, cậu ta đã bị Takanashi dịch chuyển tống khứ đi đâu mất — nhưng giờ đây, cậu ta đã đường đường chính chính cưỡi trên lưng con hắc long đen tuyền kia để trở về.
 
-Mục tiêu là trục xuất Tendou cơ mà. Cho dù Takanashi có ngốc đến đâu, cô ta chắc chắn cũng phải chọn một nơi tuyệt đối không thể quay về để dịch chuyển cậu ta đi. Độ khó để quay lại của cậu ta hoàn toàn khác so với một kẻ tự dùng dịch chuyển ngẫu nhiên để bỏ trốn như tôi.
+Mục tiêu ban đầu vốn là trục xuất Tendou. Cho dù Takanashi có ngốc đến đâu, cô ta chắc chắn cũng phải chọn một nơi tuyệt đối không có đường lui để đày ải cậu ta. Độ khó để quay trở lại của cậu ta hoàn toàn khác biệt so với một kẻ tự dùng dịch chuyển ngẫu nhiên để thoát thân như tôi.
 
 Thế mà cậu ta vẫn trở về được.
 
 Tendou Ryuuichi. Quả nhiên, cậu ta cũng là một kẻ sở hữu thiên chức gian lận thực thụ.
 
-“Rốt cuộc cậu đã thoát khỏi Khu Vực Cách Ly bằng cách nào?”
+“Rốt cuộc làm cách nào mà ngươi thoát khỏi 『Khu Vực Cách Ly』?!”
 
 “Có một cánh cửa đã mở.”
 
-Có lẽ cậu ta đã dùng phương pháp nào đó để mở nó ra.
+Có lẽ cậu ta đã dùng phương pháp đặc thù nào đó để phá vỡ phong ấn.
 
-Một khi Takanashi đã cất công gọi nơi đó là 『Khu Vực Cách Ly』, thì đó chắc chắn phải là nơi cô ta tin tưởng tuyệt đối rằng đã bị phong tỏa hoàn toàn bởi sức mạnh của di tích.
+Một khi Takanashi đã cất công gọi nơi đó là 『Khu Vực Cách Ly』, thì nơi ấy chắc chắn phải bị cô ta tin tưởng tuyệt đối rằng đã bị phong tỏa hoàn toàn bởi quyền năng của di tích.
 
-Nhưng Tendou vẫn thoát ra được. Hừm, tôi đoán chìa khóa có lẽ chính là con phi long đen kia.
+Nhưng Tendou vẫn thoát ra được. Hừm, tôi đoán chìa khóa then chốt có lẽ chính là con hắc long kia.
 
-Bản thân tôi kể từ khi bước vào hầm ngục này đã chạm trán vô số ma vật, từ việc dùng thi nhân hình để sai khiến cho đến việc chứng kiến những thực thể đặc biệt như linh thú của Tinh Linh Thuật Sư. Dựa vào kinh nghiệm đó, tôi lờ mờ đoán được con phi long đen kia không đơn thuần chỉ là một con rồng hoang dã bị thuần hóa.
+Bản thân tôi kể từ khi bước chân vào hầm ngục này đã chạm trán vô số ma vật, từ việc dùng thi nhân hình để sai khiến cho đến việc tận mắt chứng kiến những thực thể đặc thù như thánh thú của Tinh Linh Thuật Sư. Dựa vào kinh nghiệm dày dặn đó, tôi lờ mờ đoán được con hắc long kia tuyệt đối không đơn thuần chỉ là một loài rồng hoang dã bị thuần hóa.
 
-“Con rồng đó... Không thể nào... Lẽ ra tất cả những thứ ở nơi đó đều đã bị vứt bỏ hoặc phá hủy rồi chứ.”
+“Con rồng đó... Không thể nào... Lẽ ra tất cả những thứ ở nơi đó đều đã bị thanh trừng hoặc phá hủy hoàn toàn rồi chứ!”
 
-“Sao hả, tò mò về Liberta à? Nhưng tao chẳng có lý do gì để tốn nước bọt giải thích cho mày nghe cả.”
+“Sao hả, tò mò về Liberta à? Nhưng tao chẳng rảnh rỗi đến mức tốn nước bọt giải thích cho mày nghe.”
 
-Ồ, đặt tên là Liberta sao. Gu đặt tên cũng khá đấy chứ. Tôi cứ nghĩ nếu là Tendou thì cậu ta sẽ đặt mấy cái tên kiểu như "Hắc Ám Cuồng Long" cơ... Hóa ra chỉ là định kiến phiến diện của tôi thôi. Xin lỗi nhé.
+Ồ, đặt tên là Liberta sao. Gu đặt tên cũng khá đấy chứ. Tôi cứ ngỡ nếu là Tendou thì cậu ta sẽ đặt mấy cái tên hầm hố kiểu như "Hắc Ám Cuồng Long" cơ... Hóa ra chỉ là định kiến phiến diện của tôi thôi. Xin lỗi nhé.
 
-“Mà này Yuuto, cái bản mặt thảm hại đó là sao hả? Nhìn thấy bộ mặt thật của Takanashi nên bị sốc rồi à?”
+“Mà này Yuuto, cái bản mặt thảm hại đó là sao hả? Nhìn thấy bộ mặt thật của Takanashi nên sốc đến mức hóa đá rồi à?”
 
 “Ryu... Ryuuichi...”
 
-“Mà, với cái đứa ngọt ngào quá mức với con gái như mày, thì dù lòng dạ Takanashi có đen tối đến đâu, chắc mày cũng sẽ bất chấp bảo vệ nó thôi nhỉ — nhưng xin lỗi nhé, con mụ này tao sẽ giết.”
+“Mà, với cái ngữ mềm lòng quá mức với phụ nữ như mày, thì dù lòng dạ Takanashi có thối rữa đến đâu, chắc mày vẫn sẽ bất chấp che chở cho nó thôi nhỉ — nhưng xin lỗi nhé, con ả này đích thân tao sẽ băm vằn.”
 
-*Không đâu, con mồi đó là của tôi, đừng có động vào!* — Tôi sẽ không dại gì mà nói ra câu đó.
+*Không đâu, con mồi đó là của tôi, đừng có cướp chứ!* — Dĩ nhiên tôi sẽ chẳng dại gì mà thốt ra câu đó.
 
-Takanashi, tôi từng nói là nhất định sẽ nguyền rủa chết cô. Nhưng nếu Tendou ra tay đập chết cô ta thay tôi, thì thế cũng chẳng sao.
+Takanashi, tôi từng thề là nhất định sẽ tự tay nguyền rủa cô đến chết. Nhưng nếu Tendou ra tay nghiền nát cô ta thay tôi, thì kết cục đó cũng chẳng tệ chút nào.
 
-Mà thôi, gác lại suy nghĩ của tôi sang một bên, Tendou có vẻ đang cực kỳ nghiêm túc.
+Mà thôi, tạm gác suy nghĩ của tôi sang một bên, Tendou có vẻ đang cực kỳ nghiêm túc.
 
-Một luồng ma lực màu vàng kim nhạt từ từ rỉ ra và bốc lên quanh cơ thể cậu ta như một vầng hào quang.
+Một luồng ma lực hoàng kim rực rỡ từ từ rỉ ra và bốc lên quanh cơ thể cậu ta như một vầng hào quang áp bức.
 
-Không phải trò đùa hay gì cả, việc cậu ta đang mang sát ý thực sự chắc chắn là điều mà một kẻ có giác quan thứ sáu nhạy bén như Souma có thể nhận biết rõ ràng.
+Không phải trò đùa hay hù dọa suông, sát ý ngút trời mà cậu ta đang tỏa ra chắc chắn là thứ mà một kẻ sở hữu trực giác sắc bén như Souma có thể cảm nhận rõ mồn một.
 
-Thế nhưng, việc cậu ta không lập tức lên tiếng ngăn cản “Dừng lại đi” có lẽ là vì đã tận mắt chứng kiến ba người hy sinh ngay trước mắt, nên trong lòng cũng đã nảy sinh chút cảm giác tội lỗi chăng?
+Thế nhưng, việc Souma không lập tức lên tiếng can ngăn “Dừng lại đi” có lẽ là vì đã tận mắt chứng kiến ba người bạn bị trục xuất ngay trước mắt, nên trong thâm tâm cũng đã dấy lên sự cắn rứt và tội lỗi chăng?
 
-“Tendou... Chỉ vì quay lại được mà ngươi nghĩ mình đã thắng rồi sao? Đồ ngốc, ngươi về quá muộn rồi. Kotori giờ đã hóa thành thiên sứ rồi!”
+“Tendou... Ngươi tưởng chỉ cần quay lại được là mình đã thắng rồi sao? Đồ ngu xuẩn, ngươi về quá muộn rồi. Kotori giờ đã tiến hóa thành thiên sứ tối cao rồi!”
 
-Takanashi vỗ mạnh đôi cánh, xoay người trên không trung hướng thẳng về phía Tendou.
+Takanashi đập mạnh đôi cánh ánh sáng, xoay người trên không trung hướng thẳng mũi nhọn về phía Tendou.
 
-Sức mạnh của Tendou là không cần bàn cãi, nhưng Takanashi với quyền quản trị hiện tại lại là vô địch bên trong Tháp Trung Tâm đã được phục hồi này.
+Sức mạnh của Tendou là không cần bàn cãi, nhưng Takanashi với quyền quản trị tối cao hiện tại lại là kẻ bất khả xâm phạm bên trong Tháp Trung Tâm đã được tái khởi động này.
 
-Cô ta có thể tự do triển khai ma pháp dịch chuyển khắp mặt sàn tùy ý. Nơi này vốn đã nằm trong lòng bàn tay, hay nói cách khác là trong bụng của cô ta rồi.
+Cô ta có thể tùy ý điều động ma pháp dịch chuyển phủ kín khắp mặt sàn. Nơi này vốn đã nằm gọn trong lòng bàn tay, hay nói đúng hơn là nằm trọn trong bụng của cô ta rồi.
 
-Đây không phải là tình huống có thể giải quyết chỉ bằng năng lực chiến đấu đơn thuần.
+Đây tuyệt đối không phải là cục diện có thể giải quyết chỉ bằng năng lực chiến đấu vật lý đơn thuần.
 
-“Này này, thiên sứ á... Lòng dạ thì đen tối mà đầu óc lại mơ mộng hão huyền đúng như vẻ bề ngoài nhỉ. Nực cười thật.”
+“Này này, thiên sứ cơ đấy... Lòng dạ thì nhớp nhúa mà đầu óc lại mơ mộng hão huyền đúng như vẻ bề ngoài. Nực cười thật.”
 
-“Đừng có dùng cái giọng khích bác nhạt nhẽo giống tên Momokawa đó với tao, thằng ranh đầu gấu rách nát kia! Biến ngay tới tận cùng thế giới đi, và đừng bao giờ vác cái bản mặt đó ra trước mặt Kotori nữa ———— 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』!!”
+“Đừng có dùng cái giọng khích bác kinh tởm giống tên Momokawa đó với tao, thằng ranh đầu gấu mạt hạng! Biến ngay tới nơi tận cùng thế giới đi, và đừng bao giờ vác cái bản mặt đó ra trước mắt Kotori nữa ———— 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』!!”
 
 “———— Tuân theo quân lệnh. Cấm sử dụng toàn bộ cổng dịch chuyển của Albion.”
 
-『Xác nhận mã Mã Mã Mã Mã Mã General Code. Do ban bố tình trạng thiết quân luật khẩn cấp, ưu tiên áp dụng quân lệnh Emerodia. Ngừng hoạt động toàn bộ cổng dịch chuyển của Albion.』
+『Xác nhận mã General Code. Do ban bố tình trạng thiết quân luật khẩn cấp, ưu tiên áp dụng quân lệnh Emerodia. Ngừng hoạt động toàn bộ cổng dịch chuyển của Albion.』
 
 “...Hả?”
 
-Takanashi thốt lên một tiếng ngớ ngẩn.
+Takanashi thốt lên một tiếng ngớ ngẩn tột cùng.
 
-Trận pháp dịch chuyển màu xanh lục đang tỏa sáng rực rỡ khắp mặt sàn lập tức biến mất, và dĩ nhiên, dưới chân Tendou cũng không hề xuất hiện luồng sáng dịch chuyển màu trắng báo hiệu sự kích hoạt của 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』.
+Trận pháp dịch chuyển màu xanh lục đang tỏa sáng rực rỡ khắp mặt sàn lập tức vụt tắt, và dĩ nhiên, dưới chân Tendou cũng không hề xuất hiện luồng bạch quang báo hiệu sự kích hoạt của 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』.
 
-Nếu tôi không nghe nhầm hay hiểu sai... thì Tendou vừa rồi đã ra lệnh cho hệ thống của tòa tháp giống hệt như Takanashi?
+Nếu tôi không nghe nhầm hay hiểu sai... thì Tendou vừa mới trực tiếp phát lệnh can thiệp vào hệ thống của tòa tháp y hệt như Takanashi?
 
-Rốt cuộc cậu ta đã lấy đâu ra quyền hạn đó chứ? Chẳng lẽ ở sâu trong Khu Vực Cách Ly, cậu ta đã nhặt được thẻ khóa của một nhân vật cấp cao nào đó sao? Một kịch bản thường thấy trong các tựa game kinh dị lấy bối cảnh cơ sở quân sự bí mật bị phong tỏa chợt lướt qua tâm trí tôi.
+Rốt cuộc cậu ta đã lấy đâu ra thẩm quyền đó chứ? Chẳng lẽ ở tận cùng sâu thẳm của Khu Vực Cách Ly, cậu ta đã nhặt được thẻ nhận diện của một chỉ huy cấp cao nào đó sao? Một kịch bản kinh điển thường thấy trong các tựa game sinh tồn lấy bối cảnh căn cứ quân sự bí mật bị phong tỏa chợt lướt qua tâm trí tôi.
 
-“Cá- Cái gì thế này, chuyện này là sao?! Tại sao mệnh lệnh của Tendou lại được thực thi?!”
+“Cá- Cái quái gì thế này, chuyện này là sao?! Tại sao mệnh lệnh của Tendou lại được thực thi?!”
 
-『Hiện tại, ngài "Ryuuichi Tendou" đã được bổ nhiệm làm Chỉ huy trưởng lâm thời của Căn cứ Albion. Như một biện pháp đặc biệt dưới tình trạng thiết quân luật khẩn cấp, quyền chỉ huy tạm thời đã được cấp cho ngài. Trong trường hợp muốn bãi nhiệm hoặc chuyển giao quyền hạn, yêu cầu phải được phê duyệt bởi người sở hữu mã Mã Mã Mã Mã Mã General Code cấp cao hơn, hoặc theo mệnh lệnh từ Bộ Tổng Tham mưu Liên hợp Emerodia, hoặc thông qua thương thảo.』
+『Hiện tại, cá nhân "Ryuuichi Tendou" đã được đăng ký làm Chỉ huy trưởng lâm thời của Căn cứ Albion. Dưới trạng thái thiết quân luật khẩn cấp, quyền chỉ huy tạm thời đã được ủy thác tuyệt đối. Trong trường hợp yêu cầu bãi nhiệm hoặc chuyển giao quyền hạn, bắt buộc phải có sự phê chuẩn từ thực thể nắm giữ mã General Code cấp bậc cao hơn, hoặc thông qua mệnh lệnh trực tiếp từ Bộ Tổng Tham mưu Liên hợp Emerodia, hoặc thông qua đàm phán cấp cao.』
 
-“Không thể nào... Hệ thống lại xác nhận Tendou là người của quân đội...”
+“Không thể nào... Hệ thống lại công nhận Tendou là sĩ quan quân đội...”
 
-“Mà, tao cũng chẳng rõ lắm, nhưng tóm lại là Takanashi, cái đặc quyền của mày không còn tác dụng nữa rồi.”
+“Mà, tao cũng chẳng rảnh để hiểu cặn kẽ, nhưng tóm lại là Takanashi, cái đặc quyền lố bịch của mày phế rồi.”
 
-Ôi, một cú phản đòn gian lận ngoạn mục làm sao...
+Ôi, một cú lật kèo gian lận ngoạn mục làm sao...
 
-Giống như việc Takanashi nhờ sự tiến cử của mụ nữ thần rác rưởi kia mà trở thành thị trưởng bù nhìn, nhưng bằng cách nào đó Tendou lại được đăng ký làm quân nhân chính quy, và vì đang trong tình trạng khẩn cấp nên mệnh lệnh của quân đội được ưu tiên hơn — kiểu kiểu vậy.
+Tình huống này chẳng khác nào việc Takanashi nhờ sự nâng đỡ của mụ nữ thần ngoại đạo kia mà leo lên làm thị trưởng bù nhìn, nhưng bằng cách thần kỳ nào đó Tendou lại được đăng ký thẳng vào hàng ngũ chỉ huy quân đội chính quy. Và một khi thiết quân luật được kích hoạt, quyền hạn của quân đội lập tức đè bẹp chính quyền dân sự — đại loại là như thế.
 
-Nhìn sự dao động của Takanashi, việc bắt một người ngoài như chúng tôi được hệ thống của di tích cổ đại mang tên Tháp Trung Tâm này xác nhận đáng lẽ là điều bất khả thi. Đó chắc chắn không phải là kiểu đăng ký xác thực đơn giản chỉ cần có thẻ khóa hay mật khẩu là xong.
+Nhìn sự hoảng loạn tột độ của Takanashi, việc để một kẻ ngoại lai như chúng tôi được hệ thống phòng thủ của di tích cổ đại mang tên Tháp Trung Tâm này cấp quyền đáng lẽ phải là điều hoàn toàn bất khả thi. Đó chắc chắn không phải là thủ tục nhận diện hời hợt chỉ cần quẹt thẻ hay nhập mật mã là xong.
 
-Thế nhưng, không hiểu bằng cách nào mà nó lại thành công.
+Thế nhưng, không hiểu bằng cách thức quái đản nào mà cậu ta lại thành công.
 
-Nhờ vậy, quyền hạn giữa Takanashi và Tendou đã xung đột lẫn nhau, khiến cô ta không thể kiểm soát toàn bộ tòa tháp được nữa.
+Nhờ vậy, quyền điều hành giữa Takanashi và Tendou đã rơi vào thế triệt tiêu lẫn nhau, khiến cô ta không thể tùy tiện thao túng toàn bộ tòa tháp được nữa.
 
-Nói cách khác, thời cơ tấn công chính là lúc này.
+Nói cách khác, thời cơ phản công tổng lực chính là ngay lúc này!
 
-“Mạ- Mạng sống của Kotori đang gặp nguy hiểm! Áp dụng chế độ lánh nạn khẩn cấp đi, nhanh lên!!”
+“Mạ- Mạng sống của Kotori đang gặp nguy hiểm nghiêm trọng! Kích hoạt quy trình lánh nạn khẩn cấp ngay lập tức, nhanh lên!!”
 
-『Đã tiếp nhận yêu cầu cứu hộ do nguy hiểm đến tính mạng hoặc rủi ro tương đương từ Tổng đốc lâm thời Takanashi. Bắt đầu quá trình lánh nạn khẩn cấp. Cổng dịch chuyển đã thiết lập trước sẽ được áp dụng. Xác nhận kích hoạt?』
+『Đã tiếp nhận yêu cầu cứu hộ do đe dọa sinh mạng cấp thiết từ Tổng đốc lâm thời Takanashi. Khởi động quy trình lánh nạn khẩn cấp. Tọa độ cổng dịch chuyển định sẵn sẽ được kích hoạt. Xác nhận thực thi?』
 
-“Bỏ qua đi và dịch chuyển mau lên, cái đồ ngốc này!!”
+“Bỏ qua các bước rườm rà và dịch chuyển mau lên, cái đồ phế thải này!!”
 
-Cùng với tiếng chửi rủa thô tục của Takanashi, luồng sáng dịch chuyển màu xanh lục lại một lần nữa lan rộng khắp mặt sàn.
+Cùng với tiếng gầm thét the thé đầy thô bỉ của Takanashi, luồng sáng dịch chuyển màu xanh lục lại một lần nữa bùng nổ khắp mặt sàn.
 
-Luồng sáng chói lòa chỉ xuất hiện trong tích tắc — rồi nhanh chóng dịu đi, trả lại sự tĩnh lặng vốn có.
+Thứ ánh sáng chói lòa chỉ bùng lên trong tích tắc — rồi nhanh chóng tan biến vào hư không, trả lại sự tĩnh lặng chết chóc cho căn phòng.
 
-“Khốn kiếp, vẫn để nó chạy thoát sao. Con mụ này số đỏ thật.”
+“Khốn kiếp, vẫn để nó chuồn mất. Con ả này số chó thật.”
 
-Tendou tặc lưỡi chửi thề. Có vẻ như cậu ta vẫn chưa nắm rõ hoàn toàn phạm vi quyền hạn của bản thân và Takanashi.
+Tendou tặc lưỡi chửi thề. Có vẻ như chính cậu ta cũng chưa nắm bắt được toàn bộ giới hạn quyền hạn giữa mình và Takanashi.
 
-Takanashi đã khéo léo thuyết phục được AI và trốn thoát thành công.
+Dù vậy, Takanashi đã tận dụng triệt để kẽ hở cứu hộ của hệ thống AI để tẩu thoát thành công.
 
-“Không, cô ta không chỉ chạy trốn một mình đâu. Cô ta còn mang theo những kẻ cần thiết nữa.”
+“Không, cô ta không chỉ trốn chạy một mình đâu. Cô ta đã kịp bắt theo những nhân tố cần thiết rồi.”
 
-Chỉ cần liếc nhanh qua xung quanh là tôi nhận ra ngay. Vốn dĩ số lượng người đã giảm đi đáng kể rồi, làm sao có thể không nhận ra cơ chứ.
+Chỉ cần đảo mắt một vòng là tôi nhận ra ngay. Vốn dĩ quân số của chúng tôi đã bị hao hụt nặng nề, làm sao có thể không nhận ra sự thiếu vắng rõ ràng này cơ chứ.
 
-“Cô ta đã mang theo Yuuto và Kenzaki rồi.”
+“Cô ta đã mang theo cả Souma-kun và Kenzaki-san rồi.”
 
-“Tại sao Sakura-chan lại bị bỏ lại?”
+“Tại sao... tại sao Sakura-chan lại bị bỏ lại?”
 
-“Anh... Anh trai... Sao lại thế...”
+“Anh... Anh trai... Sao lại thành ra thế này...”
 
-Không thèm phản ứng lại lời tôi nói, Sakura với gương mặt tuyệt vọng chỉ biết đăm đăm nhìn vào khoảng trống nơi Souma vừa đứng cách đây vài giây.
+Hoàn toàn không phản ứng lại lời tôi, Sakura với gương mặt xám ngoét chỉ biết thất thần nhìn chằm chằm vào khoảng đất trống nơi anh trai cô vừa đứng cách đây vài giây.
 
-Có vẻ như phép dịch chuyển lánh nạn khẩn cấp mà Takanashi kích hoạt đã được thiết lập để mang theo cả những người khác ngoài cô ta. Đó chính là Souma và Kenzaki.
+Có vẻ như giao thức dịch chuyển lánh nạn khẩn cấp mà Takanashi kích hoạt đã được cài đặt mặc định để kéo theo cả những đối tượng xung quanh. Cụ thể ở đây chính là Souma và Kenzaki.
 
-Khi ánh sáng dịch chuyển tắt ngấm, bóng dáng của cả hai đã hoàn toàn biến mất không một dấu vết.
+Khi luồng sáng dịch chuyển lịm tắt, bóng dáng của cả hai đã hoàn toàn bốc hơi không còn một vết tích.
 
 “Này, Kinako... Kinako, sao cậu lại không có ở đây?!”
 
-“Hả, Kinako cũng bị bắt đi rồi sao...?”
+“Hả, đến cả Kinako cũng bị bắt đi rồi sao...?”
 
-Nhờ Hayama làm ầm lên mà tôi mới muộn màng nhận ra.
+Nhờ tiếng la hoảng loạn của Hayama mà tôi mới muộn màng phát giác.
 
-Kinako, người vừa lấy thân mình che chở cho Hayama trước làn đạn Blaster. Lẽ ra chú gấu phải ở ngay trước mắt cậu ta, vậy mà giờ đây thân hình hộ pháp tròn trịa ấy lại chẳng thấy đâu.
+Kinako, chú gấu dũng cảm vừa lấy thân mình làm lá chắn che chở cho Hayama trước làn mưa đạn ma đạo ban nãy. Lẽ ra chú gấu phải đang nằm ngay trước mặt cậu ta, vậy mà giờ đây thân hình hộ pháp lông lá ấy lại biến mất tăm.
 
-Biến mất như thế này thì chỉ có thể là đã bị dịch chuyển đi cùng rồi.
+Biến mất không một dấu vết thế này thì chỉ có một khả năng: chú gấu cũng đã bị cuốn theo luồng dịch chuyển lánh nạn.
 
-“Ph- Phải làm sao đây, Momokawa... Kinako có sao không?!”
+“Ph- Phải làm sao đây, Momokawa... Kinako có bị làm sao không?!”
 
-“Bình tĩnh lại đi, Hayama-kun. Việc Takanashi mang theo cả Kinako chứng tỏ cô ta định lợi dụng chú gấu vào việc gì đó. Sẽ không có chuyện chú gấu bị giết ngay lập tức đâu.”
+“Bình tĩnh lại đi, Hayama-kun. Việc Takanashi cất công bắt theo cả Kinako chứng tỏ cô ta đang mưu tính lợi dụng chú gấu vào mục đích nào đó. Trước mắt sẽ không có chuyện chú gấu bị sát hại ngay đâu.”
 
-“Lợi dụng á, cô ta định làm gì Kinako chứ...”
+“Lợi dụng á... cô ta định làm gì Kinako chứ...”
 
-“Chuyện đó... tớ tuy chưa rõ, nhưng không sao đâu. Tendou-kun đã trở lại, và sức mạnh của Takanashi cũng đã bị hạn chế. Chúng ta nhất định sẽ cứu được Kinako. Thế nên, cậu phải giữ vững tinh thần.”
+“Chuyện đó... tớ tạm thời chưa thể khẳng định, nhưng đừng quá bi quan. Tendou-kun đã trở lại, và quyền năng của Takanashi cũng đã bị khóa chặt phần lớn rồi. Chúng ta nhất định sẽ giải cứu được Kinako. Vì vậy, cậu tuyệt đối phải giữ vững tinh thần.”
 
-“Ừ- Ừm... Phải rồi, đúng thế nhỉ... Tớ phải tự tay cứu Kinako mới được.”
+“Ừ- Ừm... Phải rồi, đúng thế nhỉ... Tớ nhất định phải tự tay cứu Kinako.”
 
 “Gâu gâu, ư ử...”
 
-Tạm thời thì Hayama đã lấy lại bình tĩnh. Beniwo chạy lại gần, lo lắng hít hà rồi dụi mũi vào người cậu bạn đang ngồi bệt dưới đất.
+Tạm thời Hayama đã lấy lại được chút bình tĩnh. Beniwo lon ton chạy lại gần, lo lắng khịt mũi rồi dụi đầu vào lòng cậu bạn đang ngồi thụp dưới sàn.
 
-Trước mắt cứ để cậu ta yên tĩnh một lát đã.
+Cứ để cậu ta tịnh tâm một chút đã.
 
-Giờ thì, người duy nhất mà tôi cần phải lập tức đối thoại và giải quyết vấn đề chỉ có một.
+Còn bây giờ, đối tượng quan trọng nhất mà tôi cần phải trực tiếp đối thoại và thống nhất phương châm hành động chỉ có một người.
 
-“Mừng cậu trở về, Tendou-kun. Cậu về đúng lúc lắm. Takanashi thức tỉnh suýt chút nữa là làm mọi chuyện tệ đi rồi, may mà có cậu cứu nguy đấy.”
+“Mừng cậu trở về, Tendou-kun. Cậu xuất hiện đúng lúc lắm. Màn thức tỉnh của Takanashi suýt chút nữa đã đẩy tình hình vào ngõ cụt, may mà có cậu ra tay cứu nguy kịp thời.”
 
-“Hừ, chào hỏi khách sáo gớm nhỉ Momokawa. Nếu muốn chúc mừng tao trở về thì bản thể của mày nên tự ra mặt đi chứ không phải cái thứ giả tạo này?”
+“Hừ, chào hỏi khách sáo gớm nhỉ Momokawa. Nếu thật lòng muốn chúc mừng tao trở về thì cái bản thể rác rưởi của mày nên tự giác vác xác ra đây, chứ không phải giở cái trò con rối giả tạo này.”
 
-“Ồ, thật thất lễ quá.”
+“Ồ, thất lễ thật đấy.”
 
-Takanashi đã trốn mất rồi, bản thể của tôi cũng không cần phải tiếp tục ẩn nấp nữa.
+Takanashi đã chạy trốn rồi, bản thể thật của tôi đương nhiên cũng chẳng cần phải tiếp tục nấp kỹ làm gì nữa.
 
-*Nào thì...* Tôi vừa lẩm bẩm vừa nhỏm dậy, kích hoạt cánh cửa bí mật.
+*Nào thì...* Tôi khẽ lẩm bẩm trong đầu, vươn tay kích hoạt cơ quan bí mật.
 
-Một góc trần nhà của Phòng Vương Tọa khẽ mở ra không một tiếng động. Lối ra chỉ vừa đủ cho một người chui qua, cỡ bằng một tấm bảng phát sáng. Tôi thả một sợi dây thừng bện từ tóc đen xuống rồi trượt nhanh xuống dưới.
+Một góc trần nhà của Phòng Vương Tọa khẽ trượt mở không một tiếng động. Lối thoát hiểm chỉ vừa đủ cho một người chui lọt, cỡ chừng một tấm phát quang. Tôi thả sợi dây thừng bện từ tóc đen xuống rồi nhanh nhẹn đu người trượt thẳng xuống mặt sàn.
 
-“Hóa ra mày trốn ở cái xó đó à, thằng nhóc chuột nhắt.”
+“Hóa ra mày chui rúc ở cái xó xỉnh đó à, thằng nhóc chuột cống.”
 
-“So với dân chuyên nghiệp như Natsukawa-san thì tôi vẫn còn non lắm.”
+“So với dân chuyên nghiệp như Natsukawa-san thì tôi vẫn còn vụng về lắm.”
 
-Dù vậy, có vẻ như Takanashi vẫn chẳng thể phát hiện ra.
+Dù vậy, có vẻ như chính Takanashi ban nãy cũng chẳng hề phát hiện ra vị trí ẩn nấp của tôi.
 
-Biết được khả năng dò tìm và cảm nhận của cô ta cũng chỉ ở mức thường thường bậc trung là một thu hoạch lớn. Nghĩa là các đòn đánh lén hay lừa gạt vẫn sẽ có tác dụng.
+Nắm bắt được việc khả năng dò tìm và cảm quan không gian của cô ta cũng chỉ ở mức tầm thường là một thu hoạch vô cùng đắt giá. Điều đó đồng nghĩa với việc các đòn đánh lén, bẫy ngầm hay thuật đánh lừa thị giác vẫn sẽ phát huy tối đa tác dụng.
 
-Dù sao thì, tôi cũng thu hồi lại phân thân đã hoạt động liên tục nãy giờ, rồi lịch sự đối mặt với Tendou bằng bản thể thật theo đúng ý cậu ta.
+Nghĩ đoạn, tôi phất tay thu hồi lại phân thân ảo ảnh đã hoạt động hết công suất nãy giờ, rồi đàng hoàng đứng đối diện với Tendou bằng bản thể thực sự theo đúng yêu cầu của cậu ta.
 
-“Tôi rất muốn nghe chi tiết về những gian khổ cậu đã trải qua từ lúc bị Takanashi dịch chuyển cho đến khi quay lại đây — nhưng trước hết, tôi có thể coi cậu là đồng minh của chúng tôi chứ?”
+“Tôi rất muốn lắng nghe chi tiết về những biến cố cậu đã trải qua từ lúc bị Takanashi trục xuất cho đến khi trở lại đây — nhưng trước hết, tôi có thể xem cậu là đồng minh cùng chung chiến tuyến chứ?”
 
-“Chuyện đó còn tùy thuộc vào mày.”
+“Chuyện đó hoàn toàn phụ thuộc vào mày.”
 
 “Ý cậu là sao?”
 
-“Mày có định giết Yuuto không?”
+“Mày có tính giết chết Yuuto không?”
 
-Đôi mắt vàng kim sáng quắc của cậu ta xoáy sâu vào tôi đầy sắc lẹm.
+Đôi đồng tử màu vàng kim sắc lẹm của cậu ta găm thẳng vào mắt tôi, mang theo một áp lực vô hình nặng trĩu.
 
-Áp lực thật khủng khiếp. Quả không hổ danh là kẻ bất lương mạnh nhất. Luồng bá khí phi thường đó mạnh đến mức khiến Mei phải cảnh giác định tiến lên — à, không sao đâu, cứ đứng yên đó đi.
+Quả nhiên không hổ danh là kẻ bất lương mạnh nhất. Uy áp phi thường tỏa ra từ cậu ta dữ dội đến mức khiến Mei-chan ở phía sau phải giật mình siết chặt vũ khí định bước lên — à, không sao đâu, cứ đứng yên quan sát là được rồi.
 
-Tôi vừa ra hiệu tay cho cô ấy vừa trả lời.
+Tôi khẽ đưa tay ra hiệu trấn an cô ấy, rồi từ tốn đáp lời.
 
-“Haizz, cậu có biết tôi đã phải tốn bao nhiêu công sức để thuyết phục Souma-kun không hả — thật là một vị Dũng Giả rắc rối và phiền phức mà.”
+“Haizz, cậu có biết tôi đã phải tổn hao bao nhiêu tâm huyết và tế bào não chỉ để uốn nắn tên ngốc Souma-kun đó không hả — đúng là một vị Dũng Giả rắc rối và phiền toái hết phần thiên hạ mà.”
 
 “Thế à.”
 
-Có vẻ như Tendou đã chịu hiểu. Nói chuyện với người hiểu nhanh thế này thật đỡ tốn sức. Chẳng bù cho cậu bạn thanh mai trúc mã của cậu ta tí nào nhỉ?
+Có vẻ như Tendou đã nắm bắt được vấn đề. Nói chuyện với những kẻ thông minh và nhạy bén bao giờ cũng nhẹ đầu hơn hẳn. Chẳng bù cho cái tên bạn thuở nhỏ cứng đầu cứng cổ của cậu ta chút nào.
 
-“Xin lỗi nhé, thằng ranh đó có vẻ đã gây ra không ít rắc rối cho tụi mày.”
+“Xin lỗi nhé, thằng ranh đó có vẻ đã gây ra cả đống rắc rối tai ương cho tụi mày.”
 
-“Nếu Tendou-kun mà nói thế thì Souma-kun chẳng còn mặt mũi nào đâu.”
+“Nếu một kẻ kiêu ngạo như Tendou-kun mà cũng phải mở lời xin lỗi thì Souma-kun làm gì còn mặt mũi nào để nhìn đời nữa.”
 
-“Số lượng người đã giảm đi so với lúc tao còn ở đây. Yuuto đã phạm phải một sai lầm không thể cứu vãn. Đúng chứ?”
+“Quân số đã rụng đi quá nửa so với lúc tao còn ở đây. Yuuto đã phạm phải một sai lầm ngu xuẩn không thể cứu vãn. Đúng chứ?”
 
-Số lượng người hao hụt nhiều thế này, bảo sao cậu ta không nhận ra.
+Nhìn khoảng trống thênh thang trong căn phòng, bảo sao cậu ta không nhận ra thực tế tàn khốc.
 
-So với thời điểm ở Học Viện Tháp, số người tăng thêm chỉ có mỗi Hayama. Mà sự xuất hiện của cậu ta cũng chỉ là một cuộc hội ngộ đầy phép màu.
+So với thời điểm còn cố thủ ở Học Viện Tháp, số thành viên gia tăng duy nhất chỉ có mỗi Hayama. Mà sự góp mặt của cậu ta cũng chỉ là một chuỗi trùng hợp ngẫu nhiên đầy may mắn.
 
-“Shimokawa-kun cũng bị trục xuất giống cậu. Nakai-kun và Nonomiya-san thì đã tử trận. Còn Yamada-kun, Ueta-kun và Yoshizaki-san thì vừa mới bị Takanashi dịch chuyển đi mất rồi.”
+“Shimokawa-kun cũng bị trục xuất giống như cậu. Nakai-kun và Nonomiya-san thì đã tử trận. Còn Yamada-kun, Ueta-kun cùng Yoshizaki-san thì vừa mới bị Takanashi dùng quyền quản trị dịch chuyển tống khứ đi mất rồi.”
 
-“Vậy sao... Đúng như lời thằng ranh đó nói, tao đã trở lại quá muộn.”
+“Ra vậy... Đúng như lời thằng ranh đó gầm lên, tao đã trở lại quá muộn.”
 
-“Nhưng giờ Tendou-kun cũng đã về rồi mà. Nếu chỉ bị dịch chuyển đi thì chắc chắn mọi người vẫn sẽ bình an vô sự thôi.”
+“Nhưng hiện tại Tendou-kun đã bình an trở về rồi. Nếu chỉ đơn thuần là bị dịch chuyển sang các khu vực khác, tôi tin chắc mọi người vẫn sẽ tìm được cách bảo toàn mạng sống thôi.”
 
-“Hi vọng là vậy.”
+“Mong là thế.”
 
-Vào lúc này, chúng tôi chẳng thể làm gì khác ngoài việc cầu nguyện cho sự an toàn của họ.
+Vào thời điểm ngặt nghèo này, chúng tôi cũng chẳng thể làm gì hơn ngoài việc đặt niềm tin vào khả năng sinh tồn của họ.
 
-Thế nên, để mọi người có thể yên tâm trở về, trước hết chúng tôi phải tự mình giải quyết dứt điểm chuyện này đã.
+Thế nên, để có thể đón những người khác trở về trong an toàn, trước hết chúng tôi phải tự tay dọn dẹp sạch sẽ mớ hỗn độn này đã.
 
-“Cậu có biết Takanashi đã trốn đi đâu không?”
+“Cậu có đoán được Takanashi đã rút chạy về đâu không?”
 
-“Chắc chắn là tầng sâu nhất của nơi này rồi. Cô ta chẳng còn nơi nào khác để đi đâu.”
+“Chắc chắn là tầng sâu nhất của tòa tháp này. Ả ta làm gì còn đường nào khác để tháo chạy.”
 
-“Cậu có nắm được tình hình bên trong tòa tháp không?”
+“Cậu có nắm được cấu trúc bố phòng bên trong không?”
 
-“Nằm ngoài phạm vi quản lý của tao rồi. Tao không rõ bên trong thế nào, nhưng chắc chắn nó đang bị phong tỏa. Chúng ta không cần lo lắng về việc cô ta sẽ trốn đi xa hơn nữa đâu.”
+“Nằm ngoài thẩm quyền tiếp cận của tao rồi. Tao không rõ bên trong bố trí những gì, nhưng chắc chắn toàn bộ lối đi liên tầng đều đang bị phong tỏa nghiêm ngặt. Chúng ta không cần phải bận tâm về việc ả ta có thể lẻn trốn ra ngoài thế giới ngầm đâu.”
 
-“Ra vậy, thế thì cứ như mọi khi, chúng ta chỉ việc phá đảo hầm ngục và tiêu diệt con Boss ở sâu bên trong là được chứ gì.”
+“Hiểu rồi. Vậy thì phương án tác chiến vẫn như mọi khi: chúng ta chỉ việc công phá hầm ngục và đập nát đầu con Boss đang co cụm ở tầng đáy là xong.”
 
-Thật dễ hiểu và trực quan. Đây đã là khu vực cuối cùng rồi, phải lên tinh thần để khiêu chiến thôi.
+Vô cùng đơn giản và trực quan. Đây đã là cửa ải cuối cùng của toàn bộ dungeon này rồi, phải lên dây cót tinh thần để kết thúc tất cả thôi.
 
-“Tôi cũng muốn bàn bạc kỹ hơn... nhưng Tendou-kun này, cậu nên đi trước đi.”
+“Tôi cũng rất muốn bàn bạc sâu hơn về kế hoạch tác chiến... nhưng Tendou-kun này, cậu nên xử lý chuyện trước mắt đi đã.”
 
-“Đừng có lo chuyện bao đồng.”
+“Đừng có chõ mũi vào chuyện bao đồng.”
 
-“Không phải vì cậu đâu, tôi nói thế là vì Lớp trưởng đấy.”
+“Không phải tôi lo cho cậu đâu, tôi nói thế là vì Lớp trưởng đấy chứ.”
 
-*Phù...* Tendou thở dài một tiếng kèm theo nụ cười khổ, rồi bắt đầu cất bước.
+*Phù...* Tendou khẽ thở dài một tiếng kèm theo nụ cười gượng gạo, rồi chậm rãi xoay người cất bước.
 
 “...Ryuuichi.”
 
 “Ryouko.”
 
-Lớp trưởng và Tendou gọi tên nhau rồi đắm đuối nhìn nhau.
+Lớp trưởng và Tendou khẽ gọi tên nhau, bốn mắt nhìn nhau đắm đuối.
 
-Chao ôi, một màn tái ngộ thật cảm động.
+Chao ôi, một màn hội ngộ thấm đẫm ân tình làm sao.
 
-“Cái đồ... ngốc này! Cậu đã đi đâu biệt tăm biệt tích thế hả!”
+“Cái đồ... đồ đại ngốc này! Cậu đã chết dí ở cái xó xỉnh nào suốt thời gian qua hả?!”
 
-*Bốp!* Một cú tát trời giáng của Lớp trưởng nổ vang trên mặt Tendou.
+*Bốp!* Một cái tát nảy lửa giáng thẳng vào má Tendou, vang lên giòn giã khắp gian phòng.
 
-“Đau đấy nhé. Lâu ngày không gặp mà cậu lại đối xử với tôi thế à.”
+“Đau đấy nhé. Lâu ngày không gặp mà màn chào hỏi của cậu thô bạo thế à.”
 
-“Im đi đồ ngốc! Cậu trở về quá muộn rồi... Cậu có biết... tôi đã phải trải qua cảm giác thế nào không... tự dưng lại biến mất như thế...”
+“Im mồm đi đồ ngốc! Cậu về quá muộn rồi... Cậu có biết... tôi đã phải trải qua những ngày tháng thế nào không... tự dưng lại biến mất không một lời từ biệt...”
 
-Lớp trưởng hành xử chẳng khác nào mấy cô nàng nữ chính bạo lực vô lý trong truyện, nhưng quả nhiên, khi một cô gái khóc nức nở đến mức nước mắt lã chã rơi, vừa mắng mỏ vừa lao vào ôm chầm lấy lồng ngực mình như thế, thì chỉ còn cách im lặng mà đón nhận thôi nhỉ.
+Lớp trưởng hành xử chẳng khác nào mấy cô nàng nữ chính bạo lực vô lý trong mấy cuốn tiểu thuyết diễm tình, nhưng quả nhiên, khi một cô gái kiêu hãnh bật khóc nức nở đến mức nước mắt giàn giụa, vừa đấm thùi thụi vừa vùi đầu vào lồng ngực mình như thế, thì đàn ông con trai chỉ còn nước câm nín mà gánh chịu thôi nhỉ.
 
-Thế nên Tendou này, đừng có trưng ra cái vẻ mặt phiền phức đó nữa. Cậu không thể nói vài lời an ủi ngọt ngào hơn một chút được sao.
+Thế nên Tendou này, bớt trưng ra cái vẻ mặt ngán ngẩm phiền phức đó đi. Cậu không thể mở mồm nói vài câu an ủi dịu dàng hơn một chút được à?
 
-Mà thôi, đó cũng chẳng phải chuyện tôi nên xen vào. Xin mời hai người cứ tự nhiên tận hưởng thế giới của riêng mình đi nhé.
+Mà thôi, đó cũng chẳng phải chuyện tôi nên xía vào. Xin mời hai vị cứ tự nhiên tận hưởng thế giới màu hồng của riêng mình đi nhé.
 
-Vì lẽ đó, tôi quyết định gác lại việc khai thác thông tin từ Tendou sang một bên để bắt tay vào chuẩn bị cho chiến dịch chinh phục tòa tháp. Thế nhưng, ngay vào khoảnh khắc ấy.
+Thế là, tôi quyết định tạm gác việc khai thác thông tin từ Tendou sang một bên để tập trung kiểm kê trang bị chuẩn bị cho chiến dịch đột kích. Thế nhưng, đúng vào khoảnh khắc ấy—
 
-Tôi chợt nhận ra một điều kỳ lạ.
+Một cảm giác bất thường tột độ đập thẳng vào mắt tôi.
 
-“...Hừm, cái con mụ bốn mắt đó, dám vô lễ với Chủ nhân đến mức ấy cơ chứ.”
+“...Hừm, cái con mụ bốn mắt kia, dám cả gan vô lễ với Chủ nhân đến mức ấy cơ à.”
 
-Có một bóng người lạ lẫm đang đứng đó.
+Có một bóng hình vô cùng kỳ quái đang đứng khoanh tay ở góc phòng.
 
-Không, bảo là lạ lẫm thì cũng không đúng, mà bảo là quen thuộc thì lại càng kỳ quặc, tóm lại đó là một sự tồn tại mà đáng lẽ tôi phải biết rõ.
+Không, bảo là xa lạ thì hoàn toàn không đúng, mà bảo là quen thuộc thì lại càng dị hợm, tóm lại đó là một sự tồn tại mà đáng lẽ tôi phải là người thấu hiểu rõ ràng nhất trên cõi đời này.
 
-Thế nhưng, khi lần đầu tiên nhìn thấy dáng vẻ đó, đầu óc tôi trong thoáng chốc đã từ chối tiếp nhận thực tế.
+Thế nhưng, khi tận mắt chứng kiến cảnh tượng trước mặt, não bộ của tôi trong thoáng chốc đã hoàn toàn đình trệ và từ chối tiếp nhận hiện thực.
 
 “Ơ kìa, sao thế bản gốc? Nhìn chằm chằm tôi dữ vậy. Gương mặt này đâu có gì xa lạ với cậu đúng không?”
 
-Kẻ đó nhìn lại tôi bằng đôi mắt nửa nhắm nửa mở đầy vẻ kiêu kỳ và tinh nghịch như một con mèo hoang, rồi buông lời trêu chọc.
+Kẻ đó nhìn thẳng vào tôi bằng đôi mắt lim dim nửa nhắm nửa mở, khóe môi nhếch lên nụ cười kiêu kỳ đầy vẻ tinh nghịch như một con mèo hoang, rồi thản nhiên buông lời trêu chọc.
 
-Cái quái gì thế này, tôi hoàn toàn không hiểu nổi chuyện gì đang xảy ra nữa.
+Cái quái quỷ gì đang diễn ra thế này? Tôi hoàn toàn không thể hiểu nổi chuyện gì đang đập vào mắt mình nữa.
 
-Rõ ràng trước mặt tôi không hề có tấm gương nào — thế mà tôi lại đang tự nhìn chằm chằm vào chính mình. Trong một bộ đồ hầu gái.
+Rõ ràng trước mặt tôi tuyệt đối không hề có bất kỳ tấm gương phản chiếu nào — thế mà tôi lại đang phải tự trừng mắt nhìn chằm chằm vào chính bản thân mình. 
 
-“Tendou-kuuuun! Cái này là thế nào hả?!”`
+Trong một bộ váy hầu gái viền ren xòe bồng bềnh.
+
+“Tendou-kuuuun! Cái thứ này rốt cuộc là thế nào hả?!”`
             },
             {
                 "id": "ep_332",
@@ -59305,7 +59311,7 @@ Rõ ràng trước mặt tôi không hề có tấm gương nào — thế mà t
                 "title": "Tập 332: Nghi vấn của Vương",
                 "content": `# Tập 332: Nghi vấn của Vương
 
-“Cậu Tendou ơi! Thế này là thế nào hả?!”
+“Tendou-kun ơi! Thế này là thế nào hả?!”
 
 Tại sao phân thân của tôi lại ở đây? Đã thế, sao nó lại còn diện nguyên một bộ đồ hầu gái thế kia chứ?
 
@@ -59321,7 +59327,7 @@ C-Cái bản mặt vênh váo đáng ghét gì thế này... Bị một đứa n
 
 Sao cậu lại tự tiện đặt cho nó cái tên con gái thế hả!
 
-Đứa này nhìn kiểu gì cũng là phân thân của tôi mà. Cứ như thể cậu ta đã cướp quyền kiểm soát 『Song Ảnh』 từ lúc nào rồi giấu đi giống như Takanashi trước đây vậy. Nhưng rõ ràng là từ sau vụ đó, tôi đã quản lý các phân thân cực kỳ nghiêm ngặt rồi. Lẽ ra không đời nào có chuyện cậu Tendou lại sở hữu một phân thân của tôi được.
+Đứa này nhìn kiểu gì cũng là phân thân của tôi mà. Cứ như thể cậu ta đã cướp quyền kiểm soát 『Song Ảnh』 từ lúc nào rồi giấu đi giống như Takanashi trước đây vậy. Nhưng rõ ràng là từ sau vụ đó, tôi đã quản lý các phân thân cực kỳ nghiêm ngặt rồi. Lẽ ra không đời nào có chuyện Tendou-kun lại sở hữu một phân thân của tôi được.
 
 “Chủ nhân nói thế chứ em đã đồng ý đâu.”
 
@@ -59329,7 +59335,7 @@ Sao cậu lại tự tiện đặt cho nó cái tên con gái thế hả!
 
 “Đã là hầu gái thì phải luôn túc trực bên cạnh chủ nhân. Đây không phải là mệnh lệnh, mà là lẽ sống, là minh chứng cho sự tồn tại của em. Thế nên, Momoko sẽ không rời xa Chủ nhân đâu~!”
 
-Nói ra những lời khai báo vô nghĩa đó với nụ cười rạng rỡ hạnh phúc, nó lao đến ôm chầm lấy cánh tay của cậu Tendou.
+Nói ra những lời tuyên bố vô nghĩa đó với nụ cười rạng rỡ hạnh phúc, nó lao đến ôm chầm lấy cánh tay của Tendou-kun.
 
 *Áaaaaaa! Dừng lại đi... Đừng có dùng gương mặt của tôi để làm trò đó chứ!!*
 
@@ -59345,7 +59351,7 @@ Thì tất nhiên rồi! Nhìn thấy bản thân mình đi uốn éo, nịnh b�
 
 “...Ryuuichi.”
 
-Mặc kệ tôi đang quằn quại đau đớn vì đòn tấn công tinh thần vô cớ, con hầu gái đang bám dính lấy cậu Tendou kia vẫn liếc xéo đầy khiêu khích về phía Lớp trưởng.
+Mặc kệ tôi đang quằn quại đau đớn vì đòn tấn công tinh thần vô cớ, con hầu gái đang bám dính lấy Tendou-kun kia vẫn liếc xéo đầy khiêu khích về phía Lớp trưởng.
 
 Đó là một cảnh tượng ác mộng, nhưng chắc chắn có một người đang phải chịu đựng tổn thương tinh thần còn lớn hơn cả tôi gấp bội.
 
@@ -59353,15 +59359,15 @@ Này Lớp trưởng, cảm giác thế nào khi chứng kiến người trong m
 
 “Cái thứ Momokawa này là thế nào hả?”
 
-Lớp trưởng đã chính thức bỏ luôn kính ngữ “cậu” với tôi rồi.
+Lớp trưởng đã chính thức bỏ luôn kính ngữ “-kun” với tôi rồi.
 
 Giọng nói lạnh đến thấu xương. Danh hiệu 『Băng Ma Thuật Sư』 quả nhiên không phải để trưng cho đẹp.
 
 “Không, đứa này là...”
 
-Đến cả cậu Tendou cũng phải lảng tránh ánh mắt một cách vô cùng ngượng ngùng.
+Đến cả Tendou-kun cũng phải lảng tránh ánh mắt một cách vô cùng ngượng ngùng.
 
-Một cậu Tendou vốn chẳng ngán đối đầu trực diện với cả giang hồ thứ thiệt hay Salamander hoang dã, giờ đây lại phải né tránh ánh mắt. Đủ hiểu trong lòng cậu ta đang bối rối đến nhường nào rồi đấy.
+Một Tendou-kun vốn chẳng ngán đối đầu trực diện với cả giang hồ thứ thiệt hay Salamander hoang dã, giờ đây lại phải né tránh ánh mắt. Đủ hiểu trong lòng cậu ta đang bối rối đến nhường nào rồi đấy.
 
 Vừa mới xuất hiện giải vây cho cả lớp ngầu lòi là thế, vậy mà giờ đây, dáng vẻ uy phong lẫm liệt tràn đầy bá khí và mị lực của cậu ta đã bay biến sạch sành sanh.
 
@@ -59377,7 +59383,7 @@ Vừa mới xuất hiện giải vây cho cả lớp ngầu lòi là thế, vậ
 
 “Tình yêu sâu đậm, hử... Đúng là trông hai người thân thiết thật đấy. Tớ mới thấy cậu trưng ra bộ mặt đó lần đầu tiên đấy.”
 
-Tôi cũng là lần đầu tiên thấy cậu Tendou lộ ra vẻ mặt bất lực, pha trộn giữa bối rối và cam chịu kiểu *“Chết tiệt, giờ phải tính sao với đống hỗn độn này đây...”* đấy. Khiến cho cậu ta phải biểu lộ gương mặt như thế này thì đúng là đáng nể thật.
+Tôi cũng là lần đầu tiên thấy Tendou-kun lộ ra vẻ mặt bất lực, pha trộn giữa bối rối và cam chịu kiểu *“Chết tiệt, giờ phải tính sao với đống hỗn độn này đây...”* đấy. Khiến cho cậu ta phải biểu lộ gương mặt như thế này thì đúng là đáng nể thật.
 
 “Này Ryouko, đừng có hiểu lầm vớ vẩn. Đứa này chỉ là ma pháp triệu hồi thôi.”
 
@@ -59389,7 +59395,7 @@ Tôi cũng là lần đầu tiên thấy cậu Tendou lộ ra vẻ mặt bất l
 
 Tiếng hét giận dữ của cô ấy làm tôi giật nảy mình, nhưng đó là phản ứng không thể tránh khỏi.
 
-Từ trước đến nay, Lớp trưởng tuy đã vài lần nổi giận trong các buổi họp lớp với cậu Souma hay Sakura cứng đầu, nhưng chưa bao giờ cô ấy hét lên bằng chất giọng lạc đi và chói tai đến thế này.
+Từ trước đến nay, Lớp trưởng tuy đã vài lần nổi giận trong các buổi họp lớp với Souma-kun hay Sakura-chan cứng đầu, nhưng chưa bao giờ cô ấy hét lên bằng chất giọng lạc đi và chói tai đến thế này.
 
 Đằng sau cặp kính, đôi mắt sắc sảo thường ngày không còn chút ánh sáng lý trí nào nữa. Chỉ có một bóng tối u ám đang phủ mờ đôi đồng tử.
 
@@ -59415,17 +59421,17 @@ Nghe như thể chính bản thân tôi đang đi làm hầu gái vậy á.
 
 “Tuy phiền phức nhưng nó rất tiện lợi, nên tớ mới phải chịu thôi.”
 
-“Thừa nhận đi. Nhìn vào mắt cậu là tớ biết ngay... Ánh mắt cậu nhìn con hầu gái Momokawa đó cũng giống như ánh mắt cậu nhìn cậu Souma hay nhìn tớ vậy, đó là ánh mắt dành cho những người mà cậu đã công nhận.”
+“Thừa nhận đi. Nhìn vào mắt cậu là tớ biết ngay... Ánh mắt cậu nhìn con hầu gái Momokawa đó cũng giống như ánh mắt cậu nhìn Souma-kun hay nhìn tớ vậy, đó là ánh mắt dành cho những người mà cậu đã công nhận.”
 
 Đã bảo là đừng gọi là hầu gái Momokawa nữa mà.
 
-Với lại tôi cũng đã làm gì để được cậu Tendou tin tưởng đến mức đó đâu chứ.
+Với lại tôi cũng đã làm gì để được Tendou-kun tin tưởng đến mức đó đâu chứ.
 
 “Cái đó... thì đúng là tớ được nó chăm sóc cho nhiều thứ thật. Bảo là công nhận thì cũng có phần đúng.”
 
 “Ra vậy. Quả nhiên, ở nơi cậu bị dịch chuyển đến một mình, chỗ dựa tinh thần của cậu... chính là hầu gái Momokawa nhỉ.”
 
-Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dựa tinh thần cho cậu Tendou bao giờ nhé! Tôi cũng chưa từng mặc đồ hầu gái để chăm sóc chu đáo cho cậu ta đâu đấy!
+Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dựa tinh thần cho Tendou-kun bao giờ nhé! Tôi cũng chưa từng mặc đồ hầu gái để chăm sóc chu đáo cho cậu ta đâu đấy!
 
 “Không, không đến mức đó—”
 
@@ -59435,7 +59441,7 @@ Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dự
 
 Mà khoan đã, Lớp trưởng, sao cậu lại quay sang nhìn tôi thế kia?
 
-“Cậu Momokawa.”
+“Momokawa-kun.”
 
 “Á, vâng.”
 
@@ -59457,7 +59463,7 @@ Tôi đã trải qua biết bao trận chiến sinh tử với các bạn học,
 
 “K-Kotarou-kun...”
 
-Thấy tôi gặp nguy hiểm, Mei lập tức lao đến chắn phía trước và giơ khiên lên, nhưng trước tình huống rắc rối này, trên mặt cô ấy cũng hiện rõ vẻ hoang mang.
+Thấy tôi gặp nguy hiểm, Mei-chan lập tức lao đến chắn phía trước và giơ khiên lên, nhưng trước tình huống rắc rối này, trên mặt cô ấy cũng hiện rõ vẻ hoang mang.
 
 “Momoko cái nỗi gì chứ! Cậu thích hầu gái giả gái đến thế cơ à?!”
 
@@ -59469,9 +59475,9 @@ Thấy tôi gặp nguy hiểm, Mei lập tức lao đến chắn phía trước 
 
 “Đã bảo là tớ chưa làm gì rồi mà.”
 
-“Không sao đâu, cậu Tendou vẫn bình thường. Cậu ấy vẫn là trai thẳng mà!”
+“Không sao đâu, Tendou-kun vẫn bình thường. Cậu ấy vẫn là trai thẳng mà!”
 
-Nấp sau tấm lưng to lớn, đáng tin cậy của Mei, tôi đứng nhìn cậu Tendou và cậu Natsukawa đang chật vật ngăn cản Lớp trưởng đang phát điên.
+Nấp sau tấm lưng to lớn, đáng tin cậy của Mei-chan, tôi đứng nhìn Tendou-kun và Natsukawa-san đang chật vật ngăn cản Lớp trưởng đang phát điên.
 
 Có vẻ như họ đã tạm thời ngăn được cô ấy bắn loạn xạ ma pháp băng, nhưng cơn giận của Lớp trưởng vẫn chưa có dấu hiệu nguôi ngoai.
 
@@ -59479,13 +59485,13 @@ Có vẻ như họ đã tạm thời ngăn được cô ấy bắn loạn xạ m
 
 “Đừng có nói khùng nói điên nữa, tỉnh táo lại hộ cái!”
 
-“Ryouko-chan, bây giờ vẫn còn kịp để đưa cậu Tendou trở lại bình thường mà! Chúng ta cùng cố gắng nhé, được không?”
+“Ryouko-chan, bây giờ vẫn còn kịp để đưa Tendou-kun trở lại bình thường mà! Chúng ta cùng cố gắng nhé, được không?”
 
 “Này Natsukawa, đừng có nói chuyện kiểu như tớ là đứa có vấn đề thế chứ.”
 
 Trận chiến nội bộ vẫn đang diễn ra vô cùng nảy lửa, và đây không phải là lúc để tôi xen vào. Nói đúng hơn, tôi tuyệt đối không được phép thò đầu ra.
 
-Việc thuyết phục cứ để cho hai người kia lo vậy. Dù trông có vẻ như cậu Natsukawa đang vừa giả vờ can ngăn vừa tranh thủ đấm vào lưng cậu Tendou, nhưng đối với một Lớp trưởng đã mất đi lý trí thì những lời lẽ logic lúc này chẳng có tác dụng gì đâu. Cứ liên tục lên tiếng trấn an cô ấy mới là điều quan trọng nhất.
+Việc thuyết phục cứ để cho hai người kia lo vậy. Dù trông có vẻ như Natsukawa-san đang vừa giả vờ can ngăn vừa tranh thủ đấm vào lưng Tendou-kun, nhưng đối với một Lớp trưởng đã mất đi lý trí thì những lời lẽ logic lúc này chẳng có tác dụng gì đâu. Cứ liên tục lên tiếng trấn an cô ấy mới là điều quan trọng nhất.
 
 “Này, Kotarou-kun.”
 
@@ -59507,7 +59513,7 @@ Ai cũng muốn thốt lên câu đó, nhưng chẳng ai dại gì mà nói ra. 
 
 “Lớp trưởng, cậu đừng ép bản thân quá, hay là đi nghỉ ngơi một lát đi.”
 
-“Cậu Momokawa...”
+“Momokawa-kun...”
 
 Lớp trưởng quay sang nhìn tôi với đôi mắt đã lấy lại được chút ánh sáng của lý trí, nhưng sao tôi cứ có cảm giác đôi đồng tử ấy lại đang dần u ám trở lại thế nhỉ, chắc là tôi tưởng tượng thôi đúng không?
 
@@ -59523,41 +59529,41 @@ Lớp trưởng quay sang nhìn tôi với đôi mắt đã lấy lại được
 
 Tôi cũng chẳng biết làm thế nào để một cô gái có thể sắp xếp lại cảm xúc khi người mình thích bị một đứa con trai giả gái cướp mất, nhưng trước mắt thì việc cô ấy cần thời gian nghỉ ngơi là điều chắc chắn.
 
-Lớp trưởng à, giống như cậu Souma đã tin tưởng cậu, tôi cũng tin tưởng cậu đấy. Làm ơn đi, mau tỉnh táo lại giùm tôi cái...
+Lớp trưởng à, giống như Souma-kun đã tin tưởng cậu, tôi cũng tin tưởng cậu đấy. Làm ơn đi, mau tỉnh táo lại giùm tôi cái...
 
-Với lời cầu nguyện chân thành từ tận đáy lòng, tôi tiễn đưa bóng lưng của Lớp trưởng đang vừa đi vừa thút thít, được cậu Natsukawa dìu ra một góc của phòng vương tọa.
+Với lời cầu nguyện chân thành từ tận đáy lòng, tôi tiễn đưa bóng lưng của Lớp trưởng đang vừa đi vừa thút thít, được Natsukawa-san dìu ra một góc của phòng vương tọa.
 
-“Cậu Tendou.”
+“Tendou-kun.”
 
 “...Tớ không có lỗi.”
 
 Tôi nghĩ một người thực sự tin rằng mình không có lỗi thì sẽ không trưng ra vẻ mặt đau khổ đến thế đâu.
 
-Cậu Tendou đăm chiêu nhìn theo bóng dáng đã thay đổi hoàn toàn của Lớp trưởng với vẻ mặt vô cùng mệt mỏi.
+Tendou-kun đăm chiêu nhìn theo bóng dáng đã thay đổi hoàn toàn của Lớp trưởng với vẻ mặt vô cùng mệt mỏi.
 
 “Này Tendou, tao không giao Kotarou cho mày đâu đấy.”
 
 “Cậu không được phép chạm vào Kotarou-kun thật đâu đấy nhé.”
 
-Chẳng biết họ đang lo lắng cái gì nữa, nhưng ở hai bên cạnh tôi lúc này, Kyouko và Mei đang đứng sát sạt như hai vệ sĩ bán chuyên.
+Chẳng biết họ đang lo lắng cái gì nữa, nhưng ở hai bên cạnh tôi lúc này, Kyouko và Mei-chan đang đứng sát sạt như hai vệ sĩ bán chuyên.
 
 Bình thường nếu được kẹp giữa hai cô gái thế này thì tôi đã sướng rơn người rồi, nhưng lúc này tôi chẳng thể nào vui nổi.
 
-Làm ơn hãy tin rằng cả cậu Tendou lẫn tôi đều hoàn toàn không có chút hứng thú nào với chuyện đó cả.
+Làm ơn hãy tin rằng cả Tendou-kun lẫn tôi đều hoàn toàn không có chút hứng thú nào với chuyện đó cả.
 
 “Dù sao thì, chúng ta có thể coi là đã có đủ thời gian để thảo luận rồi chứ?”
 
 “Ừ, năng lực của Takanashi đang bị giới hạn rồi. Dù cô ta có định làm gì đi nữa thì cũng phải mất thời gian.”
 
-Trước mắt cứ tin vào lời của cậu Tendou vậy. Dù sao thì tình hình hiện tại cũng khiến chúng tôi khó lòng hành động ngay lập tức.
+Trước mắt cứ tin vào lời của Tendou-kun vậy. Dù sao thì tình hình hiện tại cũng khiến chúng tôi khó lòng hành động ngay lập tức.
 
-Nhờ có cậu Tendou quay lại, chúng tôi đã tạm thời ngăn chặn được âm mưu của Takanashi. Một cú lội ngược dòng ngoạn mục ngay khi chúng tôi đã hoàn toàn bị dồn vào đường cùng.
+Nhờ có Tendou-kun quay lại, chúng tôi đã tạm thời ngăn chặn được âm mưu của Takanashi. Một cú lội ngược dòng ngoạn mục ngay khi chúng tôi đã hoàn toàn bị dồn vào đường cùng.
 
 Tuy nhiên, tình hình hiện tại vẫn chưa thể coi là an toàn.
 
-Yamada, Ueta, và Yoshizaki, cả ba người đồng đội đã bị cô ta trục xuất đi mất. Kenzaki dù biết rõ Takanashi là kẻ chủ mưu nhưng vẫn đi theo cô ta, còn cậu Souma thì đã bị bắt đi trong lúc hỗn loạn.
+Yamada, Ueta, và Yoshizaki, cả ba người đồng đội đã bị cô ta trục xuất đi mất. Kenzaki dù biết rõ Takanashi là kẻ chủ mưu nhưng vẫn đi theo cô ta, còn Souma-kun thì đã bị bắt đi trong lúc hỗn loạn.
 
-Những người bạn học còn lại ở đây chỉ gồm có tôi, Mei, Kyouko, Rerite, Himeno, và Nakajima. Lớp trưởng, Sakura, cậu Natsukawa. Và cuối cùng là cậu Tendou.
+Những người bạn học còn lại ở đây chỉ gồm có tôi, Mei-chan, Kyouko, Rerite, Himeno, và Nakajima. Lớp trưởng, Sakura-chan, Natsukawa-san. Và cuối cùng là Tendou-kun.
 
 “Chỉ còn lại đúng 10 người... Đây là những thành viên cuối cùng sao.”
 
@@ -59587,7 +59593,7 @@ Cả về thể chất lẫn tinh thần, tình trạng của chúng tôi hôm n
 
 “Đi đâu cơ?”
 
-“Cậu Tendou này, ở cái căn cứ Goma bẩn thỉu thế này thì làm sao mà nghỉ ngơi thư giãn cả thể xác lẫn tâm hồn được chứ. Tất nhiên là phải đến một nơi an toàn để nghỉ ngơi rồi.”
+“Tendou-kun này, ở cái căn cứ Goma bẩn thỉu thế này thì làm sao mà nghỉ ngơi thư giãn cả thể xác lẫn tâm hồn được chứ. Tất nhiên là phải đến một nơi an toàn để nghỉ ngơi rồi.”
 
 Vương quốc Goma giờ đã bị hủy diệt hoàn toàn. Quét dọn sạch sẽ và rơi xuống đáy vực sâu rồi.
 
@@ -59601,7 +59607,7 @@ Một khi lũ Goma đã biến mất, chẳng còn ai có thể cản đường 
 
 “Tuyệt quá, lâu rồi mới được ăn đồ ăn Mei-chan nấu, tớ mong chờ lắm đấy.”
 
-Đó là pháo đài ẩn mà Takanashi đã chọn. Nghe cậu Natsukawa kể thì rõ ràng nơi đó có trang thiết bị và môi trường sống tốt hơn hẳn căn cứ dưới lòng đất của chúng tôi.
+Đó là pháo đài ẩn mà Takanashi đã chọn. Nghe Natsukawa-san kể thì rõ ràng nơi đó có trang thiết bị và môi trường sống tốt hơn hẳn căn cứ dưới lòng đất của chúng tôi.
 
 Ngay từ đầu, khi thỏa thuận được thiết lập trong buổi họp lớp, tôi đã dự định sẽ tận dụng triệt để cái pháo đài ẩn này rồi.
 
@@ -59627,7 +59633,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 “Vì đây là cơ sở quân sự. Quyền hạn của tao được ưu tiên hơn.”
 
-“Cái gọi là \`『Mã General Code』\` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là \`『Sinclair Code』\`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
+“Cái gọi là \`『General Code』\` là quyền hạn liên quan đến quân sự hả? Còn của Kotori là \`『Sinclair Code』\`, nghĩa là dân sự, hay đúng hơn là quyền hạn hành chính?”
 
 “Mày vẫn thính tai như mọi khi nhỉ.”
 
@@ -59643,7 +59649,7 @@ Nơi này từng do một tay Kotori quản lý, nhưng hiện tại quyền ki�
 
 Tôi quyết định cố gắng hết sức để không bận tâm đến cô nàng Lớp trưởng vẫn còn đang bất ổn tâm lý kia... Dù sao thì, hiện tại Kotori đã rơi vào trạng thái không thể can thiệp vào pháo đài ẩn này nữa.
 
-Và chỉ cần có quyền hạn quân sự mang tên \`『Mã General Code』\` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
+Và chỉ cần có quyền hạn quân sự mang tên \`『General Code』\` của Tendou, chúng tôi có thể sử dụng các trang thiết bị cũng như chức năng của pháo đài mà không gặp bất kỳ trở ngại nào. Mọi sự chuẩn bị để khai thác triệt để nơi này đã hoàn tất.
 
 *Ồ, cảm giác này đúng chuẩn một căn cứ bí mật.*
 
@@ -59785,7 +59791,7 @@ Từ cách nói của Liberta, có vẻ như việc dùng con người làm nguy
 
 Quả nhiên là tên đó. Kẻ cuồng chiến khoác trên mình bộ giáp như ma vương, lầm lũi bước đi trong những lối đi ngầm.
 
-Tôi đã nghĩ hắn không phải là một Living Armor thông thường, nhưng hóa ra hắn còn nguy hiểm hơn tôi tưởng tượng rất nhiều.
+Tôi đã nghĩ hắn không phải là một \`『Living Armor』\` thông thường, nhưng hóa ra hắn còn nguy hiểm hơn tôi tưởng tượng rất nhiều.
 
 “Tuyệt đối không được khiêu khích thứ đó. Đây không phải là vấn đề thắng hay bại. Nếu hắn lại bạo tẩu một lần nữa, không biết tai họa khủng khiếp nào sẽ giáng xuống đâu.”
 
@@ -59945,265 +59951,265 @@ Vậy thì, hãy lên tinh thần và bắt đầu những bước chuẩn bị 
 
 Chinh phục Tháp Trung Tâm — hầm ngục cuối cùng, tiêu diệt kẻ chủ mưu kiêm Boss cuối tự xưng là thiên sứ, Takanashi Kotori. Cứu Kinako. Và nếu có thể, cứu cả Souma-kun nữa.
 
-Điều cần lưu ý khi đối đầu với Takanashi là sự kết hợp gian lận giữa kỹ năng Hiền Giả và chức năng của di tích cổ đại. Tuy nhiên, nhờ có Tendou-kun mà điều đó đã bị phong ấn phần nào.
+Điều cần đặc biệt lưu ý khi đối đầu với Takanashi là sự kết hợp gian lận giữa kỹ năng Hiền Giả và chức năng của di tích cổ đại. Tuy nhiên, nhờ có Tendou-kun mà mối đe dọa đó đã bị phong ấn phần nào.
 
-Việc phong ấn được phép dịch chuyển phiền phức nhất là một thành công lớn. Thiết bị dịch chuyển ma pháp 『Portal』 của di tích, tức là Tháp Trung Tâm vẫn còn hoạt động, đã không thể sử dụng được nữa.
+Việc phong ấn được năng lực dịch chuyển phiền phức nhất là một thành công lớn. Thiết bị dịch chuyển ma pháp 『Portal』 của di tích — tức Tháp Trung Tâm vẫn còn đang hoạt động — giờ đây đã không thể sử dụng được nữa.
 
-Ngoài ra, kỹ năng Hiền Giả 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』, thứ đã thổi bay ba người bao gồm cả Shimokawa, dường như lúc này cũng không thể sử dụng được nữa.
+Ngoài ra, kỹ năng Hiền Giả 『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』, thứ từng thổi bay ba người bao gồm cả Shimokawa, dường như lúc này cũng đã bị vô hiệu hóa.
 
-Chiêu đó không phải là ma pháp dịch chuyển thuần túy do bản thân cô ta thi triển, mà có vẻ là thứ chỉ hoạt động được bằng cách lợi dụng chức năng của di tích. Đây là phân tích của Tendou-kun, người cũng đã có được quyền hạn sử dụng sức mạnh di tích, nên hoàn toàn đáng tin cậy.
+Chiêu thức đó không phải là ma pháp dịch chuyển thuần túy do bản thân cô ta tự thi triển, mà có vẻ là thứ chỉ hoạt động được bằng cách lợi dụng chức năng của di tích. Đây là phân tích của Tendou-kun, người cũng đã giành được quyền hạn sử dụng sức mạnh di tích, nên hoàn toàn đáng tin cậy.
 
-Thực tế, sau khi bị phong tỏa dịch chuyển, Takanashi đã không dùng đến Trục Xuất Hình. Ngay cả khi đối mặt với tình huống bất ngờ là Tendou-kun quay trở lại, cô ta vẫn không sử dụng năng lực có thể lập tức loại bỏ bất kỳ đối thủ nào chỉ trong một nốt nhạc. Đó là bằng chứng ngoại phạm đủ để kết luận rằng cô ta không thể dùng được nữa.
+Thực tế, sau khi bị phong tỏa dịch chuyển, Takanashi đã không hề dùng đến Trục Xuất Hình nữa. Ngay cả khi đối mặt với tình huống bất ngờ là Tendou-kun quay trở lại, cô ta vẫn không sử dụng cái năng lực có thể lập tức loại bỏ bất kỳ đối thủ nào chỉ trong một nốt nhạc. Đó là bằng chứng ngoại phạm đủ để kết luận rằng cô ta không còn khả năng dùng nó.
 
-Những gì cô ta có thể làm lúc đó chỉ là dịch chuyển khẩn cấp để trốn xuống tầng sâu nhất của Tháp.
+Những gì cô ta có thể làm khi ấy chỉ là kích hoạt dịch chuyển khẩn cấp để trốn xuống tầng sâu nhất của Tháp.
 
 Vì lẽ đó, thứ cần ưu tiên đối phó hơn cả ma pháp dịch chuyển chính là 『Thần Thánh Ngôn Ngữ』, thứ có thể đình chỉ mọi hoạt động.
 
-Kỹ năng Hiền Giả có cái tên dài ngoằng 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có vẻ là năng lực cô ta tự kích hoạt được bằng sức mình.
+Kỹ năng Hiền Giả với cái tên dài ngoằng 『Thần Thánh Ngôn Ngữ "Thiên Giới Pháp Điều 15 - Đặc Quyền Kẻ Điều Đình Khoản 1"』 có vẻ là năng lực do chính bản thân cô ta tự kích hoạt được bằng thực lực của mình.
 
-Tôi đã tự mình trải nghiệm năng lực đình chỉ đó nên biết rõ nó đáng sợ thế nào. Uy lực của nó lớn đến mức có thể khóa chặt cả Tendou-kun lẫn Liberta.
+Tôi đã tự mình nếm trải năng lực đình chỉ đó nên thừa hiểu nó đáng sợ đến mức nào. Uy lực của nó lớn tới mức có thể khóa chặt cả Tendou-kun lẫn Liberta.
 
-Hiện tại, những người có thể chống lại chiêu này là Mei-chan, người dường như có kháng tính, và các tinh linh.
+Hiện tại, những người có thể kháng cự lại chiêu này là Mei-chan — người dường như sở hữu kháng tính bẩm sinh — và các tinh linh.
 
-Mei-chan dù vẫn có thể cử động đủ để giết một Takanashi yếu ớt, nhưng chuyển động của cô ấy đã bị làm chậm đến mức khó lòng đối đầu với một Kenzaki đang chiến đấu không chút ràng buộc. Nếu có thể cử động bình thường, lúc đó cô ấy đã sớm chém bay xác Kenzaki rồi lao vào Takanashi rồi.
+Dù Mei-chan vẫn có thể cử động đủ để đoạt mạng một Takanashi yếu ớt, nhưng chuyển động của cô ấy đã bị làm chậm đến mức khó lòng đối đầu với một Kenzaki đang tả xung hữu đột không chút ràng buộc. Nếu có thể cử động bình thường, khi đó cô ấy đã sớm chém bay xác Kenzaki rồi lao thẳng vào Takanashi rồi.
 
-Để phòng hờ bất trắc, chắc chắn Takanashi sẽ luôn mang theo hộ vệ Kenzaki bên mình, và rất có thể cô ta còn bố trí thêm cả lũ ma vật trong Tháp để bảo vệ. Giao phó việc này cho một mình Mei-chan thì hơi quá sức.
+Để phòng ngừa bất trắc, chắc chắn Takanashi sẽ luôn mang theo hộ vệ Kenzaki bên mình, và rất có thể cô ta còn bố trí thêm cả lũ ma vật trong Tháp để bảo vệ. Giao phó toàn bộ trọng trách này cho một mình Mei-chan thì quả thực quá sức.
 
-Vì vậy, phương án khả thi nhất có lẽ vẫn là tinh linh.
+Vì vậy, phương án khả thi nhất có lẽ vẫn là dựa vào các tinh linh.
 
-Lần trước do tình thế quá gấp rút nên nhóm chúng tôi gồm Hayama-kun dẫn đầu, tôi, Kyouko và Lớp trưởng chỉ có thể xoay xở được đến thế. Nhưng nếu đã biết trước, chúng tôi có thể chuẩn bị thêm các phương án tấn công bằng tinh linh khác.
+Lần trước do tình thế quá gấp rút nên nhóm chúng tôi gồm Hayama-kun dẫn đầu, tôi, Kyouko và Lớp trưởng chỉ có thể xoay xở được đến thế. Nhưng nếu đã biết trước, chúng tôi hoàn toàn có thể chuẩn bị thêm các phương án phối hợp tấn công bằng tinh linh khác.
 
-Chỉ cần giúp ai cũng có thể thực hiện tấn công bằng tinh linh, cơ hội tiêu diệt Takanashi sẽ tăng lên.
+Chỉ cần tạo điều kiện để bất kỳ ai cũng có thể phát động tấn công bằng tinh linh, cơ hội tiêu diệt Takanashi sẽ tăng lên đáng kể.
 
-Tuy nhiên, cô ta vẫn còn một lớp phòng ngự cực mạnh khác.
+Tuy nhiên, cô ta vẫn còn một lớp phòng ngự cực kỳ kiên cố khác.
 
-『Thánh Thiên Kết Giới』. Một lá chắn ánh sáng vạn năng giống hệt của Sakura-chan.
+『Thánh Thiên Kết Giới』. Một lá chắn ánh sáng vạn năng giống hệt như của Sakura-chan.
 
-Lớp kết giới đó không thể bị phá vỡ bởi những đòn tấn công nửa vời. Đúng là một thiết lập khốn nạn, ngay cả khi đòn tấn công của tinh linh vượt qua được Thần Thánh Ngôn Ngữ thì vẫn sẽ bị chặn lại bởi lá chắn này.
+Lớp kết giới đó không thể bị phá vỡ bởi những đòn tấn công nửa vời. Đúng là một thiết lập vô lý và đáng ghét, bởi ngay cả khi đòn tấn công của tinh linh vượt qua được Thần Thánh Ngôn Ngữ thì vẫn sẽ bị chặn đứng trước bức tường phòng ngự này.
 
-Cách nhanh nhất để giải quyết là tập trung nâng cao hỏa lực để đè bẹp nó. Dù vạn năng thật đấy, nhưng nó không phải là vô địch.
+Cách nhanh nhất để giải quyết là tập trung nâng cao hỏa lực để đè bẹp nó. Dù vạn năng thật đấy, nhưng nó tuyệt đối không phải là bất khả chiến bại.
 
-Thế nhưng, 『Thánh Thiên Kết Giới』 của Takanashi không phải là kỹ năng Hiền Giả, mà được tạo ra từ món vũ khí cổ đại dạng cánh thiên thần mà cô ta đang trang bị. Sẽ không có gì lạ nếu nó sở hữu phòng ngự vượt trội hơn cả Sakura-chan, lại còn được Tháp cung cấp ma lực vô hạn để duy trì liên tục — một hiệu ứng gian lận thực sự.
+Thế nhưng, 『Thánh Thiên Kết Giới』 của Takanashi không đơn thuần là kỹ năng Hiền Giả, mà nó được kích hoạt từ món vũ khí cổ đại dạng cánh thiên thần mà cô ta đang trang bị. Sẽ chẳng có gì lạ nếu nó sở hữu khả năng phòng ngự vượt trội hơn hẳn Sakura-chan, lại còn được Tháp cung cấp ma lực vô hạn để duy trì liên tục — một hiệu ứng gian lận thực sự.
 
-Tóm lại, để tiêu diệt Takanashi, chúng tôi phải chuẩn bị một phương thức tấn công có thể xuyên thủng cả hai lớp phòng ngự: 『Thần Thánh Ngôn Ngữ』 và 『Thánh Thiên Kết Giới』.
+Tóm lại, để tiêu diệt được Takanashi, chúng tôi buộc phải chuẩn bị một phương thức tấn công có thể xuyên thủng cả hai lớp phòng ngự tầng tầng lớp lớp: 『Thần Thánh Ngôn Ngữ』 và 『Thánh Thiên Kết Giới』.
 
 “Nếu có thể dùng Linh thú Kinako hội đồng cô ta thì tốt biết mấy...”
 
-Nhưng Kinako đã bị bắt đi mất, chưa kể nó cũng bị Thần Thánh Ngôn Ngữ khóa chặt, nên phương án này coi như bỏ.
+Nhưng Kinako đã bị bắt đi mất, chưa kể nó cũng bị Thần Thánh Ngôn Ngữ khóa chặt, nên phương án này coi như phải gạt sang một bên.
 
-Đòi hỏi thứ không có cũng chẳng ích gì, phải nghĩ cách khác thôi. Tuy nhiên, tôi cũng không chắc là mình sẽ nghĩ ra ngay lập tức.
+Đòi hỏi những thứ không có trong tay cũng chẳng giải quyết được gì, đành phải nghĩ cách khác thôi. Dẫu vậy, tôi cũng không dám chắc là mình có thể nghĩ ra ngay lập tức.
 
 “Dù sao thì, trước tiên vẫn phải thu thập thông tin cái đã.”
 
-Vì thế, tôi đã mò đến phòng chỉ huy. Đây là phòng chỉ huy đúng không nhỉ? Nhìn mấy phiến đá xếp hàng trông cũng ra dáng lắm.
+Vì thế, tôi đã mò đến phòng chỉ huy. Đây đích thị là phòng chỉ huy rồi đúng không? Nhìn mấy phiến đá xếp thành hàng dài ngay ngắn trông cũng ra dáng lắm.
 
-Theo lời kể của Mei-chan, Takanashi thường lấy cớ canh gác xung quanh để giam mình một mình ở đây. Nghĩa là cô ta vừa thu thập thông tin, vừa âm thầm vạch ra những âm mưu non nớt của mình tại nơi này.
+Theo lời kể của Mei-chan, Takanashi thường lấy cớ canh gác xung quanh để tự giam mình một mình ở nơi này. Nghĩa là cô ta vừa thu thập thông tin, vừa âm thầm toan tính những âm mưu non nớt của mình tại đây.
 
 “Vậy nhờ cậu nhé, Tendou-kun.”
 
 “Xùy, vừa mới đó đã sai vặt tao rồi.”
 
-Đối mặt với vẻ mặt khó chịu ra mặt của Tendou-kun, tôi nở một nụ cười ngây thơ như một đứa trẻ đang nhận quà Giáng sinh.
+Đối mặt với vẻ mặt khó chịu ra mặt của Tendou-kun, tôi nở một nụ cười ngây thơ vô số tội như một đứa trẻ vừa nhận được quà Giáng sinh.
 
 Cậu ta vừa giơ tay lên, phiến đá lập tức phản ứng, phát sáng rực rỡ và bắt đầu khởi động.
 
-“Tao gỡ bỏ giới hạn rồi. Còn lại mày muốn làm gì thì làm.”
+“Tao gỡ bỏ giới hạn rồi đấy. Còn lại mày muốn làm gì thì tùy.”
 
-“Cảm ơn cậu.”
+“Cảm ơn cậu nhé.”
 
-Tôi gửi lời cảm ơn chân thành rồi thay thế vị trí của Tendou-kun, đứng trước phiến đá lớn nhất ở chính diện.
+Tôi gửi lời cảm ơn chân thành rồi bước tới thay thế vị trí của Tendou-kun, đứng trước phiến đá lớn nhất ở chính diện.
 
-Trên màn hình vẫn là những ký tự cổ đại mà phần lớn tôi không thể đọc được, nhưng nhìn qua thì giao diện trông giống như một màn hình máy tính. Từ đây, tôi có thể truy cập vào các hệ thống và dữ liệu để khai thác tối đa thông tin.
+Trên màn hình vẫn hiển thị những ký tự cổ đại mà phần lớn tôi đều chịu chết không đọc được, nhưng nhìn tổng thể thì giao diện trông rất giống màn hình máy tính. Từ đây, tôi có thể truy cập vào các hệ thống và cơ sở dữ liệu để khai thác tối đa thông tin.
 
-Nếu để Tendou-kun — người nắm giữ quyền hạn quân sự chính thức — làm thì sẽ chắc ăn nhất, nhưng tính cách của cậu ta hoàn toàn không hợp với mấy việc tỉ mỉ thế này.
+Nếu để Tendou-kun — người nắm giữ quyền hạn quân sự chính thức — trực tiếp thao tác thì sẽ chuẩn xác nhất, nhưng tính cách cộc cằn của cậu ta hoàn toàn không hợp với mấy công việc tỉ mỉ, đòi hỏi kiên nhẫn thế này.
 
-Vì vậy, tôi chỉ nhờ cậu ta gỡ bỏ giới hạn để một kẻ ngoài cuộc như tôi có thể tùy ý táy máy. Cảm giác lúc này giống như một cậu nhóc cấp hai vừa bẻ khóa được bộ lọc bảo mật internet vậy. Tôi lao vào thu thập thông tin về cổ đại đô thị Albion với khí thế hừng hực như thể đang đi săn lùng mấy bộ phim người lớn trôi nổi trên mạng.
+Vì vậy, tôi chỉ nhờ cậu ta gỡ bỏ giới hạn để một kẻ ngoài cuộc như tôi có thể tùy ý táy máy. Cảm giác lúc này chẳng khác nào một cậu nhóc cấp hai vừa bẻ khóa thành công bộ lọc bảo mật internet vậy. Tôi lao vào thu thập thông tin về cổ đại đô thị Albion với khí thế hừng hực như thể đang đi lùng sục mấy bộ phim người lớn trôi nổi trên mạng.
 
-Khoảng cách lớn nhất giữa tôi và Takanashi chính là kiến thức về thời cổ đại. Tôi cần phải lấp đầy khoảng trống đó dù chỉ một chút để chuẩn bị cho những tình huống bất ngờ.
+Khoảng cách lớn nhất giữa tôi và Takanashi chính là vốn hiểu biết về thời cổ đại. Tôi cần phải lấp đầy khoảng trống tri thức đó dù chỉ một chút để chuẩn bị cho những tình huống bất ngờ nhất.
 
-“Vậy thì, nhờ cô giúp đỡ nhé, Liberta-chan.”
+“Vậy thì, nhờ cô giúp một tay nhé, Liberta-chan.”
 
 “Hừm, thiếp đã hiểu vì sao Chủ nhân lại nhăn mặt khi đồng ý giúp ngươi rồi.”
 
-“Ái chà, Tendou-kun quả thực đã mang đến một nhân tài tuyệt vời mà. Được chính một người từng sống ở thời cổ đại dịch hộ cổ ngữ thì còn gì bằng.”
+“Ái chà, Tendou-kun quả thực đã mang đến một nhân tài tuyệt vời mà. Được chính một người từng sống ở thời cổ đại dịch hộ cổ ngữ thì còn gì bằng nữa.”
 
-Không có kỹ năng giải mã cổ ngữ ư? Thế thì cứ nhờ đứa biết đọc đọc hộ là xong chứ gì. Chẳng phải ngay trước mắt đang có một con rồng vũ khí sinh học sở hữu trí tuệ ngang ngửa con người được chế tạo từ thời cổ đại đó sao?
+Không có kỹ năng giải mã cổ ngữ ư? Thế thì cứ nhờ kẻ biết đọc đọc hộ là xong chuyện chứ gì. Chẳng phải ngay trước mắt đang có một con rồng vũ khí sinh học sở hữu trí tuệ ngang ngửa con người được chế tạo từ thời cổ đại đó sao?
 
-Đúng vậy, Liberta có thể đọc và viết cổ ngữ. Người ta đã cất công ban cho cô ấy trí tuệ, thì đương nhiên cô ấy phải sở hữu lượng kiến thức tương xứng, nếu không thì chẳng có ý nghĩa gì.
+Đúng vậy, Liberta có thể đọc và viết cổ ngữ trôi chảy. Người ta đã cất công ban cho cô ấy trí tuệ, thì đương nhiên cô ấy phải sở hữu lượng kiến thức tương xứng, nếu không thì chế tạo ra chẳng có ý nghĩa gì.
 
-Cơ mà nói là trí tuệ ngang con người, chứ trong nhân loại cũng có một tỉ lệ không nhỏ những kẻ ngu ngốc tột cùng. Nếu món vũ khí rồng báu vật lại chết một cách lãng xẹt như thể giật giải Darwin thì đúng là trò hề.
+Cơ mà nói là trí tuệ ngang ngửa con người, chứ trong nhân loại cũng có một tỉ lệ không nhỏ những kẻ ngu ngốc tột cùng. Nếu món vũ khí rồng báu vật tối tân lại chết một cách lãng xẹt như thể giật giải Darwin thì đúng là trò hề thế kỷ.
 
-Thế nên, việc Liberta biết đọc biết viết là lẽ đương nhiên, cô ấy còn nắm vững toàn bộ những kiến thức giáo dưỡng cơ bản thời bấy giờ. Dĩ nhiên, kiến thức về chiến đấu hay ma pháp cũng ở mức trên trung bình. Mặc dù nghe nói những thứ đó không phải do giáo viên tận tình chỉ dạy, mà là được khắc trực tiếp vào não bộ bằng ma pháp.
+Thế nên, việc Liberta biết đọc biết viết là lẽ đương nhiên, cô ấy thậm chí còn nắm vững toàn bộ những kiến thức giáo dưỡng cơ bản thời bấy giờ. Dĩ nhiên, kiến thức về chiến đấu hay ma pháp cũng thuộc hàng trên mức trung bình. Mặc dù nghe nói những thứ đó không phải do giáo viên tận tình chỉ dạy từng ngày, mà là được khắc trực tiếp vào não bộ bằng ma thuật.
 
-Thật đáng ghen tị, ước gì tôi cũng có thể dễ dàng cài đặt trực tiếp những kiến thức chưa biết vào não mình như thế. Có lẽ kỹ năng giải mã cổ ngữ cũng hoạt động theo nguyên lý tương tự chăng.
+Thật đáng ghen tị, ước gì tôi cũng có thể dễ dàng cài đặt trực tiếp những khối kiến thức chưa biết vào não mình như thế. Có lẽ kỹ năng giải mã cổ ngữ cũng hoạt động theo nguyên lý tương tự chăng.
 
-Dù sao thì, có Liberta ở đây, tôi có thể đọc cổ ngữ thỏa thích. Cô ấy còn có kiến thức nền tảng về hệ thống bảng điều khiển phiến đá này nữa. Nếu việc thu thập thông tin không tiến triển thuận lợi thì mới là lạ.
+Dù sao thì, có Liberta ở đây, tôi có thể đọc hiểu cổ ngữ thỏa thích. Cô ấy còn có vốn hiểu biết nền tảng về hệ thống bảng điều khiển phiến đá này nữa. Nếu việc thu thập thông tin không tiến triển thuận lợi thì mới là chuyện lạ.
 
 “Rem dùng cái kia, còn Momoko dùng cái bên đó nhé.”
 
 “Vâng, thưa Chủ nhân.”
 
-“Thật là, tại sao em lại phải làm mấy việc này cơ chứ—”
+“Thật là, tại sao em lại phải làm mấy cái việc chán ngắt này cơ chứ—”
 
 “Vì đó là mệnh lệnh của Chủ nhân cậu mà. Chịu thôi.”
 
-“Không phải là do bản gốc đã xúi giục Chủ nhân hay sao chứ!”
+“Không phải là do bản gốc đã giở trò xúi giục Chủ nhân hay sao chứ!”
 
-Tôi bĩu môi tự nói với chính mình. Cảm giác cứ như thể đang bị phân thân của mình phản bội vậy.
+Tôi bĩu môi tự nói với chính mình. Cảm giác lúc này cứ như thể đang bị chính phân thân của mình quay lưng phản bội vậy.
 
-Mà thôi, vì giới tính sinh học của hai đứa khác nhau, tôi nên coi Momoko như một cô em gái song sinh bị thất lạc thì hơn. Nghĩ thế sẽ tốt cho sức khỏe tinh thần của tôi.
+Mà thôi, vì giới tính sinh học của hai đứa khác nhau, tôi nên coi Momoko như một cô em gái song sinh bị thất lạc từ nhỏ thì hơn. Nghĩ theo hướng đó sẽ tốt cho sức khỏe tinh thần của tôi hơn nhiều.
 
-Sau khi chấp nhận sự tồn tại của Momoko theo cách đó, tôi lập tức giao việc cho cô em gái thất lạc này.
+Sau khi đã chấp nhận sự tồn tại của Momoko theo cách ấy, tôi lập tức phân công công việc cho cô em gái thất lạc này.
 
-“Tendou-kun chỉ tự mình đánh giá xem ai là người phù hợp thôi. Đầu óc cậu ta không có lú lẫn đến mức để người khác xúi giục đâu.”
+“Tendou-kun chỉ tự mình đánh giá xem ai là người phù hợp thôi. Đầu óc cậu ta đâu có lú lẫn đến mức dễ dàng để người khác xúi giục.”
 
-“Hừm, tất nhiên rồi. Chủ nhân của Momoko là vị vua cô độc mà!”
+“Hừm, tất nhiên rồi. Chủ nhân của Momoko là vị vua cô độc vĩ đại mà!”
 
-*Dù vị vua cô độc đó hiện đang đau đầu vì buổi tư vấn tâm lý của Lớp trưởng. Làm vua cũng khổ thật đấy.*
+*Dù vị vua cô độc đó hiện đang ôm đầu khổ sở vì buổi tư vấn tâm lý của Lớp trưởng. Làm vua cũng lắm nỗi đoạn trường thật đấy.*
 
-Tôi mượn Momoko từ chỗ Tendou-kun để cô ấy cùng tôi lướt mạng, à không, thu thập thông tin về cổ đại đô thị Albion.
+Tôi mượn Momoko từ chỗ Tendou-kun để cô ấy cùng tôi lướt mạng — à không, thu thập thông tin về cổ đại đô thị Albion.
 
-Nghe nói Momoko nhớ rất chi tiết ngay cả những điều Tendou-kun không mấy hứng thú, rồi còn trưng ra bộ mặt đắc ý để giải thích. Mỗi lần như vậy, Tendou-kun lại vô thức liên tưởng đến tôi.
+Nghe nói Momoko nhớ rất chi tiết ngay cả những điều Tendou-kun không mấy hứng thú, rồi sau đó còn trưng ra bộ mặt đắc ý để giải thích cặn kẽ. Mỗi lần như vậy, Tendou-kun lại vô thức liên tưởng đến tôi.
 
-Tóm lại, Momoko rất giống tôi. Từ khuôn mặt cho đến tính cách.
+Tóm lại, Momoko rất giống tôi. Từ khuôn mặt biểu cảm cho đến tận tính cách.
 
-Kiểu người nhớ chính xác tên nhân vật, tên kỹ năng hay danh từ riêng. Kiểu người sẽ đọc kỹ hướng dẫn sử dụng trước khi dùng. Đại loại thế.
+Kiểu người sẽ nhớ chính xác từng tên nhân vật, tên kỹ năng hay danh từ riêng biệt. Kiểu người nhất định sẽ đọc kỹ hướng dẫn sử dụng trước khi dùng. Đại loại là như thế.
 
-Vì thế, với trí tuệ và tính cách của Momoko, cô ấy là người phù hợp nhất để cùng tôi thu thập thông tin.
+Vì thế, với trí tuệ và nét tính cách của Momoko, cô ấy chính là nhân sự phù hợp nhất để cùng tôi bới móc thông tin.
 
 “Vậy thì, bắt đầu thôi nào.”
 
-Cứ như vậy, nhóm giam mình trong phòng chỉ huy phụ trách thu thập thông tin bắt đầu hành động.
+Cứ như vậy, tổ công tác giam mình trong phòng chỉ huy phụ trách thu thập thông tin chính thức bắt tay vào hành động.
 
 ***
 
-“Ồồồ, tuyệt thật đấy! Đây chẳng phải là một kho báu sao!”
+“Ồồồ, tuyệt thật đấy! Đây chẳng phải là cả một kho báu sao!”
 
 Trong khi bản thể đang giam mình ở phòng chỉ huy, phân thân của tôi đã tìm đến kho vũ khí của pháo đài.
 
-Bước qua cánh cửa dày cộp được phong tỏa cực kỳ nghiêm ngặt bên trong pháo đài, tôi không kìm được tiếng reo hò.
+Bước qua cánh cửa kim loại dày cộp được phong tỏa cực kỳ nghiêm ngặt bên trong pháo đài, tôi không kìm được tiếng reo hò thích thú.
 
-“Ư... ư... Ghét quá đi... Thế này chắc chắn là một núi công việc rồi...”
+“Ư... ư... Ghét quá đi... Thế này chắc chắn là cả một núi công việc ngập đầu rồi...”
 
-Trái ngược với tiếng reo hò phấn khích như thể vừa nhặt được một đống trang bị tối thượng trong game hack-and-slash của tôi, kẻ đang cất giọng chán nản tột cùng kia chính là Himeno-san — đại diện tiêu biểu cho kiểu nhân viên lười biếng, thiếu động lực.
+Trái ngược hoàn toàn với tiếng reo hò phấn khích như thể vừa nhặt được một đống trang bị tối thượng trong game cày cuốc của tôi, kẻ đang cất giọng chán nản tột cùng kia chính là Himeno-san — đại diện tiêu biểu cho kiểu nhân viên lười biếng, thiếu động lực làm việc.
 
 “Đây là khẩu súng blaster mà Takanashi từng dùng nhỉ.”
 
-Tôi tìm thấy khẩu súng dạng súng lục quen thuộc ở một góc trên những chiếc kệ xếp hàng dài. Khung súng bằng kim loại màu bạc không hề phát ra ánh sáng xanh lam nào.
+Tôi tìm thấy khẩu súng dạng súng lục quen thuộc nằm ở một góc trên những chiếc kệ xếp hàng dài. Khung súng bằng kim loại màu bạc lạnh lẽo, hoàn toàn không hề phát ra ánh sáng xanh lam nào.
 
-Tôi thử cầm lên ngắm nghía, tiện thể truyền ma lực vào nhưng không có phản ứng gì.
+Tôi thử cầm lên ngắm nghía, tiện thể truyền ma lực vào kiểm tra nhưng không hề có chút phản ứng nào.
 
-“Quả nhiên là đã hỏng do xuống cấp theo thời gian rồi sao. Hay là nó bị khóa bằng nhận diện sinh trắc học nhỉ?”
+“Quả nhiên là đã hỏng do xuống cấp theo năm tháng rồi sao. Hay là nó đã bị khóa bằng nhận diện sinh trắc học nhỉ?”
 
-Việc Takanashi chỉ dùng duy nhất một khẩu súng lục là vì cô ta chỉ có thể dùng được nó? Hay là cô ta không có hứng thú với những khẩu súng trường cỡ lớn?
+Việc Takanashi chỉ dùng duy nhất một khẩu súng lục là vì cô ta chỉ có thể kích hoạt được mỗi nó? Hay là do cô ta không có hứng thú với những khẩu súng trường cỡ lớn?
 
-Nếu đống vũ khí để lại ở đây có thể sử dụng ngay lập tức thì tốt quá, nhưng có lẽ tôi đang kỳ vọng quá cao rồi.
+Nếu đống vũ khí để lại ở đây có thể sử dụng được ngay lập tức thì tốt quá, nhưng có lẽ tôi đang đặt kỳ vọng quá cao rồi.
 
-“Cách sử dụng thì lát nữa hỏi Liberta-chan sau vậy.”
+“Cách sử dụng thì lát nữa đành hỏi Liberta-chan sau vậy.”
 
-Cô ấy là vũ khí sinh học, nên chắc chắn đã được cài đặt sẵn kiến thức về các loại vũ khí mà quân đội sử dụng. Đúng là bận rộn thật đấy.
+Cô ấy là vũ khí sinh học, nên chắc chắn đã được cài đặt sẵn kiến thức vận hành các loại vũ khí quân dụng. Đúng là trăm công nghìn việc thật đấy.
 
 “Được rồi, giáp phòng ngự cũng có đủ cả.”
 
-Trong nhà kho nằm cạnh kho vũ khí vẫn còn sót lại những bộ đồ chiến đấu và giáp trụ.
+Trong gian nhà kho nằm kế bên kho vũ khí vẫn còn sót lại những bộ đồ chiến đấu và giáp trụ.
 
-Cảnh tượng hơi bừa bộn này không phải là tàn tích từ thời thành phố sụp đổ... mà chắc chắn là do Takanashi đã lục lọi qua. Đến cả việc dọn dẹp sau khi dùng xong cũng không làm được à.
+Cảnh tượng hơi bừa bộn này không phải là tàn tích đổ nát từ thời thành phố sụp đổ... mà chắc chắn là do Takanashi đã từng lục lọi qua nơi này. Đến cả việc dọn dẹp ngăn nắp sau khi dùng xong mà cô ta cũng không làm được à.
 
-“Này Momokawa-kun, mấy thứ này cứ thế lấy ra dùng trực tiếp là được rồi đúng không? Đâu có việc gì cho tôi làm đâu?”
+“Này Momokawa-kun, mấy thứ này cứ thế lấy ra dùng trực tiếp là được rồi đúng không? Đâu có việc gì cần tôi phải động tay vào đâu?”
 
-“Ngoại trừ khẩu súng blaster và 『Assassin Suit』 của Natsukawa-san ra, Takanashi đã tháo rã toàn bộ những thứ khác thành nguyên liệu như 『Thần Thiết』 hay sợi đặc biệt để sử dụng.”
+“Ngoại trừ khẩu súng blaster và 『Assassin Suit』 của Natsukawa-san ra, Takanashi đã tháo rã toàn bộ những thứ khác thành nguyên liệu như 『Thần Thiết』 hay sợi đặc chế để sử dụng.”
 
-*Bề ngoài thì cô ta giải thích với nhóm Souma-kun như vậy. Cũng có khả năng cô ta làm thế để che giấu năng lực của mình... Nhưng với tính cách của cô ta, tôi không nghĩ cô ta lại chịu bỏ công sức tháo rã nguyên liệu để cường hóa trang bị chỉ vì lý do đó đâu.*
+*Bề ngoài thì cô ta giải thích với nhóm Souma-kun như vậy. Cũng có khả năng cô ta làm thế để che giấu năng lực thực sự của mình... Nhưng với tính cách của cô ta, tôi không nghĩ cô ta lại chịu bỏ công sức tháo rã nguyên liệu để cường hóa trang bị chỉ vì lý do đó đâu.*
 
-“Thế nên, tôi nghĩ phần lớn đống này nếu không tháo rã ra thì chẳng thể dùng được.”
+“Thế nên, tôi nghĩ phần lớn đống này nếu không tháo rã ra thì chẳng thể nào dùng được.”
 
-“Hả, tháo rã á? Mấy thứ này á?”
+“Hả, tháo rã á? Mấy thứ cồng kềnh này á?”
 
-“Thứ nào có thể làm nguyên liệu thì tháo rã sạch đi.”
+“Thứ nào có thể tận dụng làm nguyên liệu thì tháo rã sạch đi.”
 
-*Nếu là Takanashi, cô ta cũng chẳng bao giờ thèm làm cái việc phiền phức là tiêu hủy hay vơ vét sạch những phần có thể tận dụng để ngăn chúng tôi sử dụng đâu. Cô ta chắc chắn chỉ lấy đúng phần mình cần thôi.*
+*Nếu là Takanashi, cô ta cũng chẳng bao giờ thèm làm cái việc phiền phức là tiêu hủy hay vơ vét sạch những phần có thể tái sử dụng để ngăn chúng tôi dùng đâu. Cô ta chắc chắn chỉ lấy đúng những phần mình cần rồi bỏ mặc.*
 
-Nghĩa là trong kho vũ khí này vẫn còn rất nhiều nguyên liệu có thể tận dụng.
+Nghĩa là trong kho vũ khí này vẫn còn lưu lại rất nhiều nguyên liệu quý giá có thể tận dụng.
 
-“...Tôi phải làm á?”
+“...Tôi phải làm thật á?”
 
-“Không sao đâu, tôi và Kyouko cũng sẽ giúp mà. Cùng cố gắng nhé?”
+“Không sao đâu, tôi và Kyouko cũng sẽ phụ giúp mà. Cùng cố gắng nhé?”
 
-“K-Khônggg... Ghét quá đi...”
+“K-Khônggg... Ghét quá đi mất...”
 
-Cô ta vừa khóc lóc vừa định chuồn đi, thế là tôi đóng sầm cửa kho vũ khí lại và khóa chặt.
+Cô ta vừa mếu máo vừa toan lùi bước chuồn đi, thế là tôi nhanh tay đóng sầm cửa kho vũ khí lại và khóa chặt.
 
-Hầu hết các cánh cửa trong pháo đài đều có thể đóng mở từ xa chỉ bằng một nút bấm từ phòng chỉ huy.
+Hầu hết các cánh cửa trong pháo đài này đều có thể đóng mở từ xa chỉ bằng một nút bấm từ phòng chỉ huy.
 
-“Thả tôi ra! Cho tôi ra khỏi đây! Tôi không thể ở lại cái nơi bóc lột sức lao động này thêm giây nào nữa đâuuu!!”
+“Thả tôi ra! Cho tôi ra khỏi đây mau! Tôi không thể ở lại cái nơi bóc lột sức lao động tàn nhẫn này thêm một giây nào nữa đâuuu!!”
 
-“Được rồi, trước tiên là phân loại những thứ có thể dùng được. Chắc từ hôm nay phải thức thâu đêm suốt sáng rồi đây.”
+“Được rồi, trước tiên là phân loại những thứ còn dùng được. Chắc từ hôm nay chúng ta phải thức thâu đêm suốt sáng rồi đây.”
 
-*Cứ yên tâm đi, Himeno-san, Mei-chan sẽ mang đồ ăn khuya thơm ngon đến tiếp tế cho chúng ta mà.*
+*Cứ yên tâm đi, Himeno-san, Mei-chan nhất định sẽ mang đồ ăn khuya thơm ngon đến tiếp tế cho chúng ta mà.*
 
 ***
 
-Trong khi phân thân số một đang giam lỏng Himeno-san trong kho vũ khí, thì phân thân số hai của tôi đang rảo bước qua khu vực sinh hoạt của pháo đài, hay nói đúng hơn là khu trại lính nơi binh sĩ từng đồn trú.
+Trong khi phân thân số một đang giam lỏng Himeno-san trong kho vũ khí, thì phân thân số hai của tôi đang rảo bước qua khu vực sinh hoạt của pháo đài, hay nói đúng hơn là khu trại lính nơi binh sĩ từng đồn trú thời xưa.
 
-Hiện tại, số lượng phân thân mà tôi có thể điều khiển hoàn toàn bằng 『Song Ảnh』 là hai cơ thể. Nếu chỉ đi lại hoặc nói chuyện đơn giản thì có thể tăng thêm hai cơ thể nữa. Còn nếu chỉ đứng yên một chỗ để giám sát thì có thể thêm hai cơ thể nữa.
+Hiện tại, số lượng phân thân mà tôi có thể điều khiển hoàn toàn bằng 『Song Ảnh』 là hai cơ thể. Nếu chỉ đi lại hoặc đối thoại đơn giản thì có thể tăng thêm hai cơ thể nữa. Còn nếu chỉ đứng yên một chỗ để làm mắt thần giám sát thì có thể duy trì thêm hai cơ thể nữa.
 
-Vì vậy, tính cả bản thể, phân thân số một và phân thân số hai, tôi có thể hoạt động hết công suất tối đa ba cơ thể cùng lúc. Tôi nhân ba sức lao động!
+Vì vậy, tính cả bản thể gốc, phân thân số một và phân thân số hai, tôi có thể vận hành hết công suất tối đa ba cơ thể cùng lúc. Tôi nhân ba năng suất lao động!
 
-Và rồi, phân thân số hai — cơ thể thứ ba của kẻ đang làm việc gấp ba lần người bình thường ở thế giới thực này — hướng tới điểm đến là:
+Và rồi, phân thân số hai — cơ thể thứ ba của kẻ đang làm việc gấp ba lần người bình thường ở thế giới thực này — hướng tới điểm đến tiếp theo:
 
-“Ư... Kinako... Cậu ấy có sao không nhỉ... Không biết có bị đói không nữa...”
+“Ư... Kinako... Cậu ấy có sao không nhỉ... Không biết có bị bỏ đói không nữa...”
 
 “Ư ử...”
 
-Đó là phòng của Hayama-kun, người hiện đang chìm sâu trong sự u uất.
+Đó là phòng của Hayama-kun, người hiện đang chìm sâu trong sự u uất và dằn vặt.
 
-Beniwo đang rúc vào bên cạnh người chủ đang hoàn toàn suy sụp của mình, bày tỏ sự đau buồn tương tự. Chắc chú chó cũng đang cảm thấy cô đơn khi người bạn đồng hành Kinako không còn ở đây.
+Beniwo đang rúc sát vào bên cạnh người chủ đang hoàn toàn suy sụp của mình, phát ra những tiếng rên rỉ đau buồn tương tự. Chắc hẳn chú chó săn cũng đang cảm thấy trống vắng, cô đơn khi người bạn đồng hành Kinako không còn ở đây.
 
-Ngay cả chú mèo con Koyuki dường như cũng biết nhìn nhận bầu không khí, nó cuộn tròn nằm im thin thít trên đùi Hayama-kun.
+Ngay cả chú mèo con Koyuki dường như cũng biết nhìn nhận bầu không khí nặng nề, nó ngoan ngoãn cuộn tròn nằm im thin thít trên đùi Hayama-kun.
 
-Thế nhưng, chúng tôi không thể cứ mãi ủ rũ thế này. Chinh phục Tháp, đánh bại Takanashi và giải cứu Kinako. Để làm được điều đó, sức mạnh của Hayama-kun là không thể thiếu.
+Thế nhưng, chúng tôi không thể cứ mãi ủ rũ thế này được. Chinh phục Tháp, đánh bại Takanashi và giải cứu Kinako. Để hoàn thành được mục tiêu đó, sức mạnh của Hayama-kun là nhân tố không thể thiếu.
 
-Tôi phải giúp cậu ấy vực dậy tinh thần càng sớm càng tốt. Việc tư vấn tâm lý và chăm sóc tinh thần cho đồng đội cũng là một trong những nhiệm vụ quan trọng của tôi.
+Tôi phải giúp cậu ấy vực dậy tinh thần chiến đấu càng sớm càng tốt. Việc tư vấn tâm lý và chăm sóc tinh thần cho đồng đội cũng là một trong những nhiệm vụ tối quan trọng của tôi.
 
-“Chào Hayama-kun. Vẫn chưa thấy khá hơn chút nào sao?”
+“Chào Hayama-kun. Cậu vẫn chưa thấy khá hơn chút nào sao?”
 
 “Ư... Momokawa... Tớ xin lỗi...”
 
-Có lẽ cảm thấy có lỗi vì cứ giam mình trong phòng khóc lóc, Hayama-kun lí nhí trả lời với vẻ ngượng ngùng.
+Có lẽ cảm thấy có lỗi vì cứ tự giam mình trong phòng khóc lóc, Hayama-kun lí nhí cất lời với vẻ mặt đầy ngượng ngùng.
 
-“Không sao đâu. Hôm nay cậu cứ nghỉ ngơi cho thoải mái đi.”
+“Không sao đâu. Hôm nay cậu cứ nghỉ ngơi cho lại sức đi.”
 
 “Nói thế chứ... Momokawa, cậu đã bắt đầu làm việc cật lực rồi đúng không?”
 
-“Một phần là vì tớ thích làm thế mà. Nơi này vốn là một căn cứ quân sự cổ đại, nên tớ đang rất hào hứng khám phá đây.”
+“Một phần là vì tớ thích làm thế mà. Nơi này vốn là một căn cứ quân sự cổ đại, nên tớ đang rất hào hứng muốn khám phá tường tận đây.”
 
-*Dẫn theo một Himeno-san mặt cắt không còn giọt máu đi lục lọi kho vũ khí vui cực kỳ luôn!*
+*Dẫn theo một Himeno-san mặt cắt không còn giọt máu đi lục lọi kho vũ khí thì vui cực kỳ luôn!*
 
-*Hơn nữa, với những thành viên còn lại, tớ không cần phải khách sáo hay kiêng dè gì cả, thế nên tinh thần cũng thoải mái hơn nhiều. Người ta vẫn thường nói nguồn cơn gây stress lớn nhất không phải là mối quan hệ xã hội, mà chính là các mối quan hệ xã hội đấy thôi.*
+*Hơn nữa, với những thành viên còn lại, tớ chẳng cần phải giữ kẽ khách sáo hay kiêng dè gì cả, thế nên tinh thần cũng thoải mái hơn nhiều. Người ta vẫn thường bảo nguồn cơn gây stress lớn nhất không phải là áp lực công việc, mà chính là các mối quan hệ xã hội đấy thôi.*
 
-“Này Momokawa... Cậu nghĩ tại sao Kinako lại bị bắt đi?”
+“Này Momokawa... Cậu nghĩ xem tại sao Kinako lại bị bắt đi?”
 
 *Câu hỏi hiển nhiên này cuối cùng cũng xuất hiện rồi sao.*
 
-*Thú thật là tôi đã có dự đoán của riêng mình. Nhưng vì đây là một giả thuyết khá tàn nhẫn đối với Hayama-kun, tôi đã đắn đo không biết có nên nói ra hay không... Tuy nhiên, trong những tình huống thế này, việc giữ im lặng chắc chắn sẽ chỉ mang lại bất lợi.*
+*Thú thật là tôi đã có dự đoán của riêng mình. Nhưng vì đây là một giả thuyết khá tàn nhẫn đối với Hayama-kun, tôi đã đắn đo mãi không biết có nên nói thẳng ra hay không... Tuy nhiên, trong những tình huống dầu sôi lửa bỏng thế này, việc giữ kín thông tin chắc chắn sẽ chỉ mang lại bất lợi.*
 
-*Tôi đã chứng kiến không biết bao nhiêu lần cái kịch bản vì không chịu chia sẻ bí mật hay suy đoán quan trọng với đồng đội, để rồi đến lúc sự việc xảy ra thì cuống cuồng không kịp trở tay.*
+*Tôi đã chứng kiến không biết bao nhiêu lần cái bi kịch vì không chịu chia sẻ bí mật hay suy đoán then chốt với đồng đội, để rồi đến lúc biến cố ập đến thì cuống cuồng không kịp trở tay.*
 
 “Có lẽ cô ta định biến Kinako thành một Boss ma vật đấy.”
 
 “C-Cái gì cơ...?”
 
-“Takanashi đã mang Souma-kun đi, ngay cả khi đã thừa nhận mình là kẻ chủ mưu. Việc cô ta vẫn mang cậu ấy đi chứng tỏ cô ta đã chuẩn bị sẵn phương án để bắt cậu ấy phải im lặng và phục tùng.”
+“Takanashi đã mang Souma-kun đi, ngay cả khi bản thân đã thừa nhận mình là kẻ chủ mưu. Việc cô ta vẫn nhất quyết mang cậu ấy theo chứng tỏ cô ta đã chuẩn bị sẵn phương án để bắt cậu ấy phải câm lặng và phục tùng.”
 
 “Nhưng chuyện đó thì liên quan gì đến Kinako chứ?”
 
-“Nếu đã có thể thao túng được Souma-kun, thì việc thao túng Kinako cũng chẳng có gì là khó. Vốn dĩ các Boss ma vật trong hầm ngục không phải là sinh vật hoang dã, mà là thứ được tạo ra nhờ chức năng của di tích cổ đại. Chắc chắn cô ta sở hữu năng lực thao túng ma vật.”
+“Nếu đã có thể thao túng được Souma-kun, thì việc thao túng Kinako cũng chẳng có gì là khó khăn. Vốn dĩ các Boss ma vật trong hầm ngục không phải là sinh vật hoang dã tự nhiên, mà là thứ được nhào nặn ra nhờ chức năng của di tích cổ đại. Chắc chắn cô ta sở hữu năng lực thao túng ma vật.”
 
 Hơn nữa, Takanashi cũng đã chuẩn bị sẵn một Raid Boss là Yamata no Orochi.
 
-Dù có vẻ cô ta không thể triệu hồi nó ra ngay lập tức chỉ bằng một câu chú, nhưng chỉ cần bỏ ra thời gian và công sức, cô ta hoàn toàn có thể tạo ra các Boss ma vật theo ý muốn.
+Dù có vẻ cô ta không thể triệu hồi nó ra ngay lập tức chỉ bằng một câu chú, nhưng chỉ cần bỏ ra đủ thời gian và công sức, cô ta hoàn toàn có thể tạo ra các Boss ma vật theo đúng ý muốn.
 
-Và tôi đoán phương pháp tạo ra Boss ma vật về cơ bản là cường hóa từ những ma vật sẵn có. Dù ma pháp cổ đại có mạnh đến đâu thì việc tạo ra vật chất từ hư vô vẫn là điều vô cùng khó khăn. Rõ ràng phương pháp cải tạo và cường hóa ma vật sẽ nhanh chóng và tiện lợi hơn nhiều.
+Và tôi đoán phương pháp tạo ra Boss ma vật về cơ bản là cường hóa dựa trên những cá thể ma vật sẵn có. Dù ma pháp cổ đại có hùng mạnh đến đâu thì việc tạo ra vật chất từ hư vô vẫn là điều vô cùng khó khăn. Rõ ràng phương pháp cải tạo và biến dị ma vật sẽ nhanh chóng và tiện lợi hơn nhiều.
 
 Tôi nghĩ đó cũng chính là lý do vì sao phần lớn các Boss ma vật xuất hiện thường là những biến thể cấp cao của các loài ma vật sinh sống trong khu vực đó.
 
@@ -60213,57 +60219,57 @@ Tôi nghĩ đó cũng chính là lý do vì sao phần lớn các Boss ma vật 
 
 “Tất nhiên là có rồi! Cậu ấy là người bạn đồng hành quan trọng nhất của tớ!”
 
-“Vậy thì hãy cùng tớ chuẩn bị đi. Chúng ta phải chuẩn bị sẵn sàng để đối phó ngay cả khi tình huống tồi tệ nhất xảy ra.”
+“Vậy thì hãy cùng tớ chuẩn bị đi. Chúng ta phải chuẩn bị sẵn sàng tâm lý để đối phó ngay cả khi tình huống tồi tệ nhất xảy ra.”
 
-*Nếu là Hayama-kun, tôi có cảm giác chỉ cần cậu ấy rơi nước mắt gào thét thuyết phục là có thể giải quyết được mọi chuyện khi đối đầu với một Kinako đã hóa Boss... Nhưng thôi, nếu sợi dây liên kết giữa hai người họ có thể tạo nên kỳ tích thì quá tốt, còn nếu không thì chúng tôi vẫn cần chuẩn bị sẵn một phương án dự phòng để tự xoay xở.*
+*Nếu là Hayama-kun, tôi có cảm giác chỉ cần cậu ấy rơi nước mắt gào thét thuyết phục là có thể hóa giải được mọi chuyện khi đối đầu với một Kinako đã hóa Boss... Nhưng thôi, nếu sợi dây liên kết tình cảm giữa hai người họ có thể tạo nên kỳ tích thì quá tốt, còn nếu không thì chúng tôi vẫn cần chuẩn bị sẵn một phương án dự phòng thực tế để tự xoay xở.*
 
-“Chúng ta... có thể cứu được Kinako đúng không?”
+“Chúng ta... nhất định có thể cứu được Kinako đúng không?”
 
 “Takanashi đã cất công mang nó đi, chắc chắn là để lợi dụng cho mục đích nào đó. Kinako nhất định vẫn còn sống.”
 
-*Nếu nó bị nhốt trong lồng, chúng tôi chỉ cần giải cứu là xong.*
+*Nếu nó bị nhốt trong lồng giam, chúng tôi chỉ cần phá khóa giải cứu là xong.*
 
-*Còn nếu cô ta biến nó thành Boss ma vật rồi xua đuổi tấn công, chúng tôi chỉ cần tính trước điều đó và đưa ra phương án đối phó.*
+*Còn nếu cô ta biến nó thành Boss ma vật rồi xua đuổi ra tấn công, chúng tôi chỉ cần tính trước nước đi đó và chuẩn bị sẵn phương án đối phó triệt để.*
 
-“Trước mắt, tớ nghĩ chúng ta cần chuẩn bị sẵn phương án để vô hiệu hóa và khống chế Linh thú Kinako ngay cả khi nó tấn công bằng toàn bộ sức mạnh. Còn việc làm thế nào để giải trừ thuật thao túng thì cứ để sau khi bắt được nó rồi tính tiếp.”
+“Trước mắt, tớ nghĩ chúng ta cần chuẩn bị sẵn phương án để vô hiệu hóa và khống chế Linh thú Kinako ngay cả khi nó tấn công bằng toàn bộ sức mạnh cuồng bạo nhất. Còn việc làm thế nào để giải trừ thuật thao túng thì cứ để sau khi bắt giữ được nó rồi tính tiếp.”
 
-*Đây cũng là một kịch bản kinh điển khi đồng đội bị kẻ địch thao túng rồi quay lại tấn công. Thường thì phe chính diện sẽ do dự chiến đấu vì không muốn làm tổn thương đồng đội... Nhưng tôi nghĩ đó là sự cẩu thả của phe nhân vật chính khi không chịu chuẩn bị sẵn phương pháp khống chế phòng trường hợp đồng đội nổi loạn.*
+*Đây cũng là một mô-típ kinh điển khi đồng đội bị kẻ địch thao túng rồi quay lại tấn công phe mình. Thường thì phe chính nghĩa sẽ do dự chiến đấu vì không muốn làm tổn thương bạn bè... Nhưng tôi nghĩ đó là sự cẩu thả thiếu trách nhiệm của phe nhân vật chính khi không chịu chuẩn bị sẵn biện pháp khống chế phòng trường hợp đồng đội mất kiểm soát.*
 
-*Nếu đồng đội đã rơi vào tay kẻ địch, thì việc họ bị dùng làm con tin hoặc bị tẩy não để quay lại tấn công là điều hoàn toàn có thể dự đoán được, vậy nên cứ chuẩn bị sẵn phương án đối phó đi cho lành.*
+*Một khi đồng đội đã rơi vào tay kẻ địch, thì việc họ bị dùng làm con tin hoặc bị tẩy não để quay lại tấn công là điều hoàn toàn nằm trong dự đoán, vậy nên cứ chuẩn bị sẵn phương án đối phó đi cho chắc ăn.*
 
-“Phải rồi, đúng thế thật... Vậy thì tớ không thể cứ mãi ủ rũ thế này được!”
+“Phải rồi, đúng là như thế thật... Vậy thì tớ không thể cứ mãi ủ rũ thế này được!”
 
-“Hì, xem ra cậu đã lấy lại tinh thần rồi nhỉ.”
+“Hì, xem ra cậu đã lấy lại được tinh thần rồi nhỉ.”
 
 “Tất nhiên rồi! Tớ nhất định sẽ cứu được Kinako và—”
 
 *Rắc rắc rắc!*
 
-Một tiếng động như thứ gì đó đang nứt vỡ đột ngột vang lên trong phòng.
+Một tiếng động như thể có thứ gì đó đang nứt vỡ đột ngột vang lên giòn giã trong căn phòng.
 
-Hayama-kun vừa nắm chặt nắm đấm, hùng dũng đứng dậy thì khựng lại giữa chừng, quay đầu nhìn về hướng phát ra âm thanh. Dĩ nhiên, tôi cũng hướng mắt nhìn theo.
+Hayama-kun vừa nắm chặt nắm đấm, hùng dũng đứng bật dậy thì khựng lại giữa chừng, ngơ ngác quay đầu nhìn về hướng phát ra âm thanh. Dĩ nhiên, tôi cũng hướng mắt nhìn theo.
 
-Nơi phát ra tiếng động là chiếc ba lô đang nằm lăn lóc ở góc phòng như thể bị vứt xó.
+Nơi phát ra tiếng động chính là chiếc ba lô đang nằm lăn lóc ở góc phòng như thể bị vứt xó.
 
-Đó là chiếc ba lô da thú dung tích lớn mà tôi đã đưa cho Hayama-kun, bên trong chứa Re-potion và vài thứ lặt vặt khác. Tuy nhiên, tôi không nhớ là có món đồ nào có thể đột nhiên phát ra tiếng nứt vỡ như vậy cả.
+Đó là chiếc ba lô da thú dung tích lớn mà tôi đã đưa cho Hayama-kun dạo trước, bên trong chứa Re-potion và vài món vật phẩm linh tinh khác. Tuy nhiên, tôi không nhớ là có món đồ nào lại có thể đột nhiên phát ra tiếng nứt vỡ bất thường như vậy.
 
 “Hayama-kun, cậu để cái gì trong ba lô thế? Hình như có thứ gì đó đang ngọ nguậy bên trong kìa.”
 
-Tiếng *rắc, rắc* vẫn tiếp tục vang lên, và có thứ gì đó đang ngọ nguậy bên trong chiếc ba lô.
+Tiếng *rắc, rắc* vẫn tiếp tục vang lên đều đặn, và rõ ràng có thứ gì đó đang cựa quậy bên trong chiếc ba lô.
 
 “Ơ, hay là...”
 
 “Cậu biết là thứ gì à?”
 
-“Có lẽ... nó vừa mới nở ra.”
+“Có lẽ... nó vừa mới nở ra rồi.”
 
 “...Nở ra?”
 
-Khi tôi gặng hỏi là thứ gì, Hayama-kun khẽ lảng tránh ánh mắt rồi đáp:
+Khi tôi gặng hỏi rốt cuộc đó là thứ gì, Hayama-kun khẽ lảng tránh ánh mắt bối rối rồi lí nhí đáp:
 
 “Quả trứng Salamander.”
 
-“Tớ cứ thắc mắc không biết vì sao lại mất một quả, hóa ra là do cậu cuỗm đi à!”`
+“Tớ cứ thắc mắc mãi không biết vì sao lại bị hụt mất một quả, hóa ra là do cậu lén cuỗm đi à!”`
             },
             {
                 "id": "ep_335",
@@ -60295,9 +60301,9 @@ Nó lắc lư cái đầu nhỏ tròn trịa, không ngừng dáo dác nhìn qua
 
 “Thật là, nếu cậu muốn ấp trứng thì cứ nói một tiếng, tớ sẽ hỗ trợ đàng hoàng mà.”
 
-“Tại cậu cứ hớn hở đòi ăn cái trứng đó chứ bộ...”
+“Tại cậu cứ hớn hở đòi ăn quả trứng đó chứ bộ...”
 
-Từ chiến lợi phẩm thu được sau khi tiêu diệt Đại Chiến Sĩ Bon của tộc Gira-Gogma, ngoài xác của con Salamander, chúng tôi còn thu hồi được cả trứng của nó.
+Từ chiến lợi phẩm thu được sau khi tiêu diệt Đại Chiến Sĩ Bon của tộc Gira-Goma, ngoài xác của con Salamander, chúng tôi còn thu hồi được cả trứng của nó.
 
 Về phần con Salamander, từ vảy, lớp vỏ cứng cho đến lõi ma vật đều đã được tận dụng triệt để cho chiến dịch công kích vương quốc. Tuy nhiên, tôi đã hơi đắn đo không biết nên làm gì với quả trứng.
 
@@ -60547,11 +60553,11 @@ Cuối cùng cũng đến lúc này. Cuối cùng, Souma Sakura—tôi cũng có
 
 Tôi gõ cửa phòng riêng được phân cho Souma Sakura — à không, phải nói là căn phòng cô ta đang tự tiện chiếm dụng — một cách vô cùng bất lịch sự.
 
-Căn phòng này không phải là nơi Sakura từng dùng trong thời gian nhóm Souma đồn trú ở đây, mà thực chất là phòng của Souma.
+Căn phòng này không phải là nơi Sakura từng dùng trong thời gian nhóm Souma đồn trú ở đây, mà thực chất là phòng của Souma-kun.
 
 Không chịu ở phòng cũ của mình mà lại giam mình trong phòng của ông anh trai, ừ thì, chắc lại là cái trò ủy mị đó rồi.
 
-Tôi không phải là không hiểu cảm giác muốn hít hà chút hơi ấm vương lại để lấp đầy khoảng trống cô đơn, nhưng ngay từ đầu tôi đã đồng ý cho cô biến nơi này thành phòng riêng đâu hả? Chủ nhân của pháo đài ẩn này là Momokawa Kotarou tôi đây, người đã được ngài Tendou — tư lệnh tối cao của Căn cứ Albion — ủy quyền quản trị toàn bộ cơ mà.
+Tôi không phải là không hiểu cảm giác muốn hít hà chút hơi ấm vương lại để lấp đầy khoảng trống cô đơn, nhưng ngay từ đầu tôi đã đồng ý cho cô biến nơi này thành phòng riêng đâu hả? Chủ nhân của pháo đài ngầm này là Momokawa Kotarou tôi đây, người đã được ngài Tendou — tư lệnh tối cao của Căn cứ Albion — ủy quyền quản trị toàn bộ cơ mà.
 
 “Souma Sakura! Cô đang chiếm giữ căn phòng này một cách bất hợp pháp! Mau chóng dọn đồ và đầu hàng đi! Cô đã bị bao vây rồi, người mẹ ở quê nhà đang khóc lóc thảm thiết vì cô đấy!”
 
@@ -60575,7 +60581,7 @@ Sakura có vẻ ngây thơ nghĩ rằng chỉ cần khóa trái cánh cửa cự
 
 Thực chất chỉ là bản thể của tôi đang ngồi trong phòng chỉ huy vừa giải khóa căn phòng này từ xa mà thôi. Mọi cánh cửa và cổng chắn trong pháo đài đều có thể tùy ý điều khiển từ phòng điều hành trung tâm.
 
-Căn phòng tôi bước vào sau khi dùng chìa khóa vạn năng tối tăm một cách hoàn hảo. Tuy nhiên, mục tiêu đã bị phát hiện ngay lập tức.
+Sau khi dùng "chìa khóa vạn năng" một cách hoàn hảo, tôi nghênh ngang bước vào phòng. Mục tiêu lập tức lộ diện.
 
 Căn phòng vốn dĩ chẳng có mấy đồ đạc. Thứ nổi bật nhất là chiếc giường đặt ở phía trong, và Sakura đang nằm cuộn tròn, trùm chăn kín mít trên đó.
 
@@ -60715,7 +60721,7 @@ Vì tôi có thể cằn nhằn Sakura suốt ngày không biết chán nên tô
 
 “Trước hết, tớ sẽ giải thích tình hình hiện tại.”
 
-“Vâng, nhờ cậu.”
+“Ừm, nhờ cậu.”
 
 Vì Sakura đã trốn việc suốt hai ngày trời nên cần phải cập nhật lại tình hình từ đầu, Lớp trưởng kiên nhẫn giải thích cặn kẽ cho cô ta.
 
@@ -60905,25 +60911,25 @@ Sakura, ồn ào quá đấy. Tập trung làm việc nghiêm túc giùm cái đ
                 "title": "Tập 337: Phía sau ngoại pháp (1)",
                 "content": `# Tập 337: Phía sau ngoại pháp (1)
 
-“Ừm, quả nhiên 『Thánh Thiên Kết Giới』 vạn năng thật đấy.”
+“Ừm, quả nhiên 『Thánh Thiên Kết Giới』 đúng là vạn năng thật đấy.”
 
-Nhờ sự hy sinh cao cả của Sakura, toàn bộ kết quả thực nghiệm đã được phơi bày.
+Nhờ sự hy sinh cao cả của Sakura, toàn bộ kết quả thực nghiệm đã được phơi bày rõ ràng.
 
-Chúng tôi đã thử nghiệm mọi thuộc tính ma pháp tấn công, dẫn đầu là Kyouko. Với những thuộc tính còn thiếu như lôi điện, chúng tôi đã dùng vũ khí ma pháp hoặc nhờ tinh linh của Hayama bổ trợ để bắn đủ tất cả các hệ. Đúng như dự đoán, không có thuộc tính nào tỏ ra đặc biệt hiệu quả để khắc chế nó cả.
+Chúng tôi đã thử nghiệm qua mọi thuộc tính ma pháp tấn công, dẫn đầu là Kyouko. Với những thuộc tính còn thiếu như lôi điện, chúng tôi đã dùng vũ khí ma pháp hoặc nhờ tinh linh của Hayama bổ trợ để bắn đủ tất cả các hệ. Đúng như dự đoán, chẳng có thuộc tính nào tỏ ra đặc biệt hiệu quả để khắc chế nó cả.
 
-Tất nhiên, tôi cũng bảo Mei và Natsukawa tung võ kỹ vào để kiểm tra khả năng kháng vật lý. Có cảm giác khả năng phòng ngự vật lý của nó còn bá đạo hơn cả kháng thuộc tính.
+Tất nhiên, tôi cũng bảo Mei-chan và Natsukawa-san tung võ kỹ vào để kiểm tra khả năng kháng vật lý. Có cảm giác năng lực phòng ngự vật lý của nó thậm chí còn bá đạo hơn cả kháng thuộc tính.
 
-Đòn võ kỹ tung ra bằng toàn bộ sức mạnh của Mei đánh trực diện mà nó vẫn chịu được một phát. Độ cứng cáp đó phải ngang ngửa với cổ của Zagan đấy.
+Đòn võ kỹ tung ra bằng toàn bộ sức mạnh của Mei-chan đánh trực diện mà nó vẫn chịu được một phát. Độ cứng cáp đó chắc chắn phải ngang ngửa với phần cổ của Zagan.
 
-Nhiều khả năng 『Thánh Thiên Kết Giới』 do Takanashi sử dụng còn mạnh hơn cả của Sakura. Nếu không thể dễ dàng phá vỡ kết giới của Sakura, cơ hội để đả thương ả ta gần như bằng không.
+Nhiều khả năng 『Thánh Thiên Kết Giới』 do Takanashi thi triển còn mạnh hơn cả của Sakura-chan. Nếu không thể dễ dàng phá vỡ kết giới của Sakura-chan, cơ hội để đả thương ả ta gần như bằng không.
 
-“Về cơ bản là kháng mọi thuộc tính kèm theo kháng vật lý cực cao. Cái thiết lập lỗi game phiền phức gì thế này, cái này đáng lẽ phải bị nerf đi chứ.”
+“Về cơ bản là kháng mọi thuộc tính kèm theo kháng vật lý cực cao. Cái thiết lập lỗi game phiền phức gì thế này, thứ này đáng lẽ phải bị nerf đi mới phải chứ.”
 
 “Hộc, hộc... Xong... Xong rồi... Anh hai ơi, em đã vượt qua... thử thách khắc nghiệt này rồi...”
 
-Sau khi chống đỡ được đợt oanh tạc võ kỹ toàn lực cuối cùng của Mei, Sakura thở không ra hơi, ánh mắt xa xăm vô định. Đến mức cô nàng còn lẩm nhẩm trò chuyện với người anh trai không có mặt ở đây, đủ hiểu buổi thí nghiệm làm bao cát này đã vắt kiệt sức lực của cô ta thế nào.
+Sau khi chống đỡ đợt oanh tạc võ kỹ toàn lực cuối cùng của Mei-chan, Sakura-chan thở không ra hơi, ánh mắt xa xăm vô định. Đến mức cô nàng còn lẩm nhẩm trò chuyện với người anh trai không hề có mặt ở đây, đủ hiểu buổi thí nghiệm làm bao cát này đã vắt kiệt sức lực của cô ta đến nhường nào.
 
-Nhưng mà, Sakura ơi, hình như cô đang hiểu lầm gì đó thì phải?
+Nhưng mà, Sakura-chan ơi, hình như cô đang hiểu lầm gì đó thì phải?
 
 “Không hề, vẫn chưa xong đâu. Những gì vừa rồi chỉ là kiểm chứng cho các kết quả đã dự đoán trước thôi. Từ bây giờ chúng ta mới bắt đầu thử nghiệm nhiều phương thức tấn công khác nhau để tìm ra điểm yếu chứ.”
 
@@ -60937,15 +60943,15 @@ Nhưng mà, Sakura ơi, hình như cô đang hiểu lầm gì đó thì phải?
 
 “Ơ, chạy mất rồi.”
 
-Giống như Himeno ngày trước, Sakura hét lên một tiếng thảm thiết rồi vắt chân lên cổ chạy trốn với tốc độ tối đa.
+Giống hệt như Himeno ngày trước, Sakura-chan hét lên một tiếng thảm thiết rồi vắt chân lên cổ chạy trốn với tốc độ tối đa.
 
 “Mà thôi kệ đi. Thí nghiệm tiếp theo cũng cần thời gian chuẩn bị, cứ để cô ta nghỉ ngơi... À mà không, cô ta đã trốn việc, ru rú trong phòng suốt hai ngày trời rồi, phải bắt làm việc nhiều hơn mới huề vốn được chứ.”
 
-Vậy thì, cứ bắt cô ta đi săn là được.
+Vậy thì, cứ bắt cô ta đi săn là xong.
 
 Giờ đây không còn phải lo lắng về tai mắt của lũ Goma nữa, cả nhóm có thể tự do săn bắn quái vật trên một bản đồ rộng lớn. Sự tự do và sảng khoái này chắc chắn sẽ là liều thuốc đổi gió tuyệt vời nhất.
 
-Vì vậy, cuộc thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 tạm thời gác lại.
+Vì vậy, cuộc thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 tạm thời được gác lại.
 
 Sáng hôm sau, tại nhà ăn nơi mọi người tập hợp đông đủ, tôi thông báo lịch trình hôm nay sau bữa sáng.
 
@@ -60957,7 +60963,7 @@ Người đáp lại tôi một cách hăng hái giờ chỉ còn mỗi Hayama.
 
 Dạo gần đây, cặp đôi Ueta - Yoshizaki hay Yamada thường sẽ phản hồi ngay lập tức, nhưng bóng dáng của bộ ba tiên phong đáng tin cậy ấy giờ đã không còn ở đây nữa.
 
-Với thực lực hiện tại, tôi tin rằng chỉ cần không phải là những khu vực có môi trường quá khắc nghiệt, họ hoàn toàn có thể sinh tồn ở bất cứ đâu. Bởi vì họ ra đi trong trạng thái trang bị tận răng và mang theo lượng nhu yếu phẩm kha khá.
+Với thực lực hiện tại, tôi tin rằng chỉ cần không phải là những khu vực có môi trường quá đỗi khắc nghiệt, họ hoàn toàn có thể sinh tồn ở bất cứ đâu. Bởi vì họ ra đi trong trạng thái được trang bị tận răng và mang theo lượng nhu yếu phẩm kha khá.
 
 Dù tự nhủ ba người họ sẽ ổn thôi, nhưng thỉnh thoảng nỗi bất an vẫn cứ dâng trào trong lòng tôi. Takanashi, tao nhất định không tha cho mày.
 
@@ -60967,7 +60973,7 @@ Gạt bỏ cảm xúc đó sang một bên, quân số còn lại của chúng t
 
 “Cậu là đứa một mình đồ sát Zagan đấy, nói thế mà nghe được à?”
 
-Trước lời phát biểu thiếu tự tin một cách kỳ lạ của Mei, Kyouko liền đáp lại bằng vẻ mặt nghiêm túc. Đã hạ được Zagan thì ở tầng sâu nhất này làm gì còn con ma vật nào làm khó được cô ấy nữa. Ngoại trừ gã chiến binh cuồng loạn hay lảng vảng dưới ga ngầm ra.
+Trước lời phát biểu thiếu tự tin một cách kỳ lạ của Mei-chan, Kyouko liền đáp lại bằng vẻ mặt nghiêm túc. Đã hạ được Zagan thì ở tầng sâu nhất này làm gì còn con ma vật nào làm khó được cậu ấy nữa. Ngoại trừ gã chiến binh cuồng loạn hay lảng vảng dưới ga ngầm ra.
 
 “Thế phân chia tổ đội thế nào đây?”
 
@@ -60987,9 +60993,9 @@ Có lẽ cơ chế đó cũng có thể bù đắp bằng ma lực của pháo �
 
 Đội hình cụ thể như sau:
 
-Đội săn bắn số 1: Mei, Kyouko, Hayama, Nakajima.
+Đội săn bắn số 1: Mei-chan, Kyouko, Hayama, Nakajima.
 
-Đội săn bắn số 2: Lớp trưởng, Natsukawa, Sakura.
+Đội săn bắn số 2: Lớp trưởng, Natsukawa-san, Sakura-chan.
 
 Về cơ bản vẫn là những thành viên quen thuộc hay đi chung với nhau. Dù có sự chênh lệch quân số giữa đội bốn người và đội ba người, nhưng tôi sẽ bù đắp bằng cách bố trí Rem và các triệu hoán thú đi kèm.
 
@@ -61055,9 +61061,9 @@ Mong là cấp độ kỹ năng của Himeno sớm tăng lên.
 
 Sau khi Takanashi bỏ trốn, chúng tôi lập tức di chuyển đến pháo đài ẩn này. Lúc đó ai nấy đều mệt mỏi rã rời, và việc tìm kiếm một vùng an toàn để nghỉ ngơi là ưu tiên hàng đầu, nên đó là lựa chọn hiển nhiên.
 
-Nhưng chuyện đó là một lẽ, còn ở chiến trường cũ, nói chính xác hơn là phần cung điện và pháo đài trung tâm còn sót lại sau vụ sụp đổ của vương quốc Goma. Nơi đó vẫn còn vô số xác binh lính Goma nằm la liệt. Đó đều là những chiến binh Gove lực lưỡng được trang bị giáp trụ tử tế, những tư tế chỉ xuất hiện trong cung điện, và cả những con GoGame Mastera tinh nhuệ nhất mang theo vũ khí ma pháp.
+Nhưng chuyện đó là một lẽ, còn ở chiến trường cũ, nói chính xác hơn là phần cung điện và pháo đài trung tâm còn sót lại sau vụ sụp đổ của vương quốc Goma... nơi đó vẫn còn vô số xác binh lính Goma nằm la liệt. Đó đều là những chiến binh Gove lực lưỡng được trang bị giáp trụ tử tế, những tư tế chỉ xuất hiện trong cung điện, và cả những con Goma tinh nhuệ nhất mang theo vũ khí ma pháp.
 
-Và trên hết, còn có cả xác của Zagan, kẻ mạnh nhất trong số các Gira-GoGame Mastera.
+Và trên hết, còn có cả xác của Zagan, kẻ mạnh nhất trong số các Gira-Goma.
 
 “Phân thân của tớ và Rem đã làm việc gần như không nghỉ để thu hoạch lõi và lột sạch trang bị của chúng, nên lượng lõi cần dùng ngay trước mắt đã được đảm bảo rồi.”
 
@@ -61069,7 +61075,7 @@ Cảm ơn vì đã tích trữ nhiều đồ tốt thế nhé, Oh-ma. Di sản c
 
 Nhờ vậy, bằng cách kiên trì rã xác lính Gove để lấy lõi, rồi dùng số lõi đó để tăng thêm số lượng xác sống của Rem, rồi lại dùng lõi thu được tiếp theo để tăng số lượng triệu hoán thú... Việc tự cung tự cấp lõi tại chỗ đã giúp chúng tôi gia tăng đáng kể nhân lực, và hiện tại khu vực đó vẫn đang vô cùng nhộn nhịp với công việc thu hoạch của chúng tôi.
 
-Cả Rem lẫn các triệu hoán thú đều đang làm việc hết công suất không ngừng nghỉ. Đúng là những nhân viên kiểu mẫu. Himeno và Sakura nên học tập theo đi nhé.
+Cả Rem lẫn các triệu hoán thú đều đang làm việc hết công suất không ngừng nghỉ. Đúng là những nhân viên kiểu mẫu. Himeno và Sakura-chan nên học tập theo đi nhé.
 
 “Này, nếu đã có nhiều đồ như thế rồi thì chúng ta không cần đi săn nữa cũng được mà?”
 
@@ -61127,7 +61133,7 @@ Oh-ma là một vị vua vĩ đại, Zagan là một chiến sĩ kiêu hãnh. T�
 
 U là trời, tình huống phiền phức thật đấy... Nhưng một khi đã được bảo đảm là cậu ta vẫn còn cứu được, nghĩa là tôi lại phải còng lưng ra thuyết phục cậu ta rồi.
 
-Ài, thật là, Souma ơi, sau khi quay về cậu phải làm việc bán mạng để đền ơn tôi đấy nhé. Phải trả nợ gấp đôi, không, gấp ba lần cho tôi. Tính cả công sức tôi phải đi trông nom Sakura nữa đấy.
+Ài, thật là, Souma ơi, sau khi quay về cậu phải làm việc bán mạng để đền ơn tôi đấy nhé. Phải trả nợ gấp đôi, không, gấp ba lần cho tôi. Tính cả công sức tôi phải đi trông nom Sakura-chan nữa đấy.
 
 “Ta sẽ ban cho ngươi chú thuật mới.”
 
@@ -61203,33 +61209,33 @@ Cảm giác bị trói chặt toàn thân bằng những sợi xích nung đỏ 
 
 Himeno cất lời bằng giọng điệu lạnh lùng như băng, đôi mắt nhìn tôi đầy vẻ chán ghét. Thật là một sự tiếp đón phũ phàng.
 
-Thế nhưng, tâm trạng của tôi lúc này đang phấn khích đến mức không thể ngừng cười lớn được.
+Thế nhưng, tâm trạng của tôi lúc này đang phấn khích đến mức không thể nào kìm được tiếng cười lớn.
 
-Mà dĩ nhiên là phải phấn khích rồi. Từ trước đến nay, mỗi khi có chú thuật mới, tôi đều phải vắt óc suy nghĩ xem nên ứng dụng nó thế nào. À mà khoan, dạo gần đây hình như cũng không đến mức khổ sở như thế nữa.
+Mà dĩ nhiên là phải phấn khích rồi. Từ trước đến nay, mỗi khi nhận được chú thuật mới, tôi đều phải vắt óc suy nghĩ xem nên ứng dụng nó thế nào. À mà khoan, dạo gần đây hình như cũng không đến mức phải khổ sở như thế nữa.
 
-Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hiệu quả nhắm trúng phóc vào thứ mà tôi đang vô cùng khao khát lúc này.
+Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hiệu ứng đánh trúng phóc vào thứ mà tôi đang khao khát nhất lúc này.
 
 “Ha ha ha! Nhìn đi, đây chính là sức mạnh mới được ban tặng bởi Chú thần Ruinhilde-sama vĩ đại!”
 
-\`『Giải Phóng Cấm Chú』\`: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
+『Giải Phóng Cấm Chú』: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
 
 “Hửm, chẳng hiểu gì cả.”
 
-“Thật là, đúng là kẻ không quen với văn phong mô tả của phái Ruinhilde! Không hiểu được cái 'chiều sâu' này thì đúng là một con người 'nông cạn' mà.”
+“Thật là, đúng là kẻ không quen với văn phong mô tả của phái Ruinhilde! Không hiểu được cái ‘chiều sâu’ này thì đúng là một con người ‘nông cạn’ mà.”
 
-“Momokawa-kun chưa bao giờ phiền phức như lúc này.”
+“Momokawa-kun chưa bao giờ phiền phức như lúc này đâu đấy.”
 
-Hừm, với tầm cỡ như tôi thì chỉ cần đọc qua đoạn mô tả mơ hồ này là đã nắm được hòm hòm hiệu quả của nó rồi. Mà thực ra, chỉ nhìn cái tên kỹ năng thôi là đã quá rõ ràng.
+Hừm, với tầm cỡ như tôi thì chỉ cần đọc qua đoạn mô tả trừu tượng này là đã nắm được hòm hòm hiệu quả của nó rồi. Mà thực ra, chỉ nhìn vào cái tên kỹ năng thôi là đã quá rõ ràng.
 
-“Cái \`『Giải Phóng Cấm Chú』\` này, nói ngắn gọn thì chính là kỹ năng cấp cao của \`『Giải Mã Ngoại Pháp』\`.”
+“Cái 『Giải Phóng Cấm Chú』 này, nói ngắn gọn thì chính là kỹ năng cấp cao của 『Giải Mã Ngoại Pháp』.”
 
-“Cái kỹ năng giúp cậu đọc được chữ Goma ấy hả? Nếu có thể giải mã sâu hơn nữa... ch-chẳng lẽ...”
+“Cái kỹ năng giúp cậu đọc được văn tự Goma ấy hả? Nếu có thể giải mã sâu hơn nữa... ch-chẳng lẽ...”
 
 “Chính xác, nâng cấp trang bị!”
 
 “KHÔÔÔÔÔÔÔÔÔÔNG!”
 
-Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ trong tuyệt vọng luôn là thứ mỹ vị ngọt ngào, chính Ruinhilde cũng đã nói như vậy mà.
+Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ trong tuyệt vọng luôn là thứ mỹ vị ngọt ngào, chính Ruinhilde-sama cũng từng nói như vậy mà.
 
 “Nhờ có chú thuật mới này, năng lực luyện thành của tôi đã tiến lên một tầm cao mới! Tôi có thể cường hóa sâu hơn nữa cho tất cả các trang bị đã chế tạo từ trước đến nay, hoặc tạo ra những món đồ hoàn toàn mới. Hơn nữa, ở đây lại đang có cả một núi nguyên liệu từ các binh khí cổ đại... Ôi, tương lai xán lạn làm sao.”
 
@@ -61239,19 +61245,19 @@ Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ
 
 Đó chính là nỗi trăn trở lớn nhất của tôi suốt thời gian qua. Một nỗi trăn trở đầy xa xỉ.
 
-Hộp sọ và lõi ma vật của Oh-ma và Zagan. Đây là những nguyên liệu có chất lượng tối thượng, có thể sánh ngang với chiếc lõi khổng lồ của Yamata no Orochi. Dù là chế tạo vũ khí hay vật phẩm ma pháp, tôi đều muốn khai thác tối đa sức mạnh của chúng.
+Hộp sọ và Lõi Ma Vật của Oh-ma cùng Zagan. Đây là những nguyên liệu mang chất lượng tối thượng, hoàn toàn có thể sánh ngang với chiếc lõi khổng lồ của Yamata no Orochi. Dù là chế tạo vũ khí hay vật phẩm ma pháp, tôi đều muốn khai thác tối đa sức mạnh tiềm ẩn của chúng.
 
-Những nguyên liệu Goma ở cấp độ này là độc nhất vô nhị, không thể tìm thấy lần thứ hai trong hầm ngục này nữa. Cho dù có một kẻ sở hữu trí tuệ và sức mạnh ngang ngửa Oh-ma xuất hiện đi chăng nữa, thì cũng phải mất hàng trăm năm tộc Goma mới xây dựng lại được một vương quốc như thế.
+Những nguyên liệu Goma ở cấp độ này là độc nhất vô nhị, tuyệt đối không thể tìm thấy lần thứ hai trong hầm ngục này nữa. Cho dù có một kẻ sở hữu trí tuệ và sức mạnh ngang ngửa Oh-ma xuất hiện đi chăng nữa, thì cũng phải mất hàng trăm năm tộc Goma mới tái thiết lại được một vương quốc như thế.
 
-Với đống nguyên liệu của Boss siêu hiếm như vậy, nếu chỉ đơn giản chế tạo thành mấy quả bom lõi dùng một lần thì thật là phí phạm của trời. Tôi nhất định phải rèn chúng thành những trang bị có thể sử dụng lâu dài ở tuyến đầu.
+Với đống nguyên liệu Boss siêu hiếm như vậy, nếu chỉ đơn giản chế tạo thành mấy quả bom lõi dùng một lần thì thật là phí phạm của trời. Tôi nhất định phải rèn chúng thành những trang bị có thể sử dụng lâu dài ở tuyến đầu chiến tuyến.
 
-Thế nhưng, năng lực luyện thành trước đó của tôi lại không đủ để đáp ứng yêu cầu này.
+Thế nhưng, năng lực luyện thành trước đó của tôi lại không đủ để đáp ứng yêu cầu khắt khe này.
 
-Từ hôm nay, đội săn bắn bắt đầu hoạt động, cộng thêm việc thu thập lõi từ tàn quân Goma trong vương cung và lục lọi kho báu, việc gom nguyên liệu diễn ra vô cùng thuận lợi. Chính vì thế mà tôi càng cảm thấy sốt ruột. Nhưng nếu nhắm mắt làm bừa để rồi tạo ra những thành phẩm nửa vời thì coi như xôi hỏng bỏng không.
+Từ hôm nay, đội săn bắn bắt đầu đi vào hoạt động, cộng thêm việc thu thập lõi từ tàn quân Goma trong vương cung và lục lọi kho báu, việc gom góp nguyên liệu diễn ra vô cùng thuận lợi. Chính vì thế mà tôi càng cảm thấy sốt ruột. Nhưng nếu cứ nhắm mắt làm bừa để rồi tạo ra những thành phẩm nửa vời thì coi như xôi hỏng bỏng không.
 
-Trong lúc đang lo lắng không biết có kịp hoàn thành trang bị trước khi chiến dịch chinh phục Tháp bắt đầu hay không, thì chú thuật mới này lại xuất hiện đúng lúc.
+Trong lúc đang lo lắng không biết có kịp hoàn thành trang bị trước khi chiến dịch chinh phục Tháp bắt đầu hay không, thì chú thuật mới này lại xuất hiện đúng lúc như một cơn mưa rào giữa nắng hạn.
 
-Con xin cảm tạ Người, Ruinhilde. Lòng thành kính của con dành cho Người đang tăng lên vùn vụt đây. Xin Người hãy tiếp tục chiếu cố con trong tương lai nhé.
+Con xin chân thành cảm tạ Người, Ruinhilde-sama. Lòng thành kính của con dành cho Người đang tăng lên vùn vụt đây. Xin Người hãy tiếp tục chiếu cố con trong tương lai nhé.
 
 “Vì thế, từ giờ tôi sẽ bắt tay vào chế tác nguyên liệu của Oh-ma và Zagan. Chắc là không rảnh để làm việc khác đâu.”
 
@@ -61265,7 +61271,7 @@ Con xin cảm tạ Người, Ruinhilde. Lòng thành kính của con dành cho N
 
 “C-Cái gì chứ.”
 
-Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, Himeno lộ rõ vẻ chột dạ và lảng tránh ánh nhìn của tôi.
+Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, Himeno lộ rõ vẻ chột dạ và vội vã lảng tránh ánh nhìn của tôi.
 
 “Himeno-san. Cô giúp tôi làm công việc luyện kim cũng được một thời gian dài rồi nhỉ.”
 
@@ -61273,7 +61279,7 @@ Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, H
 
 “Không, chỉ là tôi nghĩ cô đã tích lũy được rất nhiều kinh nghiệm. Mấy công đoạn chế tác cô đều đã quen tay, hay nói đúng hơn là làm rất tốt.”
 
-“Làm nhiều đến thế thì ai mà chẳng giỏi lên chứ.”
+“Làm nhiều đến phát ngán thế thì ai mà chẳng giỏi lên chứ.”
 
 “Himeno-san, cô không giấu tôi điều gì đấy chứ?”
 
@@ -61283,29 +61289,29 @@ Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, H
 
 Tôi nở một nụ cười rạng rỡ như hoa hướng dương, khẽ đặt tay lên vai Himeno và tung ra đòn quyết định.
 
-“— Cô đã thức tỉnh \`『Luyện Thành Trận Cơ Bản』\` rồi đúng không?”
+“— Cô đã thức tỉnh 『Luyện Thành Trận Cơ Bản』 rồi đúng không?”
 
 “...!?”
 
 Himeno giật nảy mình, một phản ứng không thể nào rõ ràng hơn.
 
-Sắc mặt cô nàng lập tức cắt không còn giọt máu, toàn thân run rẩy bần bật. Ừm, chắc là run lên vì phấn khích đây mà.
+Sắc mặt cô nàng lập tức cắt không còn giọt máu, toàn thân run rẩy bần bật. Ừm, chắc hẳn là đang run lên vì quá đỗi phấn khích đây mà.
 
 “C-Cậu nói gì thế... Tôi chẳng biết cái trận pháp luyện thành gì đó đâu...”
 
-“\`『Luyện Thành Trận Cơ Bản』\` là kỹ năng cấp cao của \`『Trận Pháp Luyện Thành Giản Đơn』\` mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đặc biệt.”
+“『Luyện Thành Trận Cơ Bản』 là kỹ năng cấp cao của 『Trận Pháp Luyện Thành Giản Đơn』 mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đỗi cao xa.”
 
-Thế nên, sau khi sử dụng \`『Trận Pháp Luyện Thành Giản Đơn』\` để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
+Thế nên, sau khi sử dụng 『Trận Pháp Luyện Thành Giản Đơn』 để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
 
-Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp, tôi thực sự thấy mừng cho cô đấy.
+Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp xứng đáng, tôi thực sự thấy mừng cho cô đấy.
 
 “Đã bảo là tôi không biết rồi mà!”
 
-“Có gì phải giấu chứ. Tôi cũng dùng được \`『Trận Pháp Luyện Thành Giản Đơn』\` mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
+“Có gì phải giấu chứ. Tôi cũng dùng được 『Trận Pháp Luyện Thành Giản Đơn』 mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại rành rọt trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
 
 “Chắc cậu nhìn nhầm thôi.”
 
-“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng \`『Luyện Thành Trận Cơ Bản』\` để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
+“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng 『Luyện Thành Trận Cơ Bản』 để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
 
 “Không có chuyện đó đâu... Tôi chỉ là đang làm việc chăm chỉ thôi mà...”
 
@@ -61315,31 +61321,31 @@ Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp, tôi th�
 
 Himeno mếu máo ngước nhìn tôi bằng ánh mắt đáng thương, nhưng quả thực gương mặt ấy chẳng làm tôi mảy may rung động. Ôi, sự chênh lệch ngoại hình thật tàn nhẫn làm sao.
 
-Tuy nhiên, tôi vẫn mỉm cười đáp lại.
+Tuy nhiên, tôi vẫn giữ nụ cười hòa nhã đáp lại.
 
 “Thật mà.”
 
-“...Tôi học được \`『Luyện Thành Trận Cơ Bản』\` rồi.”
+“...Tôi học được 『Luyện Thành Trận Cơ Bản』 rồi.”
 
 “Sao chuyện quan trọng thế này cô không nói sớm hả!”
 
 “C-Cậu đã bảo là không giận cơ mà!”
 
-Cả tôi và Himeno đều đã thăng cấp kỹ năng chế tác. Đây quả thực là một bước tiến lớn.
+Cả tôi và Himeno đều đã thăng cấp kỹ năng chế tác. Đây quả thực là một bước tiến mang tính đột phá.
 
 Tương lai của xưởng rèn Momokawa đang vô cùng xán lạn! Nào, hôm nay cũng phải tràn đầy năng lượng để làm việc thôi!
 
 ***
 
-Đội săn bắn số một gồm bốn người: Futaba Meiko, Randou Kyouko, Hayama Ritsuki và Nakajima Haruma đang tiến bước trong khu rừng sau khi đi lên từ đường hầm ngầm.
+Đội săn bắn số một gồm bốn người: Futaba Meiko, Randou Kyouko, Hayama Ritsuki và Nakajima Haruma đang rảo bước trong khu rừng sau khi tiến lên từ đường hầm ngầm.
 
-Đồng hành cùng họ là các phân thân chim của Rem làm nhiệm vụ trinh sát trên không, lũ High Zombie cảnh giới xung quanh, cùng với Tank và Alpha đóng vai trò hộ vệ kiêm khuân vác đồ đạc.
+Đồng hành cùng họ là các phân thân chim của Rem làm nhiệm vụ trinh sát trên không, lũ High Zombie cảnh giới xung quanh, cùng với Tank và Alpha đóng vai trò hộ vệ kiêm khuân vác quân nhu.
 
 Sau khi Vương quốc Goma bị tiêu diệt, khu rừng xung quanh Tháp Trung Tâm đã trở nên yên tĩnh hơn rất nhiều. Nơi từng có hàng ngàn con Goma bận rộn săn bắn hái lượn mỗi ngày, giờ đây không còn bóng dáng một mống nào.
 
 Vào ngày hôm đó, ngay cả khi có những con Goma may mắn sống sót trong rừng vì không quay về vương quốc, thì một khi đã mất đi nơi dung thân, chúng cũng khó lòng sinh tồn ngoài thế giới hoang dã. Chẳng mấy chốc, vô số ma vật ẩn náu trong khu rừng trù phú này sẽ nhận ra kẻ thống trị suốt hàng trăm năm qua đã biến mất, và việc chúng mở rộng lãnh thổ chỉ còn là vấn đề thời gian.
 
-Không hề hay biết về những biến động của khu rừng, Rerite đang đi cùng Beniwo và Koyuki. Cậu nhìn chằm chằm vào tấm lưng to lớn của Meiko đang hiên ngang dẫn đầu nhóm bốn người, rồi khẽ lẩm bẩm.
+Không hề hay biết về những biến động sâu xa của khu rừng, Rerite đang đi cùng Beniwo và Koyuki. Cậu nhìn chằm chằm vào tấm lưng to lớn của Meiko đang hiên ngang dẫn đầu nhóm bốn người, rồi khẽ lẩm bẩm.
 
 “Này... kia thực sự là Futaba-san sao?”
 
@@ -61347,7 +61353,7 @@ Không hề hay biết về những biến động của khu rừng, Rerite đan
 
 “Cái gì, mọi người đều hỏi thế à?”
 
-“Tần suất tương đương với câu 'Cậu vẫn còn sống sao, Hayama!' đấy.”
+“Tần suất tương đương với câu ‘Cậu vẫn còn sống sao, Hayama!’ đấy.”
 
 Kyouko đi bên cạnh đáp lại với vẻ mặt ngán ngẩm, như muốn nói “đến giờ này mà cậu vẫn còn thắc mắc chuyện đó sao”.
 
@@ -61357,7 +61363,7 @@ Khu rừng này giờ đây không còn Vương quốc Goma, cũng như không c
 
 Vì lý do đó, để tránh bị Meiko đi phía trước vài mét phát hiện, Rerite khẽ thì thầm vào tai Kyouko.
 
-“Không, nhưng mà, cô ấy thay đổi nhiều quá. Cái này vượt xa cả mức độ lột xác thông thường rồi.”
+“Không, nhưng mà, cậu ấy thay đổi nhiều quá. Cái này vượt xa cả mức độ lột xác thông thường rồi.”
 
 “Làm ơn đừng bảo là cậu phải lòng cậu ấy rồi nhé.”
 
@@ -61383,7 +61389,7 @@ Thời điểm Kotarou vượt mặt Takanashi để trốn thoát sau trận ch
 
 “Lúc gặp tớ, cậu ấy trông tơi tả lắm, và cũng chẳng được thư thả như bây giờ đâu.”
 
-Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một \`『Chú thuật sư』\` vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
+Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một 『Chú thuật sư』 vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
 
 “Nói vậy, họ giống như những người cộng sự đã cùng nhau vượt qua thời kỳ gian khổ nhất nhỉ.”
 
@@ -61401,7 +61407,7 @@ Biết rõ tình cảm của Kyouko dành cho Kotarou, Rerite khi tận mắt ch
 
 “Hồi đó chỉ có mình cậu thì không sao, chứ bây giờ có đối thủ mạnh thế kia, tớ không dám làm mấy trò liều lĩnh đó đâu.”
 
-Vào đêm trước trận chiến quyết định với vương quốc Goma, Rerite đã tiễn Kyouko khi cô quyết định đến phòng của Kotarou với tư cách là một người phụ nữ, và cậu cũng đã canh chừng để không ai làm phiền. Thế nhưng trong tình cảnh xuất hiện một đối thủ nặng ký như Meiko, cậu không thể lộ liễu giúp đỡ như trước được nữa. Dù ủng hộ Kyouko, cậu vẫn hiểu rõ mối quan hệ sâu đậm giữa Meiko và Kotarou.
+Vào đêm trước trận chiến quyết định với Vương quốc Goma, Rerite đã tiễn Kyouko khi cô quyết định đến phòng của Kotarou với tư cách là một người phụ nữ, và cậu cũng đã canh chừng để không ai làm phiền. Thế nhưng trong tình cảnh xuất hiện một đối thủ nặng ký như Meiko, cậu không thể lộ liễu giúp đỡ như trước được nữa. Dù ủng hộ Kyouko, cậu vẫn hiểu rõ mối quan hệ sâu đậm giữa Meiko và Kotarou.
 
 “Mà này... Futaba-san thực sự mạnh đến thế sao?”
 
@@ -61413,9 +61419,9 @@ Vào đêm trước trận chiến quyết định với vương quốc Goma, Re
 
 Trong trận chiến quyết định cuối cùng khi Meiko xuất hiện, Kyouko dù đang trong trạng thái mơ màng vẫn chứng kiến trận đấu cho đến phút cuối cùng. Thế nhưng Rerite, người đã kiệt quệ ma lực sau khi triệu hoán Linh thú và ngất đi, lại hoàn toàn không được tận mắt chứng kiến sức mạnh của Meiko.
 
-Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi \`『Thần Thánh Ngôn Ngữ』\` nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của \`『Cuồng Chiến Binh』\` mà mọi người vẫn thường ca tụng.
+Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi 『Thần Thánh Ngôn Ngữ』 nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của 『Cuồng Chiến Binh』 mà mọi người vẫn thường ca tụng.
 
-Dù vóc dáng thon gọn xinh đẹp sau khi giảm cân thành công mang lại một cảm giác không hề tầm thường, nhưng nó lại khó liên tưởng đến sức mạnh cơ bắp. Thậm chí cậu còn nghĩ rằng, là một thằng đàn ông, trong trường hợp khẩn cấp mình phải đứng ra bảo vệ cô ấy mới đúng.
+Dù vóc dáng thon gọn xinh đẹp sau khi giảm cân thành công mang lại một cảm giác không hề tầm thường, nhưng nó lại khó liên tưởng đến sức mạnh cơ bắp thuần túy. Thậm chí cậu còn nghĩ rằng, là một thằng đàn ông, trong trường hợp khẩn cấp mình phải đứng ra bảo vệ cô ấy mới đúng.
 
 “Mà, cậu sẽ sớm hiểu ra thôi.”
 
@@ -61535,7 +61541,7 @@ Mất đi cả ba cái đầu, con Cerberus đổ gục xuống đất.
 
 Từ đầu đến cuối, Rerite không hề chớp mắt một lần nào, nhưng chính cậu cũng không thể tin nổi vào những gì mình vừa chứng kiến.
 
-Có điều, cậu đã phần nào hiểu được thiên chức \`『Cuồng Chiến Binh』\` của Futaba Meiko đáng sợ đến nhường nào.
+Có điều, cậu đã phần nào hiểu được thiên chức 『Cuồng Chiến Binh』 của Futaba Meiko đáng sợ đến nhường nào.
 
 “Futaba-san đỉnh thật đấy... Mình cũng phải cố gắng thôi.”`
             },
@@ -61545,17 +61551,17 @@ Có điều, cậu đã phần nào hiểu được thiên chức \`『Cuồng C
                 "title": "Tập 339: Phía sau Ngoại Pháp (3)",
                 "content": `# Tập 339: Phía sau Ngoại Pháp (3)
 
-“Chào cậu, Nakajima. Trông vẻ mặt cậu có vẻ ủ rũ thế?”
+“Chào cậu, Nakajima. Trông sắc mặt cậu có vẻ ủ rũ thế?”
 
 “Ơ, Momokawa, sao cậu lại...”
 
 Tối hôm đó, tôi ghé qua phòng của Nakajima.
 
-Không giống như Mei, Kyouko hay Hayama, tôi và cậu ta không phải là những người bạn quá thân thiết trong đời sống riêng tư. Có lẽ vì thế mà cậu ta tỏ ra khá ngạc nhiên khi thấy tôi xuất hiện vào giờ này.
+Không giống như Mei-chan, Kyouko hay Hayama, tôi và cậu ta vốn không phải là bạn bè quá đỗi thân thiết trong đời sống riêng tư. Có lẽ vì thế mà cậu ta tỏ ra khá ngạc nhiên khi thấy tôi xuất hiện vào giờ này.
 
-*Chắc là ngạc nhiên lắm nhỉ? Nhưng vẻ mặt đó không phải là ghét bỏ lộ liễu đâu đúng không?*
+*Chắc là ngạc nhiên lắm nhỉ? Nhưng nét mặt đó chí ít cũng không phải là chán ghét lộ liễu, đúng chứ?*
 
-“Tôi có chút chuyện muốn nói với cậu đây, Nakajima. À, không phải chuyện gì xấu đâu, cứ thoải mái nghe đi. Nào, vừa uống chút rượu vừa nói chuyện nhé.”
+“Tôi có chút chuyện muốn bàn với cậu đây, Nakajima. À, không phải chuyện gì xấu đâu, cứ thoải mái nghe đi. Nào, vừa nhâm nhi chút rượu vừa nói chuyện nhé.”
 
 “Chuyện muốn nói với tôi sao... Được rồi, vào đi.”
 
@@ -61563,33 +61569,33 @@ Không giống như Mei, Kyouko hay Hayama, tôi và cậu ta không phải là 
 
 Có vẻ như Nakajima đã hạ quyết tâm, cậu ta ngoan ngoãn mời tôi vào phòng.
 
-Tôi mang theo chút đồ nhắm. Theo sau là Rem đang ôm một chai rượu lớn bước vào.
+Tôi mang theo chút đồ nhắm. Theo sau là Rem đang ôm một bình rượu lớn bước vào.
 
-Trên chiếc bàn có sẵn trong phòng, Rem bày biện xúc xích salami, phô mai và đậu rang ra những chiếc đĩa nhỏ, rồi dùng đôi tay bé xíu ôm lấy chai rượu, rót đầy vào ly của hai chúng tôi.
+Trên chiếc bàn tròn có sẵn trong phòng, Rem thoăn thoắt bày biện xúc xích salami, phô mai cùng đậu rang ra từng đĩa nhỏ, rồi dùng đôi tay bé xíu cẩn thận ôm lấy bình rượu, rót đầy vào ly của hai chúng tôi.
 
-“Chai rượu này tôi lấy từ kho lương thực đấy, uống cũng khá được. Không biết là đồ từ mấy ngàn năm trước nữa.”
+“Bình rượu này tôi lấy từ kho lương thực đấy, hương vị cũng khá được. Chẳng biết là đồ ủ từ mấy ngàn năm trước nữa.”
 
-“Đến nông nỗi này rồi thì tôi cũng chẳng bận tâm chuyện đó đâu.”
+“Đến nông nỗi này rồi thì tôi cũng chẳng bận tâm mấy chuyện đó đâu.”
 
-Đến cả thức ăn trong kho lương thực chúng tôi còn ăn như bình thường rồi, thì một chai rượu đã là gì chứ.
+Đến cả lương khô tồn kho từ thời cổ đại chúng tôi còn ăn ngon lành như thường, thì một bình rượu lâu năm đã là gì.
 
-Dù sao thì, sau khi mọi thứ đã chuẩn bị xong, tôi và Nakajima cùng cụng ly.
+Sau khi mọi thứ đã tươm tất, tôi nâng ly cùng Nakajima.
 
-“Hôm nay cậu đã vất vả rồi. Kể từ chiến dịch chinh phục vương quốc đến giờ, đây là lần đầu tiên cậu thực sự chiến đấu nhỉ.”
+“Hôm nay vất vả cho cậu rồi. Kể từ sau chiến dịch chinh phục Vương quốc Goma đến nay, đây là lần đầu tiên cậu thực sự vung kiếm chiến đấu trở lại nhỉ.”
 
-“Dù nói thế, nhưng tính ra vẫn chưa đầy một tuần mà.”
+“Dù nói thế, nhưng tính ra cũng chưa đầy một tuần mà.”
 
-“Kiếm kỹ của cậu vẫn không hề mai một chút nào. Ngay ngày đầu tiên đã săn được nhiều ma vật như vậy, giúp ích cho tôi nhiều lắm.”
+“Kiếm kỹ của cậu vẫn sắc bén như xưa, không hề mai một chút nào. Ngay ngày đầu tiên đã săn được chừng ấy ma vật, giúp ích cho tôi nhiều lắm.”
 
-“Không đâu, phần lớn là do Futaba làm hết đấy chứ... Bọn tôi chỉ việc hưởng sái thôi.”
+“Không đâu, phần lớn công lao đều nhờ Futaba gánh vác hết đấy chứ... Bọn tôi chỉ theo sau dọn dẹp tàn cuộc thôi.”
 
-Với nguyên liệu của Cerberus hệ Phong làm chủ đạo, cùng với một vài nguyên liệu cấp Boss khác, và cả một số lượng lớn Lõi ma vật thông thường vốn là mục tiêu ban đầu, họ đã mang về rất nhiều chiến lợi phẩm. Kết quả của ngày đi săn đầu tiên này không chỉ dừng lại ở mức tốt, mà phải gọi là xuất sắc.
+Với nguyên liệu thu hoạch từ Cerberus hệ Phong làm chủ đạo, cùng một vài nguyên liệu cấp Boss khác, cộng thêm số lượng lớn Lõi Ma Vật thông thường vốn là mục tiêu ban đầu, chuyến đi săn đã mang về rất nhiều chiến lợi phẩm giá trị. Kết quả của ngày đầu tiên này không chỉ dừng lại ở mức khả quan, mà phải gọi là vô cùng xuất sắc.
 
-Có khi những con ma vật đáng chú ý quanh khu vực này đã bị họ quét sạch rồi cũng nên.
+Có khi lũ ma vật đáng gờm quanh khu vực này đã bị họ quét sạch sẽ rồi cũng nên.
 
-“Ngày mai Nakajima sẽ vào xưởng chế tạo hỗ trợ tôi nhé, làm phiền cậu vậy.”
+“Ngày mai Nakajima vào xưởng chế tác hỗ trợ tôi một tay nhé, làm phiền cậu vậy.”
 
-“Bên đó nghe chừng có vẻ vất vả hơn đấy.”
+“Bên đó nghe chừng có vẻ vất vả hơn nhiều đấy.”
 
 “Cứ thong thả làm việc cùng Himeno là được rồi.”
 
@@ -61597,273 +61603,273 @@ Có khi những con ma vật đáng chú ý quanh khu vực này đã bị họ 
 
 “Sao lại cười khổ thế kia?”
 
-Chúng tôi vừa uống rượu vừa trò chuyện xoay quanh công việc, chẳng mấy chốc ly của cả hai đã cạn sạch.
+Chúng tôi vừa uống rượu vừa trò chuyện rôm rả xoay quanh công việc, chẳng mấy chốc ly của cả hai đã cạn đáy.
 
-Chờ Rem nhón chân rót đầy ly thứ hai, Nakajima mới nghiêm túc vào thẳng vấn đề.
+Chờ Rem nhón chân châm đầy ly thứ hai, Nakajima mới nghiêm nét mặt, đi thẳng vào vấn đề chính.
 
 “Vậy, chuyện cậu muốn nói với tôi là gì?”
 
 “Về Kenzaki.”
 
-Đôi lông mày của cậu ta khẽ giật nảy lên.
+Đôi chân mày của cậu ta khẽ giật nảy lên.
 
 “Chuyện đó... Cậu định giết cô ấy sao?”
 
-Sau một nhịp im lặng, cậu ta nhìn tôi với ánh mắt nghiêm nghị và hỏi.
+Sau một nhịp im lặng nặng nề, cậu ta nhìn xoáy vào tôi với ánh mắt nghiêm nghị và cất tiếng hỏi.
 
-Chà, phản ứng này nằm ngoài dự đoán của tôi đấy, cậu ta bình tĩnh hơn tôi tưởng. Xem ra sau khi chứng kiến hành động phản bội của Kenzaki khi cô ta tự nguyện đi theo kẻ chủ mưu Kotori, ngay cả một kẻ si tình như Nakajima cũng phải cay đắng thừa nhận rằng cô ta đáng tội, và đã chuẩn bị tâm lý cho tình huống xấu nhất.
+Chà, phản ứng này quả thực nằm ngoài dự liệu của tôi, cậu ta bình tĩnh hơn tôi tưởng. Xem ra sau khi tận mắt chứng kiến hành vi phản bội của Kenzaki khi cô ta tự nguyện đi theo kẻ chủ mưu Kotori, ngay cả một kẻ si tình mù quáng như Nakajima cũng phải cay đắng thừa nhận rằng cô ta có tội, và đã chuẩn bị sẵn tâm lý cho tình huống xấu nhất.
 
-“Xử lý Kenzaki thế nào, điều đó hoàn toàn phụ thuộc vào cậu đấy, Nakajima.”
+“Xử lý Kenzaki thế nào, điều đó hoàn toàn phụ thuộc vào quyết định của cậu đấy, Nakajima.”
 
 “Ý cậu là sao... Cậu đang đe dọa tôi à?”
 
 “Tôi tuyệt đối không bao giờ dùng thủ đoạn đe dọa để bắt ép những người đồng đội quan trọng của mình phải hành động. Hy vọng cậu tin tưởng tôi ở điểm này.”
 
-“...Đúng vậy thật. Chính vì thế mà mọi người mới hết lòng ủng hộ cậu, Momokawa.”
+“...Đúng vậy thật. Chính vì thế mà mọi người mới hết lòng tin tưởng và ủng hộ cậu, Momokawa.”
 
-“Nghe cậu công nhận nỗ lực của tôi như vậy, tôi vui lắm. Công sức tôi bỏ ra quả không uổng phí.”
+“Nghe cậu công nhận nỗ lực của tôi như vậy, tôi vui lắm. Công sức tôi bỏ ra bấy lâu quả không uổng phí.”
 
 “Vậy, việc của Kenzaki-san phụ thuộc vào tôi nghĩa là thế nào?”
 
-“Nghĩa đen đấy. Giết hay cứu Kenzaki, cậu cứ việc quyết định.”
+“Nghĩa đen trên từng mặt chữ đấy. Giết hay tha, cứu mạng hay trừ khử Kenzaki, cậu cứ việc toàn quyền quyết định.”
 
-“Tại sao cậu lại giao việc đó cho tôi... Cứ làm theo những gì cậu muốn là được mà, Momokawa?”
+“Tại sao cậu lại giao việc hệ trọng đó cho tôi... Cứ làm theo những gì cậu muốn là được mà, Momokawa?”
 
-“Nakajima, tôi chưa từng quên tình cảm cậu dành cho Kenzaki đâu. Nếu tôi chà đạp lên cảm xúc của cậu để ưu tiên cho lòng thù hận của bản thân, chẳng phải cậu sẽ căm ghét tôi sao?”
+“Nakajima, tôi chưa từng quên tình cảm chân thành cậu dành cho Kenzaki đâu. Nếu tôi chà đạp lên cảm xúc của cậu để ưu tiên cho lòng thù hận của bản thân, chẳng phải cậu sẽ căm ghét tôi suốt đời sao?”
 
-Là một Chú thuật sư, tôi không ngại bị kẻ thù căm ghét, nhưng bị đồng đội oán hận thì phiền phức lắm.
+Là một 『Chú thuật sư』, tôi không ngại bị kẻ thù căm ghét nguyền rủa, nhưng để đồng đội ngầm oán hận sau lưng thì phiền toái lắm.
 
-Thế nên, tôi sẽ tôn trọng cảm xúc của cậu nhiều nhất có thể. Không giống như ai kia đâu, Souma ạ.
+Thế nên, tôi sẽ tôn trọng cảm xúc của cậu nhiều nhất có thể. Không bao giờ hành xử độc đoán, vô tâm giống như ai kia đâu, Souma-kun ạ.
 
-“Chuyện đó, tình cảm của tôi thì có là gì...”
+“Chuyện đó... chút tình cảm cỏn con của tôi thì đáng giá gì chứ...”
 
-“Đến giờ phút này rồi thì chẳng có gì phải xấu hổ cả. Tôi muốn cậu hãy thành thật chia sẻ cảm xúc của mình. Dù cậu vẫn còn yêu Kenzaki, hay đã quyết định từ bỏ cô ta sau khi cô ta đi theo Kotori, tôi cũng sẽ không phủ nhận suy nghĩ của cậu.”
+“Đến giờ phút sinh tử này rồi thì chẳng có gì phải giấu giếm hay xấu hổ cả. Tôi muốn cậu hãy thành thật đối diện với cảm xúc sâu kín nhất của mình. Dù cậu vẫn còn yêu Kenzaki, hay đã quyết định từ bỏ sau khi chứng kiến cô ta mù quáng chạy theo Kotori, tôi cũng sẽ không bao giờ phủ nhận suy nghĩ của cậu.”
 
-“Tôi... Tôi vẫn còn yêu Kenzaki-san. Tôi muốn cứu cô ấy, và tuyệt đối không muốn cô ấy phải chết... Nhưng, cô ấy đã đi theo Kotori...”
+“Tôi... Tôi vẫn còn yêu Kenzaki-san rất nhiều. Tôi muốn cứu cô ấy, và tuyệt đối không muốn cô ấy phải chết... Nhưng, cô ấy đã tự nguyện đi theo Kotori mất rồi...”
 
-“Không sao đâu, Nakajima. Việc con đàn bà ngu ngốc đó đi theo Kotori không phải là chuyện cậu phải bận lòng. Điều quan trọng là cảm xúc của cậu kìa. Vì vậy, tôi hứa sẽ hành động theo đúng nguyện vọng của cậu.”
+“Không sao đâu, Nakajima. Việc người phụ nữ ngu ngốc đó bị Kotori thao túng dẫn dắt không phải là điều cậu cần tự trách. Điều quan trọng nhất chính là nguyện vọng của cậu kìa. Vì vậy, tôi hứa sẽ hành động theo đúng ý muốn của cậu.”
 
-“Cậu nói vậy tôi rất biết ơn, nhưng... Như thế thì Kenzaki-san rõ ràng đã trở thành kẻ thù của chúng ta rồi còn gì. Sức mạnh của một 『Song Kiếm Sĩ』 là thật sự đáng gờm. Muốn khống chế cô ấy mà không làm tổn hại đến tính mạng đâu phải chuyện dễ dàng.”
+“Cậu nói vậy tôi thật sự rất biết ơn, nhưng... Như thế thì Kenzaki-san rõ ràng đã trở thành kẻ thù cản đường chúng ta rồi còn gì. Sức mạnh của một 『Song Kiếm Sĩ』 thực sự vô cùng đáng gờm. Muốn khống chế cô ấy trong trận chiến mà không làm tổn hại đến tính mạng đâu phải chuyện dễ dàng.”
 
-Ra vậy, Nakajima cũng đã suy nghĩ đến những khía cạnh thực tế. Chính vì thế mà cậu ta mới trăn trở như vậy.
+Ra vậy, Nakajima cũng đã cân nhắc đến những khía cạnh thực tế đầy gai góc. Chính vì thế mà cậu ta mới trăn trở khôn nguôi như vậy.
 
-Nếu là Souma, dù việc đó có khó khăn đến đâu, cậu ta chắc chắn vẫn sẽ tin vào sức mạnh của bản thân và lao vào với một tinh thần lạc quan tát nước theo mưa. Dù rằng sự tự tin đó đã bị nghiền nát không thương tiếc trong buổi họp lớp cuối cùng rồi.
+Nếu là Souma, dù việc đó có bất khả thi đến đâu, cậu ta chắc chắn vẫn sẽ tự mãn dựa dẫm vào sức mạnh Dũng Giả của bản thân rồi lao vào với một tinh thần lạc quan tát nước theo mưa. Dù rằng sự tự tin ngây thơ đó đã bị nghiền nát không thương tiếc trong buổi họp lớp định mệnh rồi.
 
-Thật là, rõ ràng mọi chuyện đang dần đi vào quỹ đạo tốt đẹp, vậy mà con khốn Kotori lại lộ bản chất vào phút chót làm đảo lộn tất cả...
+Thật là, rõ ràng mọi kế hoạch đang dần đi vào quỹ đạo êm đẹp, vậy mà con khốn Kotori lại lộ bản chất độc ác vào phút chót làm đảo lộn tất cả...
 
-“Cậu cứ yên tâm đi. Dù không có chuyện của Kenzaki, chúng ta vẫn phải tìm cách cứu Souma-kun và Kinako an toàn. Một khi hai người đó đã rơi vào tay Kotori, không đời nào cô ta chỉ nhốt họ vào lồng sắt rồi để yên đâu. Chắc chắn cô ta sẽ dùng thuật tẩy não hoặc thôi miên để biến họ thành công cụ giết chúng ta.”
+“Cậu cứ yên tâm đi. Dù không có chuyện của Kenzaki, chúng ta vẫn phải tìm cách bắt sống và giải cứu Souma-kun cùng Kinako một cách an toàn. Một khi hai kẻ đó đã rơi vào tay Kotori, không đời nào cô ta chỉ nhốt họ vào lồng sắt rồi để yên. Chắc chắn cô ta sẽ dùng cấm thuật tẩy não hoặc thôi miên để biến họ thành công cụ giết chóc nhằm tiêu diệt chúng ta.”
 
-“Cậu đã có cách nào để ngăn chặn chuyện đó chưa, Momokawa?”
+“Cậu đã có đối sách nào để ngăn chặn chuyện đó chưa, Momokawa?”
 
-“Hiện tại thì chưa. Nhưng đó là lý do tôi đang chuẩn bị mọi thứ thế này đây. Vậy nên Nakajima, nếu cậu muốn cứu cả Kenzaki nữa, từ giờ hãy cố gắng hợp tác với tôi nhé.”
+“Hiện tại thì đang hoàn thiện. Nhưng đó là lý do tôi đang ngày đêm chuẩn bị mọi thứ thế này đây. Vậy nên Nakajima, nếu cậu muốn cứu cả Kenzaki nữa, từ giờ hãy dốc toàn lực hợp tác với tôi nhé.”
 
-“Ý cậu là, nếu cậu chuẩn bị được cách ngăn chặn Souma-kun, cậu cũng sẽ áp dụng cách đó để cứu Kenzaki-san chứ?”
+“Ý cậu là... nếu cậu hoàn thiện được cách vô hiệu hóa Souma-kun, cậu cũng sẽ áp dụng phương pháp đó để cứu sống Kenzaki-san ư?”
 
-“Nếu đó là điều cậu muốn, tôi xin hứa.”
+“Nếu đó là điều cậu khao khát, tôi xin lấy danh dự ra bảo đảm.”
 
-“Làm ơn, Momokawa! Xin cậu hãy cứu Kenzaki-san, đừng giết cô ấy!”
+“Làm ơn, Momokawa! Xin cậu hãy cứu lấy Kenzaki-san, làm ơn đừng giết cô ấy!”
 
-Cậu ta cúi đầu cầu xin tôi không một chút do dự.
+Cậu ta cúi rạp đầu cầu xin tôi không một chút do dự.
 
-Xem ra, cậu ta vẫn còn yêu Kenzaki sâu đậm lắm.
+Xem ra, ngọn lửa si tình trong lòng cậu ta dành cho Kenzaki vẫn còn nồng cháy lắm.
 
-Ừm, quả nhiên việc tôi đến nói chuyện với cậu ta vào lúc này là hoàn toàn chính xác. Nếu tôi cứ lờ đi và bỏ mặc nỗi bất an của Nakajima, rất có thể cậu ta sẽ phản bội tôi để chạy theo Kotori hòng có được Kenzaki.
+Ừm, quả nhiên việc tôi chủ động đến đàm đạo với cậu ta vào lúc này là hoàn toàn sáng suốt. Nếu tôi cứ lờ đi và bỏ mặc nỗi bất an âm ỉ của Nakajima, rất có thể cậu ta sẽ phản bội tập thể, chạy theo Kotori hòng đổi lấy sự an toàn cho Kenzaki.
 
-Nhưng giờ đây, khi tôi — thủ lĩnh hiện tại của lớp 2-7 — đã khẳng định sẽ cứu Kenzaki, cậu ta sẽ yên tâm mà đi theo tôi. Dù việc có cứu được cô ta thật hay không lại là chuyện khác, nhưng ít nhất cho đến thời điểm trận chiến diễn ra, cậu ta chỉ còn cách tin tưởng vào tôi mà thôi.
+Nhưng giờ đây, khi tôi — thủ lĩnh nắm giữ vận mệnh của Lớp 2-7 — đã cam kết sẽ cứu sống Kenzaki, cậu ta sẽ an tâm tuyệt đối mà cúc cung tận tụy dưới trướng tôi. Dù việc có cứu được ả ta trọn vẹn hay không lại là câu chuyện khác, nhưng ít nhất cho đến thời điểm trận chiến ngã ngũ, cậu ta chỉ còn cách đặt trọn niềm tin vào tôi mà thôi.
 
-“Tất nhiên rồi, Nakajima. Nếu quyết tâm của cậu đã vững vàng như vậy, tôi sẽ giúp cậu một tay———— Tôi hứa sẽ không giết Kenzaki.”
+“Tất nhiên rồi, Nakajima. Nếu quyết tâm của cậu đã kiên định như vậy, tôi nhất định sẽ giúp cậu một tay———— Tôi hứa sẽ không lấy mạng Kenzaki.”
 
-*Nhưng tôi đâu có hứa là sẽ để cô ta lành lặn trở về.*
+*Nhưng tôi đâu có hứa là sẽ để ả ta lành lặn nguyên vẹn trở về.*
 
-Mất đi một hai cái tay chân là chuyện đương nhiên, cậu cũng nên chuẩn bị tinh thần nhìn cô ta biến thành một con búp bê không chi đi là vừa. Còn về phần đầu óc, tôi cũng không dám đảm bảo cô ta có thể giữ được bao nhiêu phần tỉnh táo đâu.
+Mất đi một hai cánh tay hay đôi chân cũng là cái giá phải trả cho kẻ phản bội, cậu cũng nên chuẩn bị sẵn tinh thần nhìn ả ta biến thành một con búp bê tàn phế đi là vừa. Còn về phần trí não, tôi cũng chẳng dám đảm bảo ả ta có thể giữ được bao nhiêu phần tỉnh táo sau những thuật thức nguyền rủa đâu.
 
-“Cảm ơn cậu, Momokawa... Tôi thậm chí còn chưa kịp bày tỏ tình cảm của mình với cô ấy nữa...”
+“Cảm ơn cậu nhiều lắm, Momokawa... Tôi thậm chí còn chưa từng có cơ hội bày tỏ tình cảm thật của mình với cô ấy nữa...”
 
-“Này, Nakajima. Chỉ cần bày tỏ tình cảm thôi là cậu đã thỏa mãn rồi sao?”
+“Này, Nakajima. Chẳng lẽ chỉ cần nói ra được lời tỏ tình thôi là cậu đã cam lòng thỏa mãn rồi sao?”
 
-“Đương nhiên rồi. Tình cảm của tôi là một chuyện, còn việc Kenzaki-san có đáp lại hay không lại là chuyện khác.”
+“Đương nhiên rồi. Tình cảm của tôi là việc của tôi, còn chuyện Kenzaki-san có chấp nhận đáp lại hay không lại là quyền của cô ấy.”
 
-“Cậu nghiêm túc thật đấy. Tôn trọng cảm nhận của người con gái mình tỏ tình, một câu trả lời vô cùng thành thực———— Nhưng, cậu thực sự cam lòng như thế sao?”
+“Cậu đúng là một người đàn ông nghiêm túc đến đáng kinh ngạc đấy. Luôn đặt cảm xúc của người con gái mình yêu lên hàng đầu, một câu trả lời vô cùng cao thượng———— Nhưng, sâu thẳm trong lòng, cậu thực sự cam chịu kết cục đó sao?”
 
 “Hả...?”
 
-“Nếu như có một cách giúp cậu sở hữu được Kenzaki ngay cả khi cô ta từ chối cậu... cậu sẽ làm gì?”
+“Nếu như tồn tại một phương pháp giúp cậu hoàn toàn sở hữu được Kenzaki ngay cả khi ả ta tàn nhẫn cự tuyệt cậu... cậu sẽ làm gì?”
 
-“Cái... Chuyện đó, sao có thể cho phép được chứ! Như thế chẳng phải là tẩy não, hay cưỡng bức sao, đó đâu phải là những thủ đoạn đàng hoàng!?”
+“Cái... Chuyện đó, sao có thể chấp nhận được chứ! Như thế chẳng phải là dùng tà thuật tẩy não, hay cưỡng bức tâm trí người khác sao, đó đâu phải là hành vi quang minh chính đại!?”
 
-Thật là, nghe thấy thế mà lập tức thốt ra những lời như vậy, không biết Nakajima nghĩ tôi là loại người gì nữa.
+Thật là, vừa nghe gợi mở một chút mà đã giãy nảy thốt ra những lời đạo đức như vậy, không biết Nakajima đang đánh giá tôi là loại người nào nữa.
 
-Tôi là một 『Chú thuật sư』 đấy nhé? Đi theo con đường tà đạo, sử dụng những thủ đoạn bất chính mới chính là chính đạo của tôi, điều này đã được chính vị Thần tối cao chỉ dạy tận tay rồi———— Nhận định của cậu, thực sự rất chính xác đấy.
+Tôi là một 『Chú thuật sư』 đấy nhé? Dẫm đạp lên luân thường đạo lý, sử dụng những thủ đoạn hèn hạ tà độc nhất mới chính là chính đạo mà tôi theo đuổi, điều này đã được chính Chú thần tối cao chỉ dạy tận tay rồi———— Nhận định của cậu, thực sự chuẩn xác không trượt phát nào đấy.
 
-“Giả sử trong trận chiến sắp tới, nhờ sự nỗ lực của cậu mà mọi chuyện đều diễn ra suôn sẻ. Và cuối cùng, cậu đứng trước mặt Kenzaki để tỏ tình. Kết quả là————”
+“Giả sử trong trận quyết chiến sắp tới, nhờ sự nỗ lực tột cùng của cậu mà mọi việc đều diễn ra êm đẹp. Và cuối cùng, cậu đứng trước mặt Kenzaki để thổ lộ tâm can. Kết quả sẽ là gì nào————”
 
-“Xin lỗi Nakajima, tớ rất trân trọng tình cảm của cậu, nhưng tớ chỉ có Yuuto mà thôi. Tớ yêu Yuuto.”
+“Xin lỗi Nakajima, tớ rất trân trọng tình cảm của cậu, nhưng trong tim tớ chỉ có mỗi Yuuto mà thôi. Người tớ yêu duy nhất là Yuuto.”
 
-Rem, nãy giờ vẫn im lặng đứng sau lưng tôi, bất ngờ cất tiếng nói bằng giọng điệu giống hệt Kenzaki Asuna.
+Rem, nãy giờ vẫn im lìm đứng sau lưng tôi, bất ngờ cất tiếng nói bằng tông giọng trong trẻo, sắc lạnh giống hệt Kenzaki Asuna.
 
-Nếu thực sự nghiêm túc, Rem hoàn toàn có thể tái hiện lại ngoại hình và giọng nói của tôi. Việc giả giọng của Kenzaki, hay bất kỳ ai trong lớp, đối với cô bé thực ra chỉ là chuyện nhỏ.
+Một khi tập trung thi triển chú thuật, Rem hoàn toàn có thể sao chép hoàn hảo từ ngoại hình cho đến âm sắc của tôi. Việc giả giọng Kenzaki, hay bất kỳ thành viên nào trong lớp, đối với con rối của tôi thực chất chỉ là trò vặt vãnh.
 
 “Hự... aaaaaaaa!”
 
-Và đòn tấn công tinh thần này mang lại hiệu quả cực kỳ vượt trội đối với Nakajima.
+Và đòn công kích tâm lý tàn nhẫn này đã mang lại hiệu quả sát thương cực kỳ khủng khiếp đối với Nakajima.
 
-Kết cục bi thảm này, chắc chắn cậu ta đã tự mình tưởng tượng ra không biết bao nhiêu lần rồi. Đó gần như là một tương lai chắc chắn sẽ xảy ra. Chính vì muốn thay đổi nó mà cậu ta mới trăn trở, suy nghĩ đến nát óc, nhưng cuối cùng vẫn không tìm được chút tự tin hay bằng chứng nào cho thấy mình có thể khiến Kenzaki thay lòng đổi dạ.
+Viễn cảnh bi thảm này, chắc chắn trong những đêm mất ngủ cậu ta đã tự mình mường tượng ra không biết bao nhiêu lần. Đó gần như là một tương lai nghiệt ngã tất yếu sẽ xảy ra. Chính vì muốn thay đổi cái kết đau đớn đó mà cậu ta mới trăn trở, vắt kiệt tâm can suy nghĩ, nhưng rốt cuộc vẫn chẳng tìm thấy chút tự tin hay hy vọng nào le lói cho thấy mình có thể khiến Kenzaki thay lòng đổi dạ.
 
-Đòn này không thể không đau được. Càng yêu sâu đậm bao nhiêu, vết thương lòng chí mạng này càng rỉ máu bấy nhiêu.
+Nhát dao đâm thẳng vào tim này làm sao mà không đau đớn cho được. Càng si tình bao nhiêu, vết rách tâm can chí mạng này lại càng rỉ máu cay đắng bấy nhiêu.
 
-“Tôi không muốn nhìn thấy những nỗ lực và sự đau khổ của cậu từ trước đến nay bị đổ sông đổ bể như thế đâu.”
+“Tôi thật sự không đành lòng nhìn thấy bao nhiêu nỗ lực, mồ hôi và những giọt nước mắt đau khổ của cậu từ trước đến nay bị vứt bỏ như rác rưởi đâu.”
 
-“Ư... ư... Nhưng tôi... cảm xúc của Kenzaki-san...”
+“Ư... ư... Nhưng tôi... còn cảm xúc của Kenzaki-san...”
 
-“Cảm xúc của Kenzaki thì có gì quan trọng chứ?”
+“Cảm xúc của con đàn bà đó thì có giá trị gì chứ?”
 
 “...Hả?”
 
-“Cậu việc gì phải bận lòng dù chỉ một chút đến cảm xúc của một con đàn bà phản bội rác rưởi như thế. Nghe này Nakajima, một người đàn ông chân thành và nghiêm túc như cậu đã phải chịu bao nhiêu đau đớn vì cô ta———— Vậy thì, Kenzaki xứng đáng thuộc về cậu chứ?”
+“Cậu việc gì phải bận lòng, dù chỉ là một chút thương hại, đến cảm xúc của một kẻ phản bội đốn mạt như thế. Nghe này Nakajima, một người đàn ông chân thành, chung thủy và nghiêm túc như cậu đã phải chịu đựng biết bao dày vò đau đớn vì ả ta———— Vậy thì, Kenzaki hoàn toàn xứng đáng trở thành phần thưởng thuộc về cậu chứ?”
 
-“Mo... Momokawa... Cậu đang nói cái gì thế...”
+“Mo... Momokawa... Cậu đang nói những lời điên rồ gì thế...”
 
-“Thứ cần được tôn trọng không phải là cảm xúc của Kenzaki, mà là cảm xúc của cậu. Cậu định ngoan ngoãn nghe lời con khốn đó, để cô ta quay lại gia nhập vào cái dàn harem của Souma, rồi cậu tự thỏa mãn với điều đó sao? Nhìn cô ta không thể đến được với Souma-kun, nhưng cứ lảng vảng bên cạnh cậu ta trong một mối quan hệ mập mờ, cậu thực sự cam lòng nhìn cảnh đó à?”
+“Thứ duy nhất đáng được trân trọng lúc này không phải là cảm xúc của Kenzaki, mà chính là sự đền đáp cho cậu. Cậu định tiếp tục làm một kẻ nhu nhược ngoan ngoãn nghe lời ả ta, để ả quay lại bám víu vào cái dàn harem của Souma-kun, rồi cậu đứng từ xa mỉm cười tự thỏa mãn sao? Nhìn ả ta cả đời không bao giờ có được danh phận chính thức bên cạnh Souma-kun, nhưng cứ lượn lờ dây dưa trong một mối quan hệ mập mờ, cậu thực sự cam tâm đứng nhìn cảnh tượng chướng mắt đó à?”
 
-“Chuyện đó... Chuyện đó, làm sao tôi có thể thỏa mãn hay cam lòng được chứ!”
+“Chuyện đó... Chuyện nhục nhã đó, làm sao tôi có thể cam lòng hay chấp nhận được chứ!”
 
-“Đúng vậy, đúng vậy. Chính xác là như thế. Đằng nào thì Souma-kun cũng không bao giờ chọn một mình Kenzaki đâu. Sẽ chẳng bao giờ có một kết cục hạnh phúc trọn vẹn để cậu có thể cam tâm từ bỏ cả.”
+“Đúng vậy, đúng vậy. Chính xác là như thế đấy. Đằng nào thì Souma-kun cũng không bao giờ chọn riêng một mình Kenzaki đâu. Sẽ chẳng bao giờ có một cái kết viên mãn trọn vẹn để cậu có thể thanh thản buông tay cả.”
 
-Thế nên, tốt nhất là cứ biến Kenzaki thành sở hữu của Nakajima đi.
+Thế nên, phương án tối ưu nhất là biến Kenzaki thành vật sở hữu tuyệt đối của riêng Nakajima.
 
-Nói đúng hơn, tôi không bao giờ muốn để Kenzaki đến gần Souma thêm một lần nào nữa. Sức mạnh của một 『Song Kiếm Sĩ』. Sự yếu đuối trong tâm hồn luôn lộ ra vào những thời khắc quyết định. Và hành vi phản bội không thể tha thứ khi tự nguyện đi theo kẻ chủ mưu Kotori.
+Nói thẳng ra, tôi tuyệt đối không bao giờ để Kenzaki có cơ hội bén mảng lại gần Souma thêm một lần nào nữa. Uy lực cận chiến nguy hiểm của một 『Song Kiếm Sĩ』. Sự yếu đuối, dao động trong tâm lý luôn bộc phát vào những thời khắc then chốt. Và đỉnh điểm là hành vi phản trắc không thể dung thứ khi tự nguyện quy phục kẻ chủ mưu Kotori.
 
-Giữ một con đàn bà như thế bên cạnh thì làm sao mà yên ổn được.
+Dung túng cho một con đàn bà mang mầm mống phản nghịch như thế tồn tại bên cạnh thì làm sao tôi có thể kê cao gối ngủ.
 
-Đây là chuyện sau khi chúng tôi thoát khỏi Dungeon. Giả sử tất cả chúng tôi đều đến được vương quốc loài người mang tên Astoria một cách an toàn, thì tiếp theo sẽ thế nào?
+Hãy nghĩ đến tương lai sau khi chúng tôi thoát khỏi Dungeon ngột ngạt này. Giả sử toàn bộ lớp học đều đặt chân đến vương quốc loài người mang tên Astoria một cách an toàn, thì kịch bản tiếp theo sẽ là gì?
 
-Ở một vương quốc hòa bình, nếu Kenzaki quay lại dàn harem của Souma, con khốn đó chắc chắn sẽ âm mưu trả thù tôi.
+Ở một thế giới trần tục thanh bình, nếu Kenzaki quay lại vòng tay che chở của phe Souma, con khốn đó chắc chắn sẽ âm thầm vạch kế hoạch ám sát, trả thù tôi.
 
-Chẳng cần biết có lý do chính đáng hay không. Cô ta chỉ đơn giản nghĩ rằng mọi đau khổ mình phải gánh chịu đều do một tay Momokawa Kotarou này gây ra, nên cô ta sẽ tìm mọi cách để tiêu diệt tôi.
+Ả ta sẽ chẳng cần quan tâm đến lý lẽ hay công lý. Kenzaki sẽ chỉ đơn giản đổ hết mọi bi kịch, nhục nhã mà ả phải nếm trải lên đầu Momokawa Kotarou này, và tìm mọi cách trừ khử tôi cho bằng được.
 
-Ngay cả khi đã trốn thoát đến vương quốc Astoria, tôi tuyệt đối không muốn để một con khốn mang tư tưởng nguy hiểm như thế được tự do tự tại.
+Dù đã trốn thoát đến vương quốc Astoria, tôi cũng không bao giờ cho phép một mối hiểm họa khó lường như ả được tự do đi lại ngoài tầm kiểm soát.
 
-Thực ra, cách nhanh nhất là giết quách cô ta cùng với Kotori cho rảnh nợ... nhưng vì thể diện của Nakajima và Souma, trước mắt tôi vẫn sẽ để cô ta sống. Nếu cô ta có thể gặp tai nạn rồi chết một cách tự nhiên mà không liên quan đến tôi thì tốt quá.
+Thực lòng mà nói, giải pháp nhanh gọn nhất là chém đầu ả ta cùng lúc với Kotori cho sạch nợ... nhưng nể mặt mũi của Nakajima và để giữ thế cân bằng với Souma, trước mắt tôi vẫn sẽ chừa cho ả một con đường sống. Nếu ả ta chẳng may gặp tai nạn bất ngờ rồi bỏ mạng nơi chiến trường mà không dính líu đến tôi thì càng đỡ rắc rối.
 
-Dù sao thì, trong trường hợp Kenzaki mạng lớn sống sót đến cuối cùng, cách tốt nhất để phong ấn cô ta chính là Nakajima.
+Bằng không, trong trường hợp Kenzaki mạng lớn sống sót qua cuộc thanh trừng, xiềng xích phong ấn hoàn hảo nhất dành cho ả chính là Nakajima.
 
-“Tôi thật sự không thể chấp nhận được việc một người luôn trăn trở, đau khổ và hết lòng hợp tác chiến đấu cùng chúng tôi như cậu lại phải nhận một kết cục thất bại. Kenzaki nhất định phải thuộc về cậu.”
+“Tôi thật lòng không thể chấp nhận được việc một người luôn trăn trở, gánh vác đau thương và hết mình chiến đấu vì tập thể như cậu lại phải nhận lấy một kết cục cay đắng trắng tay. Kenzaki nhất định phải thuộc quyền sở hữu của cậu.”
 
-“Cậu đã nghĩ cho tôi đến mức đó sao... N-Nhưng, việc phản bội lại cảm xúc của chính Kenzaki-san thì...”
+“Cậu đã tính toán và nghĩ cho tôi đến mức này sao... N-Nhưng, hành vi cưỡng ép tước đoạt cảm xúc của Kenzaki-san thì...”
 
-“Nhân tiện, Nakajima này, cậu có biết cái vòng trên đầu Tôn Ngộ Không không?”
+“Nhân tiện, Nakajima này, cậu có biết chiếc vòng kim cô trên đầu Tôn Ngộ Không không?”
 
-“Hả? Cái gì, Tôn Ngộ Không á?”
+“Hả? Cái gì cơ, Tôn Ngộ Không á?”
 
-“Hay là cái vòng cổ phát nổ quen thuộc trong các bộ phim sinh tồn. Hoặc là vòng cổ nô lệ mà các elf hay đeo trong truyện giả tưởng dị giới ấy.”
+“Hay là chiếc vòng cổ gắn bom quen thuộc trong mấy bộ phim sinh tồn battle royale. Hoặc là loại vòng cổ phong ấn nô lệ mà tộc elf hay bị gông cùm trong mấy cuốn tiểu thuyết dị giới chẳng hạn.”
 
-“À, ừ, tôi có biết... Nhưng tự nhiên cậu nói chuyện đó làm gì?”
+“À, ừ, mấy thứ đó thì tôi biết... Nhưng đột nhiên cậu nhắc đến chuyện đó làm gì?”
 
-“Thực ra, gần đây tôi mới được Chú thần Ruinhilde ban cho một chú thuật mới.”
+“Thực ra, gần đây tôi vừa được Chú thần Ruinhilde khai mở và ban thưởng cho một hệ thống chú thuật hoàn toàn mới.”
 
 “V-Vậy sao.”
 
-“Nó là một chú thuật giúp cường hóa năng lực luyện thành có tên là 『Cấm Chú Giải Pháp』———— Cậu nghĩ sao nếu tôi có thể dùng nó để chế tạo ra một vật phẩm nguyền rủa có khả năng bắt người khác phải phục tùng?”
+“Đó là một bí thuật tăng cường khả năng luyện thành mang tên 『Cấm Chú Giải Pháp』———— Cậu nghĩ thế nào nếu tôi có thể vận dụng nó để chế tác ra một món ma đạo cụ nguyền rủa có năng lực bắt ép kẻ khác phải phục tùng vô điều kiện?”
 
 ***
 
-Sáng sớm hôm sau.
+Sáng sớm ngày hôm sau.
 
-“Momokawa, tôi sẽ làm! Cứ giao hết cho tôi!”
+“Momokawa, cứ để tôi làm! Cứ giao hết mọi việc cho tôi!”
 
-Tại xưởng chế tạo ở sảnh chính, tiếng hét tràn đầy nhiệt huyết của một “nhân viên” vang vọng khắp không gian.
+Tại xưởng chế tác ma đạo cụ ở sảnh chính Học Viện Tháp, tiếng hô dõng dạc, tràn đầy khí thế của một “công nhân” mẫn cán vang vọng khắp không gian.
 
-“Cảm ơn cậu nhé, Nakajima. Sáng sớm thế này đã làm phiền cậu rồi.”
+“Cảm ơn cậu nhiều nhé, Nakajima. Sáng sớm tinh mơ thế này đã bắt cậu phải vất vả rồi.”
 
-“Không có gì đâu, đó là lẽ đương nhiên mà. Momokawa đã đồng ý nghe theo yêu cầu ích kỷ của tôi, tôi sẽ không tiếc công sức giúp đỡ cậu.”
+“Không sao đâu, đó là bổn phận của tôi mà! Cậu đã rộng lượng chấp thuận yêu cầu ích kỷ của tôi, tôi nhất định sẽ dốc hết tâm sức phò tá cậu!”
 
-Nakajima tuyên bố với một ánh mắt kiên định và tràn đầy quyết tâm.
+Nakajima ưỡn ngực tuyên bố với ánh mắt rực lửa quyết tâm.
 
-Giờ làm việc chính thức của xưởng chế tạo là từ 8 giờ 30 phút sau khi ăn sáng xong, nhưng dạo này tôi không còn thói quen thức khuya nữa nên thường dậy khá sớm. Những lúc như vậy, việc vào xưởng làm việc là cách giết thời gian tốt nhất.
+Giờ vận hành chính thức của xưởng chế tác thường bắt đầu từ 8 giờ 30 phút sau bữa ăn sáng, nhưng dạo gần đây tôi đã bỏ thói quen thức khuya nên thường thức dậy từ rất sớm. Những lúc rảnh rỗi như thế này, chui vào xưởng mày mò nghiên cứu ma pháp là cách giết thời gian hữu hiệu nhất.
 
-Bình thường chỉ có một kẻ cuồng công việc như tôi mới có mặt ở đây từ sáng sớm, nhưng từ hôm nay đã có thêm Nakajima đồng hành.
+Bình thường chỉ có một kẻ nghiện công việc như tôi mới cặm cụi ở đây từ tờ mờ sáng, nhưng kể từ hôm nay đã có thêm một cánh tay đắc lực là Nakajima đồng hành.
 
-“Vậy thì, trước tiên phiền cậu phân giải đống vũ khí chất đống ở đằng kia nhé.”
+“Vậy thì, trước tiên phiền cậu dùng năng lực phân giải toàn bộ đống phế liệu vũ khí chất đống ở góc kia nhé.”
 
 “Rõ rồi!”
 
-Nhìn bóng lưng Nakajima hăm hở bắt tay vào công việc luyện thành, vẻ ủ rũ thường ngày của cậu ta đã hoàn toàn biến mất, thay vào đó là một luồng sinh khí mạnh mẽ.
+Nhìn theo bóng lưng Nakajima hăm hở lao vào công việc phân kim luyện khoáng, vẻ u sầu, ủ rũ thường ngày trên gương mặt cậu ta đã hoàn toàn biến mất, thay vào đó là một nguồn năng lượng sống hừng hực.
 
-Quả nhiên khi có động lực, con người ta sẽ thay đổi hoàn toàn nhỉ.
+Quả nhiên khi được bơm đúng động lực đen tối, tâm tính của một con người sẽ lập tức lột xác ngoạn mục nhỉ.
 
-*Cố lên nhé, Nakajima. Việc có biến Kenzaki Asuna thành nô lệ xác thịt dâm đãng được hay không đều phụ thuộc vào sự nỗ lực của cậu đấy!*
+*Cố lên nhé, Nakajima. Việc có biến được Kenzaki Asuna thành món đồ chơi nô lệ biết vâng lời hay không, tất cả đều trông cậy vào sự cần cù của cậu đấy!*
 
-“————Vì vậy, tôi cũng phải cố gắng hết sức vì Nakajima mới được. Rem, chuẩn bị xong chưa em?”
+“————Vì tương lai của Nakajima, bản thân tôi cũng phải nỗ lực hết mình mới được. Rem, em chuẩn bị xong xuôi chưa?”
 
 “O-kê.”
 
-Rem trả lời rồi nằm sấp xuống trước mặt tôi trong tình trạng không một mảnh vải che thân.
+Rem khẽ đáp một tiếng rồi ngoan ngoãn nằm sấp xuống bàn làm việc trước mặt tôi trong trạng thái hoàn toàn trút bỏ xiêm y.
 
-Tôi thề là mình không có ý định làm chuyện gì đồi bại với cô bé đâu.
+Tôi xin lấy danh dự thề là mình tuyệt đối không có bất kỳ mưu đồ đồi bại nào với cơ thể của cô bé đâu.
 
-Dù rằng, việc tôi sắp làm đây có khi còn vượt qua cả mức đồi bại và tiến thẳng vào ranh giới của sự phi nhân đạo.
+Dù rằng, thí nghiệm ma thuật mà tôi sắp sửa tiến hành đây có khi còn vượt xa cả khái niệm đồi bại, bước thẳng vào ranh giới của sự tàn bạo phi nhân tính.
 
-“Em đã tắt cảm giác đau chưa?”
+“Em đã ngắt hoàn toàn thụ cảm đau đớn chưa?”
 
-“Không sao đâu. Không đau đâu ạ.”
+“Không sao đâu ạ. Rem không đau đâu.”
 
 “Được rồi, vậy tôi bắt đầu đây———— 『Xích Phát Phược』.”
 
-Từ lòng bàn tay phải của tôi, những sợi tóc xúc tu đỏ thẫm đẫm chất độc axit vươn ra.
+Từ lòng bàn tay phải của tôi, những sợi tóc đỏ thẫm đẫm dịch độc axit ăn mòn bắt đầu vươn dài ra như những xúc tua ma quái.
 
-Đầu của những sợi tóc đỏ lướt nhẹ trên tấm lưng trắng ngần của Rem. Tiếng xèo xèo ghê rợn vang lên khi làn da non nớt bị thiêu cháy một cách tàn nhẫn.
+Đầu ngọn của những sợi tóc đỏ sắc lẹm lướt nhẹ trên tấm lưng trắng ngần không tì vết của Rem. Tiếng xèo xèo ghê rợn lập tức vang lên khi từng mảng da thịt nhân tạo bị thiêu đốt, cháy sém một cách tàn nhẫn.
 
-Tiếng động lớn đến mức Nakajima, người đang tập trung làm việc ở phía xa, cũng phải ngẩng đầu lên nhìn.
+Âm thanh bỏng rát chói tai đến mức Nakajima, người đang cặm cụi đập búa ở góc xa, cũng phải giật mình ngẩng đầu lên nhìn.
 
-Thế nhưng, lúc này tôi không có thời gian để giải thích cho cậu ta, tôi phải tập trung toàn bộ tinh thần để khắc họa lên lưng của Rem.
+Thế nhưng, lúc này tôi không còn tâm trí đâu để giải thích dông dài cho cậu ta, tôi phải dồn 100% sự tập trung cao độ để khắc họa trận đồ ma thuật lên lưng Rem.
 
-Đây là lần đầu tiên tôi thử nghiệm kỹ thuật này. Nhưng tôi tin chắc mình sẽ thành công. Thần Ruinhilde ban cho tôi 『Cấm Chú Giải Pháp』 chắc chắn là để tôi sử dụng kỹ năng này.
+Đây là lần đầu tiên tôi tiến hành thực nghiệm kỹ thuật này. Nhưng tôi có linh cảm chắc chắn mình sẽ thành công mỹ mãn. Việc Thần Ruinhilde truyền thụ 『Cấm Chú Giải Pháp』 cho tôi chính là để tôi hiện thực hóa loại cấm thuật này.
 
 “... 『Hắc Huyết Mạch』.”
 
-Trong lúc dùng những sợi tóc đỏ làm bút vẽ để khắc dấu vết cháy sém lên lưng Rem, tôi dùng bàn tay trái còn trống để nhỏ những giọt máu từ 『Hắc Huyết Mạch』 xuống.
+Trong lúc dùng những sợi tóc đỏ rực làm ngòi bút để vạch từng đường nét cháy đen ăn sâu vào da thịt Rem, tôi dùng bàn tay trái còn lại cẩn thận nhỏ từng giọt máu hắc ám từ 『Hắc Huyết Mạch』 xuống các rãnh khắc.
 
-Vì chưa biết liều lượng chính xác nên tôi nhỏ hơi nhiều một chút.
+Vì chưa nắm rõ liều lượng tối ưu nên tôi lỡ tay nhỏ hơi đậm đặc một chút.
 
-Máu phản ứng với chất axit cực mạnh của Xích Phát Phược, tạo ra những làn khói màu đỏ cam bốc lên nghi ngút, kích thích cánh mũi. Tôi khẽ nhíu mày trước thứ mùi hôi thối khó tả pha lẫn mùi máu và mùi khói khét lẹt, nhưng mắt vẫn không rời khỏi công việc.
+Dòng máu hắc ám lập tức phản ứng dữ dội với axit cực mạnh của Xích Phát Phược, tạo nên những làn khói đặc quánh màu cam đỏ bốc lên nghi ngút, xộc thẳng vào cánh mũi. Tôi khẽ nhíu mày trước thứ mùi hôi thối nồng nặc pha lẫn giữa vị tanh tưởi của huyết dịch và mùi khét lẹt của da thịt cháy, nhưng ánh mắt vẫn không rời khỏi bề mặt trận đồ dù chỉ nửa khắc.
 
-Cứ như thế, thời gian trôi qua chắc chưa đầy 30 phút. Tuy nhiên, việc làm tổn thương tấm lưng xinh đẹp của Rem đã ngốn của tôi một lượng tinh thần lực khổng lồ. Cuối cùng, mọi việc cũng hoàn tất.
+Cứ như thế, thời gian cặm cụi tỉ mỉ trôi qua chừng 30 phút. Việc phải khắc từng nét hoa văn nguyền rủa phức tạp lên tấm lưng mỏng manh của Rem đã tiêu tốn của tôi một lượng tinh thần lực khổng lồ. Cuối cùng, công đoạn khắc ấn cũng hoàn tất.
 
 “Xong rồi... Chú Đạo Khắc Ấn: 『Mãnh Thú』.”
 
-\`『Chú Đạo Khắc Ấn』: Kỹ thuật khắc ấn bằng cách khắc lên cơ thể những dấu vết nguyền rủa để ban cho đối phương sức mạnh của chú thuật. Từ những lời nguyền hộ mệnh nhỏ nhặt hàng ngày cho đến những đại cấm chú bị phong ấn, tất cả đều sẽ trở thành sức mạnh của người được khắc. Tuy nhiên, xin chớ quên rằng thứ được khắc lên đó chỉ là những vết sẹo, những lời thề ước, và cũng chỉ là một lời nguyền mà thôi.\`
+\`『Chú Đạo Khắc Ấn』: Kỹ thuật bí truyền vận dụng tà thuật khắc sâu những ấn ký nguyền rủa vĩnh viễn lên cơ thể sống để ban cấp năng lực gia trì của chú thuật. Từ những lời nguyền hộ mệnh vi mô thường nhật cho đến các đại cấm chú bị niêm phong ngàn năm, tất cả đều sẽ chuyển hóa thành nguồn sức mạnh nội tại cho vật chủ mang ấn. Tuy nhiên, xin hãy luôn khắc cốt ghi tâm rằng thứ được khắc lên da thịt vĩnh viễn chỉ là những vết sẹo rỉ máu, những giao ước ma quỷ, và bản chất của nó vĩnh viễn chỉ là một lời nguyền tàn độc.\`
 
-\`『Mãnh Thú』: Chú ấn tượng trưng cho loài mãnh thú hung tợn. Ban cho người nhận sức mạnh cơ bắp mạnh mẽ để áp đảo kẻ thù, tốc độ di chuyển nhanh nhạy để săn đuổi con mồi, và sự tàn bạo để xé xác đối phương bằng móng vuốt và răng nanh sắc nhọn. Kẻ nhận được ân huệ này tuyệt đối không được quên bản thân mình là con người.\`
+\`『Mãnh Thú』: Chú ấn đại diện cho bản năng săn mồi hung hãn của loài dã thú. Ban cấp cho kẻ mang ấn sức mạnh cơ bắp cuồng bạo để nghiền nát kẻ thù, tốc độ bộc phát kinh hoàng để truy đuổi con mồi, và sự tàn bạo hoang dã để phanh thây đối phương bằng nanh vuốt. Kẻ đón nhận ân huệ nguyền rủa này tuyệt đối không được để thú tính làm lu mờ bản ngã con người.\`
 
-Đoạn mô tả đi kèm với lời cảnh báo đầy nghiêm trọng vang vọng trong tâm trí tôi.
+Đoạn văn tự cảnh báo ma thuật với tông giọng u ám vang vọng sâu trong tâm trí tôi.
 
-\`『Chú Đạo Khắc Ấn』\`, hay còn gọi tắt là \`『Chú Ấn』\`, là một dạng ma pháp phụ trợ thuộc \`『Khắc Ấn Thuật』\` mà tôi có thể sử dụng sau khi học được \`『Cấm Chú Giải Pháp』\`.
+\`『Chú Đạo Khắc Ấn』\`, hay còn được gọi vắn tắt là \`『Chú Ấn』\`, là một nhánh ma pháp phụ trợ cấp cao thuộc hệ thống \`『Khắc Ấn Thuật』\` mà tôi vừa mở khóa sau khi lĩnh ngộ \`『Cấm Chú Giải Pháp』\`.
 
-Và một trong những chú ấn mà tôi có thể khắc lúc này chính là \`『Mãnh Thú』\`.
+Và một trong những loại chú ấn hoàn chỉnh đầu tiên mà tôi có thể tự tay khắc họa lúc này chính là \`『Mãnh Thú』\`.
 
-Lấy hình ảnh hàm răng sắc nhọn của một loài thú ăn thịt làm trung tâm, tôi bố trí các thuật thức học được từ tộc Goma thành một vòng tròn xung quanh nó.
+Lấy biểu tượng hàm răng sắc nhọn ngoác rộng của loài thú săn mồi làm trung tâm hạch tâm, tôi bố trí các ký tự thuật thức cổ ngữ học lỏm từ tộc Goma kết thành một vòng tròn phong tỏa xung quanh.
 
-Đúng như mô tả, hiệu quả của chú ấn này là tăng cường sức mạnh vật lý và tốc độ một cách đơn giản. Còn về việc sự hung tợn của loài thú ảnh hưởng thế nào đến tinh thần của người nhận thì phải qua thực chiến mới kiểm chứng được.
+Đúng như mô tả chi tiết của kỹ năng, hiệu năng cốt lõi của chú ấn này là gia tăng toàn diện chỉ số sức mạnh vật lý và tốc độ di chuyển thuần túy. Còn việc bản tính khát máu hoang dã của loài thú sẽ tác động tiêu cực đến tâm lý người mang ấn ra sao thì chỉ có thể đưa vào thực chiến mới kiểm chứng chính xác được.
 
-Dù sao thì, điều quan trọng lúc này là kiểm tra xem việc khắc chú ấn có thực sự mang lại hiệu quả tăng cường chỉ số hay không, và mức độ hiệu quả của nó là bao nhiêu.
+Dù sao đi nữa, nhiệm vụ tối quan trọng lúc này là kiểm tra xem kỹ thuật khắc chú ấn có thực sự kích hoạt hiệu ứng tăng cường chỉ số hay không, và biên độ cường hóa cụ thể đạt được là bao nhiêu phần trăm.
 
-“Rem, em không sao chứ?”
+“Rem, em thấy trong người thế nào, ổn chứ?”
 
-“Em không sao.”
+“Rem không sao ạ.”
 
-Cô bé trả lời rồi đứng phắt dậy với những động tác vô cùng nhanh nhẹn, hoàn toàn không có vẻ gì là đang phải chịu đựng cơn đau ở lưng.
+Cô bé đáp lời rồi lập tức chống tay đứng phắt dậy với những cử động vô cùng thanh thoát, nhẹ nhàng, hoàn toàn không hề có biểu hiện gì là đang phải chịu đựng cơn đau rát từ vết bỏng sau lưng.
 
-Ối chà, cơ thể trần truồng đáng yêu lộ ra hết rồi kìa. Tôi nhanh chóng lấy chiếc áo choàng đã chuẩn bị sẵn bên cạnh khoác lên người cô bé, thế là xong việc thay đồ.
+Ấy chà, thân hình trần trụi lộ hết cả ra rồi. Tôi nhanh chóng với lấy chiếc áo choàng ma pháp đã để sẵn bên cạnh khoác lên người cô bé, thế là hoàn tất khâu mặc trang phục.
 
-Tiếp theo, tôi sẽ cho Rem tiến hành đo đạc sức mạnh cơ bắp và tốc độ chạy.
+Bước tiếp theo, tôi sẽ đưa Rem vào phòng đo đạc để tiến hành kiểm tra chi tiết các chỉ số sức mạnh cơ bắp và tốc độ phản xạ.
 
-Các chỉ số cơ bản của Rem khi chưa được cường hóa đã được tôi ghi chép lại đầy đủ từ trước. Dù mang hình dáng của một bé gái yếu ớt, nhưng thể chất của cô bé thực chất vẫn vượt trội hơn hẳn so với một người đàn ông trưởng thành bình thường.
+Các thông số thể chất cơ bản của Rem khi ở trạng thái thông thường đều đã được tôi ghi chép tỉ mỉ vào sổ tay từ trước. Dù khoác lên mình hình hài của một bé gái mảnh khảnh, nhưng bản chất là một ma đạo nhân hình khiến năng lực thể chất của cô bé vẫn vượt trội hơn hẳn một người đàn ông trưởng thành được trui rèn.
 
-“Giờ thì, để xem kỹ thuật khắc ấn của tôi mang lại hiệu quả đến mức nào nào...”
+“Giờ thì, để xem kỹ thuật khắc ấn đầu tay của mình mang lại uy lực đột phá đến mức nào...”
 
-Kết quả này sẽ quyết định xem Khắc Ấn Thuật của tôi có thể trở thành một thần chú giúp cường hóa sức mạnh cho cả lớp, hay chỉ là một thứ chú thuật phế phẩm với chỉ số tăng thêm ít ỏi.
+Kết quả kiểm tra này sẽ đưa ra câu trả lời dứt khoát: Liệu Khắc Ấn Thuật của tôi sẽ trở thành một phép bổ trợ thần thánh giúp cường hóa sức mạnh cho toàn bộ thành viên trong lớp, hay nó chỉ là một thứ chú thuật phế phẩm với lượng chỉ số cộng thêm chẳng bõ dính răng.
 
-Liệu hiệu quả thực sự của nó sẽ ra sao đây————`
+Liệu uy lực thực sự ẩn giấu bên trong nó sẽ khủng khiếp đến nhường nào đây————`
             },
             {
                 "id": "ep_340",
@@ -61901,7 +61907,7 @@ Ban đầu, tôi từ từ kéo dài những sợi tóc đen để hạ người
 
 Mới chỉ đi xuống được khoảng mười mấy mét, cơ thể tôi đã bị những luồng gió dữ dội thổi bay đung đưa như một con lắc, rồi bắt đầu xoay tròn không kiểm soát. Ở một nơi lộng gió thế này mà chỉ treo mình bằng một sợi dây thừng làm từ tóc đen thì chuyện này xảy ra cũng là lẽ đương nhiên.
 
-Không ổn rồi, dù tôi là đứa có khả năng kháng say xe lẫn say 3D cực tốt, nhưng với cái đà này thì hệ thống tiền đình của tôi cũng sớm muộn gì cũng đi tong mất. Khốn kiếp, đã vậy thì thà liều mạng lao xuống thật nhanh còn hơn!
+Không ổn rồi, dù tôi là đứa có khả năng kháng say xe lẫn say 3D cực tốt, nhưng với cái đà này thì hệ thống tiền đình của tôi sớm muộn gì cũng đi tong mất. Khốn kiếp, đã vậy thì thà liều mạng lao xuống thật nhanh còn hơn!
 
 “Bay lên nào!”
 
@@ -61925,7 +61931,7 @@ Mùi tử khí thoang thoảng bốc lên khiến tôi không muốn cũng phả
 
 Nơi tôi vừa đáp xuống chính là pháo đài tạm thời ở Đông Môn do chính tay Kyouko xây dựng, hiện tại vẫn đang sừng sững đứng vững.
 
-Phải, đây chính là nơi mà bốn tên Gira-GoGame Mastera, bao gồm cả Zagan, đã từng tập hợp.
+Phải, đây chính là nơi mà bốn tên Đại Chiến Sĩ Gira-Goma, bao gồm cả Zagan, đã từng tập hợp.
 
 “Đợi đấy nhé, Bandon, Jiji-Gogo, Gizaginzu. Ta sẽ thu gom xác của tất cả các ngươi lại, rồi cho các ngươi hội ngộ dưới trướng của bệ hạ Oh-ma.”
 
@@ -61935,9 +61941,9 @@ Chú cú Rem đội trưởng đang dùng cặp chân to khỏe của mình qu�
 
 Bản thân cây gậy thì hỏng có thể thay thế dễ dàng, nhưng chiếc đầu lâu kia lại là món hàng độc nhất vô nhị vô cùng quý giá. Tôi chẳng dại gì mà ôm theo nó khi thực hiện cái thử thách nhảy vực đầy rủi ro này cả.
 
-Chính vì lẽ đó, tôi chỉ mang theo bên mình những món đồ có mất cũng không tiếc, còn toàn bộ trang bị quan trạng khác thì nhờ lũ chim Rem biết bay vận chuyển xuống sau.
+Chính vì lẽ đó, tôi chỉ mang theo bên mình những món đồ có mất cũng không tiếc, còn toàn bộ trang bị quan trọng khác thì nhờ lũ chim Rem biết bay vận chuyển xuống sau.
 
-Nhiệm vụ lần này là tìm kiếm xác của lũ Gira-GoGame Mastera dưới đống đổ nát, những kẻ chắc chắn đã co rút lại kích thước ban đầu sau khi chết. Một mình tôi thì làm sao mà lục tung cái đống này lên được.
+Nhiệm vụ lần này là tìm kiếm xác của lũ Gira-Goma dưới đống đổ nát, những kẻ chắc chắn đã co rút lại kích thước ban đầu sau khi chết. Một mình tôi thì làm sao mà lục tung cái đống này lên được.
 
 Muốn tìm đồ hiệu quả thì cứ phải dùng đến nhân hải chiến thuật thôi.
 
@@ -62007,7 +62013,7 @@ Ngay tại đài phun nước ở trung tâm, bức tượng yêu tinh đang t�
 
 *Xèèèèèè!*
 
-Tiếng thịt da bị thiêu đốt cháy khét lẹt cùng mùi khét lẹt lập tức xộc thẳng vào mũi tôi.
+Tiếng thịt da bị thiêu đốt cháy khét lẹt lập tức xộc thẳng vào mũi tôi.
 
 Ngay trong khoảnh khắc tiếp theo, khi tầm nhìn của tôi bị lóa mắt bởi một luồng sáng chói lòa, mọi thứ đột ngột tối sầm lại.
 
@@ -62065,7 +62071,7 @@ Một tia laser với sức công phá vô cùng khủng khiếp.
 
 Nếu phải hứng chịu một đòn tấn công như thế, thì cả phân thân yếu ớt chẳng khác nào người thường của tôi lẫn Alpha—kẻ chỉ được bảo vệ bởi một lớp vảy mỏng—chắc chắn sẽ bị quét sạch trong vòng một nốt nhạc.
 
-But có lẽ vẫn còn may mắn là bức tượng yêu tinh đó không hề bắn về phía tôi—kẻ đang đứng ngoài rìa quảng trường chứng kiến toàn bộ sự việc—và bản thân bức tượng cũng không hề cử động để lao đến tấn công.
+Thế nhưng có lẽ vẫn còn may mắn là bức tượng yêu tinh đó không hề bắn về phía tôi—kẻ đang đứng ngoài rìa quảng trường chứng kiến toàn bộ sự việc—và bản thân bức tượng cũng không hề cử động để lao đến tấn công.
 
 “Hóa ra bức tượng đá đó... lại là một trụ súng tự động (turret) sao...?”
 
@@ -62115,13 +62121,13 @@ Thứ này có khi thuộc dạng thực thể bất khả chiến bại, hoặc
 
 “Thứ duy nhất có khả năng chống đỡ được đòn này có lẽ là 『Thánh Thiên Kết Giới』 của Sakura-chan, nhưng mà...”
 
-Tôi dĩ nhiên là không có ý định thử nghiệm kiểu đánh cược năm ăn năm thua này rồi. Bởi vì nếu thất bại, Sakura sẽ bị bốc hơi ngay lập tức.
+Tôi dĩ nhiên là không có ý định thử nghiệm kiểu đánh cược năm ăn năm thua này rồi. Bởi vì nếu thất bại, Sakura-chan sẽ bị bốc hơi ngay lập tức.
 
-Tuyệt đối không được để cho một nhân vật không thể thay thế phải gánh chịu rủi ro mất mạng (permadeath), đó chính là nguyên tắc sắt đá trong các trò chơi chiến thuật mô phỏng.
+Tuyệt đối không được để cho một nhân vật không thể thay thế phải gánh chịu rủi ro mất mạng vĩnh viễn (permadeath), đó chính là nguyên tắc sắt đá trong các trò chơi chiến thuật mô phỏng.
 
 “Ừm... Xem ra việc đột phá nơi này bằng phương pháp chính quy là điều bất khả thi rồi...”
 
-Độ khó của nó đã vượt xa cái tầm có thể giải quyết bằng việc nâng cấp trang bị rồi. Nếu bị cái tia sáng yêu tinh này bắn trúng trực diện, thì dù có là Tendou, Mei hay thậm chí là Liberta đi chăng nữa thì cũng chẳng có ai chịu đựng nổi đâu.
+Độ khó của nó đã vượt xa cái tầm có thể giải quyết bằng việc nâng cấp trang bị rồi. Nếu bị cái tia sáng yêu tinh này bắn trúng trực diện, thì dù có là Tendou, Mei-chan hay thậm chí là Liberta đi chăng nữa thì cũng chẳng có ai chịu đựng nổi đâu.
 
 Tốt nhất là nên chấp nhận rằng đây là loại cơ chế (gimmick) mà chúng tôi tuyệt đối không được phép đối đầu trực diện.
 
@@ -62159,7 +62165,7 @@ Vừa mới bước chân vào đã phải đụng ngay cái cơ chế rác rư�
 
 Mei vừa thì thầm những lời an ủi dịu dàng với nụ cười hiền từ như thánh mẫu, vừa nhẹ nhàng xoa đầu tôi.
 
-Được gối đầu lên cặp đùi trắng ngần, căng tràn sức sống của cô ấy, gáy tôi được tận hưởng một cảm giác vô cùng êm ái. Chỉ cần ngước mắt lên, bầu ngực đẫm đà, vĩ đại của Mei đã đập ngay vào mắt ở cự ly cực gần.
+Được gối đầu lên cặp đùi trắng ngần, căng tràn sức sống của cô ấy, gáy tôi được tận hưởng một cảm giác vô cùng êm ái. Chỉ cần ngước mắt lên, khuôn ngực đầy đặn, căng tràn của Mei đã đập ngay vào mắt ở cự ly cực gần.
 
 Tư thế này khiến tôi ngỡ như mình đang ở trên thiên đường vậy... Thế nhưng, dù đang được Mei dỗ dành ngọt ngào như thế, sắc mặt tôi vẫn chẳng khá lên nổi.
 
@@ -62201,7 +62207,7 @@ Tượng Yêu Tinh quá mạnh. Tôi hoàn toàn không tìm ra bất kỳ phư�
 
 Việc giải cứu Souma cũng gian nan không kém.
 
-Phía chúng tôi phải chuẩn bị cho tình huống xấu nhất: chàng Dũng Giả bị tẩy não sẽ dốc toàn lực để lấy mạng cả lũ. Mà đâu chỉ có mỗi cậu ta, còn có cả Linh thú Kinako, và tiện thể là cả con mụ lẳng lơ Asuna nữa chứ.
+Phía chúng tôi phải chuẩn bị cho tình huống xấu nhất: chàng Dũng Giả bị tẩy não sẽ dốc toàn lực để lấy mạng cả lũ. Mà đâu chỉ có mỗi cậu ta, còn có cả Linh thú Kinako, và tiện thể là cả con ả lẳng lơ Asuna nữa chứ.
 
 Mỗi kẻ trong số họ khi đứng riêng lẻ đã vô cùng đáng sợ rồi, nếu họ lập tổ đội rồi đồng loạt lao vào tấn công thì chúng tôi tuyệt đối không thể cản nổi.
 
@@ -62213,7 +62219,7 @@ Dù mức độ và ảnh hưởng của việc tẩy não ra sao, việc giải
 
 Thế nhưng, muốn vậy thì trước hết phải giữ họ trong trạng thái vô lực và liên tục giam cầm. Chúng tôi cần một loại dụng cụ giam giữ vạn năng, nhưng trước đó, thứ tối quan trọng là trang bị để khống chế họ khi họ đang điên cuồng chống trả.
 
-Không lẽ lại dùng kế hoạch đập mạnh vào đầu từng đứa để bắt chúng ngất đi? Việc dùng vũ khí cùn gõ vào đầu là xỉu ngay chỉ có trong mấy cái game săn quái vật mà thôi.
+Không lẽ lại dùng kế hoạch đập mạnh vào đầu từng đứa để bắt chúng ngất đi? Việc dùng vũ khí cùn gõ vào đầu là xỉu ngay chỉ có trong mấy trò chơi săn quái vật mà thôi.
 
 “Hảàà... Mei-chan ơi, tớ mệt mỏi quá rồi...”
 
@@ -62229,9 +62235,9 @@ Nhìn tôi đang tận hưởng giấc ngủ trưa xa xỉ trên đùi Mei, Hime
 
 Suy cho cùng, tôi rơi vào tình trạng thảm hại này là do mọi chuyện đều đi vào ngõ cụt. Đã thế, ma pháp khắc ấn mà tôi dồn hết tâm huyết vào lại thất bại thảm hại, khiến tôi hoàn toàn mất sạch nhuệ khí, chỉ biết nằm lăn ra đất. Đúng lúc đó thì Mei xuất hiện.
 
-Nhìn tôi nằm vật ra như một cái xác không hồn với gương mặt thẫn thờ — giống hệt như một game thủ cày cuốc ròng rã rớt được món đồ cực hiếm trong game hack-and-slash nhưng lại để mất sạch vì một lỗi sơ đẳng rồi chết lãng xẹt — cô ấy đã lặng lẽ cho tôi gối đầu lên đùi. Cách hành xử của cô ấy quả thực chẳng khác nào một vị nữ thần.
+Nhìn tôi nằm vật ra như một cái xác không hồn với gương mặt thẫn thờ — giống hệt như một game thủ cày cuốc ròng rã rớt được món đồ cực hiếm trong game cày cuốc nhưng lại để mất sạch vì một lỗi sơ đẳng rồi chết lãng xẹt — cô ấy đã lặng lẽ cho tôi gối đầu lên đùi. Cách hành xử của cô ấy quả thực chẳng khác nào một vị thánh nữ.
 
-Khác hẳn với con điếm thối tha Elysion nào đó, đây mới là nữ thần đích thực. Mei chắc chắn là hiện thân của nữ thần đất mẹ, vị thần cai quản sự trù phú.
+Khác hẳn với con mụ thối tha Elysion nào đó, đây mới là nữ thần đích thực. Mei chắc chắn là hiện thân của nữ thần đất mẹ, vị thần cai quản sự trù phú.
 
 “Vậy tớ chợp mắt một lát nhé... Chúc ngủ ngon...”
 
@@ -62283,7 +62289,7 @@ Nếu có ý tưởng nào hay ho thì tôi luôn sẵn sàng tiếp thu. Hoặc
 
 “Tao không biết thứ này có ích gì không, nhưng cứ để đây cho mày.”
 
-Cậu ta vung tay một cái, ma pháp trận hoàng kim của 『Kho Báu』 mở ra, và một thứ trông như nguyên liệu ma vật đổ ập xuống đất.
+Cậu ta vung tay một cái, ma pháp trận hoàng kim của 『Kho Báu Hoàng Kim』 mở ra, và một thứ trông như nguyên liệu ma vật đổ ập xuống đất.
 
 To thật đấy. Mà gọi là nguyên liệu ma vật thì không đúng lắm, cái này rõ ràng là nguyên một con ma vật còn nguyên vẹn mà.
 
@@ -62301,7 +62307,7 @@ Chiều dài từ đầu mũi đến chóp đuôi ước chừng khoảng 20 mé
 
 “Là do Momoko tự tiện thu hồi đấy.”
 
-Hóa ra mấy việc vặt vãnh như thu nhặt nguyên liệu đều giao hết cho hầu gái à, đúng là phong thái của đức vua có khác.
+Hóa ra mấy việc vặt vãnh như thu nhặt nguyên liệu đều giao hết cho hầu gái à, đúng là phong thái của bậc đế vương có khác.
 
 Nhưng mà làm tốt lắm, Momoko. Đây quả là một nguyên liệu ma vật rất đáng để nghiên cứu. Quả không hổ danh là "em gái" của ta.
 
@@ -62325,9 +62331,9 @@ Nói xong, cậu ta lạnh lùng quay lưng đi như muốn bảo "phần còn l
 
 ***
 
-Ngước nhìn lên trần nhà của tầng sâu nhất đang phản chiếu bầu trời xanh trong vắt, Rerite tựa lưng vào gốc cây lớn rồi ngồi bệt xuống đất.
+Ngước nhìn lên vòm trần của tầng sâu nhất đang phản chiếu bầu trời xanh trong vắt, Rerite tựa lưng vào gốc cây lớn rồi ngồi bệt xuống đất.
 
-Vẻ mặt của cậu ta lúc này trông chẳng khác nào một game thủ vừa làm mất món trang bị siêu hiếm trong game hack-and-slash do một tai nạn ngớ ngẩn.
+Vẻ mặt của cậu ta lúc này trông chẳng khác nào một game thủ vừa làm mất món trang bị siêu hiếm trong game cày cuốc do một tai nạn ngớ ngẩn.
 
 “Hảààà...”
 
@@ -62345,7 +62351,7 @@ Thay vào đó, chỉ có ánh mắt nghiêm khắc cùng những lời trách m
 
 Beniwo vừa ngoáy tít đuôi vừa đuổi theo khúc xương ngon lành mà Minami vừa ném đi. Bị cuốn theo bầu không khí đó, Koyuki và Aoi cũng chạy nhảy tung tăng khắp nơi.
 
-Hoàn toàn ngó lơ ông chủ đang rầu rĩ của mình, cả ba đứa chơi đùa vô cùng vui vẻ.
+Hoàn toàn ngó lơ người chủ đang rầu rĩ của mình, cả ba đứa chơi đùa vô cùng vui vẻ.
 
 “Randou-san, tớ nghĩ cứ để Hayama-kun nghỉ ngơi một lát cũng được mà.”
 
@@ -62367,9 +62373,9 @@ Nhìn Rerite bắt đầu sụt sùi, Kyouko chỉ biết thở dài ngán ngẩ
 
 “Khốn kiếp, nhục nhã quá... Thật là nhục nhã mà... Rõ ràng mình mới là 『Tinh Linh Thuật Sư』...”
 
-Tại một góc rừng nơi số lượng ma vật đã giảm đi đáng kể sau nhiều ngày săn bắn liên tục. Một tổ đội gồm năm người: Rerite, Kyouko, Ryouko, Minami và Sakura đã tìm đến đây.
+Tại một góc rừng nơi số lượng ma vật đã giảm đi đáng kể sau nhiều ngày săn bắn liên tục, một tổ đội gồm năm người: Rerite, Kyouko, Ryouko, Minami và Sakura đã tìm đến đây.
 
-Lực lượng chủ chốt là nhóm ma pháp sư gồm Rerite và những người khác, còn Minami đi theo chủ yếu để làm hộ vệ phòng hờ. Khả năng dò tìm của 『Đạo Tặc』 thuộc hàng tốt nhất nhóm, cộng thêm sự hỗ trợ từ Rem chim và các triệu hoán thú, họ gần như không phải lo lắng về việc bị phục kích.
+Lực lượng chủ chốt là nhóm ma pháp sư gồm Rerite và những người khác, còn Minami đi theo chủ yếu để làm hộ vệ phòng hờ. Khả năng do thám của 『Đạo Tặc』 thuộc hàng tốt nhất nhóm, cộng thêm sự hỗ trợ từ Rem dạng chim và các triệu hoán thú, họ gần như không phải lo lắng về việc bị phục kích.
 
 Sau khi đã đảm bảo an toàn, nhóm ma pháp sư tập hợp lại để tiến hành đặc huấn.
 
@@ -62395,7 +62401,7 @@ Thế nhưng, thứ hoàn toàn không chịu bất kỳ ảnh hưởng nào t�
 
 Dù không rõ nguyên lý ma pháp nào đang vận hành đằng sau chuyện này, nhưng có một sự thật hiển nhiên là: 『Thần Thánh Ngôn Ngữ』 vô tác dụng đối với tinh linh. Chỉ riêng điều đó thôi đã mở ra khả năng biến tinh linh thành quân bài tẩy để phá vỡ lớp phòng ngự bất khả xâm phạm của Takanashi.
 
-Kẻ chủ mưu đứng sau tất cả, kẻ đã phản bội cả lớp ngay từ đầu với tư cách là sứ giả của Nữ thần Elysion. Con mụ Takanashi Kotori đó, bằng mọi giá phải bị tiêu diệt. Và phương án khả thi nhất để thực hiện điều đó chính là ma pháp tinh linh.
+Kẻ chủ mưu đứng sau tất cả, kẻ đã phản bội cả lớp ngay từ đầu với tư cách là sứ giả của Nữ thần Elysion. Con ả Takanashi Kotori đó, bằng mọi giá phải bị tiêu diệt. Và phương án khả thi nhất để thực hiện điều đó chính là ma pháp tinh linh.
 
 Để đánh bại Takanashi, nhóm Rerite đã bắt đầu buổi đặc huấn ma pháp tinh linh.
 
@@ -62417,7 +62423,7 @@ Ryouko vừa đọc thần chú vừa giơ cao cây gậy phép, một ma pháp 
 
 Trồi lên từ đó là một con Golem với cơ thể hoàn toàn bằng băng giá.
 
-Thân hình tròn trịa như một chiếc thùng phuy cùng đôi chân ngắn ngủn. Hai cánh tay to và dài, tỏa ra sức mạnh cơ bắp cùng luồng hàn khí thấu xương. Mỗi khi các khớp nối cơ khí của nó chuyển động phát ra những tiếng cọt kẹt, những mảnh băng vụn lại bắn ra tung tóe. Dù chuyển động có phần chậm chạp, nhưng con Golem băng quả thực đã bắt đầu di chuyển theo ý muốn của Ryouko.
+Thân hình tròn trịa như một chiếc thùng phuy cùng đôi chân ngắn ngủn. Hai cánh tay to và dài, tỏa ra sức mạnh cơ bắp cùng luồng hàn khí thấu xương. Mỗi khi các khớp nối chuyển động phát ra những tiếng cọt kẹt, những mảnh băng vụn lại bắn ra tung tóe. Dù chuyển động có phần chậm chạp, nhưng con Golem băng quả thực đã bắt đầu di chuyển theo ý muốn của Ryouko.
 
 “— Hãy đến đây, 『Bạch Tật Phong』.”
 
@@ -62477,7 +62483,7 @@ Chuyện xảy ra vào đêm ngày hôm đó.
 
 Để chuẩn bị cho chiến dịch bắt sống Dũng Giả Souma mà bản thân đã ấp ủ bấy lâu, tôi quyết định triệu tập một cuộc họp cơ mật với sự góp mặt của ba vị "chuyên gia / nhân sĩ uyên bác": Sakura, Lớp trưởng Ryouko và Tendou.
 
-Sở dĩ tôi chỉ đích danh ba người này là bởi vì: Chỉ cần nhận được sự đồng thuận của họ thì toàn bộ những người còn lại sẽ chẳng có ai dám hé răng phản đối, và trong quá trình thực thi kế hoạch tác chiến này, sự phối hợp của cả ba người bọn họ là nhân tố then chốt sống còn không thể thiếu!
+Sở dĩ tôi chỉ đích danh ba người này là bởi vì: Chỉ cần nhận được sự đồng thuận từ họ thì toàn bộ những người còn lại sẽ chẳng có ai dám hé răng phản đối, và trong quá trình thực thi kế hoạch tác chiến này, sự phối hợp của cả ba người bọn họ chính là nhân tố then chốt sống còn không thể thiếu!
 
 “——Và toàn bộ kế hoạch là như vậy đấy, mọi người thấy thế nào?”
 
@@ -62549,7 +62555,7 @@ Bởi vậy, cô ta chắc chắn 100% sẽ dựng sẵn những biện pháp ng
 
 “Bộ mày nghĩ những trò mày làm từ trước đến giờ là quang minh chính đại lắm chắc?”
 
-“Tendou-kun à, người xưa có câu: **Tấn công tâm lý là đòn cơ bản nhất!**”
+“Tendou-kun à, người xưa có câu: *Tấn công tâm lý là đòn cơ bản nhất!*”
 
 Chuẩn không cần chỉnh! Dẫu đối phương có mạnh mẽ vô địch đến nhường nào, chừng nào họ vẫn còn là con người thì cảm xúc là thứ tuyệt đối không bao giờ có thể tách rời. Mấy cái thể loại nhân vật ngoài mặt lạnh lùng vô cảm tuyên bố "ta đã vứt bỏ cảm xúc" chung quy lại cũng chỉ là màn dạo đầu để sau này thức tỉnh cảm xúc mà thôi.
 
@@ -62587,7 +62593,7 @@ Dẫu hình dạng ấu nữ của Rem đã quá đỗi quen thuộc với nhóm
 
 Sau khi đảo mắt nhìn đi nhìn lại giữa tôi và bé Rem, Sakura liền phóng về phía tôi một ánh nhìn khinh bỉ tột cùng cùng một câu hỏi vô cùng xúc phạm!
 
-“Cô dám cả gan chụp cái mũ ấu dâm (lolicon / pedo) lên đầu một thằng đàn ông chân chính như tôi đấy à hả!?”
+“Cô dám cả gan chụp cái mũ lolicon lên đầu một thằng đàn ông chân chính như tôi đấy à hả!?”
 
 Thật là một sự sỉ nhục không thể nào dung thứ! Dưới sự tôi luyện của Mei và Kyouko, đẳng cấp đam mê ngực bự của tôi đã đạt tới cảnh giới thượng thừa vượt xa người phàm rồi, làm sao có thể để cô ta bôi nhọ danh dự như thế được!
 
@@ -62683,7 +62689,7 @@ Thực lòng tôi muốn giữ bé Rem ở bên cạnh mình mãi cơ, nhưng v�
 
 Dẫu kiêu kỳ đến đâu thì đứng trước một đứa trẻ nhỏ nhắn đáng yêu, Sakura cũng không nỡ lòng xua đuổi tàn nhẫn. Dẫu biết rõ đây là sứ ma của tôi, nhưng nhìn thấy bàn tay nhỏ nhắn của cô bé tóc bạc mắt đỏ chìa ra, cô nàng liền do dự một chút rồi nắm lấy.
 
-Quả nhiên: **DỄ THƯƠNG CHÍNH LÀ CÔNG LÝ TỐI THƯỢNG!**
+Quả nhiên: *Dễ thương chính là công lý tối thượng!*
 
 “Vậy thì... Rem trông cậy hết vào cô nhé Sakura-chan!”
 
@@ -62699,7 +62705,7 @@ Vừa ngáp dài một cái đầy mệt mỏi, Sakura liền cất bước ti�
 
 Nơi đây vốn dĩ chỉ là một phòng tắm vòi sen thô sơ rộng lớn, thế nhưng kể từ khi Kotarou đặt chân tới, bằng tài năng tháo vát của mình, cậu ta đã nhanh chóng cải tạo nó thành một bồn tắm lớn tuyệt đẹp. Dẫu có vòi sen nhưng vẫn bắt buộc phải dựng bồn tắm ngâm mình bằng được — phong cách làm việc đậm chất người Nhật Bản ấy khiến Sakura cũng phải thầm nể phục trong lòng.
 
-Bước chân vào căn phòng tắm giờ đây đã biến thành một khu nhà tắm công cộng sang trọng, Sakura vừa đưa tay cởi cúc áo đồng phục thủy thủ (sailor) ra——thì bất chợt khựng lại!
+Bước chân vào căn phòng tắm giờ đây đã biến thành một khu nhà tắm công cộng sang trọng, Sakura vừa đưa tay cởi cúc áo đồng phục thủy thủ ra——thì bất chợt khựng lại!
 
 “...”
 
@@ -62751,13 +62757,13 @@ Phơi bày thân hình thiếu nữ thon thả kiều diễm tuyệt trần trư
 
 Nắm lấy bàn tay nhỏ nhắn của bé Rem dắt vào bồn tắm nước nóng, khung cảnh hai người trông chẳng khác nào một cặp chị em ruột thịt vô cùng gắn bó thân thiết.
 
-“Rem này, từ nay về sau em hãy gọi tôi là Chị gái (Neesan) nhé!”
+“Rem này, từ nay về sau em hãy gọi tôi là Chị gái nhé!”
 
 “Không được đâu ạ.”
 
 “...Ủ-Ủa? Tại sao lại không được hả em?”
 
-“Chủ nhân đã ra lệnh cho Rem rằng: **Tuyệt đối không được phép dùng bất kỳ kính ngữ xưng hô bề trên nào đối với Sakura!**”
+“Chủ nhân đã ra lệnh cho Rem rằng: *Tuyệt đối không được phép dùng bất kỳ kính ngữ xưng hô bề trên nào đối với Sakura!*”
 
 “MOMOKAWA ĐỒ KHỐNNNNNNNNNNNNNNNNNNNNNNNNN!!”`
             },
@@ -62769,9 +62775,9 @@ Nắm lấy bàn tay nhỏ nhắn của bé Rem dắt vào bồn tắm nước n
 
 “Hầy...”
 
-Rerite vừa thở dài thườn thượt, vừa ủ rũ buông thõng hai vai, lững thững bước đi trên hành lang của pháo đài.
+Rerite vừa thở dài thườn thượt, vừa ủ rũ buông thõng hai vai, lững thững bước đi trên hành lang pháo đài.
 
-Buổi huấn luyện triệu hoán tinh linh hôm nay của cậu vẫn chẳng đi đến đâu. Có lẽ do tâm lý nôn nóng nên cậu vô tình dồn quá nhiều sức, dẫn đến thất bại chồng chất thất bại. Đã vậy, ma lực còn cạn kiệt từ sớm, khiến cậu buộc phải quay về nghỉ ngơi khi trời vẫn còn chưa tắt nắng.
+Buổi huấn luyện triệu hoán tinh linh hôm nay của cậu vẫn chẳng đi đến đâu. Có lẽ do tâm lý nôn nóng nên cậu vô tình dồn quá nhiều sức, dẫn đến thất bại nối tiếp thất bại. Đã vậy, ma lực còn cạn kiệt từ sớm, khiến cậu buộc phải quay về nghỉ ngơi khi trời vẫn chưa tắt nắng.
 
 Koyuki và Aoi — hai đứa nhóc đang tuổi ăn tuổi chơi, nghịch ngợm vô cùng — cùng với Beniwo, chú chó đang thừa mứa năng lượng vì không được đi săn, đều đã được cậu gửi gắm cho Minami. Nếu đi cùng cô ấy, chắc chắn chúng sẽ được chạy nhảy thỏa thích khắp khu rừng cho đến khi mặt trời lặn.
 
@@ -62803,9 +62809,9 @@ Cảm giác bất lực này làm cậu nhớ lại những ngày đầu mới �
 
 Vội vàng quay lại nhìn, cậu thấy Momokawa Kotarou đang đứng đó.
 
-Vẫn là bộ đồng phục học sinh quen thuộc, nhưng Kotarou lúc này lại nở một nụ cười đầy ẩn ý, toát ra một bầu không khí khác hẳn ngày thường. Bình thường, cậu ta luôn mang lại cảm giác giống như một chú mèo kiêu hãnh, ngang nhiên ngự trị trên đùi người khác như thể muốn tuyên bố “đây là lãnh địa của ta”.
+Vẫn là bộ đồng phục học sinh quen thuộc, nhưng Kotarou lúc này lại nở một nụ cười đầy ẩn ý, toát ra bầu không khí khác hẳn ngày thường. Bình thường, cậu ta luôn mang lại cảm giác giống như một chú mèo kiêu hãnh, ngang nhiên ngự trị trên đùi người khác như thể muốn tuyên bố “đây là lãnh địa của ta”.
 
-Thế nhưng Momokawa của ngày hôm nay lại sở hữu một đôi mắt ma mị, ánh lên vẻ tò mò tàn nhẫn như một con mèo đang vờn mồi.
+Thế nhưng Momokawa của ngày hôm nay lại sở hữu đôi mắt ma mị, ánh lên vẻ tò mò tàn nhẫn như một con mèo đang vờn mồi.
 
 “Cậu làm gì ở một nơi thế này vậy?”
 
@@ -62841,7 +62847,7 @@ Khoảng cách gần đến mức hai bờ vai chạm vào nhau. Do chênh lệc
 
 Ngoại hình phi giới tính cùng đôi mắt mèo lấp lánh thứ ánh sáng ma mị ấy khiến cậu suýt chút nữa quên mất rằng cả hai đều là nam giới.
 
-*Bình tĩnh lại nào, rốt cuộc mình đang nghĩ cái gì thế này...* — Như thể đi guốc trong bụng Rerite đang cố giữ vẻ điềm tĩnh, “Kotarou” nở một nụ cười tinh nghịch rồi tung thêm đòn bồi quyết định.
+*Bình tĩnh lại nào, rốt cuộc mình đang nghĩ cái gì thế này...* — Như thể đi guốc trong bụng Rerite đang cố giữ vẻ điềm tĩnh, “Kotarou” nở nụ cười tinh nghịch rồi tung thêm đòn bồi quyết định.
 
 “Hayama-kun, tớ cho cậu gối đầu lên đùi nhé?”
 
@@ -62927,6 +62933,8 @@ Có vẻ như đã chạy thục mạng đến đây nên Momoko thở hổn h�
 
 “Đồ ngốc! Kẻ đó chính là Momoko này đấyyyyy!”
 
+***
+
 “—Em không nhịn nổi nữa rồi, bản gốc!”
 
 Momoko đang vô cùng phẫn nộ.
@@ -62939,19 +62947,19 @@ Dù được sự cho phép của chủ nhân Tendou Ryuuichi, nhưng dạo gầ
 
 “Thật là, Chủ nhân cũng vậy, suốt ngày chỉ chăm chăm lo cho cái tên kính cận lập dị kia... Phải quan tâm đến Momoko nhiều hơn chứ!”
 
-Dù trong lòng không ngừng gào thét và oán trách như vậy—nhưng đột nhiên, một nụ cười hắc ám thoáng hiện trên gương mặt Momoko.
+Dù trong lòng không ngừng gào thét và oán trách như vậy — nhưng đột nhiên, một nụ cười hắc ám thoáng hiện trên gương mặt Momoko.
 
 “Khà khà, tên bản gốc đáng ghét kia, giờ là lúc ngươi phải trả giá.”
 
 Dưới tầm mắt của Momoko lúc này là bản thể của Momokawa Kotarou, người đang nằm ngủ say sưa một cách không phòng bị trên chiếc sofa mà cô mang vào.
 
-Mới vài ngày trước, bé gái Rem vẫn còn ở đây để cùng cô thu thập thông tin, nhưng hiện tại cô bé đã nhận nhiệm vụ mới và đang đi cùng Souma Sakura. Nói cách cách khác, trong phòng chỉ huy lúc này chỉ có hai người là Momoko và Kotarou.
+Mới vài ngày trước, bé gái Rem vẫn còn ở đây để cùng cô thu thập thông tin, nhưng hiện tại cô bé đã nhận nhiệm vụ mới và đang đi cùng Souma Sakura. Nói cách khác, trong phòng chỉ huy lúc này chỉ có hai người là Momoko và Kotarou.
 
 “Thuật phục vụ phái Momoko: Tức thời thay phục sức!”
 
 Cùng với một tư thế tạo dáng kỳ lạ, Momoko nhẹ nhàng xoay người, tà váy hầu gái dài tung bay giữa không trung.
 
-Khi đáp xuống đất, trang phục của Momoko đã thay đổi từ váy hầu gái sang bộ đồng phục nam sinh của Học viện Hakurei.
+Khi đáp xuống đất, trang phục của Momoko đã thay đổi từ váy hầu gái sang bộ đồng phục nam sinh của Học viện Tư lập Hakurei.
 
 Trong khi đó, Kotarou vẫn đang ngủ say sưa thì đã bị cô lén thay cho bộ váy hầu gái cổ điển giống hệt như của Momoko lúc trước.
 
@@ -62973,6 +62981,8 @@ Nàng hầu gái phản phúc vừa trêu đùa cậu chàng Rerite ngây thơ x
 
 Cô vừa đi vừa nhún nhảy đầy vui vẻ hướng đến địa điểm tiếp theo.
 
+***
+
 “Hộc... Mệt quá... Mãi mà không xong...”
 
 Tại sảnh xưởng chế tạo, nơi vang lên những tiếng than vãn như của một vong hồn, Himeno Airi đang phải gồng mình vận hành cùng lúc bốn trận pháp luyện thành liên tục.
@@ -62985,7 +62995,7 @@ Bản thể vẫn đang ngủ say, và phân thân số hai của Kotarou ở tr
 
 “Himeno-san.”
 
-“Á, cuối cùng cậu cũng dậy rồi hả Momokawa-kun. Mau quay lại làm việc đi—ơ kìa, vẫn đang ngủ cơ mà? Ủa, cái gì thế, bản thể đấy à?”
+“Á, cuối cùng cậu cũng dậy rồi hả Momokawa-kun. Mau quay lại làm việc đi — ơ kìa, vẫn đang ngủ cơ mà? Ủa, cái gì thế, bản thể đấy à?”
 
 “Là bản thể đây.”
 
@@ -63009,7 +63019,7 @@ Thấy “Kotarou” khoanh tay ra dáng bề trên phán một câu như vậy,
 
 “Không phải ngại. Cứ nghỉ bù cho những ngày vất vả vừa qua đi.”
 
-Như để bày tỏ sự thông cảm trước sự kinh ngạc của Himeno, “Kotarou” gật gù cái đầu đầy vẻ trịnh trọng. Thế nhưng, thay vì bắt bẻ thái độ đó của cậu ta, cô nàng lại nở một nụ cười rạng rỡ và đáp lại:
+Như để bày tỏ sự thông cảm trước sự kinh ngạc của Himeno, “Kotarou” gật gù cái đầu đầy vẻ trịnh trọng. Thế nhưng, thay vì bắt bẻ thái độ đó của cậu ta, cô nàng lại nở nụ cười rạng rỡ và đáp lại:
 
 “Cảm ơn cậu nhé Momokawa-kun! Thế tôi về phòng đây, chào nhé, bye bye!”
 
@@ -63019,9 +63029,11 @@ Bỏ mặc đống súng ống đang bị tháo dỡ dở dang trên trận phá
 
 Rời khỏi xưởng chế tạo nơi chỉ còn lại phân thân bất động, Momoko tiếp tục cuộc hành trình của mình. Bước chân cô không chút do dự, có vẻ như địa điểm tiếp theo đã được định sẵn từ trước.
 
+***
+
 “Giờ này chắc là vừa tầm rồi.”
 
-Nếu là ngày thường thì tầm này cô cũng đang chuẩn bị xuống bếp. Đây là khoảng thời gian bếp trưởng bắt đầu chuẩn bị cho bữa tối—nói cách khác, mục tiêu tiếp theo của Momoko chính là Mei.
+Nếu là ngày thường thì tầm này cô cũng đang chuẩn bị xuống bếp. Đây là khoảng thời gian bếp trưởng bắt đầu chuẩn bị cho bữa tối — nói cách khác, mục tiêu tiếp theo của Momoko chính là Mei.
 
 Ghé mắt nhìn vào căn bếp quen thuộc, cô lập tức nhận ra bóng lưng với vóc dáng chuẩn không cần chỉnh của Mei.
 
@@ -63043,11 +63055,11 @@ Gương mặt vùi sâu vào khuôn ngực đẫm đà bậc nhất kia, nếu l
 
 Vừa nói, cô vừa cố tình rúc sâu vào khe ngực mênh mông ấy, rồi dùng cả hai tay bóp mạnh. Khối lượng khổng lồ tràn ra cả kẽ tay, cô không ngừng nhào nặn sự đàn hồi đầy mê hoặc vượt quá sức tưởng tượng đó.
 
-Hành vi này đã vượt xa giới hạn của quấy rối tình dục thông thường. Thế nhưng, đối phương lại là một cuồng chiến binh trung thành tuyệt đối, sẵn sàng dâng hiến cả mạng sống của mình lẫn người khác vì Kotarou. Mặt khác, Momoko cũng thừa biết rằng Kotarou luôn tự kiềm chế bản thân để không bao giờ vượt quá giới hạn với Mei... Cô nắm rõ mối quan hệ của hai người họ như lòng bàn tay.
+Hành vi này đã vượt xa giới hạn của quấy rối thông thường. Thế nhưng, đối phương lại là một cuồng chiến binh trung thành tuyệt đối, sẵn sàng dâng hiến cả mạng sống của mình lẫn người khác vì Kotarou. Mặt khác, Momoko cũng thừa biết rằng Kotarou luôn tự kiềm chế bản thân để không bao giờ vượt quá giới hạn với Mei... Cô nắm rõ mối quan hệ của hai người họ như lòng bàn tay.
 
 Chính vì vậy, cô mới cả gan thực hiện đòn quấy rối trực diện này. Chỉ cần làm đến mức này, chắc chắn hai người họ sẽ vượt qua ranh giới và không thể cứu vãn được nữa.
 
-*Bếp trưởng à, chúc hai người hạnh phúc nhé. Bản gốc cũng nên đáp lại tấm chân tình của con gái nhà người ta đi chứ. Ôi, Momoko quả là một bà mai tuyệt vời mà,* cô vừa tự đắc biện hộ cho hành động của mình, vừa nở một nụ cười ngọt ngào ngước lên nhìn Mei từ khe ngực.
+*Bếp trưởng à, chúc hai người hạnh phúc nhé. Bản gốc cũng nên đáp lại tấm chân tình của con gái nhà người ta đi chứ. Ôi, Momoko quả là một bà mai tuyệt vời mà,* cô vừa tự đắc biện hộ cho hành động của mình, vừa nở nụ cười ngọt ngào ngước lên nhìn Mei từ khe ngực.
 
 “Ừm, tớ cũng thích Momoko-chan lắm.”
 
@@ -63071,7 +63083,7 @@ Trước câu trả lời thản nhiên của Mei, Momoko bỗng rùng mình ớ
 
 Momoko tặc lưỡi đầy khiêu khích khi thấy Kotarou lao vào nhà bếp với gương mặt bừng bừng sát khí.
 
-Kotarou xù lông lên như một con mèo hoang đang tranh giành lãnh thổ, lao thẳng về phía Momoko với tư thế như muốn ăn tươi nuốt sống cô ta, nhưng—
+Kotarou xù lông lên như một con mèo hoang đang tranh giành lãnh thổ, lao thẳng về phía Momoko với tư thế như muốn ăn tươi nuốt sống cô ả, nhưng—
 
 “Oa a a! Kotarou-kun, đáng yêu quá!!”
 
@@ -63081,13 +63093,13 @@ Cậu lập tức bị Meiko tóm chặt. Cô nàng đang phấn khích tột đ
 
 “Oa... ôi chao...”
 
-Meiko ôm ghì lấy Kotarou vào lòng với vẻ mặt đầy mơ màng, hệt như một cô bé đang ôm chặt lấy con thú nhồi bông yêu thích của mình. Kotarou cố gắng vùng vẫy phản kháng một cách yếu ớt, nhưng rồi cũng sớm lịm đi như thể đang chìm nghỉm giữa khuôn ngực căng đầy của cô.
+Meiko ôm ghì lấy Kotarou vào lòng với vẻ mặt đầy mơ màng, hệt như một cô bé đang ôm chặt lấy con thú nhồi bông yêu thích của mình. Kotarou cố gắng vùng vẫy phản kháng một cách yếu ớt, nhưng rồi cũng sớm lịm đi như thể đang chìm nghỉm giữa khuôn ngực căng tràn đẫy đà của cô.
 
 “...Mei-chan, bây giờ tớ đang bận một chút, chuyện này để sau đi.”
 
 “Hì hì, xin lỗi nhé. Tớ lỡ tay.”
 
-Một lúc sau, Kotarou ngoi đầu ra khỏi khe ngực của Meiko với gương mặt như vừa ngộ ra chân lý cuộc đời. Cậu nhẹ nhàng đẩy cô ra để cuối cùng cũng được giải thoát.
+Một lúc sau, Kotarou ngoi đầu ra khỏi khe ngực của Meiko với gương mặt như vừa ngộ ra chân lý cuộc đời. Cậu nhẹ nhàng gỡ tay cô ra để cuối cùng cũng được giải thoát.
 
 Sau đó, cậu quay sang đối mặt với Momoko một lần nữa.
 
@@ -63107,23 +63119,23 @@ Sau đó, cậu quay sang đối mặt với Momoko một lần nữa.
 
 “Đó là quả báo thích đáng cho kẻ thú tính như bản gốc đấy —— 『Hắc Ảnh Nhẫn』!”
 
-Từ hai bàn tay dang rộng của Kotarou và từ dưới gấu váy dài xòe rộng của Momoko, vô số xúc tu dệt bằng tóc đen và những lưỡi đao bóng tối sắc lẹm đồng loạt phóng ra, lao vào quấn lấy và chém đứt nhau chan chát.
+Từ hai bàn tay dang rộng của Kotarou và từ dưới gấu váy dài xòe rộng của Momoko, vô số xúc tu dệt bằng tóc đen cùng những lưỡi đao bóng tối sắc lẹm đồng loạt phóng ra, lao vào quấn lấy và chém đứt nhau chan chát.
 
 “Thôi nào hai cậu, không được cãi nhau đâu đấy.”
 
-Dù mở miệng can ngăn, nhưng gương mặt Meiko lại tràn ngập nụ cười rạng rỡ như thể đang xem hai anh em nhỏ đùa nghịch, khiến lời nói của cô hoàn toàn bị ngó lơ.
+Dù mở miệng can ngăn, nhưng gương mặt Meiko lại tràn ngập nụ cười rạng rỡ như thể đang xem hai đứa trẻ đùa nghịch, khiến lời nói của cô hoàn toàn bị ngó lơ.
 
 “Ta sẽ treo ngươi lên tháp cho đến khi biết khóc lóc hối lỗi mới thôi —— Phi Đao Phái Momokawa Áo Nghĩa 『Yamata no Orochi』!”
 
 “Mối liên kết giữa Chủ nhân và Momoko này không ai có thể chia cắt được đâu —— 『Điệu Nhảy Khâu Bóng』!”
 
-Số lượng xúc tu tóc đen của Kotarou tăng lên thành tám sợi, đầu mỗi sợi được buộc một viên quang thạch các thuộc tính to bằng nắm tay. Cậu vung vẩy cả tám sợi tóc như những chiếc xích chuỳ bay lượn vun vút, nhưng nhờ khả năng kiểm soát cực kỳ chuẩn xác, chúng không hề bị rối vào nhau mà liên tục lao về phía Momoko.
+Số lượng xúc tu tóc đen của Kotarou tăng lên thành tám sợi, đầu mỗi sợi buộc một viên quang thạch các thuộc tính to bằng nắm tay. Cậu vung vẩy cả tám sợi tóc như những chiếc xích chùy bay lượn vun vút, nhưng nhờ khả năng kiểm soát cực kỳ chuẩn xác, chúng không hề bị rối vào nhau mà liên tục bổ nhào về phía Momoko.
 
-Tám quỹ đạo chuyển động rực rỡ sắc màu nhờ ánh sáng của các viên quang thạch. Thực chất chúng chỉ phát sáng cho đẹp chứ chẳng hề kích hoạt ma pháp thuộc tính nào cả.
+Tám quỹ đạo chuyển động rực rỡ sắc màu nhờ ánh sáng phát ra từ các viên quang thạch. Thực chất chúng chỉ phát sáng cho đẹp mắt chứ chẳng hề kích hoạt ma pháp thuộc tính nào cả.
 
 Momoko xoay người né tránh và chém đứt các xúc tu như một vũ công ba lê đang biểu diễn.
 
-Mấy động tác tạo dáng đó chẳng có ý nghĩa gì thực tế, và cô ta cũng chẳng cần phải xoay người thì mới kịp đỡ đòn. Tất cả chỉ là để làm cho dáng vẻ của Momoko trông thật lộng lẫy và hoa mỹ. Cô ta chỉ muốn người ngoài nhìn vào phải trầm trồ trước kỹ nghệ tuyệt mỹ của mình mà thôi.
+Mấy động tác tạo dáng đó chẳng có ý nghĩa thực tế nào, và cô ả cũng chẳng cần phải xoay người thì mới kịp đỡ đòn. Tất cả chỉ nhằm làm cho dáng vẻ của Momoko trông thật lộng lẫy và hoa mỹ. Cô ta chỉ muốn người ngoài nhìn vào phải trầm trồ trước kỹ nghệ tuyệt mỹ của mình mà thôi.
 
 Giữa lúc màn phô diễn kỹ năng vô thưởng vô phạt đó vẫn đang tiếp diễn—
 
@@ -63147,19 +63159,19 @@ Rem, người đi cùng Sakura, chăm chú nhìn bóng dáng chủ nhân mặc �
 
 “Tại sao mũi dùi lại đột ngột chĩa về phía tôi thế này!?”
 
-Dù đang giữa trận chiến, hai anh em nhà Momokawa vẫn lập tức đồng lòng phối hợp khích bác đối phương. Sự ăn ý này quả là đáng kinh ngạc, cứ như thể thần giao cách cảm của những cặp song sinh vậy.
+Dù đang giữa trận chiến, hai kẻ mang khuôn mặt Momokawa vẫn lập tức đồng lòng phối hợp khích bác đối phương. Sự ăn ý này quả là đáng kinh ngạc, cứ như thể thần giao cách cảm của những cặp song sinh vậy.
 
 “Rem, đừng tin sái cổ những gì Sakura-chan nói nhé. Kẻo lại biến thành giống cậu ta đấy.”
 
 “Đây là kiểu mẫu điển hình của một bà mẹ giáo dục quá nghiêm khắc khiến đứa trẻ bị lệch lạc đấy.”
 
-“Rem là một đứa trẻ ngoan ngoãn và thuần khiết. Tôi sẽ không để một kẻ như cậu bóc lột con bé đâu!”
+“Rem là một đứa trẻ ngoan ngoãn và thuần khiết. Tôi sẽ không để một kẻ như cậu làm hư con bé đâu!”
 
 “Một kẻ như cậu là kẻ nào cơ?”
 
 “Tự đánh giá bản thân cao quá rồi đấy nhỉ~?”
 
-*Khúc khích*, hai người cùng chỉ tay cười nhạo với sự đồng điệu hoàn hảo, khiến những đường gân xanh nổi lên bần bật trên gương mặt xinh đẹp của Sakura.
+*Khúc khích*, hai người cùng chỉ tay cười nhạo với sự đồng điệu hoàn hảo, khiến những đường gân xanh nổi lên bần bật trên trán Sakura.
 
 Bình thường nhìn cái bản mặt đáng ghét đó đã đủ bực mình rồi, giờ lại còn nhân đôi lên. Không, sự phối hợp nhịp nhàng và đồng điệu của hai kẻ này đã tạo ra hiệu ứng cộng hưởng, khiến sự khó chịu tăng lên gấp ba, gấp bốn lần. Phải là gấp mười lần mới đúng.
 
@@ -63169,15 +63181,15 @@ Bình thường nhìn cái bản mặt đáng ghét đó đã đủ bực mình 
 
 “Vâng.”
 
-Mặc kệ cuộc tranh chấp tầm thường của ba người kia, Meiko dắt Rem bắt tay vào công việc của mình. Giờ đây đối với cô, những trận cãi vã giữa Kotarou và Sakura chẳng khác nào một bộ phim hoạt hình mèo vờn chuột vui nhộn.
+Mặc kệ cuộc tranh chấp tầm thường của ba người kia, Meiko dắt Rem bắt tay vào công việc của mình. Giờ đây đối với cô, những trận cãi vã giữa Kotarou và Sakura chẳng khác nào một thước phim hoạt hình mèo vờn chuột vui nhộn.
 
 “Nào nào, đến giờ nấu ăn rồi, người ngoài mau mau đi ra ngoài đi.”
 
-“Hầy, chịu thôi. Không thể làm phiền Mei-chan được.”
+“Hầy, đành chịu thôi. Không thể làm phiền Mei-chan được.”
 
 “Ơ, kìa, tại sao cả tôi cũng phải ra ngoài!?”
 
-Kotarou tỏ vẻ miễn cưỡng tự mình rời khỏi nhà bếp, kéo theo cả Sakura, người đáng lẽ phải phụ trách nấu ăn, cũng bị Momoko đẩy ra ngoài như một món đồ đính kèm.
+Kotarou tỏ vẻ miễn cưỡng tự mình rời khỏi nhà bếp, kéo theo cả Sakura—người đáng lẽ phải phụ trách nấu ăn—cũng bị Momoko đẩy ra ngoài như một món đồ đính kèm.
 
 Meiko và Rem cũng không hề có ý định giữ Sakura lại, cứ thế để cô bị tống khứ ra khỏi bếp.
 
@@ -63191,7 +63203,7 @@ Meiko và Rem cũng không hề có ý định giữ Sakura lại, cứ thế đ
 
 “Tôi chắc chắn sẽ không để con bé trở thành một tiểu ác quỷ có tâm địa vặn vẹo giống như cậu.”
 
-“So với một người phụ nữ ích kỷ chỉ biết la hét hysterically thì ác quỷ nghe chừng còn trí thức và tốt hơn đấy chứ?”
+“So với một người phụ nữ ích kỷ chỉ biết la lối kích động thì ác quỷ nghe chừng còn trí thức và tốt hơn đấy chứ?”
 
 “Trước khi Rem học theo mấy lời lẽ xảo quyệt đó, ít nhất cậu cũng nên sửa đổi thái độ của mình trước mặt con bé đi, Momokawa.”
 
@@ -63203,7 +63215,7 @@ Meiko và Rem cũng không hề có ý định giữ Sakura lại, cứ thế đ
 
 Lớp trưởng xuất hiện.
 
-Ngay lập tức, Kotarou và Sakura nhìn nhau. Ánh mắt của cả hai lóe lên sự cảnh giác tột độ và quyết tâm cao độ, như thể vừa bị một con Boss mạnh mẽ tập kích bất ngờ. Chỉ trong một tích tắc, họ đã hiểu được ý đồ của nhau.
+Ngay lập tức, Kotarou và Sakura nhìn nhau. Ánh mắt của cả hai lóe lên sự cảnh giác tột độ và quyết tâm cao độ, như thể vừa bị một con Boss hùng mạnh tập kích bất ngờ. Chỉ trong một tích tắc, họ đã hiểu được ý đồ của đối phương.
 
 “Aa, cái đồ bốn mắt này, chị đến đây làm gì thế! Nhà bếp là thánh địa của hầu gái, bốn mắt cấm vào!”
 
@@ -63219,7 +63231,7 @@ Lớp trưởng đã phải tự mình úp mặt vào váy hầu gái để xác
 
 “Thật là, Momoko vẫn ăn nói như mọi khi nhỉ. Chị chỉ muốn đổi gió chút, định đến giúp một tay thôi.”
 
-Ryouko khẽ thở dài với nụ cười trừ, nhìn Momoko (thực chất là Kotarou đang diễn xuất xuất thần) đang xù lông cảnh giác với mình.
+Ryouko khẽ thở dài với nụ cười trừ, nhìn Momoko (thực chất là Kotarou đang diễn xuất thần sầu) đang xù lông cảnh giác với mình.
 
 Nhờ màn hóa thân xuất sắc đánh cược cả mạng sống cùng ngoại hình giống nhau như đúc, Kotarou đã thành công qua mặt Lớp trưởng mà không để lộ bất kỳ sơ hở nào.
 
@@ -63247,7 +63259,7 @@ Ngày hôm sau. Tại xưởng chế tạo ở sảnh chính, tôi vừa làm vi
 
 “Vất vả nhỉ. Hôm qua có chuyện gì thế?”
 
-“Xin lỗi, tớ không thể nói chi tiết được... nhưng có vài chuyện xảy ra.”
+“Xin lỗi, tớ không thể nói chi tiết được... nhưng có vài chuyện đã xảy ra.”
 
 “Hửm. Thế nên Himeno mới nghỉ phép à?”
 
@@ -63263,9 +63275,9 @@ Cô nàng vừa khóc lóc thảm thiết vừa ăn vạ như một đứa trẻ
 
 Khốn kiếp, bao nhiêu việc còn đang chất đống thế này. Cái con Momoko kia, dám giả danh mình để tự tiện cho Himeno nghỉ phép.
 
-Chắc chắn cô ta cố tình làm vậy để Himeno phải nếm trải cảm giác tuyệt vọng tột cùng khi ngày nghỉ bị hủy bỏ. Cô ta hiểu rõ rằng hy vọng chính là thứ gia vị tốt nhất để làm tăng thêm sự tuyệt vọng.
+Chắc chắn cô ả cố tình làm vậy để Himeno phải nếm trải cảm giác tuyệt vọng tột cùng khi ngày nghỉ bị hủy bỏ. Cô ta hiểu rõ rằng hy vọng chính là thứ gia vị tốt nhất để gia tăng sự tuyệt vọng.
 
-Thực tế thì Himeno đã khóc lóc thảm thiết đến mức tôi nghĩ Nữ thần Ruinhilde cũng phải bật cười trước sự tuyệt vọng của cô nàng. Hãy biết ơn Mei đi, vì cậu đã có một người bạn thân tuyệt vời nhất đấy.
+Thực tế thì Himeno đã khóc lóc thảm thiết đến mức tôi nghĩ Nữ thần Ruinhilde cũng phải bật cười trước sự tuyệt vọng của cô nàng. Hãy biết ơn Mei đi, vì cậu đã có một người bạn thân tuyệt vời nhất trần đời đấy.
 
 Vì thế, sau khi để lại Himeno đang ôm chặt lấy Mei khóc lóc không chịu buông, tôi đành lủi thủi một mình đến xưởng chế tạo.
 
@@ -63275,39 +63287,39 @@ Không lâu sau, Kyouko vừa ngáp ngắn ngáp dài vừa đến làm việc. 
 
 “Không, tớ cũng không rõ lắm.”
 
-Có vẻ như Momoko cũng đã trêu chọc cả Hayama... Nhưng giả danh tôi để tiếp cận cậu ấy thì chắc cậu ấy chỉ thấy nổi da gà thôi. May mà ngay sau đó cô ta đã giải thích đó chỉ là trò đùa, nếu không tôi sẽ bị sốc lắm nếu bị Hayama xa lánh.
+Có vẻ như Momoko cũng đã trêu chọc cả Hayama... Nhưng giả danh tôi để tiếp cận cậu ấy thì chắc cậu ấy chỉ thấy nổi da gà thôi. May mà ngay sau đó cô ả đã giải thích đó chỉ là trò đùa, nếu không tôi sẽ bị sốc lắm nếu bị Hayama xa lánh.
 
-“Tớ sẽ rất biết ơn nếu cậu không gặng hỏi thêm về chuyện này. Tất cả là vì hòa bình của lớp.”
+“Tớ sẽ rất biết ơn nếu cậu không gặng hỏi thêm về chuyện này. Tất cả là vì nền hòa bình của lớp.”
 
-Về vụ việc ngày hôm qua, những người biết sự thật rằng Momoko đã giả danh tôi chỉ có Mei (người lập tức nhìn thấu chân tướng), Sakura (người có mặt lúc đó), và Hayama (người được tôi giải thích sau đó). Rem thì không cần phải dặn cũng sẽ giữ bí mật nên không cần lo lắng.
+Về vụ việc ngày hôm qua, những người biết sự thật rằng Momoko đã giả danh tôi chỉ có Mei (người lập tức nhìn thấu chân tướng), Sakura (người có mặt lúc đó), và Hayama (người được tôi giải thích sau đó). Rem thì không cần phải dặn cũng sẽ giữ bí mật nên không có gì đáng lo ngại.
 
 Tất nhiên, cả tôi và Momoko cũng đã hứa chắc chắn sẽ không hé răng nửa lời.
 
-Đối với Momoko, nếu để lộ ra thì cô ta sẽ bị Chủ nhân mắng, nên giữ bí mật cũng là điều có lợi cho cô ta.
+Đối với Momoko, nếu để lộ ra thì cô ả sẽ bị Chủ nhân mắng, nên giữ bí mật cũng là điều có lợi cho bản thân.
 
 Và trên hết, điều quan trọng nhất là phải giấu không cho Lớp trưởng biết chuyện tôi thật sự đã mặc bộ đồ hầu gái đó. Nếu sự thật này bị lộ, không biết Lớp trưởng sẽ kiếm cớ gì để nổi điên lên nữa.
 
-Nhưng mà, đó quả là một khoảnh khắc lịch sử khi tôi và Sakura có cùng suy nghĩ. Quả nhiên, để con người ta hiểu nhau thì cần phải có lợi ích chung.
+Nhưng mà, đó quả là một khoảnh khắc lịch sử khi tôi và Sakura có cùng suy nghĩ. Quả nhiên, để con người ta thấu hiểu lẫn nhau thì cần phải có lợi ích chung gắn kết.
 
-Vì vậy, vụ việc hôm qua đã được giải quyết trong êm đẹp. Tôi cũng sẽ để Momoko quay lại bên cạnh Tendou một cách chừng mực.
+Vì vậy, vụ việc hôm qua đã được giải quyết êm thấm. Tôi cũng sẽ để Momoko quay lại bên cạnh Tendou một cách chừng mực.
 
-Tuy nhiên, Himeno, riêng cô thì không được đâu nhé. Số ngày nghỉ phép có lương của cô đã về con số không rồi đấy.
+Tuy nhiên, Himeno, riêng cô thì không xong đâu nhé. Số ngày nghỉ phép có lương của cô đã về con số không tròn trĩnh rồi đấy.
 
 “Trước mắt, tớ cứ làm từ chỗ này nhé?”
 
 “Ừm, nhờ cậu nhé.”
 
-Kyouko tiến về phía đống phế liệu mà Himeno chưa hề động vào, bắt đầu công việc luyện kim phân tách kim loại.
+Kyouko tiến về phía đống phế liệu mà Himeno chưa hề đụng vào, bắt đầu công việc luyện kim phân tách kim loại.
 
-Nói đi cũng phải nói lại, những món đồ cổ đại thuộc về một nền văn minh ma pháp cực kỳ tiên tiến đương nhiên có cấu trúc rất phức tạp. Có vô số trang bị và thiết bị bí ẩn chứa các linh kiện nhỏ và phức tạp như máy móc chính xác. Ngay cả khi chúng tôi phân rã chúng để lấy nguyên liệu, số lượng chủng loại vật liệu cũng cực kỳ đa dạng.
+Nói đi cũng phải nói lại, những món đồ cổ đại thuộc về một nền văn minh ma pháp cực kỳ tiên tiến đương nhiên có cấu trúc rất phức tạp. Có vô số trang bị và thiết bị bí ẩn chứa các linh kiện nhỏ li ti và tinh vi như máy móc chính xác. Ngay cả khi chúng tôi tháo rã chúng để lấy nguyên liệu, số lượng chủng loại vật liệu cũng cực kỳ đa dạng.
 
-Chỉ riêng kim loại đã được chia thành sắt tinh khiết, vàng, bạc, đồng, hợp kim, và cả những kim loại chứa ma lực thuộc hệ quang thiết. Chỉ riêng việc tháo dỡ chúng đã là một cực hình, và đó là lý do tại sao Himeno lại chừa những món đồ trông có vẻ tốn công sức này lại sau cùng.
+Chỉ riêng kim loại đã được chia thành sắt tinh khiết, vàng, bạc, đồng, hợp kim, và cả những kim loại chứa ma lực thuộc hệ quang thiết. Riêng việc bóc tách chúng đã là một cực hình, và đó là lý do tại sao Himeno lại chừa những món đồ trông có vẻ tốn công sức này lại sau cùng.
 
-Tôi không có ý định trách móc cách làm đó. Trong hoàn cảnh bị giới hạn thời gian như hiện tại, việc ưu tiên tháo dỡ những thứ dễ dàng để thu thập nguyên liệu cần thiết trước là một phương án hiệu quả.
+Tôi không có ý định trách móc cách làm đó. Trong hoàn cảnh bị giới hạn thời gian như hiện tại, việc ưu tiên tháo dỡ những thứ dễ dàng để thu thập nguyên liệu cần thiết trước mắt là một phương án hiệu quả.
 
-Tuy nhiên, chỉ bấy nhiêu đó thì không đủ để đáp ứng lượng nguyên liệu cần thiết, nên sớm muộn gì cũng phải động vào đống này. Việc Kyouko chủ động làm việc đó thật đáng khen ngợi. Tôi ước gì Himeno hiểu được rằng những chi tiết như thế này chính là thứ quyết định đánh giá của một nhân viên trong công ty.
+Tuy nhiên, chỉ bấy nhiêu đó thì không đủ để đáp ứng lượng nguyên liệu cần thiết, nên sớm muộn gì cũng phải động tay vào đống này. Việc Kyouko chủ động gánh vác thật đáng khen ngợi. Tôi ước gì Himeno hiểu được rằng những chi tiết như thế này chính là thứ quyết định đánh giá năng lực của một nhân viên trong công ty.
 
-Vừa nghĩ ngợi lung tung, tôi vừa tập trung vào công việc. Khi tôi nhận ra thì trời đã gần trưa.
+Vừa nghĩ ngợi miên man, tôi vừa tập trung vào công việc. Khi tôi nhận ra thì trời đã gần trưa.
 
 “Này Kotarou, xem cái này đi.”
 
@@ -63315,9 +63327,9 @@ Vừa nghĩ ngợi lung tung, tôi vừa tập trung vào công việc. Khi tôi
 
 Kyouko gọi tôi với vẻ mặt hớn hở như vừa tìm được món đồ tốt.
 
-Kyouko đang ngồi bệt trên chiếc đệm lông thú mềm mại tự chế. Đôi đùi quyến rũ lộ ra dưới chiếc váy ngắn của cô ấy thỉnh thoảng lại lấp ló họa tiết da báo bên trong khiến tôi không khỏi phân tâm, nhưng thứ cô ấy muốn tôi xem chắc là chiếc hộp nhỏ đang cầm trên tay.
+Kyouko đang ngồi bệt trên chiếc đệm lông thú mềm mại tự chế. Đôi đùi quyến rũ lộ ra dưới chiếc váy ngắn của cô ấy thỉnh thoảng lại lấp ló họa tiết da báo bên trong khiến tôi không khỏi phân tâm, nhưng thứ cô ấy muốn tôi chú ý chắc chắn là chiếc hộp nhỏ đang cầm trên tay.
 
-Đó là một chiếc hộp bí ẩn được kết hợp từ các bộ phận kim loại và nhựa, có thể cầm gọn bằng một tay. Kích thước của nó xấp xỉ hoặc lớn hơn một chiếc điện thoại thông minh một chút.
+Đó là một chiếc hộp bí ẩn được kết hợp từ các bộ phận kim loại và nhựa, có thể cầm gọn gàng trong lòng bàn tay. Kích thước của nó xấp xỉ hoặc nhỉnh hơn một chiếc điện thoại thông minh một chút.
 
 “Tớ nghĩ cái này là một băng đạn đấy.”
 
@@ -63325,17 +63337,17 @@ Kyouko đang ngồi bệt trên chiếc đệm lông thú mềm mại tự chế
 
 “Không, loại để bắn ấy. Nhìn này, nó ra nhiều đạn lắm luôn.”
 
-Ngón tay sơn móng rực rỡ của Kyouko lật ngược chiếc hộp và ấn vào một chốt khóa, phần đầu hộp mở ra, và một lượng lớn thứ trông như đạn tuôn ra rào rào.
+Ngón tay sơn móng rực rỡ của Kyouko lật ngược chiếc hộp và ấn vào một chốt khóa. Phần đầu hộp lập tức mở ra, và một lượng lớn thứ trông như đạn tuôn ra rào rào.
 
-Chúng trông giống như những chiếc đinh vít không đầu hơn là đạn thông thường. Chúng có hình trụ và được khắc những ký tự trông như ma pháp trận xoắn ốc nhỏ xíu.
+Chúng trông giống như những chiếc đinh vít không đầu hơn là đầu đạn thông thường. Chúng có hình trụ và được khắc những ký tự trông như ma pháp trận xoắn ốc nhỏ xíu.
 
-Khi tháo dỡ và phân tích các loại súng trong kho vũ khí, chúng tôi đã biết được sự tồn tại của những khẩu súng sử dụng loại đạn như thế này. Khẩu súng mà Kotori sử dụng là loại bắn bằng ma lực thuần túy, nên chúng tôi vẫn chưa rõ những khẩu súng bắn đạn thật hoạt động như thế nào.
+Khi tháo dỡ và phân tích các loại súng trong kho vũ khí, chúng tôi đã biết được sự tồn tại của những khẩu súng sử dụng loại đạn như thế này. Khẩu súng mà Kotori sử dụng là loại bắn bằng ma lực thuần túy, nên chúng tôi vẫn chưa rõ những khẩu súng bắn đạn thật hoạt động ra sao.
 
 Tuy nhiên, chỉ tìm thấy băng đạn mà không có súng tương thích thì cũng vô dụng—
 
 “—Khoan đã, lượng đạn này không phải là quá nhiều sao?”
 
-Chiếc băng đạn liên tục tuôn ra vô số viên đạn như một chiếc máy đánh bạc trúng độc đắc. Lượng đạn mà Kyouko đổ ra đã vượt xa kích thước vật lý của chiếc băng đạn đó.
+Chiếc băng đạn liên tục tuôn ra vô số viên đạn như một chiếc máy đánh bạc trúng giải độc đắc. Lượng đạn mà Kyouko trút ra đã vượt xa kích thước vật lý của chính chiếc băng đạn đó.
 
 “C-Có khi nào, cái này...”
 
@@ -63351,269 +63363,269 @@ Kyouko, cậu vừa khai quật được một món đồ thần thánh cực k�
                 "title": "Tập 345: Đêm trước chiến dịch chinh phục Tháp (1)",
                 "content": `# Tập 345: Đêm trước chiến dịch chinh phục Tháp (1)
 
-Đã khoảng một tháng trôi qua kể từ khi chúng tôi bắt đầu ẩn náu trong pháo đài ẩn.
+Đã khoảng một tháng trôi qua kể từ khi chúng tôi bắt đầu ẩn náu trong pháo đài ngầm.
 
 “Cuối cùng, mọi sự chuẩn bị đã hoàn tất.”
 
-Tôi tiến hành buổi họp phổ biến kế hoạch trước mặt mọi người đang tập hợp tại phòng ăn.
+Tôi tiến hành buổi họp phổ biến kế hoạch trước toàn thể mọi người đang tập hợp đông đủ tại phòng ăn.
 
-“Chiến dịch chinh phục Tháp Trung Tâm sẽ bắt đầu vào ngày kia. Ngày mai mọi người sẽ được nghỉ ngơi.”
+“Chiến dịch chinh phục Tháp Trung Tâm sẽ chính thức bắt đầu vào ngày kia. Ngày mai mọi người sẽ được nghỉ ngơi dưỡng sức.”
 
-Khoảng thời gian chuẩn bị một tháng này, đặc biệt là nửa sau, vô cùng vắt kiệt sức lực. Dù có lúc bế tắc đến mức tôi phải nằm gối đầu lên đùi Mei để ngủ dỗi, nhưng nhờ thu thập đủ những mảnh ghép còn thiếu, công việc sau đó đã được đẩy nhanh tiến độ một cách chóng mặt.
+Khoảng thời gian chuẩn bị suốt một tháng qua, đặc biệt là nửa chặng đường sau, thực sự đã vắt kiệt từng chút sức lực. Dù có những lúc bế tắc đến mức tôi phải nằm gối đầu lên đùi Mei ăn vạ để ngủ bù, nhưng nhờ thu thập đủ những mảnh ghép then chốt còn thiếu, tiến độ công việc sau đó đã được đẩy nhanh một cách chóng mặt.
 
-Để đáp lại nỗ lực của tôi, trong xưởng chế tạo, Nakajima cũng đã làm việc quá sức đến mức ngất xỉu, còn Himeno thì giả vờ ngất và bị tôi dựng đầu dậy. Cậu bạn Hayama cũng đã âm thầm học được 『Trận pháp Luyện thành Giản đơn』 để gia nhập vào chuyến hành xác tập thể này. Nhờ năng lực sản xuất của xưởng được nâng cao, chúng tôi mới có thể hoàn thành mọi thứ trong khoảng thời gian vừa qua.
+Để theo kịp nỗ lực của tôi, tại xưởng chế tạo, Nakajima-kun cũng đã làm việc quá sức đến mức ngất xỉu, còn Himeno thì giả vờ xỉu để trốn việc và bị tôi xách đầu dựng dậy không thương tiếc. Cậu bạn Hayama-kun cũng âm thầm học được 『Trận pháp Luyện thành Giản đơn』 để cùng gia nhập vào chuyến hành xác tập thể này. Chính nhờ năng lực sản xuất của xưởng được nâng tầm vượt bậc, chúng tôi mới có thể hoàn tất khối lượng công việc khổng lồ ấy trong thời gian ngắn ngủi vừa qua.
 
-Nhờ trời, toàn bộ trang bị chất lượng cao nhất, xứng tầm với trận quyết chiến cuối cùng, đã được chuẩn bị đầy đủ.
+Nhờ trời, toàn bộ trang bị với chất lượng cao nhất, hoàn toàn xứng tầm cho trận quyết chiến sinh tử cuối cùng, đều đã được chuẩn bị đầy đủ.
 
-“Đến nước này rồi, tôi sẽ không giải thích lại mục tiêu của chiến dịch nữa. Thế nhưng, tôi muốn nhấn mạnh một điều này thôi ——— Tôi muốn cả bản thân mình lẫn mọi người đều phải ưu tiên mạng sống của đồng đội lên hàng đầu.”
+“Đến nước này rồi, tôi sẽ không nhắc lại mục tiêu chiến lược nữa. Thế nhưng, tôi muốn nhấn mạnh một điều cốt lõi này thôi ——— Tôi yêu cầu cả bản thân mình lẫn tất cả mọi người đều phải ưu tiên tính mạng của đồng đội lên hàng đầu.”
 
-Khó khăn lớn nhất trong chiến dịch lần này là phải bắt sống những người bạn đang bị giam giữ.
+Khó khăn lớn nhất trong chiến dịch lần này chính là việc phải bắt sống những người bạn đang bị khống chế.
 
-Vì mục tiêu đó, tôi đã chế tạo các trang bị bắt giữ sử dụng thành phần chủ yếu là chất độc tê liệt thu thập từ con Boss ở Khu Vực Cách Ly do Tendou cung cấp... Tuy nhiên, hiệu quả của nó cũng không thể nói là tuyệt đối.
+Vì mục tiêu đó, tôi đã dày công chế tạo các trang bị bắt giữ chuyên dụng, ứng dụng thành phần chủ yếu là chất độc gây tê liệt thu thập từ con Boss ở Khu Vực Cách Ly do Tendou-kun cung cấp... Tuy nhiên, hiệu quả thực tế của nó cũng không thể khẳng định là tuyệt đối 100%.
 
-“Khi bắt giữ Souma-kun, người đứng mũi chịu sào sẽ là Tendou-kun và Sakura-chan. Nhưng nếu xảy ra tình huống khẩn cấp, tôi sẽ ưu tiên mạng sống của hai người họ, và việc tôi xuống tay giết chết Souma-kun là hoàn toàn có thể xảy ra.”
+“Khi tiến hành khống chế Souma-kun, hai người đứng mũi chịu sào sẽ là Tendou-kun và Sakura-chan. Nhưng nếu nảy sinh tình huống nguy hiểm đe dọa tính mạng, tôi sẽ ưu tiên mạng sống của hai người họ lên trên hết, và việc tôi buộc phải xuống tay hạ sát Souma-kun là hoàn toàn có thể xảy ra.”
 
-“Hừ, đến giờ này còn lo nghĩ chuyện đó làm gì. Bọn tao đang bắt tụi mày phải đi dọn chiến trường cho thằng Yuuto mà. Bản lĩnh để đối mặt với tình huống xấu nhất thì tao đã chuẩn bị sẵn rồi.”
+“Hừ, đến nước này rồi còn lo nghĩ vớ vẩn làm gì. Bọn tao đang bắt tụi mày phải đi dọn dẹp mớ hỗn độn cho thằng Yuuto đấy thôi. Giác ngộ để đối mặt với tình huống tồi tệ nhất thì tao đã chuẩn bị sẵn từ lâu rồi.”
 
-“Tôi tuyệt đối sẽ không để chuyện đó xảy ra. Thế nên Momokawa, cậu không cần phải can thiệp thừa thãi đâu.”
+“Tôi tuyệt đối sẽ không để chuyện đó xảy ra. Thế nên Momokawa, cậu không cần phải can thiệp thừa thãi vào đâu.”
 
-Dù tốt hay xấu, mức độ khao khát muốn cứu sống họ của mỗi người là hoàn toàn khác nhau.
+Dù nhìn nhận theo hướng tích cực hay tiêu cực, mức độ khao khát muốn cứu sống họ ở mỗi người là hoàn toàn khác biệt.
 
-Nếu xét theo tình cảm cá nhân của tôi, thứ tự ưu tiên sẽ là: Kinako lớn hơn Souma, tiếp theo là một bức tường không thể vượt qua, rồi mới đến Asuna. Có lẽ đối với Mei, ngay cả Kinako đi chăng nữa, nếu nó đe dọa đến tính mạng của tôi, cậu ấy cũng sẽ ra tay sát hại không chút do dự.
+Nếu xét theo cảm xúc cá nhân thuần túy của tôi, thứ tự ưu tiên sẽ là: Kinako lớn hơn Souma, kế đó là một bức tường ngăn cách không thể vượt qua, rồi mới lẹt đẹt đến lượt Asuna. Thậm chí đối với Mei, có lẽ ngay cả Kinako đi chăng nữa, chỉ cần nó đe dọa đến tính mạng của tôi, cậu ấy cũng sẽ vung rìu chém chết không một chút đắn đo.
 
-“Tất cả chúng ta là đồng đội, nhất định phải cứu bằng được mọi người, vì thế hãy cùng nhau liều mạng hợp tác” ——— Nói những lời sáo rỗng, đẹp đẽ như vậy thì thật dễ dàng. Nếu là Souma, chắc chắn cậu ta sẽ nói những lời kiểu đó.
+“Tất cả chúng ta đều là đồng đội, nhất định phải cứu bằng được mọi người, vì thế hãy cùng nhau liều mạng kề vai sát cánh” ——— Thốt ra những lời đạo đức sáo rỗng, hoa mỹ như thế thì quá đỗi dễ dàng. Nếu là Souma, chắc chắn cậu ta sẽ tuôn ra những lời lẽ lý tưởng kiểu đó.
 
-Nhưng tôi thì không vô trách nhiệm đến mức thốt ra những lý thuyết lý tưởng phi thực tế như vậy. Điều duy nhất tôi có thể làm là chỉ ra khả năng để đạt được tương lai mà mọi người mong muốn.
+Thế nhưng, tôi không phải là kẻ vô trách nhiệm đến mức đi rao giảng những thứ ảo tưởng phi thực tế như vậy. Điều duy nhất tôi có thể làm là vạch ra con đường khả thi nhất để đạt được tương lai mà mọi người khao khát.
 
-Thế nên, người khao khát muốn cứu sống Souma nhất sẽ phải đứng ở tuyến đầu. Và chúng tôi sẽ hỗ trợ phía sau. Bởi vì nếu để người khác đứng trước, họ có thể sẽ lỡ tay giết chết cậu ta trong lúc hỗn loạn.
+Bởi vậy, những ai tha thiết muốn cứu sống Souma nhất sẽ phải tự mình đứng ở tuyến đầu. Và chúng tôi sẽ yểm trợ từ phía sau. Bởi lẽ nếu để người khác đứng mũi chịu sào, họ rất có thể sẽ lỡ tay đoạt mạng cậu ta trong cơn hỗn loạn.
 
-“Hayama-kun cũng hiểu chứ? Tôi muốn cậu chuẩn bị sẵn tâm lý cho tình huống xấu nhất. Tôi tuyệt đối không bao giờ cho phép Kinako làm ra hành động sát hại đồng đội.”
+“Hayama-kun cũng hiểu rõ rồi chứ? Tôi muốn cậu chuẩn bị sẵn tâm lý cho tình huống xấu nhất. Tôi tuyệt đối sẽ không cho phép Kinako có bất kỳ hành động nào đe dọa đến tính mạng đồng đội.”
 
-“Ừ, tớ biết rồi... Thế nên, tớ nhất định sẽ tự tay mang Kinako trở về!”
+“Ừ, tớ biết rồi... Thế nên, tớ nhất định sẽ tự tay mang Kinako trở về an toàn!”
 
-“Ừ, cùng cố gắng nhé. Vì mục tiêu đó, tôi cũng đã chuẩn bị mọi thứ trong khả năng của mình rồi.”
+“Ừ, cùng cố gắng nhé. Vì mục tiêu đó, tôi cũng đã chuẩn bị mọi thứ tốt nhất trong khả năng của mình rồi.”
 
-Về phần tôi, dẫu có phải từ bỏ Souma đi chăng nữa, tôi vẫn muốn cứu bằng được Kinako bằng mọi giá.
+Về phần tôi, dẫu có phải buông bỏ Souma đi chăng nữa, tôi vẫn muốn cứu bằng được Kinako bằng mọi giá.
 
-Dù sao đi nữa, chú gấu ấy không phải là bạn học cùng lớp 2-7. Nó chỉ đơn thuần là gặp gỡ Hayama Ritsuki, rồi vì cậu ấy mà đồng hành sinh tử.
+Xét cho cùng, chú gấu ấy đâu phải học sinh lớp 2-7. Nó chỉ đơn thuần là tình cờ gặp gỡ Hayama Ritsuki, rồi vì cậu bạn ấy mà đồng cam cộng khổ vào sinh ra tử suốt thời gian qua.
 
-Tôi không muốn bỏ mặc một người bạn như thế. Và tôi tuyệt đối không bao giờ cho phép nó bị con mụ Hiền Giả rác rưởi kia lợi dụng.
+Tôi không bao giờ muốn bỏ rơi một người bạn như thế. Và tôi càng không bao giờ tha thứ cho việc nó bị ả Hiền Giả rác rưởi kia đem ra làm công cụ lợi dụng.
 
-“Nakajima-kun, nói thật lòng thì mức độ ưu tiên dành cho Kenzaki là thấp nhất. Có thể tôi cũng không thể hỗ trợ hết mình được. Dù vậy, cậu vẫn muốn đánh cược vào khả năng cứu cô ta chứ?”
+“Nakajima-kun, nói thật lòng thì mức độ ưu tiên giải cứu dành cho Kenzaki là thấp nhất. Tôi không dám chắc bản thân có thể hỗ trợ hết mình cho cậu được hay không. Dù vậy, cậu vẫn muốn đánh cược vào hy vọng cứu cô ta chứ?”
 
-“Chắc chắn rồi. Momokawa-kun, tớ thực sự rất biết ơn vì cậu đã cho tớ cơ hội này.”
+“Chắc chắn rồi. Momokawa-kun, tớ thực sự biết ơn vì cậu đã cho tớ cơ hội này.”
 
-“Asuna đối với tôi cũng là một người bạn vô cùng quan trọng. Tôi sẽ không dễ dàng bỏ mặc cậu ấy đâu.”
+“Asuna đối với tôi cũng là một người bạn vô cùng quan trọng. Tôi sẽ không đời nào dễ dàng bỏ mặc cậu ấy đâu.”
 
-*Nhưng nếu phải chọn giữa Souma và Kenzaki, chẳng phải cô sẽ chọn Souma mà không cần suy nghĩ sao? Tôi nghĩ cô tốt nhất là đừng nên nói những lời đao to búa lớn như vậy thì hơn, Sakura.*
+*Nhưng nếu buộc phải chọn giữa Souma và Kenzaki, chẳng phải cô sẽ chọn Souma mà chẳng cần tốn lấy một giây suy nghĩ sao? Tôi nghĩ cô tốt nhất đừng nên nói những lời đao to búa lớn như vậy thì hơn đấy, Sakura.*
 
-“Kẻ chúng ta cần phải tiêu diệt là 『Hiền Giả』 Takanashi Kotori. Chỉ cần hạ gục kẻ phản bội đó, lần này chúng ta chắc chắn sẽ thoát khỏi hầm ngục này và tiến ra thế giới bên ngoài ———”
+“Kẻ thù duy nhất chúng ta bắt buộc phải tiêu diệt triệt để chính là 『Hiền Giả』 Takanashi Kotori. Chỉ cần nghiền nát kẻ phản bội đó, lần này chúng ta chắc chắn sẽ thoát khỏi hầm ngục tăm tối này để bước ra thế giới bên ngoài ———”
 
-Đáng lẽ ra, chiến dịch chinh phục Tháp có thể diễn ra dễ dàng hơn nhiều.
+Đáng lẽ ra, chiến dịch chinh phục Tháp đã có thể diễn ra êm đẹp hơn rất nhiều.
 
-Đến tận giây phút cuối cùng, chúng tôi vẫn bị con khốn Takanashi Kotori đó làm cho khốn đốn.
+Ấy vậy mà cho đến tận giây phút chót, chúng tôi vẫn bị con khốn Takanashi Kotori ấy quay như chong chóng.
 
-Nhưng đây sẽ là lần cuối cùng. Trận chiến này sẽ chấm dứt tất cả, và chúng tôi sẽ giành lại tự do.
+Thế nhưng, đây sẽ là lần cuối cùng. Trận chiến này sẽ đặt dấu chấm hết cho tất cả, và chúng tôi sẽ tự tay đoạt lại tự do cho chính mình.
 
-“——— Đây là chiến dịch chinh phục hầm ngục cuối cùng rồi. Hãy lên tinh thần nào.”
+“——— Đây là chiến dịch chinh phục hầm ngục cuối cùng rồi. Tất cả, hãy lên dây cót tinh thần đi!”
 
 ***
 
-Ngày hôm sau. Hôm nay là ngày nghỉ, các bạn học trong lớp tự do dành thời gian theo ý thích của mình.
+Ngày hôm sau. Hôm nay là ngày nghỉ xả hơi, toàn bộ học sinh được tự do sử dụng thời gian theo ý muốn của mình.
 
-Futaba Meiko, với tư cách là Trưởng ban Nấu ăn, đã vào bếp từ sáng sớm để chuẩn bị một bữa tối thật thịnh soạn và công phu cho ngày hôm nay.
+Futaba Meiko, với tư cách là Trưởng ban Nấu ăn, đã có mặt trong bếp từ sáng sớm tinh mơ để chuẩn bị một bữa tối thịnh soạn và công phu chưa từng có cho ngày hôm nay.
 
-Cô chuẩn bị những món ăn nhẹ cho bữa sáng và bữa trưa, rồi nhanh chóng tiến hành sơ chế nguyên liệu cho bữa tối.
+Cô làm sẵn các phần ăn nhẹ cho bữa sáng và bữa trưa, sau đó nhanh chóng bắt tay vào khâu sơ chế nguyên liệu cho đại tiệc buổi tối.
 
-Dù công việc này chiếm gần như cả ngày, cô không hề cảm thấy mệt mỏi hay khó chịu. Đây là điều cô yêu thích nhất. So với việc vung vũ khí chiến đấu, nấu ăn thú vị hơn nhiều.
+Dù công việc này chiếm trọn gần như cả ngày trời, cô không hề lộ chút mệt mỏi hay phiền muộn nào. Nấu nướng vốn là đam mê lớn nhất của cô. So với việc phải cầm vũ khí chém giết nơi tiền tuyến, đứng bếp nấu ăn mang lại niềm vui lớn hơn gấp bội phần.
 
-Khi Meiko đang vừa ngân nga hát vừa bắt tay vào nấu nướng, một vị khách không ngờ tới đã xuất hiện.
+Khi Meiko đang vừa khe khẽ ngân nga giai điệu quen thuộc vừa thoăn thoắt làm bếp, một vị khách bất ngờ bỗng xuất hiện ở cửa.
 
-“Ơ, Hayama-kun. Có chuyện gì thế?”
+“Ơ kìa, Hayama-kun. Có chuyện gì thế cậu?”
 
-Thấy Rerite xuất hiện dù hôm nay không phải ca trực của cậu, Meiko nở nụ cười rạng rỡ hỏi.
+Thấy Rerite bước vào dù hôm nay không phải ca trực nhật của cậu, Meiko liền nở nụ cười tươi tắn cất tiếng hỏi.
 
-Vẫn chưa quen với dáng vẻ của Meiko — người đã lột xác thành một mỹ nhân ngực khủng sau đợt giảm cân thần kỳ, Rerite bất giác đảo mắt nhìn đi chỗ khác rồi thành thật trả lời.
+Vẫn chưa thể hoàn toàn thích nghi với diện mạo mới của Meiko — một mỹ nhân sở hữu thân hình bốc lửa sau kỳ tích giảm cân ngoạn mục, Rerite bất giác đảo mắt nhìn sang hướng khác, gãi đầu đáp lời.
 
-“À, ừm... tớ mượn nhà bếp một chút được không? Chỉ cần một góc nhỏ thôi cũng được.”
+“À, ừm... tớ mượn góc bếp một chút được không? Chỉ cần một khoảng nhỏ thôi cũng được.”
 
-“Bếp ở đây rộng lắm, cậu cứ tự nhiên dùng chỗ nào tùy thích. Nhưng nếu cậu muốn ăn món gì đó, cứ bảo tớ nấu cho cũng được mà?”
+“Bếp ở đây rộng rãi lắm, cậu cứ tự nhiên dùng chỗ nào tùy thích nhé. Nhưng nếu cậu muốn ăn món gì, cứ bảo tớ nấu cho có phải tiện hơn không?”
 
-Meiko vừa nói vừa liếc nhìn miếng thịt lớn mà Rerite đang ôm trong tay — cô lập tức nhận ra ngay đó là thịt đùi của Kokko, một loài ma vật dạng gà.
+Meiko vừa nói vừa đưa mắt nhìn tảng thịt lớn mà Rerite đang ôm khư khư trong lòng — cô nhận ra ngay đó là thịt đùi của loài quái điểu Kokko.
 
-Với chiếc đùi gà khổng lồ cỡ ma vật này, có lẽ cậu ấy muốn làm món gà rán siêu to khổng lồ chăng? Để chế biến một nguyên liệu có kích thước vượt trội như thế này đòi hỏi phải có kỹ thuật tương xứng. Meiko hỏi vậy hoàn toàn là vì lòng tốt, bởi cô nghĩ một người gần như mù tịt về nấu nướng như Rerite sẽ rất khó tự mình làm tốt được.
+Với chiếc đùi gà khổng lồ cỡ ma vật như thế này, chẳng lẽ cậu ấy định làm món gà rán siêu to khổng lồ sao? Việc xử lý một khối nguyên liệu có kích thước vượt trội đến mức này đòi hỏi kỹ thuật dao thớt và canh nhiệt rất cao. Meiko mở lời hoàn toàn xuất phát từ lòng tốt, bởi cô biết một người gần như mù tịt chuyện bếp núc như Rerite sẽ rất khó xoay xở một mình.
 
-“Không đâu, Futaba-san bận rộn như thế rồi, để tớ tự làm cho.”
+“Không đâu, Futaba-san đã bận bịu túi bụi thế rồi, để tớ tự làm là được.”
 
-“Không sao mà, cậu không cần phải bận tâm chuyện đó đâu.”
+“Có sao đâu mà, cậu không cần phải ngại chuyện đó với tớ.”
 
-“Thực sự không cần đâu. Tớ muốn tự tay làm... Tớ muốn làm món này cho nó.”
+“Thực sự không cần đâu. Tớ muốn tự tay mình nấu... Tớ muốn làm món này riêng cho nó.”
 
-Nói với vẻ mặt nghiêm túc, Rerite đặt chiếc đùi gà lớn lên một góc bàn bếp.
+Nói bằng giọng điệu vô cùng nghiêm túc, Rerite cẩn thận đặt chiếc đùi gà lớn lên một góc bàn bếp.
 
-Cậu xắn tay áo lên, bắt đầu bằng việc rửa tay, trông vô cùng quyết tâm.
+Cậu xắn cao tay áo, bắt đầu bằng việc rửa tay thật sạch sẽ, dáng vẻ toát lên sự quyết tâm cao độ.
 
 “Cậu định làm món gì thế?”
 
-“Gà rán Karaage. Đó là món khoái khẩu của Kinako.”
+“Gà rán Karaage. Đó là món khoái khẩu nhất của Kinako.”
 
-Đó là món gà rán trong hộp bento mà họ đã ăn vào đêm đầu tiên khi bị rơi xuống dị giới này. Chỉ là loại đồ ăn đông lạnh bình thường có giá 298 yên một hộp, nhưng họ đã nướng nó trên đống lửa trại được thắp lên nhờ Tinh Linh Lửa, rồi cùng nhau chia sẻ. Đó chính là món gà rán của tình bạn.
+Đó là món gà rán trong hộp bento mà họ đã cùng nhau chia sẻ vào đêm đầu tiên khi vừa rơi xuống dị giới tàn khốc này. Dù chỉ là loại thực phẩm đông lạnh rẻ tiền có giá 298 yên một hộp, nhưng họ đã nướng nó trên đống lửa trại bập bùng thắp lên nhờ Tinh Linh Lửa, rồi san sẻ từng miếng cho nhau. Đó chính là món gà rán gắn liền với tình bạn thiêng liêng giữa người và thú.
 
-Hình ảnh Kinako vừa ăn vừa mừng rỡ kêu lên “Ngon quá, ngon quá!” cho đến tận bây giờ cậu vẫn nhớ như in.
+Hình ảnh Kinako vừa nhai nhồm nhoàm vừa hớn hở kêu lên “Ngon quá, ngon quá!” cho đến tận bây giờ cậu vẫn khắc sâu trong tâm trí.
 
-Dù sau khi hội quân với Kotarou, chất lượng ăn uống sinh tồn của Rerite đã được cải thiện rõ rệt, nhưng món ăn yêu thích nhất của Kinako vẫn luôn là gà rán Karaage.
+Dẫu rằng sau khi hội quân với Kotarou, chất lượng bữa ăn sinh tồn của Rerite đã được cải thiện một trời một vực, nhưng đối với Kinako, món ngon nhất trần đời vẫn luôn là gà rán Karaage.
 
-“Chắc chắn lúc này nó đang đói bụng lắm. Thế nên khi cứu được nó ra, tớ muốn cho nó ăn ngay món nó thích nhất.”
+“Chắc chắn lúc này nó đang bị bỏ đói khổ sở lắm. Thế nên ngay khi giải cứu được nó ra, tớ muốn đút cho nó ăn ngay món nó thích nhất.”
 
-“Ừm, ra là vậy. Thế thì chúng ta phải làm thật nhiều mới được.”
+“Ừm, ra là vậy. Thế thì chúng ta phải làm thật nhiều mới được nha.”
 
-Vờ như không nhìn thấy những giọt nước mắt đang chực trào trong mắt Rerite, Meiko nở một nụ cười rạng rỡ như hoa hướng dương và nói.
+Vờ như không nhận ra những giọt nước mắt đang chực trào nơi khóe mi Rerite, Meiko nở một nụ cười rạng rỡ như ánh hoa hướng dương, ấm áp tiếp lời.
 
-“Ừ-Ừm! Nhưng tớ không tự tin vào tay nghề của mình lắm, cậu chỉ bảo cho tớ một chút thì tốt quá.”
+“Ừ-Ừm! Nhưng mà tay nghề tớ vụng về lắm, cậu chỉ bảo thêm cho tớ nhé!”
 
-“Tất nhiên rồi.”
+“Tất nhiên rồi!”
 
-Thế là, khóa học cấp tốc hướng dẫn cách làm món gà rán Karaage ngon nhất từ át chủ bài của CLB Nấu ăn học viện Hakurei chính thức bắt đầu.
+Thế là, khóa học cấp tốc hướng dẫn công thức làm món gà rán Karaage thượng hạng từ bàn tay của át chủ bài CLB Nấu ăn học viện Hakurei chính thức bắt đầu.
 
 ***
 
-“——— Cuối cùng thì ngày mai cũng đến rồi nhỉ.”
+“——— Rốt cuộc thì ngày mai cũng đã cận kề rồi nhỉ.”
 
-Sau khi kết thúc bữa tối thịnh soạn và xa hoa hơn cả đêm trước trận chiến thảo phạt Yamata no Orochi, Ryouko cầm ly rượu vang trên tay, trầm ngâm lẩm bẩm.
+Sau khi kết thúc bữa tiệc tối thịnh soạn và xa hoa vượt xa cả đêm trước trận thảo phạt Yamata no Orochi, Ryouko khẽ lắc ly rượu vang trên tay, trầm ngâm lẩm bẩm.
 
-“Ừ. Không sao đâu, chắc chắn mọi chuyện sẽ ổn thôi.”
+“Ừ. Không sao đâu, chắc chắn mọi chuyện rồi sẽ ổn thỏa cả thôi.”
 
-Nở một nụ cười tươi tắn như muốn xua tan đi mọi nỗi bất an, Minami với tay lấy đĩa đồ ngọt bày trên bàn.
+Nở một nụ cười tươi tắn như muốn xua tan bầu không khí ảm đạm, Minami đưa tay nhón lấy một miếng bánh ngọt trên đĩa.
 
-“Nhưng mà, cậu vẫn có thể thản nhiên uống rượu được sao, Ryouko?”
+“Cơ mà, cậu vẫn có thể thản nhiên nhâm nhi rượu vào lúc này được sao, Ryouko?”
 
-Sakura, người chắc hẳn cũng đang mang đầy nỗi lo âu, đã chọn cách không nhắc đến chuyện đó mà hướng ánh mắt nghi ngại về phía ly rượu vang đỏ mà Ryouko đang nhấp môi.
+Sakura, người ắt hẳn đang trĩu nặng âu lo, cố tình tránh né chủ đề nhạy cảm mà hướng ánh mắt đầy e ngại về phía ly vang đỏ mà Ryouko đang nhấp từng ngụm nhỏ.
 
-“Tớ thấy tửu lượng của mình cũng khá tốt đấy chứ. Sẽ không ảnh hưởng gì đến chiến dịch ngày mai đâu.”
+“Tớ thấy tửu lượng của mình cũng đâu đến nỗi tệ. Sẽ chẳng ảnh hưởng gì tới chiến dịch ngày mai đâu.”
 
-“Tớ thì không khoái rượu vang lắm. Phải là rượu hoa quả hoặc rượu mật ong cơ!”
+“Tớ thì chẳng khoái vang chát chút nào. Phải là rượu hoa quả ngọt lịm hoặc rượu mật ong cơ!”
 
-“Không, ý tớ không phải là chuyện đó...”
+“Không, ý tớ đâu phải chuyện tửu lượng...”
 
-“Gì thế Sakura. Cậu vẫn còn bận tâm về vụ bị đầu độc lần trước à?”
+“Sao thế Sakura? Cậu vẫn còn bị ám ảnh bởi vụ trúng độc lần trước à?”
 
-“Tất nhiên rồi. Lần đó, may mà tớ tình cờ thức tỉnh được ma pháp giải độc... chứ giờ nghĩ lại, tớ vẫn thấy rùng mình.”
+“Tất nhiên rồi. Lần đó, nếu tớ không may mắn thức tỉnh được ma pháp giải độc kịp thời... thì giờ nghĩ lại, tớ vẫn thấy lạnh cả sống lưng.”
 
-“Nhưng cậu cũng biết chuyện đó không phải do lỗi của Momokawa-kun rồi mà.”
+“Nhưng cậu cũng thừa biết kẻ đầu độc đâu phải là Momokawa-kun rồi mà.”
 
-“Vâng, tớ biết. Nhưng điều đó đâu có nghĩa là ký ức kinh hoàng kia sẽ biến mất.”
+“Đúng, tớ biết chứ. Nhưng điều đó đâu thể xóa nhòa đi ký ức kinh hoàng mà tớ đã phải trải qua.”
 
-Chính vì vậy, cô không thể tin nổi thái độ của Ryouko khi thản nhiên nhận lấy và uống chai rượu vang mà Kotarou gợi ý là “cái này ngon lắm đấy”.
+Chính vì lẽ đó, cô không tài nào hiểu nổi thái độ của Ryouko khi thản nhiên nhận lấy và thưởng thức chai vang mà Kotarou đưa tới kèm lời gợi ý “loại này ngon lắm đấy”.
 
-Thực tế, ngay cả khi kẻ hạ độc không phải là Kotarou, ấn tượng về việc bị gục ngã bởi ly rượu do chính tay cậu ta phân phát vẫn không thể nào xóa nhòa được. Tuy nhiên, đối với Sakura, điều này xuất phát từ ấn tượng xấu và lòng thù địch quá lớn dành cho Kotarou hơn là nỗi sợ hãi thuần túy đối với việc bị trúng độc.
+Trên thực tế, ngay cả khi kẻ hạ độc không phải Kotarou, cái cảm giác kinh hãi khi ngã gục bởi ly rượu do chính tay cậu ta mời mọc vẫn là vết sẹo tâm lý khó phai mờ. Tuy nhiên, đối với Sakura, phản ứng này phần nhiều bắt nguồn từ định kiến ghét bỏ và lòng thù địch sâu sắc nhắm vào Kotarou, hơn là nỗi sợ hãi thuần túy đối với độc dược.
 
-“Dù không có Souma-kun ở đây, cậu vẫn chẳng thay đổi gì cả nhỉ.”
+“Dù không có Souma-kun bên cạnh, cậu vẫn chẳng chịu thay đổi chút nào nhỉ.”
 
 “Hửm, ý cậu là sao?”
 
-“Cậu bướng bỉnh quá đấy. Tất cả chúng ta đều đang nhận sự chăm sóc từ Momokawa-kun. Cả tớ, cậu, và ngay cả Ryuuichi nữa. Cứ luôn xoi mói cậu ta như vậy trông chẳng khác nào một đứa trẻ đang nhõng nhẽo đòi hỏi với bố mẹ đâu, mất mặt lắm.”
+“Cậu cố chấp quá mức rồi đấy. Hiện tại tất cả chúng ta đều đang phải sống dựa vào sự bảo bọc của Momokawa-kun. Cả tớ, cậu, và thậm chí cả Ryuuichi cũng vậy. Cứ luôn xoi mói, hằn học với cậu ta như thế trông chẳng khác nào một đứa trẻ đang hờn dỗi đòi hỏi vô lý với cha mẹ đâu, mất mặt lắm.”
 
-“Kẻ bướng bỉnh là tên Momokawa đó mới đúng! Cậu có biết tớ đã phải chịu đựng sự đối xử tàn nhẫn đến mức nào không... Những hành vi giống như thí nghiệm trên cơ thể người đó, tớ quyết không bao giờ tha thứ... Tuyệt đối không bao giờ...”
+“Kẻ quá quắt là tên Momokawa đó mới đúng! Cậu có biết tớ đã phải chịu đựng sự đối xử tàn nhẫn đến mức nào không... Những trò hành hạ chẳng khác gì thí nghiệm trên cơ thể người sống ấy, tớ quyết không bao giờ tha thứ... Tuyệt đối không bao giờ...!”
 
-Việc Kotarou bảo đảm điều kiện sinh hoạt cho các bạn học như một người bảo hộ là sự thật không hề thay đổi kể từ thời ở Học Viện Tháp. Vào lúc này, nếu bị cậu ta tống cổ ra khỏi pháo đài ẩn này, ngoại trừ Ryuuichi ra, bất kỳ ai cũng sẽ phải khốn đốn vì chuyện ăn, mặc, ở.
+Việc Kotarou bảo đảm trọn vẹn điều kiện sinh tồn cho các bạn học như một người bảo hộ là sự thật không thể chối cãi kể từ thời ở Học Viện Tháp. Vào lúc này, nếu bị cậu ta tống cổ ra khỏi pháo đài ngầm, ngoại trừ Ryuuichi ra, bất kỳ ai cũng sẽ phải khốn đốn vì miếng ăn, manh áo, chỗ ngủ.
 
-Việc họ có thể sinh hoạt trong một môi trường thoải mái như lẽ đương nhiên, tập trung vào các hoạt động như săn bắn, tu luyện hay chế tạo trang bị, hoàn toàn là nhờ sự sắp đặt chu toàn không thiếu một thứ gì của Kotarou.
+Việc họ có thể an nhàn sinh hoạt trong một môi trường tiện nghi, dồn toàn tâm toàn ý vào việc săn bắn, rèn luyện hay chế tạo vũ khí, hoàn toàn là nhờ những toan tính chu toàn không một kẽ hở của Kotarou.
 
-Thế nhưng, ở chiều ngược lại, việc thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 nhắm vào Souma Sakura diễn ra vô cùng tàn khốc cũng là một sự thật hiển nhiên.
+Thế nhưng, ở chiều ngược lại, việc các đợt thí nghiệm phá vỡ 『Thánh Thiên Kết Giới』 nhắm vào Souma Sakura diễn ra vô cùng tàn nhẫn và khắc nghiệt cũng là sự thật hiển nhiên.
 
-“Chuyện đó thì... đúng vậy thật... Tớ cũng thấy đồng cảm với cậu.”
+“Chuyện đó thì... đúng là vậy thật... Tớ cũng thấy thương cậu lắm.”
 
-“Nếu đã đồng cảm thì cậu phải giúp tớ một tay chứ.”
+“Nếu đã thương tớ thì cậu phải đứng về phía tớ mà lên tiếng chứ!”
 
-“Nhi hi hi, chuyện đó thì hơi quá sức rồi nha~”
+“Nhi hi hi, cái đó thì quá sức của tớ rồi nha~”
 
-“Minami, chẳng phải cậu cũng đang bị Momokawa dắt mũi quá rồi sao?”
+“Minami, chẳng lẽ cậu cũng bị tên Momokawa đó dắt mũi rồi sao?”
 
-“Làm gì có chuyện đó. Đây là giao dịch sòng phẳng... kiểu như đối tác làm ăn ấy mà.”
+“Làm gì có chuyện đó chứ. Tụi tớ là giao dịch sòng phẳng đôi bên cùng có lợi... kiểu như đối tác làm ăn uy tín ấy mà!”
 
-“Có lẽ để xây dựng một mối quan hệ tốt đẹp với cậu ta, đó là cách tốt nhất đấy.”
+“Có lẽ để duy trì mối quan hệ hòa thuận với cậu ta, đó lại là phương án khôn ngoan nhất đấy.”
 
-Kể từ thời ở Học Viện Tháp, và cả khi tình cờ tái ngộ tại Vương quốc Goma, mối quan hệ dùng đồ ngọt để dụ dỗ Minami nhằm đổi lấy các đặc quyền của Kotarou vẫn luôn tiếp diễn. Trong tình cảnh Meiko đã trở lại bên cạnh Kotarou như hiện tại, cậu ta đang sở hữu thợ làm bánh duy nhất có thể thỏa mãn cái miệng sành ăn của một cô nàng hiện đại như Minami, khiến cho mối quan hệ giữa hai người càng thêm phần vững chắc.
+Kể từ những ngày còn ở Học Viện Tháp, cho đến cuộc tái ngộ tại Vương quốc Goma, mối quan hệ dùng bánh ngọt để mua chuộc sự hợp tác từ Minami của Kotarou vẫn luôn vận hành trơn tru. Nhất là khi Meiko đã quay trở lại sát cánh bên Kotarou như hiện tại, cậu ta đang nắm trong tay đầu bếp duy nhất có thể chiều chuộng cái miệng sành ăn của một nữ sinh hiện đại như Minami, khiến sợi dây liên kết giữa hai người càng thêm phần khăng khít.
 
-“Cả Ryouko nữa, cậu cũng đừng để tên Momokawa đó lợi dụng một cách dễ dàng như vậy chứ. Thật là, toàn đùn đẩy mấy việc phiền phức sang cho người khác.”
+“Cả Ryouko nữa, cậu cũng đừng để tên Momokawa đó lợi dụng một cách dễ dàng như vậy chứ. Thật tình, hắn ta chỉ toàn đùn đẩy mấy chuyện phiền toái sang cho người khác thôi.”
 
-“Không sao đâu, kể từ khi làm Lớp trưởng, cái số tớ đã định sẵn là phải chịu khổ rồi ——— Mà trước hết, nếu thực sự muốn nghĩ cho tớ, Sakura cũng đừng có nhõng nhẽo quá mức nữa nhé.”
+“Không sao đâu, từ lúc nhận cái chức Lớp trưởng này, số mệnh tớ đã định sẵn là phải gánh vác nhọc nhằn rồi ——— Mà trước hết, nếu thực lòng muốn nghĩ cho tớ, Sakura cũng đừng có nhõng nhẽo làm mình làm mẩy nữa nhé.”
 
-“Tớ đâu có nhõng nhẽo... À không, ý cậu là dù tớ không cố ý, nhưng tớ vẫn vô tình gây thêm rắc rối cho Ryouko đúng không.”
+“Tớ đâu có nhõng nhẽo... À không, ý cậu là dù tớ không cố ý, nhưng tớ vẫn đang vô tình gây thêm rắc rối cho Ryouko đúng không?”
 
-Sakura coi Ryouko là một người bạn vô cùng quan trọng, nhưng khó có thể nói rằng Ryouko cũng dành trọn vẹn niềm tin cho cô. Minh chứng rõ ràng nhất chính là việc Ryouko đã âm thầm liên lạc với Kotarou trong chiến dịch chinh phục Vương quốc Goma.
+Sakura luôn xem Ryouko là người bạn tri kỷ vô cùng quan trọng, nhưng khó lòng khẳng định rằng Ryouko cũng đặt trọn niềm tin nơi cô. Minh chứng rõ ràng nhất chính là việc Ryouko đã bí mật bắt tay liên lạc với Kotarou trong suốt chiến dịch công phá Vương quốc Goma.
 
-Dưới góc nhìn lúc bấy giờ, đó thực chất là một hành vi phản bội ——— Thế nhưng, vì kẻ đứng sau mọi chuyện hóa ra lại là Takanashi Kotori, việc Ryouko and Minami bắt tay với Kotarou lại trở thành nước đi tối ưu nhất để gắn kết lớp học lại một lần nữa.
+Dưới góc nhìn của nhóm Souma lúc bấy giờ, đó thực chất không khác gì một hành vi phản bội ——— Thế nhưng, bởi vì kẻ chủ mưu thực sự lại là Takanashi Kotori, cú bắt tay ngầm giữa Ryouko, Minami và Kotarou rốt cuộc lại trở thành nước cờ tối ưu nhất để cứu vớt cả lớp khỏi bờ vực diệt vong.
 
-Sakura và Asuna đã ngây thơ tin sái cổ vào một câu chuyện ngụy trang đầy thuyết phục: Ryouko thuyết phục Yuuto rằng “tớ không thể nói rõ lý do nhưng xin hãy tin tớ”, và trên bề nổi, mọi hoạt động phá hoại đều do một mình Minami lẻn vào kích hoạt phiến đá cổ thực hiện.
+Sakura và Asuna khi ấy đã ngây thơ tin sái cổ vào một câu chuyện ngụy trang hoàn hảo: Ryouko thuyết phục Yuuto rằng “tớ không thể nói rõ lý do nhưng xin cậu hãy tin tớ”, trong khi trên bề nổi, mọi hành vi phá hoại cấm địa đều do một mình Minami âm thầm lẻn vào kích hoạt phiến đá cổ.
 
-Đó có lẽ là minh chứng rõ ràng nhất cho thấy ngay từ thời điểm đó, Ryouko đã không còn ở trong một mối quan hệ có thể chia sẻ mọi bí mật với cô nữa. Trên thực tế, nếu Ryouko thành thật tiết lộ về kế hoạch tấn công Vương quốc Goma và lời đề nghị hợp tác từ Kotarou, Sakura chắc chắn sẽ phản đối kịch liệt, và trong trường hợp xấu nhất, cô thậm chí có thể tự ý hành động để phá hoại kế hoạch của Kotarou.
+Đó chính là dấu hiệu rõ ràng nhất cho thấy ngay từ thời điểm ấy, Ryouko đã không còn ở trong mối quan hệ có thể bộc bạch mọi bí mật với cô nữa. Trên thực tế, nếu Ryouko thật thà tiết lộ về kế hoạch đánh sập Vương quốc Goma và lời đề nghị hợp tác từ Kotarou, Sakura chắc chắn sẽ phản đối kịch liệt, và trong kịch bản tệ nhất, cô thậm chí có thể mù quáng hành động phá hoại toàn bộ kế hoạch của Kotarou.
 
-Rốt cuộc, cô đã bị thực tế tát thẳng vào mặt rằng việc hành động theo những gì bản thân tin là đúng đắn đôi khi lại dẫn đến những kết cục tồi tệ nhất.
+Cuối cùng, thực tế tàn khốc đã tát thẳng vào mặt cô một bài học cay đắng: việc mù quáng hành động theo những gì bản thân cho là chính nghĩa đôi khi lại dẫn thẳng tới những kết cục thảm khốc nhất.
 
-“May mà tớ không bị mắng là kẻ phản bội đấy.”
+“May mà tớ không bị cậu mắng té tát là kẻ phản bội đấy nhé.”
 
-“Nhờ Takanashi lộ bản chất thật nên mối quan hệ giữa cậu và Sakura-chan mới không rơi vào thế khó xử nhỉ.”
+“Cũng nhờ Takanashi lộ bộ mặt thật sớm nên mối quan hệ giữa cậu và Sakura-chan mới không rơi vào cảnh khó nhìn mặt nhau đấy chứ.”
 
-“Đúng... vậy nhỉ... Nếu như lúc đó chiến dịch chinh phục Tháp cứ thế bắt đầu theo lời của Momokawa, tớ chắc chắn sẽ khinh bỉ hai cậu như những kẻ phản bội.”
+“Đúng... vậy thật nhỉ... Nếu như lúc đó chiến dịch chinh phục Tháp cứ thế bắt đầu theo đúng sự sắp đặt của Momokawa, tớ chắc chắn sẽ khinh bỉ hai cậu như những kẻ phản bội đê hèn.”
 
-Cô chỉ tin vào những gì mình muốn tin, để rồi kẻ bị dắt mũi lại chính là bản thân cô.
+Cô chỉ tin vào những gì mình muốn tin, để rồi kẻ bị dắt mũi thảm hại lại chính là bản thân cô.
 
-Đối với Sakura, có lẽ sự thật này còn mang lại cú sốc lớn hơn cả việc biết được Takanashi Kotori là kẻ chủ mưu đứng sau tất cả.
+Đối với Sakura, có lẽ sự thật bẽ bàng này còn giáng một đòn đau đớn hơn cả việc phát hiện Takanashi Kotori là kẻ đứng sau mọi tội ác.
 
-“Tớ cứ nghĩ niềm tin của chúng ta là giống nhau... nhưng tại sao mọi chuyện lại rẽ sang hai hướng khác biệt như thế này... Tại sao các cậu lại có thể tin vào những lời của Momokawa chứ?”
+“Tớ cứ ngỡ niềm tin của chúng ta luôn đồng điệu... nhưng cớ sao mọi chuyện lại rẽ sang hai hướng đối nghịch thế này... Tại sao các cậu lại có thể dễ dàng đặt niềm tin vào những lời của Momokawa chứ?”
 
-“Bởi vì tớ không có tính khiết phế như cậu, Sakura ạ. Đừng nói với tớ là cậu đã quên mất vụ việc châm ngòi cho vết nứt không thể cứu vãn trong mối quan hệ giữa cậu và Momokawa-kun đấy nhé.”
+“Bởi vì tớ không mắc bệnh thanh cao đạo đức như cậu, Sakura à. Đừng nói là cậu đã quên khuấy mất vụ việc châm ngòi cho vết rạn nứt không thể hàn gắn giữa cậu và Momokawa-kun rồi đấy nhé.”
 
-Vào một buổi tối nọ, sau khi Kotarou vừa cặm cụi thu thập một thành phần đặc thù có nguồn gốc từ nam giới để làm nguyên liệu chú thuật, Asuna đã không may ——— hoặc cũng có thể vụ việc đó vốn dĩ đã do Takanashi dàn dựng ——— bắt gặp cậu ta. Cô lập tức khống chế cậu không cần hỏi han, khiến mọi chuyện vỡ lở thành một vụ bê bối lớn.
+Vào một đêm nọ, sau khi Kotarou vừa cặm cụi thu thập một thành phần sinh lý đặc thù từ nam giới để phục vụ cho việc chế tạo chú thuật, Asuna đã vô tình ——— hoặc rất có thể vụ bắt quả tang đó vốn dĩ đã nằm trong kịch bản gài bẫy của Takanashi ——— bắt gặp tại trận. Cô ta lập tức vũ lực khống chế cậu mà chẳng buồn hỏi han đầu đuôi, khiến sự việc bùng nổ thành một vụ bê bối chấn động cả lớp.
 
-Hành động của Kotarou đã vấp phải sự ghê tởm tột độ về mặt sinh lý từ Sakura và Asuna, khiến họ chỉ trích cậu thậm tệ. Ngược lại, Futaba Meiko, người luôn bảo vệ Kotarou, lại đưa ra lập trường cứng rắn rằng bất kỳ ai dám làm tổn thương cậu, dù là bạn học đi chăng nữa, cô cũng sẽ không nương tay.
+Hành vi của Kotarou đã vấp phải sự ghê tởm tột cùng về mặt sinh lý từ phía Sakura và Asuna, khiến họ không tiếc lời thóa mạ, chỉ trích cậu thậm tệ. Trái lại, Futaba Meiko, người luôn một lòng bảo bọc Kotarou, đã đanh thép tuyên bố rằng bất kỳ ai dám làm tổn thương cậu, dẫu có là bạn cùng lớp đi chăng nữa, cô cũng sẽ vung rìu chém không nương tay.
 
-Với tư cách là Lớp trưởng, Ryouko đã vô cùng lo lắng và sốt ruột vì phải tìm mọi cách ngăn chặn sự rạn nứt giữa các nhóm trong lớp. Người duy nhất thấu hiểu được nỗi lòng của cô và không tham gia vào làn sóng tẩy chay Kotarou chính là Minami. Những người bạn thân thực sự luôn thấu hiểu nhau đến mức độ này.
+Với cương vị Lớp trưởng, Ryouko khi ấy đã phải điên đầu tìm mọi cách để ngăn chặn sự rạn nứt nội bộ. Người duy nhất thấu hiểu nỗi khổ tâm của cô và kiên quyết không hùa theo làn sóng tẩy chay cô lập Kotarou chính là Minami. Những người bạn thân thiết thực sự luôn thấu suốt lòng nhau đến mức độ ấy.
 
-“Kể từ thời điểm đó, sự đối đầu giữa cậu và Momokawa-kun đã bắt đầu... và vụ việc của Ayase-san cũng đã khiến mối quan hệ giữa cậu ta và Yuuto-kun hoàn toàn đổ vỡ.”
+“Kể từ khoảnh khắc đó, sự đối đầu gay gắt giữa cậu và Momokawa-kun đã chính thức bùng nổ... và cái chết của Ayase-san sau đó cũng đã vĩnh viễn chặt đứt mối liên kết giữa cậu ta và Yuuto-kun.”
 
-“...Chuyện của Reina, chẳng lẽ cũng là do Takanashi Kotori...”
+“...Chuyện của Reina, chẳng lẽ thực sự cũng do một tay Takanashi Kotori giật dây sao...?”
 
-“Đúng là người trực tiếp ra tay sát hại cậu ấy là Momokawa-kun, điều đó không sai. Thế nhưng, khả năng cao là đã có một âm mưu nhằm chia rẽ và loại bỏ cậu ấy khỏi tầm mắt của Yuuto-kun.”
+“Đúng là người trực tiếp ra tay đoạt mạng cậu ấy là Momokawa-kun, điều đó không thể chối cãi. Thế nhưng, khả năng cực cao là đã có một âm mưu thâm độc nhằm ly gián và loại bỏ cậu ấy hoàn toàn khỏi tầm mắt của Yuuto-kun.”
 
-Ngay vào khoảnh khắc Kotarou đâm chết Reina, nhóm của Yuuto đã dịch chuyển đến nơi.
+Ngay vào khoảnh khắc Kotarou đâm chết Reina, nhóm của Yuuto đã dịch chuyển đến nơi chuẩn xác tới từng giây.
 
-Thời điểm trùng hợp đến mức hoàn hảo đó chỉ có thể là do Kotori đã tính toán từ trước. Ít nhất, cô ta có thể nhận biết được thời cơ chín muồi để chỉ định điểm dịch chuyển ngay tại vị trí đó.
+Thời điểm trùng khớp đến mức rợn người ấy chỉ có thể là do Kotori đã dày công tính toán từ trước. Ít nhất, ả ta hoàn toàn có đủ khả năng nhận biết thời cơ chín muồi để chỉ định điểm dịch chuyển ập tới ngay khoảnh khắc nghiệt ngã ấy.
 
-Reina Adelheid Ayase là thanh mai trúc mã của Souma Yuuto, và ngoại trừ cô em gái Sakura, cô ấy là người con gái thân cận nhất với cậu ta. Một khi mục đích của Kotori là chiếm đoạt Yuuto, sự tồn tại của Reina rõ ràng là một cái gai trong mắt cô ta.
+Reina Adelheid Ayase vốn là thanh mai trúc mã sâu đậm của Souma Yuuto, và ngoại trừ cô em gái Sakura, cô ấy chính là người con gái gần gũi nhất với cậu ta. Một khi dã tâm của Kotori là độc chiếm hoàn toàn Yuuto, sự hiện diện của Reina rõ ràng là một cái gai trong mắt cần phải nhổ bỏ bằng mọi giá.
 
-“Tùy thuộc vào tâm trạng của Kotori, vị trí của cậu và Ayase-san rất có thể đã bị hoán đổi cho nhau rồi đấy.”
+“Tùy thuộc vào tâm trạng của Kotori, vị trí của cậu và Ayase-san rất có thể đã bị tráo đổi cho nhau rồi đấy.”
 
-“Ý cậu là... đóng vai trò vật tế bi kịch để thúc đẩy sự thức tỉnh của anh trai tớ sao?”
+“Ý cậu là... trở thành vật tế bi kịch để thúc đẩy sự thức tỉnh sức mạnh cho anh trai tớ sao?”
 
-“Phải. Bởi vì chìa khóa cuối cùng để thức tỉnh sức mạnh của Dũng Giả chắc chắn là cái chết của người thân cận nhất.”
+“Phải. Bởi vì chìa khóa tối thượng để cưỡng ép thức tỉnh toàn bộ tiềm năng của Dũng Giả chắc chắn phải là cái chết của người thân yêu nhất.”
 
-Lý do duy nhất khiến Kotori cho phép Yuuto và Sakura luôn đồng hành cùng nhau kể từ khi bắt đầu chiến dịch chinh phục hầm ngục chỉ có thể là vì điều đó.
+Lý do duy nhất khiến Kotori để mặc cho Yuuto và Sakura luôn dính lấy nhau như hình với bóng kể từ đầu chuyến hành trình chỉ có thể là vì toan tính tàn độc ấy.
 
-Nói cách khác, vật tế cuối cùng và lớn nhất chỉ cần một mình cô em gái Sakura là đủ. Kẻ thứ hai như Reina là hoàn toàn thừa thãi.
+Nói cách khác, vật tế cuối cùng và mang lại giá trị cảm xúc lớn nhất chỉ cần một mình cô em gái Sakura là quá đủ. Kẻ thừa thãi thứ hai như Reina cần phải bị thanh trừng sớm.
 
-“Tôi tuyệt đối sẽ không để mọi chuyện diễn ra theo ý muốn của con mụ đó. Anh trai, tôi nhất định sẽ tự tay cứu anh ấy ra.”
+“Tôi tuyệt đối sẽ không để mọi chuyện diễn ra theo đúng ý đồ của con mụ khốn khiếp đó. Anh trai, tôi nhất định sẽ tự tay giải cứu anh ấy trở về!”
 
-“Phải rồi, để cứu được Yuuto-kun, chúng ta phải là những người nỗ lực nhiều nhất.”
+“Phải rồi, để cứu được Yuuto-kun, chính chúng ta mới là những người phải dốc toàn lực nhiều nhất.”
 
-Ryouko hiểu rõ rằng trong trường hợp xấu nhất, Kotarou hoàn toàn có thể lựa chọn từ bỏ Yuuto.
+Ryouko hiểu quá rõ rằng trong kịch bản xấu nhất, Kotarou hoàn toàn có thể lạnh lùng vứt bỏ Yuuto.
 
-Mức độ rủi ro có thể gánh vác và sự hy sinh có thể đánh đổi để cứu một người đương nhiên sẽ khác nhau tùy thuộc vào mối quan hệ của họ. Sakura có thể yêu thương Yuuto đến mức sẵn sàng cứu cậu ta mà không màng đến tính mạng của mình, nhưng Kotarou thì không có tình cảm sâu đậm đến thế. Ngược lại, nếu người bị bắt là Meiko, Kotarou sẽ chấp nhận trải qua muôn vàn gian khổ để cứu cô ấy, trong khi Sakura chắc chắn sẽ từ chối thẳng thừng việc phải liều mạng vì một chuyện như vậy.
+Mức độ rủi ro chấp nhận gánh vác và sự hy sinh có thể đánh đổi để cứu một mạng người hiển nhiên phụ thuộc hoàn toàn vào mức độ thân sơ giữa họ. Sakura có thể yêu thương Yuuto đến mức sẵn sàng liều mạng vì cậu ta, nhưng Kotarou thì tuyệt đối không có thứ tình cảm sâu đậm ấy. Ngược lại, nếu người rơi vào tay giặc là Meiko, Kotarou sẵn sàng lật tung cả thế giới để cứu cô ấy, trong khi Sakura chắc chắn sẽ thẳng thừng từ chối việc phải liều mạng vì một người không mấy can hệ.
 
-Dù không nói thẳng ra, nhưng đối với những người cần được giải cứu lần này, về cơ bản họ đã được phân công cho những người khao khát cứu họ nhất làm nhân lực chủ chốt.
+Dù không nói toẹt ra ngoài mặt, nhưng đối với những mục tiêu cần giải cứu trong chiến dịch lần này, quyền chỉ huy trực tiếp đã được giao trọn cho những người khao khát cứu họ nhất làm nòng cốt tiên phong.
 
-Souma Yuuto giao cho Sakura. Kinako giao cho Rerite. Và Kenzaki Asuna giao cho Nakajima. Mỗi người họ đều phải gánh vác những vai trò nguy hiểm và quan trọng nhất.
+Souma Yuuto giao cho Sakura. Kinako giao cho Rerite. Và Kenzaki Asuna giao cho Nakajima. Mỗi người họ đều phải tự mình gánh vác những trọng trách nguy hiểm và cam go nhất.
 
-Một khi người phụ trách nhận định rằng nhiệm vụ bất khả thi hoặc bản thân sắp mất mạng, chiến dịch giải cứu sẽ lập tức bị hủy bỏ dưới sự chỉ đạo của Kotarou, và họ sẵn sàng xuống tay tiêu diệt mục tiêu ——— Đó chính là điều đã được thống nhất trong cuộc họp chiến thuật.
+Một khi người phụ trách nhận định rằng nhiệm vụ đã rơi vào ngõ cụt bất khả thi hoặc bản thân sắp mất mạng, chiến dịch giải cứu sẽ lập tức bị hủy bỏ dưới quyền quyết định tối cao của Kotarou, và họ phải sẵn sàng xuống tay tiêu diệt mục tiêu ——— Đó chính là thỏa thuận sắt đá đã được toàn thể thông qua trong cuộc họp chiến thuật.
 
-Tuyệt đối không cho phép hy sinh bất kỳ ai để cứu một người khác. Mạng sống của đồng đội là ưu tiên tối thượng. Đó là quy tắc do Kotarou đặt ra cho chiến dịch lần này, và đã được toàn bộ thành viên đồng thuận thông qua.
+Tuyệt đối không chấp nhận hy sinh tính mạng của bất kỳ ai để cứu vớt một kẻ khác. Mạng sống của đồng đội hiện tại là ưu tiên tối thượng. Đó là quy tắc bất di bất dịch do chính Kotarou đặt ra cho trận chiến sinh tử này, và đã nhận được sự đồng thuận tuyệt đối từ tất cả mọi người.
 
-“Chắc chắn sẽ ổn thôi mà. Cả Sakura-chan, Ryouko-chan và tớ nữa, tất cả đều đã luyện tập rất nhiều và chuẩn bị vô cùng kỹ lưỡng rồi! Hơn nữa, nhìn xem, chúng ta còn có cả Tendou-kun nữa, kiểu gì cũng sẽ có cách giải quyết thôi!”
+“Chắc chắn mọi chuyện sẽ suôn sẻ thôi mà! Cả Sakura-chan, Ryouko-chan và tớ nữa, tụi mình đều đã khổ luyện và chuẩn bị vô cùng chu đáo rồi! Chưa kể, nhìn xem, chúng ta còn có cả Tendou-kun hùng mạnh nữa cơ mà, kiểu gì cũng sẽ có cách vượt qua hết thôi!”
 
-“Ừm, đúng vậy nhỉ, Minami. Nhất định chúng ta sẽ tự tay mang anh trai trở về.”
+“Ừm, đúng vậy nhỉ, Minami. Nhất định tụi mình sẽ tự tay đưa anh trai trở về.”
 
-Dù đã vượt qua biết bao trận chiến khốc liệt, nhưng đêm trước một cuộc đại chiến vẫn luôn mang lại cảm giác bất an. Chính vì thế, sự lạc quan và vui vẻ vô bờ bến của Minami vào lúc này lại là liều thuốc tinh thần đáng quý hơn bất cứ thứ gì.`
+Dẫu đã kinh qua biết bao trận huyết chiến kinh hoàng, cảm giác bồn chồn trước thềm một cuộc đại chiến sinh tử vẫn luôn là thứ khó lòng gạt bỏ. Chính vì thế, sự lạc quan và nguồn năng lượng tích cực vô tận của Minami vào lúc này lại chính là liều thuốc an thần quý giá hơn bất cứ thứ gì trên đời.`
             },
             {
                 "id": "ep_346",
@@ -63633,9 +63645,9 @@ Himeno mở cửa đón Nakajima trong bộ nội y ren cầu kỳ phối cùng 
 
 Khoác trên mình kết tinh của sự nỗ lực đầy nước mắt ấy, Himeno nở nụ cười ma mị mời Nakajima vào phòng.
 
-Có lẽ do bộ trang phục quá đỗi gợi cảm, hoặc đúng như cô nói, đã lâu rồi hai người mới riêng tư thế này. Đêm nay trông cô quyến rũ đến lạ kỳ.
+Có lẽ do bộ trang phục quá đỗi gợi cảm, hoặc đúng như cô nói, đã lâu lắm rồi hai người mới có không gian riêng tư thế này, đêm nay trông cô quyến rũ đến lạ kỳ.
 
-Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nhân mang sức hút riêng biệt. Nếu đặt một Himeno với dung nhan tầm thường cạnh họ, cô sẽ hoàn toàn bị lu mờ... Thế nhưng, căn phòng này là lãnh địa của riêng Himeno Airi. Cô đang nắm giữ địa lợi.
+Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nhân mang sức hút riêng biệt. Nếu đặt một Himeno với dung nhan tầm thường cạnh họ, cô sẽ hoàn toàn bị lu mờ... Thế nhưng, căn phòng này là lãnh địa của riêng Himeno Airi. Cô đang nắm giữ tuyệt đối lợi thế sân nhà.
 
 “Ngồi đi.”
 
@@ -63643,29 +63655,29 @@ Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nh�
 
 “Thôi nào, ngồi xuống đi.”
 
-Himeno vỗ vỗ lên khoảng trống bên cạnh trên giường, gọi cậu.
+Himeno vỗ vỗ lên khoảng trống bên cạnh trên giường, khẽ gọi cậu.
 
-Đến nước này, Nakajima không còn là gã trai tân ngây ngô đến mức phải ngượng ngùng khi ngồi cạnh một cô gái trên giường. Cậu ngoan ngoãn làm theo, ngồi xuống bên cạnh Himeno.
+Đến nước này, Nakajima không còn là gã trai tân ngây ngô đến mức phải luống cuống khi ngồi cạnh một cô gái trên giường. Cậu ngoan ngoãn làm theo, ngồi xuống bên cạnh Himeno.
 
 Một mùi hương ngọt ngào như hoa thoang thoảng xộc vào mũi cậu.
 
 “Haruma-kun đến tìm, tớ vui lắm. Ngày mai là xuất phát rồi, tớ cứ thấy bất an thế nào ấy.”
 
-Himeno nói với giọng điệu nũng nịu, khẽ ngước mắt nhìn cậu rồi đặt tay lên đùi Nakajima vuốt ve.
+Himeno cất giọng nũng nịu, khẽ ngước mắt nhìn cậu rồi đặt tay lên đùi Nakajima nhẹ nhàng vuốt ve.
 
-Sự đụng chạm cơ thể cỡ đó không làm cậu lung lay, nhưng cảm giác nhột nhột vẫn khiến cậu có chút bồn chồn.
+Sự đụng chạm cơ thể cỡ đó không làm cậu lung lay, nhưng cảm giác nhồn nhột vẫn khiến cậu có chút bồn chồn.
 
 Cố tỏ ra như không bận tâm, Nakajima đáp lại bằng những câu xã giao vô thưởng vô phạt.
 
 Cuộc trò chuyện cứ thế tiếp diễn. Những chủ đề tầm thường, những lời tâm sự không mấy sâu sắc.
 
-Nhưng thế là đủ. Dù giữa hai người từng xảy ra nhiều chuyện, hiện tại họ vẫn là đồng đội sát cánh chiến đấu, và cùng bị bóc lột sức lao động trong xưởng của Kotarou. Trong số những người còn lại, họ thực sự là cặp đôi thoải mái với nhau nhất.
+Nhưng thế là đủ. Dù giữa hai người từng xảy ra vô vàn chuyện, hiện tại họ vẫn là đồng đội sát cánh chiến đấu, và cùng bị bóc lột sức lao động trong xưởng của Kotarou. Trong số những người còn lại, họ thực sự là cặp đôi cảm thấy thoải mái nhất khi ở bên nhau.
 
 “———— Vậy, cậu muốn nói chuyện gì?”
 
 Sau khoảng một tiếng trò chuyện phiếm, cuối cùng cô cũng đi vào chủ đề chính.
 
-Nakajima ngập ngừng một chút, rồi như để gạt bỏ sự do dự, cậu thẳng thắn lên tiếng.
+Nakajima ngập ngừng một thoáng, rồi như để gạt bỏ sự do dự, cậu thẳng thắn lên tiếng:
 
 “Tớ đến đây là muốn nhờ Airi một việc.”
 
@@ -63677,27 +63689,27 @@ Nakajima ngập ngừng một chút, rồi như để gạt bỏ sự do dự, c
 
 “Nên... lúc đó, tớ muốn nhờ Airi hỗ trợ trị liệu.”
 
-Kế hoạch bắt giữ Kenzaki Asuna không hề dễ dàng đến mức có thể đưa cô ấy về mà không sứt mẻ gì. Về cơ bản, điều kiện tiên quyết là phải đánh cho cô ấy mất khả năng chiến đấu. Một trận chiến trực diện là không thể tránh khỏi.
+Kế hoạch bắt giữ Kenzaki Asuna không hề dễ dàng đến mức có thể đưa cô ấy về mà không sứt mẻ chút nào. Về cơ bản, điều kiện tiên quyết là phải đánh cho cô ấy mất hoàn toàn khả năng chiến đấu. Một trận chiến trực diện sinh tử là không thể tránh khỏi.
 
-Nakajima hiểu rõ điều đó và chấp nhận nó. Nếu đòi hỏi cao hơn, Kotarou chắc chắn sẽ gạt đi vì cho rằng quá bất khả thi, và chuyển sang phương án từ bỏ Asuna.
+Nakajima hiểu rõ điều đó và chấp nhận nó. Nếu đòi hỏi cao hơn, Kotarou chắc chắn sẽ gạt đi vì cho rằng quá bất khả thi, rồi chuyển sang phương án từ bỏ Asuna.
 
 Nakajima biết thừa Kotarou chẳng có ấn tượng tốt đẹp gì với Asuna. Dù vậy, cậu ta vẫn tôn trọng tình cảm của cậu mà ưu tiên phương án cứu người.
 
 Dù kế hoạch có phần liều lĩnh và nguy hiểm, Nakajima vẫn nghĩ đây là lựa chọn tốt nhất để nhận được sự đồng thuận và hỗ trợ từ Kotarou. Phần còn lại, tỷ lệ thành công cao hay thấp hoàn toàn phụ thuộc vào nỗ lực của chính cậu.
 
-“Hửm, trị liệu à... So với đứa như tớ, nhờ Souma-san bên 『Thánh Nữ』 chẳng phải tốt hơn sao?”
+“Hửm, trị liệu à... So với đứa như tớ, nhờ Souma-san bên 『Thánh Nữ』 chẳng phải tốt hơn nhiều sao?”
 
 Himeno trả lời bằng giọng điệu hờn dỗi giả vờ.
 
-“Tớ đương nhiên đã nhờ rồi. Nhưng liệu lúc dầu sôi lửa bỏng, Souma-san có thực sự chịu trị liệu cho Kenzaki-san hay không thì...”
+“Tớ đương nhiên đã nhờ rồi. Nhưng liệu đến lúc dầu sôi lửa bỏng, Souma-san có thực sự chịu trị liệu cho Kenzaki-san hay không thì...”
 
-Souma Sakura, dù tốt hay xấu, đều là người quá rạch ròi và sạch sẽ. Dù Asuna từng là người bạn thân thiết, nhưng một khi đã là kẻ phản bội, khả năng cao Sakura sẽ thẳng tay ruồng bỏ.
+Souma Sakura, dù tốt hay xấu, đều là người quá rạch ròi và sạch sẽ. Dù Asuna từng là bạn thân thiết, nhưng một khi đã là kẻ phản bội, khả năng cao Sakura sẽ thẳng tay ruồng bỏ.
 
 Nakajima thực tế đã mở lời nhờ Sakura trị liệu giúp khi cứu được Asuna, nhưng chỉ nhận lại câu trả lời lạnh lùng: “Cứu hay không còn tùy thuộc vào thái độ của Asuna.” Có lẽ Sakura sẽ quyết định để Asuna sống hay chết dựa trên biểu hiện của cô ấy lúc đó.
 
 Với một Nakajima muốn cứu sống Asuna bằng mọi giá, cậu không thể đánh cược vào sự mập mờ của Sakura.
 
-“Nên cậu mới tìm tớ.”
+“Nên cậu mới tìm đến tớ.”
 
 “Ừ. Tớ biết rõ cậu rất hận cô ấy. Tớ cũng tự biết mình đang đưa ra một yêu cầu ích kỷ. Nhưng dù vậy, tớ vẫn————”
 
@@ -63721,15 +63733,15 @@ Airi mỉm cười rạng rỡ. Nhưng Nakajima không còn ngây thơ đến m�
 
 Đấy, biết ngay mà.
 
-Làm gì có chuyện cô chấp nhận yêu cầu này mà không đòi hỏi gì. Nakajima cảnh giác đề phòng.
+Làm gì có chuyện cô chấp nhận yêu cầu này mà không đòi hỏi điều kiện gì. Nakajima lập tức cảnh giác đề phòng.
 
-“Ma pháp trị liệu của tớ so với Souma-san thì kém xa đúng không? Nên nếu vết thương quá nặng, tớ không tự tin là mình chữa được đâu.”
+“Ma pháp trị liệu của tớ so với Souma-san thì kém xa đúng không? Nên nếu vết thương quá nặng, tớ không tự tin là mình chữa nổi đâu.”
 
 “Chuyện đó thì tớ nghĩ cũng đành chịu thôi...”
 
-Nakajima ngay từ đầu đã không mong đợi một sự trị liệu hoàn hảo. Chỉ cần ma pháp của Airi giữ được mạng sống cho Asuna là đủ.
+Nakajima ngay từ đầu đã không mong đợi một sự trị liệu hoàn hảo. Chỉ cần ma pháp của Airi giữ được mạng sống cho Asuna là quá đủ.
 
-Thế nhưng, cậu lập tức nhận ra ý đồ của Airi khi cô ngả đầu tựa vào vai cậu.
+Thế nhưng, cậu lập tức nhận ra ý đồ thực sự của Airi khi cô nghiêng đầu tựa vào vai cậu.
 
 “Nhưng mà, thực chất tớ là 『Succubus』 đúng không?”
 
@@ -63737,7 +63749,7 @@ Thế nhưng, cậu lập tức nhận ra ý đồ của Airi khi cô ngả đ�
 
 “Thế nên là, nếu Haruma-kun chịu 'hợp tác' với tớ, tớ sẽ phát huy được nhiều sức mạnh hơn bình thường đấy. Kiểu như... hấp thụ ma lực ấy?”
 
-Himeno bật cười khúc khích đầy ẩn ý, bàn tay đang vuốt ve đùi cậu nãy giờ bắt đầu lướt dần lên gần vùng nhạy cảm.
+Himeno bật cười khúc khích đầy ẩn ý, bàn tay đang vuốt ve đùi cậu nãy giờ bắt đầu lướt dần lên vùng nhạy cảm.
 
 Nakajima không phải kẻ khờ đến mức phải hỏi thêm cô đang muốn gì.
 
@@ -63751,7 +63763,7 @@ Cơ thể hai người lập tức dán chặt vào nhau. Ở cự ly gần, Air
 
 “Được, tớ hứa. Nếu làm vậy có thể cứu được cô ấy————”
 
-Không cần thêm bất kỳ lời nào nữa, hai chiếc bóng nhanh chóng hòa làm một.
+Không cần thêm bất kỳ lời nào nữa, hai bóng hình nhanh chóng hòa quyện làm một.
 
 ***
 
@@ -63783,9 +63795,9 @@ Chính xác thì là một người và một sinh vật. Liberta đậu trên v
 
 “Mấy chuyện đó chỉ tổ phiền phức thôi. Nhớ kỹ lấy.”
 
-Tendou nhíu mày, rít một hơi thuốc thật sâu. Dù vẻ mặt cậu lộ rõ sự khó chịu, Liberta vẫn biết cậu không thực sự ghét bỏ điều đó.
+Tendou nhíu mày, rít một hơi thuốc thật sâu. Dù vẻ mặt cậu lộ rõ sự khó chịu, Liberta vẫn biết cậu không thực sự ghét bỏ cuộc trò chuyện này.
 
-Đó là đặc quyền của khế ước ràng buộc linh hồn. Dù không có nó, qua khoảng thời gian ngắn ngủi này, họ cũng đã hiểu rõ tính khí của nhau.
+Đó là đặc quyền của khế ước ràng buộc linh hồn. Dù không có nó, qua khoảng thời gian ngắn ngủi đồng hành, họ cũng đã hiểu rõ tính khí của nhau.
 
 Tendou vốn là kẻ né tránh việc kết thân với người khác, nhưng có lẽ vì Liberta không phải con người nên cậu mới có thể thoải mái trò chuyện như vậy.
 
@@ -63835,7 +63847,7 @@ Một ma pháp trận hoàng kim đột ngột tỏa sáng chói lọi bên gố
 
 Tendou xách cổ cô nàng vẫn đang cố công dính lấy mình ném sang chiếc giường đối diện.
 
-Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài việc nó có hai chiếc giường đơn.
+Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài việc nó có sẵn hai chiếc giường đơn.
 
 “U ư... Ngủ một mình lạnh lẽo lắm, Chủ nhân ơi...”
 
@@ -63843,9 +63855,9 @@ Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài
 
 Nếu chuyện cậu ngủ chung với Momoko trong bộ dạng gợi cảm thế này bị phát hiện, trái tim của Ryouko có lẽ sẽ vỡ vụn thành trăm mảnh mất.
 
-Cho phép ngủ chung phòng, nhưng tuyệt đối không được chung giường. Đó là khoảng cách hiện tại giữa Tendou và Momoko.
+Cho phép ngủ chung phòng, nhưng tuyệt đối không được chung giường. Đó là khoảng cách ranh giới hiện tại giữa Tendou và Momoko.
 
-Dù thực tế mối quan hệ của họ gần gũi hơn so với Ryouko... nhưng cả hai đều ngầm hiểu rằng tốt nhất là không nên nhắc đến chuyện đó.
+Dù thực tế mối quan hệ của họ gần gũi hơn nhiều so với Ryouko... nhưng cả hai đều ngầm hiểu rằng tốt nhất là không nên nhắc đến chuyện đó.
 
 ***
 
@@ -63859,7 +63871,7 @@ Cả hai đều im lặng.
 
 Đứng trước cửa phòng Kotarou, hai cô gái dò xét đối phương.
 
-Cả hai đều đang mặc chiếc áo sơ mi cỡ lớn dài đến nửa đùi. Càng tiến sâu vào hầm ngục, họ càng thu thập được nhiều nguyên liệu mới, cộng thêm năng lực luyện thành ngày một tiến bộ, chất lượng của các nhu yếu phẩm như nội y cũng không ngừng được nâng cấp.
+Cả hai đều đang mặc chiếc áo sơ mi cỡ lớn dài đến nửa đùi. Càng tiến sâu vào hầm ngục, họ càng thu thập được nhiều nguyên liệu mới, cộng thêm năng lực luyện thành ngày một tiến bộ, chất lượng của các nhu yếu phẩm như trang phục cũng không ngừng được nâng cấp.
 
 Chiếc áo sơ mi rộng thùng thình họ đang mặc có màu trắng tinh khôi như lụa, sờ vào mềm mịn, lại vừa bền bỉ vừa co giãn tốt nhờ sử dụng sợi dệt cổ đại. Hơn nữa, nó còn có khả năng phòng ngự vật lý và kháng thuộc tính nhẹ. Đây là mẫu sản phẩm mới nhất, đầy tính thực dụng do Xưởng Lối Vào cung cấp.
 
@@ -63869,7 +63881,7 @@ Thế nhưng, “trang bị chiến đấu” thực sự của hai người l�
 
 Kyouko ném cái nhìn sắc lẹm về phía cơ thể lấp ló sau lớp áo của Meiko.
 
-Thứ Meiko đang mặc là một bộ nội y màu trắng. Thiết kế tuy được trang trí bằng ren trắng thuần khiết nhưng diện tích vải lại nhỏ đến mức gợi cảm. Vòng một căng tràn và vòng ba nảy nở được ôm trọn một cách hoàn hảo nhờ những đường cắt cúp được tính toán tỉ mỉ. Đây là bộ đồ được thợ may Succubus - Himeno - dồn hết tâm huyết chế tạo để vừa vặn với thân hình chuẩn mẫu nước ngoài của Meiko.
+Thứ Meiko đang mặc là một bộ nội y màu trắng. Thiết kế tuy được trang trí bằng ren trắng thuần khiết nhưng diện tích vải lại nhỏ đến mức gợi cảm. Vòng một căng tràn và vòng ba nảy nở được ôm trọn một cách hoàn hảo nhờ những đường cắt cúp được tính toán tỉ mỉ. Đây là bộ đồ được thợ may 『Succubus』 — Himeno — dồn hết tâm huyết chế tạo để vừa vặn với thân hình chuẩn mẫu nước ngoài của Meiko.
 
 Gần đây, Himeno đang trở thành đề tài bàn tán sôi nổi trong giới nữ sinh vì khả năng may những bộ nội y vừa gợi cảm vừa đáng yêu, và cô đã đặc biệt thiết kế bộ này cho người bạn thân nhất của mình. Kết tinh của tình bạn ủng hộ con đường tình yêu này đã trở thành một vũ khí khiêu gợi hạng nặng, đủ sức khiến bất kỳ gã đàn ông nào nhìn thấy cũng phải gục ngã.
 
@@ -63941,25 +63953,25 @@ Nhanh chóng kết thúc cuộc đấu mắt vô nghĩa, cả hai đồng thời
 
 Cậu choàng tỉnh giấc.
 
-Rốt cuộc mình vừa mơ thấy cơn ác mộng gì thế này? Cảm giác thức dậy thật tồi tệ.
+Rốt cuộc mình vừa mơ thấy cơn ác mộng quái quỷ gì thế này? Cảm giác khi thức dậy thật tồi tệ.
 
 “Hộc... hộc...”
 
-Hơi thở dồn dập. Mồ hôi lạnh vã ra đầm đìa khắp người, dính dớp khó chịu. Rõ ràng là vừa ngủ dậy, nhưng cậu lại có cảm giác như thể thể lực bị vắt kiệt. Thực tế, một sự uể oải rã rời như thể vừa trải qua một trận sốt cao đang bám lấy toàn thân.
+Hơi thở dồn dập. Mồ hôi lạnh vã ra đầm đìa khắp người, dính dớp vô cùng khó chịu. Rõ ràng là vừa ngủ dậy, nhưng cậu lại có cảm giác như thể toàn bộ thể lực đã bị vắt kiệt. Thực tế, một sự uể oải rã rời như thể vừa trải qua một trận sốt cao li bì đang bám chặt lấy toàn thân.
 
-Cậu thầm hy vọng bản thân không ngốc nghếch đến mức bị cảm lạnh trong hoàn cảnh này...
+Cậu thầm hy vọng bản thân không ngốc nghếch đến mức lăn ra cảm lạnh trong hoàn cảnh ngặt nghèo này...
 
 “Ủa... mình... đang làm gì thế này...”
 
-Ngay từ đầu, cậu đã quên mất tình cảnh của chính mình. Mình đã làm gì trước đó nhỉ?
+Ngay từ đầu, cậu đã quên khuấy mất tình cảnh của chính mình. Rốt cuộc trước đó mình đã làm gì nhỉ?
 
-Nhận thức về thực tại xung quanh bỗng chốc trở nên mơ hồ.
+Nhận thức về thực tại xung quanh bỗng chốc trở nên mơ hồ đến lạ lùng.
 
 “Đây là đâu...”
 
-Đến tận lúc này cậu mới nhận ra. Đây là một căn phòng trắng toát. Dù có là phòng bệnh đi nữa thì trông nó cũng quá đỗi vô hồn. Trần nhà trắng, bức tường trắng, và những tấm bảng phát sáng trắng quen thuộc của hầm ngục đang chiếu rọi căn phòng một cách rực rỡ.
+Đến tận lúc này cậu mới nhận ra. Đây là một căn phòng trắng toát. Dù có là phòng bệnh đi nữa thì trông nó cũng quá đỗi vô hồn, lạnh lẽo. Trần nhà trắng, những bức tường trắng, cùng các tấm bảng phát quang quen thuộc của hầm ngục đang chiếu rọi căn phòng một cách rực rỡ.
 
-Ở pháo đài ẩn kia làm gì có căn phòng nào như thế này?
+Ở pháo đài ẩn kia làm gì có căn phòng nào sạch sẽ tinh tươm như thế này?
 
 Không, hình như mình đã rời khỏi nơi đó rồi thì phải...
 
@@ -63967,47 +63979,47 @@ Không, hình như mình đã rời khỏi nơi đó rồi thì phải...
 
 “Oái, Takanashi-san!?”
 
-Giọng nói đột ngột vang lên ngay sát bên cạnh. Khoảng cách gần đến mức vai hai người chạm vào nhau. Takanashi Kotori đang ở ngay đó. Cậu đã lơ đãng đến mức nào mà người ở ngay bên cạnh cũng không nhận ra chứ?
+Một giọng nói đột ngột vang lên ngay sát bên cạnh. Khoảng cách gần đến mức vai hai người khẽ chạm vào nhau. Takanashi Kotori đang ở ngay đó. Cậu đã lơ đãng đến mức nào mà một người sống sờ sờ ở ngay bên cạnh cũng không nhận ra chứ?
 
-Nhưng vấn đề hiện tại không phải là chuyện đó.
+Nhưng vấn đề cấp bách hiện tại không phải là chuyện đó.
 
 “Takanashi-san, c-cậu đang mặc cái kiểu gì thế này!”
 
-Nói là trang phục, nhưng thực chất cô chẳng mặc gì cả. Chỉ có một tấm chăn mỏng đắp hờ ngang ngực, để lộ bờ vai trần trắng muốt và khe ngực đầy đặn vốn không hề tương xứng với vóc dáng nhỏ nhắn của cô.
+Nói là trang phục, nhưng thực chất cô chẳng mặc bất cứ thứ gì trên người. Chỉ có một tấm chăn mỏng đắp hờ ngang ngực, để lộ bờ vai trần trắng muốt và khe ngực đầy đặn vốn không hề tương xứng với vóc dáng nhỏ nhắn của cô.
 
-Cậu tự hỏi tại sao cô lại ngủ khỏa thân bên cạnh mình, để rồi đến lúc này mới giật mình nhận ra chính bản thân cũng đang không một mảnh vải che thân.
+Cậu tự hỏi tại sao cô lại khỏa thân nằm ngủ bên cạnh mình, để rồi đến lúc này mới giật mình nhận ra chính bản thân cũng đang không một mảnh vải che thân.
 
 Tình cảnh này là sao đây? Trông chẳng khác nào cảnh tượng sau một đêm mặn nồng của các cặp tình nhân trên phim ảnh.
 
-Dĩ nhiên, cậu và cô không hề có mối quan hệ đó, và cậu cũng hoàn toàn không có chút ký ức nào về việc đã làm chuyện ấy.
+Dĩ nhiên, cậu và cô không hề có mối quan hệ sâu sắc đến mức đó, và trong đầu cậu cũng hoàn toàn không có chút ký ức nào về việc bản thân đã vượt qua giới hạn.
 
 “Quả nhiên cậu vẫn chưa nhớ ra sao, Souma-kun...”
 
-“Hả, thế này là sao?”
+“Hả, thế này rốt cuộc là sao?”
 
-Gương mặt Kotori thoáng đượm buồn, nhưng tuyệt nhiên không có chút bối rối nào trước tình cảnh kỳ lạ này. Nói là “chưa nhớ ra”, nghĩa là người duy nhất không hiểu chuyện gì đang xảy ra ở đây chỉ có mình cậu.
+Gương mặt Kotori thoáng đượm buồn, nhưng tuyệt nhiên không có chút bối rối hay ngượng ngùng nào trước tình cảnh kỳ lạ này. Nói là “chưa nhớ ra”, nghĩa là người duy nhất không hiểu chuyện gì đang xảy ra ở đây chỉ có một mình cậu.
 
-“Xin lỗi cậu, Takanashi-san. Không hiểu sao ký ức của tớ lại mơ hồ quá... Tại sao chúng ta lại ngủ ở đây, trước khi ngủ tớ đã làm gì, tớ hoàn toàn không nhớ nổi.”
+“Xin lỗi cậu, Takanashi-san. Không hiểu sao ký ức của tớ lại mơ hồ quá... Tại sao chúng ta lại ngủ ở đây, trước khi ngủ tớ đã làm gì, tớ hoàn toàn không tài nào nhớ nổi.”
 
 “Ừm, tớ biết mà. Không sao đâu, Kotori hiểu rõ mọi chuyện.”
 
-Thật may là Kotori có vẻ nắm rõ tình hình dẫn đến cớ sự này. Chứ nếu cả hai cùng bị mất trí nhớ tập thể thì không biết chuyện gì sẽ xảy ra nữa.
+Thật may là Kotori có vẻ nắm rất rõ toàn bộ tình hình dẫn đến cớ sự này. Chứ nếu cả hai cùng bị mất trí nhớ tập thể thì không biết chuyện sẽ còn tệ đến mức nào nữa.
 
-Tuy nhiên, việc chỉ có một mình cậu mất đi ký ức gần đây nhất chắc chắn không phải là điềm lành.
+Tuy nhiên, việc chỉ có một mình cậu mất đi ký ức gần nhất chắc chắn không phải là điềm lành.
 
-“Souma-kun, cơ thể cậu ổn chứ? Đầu có bị đau không?”
+“Souma-kun, cơ thể cậu ổn chứ? Đầu có bị đau buốt không?”
 
 “Tớ hơi sốt một chút thôi, nhưng không sao đâu. Đừng lo lắng... Mà đúng hơn là, tớ nghĩ trước tiên hai đứa mình nên mặc quần áo vào đã.”
 
-Kotori hỏi han với vẻ mặt đầy lo lắng, nhưng trong tình trạng khỏa thân chỉ đắp mỗi tấm chăn mỏng thế này, cảnh tượng thực sự vô cùng nhạy cảm.
+Kotori ân cần hỏi han với vẻ mặt đầy lo lắng, nhưng trong tình trạng trần như nhộng chỉ đắp mỗi tấm chăn mỏng manh thế này, bầu không khí thực sự vô cùng nhạy cảm.
 
-Mái tóc thường ngày được buộc hai bên giờ đã được xõa ra để đi ngủ, xõa dài mềm mại. Takanashi khi xõa tóc trông trưởng thành và quyến rũ hơn hẳn ngày thường.
+Mái tóc thường ngày vốn được buộc gọn gàng hai bên giờ đã được xõa ra, buông dài mềm mại trên gối. Takanashi khi xõa tóc trông trưởng thành và quyến rũ hơn hẳn ngày thường.
 
-Nói tóm lại, nó khiến tim cậu đập thình thịch và vô cùng bối rối. Cậu tự hỏi liệu cô gái này có ý thức được cậu là đàn ông hay không nữa.
+Nói tóm lại, nó khiến tim cậu đập thình thịch và bối rối đến tột độ. Cậu tự hỏi liệu cô gái này có chút ý thức cảnh giác nào khi ở cạnh một đứa con trai hay không nữa.
 
 “A ha ha, Souma-kun đang xấu hổ đấy à? Đáng yêu ghê.”
 
-“Đừng trêu tớ nữa. Nam nữ đến tuổi này rồi mà lại khỏa thân ngủ chung thế này, không còn là chuyện đùa được nữa đâu. Takanashi-san phải biết giữ gìn bản thân hơn chứ—”
+“Đừng trêu tớ nữa. Nam nữ đến tuổi này rồi mà lại khỏa thân ngủ chung một giường thế này, không còn là chuyện đùa được nữa đâu. Takanashi-san phải biết giữ gìn bản thân hơn chứ—”
 
 “— Không phải đùa đâu.”
 
@@ -64015,265 +64027,271 @@ Nói tóm lại, nó khiến tim cậu đập thình thịch và vô cùng bối
 
 “Dù không nhớ ra, nhưng chuyện gì đã xảy ra giữa cậu và Kotori... cậu cũng tự tưởng tượng được mà, đúng không?”
 
-Cậu cứng họng, không thốt nên lời.
+Cậu cứng họng, không thể thốt nên lời.
 
-Không hề có ý trách móc hay buộc tội, Kotori chỉ lặng lẽ nhìn xoáy vào mắt cậu.
+Không hề có ý trách móc hay oán hận, Kotori chỉ lặng lẽ nhìn xoáy vào mắt cậu bằng ánh mắt trong veo.
 
 “L-Lẽ nào tớ đã...”
 
-“Không sao đâu mà. Chuyện đó có thật hay không, cứ đợi đến khi Souma-kun nhớ lại rồi tính nhé.”
+“Không sao đâu mà. Chuyện đó có thật hay không, cứ đợi đến khi Souma-kun nhớ lại rồi tính tiếp nhé.”
 
-“But... Nhưng mà...”
+“Nhưng... Nhưng mà...”
 
-“Tớ không sao thật mà. Bởi vì đối với Kotori, Souma-kun là... Xin lỗi nhé, tớ nghĩ nói ra điều này lúc này thật là hèn nhát, nên tớ sẽ không nói tiếp nữa đâu.”
+“Tớ không sao thật mà. Bởi vì đối với Kotori, Souma-kun là... Xin lỗi nhé, tớ nghĩ nếu nói ra điều này vào lúc này thì thật là hèn nhát, nên tớ sẽ không nói tiếp nữa đâu.”
 
 “Takanashi-san...”
 
-Dù cô không nói thẳng ra, nhưng tình cảnh này đã quá đủ để cậu tự hiểu mình đã làm gì với cô. Không thể chối cãi được nữa rồi. Có lẽ đã đến lúc cậu phải thể hiện trách nhiệm của một người đàn ông.
+Dù cô không nói toạc móng heo ra, nhưng tình cảnh rành rành này đã quá đủ để cậu tự hiểu mình đã làm những gì với cô. Không thể chối cãi được nữa rồi. Có lẽ đã đến lúc cậu phải thể hiện trách nhiệm của một người đàn ông thực thụ.
 
-Nhưng trước hết, việc xác nhận tình hình hiện tại vẫn là ưu tiên hàng đầu.
+Nhưng trước hết, việc xác nhận tình hình thực tế vẫn là ưu tiên hàng đầu.
 
-Ít nhất, nếu Sakura và những người khác vẫn bình an vô sự, họ sẽ tuyệt đối không bao giờ cho phép chuyện này xảy ra.
+Ít nhất, nếu Sakura và những người khác vẫn bình an vô sự, họ sẽ tuyệt đối không bao giờ cho phép chuyện hoang đường này xảy ra.
 
-“Nói cho tớ biết được không? Tớ đã làm gì thế? Mọi người vẫn bình an chứ?”
+“Nói cho tớ biết được không? Tớ đã làm gì thế? Mọi người hiện giờ vẫn bình an chứ?”
 
 “...Đó sẽ là một câu chuyện rất đau lòng đấy. Cậu nghỉ ngơi thêm chút nữa rồi nghe cũng được mà.”
 
-“Không sao, hãy nói cho tớ biết đi. Tớ đã chuẩn bị tâm lý rồi.”
+“Không sao, hãy nói cho tớ biết đi. Tớ đã chuẩn bị sẵn tâm lý rồi.”
 
-“Tớ hiểu rồi... Vậy, Souma-kun nhớ rõ đến đoạn nào?”
+“Tớ hiểu rồi... Vậy, Souma-kun còn nhớ rõ đến đoạn nào?”
 
-“Để xem nào, tớ nhớ là để vượt qua Vương quốc Goma, buổi sáng chúng ta đã rời khỏi pháo đài ẩn—”
+“Để xem nào, tớ nhớ là để vượt qua Vương quốc Goma, buổi sáng hôm ấy chúng ta đã rời khỏi pháo đài ẩn—”
 
-Để sắp xếp lại ký ức của chính mình, cậu chậm rãi kể lại những gì mình nhớ được.
+Để sắp xếp lại dòng ký ức hỗn độn của chính mình, cậu chậm rãi thuật lại những gì bản thân còn nhớ được.
 
-Theo kế hoạch bí mật của Lớp trưởng, cả nhóm cuối cùng cũng tiến vào Vương quốc Goma, nhưng nơi đó đã bị nuốt chửng xuống lòng đất và biến mất. Từ đó, họ tiến về khu vực trung tâm nơi Tháp Trung Tâm tọa lạc, chiến đấu với tàn quân Vương quốc Goma đang làm tổ ở đó, bằng cách nào đó đã đột phá thành công và tiến đến Phòng Vương Tọa của Vua Goma, nơi cũng là lối vào Tháp—
+Theo kế hoạch tác chiến bí mật của Lớp trưởng, cả nhóm cuối cùng cũng tiến vào Vương quốc Goma, nhưng nơi đó đã bị sụp đổ xuống lòng đất và biến mất. Từ đó, họ tiến về khu vực trung tâm nơi Tháp Trung Tâm tọa lạc, kịch chiến với tàn quân Vương quốc Goma đang làm tổ ở đó, bằng cách nào đó đã đột phá thành công và tiến đến Phòng Vương Tọa của Vua Goma, nơi cũng chính là lối vào Tháp—
 
 “Phải rồi, Momokawa! Tên đó đã phục kích sẵn ở Phòng Vương Tọa!”
 
-Tại sao cậu lại có thể quên mất chuyện quan trọng như thế chứ?
+Tại sao cậu lại có thể quên bẵng đi chuyện hệ trọng dường này chứ?
 
-Khoảnh khắc cánh cửa mở ra, gương mặt vênh váo, đáng ghét của Momokawa đang ngồi chễm chệ trên vương tọa Goma hiện rõ mồn một trong tâm trí cậu.
+Khoảnh khắc cánh cửa mở toang, gương mặt vênh váo, đáng ghét của Momokawa đang ngồi chễm chệ trên ngai vàng Goma lập tức hiện rõ mồn một trong tâm trí cậu.
 
 “Ở đó, hắn ta đã... Ư, hự... G-Gì thế này, đầu mình...”
 
-Nhưng ký ức sau đó lại trống rỗng.
+Nhưng chuỗi ký ức sau đó lại hoàn toàn trống rỗng.
 
-Dù nhớ rất rõ hình ảnh Momokawa ngồi trên vương tọa, nhưng ngay sau khoảnh khắc đó, ký ức của cậu bỗng nhòe đi như bị che mờ. Cậu chắc chắn mình đã ở đó, đã có một cuộc hội ngộ ngoài ý muốn với hắn... nhưng cứ hễ cố nhớ lại, một cơn đau như búa bổ lại ập đến.
+Dù nhớ rất rõ hình ảnh Momokawa ngồi trên vương tọa, nhưng ngay sau khoảnh khắc ấy, ký ức của cậu bỗng nhòe đi như bị một màn sương đen che phủ. Cậu chắc chắn mình đã ở đó, đã có một cuộc chạm trán nảy lửa với hắn... nhưng cứ hễ cố gắng đào sâu nhớ lại, một cơn đau buốt như búa bổ lại ập đến giày xéo não bộ.
 
 “Souma-kun, thôi đi. Đủ rồi. Cậu đừng cố nhớ lại nữa.”
 
 “Hự... Takanashi-san, nhưng tớ...”
 
-“Cậu không thể nhớ ra được nữa đâu, chuyện đó là bất khả kháng. Bởi vì ngay tại đó, Souma-kun đã sập bẫy của Momokawa và bị trúng chú thuật.”
+“Cậu không thể nhớ ra được nữa đâu, chuyện đó là bất khả kháng. Bởi vì ngay tại thời khắc đó, Souma-kun đã sập bẫy của Momokawa và bị trúng chú thuật.”
 
-“C-Cái gì cơ...? Tên đó rốt cuộc đã làm gì tớ...”
+“C-Cái gì cơ...? Tên đó rốt cuộc đã giở trò gì với tớ...”
 
 “Là chú thuật tẩy não.”
 
-Thay vì kinh ngạc, trong lòng cậu lại dâng lên cảm giác *quả nhiên là vậy*.
+Thay vì kinh ngạc, trong sâu thẳm tâm can cậu lại dâng lên một cảm giác *quả nhiên là vậy*.
 
-\`『Chú thuật sư』\` Momokawa Kotarou. Liệu tên đó có sở hữu loại chú thuật tà ác có thể tẩy não người khác hay không — Sakura và Asuna đã luôn cảnh giác về điều này từ lâu.
+\`『Chú thuật sư』\` Momokawa Kotarou. Liệu tên đó có sở hữu loại chú thuật tà ác có thể thao túng tâm trí, tẩy não người khác hay không — Sakura và Asuna đã luôn cảnh giác cao độ về điều này từ rất lâu rồi.
 
-Dù có những hành vi đáng ngờ, nhưng hắn vẫn đóng góp rất lớn cho lớp. Cậu cũng nghĩ rằng nếu không có sức mạnh của hắn, chiến dịch thảo phạt Yamata no Orochi đã không thể thành công. Chính vì những chiến công đó, rốt cuộc việc Momokawa có thực sự dùng được chú thuật tẩy não hay không vẫn chưa bao giờ được làm sáng tỏ.
+Dù hành tung luôn mờ ám, nhưng không thể phủ nhận hắn đã đóng góp rất lớn cho sự sinh tồn của cả lớp. Cậu cũng từng nghĩ rằng nếu không có sức mạnh của hắn, chiến dịch thảo phạt Yamata no Orochi đã chẳng thể nào thành công. Chính vì những chiến công hiển hách đó, rốt cuộc nghi vấn liệu Momokawa có thực sự dùng được chú thuật tẩy não hay không vẫn chưa bao giờ được đưa ra ánh sáng.
 
-Ngay cả vụ mưu sát bằng độc tại Học Viện Tháp cũng không chứng minh được điều đó. Ít nhất thì vào thời điểm ấy, không có ai biểu hiện như thể bị tẩy não cả.
+Ngay cả vụ mưu sát bằng độc dược tại Học Viện Tháp cũng không thể chứng minh được điều đó. Ít nhất thì vào thời điểm ấy, không có bất kỳ ai biểu hiện dấu hiệu bị thao túng tâm trí cả.
 
-“Có thật... không...”
+“Có thật... như vậy không...”
 
-“Ừm. Chú thuật tẩy não tuy rất mạnh nhưng dường như có những hạn chế cực kỳ ngặt nghèo. Người duy nhất bị Momokawa tẩy não thành công chỉ có Futaba-san.”
+“Ừm. Chú thuật tẩy não tuy cực kỳ đáng sợ nhưng dường như lại có những hạn chế vô cùng ngặt nghèo. Người duy nhất bị Momokawa tẩy não thành công từ trước đến nay chỉ có mỗi Futaba-san mà thôi.”
 
-“Khốn kiếp, quả nhiên cậu ấy đã bị Momokawa...”
+“Khốn kiếp, quả nhiên Mei-chan đã bị Momokawa...”
 
-“Nếu không thì làm sao cậu ấy lại bênh vực Momokawa một cách phi lý đến thế chứ. Xin lỗi nhé, đáng lẽ Kotori phải vạch trần sức mạnh tẩy não đó sớm hơn...”
+“Nếu không thì làm sao cậu ấy lại có thể mù quáng bênh vực Momokawa một cách phi lý đến thế chứ. Xin lỗi nhé, đáng lẽ Kotori phải vạch trần sức mạnh tẩy não ghê tởm đó sớm hơn...”
 
-“Chuyện đã qua rồi. Tớ không thể trách cậu được, Takanashi-san.”
+“Chuyện đã rồi. Tớ không thể trách cậu được, Takanashi-san.”
 
-Đúng vậy, người đáng trách ở đây phải là cậu mới đúng. Nói tóm lại, cậu đã bị cuốn theo những lời lẽ xảo quyệt và hoàn cảnh do hắn tạo ra, để rồi ở Học Viện Tháp, cậu hầu như chỉ biết làm theo những gì hắn nói.
+Đúng vậy, kẻ đáng trách ở đây phải là chính cậu mới đúng. Nói tóm lại, cậu đã quá ngây thơ để bị cuốn theo những lời lẽ xảo quyệt và hoàn cảnh do hắn giăng ra, để rồi ở Học Viện Tháp, cậu hầu như chỉ biết thụ động làm theo những gì hắn dẫn dắt.
 
-Nếu cậu nghiêm túc hơn để vạch trần bản chất tà ác và sức mạnh của hắn, thì có lẽ vụ mưu sát bằng độc kia đã được ngăn chặn rồi.
+Nếu cậu nghiêm túc hơn để vạch trần bản chất tà ác và mưu mô đen tối của hắn, thì có lẽ thảm kịch mưu sát bằng độc dược kia đã được ngăn chặn kịp thời rồi.
 
-“Vậy là tại đó, hắn đã định dùng chú thuật tẩy não lên tớ sao?”
+“Vậy là tại căn phòng đó, hắn đã toan tính dùng chú thuật tẩy não lên tớ sao?”
 
-“Đúng vậy. Việc đánh sập Vương quốc Goma hay lợi dụng Lớp trưởng, tất cả đều là cái bẫy để tẩy não Souma-kun tại đó.”
+“Đúng vậy. Việc hắn đánh sập Vương quốc Goma hay giật dây Lớp trưởng, tất cả đều là cái bẫy tinh vi nhằm mục đích tẩy não Souma-kun tại đó.”
 
-“...Vậy ra kế hoạch mà Lớp trưởng nói đều là do một tay Momokawa dàn dựng sao?”
+“...Vậy ra toàn bộ kế hoạch tác chiến mà Lớp trưởng nói đều là do một tay Momokawa đứng sau dàn dựng sao?”
 
-“Momokawa đang bắt giữ Tendou-kun làm con tin. Lớp trưởng bị hắn đe dọa bằng chuyện đó...”
+“Momokawa đang bắt giữ Tendou-kun làm con tin. Lớp trưởng bị hắn đem tính mạng của Tendou-kun ra đe dọa ép phải phục tùng...”
 
-“Ryuuichi á! Không thể nào, một kẻ như cậu ta sao có thể làm con tin—”
+“Ryuuichi á! Không thể nào, một kẻ ngạo nghễ như cậu ta sao có thể ngoan ngoãn làm con tin—”
 
-“Chẳng phải trước vụ đầu độc, việc Tendou-kun biến mất là sự thật sao? Momokawa tuy đã bỏ trốn, nhưng tớ nghĩ hắn đã giấu Tendou-kun ở đâu đó.”
+“Chẳng phải trước vụ đầu độc, việc Tendou-kun đột ngột mất tích là sự thật sao? Momokawa tuy đã bỏ trốn, nhưng tớ nghĩ hắn đã giam giữ Tendou-kun ở một nơi bí mật nào đó rồi.”
 
-“Trong tình trạng đó, Ryuuichi thực sự còn sống chứ?”
+“Trong tình trạng đó, Ryuuichi thực sự vẫn còn sống chứ?”
 
-“Tớ nghĩ chắc là vẫn còn sống. Trong các di tích cổ đại có những thiết bị ma pháp dạng như ngủ đông. Nếu là Momokawa, hắn hoàn toàn có thể thao túng sức mạnh của những di tích đó.”
+“Tớ nghĩ chắc là vẫn còn sống. Trong các di tích cổ đại luôn tồn tại những thiết bị ma pháp dạng như khoang ngủ đông. Nếu là Momokawa, hắn hoàn toàn có thể nắm bắt và thao túng sức mạnh của các di tích đó.”
 
-Dù việc Ryuuichi bị bắt là điều khó tin... nhưng xét về tình hình và năng lực, nếu là Momokawa thì khả năng vô hiệu hóa Ryuuichi để làm con tin là hoàn toàn khả thi.
+Dù việc Ryuuichi bị khuất phục là điều khó tin... nhưng xét về thủ đoạn hiểm độc và năng lực quái dị, nếu là Momokawa thì khả năng hắn vô hiệu hóa Ryuuichi để biến thành con bài đe dọa là hoàn toàn khả thi.
 
-And một khi đã nắm giữ Ryuuichi trong tay, hắn có thể bắt Lớp trưởng phải phục tùng. Nếu vậy, Natsukawa cũng sẽ tự nhiên bị hắn lợi dụng theo.
+Và một khi đã nắm giữ mạng sống của Ryuuichi trong tay, hắn thừa sức bắt Lớp trưởng phải ngoan ngoãn nghe lời. Nếu vậy, Natsukawa cũng sẽ tự nhiên bị hắn lợi dụng theo như một quân cờ trinh sát.
 
-“Khốn kiếp, Momokawa... Tên đó rốt cuộc định đùa giỡn lòng người đến mức nào nữa đây!”
+“Khốn kiếp, Momokawa... Tên đó rốt cuộc định đùa giỡn tính mạng và lòng tin của người khác đến mức nào nữa đây!”
 
-Cơn giận dữ đối với hắn dâng trào. Và trên hết, cậu căm ghét chính bản thân mình vì đã dễ dàng sập bẫy âm mưu của hắn.
+Cơn giận dữ bùng lên ngùn ngụt nhắm thẳng vào hắn. Và trên hết, cậu căm ghét chính sự bất lực, ngây thơ của bản thân vì đã quá dễ dàng sập vào cái bẫy âm mưu bẩn thỉu ấy.
 
-Cậu bị thôi thúc bởi một cơn thịnh nộ muốn cầm kiếm lao đi chém chết Momokawa ngay lập tức... nhưng có lẽ với thực lực hiện tại, cậu không thể đánh bại hắn một cách trực diện.
+Cậu bị thôi thúc bởi một cơn thịnh nộ tột cùng, muốn tuốt kiếm lao đi chém chết Momokawa ngay lập tức... nhưng có lẽ với thực lực hiện tại, cậu căn bản không thể đánh bại hắn một cách trực diện.
 
-Ngay cả bản thân đang ở đâu cậu còn không biết, thì làm sao tìm ra chỗ ẩn náu của Momokawa chứ.
+Ngay cả bản thân đang ở xó xỉnh nào cậu còn không rõ, thì làm sao có thể lần ra sào huyệt ẩn náu của Momokawa chứ.
 
-Và quan trọng nhất, cậu vẫn chưa hỏi điều cốt lõi nhất.
+Và quan trọng nhất, cậu vẫn chưa gặng hỏi điều cốt lõi nhất.
 
 “...Takanashi-san, sau đó chuyện gì đã xảy ra?”
 
-“Người cứu Souma-kun khi cậu bị trúng chú thuật tẩy não... là Sakura-chan.”
+“Người đã liều mình cứu Souma-kun khi cậu bị trúng chú thuật tẩy não... chính là Sakura-chan.”
 
-“Ra vậy, là Sakura... Vậy em ấy vẫn bình an chứ?”
+“Ra vậy, là Sakura... Vậy con bé hiện giờ vẫn bình an chứ?”
 
 “Tớ xin lỗi...”
 
 “Tại sao cậu lại xin lỗi... Lẽ nào Sakura...”
 
-“Chắc chắn em ấy vẫn còn sống. Nhưng em ấy đã bị Momokawa bắt giữ rồi... Để giúp Souma-kun trốn thoát, em ấy cùng với Asuna-chan đã ở lại cản đường...”
+“Chắc chắn em ấy vẫn còn sống. Nhưng em ấy đã rơi vào tay Momokawa rồi... Để tạo cơ hội cho Souma-kun trốn thoát, em ấy cùng với Asuna-chan đã tình nguyện ở lại chặn đường truy đuổi...”
 
 “Kh-Không thể nào... Sakura và Asuna...”
 
-“Thực sự xin lỗi cậu, Souma-kun... L-Lúc đó tớ chỉ có thể đưa Souma-kun dịch chuyển trốn đi thôi...”
+“Thực sự xin lỗi cậu, Souma-kun... L-Lúc đó trong tình thế ngàn cân treo sợi tóc, tớ chỉ có thể kích hoạt dịch chuyển đưa mỗi một mình Souma-kun trốn đi thôi...”
 
-Đến đây, Kotori không thể nói thành lời được nữa. Những giọt nước mắt lã chã rơi, cô khóc nấc lên nhưng cố kìm nén tiếng nấc của mình.
+Nói đến đây, Kotori nghẹn ngào không thể thốt nên lời. Những giọt nước mắt lã chã tuôn rơi, cô khóc nấc lên từng cơn nhưng vẫn cố cắn chặt môi kìm nén tiếng nấc nghẹn ngào của mình.
 
-Cậu làm gì có tư cách để trách móc cô tại sao lại bỏ rơi đồng đội, tại sao ngoài việc chạy trốn ra không còn cách nào khác chứ. Đối với một Kotori đang khóc nức nở thế này, cậu thậm chí còn không xứng đáng để cho cô tựa vào ngực mình.
+Cậu làm gì có tư cách để trách móc cô tại sao lại bỏ rơi đồng đội, tại sao ngoài việc tháo chạy ra lại không còn cách nào khác chứ. Đối với một Kotori đang run rẩy khóc nức nở thế này, cậu thậm chí còn chẳng xứng đáng để cho cô tựa đầu vào ngực mình tìm kiếm sự an ủi.
 
-Kotori đã làm tất cả những gì có thể rồi.
+Kotori đã làm tất cả những gì trong khả năng của cô ấy rồi.
 
-Sakura và Asuna đã kìm chân Momokawa để tạo cơ hội cho họ trốn thoát. Và sau khi trốn thoát, cô đã chăm sóc cho cậu khi cậu bất tỉnh. Chắc chắn cô đã tin rằng khi cậu tỉnh lại, cậu sẽ cứu được tất cả mọi người—
+Sakura và Asuna đã chấp nhận hy sinh bản thân kìm chân Momokawa để mở ra con đường sống cho hai người. Và sau khi thoát nạn, cô đã tận tình chăm sóc cho cậu suốt chuỗi ngày bất tỉnh. Chắc chắn cô đã luôn ôm trọn niềm tin sắt đá rằng khi cậu tỉnh lại, cậu sẽ trở thành người hùng cứu vớt tất cả mọi người—
 
-Vào thời khắc đó, tại địa điểm đó, kẻ ngu ngốc và vô dụng nhất chính là cậu.
+Vào thời khắc định mệnh đó, tại địa điểm sinh tử đó, kẻ ngu ngốc và vô dụng nhất trên đời này chính là cậu.
 
-Cậu đã sập bẫy của hắn, khiến Sakura và Asuna phải hy sinh, và chỉ có một mình cậu được cứu thoát nhờ tay Kotori. Nếu đây là câu chuyện của người khác, cậu hẳn sẽ bảo hãy bỏ mặc kẻ ngu ngốc đó đi cho rồi.
+Cậu đã sập bẫy của hắn, đẩy Sakura và Asuna vào cảnh nước sôi lửa bỏng, để rồi chỉ có một mình cậu được cứu thoát một cách nhục nhã nhờ bàn tay của Kotori. Nếu đây là câu chuyện bi kịch của một kẻ xa lạ nào đó, cậu hẳn sẽ phỉ nhổ và bảo hãy mặc xác tên phế vật đó đi cho rồi.
 
-Nhưng kẻ ngu ngốc vô phương cứu chữa đó lại chính là bản thân cậu.
+Nhưng tên phế vật vô phương cứu chữa đó lại chính là bản thân cậu.
 
 “Takanashi-san, tớ...”
 
-Lời xin lỗi cho sự bất lực của bản thân chẳng có ý nghĩa gì cả. Nếu chỉ biết xin lỗi sau khi đã phạm phải sai lầm lớn thế này, thà tự sát còn hơn.
+Mọi lời xin lỗi cho sự bất lực của bản thân vào lúc này đều trở nên vô nghĩa và lố bịch. Nếu chỉ biết thốt ra những lời hối lỗi suông sau khi đã gây ra thảm họa tày đình thế này, thà tự kết liễu đời mình còn hơn.
 
-“Tớ sẽ cứu mọi người. Nhất định tớ sẽ cứu họ ra.”
+“Tớ sẽ cứu mọi người. Nhất định bằng mọi giá tớ sẽ cứu họ ra khỏi tay hắn.”
 
-Đúng vậy, chỉ có con đường đó thôi. Việc cậu cần làm chỉ còn lại duy nhất điều đó.
+Đúng vậy, chỉ còn duy nhất một con đường đó mà thôi. Nghĩa vụ mà cậu cần phải dốc toàn lực thực hiện chỉ còn lại duy nhất điều đó.
 
-Tiêu diệt tên chú thuật sư tà ác Momokawa, giải cứu Sakura và các đồng đội.
+Tiêu diệt tên chú thuật sư tà ác Momokawa, đập tan âm mưu của hắn và giải cứu Sakura cùng toàn thể đồng đội.
 
-Lý do cậu còn mặt mũi sống sót đến giờ chỉ có vậy. Mạng sống của cậu giờ đây không còn ý nghĩa hay giá trị nào khác ngoài việc hoàn thành sứ mệnh đó.
+Lý do duy nhất để cậu còn mặt mũi tiếp tục hít thở trên cõi đời này chỉ có vậy. Mạng sống của cậu giờ đây chẳng còn bất kỳ ý nghĩa hay giá trị nào khác ngoài việc hoàn thành sứ mệnh chuộc tội đó.
 
-“Ừm, nếu là Souma-kun thì chắc chắn sẽ cứu được mọi người mà. Thế nên, chúng mình cùng cố gắng nhé?”
+“Ừm, nếu là Souma-kun thì chắc chắn sẽ cứu được tất cả mọi người mà. Thế nên, chúng mình cùng nhau cố gắng nhé?”
 
 “Ừ, làm ơn đi, Takanashi-san. Hãy cho tớ mượn sức mạnh của cậu—”
 
 ***
 
-*“— Phù, cuối cùng cũng hoàn thành một cách tốt đẹp rồi.”*
+*“— Phù, cuối cùng cũng hoàn thành một cách êm đẹp rồi.”*
 
-Để Yuuto vừa chìm vào giấc ngủ lại trong phòng y tế, Kotori bước ra ngoài, trên môi nở một nụ cười thỏa mãn đầy nham hiểm.
+Để mặc Yuuto vừa chìm sâu vào giấc ngủ mệt mỏi trong phòng y tế, Kotori thong thả bước ra ngoài hành lang, trên khóe môi nở một nụ cười thỏa mãn đầy nham hiểm và toan tính.
 
-Nỗ lực suốt một tháng qua cuối cùng cũng đơm hoa kết trái.
+Công sức ròng rã suốt một tháng qua cuối cùng cũng đơm hoa kết trái mỹ mãn.
 
-Bằng cách sử dụng \`『Quy Tắc Ý Niệm』\` và \`『Thần Thánh Ngôn Ngữ』\` lên Souma Yuuto đang bị giam giữ, cô đã chậm rãi và cẩn thận cải tạo lại ký ức của cậu.
+Bằng cách liên tục áp dụng \`『Quy Tắc Ý Niệm』\` kết hợp cùng \`『Thần Thánh Ngôn Ngữ』\` lên Souma Yuuto đang bị giam cầm, ả đã chậm rãi, tỉ mỉ nhào nặn và cải tạo lại toàn bộ ký ức của cậu ta theo đúng kịch bản mong muốn.
 
-Tuần đầu tiên thực sự rất tồi tệ. Quả không hổ danh là \`『Dũng Giả』\`, hay có lẽ là nhờ tinh thần kiên cường của chính Yuuto. Cậu đã thể hiện khả năng kháng cự cực cao trước sự can thiệp tinh thần và cải tạo ký ức, ngoan cố giữ lại ký ức về khoảnh khắc Kotori lộ ra bản chất thật.
+Tuần đầu tiên thực sự là một thử thách vô cùng trầy trật. Quả không hổ danh là \`『Dũng Giả』\`, hay đúng hơn là nhờ vào ý chí tinh thần kiên định đến mức ngoan cố của chính Yuuto. Cậu ta đã thể hiện khả năng đề kháng phi thường trước sự can thiệp tâm trí và bóp méo ký ức, tuyệt vọng bám víu lấy ký ức về khoảnh khắc Kotori trút bỏ lớp mặt nạ để lộ bản chất thật.
 
-Ý chí không muốn quên đi sự thật quan trọng nhất — rằng Takanashi Kotori chính là kẻ chủ mưu hãm hại cả lớp — vô cùng mạnh mẽ. Nhưng đồng thời, Yuuto cũng quá mềm lòng. Chẳng khác gì khoảnh khắc cậu lao ra đỡ đòn cho Kotori trước đòn tấn công của nhóm Kotarou lúc trước.
+Ý chí không muốn lãng quên sự thật cốt tử nhất — rằng Takanashi Kotori chính là kẻ chủ mưu độc ác đã hãm hại cả lớp — mãnh liệt đến mức kinh ngạc. Thế nhưng, điểm yếu chí mạng của Yuuto lại chính là sự mềm lòng đến mức ngu xuẩn. Chẳng khác gì cái khoảnh khắc cậu ta liều mạng lao ra chắn đòn bảo vệ cho Kotori trước mũi kiếm của nhóm Kotarou dạo trước.
 
-Đáng lẽ Yuuto phải giết chết Kotori bằng mọi giá trong lúc vẫn còn giữ được ký ức. Hoặc ít nhất là phải quyết tâm chiến đấu đến cùng để ưu tiên việc trốn thoát.
+Đáng lẽ Yuuto phải tìm mọi cách hạ sát Kotori bằng bất cứ giá nào trong lúc bản thân vẫn còn tỉnh táo và giữ được ký ức. Hoặc ít nhất là phải mang dã tâm quyết tử chiến đấu đến cùng để tìm kiếm cơ hội trốn thoát.
 
-Thế nhưng, lựa chọn của Yuuto lại là thuyết phục. Những lời lẽ lý tưởng kiểu như “chuyện này là sai trái”, “chúng ta chắc chắn có thể làm lại từ đầu” của Yuuto chỉ biến cậu thành một tù nhân cực kỳ dễ đối phó trong mắt Kotori.
+Thế nhưng, sự lựa chọn ngây thơ của Yuuto lại chỉ là cố gắng mở lời thuyết phục. Những lời lẽ lý tưởng hóa đạo đức kiểu như “chuyện này là sai trái rồi”, “chúng ta nhất định có thể bắt đầu lại từ đầu” của Yuuto chỉ biến cậu ta thành một tên tù nhân ngây thơ, cực kỳ dễ bề thao túng và bẻ gãy trong mắt Kotori.
 
-Nếu Yuuto thực sự nổi loạn, có lẽ đã có một phần vạn cơ hội trốn thoát... nhưng nếu Kotarou nhìn thấy cảnh Yuuto tự vứt bỏ cơ hội của mình như vậy, hắn chắc chắn sẽ chỉ tay vào mặt cậu ta mà cười nhạo là đồ đại ngu ngốc.
+Nếu Yuuto thực sự nổi loạn và vùng vẫy bằng bản năng sinh tồn, có lẽ đã có một phần vạn cơ hội tạo nên kỳ tích trốn thoát... nhưng nếu Kotarou mà chứng kiến cảnh tượng Yuuto tự tay ném bỏ cơ hội sống duy nhất của mình như thế, hắn ta chắc chắn sẽ chỉ thẳng ngón tay vào mặt cậu ta mà cười khẩy nhạo báng là một thằng đại đần độn.
 
-*“U hu hu, một tháng qua quả là khá vui vẻ. Nhưng trò vui thực sự giờ mới bắt đầu... Mình sẽ khiến Souma-kun hoàn toàn phụ thuộc vào Kotori.”*
+*“U hu hu, một tháng qua quả thực vô cùng thú vị. Nhưng trò chơi thực sự giờ mới chính thức bắt đầu... Mình sẽ biến Souma-kun thành kẻ hoàn toàn lệ thuộc và phục tùng Kotori vô điều kiện.”*
 
-Nhờ sự hy sinh của đồng đội mà thoát chết trong gang tấc, giờ đây chỉ còn lại hai người. Người duy nhất cậu có thể dựa dẫm lúc này chỉ có cô.
+Nhờ sự hy sinh cao cả của đồng đội mà may mắn thoát chết trong đường tơ kẽ tóc, giờ đây bên cạnh chỉ còn lại hai người nương tựa lẫn nhau. Chỗ dựa tinh thần duy nhất mà cậu ta có thể bấu víu lúc này chỉ có ả.
 
-Ôi, một tình cảnh tuyệt vời làm sao. Hai kẻ bị dồn vào đường cùng, nhưng vẫn ôm giữ tia hy vọng mong manh để chiến đấu — nếu không đến được với nhau trong hoàn cảnh này thì thật là vô lý.
+Ôi, một kịch bản tình thế lãng mạn và hoàn hảo làm sao. Hai kẻ khốn cùng bị dồn vào ngõ cụt hiểm nghèo, nhưng vẫn cùng nhau ôm giữ tia hy vọng le lói cuối cùng để chiến đấu — nếu không nảy sinh tình cảm sâu đậm và thuộc về nhau trong hoàn cảnh nghiệt ngã này thì thật là trái với lẽ tự nhiên.
 
-*“Hì hì, lũ rác rưởi nhóm Momokawa vẫn nghĩ là có thể thắng được mình nên đang chuẩn bị chinh phục Tháp thì phải...”*
+*“Hì hì, lũ sâu bọ rác rưởi nhóm Momokawa vẫn ảo tưởng là có cửa thắng được mình nên đang hì hục chuẩn bị chinh phục Tháp thì phải...”*
 
-Cô biết nhóm Momokawa đang lập kế hoạch phản công lấy pháo đài ẩn làm căn cứ — nơi cô cũng từng sử dụng.
+Ả biết tỏng nhóm Momokawa đang ráo riết chuẩn bị kế hoạch tổng phản công, lấy pháo đài ẩn làm căn cứ địa vững chắc — nơi ả cũng từng có thời gian nương náu.
 
-Cô đã nhiều lần nhìn thấy bọn họ chạy đôn chạy đáo khắp bản đồ để săn quái vật thu thập nguyên liệu thông qua hệ thống giám sát. Dường như việc săn quái vật hoang dã vẫn chưa đủ, bọn họ còn lục lọi cả dưới đáy Vương quốc Goma đã sụp đổ.
+Thông qua mạng lưới giám sát dày đặc, ả đã nhiều lần chứng kiến bọn chúng tất bật chạy đôn chạy đáo khắp bản đồ để lùng sục quái vật thu thập nguyên vật liệu. Dường như việc săn lùng quái vật hoang dã vẫn chưa thỏa mãn lòng tham, bọn chúng thậm chí còn mò mẫm xuống tận đáy vực của Vương quốc Goma đã sụp đổ để bới móc.
 
-Mấy ngày trước, hệ thống còn ghi lại cảnh tượng ngốc nghếch của Kotarou cùng Rem nhảy cẫng lên vui sướng khi tìm thấy xác một con Gira-GoGame Mastera ở gần Đông Môn.
+Cách đây vài ngày, hệ thống giám sát còn thu lại cảnh tượng buồn cười của Kotarou cùng Rem nhảy cẫng lên reo hò khi đào được xác một con Đại Chiến Sĩ Gira-Goma ở khu vực gần Đông Môn.
 
-Bọn họ đào bới đống đổ nát như công trường xây dựng để thu thập lõi của vô số người dân và binh lính Goma bị rơi xuống vực hoặc bị chôn sống. Đáy vực thẳm ngày nào cũng ồn ào náo nhiệt. Bọn họ còn cất công chế tạo một chiếc thang máy tự chế để thu gom mọi loại nhu yếu phẩm từ vương quốc đã sụp đổ.
+Bọn chúng xới tung đống đổ nát chẳng khác nào một công trường xây dựng khổng lồ để bòn rút ma thạch và lõi của vô số cư dân cùng binh lính Goma bị chôn sống dưới vực sâu. Đáy vực thẳm ngày nào cũng huyên náo, ồn ào như cái chợ vỡ. Bọn chúng còn kỳ công lắp đặt cả một hệ thống thang máy tự chế thô sơ để vận chuyển toàn bộ chiến lợi phẩm và nhu yếu phẩm từ vương quốc đã lụi tàn lên trên.
 
-Thế nhưng, Kotori chỉ biết cười nhạo trước những nỗ lực đó của bọn họ.
+Thế nhưng, Kotori chỉ nhếch mép cười khinh bỉ trước những nỗ lực giãy giụa trong vô vọng đó của bọn chúng.
 
-*“Vô ích thôi, vô ích. Tất cả đều vô ích~”*
+*“Vô ích thôi, vô ích hết. Tất cả chỉ là công cốc~”*
 
-Vừa cười khúc khích, Kotori vừa bước đi dọc hành lang được chiếu sáng trắng. Xung quanh cô hiển thị vô số màn hình ảo ảnh chiếu lại các góc quay giám sát xung quanh Tháp Trung Tâm.
+Vừa khúc khích cười một cách khoái trá, Kotori vừa sải bước dọc theo hành lang ngập tràn ánh sáng trắng tinh khiết. Xung quanh ả liên tục hiển thị hàng loạt màn hình ảo ảnh quang học truyền tải trực tiếp các góc quay trinh sát xung quanh Tháp Trung Tâm.
 
-Trên màn hình là hình ảnh những người sống sót của Lớp 2-7 do Momokawa dẫn đầu, trang bị đầy đủ, đang tập hợp tại Phòng Vương Tọa.
+Trên các màn hình là hình ảnh những kẻ sống sót của Lớp 2-7 do Momokawa dẫn đầu, ai nấy đều được vũ trang tận răng, đang tề tựu đông đủ tại Phòng Vương Tọa hoang tàn.
 
-Có vẻ như bọn họ đã sẵn sàng cho chiến dịch chinh phục Tháp thực sự. Bọn họ mang theo trang bị mới cùng một lượng lớn nhu yếu phẩm, dàn trận ngay trước lối vào chính của Tháp.
+Có vẻ như bọn chúng đã gom góp đủ trang bị và sẵn sàng mở màn cho chiến dịch công phá Tháp thực sự. Với vũ khí sáng loáng cùng một lượng lớn nhu yếu phẩm tiếp tế, cả đội hình đang dàn trận nghênh chiến ngay trước cửa ngõ chính diện của Tòa Tháp.
 
-*“Nơi này là lâu đài của thiên sứ Kotori-sama. Ngay cả quân lệnh của Tendou Ryuuichi cũng không thể chạm tới bên trong Tháp Trung Tâm này. Thế nên, chừng nào Kotori chưa cho phép, các người tuyệt đối không thể đi qua Quảng Trường Tinh Linh.”*
+*“Nơi này chính là thánh địa bất khả xâm phạm của thiên sứ Kotori-sama. Ngay cả vương quyền tuyệt đối của Tendou Ryuuichi cũng đừng hòng với tay chạm tới bên trong Tháp Trung Tâm này. Thế nên, chừng nào Kotori chưa mở lời ân chuẩn, các ngươi tuyệt đối đừng hòng bước qua nổi Quảng Trường Tinh Linh.”*
 
-Đó là cơ chế phòng ngự tối thượng của Tháp. Quảng Trường Tinh Linh nằm ở trung tâm tầng một, kết nối trực tiếp từ lối vào, là nơi duy nhất giữ được hoàn toàn chức năng từ thời cổ đại.
+Đó chính là tầng phòng ngự tối thượng và đáng sợ nhất của Tòa Tháp. Quảng Trường Tinh Linh tọa lạc ngay vị trí trung tâm của tầng một, kết nối thẳng tắp từ cửa vào, là khu vực duy nhất còn bảo tồn nguyên vẹn chức năng phòng thủ cổ xưa từ thuở hồng hoang.
 
-Hiệu quả của nó vô cùng đơn giản. Đó là một thiết bị tấn công tự động, sẽ phóng ra những tia laser cực mạnh để tiêu diệt bất kỳ kẻ nào bước chân vào quảng trường mà không có sự cho phép.
+Cơ chế vận hành của nó vô cùng tàn nhẫn và đơn giản. Đó là một hệ thống phòng thủ hủy diệt tự động, sẵn sàng phóng thích những chùm tia laser nhiệt lượng cực cao để bốc hơi bất kỳ kẻ xâm nhập nào dám bén mảng bước chân vào quảng trường mà không có quyền hạn cho phép.
 
-Tia laser bắn ra từ mắt của bức tượng yêu tinh sở hữu hỏa lực áp đảo, không thể so sánh với thứ vũ khí cổ đại như súng Blaster. Dĩ nhiên, có một bí mật đằng sau sức tàn phá dị thường đó... nhưng chính vì tính đặc thù đó mà các Quảng Trường Tinh Linh ở những nơi khác đều đã mất đi chức năng này.
+Tia laser hủy diệt bắn ra từ đôi mắt của bức tượng tinh linh mang uy lực áp đảo đến mức kinh hoàng, thứ hỏa lực mà những món vũ khí cổ đại thông thường như súng Blaster hoàn toàn không có tư cách để mang ra so sánh. Dĩ nhiên, ẩn sau sức tàn phá phi lý đó là cả một bí mật đen tối... nhưng cũng chính vì bản chất đặc thù tàn bạo đó mà các Quảng Trường Tinh Linh ở những phân khu khác đều đã bị vô hiệu hóa chức năng này.
 
-Tuy nhiên, dù chức năng đã ngừng hoạt động, dường như tàn dư của sức mạnh thần bí vẫn tạo ra hiệu ứng như một kết giới ngăn chặn mọi ma vật tiếp cận. Kết quả là, cho đến khi tiến tới tầng sâu nhất này, những nơi đó vẫn tiếp tục đóng vai trò là vùng an toàn cho nhóm học sinh trong quá trình phá đảo hầm ngục. Nghĩ lại thì đây quả là một sự mỉa mai.
+Tuy nhiên, dù cơ chế tấn công đã ngừng hoạt động, tàn dư của luồng ma lực thần thánh vẫn tạo nên một bức tường kết giới vô hình xua đuổi toàn bộ ma vật tiếp cận. Hệ quả là, xuyên suốt hành trình tiến tới tầng sâu nhất này, những địa điểm đó vẫn luôn vô tình đóng vai trò là vùng an toàn (Safe Zone) tuyệt đối che chở cho nhóm học sinh trong quá trình chinh phục hầm ngục. Nghĩ lại thì đây quả là một trò đùa mỉa mai của số phận.
 
-*“Chỉ riêng Quảng Trường Tinh Linh đó là đặc biệt. Muốn đi xuống đây thì không còn con đường nào khác ngoài việc đi qua đó. Tiếc quá nhỉ, trong lúc chờ Souma-kun được nhào nặn hoàn hảo theo đúng ý thích của Kotori, các người cứ việc đứng đó mà đợi đi nhé~”*
+*“Chỉ riêng Quảng Trường Tinh Linh tại đây là một ngoại lệ tuyệt đối. Muốn đặt chân xuống tầng sâu này thì không còn bất kỳ con đường tắt nào khác ngoài việc đâm đầu qua đó. Tiếc cho các ngươi quá nhỉ, trong lúc ngoan ngoãn chờ đợi Souma-kun được nhào nặn hoàn hảo thành món đồ chơi ngoan ngoãn theo đúng ý thích của Kotori, lũ sâu bọ các ngươi cứ việc đứng chôn chân ngoài cửa mà mòn mỏi đợi chờ đi nhé~”*
 
-Cô khẽ gạt ngón tay để đẩy màn hình ảo ảnh sang một bên. Phía trước tầm mắt cô là một cánh cổng lớn màu trắng dày cộp. Cảm nhận được sự tiếp cận của Kotori, cánh cổng rầm rầm mở ra.
+Ả khẽ phẩy nhẹ ngón tay để gạt các màn hình giám sát sang hai bên. Hiện ra sừng sững trước tầm mắt ả là một cánh cổng đại môn màu trắng ngà dày cộp và kiên cố. Nhận diện được quyền năng của Kotori đang tiếp cận, cánh cổng nặng nề phát ra tiếng cơ khí rền vang rồi từ từ mở toang sang hai phía.
 
-*“Đối với lũ vật tế các người thì nơi này là đích đến... nhưng đối với Kotori, đây mới là điểm khởi đầu.”*
+*“Đối với cái lũ vật tế hạ đẳng các ngươi thì nơi này chính là vạch đích cuối cùng... nhưng đối với Kotori, đây mới thực sự là vạch xuất phát mở ra kỷ nguyên mới.”*
 
-Phía sau cánh cổng là Văn phòng Thị trưởng Albion nằm ở tầng sâu nhất của Tháp Trung Tâm. Căn phòng rộng lớn vượt xa một văn phòng làm việc thông thường, trông nó chẳng khác nào phòng chỉ huy của một căn cứ quân sự... Không, nói đúng hơn, nơi này cũng là một Phòng Vương Tọa khác.
+Phía sau cánh cổng mở rộng chính là Văn phòng Thị trưởng Albion tọa lạc tại tầng sâu nhất của Tháp Trung Tâm. Không gian căn phòng rộng lớn vượt xa quy chuẩn của một văn phòng hành chính thông thường, trông nó tráng lệ và uy nghiêm chẳng khác nào trung tâm chỉ huy tối cao của một pháo đài chiến lược... Không, nếu nói một cách chính xác hơn, nơi này chính là một Phòng Vương Tọa đích thực.
 
-Một chiếc ghế lớn được thiết kế đặc biệt như vương tọa đặt ở trung tâm, phía trước được ngăn cách bởi một bức tường trong suốt như kính.
+Một chiếc ngai vàng bề thế được chế tác tinh xảo ngự trị ngay vị trí trung tâm, phía trước được bao bọc bởi một bức tường chắn trong suốt như pha lê.
 
-Tầm nhìn từ nơi đó hướng thẳng về phía đích đến cuối cùng của chiến dịch phá đảo hầm ngục mà toàn bộ Lớp 2-7 hằng ao ước — chính là Thiên Tống Môn.
+Tầm nhìn phóng ra từ ngai vàng hướng thẳng về phía đích đến tối thượng của toàn bộ chiến dịch phá đảo hầm ngục mà tất cả thành viên Lớp 2-7 ngày đêm khát khao hướng về — Thiên Tống Môn.
 
-Đó là một cánh cổng khổng lồ, sừng sững và uy nghiêm như một Khải Hoàn Môn trắng muốt.
+Đó là một cánh cổng vĩ đại, sừng sững và tôn nghiêm tựa như một Khải Hoàn Môn bằng bạch ngọc khổng lồ.
 
-Bức phù điêu chạm khắc hình ảnh Nữ thần Elshion tuyệt mỹ với mái tóc dài và sáu đôi cánh lớn dang rộng, cùng các thiên thần hộ mệnh vây quanh được điêu khắc trên một quy mô hoành tráng, tỉ mỉ đến từng chi tiết nhỏ nhất.
+Bức đại phù điêu chạm khắc hình tượng Nữ thần Elshion tuyệt mỹ với suối tóc bồng bềnh cùng sáu đôi cánh thiên thần dang rộng, được bao bọc bởi vô số thiên sứ hộ mệnh, được điêu khắc với quy mô đồ sộ và độ tinh xảo đến từng chi tiết nhỏ nhất.
 
-Cánh cổng trắng đã đứng vững suốt hàng ngàn năm qua không hề bám một hạt bụi, vẫn giữ nguyên vẹn vẻ đẹp từ thuở ban sơ. Những đường dẫn ma lực màu xanh lam chạy dọc trên bề mặt trắng muốt cho thấy chức năng của Thiên Tống Môn vẫn đang hoạt động bình thường.
+Cánh cổng trắng muốt đã hiên ngang đứng vững qua hàng thiên niên kỷ mà không hề vương một hạt bụi trần, bảo tồn nguyên vẹn vẻ đẹp thuần khiết và linh thiêng từ thuở sơ khai. Những đường mạch dẫn ma lực màu xanh lam rực rỡ đang không ngừng luân chuyển nhịp nhàng dọc theo bề mặt cánh cổng là minh chứng rõ ràng nhất cho thấy chức năng truyền tống của Thiên Tống Môn vẫn đang vận hành hoàn hảo.
 
-Nơi từng là cửa ngõ của đại đô thị Albion giờ đây là một sảnh tròn rộng lớn. Lấy Thiên Tống Môn làm trung tâm, các lối đi lớn tỏa ra khắp bốn phương tám hướng. Một không gian khổng lồ được thiết kế để phục vụ cho hàng trăm ngàn, hàng triệu người qua lại.
+Khu vực từng là cửa ngõ giao thương sầm uất bậc nhất của đại đô thị Albion ngàn năm trước giờ đây là một đại sảnh vòm tròn mênh mông vô tận. Lấy Thiên Tống Môn làm hạch tâm trung tâm, vô số đại lộ thênh thang tỏa ra khắp tám hướng bốn phương. Một không gian kỳ vĩ được thiết kế để đón tiếp hàng triệu sinh mệnh qua lại mỗi ngày.
 
-Tuy nhiên, vào lúc này, ngoài Thiên Tống Môn đang tỏa ra ánh sáng xanh lam nhạt, cả không gian chỉ chìm trong bóng tối và sự tĩnh lặng.
+Thế nhưng vào giây phút này, ngoại trừ ánh sáng xanh lam huyền ảo tỏa ra từ Thiên Tống Môn, toàn bộ không gian bao la ấy chỉ chìm đắm trong bóng tối vô tận và sự tĩnh lặng chết chóc.
 
-Kotori ngồi trên vương tọa của Albion, lặng lẽ ngắm nhìn cảnh tượng đó.
+Kotori ung dung ngồi lên ngai vàng của Albion, say đắm phóng tầm mắt chiêm ngưỡng khung cảnh tráng lệ tột bậc ấy.
 
-*“Cuối cùng mình cũng có thể hoàn thành sứ mệnh của Nữ thần rồi. Sau đó, Kotori sẽ cùng Souma-kun rời khỏi nơi này, tiến về thế giới bên ngoài—”*
+*“Cuối cùng thì mình cũng sắp sửa hoàn thành sứ mệnh thiêng liêng mà Nữ thần giao phó rồi. Sau đó, Kotori sẽ cùng Souma-kun tay trong tay rời khỏi chốn ngục tù này, cùng nhau bước ra thế giới bao la bên ngoài—”*
 
-Cô nhắm mắt lại, trên mặt lộ ra vẻ mặt mơ màng của một thiếu nữ đang chìm dắm trong mộng tưởng. Đúng vào khoảnh khắc đó.
+Ả khẽ khép hờ hàng mi, trên gương mặt kiều diễm hiện rõ vẻ mơ màng đắm say của một thiếu nữ đang thả hồn vào giấc mộng thiên đường hoàn mỹ. 
 
-ẦM ẦM ẦM ẦM ẦM ẦM ẦM ẦM————
+Đúng vào khoảnh khắc ảo vọng ấy đang dâng trào tột đỉnh—
 
-Một tiếng nổ lớn cùng chấn động dữ dội làm rung chuyển cả tòa tháp vang lên.
+ẦM ẦM ẦM ẦM ẦM ẦM ẦM ẦM————!!
 
-Đồng thời, còi báo động khẩn cấp rú vang, ánh đèn đỏ lập tức bao trùm lấy Văn phòng Thị trưởng.
+Một chuỗi tiếng nổ kinh thiên động địa kèm theo cơn dư chấn dữ dội làm rung chuyển toàn bộ cấu trúc của Tòa Tháp vang lên xé toạc không gian.
 
-“C-Cái gì thế!? Có chuyện gì xảy ra vậy!!”
+Cùng lúc đó, hệ thống còi báo động khẩn cấp rú lên từng hồi chói tai, ánh đèn đỏ rực cảnh báo nguy cấp lập tức bao trùm lấy toàn bộ Văn phòng Thị trưởng.
 
-Kotori hốt hoảng bật dậy hét lớn. Như để trả lời cho câu hỏi của cô, hình ảnh từ khu vực xảy ra sự cố lập tức được trình chiếu.
+“C-Cái gì thế kia!? Chuyện quái quỷ gì đang xảy ra vậy!!”
 
-Màn hình ảo ảnh lớn hiện ra trước mắt cô, hiển thị một làn khói đen cuồn cuộn và những ngọn lửa đỏ rực.
+Kotori kinh hoàng bật dậy khỏi ngai vàng, thét lên thất thanh. 
 
-Khi luồng gió thổi bay làn khói đen, một bóng người nhỏ bé xuất hiện ở phía bên kia.
+Như để hồi đáp lại sự hoảng loạn tột độ của ả, luồng tín hiệu từ khu vực vừa xảy ra sự cố lập tức tự động kích hoạt và truyền tải hình ảnh lên không trung.
 
-Cậu thiếu niên nhỏ nhắn với mái tóc đen và vạt áo gakuran khẽ lay động trong gió, từ từ quay mặt về phía này.
+Một màn hình ảo ảnh khổng lồ bừng sáng ngay trước mắt ả, phơi bày cảnh tượng những cột khói đen đặc cuồn cuộn bốc lên cùng biển lửa đỏ rực đang gầm rú điên cuồng.
 
-Với ánh mắt xấc xược, ngang tàng như một con mèo hoang, cậu ta giơ ngón tay giữa lên thẳng về phía camera.
+Khi một luồng gió mạnh thổi bạt đi màn khói đen mịt mù, một bóng hình nhỏ nhắn quen thuộc dần dần lộ diện ở phía bên kia đống đổ nát tan hoang.
+
+Cậu thiếu niên nhỏ thó với mái tóc đen nhánh cùng vạt áo gakuran rách rưới khẽ phần phật bay trong gió, từ từ ngoảnh mặt hướng thẳng về phía ống kính giám sát.
+
+Với ánh mắt xấc xược, ngạo nghễ và sắc lạnh như một con mèo hoang chuẩn bị vồ mồi, cậu ta giơ thẳng ngón tay giữa lên trước camera truyền hình trực tiếp.
 
 “Fucking bitch!”
 
-Ngay sau đó, màn hình giám sát tối đen.
+*Xoẹt—!*
+
+Ngay khoảnh khắc tiếp theo, toàn bộ màn hình giám sát phụt tắt, chìm vào một màu đen ngòm câm lặng.
 
 “M-Momokawa... Mo-mo-ka-wa-aaaaaaaaaaaaaaaaaaaaaa!!”`
             },
@@ -64287,23 +64305,23 @@ Ngay sau đó, màn hình giám sát tối đen.
 
 Đó là kết luận mà tôi đưa ra.
 
-Tia sáng bắn ra từ mắt của tượng tinh linh quá mạnh. Đột phá trực diện nơi đó đúng là một trò chơi bất khả thi. Tôi quyết định coi nó như một dạng cơ quan chướng ngại vật được thiết kế để chặn đứng hoàn toàn tiến trình của người chơi.
+Tia sáng bắn ra từ mắt của bức tượng tinh linh quá đỗi khủng khiếp. Đột phá trực diện nơi đó chẳng khác nào một màn chơi game ở độ khó không tưởng. Tôi quyết định coi nó như một dạng cơ quan chướng ngại vật được thiết kế để chặn đứng hoàn toàn tiến trình của người chơi.
 
 “Ừm. Nếu Quảng Trường Tinh Linh hoạt động hết công suất, việc đột phá trực diện là hoàn toàn không thể. Thứ đó không đơn thuần là một thiết bị tự động nghênh chiến đâu ——— mà nó thực sự chứa đựng sức mạnh của thần linh đấy.”
 
 Người giải thích cho tôi đương nhiên là Liberta, nhân chứng sống từ thời cổ đại xa xôi.
 
-Tôi không mượn Liberta từ chỗ cậu bạn Tendou rồi tự nhốt mình trong phòng chỉ huy chỉ để chơi. Tôi đã khai thác từ cô ấy mọi thông tin có thể.
+Tôi không mượn Liberta từ chỗ Tendou rồi tự nhốt mình trong phòng chỉ huy chỉ để chơi bời. Tôi đã khai thác từ cô ấy mọi thông tin có thể.
 
-Dĩ nhiên là bao gồm cả về bức tượng tinh linh bắn tia laser đầy đe dọa kia nữa.
+Dĩ nhiên là bao gồm cả bức tượng tinh linh bắn tia laser đầy đe dọa kia nữa.
 
 “Nói cách khác, nó giống như 『Thiên Chức』, là một thực thể được thần linh ban cho sức mạnh đặc biệt đúng không?”
 
 Đến nước này thì chẳng còn lý do gì để nghi ngờ hệ thống ban phát sức mạnh của thần linh nữa. Sự bảo hộ của thần linh là có thật ở dị giới này.
 
-Vã lại, có vẻ như những kẻ được ban sức mạnh thần thánh không chỉ giới hạn ở những người được triệu hồi từ thế giới khác như chúng tôi.
+Vả lại, có vẻ như những kẻ được ban sức mạnh thần thánh không chỉ giới hạn ở những người được triệu hồi từ thế giới khác như chúng tôi.
 
-Nghĩ lại thì, ngoài những người sở hữu 『Thiên Chức』 như chúng tôi, vẫn còn một thực thể đặc biệt khác cũng được ban sức mạnh của thần ——— đó chính là 『Kẻ Cuồng Chiến Lang Thang』.
+Nghĩ lại thì, ngoài những người sở hữu 『Thiên Chức』 như chúng tôi, vẫn còn một thực thể đặc biệt khác cũng được ban sức mạnh của thần ——— đó chính là 『Chiến Binh Cuồng Loạn Lang Thang』.
 
 Kẻ đó không phải con người, cũng chẳng phải quái vật dạng người như Oh-ma. Theo lời giải thích của Liberta, đó là một món vũ khí cổ đại, hay nói đúng hơn là trùm cuối thực sự đã bạo tẩu và hủy diệt Albion này do sử dụng sức mạnh của một Ma thần cực kỳ nguy hiểm.
 
@@ -64333,13 +64351,13 @@ Tôi biết thừa Takanashi đang giám sát mọi hành động của mình.
 
 Thế nên, tôi mới cố tình phô trương mà kéo đến đó đấy.
 
-Mang theo đầy đủ trang bị, toàn bộ tập hợp ——— tuy nhiên, một nửa trong số đó là giả. Những người thật chỉ gồm năm người: cậu bạn Hayama, Lớp trưởng, Sakura, Himeno và Nakajima.
+Mang theo đầy đủ trang bị, toàn bộ tập hợp ——— tuy nhiên, một nửa trong số đó là giả. Những người thật chỉ gồm năm người: Hayama-kun, Lớp trưởng, Sakura-chan, Himeno-san và Nakajima-kun.
 
-Tôi thì đã có phân thân nên không sao, còn bốn người kia thì được chuẩn bị từ trang phục, trang bị, chiều cao cho đến tóc giả, rồi tôi dùng 『Hư Ảnh Tương Chiếu』 lên các Skeleton để biến chúng thành bản sao của các bạn học. Vì cậu bạn Tendou có vóc dáng to lớn nên thay vì Skeleton, tôi đã dùng một con High Zombie cơ bắp cuồn cuộn để đóng giả.
+Tôi thì đã có phân thân nên không sao, còn bốn người kia thì được chuẩn bị từ trang phục, trang bị, chiều cao cho đến tóc giả, rồi tôi dùng 『Hư Ảnh Tương Chiếu』 lên các Skeleton để biến chúng thành bản sao của các bạn học. Vì Tendou có vóc dáng to lớn nên thay vì Skeleton, tôi đã dùng một con High Zombie cơ bắp cuồn cuộn để đóng giả.
 
 Đội ngũ toàn hàng giả phụ trách lối vào chính này thực chất là nhóm chờ lệnh, không có nhiệm vụ gì đặc biệt. Vai trò của họ chỉ là thu hút sự chú ý của Takanashi ngay lúc này.
 
-Từ trước đến nay, phân thân của tôi cùng Rem và các triệu hoán thú thường xuyên đột kích vào Tháp để thử nghiệm vượt qua tượng tinh linh, nhưng tôi chưa từng dẫn theo bất kỳ người đồng đội nào khác. Ngay cả Natsukawa, vì quá nguy hiểm nên tôi cũng không cho phép cô ấy xâm nhập vào trong Tháp.
+Từ trước đến nay, phân thân của tôi cùng Rem và các triệu hoán thú thường xuyên đột kích vào Tháp để thử nghiệm vượt qua tượng tinh linh, nhưng tôi chưa từng dẫn theo bất kỳ người đồng đội nào khác. Ngay cả Natsukawa-san, vì quá nguy hiểm nên tôi cũng không cho phép cô ấy xâm nhập vào trong Tháp.
 
 Nếu cô ta quan sát hành động đó của tôi, thì khi thấy tất cả mọi người cùng kéo đến thế này, cô ta sẽ nghĩ: *Lũ ngu ngốc kia cuối cùng cũng chịu đến nộp mạng rồi.*
 
@@ -64375,7 +64393,7 @@ Những tiếng nổ lớn liên tiếp vang lên. Trong làn khói đen cuồn 
 
 Đúng lúc đó, điện thoại đổ chuông.
 
-Tôi bắt máy bằng chiếc điện thoại thông minh thừa kế từ Nonomiya.
+Tôi bắt máy bằng chiếc điện thoại thông minh thừa kế từ Nonomiya-san.
 
 “Momokawa, mở được rồi.”
 
@@ -64389,7 +64407,7 @@ Kết thúc cuộc gọi ngắn gọn súc tích với Tendou, tôi cũng nhoài
 
 “Đây chỉ là phân thân thôi nên không sao đâu.”
 
-Nhận những lời lo lắng từ Mei và Kyouko, phân thân của tôi được Hắc Kị Sĩ Rem bế kiểu công chúa, không chút do dự lao mình xuống vực sâu.
+Nhận những lời lo lắng từ Mei-chan và Kyouko, phân thân của tôi được Hắc Kị Sĩ Rem bế kiểu công chúa, không chút do dự lao mình xuống vực sâu.
 
 Ngay phía dưới đã có sẵn một sợi dây thừng làm bằng tóc đen được bện tỉ mỉ thả xuống. Rem dùng một tay nắm lấy sợi dây rồi nhanh chóng trượt xuống.
 
@@ -64437,7 +64455,7 @@ Thực ra, việc chúng tôi công khai tìm kiếm lối đột phá mà Takan
 
 *Mày chắc hẳn đã nghĩ tao chỉ đang lục lọi dưới đáy vực sâu để thu thập nguyên liệu từ xác lũ Goma đúng không?*
 
-Đúng là tôi đã tận dụng triệt để xác của phần lớn thần dân vương quốc Goma, bao gồm cả lũ Gira-GoGame Mastera... nhưng mục tiêu thực sự lại là việc Tendou đi tìm lối đột phá.
+Đúng là tôi đã tận dụng triệt để xác của phần lớn thần dân vương quốc Goma, bao gồm cả lũ Gira-Goma... nhưng mục tiêu thực sự lại là việc Tendou đi tìm lối đột phá.
 
 Để vận chuyển số nhu yếu phẩm thu gom được dưới đáy vực lên mặt đất, tôi đã để Liberta cắp các container bay đi bay lại. Vì cô ấy thực sự đang vận chuyển đồ đạc nên việc bay lượn xung quanh Tháp không hề gây ra chút nghi ngờ nào.
 
@@ -64519,7 +64537,7 @@ Khi chiếc thang máy chạy bằng sức người đáp xuống lối bốc d�
 
 “Lũ tụi mày, chuẩn bị chiến đấu đi. Bọn chúng đến nghênh đón rồi đấy.”
 
-Ryuuichi nhổ điếu thuốc xuống đất rồi rút ra 『Vương Kiếm』, cùng lúc đó, những cánh cửa cuốn dẫn vào nhà kho đồng loạt kéo lên.
+Ryuuichi nhổ điếu thuốc xuống đất rồi rút ra 『Vương Kiếm Zamd』, cùng lúc đó, những cánh cửa cuốn dẫn vào nhà kho đồng loạt kéo lên.
 
 Lao ra thành từng hàng là những bóng người màu trắng.
 
@@ -64533,23 +64551,23 @@ Ngay khi Kotarou vừa nở nụ cười giễu cợt, một tên cuồng chiế
                 "title": "Tập 349: Chinh phục Tháp Trung Tâm (2)",
                 "content": `# Tập 349: Chinh phục Tháp Trung Tâm (2)
 
-Nhà kho dùng để bốc dỡ hàng hóa sở hữu một diện tích vô cùng rộng lớn. Có tổng cộng ba lối đi thông vào nơi này: một cửa sập lớn phía chính diện và hai lối ra vào ở hai bên trái phải. Từ cả ba hướng đó, kẻ địch—những tay sai của Takanashi—bắt đầu lũ lượt kéo ra.
+Nhà kho dùng để bốc dỡ hàng hóa sở hữu diện tích vô cùng rộng lớn. Có tổng cộng ba lối đi thông vào nơi này: một cửa sập lớn phía chính diện và hai lối ra vào ở hai bên trái phải. Từ cả ba hướng đó, kẻ địch—những tay sai của Takanashi—bắt đầu lũ lượt kéo ra.
 
 “Ua, cái gì thế kia, bọn chúng là con người à?!”
 
-“Làm gì có người nào màu xanh lam chứ.”
+“Làm gì có người nào da màu xanh lam chứ.”
 
-Cậu Hayama vô thức nhìn nhầm cũng phải, bởi dáng vẻ và chuyển động của chúng giống hệt con người.
+Hayama-kun vô thức nhìn nhầm cũng phải, bởi dáng vẻ và cử động của chúng giống hệt con người.
 
-Ngoại hình của chúng tương đương một người đàn ông trưởng thành trung bình. Chúng khoác trên mình bộ giáp bảo hộ màu trắng, trông giống như áo giáp chống đạn kết hợp với mũ bảo hiểm hơn là giáp trụ thông thường. Tuy nhiên, nó không hoàn toàn mang lại cảm giác quân sự hiện đại, mà vẫn phảng phất những đường nét thiết kế giả tưởng đặc trưng của nền văn minh cổ đại Albion.
+Ngoại hình của chúng tương đương một người đàn ông trưởng thành cỡ trung bình. Chúng khoác trên mình bộ giáp bảo hộ màu trắng, trông giống áo giáp chống đạn kết hợp với mũ bảo hiểm hơn là giáp trụ thông thường. Tuy nhiên, nó không hoàn toàn mang lại cảm giác quân sự hiện đại, mà vẫn phảng phất những đường nét thiết kế giả tưởng đặc trưng của nền văn minh cổ đại Albion.
 
-“Nghe nói chúng được gọi là 『Ma Đạo Nhân Hình』. Đại loại là một dạng người nhân tạo được tạo ra bằng ma pháp ấy.”
+“Nghe nói chúng được gọi là 『Ma Đạo Nhân Hình』. Đại loại là một dạng người nhân tạo được chế tác bằng ma pháp ấy.”
 
-Đối với tôi—người sở hữu Rem, hay Tendou—người có Momoko, sự tồn tại của những thực thể giống hệt con người được tạo ra bằng ma pháp vốn không có gì xa lạ. Ở thời cổ đại với nền văn minh ma pháp vượt trội, việc họ tạo ra những nô lệ tiện lợi bằng ma pháp là điều hiển nhiên.
+Đối với tôi—người sở hữu Rem, hay Tendou-kun—người có Momoko, sự tồn tại của những thực thể giống hệt con người được tạo ra bằng ma pháp vốn chẳng có gì xa lạ. Ở thời cổ đại với nền văn minh ma pháp vượt trội, việc họ tạo ra những nô lệ tiện lợi bằng ma pháp là điều hiển nhiên.
 
 Đặc biệt, những thực thể được chế tạo dựa trên hình mẫu con người sẽ được gọi là 『Ma Đạo Nhân Hình』.
 
-Sự khác biệt giữa người thật và con rối rất dễ nhận biết ngay từ cái nhìn đầu tiên: màu da của chúng. Da của chúng không phải màu trắng, đen hay vàng, mà là một màu xanh lam giống như mấy sinh vật ngoài hành tinh. Thêm vào đó, tròng mắt của chúng hoàn toàn trắng dã, nhìn qua cứ như đang trợn ngược mắt lên, trông vô cùng đáng sợ.
+Sự khác biệt giữa người thật và con rối rất dễ nhận biết ngay từ cái nhìn đầu tiên: màu da của chúng. Da của chúng không phải màu trắng, đen hay vàng, mà là một màu xanh lam giống như mấy sinh vật ngoài hành tinh. Thêm vào đó, tròng mắt của chúng hoàn toàn trắng dã, nhìn qua cứ như đang trợn ngược mắt lên, trông vô cùng quái dị.
 
 Thế nhưng, chính làn da xanh lam và đôi mắt trắng dã đó lại là đặc điểm nhận dạng rõ ràng nhất, giúp chúng tôi dễ dàng phân biệt chúng với con người. Nói cách khác, chúng tôi không cần phải nương tay hay do dự gì cả.
 
@@ -64557,7 +64575,7 @@ Thế nhưng, chính làn da xanh lam và đôi mắt trắng dã đó lại là
 
 “Thì là lính gác cổ đại mà, dĩ nhiên phải có súng Blaster rồi.”
 
-Những con rối xuất hiện có lẽ là lực lượng cảnh vệ vốn được bố trí sẵn để bảo vệ Tháp Trung Tâm. Vì được tính là trang thiết bị của tòa tháp nên chúng không thuộc biên chế quân đội. Do đó, quyền quân lệnh của cậu Tendou không có tác dụng với chúng, biến chúng thành những quân tốt thí mạng vô cùng tiện lợi để Takanashi tùy ý thao túng.
+Những con rối xuất hiện có lẽ là lực lượng cảnh vệ vốn được bố trí sẵn để bảo vệ Tháp Trung Tâm. Vì được tính là trang thiết bị của tòa tháp nên chúng không thuộc biên chế quân đội. Do đó, quyền quân lệnh của Tendou-kun không có tác dụng với chúng, biến chúng thành những quân tốt thí mạng vô cùng tiện lợi để Takanashi tùy ý thao túng.
 
 Vũ khí chủ lực của chúng vẫn là súng Blaster kiểu súng trường. Đó có lẽ là loại súng trường được quân đội Emerodia chính thức áp dụng, giống như đống súng tìm thấy trong kho vũ khí ở pháo đài ẩn.
 
@@ -64569,23 +64587,23 @@ Những khẩu súng trường có khung màu trắng đồng bộ với bộ gi
 
 Trước khi những viên đạn ánh sáng kịp bắn ra, một đòn tấn công của Cuồng Chiến Binh đã lao vào và thổi bay tất cả.
 
-Kẻ trúng đòn trực diện cùng với bộ giáp bảo hộ trên người bị nghiền nát thành trăm mảnh theo đúng nghĩa đen. Những tên đứng ngay cạnh bị chém đứt đầu, tay chân bay tứ tung. Những tên ở xa hơn một chút thì bị bẻ gãy tay chân, bắn văng ra ngoài rồi va đập mạnh vào tường và các container, phun ra những vệt máu xanh.
+Kẻ trúng đòn trực diện cùng với bộ giáp bảo hộ trên người bị nghiền nát thành trăm mảnh theo đúng nghĩa đen. Những tên đứng ngay cạnh bị chém đứt đầu, tay chân bay tứ tung. Những tên ở xa hơn một chút thì bị bẻ gãy xương cốt, bắn văng ra ngoài rồi va đập mạnh vào tường và các container, phun ra những vệt máu xanh.
 
-Những con rối da xanh phun ra dòng máu màu xanh lam dạ quang rực rỡ, lập tức biến thành đống sắt vụn.
+Những con rối da xanh phun ra dòng máu màu xanh lam dạ quang rực rỡ, lập tức biến thành đống phế liệu.
 
-Võ kỹ 『Kích Chấn』 vốn đã tạo ra sóng xung kích cực mạnh, nhưng với thực lực hiện tại của Mei kết hợp cùng món vũ khí mới được cường hóa, uy lực từ một cú vung của cô ấy giờ đây còn mang sức công phá khủng khiếp hơn cả một quả lựu đạn phát nổ.
+Võ kỹ 『Kích Chấn』 vốn đã tạo ra sóng xung kích cực mạnh, nhưng với thực lực hiện tại của Mei-chan kết hợp cùng món vũ khí mới được cường hóa, uy lực từ một cú vung của cô ấy giờ đây còn mang sức công phá khủng khiếp hơn cả một quả lựu đạn phát nổ.
 
-\`『Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm』\`: Món vũ khí được cải tiến và cường hóa mạnh mẽ từ vũ khí chính ban đầu của cô ấy là \`『Hắc Thiết Kích』\`. Lớp sắt đen cứng và nặng được nấu chảy cùng với \`『Thần Thiết』\`—loại kim loại hiếm chiết xuất từ vũ khí thu được ở pháo đài ẩn—để tạo thành một loại hợp kim mới có độ bền vượt trội. Thêm vào đó, yếu tố tạo nên thuộc tính bão tố của món vũ khí này chính là hai cây rìu thuộc tính Lôi của Jiji-Gogo. Đúng như mong đợi từ vũ khí của một Gira-GoGame Mastera đại diện cho vương quốc, chúng là những món vũ khí ma pháp chất lượng cao vượt xa vũ khí của GoGame Mastera bốn tay. Một cây vẫn còn cắm trên tường thành, cây còn lại được thu hồi dưới đáy vực, cả hai đều được đem đi luyện kim để truyền vào nguồn sức mạnh thuộc tính Lôi cực mạnh.
+『Hắc Lam Kiếm Phủ Gilastorm』: Món vũ khí được cải tiến và cường hóa mạnh mẽ từ vũ khí chính ban đầu của cô ấy là 『Hắc Thiết Kích』. Lớp sắt đen cứng và nặng được nấu chảy cùng với 『Thần Thiết』—loại kim loại hiếm chiết xuất từ vũ khí thu được ở pháo đài ẩn—để tạo thành một loại hợp kim mới có độ bền vượt trội. Thêm vào đó, yếu tố tạo nên thuộc tính bão tố của món vũ khí này chính là hai cây rìu thuộc tính Lôi của Jiji-Gogo. Đúng như mong đợi từ vũ khí của một Gira-Goma đại diện cho vương quốc, chúng là những món vũ khí ma pháp chất lượng cao vượt xa vũ khí của lũ Goma bốn tay thông thường. Một cây vẫn còn cắm trên tường thành, cây còn lại được thu hồi dưới đáy vực, cả hai đều được đem đi luyện kim để truyền vào nguồn sức mạnh thuộc tính Lôi cực mạnh.
 
-Cầm trên tay cây kích mới được đúc từ những chiến lợi phẩm sau chiến dịch lật đổ vương quốc Goma, Mei dễ dàng quét sạch lũ rối.
+Cầm trên tay cây kích mới được đúc từ những chiến lợi phẩm sau chiến dịch lật đổ vương quốc Goma, Mei-chan dễ dàng quét sạch lũ rối.
 
-Khi được truyền ma lực, Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Hắc Lam Kiếm Phủ Gilastorm sẽ phóng ra những tia sét màu đỏ đen, nhưng vì cô ấy vẫn chưa hề nghiêm túc nên hiện tại chỉ đơn giản là đang vung vẩy cây kích siêu cứng đó mà thôi. Dẫu vậy, sức tàn phá của nó vẫn đủ để tạo nên một cơn mưa máu thịt màu xanh lam.
+Khi được truyền ma lực, 『Hắc Lam Kiếm Phủ Gilastorm』 sẽ phóng ra những tia sét màu đỏ đen, nhưng vì cô ấy vẫn chưa hề nghiêm túc nên hiện tại chỉ đơn giản là đang vung vẩy cây kích siêu cứng đó mà thôi. Dẫu vậy, sức tàn phá của nó vẫn đủ để tạo nên một cơn mưa máu thịt màu xanh lam.
 
 Thế nhưng, vũ khí mới của cô ấy không chỉ có một món.
 
-\`『Zagan's Pride』\`: Thanh kiếm yêu thích của Zagan. Đó là một thanh thẳng kiếm bản rộng, không có trang trí cầu kỳ, cũng không được yểm các thuộc tính tấn công lòe loẹt, một thiết kế vô cùng đơn giản. Thế nhưng, nó lại là một thanh kiếm vô cùng thực dụng khi tập trung hoàn toàn vào độ sắc bén lâu dài và sự kiên cố của lưỡi kiếm. Đây cũng là thanh kiếm mang đầy điềm gở đã sát hại Nakai và bạn Nonomiya trong lần chạm trán đầu tiên. Tuy nhiên, trong chiến dịch vương quốc, nó đã bị rơi xuống vực sâu ngay từ đầu nên tôi không có nhiều ấn tượng về thanh kiếm này của Zagan... Dù vậy, sự thật là thanh kiếm này đã được Zagan yêu thích suốt nhiều năm, và nhờ được vung lên cùng với quá trình Khổng Lồ Hóa của hắn, nó đã tự sinh ra một hiệu ứng đặc biệt mà ban đầu không hề có.
+『Zagan's Pride』: Thanh kiếm yêu thích của Zagan. Đó là một thanh thẳng kiếm bản rộng, không có trang trí cầu kỳ, cũng không được yểm các thuộc tính tấn công lòe loẹt, một thiết kế vô cùng đơn giản. Thế nhưng, nó lại là một thanh kiếm vô cùng thực dụng khi tập trung hoàn toàn vào độ sắc bén lâu dài và sự kiên cố của lưỡi kiếm. Đây cũng là thanh kiếm mang đầy điềm gở đã sát hại Nakai và bạn Nonomiya trong lần chạm trán đầu tiên. Tuy nhiên, trong chiến dịch vương quốc, nó đã bị rơi xuống vực sâu ngay từ đầu nên tôi không có nhiều ấn tượng về thanh kiếm này của Zagan... Dù vậy, sự thật là thanh kiếm này đã được Zagan yêu thích suốt nhiều năm, và nhờ được vung lên cùng với quá trình Khổng Lồ Hóa của hắn, nó đã tự sinh ra một hiệu ứng đặc biệt mà ban đầu không hề có.
 
-Thứ Mei đang nắm ở tay trái không phải là một chiếc đại khiên, mà chính là thanh \`『Zagan's Pride』\` này. Thanh kiếm đại diện cho niềm kiêu hãnh của Zagan quả thực vô cùng xứng đáng nằm trong tay vị Cuồng Chiến Binh đã đánh bại hắn.
+Thứ Mei-chan đang nắm ở tay trái không phải là một chiếc đại khiên, mà chính là thanh 『Zagan's Pride』 này. Thanh kiếm đại diện cho niềm kiêu hãnh của Zagan quả thực vô cùng xứng đáng nằm trong tay vị Cuồng Chiến Binh đã đánh bại hắn.
 
 Thanh trường kiếm trông có vẻ vô cùng bình thường và giản đơn đó, thế nhưng—
 
@@ -64595,7 +64613,7 @@ Ngay khoảnh khắc võ kỹ cường hóa trảm kích được vung ra theo c
 
 Đó không phải là ảo ảnh hay hào quang ma lực, mà lưỡi kiếm thực sự đã dài ra.
 
-Kỹ năng cường hóa mạnh nhất của tộc Gira-GoGame Mastera là 『Khổng Lồ Hóa』 sở hữu một hiệu ứng vô cùng kỳ lạ: không chỉ cơ thể của bản thân mà ngay cả trang bị trên người cũng sẽ to lên theo. Vì vậy, mỗi khi Zagan hóa thành khổng lồ, thanh kiếm này cũng luôn đồng hành và to lên cùng hắn.
+Kỹ năng cường hóa mạnh nhất của tộc Gira-Goma là 『Khổng Lồ Hóa』 sở hữu một hiệu ứng vô cùng kỳ lạ: không chỉ cơ thể của bản thân mà ngay cả trang bị trên người cũng sẽ to lên theo. Vì vậy, mỗi khi Zagan hóa thành khổng lồ, thanh kiếm này cũng luôn đồng hành và to lên cùng hắn.
 
 Có lẽ do liên tục trải qua quá trình khổng lồ hóa suốt nhiều năm như vậy, bản thân thanh kiếm đã tự thức tỉnh khả năng thay đổi kích thước—điều này được tôi phát hiện ra khi đang mày mò luyện kim để tìm cách tận dụng thanh kiếm của Zagan sau khi thu hồi nó.
 
@@ -64605,31 +64623,31 @@ Trong chiến đấu, việc có thể thay đổi tầm đánh của vũ khí m
 
 *Rắc rắc, ầm ầm ầm...*
 
-Chiêu 『Phá Đoạn』 của Mei vừa vung ra đã lập tức kéo dài đến kích thước tối đa, mang theo uy lực chém thép chém sắt, cắt đôi những con rối đang chĩa súng về phía chúng tôi cùng với cả chiếc container mà chúng dùng làm vật che chắn.
+Chiêu 『Phá Đoạn』 của Mei-chan vừa vung ra đã lập tức kéo dài đến kích thước tối đa, mang theo uy lực chém sắt như chém bùn, cắt đôi những con rối đang chĩa súng về phía chúng tôi cùng với cả chiếc container mà chúng dùng làm vật che chắn.
 
 Chiếc container bị chém đứt làm đôi theo đường chéo từ từ đổ sụp xuống với những tiếng động nặng nề. Dĩ nhiên, những con rối ẩn nấp phía sau chiếc container đó cũng bị chém đứt đầu hoặc đứt đôi người, chìm nghỉm trong vũng máu xanh lam.
 
-Không thèm liếc nhìn những kẻ đã bị hạ gục, Mei tiếp tục thay đổi hình dạng của 『Zagan's Pride』 và lao thẳng vào đội hình rối đang liên tục tràn vào.
+Không thèm liếc nhìn những kẻ đã bị hạ gục, Mei-chan tiếp tục thay đổi hình dạng của 『Zagan's Pride』 và lao thẳng vào đội hình rối đang liên tục tràn vào.
 
-Thay vì kéo dài lưỡi kiếm, cô ấy làm cho bản kiếm rộng ra để dùng như một tấm khiên, trực tiếp xông qua cơn mưa đạn ánh sáng đang bắn loạn xạ. Mà thực ra, với thể chất của Mei thì dù có trúng trực diện vài phát đạn Blaster ở trạng thái bình thường cô ấy vẫn chịu đựng được.
+Thay vì kéo dài lưỡi kiếm, cô ấy làm cho bản kiếm rộng ra để dùng như một tấm khiên, trực tiếp xông qua cơn mưa đạn ánh sáng đang bắn loạn xạ. Mà thực ra, với thể chất của Mei-chan thì dù có trúng trực diện vài phát đạn Blaster ở trạng thái bình thường cô ấy vẫn chịu đựng được.
 
 “Hừm!”
 
-Cứ như vậy, Mei một mình trấn giữ lối vào chính diện—nơi kẻ địch xuất hiện nhiều nhất—bằng cách vung vẩy hai món vũ khí mới. Sự áp đảo của cô ấy lớn đến mức những người khác chẳng cần phải yểm trợ.
+Cứ như vậy, Mei-chan một mình trấn giữ lối vào chính diện—nơi kẻ địch xuất hiện nhiều nhất—bằng cách vung vẩy hai món vũ khí mới. Sự áp đảo của cô ấy lớn đến mức những người khác chẳng cần phải yểm trợ.
 
 Tuy nhiên, vẫn còn hai lối xâm nhập ở bên trái và bên phải.
 
 “Vẫn còn bò ra nữa à, phiền phức thật. Biến mất hết đi—『Nega Wave』!”
 
-Phía bên phải đã có cậu Tendou trấn giữ, nên hướng đó cũng hoàn toàn được giải quyết gọn gàng.
+Phía bên phải đã có Tendou-kun trấn giữ, nên hướng đó cũng hoàn toàn được giải quyết gọn gàng.
 
-Cậu ta vung Vương Kiếm phóng ra một luồng sóng xung kích tỏa ra hào quang màu tím đen đậm chất ma lực bóng tối, quét sạch toàn bộ đội hình rối.
+Cậu ta vung Vương Kiếm phóng ra luồng sóng xung kích tỏa hào quang màu tím đen đậm chất ma lực bóng tối, quét sạch toàn bộ đội hình rối.
 
 “Ồ ồ! Tuyệt quá, Chủ nhân ơi! Vô song, gian lận, bá đạo quá đi mất thôi!”
 
 Và Momoko thì cứ chạy lăng xăng xung quanh, không biết là đang cổ vũ hay đang làm vướng chân cậu ta nữa.
 
-Đối với những con rối bị thổi bay nhưng may mắn thoát chết, trước khi chúng kịp gượng dậy, cô hầu gái đã điều khiển những lưỡi đao bóng tối kéo dài ra đâm xuyên qua chúng để kết liễu. Chiêu 『Ảnh Nhẫn』 của cô ta thực sự có hiệu suất rất cao. Nếu đấu tay đôi sòng phẳng, có lẽ tôi sẽ thua mất. Bởi vì Phi Đao Phái Momokawa của tôi chỉ có thể thắng được mỗi cậu Hayama mà thôi.
+Đối với những con rối bị thổi bay nhưng may mắn thoát chết, trước khi chúng kịp gượng dậy, cô hầu gái đã điều khiển những lưỡi đao bóng tối kéo dài ra đâm xuyên qua chúng để kết liễu. Chiêu 『Ảnh Nhẫn』 của cô ta thực sự có hiệu suất rất cao. Nếu đấu tay đôi sòng phẳng, có lẽ tôi sẽ thua mất. Bởi vì Phi Đao Phái Momokawa của tôi chỉ có thể thắng được mỗi Hayama-kun mà thôi.
 
 Tạm thời cứ giao cửa bên phải cho tổ đội Tendou là có thể yên tâm rồi. Trong trường hợp khẩn cấp, Liberta cũng có thể phun hơi thở rồng, nên hướng đó cũng không cần yểm trợ.
 
@@ -64641,23 +64659,23 @@ Cùng với tiếng hét dũng mãnh, người đang vung lưỡi đao tỏa án
 
 Một nhát chém ngang mang theo ánh sáng xanh trắng tuyệt đẹp chém đứt đôi con rối trước mặt.
 
-Dù không thể một đòn thổi bay cả đám như Mei hay cậu Tendou, nhưng dáng vẻ uyển chuyển như đang khiêu vũ của cô ấy khi liên tục chém gục kẻ địch vẫn vô cùng đẹp mắt, khiến người ta phải thành tâm tán thưởng.
+Dù không thể một đòn thổi bay cả đám như Mei-chan hay Tendou-kun, nhưng dáng vẻ uyển chuyển như đang khiêu vũ của cô ấy khi liên tục chém gục kẻ địch vẫn vô cùng đẹp mắt, khiến người ta phải thành tâm tán thưởng.
 
-Người được truyền thụ kiếm kỹ phái Souma không chỉ có cậu Souma, mà cả Sakura cũng vậy. Dù thường ngày cô ấy luôn ẩn mình dưới cái bóng của anh trai, nhưng thực chất võ nghệ của cô ấy đã vượt xa cấp độ của một nữ sinh cấp ba chỉ tập luyện võ thuật thông thường.
+Người được truyền thụ kiếm kỹ phái Souma không chỉ có Souma-kun, mà cả Sakura-chan cũng vậy. Dù thường ngày cô ấy luôn ẩn mình dưới cái bóng của anh trai, nhưng thực chất võ nghệ của cô ấy đã vượt xa cấp độ của một nữ sinh cấp ba chỉ tập luyện võ thuật thông thường.
 
-Tôi từng nghe nói từ thời ở Học Viện Tháp rằng, tốc độ trưởng thành của cô ấy đủ để được trao chứng nhận truyền thụ toàn bộ kiếm kỹ cùng lúc với cậu Souma khi tốt nghiệp. Một thực lực vốn đã thuộc hàng quái vật từ khi còn ở Nhật Bản, giờ đây lại được cộng thêm sức mạnh của thiên chức và trang bị ma pháp, giúp cô ấy bộc lộ năng lực chiến đấu siêu phàm vượt qua cả cấp độ của một bậc thầy.
+Tôi từng nghe nói từ thời ở Học Viện Tháp rằng, tốc độ trưởng thành của cô ấy đủ để được trao chứng nhận truyền thụ toàn bộ kiếm kỹ cùng lúc với Souma-kun khi tốt nghiệp. Một thực lực vốn đã thuộc hàng quái vật từ khi còn ở Nhật Bản, giờ đây lại được cộng thêm sức mạnh của thiên chức và trang bị ma pháp, giúp cô ấy bộc lộ năng lực chiến đấu siêu phàm vượt qua cả cấp độ của một bậc thầy.
 
 “Sakura-chan làm tốt lắm.”
 
-Tôi khoanh tay, gật gù đắc ý nhìn Sakura chiến đấu anh dũng với vẻ mặt của một người thầy giáo đang vô cùng hài lòng.
+Tôi khoanh tay, gật gù đắc ý nhìn Sakura-chan chiến đấu anh dũng với vẻ mặt của một người thầy giáo đang vô cùng hài lòng.
 
 Quả nhiên, em không phải là kiểu con gái chỉ biết cam chịu ở phía sau làm trị liệu hay tấn công tầm xa. Một tanker tiên phong trực tiếp đấu kiếm với kẻ địch ở tuyến đầu mới chính là vị trí giúp 『Thánh Nữ』 Souma Sakura tỏa sáng nhất.
 
-Chính vì vậy, tôi đã không hề tiếc công sức để chế tạo ra món vũ khí chuyên dụng dành riêng cho Sakura.
+Chính vì vậy, tôi đã không hề tiếc công sức để chế tạo ra món vũ khí chuyên dụng dành riêng cho Sakura-chan.
 
-\`『Anh Hoa Liêu Loạn』\`: Một cây naginata có cán màu trắng tinh khiết và lưỡi đao tỏa ra ánh sáng xanh trắng. Bởi vì Sakura nói rằng vũ khí cận chiến mà cô ấy thành thạo nhất không phải là kiếm mà là naginata. Phôi nguyên liệu của nó là một khẩu súng Blaster dạng súng trường bắn tỉa có nòng cực dài, kết hợp với thanh trường kiếm mà cô ấy luôn mang theo bên mình như vũ khí phụ. Nòng súng trường dài có lẽ được thiết kế để bắn ra những tia sáng cực mạnh nên có cấu trúc vô cùng kiên cố, hơn nữa thuật thức khắc trên nòng súng thay cho rãnh xoắn lại sở hữu khả năng truyền dẫn ma lực vô cùng kinh ngạc. Nếu được sử dụng bởi một người có ma lực vượt trội, nó hoàn toàn có thể dùng thay thế cho một cây gậy phép. Dùng thứ này làm cán, kết hợp với thanh kiếm chất lượng cao được Takanashi gia công nghiêm túc làm lưỡi đao, chúng tôi đã tạo ra một cây naginata có thể phát huy trọn vẹn ma lực của Thánh Nữ.
+『Anh Hoa Liêu Loạn』: Một cây naginata có cán màu trắng tinh khiết và lưỡi đao tỏa ra ánh sáng xanh trắng. Bởi vì Sakura-chan nói rằng vũ khí cận chiến mà cô ấy thành thạo nhất không phải là kiếm mà là naginata. Phôi nguyên liệu của nó là một khẩu súng Blaster dạng súng trường bắn tỉa có nòng cực dài, kết hợp với thanh trường kiếm mà cô ấy luôn mang theo bên mình như vũ khí phụ. Nòng súng trường dài có lẽ được thiết kế để bắn ra những tia sáng cực mạnh nên có cấu trúc vô cùng kiên cố, hơn nữa thuật thức khắc trên nòng súng thay cho rãnh xoắn lại sở hữu khả năng truyền dẫn ma lực vô cùng kinh ngạc. Nếu được sử dụng bởi một người có ma lực vượt trội, nó hoàn toàn có thể dùng thay thế cho một cây gậy phép. Dùng thứ này làm cán, kết hợp với thanh kiếm chất lượng cao được Takanashi gia công nghiêm túc làm lưỡi đao, chúng tôi đã tạo ra một cây naginata có thể phát huy trọn vẹn ma lực của Thánh Nữ.
 
-Nguồn nguyên liệu chế tạo thì không gặp mấy khó khăn, nhưng công đoạn tinh chỉnh sau khi hoàn thành mới thực sự là một cực hình. Nào là sự cân bằng giữa lưỡi đao và cán súng chưa tốt, đường truyền ma lực có vấn đề, thiết kế chỗ này chưa đẹp mắt, rồi thì cái bản mặt đáng ghét của tôi nhìn ngứa mắt, vân vân và mây mây. Tôi đã bị những đòi hỏi ích kỷ của Sakura xoay cho chóng mặt.
+Nguồn nguyên liệu chế tạo thì không gặp mấy khó khăn, nhưng công đoạn tinh chỉnh sau khi hoàn thành mới thực sự là một cực hình. Nào là sự cân bằng giữa lưỡi đao và cán súng chưa tốt, đường truyền ma lực có vấn đề, thiết kế chỗ này chưa đẹp mắt, rồi thì cái bản mặt đáng ghét của tôi nhìn ngứa mắt, vân vân và mây mây. Tôi đã bị những đòi hỏi ích kỷ của Sakura-chan xoay cho chóng mặt.
 
 Thế nhưng, bằng danh dự của một người thợ rèn, tôi đã vượt qua mọi yêu cầu của vị khách khó tính này. Nhìn cô ấy vung vẩy cây naginata phát sáng ở tuyến đầu để quét sạch kẻ địch thế kia, công sức tôi bỏ ra quả thực vô cùng xứng đáng.
 
@@ -64665,29 +64683,29 @@ Thế nhưng, bằng danh dự của một người thợ rèn, tôi đã vượ
 
 Đó không phải là một võ kỹ ma pháp, mà là một chiêu thức võ thuật truyền thống của phái Souma được lưu truyền đến tận thời hiện đại. Nó phát huy trọn vẹn thuật lý được gửi gắm bên trong để chém đứt kẻ địch. Nhát chém liên hoàn vung rộng sang hai bên trái phải đã quét sạch phần ống chân của lũ rối.
 
-Ồ, tôi từng nghe nói trong naginata thuật có chiêu thức nhắm vào ống chân, hóa ra trong phái Souma cũng có chiêu này. Và Sakura, người sử dụng thành thạo chiêu thức đó, quả thực không hổ danh là con gái của võ đường.
+Ồ, tôi từng nghe nói trong naginata thuật có chiêu thức nhắm vào ống chân, hóa ra trong phái Souma cũng có chiêu này. Và Sakura-chan, người sử dụng thành thạo chiêu thức đó, quả thực không hổ danh là con gái của võ đường.
 
-Cả Sakura lẫn Kenzaki, con gái võ đường đúng là chẳng có ai bình thường cả.
+Cả Sakura-chan lẫn Kenzaki, con gái võ đường đúng là chẳng có ai bình thường cả.
 
 “Sakura, trên nóc container! Có kẻ đang nhắm vào cậu kìa!”
 
 “Không thành vấn đề—『Thánh Thiên Kết Giới』!”
 
-Một con rối đứng trên nóc các container xếp chồng lên nhau như một tay súng bắn tỉa liên tục nã đạn Blaster xuống. Những tia sáng sát thương lao về phía Sakura đều bị đánh bật bởi một kết giới ánh sáng dạng cầu tỏa ra hào quang rực rỡ hơn.
+Một con rối đứng trên nóc các container xếp chồng lên nhau như một tay súng bắn tỉa liên tục nã đạn Blaster xuống. Những tia sáng sát thương lao về phía Sakura-chan đều bị đánh bật bởi một kết giới ánh sáng dạng cầu tỏa ra hào quang rực rỡ hơn.
 
-Đúng vậy, sự tồn tại của tấm khiên vạn năng 『Thánh Thiên Kết Giới』 chính là kỹ năng quan trọng nhất giúp Sakura có thể đảm nhận vai trò tanker.
+Đúng vậy, sự tồn tại của tấm khiên vạn năng 『Thánh Thiên Kết Giới』 chính là kỹ năng quan trọng nhất giúp Sakura-chan có thể đảm nhận vai trò tanker.
 
 Những thành viên ở tuyến đầu ngoài việc sở hữu năng lực thể chất siêu phàm, họ còn có thêm các kỹ năng né tránh hoặc phòng ngự. Sở dĩ họ có thể ổn định chiến đấu cận chiến là nhờ có khả năng chống đỡ các đòn tấn công của kẻ địch như thế này.
 
 Nói cách khác, nếu không có khả năng này thì sẽ chết ngay lập tức, nên không thể làm tiên phong được. Ngay cả khi sở hữu hỏa lực đủ mạnh để tiêu diệt kẻ địch, nhưng nếu bị đối phương tấn công trước thì mọi chuyện cũng chấm hết. Lý thuyết "tấn công là cách phòng ngự tốt nhất" chỉ được thiết lập khi bản thân sở hữu hỏa lực áp đảo đến mức có thể đơn phương quét sạch đối thủ mà thôi.
 
-Về điểm này, 『Thánh Thiên Kết Giới』 của Sakura sở hữu một phòng ngự lực vô cùng đáng kinh ngạc. Nó có kháng tính cực cao đối với cả vật lý lẫn ma pháp, và vì bao bọc toàn thân dưới dạng hình cầu nên hoàn toàn không có kẽ hở. Hơn nữa, không giống như các ma pháp phòng ngự thông thường cần phải niệm chú, kết giới này sẽ tự động kích hoạt phản ứng trước đòn tấn công của kẻ địch.
+Về điểm này, 『Thánh Thiên Kết Giới』 của Sakura-chan sở hữu một phòng ngự lực vô cùng đáng kinh ngạc. Nó có kháng tính cực cao đối với cả vật lý lẫn ma pháp, và vì bao bọc toàn thân dưới dạng hình cầu nên hoàn toàn không có kẽ hở. Hơn nữa, không giống như các ma pháp phòng ngự thông thường cần phải niệm chú, kết giới này sẽ tự động kích hoạt phản ứng trước đòn tấn công của kẻ địch.
 
 Nếu đây là một trò chơi, kỹ năng này chắc chắn sẽ bị giảm sức mạnh (nerf) ngay lập tức vì quá gian lận. Nhìn cái kết giới này thì việc cầm khiên chắn quả thực trông thật ngớ ngẩn.
 
 Sở hữu một phòng ngự lực tuyệt vời như vậy mà không chịu đứng ở tuyến đầu để chặn đòn tấn công của kẻ địch thì quả là một sự lãng phí vô ích. Tôi sẽ không cho phép em chỉ dùng nó để bảo vệ bản thân vào những lúc nguy cấp đâu.
 
-Sakura, giờ đây không còn người anh trai luôn đặt sự an nguy của em lên hàng đầu ở bên cạnh nữa rồi. Đây chính là lúc em phải xả thân vì đồng đội. Nếu em thực sự muốn giành lại những gì đã mất, thì lại càng phải làm như vậy.
+Sakura à, giờ đây không còn người anh trai luôn đặt sự an nguy của em lên hàng đầu ở bên cạnh nữa rồi. Đây chính là lúc em phải xả thân vì đồng đội. Nếu em thực sự muốn giành lại những gì đã mất, thì lại càng phải làm như vậy.
 
 “Cuối cùng thì Sakura-chan cũng đã có màn thể hiện xứng đáng với tư cách là một đồng đội rồi nhỉ.”
 
@@ -64695,17 +64713,17 @@ Sakura, giờ đây không còn người anh trai luôn đặt sự an nguy củ
 
 “Tôi đâu có đất diễn. Nhìn kìa, lũ rối có vẻ như đã bị tiêu diệt sạch rồi.”
 
-Một mình Sakura đã hoàn toàn áp chế được đội quân rối tràn ra từ cửa bên trái. Chưa kể còn có sự hỗ trợ của bạn Natsukawa và Nakajima, cùng với hỏa lực yểm trợ từ xa của Kyouko và Lớp trưởng. Tôi, cậu Hayama và Himeno hoàn toàn không có cơ hội để tham gia vào trận chiến.
+Một mình Sakura-chan đã hoàn toàn áp chế được đội quân rối tràn ra từ cửa bên trái. Chưa kể còn có sự hỗ trợ của Natsukawa-san và Nakajima-kun, cùng với hỏa lực yểm trợ từ xa của Kyouko và Lớp trưởng. Tôi, Hayama-kun và Himeno-san hoàn toàn không có cơ hội để tham gia vào trận chiến.
 
 “Lao lên đi, Bạch Tật Phong!”
 
 “Kí áaaa!”
 
-Cứ như vậy, tên bắn tỉa trên nóc container đã bị tinh linh cấp trung dạng chim ưng ánh sáng 『Bạch Tật Phong』 do Sakura triệu hồi kết liễu, đánh dấu việc tiêu diệt hoàn toàn đội quân rối tự động bên trong nhà kho.
+Cứ như vậy, tên bắn tỉa trên nóc container đã bị tinh linh cấp trung dạng chim ưng ánh sáng 『Bạch Tật Phong』 do Sakura-chan triệu hồi kết liễu, đánh dấu việc tiêu diệt hoàn toàn đội quân rối tự động bên trong nhà kho.
 
 “Được rồi, mau chóng thu gom súng trường lại đi!”
 
-Tôi giơ cao cây gậy phép gắn \`『Đầu Lâu Của Triệu Hoán Thuật Sư』\` lên, lập tức triệu hồi ra toàn bộ số lượng Skeleton có thể.
+Tôi giơ cao cây gậy phép gắn 『Đầu Lâu Của Triệu Hoán Thuật Sư』 lên, lập tức triệu hồi ra toàn bộ số lượng Skeleton có thể.
 
 Tôi ra lệnh cho các Skeleton nhặt những khẩu súng trường mà lũ rối bỏ lại. Cách sử dụng súng trường thì tôi đã huấn luyện cho chúng từ trước rồi. Vấn đề còn lại chỉ là liệu chúng có thể sử dụng trực tiếp được hay không—*Keng!* Một tiếng súng nổ đặc trưng vang lên, con Skeleton đã bắn thử nghiệm thành công.
 
@@ -64727,13 +64745,13 @@ Vấn đề còn lại là bắt đầu từ lưng chừng tòa tháp này, li�
                 "title": "Tập 350: Chinh phục Tháp Trung Tâm (3)",
                 "content": `# Tập 350: Chinh phục Tháp Trung Tâm (3)
 
-“Tiến lên, Binh bét Skeleton! Hãy bước qua xác đồng đội mà tiến lên!”
+“Tiến lên, Binh bét Skeleton! Hãy bước qua xác đồng đội mà xông lên!”
 
-Cậu thẳng tay ném lũ Skeleton vào những đợt xung phong cảm tử để cưỡng chế đột phá qua các robot tự động cảnh giới đang lập phòng tuyến ở các điểm trọng yếu.
+Tôi thẳng tay ném lũ Skeleton vào những đợt xung phong cảm tử để cưỡng chế đột phá qua các người máy cảnh giới tự động đang lập phòng tuyến ở các điểm trọng yếu.
 
 “Đứa nào ngã xuống thì đứa sau nhặt súng của nó lên mà bắn tiếp!”
 
-Có lính nhưng thiếu súng nên chia làm cặp hai người, một người chết thì người kia nhặt súng chiến đấu tiếp. Phương pháp vận hành bộ binh mang tính "đột phá" này là do Liên Xô nghĩ ra đúng không nhỉ? Hình như tôi từng thấy trong một bộ phim về lính bắn tỉa nào đó rồi thì phải.
+Có lính nhưng thiếu súng nên chia thành từng cặp hai người, một người chết thì người kia nhặt súng chiến đấu tiếp. Phương pháp tác chiến bộ binh mang tính “đột phá” này là do Liên Xô nghĩ ra đúng không nhỉ? Hình như tôi từng thấy trong một bộ phim về lính bắn tỉa nào đó rồi thì phải.
 
 Trí tuệ của tiền nhân thật tuyệt vời. Vừa thầm bày tỏ lòng biết ơn sâu sắc đến những người đồng chí vĩ đại, tôi vừa một tay cầm 『Cây Gậy Của Kẻ Ngốc』, liên tục bổ sung Skeleton ngay khi chúng vừa tiêu hao để duy trì cuộc đột kích.
 
@@ -64741,11 +64759,11 @@ Trí tuệ của tiền nhân thật tuyệt vời. Vừa thầm bày tỏ lòng
 
 Sau khi chiếm được đại sảnh thông tầng lên đến tầng hai, phân thân của tôi liền liên lạc với đội hình chính đang theo sau.
 
-Kể từ trận chiến ở nhà kho đầu tiên, sự kháng cự của robot cảnh giới đã yếu đi và trở nên thưa thớt. Ngay cả ở một nơi dễ phòng thủ như đại sảnh này, số lượng của chúng cũng không nhiều, chỉ cần một đợt càn quét của Skeleton là đủ để chế áp dễ dàng. Nhờ vậy, những chiến lực chủ chốt trong lớp, dẫn đầu là Mei, vẫn chưa cần phải động tay động chân.
+Kể từ trận chiến ở nhà kho đầu tiên, sự kháng cự của các người máy cảnh giới đã yếu đi và trở nên thưa thớt. Ngay cả ở một nơi dễ phòng thủ như đại sảnh này, số lượng của chúng cũng không nhiều, chỉ cần một đợt càn quét của Skeleton là đủ để chế áp dễ dàng. Nhờ vậy, những chiến lực chủ chốt trong lớp, dẫn đầu là Mei-chan, vẫn chưa cần phải động tay động chân.
 
-Nếu lũ robot đã thực sự cạn kiệt thì tốt, nhưng có lẽ Takanashi đang cuống cuồng tập hợp lực lượng phòng ngự để dựng lên một phòng tuyến ngăn chặn ở phía dưới.
+Nếu lũ người máy đã thực sự cạn kiệt thì tốt, nhưng có lẽ Takanashi đang cuống cuồng tập hợp lực lượng phòng ngự để dựng lên một phòng tuyến ngăn chặn ở phía dưới.
 
-Lũ robot còn sót lại ở mỗi tầng hoặc là do cô ta chưa kịp chỉ thị, hoặc là chỉ được bố trí tạm bợ để câu chút thời gian ít ỏi.
+Lũ người máy còn sót lại ở mỗi tầng hoặc là do cô ta chưa kịp chỉ thị, hoặc là chỉ được bố trí tạm bợ để câu chút thời gian ít ỏi.
 
 “Trước khi chạm trán phòng tuyến cuối cùng của cô ta, cứ để mọi người dưỡng sức đã.”
 
@@ -64793,7 +64811,7 @@ Dù vậy, ít nhất cho đến giờ vẫn chưa có chuyện bên trong tháp
 
 “Bầu không khí của tầng này đã thay đổi. Chắc chắn từ đây sẽ có biến cố.”
 
-Bản thể của tôi truyền đạt tình hình cho Hayama, Mei và các bạn học đi cùng.
+Bản thể của tôi truyền đạt tình hình cho Hayama, Mei-chan và các bạn học đi cùng.
 
 Trong khi đó, phân thân của tôi thuộc đội trinh sát đi trước đã đặt chân đến tầng có bầu không khí kỳ lạ kia. Được hộ tống bởi lũ Skeleton lăm lăm súng trường trên tay, tôi bắt đầu tiến lên đầy cảnh giác.
 
@@ -64807,7 +64825,7 @@ Thế nhưng từ tầng này, một bầu không khí hỗn độn mang dấu v
 
 Những đường ống kim loại rỉ sét loang lổ và các thiết bị trông như ống dẫn khí chằng chịt khắp tường và trần nhà tạo nên một vẻ thô kệch. Tôi đã từng thấy một nơi thế này trước đây.
 
-Đó là khi tôi và Mei lại đồng hành cùng nhau sau khi tiêu diệt Reina, lúc chúng tôi đặt chân đến khu vực phố di tích. Bầu không khí ở đây rất giống với khu nhà xưởng cổ đại, nơi lần đầu tiên tôi chạm trán lũ High Zombie.
+Đó là khi tôi và Mei-chan lại đồng hành cùng nhau sau khi tiêu diệt Reina, lúc chúng tôi đặt chân đến khu vực phố di tích. Bầu không khí ở đây rất giống với khu nhà xưởng cổ đại, nơi lần đầu tiên tôi chạm trán lũ High Zombie.
 
 “Oooo...”
 
@@ -64829,7 +64847,7 @@ Súng trường tiêu chuẩn của quân đội Albion có vẻ hoạt động 
 
 Bắn trúng đầu thì chết ngay, nhưng nếu bắn vào thân thì phải mất vài phát, còn nếu chỉ trúng tay chân thì chúng thậm chí còn chẳng hề nao núng.
 
-Một khi có thể chịu đựng được một lượng sát thương nhất định, lũ quái vật bất tử không biết đau đớn hay sợ hã này quả thực vô cùng phiền phức.
+Một khi có thể chịu đựng được một lượng sát thương nhất định, lũ quái vật bất tử không biết đau đớn hay sợ hãi này quả thực vô cùng phiền phức.
 
 “Cuối cùng cũng chống đỡ được đợt này rồi sao.”
 
@@ -64837,7 +64855,7 @@ Chúng tôi đã may mắn tiêu diệt sạch lũ High Zombie trước khi bị
 
 Nếu đây là một tựa game thủ thành theo đợt, tôi chắc chắn sẽ dừng cuộc chơi tại đây.
 
-But đáng tiếc, đây lại là một "game rác" mang tên hiện thực. Và kẻ tự xưng là Game Master trong cái dungeon này lại là một con đàn bà rác rưởi nhất trần đời.
+Nhưng đáng tiếc, đây lại là một "game rác" mang tên hiện thực. Và kẻ tự xưng là Game Master trong cái dungeon này lại là một con đàn bà rác rưởi nhất trần đời.
 
 “Ooooaaaaaaa!”
 
@@ -64855,9 +64873,9 @@ Zombie là loài sinh vật tràn lan trong dungeon chỉ sau lũ Goma. Việc c
 
 Vì dịch chuyển đã bị phong tỏa nên cô ta không thể gọi ma vật từ nơi khác đến. Nói cách khác, ở đâu đó trong tòa tháp này chắc chắn có một thiết bị sản xuất Zombie hàng loạt.
 
-Mà đúng hơn, có lẽ Zombie vốn được tạo ra từ các rối ma đạo. Dây chuyền sản xuất bị hỏng hóc nhưng vẫn tiếp tục vận hành, liên tục cho ra lò những sản phẩm lỗi rồi đẩy ra ngoài, đó chính là nguồn gốc của lũ Zombie đang tràn lan khắp nơi. Đặc điểm của robot là làn da xanh và đôi mắt trắng dã, khi biến thành Zombie thì những đặc điểm đó lại trở nên vô cùng hợp lý.
+Mà đúng hơn, có lẽ Zombie vốn được tạo ra từ các rối ma đạo. Dây chuyền sản xuất bị hỏng hóc nhưng vẫn tiếp tục vận hành, liên tục cho ra lò những sản phẩm lỗi rồi đẩy ra ngoài, đó chính là nguồn gốc của lũ Zombie đang tràn lan khắp nơi. Đặc điểm của người máy là làn da xanh và đôi mắt trắng dã, khi biến thành Zombie thì những đặc điểm đó lại trở nên vô cùng hợp lý.
 
-Chúng tôi đã biết rằng thiết bị sản xuất robot được trang bị trong tòa tháp này. Nó không hẳn là bí mật quân sự, mà dường như là một thiết bị khá phổ biến thời cổ đại. Chỉ cần giải mã được chút ít cổ ngữ là có thể đọc được thông tin đó trong phần giới thiệu về trang thiết bị của tòa tháp.
+Chúng tôi đã biết rằng thiết bị sản xuất người máy được trang bị trong tòa tháp này. Nó không hẳn là bí mật quân sự, mà dường như là một thiết bị khá phổ biến thời cổ đại. Chỉ cần giải mã được chút ít cổ ngữ là có thể đọc được thông tin đó trong phần giới thiệu về trang thiết bị của tòa tháp.
 
 Tuy nhiên, tôi không rõ thiết bị của tòa tháp này đang bị hỏng hay vẫn hoạt động bình thường... Nhưng dù thế nào đi nữa, con khốn Takanashi kia đang bất chấp tất cả để vận hành nó hết công suất rồi.
 
@@ -64865,13 +64883,13 @@ Nếu đây chỉ là sự giãy giụa vô vọng thì tốt, nhưng nếu là 
 
 “Dù đối thủ chỉ là Zombie nhưng đối phó với số lượng thế này cũng tốn công sức lắm đấy.”
 
-—Thật là, chỉ đối đầu với hạng tép riu thế này mà đã muốn rút lui thì thảm hại quá đấy, Momokawa.
+“—Thật là, chỉ đối đầu với hạng tép riu thế này mà đã muốn rút lui thì thảm hại quá đấy, Momokawa.”
 
 “A, Sakura-chan.”
 
 Ngay khi chúng tôi bị áp lực từ kẻ địch đẩy lùi về phía cầu thang, Sakura với mái tóc đen dài và tà váy tung bay nhẹ nhàng bước xuống, đứng sóng đôi bên cạnh tôi.
 
-“Lũ xác thối rác rưởi kia không tuổi gì cản đường tôi đâu —— 『Quang Pháo』!”
+“Lũ xác thối rác rưởi kia không có cửa cản đường tôi đâu —— 『Quang Pháo』!”
 
 Cô chĩa mũi thanh trường đao về phía trước, một luồng ánh sáng trắng chói lòa bùng lên.
 
@@ -64889,7 +64907,7 @@ Hàng chục con cùng một lúc. Bất kỳ kẻ nào nằm trong phạm vi c�
 
 Vừa gắt gỏng với tôi như mọi khi, Sakura vừa vung thanh trường đao một cách điêu luyện, liên tục hạ gục lũ Zombie đang tràn tới bằng những đòn ma pháp ánh sáng rực rỡ.
 
-Thuộc tính Quang dường như có sức sát thương khắc chế tuyệt đối với lũ xác sống, khiến một mình Sakura cân cả bản đồ.
+Thuộc tính Quang dường như có sức sát thương khắc chế tuyệt đối với lũ xác sống, khiến một mình Sakura quét sạch cả bản đồ.
 
 “Này, Sakura-chan, tớ biết cậu đang hăng hái vì gặp đúng thiên địch, nhưng chúng ta vẫn cần phải dưỡng sức cho chặng đường dài đấy.”
 
@@ -64907,7 +64925,7 @@ Trải qua nhiều trận chiến bằng trường đao, kỹ năng cận chiế
 
 “Thật là... Tôi biết rồi —— 『Hộ Vệ Ánh Sáng』!”
 
-Ngay khi Sakura niệm chú, những khẩu súng trường trên tay lũ Skeleton bừng lên một luồng sáng trắng. Tuyệt đấy, cái hiệu ứng buff này trông trực quan và dễ hiểu thật. Dù nếu là đi ám sát trong đêm thì tôi sẽ cấm tiệt cái trò phát sáng này.
+Ngay khi Sakura niệm chú, những khẩu súng trường trên tay lũ Skeleton bừng lên một luồng sáng trắng. Tuyệt đấy, cái hiệu ứng cường hóa này trông trực quan và dễ hiểu thật. Dù nếu là đi ám sát trong đêm thì tôi sẽ cấm tiệt cái trò phát sáng này.
 
 “Được rồi, đã được cường hóa thuộc tính khắc chế, giờ thì đẩy lùi chúng thôi. Bắn!”
 
@@ -64983,247 +65001,247 @@ Có thể thốt ra câu đó một cách tự nhiên như vậy, Sakura quả t
                 "title": "Tập 351: Thảm Thực Vật Ma Vật (1)",
                 "content": `# Tập 351: Thảm Thực Vật Ma Vật (1)
 
-“—Thật là, bảo cái gì mà bảo toàn lực lượng chứ! Rõ ràng là chúng ta vẫn phải chiến đấu ngay lập tức đấy thôi!”
+“—Thật là, bảo cái gì mà bảo toàn lực lượng chứ! Rõ ràng chúng ta vẫn phải lao vào đánh nhau hùng hục ngay lập tức đấy thôi!”
 
 “Chịu thôi chứ sao, chuỗi Boss liên hoàn đã thực sự bắt đầu rồi mà!”
 
 Vừa đáp lại những lời cằn nhằn ồn ào như thường lệ của Sakura, tôi vừa vung 『Cây Gậy Của Kẻ Ngốc』 lên.
 
-Đối thủ nhanh nhẹn đạp vào tường, đột ngột đổi hướng để né tránh tia 『Độc』 mà tôi vừa bắn ra.
+Đối thủ nhanh nhẹn đạp mạnh vào tường, đột ngột đổi hướng trên không để né tránh tia 『Độc』 mà tôi vừa bắn ra.
 
 “Tặc, trượt rồi sao. Nhưng mà—”
 
-Đã bắt được rồi, 『Tóc Đen Trói Buộc』.
+Đã tóm được mày rồi, 『Tóc Đen Trói Buộc』.
 
-Chiêu thức phát huy trọn vẹn công dụng vốn có của nó: trói chặt kẻ địch và phong tỏa cử động. Tôi đã quấn được một trong bốn chiếc chân đang phi nước đại của nó, thành công khóa chặt khả năng di chuyển của con quái vật, dù chỉ là trong thoáng chốc.
+Chiêu thức phát huy trọn vẹn công năng vốn có của nó: trói chặt kẻ thù và phong tỏa cử động. Tôi đã quấn chặt được một trong bốn chiếc chân đang phi nước đại của nó, thành công khóa cứng khả năng di chuyển của con quái vật, dù chỉ trong một thoáng tích tắc.
 
-Và chỉ bấy nhiêu đó thôi là quá đủ để tung đòn kết liễu.
+Và chỉ bấy nhiêu đó thôi là quá đủ để kết liễu mục tiêu.
 
 “Hàaaaaa—『Song Liệt』!”
 
-Sakura vung lưỡi đại đao sáng rực, giáng xuống hai cú chém liên hoàn nhanh như chớp.
+Sakura vung thanh đại đao rực sáng, giáng xuống hai cú chém liên hoàn nhanh như chớp giật.
 
-Sức mạnh từ võ kỹ được cường hóa bởi thuộc tính Quang bộc phát, chém thẳng vào hai cái đầu của con chó săn hai đầu 『Orthros』. Hai chiếc đầu đứt lìa, lăn lông lốc trên mặt đất cùng những tia máu xanh nhạt bắn tung tóe.
+Võ kỹ được cường hóa bởi ma lực thuộc tính Quang bộc phát uy lực hủy diệt, chém ngọt hai chiếc đầu của con chó săn hai đầu 『Orthros』. Hai thủ cấp đứt lìa, lăn lông lốc trên nền đất cùng những tia máu màu xanh lam nhạt bắn tung tóe.
 
-“Tiếp theo em sẽ hạ gục Cerberus.”
+“Tiếp theo em sẽ đi xử con Cerberus!”
 
-“Lo trị liệu cho Nakajima-kun với Natsukawa-san trước đi đã. Sau đó thì hồi phục cho cả Rem và Tank nữa nhé. Bọn họ sắp cạn giới hạn chịu đựng rồi kìa.”
+“Lo trị liệu cho Nakajima-kun với Natsukawa-san trước đi đã! Sau đó thì hồi phục cho cả Rem lẫn Tank nữa. Bọn họ sắp chạm ngưỡng chịu đựng rồi kìa!”
 
 “Aaa, biết rồi, làm là được chứ gì—『Cấp Cứu Hồi Phục』!”
 
-Nàng Thánh Nữ giờ đã chuyển sang phong cách của một quân tiên phong máu lửa. Có vẻ như vì quá say máu chiến đấu trước mắt mà cô nàng đã đánh mất đi tầm nhìn bao quát của một trị liệu sư hỗ trợ vốn có.
+Nàng Thánh Nữ giờ đây đã biến thành một tiên phong máu lửa cuồng chiến. Có vẻ vì quá say máu trước mắt mà cô nàng đã vứt phăng tầm nhìn bao quát của một trị liệu sư hỗ trợ vốn có.
 
-*Năng lực trị liệu vượt trội của cậu là độc nhất vô nhị đấy, làm ơn đừng có quên mất vai trò healer của mình chứ.*
+*Năng lực trị thương siêu đẳng của cậu là độc nhất vô nhị đấy, làm ơn đừng có quên mất vai trò healer của mình chứ.*
 
-Tôi khẽ thở dài ngao ngán rồi bắt đầu đánh giá lại toàn bộ cục diện chiến trận.
+Tôi khẽ thở dài ngao ngán rồi bắt đầu đánh giá lại toàn bộ cục diện chiến trường.
 
-*Chết tiệt, cái thứ Takanashi kia, hóa ra cô ta vẫn còn nắm giữ một lực lượng đáng gờm thế này.*
+*Chết tiệt, cái thứ Takanashi kia, hóa ra ả ta vẫn còn ém một lực lượng đáng gờm đến nhường này.*
 
-Chuyến thám hiểm tầng hầm mang phong cách nhà xưởng này bắt đầu bằng một đợt càn quét xác sống, và kể từ đó, chúng tôi vừa tiến lên vừa dọn dẹp lũ thây ma liên tục tràn ra.
+Chuyến thám hiểm tầng hầm mang phong cách nhà xưởng công nghiệp này khởi đầu bằng một đợt càn quét xác sống, và kể từ đó, chúng tôi vừa tiến bước vừa liên tục dọn dẹp lũ thây ma tràn ra như ong vỡ tổ.
 
-Sau khi đi xuống thêm vài tầng, chúng tôi đã đặt chân đến nơi này. Giữ nguyên cấu trúc với vô số đường ống lớn nhỏ chạy dọc ngang, chúng tôi tiến vào một không gian rộng lớn như thể cả một tầng lầu đã được thông suốt hoàn toàn.
+Sau khi đi xuống thêm vài tầng, chúng tôi đã đặt chân đến khu vực này. Vẫn giữ nguyên kết cấu với vô số đường ống lớn nhỏ chằng chịt dọc ngang, chúng tôi bước vào một không gian mở rộng lớn như thể toàn bộ một tầng lầu đã được thông suốt hoàn toàn.
 
-Thay cho những bức tường là các thiết bị kim loại hình lập phương và hình trụ khổng lồ trông như những cỗ máy vĩ đại xếp san sát nhau. Những bậc thang và lối đi đan xen chằng chịt kéo dài lên tận trần nhà cao hàng chục mét.
+Thay cho những bức tường ngăn cách là các khối thiết bị kim loại hình lập phương và hình trụ khổng lồ trông như những cỗ máy vĩ đại xếp san sát nhau. Cầu thang và những lối đi bằng sắt đan xen phức tạp kéo dài lên tận trần nhà cao hàng chục mét.
 
-Có lẽ do có ma lực chạy qua, các đường ống và những bồn chứa khổng lồ kết nối với chúng tỏa ra thứ ánh sáng xanh lam nhạt mờ ảo, rọi chiếu không gian u tối này bằng một vẻ âm u, quỷ dị.
+Có lẽ nhờ dòng ma lực luân chuyển bên trong, các đường ống cùng những bồn chứa khổng lồ kết nối với chúng phát ra thứ ánh sáng xanh lam nhạt mờ ảo, rọi chiếu khắp không gian u tối bằng một vẻ ma quái, rợn người.
 
-Tại một nơi có cấu trúc khổng lồ và phức tạp như một nhà máy luyện kim này, thứ đang chực chờ chúng tôi chính là những con ma vật cỡ lớn quen thuộc.
+Tại nơi có cấu trúc đồ sộ và phức tạp tựa một nhà máy luyện kim này, thứ đang chực chờ chúng tôi chính là những con ma vật cỡ lớn vô cùng quen mặt.
 
-Từ con Orthros mà Sakura vừa hạ gục, cho đến Cerberus, Goliath, Skeleton khổng lồ và Zombie cỡ lớn. Thấp thoáng đâu đó còn có cả những con quái vật mà tôi chỉ mới nghe các bạn cùng lớp kể lại sau khi họ tiêu diệt chúng.
+Từ con Orthros mà Sakura vừa hạ gục, cho đến Cerberus, Goliath, Skeleton khổng lồ và Zombie cỡ lớn. Thấp thoáng đâu đó còn có cả những con quái vật mà tôi mới chỉ nghe các bạn cùng lớp kể lại sau khi họ tiêu diệt chúng.
 
-Điểm chung của những con Boss ma vật tập trung ở đây là chúng đều có màu da và dòng máu xanh lam, tương tự như lũ Ma Đạo Nhân Hình.
+Điểm chung của những con Boss ma vật tập trung ở đây là chúng đều mang làn da và dòng máu màu xanh lam, tương tự như lũ Ma Đạo Nhân Hình.
 
-Về cơ bản, những bản thể gốc sẽ có màu máu đỏ và màu sắc cơ thể đặc trưng riêng, còn lũ mang sắc xanh nhạt này có lẽ là phiên bản sản xuất hàng loạt. Cảm giác như sức mạnh của chúng có phần kém hơn bản gốc một chút, nhưng vì hiện tại mọi người đều đã mạnh lên rất nhiều so với thời điểm chạm trán các con Boss đó trước đây, nên tôi cũng không thể đánh giá chính xác được. Mà thôi, miễn là chúng không bị cường hóa thêm thì thế nào cũng được.
+Về cơ bản, những bản thể gốc sẽ có máu đỏ và màu sắc cơ thể đặc trưng riêng, còn lũ mang sắc xanh nhạt này có lẽ là phiên bản sản xuất hàng loạt. Cảm giác như sức mạnh của chúng có phần kém hơn bản gốc một chút, nhưng vì hiện tại mọi người đều đã mạnh lên vượt bậc so với thời điểm chạm trán chúng trước đây, nên tôi cũng không thể đo lường chính xác. Mà thôi, miễn là chúng không bị cường hóa thêm thì sao cũng được.
 
-Nhờ việc chúng không được gia tăng sức mạnh quá mức, dù số lượng Boss tập trung lại khá đông nhưng chúng tôi vẫn đang chiếm thế thượng phong. Tuy nhiên, đối phó với chúng rõ ràng là tốn công sức hơn hẳn lũ thây ma thông thường. Ít nhất thì lực lượng của kẻ địch cũng dồi dào đến mức buộc chúng tôi phải huy động toàn bộ thành viên tham chiến.
+Nhờ việc chúng không được gia tăng sức mạnh quá mức, dù số lượng Boss tập trung lại khá đông nhưng phe ta vẫn đang nắm giữ thế thượng phong. Tuy nhiên, đối phó với chúng rõ ràng tốn công tốn sức hơn hẳn lũ thây ma thông thường. Ít nhất thì số lượng của đối phương cũng đông đảo đến mức buộc toàn bộ thành viên của chúng tôi phải dốc sức tham chiến.
 
-“Xin lỗi nhé, Nakajima-kun. Cậu ổn chứ?”
+“Xin lỗi nhé, Nakajima-kun. Cậu vẫn ổn chứ?”
 
-“Tớ vừa được trị liệu xong rồi. Không sao đâu—『Song Kích Liệt』!”
+“Tớ vừa được trị liệu xong rồi. Không sao cả—『Song Kích Liệt』!”
 
-Nakajima, người sử dụng song kiếm điêu luyện chỉ sau Kenzaki, đang vung 『Viêm Kiếm Salamandra』 và 『Cool Cutlass』, khéo léo lồng ghép các đòn tấn công thuộc tính vào võ kỹ liên hoàn của mình.
+Nakajima, người sở hữu kỹ năng song kiếm điêu luyện chỉ đứng sau Kenzaki, đang vung 『Viêm Kiếm Salamandra』 và 『Cool Cutlass』, khéo léo lồng ghép các đòn tấn công nguyên tố vào chuỗi võ kỹ liên hoàn.
 
-Dù hai thuộc tính tương khắc là Hỏa và Băng nếu va chạm có thể triệt tiêu lẫn nhau, nhưng cậu ta đã chém trúng vào những vị trí khác nhau một cách chuẩn xác để không gây ra sự lãng phí nào. Nhìn thấy những kỹ thuật tuy thầm lặng nhưng vô cùng chắc chắn này, tôi thực sự cảm nhận được sự trưởng thành của cậu ta.
+Dù hai thuộc tính tương khắc Hỏa và Băng nếu va chạm trực tiếp có thể tự triệt tiêu lẫn nhau, nhưng cậu ta đã chém trúng vào những vị trí khác nhau một cách chuẩn xác để không gây ra sự lãng phí ma lực nào. Nhìn thấy những kỹ thuật tuy thầm lặng nhưng vô cùng chuẩn chỉ này, tôi thực sự cảm nhận được sự trưởng thành vượt bậc của cậu ta.
 
-“—Nhưng đối thủ này có vẻ hơi khắc chế tớ. Nếu không có người hỗ trợ thì chắc phải mất khá nhiều thời gian mới kết liễu được nó.”
+“—Nhưng đối thủ này có vẻ hơi khắc chế tớ. Nếu không có ai hỗ trợ dứt điểm thì chắc phải mất khá nhiều thời gian mới hạ nổi nó.”
 
-Con ma vật bị trúng loạt trảm kích liên hoàn, vừa phun ra ngọn lửa dữ dội lẫn luồng khí lạnh buốt vừa ngã gục xuống, thế nhưng nó lại lập tức lồm cồm bò dậy một cách chậm rãi.
+Con ma vật vừa trúng trọn loạt trảm kích liên hoàn, vừa phun ra ngọn lửa hừng hực lẫn luồng hàn khí thấu xương ngã gục xuống sàn, thế nhưng nó lại lập tức lồm cồm bò dậy một cách chậm chạp.
 
-Kẻ đó là một thực thể dạng người khổng lồ với phần thân trên cơ bắp cuồn cuộn dị dạng. Những vết chém trên người nó đang đùn thịt lên một cách méo mó, rồi từ đó mọc ra những xúc tu ngoe nguẩy.
+Đó là một thực thể dạng người khổng lồ với phần thân trên cơ bắp cuồn cuộn dị dạng. Những vết chém sâu hoắm trên người nó đang đùn thịt lên méo mó, rồi từ đó mọc ra những chiếc xúc tu ngoe nguẩy.
 
-Ngay cả vết thương vừa mới nhận tức thì cũng đang có những thớ thịt màu xanh lam uốn éo đầy kinh tởm, chuẩn bị đâm chồi ra những xúc tu mới. Con quái vật này chính là con Boss High Zombie mà tôi và Mei từng đối đầu trước đây.
+Ngay cả vết thương vừa mới nhận tức thì cũng đang có những thớ thịt màu xanh lam uốn éo đầy nhờn nhụa, chực chờ đâm chồi ra những xúc tu mới. Quái vật này chính là con Boss High Zombie mà tôi và Mei từng chạm trán trước đây.
 
-“À, khả năng tái sinh của tên này thuộc hàng quái dị mà. Hồi đó Mei-chan cũng phải dùng đến sức mạnh cơ bắp tuyệt đối mới hạ được nó.”
+“À, khả năng tái sinh của tên này thuộc hàng quái đản mà. Hồi đó Mei-chan cũng phải dùng đến sức mạnh cơ bắp tuyệt đối mới nghiền nát được nó.”
 
-“Quả nhiên là tớ thì không thể bắt chước nổi phong cách của Futaba-san rồi.”
+“Quả nhiên là tớ không tài nào bắt chước nổi phong cách của Futaba-san rồi.”
 
-“Cậu cầm cự được đến đây là tốt lắm rồi. Đổi người với Sakura-chan nào—Lên đi, Sakura-chan!”
+“Cậu cầm cự được đến mức này là quá xuất sắc rồi. Đổi người với Sakura-chan nào—Lên đi, Sakura-chan!”
 
-“Bỏ cái giọng ra lệnh đó đi!”
+“Bỏ cái giọng ra lệnh đó đi coi!”
 
-Vừa gắt lên, Sakura vừa lao lên thế chỗ cho Nakajima đang lùi lại, cô giương cao cây đại đao rồi dũng mãnh xông thẳng về phía trước.
+Vừa gắt lên, Sakura vừa lao lên thế chỗ cho Nakajima đang lùi lại, giương cao cây đại đao rồi dũng mãnh xông thẳng về phía trước.
 
-Đúng là thuộc tính Quang, hiệu quả khắc chế lũ xác sống vô cùng rõ rệt. Con Boss bị Sakura chém trúng không những không thể tái sinh, mà cơ thể nó còn hóa thành những hạt ánh sáng lấp lánh rồi dần tan biến như thể đang được thanh tẩy.
+Đúng là thuộc tính Quang, hiệu quả khắc chế lũ xác sống vô cùng triệt để. Con Boss bị Sakura chém trúng không những không thể tái sinh, mà cơ thể nó còn hóa thành những hạt ánh sáng lấp lánh rồi dần tan biến như thể vừa được thanh tẩy hoàn toàn.
 
 “Cứ giao lũ xác sống cho Sakura-chan lo đi. Còn Nakajima-kun thì—”
 
-“Vậy là tớ cuối cùng cũng có thể sang hỗ trợ cho Natsukawa-san rồi.”
+“Vậy là tớ có thể sang hỗ trợ cho Natsukawa-san rồi!”
 
 “Ừm, nhờ cậu đấy.”
 
-Khác hẳn với cô nàng Thánh Nữ cơ bắp nào đó, Nakajima nắm bắt rất rõ vai trò của mình cũng như tình hình chiến đấu của đồng đội. Cậu ta lập tức bắn ra các ma pháp tấn công cấp thấp hệ Hỏa và Băng để kiềm chế kẻ địch, rồi nhanh chóng chạy về phía Natsukawa, người đang tả xung hữu đột giữa vòng vây.
+Khác hẳn với cô nàng Thánh Nữ cơ bắp nào đó, Nakajima nắm bắt rất rõ vai trò của bản thân cũng như thế trận của đồng đội. Cậu ta lập tức bắn ra các ma pháp tấn công cấp thấp hệ Hỏa và Băng để kiềm chân kẻ địch, rồi nhanh chóng lao về phía Natsukawa, người đang tả xung hữu đột giữa vòng vây.
 
-“Cứu tinh đây rồi, Nakajima-kun! Một mình đối đầu với bốn con khổng lồ cùng lúc quả thực quá sức với tớ mà!”
+“Cứu tinh tới rồi, Nakajima-kun! Một mình cân bốn con to xác cùng lúc quả thực quá sức với tớ mà!”
 
-“Xin lỗi nhé, Natsukawa-san. Trước mắt hãy tập trung hạ gục nhanh một con đã.”
+“Xin lỗi nhé, Natsukawa-san! Trước mắt cứ tập trung dứt điểm nhanh một con đã!”
 
-Đối thủ mà Natsukawa đang đối phó chính là Goliath, kẻ từng là một kẻ thù cực kỳ đáng sợ ở giai đoạn đầu thám hiểm Dungeon.
+Đối thủ mà Natsukawa đang đương đầu chính là Goliath, kẻ từng là một cơn ác mộng kinh hoàng ở giai đoạn đầu thám hiểm Dungeon.
 
-Đó là một con ma vật Boss mang phong cách chiến đấu thuần sức mạnh, sở hữu cơ thể vạm vỡ như khỉ đột bọc trong lớp giáp vỏ kim loại, trên đầu mọc sừng với khuôn mặt hung tợn như ác quỷ, hội tụ đầy đủ các yếu tố: sức mạnh, tốc độ và độ trâu bò. Và hiện tại có tận bốn con như thế.
+Đó là một con Boss ma vật thuần sức mạnh, sở hữu thân hình vạm vỡ như vượn khổng lồ bọc trong lớp giáp kim loại, trên đầu mọc sừng với khuôn mặt hung hãn như ác quỷ, hội tụ đủ cả ba yếu tố: uy lực, tốc độ và độ trâu bò. Và hiện tại có tận bốn con như thế quây lại.
 
-Kiểu thiết kế game mà các con Boss ở giai đoạn đầu sẽ biến thành lũ quái rác hơi mạnh một chút ở giai đoạn giữa, rồi bắt người chơi phải tiêu diệt bốn con cùng lúc một cách vô lý thế này thỉnh thoảng vẫn xuất hiện nhỉ. Đã vậy địa hình sàn đấu còn cực kỳ chật hẹp khiến việc chia tách chúng ra trở nên vô cùng khó khăn... Mà thôi, đây không phải là lúc để hoài niệm chuyện ngày xưa.
+Cái kiểu thiết kế game mà các con Boss đầu game biến thành quái rác tinh anh ở giai đoạn giữa, rồi bắt người chơi phải đè đầu tiêu diệt bốn con cùng lúc một cách vô lý thế này thỉnh thoảng vẫn xuất hiện nhỉ. Đã vậy địa hình sàn đấu còn cực kỳ chật hẹp khiến việc chia tách chúng ra trở nên vô cùng phiền toái... Mà thôi, đây chẳng phải lúc để hoài niệm chuyện cũ.
 
-Natsukawa đang phát huy trọn vẹn bản lĩnh của một Đạo Tặc với khả năng di chuyển cực kỳ nhanh nhẹn. Cô tận dụng địa hình ba chiều của nhà xưởng với vô số chướng ngại vật và vật che chắn để bay nhảy, luồn lách và chạy trốn, dẫn dụ bốn con Goliath một cách vô cùng ngoạn mục.
+Natsukawa đang phát huy trọn vẹn bản lĩnh của một 『Đạo Tặc』 với bộ pháp cực kỳ nhanh nhẹn. Cô tận dụng không gian ba chiều của nhà xưởng với vô số chướng ngại vật và cột trụ che chắn để bay nhảy, luồn lách và đào thoát, dắt mũi bốn con Goliath một cách vô cùng ngoạn mục.
 
-Dù nghe có vẻ như cô nàng đang than vãn, nhưng tôi biết chỉ cần thêm chút thời gian là cô ấy có thể tự mình giải quyết sạch sẽ. Dù sao thì việc hạ gục Goliath một cách dễ dàng và nhanh chóng chỉ có những nhân tố chủ lực như Mei hay Tendou mới làm được thôi.
+Dù nghe có vẻ như cô nàng đang than vãn, nhưng tôi biết thừa chỉ cần thêm chút thời gian là cô ấy có thể tự mình giải quyết sạch sẽ. Dù sao thì việc hạ gục Goliath dễ dàng như bỡn chỉ có những hỏa lực chủ lực quái vật như Mei hay Tendou mới làm nổi thôi.
 
 “Chân nó bị đóng băng rồi, cơ hội đấy Natsukawa-san!”
 
 “Yaaaaa—『High Slash』!”
 
-Phép thuật hệ Băng của Nakajima đã đóng băng chân của Goliath, khóa chặt chuyển động của nó. Ngay khi con quái vật đang cuống cuồng tìm cách thoát ra và bị phân tâm về phía Nakajima, Natsukawa lập tức xoay người, lao vào tập kích nó từ góc khuất.
+Ma pháp hệ Băng của Nakajima đã đóng băng cứng chân của Goliath, khóa chặt chuyển động của nó. Ngay khoảnh khắc con quái vật đang cuống cuồng tìm cách thoát thân và bị phân tâm về phía Nakajima, Natsukawa lập tức xoay người, lao vào tập kích từ góc khuất.
 
-Con Goliath vốn đã mang sẵn vài vết thương trên người, nay bị thanh đoản đao bản lớn tỏa ra luồng khí đầy điềm gở 『Ancient Villains』 chém tới tấp, không kịp kháng cự mà bị xẻ làm đôi.
+Con Goliath vốn đã dính sẵn vài vết thương trên người, nay bị thanh đoản đao bản lớn tỏa ra tử khí đầy điềm gở 『Ancient Villains』 chém tới tấp, không kịp chống cự mà bị xẻ làm đôi.
 
-Đường kiếm chém ngọt lịm vào yết hầu của nó bằng võ kỹ, tiếp đó là những cú đâm liên tiếp không một kẽ hở vào các khe hở trên lớp giáp và những vết nứt có sẵn. Da thịt bị khoét sâu, trái ngược hoàn toàn với tiếng hét dễ thương của cô nàng, con quái vật ngã xuống thành một cái xác bị tàn sát dã man.
+Đường kiếm ngọt lịm cứa đứt yết hầu nó bằng võ kỹ, tiếp nối bằng những cú đâm liên hoàn không một kẽ hở nhắm thẳng vào các khe hở giáp trụ cùng những vết nứt có sẵn. Da thịt bị khoét sâu hoắm, trái ngược hoàn toàn với tiếng hét đáng yêu của cô nàng, con quái vật đổ gục xuống thành một đống thi thể bị băm vằn vện dã man.
 
-Từ thế bốn chọi một, giờ cục diện đã chuyển thành ba chọi hai. Trận chiến với lũ Goliath coi như đã ngã ngũ.
+Từ thế bốn chọi một, giờ cục diện đã chuyển thành ba chọi hai. Trận chiến với lũ Goliath coi như đã an bài.
 
-“Cơ mà, việc kẻ địch nhắm bắn lén vào lúc ta sơ hở đúng là quy luật bất biến rồi.”
+“Cơ mà, việc kẻ địch nhắm bắn lén vào đúng lúc ta sơ hở quả nhiên là quy luật bất biến rồi.”
 
-Khi tôi ngước nhìn lên, một bóng dáng tám chân vô cùng quen thuộc hiện ra.
+Khi tôi ngước mắt nhìn lên, một bóng dáng tám chân vô cùng quen thuộc lập tức đập vào mắt.
 
-Trên trần nhà cao hàng chục mét, ẩn mình giữa những đường ống và cột trụ chằng chịt như thể đang trốn trong những tán cây rừng rậm, chính là Arachne — con quái vật có nửa thân trên là người và nửa thân dưới là nhện khổng lồ.
+Trên trần nhà cao hàng chục mét, ẩn mình giữa những đường ống và cột trụ chằng chịt tựa như đang nấp trong tán cây rừng rậm, chính là Arachne — con quái vật có nửa thân trên là phụ nữ và nửa thân dưới là nhện khổng lồ.
 
-Nghĩ lại việc từng bị tơ của con quái này bắt đi, khiến tôi bị tách khỏi nhóm bất lương của Tendou, giờ đây cảm giác thật hoài niệm làm sao.
+Nghĩ lại việc từng bị tơ của con quái này bắt cóc, khiến tôi bị tách khỏi nhóm bất hảo của Tendou, giờ đây cảm giác thật hoài niệm làm sao.
 
-Bản thân tôi cũng đã trưởng thành hơn so với lúc đó. Dù nói vậy, tôi vẫn không có cái giác quan thứ sáu nhạy bén kiểu như cảm nhận được sát khí để định vị kẻ thù đâu.
+Bản thân tôi giờ cũng đã trưởng thành hơn rất nhiều so với thời điểm đó. Dù nói vậy, tôi vẫn chẳng có cái giác quan thứ sáu nhạy bén kiểu cảm nhận được sát khí để định vị kẻ thù đâu.
 
-Tôi phát hiện ra con Arachne đang ẩn nấp trên trần nhà là nhờ mạng lưới giám sát của lũ Rem chim mà tôi đã thả đi khắp nơi từ trước khi trận chiến bắt đầu. Chính trong những trận hỗn chiến thế này, ta càng phải cảnh giác cao độ trước những đòn đánh lén từ góc khuất.
+Tôi phát hiện ra con Arachne đang ẩn nấp trên trần nhà là nhờ mạng lưới giám sát của lũ chim Rem mà tôi đã thả đi khắp nơi từ trước khi trận chiến bắt đầu. Chính trong những trận hỗn chiến thế này, ta càng phải đề cao cảnh giác trước những đòn đánh lén hiểm độc từ góc khuất.
 
-“Lại dám nhắm vào Kotarou hả con kia, không có lần sau đâu nhé!”
+“Lại dám nhắm vào Kotarou hả con kia, không có cửa đâu nhé!”
 
-Ngay khi tôi định ra lệnh cho lũ Skeleton dùng súng trường nhắm bắn, một tiếng hét đầy khí thế vang lên, và một đòn tấn công đã giáng thẳng vào con Arachne trước cả tôi.
+Ngay khi tôi định hạ lệnh cho lũ Skeleton dùng súng trường nhắm bắn, một tiếng hét đầy dũng khí vang lên, và một đòn sấm sét đã giáng thẳng vào con Arachne trước cả tôi.
 
-*Uỳnh!* Một tiếng nổ chấn động vang lên. Một quả pháo đá bay tới với tốc độ kinh hoàng, không chỉ thổi bay con Arachne mà còn nghiền nát cả những cấu trúc xung quanh thành đống đổ nát hoang tàn.
+*Uỳnh!* Tiếng nổ long trời lở đất vang lên. Một quả pháo đá lao tới với vận tốc kinh hoàng, không chỉ thổi bay con Arachne mà còn nghiền nát cả những cấu trúc sắt thép xung quanh thành đống phế tích hoang tàn.
 
 “Cảm ơn cậu nhé, Kyouko.”
 
-“Phải cẩn thận đấy Kotarou. Cậu lúc nào cũng là mục tiêu dễ bị nhắm tới nhất mà.”
+“Phải cẩn thận đấy Kotarou. Cậu lúc nào cũng là cái bia ngắm ngon ăn nhất mà.”
 
-Vừa chỉ tay về phía tôi và buông một câu ngầu lòi như soái ca, Kyouko vừa xoay người nhắm bắn vào một kẻ địch khác đang đứng ở đằng xa.
+Vừa chỉ tay về phía tôi buông một câu ngầu như soái ca, Kyouko vừa xoay người nhắm súng vào một kẻ địch khác đang đứng ở đằng xa.
 
-“Phù, cuối cùng thì phía bên này cũng sắp dọn dẹp xong rồi.”
+“Phù, cuối cùng thì phía bên này cũng sắp dọn dẹp xong xuôi.”
 
-Cục diện chiến đấu vốn có chút bất lợi cuối cùng cũng được chúng tôi lật ngược thế cờ. Nhờ bớt đi một con, những con Goliath còn lại cũng lần lượt bị hạ gục, chẳng mấy chốc Nakajima và Natsukawa sẽ rảnh tay. Sakura cũng đang thể hiện sức mạnh vô song trước lũ xác sống, chắc chắn sẽ sớm quét sạch bọn chúng thôi.
+Cục diện chiến đấu vốn có chút bất lợi cuối cùng cũng được chúng tôi lật ngược hoàn toàn. Nhờ hạ bớt một con, những con Goliath còn lại cũng lần lượt bị tiêu diệt, chẳng mấy chốc Nakajima và Natsukawa sẽ rảnh tay. Sakura cũng đang thể hiện sức mạnh áp đảo trước lũ xác sống, chắc chắn sẽ sớm quét sạch bọn chúng thôi.
 
-Chỉ cần không có những con quái cấp Boss như tên xúc tu kia, chúng tôi hoàn toàn có thể dùng đội quân Skeleton để tự mình cầm chân lũ Zombie và High Zombie rác liên tục tràn ra.
+Chỉ cần không có những con quái cấp Boss sở hữu năng lực dị hợm như tên xúc tu kia, chúng tôi hoàn toàn có thể dùng quân đoàn Skeleton để tự mình cầm chân lũ Zombie và High Zombie rác liên tục tràn tới.
 
-Một khi ba người họ, bao gồm cả Sakura, được giải phóng, họ có thể lập tức chi viện cho bộ ba ma pháp sư gồm Kyouko, Lớp trưởng và Hayama — những người đang phải đấu súng với lũ quái vật chuyên đứng từ xa bắn lén như lính bắn tỉa núp lùm. Như vậy thì bên đó cũng sẽ nhanh chóng được giải quyết xong xuôi.
+Một khi ba người họ, bao gồm cả Sakura, được giải phóng khỏi vòng vây, họ có thể lập tức chi viện cho bộ ba ma pháp sư gồm Kyouko, Lớp trưởng và Hayama — những người đang phải đấu súng với lũ quái vật chuyên đứng từ xa bắn tỉa núp lùm. Như vậy thì bên đó cũng sẽ nhanh chóng được dọn dẹp sạch sẽ.
 
-Trong khi đó, hai át chủ bài của chúng tôi là Mei và Tendou đang cùng nhau dẫn đầu đội tiên phong, lao thẳng vào sâu bên trong để tiêu diệt những con Boss còn mạnh hơn cả lũ đang tràn về phía này.
+Trong khi đó, hai mũi nhọn tối thượng của chúng tôi là Mei và Tendou đang cùng nhau dẫn đầu đội tiên phong, đột kích thẳng vào sâu bên trong để tiêu diệt những con Boss còn nguy hiểm hơn cả lũ đang tràn về phía này.
 
-Từ sâu trong tầng hầm, những tiếng nổ và chấn động dữ dội liên tục truyền lại, cho thấy một trận chiến khốc liệt đang diễn ra ở đó. Nhưng dù sao tôi cũng đã cử Rem đi hỗ trợ họ, và hiện tại vẫn chưa nhận được bất kỳ tín hiệu cầu cứu khẩn cấp nào, nên chắc chắn họ vẫn đang chiến đấu tốt.
+Từ sâu trong lòng tầng hầm, những tiếng nổ đinh tai và chấn động dữ dội liên tục dội lại, chứng tỏ một trận huyết chiến khốc liệt đang diễn ra ở nơi đó. Nhưng dù sao tôi cũng đã cử Rem đi theo yểm trợ, và hiện tại vẫn chưa nhận được bất kỳ tín hiệu cầu cứu khẩn cấp nào, nên chắc chắn họ vẫn đang làm chủ tình hình.
 
-*Nhưng mà, có vẻ như mình đã kéo giãn chiến tuyến quá rộng rồi chăng.*
+*Nhưng mà, có vẻ như mình đã kéo giãn đội hình chiến tuyến quá rộng rồi chăng.*
 
-Khi trận chiến diễn ra ở những nơi nằm ngoài tầm mắt của mình, tôi vẫn không thể tránh khỏi cảm giác lo lắng.
+Khi trận chiến diễn ra ở những vị trí nằm ngoài tầm mắt kiểm soát, tôi vẫn không thể nào xua đi cảm giác bất an.
 
-Đội quân Skeleton do phân thân của tôi dẫn đầu đi trinh sát phía trước đã bị tiêu diệt sạch sẽ chỉ trong nháy mắt ngay khi chuỗi Boss liên hoàn bắt đầu ở tầng này.
+Đội quân Skeleton do phân thân của tôi dẫn đầu đi trinh sát tiền phương đã bị xóa sổ sạch sẽ chỉ trong nháy mắt ngay khi chuỗi Boss liên hoàn bùng nổ ở tầng này.
 
-Dù lực lượng tập hợp toàn Boss của đối phương rất đáng gờm, nhưng nếu chúng tôi rút lui vào lúc này thì sẽ tốn rất nhiều thời gian. Và có lẽ, chuỗi Boss liên hoàn này cũng chẳng phải là con bài chủ lực của Takanashi, mà chỉ là một chiêu trò nhằm kéo dài thời gian mà thôi.
+Dù lực lượng tập hợp toàn Boss của đối phương rất đáng gờm, nhưng nếu chúng tôi rút lui vào lúc này thì sẽ lãng phí quá nhiều thời gian. Và có lẽ, chuỗi Boss liên hoàn này cũng chẳng phải là quân bài chủ lực của Takanashi, mà chỉ là một trò câu giờ bẩn thỉu nhằm kéo dài thời gian mà thôi.
 
-Nếu lùi lại một bước để chiến đấu một cách thận trọng, chúng tôi chắc chắn sẽ vượt qua một cách an toàn hơn, nhưng tôi đã chọn ưu tiên thời gian. Dù có hơi mạo hiểm, tôi vẫn quyết định dùng lực lượng chủ lực để nghênh chiến trực diện, đồng thời cử các chiến lực át chủ bài làm mũi nhọn đột phá.
+Nếu lùi lại một bước để nghênh chiến một cách thận trọng, chúng tôi chắc chắn sẽ vượt qua an toàn hơn, nhưng tôi đã chọn ưu tiên tốc độ. Dù có hơi liều lĩnh, tôi vẫn quyết định dùng lực lượng chủ lực để càn quét trực diện, đồng thời tung các át chủ bài làm mũi giáo đột phá.
 
 “Được rồi, mọi người tiến lên! Mau chóng hội quân với Mei-chan và Tendou-kun đang đi trước để rời khỏi tầng này thôi!”
 
-“Á, này, nguy to rồi Momokawa! Có mấy con to xác vừa xuất hiện kìa!”
+“Á, này, nguy to rồi Momokawa! Có mấy con quái vật to đùng vừa xuất hiện kìa!”
 
-Không biết đã leo lên đỉnh bồn chứa khổng lồ kia từ lúc nào, Hayama vừa chỉ tay về phía trước vừa hét lớn.
+Không biết đã trèo lên đỉnh bồn chứa khổng lồ kia từ lúc nào, Hayama vừa chỉ tay về phía trước vừa hoảng hốt hét lớn.
 
-Có lẽ cậu ta được các tinh linh báo trước chăng? Bản thân tôi cũng vừa mới định vị được bọn chúng thông qua mạng lưới giám sát của lũ Rem chim.
+Có lẽ cậu ta được các tinh linh báo trước chăng? Bản thân tôi cũng vừa mới định vị được bọn chúng thông qua mạng lưới trinh sát của đàn chim Rem.
 
 “Là Lizardman dạng cá sấu và Minotaur sao.”
 
-Hai thực thể sở hữu thân hình khổng lồ vượt trội hơn cả Goliath đang hùng hổ lao tới, giẫm đạp lên đống đổ nát của các thiết bị xung quanh tạo ra những tiếng loảng xoảng chói tai.
+Hai thực thể sở hữu vóc dáng khổng lồ áp đảo cả Goliath đang hùng hổ lao tới, giẫm nát đống đổ nát của các thiết bị xung quanh tạo ra những âm thanh kim loại va đập chói tai.
 
-Lizardman dạng cá sấu chính là con Boss mà Tendou từng đơn độc chiến đấu dưới hồ nước ngầm. Dù vốn là loài chuyên trị thủy chiến, nhưng nó vẫn có thể đứng bằng hai chân và chạy băng băng, nên khả năng cận chiến trên cạn cũng vô cùng đáng gờm.
+Lizardman dạng cá sấu chính là con Boss mà Tendou từng đơn độc quyết đấu dưới hồ nước ngầm. Dù vốn là loài chuyên trị thủy chiến, nhưng nó vẫn có thể đứng thẳng bằng hai chân và chạy băng băng, nên khả năng cận chiến trên cạn cũng vô cùng khủng khiếp.
 
-Còn con Minotaur kia là loại Boss mà chưa ai trong nhóm chúng tôi từng chạm trán trực tiếp, dù trước đây chúng tôi đã gặp những ma vật có hình dáng tương tự. Việc tồn tại một khu vực có con Boss là phiên bản cường hóa của chúng cũng là điều hoàn toàn dễ hiểu.
+Còn con Minotaur kia là loại Boss mà chưa ai trong nhóm chúng tôi từng chạm trán trực tiếp, dù trước đây cả bọn đã đụng độ những ma vật có nhân dạng tương tự. Việc tồn tại một phân khu có con Boss là phiên bản cường hóa của chúng cũng là điều hoàn toàn dễ hiểu.
 
-“Tặc, đối phó với lũ đó sẽ tốn thời gian lắm đây.”
+“Tặc, dây dưa với lũ đó sẽ tốn thời gian lắm đây.”
 
 “Tính sao đây, Momokawa-kun? Chúng ta sẽ nghênh chiến tại đây luôn chứ?”
 
-“Không, ưu tiên hàng đầu là đột phá. Kyouko, Lớp trưởng, hãy triệu hồi tinh linh để chặn chân chúng lại. Tôi sẽ cử hai con Tank lên hỗ trợ.”
+“Không, ưu tiên hàng đầu là đột phá. Kyouko, Lớp trưởng, hãy triệu hồi tinh linh để chặn đứng bước tiến của chúng. Tôi sẽ cử hai con Tank lên hỗ trợ.”
 
 “Ok.”
 
 “Rõ rồi.”
 
-Đáp lại mệnh lệnh của tôi, Kyouko tạm thời cất khẩu súng lục ổ quay vốn là vũ khí chính vào bao, rồi rút khẩu shotgun đeo sau lưng ra và thủ thế. Đó là khẩu 『Rock Blaster E3』.
+Đáp lại mệnh lệnh dứt khoát của tôi, Kyouko tạm thời tra khẩu súng lục ổ quay vốn là vũ khí chính vào bao, rồi rút khẩu shotgun vắt sau lưng ra thủ thế. Đó chính là khẩu 『Rock Blaster E3』.
 
-『Rock Blaster E3』: Chữ E đại diện cho ba từ Enhanced, Ancient, Elemental, gọi tắt là E3. Khẩu 『Rock Blaster Sawed-off』 do tôi tự chế từng có nguy cơ bị xếp xó sau khi Kyouko lấy lại được súng lục ổ quay, nhưng qua đợt cải tiến lần này, nó đã được nâng cấp hiệu năng theo một hướng hoàn toàn khác để tạo sự khác biệt.
+『Rock Blaster E3』: Chữ E đại diện cho ba từ Enhanced, Ancient, Elemental, gọi tắt là E3. Khẩu 『Rock Blaster Sawed-off』 do tôi tự chế từng đứng trước nguy cơ bị xếp xó sau khi Kyouko lấy lại được súng lục ổ quay, nhưng qua đợt cải tiến lần này, nó đã được nâng cấp hiệu năng theo một hướng hoàn toàn mới để tạo sự khác biệt.
 
-Vẫn giữ nguyên khả năng bắn đạn chuyên dụng từng lập công lớn khi nã đạn thiêu cháy quân địch ở vương quốc Goma, tôi đã tháo dỡ các linh kiện từ khẩu súng blaster cổ đại để tích hợp vào nó, giúp gia tăng đáng kể uy lực, độ chính xác, tầm bắn và hiệu suất truyền dẫn ma lực. Từ một khẩu shotgun tự chế thô sơ, giờ đây nó đã sở hữu hiệu năng vượt trội, hoàn toàn xứng đáng với cái tên súng blaster cổ đại thực thụ.
+Vẫn giữ nguyên khả năng bắn đạn chuyên dụng từng lập đại công khi nã đạn thiêu rụi quân địch ở vương quốc Goma, tôi đã tháo dỡ các linh kiện từ khẩu súng blaster cổ đại để tích hợp vào nó, giúp gia tăng vượt bậc uy lực, độ chuẩn xác, tầm bắn lẫn hiệu suất truyền dẫn ma lực. Từ một khẩu shotgun tự chế thô sơ, giờ đây nó đã sở hữu hiệu năng vô cùng kinh ngạc, hoàn toàn xứng đáng với cái tên súng blaster cổ đại thực thụ.
 
-Và một điểm đặc biệt nữa, để tương thích với yếu tố Tinh linh, khẩu súng này được thiết kế để tối ưu hóa việc thi triển ma pháp hệ Thổ thông qua sự hỗ trợ của các tinh linh.
+Và một điểm đặc biệt nữa, để tương thích tối đa với yếu tố Tinh linh, khẩu súng này được thiết kế nhằm tối ưu hóa việc thi triển ma pháp hệ Thổ thông qua sự cộng hưởng của các tinh linh.
 
-“—Lên đi, Guririn, húc bay nó cho tớ!”
+“—Lên đi, Guririn, húc bay xác nó cho tớ!”
 
-Nạp viên đạn triệu hồi dùng để tạo ra Thổ Tinh Linh cấp trung vào buồng đạn, Kyouko bóp cò. Họng súng rực lên ánh sáng màu cam ấm áp, và thay vì ánh lửa từ thuốc súng, một ma pháp trận hình tròn lập tức lóe sáng.
+Nạp viên đạn triệu hồi dùng để ngưng tụ Thổ Tinh Linh cấp trung vào buồng đạn, Kyouko dứt khoát bóp cò. Họng súng rực lên ánh sáng màu cam ấm áp, và thay vì tia lửa từ thuốc súng tầm thường, một ma pháp trận hình tròn lập tức lóe sáng rực rỡ.
 
-Dựa trên lời khuyên của Hayama, tôi đã thiết kế các bộ phận của khẩu Rock Blaster sao cho các thổ tinh linh dễ dàng trú ngụ và liên kết với khẩu súng nhất. Cụ thể, đó là một món phụ kiện tinh xảo được chế tác từ hợp kim do chính tay Kyouko luyện kim tỉ mỉ để nâng cao độ tinh khiết, mang đậm phong cách thẩm mỹ của cô ấy.
+Dựa trên lời khuyên của Hayama, tôi đã thiết kế các chi tiết của khẩu Rock Blaster sao cho các thổ tinh linh dễ dàng trú ngụ và kết nối với khẩu súng nhất. Cụ thể, đó là một món phụ kiện tinh xảo được chế tác từ hợp kim do chính tay Kyouko luyện kim tỉ mỉ để nâng cao độ thuần khiết, mang đậm phong cách thẩm mỹ của cô nàng.
 
-Trông nó có vẻ hơi lòe loẹt như mấy cái skin súng siêu hiếm trong các tựa game bắn súng, nhưng khi nằm trong tay Kyouko, thiết kế mang phong cách sành điệu, nổi bật của một cô nàng gyaru này lại hợp đến lạ kỳ.
+Trông nó có vẻ hơi lòe loẹt như mấy cái skin súng siêu hiếm trong các tựa game bắn súng, nhưng khi nằm gọn trong tay Kyouko, thiết kế mang đậm phong cách sành điệu, nổi bật của một cô nàng gyaru này lại hợp đến kỳ lạ.
 
-Dù sao thì, việc bắn đạn triệu hồi bằng khẩu súng đã được yểm thổ tinh linh này sẽ giúp phát huy sức mạnh của tinh linh một cách hiệu quả nhất ở thời điểm hiện tại. Có thể nói, nó mang lại công dụng tương tự như một cây gậy phép dưới hình dạng một khẩu súng.
+Dù sao thì, việc khai hỏa đạn triệu hồi bằng khẩu súng đã được yểm thổ tinh linh này sẽ giúp phát huy sức mạnh của tinh linh một cách tối đa ở thời điểm hiện tại. Có thể nói, nó mang lại công năng tương tự như một cây trượng phép dưới nhân dạng một khẩu súng.
 
-Viên đạn triệu hồi được bắn ra vẽ nên một đường cong parabol như lựu đạn rồi găm xuống sàn nhà. Ngay khi luồng ma lực hệ Thổ đậm đặc cùng những mảnh hợp kim bộc phát dữ dội,
+Viên đạn triệu hồi được bắn ra vẽ nên một đường cong parabol hoàn hảo như lựu đạn rồi găm thẳng xuống nền sàn. Ngay khi luồng ma lực hệ Thổ đậm đặc cùng những mảnh hợp kim bộc phát dữ dội—
 
 “Gừ oàaaaaaaa!”
 
-Trong chớp mắt, một thực thể có hình dáng giống hệt con khủng long ăn thịt đi bằng hai chân Grimgoar ngưng tụ lại và gầm lên một tiếng đầy oai dũng.
+Trong chớp mắt, một thực thể có hình dáng giống hệt con khủng long ăn thịt hai chân Grimgoar ngưng tụ thành hình và gầm lên một tiếng long trời lở đất.
 
 “Kèèèèèèèè!”
 
 “Gừừừ, gào oàaaaaaa!”
 
-Nó lập tức lao vào cắn xé trực diện với con Lizardman dạng cá sấu đang áp sát. Cả hai có kích thước và thể hình tương đương nhau. Như thể tái hiện lại thời kỳ khủng long cổ đại, hai quái thú được trang bị nanh vuốt và vảy cứng lao vào một trận chiến sinh tử vô cùng khốc liệt.
+Nó lập tức lao vào cắn xé trực diện với con Lizardman dạng cá sấu đang hung hãn áp sát. Cả hai sở hữu kích thước và thể hình tương đương nhau. Tựa như tái hiện lại thời kỳ khủng long viễn cổ, hai quái thú trang bị đầy nanh vuốt và lớp vảy cứng cáp lao vào một trận tử chiến vô cùng đẫm máu.
 
 “—『Triệu Hoán Trung Cấp Băng Tinh Linh』, 『Ice Golem』.”
 
-Ở phía bên kia, Lớp trưởng giương cao cây trượng với tư thế vô cùng chuẩn mực, vẽ nên một ma pháp trận khổng lồ màu xanh lam. Cô đang thi triển phép triệu hoán theo phong cách của một ma pháp sư vô cùng cổ điển.
+Ở phía bên kia, Lớp trưởng giương cao cây pháp trượng với tư thế vô cùng chuẩn mực, vẽ nên một ma pháp trận khổng lồ màu xanh lam thẫm. Cô đang thi triển thuật triệu hoán theo phong cách của một đại ma pháp sư vô cùng cổ điển.
 
-Dưới ánh sáng rực rỡ của ma lực hệ Băng cùng trận bão tuyết với những bông tuyết lớn từ hư không cuộn xoáy dữ dội, một con Ice Golem khổng lồ dần hiện hình.
+Dưới ánh sáng chói lòa của ma lực hệ Băng cùng trận bão tuyết với những bông tuyết lớn từ hư không cuộn xoáy dữ dội, một con Ice Golem hộ pháp sừng sững hiện hình.
 
-Dù không gầm thét oai phong, nhưng cơ thể băng giá của con Ice Golem phát ra những tiếng cọt kẹt nặng nề khi nó tiến lên chặn đứng con Minotaur đang điên cuồng lao tới.
+Dù không phát ra tiếng gầm thét oai vệ, nhưng cơ thể băng giá ngàn năm của Ice Golem rít lên những âm thanh ma sát nặng nề khi nó vững chãi tiến lên chặn đứng con Minotaur đang điên cuồng húc tới.
 
-“Đ-Được rồi, tớ cũng sẽ lên đây...”
+“Đ-Được rồi, tớ cũng sẽ lên chi viện đây...”
 
-“Hayama-kun vẫn chưa thể triệu hồi tinh linh trung cấp một cách ổn định đâu, nên bây giờ không cần làm thế đâu.”
+“Hayama-kun vẫn chưa thể triệu hồi tinh linh trung cấp một cách ổn định đâu, nên lúc này không cần phải gượng ép thế đâu.”
 
-Có lẽ vì lòng hiếu thắng của một Tinh Linh Thuật Sư nên cậu ta cũng muốn dùng thuật triệu hồi để yểm trợ, nhưng nhìn điệu bộ có vẻ không ổn chút nào nên tôi đã ngăn lại.
+Có lẽ vì lòng tự ái của một 『Tinh Linh Thuật Sư』 nên cậu ta cũng muốn dùng thuật triệu hồi để thể hiện, nhưng nhìn bộ dạng luống cuống thiếu tự tin đó nên tôi đã kịp thời ngăn lại.
 
-Dù sao thì ở đây chỉ cần hai tinh linh hệ Thổ và Băng là quá đủ để cầm chân bọn chúng rồi. Kiểu gì cũng sẽ đến lúc cần tới sự trợ giúp của Hayama thôi, nên cậu không cần phải quá tự ti đâu.
+Dù sao thì ở đây chỉ cần hai tinh linh hệ Thổ và Băng là quá đủ để cầm chân bọn chúng rồi. Kiểu gì cũng sẽ đến thời điểm cần tới năng lực độc nhất của Hayama thôi, nên cậu ta không việc gì phải tự ti đến thế.
 
 “Vâng... Tớ xin lỗi...”
 
-“Nào, mau đi thôi.”
+“Nào, mau tiếp tục tiến lên thôi!”
 
 “Vâng...”
 
-Bỏ lại sau lưng trận chiến hỗn loạn giữa các tinh linh và lũ Boss ma vật, chúng tôi nhanh chóng tiến về phía trước. Hayama lững thững bước theo sau, ánh mắt không giấu nổi sự ngưỡng mộ xen lẫn thèm muốn khi nhìn bóng dáng các tinh linh trung cấp đang chiến đấu vô cùng dũng mãnh.`
+Bỏ lại sau lưng trận chiến hỗn loạn giữa các tinh linh và lũ Boss ma vật, chúng tôi nhanh chóng tiến về phía trước. Hayama lững thững bước theo sau, ánh mắt không giấu nổi sự ngưỡng mộ xen lẫn thèm muốn khi ngắm nhìn bóng lưng các tinh linh trung cấp đang chiến đấu vô cùng dũng mãnh.`
             },
             {
                 "id": "ep_352",
@@ -65231,17 +65249,17 @@ Bỏ lại sau lưng trận chiến hỗn loạn giữa các tinh linh và lũ B
                 "title": "Tập 352: Nhà máy ma vật (2)",
                 "content": `# Tập 352: Nhà máy ma vật (2)
 
-“Ừm, quả nhiên đẳng cấp của hai người này ở cái tầm hoàn toàn khác biệt.”
+“Ừm, quả nhiên đẳng cấp của hai người này hoàn toàn ở một tầm khác biệt.”
 
-Sau khi tung các trung cấp tinh linh hệ Thổ và Băng vào để cầm chân lũ quái vật, chúng tôi lập tức hội quân với Mei-chan và Tendou tại tiền tuyến. Tại đây, một trận quyết chiến ở đẳng cấp vượt trội đang diễn ra.
+Sau khi tung các trung cấp tinh linh hệ Thổ và Băng ra để cầm chân lũ quái vật, chúng tôi lập tức hội quân với Mei-chan và Tendou tại tiền tuyến. Tại đây, một trận quyết chiến ở đẳng cấp vượt trội đang diễn ra.
 
 “Hàaaaaaa————yaaa!”
 
-Cùng với tiếng thét đầy khí thế, Mei-chan vung rìu đánh bật hai con General Armor — những bộ giáp sắt khổng lồ đóng vai trò thủ lĩnh của lũ Living Armor. Không phải một con, mà là hai con cùng lúc.
+Cùng với tiếng thét đầy khí thế, Mei-chan vung rìu đánh bật hai con General Armor — những bộ giáp sắt khổng lồ đóng vai trò chỉ huy của lũ Living Armor. Không phải một con, mà là hai con cùng lúc.
 
 “Ở đằng kia!”
 
-Ngay khi một bóng đen khoác áo choàng — một con Vampire cấp Boss — lao ra từ trong góc khuất phía sau và vung kiếm liễu lên, thanh 『Bát Táp Ngưu Ma Đao』 đã quét qua một đường tàn khốc.
+Ngay khi một bóng đen khoác áo choàng — một con Vampire cấp Boss — lao ra từ góc khuất phía sau và vung kiếm liễu lên, thanh 『Bát Táp Ngưu Ma Đao』 đã quét qua một đường tàn khốc.
 
 Đồng thời, cô ấy cũng vung một nhát chém ngang bằng thanh 『Zagan's Pride』 đang kéo dài lưỡi kiếm hết cỡ, nhắm thẳng vào một con Vampire khác ở phía trước.
 
@@ -65261,7 +65279,7 @@ Ngay từ lúc hội quân và chứng kiến cô ấy một mình đối đầu
 
 Ở ngay bên cạnh, vừa thong thả trò chuyện với Liberta, Tendou vừa một mình tiếp chiêu bốn con Boss có cùng đội hình như phía bên kia.
 
-Sở hữu thanh Vương Kiếm to ngang ngửa đại kiếm, Tendou không chỉ giỏi kiếm thuật mà còn có thể thi triển đa dạng các loại ma pháp. Khác với một cuồng chiến binh như Mei-chan luôn dùng những đường đao bão táp để ngăn không cho kẻ địch tiếp cận, cậu ta kết hợp những nhát chém của Vương Kiếm với hàng loạt ma pháp tấn công, dễ dàng hóa giải các đòn thế của bốn con Boss mà chẳng gặp chút hiểm nguy nào.
+Sở hữu thanh Vương Kiếm to ngang ngửa đại kiếm, Tendou không chỉ giỏi kiếm thuật mà còn có thể thi triển đa dạng các loại ma pháp. Khác với một Cuồng Chiến Binh như Mei-chan luôn dùng những đường đao bão táp để ngăn không cho kẻ địch tiếp cận, cậu ta kết hợp những nhát chém của Vương Kiếm với hàng loạt ma pháp tấn công, dễ dàng hóa giải các đòn thế của bốn con Boss mà chẳng gặp chút hiểm nguy nào.
 
 “Này, thế này thì tụi mình có cần yểm trợ không vậy?”
 
@@ -65311,7 +65329,7 @@ Chắc chắn tầng này có một hệ thống sản sinh ma vật quy mô l�
 
 Vì vậy, bỏ qua những con quái còn sót lại cùng lũ vừa hồi sinh để nhanh chóng tiến xuống dưới là phương án tối ưu nhất.
 
-“Cọc sắt thi công siêu tốc đã lắp đặt xong! Kyouko, nhờ cậu đấy.”
+“『Cọc Thi Công Thần Tốc』 đã lắp đặt xong! Kyouko, nhờ cậu đấy.”
 
 “Cứ giao cho tớ————『Nham Thạch Phòng Bích』!”
 
@@ -65329,7 +65347,7 @@ Chỉ cần nhìn lướt qua cũng có thể nhận ra cấu trúc của tầng
 
 “Nhưng trông nó sạch sẽ hơn nhiều... Phải chăng nơi này được bảo quản tốt hơn?”
 
-Không hề thấy lớp bụi dày cộp tích tụ qua năm tháng, cũng chẳng có vết rỉ sét nào trên các chi tiết kim loại. Nơi này được sơn một màu trắng tinh khôi, sạch sẽ giống như Quảng trường Tinh Linh ở tầng cao nhất.
+Không hề thấy lớp bụi dày cộp tích tụ qua năm tháng, cũng chẳng có vết rỉ sét nào trên các chi tiết kim loại. Nơi này được sơn một màu trắng tinh khôi, sạch sẽ giống như Quảng Trường Tinh Linh ở tầng cao nhất.
 
 “Ừm, chắc chắn là có bẫy được bố trí ở đây rồi.”
 
@@ -65837,21 +65855,21 @@ Huyết quang đỏ thẫm cuồng bạo tỏa ra từ Mei-chan đan xen với �
 
 “Ư... ưm...”
 
-Khẽ rên rỉ một tiếng, Souma Sakura lảo đảo đứng dậy.
+Khẽ rên rỉ một tiếng, Souma Sakura lảo đảo gượng dậy.
 
 “May quá, cuối cùng cũng tiếp đất an toàn...”
 
 Cơ thể cô vẫn nguyên vẹn. Không có cảm giác đau đớn hay bất kỳ dấu hiệu bất thường nào.
 
-Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên \`『Đệm Khí』\` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối \`『Thánh Thiên Kết Giới』\`, cô đã tiếp đất thành công mà không hề trầy xước một sợi tóc.
+Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên \`『Đệm Khí』\` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối \`『Thánh Thiên Kết Giới』\`, cô đã tiếp đất an toàn mà không hề trầy xước một sợi tóc.
 
 “...Nhưng có vẻ như mình đã lạc mất mọi người rồi.”
 
 Mặt đất dưới chân cô là một thảm cỏ xanh mướt. Nhìn lướt qua xung quanh, đập vào mắt cô là một khu rừng xanh tươi được chiếu rọi bởi những tia nắng ấm áp len lỏi qua kẽ lá, cùng những đóa hoa dại đang đua nhau khoe sắc thắm. Tiếng chim lảnh lót đâu đó vang vọng, và một làn gió nhẹ lướt qua, vuốt ve gò má cô một cách dịu dàng.
 
-Đây là một khu rừng. Thế nhưng, nó không hề mang bầu không khí âm u, rình rập hiểm nguy như những tầng hầm ngục trước đây. Nơi này đẹp tựa như một bức tranh phong cảnh bước ra từ giấc mơ của con người. Cứ như thể nó được thiết kế riêng vậy. Không, nếu xét đến việc đây là một trong những tầng của Tháp Trung Tâm, thì chắc chắn từ gốc đến ngọn của khu rừng này đều là sản phẩm nhân tạo. Có lẽ nơi đây giống như một khu vườn thượng uyển khổng lồ.
+Đây là một khu rừng. Thế nhưng, nó không hề mang bầu không khí âm u, rình rập hiểm nguy như những tầng hầm ngục trước đây. Nơi này đẹp tựa như một bức tranh phong cảnh bước ra từ giấc mơ. Cứ như thể nó được kỳ công bài trí vậy. Không, nếu xét đến việc đây là một trong những tầng của Tháp Trung Tâm, thì chắc chắn từ gốc đến ngọn của khu rừng này đều là sản phẩm nhân tạo. Có lẽ nơi đây giống như một khu vườn thượng uyển khổng lồ.
 
-And xung quanh cô, không có lấy một chút hơi ấm hay sự hiện diện của các bạn học.
+Và xung quanh cô, không có lấy một chút hơi ấm hay sự hiện diện của các bạn học.
 
 Trong lúc rơi xuống, Sakura vẫn đủ tỉnh táo để chú ý đến những người bạn đang rơi cùng mình. Thế nhưng, một luồng sáng chói lòa đột ngột bao trùm lấy tất cả, cướp đi tầm nhìn của cô.
 
@@ -65859,7 +65877,7 @@ Bằng trực giác, cô biết đó không phải là ánh sáng của ma pháp
 
 “Điện thoại... tạm thời chưa nên dùng thì hơn.”
 
-Dù vẫn mang theo bên mình như một phương tiện liên lạc, nhưng suy cho cùng, thứ này hoạt động được là nhờ bàn tay của Kotori. Dù trước đây chưa từng xảy ra sự cố nào, nhưng ở thời điểm nhạy cảm này, không ai biết trước được điều gì. Bên trong tòa tháp là lãnh địa của Kotori, nếu cô ta dò tìm ra vị trí của cô khi đang đơn độc thế này thì sẽ rất nguy hiểm.
+Dù vẫn mang theo bên mình như một phương tiện liên lạc, nhưng suy cho cùng, thứ này hoạt động được là nhờ bàn tay của Kotori. Dù trước đây chưa từng xảy ra sự cố nào, nhưng ở thời điểm nhạy cảm này, không ai biết trước được điều gì. Bên trong tòa tháp là lãnh địa của Kotori, nếu cô ta dò tìm ra vị trí của cô khi đang đơn độc thế này thì sẽ vô cùng nguy hiểm.
 
 Tốt nhất là không nên dùng đến nó cho đến khi thực sự bế tắc và không thể hội quân với mọi người.
 
@@ -65883,13 +65901,13 @@ Có vẻ như hiện tại nó đã bị mất kết nối.
 
 Cô cẩn thận quan sát xung quanh một lần nữa, đồng thời kiểm tra lại trang bị của bản thân.
 
-Cầm chắc trên tay vũ khí chính mới của mình là cây cung \`『Anh Hoa Liêu Loạn』\` dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay, Sakura bắt đầu đơn độc bước đi.
+Cầm chắc trên tay vũ khí chính mới của mình là cây cung \`『Anh Hoa Liêu Loạn』\` — dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay — Sakura bắt đầu đơn độc bước đi.
 
-Có lẽ vì đây là một khu rừng được thiết kế như một khu vườn, nên nó không quá rậm rạp đến mức khiến người ta đi lạc. Dưới chân cô là một con đường đất rõ ràng, tầm nhìn cũng khá thoáng đãng nhờ khoảng cách giữa các hàng cây được phân bổ rất hợp lý.
+Có lẽ vì đây là một khu rừng được thiết kế như một khu vườn, nên nó không quá rậm rạp đến mức khiến người ta mất phương hướng. Dưới chân cô là một con đường đất rõ ràng, tầm nhìn cũng khá thoáng đãng nhờ khoảng cách giữa các hàng cây được phân bổ rất hợp lý.
 
 Cô đi dọc theo con đường, nhưng không hề hiên ngang bước đi ở chính giữa, mà luôn nép mình vào bóng cây, di chuyển một cách khéo léo. Từng bước đi của cô nhẹ nhàng đến mức gần như không phát ra bất kỳ tiếng động nào.
 
-Sakura cũng đã được truyền dạy võ phái Souma — một môn võ thuật tổng hợp. Cô vốn đã nắm vững các kỹ thuật ẩn mình để di chuyển trong lòng địch mà không để lộ hành tung.
+Sakura vốn đã được truyền dạy võ phái Souma — một môn võ thuật tổng hợp. Cô hoàn toàn nắm vững các kỹ thuật ẩn mình để di chuyển trong lòng địch mà không để lộ hành tung.
 
 “Ủa, nơi này là... Quảng Trường Tinh Linh sao...?”
 
@@ -65899,7 +65917,7 @@ Trước mắt cô là một thảm hoa rực rỡ sắc màu trải dài, và �
 
 Đó không phải là đài phun nước, mà là một hồ nước tự nhiên.
 
-Thế nhưng, ngay chính giữa hồ nước ấy, một cây cột đá màu trắng dựng đứng lên, và ngự trên đỉnh cột là bức tượng yêu tinh quen thuộc.
+Thế nhưng, ngay chính giữa hồ nước ấy, một cây cột đá màu trắng dựng đứng sừng sững, và ngự trên đỉnh cột là bức tượng yêu tinh quen thuộc.
 
 “Nơi này cũng là một quảng trường bị bỏ hoang sao?”
 
@@ -65909,9 +65927,9 @@ Xung quanh hồ nước và thảm hoa, những mảnh vỡ của cột đá và
 
 Chúng được sắp đặt rải rác như thể mô phỏng lại cảnh những chú yêu tinh đang vui đùa trên thảm hoa. Có bức tượng vẫn còn nguyên vẹn, có bức lại bị mất đầu và tay giống như tượng nữ thần Nike, và có bức chỉ còn trơ lại đôi chân.
 
-Đây là lần đầu tiên cô nhìn thấy nhiều bức tượng yêu tinh được bố trí cùng một chỗ như vậy. Cảm giác rờn rợn dâng lên trong lòng cô, có lẽ là vì cô đã biết bản chất của những bức tượng này thực chất là những món vũ khí tự động bắn ra những tia laser chết chóc.
+Đây là lần đầu tiên cô nhìn thấy nhiều bức tượng yêu tinh được bố trí cùng một chỗ như vậy. Cảm giác rờn rợn dâng lên trong lòng cô, có lẽ là vì cô đã biết bản chất thực sự của những bức tượng này chính là những món vũ khí tự động bắn ra những tia laser chết chóc.
 
-Ít nhất thì bức tượng đứng giữa hồ cũng như những bức tượng xung quanh đều không hề phát sáng mắt hay có dấu hiệu tấn công. Cô đã cẩn thận cho Tinh Linh Ánh Sáng Tí Hon bay lên thăm dò trước, nên chắc chắn là an toàn.
+Ít nhất thì bức tượng đứng giữa hồ cũng như những bức tượng xung quanh đều không hề phát sáng mắt hay có dấu hiệu tấn công. Cô đã cẩn thận cho Tinh Linh Ánh Sáng Tí Hon bay lên thăm dò trước, nên chắc chắn nơi này an toàn.
 
 “Ủa, cái đó là...”
 
@@ -66010,6 +66028,8 @@ Sakura thực hiện các động tác hồi sức tim phổi một cách vô c�
 “Tỉnh lại đi chứ, Momokawa Kotarou!!”
 
 “...Cậu đang làm cái trò gì thế, Sakura-chan?”
+
+***
 
 *Khốn kiếp, con khốn Kotori chơi chiêu hiểm thật...*
 
@@ -66127,259 +66147,263 @@ Sakura rú lên một tiếng kỳ quái rồi lao vào ăn tươi nuốt sống
 
 “Trông giống hệt một đấu trường nhỉ, Futaba?”
 
-Với một tiếng động khẽ, Kenzaki Asuna đáp xuống từ trên không trung, cố tình phô diễn đôi cánh trắng muốt đang tỏa sáng lấp lánh.
+Cùng một tiếng động khẽ khàng, Kenzaki Asuna từ trên không trung đáp xuống, cố tình phô diễn đôi cánh trắng muốt đang tỏa ra ánh sáng lấp lánh.
 
-Nơi đây là một khoảng đất trống hình tròn trải rộng như sân trường, bao quanh bởi những bức tường đá và những hàng cột trụ đứng sừng sững. Trên đỉnh các cây cột, thay vì những bức tượng gargoyle, người ta lại đặt những bức tượng yêu tinh trong tư thế giơ hai tay vạn tuế quen thuộc, cùng với những họa tiết trang trí hoa cỏ điểm xuyết khắp nơi.
+Nơi đây là một khoảng đất trống hình tròn trải rộng như sân trường, bao quanh bởi những bức tường đá và các hàng cột trụ sừng sững. Trên đỉnh mỗi cây cột, thay vì những bức tượng Gargoyle, người ta lại tạc hình các tinh linh đang trong tư thế giơ hai tay hoan hô quen thuộc, điểm xuyết thêm họa tiết hoa cỏ uốn lượn xung quanh.
 
-Nơi đây vốn là một ngôi đền cổ nay đã đổ nát, nứt nẻ và hoang tàn. Thế nhưng, khi hai kẻ mang theo huyết khí và sát tâm đối mặt nhau, tay lăm lăm vũ khí, thì việc gọi nơi này là một đấu trường quả thực là một cách diễn đạt không thể chính xác hơn.
+Vốn dĩ đây là một ngôi đền cổ nay đã nứt nẻ, đổ nát và hoang tàn. Thế nhưng, khi hai kẻ mang theo sát tâm ngút trời cùng huyết khí sôi sục đứng đối mặt nhau, vũ khí lăm lăm trên tay, thì gọi nơi này là một đấu trường quả thực không còn gì chuẩn xác hơn.
 
 “Cậu định tiếp tục trận đấu dở dang ngày trước à?”
 
-Meiko lịch sự đáp lời, thực chất là để âm thầm quan sát xung quanh xem có đồng đội nào khác của đối phương ở gần đây không. Dĩ nhiên, một \`『Cuồng Chiến Binh』\` như cô làm sao có được những phương pháp như ma pháp dò tìm hay thả sứ ma trinh sát.
+Meiko điềm đạm đáp lời, thực chất là để âm thầm quan sát xung quanh xem có kẻ nào khác phục kích hay không. Dĩ nhiên, một \`『Cuồng Chiến Binh』\` thuần túy như cô chẳng thể sở hữu ma pháp dò tìm hay thuật thả sứ ma trinh sát.
 
-Cô chỉ có thể dựa vào thị giác, thính giác siêu phàm và giác quan thứ sáu để cảm nhận khí tức. Nhưng ít nhất, cô nhanh chóng đưa ra phán đoán rằng không có ai trong phạm vi cảm nhận của mình.
+Cô chỉ có thể dựa vào thị giác, thính giác siêu phàm cùng trực giác nhạy bén để cảm nhận khí tức. Nhưng ít nhất, cô có thể nhanh chóng kết luận rằng chẳng có thêm ai khác trong phạm vi này.
 
-Chiếc máy phát tín hiệu hình bọ cánh cứng giấu trong người lại khẽ rung lên một chút. Biết được Kotarou vẫn bình an vô sự khiến cô phần nào trút bỏ được gánh nặng trong lòng.
+Chiếc máy phát tín hiệu hình bọ cánh cứng giấu kín trong người khẽ rung lên một nhịp ngắn. Nhận được tín hiệu Kotarou-kun vẫn bình an vô sự, tảng đá đè nặng trong lòng cô xem như đã được trút bỏ.
 
-“Ban đầu ta định kết liễu tên Momokawa trước... nhưng quả nhiên, nếu không hạ gục ngươi trước thì điều đó sẽ không thể thực hiện được.”
+“Ban đầu ta định kết liễu tên Momokawa trước... nhưng quả nhiên, nếu không hạ gục ngươi thì chuyện đó khó lòng thực hiện được.”
 
-“Ngươi vẫn chứng nào tật nấy, dám ra tay với cậu Kotarou ngay trước mặt tôi cơ đấy.”
+“Cậu vẫn chứng nào tật nấy, dám ra tay với cậu Kotarou ngay trước mặt tôi cơ đấy.”
 
-“Dĩ nhiên rồi, tên đó chính là cội nguồn của mọi tai ương. Futaba, ngươi cũng mau tỉnh ngộ đi. Tại sao ngươi lại không nhận ra tất cả mọi người đều đang bị gã chú thuật sư tà ác đó lợi dụng chứ?”
+“Dĩ nhiên rồi, tên đó chính là cội nguồn của mọi tai ương! Futaba, ngươi mau tỉnh ngộ đi! Tại sao ngươi lại không nhận ra tất cả mọi người đều đang bị gã chú thuật sư tà ác đó dắt mũi lợi dụng chứ?”
 
-“Tôi cứ nghĩ Kenzaki-san là người không thể lý luận nổi, nhưng đến mức này thì đúng là đáng thương hại thật.”
+“Tôi cứ nghĩ Kenzaki-san chỉ là người không biết nói lý lẽ, nhưng u mê đến mức này thì đúng là đáng thương hại thật.”
 
-Liệu Kenzaki Asuna của hiện tại có đang bị Takanashi thao túng hay không? Hay là ngay cả khi không bị làm gì, cô ta cũng không thể thừa nhận sai lầm của bản thân để rồi tâm trí đã sớm vỡ vụn từ lâu?
+Liệu Kenzaki Asuna của hiện tại có đang bị Kotori thao túng hay không? Hay là dù không bị tác động, cô ta cũng chẳng thể chấp nhận nổi sai lầm của chính mình để rồi tâm trí đã sớm vỡ vụn từ lâu?
 
-Ít nhất thì Meiko không thể, và cũng không có ý định thấu hiểu tâm tư của một kẻ vẫn đang trưng ra bộ mặt bình thản và thái độ ngạo nghễ như chưa hề có chuyện gì xảy ra kia.
+Ít nhất thì Meiko không thể, và cũng chẳng có ý định thấu hiểu tâm can của một kẻ vẫn đang trưng ra bộ mặt thản nhiên cùng thái độ ngạo nghễ như thể bản thân vô tội kia.
 
-Bởi vì Asuna đã sớm vượt qua ranh giới không thể quay đầu rồi.
+Bởi vì Asuna đã sớm bước qua lằn ranh không thể quay đầu.
 
 “Lần này, tôi sẽ giết cậu tại đây.”
 
-Sẽ không còn ai cản đường nữa. Chàng Dũng Giả yêu dấu của cô ta sẽ không đến cứu, và Kotarou cũng sẽ không ban phát lòng khoan dung. Meiko tự hiểu rằng đây chính là sứ mệnh của một \`『Cuồng Chiến Binh』\` như cô.
+Sẽ không còn ai cản đường nữa. Chàng Dũng Giả yêu dấu của cô ta sẽ không tới cứu, và Kotarou-kun cũng sẽ chẳng ban phát thêm bất kỳ sự khoan nhượng nào. Meiko hiểu rất rõ, đây chính là sứ mệnh của một \`『Cuồng Chiến Binh』\` như cô.
 
-“Phải đấy, nhào vô đi, Futaba Meiko. Mối nhục bại dưới tay ngươi, ta chưa từng quên dù chỉ một khắc— Hôm nay, chỉ cần đánh bại ngươi tại đây, ta mới có thể tiếp tục bước tiếp.”
+“Tốt lắm, nhào vô đi, Futaba Meiko! Mối nhục bại dưới tay ngươi, ta chưa từng quên dù chỉ một khắc— Hôm nay, chỉ cần chém gục ngươi tại đây, ta mới có thể tiếp tục tiến bước!”
 
 “Hãy xuống địa ngục mà sám hối với cậu Kotarou đi, Kenzaki Asuna—”
 
-Giờ đây, lời nói đã trở nên thừa thãi. Ngay cả một tín hiệu bắt đầu cũng không cần thiết.
+Giờ phút này, lời nói đã trở nên thừa thãi. Một hiệu lệnh bắt đầu cũng chẳng còn cần thiết.
 
-Kẻ động thủ trước là Meiko. Cô vung một nhát chém, phóng đại kích thước của thanh \`『Zagan's Pride』\` ở tay trái lên mức tối đa.
+Kẻ động thủ trước là Meiko. Cô vung một nhát chém xé toạc không khí, phóng đại kích thước của thanh \`『Zagan's Pride』\` bên tay trái lên mức cực đại.
 
-Trong lúc hai bên còn đang mải đấu khẩu, cô đã âm thầm rút ngắn khoảng cách đến giới hạn cận chiến của lưỡi đao. Tiến lên một bước, thanh đại kiếm của gã khổng lồ lao đến như muốn chém đôi Asuna.
+Ngay trong lúc hai bên còn mải đấu khẩu, cô đã âm thầm thu hẹp khoảng cách tới tầm chém tối đa của lưỡi đao. Chỉ một bước dậm chân, thanh đại kiếm khổng lồ quét tới như muốn chém đôi thân hình Asuna.
 
-“Hừ, vô ích thôi.”
+“Hừ, vô ích thôi!”
 
-*Keng!* Một tiếng động thanh mảnh vang lên cùng một vệt sáng lóe qua trong tích tắc.
+*Keng!*
 
-Asuna chỉ cần vung nhẹ thanh đao bên tay phải là đã dễ dàng gạt phắt đòn đánh sấm sét của Meiko.
+Một tiếng va chạm lanh lảnh vang lên cùng vệt sáng lóe qua trong chớp mắt.
 
-“Thần thiết đao kết hợp với 『Thánh Thiên Kết Giới』 à?”
+Asuna chỉ khẽ vung thanh đao bên tay phải là đã dễ dàng gạt phắt đòn đánh tựa sấm sét của Meiko.
+
+“Thần thiết đao kết hợp cùng \`『Thánh Thiên Kết Giới』\` à?”
 
 “Quả nhiên tinh mắt.”
 
-Asuna nở nụ cười đắc ý, thủ thế với lưỡi đao đang tỏa ra ánh hào quang nhạt.
+Asuna nhếch mép cười đắc ý, thủ thế với lưỡi đao đang tỏa ra ánh hào quang nhàn nhạt.
 
-Kiểu dáng của nó giống hệt thanh \`『Thanh Tịnh Cổ Đao』\` mà cô ta vẫn hằng yêu thích trong hầm ngục này. Thế nhưng, lưỡi đao của nó lại được làm từ thần thiết—một loại kim loại cực kỳ quý hiếm. Hơn nữa, khác với những thanh đao được cường hóa sơ sài ngoài mặt khi còn ở căn cứ, đây là một tác phẩm được Takanashi dồn hết tâm huyết chế tạo ra.
+Kiểu dáng của nó giống hệt thanh \`『Thanh Tịnh Cổ Đao』\` mà cô ta vẫn luôn ưa chuộng tại hầm ngục này. Thế nhưng, thân đao lại được đúc từ thần thiết—loại kim loại thần thánh vô cùng quý hiếm. Hơn nữa, khác với những vũ khí chỉ được cường hóa sơ sài bên ngoài khi còn ở căn cứ, thanh đao này là kiệt tác được Kotori dồn hết tâm huyết chế tác.
 
-Độ sắc bén và độ bền vượt trội cùng hàng loạt hiệu ứng bổ trợ. Và trên hết, thanh đao này sở hữu khả năng chủ động triển khai 『Thánh Thiên Kết Giới』 ngay trên lưỡi đao.
+Độ sắc bén cùng độ bền vượt trội, đi kèm hàng loạt hiệu ứng gia hộ. Và trên hết, nó sở hữu khả năng chủ động kích hoạt \`『Thánh Thiên Kết Giới』\` bọc kín dọc theo thân đao.
 
-Nó không phải là một kết giới bất động chỉ kích hoạt khi bị tấn công, mà có thể được sử dụng như một thanh đao để chủ động phòng ngự, phát huy khả năng bảo vệ tuyệt đối. Nhờ vậy, ngay cả khi khoảng cách về sức mạnh thể chất giữa hai bên đã bị kéo giãn một cách áp đảo, Asuna vẫn có thể dễ dàng gạt đi đòn đánh của Cuồng Chiến Binh.
+Đây không phải kết giới tĩnh chỉ tự động bật lên khi chịu đòn, mà có thể biến chính lưỡi đao thành lá chắn phòng ngự tuyệt đối. Nhờ vậy, dẫu khoảng cách về sức mạnh thể chất giữa đôi bên có chênh lệch đến mức nào, Asuna vẫn có thể nhẹ nhàng hóa giải toàn bộ uy lực từ nhát chém của Cuồng Chiến Binh.
 
-“Đây chính là thanh thánh kiếm ngăn chặn ma quỷ, diệt trừ cái ác, 『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』.”
+“Đây chính là thanh thánh kiếm trừ ma diệt ác, \`『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』\`!”
 
 “...Phụt, ha ha.”
 
-Trước đòn tấn công bất ngờ đầy hài hước đó, Meiko không kìm được mà bật cười thành tiếng.
+Trước màn xưng danh đầy vẻ nghiêm túc nhưng cũng chẳng kém phần nực cười đó, Meiko không kìm được mà bật cười thành tiếng.
 
-*Thánh Điểu... bộ đang ám chỉ bản thân cô ta hả? Cái tên chơi chữ như Takanashi Kotori mà cô ta cũng thích đến thế cơ à...* Dù đang trong trạng thái chiến đấu của một Cuồng Chiến Binh, cô cũng không thể ngăn nổi nụ cười mỉa mai khi nghĩ đến điều vô thưởng vô phạt đó.
+*Thánh Điểu... bộ đang tự ví mình với loài chim thần thánh đấy à? Cái trò chơi chữ ghép tên từ Takanashi Kotori thế này mà cô ta cũng thích thú đến vậy sao...* Dù đang ở giữa trạng thái tập trung cao độ của một Cuồng Chiến Binh, cô vẫn không ngăn nổi nụ cười châm biếm trước cái tên sến súa đó.
 
-Thật là một phút sơ hở... Thế nhưng, có vẻ như một kiếm sĩ kiêu hãnh của phái Kenzaki sẽ không thèm dùng đến những chiêu trò hèn hạ để tận dụng sơ hở đó.
+Một khoảnh khắc sơ hở lộ ra... Thế nhưng, một kiếm sĩ kiêu hãnh của phái Kenzaki dường như chẳng thèm dùng tới chiêu trò đánh lén hèn hạ.
 
-“Chỉ cần có thanh kiếm này và đôi cánh này, ta sẽ trở thành kiếm sĩ mạnh nhất, không bại dưới tay bất kỳ ai.”
+“Chỉ cần có thanh kiếm này cùng đôi cánh này, ta sẽ là kiếm sĩ mạnh nhất, không bao giờ nếm mùi bại trận trước bất kỳ ai!”
 
-Dù có vẻ như là lời khoác lác đại ngôn, nhưng dáng vẻ của Asuna lúc này—với đôi cánh và cặp song kiếm tỏa sáng rực rỡ—lại mang một áp lực vô cùng chân thực.
+Nghe qua thì như lời khoác lác ngông cuồng, nhưng dáng vẻ của Asuna lúc này—với đôi cánh dang rộng cùng cặp song kiếm rực rỡ ánh quang—lại toát ra một áp lực vô cùng chân thực.
 
-Tuy nhiên, đối với Meiko, điều đó chỉ càng làm cô buồn cười hơn.
+Tuy nhiên, đối với Meiko, điều đó chỉ càng khiến cô thấy nực cười hơn.
 
-“Nghe kẻ nô lệ khoe khoang xiềng xích của mình thật là ngứa tai.”
+“Kẻ làm nô lệ mà lại đi khoe khoang sợi xích trói buộc mình, nghe ngứa tai thật đấy.”
 
-“Hừ, câm miệng!”
+“Câm miệng!”
 
-Đôi cánh vỗ mạnh, trái ngược với bộ pháp nhẹ nhàng thường ngày, Asuna lao thẳng vào áp sát với một tốc độ gia tốc kinh hoàng.
+Đôi cánh vỗ mạnh, trái ngược với những bước di chuyển thanh thoát thường ngày, Asuna lao vút tới với một gia tốc kinh hoàng.
 
-Cặp song kiếm mang ánh sáng thần thánh \`『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』\` tung ra những đường kiếm liên hoàn tựa như một cơn bão ánh sáng. Như muốn chứng minh đây chính là đỉnh cao của một \`『Song Kiếm Sĩ』\` và là bí kỹ của phái Kenzaki, những nhát chém dồn dập không cho đối phương một nhịp thở liên tục được tung ra.
+Cặp song kiếm mang ánh sáng thánh khiết \`『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』\` cuộn trào, dội xuống những đường kiếm liên hoàn tựa như một cơn bão ánh sáng. Như muốn chứng minh đây chính là đỉnh cao của một \`『Song Kiếm Sĩ』\` cùng tuyệt kỹ phái Kenzaki, những nhát chém dồn dập, bão bùng không cho đối thủ lấy một nhịp thở.
 
-Không chỉ tấn công từ chính diện. Với lực chân mạnh mẽ và bộ pháp uyển chuyển của phái Kenzaki, cộng thêm khả năng bay lượn từ đôi cánh thiên sứ—vốn là một món vũ khí cổ đại, Asuna lúc này sở hữu khả năng cơ động ba chiều cực kỳ đáng sợ.
+Không đơn thuần là công kích trực diện. Nhờ lực chân mạnh mẽ và bộ pháp biến ảo khôn lường, lại cộng hưởng cùng khả năng bay lượn từ đôi cánh thiên sứ—vốn là vũ khí cổ đại tối thượng, Asuna lúc này sở hữu năng lực không chiến cơ động ba chiều cực kỳ áp đảo.
 
-Vừa tung ra những đòn kiếm như vũ bão, cô ta vừa nhẹ nhàng lách qua hai bên tả hữu, thậm chí vòng ra sau lưng Meiko như đang khiêu vũ. Đôi cánh không chỉ giúp cô ta bay lên, mà dường như còn có khả năng kiểm soát quán tính. Gia tốc cực nhanh, hãm phanh đột ngột. Trước những cú bẻ hướng vượt qua giới hạn của cơ thể con người, những nhát chém phản công của Meiko chỉ có thể chém vào những tàn ảnh để lại trong không khí.
+Vừa tung kiếm như vũ bão, cô ta vừa thoăn thoắt lướt qua hai bên tả hữu, thậm chí vòng ra sau lưng Meiko uyển chuyển như đang khiêu vũ. Đôi cánh không chỉ giúp nâng bổng cơ thể, mà dường như còn triệt tiêu toàn bộ quán tính. Tăng tốc thần tốc, hãm phanh tức thì. Trước những pha đổi hướng bẻ góc vượt quá giới hạn của cơ thể con người, các đòn chém phản công của Meiko chỉ có thể xé toạc những tàn ảnh mờ ảo còn sót lại giữa không trung.
 
-“Thế nào, Futaba, ngươi không thể đuổi kịp chuyển động này đúng không—”
+“Sao hả Futaba, chuyển động này ngươi không theo kịp đúng không—!”
 
-Meiko gần như rơi vào thế phòng thủ hoàn toàn. Cứ mỗi mười nhát chém của Asuna, cô chỉ có thể chật vật đánh trả lại một đòn.
+Meiko gần như bị dồn vào thế thủ tuyệt đối. Cứ mỗi mười nhát chém dội xuống từ Asuna, cô chỉ có thể chật vật vung đao cản phá được một lần.
 
-Thế nhưng, khi cô đã tập trung phòng thủ thì lớp phòng ngự đó vô cùng kiên cố, những đòn tấn công kia vẫn chưa thể gây ra vết thương chí mạng. Mũi kiếm của cặp song kiếm chỉ có thể sượt qua ngọn tóc hay vạt áo đồng phục của cô.
+Tuy nhiên, một khi cô đã tập trung phòng ngự thì lớp phong tỏa đó lại vô cùng kiên cố, bão kiếm vẫn chưa thể chạm tới những điểm yếu chí mạng. Mũi kiếm của cặp song kiếm chỉ có thể sượt qua vài lọn tóc bay hay mép vạt áo đồng phục.
 
-Tuy nhiên, dưới cơn bão kiếm liên miên không dứt từ nguồn thể lực dường như vô tận của Asuna, trên cơ thể của Meiko đã bắt đầu xuất hiện những vết thương một cách chậm rãi nhưng chắc chắn.
+Dẫu vậy, dưới cơn cuồng phong trút xuống không ngừng nghỉ từ nguồn thể lực dồi dào của Asuna, trên thân thể Meiko bắt đầu xuất hiện những vết rách rỉ máu một cách chậm rãi nhưng rõ rệt.
 
-Cánh tay, bả vai, hông, chân. Những vệt máu đỏ tươi rỉ ra từ lớp da thịt trắng ngần dưới lớp đồng phục bị rách tả tơi.
+Cánh tay, bả vai, eo, rồi đến bắp chân. Từng vệt máu đỏ tươi thấm đẫm làn da trắng ngần dưới lớp áo đồng phục rách bươm.
 
 “—Kết thúc rồi!”
 
-Ngay khi tiếng hét lọt vào tai, cặp song kiếm của Asuna đã đồng thời vung ra từ hai hướng trái phải. Không, đó không phải là hai thanh kiếm của hai tay.
+Ngay khoảnh khắc tiếng quát sắc lạnh lọt vào tai, cặp song kiếm của Asuna đã đồng loạt chém tới từ hai hướng trái phải. Không, đó không chỉ đơn giản là hai mũi kiếm từ hai cánh tay.
 
-Mà là một Asuna bên phải và một Asuna bên trái, hai bóng hình xuất hiện như thể cô ta đã phân thân.
+Mà là một Asuna ở bên phải và một Asuna ở bên trái, hai bóng hình đồng thời hiện hữu như thể cô ta đã phân thân ra làm hai.
 
-Nhưng đó chỉ là một ảo ảnh đánh lừa thị giác. Bằng cách ứng dụng ma pháp ánh sáng mạnh mẽ từ đôi cánh thiên sứ, cô ta đã tự chiếu ảnh bản thân chỉ trong một khoảnh khắc ngắn ngủi. Dù chỉ là một hiệu ứng nhỏ nhặt, nhưng trong khoảng cách cận chiến của các kiếm sĩ, một cái chớp mắt cũng đủ để tạo ra sơ hở chết người.
+Thế nhưng đó chỉ là ảo ảnh thị giác. Bằng cách vận dụng ma pháp quang học phát ra từ đôi cánh, cô ta đã khúc xạ hình ảnh bản thân trong một phần tích tắc. Dù chỉ là một mẹo nhỏ, nhưng ở cự ly áp sát của các kiếm sĩ đỉnh cao, một cái chớp mắt cũng đủ để tạo ra sơ hở chết người.
 
-Nhận thấy ánh mắt của Meiko quả thực đã bị hút về phía ảo ảnh, Asuna tự mình tung ra đòn quyết định.
+Nhận thấy ánh mắt của Meiko quả nhiên đã bị hút về phía phân thân ảo ảnh, Asuna thật lập tức tung ra đòn quyết định.
 
-Đó là từ ngay phía trên. Ngay trên đỉnh đầu của Meiko.
+Từ ngay phía trên! Ngay trên đỉnh đầu của Meiko!
 
-Trong tư thế lộn ngược người, Asuna thật vung cặp song kiếm xuống. Hai lưỡi đao lao đến định lấy đầu đối phương—nhưng đã bị chặn lại bởi một tấm khiên kiếm cùng với những tia lửa bắn ra dữ dội.
+Trong tư thế lộn ngược người từ trên không, Asuna thật cắm thẳng cặp song kiếm xuống. Hai mũi đao rít gào nhắm thẳng vào cần cổ đối phương—nhưng đã bị chặn đứng bởi một phiến thép khổng lồ cùng tràng tia lửa bắn tung tóe chói lòa.
 
-“Tặc lưỡi, thanh kiếm đó còn có thể mở rộng lưỡi kiếm ra sao...”
+*Kenggggg!*
 
-Meiko thậm chí không thèm quay đầu lại, cô chỉ giơ thanh \`『Zagan's Pride』\` lên đỉnh đầu để chặn đứng đòn đánh của Asuna.
+“Chậc, thanh kiếm đó còn có thể mở rộng bản kiếm ra sao...”
 
-Lưỡi kiếm lúc này đã được mở rộng bề ngang một cách tối đa để biến thành một tấm khiên đúng nghĩa.
+Meiko thậm chí chẳng thèm ngoảnh đầu lại. Cô chỉ đơn giản giơ ngược thanh \`『Zagan's Pride』\` lên đỉnh đầu để hóa giải hoàn toàn đòn trảm kích hiểm hóc.
 
-Bị chặn đứng đòn đánh mà mình tin chắc sẽ lấy mạng đối thủ, Asuna mượn lực nhảy vọt qua người Meiko để thoát khỏi tầm đánh, rồi đáp xuống mặt đất không một tiếng động.
+Bản kiếm lúc này đã được kéo dãn hết cỡ theo chiều ngang, biến thành một chiếc khiên thép thực thụ che chắn kín kẽ toàn bộ phần thân trên.
 
-“Đồ quái vật khỏe như trâu.”
+Bị chặn đứng đòn đánh mà bản thân đinh ninh sẽ lấy mạng đối thủ, Asuna mượn lực bật ngược ra sau, lộn người vọt qua đầu Meiko để thoát khỏi tầm phản đòn rồi tiếp đất êm ru không một tiếng động.
 
-Asuna làu bàu chửi rủa. Điều đáng kinh ngạc không phải là khả năng biến đổi kích thước tức thì của thanh kiếm.
+“Con quái vật khỏe như trâu...”
 
-Mà là sức mạnh thể chất kinh hoàng của Meiko, kẻ có thể dùng một tay đỡ nhẹ thanh kiếm để chặn đứng cú chém lấy đầu bằng cả hai tay của Asuna mà không hề suy suyển một phân.
+Asuna nghiến răng lầm bầm chửi rủa. Điều khiến cô ta kinh hãi không phải là khả năng co giãn kích thước linh hoạt của thanh kiếm.
 
-Dĩ nhiên, Asuna với thiên chức \`『Song Kiếm Sĩ』\` cũng đã sở hữu sức mạnh vượt trội hơn người thường. Cộng thêm hàng loạt vật phẩm ma pháp được Kotori ban cho và sự hỗ trợ lực từ đôi cánh thiên sứ, xét về mặt tổng thể, cô ta chắc chắn phải vượt trội hơn hẳn những kẻ có cùng thiên chức.
+Mà là sức mạnh thể chất phi lý của Meiko—kẻ có thể dùng một tay giơ kiếm lên đỡ nhẹ tênh cú chém toàn lực bằng cả hai tay từ trên cao dội xuống của Asuna mà chẳng hề suy suyển lấy nửa phân.
 
-Thế nhưng, ngay cả như vậy, cô ta vẫn không thể bắt kịp sức mạnh thể chất áp đảo mà một \`『Cuồng Chiến Binh』\` tự hào sở hữu.
+Dĩ nhiên, với thiên chức \`『Song Kiếm Sĩ』\`, Asuna cũng sở hữu năng lực thể chất vượt trội hơn người thường rất nhiều. Lại thêm hàng loạt trang bị ma pháp do Kotori ban cấp cùng lực nâng từ đôi cánh thiên sứ, xét trên phương diện tổng thể, cô ta chắc chắn ăn đứt bất kỳ ai cùng thiên chức.
 
-“Nhưng về tốc độ, ta hoàn toàn áp đảo ngươi.”
+Thế nhưng, chừng đó vẫn chưa đủ để san lấp khoảng cách sức mạnh áp đảo tuyệt đối mà một \`『Cuồng Chiến Binh』\` sở hữu.
+
+“Nhưng về tốc độ, ta hoàn toàn trên cơ ngươi!”
 
 “Ừ, nhanh thật đấy.”
 
-Asuna hơi ngạc nhiên khi Meiko, dù vẫn đang quay lưng về phía mình, lại đưa ra câu trả lời đồng tình. Cô ta không hiểu Meiko có thực sự nghe thấy không, hay đang có ý đồ gì khác.
+Asuna hơi khựng lại khi thấy Meiko, dù vẫn quay lưng về phía mình, lại cất giọng thản nhiên đồng tình. Cô ta không rõ Meiko đang thực lòng thừa nhận hay lại ấp ủ mưu mô gì.
 
 “Nếu tôi không ghi nhớ kỹ, chắc vừa nãy đã bị chém trúng rồi.”
 
 “...Ghi nhớ?”
 
-*Ý cô ta là sao?* Asuna nghi hoặc, chăm chú quan sát Meiko đang từ từ quay người lại.
+*Ả ta nói thế là có ý gì?* Asuna nheo mắt đầy nghi hoặc, chăm chú quan sát Meiko đang từ tốn xoay người lại.
 
 “Dù sao thì tôi cũng đã ở bên cạnh Kenzaki-san khá lâu mà.”
 
-Meiko nói với vẻ mặt ôn hòa, như thể không hề có chút hiềm khích nào. Giọng điệu đó giống như những người bạn học đang cùng nhau ôn lại kỷ niệm cũ trong ngày lễ tốt nghiệp.
+Meiko cất lời với vẻ mặt hòa nhã, tựa hồ không hề mang theo chút thù địch nào. Tông giọng ấy dịu dàng như thể bạn học đang cùng nhau ôn lại kỷ niệm cũ vào ngày lễ tốt nghiệp.
 
-Thực tế, trong suốt cuộc sinh tồn ở hầm ngục này, khoảng thời gian Meiko ở bên cạnh Asuna quả thực rất dài. Khi bị lạc mất Kotarou, cô luôn đi cùng nhóm của Souma, nên điều này cũng là lẽ tự nhiên.
+Thực tế, trong suốt chuỗi ngày sinh tồn dưới hầm ngục này, khoảng thời gian Meiko kề vai sát cánh bên Asuna quả thực rất dài. Khi bị lạc mất Kotarou-kun, cô luôn đồng hành cùng nhóm của Souma-kun, nên việc cả hai quen thuộc nhau là điều hiển nhiên.
 
-Tất nhiên, điều đó không có nghĩa là cô sẽ nương tay hay rủ lòng thương hại vào lúc này, và Asuna cũng thừa hiểu điều đó.
+Tất nhiên, điều đó không đồng nghĩa với việc cô sẽ nương tay hay rủ lòng trắc ẩn vào lúc này, và Asuna cũng thừa hiểu rõ điều đó.
 
-“Tôi chưa từng cầm kiếm bao giờ, cũng chưa từng đánh nhau kể từ khi còn là một đứa trẻ.”
+“Tôi chưa từng cầm kiếm bao giờ, cũng chưa từng đánh nhau kể từ hồi còn bé tí.”
 
-“Ngươi muốn nói gì?”
+“Ngươi muốn lảm nhảm cái gì?”
 
-“Vì tôi là kẻ nghiệp dư mà.”
+“Bởi vì tôi chỉ là một kẻ nghiệp dư mà thôi.”
 
-“Một kẻ như ngươi mà bây giờ còn nói thế sao?”
+“Một kẻ như ngươi mà giờ này còn mở miệng nói mấy câu đó sao?”
 
-“Sức mạnh của tôi tăng lên, nhưng thực lực đâu chỉ có thế đúng không? Võ thuật, kiếm thuật, những kỹ thuật đó có rất nhiều và cực kỳ quan trọng.”
+“Sức mạnh của tôi tăng lên, nhưng thực lực đâu chỉ gói gọn trong mỗi chỉ số cơ bắp đúng không? Võ thuật, kiếm thuật, những kỹ thuật bài bản đó có rất nhiều và cực kỳ quan trọng.”
 
-Asuna càng nhíu mày chặt hơn trước những lời nói quá đỗi hiển nhiên đó.
+Asuna càng nhíu chặt đôi mày trước những lời lẽ quá đỗi hiển nhiên ấy.
 
-Thực tế, việc Asuna có thể áp đảo Meiko lúc này chính là nhờ cô ta đã tinh thông kiếm thuật phái Kenzaki. Đối với một Cuồng Chiến Binh sở hữu sức mạnh áp đảo mà ngay cả khi được trang bị tận răng cô ta vẫn không thể bì kịp, thứ giúp cô ta giữ được thế thượng phong chính là kỹ thuật kiếm thuật.
+Thực tế, việc Asuna có thể chiếm thế thượng phong trước Meiko lúc này hoàn toàn là nhờ vào việc cô ta đã khổ luyện tinh thông kiếm thuật phái Kenzaki. Đối diện với một Cuồng Chiến Binh sở hữu sức mạnh thô bạo mà dẫu có đắp đầy trang bị thần thánh cô ta vẫn không thể đọ lại, thứ duy nhất giúp Asuna áp đảo chính là kỹ năng kiếm thuật thượng thừa.
 
-Hơn ai hết, kiếm thuật phái Kenzaki chính là cội nguồn sức mạnh, là niềm kiêu hãnh và cũng là đức tin của Asuna.
+Hơn bất cứ điều gì, kiếm thuật phái Kenzaki chính là cội nguồn sức mạnh, là niềm kiêu hãnh và cũng là đức tin bất diệt của Asuna.
 
-“Thế nên, dù tôi ghét chiến đấu, sợ hãi và không giỏi việc đó, nhưng tôi cũng đã cố gắng một chút đấy.”
+“Thế nên, dù tôi rất ghét chiến đấu, sợ hãi và chẳng giỏi giang gì, nhưng tôi cũng đã cố gắng một chút đấy.”
 
-“Hừ, nói nhảm.”
+“Hừ, toàn ngụy biện.”
 
-“Ở Học Viện Tháp, tôi đã học Souma-ryu từ Souma-kun. Nhưng Kenzaki-san này, tôi luôn quan sát cậu đấy.”
+“Ở Học Viện Tháp, tôi đã học Souma-ryu từ Souma-kun. Nhưng mà Kenzaki-san này, tôi vẫn luôn dõi theo cậu đấy.”
 
 “Cái gì?”
 
-“Kể từ sau trận quyết đấu đó, tôi vẫn luôn quan sát cậu.”
+“Kể từ sau trận quyết đấu ngày hôm đó, tôi chưa từng rời mắt khỏi cậu.”
 
 “Ý ngươi là sao... Hả, lẽ nào...”
 
-Trận quyết đấu đầu tiên và cũng là mối nhân duyên lớn nhất giữa Futaba Meiko và Kenzaki Asuna.
+Trận quyết đấu đầu tiên và cũng là khúc mắc ân oán lớn nhất giữa Futaba Meiko và Kenzaki Asuna.
 
-Thất bại thảm hại đến mức bất tỉnh nhân sự và khuôn mặt biến dạng của Asuna là ký ức khắc sâu trong tâm trí của tất cả những người có mặt lúc đó—thế nhưng, có một điều mà tất cả mọi người, ngay cả bản thân Asuna, đã quên mất.
+Thất bại ê chề đến mức bất tỉnh nhân sự cùng gương mặt biến dạng của Asuna là ký ức khắc sâu trong tâm trí của toàn bộ những người có mặt ngày hôm đó—thế nhưng, có một sự thật mà tất cả mọi người, kể cả bản thân Asuna, đều đã vô tình lãng quên.
 
-Trận quyết đấu đó hoàn toàn không phải là một trận chiến một chiều. Thất bại thảm hại của Asuna chỉ là kết quả cuối cùng.
+Trận đấu đó vốn dĩ không hề diễn ra theo thế trận một chiều. Kết cục thảm bại của Asuna chỉ là kết quả sau cùng.
 
-Đúng vậy, Meiko chưa từng quên. Chiến thắng khi đó chỉ là do cô đã tận dụng sơ hở tâm lý của Asuna—kẻ chỉ nghĩ đây là một trận đấu tập bằng kiếm gỗ và chỉ cần đánh trúng đòn hợp lệ là thắng—để tung ra một cú tập kích bất ngờ. Nói cách khác, cô chỉ ăn may nhờ một đòn đánh lén.
+Phải, Meiko chưa từng quên. Chiến thắng khi ấy thực chất chỉ là do cô đã tận dụng sơ hở tâm lý của Asuna—kẻ ngây thơ nghĩ rằng đây chỉ là một buổi đấu tập bằng kiếm gỗ và hễ ra đòn hợp lệ chạm đích là thắng—để tung ra một cú đánh bất ngờ. Nói trắng ra, cô chỉ ăn may nhờ một đòn đánh lén.
 
-Nếu lúc đó Asuna thực sự mang theo sát ý và vung một thanh kiếm thật, kẻ chết chắc chắn là cô. Bản thân cô lúc đó hoàn toàn không thể chống đỡ nổi một đòn của Asuna.
+Nếu ngày hôm đó Asuna thực sự ôm trọn sát ý và vung một lưỡi kiếm thật, kẻ mất mạng chắc chắn là cô. Bản thân cô khi ấy hoàn toàn bất lực trước từng đường kiếm của Asuna.
 
-Chỉ có Meiko, người chiến thắng trong trận đấu đó, là kẻ duy nhất phân tích kỹ lưỡng trận chiến ấy, và trên hết—coi đó là bài học xương máu cho bản thân.
+Chỉ có Meiko, người mang danh kẻ chiến thắng, là người duy nhất mổ xẻ phân tích cặn kẽ trận chiến đó, và hơn hết—coi nó là bài học xương máu khắc cốt ghi tâm.
 
 “Kiếm thuật phái Kenzaki của ta...”
 
-“Hầu hết các chuyển động tôi đều nhìn và nhớ kỹ rồi. Thế nên, cậu thấy đấy, bây giờ tôi mới chỉ bị thương nhẹ thế này thôi.”
+“Hầu hết các thói quen ra đòn tôi đều đã nhìn và nhớ kỹ cả rồi. Thế nên, cậu thấy đấy, nãy giờ tôi mới chỉ bị xước da nhẹ thế này thôi.”
 
-Cô ta đã quan sát mình. Suốt thời gian qua, người phụ nữ này đã luôn nhìn mình để chuẩn bị cho ngày giết chết mình.
+*Ả ta đã luôn quan sát mình. Suốt ngần ấy thời gian, người phụ nữ này đã âm thầm theo dõi từng đường kiếm của mình chỉ để chuẩn bị cho ngày giết chết mình.*
 
-Dù đã giành chiến thắng áp đảo một lần, cô ta vẫn không hề kiêu ngạo hay lơ là, mà âm thầm quan sát những trận chiến của mình để san lấp khoảng cách về mặt kỹ thuật kiếm thuật!
+Dù đã một lần giành chiến thắng vang dội, cô ta vẫn không hề tự mãn hay lơ là, mà lặng lẽ nghiên cứu từng thói quen chiến đấu của đối thủ để san lấp hố sâu ngăn cách về mặt kỹ thuật kiếm thuật!
 
-Ngay khi nhận ra điều đó, một cảm giác ớn lạnh chạy dọc sống lưng Asuna.
+Ngay khi nhận ra sự thật nghiệt ngã đó, một luồng ớn lạnh chạy dọc sống lưng Asuna.
 
-\`『Cuồng Chiến Binh』\` Futaba Meiko. Kẻ sở hữu thiên chức mạnh mẽ hơn mình, với phong cách chiến đấu phụ thuộc vào sức mạnh thể chất kinh hoàng đó chỉ là một kẻ nghiệp dư được ban tặng chỉ số cao.
+\`『Cuồng Chiến Binh』\` Futaba Meiko. Kẻ sở hữu thiên chức chiến đấu cấp cao hơn mình, một kẻ chỉ biết cậy vào sức mạnh cơ bắp phi lý, một con ả nghiệp dư may mắn được Thần linh ban cho chỉ số vượt trội.
 
-Từ trước đến nay cô ta vẫn luôn nghĩ như vậy. Không, cô ta đã quá coi thường đối thủ.
+Từ trước đến nay cô ta vẫn luôn đinh ninh như thế. Không, chính xác là cô ta đã quá coi thường đối thủ!
 
-Một kẻ có thể đánh bại mình—người đã tinh thông kiếm thuật phái Kenzaki—chỉ bằng sức mạnh cơ bắp, làm sao có thể không chìm đắm trong sức mạnh đó chứ. Asuna hiểu rõ hơn ai hết rằng sức mạnh và thực lực có một sức cám dỗ ma mị đến nhường nào.
+Một kẻ có thể đánh bại mình—người đã tinh thông kiếm thuật gia truyền—chỉ bằng sức mạnh cơ bắp thuần túy, làm sao có thể không say mê đắm chìm trong thứ uy lực áp đảo đó cơ chứ? Asuna hiểu rõ hơn ai hết rằng sức mạnh và thực lực có một ma lực cám dỗ ghê gớm đến nhường nào.
 
-Chính vì vậy, cô ta không thể tin nổi. Cô ta không muốn tin.
+Chính vì lẽ đó, cô ta không thể tin nổi. Cô ta không dám tin.
 
-Rằng một Cuồng Chiến Binh sở hữu sức mạnh to lớn như vậy lại âm thầm quan sát mình một cách chu đáo chỉ để đánh bại—không, là để giết chết mình một cách chắc chắn.
+Rằng một Cuồng Chiến Binh nắm giữ sức mạnh kinh hoàng nhường ấy lại chịu hạ mình âm thầm quan sát, học hỏi từng chút một chỉ để đánh bại—không, là để giết chết mình một cách tuyệt đối chuẩn xác.
 
-“Nhưng quả nhiên, mọc thêm cánh thì không dễ đối phó chút nào— Chắc tôi phải cố gắng thêm một chút nữa rồi.”
+“Nhưng mà quả nhiên, mọc thêm cánh vào thì khó đối phó hơn hẳn— Chắc tôi phải cố gắng thêm một chút nữa rồi.”
 
-Vừa cười khổ, Meiko vừa đưa tay vào miệng ăn một chiếc bánh quy với một động tác vô cùng tự nhiên.
+Khẽ cười khổ một tiếng, Meiko thản nhiên đưa tay lên miệng cắn một miếng bánh quy bằng động tác vô cùng tự nhiên.
 
-Cô lấy nó ra từ lúc nào không biết. Dù hai tay vẫn đang cầm kiếm, cô vẫn ăn bánh quy một cách thản nhiên như một cô nữ sinh đang ăn vặt thường ngày.
+Cô lấy nó ra từ lúc nào chẳng ai hay. Dù hai tay vẫn đang nắm chắc vũ khí, cô vẫn ăn bánh quy một cách tỉnh bơ hệt như một nữ sinh đang nhấm nháp đồ ăn vặt sau giờ học.
 
-Chiếc thứ hai, rồi chiếc thứ ba. Những chiếc bánh quy nhỏ màu nâu giòn rụm phát ra những tiếng rôm rốp vui tai trong miệng cô.
+Chiếc thứ hai, rồi chiếc thứ ba. Những chiếc bánh quy nhỏ màu nâu giòn rụm phát ra tiếng rôm rốp vui tai trong khoang miệng.
 
 “C-Cái đó là...”
 
-“Cậu không nhớ 『Power Seed』 à? Hồi đó ai cũng thấy ghê nên không chịu ăn mà.”
+“Cậu không nhớ \`『Power Seed』\` à? Hồi trước ai trông thấy cũng chê kinh nên chẳng chịu ăn đấy thôi.”
 
-Đó là loại quả giúp tăng cường sức mạnh cơ bắp mà cô đã ăn từ trước khi thức tỉnh thiên chức Cuồng Chiến Binh, khi vẫn còn là một kẻ nhút nhát.
+Đó là loại hạt ma thuật giúp tăng cường sức mạnh cơ bắp mà cô từng sử dụng từ thuở chưa thức tỉnh thiên chức Cuồng Chiến Binh, khi bản thân vẫn còn là một cô gái nhút nhát, yếu đuối.
 
-Vào thời điểm sức mạnh thiên chức còn yếu và chưa thoát khỏi giới hạn của người thường, cô đã cùng Kotarou uống nó trước khi bước vào trận chiến để ít nhất không bị thua thiệt về sức mạnh trước lũ quái vật hung tợn. Tuy nhiên, do tác dụng phụ gây tiêu hao ma lực và cảm giác đói dữ dội, sau khi trở thành một Cuồng Chiến Binh sở hữu sức mạnh vượt trội, cô không còn sử dụng nó thường ngày nữa.
+Vào cái thời điểm sức mạnh thiên chức còn non nớt và chưa vượt qua ngưỡng giới hạn người thường, cô đã cùng Kotarou-kun uống dịch chiết từ nó trước mỗi trận tử chiến để không bị lũ quái vật hung bạo nghiền nát. Dù vậy, do tác dụng phụ làm hao tổn ma lực nghiêm trọng cùng cơn đói cồn cào ập đến sau đó, kể từ khi trở thành một Cuồng Chiến Binh đích thực, cô hầu như không còn dùng đến nó nữa.
 
-Thế nhưng, ngay cả khi 『Thử nghiệm dược X』 được cải tiến thành 『Berserk X』 như hiện tại, nó vẫn là một thành phần cường hóa mạnh mẽ không thể thiếu.
+Thế nhưng, ngay cả khi \`『Thử nghiệm dược X』\` đã được hoàn thiện thành \`『Berserk X』\` như hiện tại, thành phần chiết xuất từ loại quả đó vẫn là thứ dược liệu cường hóa không thể thiếu.
 
-Và đây chính là những chiếc bánh quy được làm từ 『Power Seed』 đó. Nó không phải là một con bài tẩy mạnh mẽ như 『Berserk X』, mà là một loại vật phẩm cường hóa tiện lợi có thể sử dụng bất cứ khi nào cô muốn tăng thêm một chút sức mạnh.
+Và đây chính là những chiếc bánh quy nướng được làm từ chính loại hạt \`『Power Seed』\` ấy. Nó không phải con bài tẩy mang sức tàn phá dữ dội như \`『Berserk X』\`, mà là một loại thực phẩm bổ sung tiện lợi, có thể dùng bất cứ khi nào cô muốn đẩy nhẹ trần sức mạnh của mình lên thêm một bậc.
 
-Vì 『Power Seed』 có vị rất chua, nên bí quyết để làm ra những chiếc bánh quy ngon miệng là phải cho nhiều đường hơn bình thường. Nó cũng rất hiệu quả trong việc cung cấp calo để đốt cháy năng lượng trong cơ thể.
+Bởi vì \`『Power Seed』\` nguyên bản có vị rất chua chát, nên bí quyết để nướng ra những mẻ bánh quy thơm ngon là phải cho thật nhiều đường kính trắng. Hơn nữa, lượng calo dồi dào trong đường cũng là nguồn nhiên liệu tuyệt hảo để cơ thể đốt cháy chuyển hóa thành động năng.
 
-“Ừm, ngon thật.”
+“Ừm, ngon thật đấy.”
 
-Nhìn Meiko đang mỉm cười hài lòng với hương vị của chiếc bánh quy, Asuna không khỏi toát mồ hôi lạnh, trừng mắt nhìn cô.
+Nhìn Meiko mỉm cười thỏa mãn sau khi thưởng thức xong chỗ bánh quy, Asuna không kìm được mà toát mồ hôi hột, đôi mắt trừng trừng nhìn đối phương.
 
-Ngay sau khi ăn xong, mật độ của luồng hào quang màu đỏ nhạt bao quanh cơ thể Meiko lập tức tăng vọt.
+Ngay sau khi những mẩu bánh cuối cùng trôi xuống họng, mật độ của luồng đấu khí đỏ nhạt bao quanh cơ thể Meiko lập tức bùng nổ, đặc quánh lại như sương mù máu.
 
-Meiko lại nắm chặt vũ khí, đôi mắt cô nhìn về phía Asuna tỏa ra ánh sáng đỏ rực đầy hung hãn, tỏa ra một áp lực vô cùng khủng khiếp.
+Meiko siết chặt hai thanh binh khí, đôi mắt cô rực lên ánh quang đỏ ngầu đầy hung bạo, tỏa ra một luồng áp lực nặng nề đến nghẹt thở.
 
 “Được rồi, thế này thì chắc tôi đuổi kịp tốc độ của cậu rồi đấy.”
 
-Cô bước lên một bước mạnh mẽ đến mức tưởng như có thể nghe thấy tiếng động rung chuyển mặt đất.
+Cô dậm một bước chân nặng trịch xuống mặt đất, phát ra âm thanh trầm đục tưởng như làm rung chuyển cả phế tích ngôi đền.
 
-Asuna vô thức lùi lại một bước như bị áp chế—nhưng ngay lập tức cảm thấy xấu hổ vì nỗi sợ hãi đó.
+Asuna vô thức lùi lại nửa bước trước áp lực kinh hoàng ấy—nhưng ngay lập tức cảm thấy nhục nhã ê chề vì nỗi sợ hãi hèn mọn vừa thoáng qua trong lòng.
 
-“V-Vô ích thôi! Dù sức mạnh của ngươi có tăng lên bao nhiêu, cũng không thể phá vỡ 『Thánh Thiên Kết Giới』 này đâu!!”
+“V-Vô ích thôi! Dù ngươi có tăng thêm bao nhiêu sức mạnh đi chăng nữa, cũng đừng hòng xuyên thủng được \`『Thánh Thiên Kết Giới』\` này!!”
 
-Như để xua tan nỗi sợ hãi của chính mình, Asuna hét lớn.
+Như để xua đi nỗi khiếp nhược đang nhen nhóm trong tâm trí, Asuna gào thét thất thanh.
 
-Cô ta không có ý định chỉ dựa dẫm vào sức mạnh phòng ngự thần thánh này. Nhưng nếu muốn đối đầu với một Cuồng Chiến Binh hung tợn, đây là sức mạnh không thể thiếu.
+Cô ta không hề có ý định ỷ lại hoàn toàn vào kết giới hộ thể thần thánh này. Nhưng để đối đầu sòng phẳng với một Cuồng Chiến Binh hung tợn như Meiko, đây là bức tường thành tuyệt đối không thể thiếu.
 
-Tự cổ vũ bản thân rằng mình không thể thua một kẻ chỉ vừa mới ăn bánh quy, Asuna lại dang rộng đôi cánh, thủ thế với cặp song kiếm.
+Tự trấn an bản thân rằng một kiếm sĩ chân chính như mình tuyệt đối không thể thua một con ả vừa mới gặm bánh quy, Asuna lại dang rộng đôi cánh trắng, đanh thép thủ thế cặp song kiếm.
 
 “Vậy sao? Thế thì thử xem nhé?”`
             },
@@ -66389,307 +66413,307 @@ Tự cổ vũ bản thân rằng mình không thể thua một kẻ chỉ vừa 
                 "title": "Tập 356: Khu rừng tinh linh (3)",
                 "content": `# Tập 356: Khu rừng tinh linh (3)
 
-Hoa nở rực rỡ bên bờ suối xinh đẹp, nơi các tinh linh đang vui đùa,
+Bên bờ suối róc rách tuyệt đẹp, nơi trăm hoa đua nở rực rỡ và những tinh linh đang tung tăng vui đùa—
 
-“Quên đi! Quên đi! Quên ngay đi cho tôi!!”
+“Quên đi! Quên hết đi! Quên ngay đi cho tôi!!”
 
-Tiếng hét giận dữ của một thiếu nữ vang vọng khắp khu rừng.
+Tiếng hét the thé đầy phẫn nộ của một thiếu nữ xé toạc bầu không khí yên bình của khu rừng.
 
-Tên cô ấy là Souma Sakura. Niềm tự hào của Học viện Hakurei chúng tôi, một mỹ thiếu nữ lý tưởng, đoan trang thùy mị, văn võ song toàn mà ai nấy đều ngưỡng mộ. Nhưng đối với tôi lúc này, những danh hiệu đó chỉ còn là quá khứ xa vời.
+Tên cô ấy là Souma Sakura. Niềm tự hào của Học viện Hakurei chúng tôi, một mỹ thiếu nữ lý tưởng, đoan trang thùy mị, tài sắc vẹn toàn mà biết bao người ngưỡng mộ. Thế nhưng đối với tôi lúc này, những mỹ từ ấy chỉ còn là tàn tích của một quá khứ xa vời.
 
-Sakura đang méo mó khuôn mặt xinh đẹp của mình trong cơn điên loạn và lao vào túm lấy tôi.
+Khuôn mặt kiều diễm của Sakura giờ đây đang vặn vẹo trong cơn bấn loạn cùng cực khi cô nàng lao vào túm lấy áo tôi mà giật lấy giật để.
 
-“Được rồi, tớ biết rồi, tớ sẽ coi như chưa nhìn thấy chuyện vừa nãy.”
+“Được rồi mà, tớ biết rồi, tớ sẽ coi như chưa từng nhìn thấy chuyện ban nãy.”
 
-“Đã bảo là không phải thế rồi mà! Tôi chỉ là bất đắc dĩ, thực sự là cực chẳng đã mới cứu cái thứ như cậu thôi đấy nhé!?”
+“Đã bảo không phải thế rồi mà! Tôi chỉ bất đắc dĩ, thực sự là vạn bất đắc dĩ mới phải cứu cái thứ rác rưởi như cậu thôi đấy nhé!?”
 
-“Thì tớ bảo là hiểu rồi mà... Cảm ơn cậu vì đã cứu tớ nhé.”
+“Thì tớ đã bảo là hiểu rồi còn gì... Cảm ơn cậu vì đã cứu mạng tớ nhé.”
 
-“Ư... oa a a a a!”
+“Ư... Oa a a a a a!”
 
-Sau khi tặng tôi hai cú tát trời giáng liên tiếp vào má trái rồi má phải, Sakura bật khóc nức nở vì quá sốc.
+Sau khi tặng tôi hai cái bạt tai nảy lửa liên tiếp vào má trái rồi má phải, Sakura ôm mặt bật khóc nức nở vì quá sốc.
 
-Này, sao tôi lại bị tát thế hả? Tôi đã thành thật nói lời cảm ơn rồi cơ mà?
+Này này, cớ sao tôi lại bị tát cơ chứ? Rõ ràng tôi đã hết sức thành tâm nói lời cảm ơn rồi mà?
 
-“Thật là, mới trêu một chút thôi mà đã ăn đủ rồi.”
+“Thiệt tình, mới chọc một chút mà đã ăn đủ đòn rồi.”
 
-Trong lúc Rem đang nhẹ nhàng cọ cọ vào bên má đang rát buốt của tôi, tôi không kìm được tiếng thở dài ngao ngán.
+Trong lúc bé Rem đang nhẹ nhàng cọ gò má mềm mại của mình vào một bên má đang rát buốt của tôi, tôi chỉ biết thở dài ngao ngán.
 
-Chờ đợi một Sakura đang bất ổn tâm lý khóc lóc thảm thiết bình tĩnh lại hoàn toàn là một việc cực kỳ lãng phí thời gian, nên tôi tranh thủ sắp xếp lại hành lý và trang bị của mình.
+Ngồi chờ một Sakura đang khủng hoảng tâm lý khóc lóc thảm thiết lấy lại bình tĩnh thì đúng là lãng phí thời gian vô ích, vậy nên tôi tranh thủ sắp xếp lại toàn bộ hành lý và trang bị mang theo.
 
-Dĩ nhiên, tôi cũng tái cơ cấu đội ngũ Rem chim trinh sát và thả chúng vào khu rừng tinh linh này.
+Tất nhiên, tôi cũng không quên tái thiết lập đàn Rem chim trinh sát rồi thả chúng bay tản ra khắp khu rừng tinh linh này.
 
-Nhờ có bọ cánh cứng Rem được phát cho mỗi người, tôi biết được mọi người đang ở hướng nào. Tôi cũng điều Rem chim bay về phía đó để làm nhiệm vụ dẫn đường.
+Nhờ những con bọ cánh cứng Rem đã được phân phát cho từng thành viên từ trước, tôi có thể định vị được hướng đi của mọi người. Tôi liền điều khiển bầy Rem chim bay về phía đó để thực hiện nhiệm vụ dẫn đường hội quân.
 
-“Dù sao thì, đúng là phải cảm ơn công nghệ cổ đại thật đấy. Này, Sakura-chan, tớ hỏi cái này không phải chứ, cậu không làm mất cái túi đeo đấy chứ?”
+“Dù sao thì cũng phải cảm ơn nền công nghệ cổ đại thật đấy. Này, Sakura-chan, tớ hỏi câu này không phải chứ, cậu có làm mất cái túi đeo chéo không đấy?”
 
-“...Vẫn còn nguyên đây.”
+“...Vẫn còn nguyên đây này.”
 
-Với đôi mắt đỏ hoe vẫn còn vương lệ, Sakura miễn cưỡng trả lời.
+Đôi mắt đỏ hoe vẫn còn ngân ngấn nước, Sakura hậm hực đáp lời.
 
 “Thế còn cây trường đao?”
 
-“Nó ở ngay kia kìa. Nhìn cho kỹ vào.”
+“Nó ở đằng kia kìa. Tự mở to mắt ra mà nhìn đi.”
 
-Đúng như hướng ngón tay cô ấy chỉ, cây vũ khí chuyên dụng 『Anh Hoa Liêu Loạn』 mà tôi đã tốn bao tâm huyết chế tạo cho Sakura đang cắm chặt xuống đất.
+Xuôi theo hướng ngón tay cô ấy chỉ, thanh đại vũ khí chuyên dụng mang tên 『Anh Hoa Liêu Loạn』 mà tôi đã dồn bao tâm huyết chế tác riêng cho Sakura đang cắm phập vững chãi trên nền đất.
 
-Ra vậy, ngay sau khi cắm nó ở đó, cô ấy đã nhảy xuống suối để vớt một kẻ đang trôi nổi như xác chết trôi là tôi lên. Cảm ơn cậu nhé, Sakura. Vì đã không để tớ chết.
+Ra là vậy, ngay sau khi cắm nó xuống đất, cô nàng đã vội vã lao mình xuống dòng suối để vớt một kẻ đang bồng bềnh trôi dạt như xác chết trôi là tôi lên. Cảm ơn cậu nhiều nhé, Sakura-chan. Đa tạ vì đã không bỏ mặc tớ chết chìm.
 
-“Vậy là trang bị và nhu yếu phẩm đều ổn cả rồi.”
+“Vậy là trang bị và nhu yếu phẩm đều đầy đủ cả rồi.”
 
-Vừa nói, tôi vừa đeo lại chiếc cặp học sinh của mình lên vai.
+Vừa lẩm bẩm, tôi vừa xốc lại quai đeo của chiếc cặp học sinh lên vai.
 
-『Cặp học sinh』: Chiếc cặp do Học viện Hakurei chỉ định mà tôi đã mang theo từ lúc bị ném từ lớp học vào hầm ngục. Tôi đã luôn dùng nó suốt chặng đường dài, và khi đến pháo đài ẩn chứa đầy di vật cổ đại, tôi cuối cùng đã cải tiến thành công nó. Nhờ kỹ thuật ma pháp không gian mà Kyouko tìm thấy, dung tích bên trong chiếc cặp đã được mở rộng đáng kể. Không chỉ trang bị, vật phẩm và nhu yếu phẩm, chiếc cặp của tôi còn được tích hợp cả một rương kho báu bên trong, giúp nâng cao khả năng bảo quản các loại dược phẩm. Nhờ vậy, ngay cả khi bị chia cắt thế này, chúng tôi cũng không cần phải lo lắng về mặt nhu yếu phẩm nhờ chiếc cặp mở rộng có ma pháp không gian được phát cho mỗi người.
+『Cặp học sinh』: Chiếc cặp tiêu chuẩn do Học viện Hakurei chỉ định mà tôi luôn mang theo bên mình kể từ khoảnh khắc cả lớp bị dịch chuyển từ phòng học xuống đáy hầm ngục. Tôi đã gắn bó với nó suốt chặng hành trình sinh tồn dài đằng đẵng, và mãi đến khi đặt chân tới pháo đài ngập tràn di vật cổ đại, tôi mới có cơ hội cải tiến thành công cho nó. Nhờ kỹ thuật ma pháp không gian do Kyouko khai quật được, dung tích chứa đựng bên trong chiếc cặp đã được mở rộng đến mức kinh ngạc. Không chỉ chứa được cơ man vũ khí, vật phẩm và lương thảo dự phòng, bên trong cặp của tôi còn được tích hợp cả một chiếc rương kho báu, giúp tối ưu hóa khả năng bảo quản các loại dược phẩm quý giá. Nhờ đó, ngay cả trong tình cảnh bị chia cắt phân tán thế này, từng người chúng tôi vẫn không phải bận tâm về vấn đề thiếu thốn nhu yếu phẩm nhờ chiếc cặp không gian mở rộng đã được trang bị cho mỗi cá nhân.
 
-Đối với một kẻ tiêu tốn nhiều tài nguyên cho vật tế như tôi, chiếc cặp mở rộng này thực sự là một cứu cánh vĩ đại. Nói thật thì tôi vẫn thèm khát chính ma pháp không gian 『Không Gian Mở Rộng』 mà Kotori từng dùng hơn. Nếu nó trở thành ma pháp của chính bản thân, tôi sẽ không phải lo lắng về việc trang bị bị hỏng hóc hay thất lạc.
+Đối với một kẻ tiêu tốn vô số tài nguyên phục vụ cho thuật hiến tế như tôi, chiếc cặp mở rộng này thực sự là một ân huệ vĩ đại. Dù nói thật lòng thì tôi vẫn thèm khát chính ma pháp không gian 『Không Gian Mở Rộng』 bẩm sinh mà Kotori từng sở hữu hơn. Nếu biến nó thành ma pháp của riêng mình, tôi sẽ chẳng bao giờ phải nơm nớp lo sợ trang bị bị hao mòn hay thất lạc nữa.
 
-Nhưng dĩ nhiên, tôi vẫn chưa tìm thấy bất kỳ chức năng hay thiết bị nào cho phép học kỹ năng một cách dễ dàng như vậy. Liberta cũng nói rằng người cổ đại thời đó không phải ai cũng dùng được kỹ năng, nên ma pháp và võ kỹ có lẽ vẫn là đặc quyền chỉ dành cho một số ít người được chọn.
+Cơ mà đương nhiên, tôi vẫn chưa tìm thấy bất kỳ trang thiết bị hay cơ chế nào cho phép tiếp thu kỹ năng một cách dễ dàng đến thế. Đến cả Liberta cũng từng khẳng định rằng ngay cả người cổ đại thời xưa cũng không phải ai cũng dùng được kỹ năng, thế nên ma pháp và võ kỹ chung quy vẫn chỉ là đặc quyền dành riêng cho một số ít cá nhân được chọn lựa mà thôi.
 
-Dù sao đi nữa, nhờ chiếc cặp này, tôi lại có thể dùng triệu hoán thuật để lập ra một đội quân tốt thí hộ vệ. Đội trinh sát được thả đi cũng đã bắt đầu truyền thông tin xung quanh về cho Rem.
+Dẫu sao đi nữa, nhờ chiếc cặp này, tôi lại có thể thoải mái thi triển thuật triệu hoán để gầy dựng một đạo quân tốt thí làm lá chắn hộ vệ. Đội trinh sát được thả đi lúc nãy cũng đã bắt đầu gửi những tín hiệu thông tin đầu tiên về địa hình xung quanh cho Rem.
 
-“Được rồi, chuẩn bị xuất phát thôi.”
+“Được rồi, chuẩn bị lên đường thôi nào.”
 
-“Chúng ta sẽ đi đâu?”
+“Chúng ta sẽ đi đâu trước?”
 
-“Trước tiên là hướng về phía người đồng đội ở gần nhất. Hội quân là ưu tiên hàng đầu.”
+“Trước mắt là nhắm thẳng về phía người đồng đội đang ở gần nhất. Hội quân là ưu tiên số một.”
 
-“Hừm, cũng hợp lý đấy.”
+“Hừm, nghe cũng có lý đấy.”
 
-Sakura gật đầu với vẻ mặt đắc ý. Cô ấy tỏ ra đường bàng hoàng như thể những hành vi mất mặt và đáng xấu hổ vừa nãy chưa từng xảy ra. Thôi thì lúc này tôi cũng nên biết điều mà không chọc ngoáy thêm nữa.
+Sakura gật đầu với vẻ mặt đầy tự đắc. Cô nàng tỏ ra bình thản như thể những hành vi thất thố, đáng xấu hổ ban nãy chưa từng tồn tại trên cõi đời này vậy. Thôi thì lúc này tôi cũng nên thức thời mà ngậm miệng lại, tránh chọc ngoáy thêm làm gì cho chuốc vạ vào thân.
 
-“— Nhưng mà, phải đi riêng với mỗi Momokawa thế này, tôi thấy bất an thế nào ấy.”
+“— Cơ mà, phải đi riêng lẻ với mỗi mình Momokawa thế này, tôi cứ thấy bất an thế nào ấy.”
 
-“Tớ cũng thế thôi, đi riêng với Sakura-chan làm tớ lo sốt vó lên được đây này.”
+“Tớ cũng có khác gì đâu, đi chung một mình với Sakura-chan làm tớ lo ngay ngáy đến thắt cả ruột gan đây này.”
 
-Tôi và Sakura vừa chạy trong rừng vừa đấu khẩu như vậy.
+Tôi và Sakura vừa di chuyển xuyên qua cánh rừng vừa đấu khẩu không ngừng như thế.
 
-Tất nhiên, nói là chạy nhưng không phải bằng hai chân của mình, mà là cưỡi thú. Tôi cực kỳ ghét chạy marathon. Bắt tôi chạy bộ đường dài thì miễn đi.
+Tất nhiên, bảo là chạy nhưng không phải bằng hai cẳng chân trần của mình, mà là cưỡi ma thú. Tôi cực kỳ căm ghét môn chạy marathon. Bắt một kẻ thể lực yếu kém như tôi chạy bộ đường trường thì xin kiếu đi cho lành.
 
-Thú cưỡi của tôi là Alpha, chiếc "xe" màu đỏ rực yêu quý. Còn thú cưỡi của Sakura không phải là loại Raptor giá rẻ sản xuất hàng loạt.
+Thú cưỡi của tôi là Alpha, chiếc "chiến xa" Raptor đỏ rực yêu quý. Còn thú cưỡi của Sakura thì tuyệt nhiên không phải loại Raptor sản xuất hàng loạt giá rẻ kia.
 
-Bốn chi thon thả nhưng đầy sức mạnh. Những chiếc móng gõ xuống đất tạo nên những âm thanh giòn giã, lướt đi một cách hoa lệ giữa khu rừng ngập tràn ánh nắng xuyên qua kẽ lá.
+Bốn chi thon dài nhưng cuồn cuộn sức mạnh. Từng móng guốc giẫm mạnh xuống nền đất phát ra những thanh âm giòn giã, lướt đi vô cùng uyển chuyển giữa khu rừng bừng sáng ánh nắng xuyên qua từng kẽ lá.
 
-Trước đây, thú cưỡi bốn chân của chúng tôi chỉ có Jaaja và Loyrops, nhưng con này không phải cả hai loại đó.
+Trước đây, ma thú cưỡi bốn chân của chúng tôi chỉ quanh đi quẩn lại giữa Jaaja và Loyrops, nhưng con quái thú này lại không thuộc về hai chủng loài đó.
 
-Ngoại hình của nó về cơ bản là một con ngựa. Không, nhìn chiếc sừng đơn tuyệt đẹp mọc trên trán nó, có lẽ nên gọi nó là Unicorn (Kỳ lân) thì đúng hơn.
+Hình dáng cơ bản của nó trông hệt như một con tuấn mã. Không, nếu nhìn vào chiếc sừng đơn tuyệt mỹ nhô ra kiêu hãnh trên trán nó, có lẽ gọi nó là Kỳ Lân (Unicorn) thì mới đúng điệu.
 
-『Nise-corn』: Thú cưỡi chuyên dụng của Sakura. Cơ thể màu xám trắng vô cơ như một bức tượng đá, bờm màu trắng muốt với vóc dáng của một chú ngựa thuần chủng Thoroughbred. Chiếc sừng đơn dạng mũi khoan tỏa ra ánh sáng xanh lam nhạt, và đôi mắt đỏ rực như lửa. Nguyên bản của nó là ma vật ăn thịt dạng hươu Jaaja, nhưng dưới những yêu cầu dồn dập của Sakura, tôi — một nghệ nhân tạo hình xác sống đệ nhất — đã đáp ứng và hoàn thiện nó thành hình dáng của một con kỳ lân lộng lẫy này. Dù là kỳ lân nhưng nó chẳng có năng lực thần bí đặc biệt nào cả. Bởi vì vốn dĩ nó chỉ là một con Jaaja thôi mà. Gọi là kỳ lân thì thật là ngượng ngùng, nên nó chỉ là một con Nise-corn (kỳ lân giả) mà thôi.
+『Nise-corn』: Thú cưỡi độc quyền của Sakura. Thân mình mang sắc xám trắng vô cơ lạnh lẽo như một pho tượng đá, bờm trắng muốt buông dài với vóc dáng chuẩn mực của loài ngựa thuần chủng Thoroughbred thượng hạng. Chiếc sừng đơn xoắn ốc dạng mũi khoan phát ra ánh quang lam nhạt mờ ảo, cùng cặp mắt đỏ rực như hai ngọn lửa ngún cháy. Bản gốc của nó vốn dĩ là ma vật ăn thịt dạng hươu Jaaja, nhưng trước những đòi hỏi dồn dập đến nhức cả óc của Sakura, tôi — một nghệ nhân tạo hình xác sống đệ nhất thiên hạ — đã phải cắn răng đáp ứng và gọt đẽo nó thành hình hài của một con kỳ lân lộng lẫy nhường này. Dù mang danh kỳ lân nhưng nó chẳng sở hữu bất kỳ quyền năng thần thánh nào ráo trọi. Đơn giản vì cốt lõi của nó vẫn chỉ là một con hươu Jaaja tầm thường mà thôi. Thẳng thắn mà nói thì gọi nó là kỳ lân nghe ngượng mồm chết đi được, nên danh xưng chuẩn xác nhất của nó chỉ là Nise-corn (kỳ lân rởm) mà thôi.
 
-Chính vì thế, ngay bên cạnh tôi lúc này là mỹ thiếu nữ Sakura đang cưỡi kỳ lân với dáng vẻ vô cùng kiều diễm, chẳng khác nào một nữ chiến thần Valkyrie.
+Chính vì thế, ngay sát bên cạnh tôi lúc này là mỹ thiếu nữ Sakura đang hiên ngang cưỡi kỳ lân với phong thái kiều diễm tuyệt trần, chẳng khác nào một nữ chiến thần Valkyrie bước ra từ thần thoại.
 
-Mái tóc đen dài óng ả tung bay trong gió, nhìn góc nghiêng oai phong lẫm liệt khi cô ấy điều khiển con kỳ lân một cách điệu nghệ... không hiểu sao trong lòng tôi lại dấy lên một sự bực bội khó tả. Chẳng biết người ta đã phải tốn bao nhiêu công sức, thế mà cô nàng cứ thản nhiên cưỡi đi lại với vẻ mặt tỉnh bơ như thể đó là điều hiển nhiên vậy.
+Mái tóc đen nhánh buông dài tung bay lả lướt trong gió, góc nghiêng oai phong lẫm liệt khi cô nàng ghìm dây cương điều khiển con kỳ lân một cách thuần thục... không hiểu sao lại khiến lòng tôi dấy lên một nỗi bực bội khó tả. Người ta đã phải trầy vi tróc vảy, đổ bao nhiêu mồ hôi nước mắt mới nhào nặn ra được, thế mà cô ả cứ thản nhiên phi nước đại với vẻ mặt tỉnh queo như thể đó là điều hiển nhiên mà mình đáng được hưởng vậy.
 
-Thực tế thì con Nise-corn của Sakura là một sự biệt đãi.
+Thực tế thì con Nise-corn này của Sakura là một sự biệt đãi ngoại lệ.
 
-Để đề phòng, tôi đã chuẩn bị sẵn Raptor cho mọi người để ai cũng có thú cưỡi, nhưng Sakura lại phản đối điều đó.
+Để đề phòng bất trắc, tôi đã chế tạo sẵn một đàn Raptor để chia cho mỗi người một con làm thú cưỡi, nhưng Sakura lại kịch liệt phản đối phương án đó.
 
-Cô ấy bảo mình có kinh nghiệm cưỡi ngựa, nên nếu cưỡi thì phải là ngựa mới chịu. Khi tôi cho cô ấy cưỡi thử con Jaaja dạng hươu gần giống ngựa nhất, cô ấy đã thể hiện khả năng điều khiển dây cương khá điêu luyện. Tôi bảo “Thế cưỡi con này là được rồi còn gì”, nhưng cô ấy bắt đầu mè nheo đòi tôi phải đưa một con ngựa thực sự cơ. Và sau bao nhiêu công sức khổ cực, con Nise-corn này đã ra đời.
+Cô ấy khăng khăng bảo mình từng có kinh nghiệm cưỡi ngựa từ trước, nên một khi đã cưỡi thì dứt khoát phải là ngựa mới chịu. Đến khi tôi dắt con Jaaja dạng hươu có dáng dấp gần giống ngựa nhất cho cô ấy cưỡi thử, cô ấy liền phô diễn khả năng ghìm cương vô cùng điêu luyện. Tôi mới bảo “Thế cưỡi con này là đủ xài rồi còn gì”, nào ngờ cô nàng lại giở thói mè nheo, nằng nặc bắt tôi phải giao ra một con ngựa thực thụ cho bằng được. Và rồi sau hàng chuỗi ngày làm việc quần quật như trâu bò, con Nise-corn này mới chính thức ra đời.
 
-Tuy nhiên, về mặt hiệu suất di chuyển và sự ổn định của người cưỡi, tức là những yếu tố liên quan đến việc “cưỡi và chạy”, nhờ những lời chê bai mang tính góp ý của một người có kinh nghiệm như Sakura mà con thú này có độ hoàn thiện cực kỳ cao. Đối mặt với một khách hàng thuộc hàng “thượng đế khó tính” như vậy mà vẫn hoàn thành công việc khiến họ hài lòng, tôi cảm giác tay nghề thủ công của mình lại tăng lên một tầm cao mới... Nhưng mà, có điên tôi mới nhận cái đơn hàng củ chuối này lần thứ hai.
+Dẫu vậy, xét về mặt hiệu suất di chuyển cũng như độ thăng bằng ổn định cho người điều khiển — tức là toàn bộ những yếu tố cốt lõi liên quan đến việc “cưỡi và phi nước đại” — nhờ vào những lời chê bai đậm chất chuyên môn mang tính đóng góp của một kẻ dày dạn kinh nghiệm như Sakura, độ hoàn thiện của con thú cưỡi này đã đạt đến cảnh giới vô cùng xuất sắc. Đứng trước một vị khách hàng thuộc hàng “thượng đế khó tính” bậc nhất như thế mà vẫn hoàn thành công việc khiến họ gật đầu hài lòng, tôi cảm giác tay nghề thủ công mỹ nghệ của mình dường như lại được nâng lên một tầm cao mới... Cơ mà, có điên tôi mới thèm nhận cái đơn đặt hàng củ chuối này thêm một lần nào nữa.
 
-“Momokawa, mất bao lâu nữa chúng ta mới hội quân được?”
+“Momokawa, còn mất bao lâu nữa chúng ta mới hội quân được?”
 
-“Khu rừng này có vẻ khá rộng đấy, nên dù có chạy thế này thì cũng phải mất một khoảng thời gian.”
+“Khu rừng này xem chừng rộng lớn ngoài sức tưởng tượng đấy, nên dù có phi hết tốc lực thế này thì cũng phải tốn kha khá thời gian.”
 
-Nhờ Rem chim trinh sát, tôi đã nắm được khái quát độ rộng của khu rừng tinh linh này. Nơi đây rộng lớn đến mức gọi là một khu vực của Dungeon chứ không chỉ đơn thuần là một tầng của tòa tháp nữa.
+Thông qua góc nhìn của Rem chim trinh sát, tôi đã phác thảo được sơ bộ quy mô bạt ngàn của khu rừng tinh linh này. Nơi đây mênh mông đến mức phải gọi là một phân khu độc lập của Dungeon chứ tuyệt đối không thể xem như một tầng tháp thông thường.
 
-Mọi người, bao gồm cả Mei, đều bị phân tán rải rác như đã được tính toán từ trước. Tuy nhiên, may mắn là cũng có những cặp đôi đã hội quân được với nhau giống như tôi và Sakura. Ở một nơi thế này, những người có thể tự tin hoạt động đơn độc chỉ có Mei và Tendou mà thôi.
+Mọi người, bao gồm cả Mei-chan, đều bị phân tán rải rác khắp nơi hệt như một sự sắp đặt đầy toan tính từ trước. Dẫu vậy, điều may mắn là cũng có những cặp đôi đã kịp thời tìm thấy nhau tương tự như trường hợp của tôi và Sakura. Ở một chiến trường lạ lẫm và tiềm ẩn vô vàn cạm bẫy thế này, những kẻ đủ bản lĩnh để tự tin độc hành tung hoành chỉ có thể đếm trên đầu ngón tay: Mei-chan và Tendou.
 
-“Vậy thì chúng ta hãy tăng tốc thêm chút nữa đi.”
+“Thế thì chúng ta tăng tốc thêm chút nữa đi.”
 
-“Nên thế. Địa hình phía trước bằng phẳng như đã được dọn dẹp sẵn vậy, chạy rất dễ—”
+“Nên như thế. Địa hình phía trước bằng phẳng như đã được dọn sẵn từ trước vậy, rất dễ để tăng tốc phi—”
 
-Vừa nói đến đó, tôi vội vàng ngậm miệng lại.
+Vừa thốt ra đến đó, tôi vội vàng ngậm bặt miệng lại.
 
-Ngay sau đó, Alpha có một cú nhảy mạnh—một quả đạn ánh sáng phát nổ ngay dưới chân nó, hất tung đất cát lên không trung.
+Ngay khoảnh khắc tiếp theo, Alpha đột ngột bật nhảy cực mạnh sang một bên—một luồng đạn ma lực ánh sáng phát nổ chói lòa ngay sát gót chân nó, hất tung từng mảng đất cát mù mịt lên không trung.
 
-“— Tsk, địch tập kích!”
+“— Tsk, địch phục kích!”
 
-“Bị bắn thế này, là binh lính rối sao?”
+“Đòn bắn tỉa này... là đám binh lính rối sao!?”
 
-Thấp thoáng sau những thân cây trong rừng, những con búp bê ma pháp (ma đạo nhân hình) mang theo súng blaster bắt đầu lũ lượt xuất hiện.
+Thấp thoáng sau những thân cây cổ thụ rậm rạp, những con Ma Đạo Nhân Hình lăm lăm khẩu súng blaster trên tay bắt đầu lũ lượt túa ra như ong vỡ tổ.
 
-Dù đã thả Rem chim đi trinh sát, nhưng tầm nhìn trong rừng vẫn bị che khuất đáng kể bởi cây cối. Nếu chúng cố tình ẩn nấp và di chuyển, việc tiếp cận mà không bị phát hiện trong rừng là điều quá dễ dàng. Hóa ra ngay cả những con rối cũng có thể thực hiện những bước di chuyển như vậy.
+Dù tôi đã thả bầy Rem chim đi rải thảm trinh sát, nhưng tầm nhìn trong rừng rậm vẫn bị tàn cây rậm rạp che khuất đáng kể. Một khi kẻ địch chủ động ẩn nấp và men theo các điểm mù để di chuyển, việc chúng áp sát mà không bị phát hiện là điều quá đỗi dễ dàng. Không ngờ ngay cả lũ con rối vô hồn này cũng có thể thực hiện những bước di chuyển chiến thuật tinh vi đến nhường ấy.
 
-“Ư, thế này thì hơi gay go đây...”
+“Ư, tình hình này hơi bị gay go rồi đây...”
 
-Trong tình huống này, việc bị bắn bởi súng blaster có uy lực và tầm bắn xa còn đáng sợ hơn là bị một con ma vật Boss thông thường truy đuổi.
+Trong bối cảnh hiện tại, việc bị tập kích hỏa lực tầm xa bởi những khẩu súng blaster sở hữu uy lực xuyên phá khủng khiếp còn nguy hiểm hơn gấp bội so với việc bị một con ma vật Boss thông thường truy đuổi ráo riết phía sau.
 
-Chúng tôi đang cưỡi thú chạy điên cuồng. Dù có muốn dùng tốc độ để cắt đuôi, nhưng trước một đội quân bot đang đồng loạt xả súng thế này, việc trúng đạn là điều không thể tránh khỏi—
+Chúng tôi đang cưỡi thú lao đi với tốc độ cao. Dù có muốn cậy tốc lực để cắt đuôi, nhưng trước một mạng lưới hỏa lực đan chéo dày đặc từ đội quân bot thiện xạ này, việc dính đạn chỉ còn là vấn đề thời gian—
 
 “Oái!?”
 
-Đúng như tôi lo sợ, Alpha cuối cùng cũng trúng đạn trực diện.
+Đúng như nỗi lo sợ tồi tệ nhất của tôi, Alpha cuối cùng đã trúng trọn một phát bắn trực diện.
 
-Nếu chỉ là súng blaster thông thường, trúng một hai phát thì xác sống không biết đau đớn như Alpha chẳng hề hấn gì, nhưng nếu bị bắn nát cả mảng thịt ở chân thì chắc chắn sẽ ảnh hưởng đến việc chạy.
+Nếu chỉ là súng blaster loại nhẹ, trúng một hai phát thì một xác sống không hề biết đau đớn như Alpha sẽ chẳng mảy may suy suyển, nhưng khi cả một mảng thịt lớn ở khớp chân sau bị xé toạc thành tro bụi thì khả năng thăng bằng khi chạy chắc chắn sẽ bị sụp đổ hoàn toàn.
 
-Hỏng rồi, đà chạy của Alpha bị sụp đổ, khiến cơ thể tôi bị hất văng ra ngoài.
+Nguy rồi, đà phi nước đại của Alpha bị khựng lại đột ngột, lực quán tính cực mạnh hất văng cả cơ thể tôi bay bổng lên không trung.
 
-Cảm nhận được cảm giác lơ lửng khó chịu trong không trung, tôi vội vàng chuẩn bị tinh thần đón nhận cú va chạm sắp tới, nhưng—
+Cảm nhận rõ rệt cảm giác hẫng hụt đầy khó chịu giữa khoảng không vô định, tôi vội gồng mình chuẩn bị đón nhận một cú tiếp đất dập xương nát thịt, thế nhưng—
 
-“— Thật là, chỉ toàn làm vướng tay vướng chân thôi. Giữ cho chắc vào, Momokawa!”
+“— Thật là, lúc nào cũng chỉ biết làm vướng tay vướng chân người khác thôi! Bám cho chắc vào, Momokawa!”
 
 “Ồ, Sakura-chan!”
 
-Ngay khoảnh khắc cơ thể tôi bị hất tung lên không trung, Sakura đang chạy song song bên cạnh đã đưa tay ra bắt lấy tôi.
+Ngay khoảnh khắc thân ảnh tôi bị hất tung lên cao, Sakura đang phi song song bên cạnh đã nhanh như cắt vươn tay chộp chặt lấy cổ áo tôi.
 
-Một thoáng nghi ngờ xẹt qua đầu tôi rằng liệu cô ấy có ném tôi đi luôn không, nhưng cô ấy đã kéo tôi thẳng lên yên con Nise-corn.
+Một thoáng ngờ vực lóe lên trong đầu tôi rằng liệu cô nàng có nhân cơ hội này mà ném tôi đi luôn cho rảnh nợ hay không, nhưng cánh tay thanh mảnh ấy đã dùng lực kéo giật tôi đặt thẳng lên phía trước yên con Nise-corn.
 
-“Cứu mạng tớ rồi, cảm ơn cậu nhé.”
+“Cứu mạng tớ rồi, cảm ơn cậu nhiều nhé.”
 
-“Không phải lúc để nói chuyện thong thả đâu! Nào, tôi giao dây cương cho cậu đấy, lo mà điều khiển cho tốt vào!”
+“Không phải lúc để thong thả buôn chuyện đâu! Này, tôi giao lại dây cương cho cậu đấy, liệu mà điều khiển cho cẩn thận vào!”
 
-“Ủa, thế còn Sakura-chan thì sao?”
+“Ơ kìa, thế còn Sakura-chan thì tính sao?”
 
-“Tôi sẽ nghênh chiến— Hầy, biết thế này tôi đã học thêm cả môn bắn cung trên lưng ngựa (yabusame) rồi.”
+“Tôi sẽ nghênh chiến— Hầy, biết thế này hồi trước tôi đã học thêm cả môn kỵ xạ (yabusame) cho rồi.”
 
-Vừa thở dài ngao ngán, Sakura vừa nhanh nhẹn xoay người lại, ngồi quay lưng về phía trước yên ngựa. Còn tôi thì nắm lấy dây cương, ở vào tư thế tựa lưng vào nhau với Sakura.
+Vừa thở dài ngao ngán, Sakura vừa khéo léo xoay người lại một cách điệu nghệ, ngồi quay lưng về phía đầu ngựa. Còn tôi thì lập tức nắm chặt lấy dây cương, tạo thành thế hai người ngồi tựa lưng vào nhau trên lưng chiến mã.
 
-À, ra vậy. Đây là kiểu một người lái xe, một người làm pháo thủ trên xe chiến đấu đúng không.
+À, tôi hiểu rồi. Đây chính là mô hình tác chiến kinh điển: một người chuyên tâm lái xe, còn một người đóng vai trò pháo thủ hỏa lực trên xe bọc thép chứ gì.
 
-Ngay khi tôi hiểu được ý đồ của cô ấy, Sakura đã giương cây 『Thánh Nữ Hòa Cung』 đã lâu không thấy lên.
+Ngay khi tôi vừa nắm bắt được ý đồ chiến thuật, Sakura đã nhanh chóng giương cây cung 『Thánh Nữ Hòa Cung』 đã lâu không dùng lên ngang tầm mắt.
 
-“Cứ cho ngựa chạy thẳng đi. Mấy đòn tấn công tầm này thì 『Thánh Thiên Kết Giới』 của tôi dư sức đỡ được hết.”
+“Cứ việc phi thẳng hết tốc lực đi. Mấy đòn tấn công tép riu cỡ này thì 『Thánh Thiên Kết Giới』 của tôi thừa sức bẻ gãy toàn bộ!”
 
-“Hô hô, thế này thì chúng ta đang ở trạng thái ngôi sao vô địch rồi!”
+“Hô hô, thế này thì chúng ta chẳng khác nào đang bật chế độ ngôi sao bất tử vô địch rồi!”
 
-“Thật là, mới thế đã tinh tướng rồi— 『Quang Pháo』!”
+“Thiệt tình, mới thế mà đã lên mặt tinh tướng rồi— 『Quang Pháo』!”
 
-Và thế là, trong trạng thái vô địch được bảo vệ bởi kết giới ánh sáng, màn phản công đơn phương của Sakura bắt đầu.
+Và thế là, được bao bọc bên trong bức màn kết giới ánh sáng bất khả xâm phạm, màn phản công hỏa lực áp đảo một chiều của Sakura chính thức bùng nổ.
 
 ***
 
-“— Dùng Đệm Khí đi! Mau dùng Đệm Khí đi!!”
+“— Mau kích hoạt Đệm Khí đi! Dùng Đệm Khí nhanh lên!!”
 
-“Đ-Được rồi, Đệm Khí đúng không...”
+“Đ-Được rồi, Đệm Khí chứ gì...”
 
-Đáp lại tiếng hét thất thanh của Kotarou, Rerite lập tức lục lọi chiếc túi đeo của mình để tìm món vật phẩm ma pháp cần thiết.
+Đáp lại tiếng gầm thét thất thanh của Kotarou, Rerite cuống cuồng thọc tay vào túi đeo hông để lục lọi món ma đạo cụ cứu mạng.
 
-Món đồ trông như một viên bi ve phát ra ánh sáng xanh lá này chính là 『Đệm Khí』. Qua huấn luyện, chúng tôi đã chứng minh được rằng dù có rơi từ độ cao nào đi chăng nữa, chỉ cần dùng nó là có thể tiếp đất an toàn. Cách sử dụng cũng cực kỳ đơn giản, chỉ cần truyền vào một chút ma lực là xong.
+Vật thể trông hệt như một viên bi ve đang tỏa ra ánh huỳnh quang màu lục bảo dịu nhẹ này chính là 『Đệm Khí』. Thông qua các buổi huấn luyện thực chiến trước đây, cả nhóm đã chứng minh được rằng dù có rơi tự do từ bất kỳ độ cao không tưởng nào, chỉ cần kích hoạt nó đúng thời điểm là có thể triệt tiêu hoàn toàn lực rơi để tiếp đất an toàn tuyệt đối. Cách thức vận hành cũng vô cùng đơn giản, chỉ việc rót một lượng nhỏ ma lực vào bên trong là xong.
 
-Lúc này, hơn một nửa sàn nhà dưới chân đã biến mất, lộ ra vực sâu không thấy đáy, nhưng Rerite cũng không phải là kẻ chưa từng trải qua những tình huống ngàn cân treo sợi tóc. Cậu cố gắng giữ bình tĩnh, chuẩn bị sẵn sàng tâm lý cho cú rơi, thế nhưng—
+Lúc này, hơn một nửa mảng sàn đá dưới chân đã hoàn toàn biến mất, để lộ ra khoảng vực sâu hun hút không thấy đáy, nhưng Rerite dẫu sao cũng không còn là một gã tay mơ chưa từng nếm trải lằn ranh sinh tử. Cậu cố đè nén cơn run rẩy, chuẩn bị sẵn sàng tâm thế cho cú rơi kinh hoàng sắp tới, thế nhưng—
 
 “— Á!?”
 
-Do trượt tay hay trượt chân thì lúc này điều đó không còn quan trọng nữa.
+Do ngón tay trơn trượt hay do bước chân luống cuống, vào khoảnh khắc ngàn cân treo sợi tóc này, nguyên do đã chẳng còn quan trọng nữa.
 
-Cậu đã làm rơi Đệm Khí.
+Cậu đã trượt tay làm rơi viên Đệm Khí.
 
-Một sai lầm ngớ ngẩn nhưng chí mạng đã được Rerite thực hiện ngay trong khoảnh khắc này.
+Một sai lầm ngớ ngẩn, ấu trĩ nhưng lại mang tính chất chí mạng tuyệt đối đã được Rerite tự tay gây ra ngay trong tíc tắc định mệnh.
 
 “A, á... A a a a a a a a a a a a!”
 
-Vừa hét lên những tiếng hoảng loạn tột cùng, cậu vừa cố nhoài người theo để chụp lấy viên Đệm Khí đang lăn trên sàn nhà sắp biến mất, nhưng nó đã rơi tuột xuống khoảng không vô định trước một bước.
+Vừa phát ra những tiếng thét hoảng loạn tột cùng, cậu vừa tuyệt vọng nhoài người vươn tay chộp theo viên Đệm Khí đang lăn lông lốc trên mảng sàn nhà sắp sụp đổ, nhưng nó đã nhanh hơn một bước, rơi tuột xuống khoảng không vô tận bên dưới.
 
-“L-Làm rơi thật đấy à!? Bình thường có ai làm rơi vào đúng cái lúc này không hả trời!!”
+“L-Làm rơi thật đấy à!? Bình thường trên đời này có đứa dở hơi nào lại đi làm rơi đồ vào đúng cái thời khắc sinh tử này không hả trời!!”
 
-Cậu vừa khóc ròng vừa quơ quào hai tay trong vô vọng, nhưng viên Đệm Khí đã rơi xuống đáy vực sâu và biến mất dạng từ lâu. Việc nhảy xuống để nhặt lại nó lúc này có tỷ lệ thành công chưa đến một phần vạn.
+Cậu vừa khóc ròng vừa quơ quào hai tay trong cơn bấn loạn tột độ, nhưng viên Đệm Khí cứu mạng đã chìm nghỉm vào đáy vực sâu và mất hút từ lâu. Ý định nhảy bổ theo để nhặt lại nó lúc này có tỷ lệ thành công chưa tới một phần vạn.
 
-“Giờ phải làm sao đây hả trời!?”
+“Giờ phải làm cái quái gì đây hả trời!?”
 
-Cậu quay sang nhìn Kotarou với ánh mắt cầu cứu, nhưng ở đó đã không còn bóng dáng nhỏ bé đáng tin cậy nào nữa.
+Cậu hoảng hốt quay phắt sang nhìn Kotarou với ánh mắt cầu cứu tuyệt vọng, nhưng nơi đó đã chẳng còn bóng dáng gầy gò quen thuộc nào nữa rồi.
 
-Nhìn Kotarou với vẻ mặt đầy quyết tâm đã chủ động nhảy vào khoảng không từ trước, Rerite biết mình không thể mở miệng kêu cứu được, và cậu cũng không nghĩ rằng một chú thuật sư dù có tài giỏi đến đâu lại có thể dọn dẹp đống hỗn độn ngu ngốc do đồng đội gây ra.
+Nhớ lại hình ảnh một Kotarou với ánh mắt kiên định đã chủ động gieo mình vào khoảng không từ trước, Rerite hiểu rằng mình không còn mặt mũi nào để mở miệng kêu cứu, và cậu cũng thừa hiểu rằng một chú thuật sư dù có túc trí đa mưu đến đâu cũng chẳng tài nào dọn dẹp nổi đống tàn cuộc ngu xuẩn do chính đồng đội tự rước vào người.
 
-“Kh-Khốn kiếp thật mà a a a a a a!”
+“Kh-Khốn kiếp thật đấy a a a a a a!”
 
-Cứ thế, không thể cầu cứu ai, sàn nhà dưới chân Rerite hoàn toàn biến mất, và cậu bị ném vào không trung chỉ với cơ thể trần trụi của mình.
+Cứ như thế, trong tuyệt vọng không thể bấu víu vào bất kỳ ai, mảng sàn nhà cuối cùng dưới chân Rerite hoàn toàn vỡ vụn, và cậu bị hất văng vào hư không chỉ với thân xác người phàm trần trụi.
 
-Cậu là một 『Tinh Linh Thuật Sư』. Theo cách gọi của Kotarou thì là một class ma pháp sư thuần túy, hoàn toàn không nhận được bất kỳ điểm cộng nào về chỉ số thể chất. Nếu là một class tiên phong sở hữu thể lực siêu phàm, thì dù có bị đập thẳng người xuống đất từ trên cao, khả năng sống sót vẫn là rất lớn.
+Cậu mang trong mình thiên chức 『Tinh Linh Thuật Sư』. Theo hệ quy chuẩn phân loại của Kotarou, đó là một class pháp sư thuần túy, tuyệt nhiên không nhận được bất kỳ điểm cộng gia trì nào vào các chỉ số thể chất. Nếu là những class tiên phong sở hữu thể lực và độ lì đòn siêu phàm, thì dù có bị nện thẳng người từ trên trời xuống mặt đất, cơ hội sống sót của họ vẫn vô cùng lớn.
 
-Nhưng đối với cậu thì hoàn toàn không có khả năng đó. Dù hiện tại cậu vẫn chăm chỉ tập luyện cơ bắp theo bài tập của câu lạc bộ bóng rổ, nhưng cậu không hề nghĩ rằng đống cơ bắp đó có thể giúp mình sống sót sau cú rơi tự do từ độ cao hàng trăm mét thế này.
+Nhưng đối với một kẻ như cậu, kịch bản đó hoàn toàn là điều bất khả thi. Dẫu cho thời gian qua cậu vẫn chăm chỉ rèn luyện thể lực theo các giáo án khắc nghiệt của câu lạc bộ bóng rổ thời trước, nhưng cậu chưa bao giờ ảo tưởng rằng đống cơ bắp ít ỏi đó có thể giúp mình toàn mạng sau cú rơi tự do từ độ cao hàng trăm mét thế này.
 
-“Phải làm thôi... Chỉ còn cách tự làm thôi... Xin hãy giúp tôi, tinh linh gió!”
+“Phải làm thôi... Chỉ còn nước tự thân vận động thôi... Xin hãy tiếp thêm sức mạnh cho tôi, hỡi tinh linh gió!”
 
-Đến cuối cùng, thứ duy nhất có thể dựa vào vẫn là sức mạnh của tinh linh.
+Đến thời khắc cuối cùng, điểm tựa duy nhất mà cậu có thể đặt trọn niềm tin vẫn là sức mạnh của các tinh linh.
 
-Đệm Khí dĩ nhiên là một vật phẩm ma pháp thuộc tính Phong. Cậu đã từng dùng thử nó trong lúc luyện tập, nên vẫn nhớ mang máng cảm giác khi nó tạo ra áp lực gió như thế nào.
+Bản thân Đệm Khí vốn dĩ là một vật phẩm ma pháp mang thuộc tính Phong. Cậu đã từng thử nghiệm nó nhiều lần trong các buổi tập luyện, thế nên trong tiềm thức vẫn còn lưu giữ cảm giác về luồng áp lực gió mà nó tạo ra khi bung tỏa.
 
-Đây là lần đầu tiên thực hành trực tiếp mà không có chuẩn bị. Chỉ cần giảm được tốc độ rơi xuống mức không chết là được. Nghĩ vậy, cậu hạ quyết tâm và đưa tay nắm lấy chuôi của thanh ma kiếm 『Liệt Phong Đường Lang Hoàn』 chứa đựng sức mạnh của tinh linh gió, đúng lúc đó—
+Đây là lần đầu tiên cậu phải tự mình thi triển trong tình trạng khẩn cấp không có sự chuẩn bị. Miễn sao hãm được gia tốc rơi xuống mức không đến nỗi mất mạng là đạt yêu cầu. Nghĩ là làm, cậu cắn chặt răng hạ quyết tâm, vươn tay nắm chặt lấy chuôi của thanh ma kiếm 『Liệt Phong Đường Lang Hoàn』 đang cuộn trào ma lực tinh linh gió, đúng lúc ấy—
 
 “Kyu e e e e e e e e e e e e e!”
 
-Một tiếng kêu lảnh lót vang lên, và một bóng đen nhỏ từ trên đầu Rerite lao vút xuống.
+Một tiếng rít lảnh lót đanh gọn bất ngờ xé toạc không gian, và một bóng đen nhỏ bé từ phía trên đỉnh đầu Rerite lao vút xuống như một tia chớp.
 
-Ở đó là bóng dáng của một chú rồng xanh nhỏ đang dang rộng đôi cánh hết cỡ để bay lượn.
+Hiện ra giữa tầng không là hình ảnh một chú rồng xanh nhỏ bé đang dang rộng đôi cánh hết cỡ để lướt gió.
 
 “Aoi!”
 
-Chú rồng con Aoi vẫn còn rất nhỏ và non nớt, thậm chí còn chưa thể tự mình săn mồi. Thế nhưng, như muốn khẳng định mình là loài phi long bá chủ của bầu trời, nó lao xuống với tốc độ cực nhanh để đuổi kịp Rerite, duỗi thẳng hai chân và dùng móng vuốt bấu chặt lấy cổ áo đồng phục của cậu.
+Chú rồng con Aoi vẫn còn quá đỗi nhỏ bé và non nớt, thậm chí còn chưa đủ cứng cáp để tự mình săn bắt con mồi. Thế nhưng, như muốn chứng minh dòng máu của loài phi long — chúa tể bầu trời — đang chảy trong huyết quản, nó lao xuống với tốc độ xé gió để bắt kịp Rerite, duỗi thẳng hai chân sau và dùng móng vuốt bấu chặt lấy cổ áo đồng phục của cậu.
 
 “Kyu e! Kyowaaaaaaaaaaaaa!!”
 
-Nó điên cuồng vỗ đôi cánh nhỏ của mình như thể sắp đứt lìa ra đến nơi.
+Nó điên cuồng đập đôi cánh nhỏ nhắn của mình với tần suất khủng khiếp, tựa hồ như đôi cánh ấy có thể gãy rời ra bất cứ lúc nào.
 
-Đó là một sự kháng cự vô vọng. Thế nhưng, lực gia tốc rơi của Rerite quả thực đã giảm đi rõ rệt.
+Đó là một sự kháng cự dường như tuyệt vọng. Thế nhưng, gia tốc rơi tự do của Rerite quả thực đã giảm đi trông thấy.
 
-“Dừng lại đi Aoi, đừng làm loạn! Sức của mày bây giờ làm sao nhấc nổi tao chứ!”
+“Dừng lại đi Aoi, đừng làm càn nữa! Sức của mày bây giờ làm sao nhấc nổi cả cái thân xác này của tao chứ!”
 
 “Kyowaaaaaaa!!”
 
-Như muốn phản đối tiếng hét của Rerite, Aoi gầm lên.
+Như muốn cự tuyệt lại tiếng thét của Rerite, Aoi gầm lên một tiếng đầy kiêu hãnh.
 
-Người và rồng. Dù không chung ngôn ngữ, nhưng tâm ý của nó truyền đến cậu một cách rõ ràng và đau đớn.
+Giữa người và rồng. Dẫu không chung một ngôn ngữ, nhưng sợi dây liên kết tâm linh đã truyền tải trọn vẹn ý chí kiên cường của nó vào tâm can cậu một cách rõ ràng và nhói buốt.
 
-Aoi lúc này, vì muốn cứu một kẻ vô dụng như cậu, đang cố gắng hết sức bất chấp cả tính mạng của mình.
+Aoi lúc này, chỉ vì muốn cứu sống một gã chủ nhân vô dụng như cậu, đang dốc cạn từng giọt sinh mệnh bất chấp hiểm nguy đến tính mạng của chính nó.
 
-“Xin lỗi vì tao là một thằng chủ nhân vô dụng... Nhưng đã thế thì chúng ta cùng chơi tới bến luôn!”
+“Xin lỗi mày vì tao chỉ là một thằng chủ nhân phế vật... Nhưng nếu đã thế thì hai đứa mình cùng chơi tất tay một phen luôn!”
 
-Trong lúc tốc độ rơi đã giảm đi đôi chút, Rerite cuối cùng cũng rút thanh phong kiếm ra.
+Nhận thấy tốc độ rơi đã được hãm lại đôi phần, Rerite dồn toàn bộ ma lực, dứt khoát tuốt thanh phong kiếm ra khỏi vỏ.
 
 ***
 
-“— Đau quá đi mất!”
+“— Đau... đau chết đi được mất thôi!”
 
-Bị chấn động khi tiếp đất bằng mông, Rerite rên rỉ một cách thảm hại.
+Bị chấn động dữ dội sau cú tiếp đất thô bạo bằng mông, Rerite nằm lăn lộn rên rỉ một cách thảm hại.
 
 “Kyowa, kyu e~”
 
-Trên đầu người chủ nhân đang ôm mông nhăn nhó vì đau, Aoi đang bay vòng quanh.
+Ngay phía trên đỉnh đầu người chủ nhân đang ôm mông nhăn nhó mặt mày vì đau đớn, Aoi đang bay lượn thành từng vòng tròn nhỏ.
 
-Có vẻ như nỗi đau đớn khi phải gánh một trọng lượng quá tải như Rerite đã trôi qua nhanh chóng, chú rồng con lại vui vẻ đập cánh phành phạch.
+Xem chừng cảm giác đau nhức ê ẩm sau khi phải gồng gánh một trọng lượng quá tải như Rerite đã nhanh chóng tan biến, chú rồng con lại vui vẻ vỗ cánh phành phạch đầy phấn khích.
 
-“Cứu mạng tao rồi, cảm ơn mày nhé Aoi.”
+“Cứu mạng tao rồi, cảm ơn mày nhiều lắm nhé Aoi.”
 
 “Kyowaa!”
 
-Nhờ có sự nỗ lực của Aoi và tinh linh gió, Rerite đã phần nào khắc phục được sai lầm ngớ ngẩn khi làm rơi vật phẩm cứu mạng của mình.
+Nhờ vào sự nỗ lực phi thường của Aoi kết hợp cùng ma pháp tinh linh gió, Rerite cuối cùng đã khắc phục thành công sai lầm ấu trĩ khi đánh rơi vật phẩm cứu mạng của mình.
 
-“Á, nhắc mới nhớ, Beniwo và Koyuki đâu rồi!?”
+“Á, nhắc mới nhớ, Beniwo với Koyuki đâu rồi cả rồi!?”
 
 “Ngoạoo~”
 
 “Gâu gâu!”
 
-Tiếng mèo con kêu lười biếng vang lên từ cành cây ngay bên cạnh, và tiếng chó sủa vọng lại từ phía bụi rậm đối diện.
+Tiếng mèo kêu lười biếng, ngái ngủ cất lên từ cành cây râm mát ngay sát bên cạnh, hòa cùng tiếng chó sủa lanh lảnh vọng lại từ bụi rậm rạp phía đối diện.
 
-Hóa ra, kẻ duy nhất bị rơi từ trên cao xuống và cuống cuồng lên chỉ có gã chủ nhân là con người yếu ớt này mà thôi.
+Hóa ra, kẻ duy nhất bị rơi tự do từ trên cao xuống và cuống cuồng mất bình tĩnh từ nãy đến giờ chỉ có mỗi gã chủ nhân mang thân xác con người yếu đuối này mà thôi.
 
-“May quá, mọi người đều bình an vô sự.”
+“Phù, may quá, tất cả đều bình an vô sự cả rồi.”
 
-Tuy nhiên, Rerite cũng nhanh chóng nhận ra mình đã bị lạc mất các bạn học.
+Thế nhưng, cảm giác nhẹ nhõm nhanh chóng qua đi khi Rerite nhận thức được rằng mình đã hoàn toàn bị lạc mất dấu vết của các bạn học.
 
-“Bị ném xuống rồi lại rơi trúng rừng thế này à.”
+“Bị ném xuống rồi lại rơi đúng vào giữa một cánh rừng thế này à.”
 
-Tình cảnh này giống hệt như lúc họ mới bị triệu hồi tới dị giới vậy.
+Tình cảnh trớ trêu này giống hệt như khoảnh khắc đầu tiên khi cả lớp bọn họ vừa bị triệu hồi tới thế giới này vậy.
 
-Có điều, lần này cậu không bị dịch chuyển đi đâu xa, mà chỉ đơn giản là bị rơi từ trên xuống mà thôi. Và quan trọng nhất là, bên cạnh cậu lúc này đã có những người bạn đồng hành đáng tin cậy.
+Chỉ có điều, lần này cậu không bị ma pháp không gian dịch chuyển đi quá xa, mà đơn thuần chỉ là bị rơi từ tầng trên xuống tầng dưới mà thôi. Và quan trọng hơn cả, sát cánh bên cậu lúc này đã có những người bạn đồng hành vô cùng đáng tin cậy.
 
 Kít... kít... kít... rắc... rắc... rắc...
 
-Đúng lúc đó, một âm thanh bất tường vang lên khiến da gà da vịt nổi hết cả lên.
+Đúng lúc ấy, một chuỗi âm thanh ma quái, rợn người bất thần vang lên khiến toàn bộ lông tơ trên người cậu dựng đứng cả dậy.
 
-Âm thanh vô cơ ấy không biết là tiếng kêu của sinh vật nào, hay là tiếng cọ xát của những vật thể cứng cáp.
+Âm thanh khô khốc, vô cơ ấy không rõ là tiếng gầm gừ phát ra từ cổ họng của một loài sinh vật dị dạng, hay là tiếng cọ xát ken két giữa những lớp giáp xác cứng như kim thép.
 
-Cùng với những tiếng răng rắc, một bóng đen khổng lồ giẫm nát bụi rậm, gạt phăng cây cối và xuất hiện ngay trước mặt Rerite.
+Kèm theo những tiếng cành cây gãy răng rắc, một bóng đen khổng lồ lừng lững giẫm nát bụi rậm, hất văng cây cối chắn đường và hiện hình ngay trước mắt Rerite.
 
-Đó là một con bọ cạp khổng lồ.
+Đó là một con bọ cạp khổng lồ với kích thước dị thường.
 
-“Kh-Không lẽ con này là...”
+“Kh-Không lẽ... cái thứ này là...”
 
-Lớp vỏ bọc kim loại đen kịt chạy dọc những đường vân màu tím độc địa. Ở đầu chiếc đuôi dài uốn cong là một ngòi độc khổng lồ màu đỏ tươi sắc nhọn như thể vừa được nhuộm trong máu tươi. Nó vừa khua hai chiếc càng khổng lồ va vào nhau chan chát như để đe dọa, vừa lừng lững tiến về phía Rerite.
+Lớp giáp xác bọc thép đen kịt bao phủ toàn thân, chạy dọc bên trên là những đường vân ma lực màu tím độc địa phát sáng ma quái. Ở chóp chiếc đuôi dài uốn cong ngạo nghễ là một ngòi độc khổng lồ đỏ tươi sắc lẹm như thể vừa được nhúng ngập trong máu tươi. Nó vừa khua liên hồi hai chiếc gọng kìm hộ pháp va vào nhau chan chát như một lời thị uy đe dọa, vừa chậm rãi tiến từng bước nặng nề về phía Rerite.
 
-“Là thứ gọi là Death Stalker sao!?”`
+“Là con quái vật mang tên Death Stalker sao!?”`
             },
             {
                 "id": "ep_357",
@@ -66699,297 +66723,297 @@ Lớp vỏ bọc kim loại đen kịt chạy dọc những đường vân màu 
 
 “K-Không lẽ con này... là thứ gọi là 『Death Stalker』 sao!?”
 
-Đây là lần đầu tiên tôi nhìn thấy ma vật này ngoài đời thực, nhưng nhờ hình dáng dễ nhận biết của một con bọ cạp khổng lồ, tôi lập tức đoán ra ngay. Trên hết, tôi đã được nghe Momokawa cảnh báo về sự nguy hiểm của thứ này.
+Đây là lần đầu tiên tôi tận mắt nhìn thấy ma vật này ngoài đời thực, nhưng nhờ hình dáng đặc trưng của một con bọ cạp khổng lồ, tôi lập tức nhận ra ngay. Trên hết, tôi đã từng nghe Momokawa cảnh báo rất kỹ về mức độ nguy hiểm của thứ này.
 
-Nó là Boss của khu vực sa mạc, một kẻ cực kỳ tàn bạo sở hữu kịch độc siêu mạnh. Mà ngay cả khi không có độc, với kích thước khổng lồ, lớp vỏ giáp dày cộp, lại thêm đôi càng khổng lồ làm vũ khí thế kia thì con quái vật này chẳng có lấy một điểm yếu nào.
+Nó chính là Boss của khu vực sa mạc, một kẻ săn mồi cực kỳ tàn bạo sở hữu kịch độc chết người. Mà ngay cả khi không tính đến nọc độc, chỉ riêng kích thước hộ pháp, lớp giáp kitin dày cộp cùng đôi càng hộ pháp sắc bén kia cũng đủ biến nó thành một pháo đài sinh học không tì vết.
 
-Momokawa từng kể rằng Tendou đã tiêu diệt nó để mang nguyên liệu về, và không biết bằng cách nào mà cả Yokomichi cũng hạ được một con. Cậu ta bảo với thực lực hiện tại của chúng tôi, nếu lập tổ đội thì không phải là không thể đánh bại, nhưng trừ khi thực sự cần nguyên liệu, bằng không tuyệt đối không được tự ý giao chiến với con Boss nguy hiểm này.
+Momokawa từng kể rằng Tendou từng đập tan xác một con để lấy nguyên liệu, và không biết bằng cách nào mà cả Yokomichi cũng từng hạ gục được một con tương tự. Cậu ta bảo với thực lực hiện tại của cả nhóm, nếu phối hợp nhịp nhàng theo tổ đội thì không phải không thắng nổi, nhưng trừ phi thực sự bức thiết cần nguyên liệu, bằng không tuyệt đối không được dại dột trêu vào con Boss này.
 
-Nhưng mà Momokawa ơi, tôi đâu có thèm ba cái nguyên liệu bọ cạp gì đâu, thế nhưng khi đối phương tự tìm đến gây sự thì tôi phải làm thế nào đây...
+Nhưng mà Momokawa ơi, tôi đâu có rảnh rỗi đi tìm ba cái nguyên liệu bọ cạp chết tiệt đó đâu! Nó tự mò tới chặn đường đòi lấy mạng tôi thì biết phải làm sao bây giờ...
 
 “Xèèèè, khèèèèèè!”
 
-Con bọ cạp khổng lồ vừa nghiến chặt bộ hàm có thiết kế mở ngang gớm ghiếc trông như loài nhện, vừa nhỏ những giọt dãi màu tím chắc chắn là kịch độc xuống đất, đôi mắt nó gườm gườm nhìn tôi. Từ những chiếc mắt kép vô cảm đặc trưng của loài côn trùng ấy, tôi cảm nhận rõ một sát ý thuần túy đang phóng ra.
+Con bọ cạp khổng lồ vừa nghiến ken két bộ hàm ngang gớm ghiếc hệt như loài nhện, vừa nhỏ từng giọt dịch dãi màu tím sẫm — thứ chắc chắn là kịch độc ăn mòn — xuống mặt đất, đôi mắt nó gườm gườm khóa chặt lấy tôi. Từ những thấu kính mắt kép vô cảm đến rợn người ấy, tôi cảm nhận rõ một luồng sát ý thuần túy đang điên cuồng bộc phát.
 
-*Tao. Sẽ. Giết. Mày.* À, trực giác của tôi mách bảo ngay rằng con này thuộc loại không thể giao tiếp bằng lời nói được rồi.
+*Tao. Sẽ. Giết. Mày.* Một linh cảm sắc lạnh chạy dọc sống lưng, mách bảo tôi rằng thứ quái vật này tuyệt đối không thể dùng lời lẽ để thương lượng.
 
 “Gừừừ... Gâu gâu!”
 
-Trong lúc tôi đang hoàn toàn bị áp chế bởi uy áp của 『Death Stalker』, Beniwo đã dũng cảm lao lên phía trước để che chắn cho tôi và sủa lớn.
+Trong lúc tôi còn đang chết lặng trước uy áp nghẹt thở của 『Death Stalker』, Beniwo đã dũng cảm lao vụt lên chắn trước mặt tôi, cất tiếng sủa thị uy.
 
 “Chủ nhân, em, bảo vệ! Húúúúú!!”
 
 “Beniwo, em...”
 
-Phải rồi, bên cạnh tôi vẫn còn có tụi nó mà. Tôi không thể cứ đứng đực ra đó vì sợ hãi một con bọ cạp khổng lồ được!
+Phải rồi, bên cạnh tôi vẫn còn có đồng đội cơ mà. Tôi không thể cứ đứng run rẩy như một kẻ vô dụng trước mặt một con bọ cạp khổng lồ thế này được!
 
-“Đ-Được rồi, chơi luôn... Này Beniwo, em lùi lại một chút đi. Đối thủ là kẻ có kịch độc nguy hiểm lắm, đừng có lao vào bừa bãi.”
+“Đ-Được rồi, chơi tới bến luôn... Này Beniwo, em lùi lại phía sau một chút đi. Đối thủ có kịch độc cực kỳ nguy hiểm, đừng có lao vào liều mạng.”
 
-“Nhưng mà, Chủ nhân.”
+“Nhưng mà, Chủ nhân...”
 
-“Đừng lo, chắc chắn sẽ có đất diễn cho em mà.”
+“Đừng lo, chắc chắn lát nữa sẽ có đất diễn cho em.”
 
-Vừa nói, tôi vừa thọc bàn tay đẫm mồ hôi vì sợ hãi và căng thẳng vào trong túi hành lý để lục lọi.
+Vừa trấn an, tôi vừa thọc bàn tay ướt đẫm mồ hôi vì căng thẳng vào sâu trong túi hành lý để lục lọi.
 
-Trong tình cảnh Kinako không có ở đây, Beniwo là người đồng hành đáng tin cậy nhất của tôi. Bởi vì em ấy có thể kích hoạt 『Linh Thú Hóa』.
+Trong tình cảnh Kinako không có mặt ở đây, Beniwo chính là người đồng hành đáng tin cậy nhất của tôi. Bởi vì em ấy nắm giữ khả năng kích hoạt 『Linh Thú Hóa』.
 
-Thế nhưng, Linh thú là quân bài tẩy của cả tôi lẫn mọi người.
+Thế nhưng, Linh thú lại là con át chủ bài tối hậu của cả tôi lẫn toàn đội.
 
-Dù là lúc chiến đấu với Yokomichi đã biến thành quái vật, hay lúc Zagan hồi sinh ở Vương quốc Goma, chính nhờ việc lật ngược tình thế bằng quân bài tẩy Linh thú vào những thời khắc quyết định mà chúng tôi mới có thể vượt qua nghịch cảnh.
+Dù là trong trận tử chiến với một Yokomichi đã biến dạng thành quái vật, hay lúc đối đầu với Zagan hồi sinh ở Vương quốc Goma, chính nhờ việc tung ra quân bài tẩy Linh thú để lật ngược tình thế vào những thời khắc ngàn cân treo sợi tóc mà chúng tôi mới có thể sống sót vượt qua nghịch cảnh.
 
-Và trên hết, Momokawa đã nói rằng cậu ta tin tưởng giao cho tôi quyết định thời điểm sử dụng quân bài tẩy quan trọng đó. Từ trước đến nay vẫn luôn như vậy. Cậu ta phó thác cho tôi, tin tưởng vào phán đoán của tôi trong những tình huống ngặt nghèo nhất.
+Và trên hết, Momokawa đã nói rằng cậu ta hoàn toàn tin tưởng giao lại quyền phán đoán thời điểm sử dụng quân bài tối thượng đó cho tôi. Từ trước đến nay vẫn luôn như vậy. Cậu ta phó thác cho tôi, đặt trọn niềm tin vào tôi trong những thời khắc hiểm nghèo nhất.
 
-Những lần thành công trước đây chắc chắn chỉ là ăn may. Chúng tôi chỉ gặp may mắn thôi, còn người cố gắng nhất chính là Kinako và Beniwo khi tự mình hóa thân thành Linh thú để chiến đấu. Tôi chỉ đóng vai trò như một cục pin dự phòng, vắt kiệt ma lực và đặt niềm tin vào bọn họ mà thôi. Hoàn toàn không phải vì tôi có khả năng phán đoán tình huống xuất sắc hay có mưu mẹo thiên tài gì trong lúc nguy cấp cả.
+Những lần thành công trước đây ắt hẳn chỉ là ăn may mà thôi. Chúng tôi chỉ đơn thuần gặp may mắn, còn những kẻ đã chiến đấu quên mình chính là Kinako và Beniwo khi gồng mình hóa thân thành Linh thú. Tôi chỉ đóng vai trò như một bình ắc quy dự phòng, dốc cạn ma lực và gửi gắm toàn bộ niềm tin vào bọn họ. Hoàn toàn không phải vì tôi có đầu óc chiến thuật thiên tài hay khả năng ứng biến xuất chúng gì trong lúc nguy cấp cả.
 
-Thật lòng mà nói, tôi vẫn muốn Momokawa là người quyết định thời điểm sử dụng Linh thú hóa hơn. Bởi vì tôi tin tưởng vào những gì cậu ta nói. Tôi có thể đánh cược mạng sống của mình vào đó.
+Nói thật lòng, tôi vẫn muốn Momokawa là người đứng ra chỉ định thời điểm kích hoạt Linh thú hơn. Bởi vì tôi tin tưởng tuyệt đối vào phán đoán của cậu ta. Tôi sẵn sàng đem tính mạng mình ra đặt cược vào những quyết định đó.
 
-Thế nhưng, nếu cậu ta đã nói là giao lại cho tôi———— thì tôi sẽ làm.
+Thế nhưng, một khi cậu ta đã nói rằng hãy giao lại cho tôi———— thì tôi nhất định phải gánh vác cho bằng được.
 
-“Thế nên là, đối với một con Boss thông thường như mày, tao việc gì phải lãng phí quân bài tẩy chứ!”
+“Thế nên là, đối với một con Boss thông thường như mày, tao việc quái gì phải đốt sạch quân bài tẩy chứ!”
 
-Sức mạnh này không phải để giải cứu bản thân tôi lúc gặp nguy hiểm. Nó là sức mạnh để cứu mọi người khi lâm vào bước đường cùng.
+Sức mạnh này sinh ra không phải chỉ để giải cứu bản thân tôi lúc gặp nguy hiểm. Nó là sức mạnh tối thượng để bảo bọc mọi người khi bị dồn vào đường cùng.
 
-Chúng tôi đang chuẩn bị đối đầu với một Takanashi Kotori thâm hiểm và tàn độc. Tôi tuyệt đối không thể lãng phí sức mạnh của Linh thú ở một nơi như thế này.
+Chúng tôi đang chuẩn bị bước vào trận quyết đấu sinh tử với một Takanashi Kotori đầy mưu mô và tàn độc. Tôi tuyệt đối không được phép lãng phí sức mạnh Linh thú ở một xó xỉnh như thế này.
 
-“Làm ơn, hãy xuất hiện đi———— Triệu hoán Golem!!”
+“Làm ơn, hãy ra đi———— Triệu hoán Golem!!”
 
-Tôi hét lên như một lời cầu nguyện, rồi ném hai viên Quang thạch vừa lấy ra từ trong túi.
+Tôi gầm lên như một lời cầu nguyện, đồng thời vung tay ném mạnh hai viên Quang thạch vừa rút ra từ túi đồ.
 
-Hai viên Quang thạch tôi nắm trong tay chỉ to bằng quả bóng bàn, một viên phát ra ánh sáng màu xanh lam nhạt, viên còn lại tỏa ra sắc cam đậm dịu nhẹ.
+Hai viên Quang thạch nằm gọn trong lòng bàn tay tôi chỉ nhỉnh hơn quả bóng bàn một chút, một viên phát ra ánh lam quang dịu mát, viên còn lại tỏa ra sắc cam ấm nồng rực rỡ.
 
-Đây không phải là Quang thạch thông thường. Đây là những viên Quang thạch chuyên dụng để triệu hoán mà Momokawa đã chuẩn bị cho tôi, vì suy cho cùng tôi vẫn chưa thể sử dụng thành thạo ma pháp triệu hoán tinh linh cấp trung trở lên.
+Đây không phải là Quang thạch thông thường. Chúng là những viên ma thạch chuyên dụng để triệu hoán mà Momokawa đã dày công chuẩn bị riêng cho tôi, bởi cậu ta biết rõ tôi vẫn chưa thể tự mình làm chủ các ma pháp triệu hoán tinh linh từ cấp trung trở lên.
 
-Viên màu xanh lam là viên Quang thạch đã được Lớp trưởng yểm ma lực thuộc tính Băng để cường hóa.
+Viên màu xanh lam là Quang thạch đã được Lớp trưởng Ryouko yểm ma lực thuộc tính Băng cực mạnh để cường hóa.
 
-Viên màu cam là viên được Randou yểm ma lực thuộc tính Thổ tương tự.
+Viên màu cam là tác phẩm do đích thân Randou-san rót đầy ma lực thuộc tính Thổ kiên cố.
 
-Cả hai viên đều có lượng ma lực bên trong vượt trội so với đá thô, hơn nữa Momokawa còn khắc sẵn ma pháp trận triệu hoán cùng với mấy thứ gọi là chú ấn lên đó.
+Cả hai viên đều tích tụ trữ lượng ma lực vượt trội hoàn toàn so với đá thô tự nhiên, hơn thế nữa, chính tay Momokawa còn tỉ mỉ khắc sẵn các ma pháp trận triệu hoán cùng vô số đồ án chú thuật phức tạp lên bề mặt của chúng.
 
-Đối với một kẻ mù tịt về thần chú hay thuật thức ma pháp như tôi, đây chính là món vật phẩm cứu cánh cho tân thủ, chỉ cần truyền ma lực vào là ma pháp triệu hoán chắc chắn sẽ thành công 100%.
+Đối với một kẻ mù tịt về thần chú lẫn cấu trúc thuật thức ma pháp như tôi, đây chính là món bảo bối cứu mạng dành cho dân nghiệp dư — chỉ cần rót ma lực kích hoạt là ma pháp triệu hoán chắc chắn sẽ thành công 100%.
 
-Đúng vậy, việc triệu hoán thì chắc chắn thành công... nhưng liệu tinh linh xuất hiện có sức mạnh tương xứng với lượng ma lực bỏ ra hay không thì hoàn toàn là một canh bạc.
+Đúng vậy, việc triệu hoán thành công thì được bảo đảm tuyệt đối... nhưng liệu thực thể tinh linh bước ra có mang sức mạnh tương xứng với lượng ma lực đã tiêu tốn hay không thì hoàn toàn phụ thuộc vào vận may.
 
-Vì vậy, tôi chỉ biết cầu nguyện. Làm ơn, hãy là cấp trung trở lên.
+Chính vì thế, tôi chỉ biết cầu nguyện trong vô vọng. Làm ơn đi, ít nhất cũng phải là cấp trung trở lên!
 
 “Gừ gừ gừ!”
 
 “Khòòòò...”
 
-Và rồi, hai viên Quang thạch nổ tung, từ trận pháp triệu hoán hiện ra hai bóng người khổng lồ.
+Ngay sau đó, hai viên Quang thạch đồng loạt phát nổ, từ tâm điểm của hai pháp trận triệu hoán rực sáng liền trồi lên hai bóng hình khổng lồ sừng sững.
 
-Một bên được tạo thành từ những khối đá thô ráp, bên còn lại được định hình từ những khối băng trong suốt, tạo nên những cơ thể hộ pháp vạm vỡ.
+Một bên được ghép nối từ những khối nham thạch thô ráp, bên còn lại được đúc kết từ những khối băng vĩnh cửu trong suốt, tạo nên hai cơ thể hộ pháp đồ sộ và uy dũng vô cùng.
 
-“Tuyệt quá, là Golem tinh linh cấp trung!”
+“Tuyệt vời, là Golem tinh linh cấp trung!”
 
-Kích thước và luồng ma lực này chắc chắn là cấp trung không sai vào đâu được. Đối với một kẻ không thể tự triệu hồi tinh linh cấp trung như tôi, đây quả là một cú trúng độc đắc ngoài mong đợi.
+Nhìn vào thể tích khổng lồ cùng luồng áp lực ma lực này, chắc chắn là cấp trung không thể nghi ngờ. Đối với một kẻ bất tài không thể tự triệu hồi tinh linh cấp trung như tôi, đây chẳng khác nào một cú trúng số độc đắc ngoài sức tưởng tượng.
 
-Ban đầu tôi chỉ nghĩ dùng cả hai viên, nếu trúng được một con cấp trung là tốt lắm rồi, không ngờ cả hai viên đều trúng lớn.
+Ban đầu tôi chỉ nghĩ nếu ném cả hai viên mà trúng được một con cấp trung thôi cũng đã là phúc đức lắm rồi, ai ngờ cả hai viên đều mang lại kết quả mỹ mãn thế này.
 
-“Vận may đến rồi, chắc chắn là vận may đang đến rồi! Lên đi, 『Ice Golem』 và 『Rock Golem』! Đập tan xác con bọ cạp kia cho tao!!”
+“Vận may đến rồi, chắc chắn thời của mình tới rồi! Lên đi, 『Ice Golem』 và 『Rock Golem』! Nghiền nát con bọ cạp đó cho tao!!”
 
-Nhận mệnh lệnh của tôi, hai con Golem gầm lên một tiếng rồi lao thẳng về phía 『Death Stalker』.
+Nhận lấy mệnh lệnh đanh thép của tôi, hai hộ pháp Golem gầm vang một tiếng rồi dậm chân ầm ầm lao thẳng về phía 『Death Stalker』.
 
-Kịch độc của nó tuy rất mạnh, nhưng đối với những thực thể không phải sinh vật sống như Golem thì hoàn toàn vô tác dụng. Độc của 『Death Stalker』 là độc thần kinh, không có tính chất axit ăn mòn mạnh mẽ như 『Đầm lầy thối rữa』 của Momokawa.
+Kịch độc của con quái vật tuy vô cùng khủng khiếp, nhưng đối với những thực thể vô cơ phi sinh học như Golem thì hoàn toàn vô hại. Nọc độc của 『Death Stalker』 thuần túy là độc tố thần kinh, không hề chứa thuộc tính axit ăn mòn quái đản như 『Đầm lầy thối rữa』 của Momokawa.
 
-Hơn nữa, dù có chuyện gì xảy ra đi chăng nữa, những con Golem không biết đau đớn này vẫn sẽ tiếp tục chiến đấu không ngừng nghỉ, tinh linh sẽ tiếp tục hiện hữu chừng nào ma lực yểm bên trong chưa cạn kiệt. Dù Golem có bị tiêu diệt thì tinh linh cấu thành nên chúng cũng không hề chết hay biến mất, thế nên tôi có thể thoải mái để chúng chiến đấu như những tốt thí mà không cần phải bận tâm điều gì.
+Hơn nữa, dù có bị đập phá tơi bời đến mức nào đi chăng nữa, những con Golem không biết đau đớn này vẫn sẽ tiếp tục lao vào cắn xé không ngừng nghỉ, chừng nào ma lực yểm bên trong còn chưa cạn kiệt thì tinh linh vẫn sẽ trường tồn. Ngay cả khi hình thể Golem bị phá hủy hoàn toàn thì linh hồn tinh linh cấu thành nên chúng cũng không hề chết đi hay tan biến, thế nên tôi có thể thảnh thơi điều động chúng làm tốt thí tiên phong mà không phải chịu bất kỳ gánh nặng tâm lý nào.
 
-Nếu là con người hay động vật, chỉ cần bị thương một chút thôi cũng là chuyện đại sự. Ngay cả khi Beniwo hóa thành Linh thú, tôi cũng không thể để em ấy mạo hiểm một cách dễ dàng như vậy được.
+Nếu là con người hay muông thú, chỉ cần dính phải một vết xước thôi cũng đã là thảm họa. Ngay cả khi Beniwo tiến vào trạng thái Linh thú, tôi cũng không bao giờ nỡ để em ấy phải dấn thân vào hiểm nguy một cách khinh suất như vậy.
 
-Đến lúc này, tôi mới thấu hiểu sâu sắc cảm giác của Momokawa khi cậu ta thường xuyên sử dụng Skeleton và High Zombie trong chiến đấu. Chính nhờ có những quân cờ thí có thể hy sinh bất cứ lúc nào mà không cần lo lắng về thương vong, chúng tôi mới có thể bảo vệ đồng đội của mình khỏi hiểm nguy.
+Đến tận giây phút này, tôi mới thực sự thấu hiểu được cảm giác của Momokawa mỗi khi cậu ta thản nhiên xua Skeleton và High Zombie ra chiến trường. Nhờ có những con tốt thí sẵn sàng tan xương nát thịt mà không để lại bất kỳ sự mất mát nào, chúng tôi mới có thể bảo toàn sinh mạng cho các đồng đội quý giá của mình trước lưỡi hái tử thần.
 
 “Gầm gừừừừ!”
 
 “Khòòòòò!”
 
-Từ phía bên phải, 『Rock Golem』 vung nắm đấm cứng như đá tảng lao vào.
+Bên mạn phải, 『Rock Golem』 giương cao nắm đấm đá tảng nặng nề giáng xuống.
 
-Từ phía bên trái, 『Ice Golem』 tỏa ra luồng hàn khí lạnh toát, dùng vai húc mạnh tới.
+Bên mạn trái, 『Ice Golem』 bốc tỏa hàn khí buốt giá, dùng bờ vai băng tuyết húc sầm tới.
 
-Cả hai con Golem dũng mãnh lao vào tấn công 『Death Stalker』, và rồi...
+Hai con Golem dũng mãnh hiệp đồng công kích nhắm thẳng vào 『Death Stalker』, và rồi...
 
 *Rắc rắc rắc, rầm! Xoảnggggggg!!*
 
-Những tiếng động kinh hoàng vang lên, đất đá và băng tuyết vỡ vụn bắn tung tóe.
+Một chuỗi âm thanh ghê rợn đinh tai nhức óc vang lên, đất đá vỡ vụn hòa lẫn với mảnh băng gãy nát bắn tung tóe khắp bốn phương tám hướng.
 
-“...Cái gì?”
+“...Cái gì cơ?”
 
-Hai chiếc càng khổng lồ của 『Death Stalker』 đang kẹp chặt lấy 『Ice Golem』 và 『Rock Golem』. Không, phải nói là đã từng kẹp chặt mới đúng.
+Hai gọng kìm khổng lồ của 『Death Stalker』 đang kẹp chặt lấy thân mình của 『Ice Golem』 và 『Rock Golem』. À không, chính xác hơn là vừa mới nghiền nát chúng xong.
 
-Đối phó với hai con Golem đang lao tới, 『Death Stalker』 đã vung đôi càng lớn tàn bạo của mình với tốc độ nhanh đến mức mắt thường không kịp nhìn, chuẩn xác kẹp chặt lấy thân hình của hai con Golem.
+Đối diện với đòn vây hãm của hai hộ pháp Golem, 『Death Stalker』 chỉ vung đôi càng khổng lồ tàn bạo với tốc độ nhanh đến mức mắt thường không thể bắt kịp, chuẩn xác khóa cứng lấy phần thân của cả hai đối thủ.
 
-Và ngay khoảnh khắc tiếp theo, nó bóp nát vụn cơ thể hộ pháp của chúng.
+Và ngay khoảnh khắc tiếp theo, nó bóp nát vụn cơ thể hộ pháp của chúng như bóp vỡ vỏ trứng.
 
 “Khèèèèèèèèèèèèèèèèè!!”
 
-Như để ăn mừng chiến thắng, 『Death Stalker』 giương cao đôi càng khổng lồ và rú lên một tiếng ghê rợn.
+Như một nghi thức phô trương chiến tích, 『Death Stalker』 giương cao đôi càng vấy máu rống lên một tiếng rợn tóc gáy.
 
-Từ đôi càng đang khua lên tạo ra những tiếng *cạch, cạch* khô khốc, những mảnh vụn đá và băng rơi xuống lả tả.
+Từ đôi kìm lớn đang khua múa tạo nên những tiếng *cạch, cạch* khô khốc, vô số mảnh vụn đá tảng và băng tuyết lả tả rơi rụng xuống nền đất.
 
-Bị đôi càng khổng lồ nghiền nát và chém làm đôi một cách dễ dàng, cả hai con Golem đều mất đi khả năng duy trì hình thể, biến thành những hạt tinh linh nhỏ bé lấp lánh rồi tan biến vào hư không.
+Bị đôi càng hộ pháp nghiền nát và chém đứt đôi trong chớp mắt, cả hai con Golem lập tức mất đi khả năng duy trì hình thể vật lý, biến thành muôn vàn hạt bụi tinh linh lấp lánh rồi tan biến hoàn toàn vào thinh không.
 
-“...Chủ nhân.”
+“...Chủ nhân ơi.”
 
-Beniwo cụp tai và đuôi xuống, gọi tôi bằng một giọng điệu vô cùng ái ngại.
+Beniwo cụp cả đôi tai lẫn chiếc đuôi xuống, cất tiếng gọi tôi bằng một chất giọng vô cùng ái ngại.
 
-“Hầy, Beniwo à, đã thế này thì hết cách rồi. Chúng ta phải dùng đến kế sách cuối cùng thôi.”
+“Haizz, Beniwo à, nước này thì hết đường cứu vãn rồi. Chúng ta đành phải dùng đến tuyệt chiêu cuối cùng thôi.”
 
-“Ch-Chủ nhân! Em sẽ cố gắng hết sức!!”
+“Ch-Chủ nhân! Em sẽ liều mạng hết sức mình!!”
 
 “Được rồi, Beniwo———— Chạy mauuuuu!!”
 
-Đánh thế quái nào được con quái vật đó chứ!
+Đánh đấm thế quái nào lại cái thứ quái vật phi lý đó chứ!
 
-Tôi lập tức ném quả cầu ánh sáng và quả cầu khói mang nhãn hiệu Momokawa xuống đất, rồi cắm đầu cắm cổ chạy bán sống bán chết.
+Tôi lập tức ném phắt cả quả cầu phát quang lẫn quả cầu tạo khói mang thương hiệu Momokawa xuống đất, rồi ba chân bốn cẳng cắm đầu cắm cổ chạy thục mạng.
 
 ***
 
 “————『Quang Pháo』!”
 
-Một luồng ánh sáng khổng lồ phóng ra từ trên lưng ngựa, thổi bay tên kị binh địch đang vừa bắn súng vừa lao song song bên cạnh.
+Một chùm sáng ma pháp khổng lồ gầm rống phóng ra từ trên lưng ngựa, thổi bay thẳng cánh tên kị binh địch đang vừa xả súng vừa phi song song bên cạnh chúng tôi.
 
-“Thế này thì không biết bao giờ mới hết đây.”
+“Cứ cái đà này thì không biết chừng nào mới dọn sạch được đây.”
 
-Vừa than thở, Sakura vừa lắp một lúc nhiều mũi tên ánh sáng vào 『Thánh Nữ Hòa Cung』 rồi đồng loạt bắn ra.
+Vừa cất giọng cằn nhằn, Sakura vừa thoăn thoắt cài một lúc nhiều mũi tên ánh sáng vào 『Thánh Nữ Hòa Cung』 rồi đồng loạt buông dây cung.
 
-Vốn dĩ đó chỉ là 『Quang Tiễn』, một ma pháp tấn công cấp thấp thuộc hệ Quang, nhưng dưới tay một người đã thăng cấp đáng kể với thiên chức 『Thánh Nữ』 như cô ta, uy lực của nó không chỉ tăng lên mà độ chính xác, tầm bắn cũng được cải thiện vượt trội, thậm chí còn có thể bắn nhiều mũi tên cùng một lúc.
+Vốn dĩ đó chỉ là 『Quang Tiễn』, ma pháp công kích sơ cấp thuộc hệ Quang, thế nhưng qua bàn tay của một kẻ đã thăng tiến vượt bậc với thiên chức 『Thánh Nữ』 như cô ta, uy lực của nó không chỉ tăng vọt khủng khiếp mà tầm bắn lẫn độ chuẩn xác cũng được cải thiện rõ rệt, thậm chí còn có thể thi triển đa mục tiêu cùng lúc.
 
-Hơn thế nữa, những mũi tên ánh sáng sau khi rời cung liền bay theo những quỹ đạo khác nhau, vẽ nên những đường cong trên không trung rồi lao thẳng về phía mục tiêu. Có vẻ như mỗi mũi tên đều được tích hợp khả năng tự tìm mục tiêu.
+Chưa dừng lại ở đó, những mũi tên ánh sáng sau khi rời khỏi dây cung liền tự động rẽ sang các quỹ đạo bay riêng biệt, uốn lượn những đường cong ma mị giữa không trung rồi lao vun vút về phía các mục tiêu đã định. Có vẻ như mỗi mũi tên đều được tích hợp khả năng tự động truy kích đối phương.
 
-Không hề lệch một phân, những mũi tên ánh sáng găm thẳng vào những kẻ địch đã bị khóa mục tiêu———— thế nhưng từ sâu trong rừng, quân tiếp viện của địch vẫn tiếp tục tràn ra hết lớp này đến lớp khác.
+Không lệch một ly, toàn bộ tiễn quang găm chuẩn xác vào từng tên lính địch đang bám đuổi———— thế nhưng từ sâu trong bóng tối của rừng rậm, viện binh của đối phương vẫn cứ nườm nượp tràn ra hết lớp này đến lớp khác.
 
-“Cứ nghĩ tích cực là ít ra con Boss vẫn chưa xuất hiện đi———— Lên đi, High Zombie.”
+“Cứ nghĩ lạc quan là ít nhất con Boss tầng vẫn chưa thèm mò ra đi———— Lên đi, High Zombie.”
 
-Để tôi chung đội với Sakura quả là một sự kết hợp đầy bất an. Tôi chẳng muốn đối đầu với bất kỳ con Boss nào cùng với cái tổ đội khắc khẩu này chút nào.
+Để tôi phải bắt cặp đi chung với Sakura đúng là một sự kết hợp đầy rủi ro và bất an. Tôi chẳng hề có chút hứng thú nào với việc phải đối đầu với bất kỳ con Boss nào cùng cái tổ đội lúc nào cũng chực chờ cắn xé lẫn nhau này.
 
-Dù tôi là người cầm dây cương điều khiển con ngựa, nhưng thực chất con ngựa một sừng giả này chính là Rem. Tôi chẳng cần phải nhọc công điều khiển làm gì, cứ để mặc cô bé tự chạy là cô bé sẽ tự biết né tránh chướng ngại vật một cách hoàn hảo.
+Dù tôi là người đang nắm dây cương điều khiển chiến mã, nhưng thực chất con ngựa một sừng giả này chính là do Rem biến hình thành. Tôi căn bản chẳng cần nhọc công lèo lái làm gì, cứ để mặc cô bé tự sải bước là cô bé sẽ tự động luồn lách né tránh mọi chướng ngại vật một cách hoàn hảo.
 
-Vì vậy, tôi chỉ việc nắm chặt 『Cây Gậy Của Kẻ Ngốc』 và tập trung vào nhiệm vụ tấn công phía trước.
+Nhờ thế, tôi có thể rảnh tay nắm chặt 『Cây Gậy Của Kẻ Ngốc』 và dồn toàn lực vào nhiệm vụ càn quét kẻ địch ở phía trước.
 
-Tôi xua một con High Zombie lao về phía kẻ địch đang định vòng qua để chặn đường tiến của chúng tôi.
+Tôi xua một con High Zombie lao thẳng về phía toán lính đang có ý định tạt cánh chặn đầu đường tiến của chúng tôi.
 
-Cho đến hiện tại, những kẻ tấn công chúng tôi chỉ toàn là những con rối ma đạo trang bị súng bắn tia sáng.
+Cho tới thời điểm hiện tại, những kẻ ngáng đường chúng tôi đa phần chỉ là lũ Ma Đạo Nhân Hình trang bị súng Blaster phát xạ tia sáng.
 
-Tuy nhiên, có lẽ để truy đuổi hai kẻ đang cưỡi ngựa chạy trốn như chúng tôi, từ nãy đến giờ bắt đầu xuất hiện thêm lũ rối kị binh cưỡi Raptor lù lù tiến ra.
+Thế nhưng, có lẽ nhận thấy hai mục tiêu đang cưỡi ngựa phi nước đại quá nhanh, từ nãy đến giờ bắt đầu xuất hiện thêm những đơn vị rối kị binh cưỡi trên lưng Raptor lù lù áp sát.
 
-Với một nền văn minh ma pháp tiên tiến như Albion, chắc chắn họ phải có vô số phương tiện di chuyển hiện đại, thế nhưng việc chúng vẫn phải cưỡi Raptor chứng tỏ Takanashi không có sẵn những thứ đó trong tay. Phải chi bọn chúng cưỡi mấy chiếc xe bay phân khối lớn kiểu viễn tưởng thì tôi đã vui vẻ cướp lấy một chiếc rồi.
+Với một nền văn minh ma đạo tối tân như Albion, chắc chắn họ không thiếu những phương tiện cơ giới hiện đại vượt bậc, việc lũ rối vẫn phải cưỡi Raptor chứng tỏ Takanashi không có sẵn những khí tài xịn sò đó trong tay. Giá như bọn chúng lôi mấy chiếc mô tô bay phân khối lớn kiểu khoa học viễn tưởng ra đuổi bắt thì tôi đã vui vẻ cướp lấy một chiếc để chạy cho sướng rồi.
 
-Dù sao thì, đối phó với lũ kị binh Raptor được tạo ra như một biện pháp chữa cháy này, tôi chỉ cần thả một con High Zombie ra là có thể dễ dàng vô hiệu hóa chúng. Dù là nhắm vào chân của Raptor hay nhắm thẳng vào tên lính cưỡi trên lưng, chỉ cần con High Zombie vạm vỡ của tôi tông trúng thì việc ngã ngựa là điều không thể tránh khỏi.
+Dù sao thì, đối phó với lũ kị binh Raptor chắp vá được tạo ra như một giải pháp tình thế này, tôi chỉ cần thả một con High Zombie ra là có thể dễ dàng giải quyết gọn gàng. Bất kể là nhắm vào chân của con Raptor hay quật thẳng vào tên kị sĩ trên lưng, chỉ cần thân hình hộ pháp của High Zombie tông trúng là đối phương cầm chắc việc ngã ngựa lộn nhào.
 
-Và thế là, con ngựa một sừng giả của chúng tôi không chút nương tình tông thẳng qua tên lính rối vừa bị High Zombie kéo ngã nhào khỏi lưng Raptor, tiếp tục sải bước lao về phía trước.
+Và thế là, con ngựa một sừng giả của chúng tôi chẳng buồn giảm tốc, tàn nhẫn giẫm đạp thẳng qua tên lính rối vừa bị High Zombie kéo ngã khỏi lưng thú, tiếp tục lao vút về phía trước.
 
 Húúúúúúúúúúúúúúúúú!!
 
-“Momokawa, Cerberus tới kìa!”
+“Momokawa, Cerberus đuổi tới rồi!”
 
-“Chậc, cuối cùng thì con Boss cũng chịu ra mặt rồi sao.”
+“Chậc, rốt cuộc thì con Boss cũng chịu thò mặt ra rồi đấy à.”
 
-Tiếng gầm rú đinh tai nhức óc của ba cái đầu vang lên, một thân hình khổng lồ với bộ lông màu đỏ rực đang điên cuồng đuổi theo từ phía sau.
+Tiếng gầm rú đinh tai nhức óc phát ra đồng thanh từ ba chiếc đầu quái dị vang dội khắp cánh rừng, một thân hình khổng lồ đỏ rực như ngọn lửa đang điên cuồng bám sát ngay phía sau đuôi ngựa.
 
-Có vẻ như nó không hề phối hợp với lũ kị binh rối. Con quái vật không ngần ngại húc văng tất cả những kẻ cản đường trên đường chạy của mình, điên cuồng áp sát về phía chúng tôi.
+Xem chừng nó chẳng hề có ý định phối hợp tác chiến với đám kị binh rối. Con ma thú cuồng bạo không ngần ngại húc văng bất cứ vật cản nào chắn ngang đường đi, hung hãn rút ngắn khoảng cách với chúng tôi.
 
-Con Cerberus này có kích thước vô cùng đồ sộ. Dù chúng tôi có được bảo vệ bởi 『Thánh Thiên Kết Giới』 đi chăng nữa, nếu bị cái vuốt trước của nó tát trúng thì cả người lẫn ngựa chắc chắn sẽ bị thổi bay.
+Kích thước của con Cerberus này thực sự quá đỗi khổng lồ. Dù chúng tôi có đang được bao bọc bởi 『Thánh Thiên Kết Giới』 đi chăng nữa, nếu trúng trọn một cú vả từ móng vuốt hộ pháp của nó thì cả người lẫn ngựa chắc chắn sẽ bị hất tung lên không trung.
 
-Dừng lại ở đây là tự sát. Nhưng bảo Sakura kết liễu nó trong chớp mắt như Mei thì quả thực là điều bất khả thi.
+Dừng chân lại nghênh chiến ở đây đồng nghĩa với tự sát. Nhưng bảo Sakura có thể lập tức tung đòn kết liễu nó trong chớp mắt như Mei-chan thì quả thực là chuyện viển vông.
 
-“Tôi sẽ giữ chân nó, cô bắn nát ba cái đầu của nó đi.”
+“Tôi sẽ khống chế giữ chân nó, cô liệu mà bắn nát cả ba cái đầu của nó đi.”
 
-“Hả, trong tình cảnh này cậu định cản Cerberus kiểu gì?”
+“Hả, trong tình thế này mà cậu đòi cản chân Cerberus kiểu gì?”
 
-“Mười giây nữa. Muốn niệm phép thì niệm ngay đi.”
+“Mười giây nữa. Muốn niệm phép thì liệu mà vận ma lực ngay từ bây giờ đi.”
 
-Những lúc thế này mà cứ phải nghi ngờ từng tí một đúng là phong cách của Sakura mà. Nếu là Mei hay Kyouko, tôi tin chắc họ sẽ tự hiểu ý và tận dụng ngay thời cơ mà không cần tôi phải nói nửa lời.
+Những lúc dầu sôi lửa bỏng thế này mà cứ phải nghi ngờ, vặn vẹo từng câu từng chữ đúng là tác phong cố hữu của Sakura. Nếu đổi lại là Mei-chan hay Kyouko, tôi dám chắc họ sẽ lập tức hiểu ý và chớp lấy thời cơ hành động mà chẳng cần tôi phải tốn công giải thích nửa lời.
 
-Mà thôi, cô ta cũng chẳng phải là kẻ nghiệp dư trong chiến đấu. Chỉ cần thấy con Cerberus bị khống chế, cô ta chắc chắn sẽ ra tay tấn công.
+Cơ mà, cô ta dù sao cũng chẳng phải tay mơ trên chiến trường. Chỉ cần thấy con Cerberus rơi vào thế bị động, cô ta nhất định sẽ không bỏ lỡ cơ hội ra tay.
 
-Làm ơn đi Sakura, đừng có làm ba cái trò lóng ngóng làm mất thời cơ như mấy đứa tân thủ đi rừng đấy nhé.
+Làm ơn đi Sakura, đừng có giở mấy cái trò lóng ngóng làm hỏng thời cơ như mấy đứa tân thủ mới bước chân vào dungeon đấy nhé.
 
 Gừ gừ khèèèèèèèèèèèèèèè!
 
-Ba cái đầu của nó nhe nanh vuốt gầm rú, sâu trong vòm họng rực lên ánh lửa đỏ rực. Chúng tôi sắp lọt vào phạm vi phun lửa của nó rồi. Tôi đã đoán trước được việc đầu tiên nó làm sẽ là phun lửa tấn công.
+Ba chiếc đầu của nó nhe nanh múa vuốt gầm thét, sâu trong cuống họng đã bắt đầu bùng lên ánh lửa đỏ rực. Chúng tôi sắp sửa lọt trọn vào tầm thiêu đốt của luồng hơi thở hỏa diệm. Tôi thừa biết đòn mở màn sở trường của nó lúc nào cũng là phun lửa diện rộng.
 
-Thế nên, thời điểm ra tay chính là lúc này.
+Vì lẽ đó, thời khắc phản công chuẩn xác nhất chính là ngay lúc này.
 
-Không sao, việc canh thời gian chuẩn xác để thả chướng ngại vật đè bẹp kẻ địch là trò tôi đã nhẵn mặt trong đống game từng chơi rồi. Tôi đã phát ngán với mấy cái mô-típ rập khuôn này rồi.
+Không thành vấn đề, việc căn chỉnh thời gian chuẩn từng tích tắc để thả chướng ngại vật đè bẹp đối thủ là ngón nghề tôi đã nhẵn mặt trong đống game từng cày nát ở thế giới cũ. Tôi đã phát ngấy với mấy cái mô-típ rập khuôn này rồi.
 
-“Đè bẹp nó đi, Tank.”
+“Đè bẹp dí nó đi, Tank.”
 
-Tôi vừa quay người lại vừa giơ cao cây gậy phép, một trận pháp triệu hoán màu máu lập tức xuất hiện ngay trên đỉnh đầu của Cerberus.
+Tôi xoay người lại, giơ cao cây trượng phép, một ma pháp trận triệu hoán đỏ thẫm như máu lập tức bừng sáng ngay trên đỉnh đầu của Cerberus.
 
-Tôi đã được trợ giúp rất nhiều từ kỹ năng triệu hoán của 『Đầu lâu của Triệu Hoán Thuật Sư』 này. Chính vì thế, việc tìm tòi cách sử dụng nó sao cho hiệu quả và tối ưu hơn là điều hoàn toàn tự nhiên.
+Tôi đã nhận được sự trợ lực vô cùng to lớn từ kỹ năng triệu hoán của 『Đầu lâu của Triệu Hoán Thuật Sư』 này. Chính vì thế, việc không ngừng đào sâu nghiên cứu để tối ưu hóa và biến hóa cách thức sử dụng nó là một lẽ đương nhiên.
 
-Trong quá trình thử nghiệm không ngừng nghỉ đó, hoặc có lẽ do độ thuần thục tăng lên giúp tôi ngộ ra kỹ năng mới, dù là lý do gì thì giờ đây tôi đã có thể làm được việc này.
+Trong quá trình liên tục thử nghiệm thực chiến, hoặc có lẽ nhờ độ thuần thục kỹ năng tăng cao đã giúp tôi ngộ ra chân lý mới, bất kể lý do là gì thì giờ đây tôi đã hoàn toàn làm chủ được kỹ thuật này.
 
-Đó chính là triển khai trận pháp triệu hoán ở bất kỳ vị trí nào trong tầm mắt của mình. Chẳng có điều luật nào bắt buộc triệu hoán thú cứ phải chui lên từ dưới mặt đất cả.
+Đó chính là khả năng khai mở pháp trận triệu hoán tại bất kỳ tọa độ nào nằm trong tầm quan sát của mắt thường. Đâu có bất kỳ quy chuẩn nào ép buộc triệu hoán thú cứ phải ngoi lên từ dưới mặt đất cơ chứ?
 
-Vì vậy, tôi đã triệu hồi Tank — triệu hoán thú có kích thước và trọng lượng lớn nhất mà tôi có thể triệu gọi lúc này — ngay trên đỉnh đầu của Cerberus.
+Chính vì vậy, tôi đã triệu hồi Tank — triệu hoán thú sở hữu thể tích và trọng lượng khủng khiếp nhất mà tôi có thể gọi ra vào lúc này — lơ lửng ngay phía trên đầu Cerberus.
 
-Một khi Tank xuất hiện ở trên không trung thì chuyện gì sẽ xảy ra tiếp theo?
+Một khi Tank xuất hiện sừng sững giữa tầng không thì điều gì sẽ xảy ra tiếp theo?
 
-Rõ ràng rồi. Ngay sau khi được triệu hồi, nó sẽ bị trọng lực kéo rơi thẳng xuống.
+Câu trả lời quá đỗi hiển nhiên. Ngay khoảnh khắc giáng thế, nó sẽ bị trọng lực kéo rơi tự do thẳng xuống dưới.
 
-Và ngay phía dưới bàn chân hộ pháp của Tank, con Cerberus đang điên cuồng lao tới...
+Và ngay bên dưới bàn chân hộ pháp nặng tựa núi non của Tank, chính là con Cerberus đang điên cuồng lao tới với tốc độ tối đa...
 
 Ángggggggggg!?
 
-Một tiếng rú thảm khốc vang lên, con Cerberus bị thân hình khổng lồ của Tank đè bẹp dí xuống đất.
+Một tiếng rên thảm thiết vang lên xé toạc màn đêm, con Cerberus bị khối lượng đồ sộ của Tank đè bẹp dí dính chặt xuống mặt đất.
 
-Dù sở hữu thân hình khổng lồ xứng tầm Boss ma vật, nhưng bị đè nặng bởi kích thước và trọng lượng của Tank thì nó cũng không thể nào chịu nổi.
+Dù có mang thân xác khổng lồ xứng danh Boss ma vật đi chăng nữa, việc phải gánh chịu trọn vẹn sức nặng ngàn cân cùng gia tốc rơi tự do của Tank là thứ vượt quá sức chịu đựng của nó.
 
-Gánh chịu một trọng lượng và lực va chạm ngoài dự tính, cả ba cái đầu của Cerberus đều thè lưỡi ra một cách ngốc nghếch, toàn thân cứng đờ không thể cử động.
+Hứng trọn một lực va đập kinh hoàng ngoài mọi dự tính, cả ba chiếc đầu của Cerberus đều thè lưỡi ra một cách thảm hại, toàn thân tê liệt cứng đờ không thể nhúc nhích.
 
 “————『Thiểm Quang Bạch Thỉ』!”
 
-Một mũi tên ánh sáng khổng lồ, không, phải nói là một ma pháp tấn công cấp cao có hình dáng như một ngọn thương kị binh dài được bắn ra từ cây cung của Sakura.
+Một mũi tên ánh sáng khổng lồ, không, chuẩn xác hơn phải gọi là một đại ma pháp công kích cấp cao mang hình dáng của một ngọn thương kị sĩ dài ngoằng lập tức phóng ra từ cánh cung của Sakura.
 
-Quả nhiên, cô ta không phải là kẻ nghiệp dư đến mức bỏ lỡ một sơ hở lớn như vậy.
+Quả nhiên, cô ta không phải hạng nghiệp dư đến mức bỏ lỡ một sơ hở mười mươi như thế này.
 
-Ba phát bắn liên tiếp của ma pháp tấn công cấp cao đã găm thẳng vào ba cái đầu của Cerberus, kết liễu nó một cách hoàn hảo.
+Ba phát bắn liên tiếp của ma pháp cấp cao găm thẳng tắp vào chính giữa ba chiếc đầu của Cerberus, kết liễu hoàn toàn sinh mạng của con Boss hung hãn.
 
-“Làm tốt lắm, Sakura-chan. Ta ban lời khen đấy.”
+“Làm tốt lắm, Sakura-chan. Ta ban lời khen ngợi đấy.”
 
-“Không chọc điên người khác một lần là cậu không chịu nổi à?”
+“Cậu không chọc ngoáy người khác một câu là không chịu nổi à?”
 
-“Tôi đang thật lòng khen ngợi cô mà———— Ồ, có vẻ chúng ta sắp ra khỏi rừng rồi kìa.”
+“Tôi đang thực lòng khen ngợi cô mà———— Ồ, xem ra chúng ta sắp thoát khỏi cánh rừng này rồi kìa.”
 
-Bỏ lại xác con Cerberus phía sau, chúng tôi tiếp tục phi nước đại, tầm nhìn phía trước bỗng chốc trở nên vô cùng thông thoáng.
+Bỏ lại cái xác bất động của Cerberus sau lưng, chúng tôi tiếp tục phi nước đại, tầm nhìn phía trước bỗng chốc mở rộng thênh thang.
 
-Những hàng cây thưa dần, và chẳng mấy chốc chúng tôi đã băng qua cánh rừng để tiến vào một khoảng đất rộng lớn.
+Những rặng cây rậm rạp thưa dần, và chẳng mấy chốc chúng tôi đã phá vỡ ranh giới cánh rừng để đặt chân vào một bình nguyên rộng lớn.
 
-“Một thảo nguyên... và có vẻ như là một ngọn đồi nhỏ.”
+“Một thảo nguyên... và phía xa dường như là một ngọn đồi thoai thoải.”
 
-“Hơi phiền phức rồi đây, trống trải thế này thì Takanashi sẽ nhìn thấy hết sạch mất.”
+“Phiền phức rồi đây, địa hình trống trải thế này thì mọi hành tung của chúng ta sẽ bị Takanashi nắm thóp hết.”
 
-Đúng như những gì Sakura nhận xét, trước mắt chúng tôi là một thảo nguyên xanh mướt trải dài, phía xa là một ngọn đồi nhỏ nhấp nhô thoai thoải. Cảnh tượng ngọn đồi xanh mướt mà nhiều người thường hình dung, trông giống như một bức ảnh nền máy tính này, xuất hiện ở đây rõ ràng là vì nơi này là một khu vườn nhân tạo.
+Đúng như lời Sakura nhận xét, trải dài trước mắt chúng tôi là một thảo nguyên xanh ngắt bạt ngàn, phía xa xa là những triền đồi nhấp nhô mềm mại. Khung cảnh thảo nguyên xanh mướt mà người ta thường thấy trên các bức ảnh nền máy tính này xuất hiện ở đây, rõ ràng là minh chứng cho thấy nơi này thực chất là một khu vườn nhân tạo khép kín.
 
-“Nhưng có vẻ như kẻ địch đã rút lui rồi.”
+“Nhưng có vẻ như đám truy binh phía sau đã rút lui rồi.”
 
-“Ý đồ của cô ta là gì chứ... Nếu muốn dùng số lượng áp đảo thì tấn công ở đây rõ ràng là có lợi hơn nhiều.”
+“Cô ta lại đang toan tính cái quái gì nữa đây... Nếu muốn dùng số lượng để đè bẹp chúng ta thì dàn quân ở bãi đất trống này rõ ràng có lợi hơn nhiều chứ.”
 
-Ngay khi chúng tôi vừa ra khỏi rừng, sự truy đuổi của lũ rối kị binh bỗng chốc dừng lại hẳn.
+Ngay khi chúng tôi vừa đặt chân ra khỏi bìa rừng, toán kị binh rối bám đuổi phía sau bỗng đồng loạt dừng bước rồi quay đầu rút lui.
 
-Có lẽ phạm vi hoạt động của chúng đã được quy định rõ ràng, và vì đây là khu vực ngoài tầm quản lý nên chúng không thể tiến vào chăng?
+Phải chăng phạm vi hoạt động của chúng đã được lập trình cố định, và vì đây là khu vực nằm ngoài tầm kiểm soát nên chúng không thể tiến vào?
 
-Không, tôi không nghĩ Takanashi lại chấp nhận một sự bất tiện như vậy.
+Không, tôi không nghĩ một kẻ cẩn trọng như Takanashi lại chấp nhận một lỗ hổng ngớ ngẩn đến vậy.
 
-Điều đó có nghĩa là, cô ta nhận thấy không cần phải nhờ đến lũ tép riu đó nữa———— ngay khi tôi vừa đi đến kết luận đó.
+Điều đó chỉ có thể đồng nghĩa với việc, cô ta nhận thấy không cần thiết phải nhờ cậy đến lũ tép riu đó nữa———— ngay khoảnh khắc tôi vừa đi đến kết luận lạnh gáy ấy.
 
 Ầm ầm ầm ầm ầm...
 
-Một tiếng động trầm đục vang lên từ sâu trong lòng đất, không, thực tế là một luồng rung chấn cực mạnh đang làm rung chuyển cả mặt đất.
+Một chuỗi âm thanh trầm đục ghê người vọng lên từ sâu thẳm dưới lòng đất, không, thực chất là một cơn địa chấn dữ dội đang khiến toàn bộ mặt đất rung chuyển dữ dội.
 
-Phía bên kia của thảo nguyên rộng lớn. Ở nơi đó, một tòa tháp khổng lồ đang mọc lên như muốn đâm toạc bầu trời————
+Ở phía bên kia của thảo nguyên bạt ngàn. Tại nơi đó, một cấu trúc khổng lồ đang trồi lên sừng sững như muốn đâm toạc cả vòm trời————
 
-“Không, cái đó, lẽ nào...”
+“Không... cái thứ đó, lẽ nào là...”
 
-Một tòa tháp màu trắng khổng lồ trông như đang vươn thẳng lên bầu trời.
+Một tòa tháp màu trắng muốt khổng lồ ngỡ như đang vươn thẳng lên tận mây xanh.
 
-Thế nhưng, tòa tháp đó bỗng nhiên lắc lư qua lại, rồi uốn cong tạo thành một đường cung mềm mại.
+Thế nhưng, tòa tháp ấy bỗng nhiên ngả nghiêng lắc lư, rồi uốn lượn tạo thành một đường cong mềm mại đầy ma quái.
 
-Và rồi, một cái, hai cái, ba cái, tổng cộng có bốn cái như thế mọc lên, đồng loạt gầm lên một tiếng vang dội chấn động toàn bộ tầng hầm ngục này.
+Và rồi, một cái, hai cái, ba cái... tổng cộng có bốn chiếc cổ dài ngoằng như thế đồng loạt đội đất nhô lên, cùng cất tiếng gầm rống vang dội làm chấn động toàn bộ tầng hầm ngục này.
 
 “...Yamata no Orochi.”
 
-Này Takanashi, trong chuỗi Boss liên hoàn mà cô lại lôi cả Raid Boss ra thế này thì chơi bẩn quá rồi đấy nhé.`
+Này Takanashi, trong một màn Boss liên hoàn mà cô lại lôi hẳn cả Raid Boss ra nghênh đón thế này thì chơi bẩn quá rồi đấy nhé.`
             },
             {
                 "id": "ep_358",
@@ -93402,6 +93426,85 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 
 ---
 
+## [SKILL-015] 『Đại Sơn Thành Lũy』 (Taizan Jousai)
+
+- **id:** SKILL-015
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Đại Sơn Thành Lũy』 (Taizan Jousai)
+- **tên_gốc:** 大山城塞 / Taizan Jousai
+- **người_thi_triển:** Randou Kyouko (Thổ Ma Thuật)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 309, 317
+- **mô_tả:** Ma pháp Thổ cấp cao quy mô lớn, nâng mặt đất đùn lên tạo thành con dốc khổng lồ dài hơn 100m, cao gần 30m bắc thẳng lên đỉnh tường thành.
+
+---
+
+## [SKILL-016] 『Thi Hài Giáp』 (Corpse Armor)
+
+- **id:** SKILL-016
+- **loại:** KỸ NĂNG / CHÚ THUẬT
+- **tên_chuẩn:** 『Thi Hài Giáp』 (Corpse Armor)
+- **tên_gốc:** 死骸鎧 / Corpse Armor
+- **người_thi_triển:** Momokawa Kotarou (Ruinhilde / Hinagiku)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 311, 319
+- **mô_tả:** Chú thuật độc môn cho phép Kotarou tự dung hợp cơ thể vào thi nhân hình của Đại Chiến Sĩ Bazuzu, biến thành cự nhân lông đỏ sở hữu sức mạnh cận chiến kinh hoàng.
+
+---
+
+## [SKILL-017] 『Bách Thủ Phược』 (Hundred Hands Binding)
+
+- **id:** SKILL-017
+- **loại:** KỸ NĂNG / CHÚ THUẬT
+- **tên_chuẩn:** 『Bách Thủ Phược』 (Hundred Hands Binding)
+- **tên_gốc:** 百手縛
+- **người_thi_triển:** Momokawa Kotarou (Gậy Vô Đạo Nhất Thức)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 310
+- **mô_tả:** Phóng thích hàng trăm cánh tay hắc ám từ gậy Vô Đạo để tước đoạt vũ khí và khóa cứng mục tiêu.
+
+---
+
+## [SKILL-018] 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
+
+- **id:** SKILL-018
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
+- **tên_gốc:** 荒天落雷 / 肉体再生
+- **người_thi_triển:** Vua Oh-ma (Vương quốc Goma)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 319, 321
+- **mô_tả:** Triệu hồi sấm sét hủy diệt từ bầu trời và ma pháp chữa lành tái sinh tức thì mọi tổn thương thể xác cho bản thân và đồng minh.
+
+---
+
+## [SKILL-019] 『Khổng Lồ Hóa』 (Gigantification)
+
+- **id:** SKILL-019
+- **loại:** KỸ NĂNG / BẨM SINH
+- **tên_chuẩn:** 『Khổng Lồ Hóa』 (Gigantification)
+- **tên_gốc:** 巨大化
+- **người_thi_triển:** Các Đại Chiến Sĩ Goma (Zagan, Bandon, Gizaginzu, Jiji-Gogo, Bon, Bazuzu)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn Arc Goma
+- **mô_tả:** Năng lực đặc trưng của chủng tộc Đại Chiến Sĩ (Gira-Goma), biến đổi cơ thể thành cự nhân cao 5 - 10 mét với sức mạnh tàn phá khủng khiếp.
+
+
 ### 2. 🛡️ VẬT PHẨM, TRANG BỊ & DƯỢC PHẨM (ITEMS & WEAPONS)
 
 ## [ITEM-001] Ngân Thiết Kiếm
@@ -93613,6 +93716,89 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **mô_tả:** Thanh bảo kiếm hoàng kim tối thượng thuộc quyền sở hữu của Tendou Ryuuichi.
 
 ---
+
+## [ITEM-015] 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
+
+- **id:** ITEM-015
+- **loại:** VẬT PHẨM / TRANG BỊ MA PHÁP
+- **tên_chuẩn:** 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
+- **tên_gốc:** 突貫工事 / 突貫工事くん (Tokkan Kouji-kun)
+- **biệt_danh:** Bé Thi Công Thần Tốc
+- **người_chế_tạo:** Randou Kyouko + Momokawa Kotarou + Hayama Ritsuki
+- **phân_loại_mẫu:**
+  - **Mẫu 1 (Tokkan Kouji Mẫu 1):** Cọc sắt dài cắm làm điểm neo dẫn truyền ma lực để Kyouko kích hoạt ma pháp 『Đại Sơn Thành Lũy』 tạo đường dốc vượt tường thành.
+  - **Mẫu 2 (Tokkan Kouji Mẫu 2):** Cọc chuyên dụng kích hoạt ma pháp Thổ tạo các bức tường kiên cố dựng pháo đài cố thủ.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 309, 313, 317
+- **mô_tả:** Cọc kim loại khắc thuật thức dẫn truyền ma lực tăng tốc độ thi triển Thổ ma thuật lên mức tức thì.
+
+---
+
+## [ITEM-016] 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
+
+- **id:** ITEM-016
+- **loại:** VẬT PHẨM / PHƯƠNG TIỆN CHIẾN ĐẤU
+- **tên_chuẩn:** 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
+- **tên_gốc:** ロイロップス (Roiroppusu)
+- **phân_loại:**
+  - **Loyrops Số 1 (Bản Vận Tải Thiết Giáp):** Gắn cabin kim loại chống tên bắn, làm phòng phẫu thuật dã chiến của Himeno và kho tiếp tế lựu đạn cháy.
+  - **Loyrops Số 2 (Bản Đột Kích Trọng Trang):** Bọc giáp gai nhọn, trang bị súng phun lửa cỡ lớn do Trọng Chiến Binh Yamada điều khiển càn quét.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 308, 309, 318
+- **mô_tả:** Hai phương tiện chiến lược được cải tiến từ loài ma thú Loyrops bọc thép khổng lồ.
+
+---
+
+## [ITEM-017] 『Bát Táp Ngưu Ma Đao & Berserk X』
+
+- **id:** ITEM-017
+- **loại:** VẬT PHẨM / VŨ KHÍ & DƯỢC PHẨM
+- **tên_chuẩn:** 『Bát Táp Ngưu Ma Đao & Berserk X』
+- **tên_gốc:** 八颯牛魔刀 / Berserk X
+- **người_sở_hữu:** Futaba Meiko (Mei-chan)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 319, 321
+- **mô_tả:** Thanh đại đao nguyền rủa cực nặng kết hợp cùng thuốc cường hóa tối thượng Berserk X giúp Mei-chan chém bay đầu Đại Chiến Sĩ Trưởng Zagan.
+
+---
+
+## [ITEM-018] 『Viêm Kiếm Salamandra』 (Salamander Sword)
+
+- **id:** ITEM-018
+- **loại:** VẬT PHẨM / VŨ KHÍ MA PHÁP
+- **tên_chuẩn:** 『Viêm Kiếm Salamandra』 (Salamander Sword)
+- **người_sở_hữu:** Nakajima Haruma (Ma Pháp Kiếm Sĩ)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 306, 310
+- **mô_tả:** Thanh kiếm gia trì ma thuật lửa giúp Nakajima thi triển Hỏa Viêm Phòng Bích và các kiếm kỹ trung cấp hệ Hỏa.
+
+---
+
+## [ITEM-019] 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
+
+- **id:** ITEM-019
+- **loại:** VẬT PHẨM / BỘT NỔ MA LỰC
+- **tên_chuẩn:** 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
+- **người_chế_tạo:** Momokawa Kotarou
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 311, 316
+- **mô_tả:** Bom lõi ma lực cực lớn được Kotarou bí mật đặt dưới các cột trụ nâng đỡ, kích nổ đánh sập toàn bộ thành trì Vương quốc Goma.
+
 
 ### 3. 🐺 SINH VẬT, QUÁI VẬT & MA THÚ (MONSTERS & BEASTS)
 
@@ -93840,6 +94026,38 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **mô_tả:** Quái vật tượng đá biết bay canh giữ pháo đài và vách núi.
 
 ---
+
+## [MONSTER-016] Goma & Gira-Goma (Đại Chiến Sĩ)
+
+- **id:** MONSTER-016
+- **loại:** SINH VẬT / QUÁI VẬT & CHỦNG TỘC
+- **tên_chuẩn:** Goma & Gira-Goma (Đại Chiến Sĩ)
+- **tên_gốc:** ゴーマ (Goma) / ギラ・ゴーマ (Gira-Goma)
+- **phân_cấp:**
+  - **Goma thông thường:** Lính canh, công nhân, quái vật bốn tay canh gác thành trì.
+  - **Gira-Goma (Đại Chiến Sĩ):** Tầng lớp chiến binh tinh anh tối cao dưới trướng Vua Oh-ma (Zagan, Bazuzu, Bandon, Gizaginzu, Jiji-Gogo, Bon), sở hữu kỹ năng Khổng Lồ Hóa.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn Arc Goma
+- **mô_tả:** Chủng tộc ma nhân hiếu chiến làm chủ Vương quốc Goma dưới lòng đất.
+
+---
+
+## [MONSTER-017] Loyrops (Ma Thú Bọc Thép Khổng Lồ)
+
+- **id:** MONSTER-017
+- **loại:** SINH VẬT / MA THÚ THUẦN HÓA
+- **tên_chuẩn:** Loyrops (Ma Thú Bọc Thép)
+- **tên_gốc:** ロイロップス / Loyrops
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Ma thú ăn cỏ khổng lồ hình dáng tê giác bọc thép hai sừng, được thuần hóa làm phương tiện chuyên chở và xe bọc thép chiến đấu.
+
 
 ### 4. 📜 THUẬT NGỮ & KHÁI NIỆM THẾ GIỚI (WORLD TERMS)
 
@@ -96136,6 +96354,11 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 | Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
 | Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
 | Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
+
+### Tập 342:
+- Momokawa Kotarou triệu tập cuộc họp cơ mật cùng Souma Sakura, Kisaragi Ryouko và Tendou Ryuuichi để triển khai kế hoạch bắt sống Dũng Giả Souma Yuuto.
+- Kotarou phân tích kế hoạch đánh vào tâm lý và điểm yếu trực giác của Yuuto; Sakura kịch liệt phản đối vì cho là phi nhân tính nhưng bị Ryouko và Tendou bác bỏ để bảo đảm tỷ lệ thành công tối đa.
+- Nhóm thống nhất phương án phối hợp chế tác mô hình giả và chuẩn bị bẫy khống chế Dũng Giả.
 `,
             "style_guide": `# Quy Tắc Văn Phong & Định Dạng (Style Guide)
 **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả (呪術師は勇者になれない)

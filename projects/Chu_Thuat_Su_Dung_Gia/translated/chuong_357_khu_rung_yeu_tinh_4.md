@@ -2,294 +2,294 @@
 
 “K-Không lẽ con này... là thứ gọi là 『Death Stalker』 sao!?”
 
-Đây là lần đầu tiên tôi nhìn thấy ma vật này ngoài đời thực, nhưng nhờ hình dáng dễ nhận biết của một con bọ cạp khổng lồ, tôi lập tức đoán ra ngay. Trên hết, tôi đã được nghe Momokawa cảnh báo về sự nguy hiểm của thứ này.
+Đây là lần đầu tiên tôi tận mắt nhìn thấy ma vật này ngoài đời thực, nhưng nhờ hình dáng đặc trưng của một con bọ cạp khổng lồ, tôi lập tức nhận ra ngay. Trên hết, tôi đã từng nghe Momokawa cảnh báo rất kỹ về mức độ nguy hiểm của thứ này.
 
-Nó là Boss của khu vực sa mạc, một kẻ cực kỳ tàn bạo sở hữu kịch độc siêu mạnh. Mà ngay cả khi không có độc, với kích thước khổng lồ, lớp vỏ giáp dày cộp, lại thêm đôi càng khổng lồ làm vũ khí thế kia thì con quái vật này chẳng có lấy một điểm yếu nào.
+Nó chính là Boss của khu vực sa mạc, một kẻ săn mồi cực kỳ tàn bạo sở hữu kịch độc chết người. Mà ngay cả khi không tính đến nọc độc, chỉ riêng kích thước hộ pháp, lớp giáp kitin dày cộp cùng đôi càng hộ pháp sắc bén kia cũng đủ biến nó thành một pháo đài sinh học không tì vết.
 
-Momokawa từng kể rằng Tendou đã tiêu diệt nó để mang nguyên liệu về, và không biết bằng cách nào mà cả Yokomichi cũng hạ được một con. Cậu ta bảo với thực lực hiện tại của chúng tôi, nếu lập tổ đội thì không phải là không thể đánh bại, nhưng trừ khi thực sự cần nguyên liệu, bằng không tuyệt đối không được tự ý giao chiến với con Boss nguy hiểm này.
+Momokawa từng kể rằng Tendou từng đập tan xác một con để lấy nguyên liệu, và không biết bằng cách nào mà cả Yokomichi cũng từng hạ gục được một con tương tự. Cậu ta bảo với thực lực hiện tại của cả nhóm, nếu phối hợp nhịp nhàng theo tổ đội thì không phải không thắng nổi, nhưng trừ phi thực sự bức thiết cần nguyên liệu, bằng không tuyệt đối không được dại dột trêu vào con Boss này.
 
-Nhưng mà Momokawa ơi, tôi đâu có thèm ba cái nguyên liệu bọ cạp gì đâu, thế nhưng khi đối phương tự tìm đến gây sự thì tôi phải làm thế nào đây...
+Nhưng mà Momokawa ơi, tôi đâu có rảnh rỗi đi tìm ba cái nguyên liệu bọ cạp chết tiệt đó đâu! Nó tự mò tới chặn đường đòi lấy mạng tôi thì biết phải làm sao bây giờ...
 
 “Xèèèè, khèèèèèè!”
 
-Con bọ cạp khổng lồ vừa nghiến chặt bộ hàm có thiết kế mở ngang gớm ghiếc trông như loài nhện, vừa nhỏ những giọt dãi màu tím chắc chắn là kịch độc xuống đất, đôi mắt nó gườm gườm nhìn tôi. Từ những chiếc mắt kép vô cảm đặc trưng của loài côn trùng ấy, tôi cảm nhận rõ một sát ý thuần túy đang phóng ra.
+Con bọ cạp khổng lồ vừa nghiến ken két bộ hàm ngang gớm ghiếc hệt như loài nhện, vừa nhỏ từng giọt dịch dãi màu tím sẫm — thứ chắc chắn là kịch độc ăn mòn — xuống mặt đất, đôi mắt nó gườm gườm khóa chặt lấy tôi. Từ những thấu kính mắt kép vô cảm đến rợn người ấy, tôi cảm nhận rõ một luồng sát ý thuần túy đang điên cuồng bộc phát.
 
-*Tao. Sẽ. Giết. Mày.* À, trực giác của tôi mách bảo ngay rằng con này thuộc loại không thể giao tiếp bằng lời nói được rồi.
+*Tao. Sẽ. Giết. Mày.* Một linh cảm sắc lạnh chạy dọc sống lưng, mách bảo tôi rằng thứ quái vật này tuyệt đối không thể dùng lời lẽ để thương lượng.
 
 “Gừừừ... Gâu gâu!”
 
-Trong lúc tôi đang hoàn toàn bị áp chế bởi uy áp của 『Death Stalker』, Beniwo đã dũng cảm lao lên phía trước để che chắn cho tôi và sủa lớn.
+Trong lúc tôi còn đang chết lặng trước uy áp nghẹt thở của 『Death Stalker』, Beniwo đã dũng cảm lao vụt lên chắn trước mặt tôi, cất tiếng sủa thị uy.
 
 “Chủ nhân, em, bảo vệ! Húúúúú!!”
 
 “Beniwo, em...”
 
-Phải rồi, bên cạnh tôi vẫn còn có tụi nó mà. Tôi không thể cứ đứng đực ra đó vì sợ hãi một con bọ cạp khổng lồ được!
+Phải rồi, bên cạnh tôi vẫn còn có đồng đội cơ mà. Tôi không thể cứ đứng run rẩy như một kẻ vô dụng trước mặt một con bọ cạp khổng lồ thế này được!
 
-“Đ-Được rồi, chơi luôn... Này Beniwo, em lùi lại một chút đi. Đối thủ là kẻ có kịch độc nguy hiểm lắm, đừng có lao vào bừa bãi.”
+“Đ-Được rồi, chơi tới bến luôn... Này Beniwo, em lùi lại phía sau một chút đi. Đối thủ có kịch độc cực kỳ nguy hiểm, đừng có lao vào liều mạng.”
 
-“Nhưng mà, Chủ nhân.”
+“Nhưng mà, Chủ nhân...”
 
-“Đừng lo, chắc chắn sẽ có đất diễn cho em mà.”
+“Đừng lo, chắc chắn lát nữa sẽ có đất diễn cho em.”
 
-Vừa nói, tôi vừa thọc bàn tay đẫm mồ hôi vì sợ hãi và căng thẳng vào trong túi hành lý để lục lọi.
+Vừa trấn an, tôi vừa thọc bàn tay ướt đẫm mồ hôi vì căng thẳng vào sâu trong túi hành lý để lục lọi.
 
-Trong tình cảnh Kinako không có ở đây, Beniwo là người đồng hành đáng tin cậy nhất của tôi. Bởi vì em ấy có thể kích hoạt 『Linh Thú Hóa』.
+Trong tình cảnh Kinako không có mặt ở đây, Beniwo chính là người đồng hành đáng tin cậy nhất của tôi. Bởi vì em ấy nắm giữ khả năng kích hoạt 『Linh Thú Hóa』.
 
-Thế nhưng, Linh thú là quân bài tẩy của cả tôi lẫn mọi người.
+Thế nhưng, Linh thú lại là con át chủ bài tối hậu của cả tôi lẫn toàn đội.
 
-Dù là lúc chiến đấu với Yokomichi đã biến thành quái vật, hay lúc Zagan hồi sinh ở Vương quốc Goma, chính nhờ việc lật ngược tình thế bằng quân bài tẩy Linh thú vào những thời khắc quyết định mà chúng tôi mới có thể vượt qua nghịch cảnh.
+Dù là trong trận tử chiến với một Yokomichi đã biến dạng thành quái vật, hay lúc đối đầu với Zagan hồi sinh ở Vương quốc Goma, chính nhờ việc tung ra quân bài tẩy Linh thú để lật ngược tình thế vào những thời khắc ngàn cân treo sợi tóc mà chúng tôi mới có thể sống sót vượt qua nghịch cảnh.
 
-Và trên hết, Momokawa đã nói rằng cậu ta tin tưởng giao cho tôi quyết định thời điểm sử dụng quân bài tẩy quan trọng đó. Từ trước đến nay vẫn luôn như vậy. Cậu ta phó thác cho tôi, tin tưởng vào phán đoán của tôi trong những tình huống ngặt nghèo nhất.
+Và trên hết, Momokawa đã nói rằng cậu ta hoàn toàn tin tưởng giao lại quyền phán đoán thời điểm sử dụng quân bài tối thượng đó cho tôi. Từ trước đến nay vẫn luôn như vậy. Cậu ta phó thác cho tôi, đặt trọn niềm tin vào tôi trong những thời khắc hiểm nghèo nhất.
 
-Những lần thành công trước đây chắc chắn chỉ là ăn may. Chúng tôi chỉ gặp may mắn thôi, còn người cố gắng nhất chính là Kinako và Beniwo khi tự mình hóa thân thành Linh thú để chiến đấu. Tôi chỉ đóng vai trò như một cục pin dự phòng, vắt kiệt ma lực và đặt niềm tin vào bọn họ mà thôi. Hoàn toàn không phải vì tôi có khả năng phán đoán tình huống xuất sắc hay có mưu mẹo thiên tài gì trong lúc nguy cấp cả.
+Những lần thành công trước đây ắt hẳn chỉ là ăn may mà thôi. Chúng tôi chỉ đơn thuần gặp may mắn, còn những kẻ đã chiến đấu quên mình chính là Kinako và Beniwo khi gồng mình hóa thân thành Linh thú. Tôi chỉ đóng vai trò như một bình ắc quy dự phòng, dốc cạn ma lực và gửi gắm toàn bộ niềm tin vào bọn họ. Hoàn toàn không phải vì tôi có đầu óc chiến thuật thiên tài hay khả năng ứng biến xuất chúng gì trong lúc nguy cấp cả.
 
-Thật lòng mà nói, tôi vẫn muốn Momokawa là người quyết định thời điểm sử dụng Linh thú hóa hơn. Bởi vì tôi tin tưởng vào những gì cậu ta nói. Tôi có thể đánh cược mạng sống của mình vào đó.
+Nói thật lòng, tôi vẫn muốn Momokawa là người đứng ra chỉ định thời điểm kích hoạt Linh thú hơn. Bởi vì tôi tin tưởng tuyệt đối vào phán đoán của cậu ta. Tôi sẵn sàng đem tính mạng mình ra đặt cược vào những quyết định đó.
 
-Thế nhưng, nếu cậu ta đã nói là giao lại cho tôi———— thì tôi sẽ làm.
+Thế nhưng, một khi cậu ta đã nói rằng hãy giao lại cho tôi———— thì tôi nhất định phải gánh vác cho bằng được.
 
-“Thế nên là, đối với một con Boss thông thường như mày, tao việc gì phải lãng phí quân bài tẩy chứ!”
+“Thế nên là, đối với một con Boss thông thường như mày, tao việc quái gì phải đốt sạch quân bài tẩy chứ!”
 
-Sức mạnh này không phải để giải cứu bản thân tôi lúc gặp nguy hiểm. Nó là sức mạnh để cứu mọi người khi lâm vào bước đường cùng.
+Sức mạnh này sinh ra không phải chỉ để giải cứu bản thân tôi lúc gặp nguy hiểm. Nó là sức mạnh tối thượng để bảo bọc mọi người khi bị dồn vào đường cùng.
 
-Chúng tôi đang chuẩn bị đối đầu với một Takanashi Kotori thâm hiểm và tàn độc. Tôi tuyệt đối không thể lãng phí sức mạnh của Linh thú ở một nơi như thế này.
+Chúng tôi đang chuẩn bị bước vào trận quyết đấu sinh tử với một Takanashi Kotori đầy mưu mô và tàn độc. Tôi tuyệt đối không được phép lãng phí sức mạnh Linh thú ở một xó xỉnh như thế này.
 
-“Làm ơn, hãy xuất hiện đi———— Triệu hoán Golem!!”
+“Làm ơn, hãy ra đi———— Triệu hoán Golem!!”
 
-Tôi hét lên như một lời cầu nguyện, rồi ném hai viên Quang thạch vừa lấy ra từ trong túi.
+Tôi gầm lên như một lời cầu nguyện, đồng thời vung tay ném mạnh hai viên Quang thạch vừa rút ra từ túi đồ.
 
-Hai viên Quang thạch tôi nắm trong tay chỉ to bằng quả bóng bàn, một viên phát ra ánh sáng màu xanh lam nhạt, viên còn lại tỏa ra sắc cam đậm dịu nhẹ.
+Hai viên Quang thạch nằm gọn trong lòng bàn tay tôi chỉ nhỉnh hơn quả bóng bàn một chút, một viên phát ra ánh lam quang dịu mát, viên còn lại tỏa ra sắc cam ấm nồng rực rỡ.
 
-Đây không phải là Quang thạch thông thường. Đây là những viên Quang thạch chuyên dụng để triệu hoán mà Momokawa đã chuẩn bị cho tôi, vì suy cho cùng tôi vẫn chưa thể sử dụng thành thạo ma pháp triệu hoán tinh linh cấp trung trở lên.
+Đây không phải là Quang thạch thông thường. Chúng là những viên ma thạch chuyên dụng để triệu hoán mà Momokawa đã dày công chuẩn bị riêng cho tôi, bởi cậu ta biết rõ tôi vẫn chưa thể tự mình làm chủ các ma pháp triệu hoán tinh linh từ cấp trung trở lên.
 
-Viên màu xanh lam là viên Quang thạch đã được Lớp trưởng yểm ma lực thuộc tính Băng để cường hóa.
+Viên màu xanh lam là Quang thạch đã được Lớp trưởng Ryouko yểm ma lực thuộc tính Băng cực mạnh để cường hóa.
 
-Viên màu cam là viên được Randou yểm ma lực thuộc tính Thổ tương tự.
+Viên màu cam là tác phẩm do đích thân Randou-san rót đầy ma lực thuộc tính Thổ kiên cố.
 
-Cả hai viên đều có lượng ma lực bên trong vượt trội so với đá thô, hơn nữa Momokawa còn khắc sẵn ma pháp trận triệu hoán cùng với mấy thứ gọi là chú ấn lên đó.
+Cả hai viên đều tích tụ trữ lượng ma lực vượt trội hoàn toàn so với đá thô tự nhiên, hơn thế nữa, chính tay Momokawa còn tỉ mỉ khắc sẵn các ma pháp trận triệu hoán cùng vô số đồ án chú thuật phức tạp lên bề mặt của chúng.
 
-Đối với một kẻ mù tịt về thần chú hay thuật thức ma pháp như tôi, đây chính là món vật phẩm cứu cánh cho tân thủ, chỉ cần truyền ma lực vào là ma pháp triệu hoán chắc chắn sẽ thành công 100%.
+Đối với một kẻ mù tịt về thần chú lẫn cấu trúc thuật thức ma pháp như tôi, đây chính là món bảo bối cứu mạng dành cho dân nghiệp dư — chỉ cần rót ma lực kích hoạt là ma pháp triệu hoán chắc chắn sẽ thành công 100%.
 
-Đúng vậy, việc triệu hoán thì chắc chắn thành công... nhưng liệu tinh linh xuất hiện có sức mạnh tương xứng với lượng ma lực bỏ ra hay không thì hoàn toàn là một canh bạc.
+Đúng vậy, việc triệu hoán thành công thì được bảo đảm tuyệt đối... nhưng liệu thực thể tinh linh bước ra có mang sức mạnh tương xứng với lượng ma lực đã tiêu tốn hay không thì hoàn toàn phụ thuộc vào vận may.
 
-Vì vậy, tôi chỉ biết cầu nguyện. Làm ơn, hãy là cấp trung trở lên.
+Chính vì thế, tôi chỉ biết cầu nguyện trong vô vọng. Làm ơn đi, ít nhất cũng phải là cấp trung trở lên!
 
 “Gừ gừ gừ!”
 
 “Khòòòò...”
 
-Và rồi, hai viên Quang thạch nổ tung, từ trận pháp triệu hoán hiện ra hai bóng người khổng lồ.
+Ngay sau đó, hai viên Quang thạch đồng loạt phát nổ, từ tâm điểm của hai pháp trận triệu hoán rực sáng liền trồi lên hai bóng hình khổng lồ sừng sững.
 
-Một bên được tạo thành từ những khối đá thô ráp, bên còn lại được định hình từ những khối băng trong suốt, tạo nên những cơ thể hộ pháp vạm vỡ.
+Một bên được ghép nối từ những khối nham thạch thô ráp, bên còn lại được đúc kết từ những khối băng vĩnh cửu trong suốt, tạo nên hai cơ thể hộ pháp đồ sộ và uy dũng vô cùng.
 
-“Tuyệt quá, là Golem tinh linh cấp trung!”
+“Tuyệt vời, là Golem tinh linh cấp trung!”
 
-Kích thước và luồng ma lực này chắc chắn là cấp trung không sai vào đâu được. Đối với một kẻ không thể tự triệu hồi tinh linh cấp trung như tôi, đây quả là một cú trúng độc đắc ngoài mong đợi.
+Nhìn vào thể tích khổng lồ cùng luồng áp lực ma lực này, chắc chắn là cấp trung không thể nghi ngờ. Đối với một kẻ bất tài không thể tự triệu hồi tinh linh cấp trung như tôi, đây chẳng khác nào một cú trúng số độc đắc ngoài sức tưởng tượng.
 
-Ban đầu tôi chỉ nghĩ dùng cả hai viên, nếu trúng được một con cấp trung là tốt lắm rồi, không ngờ cả hai viên đều trúng lớn.
+Ban đầu tôi chỉ nghĩ nếu ném cả hai viên mà trúng được một con cấp trung thôi cũng đã là phúc đức lắm rồi, ai ngờ cả hai viên đều mang lại kết quả mỹ mãn thế này.
 
-“Vận may đến rồi, chắc chắn là vận may đang đến rồi! Lên đi, 『Ice Golem』 và 『Rock Golem』! Đập tan xác con bọ cạp kia cho tao!!”
+“Vận may đến rồi, chắc chắn thời của mình tới rồi! Lên đi, 『Ice Golem』 và 『Rock Golem』! Nghiền nát con bọ cạp đó cho tao!!”
 
-Nhận mệnh lệnh của tôi, hai con Golem gầm lên một tiếng rồi lao thẳng về phía 『Death Stalker』.
+Nhận lấy mệnh lệnh đanh thép của tôi, hai hộ pháp Golem gầm vang một tiếng rồi dậm chân ầm ầm lao thẳng về phía 『Death Stalker』.
 
-Kịch độc của nó tuy rất mạnh, nhưng đối với những thực thể không phải sinh vật sống như Golem thì hoàn toàn vô tác dụng. Độc của 『Death Stalker』 là độc thần kinh, không có tính chất axit ăn mòn mạnh mẽ như 『Đầm lầy thối rữa』 của Momokawa.
+Kịch độc của con quái vật tuy vô cùng khủng khiếp, nhưng đối với những thực thể vô cơ phi sinh học như Golem thì hoàn toàn vô hại. Nọc độc của 『Death Stalker』 thuần túy là độc tố thần kinh, không hề chứa thuộc tính axit ăn mòn quái đản như 『Đầm lầy thối rữa』 của Momokawa.
 
-Hơn nữa, dù có chuyện gì xảy ra đi chăng nữa, những con Golem không biết đau đớn này vẫn sẽ tiếp tục chiến đấu không ngừng nghỉ, tinh linh sẽ tiếp tục hiện hữu chừng nào ma lực yểm bên trong chưa cạn kiệt. Dù Golem có bị tiêu diệt thì tinh linh cấu thành nên chúng cũng không hề chết hay biến mất, thế nên tôi có thể thoải mái để chúng chiến đấu như những tốt thí mà không cần phải bận tâm điều gì.
+Hơn nữa, dù có bị đập phá tơi bời đến mức nào đi chăng nữa, những con Golem không biết đau đớn này vẫn sẽ tiếp tục lao vào cắn xé không ngừng nghỉ, chừng nào ma lực yểm bên trong còn chưa cạn kiệt thì tinh linh vẫn sẽ trường tồn. Ngay cả khi hình thể Golem bị phá hủy hoàn toàn thì linh hồn tinh linh cấu thành nên chúng cũng không hề chết đi hay tan biến, thế nên tôi có thể thảnh thơi điều động chúng làm tốt thí tiên phong mà không phải chịu bất kỳ gánh nặng tâm lý nào.
 
-Nếu là con người hay động vật, chỉ cần bị thương một chút thôi cũng là chuyện đại sự. Ngay cả khi Beniwo hóa thành Linh thú, tôi cũng không thể để em ấy mạo hiểm một cách dễ dàng như vậy được.
+Nếu là con người hay muông thú, chỉ cần dính phải một vết xước thôi cũng đã là thảm họa. Ngay cả khi Beniwo tiến vào trạng thái Linh thú, tôi cũng không bao giờ nỡ để em ấy phải dấn thân vào hiểm nguy một cách khinh suất như vậy.
 
-Đến lúc này, tôi mới thấu hiểu sâu sắc cảm giác của Momokawa khi cậu ta thường xuyên sử dụng Skeleton và High Zombie trong chiến đấu. Chính nhờ có những quân cờ thí có thể hy sinh bất cứ lúc nào mà không cần lo lắng về thương vong, chúng tôi mới có thể bảo vệ đồng đội của mình khỏi hiểm nguy.
+Đến tận giây phút này, tôi mới thực sự thấu hiểu được cảm giác của Momokawa mỗi khi cậu ta thản nhiên xua Skeleton và High Zombie ra chiến trường. Nhờ có những con tốt thí sẵn sàng tan xương nát thịt mà không để lại bất kỳ sự mất mát nào, chúng tôi mới có thể bảo toàn sinh mạng cho các đồng đội quý giá của mình trước lưỡi hái tử thần.
 
 “Gầm gừừừừ!”
 
 “Khòòòòò!”
 
-Từ phía bên phải, 『Rock Golem』 vung nắm đấm cứng như đá tảng lao vào.
+Bên mạn phải, 『Rock Golem』 giương cao nắm đấm đá tảng nặng nề giáng xuống.
 
-Từ phía bên trái, 『Ice Golem』 tỏa ra luồng hàn khí lạnh toát, dùng vai húc mạnh tới.
+Bên mạn trái, 『Ice Golem』 bốc tỏa hàn khí buốt giá, dùng bờ vai băng tuyết húc sầm tới.
 
-Cả hai con Golem dũng mãnh lao vào tấn công 『Death Stalker』, và rồi...
+Hai con Golem dũng mãnh hiệp đồng công kích nhắm thẳng vào 『Death Stalker』, và rồi...
 
 *Rắc rắc rắc, rầm! Xoảnggggggg!!*
 
-Những tiếng động kinh hoàng vang lên, đất đá và băng tuyết vỡ vụn bắn tung tóe.
+Một chuỗi âm thanh ghê rợn đinh tai nhức óc vang lên, đất đá vỡ vụn hòa lẫn với mảnh băng gãy nát bắn tung tóe khắp bốn phương tám hướng.
 
-“...Cái gì?”
+“...Cái gì cơ?”
 
-Hai chiếc càng khổng lồ của 『Death Stalker』 đang kẹp chặt lấy 『Ice Golem』 và 『Rock Golem』. Không, phải nói là đã từng kẹp chặt mới đúng.
+Hai gọng kìm khổng lồ của 『Death Stalker』 đang kẹp chặt lấy thân mình của 『Ice Golem』 và 『Rock Golem』. À không, chính xác hơn là vừa mới nghiền nát chúng xong.
 
-Đối phó với hai con Golem đang lao tới, 『Death Stalker』 đã vung đôi càng lớn tàn bạo của mình với tốc độ nhanh đến mức mắt thường không kịp nhìn, chuẩn xác kẹp chặt lấy thân hình của hai con Golem.
+Đối diện với đòn vây hãm của hai hộ pháp Golem, 『Death Stalker』 chỉ vung đôi càng khổng lồ tàn bạo với tốc độ nhanh đến mức mắt thường không thể bắt kịp, chuẩn xác khóa cứng lấy phần thân của cả hai đối thủ.
 
-Và ngay khoảnh khắc tiếp theo, nó bóp nát vụn cơ thể hộ pháp của chúng.
+Và ngay khoảnh khắc tiếp theo, nó bóp nát vụn cơ thể hộ pháp của chúng như bóp vỡ vỏ trứng.
 
 “Khèèèèèèèèèèèèèèèèè!!”
 
-Như để ăn mừng chiến thắng, 『Death Stalker』 giương cao đôi càng khổng lồ và rú lên một tiếng ghê rợn.
+Như một nghi thức phô trương chiến tích, 『Death Stalker』 giương cao đôi càng vấy máu rống lên một tiếng rợn tóc gáy.
 
-Từ đôi càng đang khua lên tạo ra những tiếng *cạch, cạch* khô khốc, những mảnh vụn đá và băng rơi xuống lả tả.
+Từ đôi kìm lớn đang khua múa tạo nên những tiếng *cạch, cạch* khô khốc, vô số mảnh vụn đá tảng và băng tuyết lả tả rơi rụng xuống nền đất.
 
-Bị đôi càng khổng lồ nghiền nát và chém làm đôi một cách dễ dàng, cả hai con Golem đều mất đi khả năng duy trì hình thể, biến thành những hạt tinh linh nhỏ bé lấp lánh rồi tan biến vào hư không.
+Bị đôi càng hộ pháp nghiền nát và chém đứt đôi trong chớp mắt, cả hai con Golem lập tức mất đi khả năng duy trì hình thể vật lý, biến thành muôn vàn hạt bụi tinh linh lấp lánh rồi tan biến hoàn toàn vào thinh không.
 
-“...Chủ nhân.”
+“...Chủ nhân ơi.”
 
-Beniwo cụp tai và đuôi xuống, gọi tôi bằng một giọng điệu vô cùng ái ngại.
+Beniwo cụp cả đôi tai lẫn chiếc đuôi xuống, cất tiếng gọi tôi bằng một chất giọng vô cùng ái ngại.
 
-“Hầy, Beniwo à, đã thế này thì hết cách rồi. Chúng ta phải dùng đến kế sách cuối cùng thôi.”
+“Haizz, Beniwo à, nước này thì hết đường cứu vãn rồi. Chúng ta đành phải dùng đến tuyệt chiêu cuối cùng thôi.”
 
-“Ch-Chủ nhân! Em sẽ cố gắng hết sức!!”
+“Ch-Chủ nhân! Em sẽ liều mạng hết sức mình!!”
 
 “Được rồi, Beniwo———— Chạy mauuuuu!!”
 
-Đánh thế quái nào được con quái vật đó chứ!
+Đánh đấm thế quái nào lại cái thứ quái vật phi lý đó chứ!
 
-Tôi lập tức ném quả cầu ánh sáng và quả cầu khói mang nhãn hiệu Momokawa xuống đất, rồi cắm đầu cắm cổ chạy bán sống bán chết.
+Tôi lập tức ném phắt cả quả cầu phát quang lẫn quả cầu tạo khói mang thương hiệu Momokawa xuống đất, rồi ba chân bốn cẳng cắm đầu cắm cổ chạy thục mạng.
 
 ***
 
 “————『Quang Pháo』!”
 
-Một luồng ánh sáng khổng lồ phóng ra từ trên lưng ngựa, thổi bay tên kị binh địch đang vừa bắn súng vừa lao song song bên cạnh.
+Một chùm sáng ma pháp khổng lồ gầm rống phóng ra từ trên lưng ngựa, thổi bay thẳng cánh tên kị binh địch đang vừa xả súng vừa phi song song bên cạnh chúng tôi.
 
-“Thế này thì không biết bao giờ mới hết đây.”
+“Cứ cái đà này thì không biết chừng nào mới dọn sạch được đây.”
 
-Vừa than thở, Sakura vừa lắp một lúc nhiều mũi tên ánh sáng vào 『Thánh Nữ Hòa Cung』 rồi đồng loạt bắn ra.
+Vừa cất giọng cằn nhằn, Sakura vừa thoăn thoắt cài một lúc nhiều mũi tên ánh sáng vào 『Thánh Nữ Hòa Cung』 rồi đồng loạt buông dây cung.
 
-Vốn dĩ đó chỉ là 『Quang Tiễn』, một ma pháp tấn công cấp thấp thuộc hệ Quang, nhưng dưới tay một người đã thăng cấp đáng kể với thiên chức 『Thánh Nữ』 như cô ta, uy lực của nó không chỉ tăng lên mà độ chính xác, tầm bắn cũng được cải thiện vượt trội, thậm chí còn có thể bắn nhiều mũi tên cùng một lúc.
+Vốn dĩ đó chỉ là 『Quang Tiễn』, ma pháp công kích sơ cấp thuộc hệ Quang, thế nhưng qua bàn tay của một kẻ đã thăng tiến vượt bậc với thiên chức 『Thánh Nữ』 như cô ta, uy lực của nó không chỉ tăng vọt khủng khiếp mà tầm bắn lẫn độ chuẩn xác cũng được cải thiện rõ rệt, thậm chí còn có thể thi triển đa mục tiêu cùng lúc.
 
-Hơn thế nữa, những mũi tên ánh sáng sau khi rời cung liền bay theo những quỹ đạo khác nhau, vẽ nên những đường cong trên không trung rồi lao thẳng về phía mục tiêu. Có vẻ như mỗi mũi tên đều được tích hợp khả năng tự tìm mục tiêu.
+Chưa dừng lại ở đó, những mũi tên ánh sáng sau khi rời khỏi dây cung liền tự động rẽ sang các quỹ đạo bay riêng biệt, uốn lượn những đường cong ma mị giữa không trung rồi lao vun vút về phía các mục tiêu đã định. Có vẻ như mỗi mũi tên đều được tích hợp khả năng tự động truy kích đối phương.
 
-Không hề lệch một phân, những mũi tên ánh sáng găm thẳng vào những kẻ địch đã bị khóa mục tiêu———— thế nhưng từ sâu trong rừng, quân tiếp viện của địch vẫn tiếp tục tràn ra hết lớp này đến lớp khác.
+Không lệch một ly, toàn bộ tiễn quang găm chuẩn xác vào từng tên lính địch đang bám đuổi———— thế nhưng từ sâu trong bóng tối của rừng rậm, viện binh của đối phương vẫn cứ nườm nượp tràn ra hết lớp này đến lớp khác.
 
-“Cứ nghĩ tích cực là ít ra con Boss vẫn chưa xuất hiện đi———— Lên đi, High Zombie.”
+“Cứ nghĩ lạc quan là ít nhất con Boss tầng vẫn chưa thèm mò ra đi———— Lên đi, High Zombie.”
 
-Để tôi chung đội với Sakura quả là một sự kết hợp đầy bất an. Tôi chẳng muốn đối đầu với bất kỳ con Boss nào cùng với cái tổ đội khắc khẩu này chút nào.
+Để tôi phải bắt cặp đi chung với Sakura đúng là một sự kết hợp đầy rủi ro và bất an. Tôi chẳng hề có chút hứng thú nào với việc phải đối đầu với bất kỳ con Boss nào cùng cái tổ đội lúc nào cũng chực chờ cắn xé lẫn nhau này.
 
-Dù tôi là người cầm dây cương điều khiển con ngựa, nhưng thực chất con ngựa một sừng giả này chính là Rem. Tôi chẳng cần phải nhọc công điều khiển làm gì, cứ để mặc cô bé tự chạy là cô bé sẽ tự biết né tránh chướng ngại vật một cách hoàn hảo.
+Dù tôi là người đang nắm dây cương điều khiển chiến mã, nhưng thực chất con ngựa một sừng giả này chính là do Rem biến hình thành. Tôi căn bản chẳng cần nhọc công lèo lái làm gì, cứ để mặc cô bé tự sải bước là cô bé sẽ tự động luồn lách né tránh mọi chướng ngại vật một cách hoàn hảo.
 
-Vì vậy, tôi chỉ việc nắm chặt 『Cây Gậy Của Kẻ Ngốc』 và tập trung vào nhiệm vụ tấn công phía trước.
+Nhờ thế, tôi có thể rảnh tay nắm chặt 『Cây Gậy Của Kẻ Ngốc』 và dồn toàn lực vào nhiệm vụ càn quét kẻ địch ở phía trước.
 
-Tôi xua một con High Zombie lao về phía kẻ địch đang định vòng qua để chặn đường tiến của chúng tôi.
+Tôi xua một con High Zombie lao thẳng về phía toán lính đang có ý định tạt cánh chặn đầu đường tiến của chúng tôi.
 
-Cho đến hiện tại, những kẻ tấn công chúng tôi chỉ toàn là những con rối ma đạo trang bị súng bắn tia sáng.
+Cho tới thời điểm hiện tại, những kẻ ngáng đường chúng tôi đa phần chỉ là lũ Ma Đạo Nhân Hình trang bị súng Blaster phát xạ tia sáng.
 
-Tuy nhiên, có lẽ để truy đuổi hai kẻ đang cưỡi ngựa chạy trốn như chúng tôi, từ nãy đến giờ bắt đầu xuất hiện thêm lũ rối kị binh cưỡi Raptor lù lù tiến ra.
+Thế nhưng, có lẽ nhận thấy hai mục tiêu đang cưỡi ngựa phi nước đại quá nhanh, từ nãy đến giờ bắt đầu xuất hiện thêm những đơn vị rối kị binh cưỡi trên lưng Raptor lù lù áp sát.
 
-Với một nền văn minh ma pháp tiên tiến như Albion, chắc chắn họ phải có vô số phương tiện di chuyển hiện đại, thế nhưng việc chúng vẫn phải cưỡi Raptor chứng tỏ Takanashi không có sẵn những thứ đó trong tay. Phải chi bọn chúng cưỡi mấy chiếc xe bay phân khối lớn kiểu viễn tưởng thì tôi đã vui vẻ cướp lấy một chiếc rồi.
+Với một nền văn minh ma đạo tối tân như Albion, chắc chắn họ không thiếu những phương tiện cơ giới hiện đại vượt bậc, việc lũ rối vẫn phải cưỡi Raptor chứng tỏ Takanashi không có sẵn những khí tài xịn sò đó trong tay. Giá như bọn chúng lôi mấy chiếc mô tô bay phân khối lớn kiểu khoa học viễn tưởng ra đuổi bắt thì tôi đã vui vẻ cướp lấy một chiếc để chạy cho sướng rồi.
 
-Dù sao thì, đối phó với lũ kị binh Raptor được tạo ra như một biện pháp chữa cháy này, tôi chỉ cần thả một con High Zombie ra là có thể dễ dàng vô hiệu hóa chúng. Dù là nhắm vào chân của Raptor hay nhắm thẳng vào tên lính cưỡi trên lưng, chỉ cần con High Zombie vạm vỡ của tôi tông trúng thì việc ngã ngựa là điều không thể tránh khỏi.
+Dù sao thì, đối phó với lũ kị binh Raptor chắp vá được tạo ra như một giải pháp tình thế này, tôi chỉ cần thả một con High Zombie ra là có thể dễ dàng giải quyết gọn gàng. Bất kể là nhắm vào chân của con Raptor hay quật thẳng vào tên kị sĩ trên lưng, chỉ cần thân hình hộ pháp của High Zombie tông trúng là đối phương cầm chắc việc ngã ngựa lộn nhào.
 
-Và thế là, con ngựa một sừng giả của chúng tôi không chút nương tình tông thẳng qua tên lính rối vừa bị High Zombie kéo ngã nhào khỏi lưng Raptor, tiếp tục sải bước lao về phía trước.
+Và thế là, con ngựa một sừng giả của chúng tôi chẳng buồn giảm tốc, tàn nhẫn giẫm đạp thẳng qua tên lính rối vừa bị High Zombie kéo ngã khỏi lưng thú, tiếp tục lao vút về phía trước.
 
 Húúúúúúúúúúúúúúúúú!!
 
-“Momokawa, Cerberus tới kìa!”
+“Momokawa, Cerberus đuổi tới rồi!”
 
-“Chậc, cuối cùng thì con Boss cũng chịu ra mặt rồi sao.”
+“Chậc, rốt cuộc thì con Boss cũng chịu thò mặt ra rồi đấy à.”
 
-Tiếng gầm rú đinh tai nhức óc của ba cái đầu vang lên, một thân hình khổng lồ với bộ lông màu đỏ rực đang điên cuồng đuổi theo từ phía sau.
+Tiếng gầm rú đinh tai nhức óc phát ra đồng thanh từ ba chiếc đầu quái dị vang dội khắp cánh rừng, một thân hình khổng lồ đỏ rực như ngọn lửa đang điên cuồng bám sát ngay phía sau đuôi ngựa.
 
-Có vẻ như nó không hề phối hợp với lũ kị binh rối. Con quái vật không ngần ngại húc văng tất cả những kẻ cản đường trên đường chạy của mình, điên cuồng áp sát về phía chúng tôi.
+Xem chừng nó chẳng hề có ý định phối hợp tác chiến với đám kị binh rối. Con ma thú cuồng bạo không ngần ngại húc văng bất cứ vật cản nào chắn ngang đường đi, hung hãn rút ngắn khoảng cách với chúng tôi.
 
-Con Cerberus này có kích thước vô cùng đồ sộ. Dù chúng tôi có được bảo vệ bởi 『Thánh Thiên Kết Giới』 đi chăng nữa, nếu bị cái vuốt trước của nó tát trúng thì cả người lẫn ngựa chắc chắn sẽ bị thổi bay.
+Kích thước của con Cerberus này thực sự quá đỗi khổng lồ. Dù chúng tôi có đang được bao bọc bởi 『Thánh Thiên Kết Giới』 đi chăng nữa, nếu trúng trọn một cú vả từ móng vuốt hộ pháp của nó thì cả người lẫn ngựa chắc chắn sẽ bị hất tung lên không trung.
 
-Dừng lại ở đây là tự sát. Nhưng bảo Sakura kết liễu nó trong chớp mắt như Mei thì quả thực là điều bất khả thi.
+Dừng chân lại nghênh chiến ở đây đồng nghĩa với tự sát. Nhưng bảo Sakura có thể lập tức tung đòn kết liễu nó trong chớp mắt như Mei-chan thì quả thực là chuyện viển vông.
 
-“Tôi sẽ giữ chân nó, cô bắn nát ba cái đầu của nó đi.”
+“Tôi sẽ khống chế giữ chân nó, cô liệu mà bắn nát cả ba cái đầu của nó đi.”
 
-“Hả, trong tình cảnh này cậu định cản Cerberus kiểu gì?”
+“Hả, trong tình thế này mà cậu đòi cản chân Cerberus kiểu gì?”
 
-“Mười giây nữa. Muốn niệm phép thì niệm ngay đi.”
+“Mười giây nữa. Muốn niệm phép thì liệu mà vận ma lực ngay từ bây giờ đi.”
 
-Những lúc thế này mà cứ phải nghi ngờ từng tí một đúng là phong cách của Sakura mà. Nếu là Mei hay Kyouko, tôi tin chắc họ sẽ tự hiểu ý và tận dụng ngay thời cơ mà không cần tôi phải nói nửa lời.
+Những lúc dầu sôi lửa bỏng thế này mà cứ phải nghi ngờ, vặn vẹo từng câu từng chữ đúng là tác phong cố hữu của Sakura. Nếu đổi lại là Mei-chan hay Kyouko, tôi dám chắc họ sẽ lập tức hiểu ý và chớp lấy thời cơ hành động mà chẳng cần tôi phải tốn công giải thích nửa lời.
 
-Mà thôi, cô ta cũng chẳng phải là kẻ nghiệp dư trong chiến đấu. Chỉ cần thấy con Cerberus bị khống chế, cô ta chắc chắn sẽ ra tay tấn công.
+Cơ mà, cô ta dù sao cũng chẳng phải tay mơ trên chiến trường. Chỉ cần thấy con Cerberus rơi vào thế bị động, cô ta nhất định sẽ không bỏ lỡ cơ hội ra tay.
 
-Làm ơn đi Sakura, đừng có làm ba cái trò lóng ngóng làm mất thời cơ như mấy đứa tân thủ đi rừng đấy nhé.
+Làm ơn đi Sakura, đừng có giở mấy cái trò lóng ngóng làm hỏng thời cơ như mấy đứa tân thủ mới bước chân vào dungeon đấy nhé.
 
 Gừ gừ khèèèèèèèèèèèèèèè!
 
-Ba cái đầu của nó nhe nanh vuốt gầm rú, sâu trong vòm họng rực lên ánh lửa đỏ rực. Chúng tôi sắp lọt vào phạm vi phun lửa của nó rồi. Tôi đã đoán trước được việc đầu tiên nó làm sẽ là phun lửa tấn công.
+Ba chiếc đầu của nó nhe nanh múa vuốt gầm thét, sâu trong cuống họng đã bắt đầu bùng lên ánh lửa đỏ rực. Chúng tôi sắp sửa lọt trọn vào tầm thiêu đốt của luồng hơi thở hỏa diệm. Tôi thừa biết đòn mở màn sở trường của nó lúc nào cũng là phun lửa diện rộng.
 
-Thế nên, thời điểm ra tay chính là lúc này.
+Vì lẽ đó, thời khắc phản công chuẩn xác nhất chính là ngay lúc này.
 
-Không sao, việc canh thời gian chuẩn xác để thả chướng ngại vật đè bẹp kẻ địch là trò tôi đã nhẵn mặt trong đống game từng chơi rồi. Tôi đã phát ngán với mấy cái mô-típ rập khuôn này rồi.
+Không thành vấn đề, việc căn chỉnh thời gian chuẩn từng tích tắc để thả chướng ngại vật đè bẹp đối thủ là ngón nghề tôi đã nhẵn mặt trong đống game từng cày nát ở thế giới cũ. Tôi đã phát ngấy với mấy cái mô-típ rập khuôn này rồi.
 
-“Đè bẹp nó đi, Tank.”
+“Đè bẹp dí nó đi, Tank.”
 
-Tôi vừa quay người lại vừa giơ cao cây gậy phép, một trận pháp triệu hoán màu máu lập tức xuất hiện ngay trên đỉnh đầu của Cerberus.
+Tôi xoay người lại, giơ cao cây trượng phép, một ma pháp trận triệu hoán đỏ thẫm như máu lập tức bừng sáng ngay trên đỉnh đầu của Cerberus.
 
-Tôi đã được trợ giúp rất nhiều từ kỹ năng triệu hoán của 『Đầu lâu của Triệu Hoán Thuật Sư』 này. Chính vì thế, việc tìm tòi cách sử dụng nó sao cho hiệu quả và tối ưu hơn là điều hoàn toàn tự nhiên.
+Tôi đã nhận được sự trợ lực vô cùng to lớn từ kỹ năng triệu hoán của 『Đầu lâu của Triệu Hoán Thuật Sư』 này. Chính vì thế, việc không ngừng đào sâu nghiên cứu để tối ưu hóa và biến hóa cách thức sử dụng nó là một lẽ đương nhiên.
 
-Trong quá trình thử nghiệm không ngừng nghỉ đó, hoặc có lẽ do độ thuần thục tăng lên giúp tôi ngộ ra kỹ năng mới, dù là lý do gì thì giờ đây tôi đã có thể làm được việc này.
+Trong quá trình liên tục thử nghiệm thực chiến, hoặc có lẽ nhờ độ thuần thục kỹ năng tăng cao đã giúp tôi ngộ ra chân lý mới, bất kể lý do là gì thì giờ đây tôi đã hoàn toàn làm chủ được kỹ thuật này.
 
-Đó chính là triển khai trận pháp triệu hoán ở bất kỳ vị trí nào trong tầm mắt của mình. Chẳng có điều luật nào bắt buộc triệu hoán thú cứ phải chui lên từ dưới mặt đất cả.
+Đó chính là khả năng khai mở pháp trận triệu hoán tại bất kỳ tọa độ nào nằm trong tầm quan sát của mắt thường. Đâu có bất kỳ quy chuẩn nào ép buộc triệu hoán thú cứ phải ngoi lên từ dưới mặt đất cơ chứ?
 
-Vì vậy, tôi đã triệu hồi Tank — triệu hoán thú có kích thước và trọng lượng lớn nhất mà tôi có thể triệu gọi lúc này — ngay trên đỉnh đầu của Cerberus.
+Chính vì vậy, tôi đã triệu hồi Tank — triệu hoán thú sở hữu thể tích và trọng lượng khủng khiếp nhất mà tôi có thể gọi ra vào lúc này — lơ lửng ngay phía trên đầu Cerberus.
 
-Một khi Tank xuất hiện ở trên không trung thì chuyện gì sẽ xảy ra tiếp theo?
+Một khi Tank xuất hiện sừng sững giữa tầng không thì điều gì sẽ xảy ra tiếp theo?
 
-Rõ ràng rồi. Ngay sau khi được triệu hồi, nó sẽ bị trọng lực kéo rơi thẳng xuống.
+Câu trả lời quá đỗi hiển nhiên. Ngay khoảnh khắc giáng thế, nó sẽ bị trọng lực kéo rơi tự do thẳng xuống dưới.
 
-Và ngay phía dưới bàn chân hộ pháp của Tank, con Cerberus đang điên cuồng lao tới...
+Và ngay bên dưới bàn chân hộ pháp nặng tựa núi non của Tank, chính là con Cerberus đang điên cuồng lao tới với tốc độ tối đa...
 
 Ángggggggggg!?
 
-Một tiếng rú thảm khốc vang lên, con Cerberus bị thân hình khổng lồ của Tank đè bẹp dí xuống đất.
+Một tiếng rên thảm thiết vang lên xé toạc màn đêm, con Cerberus bị khối lượng đồ sộ của Tank đè bẹp dí dính chặt xuống mặt đất.
 
-Dù sở hữu thân hình khổng lồ xứng tầm Boss ma vật, nhưng bị đè nặng bởi kích thước và trọng lượng của Tank thì nó cũng không thể nào chịu nổi.
+Dù có mang thân xác khổng lồ xứng danh Boss ma vật đi chăng nữa, việc phải gánh chịu trọn vẹn sức nặng ngàn cân cùng gia tốc rơi tự do của Tank là thứ vượt quá sức chịu đựng của nó.
 
-Gánh chịu một trọng lượng và lực va chạm ngoài dự tính, cả ba cái đầu của Cerberus đều thè lưỡi ra một cách ngốc nghếch, toàn thân cứng đờ không thể cử động.
+Hứng trọn một lực va đập kinh hoàng ngoài mọi dự tính, cả ba chiếc đầu của Cerberus đều thè lưỡi ra một cách thảm hại, toàn thân tê liệt cứng đờ không thể nhúc nhích.
 
 “————『Thiểm Quang Bạch Thỉ』!”
 
-Một mũi tên ánh sáng khổng lồ, không, phải nói là một ma pháp tấn công cấp cao có hình dáng như một ngọn thương kị binh dài được bắn ra từ cây cung của Sakura.
+Một mũi tên ánh sáng khổng lồ, không, chuẩn xác hơn phải gọi là một đại ma pháp công kích cấp cao mang hình dáng của một ngọn thương kị sĩ dài ngoằng lập tức phóng ra từ cánh cung của Sakura.
 
-Quả nhiên, cô ta không phải là kẻ nghiệp dư đến mức bỏ lỡ một sơ hở lớn như vậy.
+Quả nhiên, cô ta không phải hạng nghiệp dư đến mức bỏ lỡ một sơ hở mười mươi như thế này.
 
-Ba phát bắn liên tiếp của ma pháp tấn công cấp cao đã găm thẳng vào ba cái đầu của Cerberus, kết liễu nó một cách hoàn hảo.
+Ba phát bắn liên tiếp của ma pháp cấp cao găm thẳng tắp vào chính giữa ba chiếc đầu của Cerberus, kết liễu hoàn toàn sinh mạng của con Boss hung hãn.
 
-“Làm tốt lắm, Sakura-chan. Ta ban lời khen đấy.”
+“Làm tốt lắm, Sakura-chan. Ta ban lời khen ngợi đấy.”
 
-“Không chọc điên người khác một lần là cậu không chịu nổi à?”
+“Cậu không chọc ngoáy người khác một câu là không chịu nổi à?”
 
-“Tôi đang thật lòng khen ngợi cô mà———— Ồ, có vẻ chúng ta sắp ra khỏi rừng rồi kìa.”
+“Tôi đang thực lòng khen ngợi cô mà———— Ồ, xem ra chúng ta sắp thoát khỏi cánh rừng này rồi kìa.”
 
-Bỏ lại xác con Cerberus phía sau, chúng tôi tiếp tục phi nước đại, tầm nhìn phía trước bỗng chốc trở nên vô cùng thông thoáng.
+Bỏ lại cái xác bất động của Cerberus sau lưng, chúng tôi tiếp tục phi nước đại, tầm nhìn phía trước bỗng chốc mở rộng thênh thang.
 
-Những hàng cây thưa dần, và chẳng mấy chốc chúng tôi đã băng qua cánh rừng để tiến vào một khoảng đất rộng lớn.
+Những rặng cây rậm rạp thưa dần, và chẳng mấy chốc chúng tôi đã phá vỡ ranh giới cánh rừng để đặt chân vào một bình nguyên rộng lớn.
 
-“Một thảo nguyên... và có vẻ như là một ngọn đồi nhỏ.”
+“Một thảo nguyên... và phía xa dường như là một ngọn đồi thoai thoải.”
 
-“Hơi phiền phức rồi đây, trống trải thế này thì Takanashi sẽ nhìn thấy hết sạch mất.”
+“Phiền phức rồi đây, địa hình trống trải thế này thì mọi hành tung của chúng ta sẽ bị Takanashi nắm thóp hết.”
 
-Đúng như những gì Sakura nhận xét, trước mắt chúng tôi là một thảo nguyên xanh mướt trải dài, phía xa là một ngọn đồi nhỏ nhấp nhô thoai thoải. Cảnh tượng ngọn đồi xanh mướt mà nhiều người thường hình dung, trông giống như một bức ảnh nền máy tính này, xuất hiện ở đây rõ ràng là vì nơi này là một khu vườn nhân tạo.
+Đúng như lời Sakura nhận xét, trải dài trước mắt chúng tôi là một thảo nguyên xanh ngắt bạt ngàn, phía xa xa là những triền đồi nhấp nhô mềm mại. Khung cảnh thảo nguyên xanh mướt mà người ta thường thấy trên các bức ảnh nền máy tính này xuất hiện ở đây, rõ ràng là minh chứng cho thấy nơi này thực chất là một khu vườn nhân tạo khép kín.
 
-“Nhưng có vẻ như kẻ địch đã rút lui rồi.”
+“Nhưng có vẻ như đám truy binh phía sau đã rút lui rồi.”
 
-“Ý đồ của cô ta là gì chứ... Nếu muốn dùng số lượng áp đảo thì tấn công ở đây rõ ràng là có lợi hơn nhiều.”
+“Cô ta lại đang toan tính cái quái gì nữa đây... Nếu muốn dùng số lượng để đè bẹp chúng ta thì dàn quân ở bãi đất trống này rõ ràng có lợi hơn nhiều chứ.”
 
-Ngay khi chúng tôi vừa ra khỏi rừng, sự truy đuổi của lũ rối kị binh bỗng chốc dừng lại hẳn.
+Ngay khi chúng tôi vừa đặt chân ra khỏi bìa rừng, toán kị binh rối bám đuổi phía sau bỗng đồng loạt dừng bước rồi quay đầu rút lui.
 
-Có lẽ phạm vi hoạt động của chúng đã được quy định rõ ràng, và vì đây là khu vực ngoài tầm quản lý nên chúng không thể tiến vào chăng?
+Phải chăng phạm vi hoạt động của chúng đã được lập trình cố định, và vì đây là khu vực nằm ngoài tầm kiểm soát nên chúng không thể tiến vào?
 
-Không, tôi không nghĩ Takanashi lại chấp nhận một sự bất tiện như vậy.
+Không, tôi không nghĩ một kẻ cẩn trọng như Takanashi lại chấp nhận một lỗ hổng ngớ ngẩn đến vậy.
 
-Điều đó có nghĩa là, cô ta nhận thấy không cần phải nhờ đến lũ tép riu đó nữa———— ngay khi tôi vừa đi đến kết luận đó.
+Điều đó chỉ có thể đồng nghĩa với việc, cô ta nhận thấy không cần thiết phải nhờ cậy đến lũ tép riu đó nữa———— ngay khoảnh khắc tôi vừa đi đến kết luận lạnh gáy ấy.
 
 Ầm ầm ầm ầm ầm...
 
-Một tiếng động trầm đục vang lên từ sâu trong lòng đất, không, thực tế là một luồng rung chấn cực mạnh đang làm rung chuyển cả mặt đất.
+Một chuỗi âm thanh trầm đục ghê người vọng lên từ sâu thẳm dưới lòng đất, không, thực chất là một cơn địa chấn dữ dội đang khiến toàn bộ mặt đất rung chuyển dữ dội.
 
-Phía bên kia của thảo nguyên rộng lớn. Ở nơi đó, một tòa tháp khổng lồ đang mọc lên như muốn đâm toạc bầu trời————
+Ở phía bên kia của thảo nguyên bạt ngàn. Tại nơi đó, một cấu trúc khổng lồ đang trồi lên sừng sững như muốn đâm toạc cả vòm trời————
 
-“Không, cái đó, lẽ nào...”
+“Không... cái thứ đó, lẽ nào là...”
 
-Một tòa tháp màu trắng khổng lồ trông như đang vươn thẳng lên bầu trời.
+Một tòa tháp màu trắng muốt khổng lồ ngỡ như đang vươn thẳng lên tận mây xanh.
 
-Thế nhưng, tòa tháp đó bỗng nhiên lắc lư qua lại, rồi uốn cong tạo thành một đường cung mềm mại.
+Thế nhưng, tòa tháp ấy bỗng nhiên ngả nghiêng lắc lư, rồi uốn lượn tạo thành một đường cong mềm mại đầy ma quái.
 
-Và rồi, một cái, hai cái, ba cái, tổng cộng có bốn cái như thế mọc lên, đồng loạt gầm lên một tiếng vang dội chấn động toàn bộ tầng hầm ngục này.
+Và rồi, một cái, hai cái, ba cái... tổng cộng có bốn chiếc cổ dài ngoằng như thế đồng loạt đội đất nhô lên, cùng cất tiếng gầm rống vang dội làm chấn động toàn bộ tầng hầm ngục này.
 
 “...Yamata no Orochi.”
 
-Này Takanashi, trong chuỗi Boss liên hoàn mà cô lại lôi cả Raid Boss ra thế này thì chơi bẩn quá rồi đấy nhé.
+Này Takanashi, trong một màn Boss liên hoàn mà cô lại lôi hẳn cả Raid Boss ra nghênh đón thế này thì chơi bẩn quá rồi đấy nhé.

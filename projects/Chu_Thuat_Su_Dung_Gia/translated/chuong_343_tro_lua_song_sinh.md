@@ -2,9 +2,9 @@
 
 “Hầy...”
 
-Rerite vừa thở dài thườn thượt, vừa ủ rũ buông thõng hai vai, lững thững bước đi trên hành lang của pháo đài.
+Rerite vừa thở dài thườn thượt, vừa ủ rũ buông thõng hai vai, lững thững bước đi trên hành lang pháo đài.
 
-Buổi huấn luyện triệu hoán tinh linh hôm nay của cậu vẫn chẳng đi đến đâu. Có lẽ do tâm lý nôn nóng nên cậu vô tình dồn quá nhiều sức, dẫn đến thất bại chồng chất thất bại. Đã vậy, ma lực còn cạn kiệt từ sớm, khiến cậu buộc phải quay về nghỉ ngơi khi trời vẫn còn chưa tắt nắng.
+Buổi huấn luyện triệu hoán tinh linh hôm nay của cậu vẫn chẳng đi đến đâu. Có lẽ do tâm lý nôn nóng nên cậu vô tình dồn quá nhiều sức, dẫn đến thất bại nối tiếp thất bại. Đã vậy, ma lực còn cạn kiệt từ sớm, khiến cậu buộc phải quay về nghỉ ngơi khi trời vẫn chưa tắt nắng.
 
 Koyuki và Aoi — hai đứa nhóc đang tuổi ăn tuổi chơi, nghịch ngợm vô cùng — cùng với Beniwo, chú chó đang thừa mứa năng lượng vì không được đi săn, đều đã được cậu gửi gắm cho Minami. Nếu đi cùng cô ấy, chắc chắn chúng sẽ được chạy nhảy thỏa thích khắp khu rừng cho đến khi mặt trời lặn.
 
@@ -36,9 +36,9 @@ Cảm giác bất lực này làm cậu nhớ lại những ngày đầu mới �
 
 Vội vàng quay lại nhìn, cậu thấy Momokawa Kotarou đang đứng đó.
 
-Vẫn là bộ đồng phục học sinh quen thuộc, nhưng Kotarou lúc này lại nở một nụ cười đầy ẩn ý, toát ra một bầu không khí khác hẳn ngày thường. Bình thường, cậu ta luôn mang lại cảm giác giống như một chú mèo kiêu hãnh, ngang nhiên ngự trị trên đùi người khác như thể muốn tuyên bố “đây là lãnh địa của ta”.
+Vẫn là bộ đồng phục học sinh quen thuộc, nhưng Kotarou lúc này lại nở một nụ cười đầy ẩn ý, toát ra bầu không khí khác hẳn ngày thường. Bình thường, cậu ta luôn mang lại cảm giác giống như một chú mèo kiêu hãnh, ngang nhiên ngự trị trên đùi người khác như thể muốn tuyên bố “đây là lãnh địa của ta”.
 
-Thế nhưng Momokawa của ngày hôm nay lại sở hữu một đôi mắt ma mị, ánh lên vẻ tò mò tàn nhẫn như một con mèo đang vờn mồi.
+Thế nhưng Momokawa của ngày hôm nay lại sở hữu đôi mắt ma mị, ánh lên vẻ tò mò tàn nhẫn như một con mèo đang vờn mồi.
 
 “Cậu làm gì ở một nơi thế này vậy?”
 
@@ -74,7 +74,7 @@ Khoảng cách gần đến mức hai bờ vai chạm vào nhau. Do chênh lệc
 
 Ngoại hình phi giới tính cùng đôi mắt mèo lấp lánh thứ ánh sáng ma mị ấy khiến cậu suýt chút nữa quên mất rằng cả hai đều là nam giới.
 
-*Bình tĩnh lại nào, rốt cuộc mình đang nghĩ cái gì thế này...* — Như thể đi guốc trong bụng Rerite đang cố giữ vẻ điềm tĩnh, “Kotarou” nở một nụ cười tinh nghịch rồi tung thêm đòn bồi quyết định.
+*Bình tĩnh lại nào, rốt cuộc mình đang nghĩ cái gì thế này...* — Như thể đi guốc trong bụng Rerite đang cố giữ vẻ điềm tĩnh, “Kotarou” nở nụ cười tinh nghịch rồi tung thêm đòn bồi quyết định.
 
 “Hayama-kun, tớ cho cậu gối đầu lên đùi nhé?”
 
@@ -160,6 +160,8 @@ Có vẻ như đã chạy thục mạng đến đây nên Momoko thở hổn h�
 
 “Đồ ngốc! Kẻ đó chính là Momoko này đấyyyyy!”
 
+***
+
 “—Em không nhịn nổi nữa rồi, bản gốc!”
 
 Momoko đang vô cùng phẫn nộ.
@@ -172,19 +174,19 @@ Dù được sự cho phép của chủ nhân Tendou Ryuuichi, nhưng dạo gầ
 
 “Thật là, Chủ nhân cũng vậy, suốt ngày chỉ chăm chăm lo cho cái tên kính cận lập dị kia... Phải quan tâm đến Momoko nhiều hơn chứ!”
 
-Dù trong lòng không ngừng gào thét và oán trách như vậy—nhưng đột nhiên, một nụ cười hắc ám thoáng hiện trên gương mặt Momoko.
+Dù trong lòng không ngừng gào thét và oán trách như vậy — nhưng đột nhiên, một nụ cười hắc ám thoáng hiện trên gương mặt Momoko.
 
 “Khà khà, tên bản gốc đáng ghét kia, giờ là lúc ngươi phải trả giá.”
 
 Dưới tầm mắt của Momoko lúc này là bản thể của Momokawa Kotarou, người đang nằm ngủ say sưa một cách không phòng bị trên chiếc sofa mà cô mang vào.
 
-Mới vài ngày trước, bé gái Rem vẫn còn ở đây để cùng cô thu thập thông tin, nhưng hiện tại cô bé đã nhận nhiệm vụ mới và đang đi cùng Souma Sakura. Nói cách cách khác, trong phòng chỉ huy lúc này chỉ có hai người là Momoko và Kotarou.
+Mới vài ngày trước, bé gái Rem vẫn còn ở đây để cùng cô thu thập thông tin, nhưng hiện tại cô bé đã nhận nhiệm vụ mới và đang đi cùng Souma Sakura. Nói cách khác, trong phòng chỉ huy lúc này chỉ có hai người là Momoko và Kotarou.
 
 “Thuật phục vụ phái Momoko: Tức thời thay phục sức!”
 
 Cùng với một tư thế tạo dáng kỳ lạ, Momoko nhẹ nhàng xoay người, tà váy hầu gái dài tung bay giữa không trung.
 
-Khi đáp xuống đất, trang phục của Momoko đã thay đổi từ váy hầu gái sang bộ đồng phục nam sinh của Học viện Hakurei.
+Khi đáp xuống đất, trang phục của Momoko đã thay đổi từ váy hầu gái sang bộ đồng phục nam sinh của Học viện Tư lập Hakurei.
 
 Trong khi đó, Kotarou vẫn đang ngủ say sưa thì đã bị cô lén thay cho bộ váy hầu gái cổ điển giống hệt như của Momoko lúc trước.
 
@@ -206,6 +208,8 @@ Nàng hầu gái phản phúc vừa trêu đùa cậu chàng Rerite ngây thơ x
 
 Cô vừa đi vừa nhún nhảy đầy vui vẻ hướng đến địa điểm tiếp theo.
 
+***
+
 “Hộc... Mệt quá... Mãi mà không xong...”
 
 Tại sảnh xưởng chế tạo, nơi vang lên những tiếng than vãn như của một vong hồn, Himeno Airi đang phải gồng mình vận hành cùng lúc bốn trận pháp luyện thành liên tục.
@@ -218,7 +222,7 @@ Bản thể vẫn đang ngủ say, và phân thân số hai của Kotarou ở tr
 
 “Himeno-san.”
 
-“Á, cuối cùng cậu cũng dậy rồi hả Momokawa-kun. Mau quay lại làm việc đi—ơ kìa, vẫn đang ngủ cơ mà? Ủa, cái gì thế, bản thể đấy à?”
+“Á, cuối cùng cậu cũng dậy rồi hả Momokawa-kun. Mau quay lại làm việc đi — ơ kìa, vẫn đang ngủ cơ mà? Ủa, cái gì thế, bản thể đấy à?”
 
 “Là bản thể đây.”
 
@@ -242,7 +246,7 @@ Thấy “Kotarou” khoanh tay ra dáng bề trên phán một câu như vậy,
 
 “Không phải ngại. Cứ nghỉ bù cho những ngày vất vả vừa qua đi.”
 
-Như để bày tỏ sự thông cảm trước sự kinh ngạc của Himeno, “Kotarou” gật gù cái đầu đầy vẻ trịnh trọng. Thế nhưng, thay vì bắt bẻ thái độ đó của cậu ta, cô nàng lại nở một nụ cười rạng rỡ và đáp lại:
+Như để bày tỏ sự thông cảm trước sự kinh ngạc của Himeno, “Kotarou” gật gù cái đầu đầy vẻ trịnh trọng. Thế nhưng, thay vì bắt bẻ thái độ đó của cậu ta, cô nàng lại nở nụ cười rạng rỡ và đáp lại:
 
 “Cảm ơn cậu nhé Momokawa-kun! Thế tôi về phòng đây, chào nhé, bye bye!”
 
@@ -252,9 +256,11 @@ Bỏ mặc đống súng ống đang bị tháo dỡ dở dang trên trận phá
 
 Rời khỏi xưởng chế tạo nơi chỉ còn lại phân thân bất động, Momoko tiếp tục cuộc hành trình của mình. Bước chân cô không chút do dự, có vẻ như địa điểm tiếp theo đã được định sẵn từ trước.
 
+***
+
 “Giờ này chắc là vừa tầm rồi.”
 
-Nếu là ngày thường thì tầm này cô cũng đang chuẩn bị xuống bếp. Đây là khoảng thời gian bếp trưởng bắt đầu chuẩn bị cho bữa tối—nói cách khác, mục tiêu tiếp theo của Momoko chính là Mei.
+Nếu là ngày thường thì tầm này cô cũng đang chuẩn bị xuống bếp. Đây là khoảng thời gian bếp trưởng bắt đầu chuẩn bị cho bữa tối — nói cách khác, mục tiêu tiếp theo của Momoko chính là Mei.
 
 Ghé mắt nhìn vào căn bếp quen thuộc, cô lập tức nhận ra bóng lưng với vóc dáng chuẩn không cần chỉnh của Mei.
 
@@ -276,11 +282,11 @@ Gương mặt vùi sâu vào khuôn ngực đẫm đà bậc nhất kia, nếu l
 
 Vừa nói, cô vừa cố tình rúc sâu vào khe ngực mênh mông ấy, rồi dùng cả hai tay bóp mạnh. Khối lượng khổng lồ tràn ra cả kẽ tay, cô không ngừng nhào nặn sự đàn hồi đầy mê hoặc vượt quá sức tưởng tượng đó.
 
-Hành vi này đã vượt xa giới hạn của quấy rối tình dục thông thường. Thế nhưng, đối phương lại là một cuồng chiến binh trung thành tuyệt đối, sẵn sàng dâng hiến cả mạng sống của mình lẫn người khác vì Kotarou. Mặt khác, Momoko cũng thừa biết rằng Kotarou luôn tự kiềm chế bản thân để không bao giờ vượt quá giới hạn với Mei... Cô nắm rõ mối quan hệ của hai người họ như lòng bàn tay.
+Hành vi này đã vượt xa giới hạn của quấy rối thông thường. Thế nhưng, đối phương lại là một cuồng chiến binh trung thành tuyệt đối, sẵn sàng dâng hiến cả mạng sống của mình lẫn người khác vì Kotarou. Mặt khác, Momoko cũng thừa biết rằng Kotarou luôn tự kiềm chế bản thân để không bao giờ vượt quá giới hạn với Mei... Cô nắm rõ mối quan hệ của hai người họ như lòng bàn tay.
 
 Chính vì vậy, cô mới cả gan thực hiện đòn quấy rối trực diện này. Chỉ cần làm đến mức này, chắc chắn hai người họ sẽ vượt qua ranh giới và không thể cứu vãn được nữa.
 
-*Bếp trưởng à, chúc hai người hạnh phúc nhé. Bản gốc cũng nên đáp lại tấm chân tình của con gái nhà người ta đi chứ. Ôi, Momoko quả là một bà mai tuyệt vời mà,* cô vừa tự đắc biện hộ cho hành động của mình, vừa nở một nụ cười ngọt ngào ngước lên nhìn Mei từ khe ngực.
+*Bếp trưởng à, chúc hai người hạnh phúc nhé. Bản gốc cũng nên đáp lại tấm chân tình của con gái nhà người ta đi chứ. Ôi, Momoko quả là một bà mai tuyệt vời mà,* cô vừa tự đắc biện hộ cho hành động của mình, vừa nở nụ cười ngọt ngào ngước lên nhìn Mei từ khe ngực.
 
 “Ừm, tớ cũng thích Momoko-chan lắm.”
 

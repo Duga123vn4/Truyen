@@ -4,7 +4,7 @@
 
 Mei vừa thì thầm những lời an ủi dịu dàng với nụ cười hiền từ như thánh mẫu, vừa nhẹ nhàng xoa đầu tôi.
 
-Được gối đầu lên cặp đùi trắng ngần, căng tràn sức sống của cô ấy, gáy tôi được tận hưởng một cảm giác vô cùng êm ái. Chỉ cần ngước mắt lên, bầu ngực đẫm đà, vĩ đại của Mei đã đập ngay vào mắt ở cự ly cực gần.
+Được gối đầu lên cặp đùi trắng ngần, căng tràn sức sống của cô ấy, gáy tôi được tận hưởng một cảm giác vô cùng êm ái. Chỉ cần ngước mắt lên, khuôn ngực đầy đặn, căng tràn của Mei đã đập ngay vào mắt ở cự ly cực gần.
 
 Tư thế này khiến tôi ngỡ như mình đang ở trên thiên đường vậy... Thế nhưng, dù đang được Mei dỗ dành ngọt ngào như thế, sắc mặt tôi vẫn chẳng khá lên nổi.
 
@@ -46,7 +46,7 @@ Tượng Yêu Tinh quá mạnh. Tôi hoàn toàn không tìm ra bất kỳ phư�
 
 Việc giải cứu Souma cũng gian nan không kém.
 
-Phía chúng tôi phải chuẩn bị cho tình huống xấu nhất: chàng Dũng Giả bị tẩy não sẽ dốc toàn lực để lấy mạng cả lũ. Mà đâu chỉ có mỗi cậu ta, còn có cả Linh thú Kinako, và tiện thể là cả con mụ lẳng lơ Asuna nữa chứ.
+Phía chúng tôi phải chuẩn bị cho tình huống xấu nhất: chàng Dũng Giả bị tẩy não sẽ dốc toàn lực để lấy mạng cả lũ. Mà đâu chỉ có mỗi cậu ta, còn có cả Linh thú Kinako, và tiện thể là cả con ả lẳng lơ Asuna nữa chứ.
 
 Mỗi kẻ trong số họ khi đứng riêng lẻ đã vô cùng đáng sợ rồi, nếu họ lập tổ đội rồi đồng loạt lao vào tấn công thì chúng tôi tuyệt đối không thể cản nổi.
 
@@ -58,7 +58,7 @@ Dù mức độ và ảnh hưởng của việc tẩy não ra sao, việc giải
 
 Thế nhưng, muốn vậy thì trước hết phải giữ họ trong trạng thái vô lực và liên tục giam cầm. Chúng tôi cần một loại dụng cụ giam giữ vạn năng, nhưng trước đó, thứ tối quan trọng là trang bị để khống chế họ khi họ đang điên cuồng chống trả.
 
-Không lẽ lại dùng kế hoạch đập mạnh vào đầu từng đứa để bắt chúng ngất đi? Việc dùng vũ khí cùn gõ vào đầu là xỉu ngay chỉ có trong mấy cái game săn quái vật mà thôi.
+Không lẽ lại dùng kế hoạch đập mạnh vào đầu từng đứa để bắt chúng ngất đi? Việc dùng vũ khí cùn gõ vào đầu là xỉu ngay chỉ có trong mấy trò chơi săn quái vật mà thôi.
 
 “Hảàà... Mei-chan ơi, tớ mệt mỏi quá rồi...”
 
@@ -74,9 +74,9 @@ Nhìn tôi đang tận hưởng giấc ngủ trưa xa xỉ trên đùi Mei, Hime
 
 Suy cho cùng, tôi rơi vào tình trạng thảm hại này là do mọi chuyện đều đi vào ngõ cụt. Đã thế, ma pháp khắc ấn mà tôi dồn hết tâm huyết vào lại thất bại thảm hại, khiến tôi hoàn toàn mất sạch nhuệ khí, chỉ biết nằm lăn ra đất. Đúng lúc đó thì Mei xuất hiện.
 
-Nhìn tôi nằm vật ra như một cái xác không hồn với gương mặt thẫn thờ — giống hệt như một game thủ cày cuốc ròng rã rớt được món đồ cực hiếm trong game hack-and-slash nhưng lại để mất sạch vì một lỗi sơ đẳng rồi chết lãng xẹt — cô ấy đã lặng lẽ cho tôi gối đầu lên đùi. Cách hành xử của cô ấy quả thực chẳng khác nào một vị nữ thần.
+Nhìn tôi nằm vật ra như một cái xác không hồn với gương mặt thẫn thờ — giống hệt như một game thủ cày cuốc ròng rã rớt được món đồ cực hiếm trong game cày cuốc nhưng lại để mất sạch vì một lỗi sơ đẳng rồi chết lãng xẹt — cô ấy đã lặng lẽ cho tôi gối đầu lên đùi. Cách hành xử của cô ấy quả thực chẳng khác nào một vị thánh nữ.
 
-Khác hẳn với con điếm thối tha Elysion nào đó, đây mới là nữ thần đích thực. Mei chắc chắn là hiện thân của nữ thần đất mẹ, vị thần cai quản sự trù phú.
+Khác hẳn với con mụ thối tha Elysion nào đó, đây mới là nữ thần đích thực. Mei chắc chắn là hiện thân của nữ thần đất mẹ, vị thần cai quản sự trù phú.
 
 “Vậy tớ chợp mắt một lát nhé... Chúc ngủ ngon...”
 
@@ -128,7 +128,7 @@ Nếu có ý tưởng nào hay ho thì tôi luôn sẵn sàng tiếp thu. Hoặc
 
 “Tao không biết thứ này có ích gì không, nhưng cứ để đây cho mày.”
 
-Cậu ta vung tay một cái, ma pháp trận hoàng kim của 『Kho Báu』 mở ra, và một thứ trông như nguyên liệu ma vật đổ ập xuống đất.
+Cậu ta vung tay một cái, ma pháp trận hoàng kim của 『Kho Báu Hoàng Kim』 mở ra, và một thứ trông như nguyên liệu ma vật đổ ập xuống đất.
 
 To thật đấy. Mà gọi là nguyên liệu ma vật thì không đúng lắm, cái này rõ ràng là nguyên một con ma vật còn nguyên vẹn mà.
 
@@ -146,7 +146,7 @@ Chiều dài từ đầu mũi đến chóp đuôi ước chừng khoảng 20 mé
 
 “Là do Momoko tự tiện thu hồi đấy.”
 
-Hóa ra mấy việc vặt vãnh như thu nhặt nguyên liệu đều giao hết cho hầu gái à, đúng là phong thái của đức vua có khác.
+Hóa ra mấy việc vặt vãnh như thu nhặt nguyên liệu đều giao hết cho hầu gái à, đúng là phong thái của bậc đế vương có khác.
 
 Nhưng mà làm tốt lắm, Momoko. Đây quả là một nguyên liệu ma vật rất đáng để nghiên cứu. Quả không hổ danh là "em gái" của ta.
 
@@ -170,9 +170,9 @@ Nói xong, cậu ta lạnh lùng quay lưng đi như muốn bảo "phần còn l
 
 ***
 
-Ngước nhìn lên trần nhà của tầng sâu nhất đang phản chiếu bầu trời xanh trong vắt, Rerite tựa lưng vào gốc cây lớn rồi ngồi bệt xuống đất.
+Ngước nhìn lên vòm trần của tầng sâu nhất đang phản chiếu bầu trời xanh trong vắt, Rerite tựa lưng vào gốc cây lớn rồi ngồi bệt xuống đất.
 
-Vẻ mặt của cậu ta lúc này trông chẳng khác nào một game thủ vừa làm mất món trang bị siêu hiếm trong game hack-and-slash do một tai nạn ngớ ngẩn.
+Vẻ mặt của cậu ta lúc này trông chẳng khác nào một game thủ vừa làm mất món trang bị siêu hiếm trong game cày cuốc do một tai nạn ngớ ngẩn.
 
 “Hảààà...”
 
@@ -190,7 +190,7 @@ Thay vào đó, chỉ có ánh mắt nghiêm khắc cùng những lời trách m
 
 Beniwo vừa ngoáy tít đuôi vừa đuổi theo khúc xương ngon lành mà Minami vừa ném đi. Bị cuốn theo bầu không khí đó, Koyuki và Aoi cũng chạy nhảy tung tăng khắp nơi.
 
-Hoàn toàn ngó lơ ông chủ đang rầu rĩ của mình, cả ba đứa chơi đùa vô cùng vui vẻ.
+Hoàn toàn ngó lơ người chủ đang rầu rĩ của mình, cả ba đứa chơi đùa vô cùng vui vẻ.
 
 “Randou-san, tớ nghĩ cứ để Hayama-kun nghỉ ngơi một lát cũng được mà.”
 
@@ -212,9 +212,9 @@ Nhìn Rerite bắt đầu sụt sùi, Kyouko chỉ biết thở dài ngán ngẩ
 
 “Khốn kiếp, nhục nhã quá... Thật là nhục nhã mà... Rõ ràng mình mới là 『Tinh Linh Thuật Sư』...”
 
-Tại một góc rừng nơi số lượng ma vật đã giảm đi đáng kể sau nhiều ngày săn bắn liên tục. Một tổ đội gồm năm người: Rerite, Kyouko, Ryouko, Minami và Sakura đã tìm đến đây.
+Tại một góc rừng nơi số lượng ma vật đã giảm đi đáng kể sau nhiều ngày săn bắn liên tục, một tổ đội gồm năm người: Rerite, Kyouko, Ryouko, Minami và Sakura đã tìm đến đây.
 
-Lực lượng chủ chốt là nhóm ma pháp sư gồm Rerite và những người khác, còn Minami đi theo chủ yếu để làm hộ vệ phòng hờ. Khả năng dò tìm của 『Đạo Tặc』 thuộc hàng tốt nhất nhóm, cộng thêm sự hỗ trợ từ Rem chim và các triệu hoán thú, họ gần như không phải lo lắng về việc bị phục kích.
+Lực lượng chủ chốt là nhóm ma pháp sư gồm Rerite và những người khác, còn Minami đi theo chủ yếu để làm hộ vệ phòng hờ. Khả năng do thám của 『Đạo Tặc』 thuộc hàng tốt nhất nhóm, cộng thêm sự hỗ trợ từ Rem dạng chim và các triệu hoán thú, họ gần như không phải lo lắng về việc bị phục kích.
 
 Sau khi đã đảm bảo an toàn, nhóm ma pháp sư tập hợp lại để tiến hành đặc huấn.
 
@@ -240,7 +240,7 @@ Thế nhưng, thứ hoàn toàn không chịu bất kỳ ảnh hưởng nào t�
 
 Dù không rõ nguyên lý ma pháp nào đang vận hành đằng sau chuyện này, nhưng có một sự thật hiển nhiên là: 『Thần Thánh Ngôn Ngữ』 vô tác dụng đối với tinh linh. Chỉ riêng điều đó thôi đã mở ra khả năng biến tinh linh thành quân bài tẩy để phá vỡ lớp phòng ngự bất khả xâm phạm của Takanashi.
 
-Kẻ chủ mưu đứng sau tất cả, kẻ đã phản bội cả lớp ngay từ đầu với tư cách là sứ giả của Nữ thần Elysion. Con mụ Takanashi Kotori đó, bằng mọi giá phải bị tiêu diệt. Và phương án khả thi nhất để thực hiện điều đó chính là ma pháp tinh linh.
+Kẻ chủ mưu đứng sau tất cả, kẻ đã phản bội cả lớp ngay từ đầu với tư cách là sứ giả của Nữ thần Elysion. Con ả Takanashi Kotori đó, bằng mọi giá phải bị tiêu diệt. Và phương án khả thi nhất để thực hiện điều đó chính là ma pháp tinh linh.
 
 Để đánh bại Takanashi, nhóm Rerite đã bắt đầu buổi đặc huấn ma pháp tinh linh.
 
@@ -262,7 +262,7 @@ Ryouko vừa đọc thần chú vừa giơ cao cây gậy phép, một ma pháp 
 
 Trồi lên từ đó là một con Golem với cơ thể hoàn toàn bằng băng giá.
 
-Thân hình tròn trịa như một chiếc thùng phuy cùng đôi chân ngắn ngủn. Hai cánh tay to và dài, tỏa ra sức mạnh cơ bắp cùng luồng hàn khí thấu xương. Mỗi khi các khớp nối cơ khí của nó chuyển động phát ra những tiếng cọt kẹt, những mảnh băng vụn lại bắn ra tung tóe. Dù chuyển động có phần chậm chạp, nhưng con Golem băng quả thực đã bắt đầu di chuyển theo ý muốn của Ryouko.
+Thân hình tròn trịa như một chiếc thùng phuy cùng đôi chân ngắn ngủn. Hai cánh tay to và dài, tỏa ra sức mạnh cơ bắp cùng luồng hàn khí thấu xương. Mỗi khi các khớp nối chuyển động phát ra những tiếng cọt kẹt, những mảnh băng vụn lại bắn ra tung tóe. Dù chuyển động có phần chậm chạp, nhưng con Golem băng quả thực đã bắt đầu di chuyển theo ý muốn của Ryouko.
 
 “— Hãy đến đây, 『Bạch Tật Phong』.”
 

@@ -12,9 +12,9 @@ Himeno mở cửa đón Nakajima trong bộ nội y ren cầu kỳ phối cùng 
 
 Khoác trên mình kết tinh của sự nỗ lực đầy nước mắt ấy, Himeno nở nụ cười ma mị mời Nakajima vào phòng.
 
-Có lẽ do bộ trang phục quá đỗi gợi cảm, hoặc đúng như cô nói, đã lâu rồi hai người mới riêng tư thế này. Đêm nay trông cô quyến rũ đến lạ kỳ.
+Có lẽ do bộ trang phục quá đỗi gợi cảm, hoặc đúng như cô nói, đã lâu lắm rồi hai người mới có không gian riêng tư thế này, đêm nay trông cô quyến rũ đến lạ kỳ.
 
-Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nhân mang sức hút riêng biệt. Nếu đặt một Himeno với dung nhan tầm thường cạnh họ, cô sẽ hoàn toàn bị lu mờ... Thế nhưng, căn phòng này là lãnh địa của riêng Himeno Airi. Cô đang nắm giữ địa lợi.
+Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nhân mang sức hút riêng biệt. Nếu đặt một Himeno với dung nhan tầm thường cạnh họ, cô sẽ hoàn toàn bị lu mờ... Thế nhưng, căn phòng này là lãnh địa của riêng Himeno Airi. Cô đang nắm giữ tuyệt đối lợi thế sân nhà.
 
 “Ngồi đi.”
 
@@ -22,29 +22,29 @@ Hiện tại, những nữ sinh còn lại ở đây đều là những mỹ nh�
 
 “Thôi nào, ngồi xuống đi.”
 
-Himeno vỗ vỗ lên khoảng trống bên cạnh trên giường, gọi cậu.
+Himeno vỗ vỗ lên khoảng trống bên cạnh trên giường, khẽ gọi cậu.
 
-Đến nước này, Nakajima không còn là gã trai tân ngây ngô đến mức phải ngượng ngùng khi ngồi cạnh một cô gái trên giường. Cậu ngoan ngoãn làm theo, ngồi xuống bên cạnh Himeno.
+Đến nước này, Nakajima không còn là gã trai tân ngây ngô đến mức phải luống cuống khi ngồi cạnh một cô gái trên giường. Cậu ngoan ngoãn làm theo, ngồi xuống bên cạnh Himeno.
 
 Một mùi hương ngọt ngào như hoa thoang thoảng xộc vào mũi cậu.
 
 “Haruma-kun đến tìm, tớ vui lắm. Ngày mai là xuất phát rồi, tớ cứ thấy bất an thế nào ấy.”
 
-Himeno nói với giọng điệu nũng nịu, khẽ ngước mắt nhìn cậu rồi đặt tay lên đùi Nakajima vuốt ve.
+Himeno cất giọng nũng nịu, khẽ ngước mắt nhìn cậu rồi đặt tay lên đùi Nakajima nhẹ nhàng vuốt ve.
 
-Sự đụng chạm cơ thể cỡ đó không làm cậu lung lay, nhưng cảm giác nhột nhột vẫn khiến cậu có chút bồn chồn.
+Sự đụng chạm cơ thể cỡ đó không làm cậu lung lay, nhưng cảm giác nhồn nhột vẫn khiến cậu có chút bồn chồn.
 
 Cố tỏ ra như không bận tâm, Nakajima đáp lại bằng những câu xã giao vô thưởng vô phạt.
 
 Cuộc trò chuyện cứ thế tiếp diễn. Những chủ đề tầm thường, những lời tâm sự không mấy sâu sắc.
 
-Nhưng thế là đủ. Dù giữa hai người từng xảy ra nhiều chuyện, hiện tại họ vẫn là đồng đội sát cánh chiến đấu, và cùng bị bóc lột sức lao động trong xưởng của Kotarou. Trong số những người còn lại, họ thực sự là cặp đôi thoải mái với nhau nhất.
+Nhưng thế là đủ. Dù giữa hai người từng xảy ra vô vàn chuyện, hiện tại họ vẫn là đồng đội sát cánh chiến đấu, và cùng bị bóc lột sức lao động trong xưởng của Kotarou. Trong số những người còn lại, họ thực sự là cặp đôi cảm thấy thoải mái nhất khi ở bên nhau.
 
 “———— Vậy, cậu muốn nói chuyện gì?”
 
 Sau khoảng một tiếng trò chuyện phiếm, cuối cùng cô cũng đi vào chủ đề chính.
 
-Nakajima ngập ngừng một chút, rồi như để gạt bỏ sự do dự, cậu thẳng thắn lên tiếng.
+Nakajima ngập ngừng một thoáng, rồi như để gạt bỏ sự do dự, cậu thẳng thắn lên tiếng:
 
 “Tớ đến đây là muốn nhờ Airi một việc.”
 
@@ -56,27 +56,27 @@ Nakajima ngập ngừng một chút, rồi như để gạt bỏ sự do dự, c
 
 “Nên... lúc đó, tớ muốn nhờ Airi hỗ trợ trị liệu.”
 
-Kế hoạch bắt giữ Kenzaki Asuna không hề dễ dàng đến mức có thể đưa cô ấy về mà không sứt mẻ gì. Về cơ bản, điều kiện tiên quyết là phải đánh cho cô ấy mất khả năng chiến đấu. Một trận chiến trực diện là không thể tránh khỏi.
+Kế hoạch bắt giữ Kenzaki Asuna không hề dễ dàng đến mức có thể đưa cô ấy về mà không sứt mẻ chút nào. Về cơ bản, điều kiện tiên quyết là phải đánh cho cô ấy mất hoàn toàn khả năng chiến đấu. Một trận chiến trực diện sinh tử là không thể tránh khỏi.
 
-Nakajima hiểu rõ điều đó và chấp nhận nó. Nếu đòi hỏi cao hơn, Kotarou chắc chắn sẽ gạt đi vì cho rằng quá bất khả thi, và chuyển sang phương án từ bỏ Asuna.
+Nakajima hiểu rõ điều đó và chấp nhận nó. Nếu đòi hỏi cao hơn, Kotarou chắc chắn sẽ gạt đi vì cho rằng quá bất khả thi, rồi chuyển sang phương án từ bỏ Asuna.
 
 Nakajima biết thừa Kotarou chẳng có ấn tượng tốt đẹp gì với Asuna. Dù vậy, cậu ta vẫn tôn trọng tình cảm của cậu mà ưu tiên phương án cứu người.
 
 Dù kế hoạch có phần liều lĩnh và nguy hiểm, Nakajima vẫn nghĩ đây là lựa chọn tốt nhất để nhận được sự đồng thuận và hỗ trợ từ Kotarou. Phần còn lại, tỷ lệ thành công cao hay thấp hoàn toàn phụ thuộc vào nỗ lực của chính cậu.
 
-“Hửm, trị liệu à... So với đứa như tớ, nhờ Souma-san bên 『Thánh Nữ』 chẳng phải tốt hơn sao?”
+“Hửm, trị liệu à... So với đứa như tớ, nhờ Souma-san bên 『Thánh Nữ』 chẳng phải tốt hơn nhiều sao?”
 
 Himeno trả lời bằng giọng điệu hờn dỗi giả vờ.
 
-“Tớ đương nhiên đã nhờ rồi. Nhưng liệu lúc dầu sôi lửa bỏng, Souma-san có thực sự chịu trị liệu cho Kenzaki-san hay không thì...”
+“Tớ đương nhiên đã nhờ rồi. Nhưng liệu đến lúc dầu sôi lửa bỏng, Souma-san có thực sự chịu trị liệu cho Kenzaki-san hay không thì...”
 
-Souma Sakura, dù tốt hay xấu, đều là người quá rạch ròi và sạch sẽ. Dù Asuna từng là người bạn thân thiết, nhưng một khi đã là kẻ phản bội, khả năng cao Sakura sẽ thẳng tay ruồng bỏ.
+Souma Sakura, dù tốt hay xấu, đều là người quá rạch ròi và sạch sẽ. Dù Asuna từng là bạn thân thiết, nhưng một khi đã là kẻ phản bội, khả năng cao Sakura sẽ thẳng tay ruồng bỏ.
 
 Nakajima thực tế đã mở lời nhờ Sakura trị liệu giúp khi cứu được Asuna, nhưng chỉ nhận lại câu trả lời lạnh lùng: “Cứu hay không còn tùy thuộc vào thái độ của Asuna.” Có lẽ Sakura sẽ quyết định để Asuna sống hay chết dựa trên biểu hiện của cô ấy lúc đó.
 
 Với một Nakajima muốn cứu sống Asuna bằng mọi giá, cậu không thể đánh cược vào sự mập mờ của Sakura.
 
-“Nên cậu mới tìm tớ.”
+“Nên cậu mới tìm đến tớ.”
 
 “Ừ. Tớ biết rõ cậu rất hận cô ấy. Tớ cũng tự biết mình đang đưa ra một yêu cầu ích kỷ. Nhưng dù vậy, tớ vẫn————”
 
@@ -100,15 +100,15 @@ Airi mỉm cười rạng rỡ. Nhưng Nakajima không còn ngây thơ đến m�
 
 Đấy, biết ngay mà.
 
-Làm gì có chuyện cô chấp nhận yêu cầu này mà không đòi hỏi gì. Nakajima cảnh giác đề phòng.
+Làm gì có chuyện cô chấp nhận yêu cầu này mà không đòi hỏi điều kiện gì. Nakajima lập tức cảnh giác đề phòng.
 
-“Ma pháp trị liệu của tớ so với Souma-san thì kém xa đúng không? Nên nếu vết thương quá nặng, tớ không tự tin là mình chữa được đâu.”
+“Ma pháp trị liệu của tớ so với Souma-san thì kém xa đúng không? Nên nếu vết thương quá nặng, tớ không tự tin là mình chữa nổi đâu.”
 
 “Chuyện đó thì tớ nghĩ cũng đành chịu thôi...”
 
-Nakajima ngay từ đầu đã không mong đợi một sự trị liệu hoàn hảo. Chỉ cần ma pháp của Airi giữ được mạng sống cho Asuna là đủ.
+Nakajima ngay từ đầu đã không mong đợi một sự trị liệu hoàn hảo. Chỉ cần ma pháp của Airi giữ được mạng sống cho Asuna là quá đủ.
 
-Thế nhưng, cậu lập tức nhận ra ý đồ của Airi khi cô ngả đầu tựa vào vai cậu.
+Thế nhưng, cậu lập tức nhận ra ý đồ thực sự của Airi khi cô nghiêng đầu tựa vào vai cậu.
 
 “Nhưng mà, thực chất tớ là 『Succubus』 đúng không?”
 
@@ -116,7 +116,7 @@ Thế nhưng, cậu lập tức nhận ra ý đồ của Airi khi cô ngả đ�
 
 “Thế nên là, nếu Haruma-kun chịu 'hợp tác' với tớ, tớ sẽ phát huy được nhiều sức mạnh hơn bình thường đấy. Kiểu như... hấp thụ ma lực ấy?”
 
-Himeno bật cười khúc khích đầy ẩn ý, bàn tay đang vuốt ve đùi cậu nãy giờ bắt đầu lướt dần lên gần vùng nhạy cảm.
+Himeno bật cười khúc khích đầy ẩn ý, bàn tay đang vuốt ve đùi cậu nãy giờ bắt đầu lướt dần lên vùng nhạy cảm.
 
 Nakajima không phải kẻ khờ đến mức phải hỏi thêm cô đang muốn gì.
 
@@ -130,7 +130,7 @@ Cơ thể hai người lập tức dán chặt vào nhau. Ở cự ly gần, Air
 
 “Được, tớ hứa. Nếu làm vậy có thể cứu được cô ấy————”
 
-Không cần thêm bất kỳ lời nào nữa, hai chiếc bóng nhanh chóng hòa làm một.
+Không cần thêm bất kỳ lời nào nữa, hai bóng hình nhanh chóng hòa quyện làm một.
 
 ***
 
@@ -162,9 +162,9 @@ Chính xác thì là một người và một sinh vật. Liberta đậu trên v
 
 “Mấy chuyện đó chỉ tổ phiền phức thôi. Nhớ kỹ lấy.”
 
-Tendou nhíu mày, rít một hơi thuốc thật sâu. Dù vẻ mặt cậu lộ rõ sự khó chịu, Liberta vẫn biết cậu không thực sự ghét bỏ điều đó.
+Tendou nhíu mày, rít một hơi thuốc thật sâu. Dù vẻ mặt cậu lộ rõ sự khó chịu, Liberta vẫn biết cậu không thực sự ghét bỏ cuộc trò chuyện này.
 
-Đó là đặc quyền của khế ước ràng buộc linh hồn. Dù không có nó, qua khoảng thời gian ngắn ngủi này, họ cũng đã hiểu rõ tính khí của nhau.
+Đó là đặc quyền của khế ước ràng buộc linh hồn. Dù không có nó, qua khoảng thời gian ngắn ngủi đồng hành, họ cũng đã hiểu rõ tính khí của nhau.
 
 Tendou vốn là kẻ né tránh việc kết thân với người khác, nhưng có lẽ vì Liberta không phải con người nên cậu mới có thể thoải mái trò chuyện như vậy.
 
@@ -214,7 +214,7 @@ Một ma pháp trận hoàng kim đột ngột tỏa sáng chói lọi bên gố
 
 Tendou xách cổ cô nàng vẫn đang cố công dính lấy mình ném sang chiếc giường đối diện.
 
-Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài việc nó có hai chiếc giường đơn.
+Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài việc nó có sẵn hai chiếc giường đơn.
 
 “U ư... Ngủ một mình lạnh lẽo lắm, Chủ nhân ơi...”
 
@@ -222,9 +222,9 @@ Lý do Tendou chọn căn phòng này làm phòng riêng không gì khác ngoài
 
 Nếu chuyện cậu ngủ chung với Momoko trong bộ dạng gợi cảm thế này bị phát hiện, trái tim của Ryouko có lẽ sẽ vỡ vụn thành trăm mảnh mất.
 
-Cho phép ngủ chung phòng, nhưng tuyệt đối không được chung giường. Đó là khoảng cách hiện tại giữa Tendou và Momoko.
+Cho phép ngủ chung phòng, nhưng tuyệt đối không được chung giường. Đó là khoảng cách ranh giới hiện tại giữa Tendou và Momoko.
 
-Dù thực tế mối quan hệ của họ gần gũi hơn so với Ryouko... nhưng cả hai đều ngầm hiểu rằng tốt nhất là không nên nhắc đến chuyện đó.
+Dù thực tế mối quan hệ của họ gần gũi hơn nhiều so với Ryouko... nhưng cả hai đều ngầm hiểu rằng tốt nhất là không nên nhắc đến chuyện đó.
 
 ***
 
@@ -238,7 +238,7 @@ Cả hai đều im lặng.
 
 Đứng trước cửa phòng Kotarou, hai cô gái dò xét đối phương.
 
-Cả hai đều đang mặc chiếc áo sơ mi cỡ lớn dài đến nửa đùi. Càng tiến sâu vào hầm ngục, họ càng thu thập được nhiều nguyên liệu mới, cộng thêm năng lực luyện thành ngày một tiến bộ, chất lượng của các nhu yếu phẩm như nội y cũng không ngừng được nâng cấp.
+Cả hai đều đang mặc chiếc áo sơ mi cỡ lớn dài đến nửa đùi. Càng tiến sâu vào hầm ngục, họ càng thu thập được nhiều nguyên liệu mới, cộng thêm năng lực luyện thành ngày một tiến bộ, chất lượng của các nhu yếu phẩm như trang phục cũng không ngừng được nâng cấp.
 
 Chiếc áo sơ mi rộng thùng thình họ đang mặc có màu trắng tinh khôi như lụa, sờ vào mềm mịn, lại vừa bền bỉ vừa co giãn tốt nhờ sử dụng sợi dệt cổ đại. Hơn nữa, nó còn có khả năng phòng ngự vật lý và kháng thuộc tính nhẹ. Đây là mẫu sản phẩm mới nhất, đầy tính thực dụng do Xưởng Lối Vào cung cấp.
 
@@ -248,7 +248,7 @@ Thế nhưng, “trang bị chiến đấu” thực sự của hai người l�
 
 Kyouko ném cái nhìn sắc lẹm về phía cơ thể lấp ló sau lớp áo của Meiko.
 
-Thứ Meiko đang mặc là một bộ nội y màu trắng. Thiết kế tuy được trang trí bằng ren trắng thuần khiết nhưng diện tích vải lại nhỏ đến mức gợi cảm. Vòng một căng tràn và vòng ba nảy nở được ôm trọn một cách hoàn hảo nhờ những đường cắt cúp được tính toán tỉ mỉ. Đây là bộ đồ được thợ may Succubus - Himeno - dồn hết tâm huyết chế tạo để vừa vặn với thân hình chuẩn mẫu nước ngoài của Meiko.
+Thứ Meiko đang mặc là một bộ nội y màu trắng. Thiết kế tuy được trang trí bằng ren trắng thuần khiết nhưng diện tích vải lại nhỏ đến mức gợi cảm. Vòng một căng tràn và vòng ba nảy nở được ôm trọn một cách hoàn hảo nhờ những đường cắt cúp được tính toán tỉ mỉ. Đây là bộ đồ được thợ may 『Succubus』 — Himeno — dồn hết tâm huyết chế tạo để vừa vặn với thân hình chuẩn mẫu nước ngoài của Meiko.
 
 Gần đây, Himeno đang trở thành đề tài bàn tán sôi nổi trong giới nữ sinh vì khả năng may những bộ nội y vừa gợi cảm vừa đáng yêu, và cô đã đặc biệt thiết kế bộ này cho người bạn thân nhất của mình. Kết tinh của tình bạn ủng hộ con đường tình yêu này đã trở thành một vũ khí khiêu gợi hạng nặng, đủ sức khiến bất kỳ gã đàn ông nào nhìn thấy cũng phải gục ngã.
 

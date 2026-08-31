@@ -4,7 +4,7 @@ Chuyện xảy ra vào đêm ngày hôm đó.
 
 Để chuẩn bị cho chiến dịch bắt sống Dũng Giả Souma mà bản thân đã ấp ủ bấy lâu, tôi quyết định triệu tập một cuộc họp cơ mật với sự góp mặt của ba vị "chuyên gia / nhân sĩ uyên bác": Sakura, Lớp trưởng Ryouko và Tendou.
 
-Sở dĩ tôi chỉ đích danh ba người này là bởi vì: Chỉ cần nhận được sự đồng thuận của họ thì toàn bộ những người còn lại sẽ chẳng có ai dám hé răng phản đối, và trong quá trình thực thi kế hoạch tác chiến này, sự phối hợp của cả ba người bọn họ là nhân tố then chốt sống còn không thể thiếu!
+Sở dĩ tôi chỉ đích danh ba người này là bởi vì: Chỉ cần nhận được sự đồng thuận từ họ thì toàn bộ những người còn lại sẽ chẳng có ai dám hé răng phản đối, và trong quá trình thực thi kế hoạch tác chiến này, sự phối hợp của cả ba người bọn họ chính là nhân tố then chốt sống còn không thể thiếu!
 
 “——Và toàn bộ kế hoạch là như vậy đấy, mọi người thấy thế nào?”
 
@@ -76,7 +76,7 @@ Bởi vậy, cô ta chắc chắn 100% sẽ dựng sẵn những biện pháp ng
 
 “Bộ mày nghĩ những trò mày làm từ trước đến giờ là quang minh chính đại lắm chắc?”
 
-“Tendou-kun à, người xưa có câu: **Tấn công tâm lý là đòn cơ bản nhất!**”
+“Tendou-kun à, người xưa có câu: *Tấn công tâm lý là đòn cơ bản nhất!*”
 
 Chuẩn không cần chỉnh! Dẫu đối phương có mạnh mẽ vô địch đến nhường nào, chừng nào họ vẫn còn là con người thì cảm xúc là thứ tuyệt đối không bao giờ có thể tách rời. Mấy cái thể loại nhân vật ngoài mặt lạnh lùng vô cảm tuyên bố "ta đã vứt bỏ cảm xúc" chung quy lại cũng chỉ là màn dạo đầu để sau này thức tỉnh cảm xúc mà thôi.
 
@@ -114,7 +114,7 @@ Dẫu hình dạng ấu nữ của Rem đã quá đỗi quen thuộc với nhóm
 
 Sau khi đảo mắt nhìn đi nhìn lại giữa tôi và bé Rem, Sakura liền phóng về phía tôi một ánh nhìn khinh bỉ tột cùng cùng một câu hỏi vô cùng xúc phạm!
 
-“Cô dám cả gan chụp cái mũ ấu dâm (lolicon / pedo) lên đầu một thằng đàn ông chân chính như tôi đấy à hả!?”
+“Cô dám cả gan chụp cái mũ lolicon lên đầu một thằng đàn ông chân chính như tôi đấy à hả!?”
 
 Thật là một sự sỉ nhục không thể nào dung thứ! Dưới sự tôi luyện của Mei và Kyouko, đẳng cấp đam mê ngực bự của tôi đã đạt tới cảnh giới thượng thừa vượt xa người phàm rồi, làm sao có thể để cô ta bôi nhọ danh dự như thế được!
 
@@ -210,7 +210,7 @@ Thực lòng tôi muốn giữ bé Rem ở bên cạnh mình mãi cơ, nhưng v�
 
 Dẫu kiêu kỳ đến đâu thì đứng trước một đứa trẻ nhỏ nhắn đáng yêu, Sakura cũng không nỡ lòng xua đuổi tàn nhẫn. Dẫu biết rõ đây là sứ ma của tôi, nhưng nhìn thấy bàn tay nhỏ nhắn của cô bé tóc bạc mắt đỏ chìa ra, cô nàng liền do dự một chút rồi nắm lấy.
 
-Quả nhiên: **DỄ THƯƠNG CHÍNH LÀ CÔNG LÝ TỐI THƯỢNG!**
+Quả nhiên: *Dễ thương chính là công lý tối thượng!*
 
 “Vậy thì... Rem trông cậy hết vào cô nhé Sakura-chan!”
 
@@ -226,7 +226,7 @@ Vừa ngáp dài một cái đầy mệt mỏi, Sakura liền cất bước ti�
 
 Nơi đây vốn dĩ chỉ là một phòng tắm vòi sen thô sơ rộng lớn, thế nhưng kể từ khi Kotarou đặt chân tới, bằng tài năng tháo vát của mình, cậu ta đã nhanh chóng cải tạo nó thành một bồn tắm lớn tuyệt đẹp. Dẫu có vòi sen nhưng vẫn bắt buộc phải dựng bồn tắm ngâm mình bằng được — phong cách làm việc đậm chất người Nhật Bản ấy khiến Sakura cũng phải thầm nể phục trong lòng.
 
-Bước chân vào căn phòng tắm giờ đây đã biến thành một khu nhà tắm công cộng sang trọng, Sakura vừa đưa tay cởi cúc áo đồng phục thủy thủ (sailor) ra——thì bất chợt khựng lại!
+Bước chân vào căn phòng tắm giờ đây đã biến thành một khu nhà tắm công cộng sang trọng, Sakura vừa đưa tay cởi cúc áo đồng phục thủy thủ ra——thì bất chợt khựng lại!
 
 “...”
 
@@ -278,12 +278,12 @@ Phơi bày thân hình thiếu nữ thon thả kiều diễm tuyệt trần trư
 
 Nắm lấy bàn tay nhỏ nhắn của bé Rem dắt vào bồn tắm nước nóng, khung cảnh hai người trông chẳng khác nào một cặp chị em ruột thịt vô cùng gắn bó thân thiết.
 
-“Rem này, từ nay về sau em hãy gọi tôi là Chị gái (Neesan) nhé!”
+“Rem này, từ nay về sau em hãy gọi tôi là Chị gái nhé!”
 
 “Không được đâu ạ.”
 
 “...Ủ-Ủa? Tại sao lại không được hả em?”
 
-“Chủ nhân đã ra lệnh cho Rem rằng: **Tuyệt đối không được phép dùng bất kỳ kính ngữ xưng hô bề trên nào đối với Sakura!**”
+“Chủ nhân đã ra lệnh cho Rem rằng: *Tuyệt đối không được phép dùng bất kỳ kính ngữ xưng hô bề trên nào đối với Sakura!*”
 
 “MOMOKAWA ĐỒ KHỐNNNNNNNNNNNNNNNNNNNNNNNNN!!”

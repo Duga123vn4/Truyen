@@ -1,303 +1,303 @@
 # Tập 356: Khu rừng tinh linh (3)
 
-Hoa nở rực rỡ bên bờ suối xinh đẹp, nơi các tinh linh đang vui đùa,
+Bên bờ suối róc rách tuyệt đẹp, nơi trăm hoa đua nở rực rỡ và những tinh linh đang tung tăng vui đùa—
 
-“Quên đi! Quên đi! Quên ngay đi cho tôi!!”
+“Quên đi! Quên hết đi! Quên ngay đi cho tôi!!”
 
-Tiếng hét giận dữ của một thiếu nữ vang vọng khắp khu rừng.
+Tiếng hét the thé đầy phẫn nộ của một thiếu nữ xé toạc bầu không khí yên bình của khu rừng.
 
-Tên cô ấy là Souma Sakura. Niềm tự hào của Học viện Hakurei chúng tôi, một mỹ thiếu nữ lý tưởng, đoan trang thùy mị, văn võ song toàn mà ai nấy đều ngưỡng mộ. Nhưng đối với tôi lúc này, những danh hiệu đó chỉ còn là quá khứ xa vời.
+Tên cô ấy là Souma Sakura. Niềm tự hào của Học viện Hakurei chúng tôi, một mỹ thiếu nữ lý tưởng, đoan trang thùy mị, tài sắc vẹn toàn mà biết bao người ngưỡng mộ. Thế nhưng đối với tôi lúc này, những mỹ từ ấy chỉ còn là tàn tích của một quá khứ xa vời.
 
-Sakura đang méo mó khuôn mặt xinh đẹp của mình trong cơn điên loạn và lao vào túm lấy tôi.
+Khuôn mặt kiều diễm của Sakura giờ đây đang vặn vẹo trong cơn bấn loạn cùng cực khi cô nàng lao vào túm lấy áo tôi mà giật lấy giật để.
 
-“Được rồi, tớ biết rồi, tớ sẽ coi như chưa nhìn thấy chuyện vừa nãy.”
+“Được rồi mà, tớ biết rồi, tớ sẽ coi như chưa từng nhìn thấy chuyện ban nãy.”
 
-“Đã bảo là không phải thế rồi mà! Tôi chỉ là bất đắc dĩ, thực sự là cực chẳng đã mới cứu cái thứ như cậu thôi đấy nhé!?”
+“Đã bảo không phải thế rồi mà! Tôi chỉ bất đắc dĩ, thực sự là vạn bất đắc dĩ mới phải cứu cái thứ rác rưởi như cậu thôi đấy nhé!?”
 
-“Thì tớ bảo là hiểu rồi mà... Cảm ơn cậu vì đã cứu tớ nhé.”
+“Thì tớ đã bảo là hiểu rồi còn gì... Cảm ơn cậu vì đã cứu mạng tớ nhé.”
 
-“Ư... oa a a a a!”
+“Ư... Oa a a a a a!”
 
-Sau khi tặng tôi hai cú tát trời giáng liên tiếp vào má trái rồi má phải, Sakura bật khóc nức nở vì quá sốc.
+Sau khi tặng tôi hai cái bạt tai nảy lửa liên tiếp vào má trái rồi má phải, Sakura ôm mặt bật khóc nức nở vì quá sốc.
 
-Này, sao tôi lại bị tát thế hả? Tôi đã thành thật nói lời cảm ơn rồi cơ mà?
+Này này, cớ sao tôi lại bị tát cơ chứ? Rõ ràng tôi đã hết sức thành tâm nói lời cảm ơn rồi mà?
 
-“Thật là, mới trêu một chút thôi mà đã ăn đủ rồi.”
+“Thiệt tình, mới chọc một chút mà đã ăn đủ đòn rồi.”
 
-Trong lúc Rem đang nhẹ nhàng cọ cọ vào bên má đang rát buốt của tôi, tôi không kìm được tiếng thở dài ngao ngán.
+Trong lúc bé Rem đang nhẹ nhàng cọ gò má mềm mại của mình vào một bên má đang rát buốt của tôi, tôi chỉ biết thở dài ngao ngán.
 
-Chờ đợi một Sakura đang bất ổn tâm lý khóc lóc thảm thiết bình tĩnh lại hoàn toàn là một việc cực kỳ lãng phí thời gian, nên tôi tranh thủ sắp xếp lại hành lý và trang bị của mình.
+Ngồi chờ một Sakura đang khủng hoảng tâm lý khóc lóc thảm thiết lấy lại bình tĩnh thì đúng là lãng phí thời gian vô ích, vậy nên tôi tranh thủ sắp xếp lại toàn bộ hành lý và trang bị mang theo.
 
-Dĩ nhiên, tôi cũng tái cơ cấu đội ngũ Rem chim trinh sát và thả chúng vào khu rừng tinh linh này.
+Tất nhiên, tôi cũng không quên tái thiết lập đàn Rem chim trinh sát rồi thả chúng bay tản ra khắp khu rừng tinh linh này.
 
-Nhờ có bọ cánh cứng Rem được phát cho mỗi người, tôi biết được mọi người đang ở hướng nào. Tôi cũng điều Rem chim bay về phía đó để làm nhiệm vụ dẫn đường.
+Nhờ những con bọ cánh cứng Rem đã được phân phát cho từng thành viên từ trước, tôi có thể định vị được hướng đi của mọi người. Tôi liền điều khiển bầy Rem chim bay về phía đó để thực hiện nhiệm vụ dẫn đường hội quân.
 
-“Dù sao thì, đúng là phải cảm ơn công nghệ cổ đại thật đấy. Này, Sakura-chan, tớ hỏi cái này không phải chứ, cậu không làm mất cái túi đeo đấy chứ?”
+“Dù sao thì cũng phải cảm ơn nền công nghệ cổ đại thật đấy. Này, Sakura-chan, tớ hỏi câu này không phải chứ, cậu có làm mất cái túi đeo chéo không đấy?”
 
-“...Vẫn còn nguyên đây.”
+“...Vẫn còn nguyên đây này.”
 
-Với đôi mắt đỏ hoe vẫn còn vương lệ, Sakura miễn cưỡng trả lời.
+Đôi mắt đỏ hoe vẫn còn ngân ngấn nước, Sakura hậm hực đáp lời.
 
 “Thế còn cây trường đao?”
 
-“Nó ở ngay kia kìa. Nhìn cho kỹ vào.”
+“Nó ở đằng kia kìa. Tự mở to mắt ra mà nhìn đi.”
 
-Đúng như hướng ngón tay cô ấy chỉ, cây vũ khí chuyên dụng 『Anh Hoa Liêu Loạn』 mà tôi đã tốn bao tâm huyết chế tạo cho Sakura đang cắm chặt xuống đất.
+Xuôi theo hướng ngón tay cô ấy chỉ, thanh đại vũ khí chuyên dụng mang tên 『Anh Hoa Liêu Loạn』 mà tôi đã dồn bao tâm huyết chế tác riêng cho Sakura đang cắm phập vững chãi trên nền đất.
 
-Ra vậy, ngay sau khi cắm nó ở đó, cô ấy đã nhảy xuống suối để vớt một kẻ đang trôi nổi như xác chết trôi là tôi lên. Cảm ơn cậu nhé, Sakura. Vì đã không để tớ chết.
+Ra là vậy, ngay sau khi cắm nó xuống đất, cô nàng đã vội vã lao mình xuống dòng suối để vớt một kẻ đang bồng bềnh trôi dạt như xác chết trôi là tôi lên. Cảm ơn cậu nhiều nhé, Sakura-chan. Đa tạ vì đã không bỏ mặc tớ chết chìm.
 
-“Vậy là trang bị và nhu yếu phẩm đều ổn cả rồi.”
+“Vậy là trang bị và nhu yếu phẩm đều đầy đủ cả rồi.”
 
-Vừa nói, tôi vừa đeo lại chiếc cặp học sinh của mình lên vai.
+Vừa lẩm bẩm, tôi vừa xốc lại quai đeo của chiếc cặp học sinh lên vai.
 
-『Cặp học sinh』: Chiếc cặp do Học viện Hakurei chỉ định mà tôi đã mang theo từ lúc bị ném từ lớp học vào hầm ngục. Tôi đã luôn dùng nó suốt chặng đường dài, và khi đến pháo đài ẩn chứa đầy di vật cổ đại, tôi cuối cùng đã cải tiến thành công nó. Nhờ kỹ thuật ma pháp không gian mà Kyouko tìm thấy, dung tích bên trong chiếc cặp đã được mở rộng đáng kể. Không chỉ trang bị, vật phẩm và nhu yếu phẩm, chiếc cặp của tôi còn được tích hợp cả một rương kho báu bên trong, giúp nâng cao khả năng bảo quản các loại dược phẩm. Nhờ vậy, ngay cả khi bị chia cắt thế này, chúng tôi cũng không cần phải lo lắng về mặt nhu yếu phẩm nhờ chiếc cặp mở rộng có ma pháp không gian được phát cho mỗi người.
+『Cặp học sinh』: Chiếc cặp tiêu chuẩn do Học viện Hakurei chỉ định mà tôi luôn mang theo bên mình kể từ khoảnh khắc cả lớp bị dịch chuyển từ phòng học xuống đáy hầm ngục. Tôi đã gắn bó với nó suốt chặng hành trình sinh tồn dài đằng đẵng, và mãi đến khi đặt chân tới pháo đài ngập tràn di vật cổ đại, tôi mới có cơ hội cải tiến thành công cho nó. Nhờ kỹ thuật ma pháp không gian do Kyouko khai quật được, dung tích chứa đựng bên trong chiếc cặp đã được mở rộng đến mức kinh ngạc. Không chỉ chứa được cơ man vũ khí, vật phẩm và lương thảo dự phòng, bên trong cặp của tôi còn được tích hợp cả một chiếc rương kho báu, giúp tối ưu hóa khả năng bảo quản các loại dược phẩm quý giá. Nhờ đó, ngay cả trong tình cảnh bị chia cắt phân tán thế này, từng người chúng tôi vẫn không phải bận tâm về vấn đề thiếu thốn nhu yếu phẩm nhờ chiếc cặp không gian mở rộng đã được trang bị cho mỗi cá nhân.
 
-Đối với một kẻ tiêu tốn nhiều tài nguyên cho vật tế như tôi, chiếc cặp mở rộng này thực sự là một cứu cánh vĩ đại. Nói thật thì tôi vẫn thèm khát chính ma pháp không gian 『Không Gian Mở Rộng』 mà Kotori từng dùng hơn. Nếu nó trở thành ma pháp của chính bản thân, tôi sẽ không phải lo lắng về việc trang bị bị hỏng hóc hay thất lạc.
+Đối với một kẻ tiêu tốn vô số tài nguyên phục vụ cho thuật hiến tế như tôi, chiếc cặp mở rộng này thực sự là một ân huệ vĩ đại. Dù nói thật lòng thì tôi vẫn thèm khát chính ma pháp không gian 『Không Gian Mở Rộng』 bẩm sinh mà Kotori từng sở hữu hơn. Nếu biến nó thành ma pháp của riêng mình, tôi sẽ chẳng bao giờ phải nơm nớp lo sợ trang bị bị hao mòn hay thất lạc nữa.
 
-Nhưng dĩ nhiên, tôi vẫn chưa tìm thấy bất kỳ chức năng hay thiết bị nào cho phép học kỹ năng một cách dễ dàng như vậy. Liberta cũng nói rằng người cổ đại thời đó không phải ai cũng dùng được kỹ năng, nên ma pháp và võ kỹ có lẽ vẫn là đặc quyền chỉ dành cho một số ít người được chọn.
+Cơ mà đương nhiên, tôi vẫn chưa tìm thấy bất kỳ trang thiết bị hay cơ chế nào cho phép tiếp thu kỹ năng một cách dễ dàng đến thế. Đến cả Liberta cũng từng khẳng định rằng ngay cả người cổ đại thời xưa cũng không phải ai cũng dùng được kỹ năng, thế nên ma pháp và võ kỹ chung quy vẫn chỉ là đặc quyền dành riêng cho một số ít cá nhân được chọn lựa mà thôi.
 
-Dù sao đi nữa, nhờ chiếc cặp này, tôi lại có thể dùng triệu hoán thuật để lập ra một đội quân tốt thí hộ vệ. Đội trinh sát được thả đi cũng đã bắt đầu truyền thông tin xung quanh về cho Rem.
+Dẫu sao đi nữa, nhờ chiếc cặp này, tôi lại có thể thoải mái thi triển thuật triệu hoán để gầy dựng một đạo quân tốt thí làm lá chắn hộ vệ. Đội trinh sát được thả đi lúc nãy cũng đã bắt đầu gửi những tín hiệu thông tin đầu tiên về địa hình xung quanh cho Rem.
 
-“Được rồi, chuẩn bị xuất phát thôi.”
+“Được rồi, chuẩn bị lên đường thôi nào.”
 
-“Chúng ta sẽ đi đâu?”
+“Chúng ta sẽ đi đâu trước?”
 
-“Trước tiên là hướng về phía người đồng đội ở gần nhất. Hội quân là ưu tiên hàng đầu.”
+“Trước mắt là nhắm thẳng về phía người đồng đội đang ở gần nhất. Hội quân là ưu tiên số một.”
 
-“Hừm, cũng hợp lý đấy.”
+“Hừm, nghe cũng có lý đấy.”
 
-Sakura gật đầu với vẻ mặt đắc ý. Cô ấy tỏ ra đường bàng hoàng như thể những hành vi mất mặt và đáng xấu hổ vừa nãy chưa từng xảy ra. Thôi thì lúc này tôi cũng nên biết điều mà không chọc ngoáy thêm nữa.
+Sakura gật đầu với vẻ mặt đầy tự đắc. Cô nàng tỏ ra bình thản như thể những hành vi thất thố, đáng xấu hổ ban nãy chưa từng tồn tại trên cõi đời này vậy. Thôi thì lúc này tôi cũng nên thức thời mà ngậm miệng lại, tránh chọc ngoáy thêm làm gì cho chuốc vạ vào thân.
 
-“— Nhưng mà, phải đi riêng với mỗi Momokawa thế này, tôi thấy bất an thế nào ấy.”
+“— Cơ mà, phải đi riêng lẻ với mỗi mình Momokawa thế này, tôi cứ thấy bất an thế nào ấy.”
 
-“Tớ cũng thế thôi, đi riêng với Sakura-chan làm tớ lo sốt vó lên được đây này.”
+“Tớ cũng có khác gì đâu, đi chung một mình với Sakura-chan làm tớ lo ngay ngáy đến thắt cả ruột gan đây này.”
 
-Tôi và Sakura vừa chạy trong rừng vừa đấu khẩu như vậy.
+Tôi và Sakura vừa di chuyển xuyên qua cánh rừng vừa đấu khẩu không ngừng như thế.
 
-Tất nhiên, nói là chạy nhưng không phải bằng hai chân của mình, mà là cưỡi thú. Tôi cực kỳ ghét chạy marathon. Bắt tôi chạy bộ đường dài thì miễn đi.
+Tất nhiên, bảo là chạy nhưng không phải bằng hai cẳng chân trần của mình, mà là cưỡi ma thú. Tôi cực kỳ căm ghét môn chạy marathon. Bắt một kẻ thể lực yếu kém như tôi chạy bộ đường trường thì xin kiếu đi cho lành.
 
-Thú cưỡi của tôi là Alpha, chiếc "xe" màu đỏ rực yêu quý. Còn thú cưỡi của Sakura không phải là loại Raptor giá rẻ sản xuất hàng loạt.
+Thú cưỡi của tôi là Alpha, chiếc "chiến xa" Raptor đỏ rực yêu quý. Còn thú cưỡi của Sakura thì tuyệt nhiên không phải loại Raptor sản xuất hàng loạt giá rẻ kia.
 
-Bốn chi thon thả nhưng đầy sức mạnh. Những chiếc móng gõ xuống đất tạo nên những âm thanh giòn giã, lướt đi một cách hoa lệ giữa khu rừng ngập tràn ánh nắng xuyên qua kẽ lá.
+Bốn chi thon dài nhưng cuồn cuộn sức mạnh. Từng móng guốc giẫm mạnh xuống nền đất phát ra những thanh âm giòn giã, lướt đi vô cùng uyển chuyển giữa khu rừng bừng sáng ánh nắng xuyên qua từng kẽ lá.
 
-Trước đây, thú cưỡi bốn chân của chúng tôi chỉ có Jaaja và Loyrops, nhưng con này không phải cả hai loại đó.
+Trước đây, ma thú cưỡi bốn chân của chúng tôi chỉ quanh đi quẩn lại giữa Jaaja và Loyrops, nhưng con quái thú này lại không thuộc về hai chủng loài đó.
 
-Ngoại hình của nó về cơ bản là một con ngựa. Không, nhìn chiếc sừng đơn tuyệt đẹp mọc trên trán nó, có lẽ nên gọi nó là Unicorn (Kỳ lân) thì đúng hơn.
+Hình dáng cơ bản của nó trông hệt như một con tuấn mã. Không, nếu nhìn vào chiếc sừng đơn tuyệt mỹ nhô ra kiêu hãnh trên trán nó, có lẽ gọi nó là Kỳ Lân (Unicorn) thì mới đúng điệu.
 
-『Nise-corn』: Thú cưỡi chuyên dụng của Sakura. Cơ thể màu xám trắng vô cơ như một bức tượng đá, bờm màu trắng muốt với vóc dáng của một chú ngựa thuần chủng Thoroughbred. Chiếc sừng đơn dạng mũi khoan tỏa ra ánh sáng xanh lam nhạt, và đôi mắt đỏ rực như lửa. Nguyên bản của nó là ma vật ăn thịt dạng hươu Jaaja, nhưng dưới những yêu cầu dồn dập của Sakura, tôi — một nghệ nhân tạo hình xác sống đệ nhất — đã đáp ứng và hoàn thiện nó thành hình dáng của một con kỳ lân lộng lẫy này. Dù là kỳ lân nhưng nó chẳng có năng lực thần bí đặc biệt nào cả. Bởi vì vốn dĩ nó chỉ là một con Jaaja thôi mà. Gọi là kỳ lân thì thật là ngượng ngùng, nên nó chỉ là một con Nise-corn (kỳ lân giả) mà thôi.
+『Nise-corn』: Thú cưỡi độc quyền của Sakura. Thân mình mang sắc xám trắng vô cơ lạnh lẽo như một pho tượng đá, bờm trắng muốt buông dài với vóc dáng chuẩn mực của loài ngựa thuần chủng Thoroughbred thượng hạng. Chiếc sừng đơn xoắn ốc dạng mũi khoan phát ra ánh quang lam nhạt mờ ảo, cùng cặp mắt đỏ rực như hai ngọn lửa ngún cháy. Bản gốc của nó vốn dĩ là ma vật ăn thịt dạng hươu Jaaja, nhưng trước những đòi hỏi dồn dập đến nhức cả óc của Sakura, tôi — một nghệ nhân tạo hình xác sống đệ nhất thiên hạ — đã phải cắn răng đáp ứng và gọt đẽo nó thành hình hài của một con kỳ lân lộng lẫy nhường này. Dù mang danh kỳ lân nhưng nó chẳng sở hữu bất kỳ quyền năng thần thánh nào ráo trọi. Đơn giản vì cốt lõi của nó vẫn chỉ là một con hươu Jaaja tầm thường mà thôi. Thẳng thắn mà nói thì gọi nó là kỳ lân nghe ngượng mồm chết đi được, nên danh xưng chuẩn xác nhất của nó chỉ là Nise-corn (kỳ lân rởm) mà thôi.
 
-Chính vì thế, ngay bên cạnh tôi lúc này là mỹ thiếu nữ Sakura đang cưỡi kỳ lân với dáng vẻ vô cùng kiều diễm, chẳng khác nào một nữ chiến thần Valkyrie.
+Chính vì thế, ngay sát bên cạnh tôi lúc này là mỹ thiếu nữ Sakura đang hiên ngang cưỡi kỳ lân với phong thái kiều diễm tuyệt trần, chẳng khác nào một nữ chiến thần Valkyrie bước ra từ thần thoại.
 
-Mái tóc đen dài óng ả tung bay trong gió, nhìn góc nghiêng oai phong lẫm liệt khi cô ấy điều khiển con kỳ lân một cách điệu nghệ... không hiểu sao trong lòng tôi lại dấy lên một sự bực bội khó tả. Chẳng biết người ta đã phải tốn bao nhiêu công sức, thế mà cô nàng cứ thản nhiên cưỡi đi lại với vẻ mặt tỉnh bơ như thể đó là điều hiển nhiên vậy.
+Mái tóc đen nhánh buông dài tung bay lả lướt trong gió, góc nghiêng oai phong lẫm liệt khi cô nàng ghìm dây cương điều khiển con kỳ lân một cách thuần thục... không hiểu sao lại khiến lòng tôi dấy lên một nỗi bực bội khó tả. Người ta đã phải trầy vi tróc vảy, đổ bao nhiêu mồ hôi nước mắt mới nhào nặn ra được, thế mà cô ả cứ thản nhiên phi nước đại với vẻ mặt tỉnh queo như thể đó là điều hiển nhiên mà mình đáng được hưởng vậy.
 
-Thực tế thì con Nise-corn của Sakura là một sự biệt đãi.
+Thực tế thì con Nise-corn này của Sakura là một sự biệt đãi ngoại lệ.
 
-Để đề phòng, tôi đã chuẩn bị sẵn Raptor cho mọi người để ai cũng có thú cưỡi, nhưng Sakura lại phản đối điều đó.
+Để đề phòng bất trắc, tôi đã chế tạo sẵn một đàn Raptor để chia cho mỗi người một con làm thú cưỡi, nhưng Sakura lại kịch liệt phản đối phương án đó.
 
-Cô ấy bảo mình có kinh nghiệm cưỡi ngựa, nên nếu cưỡi thì phải là ngựa mới chịu. Khi tôi cho cô ấy cưỡi thử con Jaaja dạng hươu gần giống ngựa nhất, cô ấy đã thể hiện khả năng điều khiển dây cương khá điêu luyện. Tôi bảo “Thế cưỡi con này là được rồi còn gì”, nhưng cô ấy bắt đầu mè nheo đòi tôi phải đưa một con ngựa thực sự cơ. Và sau bao nhiêu công sức khổ cực, con Nise-corn này đã ra đời.
+Cô ấy khăng khăng bảo mình từng có kinh nghiệm cưỡi ngựa từ trước, nên một khi đã cưỡi thì dứt khoát phải là ngựa mới chịu. Đến khi tôi dắt con Jaaja dạng hươu có dáng dấp gần giống ngựa nhất cho cô ấy cưỡi thử, cô ấy liền phô diễn khả năng ghìm cương vô cùng điêu luyện. Tôi mới bảo “Thế cưỡi con này là đủ xài rồi còn gì”, nào ngờ cô nàng lại giở thói mè nheo, nằng nặc bắt tôi phải giao ra một con ngựa thực thụ cho bằng được. Và rồi sau hàng chuỗi ngày làm việc quần quật như trâu bò, con Nise-corn này mới chính thức ra đời.
 
-Tuy nhiên, về mặt hiệu suất di chuyển và sự ổn định của người cưỡi, tức là những yếu tố liên quan đến việc “cưỡi và chạy”, nhờ những lời chê bai mang tính góp ý của một người có kinh nghiệm như Sakura mà con thú này có độ hoàn thiện cực kỳ cao. Đối mặt với một khách hàng thuộc hàng “thượng đế khó tính” như vậy mà vẫn hoàn thành công việc khiến họ hài lòng, tôi cảm giác tay nghề thủ công của mình lại tăng lên một tầm cao mới... Nhưng mà, có điên tôi mới nhận cái đơn hàng củ chuối này lần thứ hai.
+Dẫu vậy, xét về mặt hiệu suất di chuyển cũng như độ thăng bằng ổn định cho người điều khiển — tức là toàn bộ những yếu tố cốt lõi liên quan đến việc “cưỡi và phi nước đại” — nhờ vào những lời chê bai đậm chất chuyên môn mang tính đóng góp của một kẻ dày dạn kinh nghiệm như Sakura, độ hoàn thiện của con thú cưỡi này đã đạt đến cảnh giới vô cùng xuất sắc. Đứng trước một vị khách hàng thuộc hàng “thượng đế khó tính” bậc nhất như thế mà vẫn hoàn thành công việc khiến họ gật đầu hài lòng, tôi cảm giác tay nghề thủ công mỹ nghệ của mình dường như lại được nâng lên một tầm cao mới... Cơ mà, có điên tôi mới thèm nhận cái đơn đặt hàng củ chuối này thêm một lần nào nữa.
 
-“Momokawa, mất bao lâu nữa chúng ta mới hội quân được?”
+“Momokawa, còn mất bao lâu nữa chúng ta mới hội quân được?”
 
-“Khu rừng này có vẻ khá rộng đấy, nên dù có chạy thế này thì cũng phải mất một khoảng thời gian.”
+“Khu rừng này xem chừng rộng lớn ngoài sức tưởng tượng đấy, nên dù có phi hết tốc lực thế này thì cũng phải tốn kha khá thời gian.”
 
-Nhờ Rem chim trinh sát, tôi đã nắm được khái quát độ rộng của khu rừng tinh linh này. Nơi đây rộng lớn đến mức gọi là một khu vực của Dungeon chứ không chỉ đơn thuần là một tầng của tòa tháp nữa.
+Thông qua góc nhìn của Rem chim trinh sát, tôi đã phác thảo được sơ bộ quy mô bạt ngàn của khu rừng tinh linh này. Nơi đây mênh mông đến mức phải gọi là một phân khu độc lập của Dungeon chứ tuyệt đối không thể xem như một tầng tháp thông thường.
 
-Mọi người, bao gồm cả Mei, đều bị phân tán rải rác như đã được tính toán từ trước. Tuy nhiên, may mắn là cũng có những cặp đôi đã hội quân được với nhau giống như tôi và Sakura. Ở một nơi thế này, những người có thể tự tin hoạt động đơn độc chỉ có Mei và Tendou mà thôi.
+Mọi người, bao gồm cả Mei-chan, đều bị phân tán rải rác khắp nơi hệt như một sự sắp đặt đầy toan tính từ trước. Dẫu vậy, điều may mắn là cũng có những cặp đôi đã kịp thời tìm thấy nhau tương tự như trường hợp của tôi và Sakura. Ở một chiến trường lạ lẫm và tiềm ẩn vô vàn cạm bẫy thế này, những kẻ đủ bản lĩnh để tự tin độc hành tung hoành chỉ có thể đếm trên đầu ngón tay: Mei-chan và Tendou.
 
-“Vậy thì chúng ta hãy tăng tốc thêm chút nữa đi.”
+“Thế thì chúng ta tăng tốc thêm chút nữa đi.”
 
-“Nên thế. Địa hình phía trước bằng phẳng như đã được dọn dẹp sẵn vậy, chạy rất dễ—”
+“Nên như thế. Địa hình phía trước bằng phẳng như đã được dọn sẵn từ trước vậy, rất dễ để tăng tốc phi—”
 
-Vừa nói đến đó, tôi vội vàng ngậm miệng lại.
+Vừa thốt ra đến đó, tôi vội vàng ngậm bặt miệng lại.
 
-Ngay sau đó, Alpha có một cú nhảy mạnh—một quả đạn ánh sáng phát nổ ngay dưới chân nó, hất tung đất cát lên không trung.
+Ngay khoảnh khắc tiếp theo, Alpha đột ngột bật nhảy cực mạnh sang một bên—một luồng đạn ma lực ánh sáng phát nổ chói lòa ngay sát gót chân nó, hất tung từng mảng đất cát mù mịt lên không trung.
 
-“— Tsk, địch tập kích!”
+“— Tsk, địch phục kích!”
 
-“Bị bắn thế này, là binh lính rối sao?”
+“Đòn bắn tỉa này... là đám binh lính rối sao!?”
 
-Thấp thoáng sau những thân cây trong rừng, những con búp bê ma pháp (ma đạo nhân hình) mang theo súng blaster bắt đầu lũ lượt xuất hiện.
+Thấp thoáng sau những thân cây cổ thụ rậm rạp, những con Ma Đạo Nhân Hình lăm lăm khẩu súng blaster trên tay bắt đầu lũ lượt túa ra như ong vỡ tổ.
 
-Dù đã thả Rem chim đi trinh sát, nhưng tầm nhìn trong rừng vẫn bị che khuất đáng kể bởi cây cối. Nếu chúng cố tình ẩn nấp và di chuyển, việc tiếp cận mà không bị phát hiện trong rừng là điều quá dễ dàng. Hóa ra ngay cả những con rối cũng có thể thực hiện những bước di chuyển như vậy.
+Dù tôi đã thả bầy Rem chim đi rải thảm trinh sát, nhưng tầm nhìn trong rừng rậm vẫn bị tàn cây rậm rạp che khuất đáng kể. Một khi kẻ địch chủ động ẩn nấp và men theo các điểm mù để di chuyển, việc chúng áp sát mà không bị phát hiện là điều quá đỗi dễ dàng. Không ngờ ngay cả lũ con rối vô hồn này cũng có thể thực hiện những bước di chuyển chiến thuật tinh vi đến nhường ấy.
 
-“Ư, thế này thì hơi gay go đây...”
+“Ư, tình hình này hơi bị gay go rồi đây...”
 
-Trong tình huống này, việc bị bắn bởi súng blaster có uy lực và tầm bắn xa còn đáng sợ hơn là bị một con ma vật Boss thông thường truy đuổi.
+Trong bối cảnh hiện tại, việc bị tập kích hỏa lực tầm xa bởi những khẩu súng blaster sở hữu uy lực xuyên phá khủng khiếp còn nguy hiểm hơn gấp bội so với việc bị một con ma vật Boss thông thường truy đuổi ráo riết phía sau.
 
-Chúng tôi đang cưỡi thú chạy điên cuồng. Dù có muốn dùng tốc độ để cắt đuôi, nhưng trước một đội quân bot đang đồng loạt xả súng thế này, việc trúng đạn là điều không thể tránh khỏi—
+Chúng tôi đang cưỡi thú lao đi với tốc độ cao. Dù có muốn cậy tốc lực để cắt đuôi, nhưng trước một mạng lưới hỏa lực đan chéo dày đặc từ đội quân bot thiện xạ này, việc dính đạn chỉ còn là vấn đề thời gian—
 
 “Oái!?”
 
-Đúng như tôi lo sợ, Alpha cuối cùng cũng trúng đạn trực diện.
+Đúng như nỗi lo sợ tồi tệ nhất của tôi, Alpha cuối cùng đã trúng trọn một phát bắn trực diện.
 
-Nếu chỉ là súng blaster thông thường, trúng một hai phát thì xác sống không biết đau đớn như Alpha chẳng hề hấn gì, nhưng nếu bị bắn nát cả mảng thịt ở chân thì chắc chắn sẽ ảnh hưởng đến việc chạy.
+Nếu chỉ là súng blaster loại nhẹ, trúng một hai phát thì một xác sống không hề biết đau đớn như Alpha sẽ chẳng mảy may suy suyển, nhưng khi cả một mảng thịt lớn ở khớp chân sau bị xé toạc thành tro bụi thì khả năng thăng bằng khi chạy chắc chắn sẽ bị sụp đổ hoàn toàn.
 
-Hỏng rồi, đà chạy của Alpha bị sụp đổ, khiến cơ thể tôi bị hất văng ra ngoài.
+Nguy rồi, đà phi nước đại của Alpha bị khựng lại đột ngột, lực quán tính cực mạnh hất văng cả cơ thể tôi bay bổng lên không trung.
 
-Cảm nhận được cảm giác lơ lửng khó chịu trong không trung, tôi vội vàng chuẩn bị tinh thần đón nhận cú va chạm sắp tới, nhưng—
+Cảm nhận rõ rệt cảm giác hẫng hụt đầy khó chịu giữa khoảng không vô định, tôi vội gồng mình chuẩn bị đón nhận một cú tiếp đất dập xương nát thịt, thế nhưng—
 
-“— Thật là, chỉ toàn làm vướng tay vướng chân thôi. Giữ cho chắc vào, Momokawa!”
+“— Thật là, lúc nào cũng chỉ biết làm vướng tay vướng chân người khác thôi! Bám cho chắc vào, Momokawa!”
 
 “Ồ, Sakura-chan!”
 
-Ngay khoảnh khắc cơ thể tôi bị hất tung lên không trung, Sakura đang chạy song song bên cạnh đã đưa tay ra bắt lấy tôi.
+Ngay khoảnh khắc thân ảnh tôi bị hất tung lên cao, Sakura đang phi song song bên cạnh đã nhanh như cắt vươn tay chộp chặt lấy cổ áo tôi.
 
-Một thoáng nghi ngờ xẹt qua đầu tôi rằng liệu cô ấy có ném tôi đi luôn không, nhưng cô ấy đã kéo tôi thẳng lên yên con Nise-corn.
+Một thoáng ngờ vực lóe lên trong đầu tôi rằng liệu cô nàng có nhân cơ hội này mà ném tôi đi luôn cho rảnh nợ hay không, nhưng cánh tay thanh mảnh ấy đã dùng lực kéo giật tôi đặt thẳng lên phía trước yên con Nise-corn.
 
-“Cứu mạng tớ rồi, cảm ơn cậu nhé.”
+“Cứu mạng tớ rồi, cảm ơn cậu nhiều nhé.”
 
-“Không phải lúc để nói chuyện thong thả đâu! Nào, tôi giao dây cương cho cậu đấy, lo mà điều khiển cho tốt vào!”
+“Không phải lúc để thong thả buôn chuyện đâu! Này, tôi giao lại dây cương cho cậu đấy, liệu mà điều khiển cho cẩn thận vào!”
 
-“Ủa, thế còn Sakura-chan thì sao?”
+“Ơ kìa, thế còn Sakura-chan thì tính sao?”
 
-“Tôi sẽ nghênh chiến— Hầy, biết thế này tôi đã học thêm cả môn bắn cung trên lưng ngựa (yabusame) rồi.”
+“Tôi sẽ nghênh chiến— Hầy, biết thế này hồi trước tôi đã học thêm cả môn kỵ xạ (yabusame) cho rồi.”
 
-Vừa thở dài ngao ngán, Sakura vừa nhanh nhẹn xoay người lại, ngồi quay lưng về phía trước yên ngựa. Còn tôi thì nắm lấy dây cương, ở vào tư thế tựa lưng vào nhau với Sakura.
+Vừa thở dài ngao ngán, Sakura vừa khéo léo xoay người lại một cách điệu nghệ, ngồi quay lưng về phía đầu ngựa. Còn tôi thì lập tức nắm chặt lấy dây cương, tạo thành thế hai người ngồi tựa lưng vào nhau trên lưng chiến mã.
 
-À, ra vậy. Đây là kiểu một người lái xe, một người làm pháo thủ trên xe chiến đấu đúng không.
+À, tôi hiểu rồi. Đây chính là mô hình tác chiến kinh điển: một người chuyên tâm lái xe, còn một người đóng vai trò pháo thủ hỏa lực trên xe bọc thép chứ gì.
 
-Ngay khi tôi hiểu được ý đồ của cô ấy, Sakura đã giương cây 『Thánh Nữ Hòa Cung』 đã lâu không thấy lên.
+Ngay khi tôi vừa nắm bắt được ý đồ chiến thuật, Sakura đã nhanh chóng giương cây cung 『Thánh Nữ Hòa Cung』 đã lâu không dùng lên ngang tầm mắt.
 
-“Cứ cho ngựa chạy thẳng đi. Mấy đòn tấn công tầm này thì 『Thánh Thiên Kết Giới』 của tôi dư sức đỡ được hết.”
+“Cứ việc phi thẳng hết tốc lực đi. Mấy đòn tấn công tép riu cỡ này thì 『Thánh Thiên Kết Giới』 của tôi thừa sức bẻ gãy toàn bộ!”
 
-“Hô hô, thế này thì chúng ta đang ở trạng thái ngôi sao vô địch rồi!”
+“Hô hô, thế này thì chúng ta chẳng khác nào đang bật chế độ ngôi sao bất tử vô địch rồi!”
 
-“Thật là, mới thế đã tinh tướng rồi— 『Quang Pháo』!”
+“Thiệt tình, mới thế mà đã lên mặt tinh tướng rồi— 『Quang Pháo』!”
 
-Và thế là, trong trạng thái vô địch được bảo vệ bởi kết giới ánh sáng, màn phản công đơn phương của Sakura bắt đầu.
+Và thế là, được bao bọc bên trong bức màn kết giới ánh sáng bất khả xâm phạm, màn phản công hỏa lực áp đảo một chiều của Sakura chính thức bùng nổ.
 
 ***
 
-“— Dùng Đệm Khí đi! Mau dùng Đệm Khí đi!!”
+“— Mau kích hoạt Đệm Khí đi! Dùng Đệm Khí nhanh lên!!”
 
-“Đ-Được rồi, Đệm Khí đúng không...”
+“Đ-Được rồi, Đệm Khí chứ gì...”
 
-Đáp lại tiếng hét thất thanh của Kotarou, Rerite lập tức lục lọi chiếc túi đeo của mình để tìm món vật phẩm ma pháp cần thiết.
+Đáp lại tiếng gầm thét thất thanh của Kotarou, Rerite cuống cuồng thọc tay vào túi đeo hông để lục lọi món ma đạo cụ cứu mạng.
 
-Món đồ trông như một viên bi ve phát ra ánh sáng xanh lá này chính là 『Đệm Khí』. Qua huấn luyện, chúng tôi đã chứng minh được rằng dù có rơi từ độ cao nào đi chăng nữa, chỉ cần dùng nó là có thể tiếp đất an toàn. Cách sử dụng cũng cực kỳ đơn giản, chỉ cần truyền vào một chút ma lực là xong.
+Vật thể trông hệt như một viên bi ve đang tỏa ra ánh huỳnh quang màu lục bảo dịu nhẹ này chính là 『Đệm Khí』. Thông qua các buổi huấn luyện thực chiến trước đây, cả nhóm đã chứng minh được rằng dù có rơi tự do từ bất kỳ độ cao không tưởng nào, chỉ cần kích hoạt nó đúng thời điểm là có thể triệt tiêu hoàn toàn lực rơi để tiếp đất an toàn tuyệt đối. Cách thức vận hành cũng vô cùng đơn giản, chỉ việc rót một lượng nhỏ ma lực vào bên trong là xong.
 
-Lúc này, hơn một nửa sàn nhà dưới chân đã biến mất, lộ ra vực sâu không thấy đáy, nhưng Rerite cũng không phải là kẻ chưa từng trải qua những tình huống ngàn cân treo sợi tóc. Cậu cố gắng giữ bình tĩnh, chuẩn bị sẵn sàng tâm lý cho cú rơi, thế nhưng—
+Lúc này, hơn một nửa mảng sàn đá dưới chân đã hoàn toàn biến mất, để lộ ra khoảng vực sâu hun hút không thấy đáy, nhưng Rerite dẫu sao cũng không còn là một gã tay mơ chưa từng nếm trải lằn ranh sinh tử. Cậu cố đè nén cơn run rẩy, chuẩn bị sẵn sàng tâm thế cho cú rơi kinh hoàng sắp tới, thế nhưng—
 
 “— Á!?”
 
-Do trượt tay hay trượt chân thì lúc này điều đó không còn quan trọng nữa.
+Do ngón tay trơn trượt hay do bước chân luống cuống, vào khoảnh khắc ngàn cân treo sợi tóc này, nguyên do đã chẳng còn quan trọng nữa.
 
-Cậu đã làm rơi Đệm Khí.
+Cậu đã trượt tay làm rơi viên Đệm Khí.
 
-Một sai lầm ngớ ngẩn nhưng chí mạng đã được Rerite thực hiện ngay trong khoảnh khắc này.
+Một sai lầm ngớ ngẩn, ấu trĩ nhưng lại mang tính chất chí mạng tuyệt đối đã được Rerite tự tay gây ra ngay trong tíc tắc định mệnh.
 
 “A, á... A a a a a a a a a a a a!”
 
-Vừa hét lên những tiếng hoảng loạn tột cùng, cậu vừa cố nhoài người theo để chụp lấy viên Đệm Khí đang lăn trên sàn nhà sắp biến mất, nhưng nó đã rơi tuột xuống khoảng không vô định trước một bước.
+Vừa phát ra những tiếng thét hoảng loạn tột cùng, cậu vừa tuyệt vọng nhoài người vươn tay chộp theo viên Đệm Khí đang lăn lông lốc trên mảng sàn nhà sắp sụp đổ, nhưng nó đã nhanh hơn một bước, rơi tuột xuống khoảng không vô tận bên dưới.
 
-“L-Làm rơi thật đấy à!? Bình thường có ai làm rơi vào đúng cái lúc này không hả trời!!”
+“L-Làm rơi thật đấy à!? Bình thường trên đời này có đứa dở hơi nào lại đi làm rơi đồ vào đúng cái thời khắc sinh tử này không hả trời!!”
 
-Cậu vừa khóc ròng vừa quơ quào hai tay trong vô vọng, nhưng viên Đệm Khí đã rơi xuống đáy vực sâu và biến mất dạng từ lâu. Việc nhảy xuống để nhặt lại nó lúc này có tỷ lệ thành công chưa đến một phần vạn.
+Cậu vừa khóc ròng vừa quơ quào hai tay trong cơn bấn loạn tột độ, nhưng viên Đệm Khí cứu mạng đã chìm nghỉm vào đáy vực sâu và mất hút từ lâu. Ý định nhảy bổ theo để nhặt lại nó lúc này có tỷ lệ thành công chưa tới một phần vạn.
 
-“Giờ phải làm sao đây hả trời!?”
+“Giờ phải làm cái quái gì đây hả trời!?”
 
-Cậu quay sang nhìn Kotarou với ánh mắt cầu cứu, nhưng ở đó đã không còn bóng dáng nhỏ bé đáng tin cậy nào nữa.
+Cậu hoảng hốt quay phắt sang nhìn Kotarou với ánh mắt cầu cứu tuyệt vọng, nhưng nơi đó đã chẳng còn bóng dáng gầy gò quen thuộc nào nữa rồi.
 
-Nhìn Kotarou với vẻ mặt đầy quyết tâm đã chủ động nhảy vào khoảng không từ trước, Rerite biết mình không thể mở miệng kêu cứu được, và cậu cũng không nghĩ rằng một chú thuật sư dù có tài giỏi đến đâu lại có thể dọn dẹp đống hỗn độn ngu ngốc do đồng đội gây ra.
+Nhớ lại hình ảnh một Kotarou với ánh mắt kiên định đã chủ động gieo mình vào khoảng không từ trước, Rerite hiểu rằng mình không còn mặt mũi nào để mở miệng kêu cứu, và cậu cũng thừa hiểu rằng một chú thuật sư dù có túc trí đa mưu đến đâu cũng chẳng tài nào dọn dẹp nổi đống tàn cuộc ngu xuẩn do chính đồng đội tự rước vào người.
 
-“Kh-Khốn kiếp thật mà a a a a a a!”
+“Kh-Khốn kiếp thật đấy a a a a a a!”
 
-Cứ thế, không thể cầu cứu ai, sàn nhà dưới chân Rerite hoàn toàn biến mất, và cậu bị ném vào không trung chỉ với cơ thể trần trụi của mình.
+Cứ như thế, trong tuyệt vọng không thể bấu víu vào bất kỳ ai, mảng sàn nhà cuối cùng dưới chân Rerite hoàn toàn vỡ vụn, và cậu bị hất văng vào hư không chỉ với thân xác người phàm trần trụi.
 
-Cậu là một 『Tinh Linh Thuật Sư』. Theo cách gọi của Kotarou thì là một class ma pháp sư thuần túy, hoàn toàn không nhận được bất kỳ điểm cộng nào về chỉ số thể chất. Nếu là một class tiên phong sở hữu thể lực siêu phàm, thì dù có bị đập thẳng người xuống đất từ trên cao, khả năng sống sót vẫn là rất lớn.
+Cậu mang trong mình thiên chức 『Tinh Linh Thuật Sư』. Theo hệ quy chuẩn phân loại của Kotarou, đó là một class pháp sư thuần túy, tuyệt nhiên không nhận được bất kỳ điểm cộng gia trì nào vào các chỉ số thể chất. Nếu là những class tiên phong sở hữu thể lực và độ lì đòn siêu phàm, thì dù có bị nện thẳng người từ trên trời xuống mặt đất, cơ hội sống sót của họ vẫn vô cùng lớn.
 
-Nhưng đối với cậu thì hoàn toàn không có khả năng đó. Dù hiện tại cậu vẫn chăm chỉ tập luyện cơ bắp theo bài tập của câu lạc bộ bóng rổ, nhưng cậu không hề nghĩ rằng đống cơ bắp đó có thể giúp mình sống sót sau cú rơi tự do từ độ cao hàng trăm mét thế này.
+Nhưng đối với một kẻ như cậu, kịch bản đó hoàn toàn là điều bất khả thi. Dẫu cho thời gian qua cậu vẫn chăm chỉ rèn luyện thể lực theo các giáo án khắc nghiệt của câu lạc bộ bóng rổ thời trước, nhưng cậu chưa bao giờ ảo tưởng rằng đống cơ bắp ít ỏi đó có thể giúp mình toàn mạng sau cú rơi tự do từ độ cao hàng trăm mét thế này.
 
-“Phải làm thôi... Chỉ còn cách tự làm thôi... Xin hãy giúp tôi, tinh linh gió!”
+“Phải làm thôi... Chỉ còn nước tự thân vận động thôi... Xin hãy tiếp thêm sức mạnh cho tôi, hỡi tinh linh gió!”
 
-Đến cuối cùng, thứ duy nhất có thể dựa vào vẫn là sức mạnh của tinh linh.
+Đến thời khắc cuối cùng, điểm tựa duy nhất mà cậu có thể đặt trọn niềm tin vẫn là sức mạnh của các tinh linh.
 
-Đệm Khí dĩ nhiên là một vật phẩm ma pháp thuộc tính Phong. Cậu đã từng dùng thử nó trong lúc luyện tập, nên vẫn nhớ mang máng cảm giác khi nó tạo ra áp lực gió như thế nào.
+Bản thân Đệm Khí vốn dĩ là một vật phẩm ma pháp mang thuộc tính Phong. Cậu đã từng thử nghiệm nó nhiều lần trong các buổi tập luyện, thế nên trong tiềm thức vẫn còn lưu giữ cảm giác về luồng áp lực gió mà nó tạo ra khi bung tỏa.
 
-Đây là lần đầu tiên thực hành trực tiếp mà không có chuẩn bị. Chỉ cần giảm được tốc độ rơi xuống mức không chết là được. Nghĩ vậy, cậu hạ quyết tâm và đưa tay nắm lấy chuôi của thanh ma kiếm 『Liệt Phong Đường Lang Hoàn』 chứa đựng sức mạnh của tinh linh gió, đúng lúc đó—
+Đây là lần đầu tiên cậu phải tự mình thi triển trong tình trạng khẩn cấp không có sự chuẩn bị. Miễn sao hãm được gia tốc rơi xuống mức không đến nỗi mất mạng là đạt yêu cầu. Nghĩ là làm, cậu cắn chặt răng hạ quyết tâm, vươn tay nắm chặt lấy chuôi của thanh ma kiếm 『Liệt Phong Đường Lang Hoàn』 đang cuộn trào ma lực tinh linh gió, đúng lúc ấy—
 
 “Kyu e e e e e e e e e e e e e!”
 
-Một tiếng kêu lảnh lót vang lên, và một bóng đen nhỏ từ trên đầu Rerite lao vút xuống.
+Một tiếng rít lảnh lót đanh gọn bất ngờ xé toạc không gian, và một bóng đen nhỏ bé từ phía trên đỉnh đầu Rerite lao vút xuống như một tia chớp.
 
-Ở đó là bóng dáng của một chú rồng xanh nhỏ đang dang rộng đôi cánh hết cỡ để bay lượn.
+Hiện ra giữa tầng không là hình ảnh một chú rồng xanh nhỏ bé đang dang rộng đôi cánh hết cỡ để lướt gió.
 
 “Aoi!”
 
-Chú rồng con Aoi vẫn còn rất nhỏ và non nớt, thậm chí còn chưa thể tự mình săn mồi. Thế nhưng, như muốn khẳng định mình là loài phi long bá chủ của bầu trời, nó lao xuống với tốc độ cực nhanh để đuổi kịp Rerite, duỗi thẳng hai chân và dùng móng vuốt bấu chặt lấy cổ áo đồng phục của cậu.
+Chú rồng con Aoi vẫn còn quá đỗi nhỏ bé và non nớt, thậm chí còn chưa đủ cứng cáp để tự mình săn bắt con mồi. Thế nhưng, như muốn chứng minh dòng máu của loài phi long — chúa tể bầu trời — đang chảy trong huyết quản, nó lao xuống với tốc độ xé gió để bắt kịp Rerite, duỗi thẳng hai chân sau và dùng móng vuốt bấu chặt lấy cổ áo đồng phục của cậu.
 
 “Kyu e! Kyowaaaaaaaaaaaaa!!”
 
-Nó điên cuồng vỗ đôi cánh nhỏ của mình như thể sắp đứt lìa ra đến nơi.
+Nó điên cuồng đập đôi cánh nhỏ nhắn của mình với tần suất khủng khiếp, tựa hồ như đôi cánh ấy có thể gãy rời ra bất cứ lúc nào.
 
-Đó là một sự kháng cự vô vọng. Thế nhưng, lực gia tốc rơi của Rerite quả thực đã giảm đi rõ rệt.
+Đó là một sự kháng cự dường như tuyệt vọng. Thế nhưng, gia tốc rơi tự do của Rerite quả thực đã giảm đi trông thấy.
 
-“Dừng lại đi Aoi, đừng làm loạn! Sức của mày bây giờ làm sao nhấc nổi tao chứ!”
+“Dừng lại đi Aoi, đừng làm càn nữa! Sức của mày bây giờ làm sao nhấc nổi cả cái thân xác này của tao chứ!”
 
 “Kyowaaaaaaa!!”
 
-Như muốn phản đối tiếng hét của Rerite, Aoi gầm lên.
+Như muốn cự tuyệt lại tiếng thét của Rerite, Aoi gầm lên một tiếng đầy kiêu hãnh.
 
-Người và rồng. Dù không chung ngôn ngữ, nhưng tâm ý của nó truyền đến cậu một cách rõ ràng và đau đớn.
+Giữa người và rồng. Dẫu không chung một ngôn ngữ, nhưng sợi dây liên kết tâm linh đã truyền tải trọn vẹn ý chí kiên cường của nó vào tâm can cậu một cách rõ ràng và nhói buốt.
 
-Aoi lúc này, vì muốn cứu một kẻ vô dụng như cậu, đang cố gắng hết sức bất chấp cả tính mạng của mình.
+Aoi lúc này, chỉ vì muốn cứu sống một gã chủ nhân vô dụng như cậu, đang dốc cạn từng giọt sinh mệnh bất chấp hiểm nguy đến tính mạng của chính nó.
 
-“Xin lỗi vì tao là một thằng chủ nhân vô dụng... Nhưng đã thế thì chúng ta cùng chơi tới bến luôn!”
+“Xin lỗi mày vì tao chỉ là một thằng chủ nhân phế vật... Nhưng nếu đã thế thì hai đứa mình cùng chơi tất tay một phen luôn!”
 
-Trong lúc tốc độ rơi đã giảm đi đôi chút, Rerite cuối cùng cũng rút thanh phong kiếm ra.
+Nhận thấy tốc độ rơi đã được hãm lại đôi phần, Rerite dồn toàn bộ ma lực, dứt khoát tuốt thanh phong kiếm ra khỏi vỏ.
 
 ***
 
-“— Đau quá đi mất!”
+“— Đau... đau chết đi được mất thôi!”
 
-Bị chấn động khi tiếp đất bằng mông, Rerite rên rỉ một cách thảm hại.
+Bị chấn động dữ dội sau cú tiếp đất thô bạo bằng mông, Rerite nằm lăn lộn rên rỉ một cách thảm hại.
 
 “Kyowa, kyu e~”
 
-Trên đầu người chủ nhân đang ôm mông nhăn nhó vì đau, Aoi đang bay vòng quanh.
+Ngay phía trên đỉnh đầu người chủ nhân đang ôm mông nhăn nhó mặt mày vì đau đớn, Aoi đang bay lượn thành từng vòng tròn nhỏ.
 
-Có vẻ như nỗi đau đớn khi phải gánh một trọng lượng quá tải như Rerite đã trôi qua nhanh chóng, chú rồng con lại vui vẻ đập cánh phành phạch.
+Xem chừng cảm giác đau nhức ê ẩm sau khi phải gồng gánh một trọng lượng quá tải như Rerite đã nhanh chóng tan biến, chú rồng con lại vui vẻ vỗ cánh phành phạch đầy phấn khích.
 
-“Cứu mạng tao rồi, cảm ơn mày nhé Aoi.”
+“Cứu mạng tao rồi, cảm ơn mày nhiều lắm nhé Aoi.”
 
 “Kyowaa!”
 
-Nhờ có sự nỗ lực của Aoi và tinh linh gió, Rerite đã phần nào khắc phục được sai lầm ngớ ngẩn khi làm rơi vật phẩm cứu mạng của mình.
+Nhờ vào sự nỗ lực phi thường của Aoi kết hợp cùng ma pháp tinh linh gió, Rerite cuối cùng đã khắc phục thành công sai lầm ấu trĩ khi đánh rơi vật phẩm cứu mạng của mình.
 
-“Á, nhắc mới nhớ, Beniwo và Koyuki đâu rồi!?”
+“Á, nhắc mới nhớ, Beniwo với Koyuki đâu rồi cả rồi!?”
 
 “Ngoạoo~”
 
 “Gâu gâu!”
 
-Tiếng mèo con kêu lười biếng vang lên từ cành cây ngay bên cạnh, và tiếng chó sủa vọng lại từ phía bụi rậm đối diện.
+Tiếng mèo kêu lười biếng, ngái ngủ cất lên từ cành cây râm mát ngay sát bên cạnh, hòa cùng tiếng chó sủa lanh lảnh vọng lại từ bụi rậm rạp phía đối diện.
 
-Hóa ra, kẻ duy nhất bị rơi từ trên cao xuống và cuống cuồng lên chỉ có gã chủ nhân là con người yếu ớt này mà thôi.
+Hóa ra, kẻ duy nhất bị rơi tự do từ trên cao xuống và cuống cuồng mất bình tĩnh từ nãy đến giờ chỉ có mỗi gã chủ nhân mang thân xác con người yếu đuối này mà thôi.
 
-“May quá, mọi người đều bình an vô sự.”
+“Phù, may quá, tất cả đều bình an vô sự cả rồi.”
 
-Tuy nhiên, Rerite cũng nhanh chóng nhận ra mình đã bị lạc mất các bạn học.
+Thế nhưng, cảm giác nhẹ nhõm nhanh chóng qua đi khi Rerite nhận thức được rằng mình đã hoàn toàn bị lạc mất dấu vết của các bạn học.
 
-“Bị ném xuống rồi lại rơi trúng rừng thế này à.”
+“Bị ném xuống rồi lại rơi đúng vào giữa một cánh rừng thế này à.”
 
-Tình cảnh này giống hệt như lúc họ mới bị triệu hồi tới dị giới vậy.
+Tình cảnh trớ trêu này giống hệt như khoảnh khắc đầu tiên khi cả lớp bọn họ vừa bị triệu hồi tới thế giới này vậy.
 
-Có điều, lần này cậu không bị dịch chuyển đi đâu xa, mà chỉ đơn giản là bị rơi từ trên xuống mà thôi. Và quan trọng nhất là, bên cạnh cậu lúc này đã có những người bạn đồng hành đáng tin cậy.
+Chỉ có điều, lần này cậu không bị ma pháp không gian dịch chuyển đi quá xa, mà đơn thuần chỉ là bị rơi từ tầng trên xuống tầng dưới mà thôi. Và quan trọng hơn cả, sát cánh bên cậu lúc này đã có những người bạn đồng hành vô cùng đáng tin cậy.
 
 Kít... kít... kít... rắc... rắc... rắc...
 
-Đúng lúc đó, một âm thanh bất tường vang lên khiến da gà da vịt nổi hết cả lên.
+Đúng lúc ấy, một chuỗi âm thanh ma quái, rợn người bất thần vang lên khiến toàn bộ lông tơ trên người cậu dựng đứng cả dậy.
 
-Âm thanh vô cơ ấy không biết là tiếng kêu của sinh vật nào, hay là tiếng cọ xát của những vật thể cứng cáp.
+Âm thanh khô khốc, vô cơ ấy không rõ là tiếng gầm gừ phát ra từ cổ họng của một loài sinh vật dị dạng, hay là tiếng cọ xát ken két giữa những lớp giáp xác cứng như kim thép.
 
-Cùng với những tiếng răng rắc, một bóng đen khổng lồ giẫm nát bụi rậm, gạt phăng cây cối và xuất hiện ngay trước mặt Rerite.
+Kèm theo những tiếng cành cây gãy răng rắc, một bóng đen khổng lồ lừng lững giẫm nát bụi rậm, hất văng cây cối chắn đường và hiện hình ngay trước mắt Rerite.
 
-Đó là một con bọ cạp khổng lồ.
+Đó là một con bọ cạp khổng lồ với kích thước dị thường.
 
-“Kh-Không lẽ con này là...”
+“Kh-Không lẽ... cái thứ này là...”
 
-Lớp vỏ bọc kim loại đen kịt chạy dọc những đường vân màu tím độc địa. Ở đầu chiếc đuôi dài uốn cong là một ngòi độc khổng lồ màu đỏ tươi sắc nhọn như thể vừa được nhuộm trong máu tươi. Nó vừa khua hai chiếc càng khổng lồ va vào nhau chan chát như để đe dọa, vừa lừng lững tiến về phía Rerite.
+Lớp giáp xác bọc thép đen kịt bao phủ toàn thân, chạy dọc bên trên là những đường vân ma lực màu tím độc địa phát sáng ma quái. Ở chóp chiếc đuôi dài uốn cong ngạo nghễ là một ngòi độc khổng lồ đỏ tươi sắc lẹm như thể vừa được nhúng ngập trong máu tươi. Nó vừa khua liên hồi hai chiếc gọng kìm hộ pháp va vào nhau chan chát như một lời thị uy đe dọa, vừa chậm rãi tiến từng bước nặng nề về phía Rerite.
 
-“Là thứ gọi là Death Stalker sao!?”
+“Là con quái vật mang tên Death Stalker sao!?”

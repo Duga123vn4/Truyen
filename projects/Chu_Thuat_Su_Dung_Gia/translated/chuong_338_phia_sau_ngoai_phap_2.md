@@ -6,33 +6,33 @@
 
 Himeno cất lời bằng giọng điệu lạnh lùng như băng, đôi mắt nhìn tôi đầy vẻ chán ghét. Thật là một sự tiếp đón phũ phàng.
 
-Thế nhưng, tâm trạng của tôi lúc này đang phấn khích đến mức không thể ngừng cười lớn được.
+Thế nhưng, tâm trạng của tôi lúc này đang phấn khích đến mức không thể nào kìm được tiếng cười lớn.
 
-Mà dĩ nhiên là phải phấn khích rồi. Từ trước đến nay, mỗi khi có chú thuật mới, tôi đều phải vắt óc suy nghĩ xem nên ứng dụng nó thế nào. À mà khoan, dạo gần đây hình như cũng không đến mức khổ sở như thế nữa.
+Mà dĩ nhiên là phải phấn khích rồi. Từ trước đến nay, mỗi khi nhận được chú thuật mới, tôi đều phải vắt óc suy nghĩ xem nên ứng dụng nó thế nào. À mà khoan, dạo gần đây hình như cũng không đến mức phải khổ sở như thế nữa.
 
-Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hiệu quả nhắm trúng phóc vào thứ mà tôi đang vô cùng khao khát lúc này.
+Dù sao đi nữa, kỹ năng chú thuật mới lần này sở hữu một hiệu ứng đánh trúng phóc vào thứ mà tôi đang khao khát nhất lúc này.
 
 “Ha ha ha! Nhìn đi, đây chính là sức mạnh mới được ban tặng bởi Chú thần Ruinhilde-sama vĩ đại!”
 
-`『Giải Phóng Cấm Chú』`: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
+『Giải Phóng Cấm Chú』: *Nếu ngôn từ được thông tỏ, liệu đó có phải con người? Không, cả ma quỷ lẫn thú dữ đều hiểu được lời nói. Song, ở đó không có sự thấu hiểu, và chính vì lẽ đó mà nó trở thành điều cấm kỵ. Mang thân xác con người nhưng lại thấu hiểu ngôn ngữ của ác quỷ, tiếng nói của dã thú, liệu kẻ đó là người hay là thứ gì khác? Thế nhưng, để khắc ghi những lời nguyền mạnh mẽ hơn, không còn con đường nào khác ngoài việc đó.*
 
 “Hửm, chẳng hiểu gì cả.”
 
-“Thật là, đúng là kẻ không quen với văn phong mô tả của phái Ruinhilde! Không hiểu được cái 'chiều sâu' này thì đúng là một con người 'nông cạn' mà.”
+“Thật là, đúng là kẻ không quen với văn phong mô tả của phái Ruinhilde! Không hiểu được cái ‘chiều sâu’ này thì đúng là một con người ‘nông cạn’ mà.”
 
-“Momokawa-kun chưa bao giờ phiền phức như lúc này.”
+“Momokawa-kun chưa bao giờ phiền phức như lúc này đâu đấy.”
 
-Hừm, với tầm cỡ như tôi thì chỉ cần đọc qua đoạn mô tả mơ hồ này là đã nắm được hòm hòm hiệu quả của nó rồi. Mà thực ra, chỉ nhìn cái tên kỹ năng thôi là đã quá rõ ràng.
+Hừm, với tầm cỡ như tôi thì chỉ cần đọc qua đoạn mô tả trừu tượng này là đã nắm được hòm hòm hiệu quả của nó rồi. Mà thực ra, chỉ nhìn vào cái tên kỹ năng thôi là đã quá rõ ràng.
 
-“Cái `『Giải Phóng Cấm Chú』` này, nói ngắn gọn thì chính là kỹ năng cấp cao của `『Giải Mã Ngoại Pháp』`.”
+“Cái 『Giải Phóng Cấm Chú』 này, nói ngắn gọn thì chính là kỹ năng cấp cao của 『Giải Mã Ngoại Pháp』.”
 
-“Cái kỹ năng giúp cậu đọc được chữ Goma ấy hả? Nếu có thể giải mã sâu hơn nữa... ch-chẳng lẽ...”
+“Cái kỹ năng giúp cậu đọc được văn tự Goma ấy hả? Nếu có thể giải mã sâu hơn nữa... ch-chẳng lẽ...”
 
 “Chính xác, nâng cấp trang bị!”
 
 “KHÔÔÔÔÔÔÔÔÔÔNG!”
 
-Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ trong tuyệt vọng luôn là thứ mỹ vị ngọt ngào, chính Ruinhilde cũng đã nói như vậy mà.
+Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ trong tuyệt vọng luôn là thứ mỹ vị ngọt ngào, chính Ruinhilde-sama cũng từng nói như vậy mà.
 
 “Nhờ có chú thuật mới này, năng lực luyện thành của tôi đã tiến lên một tầm cao mới! Tôi có thể cường hóa sâu hơn nữa cho tất cả các trang bị đã chế tạo từ trước đến nay, hoặc tạo ra những món đồ hoàn toàn mới. Hơn nữa, ở đây lại đang có cả một núi nguyên liệu từ các binh khí cổ đại... Ôi, tương lai xán lạn làm sao.”
 
@@ -42,19 +42,19 @@ Ha ha, tiếng hét của Himeno nghe thật êm tai làm sao. Tiếng rên rỉ
 
 Đó chính là nỗi trăn trở lớn nhất của tôi suốt thời gian qua. Một nỗi trăn trở đầy xa xỉ.
 
-Hộp sọ và lõi ma vật của Oh-ma và Zagan. Đây là những nguyên liệu có chất lượng tối thượng, có thể sánh ngang với chiếc lõi khổng lồ của Yamata no Orochi. Dù là chế tạo vũ khí hay vật phẩm ma pháp, tôi đều muốn khai thác tối đa sức mạnh của chúng.
+Hộp sọ và Lõi Ma Vật của Oh-ma cùng Zagan. Đây là những nguyên liệu mang chất lượng tối thượng, hoàn toàn có thể sánh ngang với chiếc lõi khổng lồ của Yamata no Orochi. Dù là chế tạo vũ khí hay vật phẩm ma pháp, tôi đều muốn khai thác tối đa sức mạnh tiềm ẩn của chúng.
 
-Những nguyên liệu Goma ở cấp độ này là độc nhất vô nhị, không thể tìm thấy lần thứ hai trong hầm ngục này nữa. Cho dù có một kẻ sở hữu trí tuệ và sức mạnh ngang ngửa Oh-ma xuất hiện đi chăng nữa, thì cũng phải mất hàng trăm năm tộc Goma mới xây dựng lại được một vương quốc như thế.
+Những nguyên liệu Goma ở cấp độ này là độc nhất vô nhị, tuyệt đối không thể tìm thấy lần thứ hai trong hầm ngục này nữa. Cho dù có một kẻ sở hữu trí tuệ và sức mạnh ngang ngửa Oh-ma xuất hiện đi chăng nữa, thì cũng phải mất hàng trăm năm tộc Goma mới tái thiết lại được một vương quốc như thế.
 
-Với đống nguyên liệu của Boss siêu hiếm như vậy, nếu chỉ đơn giản chế tạo thành mấy quả bom lõi dùng một lần thì thật là phí phạm của trời. Tôi nhất định phải rèn chúng thành những trang bị có thể sử dụng lâu dài ở tuyến đầu.
+Với đống nguyên liệu Boss siêu hiếm như vậy, nếu chỉ đơn giản chế tạo thành mấy quả bom lõi dùng một lần thì thật là phí phạm của trời. Tôi nhất định phải rèn chúng thành những trang bị có thể sử dụng lâu dài ở tuyến đầu chiến tuyến.
 
-Thế nhưng, năng lực luyện thành trước đó của tôi lại không đủ để đáp ứng yêu cầu này.
+Thế nhưng, năng lực luyện thành trước đó của tôi lại không đủ để đáp ứng yêu cầu khắt khe này.
 
-Từ hôm nay, đội săn bắn bắt đầu hoạt động, cộng thêm việc thu thập lõi từ tàn quân Goma trong vương cung và lục lọi kho báu, việc gom nguyên liệu diễn ra vô cùng thuận lợi. Chính vì thế mà tôi càng cảm thấy sốt ruột. Nhưng nếu nhắm mắt làm bừa để rồi tạo ra những thành phẩm nửa vời thì coi như xôi hỏng bỏng không.
+Từ hôm nay, đội săn bắn bắt đầu đi vào hoạt động, cộng thêm việc thu thập lõi từ tàn quân Goma trong vương cung và lục lọi kho báu, việc gom góp nguyên liệu diễn ra vô cùng thuận lợi. Chính vì thế mà tôi càng cảm thấy sốt ruột. Nhưng nếu cứ nhắm mắt làm bừa để rồi tạo ra những thành phẩm nửa vời thì coi như xôi hỏng bỏng không.
 
-Trong lúc đang lo lắng không biết có kịp hoàn thành trang bị trước khi chiến dịch chinh phục Tháp bắt đầu hay không, thì chú thuật mới này lại xuất hiện đúng lúc.
+Trong lúc đang lo lắng không biết có kịp hoàn thành trang bị trước khi chiến dịch chinh phục Tháp bắt đầu hay không, thì chú thuật mới này lại xuất hiện đúng lúc như một cơn mưa rào giữa nắng hạn.
 
-Con xin cảm tạ Người, Ruinhilde. Lòng thành kính của con dành cho Người đang tăng lên vùn vụt đây. Xin Người hãy tiếp tục chiếu cố con trong tương lai nhé.
+Con xin chân thành cảm tạ Người, Ruinhilde-sama. Lòng thành kính của con dành cho Người đang tăng lên vùn vụt đây. Xin Người hãy tiếp tục chiếu cố con trong tương lai nhé.
 
 “Vì thế, từ giờ tôi sẽ bắt tay vào chế tác nguyên liệu của Oh-ma và Zagan. Chắc là không rảnh để làm việc khác đâu.”
 
@@ -68,7 +68,7 @@ Con xin cảm tạ Người, Ruinhilde. Lòng thành kính của con dành cho N
 
 “C-Cái gì chứ.”
 
-Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, Himeno lộ rõ vẻ chột dạ và lảng tránh ánh nhìn của tôi.
+Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, Himeno lộ rõ vẻ chột dạ và vội vã lảng tránh ánh nhìn của tôi.
 
 “Himeno-san. Cô giúp tôi làm công việc luyện kim cũng được một thời gian dài rồi nhỉ.”
 
@@ -76,7 +76,7 @@ Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, H
 
 “Không, chỉ là tôi nghĩ cô đã tích lũy được rất nhiều kinh nghiệm. Mấy công đoạn chế tác cô đều đã quen tay, hay nói đúng hơn là làm rất tốt.”
 
-“Làm nhiều đến thế thì ai mà chẳng giỏi lên chứ.”
+“Làm nhiều đến phát ngán thế thì ai mà chẳng giỏi lên chứ.”
 
 “Himeno-san, cô không giấu tôi điều gì đấy chứ?”
 
@@ -86,29 +86,29 @@ Khi tôi nheo mắt nhìn cô nàng bằng ánh mắt dò xét đầy ẩn ý, H
 
 Tôi nở một nụ cười rạng rỡ như hoa hướng dương, khẽ đặt tay lên vai Himeno và tung ra đòn quyết định.
 
-“— Cô đã thức tỉnh `『Luyện Thành Trận Cơ Bản』` rồi đúng không?”
+“— Cô đã thức tỉnh 『Luyện Thành Trận Cơ Bản』 rồi đúng không?”
 
 “...!?”
 
 Himeno giật nảy mình, một phản ứng không thể nào rõ ràng hơn.
 
-Sắc mặt cô nàng lập tức cắt không còn giọt máu, toàn thân run rẩy bần bật. Ừm, chắc là run lên vì phấn khích đây mà.
+Sắc mặt cô nàng lập tức cắt không còn giọt máu, toàn thân run rẩy bần bật. Ừm, chắc hẳn là đang run lên vì quá đỗi phấn khích đây mà.
 
 “C-Cậu nói gì thế... Tôi chẳng biết cái trận pháp luyện thành gì đó đâu...”
 
-“`『Luyện Thành Trận Cơ Bản』` là kỹ năng cấp cao của `『Trận Pháp Luyện Thành Giản Đơn』` mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đặc biệt.”
+“『Luyện Thành Trận Cơ Bản』 là kỹ năng cấp cao của 『Trận Pháp Luyện Thành Giản Đơn』 mà chúng ta vẫn dùng. Trước đây chỉ có mỗi Takanashi học được nó, nhưng nghe tên thì đây chỉ là một kỹ năng luyện thành ở mức trung bình thôi. Nếu so với ma pháp thì nó giống như ma pháp trung cấp vậy. Tóm lại là không phải thứ gì quá đỗi cao xa.”
 
-Thế nên, sau khi sử dụng `『Trận Pháp Luyện Thành Giản Đơn』` để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
+Thế nên, sau khi sử dụng 『Trận Pháp Luyện Thành Giản Đơn』 để chế tác vô số nguyên liệu suốt thời gian qua, cấp độ kỹ năng hay độ thuần thục của cô tăng lên là điều hiển nhiên. Và nếu chuỗi trận pháp luyện thành này là kỹ năng phổ thông, thì chỉ cần chăm chỉ sử dụng là nó sẽ tự động thăng cấp.
 
-Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp, tôi thực sự thấy mừng cho cô đấy.
+Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp xứng đáng, tôi thực sự thấy mừng cho cô đấy.
 
 “Đã bảo là tôi không biết rồi mà!”
 
-“Có gì phải giấu chứ. Tôi cũng dùng được `『Trận Pháp Luyện Thành Giản Đơn』` mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
+“Có gì phải giấu chứ. Tôi cũng dùng được 『Trận Pháp Luyện Thành Giản Đơn』 mà. Tôi thậm chí còn thuộc lòng cấu trúc của nó đến mức có thể vẽ lại rành rọt trong đầu cơ mà — Trận pháp lúc nãy cô dùng có hình dạng khác hẳn đúng không?”
 
 “Chắc cậu nhìn nhầm thôi.”
 
-“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng `『Luyện Thành Trận Cơ Bản』` để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
+“Từ lúc bắt đầu làm việc ở pháo đài này, tốc độ và chất lượng chế tác của cô đều tăng lên rõ rệt. Nếu dùng 『Luyện Thành Trận Cơ Bản』 để làm những công việc vốn dành cho trận pháp giản đơn thì chắc chắn sẽ nhàn hơn rất nhiều đúng không?”
 
 “Không có chuyện đó đâu... Tôi chỉ là đang làm việc chăm chỉ thôi mà...”
 
@@ -118,31 +118,31 @@ Chà, nỗ lực của Himeno cuối cùng cũng được đền đáp, tôi th�
 
 Himeno mếu máo ngước nhìn tôi bằng ánh mắt đáng thương, nhưng quả thực gương mặt ấy chẳng làm tôi mảy may rung động. Ôi, sự chênh lệch ngoại hình thật tàn nhẫn làm sao.
 
-Tuy nhiên, tôi vẫn mỉm cười đáp lại.
+Tuy nhiên, tôi vẫn giữ nụ cười hòa nhã đáp lại.
 
 “Thật mà.”
 
-“...Tôi học được `『Luyện Thành Trận Cơ Bản』` rồi.”
+“...Tôi học được 『Luyện Thành Trận Cơ Bản』 rồi.”
 
 “Sao chuyện quan trọng thế này cô không nói sớm hả!”
 
 “C-Cậu đã bảo là không giận cơ mà!”
 
-Cả tôi và Himeno đều đã thăng cấp kỹ năng chế tác. Đây quả thực là một bước tiến lớn.
+Cả tôi và Himeno đều đã thăng cấp kỹ năng chế tác. Đây quả thực là một bước tiến mang tính đột phá.
 
 Tương lai của xưởng rèn Momokawa đang vô cùng xán lạn! Nào, hôm nay cũng phải tràn đầy năng lượng để làm việc thôi!
 
 ***
 
-Đội săn bắn số một gồm bốn người: Futaba Meiko, Randou Kyouko, Hayama Ritsuki và Nakajima Haruma đang tiến bước trong khu rừng sau khi đi lên từ đường hầm ngầm.
+Đội săn bắn số một gồm bốn người: Futaba Meiko, Randou Kyouko, Hayama Ritsuki và Nakajima Haruma đang rảo bước trong khu rừng sau khi tiến lên từ đường hầm ngầm.
 
-Đồng hành cùng họ là các phân thân chim của Rem làm nhiệm vụ trinh sát trên không, lũ High Zombie cảnh giới xung quanh, cùng với Tank và Alpha đóng vai trò hộ vệ kiêm khuân vác đồ đạc.
+Đồng hành cùng họ là các phân thân chim của Rem làm nhiệm vụ trinh sát trên không, lũ High Zombie cảnh giới xung quanh, cùng với Tank và Alpha đóng vai trò hộ vệ kiêm khuân vác quân nhu.
 
 Sau khi Vương quốc Goma bị tiêu diệt, khu rừng xung quanh Tháp Trung Tâm đã trở nên yên tĩnh hơn rất nhiều. Nơi từng có hàng ngàn con Goma bận rộn săn bắn hái lượn mỗi ngày, giờ đây không còn bóng dáng một mống nào.
 
 Vào ngày hôm đó, ngay cả khi có những con Goma may mắn sống sót trong rừng vì không quay về vương quốc, thì một khi đã mất đi nơi dung thân, chúng cũng khó lòng sinh tồn ngoài thế giới hoang dã. Chẳng mấy chốc, vô số ma vật ẩn náu trong khu rừng trù phú này sẽ nhận ra kẻ thống trị suốt hàng trăm năm qua đã biến mất, và việc chúng mở rộng lãnh thổ chỉ còn là vấn đề thời gian.
 
-Không hề hay biết về những biến động của khu rừng, Rerite đang đi cùng Beniwo và Koyuki. Cậu nhìn chằm chằm vào tấm lưng to lớn của Meiko đang hiên ngang dẫn đầu nhóm bốn người, rồi khẽ lẩm bẩm.
+Không hề hay biết về những biến động sâu xa của khu rừng, Rerite đang đi cùng Beniwo và Koyuki. Cậu nhìn chằm chằm vào tấm lưng to lớn của Meiko đang hiên ngang dẫn đầu nhóm bốn người, rồi khẽ lẩm bẩm.
 
 “Này... kia thực sự là Futaba-san sao?”
 
@@ -150,7 +150,7 @@ Không hề hay biết về những biến động của khu rừng, Rerite đan
 
 “Cái gì, mọi người đều hỏi thế à?”
 
-“Tần suất tương đương với câu 'Cậu vẫn còn sống sao, Hayama!' đấy.”
+“Tần suất tương đương với câu ‘Cậu vẫn còn sống sao, Hayama!’ đấy.”
 
 Kyouko đi bên cạnh đáp lại với vẻ mặt ngán ngẩm, như muốn nói “đến giờ này mà cậu vẫn còn thắc mắc chuyện đó sao”.
 
@@ -160,7 +160,7 @@ Khu rừng này giờ đây không còn Vương quốc Goma, cũng như không c
 
 Vì lý do đó, để tránh bị Meiko đi phía trước vài mét phát hiện, Rerite khẽ thì thầm vào tai Kyouko.
 
-“Không, nhưng mà, cô ấy thay đổi nhiều quá. Cái này vượt xa cả mức độ lột xác thông thường rồi.”
+“Không, nhưng mà, cậu ấy thay đổi nhiều quá. Cái này vượt xa cả mức độ lột xác thông thường rồi.”
 
 “Làm ơn đừng bảo là cậu phải lòng cậu ấy rồi nhé.”
 
@@ -186,7 +186,7 @@ Thời điểm Kotarou vượt mặt Takanashi để trốn thoát sau trận ch
 
 “Lúc gặp tớ, cậu ấy trông tơi tả lắm, và cũng chẳng được thư thả như bây giờ đâu.”
 
-Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một `『Chú thuật sư』` vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
+Ngay cả khi được nhóm của Tendou nhặt về ngay sau khi hạ sát Higuchi, năng lực của Kotarou với tư cách là một 『Chú thuật sư』 vẫn còn rất non nớt. Có lẽ vì thế mà vào thời điểm đó, cậu ấy luôn trong trạng thái căng thẳng, cảnh giác cao độ, mang lại cảm giác giống như một chú mèo hoang bị thương vậy, Kyouko nhớ lại. Và chính điều đó đã khiến cô muốn quan tâm đến cậu nhiều hơn.
 
 “Nói vậy, họ giống như những người cộng sự đã cùng nhau vượt qua thời kỳ gian khổ nhất nhỉ.”
 
@@ -204,7 +204,7 @@ Biết rõ tình cảm của Kyouko dành cho Kotarou, Rerite khi tận mắt ch
 
 “Hồi đó chỉ có mình cậu thì không sao, chứ bây giờ có đối thủ mạnh thế kia, tớ không dám làm mấy trò liều lĩnh đó đâu.”
 
-Vào đêm trước trận chiến quyết định với vương quốc Goma, Rerite đã tiễn Kyouko khi cô quyết định đến phòng của Kotarou với tư cách là một người phụ nữ, và cậu cũng đã canh chừng để không ai làm phiền. Thế nhưng trong tình cảnh xuất hiện một đối thủ nặng ký như Meiko, cậu không thể lộ liễu giúp đỡ như trước được nữa. Dù ủng hộ Kyouko, cậu vẫn hiểu rõ mối quan hệ sâu đậm giữa Meiko và Kotarou.
+Vào đêm trước trận chiến quyết định với Vương quốc Goma, Rerite đã tiễn Kyouko khi cô quyết định đến phòng của Kotarou với tư cách là một người phụ nữ, và cậu cũng đã canh chừng để không ai làm phiền. Thế nhưng trong tình cảnh xuất hiện một đối thủ nặng ký như Meiko, cậu không thể lộ liễu giúp đỡ như trước được nữa. Dù ủng hộ Kyouko, cậu vẫn hiểu rõ mối quan hệ sâu đậm giữa Meiko và Kotarou.
 
 “Mà này... Futaba-san thực sự mạnh đến thế sao?”
 
@@ -216,9 +216,9 @@ Vào đêm trước trận chiến quyết định với vương quốc Goma, Re
 
 Trong trận chiến quyết định cuối cùng khi Meiko xuất hiện, Kyouko dù đang trong trạng thái mơ màng vẫn chứng kiến trận đấu cho đến phút cuối cùng. Thế nhưng Rerite, người đã kiệt quệ ma lực sau khi triệu hoán Linh thú và ngất đi, lại hoàn toàn không được tận mắt chứng kiến sức mạnh của Meiko.
 
-Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi `『Thần Thánh Ngôn Ngữ』` nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của `『Cuồng Chiến Binh』` mà mọi người vẫn thường ca tụng.
+Lần duy nhất cậu thấy cô chiến đấu là khi Takanashi lộ bản chất thật và Meiko giao kiếm với Kenzaki. Theo lời Kotarou, lúc đó Meiko đang bị ảnh hưởng bởi 『Thần Thánh Ngôn Ngữ』 nên chuyển động bị hạn chế rất nhiều... Chính vì thế, cậu không thể hình dung nổi sức mạnh áp đảo của 『Cuồng Chiến Binh』 mà mọi người vẫn thường ca tụng.
 
-Dù vóc dáng thon gọn xinh đẹp sau khi giảm cân thành công mang lại một cảm giác không hề tầm thường, nhưng nó lại khó liên tưởng đến sức mạnh cơ bắp. Thậm chí cậu còn nghĩ rằng, là một thằng đàn ông, trong trường hợp khẩn cấp mình phải đứng ra bảo vệ cô ấy mới đúng.
+Dù vóc dáng thon gọn xinh đẹp sau khi giảm cân thành công mang lại một cảm giác không hề tầm thường, nhưng nó lại khó liên tưởng đến sức mạnh cơ bắp thuần túy. Thậm chí cậu còn nghĩ rằng, là một thằng đàn ông, trong trường hợp khẩn cấp mình phải đứng ra bảo vệ cô ấy mới đúng.
 
 “Mà, cậu sẽ sớm hiểu ra thôi.”
 
@@ -338,6 +338,6 @@ Mất đi cả ba cái đầu, con Cerberus đổ gục xuống đất.
 
 Từ đầu đến cuối, Rerite không hề chớp mắt một lần nào, nhưng chính cậu cũng không thể tin nổi vào những gì mình vừa chứng kiến.
 
-Có điều, cậu đã phần nào hiểu được thiên chức `『Cuồng Chiến Binh』` của Futaba Meiko đáng sợ đến nhường nào.
+Có điều, cậu đã phần nào hiểu được thiên chức 『Cuồng Chiến Binh』 của Futaba Meiko đáng sợ đến nhường nào.
 
 “Futaba-san đỉnh thật đấy... Mình cũng phải cố gắng thôi.”

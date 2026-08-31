@@ -1,12 +1,12 @@
 # Tập 350: Chinh phục Tháp Trung Tâm (3)
 
-“Tiến lên, Binh bét Skeleton! Hãy bước qua xác đồng đội mà tiến lên!”
+“Tiến lên, Binh bét Skeleton! Hãy bước qua xác đồng đội mà xông lên!”
 
-Cậu thẳng tay ném lũ Skeleton vào những đợt xung phong cảm tử để cưỡng chế đột phá qua các robot tự động cảnh giới đang lập phòng tuyến ở các điểm trọng yếu.
+Tôi thẳng tay ném lũ Skeleton vào những đợt xung phong cảm tử để cưỡng chế đột phá qua các người máy cảnh giới tự động đang lập phòng tuyến ở các điểm trọng yếu.
 
 “Đứa nào ngã xuống thì đứa sau nhặt súng của nó lên mà bắn tiếp!”
 
-Có lính nhưng thiếu súng nên chia làm cặp hai người, một người chết thì người kia nhặt súng chiến đấu tiếp. Phương pháp vận hành bộ binh mang tính "đột phá" này là do Liên Xô nghĩ ra đúng không nhỉ? Hình như tôi từng thấy trong một bộ phim về lính bắn tỉa nào đó rồi thì phải.
+Có lính nhưng thiếu súng nên chia thành từng cặp hai người, một người chết thì người kia nhặt súng chiến đấu tiếp. Phương pháp tác chiến bộ binh mang tính “đột phá” này là do Liên Xô nghĩ ra đúng không nhỉ? Hình như tôi từng thấy trong một bộ phim về lính bắn tỉa nào đó rồi thì phải.
 
 Trí tuệ của tiền nhân thật tuyệt vời. Vừa thầm bày tỏ lòng biết ơn sâu sắc đến những người đồng chí vĩ đại, tôi vừa một tay cầm 『Cây Gậy Của Kẻ Ngốc』, liên tục bổ sung Skeleton ngay khi chúng vừa tiêu hao để duy trì cuộc đột kích.
 
@@ -14,11 +14,11 @@ Trí tuệ của tiền nhân thật tuyệt vời. Vừa thầm bày tỏ lòng
 
 Sau khi chiếm được đại sảnh thông tầng lên đến tầng hai, phân thân của tôi liền liên lạc với đội hình chính đang theo sau.
 
-Kể từ trận chiến ở nhà kho đầu tiên, sự kháng cự của robot cảnh giới đã yếu đi và trở nên thưa thớt. Ngay cả ở một nơi dễ phòng thủ như đại sảnh này, số lượng của chúng cũng không nhiều, chỉ cần một đợt càn quét của Skeleton là đủ để chế áp dễ dàng. Nhờ vậy, những chiến lực chủ chốt trong lớp, dẫn đầu là Mei, vẫn chưa cần phải động tay động chân.
+Kể từ trận chiến ở nhà kho đầu tiên, sự kháng cự của các người máy cảnh giới đã yếu đi và trở nên thưa thớt. Ngay cả ở một nơi dễ phòng thủ như đại sảnh này, số lượng của chúng cũng không nhiều, chỉ cần một đợt càn quét của Skeleton là đủ để chế áp dễ dàng. Nhờ vậy, những chiến lực chủ chốt trong lớp, dẫn đầu là Mei-chan, vẫn chưa cần phải động tay động chân.
 
-Nếu lũ robot đã thực sự cạn kiệt thì tốt, nhưng có lẽ Takanashi đang cuống cuồng tập hợp lực lượng phòng ngự để dựng lên một phòng tuyến ngăn chặn ở phía dưới.
+Nếu lũ người máy đã thực sự cạn kiệt thì tốt, nhưng có lẽ Takanashi đang cuống cuồng tập hợp lực lượng phòng ngự để dựng lên một phòng tuyến ngăn chặn ở phía dưới.
 
-Lũ robot còn sót lại ở mỗi tầng hoặc là do cô ta chưa kịp chỉ thị, hoặc là chỉ được bố trí tạm bợ để câu chút thời gian ít ỏi.
+Lũ người máy còn sót lại ở mỗi tầng hoặc là do cô ta chưa kịp chỉ thị, hoặc là chỉ được bố trí tạm bợ để câu chút thời gian ít ỏi.
 
 “Trước khi chạm trán phòng tuyến cuối cùng của cô ta, cứ để mọi người dưỡng sức đã.”
 
@@ -66,7 +66,7 @@ Dù vậy, ít nhất cho đến giờ vẫn chưa có chuyện bên trong tháp
 
 “Bầu không khí của tầng này đã thay đổi. Chắc chắn từ đây sẽ có biến cố.”
 
-Bản thể của tôi truyền đạt tình hình cho Hayama, Mei và các bạn học đi cùng.
+Bản thể của tôi truyền đạt tình hình cho Hayama, Mei-chan và các bạn học đi cùng.
 
 Trong khi đó, phân thân của tôi thuộc đội trinh sát đi trước đã đặt chân đến tầng có bầu không khí kỳ lạ kia. Được hộ tống bởi lũ Skeleton lăm lăm súng trường trên tay, tôi bắt đầu tiến lên đầy cảnh giác.
 
@@ -80,7 +80,7 @@ Thế nhưng từ tầng này, một bầu không khí hỗn độn mang dấu v
 
 Những đường ống kim loại rỉ sét loang lổ và các thiết bị trông như ống dẫn khí chằng chịt khắp tường và trần nhà tạo nên một vẻ thô kệch. Tôi đã từng thấy một nơi thế này trước đây.
 
-Đó là khi tôi và Mei lại đồng hành cùng nhau sau khi tiêu diệt Reina, lúc chúng tôi đặt chân đến khu vực phố di tích. Bầu không khí ở đây rất giống với khu nhà xưởng cổ đại, nơi lần đầu tiên tôi chạm trán lũ High Zombie.
+Đó là khi tôi và Mei-chan lại đồng hành cùng nhau sau khi tiêu diệt Reina, lúc chúng tôi đặt chân đến khu vực phố di tích. Bầu không khí ở đây rất giống với khu nhà xưởng cổ đại, nơi lần đầu tiên tôi chạm trán lũ High Zombie.
 
 “Oooo...”
 
@@ -102,7 +102,7 @@ Súng trường tiêu chuẩn của quân đội Albion có vẻ hoạt động 
 
 Bắn trúng đầu thì chết ngay, nhưng nếu bắn vào thân thì phải mất vài phát, còn nếu chỉ trúng tay chân thì chúng thậm chí còn chẳng hề nao núng.
 
-Một khi có thể chịu đựng được một lượng sát thương nhất định, lũ quái vật bất tử không biết đau đớn hay sợ hã này quả thực vô cùng phiền phức.
+Một khi có thể chịu đựng được một lượng sát thương nhất định, lũ quái vật bất tử không biết đau đớn hay sợ hãi này quả thực vô cùng phiền phức.
 
 “Cuối cùng cũng chống đỡ được đợt này rồi sao.”
 
@@ -110,7 +110,7 @@ Chúng tôi đã may mắn tiêu diệt sạch lũ High Zombie trước khi bị
 
 Nếu đây là một tựa game thủ thành theo đợt, tôi chắc chắn sẽ dừng cuộc chơi tại đây.
 
-But đáng tiếc, đây lại là một "game rác" mang tên hiện thực. Và kẻ tự xưng là Game Master trong cái dungeon này lại là một con đàn bà rác rưởi nhất trần đời.
+Nhưng đáng tiếc, đây lại là một "game rác" mang tên hiện thực. Và kẻ tự xưng là Game Master trong cái dungeon này lại là một con đàn bà rác rưởi nhất trần đời.
 
 “Ooooaaaaaaa!”
 
@@ -128,9 +128,9 @@ Zombie là loài sinh vật tràn lan trong dungeon chỉ sau lũ Goma. Việc c
 
 Vì dịch chuyển đã bị phong tỏa nên cô ta không thể gọi ma vật từ nơi khác đến. Nói cách khác, ở đâu đó trong tòa tháp này chắc chắn có một thiết bị sản xuất Zombie hàng loạt.
 
-Mà đúng hơn, có lẽ Zombie vốn được tạo ra từ các rối ma đạo. Dây chuyền sản xuất bị hỏng hóc nhưng vẫn tiếp tục vận hành, liên tục cho ra lò những sản phẩm lỗi rồi đẩy ra ngoài, đó chính là nguồn gốc của lũ Zombie đang tràn lan khắp nơi. Đặc điểm của robot là làn da xanh và đôi mắt trắng dã, khi biến thành Zombie thì những đặc điểm đó lại trở nên vô cùng hợp lý.
+Mà đúng hơn, có lẽ Zombie vốn được tạo ra từ các rối ma đạo. Dây chuyền sản xuất bị hỏng hóc nhưng vẫn tiếp tục vận hành, liên tục cho ra lò những sản phẩm lỗi rồi đẩy ra ngoài, đó chính là nguồn gốc của lũ Zombie đang tràn lan khắp nơi. Đặc điểm của người máy là làn da xanh và đôi mắt trắng dã, khi biến thành Zombie thì những đặc điểm đó lại trở nên vô cùng hợp lý.
 
-Chúng tôi đã biết rằng thiết bị sản xuất robot được trang bị trong tòa tháp này. Nó không hẳn là bí mật quân sự, mà dường như là một thiết bị khá phổ biến thời cổ đại. Chỉ cần giải mã được chút ít cổ ngữ là có thể đọc được thông tin đó trong phần giới thiệu về trang thiết bị của tòa tháp.
+Chúng tôi đã biết rằng thiết bị sản xuất người máy được trang bị trong tòa tháp này. Nó không hẳn là bí mật quân sự, mà dường như là một thiết bị khá phổ biến thời cổ đại. Chỉ cần giải mã được chút ít cổ ngữ là có thể đọc được thông tin đó trong phần giới thiệu về trang thiết bị của tòa tháp.
 
 Tuy nhiên, tôi không rõ thiết bị của tòa tháp này đang bị hỏng hay vẫn hoạt động bình thường... Nhưng dù thế nào đi nữa, con khốn Takanashi kia đang bất chấp tất cả để vận hành nó hết công suất rồi.
 
@@ -138,13 +138,13 @@ Nếu đây chỉ là sự giãy giụa vô vọng thì tốt, nhưng nếu là 
 
 “Dù đối thủ chỉ là Zombie nhưng đối phó với số lượng thế này cũng tốn công sức lắm đấy.”
 
-—Thật là, chỉ đối đầu với hạng tép riu thế này mà đã muốn rút lui thì thảm hại quá đấy, Momokawa.
+“—Thật là, chỉ đối đầu với hạng tép riu thế này mà đã muốn rút lui thì thảm hại quá đấy, Momokawa.”
 
 “A, Sakura-chan.”
 
 Ngay khi chúng tôi bị áp lực từ kẻ địch đẩy lùi về phía cầu thang, Sakura với mái tóc đen dài và tà váy tung bay nhẹ nhàng bước xuống, đứng sóng đôi bên cạnh tôi.
 
-“Lũ xác thối rác rưởi kia không tuổi gì cản đường tôi đâu —— 『Quang Pháo』!”
+“Lũ xác thối rác rưởi kia không có cửa cản đường tôi đâu —— 『Quang Pháo』!”
 
 Cô chĩa mũi thanh trường đao về phía trước, một luồng ánh sáng trắng chói lòa bùng lên.
 
@@ -162,7 +162,7 @@ Hàng chục con cùng một lúc. Bất kỳ kẻ nào nằm trong phạm vi c�
 
 Vừa gắt gỏng với tôi như mọi khi, Sakura vừa vung thanh trường đao một cách điêu luyện, liên tục hạ gục lũ Zombie đang tràn tới bằng những đòn ma pháp ánh sáng rực rỡ.
 
-Thuộc tính Quang dường như có sức sát thương khắc chế tuyệt đối với lũ xác sống, khiến một mình Sakura cân cả bản đồ.
+Thuộc tính Quang dường như có sức sát thương khắc chế tuyệt đối với lũ xác sống, khiến một mình Sakura quét sạch cả bản đồ.
 
 “Này, Sakura-chan, tớ biết cậu đang hăng hái vì gặp đúng thiên địch, nhưng chúng ta vẫn cần phải dưỡng sức cho chặng đường dài đấy.”
 
@@ -180,7 +180,7 @@ Trải qua nhiều trận chiến bằng trường đao, kỹ năng cận chiế
 
 “Thật là... Tôi biết rồi —— 『Hộ Vệ Ánh Sáng』!”
 
-Ngay khi Sakura niệm chú, những khẩu súng trường trên tay lũ Skeleton bừng lên một luồng sáng trắng. Tuyệt đấy, cái hiệu ứng buff này trông trực quan và dễ hiểu thật. Dù nếu là đi ám sát trong đêm thì tôi sẽ cấm tiệt cái trò phát sáng này.
+Ngay khi Sakura niệm chú, những khẩu súng trường trên tay lũ Skeleton bừng lên một luồng sáng trắng. Tuyệt đấy, cái hiệu ứng cường hóa này trông trực quan và dễ hiểu thật. Dù nếu là đi ám sát trong đêm thì tôi sẽ cấm tiệt cái trò phát sáng này.
 
 “Được rồi, đã được cường hóa thuộc tính khắc chế, giờ thì đẩy lùi chúng thôi. Bắn!”
 

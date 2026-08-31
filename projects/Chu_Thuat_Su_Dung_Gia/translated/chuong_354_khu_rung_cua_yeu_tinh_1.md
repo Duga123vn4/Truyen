@@ -2,21 +2,21 @@
 
 “Ư... ưm...”
 
-Khẽ rên rỉ một tiếng, Souma Sakura lảo đảo đứng dậy.
+Khẽ rên rỉ một tiếng, Souma Sakura lảo đảo gượng dậy.
 
 “May quá, cuối cùng cũng tiếp đất an toàn...”
 
 Cơ thể cô vẫn nguyên vẹn. Không có cảm giác đau đớn hay bất kỳ dấu hiệu bất thường nào.
 
-Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên `『Đệm Khí』` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối `『Thánh Thiên Kết Giới』`, cô đã tiếp đất thành công mà không hề trầy xước một sợi tóc.
+Dù bị rơi từ một độ cao đáng sợ do sàn nhà đột ngột biến mất, nhưng nhờ có vật phẩm ma pháp hệ Phong mang tên `『Đệm Khí』` mà Kotarou đã chuẩn bị trước, và trên hết là lớp phòng ngự tuyệt đối `『Thánh Thiên Kết Giới』`, cô đã tiếp đất an toàn mà không hề trầy xước một sợi tóc.
 
 “...Nhưng có vẻ như mình đã lạc mất mọi người rồi.”
 
 Mặt đất dưới chân cô là một thảm cỏ xanh mướt. Nhìn lướt qua xung quanh, đập vào mắt cô là một khu rừng xanh tươi được chiếu rọi bởi những tia nắng ấm áp len lỏi qua kẽ lá, cùng những đóa hoa dại đang đua nhau khoe sắc thắm. Tiếng chim lảnh lót đâu đó vang vọng, và một làn gió nhẹ lướt qua, vuốt ve gò má cô một cách dịu dàng.
 
-Đây là một khu rừng. Thế nhưng, nó không hề mang bầu không khí âm u, rình rập hiểm nguy như những tầng hầm ngục trước đây. Nơi này đẹp tựa như một bức tranh phong cảnh bước ra từ giấc mơ của con người. Cứ như thể nó được thiết kế riêng vậy. Không, nếu xét đến việc đây là một trong những tầng của Tháp Trung Tâm, thì chắc chắn từ gốc đến ngọn của khu rừng này đều là sản phẩm nhân tạo. Có lẽ nơi đây giống như một khu vườn thượng uyển khổng lồ.
+Đây là một khu rừng. Thế nhưng, nó không hề mang bầu không khí âm u, rình rập hiểm nguy như những tầng hầm ngục trước đây. Nơi này đẹp tựa như một bức tranh phong cảnh bước ra từ giấc mơ. Cứ như thể nó được kỳ công bài trí vậy. Không, nếu xét đến việc đây là một trong những tầng của Tháp Trung Tâm, thì chắc chắn từ gốc đến ngọn của khu rừng này đều là sản phẩm nhân tạo. Có lẽ nơi đây giống như một khu vườn thượng uyển khổng lồ.
 
-And xung quanh cô, không có lấy một chút hơi ấm hay sự hiện diện của các bạn học.
+Và xung quanh cô, không có lấy một chút hơi ấm hay sự hiện diện của các bạn học.
 
 Trong lúc rơi xuống, Sakura vẫn đủ tỉnh táo để chú ý đến những người bạn đang rơi cùng mình. Thế nhưng, một luồng sáng chói lòa đột ngột bao trùm lấy tất cả, cướp đi tầm nhìn của cô.
 
@@ -24,7 +24,7 @@ Bằng trực giác, cô biết đó không phải là ánh sáng của ma pháp
 
 “Điện thoại... tạm thời chưa nên dùng thì hơn.”
 
-Dù vẫn mang theo bên mình như một phương tiện liên lạc, nhưng suy cho cùng, thứ này hoạt động được là nhờ bàn tay của Kotori. Dù trước đây chưa từng xảy ra sự cố nào, nhưng ở thời điểm nhạy cảm này, không ai biết trước được điều gì. Bên trong tòa tháp là lãnh địa của Kotori, nếu cô ta dò tìm ra vị trí của cô khi đang đơn độc thế này thì sẽ rất nguy hiểm.
+Dù vẫn mang theo bên mình như một phương tiện liên lạc, nhưng suy cho cùng, thứ này hoạt động được là nhờ bàn tay của Kotori. Dù trước đây chưa từng xảy ra sự cố nào, nhưng ở thời điểm nhạy cảm này, không ai biết trước được điều gì. Bên trong tòa tháp là lãnh địa của Kotori, nếu cô ta dò tìm ra vị trí của cô khi đang đơn độc thế này thì sẽ vô cùng nguy hiểm.
 
 Tốt nhất là không nên dùng đến nó cho đến khi thực sự bế tắc và không thể hội quân với mọi người.
 
@@ -48,13 +48,13 @@ Có vẻ như hiện tại nó đã bị mất kết nối.
 
 Cô cẩn thận quan sát xung quanh một lần nữa, đồng thời kiểm tra lại trang bị của bản thân.
 
-Cầm chắc trên tay vũ khí chính mới của mình là cây cung `『Anh Hoa Liêu Loạn』` dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay, Sakura bắt đầu đơn độc bước đi.
+Cầm chắc trên tay vũ khí chính mới của mình là cây cung `『Anh Hoa Liêu Loạn』` — dù mới sử dụng chưa lâu nhưng đã vô cùng quen tay — Sakura bắt đầu đơn độc bước đi.
 
-Có lẽ vì đây là một khu rừng được thiết kế như một khu vườn, nên nó không quá rậm rạp đến mức khiến người ta đi lạc. Dưới chân cô là một con đường đất rõ ràng, tầm nhìn cũng khá thoáng đãng nhờ khoảng cách giữa các hàng cây được phân bổ rất hợp lý.
+Có lẽ vì đây là một khu rừng được thiết kế như một khu vườn, nên nó không quá rậm rạp đến mức khiến người ta mất phương hướng. Dưới chân cô là một con đường đất rõ ràng, tầm nhìn cũng khá thoáng đãng nhờ khoảng cách giữa các hàng cây được phân bổ rất hợp lý.
 
 Cô đi dọc theo con đường, nhưng không hề hiên ngang bước đi ở chính giữa, mà luôn nép mình vào bóng cây, di chuyển một cách khéo léo. Từng bước đi của cô nhẹ nhàng đến mức gần như không phát ra bất kỳ tiếng động nào.
 
-Sakura cũng đã được truyền dạy võ phái Souma — một môn võ thuật tổng hợp. Cô vốn đã nắm vững các kỹ thuật ẩn mình để di chuyển trong lòng địch mà không để lộ hành tung.
+Sakura vốn đã được truyền dạy võ phái Souma — một môn võ thuật tổng hợp. Cô hoàn toàn nắm vững các kỹ thuật ẩn mình để di chuyển trong lòng địch mà không để lộ hành tung.
 
 “Ủa, nơi này là... Quảng Trường Tinh Linh sao...?”
 
@@ -64,7 +64,7 @@ Trước mắt cô là một thảm hoa rực rỡ sắc màu trải dài, và �
 
 Đó không phải là đài phun nước, mà là một hồ nước tự nhiên.
 
-Thế nhưng, ngay chính giữa hồ nước ấy, một cây cột đá màu trắng dựng đứng lên, và ngự trên đỉnh cột là bức tượng yêu tinh quen thuộc.
+Thế nhưng, ngay chính giữa hồ nước ấy, một cây cột đá màu trắng dựng đứng sừng sững, và ngự trên đỉnh cột là bức tượng yêu tinh quen thuộc.
 
 “Nơi này cũng là một quảng trường bị bỏ hoang sao?”
 
@@ -74,9 +74,9 @@ Xung quanh hồ nước và thảm hoa, những mảnh vỡ của cột đá và
 
 Chúng được sắp đặt rải rác như thể mô phỏng lại cảnh những chú yêu tinh đang vui đùa trên thảm hoa. Có bức tượng vẫn còn nguyên vẹn, có bức lại bị mất đầu và tay giống như tượng nữ thần Nike, và có bức chỉ còn trơ lại đôi chân.
 
-Đây là lần đầu tiên cô nhìn thấy nhiều bức tượng yêu tinh được bố trí cùng một chỗ như vậy. Cảm giác rờn rợn dâng lên trong lòng cô, có lẽ là vì cô đã biết bản chất của những bức tượng này thực chất là những món vũ khí tự động bắn ra những tia laser chết chóc.
+Đây là lần đầu tiên cô nhìn thấy nhiều bức tượng yêu tinh được bố trí cùng một chỗ như vậy. Cảm giác rờn rợn dâng lên trong lòng cô, có lẽ là vì cô đã biết bản chất thực sự của những bức tượng này chính là những món vũ khí tự động bắn ra những tia laser chết chóc.
 
-Ít nhất thì bức tượng đứng giữa hồ cũng như những bức tượng xung quanh đều không hề phát sáng mắt hay có dấu hiệu tấn công. Cô đã cẩn thận cho Tinh Linh Ánh Sáng Tí Hon bay lên thăm dò trước, nên chắc chắn là an toàn.
+Ít nhất thì bức tượng đứng giữa hồ cũng như những bức tượng xung quanh đều không hề phát sáng mắt hay có dấu hiệu tấn công. Cô đã cẩn thận cho Tinh Linh Ánh Sáng Tí Hon bay lên thăm dò trước, nên chắc chắn nơi này an toàn.
 
 “Ủa, cái đó là...”
 
@@ -175,6 +175,8 @@ Sakura thực hiện các động tác hồi sức tim phổi một cách vô c�
 “Tỉnh lại đi chứ, Momokawa Kotarou!!”
 
 “...Cậu đang làm cái trò gì thế, Sakura-chan?”
+
+***
 
 *Khốn kiếp, con khốn Kotori chơi chiêu hiểm thật...*
 

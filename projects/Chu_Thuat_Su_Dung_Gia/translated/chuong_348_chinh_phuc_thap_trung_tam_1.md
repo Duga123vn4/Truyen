@@ -4,23 +4,23 @@
 
 Đó là kết luận mà tôi đưa ra.
 
-Tia sáng bắn ra từ mắt của tượng tinh linh quá mạnh. Đột phá trực diện nơi đó đúng là một trò chơi bất khả thi. Tôi quyết định coi nó như một dạng cơ quan chướng ngại vật được thiết kế để chặn đứng hoàn toàn tiến trình của người chơi.
+Tia sáng bắn ra từ mắt của bức tượng tinh linh quá đỗi khủng khiếp. Đột phá trực diện nơi đó chẳng khác nào một màn chơi game ở độ khó không tưởng. Tôi quyết định coi nó như một dạng cơ quan chướng ngại vật được thiết kế để chặn đứng hoàn toàn tiến trình của người chơi.
 
 “Ừm. Nếu Quảng Trường Tinh Linh hoạt động hết công suất, việc đột phá trực diện là hoàn toàn không thể. Thứ đó không đơn thuần là một thiết bị tự động nghênh chiến đâu ——— mà nó thực sự chứa đựng sức mạnh của thần linh đấy.”
 
 Người giải thích cho tôi đương nhiên là Liberta, nhân chứng sống từ thời cổ đại xa xôi.
 
-Tôi không mượn Liberta từ chỗ cậu bạn Tendou rồi tự nhốt mình trong phòng chỉ huy chỉ để chơi. Tôi đã khai thác từ cô ấy mọi thông tin có thể.
+Tôi không mượn Liberta từ chỗ Tendou rồi tự nhốt mình trong phòng chỉ huy chỉ để chơi bời. Tôi đã khai thác từ cô ấy mọi thông tin có thể.
 
-Dĩ nhiên là bao gồm cả về bức tượng tinh linh bắn tia laser đầy đe dọa kia nữa.
+Dĩ nhiên là bao gồm cả bức tượng tinh linh bắn tia laser đầy đe dọa kia nữa.
 
 “Nói cách khác, nó giống như 『Thiên Chức』, là một thực thể được thần linh ban cho sức mạnh đặc biệt đúng không?”
 
 Đến nước này thì chẳng còn lý do gì để nghi ngờ hệ thống ban phát sức mạnh của thần linh nữa. Sự bảo hộ của thần linh là có thật ở dị giới này.
 
-Vã lại, có vẻ như những kẻ được ban sức mạnh thần thánh không chỉ giới hạn ở những người được triệu hồi từ thế giới khác như chúng tôi.
+Vả lại, có vẻ như những kẻ được ban sức mạnh thần thánh không chỉ giới hạn ở những người được triệu hồi từ thế giới khác như chúng tôi.
 
-Nghĩ lại thì, ngoài những người sở hữu 『Thiên Chức』 như chúng tôi, vẫn còn một thực thể đặc biệt khác cũng được ban sức mạnh của thần ——— đó chính là 『Kẻ Cuồng Chiến Lang Thang』.
+Nghĩ lại thì, ngoài những người sở hữu 『Thiên Chức』 như chúng tôi, vẫn còn một thực thể đặc biệt khác cũng được ban sức mạnh của thần ——— đó chính là 『Chiến Binh Cuồng Loạn Lang Thang』.
 
 Kẻ đó không phải con người, cũng chẳng phải quái vật dạng người như Oh-ma. Theo lời giải thích của Liberta, đó là một món vũ khí cổ đại, hay nói đúng hơn là trùm cuối thực sự đã bạo tẩu và hủy diệt Albion này do sử dụng sức mạnh của một Ma thần cực kỳ nguy hiểm.
 
@@ -50,13 +50,13 @@ Tôi biết thừa Takanashi đang giám sát mọi hành động của mình.
 
 Thế nên, tôi mới cố tình phô trương mà kéo đến đó đấy.
 
-Mang theo đầy đủ trang bị, toàn bộ tập hợp ——— tuy nhiên, một nửa trong số đó là giả. Những người thật chỉ gồm năm người: cậu bạn Hayama, Lớp trưởng, Sakura, Himeno và Nakajima.
+Mang theo đầy đủ trang bị, toàn bộ tập hợp ——— tuy nhiên, một nửa trong số đó là giả. Những người thật chỉ gồm năm người: Hayama-kun, Lớp trưởng, Sakura-chan, Himeno-san và Nakajima-kun.
 
-Tôi thì đã có phân thân nên không sao, còn bốn người kia thì được chuẩn bị từ trang phục, trang bị, chiều cao cho đến tóc giả, rồi tôi dùng 『Hư Ảnh Tương Chiếu』 lên các Skeleton để biến chúng thành bản sao của các bạn học. Vì cậu bạn Tendou có vóc dáng to lớn nên thay vì Skeleton, tôi đã dùng một con High Zombie cơ bắp cuồn cuộn để đóng giả.
+Tôi thì đã có phân thân nên không sao, còn bốn người kia thì được chuẩn bị từ trang phục, trang bị, chiều cao cho đến tóc giả, rồi tôi dùng 『Hư Ảnh Tương Chiếu』 lên các Skeleton để biến chúng thành bản sao của các bạn học. Vì Tendou có vóc dáng to lớn nên thay vì Skeleton, tôi đã dùng một con High Zombie cơ bắp cuồn cuộn để đóng giả.
 
 Đội ngũ toàn hàng giả phụ trách lối vào chính này thực chất là nhóm chờ lệnh, không có nhiệm vụ gì đặc biệt. Vai trò của họ chỉ là thu hút sự chú ý của Takanashi ngay lúc này.
 
-Từ trước đến nay, phân thân của tôi cùng Rem và các triệu hoán thú thường xuyên đột kích vào Tháp để thử nghiệm vượt qua tượng tinh linh, nhưng tôi chưa từng dẫn theo bất kỳ người đồng đội nào khác. Ngay cả Natsukawa, vì quá nguy hiểm nên tôi cũng không cho phép cô ấy xâm nhập vào trong Tháp.
+Từ trước đến nay, phân thân của tôi cùng Rem và các triệu hoán thú thường xuyên đột kích vào Tháp để thử nghiệm vượt qua tượng tinh linh, nhưng tôi chưa từng dẫn theo bất kỳ người đồng đội nào khác. Ngay cả Natsukawa-san, vì quá nguy hiểm nên tôi cũng không cho phép cô ấy xâm nhập vào trong Tháp.
 
 Nếu cô ta quan sát hành động đó của tôi, thì khi thấy tất cả mọi người cùng kéo đến thế này, cô ta sẽ nghĩ: *Lũ ngu ngốc kia cuối cùng cũng chịu đến nộp mạng rồi.*
 
@@ -92,7 +92,7 @@ Những tiếng nổ lớn liên tiếp vang lên. Trong làn khói đen cuồn 
 
 Đúng lúc đó, điện thoại đổ chuông.
 
-Tôi bắt máy bằng chiếc điện thoại thông minh thừa kế từ Nonomiya.
+Tôi bắt máy bằng chiếc điện thoại thông minh thừa kế từ Nonomiya-san.
 
 “Momokawa, mở được rồi.”
 
@@ -106,7 +106,7 @@ Kết thúc cuộc gọi ngắn gọn súc tích với Tendou, tôi cũng nhoài
 
 “Đây chỉ là phân thân thôi nên không sao đâu.”
 
-Nhận những lời lo lắng từ Mei và Kyouko, phân thân của tôi được Hắc Kị Sĩ Rem bế kiểu công chúa, không chút do dự lao mình xuống vực sâu.
+Nhận những lời lo lắng từ Mei-chan và Kyouko, phân thân của tôi được Hắc Kị Sĩ Rem bế kiểu công chúa, không chút do dự lao mình xuống vực sâu.
 
 Ngay phía dưới đã có sẵn một sợi dây thừng làm bằng tóc đen được bện tỉ mỉ thả xuống. Rem dùng một tay nắm lấy sợi dây rồi nhanh chóng trượt xuống.
 
@@ -154,7 +154,7 @@ Thực ra, việc chúng tôi công khai tìm kiếm lối đột phá mà Takan
 
 *Mày chắc hẳn đã nghĩ tao chỉ đang lục lọi dưới đáy vực sâu để thu thập nguyên liệu từ xác lũ Goma đúng không?*
 
-Đúng là tôi đã tận dụng triệt để xác của phần lớn thần dân vương quốc Goma, bao gồm cả lũ Gira-GoGame Mastera... nhưng mục tiêu thực sự lại là việc Tendou đi tìm lối đột phá.
+Đúng là tôi đã tận dụng triệt để xác của phần lớn thần dân vương quốc Goma, bao gồm cả lũ Gira-Goma... nhưng mục tiêu thực sự lại là việc Tendou đi tìm lối đột phá.
 
 Để vận chuyển số nhu yếu phẩm thu gom được dưới đáy vực lên mặt đất, tôi đã để Liberta cắp các container bay đi bay lại. Vì cô ấy thực sự đang vận chuyển đồ đạc nên việc bay lượn xung quanh Tháp không hề gây ra chút nghi ngờ nào.
 
@@ -236,7 +236,7 @@ Khi chiếc thang máy chạy bằng sức người đáp xuống lối bốc d�
 
 “Lũ tụi mày, chuẩn bị chiến đấu đi. Bọn chúng đến nghênh đón rồi đấy.”
 
-Ryuuichi nhổ điếu thuốc xuống đất rồi rút ra 『Vương Kiếm』, cùng lúc đó, những cánh cửa cuốn dẫn vào nhà kho đồng loạt kéo lên.
+Ryuuichi nhổ điếu thuốc xuống đất rồi rút ra 『Vương Kiếm Zamd』, cùng lúc đó, những cánh cửa cuốn dẫn vào nhà kho đồng loạt kéo lên.
 
 Lao ra thành từng hàng là những bóng người màu trắng.
 

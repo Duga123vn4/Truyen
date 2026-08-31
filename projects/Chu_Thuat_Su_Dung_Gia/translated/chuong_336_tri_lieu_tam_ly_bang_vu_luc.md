@@ -6,11 +6,11 @@
 
 Tôi gõ cửa phòng riêng được phân cho Souma Sakura — à không, phải nói là căn phòng cô ta đang tự tiện chiếm dụng — một cách vô cùng bất lịch sự.
 
-Căn phòng này không phải là nơi Sakura từng dùng trong thời gian nhóm Souma đồn trú ở đây, mà thực chất là phòng của Souma.
+Căn phòng này không phải là nơi Sakura từng dùng trong thời gian nhóm Souma đồn trú ở đây, mà thực chất là phòng của Souma-kun.
 
 Không chịu ở phòng cũ của mình mà lại giam mình trong phòng của ông anh trai, ừ thì, chắc lại là cái trò ủy mị đó rồi.
 
-Tôi không phải là không hiểu cảm giác muốn hít hà chút hơi ấm vương lại để lấp đầy khoảng trống cô đơn, nhưng ngay từ đầu tôi đã đồng ý cho cô biến nơi này thành phòng riêng đâu hả? Chủ nhân của pháo đài ẩn này là Momokawa Kotarou tôi đây, người đã được ngài Tendou — tư lệnh tối cao của Căn cứ Albion — ủy quyền quản trị toàn bộ cơ mà.
+Tôi không phải là không hiểu cảm giác muốn hít hà chút hơi ấm vương lại để lấp đầy khoảng trống cô đơn, nhưng ngay từ đầu tôi đã đồng ý cho cô biến nơi này thành phòng riêng đâu hả? Chủ nhân của pháo đài ngầm này là Momokawa Kotarou tôi đây, người đã được ngài Tendou — tư lệnh tối cao của Căn cứ Albion — ủy quyền quản trị toàn bộ cơ mà.
 
 “Souma Sakura! Cô đang chiếm giữ căn phòng này một cách bất hợp pháp! Mau chóng dọn đồ và đầu hàng đi! Cô đã bị bao vây rồi, người mẹ ở quê nhà đang khóc lóc thảm thiết vì cô đấy!”
 
@@ -34,7 +34,7 @@ Sakura có vẻ ngây thơ nghĩ rằng chỉ cần khóa trái cánh cửa cự
 
 Thực chất chỉ là bản thể của tôi đang ngồi trong phòng chỉ huy vừa giải khóa căn phòng này từ xa mà thôi. Mọi cánh cửa và cổng chắn trong pháo đài đều có thể tùy ý điều khiển từ phòng điều hành trung tâm.
 
-Căn phòng tôi bước vào sau khi dùng chìa khóa vạn năng tối tăm một cách hoàn hảo. Tuy nhiên, mục tiêu đã bị phát hiện ngay lập tức.
+Sau khi dùng "chìa khóa vạn năng" một cách hoàn hảo, tôi nghênh ngang bước vào phòng. Mục tiêu lập tức lộ diện.
 
 Căn phòng vốn dĩ chẳng có mấy đồ đạc. Thứ nổi bật nhất là chiếc giường đặt ở phía trong, và Sakura đang nằm cuộn tròn, trùm chăn kín mít trên đó.
 
@@ -174,7 +174,7 @@ Vì tôi có thể cằn nhằn Sakura suốt ngày không biết chán nên tô
 
 “Trước hết, tớ sẽ giải thích tình hình hiện tại.”
 
-“Vâng, nhờ cậu.”
+“Ừm, nhờ cậu.”
 
 Vì Sakura đã trốn việc suốt hai ngày trời nên cần phải cập nhật lại tình hình từ đầu, Lớp trưởng kiên nhẫn giải thích cặn kẽ cho cô ta.
 

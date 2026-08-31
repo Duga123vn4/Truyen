@@ -1,6 +1,6 @@
 # Tập 332: Nghi vấn của Vương
 
-“Cậu Tendou ơi! Thế này là thế nào hả?!”
+“Tendou-kun ơi! Thế này là thế nào hả?!”
 
 Tại sao phân thân của tôi lại ở đây? Đã thế, sao nó lại còn diện nguyên một bộ đồ hầu gái thế kia chứ?
 
@@ -16,7 +16,7 @@ C-Cái bản mặt vênh váo đáng ghét gì thế này... Bị một đứa n
 
 Sao cậu lại tự tiện đặt cho nó cái tên con gái thế hả!
 
-Đứa này nhìn kiểu gì cũng là phân thân của tôi mà. Cứ như thể cậu ta đã cướp quyền kiểm soát 『Song Ảnh』 từ lúc nào rồi giấu đi giống như Takanashi trước đây vậy. Nhưng rõ ràng là từ sau vụ đó, tôi đã quản lý các phân thân cực kỳ nghiêm ngặt rồi. Lẽ ra không đời nào có chuyện cậu Tendou lại sở hữu một phân thân của tôi được.
+Đứa này nhìn kiểu gì cũng là phân thân của tôi mà. Cứ như thể cậu ta đã cướp quyền kiểm soát 『Song Ảnh』 từ lúc nào rồi giấu đi giống như Takanashi trước đây vậy. Nhưng rõ ràng là từ sau vụ đó, tôi đã quản lý các phân thân cực kỳ nghiêm ngặt rồi. Lẽ ra không đời nào có chuyện Tendou-kun lại sở hữu một phân thân của tôi được.
 
 “Chủ nhân nói thế chứ em đã đồng ý đâu.”
 
@@ -24,7 +24,7 @@ Sao cậu lại tự tiện đặt cho nó cái tên con gái thế hả!
 
 “Đã là hầu gái thì phải luôn túc trực bên cạnh chủ nhân. Đây không phải là mệnh lệnh, mà là lẽ sống, là minh chứng cho sự tồn tại của em. Thế nên, Momoko sẽ không rời xa Chủ nhân đâu~!”
 
-Nói ra những lời khai báo vô nghĩa đó với nụ cười rạng rỡ hạnh phúc, nó lao đến ôm chầm lấy cánh tay của cậu Tendou.
+Nói ra những lời tuyên bố vô nghĩa đó với nụ cười rạng rỡ hạnh phúc, nó lao đến ôm chầm lấy cánh tay của Tendou-kun.
 
 *Áaaaaaa! Dừng lại đi... Đừng có dùng gương mặt của tôi để làm trò đó chứ!!*
 
@@ -40,7 +40,7 @@ Thì tất nhiên rồi! Nhìn thấy bản thân mình đi uốn éo, nịnh b�
 
 “...Ryuuichi.”
 
-Mặc kệ tôi đang quằn quại đau đớn vì đòn tấn công tinh thần vô cớ, con hầu gái đang bám dính lấy cậu Tendou kia vẫn liếc xéo đầy khiêu khích về phía Lớp trưởng.
+Mặc kệ tôi đang quằn quại đau đớn vì đòn tấn công tinh thần vô cớ, con hầu gái đang bám dính lấy Tendou-kun kia vẫn liếc xéo đầy khiêu khích về phía Lớp trưởng.
 
 Đó là một cảnh tượng ác mộng, nhưng chắc chắn có một người đang phải chịu đựng tổn thương tinh thần còn lớn hơn cả tôi gấp bội.
 
@@ -48,15 +48,15 @@ Này Lớp trưởng, cảm giác thế nào khi chứng kiến người trong m
 
 “Cái thứ Momokawa này là thế nào hả?”
 
-Lớp trưởng đã chính thức bỏ luôn kính ngữ “cậu” với tôi rồi.
+Lớp trưởng đã chính thức bỏ luôn kính ngữ “-kun” với tôi rồi.
 
 Giọng nói lạnh đến thấu xương. Danh hiệu 『Băng Ma Thuật Sư』 quả nhiên không phải để trưng cho đẹp.
 
 “Không, đứa này là...”
 
-Đến cả cậu Tendou cũng phải lảng tránh ánh mắt một cách vô cùng ngượng ngùng.
+Đến cả Tendou-kun cũng phải lảng tránh ánh mắt một cách vô cùng ngượng ngùng.
 
-Một cậu Tendou vốn chẳng ngán đối đầu trực diện với cả giang hồ thứ thiệt hay Salamander hoang dã, giờ đây lại phải né tránh ánh mắt. Đủ hiểu trong lòng cậu ta đang bối rối đến nhường nào rồi đấy.
+Một Tendou-kun vốn chẳng ngán đối đầu trực diện với cả giang hồ thứ thiệt hay Salamander hoang dã, giờ đây lại phải né tránh ánh mắt. Đủ hiểu trong lòng cậu ta đang bối rối đến nhường nào rồi đấy.
 
 Vừa mới xuất hiện giải vây cho cả lớp ngầu lòi là thế, vậy mà giờ đây, dáng vẻ uy phong lẫm liệt tràn đầy bá khí và mị lực của cậu ta đã bay biến sạch sành sanh.
 
@@ -72,7 +72,7 @@ Vừa mới xuất hiện giải vây cho cả lớp ngầu lòi là thế, vậ
 
 “Tình yêu sâu đậm, hử... Đúng là trông hai người thân thiết thật đấy. Tớ mới thấy cậu trưng ra bộ mặt đó lần đầu tiên đấy.”
 
-Tôi cũng là lần đầu tiên thấy cậu Tendou lộ ra vẻ mặt bất lực, pha trộn giữa bối rối và cam chịu kiểu *“Chết tiệt, giờ phải tính sao với đống hỗn độn này đây...”* đấy. Khiến cho cậu ta phải biểu lộ gương mặt như thế này thì đúng là đáng nể thật.
+Tôi cũng là lần đầu tiên thấy Tendou-kun lộ ra vẻ mặt bất lực, pha trộn giữa bối rối và cam chịu kiểu *“Chết tiệt, giờ phải tính sao với đống hỗn độn này đây...”* đấy. Khiến cho cậu ta phải biểu lộ gương mặt như thế này thì đúng là đáng nể thật.
 
 “Này Ryouko, đừng có hiểu lầm vớ vẩn. Đứa này chỉ là ma pháp triệu hồi thôi.”
 
@@ -84,7 +84,7 @@ Tôi cũng là lần đầu tiên thấy cậu Tendou lộ ra vẻ mặt bất l
 
 Tiếng hét giận dữ của cô ấy làm tôi giật nảy mình, nhưng đó là phản ứng không thể tránh khỏi.
 
-Từ trước đến nay, Lớp trưởng tuy đã vài lần nổi giận trong các buổi họp lớp với cậu Souma hay Sakura cứng đầu, nhưng chưa bao giờ cô ấy hét lên bằng chất giọng lạc đi và chói tai đến thế này.
+Từ trước đến nay, Lớp trưởng tuy đã vài lần nổi giận trong các buổi họp lớp với Souma-kun hay Sakura-chan cứng đầu, nhưng chưa bao giờ cô ấy hét lên bằng chất giọng lạc đi và chói tai đến thế này.
 
 Đằng sau cặp kính, đôi mắt sắc sảo thường ngày không còn chút ánh sáng lý trí nào nữa. Chỉ có một bóng tối u ám đang phủ mờ đôi đồng tử.
 
@@ -110,17 +110,17 @@ Nghe như thể chính bản thân tôi đang đi làm hầu gái vậy á.
 
 “Tuy phiền phức nhưng nó rất tiện lợi, nên tớ mới phải chịu thôi.”
 
-“Thừa nhận đi. Nhìn vào mắt cậu là tớ biết ngay... Ánh mắt cậu nhìn con hầu gái Momokawa đó cũng giống như ánh mắt cậu nhìn cậu Souma hay nhìn tớ vậy, đó là ánh mắt dành cho những người mà cậu đã công nhận.”
+“Thừa nhận đi. Nhìn vào mắt cậu là tớ biết ngay... Ánh mắt cậu nhìn con hầu gái Momokawa đó cũng giống như ánh mắt cậu nhìn Souma-kun hay nhìn tớ vậy, đó là ánh mắt dành cho những người mà cậu đã công nhận.”
 
 Đã bảo là đừng gọi là hầu gái Momokawa nữa mà.
 
-Với lại tôi cũng đã làm gì để được cậu Tendou tin tưởng đến mức đó đâu chứ.
+Với lại tôi cũng đã làm gì để được Tendou-kun tin tưởng đến mức đó đâu chứ.
 
 “Cái đó... thì đúng là tớ được nó chăm sóc cho nhiều thứ thật. Bảo là công nhận thì cũng có phần đúng.”
 
 “Ra vậy. Quả nhiên, ở nơi cậu bị dịch chuyển đến một mình, chỗ dựa tinh thần của cậu... chính là hầu gái Momokawa nhỉ.”
 
-Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dựa tinh thần cho cậu Tendou bao giờ nhé! Tôi cũng chưa từng mặc đồ hầu gái để chăm sóc chu đáo cho cậu ta đâu đấy!
+Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dựa tinh thần cho Tendou-kun bao giờ nhé! Tôi cũng chưa từng mặc đồ hầu gái để chăm sóc chu đáo cho cậu ta đâu đấy!
 
 “Không, không đến mức đó—”
 
@@ -130,7 +130,7 @@ Cái cách gọi đó! Tôi không hề nhớ mình đã trở thành chỗ dự
 
 Mà khoan đã, Lớp trưởng, sao cậu lại quay sang nhìn tôi thế kia?
 
-“Cậu Momokawa.”
+“Momokawa-kun.”
 
 “Á, vâng.”
 
@@ -152,7 +152,7 @@ Tôi đã trải qua biết bao trận chiến sinh tử với các bạn học,
 
 “K-Kotarou-kun...”
 
-Thấy tôi gặp nguy hiểm, Mei lập tức lao đến chắn phía trước và giơ khiên lên, nhưng trước tình huống rắc rối này, trên mặt cô ấy cũng hiện rõ vẻ hoang mang.
+Thấy tôi gặp nguy hiểm, Mei-chan lập tức lao đến chắn phía trước và giơ khiên lên, nhưng trước tình huống rắc rối này, trên mặt cô ấy cũng hiện rõ vẻ hoang mang.
 
 “Momoko cái nỗi gì chứ! Cậu thích hầu gái giả gái đến thế cơ à?!”
 
@@ -164,9 +164,9 @@ Thấy tôi gặp nguy hiểm, Mei lập tức lao đến chắn phía trước 
 
 “Đã bảo là tớ chưa làm gì rồi mà.”
 
-“Không sao đâu, cậu Tendou vẫn bình thường. Cậu ấy vẫn là trai thẳng mà!”
+“Không sao đâu, Tendou-kun vẫn bình thường. Cậu ấy vẫn là trai thẳng mà!”
 
-Nấp sau tấm lưng to lớn, đáng tin cậy của Mei, tôi đứng nhìn cậu Tendou và cậu Natsukawa đang chật vật ngăn cản Lớp trưởng đang phát điên.
+Nấp sau tấm lưng to lớn, đáng tin cậy của Mei-chan, tôi đứng nhìn Tendou-kun và Natsukawa-san đang chật vật ngăn cản Lớp trưởng đang phát điên.
 
 Có vẻ như họ đã tạm thời ngăn được cô ấy bắn loạn xạ ma pháp băng, nhưng cơn giận của Lớp trưởng vẫn chưa có dấu hiệu nguôi ngoai.
 
@@ -174,13 +174,13 @@ Có vẻ như họ đã tạm thời ngăn được cô ấy bắn loạn xạ m
 
 “Đừng có nói khùng nói điên nữa, tỉnh táo lại hộ cái!”
 
-“Ryouko-chan, bây giờ vẫn còn kịp để đưa cậu Tendou trở lại bình thường mà! Chúng ta cùng cố gắng nhé, được không?”
+“Ryouko-chan, bây giờ vẫn còn kịp để đưa Tendou-kun trở lại bình thường mà! Chúng ta cùng cố gắng nhé, được không?”
 
 “Này Natsukawa, đừng có nói chuyện kiểu như tớ là đứa có vấn đề thế chứ.”
 
 Trận chiến nội bộ vẫn đang diễn ra vô cùng nảy lửa, và đây không phải là lúc để tôi xen vào. Nói đúng hơn, tôi tuyệt đối không được phép thò đầu ra.
 
-Việc thuyết phục cứ để cho hai người kia lo vậy. Dù trông có vẻ như cậu Natsukawa đang vừa giả vờ can ngăn vừa tranh thủ đấm vào lưng cậu Tendou, nhưng đối với một Lớp trưởng đã mất đi lý trí thì những lời lẽ logic lúc này chẳng có tác dụng gì đâu. Cứ liên tục lên tiếng trấn an cô ấy mới là điều quan trọng nhất.
+Việc thuyết phục cứ để cho hai người kia lo vậy. Dù trông có vẻ như Natsukawa-san đang vừa giả vờ can ngăn vừa tranh thủ đấm vào lưng Tendou-kun, nhưng đối với một Lớp trưởng đã mất đi lý trí thì những lời lẽ logic lúc này chẳng có tác dụng gì đâu. Cứ liên tục lên tiếng trấn an cô ấy mới là điều quan trọng nhất.
 
 “Này, Kotarou-kun.”
 
@@ -202,7 +202,7 @@ Ai cũng muốn thốt lên câu đó, nhưng chẳng ai dại gì mà nói ra. 
 
 “Lớp trưởng, cậu đừng ép bản thân quá, hay là đi nghỉ ngơi một lát đi.”
 
-“Cậu Momokawa...”
+“Momokawa-kun...”
 
 Lớp trưởng quay sang nhìn tôi với đôi mắt đã lấy lại được chút ánh sáng của lý trí, nhưng sao tôi cứ có cảm giác đôi đồng tử ấy lại đang dần u ám trở lại thế nhỉ, chắc là tôi tưởng tượng thôi đúng không?
 
@@ -218,41 +218,41 @@ Lớp trưởng quay sang nhìn tôi với đôi mắt đã lấy lại được
 
 Tôi cũng chẳng biết làm thế nào để một cô gái có thể sắp xếp lại cảm xúc khi người mình thích bị một đứa con trai giả gái cướp mất, nhưng trước mắt thì việc cô ấy cần thời gian nghỉ ngơi là điều chắc chắn.
 
-Lớp trưởng à, giống như cậu Souma đã tin tưởng cậu, tôi cũng tin tưởng cậu đấy. Làm ơn đi, mau tỉnh táo lại giùm tôi cái...
+Lớp trưởng à, giống như Souma-kun đã tin tưởng cậu, tôi cũng tin tưởng cậu đấy. Làm ơn đi, mau tỉnh táo lại giùm tôi cái...
 
-Với lời cầu nguyện chân thành từ tận đáy lòng, tôi tiễn đưa bóng lưng của Lớp trưởng đang vừa đi vừa thút thít, được cậu Natsukawa dìu ra một góc của phòng vương tọa.
+Với lời cầu nguyện chân thành từ tận đáy lòng, tôi tiễn đưa bóng lưng của Lớp trưởng đang vừa đi vừa thút thít, được Natsukawa-san dìu ra một góc của phòng vương tọa.
 
-“Cậu Tendou.”
+“Tendou-kun.”
 
 “...Tớ không có lỗi.”
 
 Tôi nghĩ một người thực sự tin rằng mình không có lỗi thì sẽ không trưng ra vẻ mặt đau khổ đến thế đâu.
 
-Cậu Tendou đăm chiêu nhìn theo bóng dáng đã thay đổi hoàn toàn của Lớp trưởng với vẻ mặt vô cùng mệt mỏi.
+Tendou-kun đăm chiêu nhìn theo bóng dáng đã thay đổi hoàn toàn của Lớp trưởng với vẻ mặt vô cùng mệt mỏi.
 
 “Này Tendou, tao không giao Kotarou cho mày đâu đấy.”
 
 “Cậu không được phép chạm vào Kotarou-kun thật đâu đấy nhé.”
 
-Chẳng biết họ đang lo lắng cái gì nữa, nhưng ở hai bên cạnh tôi lúc này, Kyouko và Mei đang đứng sát sạt như hai vệ sĩ bán chuyên.
+Chẳng biết họ đang lo lắng cái gì nữa, nhưng ở hai bên cạnh tôi lúc này, Kyouko và Mei-chan đang đứng sát sạt như hai vệ sĩ bán chuyên.
 
 Bình thường nếu được kẹp giữa hai cô gái thế này thì tôi đã sướng rơn người rồi, nhưng lúc này tôi chẳng thể nào vui nổi.
 
-Làm ơn hãy tin rằng cả cậu Tendou lẫn tôi đều hoàn toàn không có chút hứng thú nào với chuyện đó cả.
+Làm ơn hãy tin rằng cả Tendou-kun lẫn tôi đều hoàn toàn không có chút hứng thú nào với chuyện đó cả.
 
 “Dù sao thì, chúng ta có thể coi là đã có đủ thời gian để thảo luận rồi chứ?”
 
 “Ừ, năng lực của Takanashi đang bị giới hạn rồi. Dù cô ta có định làm gì đi nữa thì cũng phải mất thời gian.”
 
-Trước mắt cứ tin vào lời của cậu Tendou vậy. Dù sao thì tình hình hiện tại cũng khiến chúng tôi khó lòng hành động ngay lập tức.
+Trước mắt cứ tin vào lời của Tendou-kun vậy. Dù sao thì tình hình hiện tại cũng khiến chúng tôi khó lòng hành động ngay lập tức.
 
-Nhờ có cậu Tendou quay lại, chúng tôi đã tạm thời ngăn chặn được âm mưu của Takanashi. Một cú lội ngược dòng ngoạn mục ngay khi chúng tôi đã hoàn toàn bị dồn vào đường cùng.
+Nhờ có Tendou-kun quay lại, chúng tôi đã tạm thời ngăn chặn được âm mưu của Takanashi. Một cú lội ngược dòng ngoạn mục ngay khi chúng tôi đã hoàn toàn bị dồn vào đường cùng.
 
 Tuy nhiên, tình hình hiện tại vẫn chưa thể coi là an toàn.
 
-Yamada, Ueta, và Yoshizaki, cả ba người đồng đội đã bị cô ta trục xuất đi mất. Kenzaki dù biết rõ Takanashi là kẻ chủ mưu nhưng vẫn đi theo cô ta, còn cậu Souma thì đã bị bắt đi trong lúc hỗn loạn.
+Yamada, Ueta, và Yoshizaki, cả ba người đồng đội đã bị cô ta trục xuất đi mất. Kenzaki dù biết rõ Takanashi là kẻ chủ mưu nhưng vẫn đi theo cô ta, còn Souma-kun thì đã bị bắt đi trong lúc hỗn loạn.
 
-Những người bạn học còn lại ở đây chỉ gồm có tôi, Mei, Kyouko, Rerite, Himeno, và Nakajima. Lớp trưởng, Sakura, cậu Natsukawa. Và cuối cùng là cậu Tendou.
+Những người bạn học còn lại ở đây chỉ gồm có tôi, Mei-chan, Kyouko, Rerite, Himeno, và Nakajima. Lớp trưởng, Sakura-chan, Natsukawa-san. Và cuối cùng là Tendou-kun.
 
 “Chỉ còn lại đúng 10 người... Đây là những thành viên cuối cùng sao.”
 
@@ -282,7 +282,7 @@ Cả về thể chất lẫn tinh thần, tình trạng của chúng tôi hôm n
 
 “Đi đâu cơ?”
 
-“Cậu Tendou này, ở cái căn cứ Goma bẩn thỉu thế này thì làm sao mà nghỉ ngơi thư giãn cả thể xác lẫn tâm hồn được chứ. Tất nhiên là phải đến một nơi an toàn để nghỉ ngơi rồi.”
+“Tendou-kun này, ở cái căn cứ Goma bẩn thỉu thế này thì làm sao mà nghỉ ngơi thư giãn cả thể xác lẫn tâm hồn được chứ. Tất nhiên là phải đến một nơi an toàn để nghỉ ngơi rồi.”
 
 Vương quốc Goma giờ đã bị hủy diệt hoàn toàn. Quét dọn sạch sẽ và rơi xuống đáy vực sâu rồi.
 
@@ -296,7 +296,7 @@ Một khi lũ Goma đã biến mất, chẳng còn ai có thể cản đường 
 
 “Tuyệt quá, lâu rồi mới được ăn đồ ăn Mei-chan nấu, tớ mong chờ lắm đấy.”
 
-Đó là pháo đài ẩn mà Takanashi đã chọn. Nghe cậu Natsukawa kể thì rõ ràng nơi đó có trang thiết bị và môi trường sống tốt hơn hẳn căn cứ dưới lòng đất của chúng tôi.
+Đó là pháo đài ẩn mà Takanashi đã chọn. Nghe Natsukawa-san kể thì rõ ràng nơi đó có trang thiết bị và môi trường sống tốt hơn hẳn căn cứ dưới lòng đất của chúng tôi.
 
 Ngay từ đầu, khi thỏa thuận được thiết lập trong buổi họp lớp, tôi đã dự định sẽ tận dụng triệt để cái pháo đài ẩn này rồi.
 

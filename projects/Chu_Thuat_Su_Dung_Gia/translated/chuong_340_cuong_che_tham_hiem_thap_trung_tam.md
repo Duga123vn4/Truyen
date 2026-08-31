@@ -30,7 +30,7 @@ Ban đầu, tôi từ từ kéo dài những sợi tóc đen để hạ người
 
 Mới chỉ đi xuống được khoảng mười mấy mét, cơ thể tôi đã bị những luồng gió dữ dội thổi bay đung đưa như một con lắc, rồi bắt đầu xoay tròn không kiểm soát. Ở một nơi lộng gió thế này mà chỉ treo mình bằng một sợi dây thừng làm từ tóc đen thì chuyện này xảy ra cũng là lẽ đương nhiên.
 
-Không ổn rồi, dù tôi là đứa có khả năng kháng say xe lẫn say 3D cực tốt, nhưng với cái đà này thì hệ thống tiền đình của tôi cũng sớm muộn gì cũng đi tong mất. Khốn kiếp, đã vậy thì thà liều mạng lao xuống thật nhanh còn hơn!
+Không ổn rồi, dù tôi là đứa có khả năng kháng say xe lẫn say 3D cực tốt, nhưng với cái đà này thì hệ thống tiền đình của tôi sớm muộn gì cũng đi tong mất. Khốn kiếp, đã vậy thì thà liều mạng lao xuống thật nhanh còn hơn!
 
 “Bay lên nào!”
 
@@ -54,7 +54,7 @@ Mùi tử khí thoang thoảng bốc lên khiến tôi không muốn cũng phả
 
 Nơi tôi vừa đáp xuống chính là pháo đài tạm thời ở Đông Môn do chính tay Kyouko xây dựng, hiện tại vẫn đang sừng sững đứng vững.
 
-Phải, đây chính là nơi mà bốn tên Gira-GoGame Mastera, bao gồm cả Zagan, đã từng tập hợp.
+Phải, đây chính là nơi mà bốn tên Đại Chiến Sĩ Gira-Goma, bao gồm cả Zagan, đã từng tập hợp.
 
 “Đợi đấy nhé, Bandon, Jiji-Gogo, Gizaginzu. Ta sẽ thu gom xác của tất cả các ngươi lại, rồi cho các ngươi hội ngộ dưới trướng của bệ hạ Oh-ma.”
 
@@ -64,9 +64,9 @@ Chú cú Rem đội trưởng đang dùng cặp chân to khỏe của mình qu�
 
 Bản thân cây gậy thì hỏng có thể thay thế dễ dàng, nhưng chiếc đầu lâu kia lại là món hàng độc nhất vô nhị vô cùng quý giá. Tôi chẳng dại gì mà ôm theo nó khi thực hiện cái thử thách nhảy vực đầy rủi ro này cả.
 
-Chính vì lẽ đó, tôi chỉ mang theo bên mình những món đồ có mất cũng không tiếc, còn toàn bộ trang bị quan trạng khác thì nhờ lũ chim Rem biết bay vận chuyển xuống sau.
+Chính vì lẽ đó, tôi chỉ mang theo bên mình những món đồ có mất cũng không tiếc, còn toàn bộ trang bị quan trọng khác thì nhờ lũ chim Rem biết bay vận chuyển xuống sau.
 
-Nhiệm vụ lần này là tìm kiếm xác của lũ Gira-GoGame Mastera dưới đống đổ nát, những kẻ chắc chắn đã co rút lại kích thước ban đầu sau khi chết. Một mình tôi thì làm sao mà lục tung cái đống này lên được.
+Nhiệm vụ lần này là tìm kiếm xác của lũ Gira-Goma dưới đống đổ nát, những kẻ chắc chắn đã co rút lại kích thước ban đầu sau khi chết. Một mình tôi thì làm sao mà lục tung cái đống này lên được.
 
 Muốn tìm đồ hiệu quả thì cứ phải dùng đến nhân hải chiến thuật thôi.
 
@@ -136,7 +136,7 @@ Ngay tại đài phun nước ở trung tâm, bức tượng yêu tinh đang t�
 
 *Xèèèèèè!*
 
-Tiếng thịt da bị thiêu đốt cháy khét lẹt cùng mùi khét lẹt lập tức xộc thẳng vào mũi tôi.
+Tiếng thịt da bị thiêu đốt cháy khét lẹt lập tức xộc thẳng vào mũi tôi.
 
 Ngay trong khoảnh khắc tiếp theo, khi tầm nhìn của tôi bị lóa mắt bởi một luồng sáng chói lòa, mọi thứ đột ngột tối sầm lại.
 
@@ -194,7 +194,7 @@ Một tia laser với sức công phá vô cùng khủng khiếp.
 
 Nếu phải hứng chịu một đòn tấn công như thế, thì cả phân thân yếu ớt chẳng khác nào người thường của tôi lẫn Alpha—kẻ chỉ được bảo vệ bởi một lớp vảy mỏng—chắc chắn sẽ bị quét sạch trong vòng một nốt nhạc.
 
-But có lẽ vẫn còn may mắn là bức tượng yêu tinh đó không hề bắn về phía tôi—kẻ đang đứng ngoài rìa quảng trường chứng kiến toàn bộ sự việc—và bản thân bức tượng cũng không hề cử động để lao đến tấn công.
+Thế nhưng có lẽ vẫn còn may mắn là bức tượng yêu tinh đó không hề bắn về phía tôi—kẻ đang đứng ngoài rìa quảng trường chứng kiến toàn bộ sự việc—và bản thân bức tượng cũng không hề cử động để lao đến tấn công.
 
 “Hóa ra bức tượng đá đó... lại là một trụ súng tự động (turret) sao...?”
 
@@ -244,13 +244,13 @@ Thứ này có khi thuộc dạng thực thể bất khả chiến bại, hoặc
 
 “Thứ duy nhất có khả năng chống đỡ được đòn này có lẽ là 『Thánh Thiên Kết Giới』 của Sakura-chan, nhưng mà...”
 
-Tôi dĩ nhiên là không có ý định thử nghiệm kiểu đánh cược năm ăn năm thua này rồi. Bởi vì nếu thất bại, Sakura sẽ bị bốc hơi ngay lập tức.
+Tôi dĩ nhiên là không có ý định thử nghiệm kiểu đánh cược năm ăn năm thua này rồi. Bởi vì nếu thất bại, Sakura-chan sẽ bị bốc hơi ngay lập tức.
 
-Tuyệt đối không được để cho một nhân vật không thể thay thế phải gánh chịu rủi ro mất mạng (permadeath), đó chính là nguyên tắc sắt đá trong các trò chơi chiến thuật mô phỏng.
+Tuyệt đối không được để cho một nhân vật không thể thay thế phải gánh chịu rủi ro mất mạng vĩnh viễn (permadeath), đó chính là nguyên tắc sắt đá trong các trò chơi chiến thuật mô phỏng.
 
 “Ừm... Xem ra việc đột phá nơi này bằng phương pháp chính quy là điều bất khả thi rồi...”
 
-Độ khó của nó đã vượt xa cái tầm có thể giải quyết bằng việc nâng cấp trang bị rồi. Nếu bị cái tia sáng yêu tinh này bắn trúng trực diện, thì dù có là Tendou, Mei hay thậm chí là Liberta đi chăng nữa thì cũng chẳng có ai chịu đựng nổi đâu.
+Độ khó của nó đã vượt xa cái tầm có thể giải quyết bằng việc nâng cấp trang bị rồi. Nếu bị cái tia sáng yêu tinh này bắn trúng trực diện, thì dù có là Tendou, Mei-chan hay thậm chí là Liberta đi chăng nữa thì cũng chẳng có ai chịu đựng nổi đâu.
 
 Tốt nhất là nên chấp nhận rằng đây là loại cơ chế (gimmick) mà chúng tôi tuyệt đối không được phép đối đầu trực diện.
 
