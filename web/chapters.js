@@ -4,6 +4,7 @@ window.ALL_NOVELS = {
         "title": "Chu Thuat Su Dung Gia",
         "chapters": [
             {
+                "id": "ep_152",
                 "ep": 152,
                 "title": "chuong_152_ruong_kho_bau_dau_tien",
                 "content": `# Tập 152: Rương Kho Báu Đầu Tiên
@@ -293,6 +294,7 @@ Và rồi, trong sự hồi hộp tim đập thình thịch liên hồi, tôi vu
 Cứ như thế, tôi đã có được cây gậy ma thuật đầu tiên từ chiếc rương kho báu đầu tiên trong cuộc đời mình.`
             },
             {
+                "id": "ep_153",
                 "ep": 153,
                 "title": "chuong_153_mot_cuoc_song_moi_hoi_hop",
                 "content": `# Tập 153: Cuộc Sống Mới Hồi Hộp
@@ -638,6 +640,7 @@ Phải tự dặn lòng như thế thì tôi mới giữ được sự bình tĩ
 Tâm trí tôi dù mệt mỏi rã rời, nhưng nhìn Mei thích thú nằm trên chiếc võng làm bằng tóc đen dệt tỉ mỉ, tôi thấy mọi nỗ lực của mình đều xứng đáng.`
             },
             {
+                "id": "ep_154",
                 "ep": 154,
                 "title": "chuong_154_don_tap_kich_thu_hai",
                 "content": `# Tập 154: Đòn Tập Kích Thứ Hai
@@ -909,6 +912,7 @@ Vác theo con Ja-Ja đã bị trói chặt bằng tơ nhện của Arachne, chú
 Chỉ cần chuẩn bị thêm một chút nữa thôi, chúng tôi sẽ sớm lên đường.`
             },
             {
+                "id": "ep_155",
                 "ep": 155,
                 "title": "chuong_155_cay_cau",
                 "content": `# Tập 155: Cây Cầu
@@ -1226,6 +1230,7 @@ Thật sự quá đáng tiếc.
 Và thế là, kế hoạch chui qua hệ thống cống ngầm để qua mặt tay súng bắn tỉa siêu phàm chính thức được ấn định!`
             },
             {
+                "id": "ep_156",
                 "ep": 156,
                 "title": "chuong_156_tac_chien_vuot_song_1",
                 "content": `# Tập 156: Tác Chiến Vượt Sông (1)
@@ -1543,6 +1548,7 @@ Sau thí nghiệm vừa ngọt ngào vừa nguy hiểm này, tôi đã phần n�
 Để chắc ăn nhất, tôi cần phải chuẩn bị thêm một con bài tẩy dự phòng nữa. Nhưng liệu với năng lực hiện tại của mình, tôi còn có thể làm thêm được điều gì nữa đây?`
             },
             {
+                "id": "ep_157",
                 "ep": 157,
                 "title": "chuong_157_tac_chien_vuot_song_2",
                 "content": `# Tập 157: Tác Chiến Vượt Sông (2)
@@ -1960,6 +1966,7 @@ Rốt cuộc, tôi lại đẩy phần việc nguy hiểm nhất sang cho một 
 Bây giờ, việc duy nhất tôi cần làm là đặt trọn niềm tin vào sự thành công của kế hoạch, đặt trọn niềm tin vào sức mạnh phi thường của Mei, và nghênh chiến với 『Xạ Thủ』 Sakurai Touya!`
             },
             {
+                "id": "ep_158",
                 "ep": 158,
                 "title": "chuong_158_chu_thuat_su_vs_xa_thu",
                 "content": `# Tập 158: Chú Thuật Sư VS Xạ Thủ
@@ -2303,6 +2310,7 @@ Momokawa, cậu là kẻ quá mức nguy hiểm để có thể để cho sống
 Đối diện với cô gái đang mang gương mặt đằng đằng sát khí dữ tợn như ác quỷ vì tôi vừa “bắn chết” Momokawa, tôi kéo căng hết cỡ cây Hắc Giác Cung trong tay!`
             },
             {
+                "id": "ep_159",
                 "ep": 159,
                 "title": "chuong_159_cuong_chien_binh_vs_xa_thu",
                 "content": `# Tập 159: Cuồng Chiến Binh VS Xạ Thủ
@@ -2574,6 +2582,7 @@ Bởi vậy, trong ánh mắt cô không hề có một chút do dự.
 Lưỡi đao nguyền rủa vung lên dứt khoát, chém lìa cổ Sakurai Touya và chính thức tước đoạt đi hơi thở cuối cùng của chàng trai Xạ Thủ.`
             },
             {
+                "id": "ep_160",
                 "ep": 160,
                 "title": "chuong_160_thu_muon_bao_ve",
                 "content": `# Tập 160: Thứ Muốn Bảo Vệ
@@ -2929,6 +2938,7 @@ Túi ngủ à... Chắc là do Sakurai và Hinagiku tự tay may nên để làm
 Cảm giác như phút cuối cùng mình vừa bị Sakurai trả thù một vố đau điếng, tôi ngậm ngùi im lặng nhắm mắt chìm vào giấc ngủ.`
             },
             {
+                "id": "ep_161",
                 "ep": 161,
                 "title": "chuong_161_chinh_phuc_thi_tran_di_tich_1",
                 "content": `# Tập 161: Chinh Phục Thị Trấn Di Tích (1)
@@ -3256,6 +3266,7 @@ Và rồi, đòn phản công phun lửa bị dập tắt từ trong trứng nư
 Thu hoạch lớp giáp vảy, lông vũ cùng một viên Lõi Ma Vật có kích thước khá lớn, chúng tôi lại tiếp tục sải bước trên con đường xuyên qua thị trấn di tích.`
             },
             {
+                "id": "ep_162",
                 "ep": 162,
                 "title": "chuong_162_chinh_phuc_thi_tran_di_tich_2",
                 "content": `# Tập 162: Chinh Phục Thị Trấn Di Tích (2)
@@ -3547,6 +3558,7 @@ Bởi vậy, lọ Potion quý giá này... chúng tôi xin phép được nhận
 Như thế là đủ rồi. Chỉ cần như thế là quá đủ rồi.`
             },
             {
+                "id": "ep_163",
                 "ep": 163,
                 "title": "chuong_163_mon_qua",
                 "content": `# Tập 163: Món Quà
@@ -3796,6 +3808,7 @@ Dù sao đi nữa, bắt hai cô gái phải cầm những món vũ khí phế t
 Nhìn bộ dạng ưỡn ngực hất cằm đầy vẻ hống hách vô lý một cách khó hiểu của Kyouko, ngay cả một kẻ lạnh lùng ngạo nghễ như Ryuuichi cũng chỉ biết nở một nụ cười trừ bất lực.`
             },
             {
+                "id": "ep_164",
                 "ep": 164,
                 "title": "chuong_164_dai_boss",
                 "content": `# Tập 164: Đại Boss
@@ -4165,6 +4178,7 @@ Và rồi, con siêu đại quái thú vượt ra ngoài mọi quy chuẩn của
 “Mấy đứa tụi mày, lùi lại phía sau mau... Không, hãy chạy thục mạng quay về Quảng trường Yêu tinh ngay lập tức!”`
             },
             {
+                "id": "ep_165",
                 "ep": 165,
                 "title": "chuong_165_ooyama_daisuke",
                 "content": `# Tập 165: Ooyama Daisuke
@@ -4580,6 +4594,7 @@ Chính vì vậy, cuộc gặp gỡ định mệnh với chàng trai Judo dũng 
 Mãi đến ngày khai giảng ngập tràn cánh hoa anh đào bay tại Học viện Hakurei, khi tình cờ hội ngộ lại, tôi mới biết được tên của cậu ấy là **Sugino Takashi**, và hóa ra cậu ấy cũng là một thí sinh thi cùng khóa bằng tuổi với tôi.`
             },
             {
+                "id": "ep_166",
                 "ep": 166,
                 "title": "chuong_166_di_tich_boss_1",
                 "content": `# Tập 166 – Boss phố di tích (Phần 1)
@@ -4689,6 +4704,7 @@ Mãi đến ngày khai giảng ngập tràn cánh hoa anh đào bay tại Học 
 *Hạ trừ trùm sẽ tiếp tục trong Tập 166 – Phần 2.*`
             },
             {
+                "id": "ep_167",
                 "ep": 167,
                 "title": "chuong_167_boss_pho_di_tich_2",
                 "content": `# Tập 167: Boss Phố Di Tích (2)
@@ -4904,6 +4920,7 @@ Mei kìa, nước dãi rớt cả ra rồi kìa.
 Dù sao đi nữa, dù là bầu trời giả lập được trình chiếu, nhưng nó vẫn đồng bộ với thời gian thực tế trôi qua. Nhìn lại đồng hồ thì cũng đã hơn sáu giờ tối một chút. Dù chỉ là cảnh sắc nhân tạo, nhưng việc có thể ngắm nhìn bầu trời thay đổi theo thời gian như thế này, bản thân điều đó thôi cũng đã mang lại cảm giác vô cùng lành mạnh và khoan khoái rồi.`
             },
             {
+                "id": "ep_168",
                 "ep": 168,
                 "title": "chuong_168_nam_quoc_sinh_hoat",
                 "content": `# Tập 168: Cuộc Sống Vùng Nhiệt Đới
@@ -5185,6 +5202,7 @@ Tôi thì chắc chắn chịu chết rồi, nhưng nếu là Mei thì biết đ
 Trước mắt, chúng tôi chỉ cần đề cao cảnh giác với những ma vật bất thình lình phóng từ dưới biển lên bờ mà thôi. Bởi vì chỉ cần không bước chân xuống biển, thì dẫu dưới làn nước sâu kia có ẩn chứa những sinh vật nguy hiểm đến mức nào đi chăng nữa, chúng tôi vẫn có thể an toàn và chắc chắn đi vòng qua mặt chúng.`
             },
             {
+                "id": "ep_169",
                 "ep": 169,
                 "title": "chuong_169_xich_raptor",
                 "content": `# Tập 169: Xích Raptor
@@ -5566,6 +5584,7 @@ Dù Rem có thông minh đến đâu đi chăng nữa, khi đã trực tiếp x�
 Thu hồi nhanh những lõi ma lực cùng nguyên liệu cần thiết tối thiểu, chúng tôi nhanh chóng rời khỏi bãi cát nồng nặc mùi máu tanh tưởi này.`
             },
             {
+                "id": "ep_170",
                 "ep": 170,
                 "title": "chuong_170_dau_vet",
                 "content": `# Tập 170: Dấu Vết
@@ -5793,6 +5812,7 @@ Chỉ có điều, trong khách sạn này có tới ba chiếc Rương Kho Báu
 Dẫu biết chuyện đến trước lấy trước là quy luật hiển nhiên của tự nhiên, nhưng việc nhìn thấy những chiếc rương kho báu trống trơn trơ trọi thế này quả thực khiến trong lòng dấy lên một cảm giác cay cú và tiếc nuối vô cùng...`
             },
             {
+                "id": "ep_171",
                 "ep": 171,
                 "title": "chuong_171_ke_hoach_du_moi_lo_lieu",
                 "content": `# Tập 171: Kế Hoạch Dụ Mồi Lộ Liễu
@@ -6084,6 +6104,7 @@ Mọi thử nghiệm cần làm đều đã thực hiện và thu về kết qu�
 Và như thế, Kế hoạch Dụ mồi Số 2 lộ liễu đến mức không thể rõ ràng hơn — chính thức bắt đầu!`
             },
             {
+                "id": "ep_172",
                 "ep": 172,
                 "title": "chuong_172_ke_hoach_du_moi_so_2",
                 "content": `# Tập 172: Kế Hoạch Dụ Mồi Số 2
@@ -6337,6 +6358,7 @@ Phân thân tan biến thành sương khói, ý thức của tôi lập tức tr
 Một chiến thắng rực rỡ và hoàn hảo không tì vết!`
             },
             {
+                "id": "ep_173",
                 "ep": 173,
                 "title": "chuong_173_chiec_xe_moi_mau_do",
                 "content": `# Tập 173: Chiếc Xe Mới Màu Đỏ
@@ -6548,6 +6570,7 @@ Rốt cuộc, tôi quyết định tạm gác lại sự quyết tâm dứt kho�
 Để một cô gái như Mei phải nói tới mức ấy mà bản thân không thể tươi cười đáp lại: "Ừ, giết thôi!" thì trong tư cách một thằng đàn ông có vẻ hơi hèn nhát thật; thế nhưng tôi nghĩ, việc tự bảo vệ sự trong sạch cho tâm lý của chính bản thân mình cũng là một điều vô cùng quan trọng.`
             },
             {
+                "id": "ep_174",
                 "ep": 174,
                 "title": "chuong_174_nhiem_vu_giam_sat_am_anh",
                 "content": `# Tập 174: Nhiệm Vụ Giám Sát Ám Ảnh Tâm Lý
@@ -6777,6 +6800,7 @@ Có vẻ như, thời khắc quyết định cuối cùng đã điểm.
 “Nào... chúng ta xuất kích thôi!”`
             },
             {
+                "id": "ep_175",
                 "ep": 175,
                 "title": "chuong_175_cuoc_tap_kich_dau_tien",
                 "content": `# Tập 175: Cuộc Tập Kích Đầu Tiên
@@ -7060,6 +7084,7 @@ Cơn thịnh nộ càng mãnh liệt bao nhiêu thì tình yêu sâu đậm bấ
 Cơn cuồng nộ vũ bão của nàng Cuồng Chiến Binh va chạm nảy lửa với bức tường phòng thủ kiên cố của chàng Trọng Chiến Binh — một trận chiến sinh tử có gắn chiếc đồng hồ đếm ngược vô hình... chính thức bùng nổ dữ dội!`
             },
             {
+                "id": "ep_176",
                 "ep": 176,
                 "title": "chuong_176_chu_thuat_su_vs_hoa_ma_thuat_su_1",
                 "content": `# Tập 176: Chú Thuật Sư VS Hỏa Ma Thuật Sư (1)
@@ -7307,6 +7332,7 @@ Nếu nhiệt độ cứ tiếp tục tăng cao thế này, ý thức của tôi
 Aiza... làm sao bây giờ... Nguy to rồi, quả này bọn mình thực sự rơi vào thế bế tắc rồi sao...!?`
             },
             {
+                "id": "ep_177",
                 "ep": 177,
                 "title": "chuong_177_chu_thuat_su_vs_hoa_ma_thuat_su_2",
                 "content": `# Tập 177: Chú Thuật Sư VS Hỏa Ma Thuật Sư (2)
@@ -7668,6 +7694,7 @@ Là cảm giác ghê tởm đối với một kẻ cuối cùng vẫn giữ sạ
 Thế nhưng, câu nói năm xưa của Higuchi trước lúc chết: *“Mày sẽ phải hối hận đấy”* — đến tận giờ phút này, tôi dường như đã bắt đầu cảm nhận và thấu hiểu được một chút ý nghĩa cay đắng đằng sau lời nguyền rủa ấy rồi.`
             },
             {
+                "id": "ep_178",
                 "ep": 178,
                 "title": "chuong_178_huyet_nhuc_nong_bong",
                 "content": `# Tập 178: Huyết Nhục Nóng Bỏng
@@ -8049,6 +8076,7 @@ Bị hụt mất con mồi hằng ao ước ngay trước mũi, Yokomichi ứa n
 Những câu từ nghe như tiếng lòng thổn thức của một thiếu nữ đang yêu... thế nhưng khi được thốt ra từ cái miệng toác hoác của một con 『Thực Nhân Quỷ』 dị hợm như Yokomichi, nó chẳng khác nào tiếng gầm rú điên loạn của một con thú hoang tàn độc!`
             },
             {
+                "id": "ep_179",
                 "ep": 179,
                 "title": "chuong_179_hayama_ritsuki",
                 "content": `# Tập 179: Hayama Ritsuki
@@ -8463,6 +8491,7 @@ Ngoài việc bám đuôi đi cùng nó, tôi làm gì còn lựa chọn nào kh
 Và cứ như thế, tôi đã quyết định dấn thân vào chuyến hành trình phiêu lưu cùng với chú gấu biết nói tiếng người mang tên Kinako!`
             },
             {
+                "id": "ep_180",
                 "ep": 180,
                 "title": "chuong_180_ban_than_tai_ngo",
                 "content": `# Tập 180: Bạn Thân Tái Ngộ
@@ -8749,6 +8778,7 @@ Bình thường thì lúc nào cũng lười biếng uể oải, thế nhưng h�
 Thế nhưng một con Boss ma vật có thể khiến Ryuuichi phải thừa nhận bất lực thực sự khiến tôi vô cùng tò mò. Đằng nào thì nếu không tiêu diệt con Boss đó chúng tôi cũng chẳng thể tiến bước tiếp được, ngoài việc nghênh chiến ra làm gì còn con đường nào khác!`
             },
             {
+                "id": "ep_181",
                 "ep": 181,
                 "title": "chuong_181_ma_vat_sieu_cap_boss",
                 "content": `# Tập 181: Ma Vật Siêu Cấp Boss
@@ -9052,6 +9082,7 @@ Những câu hỏi ấy tạm thời chưa có lời giải đáp, luồng ánh 
 Và rồi... kẻ tiếp theo vừa bước qua cổng dịch chuyển để xuất hiện tại đây... chính là——`
             },
             {
+                "id": "ep_182",
                 "ep": 182,
                 "title": "chuong_182_chan_tuong_cua_con_dao",
                 "content": `# Tập 182: Chân Tướng Của Con Dao
@@ -9335,6 +9366,7 @@ Bởi vậy, ngay khoảnh khắc nhìn thấy con dao đẫm máu mà Kotarou n
 “Momokawa ấy... chẳng lẽ chính nó... đã TỰ TAY GIẾT CHẾT THẰNG HIGUCHI rồi sao!?”`
             },
             {
+                "id": "ep_183",
                 "ep": 183,
                 "title": "chuong_183_tap_ket_1",
                 "content": `# Tập 183: Tập Kết (1)
@@ -9653,6 +9685,7 @@ Kẻ bùng nổ cảm xúc còn dữ dội và mãnh liệt hơn cả cơn thị
 Dùng một tốc độ kinh hoàng lao vào ôm chầm lấy Kotarou rồi đè nghiến cậu ta xuống đất khóc nức nở trong niềm vui sướng nghẹn ngào của ngày trùng phùng — trước cảnh tượng dở khóc dở cười ấy, trong thoáng chốc, tất cả mọi người có mặt tại quảng trường chỉ biết đứng chết trân câm nín dõi nhìn!`
             },
             {
+                "id": "ep_184",
                 "ep": 184,
                 "title": "chuong_184_tap_ket_2",
                 "content": `# Tập 184: Tập Kết (2)
@@ -9944,6 +9977,7 @@ Dù sao thì trên danh nghĩa chúng tôi vẫn là những cô cậu học sin
 “Nào... chúng ta bắt đầu buổi sinh hoạt lớp (học cấp hội) thôi nhỉ!”`
             },
             {
+                "id": "ep_185",
                 "ep": 185,
                 "title": "chuong_185_hop_lop_1",
                 "content": `# Tập 185: Họp Lớp (1)
@@ -10273,6 +10307,7 @@ Lời nói dối nho nhỏ năm xưa tôi buột miệng thốt ra để giữ c
 Này... thật sự đấy... phen này tôi phải sống sao đây trời ơiiiiii...`
             },
             {
+                "id": "ep_186",
                 "ep": 186,
                 "title": "chuong_186_hop_lop_2",
                 "content": `# Tập 186: Họp Lớp (2)
@@ -10542,6 +10577,7 @@ Là kịch bản Boss mạnh đến mức không có cửa đánh sao! Càng đ�
 “Hả... Cái con quái vật rác rưởi (kuso-monster) gì mất dạy dữ vậy trời...!?”`
             },
             {
+                "id": "ep_187",
                 "ep": 187,
                 "title": "chuong_187_hop_lop_3",
                 "content": `# Tập 187: Họp Lớp (3)
@@ -10805,6 +10841,7 @@ Chính vì vậy, cả kẻ từng phạm tội lẫn những kẻ biết rõ t�
 “À thì... câu chuyện đó kể ra chắc sẽ hơi dài một chút đấy, mọi người chuẩn bị tinh thần thong thả lắng nghe nhé——”`
             },
             {
+                "id": "ep_188",
                 "ep": 188,
                 "title": "chuong_188_hop_lop_4",
                 "content": `# Tập 188: Họp Lớp (4)
@@ -11092,6 +11129,7 @@ Chính vì vậy, dẫu là một Kyouko từng tự hào tuyên bố đã cư�
 “Ừm... Chỉ cần cậu luôn đặt trọn niềm tin vào Kotarou-kun, mọi chuyện chắc chắn sẽ đều êm đẹp cả thôi!”`
             },
             {
+                "id": "ep_189",
                 "ep": 189,
                 "title": "chuong_189_hop_lop_5",
                 "content": `# Tập 189: Họp Lớp (5)
@@ -11435,6 +11473,7 @@ Và đó chính là kế hoạch mang tên: **CHIẾN THUẬT CƯỚP TÀI SẢN
 Bộ ba Jou-Chuu-Ge ơi, lũ chúng mày chính là những lá phiếu đồng minh sống còn của tao tại cái hội nghị này! Chính vì thế, dẫu Sakura có bảo tao đang dùng ngụy biện xảo ngôn đi chăng nữa, tao cũng sẽ bẻ cong sự thật để bào chữa cho chúng mày tới cùng——Cơ mà nếu thất bại thì tao xin lỗi trước nhé!`
             },
             {
+                "id": "ep_190",
                 "ep": 190,
                 "title": "chuong_190_hop_lop_6",
                 "content": `# Tập 190: Họp Lớp (6)
@@ -11803,6 +11842,7 @@ Và trên hết, bản thân tôi vẫn chưa được tận mắt chiêm ngư�
 Được Lớp trưởng gật đầu phê chuẩn rồi, nào, chúng ta cùng nhau đi diện kiến bộ mặt của Bát Kỳ Đại Xà thôi chứ còn chờ gì nữa!`
             },
             {
+                "id": "ep_191",
                 "ep": 191,
                 "title": "chuong_191_hoi_nghi_cong_pha_yamata_no_orochi",
                 "content": `# Tập 191: Hội Nghị Công Phá Yamata no Orochi
@@ -12092,6 +12132,7 @@ Gương mặt đanh lại cố tình làm ngơ trước sự châm chọc của 
 Phần thanh toán hóa đơn trông cậy hết vào ngài đấy nhé, Dũng Giả vĩ đại!`
             },
             {
+                "id": "ep_192",
                 "ep": 192,
                 "title": "chuong_192_ban_can_su_va_nhiem_vu_1",
                 "content": `# Tập 192: Ban Cán Sự Và Nhiệm Vụ (1)
@@ -12367,6 +12408,7 @@ Trước nụ cười tỏa nắng rạng ngời cùng bàn tay đưa ra ngỏ �
 Bởi vì ở cái Học Viện Tháp này lúc này... **LỆNH CẤM YÊU ĐƯƠNG** đang có hiệu lực tối thượng cơ mà!`
             },
             {
+                "id": "ep_193",
                 "ep": 193,
                 "title": "chuong_193_ban_can_su_va_nhiem_vu_2",
                 "content": `# Tập 193: Ban Cán Sự Và Nhiệm Vụ (2)
@@ -12604,6 +12646,7 @@ Xem chừng Randou-san cũng đang vô cùng tò mò về chân tướng thực 
 Nào Randou-san, cùng cố gắng hết sức nhé!`
             },
             {
+                "id": "ep_194",
                 "ep": 194,
                 "title": "chuong_194_cong_trinh_tho_moc",
                 "content": `# Tập 194: Công Trình Thổ Mộc
@@ -12865,6 +12908,7 @@ Và rồi...
 Mãi cho tới khi bóng tối bao trùm hoàn toàn khắp không gian, tôi mới té ngửa nhận ra một chân lý hiển nhiên: Giữa chốn hoang vu không một bóng đèn hay nguồn sáng thế này, đôi mắt người trần mắt thịt của tôi làm sao mà giám sát ban đêm cho được cơ chứ!`
             },
             {
+                "id": "ep_195",
                 "ep": 195,
                 "title": "chuong_195_dem_o_hoc_vien_thap",
                 "content": `# Tập 195: Đêm Ở Học Viện Tháp
@@ -13184,6 +13228,7 @@ Sự quan tâm chu đáo và thấu hiểu lòng người của một cô gái h
 Món quà quý giá này, tôi xin phép được trân trọng và tận tình sử dụng nhé!`
             },
             {
+                "id": "ep_196",
                 "ep": 196,
                 "title": "chuong_196_rerite_va_kinako",
                 "content": `# Tập 196: Rerite và Kinako
@@ -13534,6 +13579,7 @@ May quá, ra là một kẻ như tôi cũng có lúc sở hữu sức mạnh có
 Tôi khoác vai Kinako cười lớn, trong lòng dâng trào niềm biết ơn sâu sắc tới sức mạnh của 『Tinh Linh Thuật Sư』 và những tinh linh thảo mộc nhỏ bé kia.`
             },
             {
+                "id": "ep_197",
                 "ep": 197,
                 "title": "chuong_197_ke_hoach_kham_pha",
                 "content": `# Tập 197: Kế hoạch khám phá
@@ -13810,6 +13856,7 @@ Hừ, cái đồ có tiền án không thèm ném cho Mei lấy một cú Heal n
 “Để tin tưởng lẫn nhau, chúng ta cần phải chứng minh bằng hành động trong những trận chiến thực tế. Đêm nay mọi người hãy nghỉ ngơi thật tốt để ngày mai bắt đầu nhiệm vụ!”`
             },
             {
+                "id": "ep_198",
                 "ep": 198,
                 "title": "chuong_198_can_phong_mat_hoi",
                 "content": `# Tập 198: Căn phòng mật hội
@@ -14101,6 +14148,7 @@ Không ổn rồi, có lẽ tôi đã quá ưu tiên cái hình ảnh ma pháp c
 Rất tiếc cho cậu đấy Randou, nhưng một khi đã được ban tặng Thiên Chức 『Thổ Ma Thuật Sư』 thì cậu không thể trốn tránh được số mệnh tẻ nhạt đó đâu. Hãy từ bỏ ý định đi tắt đón đầu và kiên trì rèn luyện kỹ thuật xây dựng đi nào!`
             },
             {
+                "id": "ep_199",
                 "ep": 199,
                 "title": "chuong_199_doi_tham_hiem",
                 "content": `# Tập 199: Đội thám hiểm
@@ -14426,6 +14474,7 @@ Từ trước đến nay, ngoại trừ Airi ra thì Haruma chỉ mới nhìn th
 Phải chăng, bản thân cậu thực ra lại là một kẻ vô cùng yếu ớt?`
             },
             {
+                "id": "ep_200",
                 "ep": 200,
                 "title": "chuong_200_thanh_qua_tham_hiem",
                 "content": `# Tập 200: Thành quả thám hiểm
@@ -14711,6 +14760,7 @@ Cái đồ không biết nghe lời này thật là. Có khi tôi nên chế t�
 Còn về thái độ làm việc của Takanashi, có lẽ lần tới tôi phải đem ra thảo luận nghiêm túc với Lớp trưởng Nữ và Souma mới được.`
             },
             {
+                "id": "ep_201",
                 "ep": 201,
                 "title": "chuong_201_hom_thu_gop_y",
                 "content": `# Tập 201: Hòm thư góp ý
@@ -15150,6 +15200,7 @@ Nhìn Yamada đang siết chặt tay tôi đầy quyết tâm, tôi bỗng cảm
 Người vượt qua được nỗi đau từ cái chết của Yama-Jun không phải chỉ có mình tôi. Người bạn thân thiết nhất của cậu ấy, sau khi trải qua biến cố đau thương và nghiệt ngã đó, có lẽ chính là người đã trưởng thành nhiều nhất.`
             },
             {
+                "id": "ep_202",
                 "ep": 202,
                 "title": "chuong_202_tham_hiem_khu_vuc_sa_mac",
                 "content": `# Tập 202: Thám hiểm khu vực sa mạc
@@ -15495,6 +15546,7 @@ Con \`『Christaur』\` quay người lại, đôi mắt đỏ rực như hồng
 Và tiếng gầm đó chính là tiếng chuông báo hiệu trận chiến bắt đầu.`
             },
             {
+                "id": "ep_203",
                 "ep": 203,
                 "title": "chuong_203_quang_thach",
                 "content": `# Tập 203: Quang Thạch
@@ -15793,6 +15845,7 @@ Thế nhưng, khi nghĩ đến việc một Randou Kyouko vốn dĩ chẳng liê
 *...Cậu ta sở hữu một loại nguyền rủa có thể kéo người khác vào vòng xoáy chiến đấu hay sao?*`
             },
             {
+                "id": "ep_204",
                 "ep": 204,
                 "title": "chuong_204_bi_mat_cua_duong",
                 "content": `# Tập 204: Bí mật của đường
@@ -16150,6 +16203,7 @@ Tuy nhiên, nếu đó chỉ là một khu định cư nhỏ mà chúng tôi có
 Nhân cơ hội này, tiến hành điều tra về lũ Goma đang tràn lan ở khu vực Đảo Hoang Ven Biển này cũng là một ý kiến hay.`
             },
             {
+                "id": "ep_205",
                 "ep": 205,
                 "title": "chuong_205_lang_khai_hoang_cua_goma",
                 "content": `# Tập 205: Làng khai hoang của Goma
@@ -16609,6 +16663,7 @@ Thắc mắc cuối cùng đã được giải đáp, chuyến quan sát làng G
 Cảm ơn các bạn nhé. Đây thực sự là một ngôi làng thú vị. Nhờ vậy mà tối mai tôi có thể thẳng tay phóng hỏa thiêu rụi nơi này rồi.`
             },
             {
+                "id": "ep_206",
                 "ep": 206,
                 "title": "chuong_206_tham_kich",
                 "content": `# Tập 206: Thảm kịch
@@ -17176,6 +17231,7 @@ Sao cũng được, giết đi. Hãy giết tôi đi.
 Nào, mau giết đi. Giết tôi đi—!`
             },
             {
+                "id": "ep_207",
                 "ep": 207,
                 "title": "chuong_207_nhung_thu_cuop_doat_duoc",
                 "content": `# Tập 207: Những thứ cướp đoạt được
@@ -17473,6 +17529,7 @@ Tuy nhiên, trước mắt vốn từ cổ ngữ tôi có thể đọc được 
 Bởi vì, chỉ cần nhìn chằm chằm vào dãy ký tự cổ kỳ lạ này một lúc, cơn buồn ngủ đã bắt đầu kéo đến――`
             },
             {
+                "id": "ep_208",
                 "ep": 208,
                 "title": "chuong_208_ruou_1",
                 "content": `# Tập 208: Rượu (1)
@@ -17832,6 +17889,7 @@ Với vẻ mặt nửa mong chờ nửa ngập ngừng, Natsukawa vừa kề mô
 “— Dừng lại ở đó thôi, Momokawa-kun!”`
             },
             {
+                "id": "ep_209",
                 "ep": 209,
                 "title": "chuong_209_ruou_phan_2",
                 "content": `# Tập 209: Rượu (Phần 2)
@@ -18231,6 +18289,7 @@ Về cơ bản, rượu bia sẽ được kiểm soát chặt chẽ và không �
 Hóa ra trên đời này thực sự có người khi say rượu lại bộc phát tính cách dữ dội đến thế. Trải qua bài học lần này, tôi cảm thấy kỹ năng quản lý tập thể của mình lại được nâng lên một bậc.`
             },
             {
+                "id": "ep_210",
                 "ep": 210,
                 "title": "chuong_210_huan_luyen_1",
                 "content": `# Tập 210: Huấn luyện (1)
@@ -18522,6 +18581,7 @@ Lúc này mà để cô nàng Cuồng Chiến Binh xông vào thì lại mất t
 Và thế là, trận so tài kiếm thuật nhằm xác lập vai trò người hướng dẫn chính thức bắt đầu.`
             },
             {
+                "id": "ep_211",
                 "ep": 211,
                 "title": "chuong_211_ren_luyen_phan_2",
                 "content": `# Tập 211: Rèn luyện (Phần 2)
@@ -18867,6 +18927,7 @@ Dù sao đi nữa, năng suất của xưởng chế tạo chắc chắn sẽ đ
 Tôi cảm giác như lộ trình chuẩn bị trang bị để thảo phạt Yamata no Orochi cuối cùng cũng đã dần định hình rõ ràng hơn.`
             },
             {
+                "id": "ep_212",
                 "ep": 212,
                 "title": "chuong_212_thanh_qua_tu_luyen_1",
                 "content": `# Tập 212: Thành quả tu luyện (1)
@@ -19278,6 +19339,7 @@ Người đứng đó không phải là Himeno Airi, mà là Kenzaki Asuna.
 Dưới ánh sáng mờ ảo của bóng đêm, cậu ta có thể nhìn thấy rõ cô ấy đang mặc một bộ đồ ngủ mỏng manh, và đang lặng lẽ bước vào phòng của Souma Yuuto.`
             },
             {
+                "id": "ep_213",
                 "ep": 213,
                 "title": "chuong_213_thanh_qua_tu_luyen_2",
                 "content": `# Tập 213: Thành quả tu luyện (2)
@@ -19535,6 +19597,7 @@ Thế nhưng, ngay buổi chiều hôm đó, một tin đồn bất ngờ đã n
 Tha cho tôi đi mà, Shimokawa...`
             },
             {
+                "id": "ep_214",
                 "ep": 214,
                 "title": "chuong_214_vi_pham_noi_quy_yeu_duong",
                 "content": `# Tập 214: Vi phạm nội quy yêu đương
@@ -19770,6 +19833,7 @@ Trong việc điều phối tập thể, đi giải quyết từng khúc mắc c
 “Tôi coi như Souma-kun nợ tôi một lần đấy nhé.”`
             },
             {
+                "id": "ep_215",
                 "ep": 215,
                 "title": "chuong_215_cuoc_tro_chuyen_rieng",
                 "content": `# Tập 215: Cuộc trò chuyện riêng
@@ -20047,6 +20111,7 @@ Lớp trưởng khẽ thở dài đầy bất lực, đành đứng ra xin lỗi
 Nhìn Lớp trưởng bên cạnh chỉ biết lắc đầu cười trừ trước màn mặc cả của hai đứa tôi, tôi khẽ nhếch môi đắc thắng. Thế là trong tay tôi lại vừa thu nạp thêm một con tốt trinh sát đắc lực và tràn đầy nhiệt huyết cho những kế hoạch vơ vét tài nguyên sắp tới.`
             },
             {
+                "id": "ep_216",
                 "ep": 216,
                 "title": "chuong_216_ban_linh_cua_nhom_trung_kien",
                 "content": `# Tập 216: Bản lĩnh của nhóm trung kiên
@@ -20270,6 +20335,7 @@ Thứ tôi nhờ mọi người cất công săn bắt về chính là một con
 “Được rồi, chúng ta mau thu dọn đồ đạc để trở về tháp thôi nào. Mei-chan đang nướng mẻ bánh mì mới thơm phức đợi cả lớp đấy!”`
             },
             {
+                "id": "ep_217",
                 "ep": 217,
                 "title": "chuong_217_trang_bi_phong_thu",
                 "content": `# Tập 217: Trang bị phòng thủ
@@ -20465,6 +20531,7 @@ Trước câu trả lời thực tế của tôi, mọi người đều hiểu r
 “Vậy thì ngày mai, chúng ta sẽ bắt đầu đợt tiến công thăm dò đầu tiên.”`
             },
             {
+                "id": "ep_218",
                 "ep": 218,
                 "title": "chuong_218_rerite_va_tinh_linh_lua",
                 "content": `# Tập 218: Rerite và Tinh Linh Lửa
@@ -20708,6 +20775,7 @@ Hai đứa cùng ngồi bên đống lửa trại, vừa ăn vừa cười đùa
 Đúng vậy, đồ ăn ngon khi được sẻ chia cùng người bạn đồng hành chân thành bao giờ cũng mang lại hương vị trọn vẹn và ấm áp nhất.`
             },
             {
+                "id": "ep_219",
                 "ep": 219,
                 "title": "chuong_219_cuoc_dien_tap_tong_hop_1",
                 "content": `# Tập 219: Cuộc diễn tập tổng hợp (1)
@@ -20872,6 +20940,7 @@ Sau khi để mọi người nghỉ ngơi hồi phục thể lực, tôi tiếp 
 Kế hoạch từng bước áp sát và làm chủ chiến trường đang diễn ra vô cùng chuẩn xác theo đúng lộ trình dự tính của tôi.`
             },
             {
+                "id": "ep_220",
                 "ep": 220,
                 "title": "chuong_220_dien_tap_tong_hop_2",
                 "content": `# Tập 220: Diễn tập tổng hợp (2)
@@ -21141,6 +21210,7 @@ Bầy Gargoyle nhung nhúc còn lại lập tức ùa vào như một trận lũ
 Tại nơi đó, sau khi toàn thân bị bầy Gargoyle bao vây cắn xé và phanh thây thành từng mảnh, phân thân của tôi đã hoàn toàn tan biến trong bóng tối.`
             },
             {
+                "id": "ep_221",
                 "ep": 221,
                 "title": "chuong_221_thanh_qua_dien_tap",
                 "content": `# Tập 221: Thành quả diễn tập
@@ -21416,6 +21486,7 @@ Kích hoạt một nghi lễ kéo dài trên đỉnh núi đá... trong khi đó
 “Phương án này khả thi. Dù rất nhiều thách thức, nhưng chúng ta có thể tiêu diệt Yamata no Orochi bằng chiến thuật bài bản này.”`
             },
             {
+                "id": "ep_222",
                 "ep": 222,
                 "title": "chuong_222_phuong_an_tieu_diet_yamata_no_orochi",
                 "content": `# Tập 222: Phương án tiêu diệt Yamata no Orochi
@@ -21653,6 +21724,7 @@ Tôi hướng ánh mắt về phía cô gái tóc vàng đang đứng trầm m�
 “—Souma Sakura. Cậu chính là mảnh ghép quan trọng cuối cùng để hoàn thiện kế hoạch này.”`
             },
             {
+                "id": "ep_223",
                 "ep": 223,
                 "title": "chuong_223_ngon_thuong_phong_an",
                 "content": `# Tập 223: Ngọn thương phong ấn
@@ -21926,6 +21998,7 @@ Với lại, Himeno-san nhìn cảnh Nakajima-kun cứ bám lấy Kenzaki suốt
 Mọi công tác chuẩn bị nhân lực và trang bị cho chiến dịch phong ấn đang từng bước được tháo gỡ và hoàn thiện.`
             },
             {
+                "id": "ep_224",
                 "ep": 224,
                 "title": "chuong_224_giai_ma",
                 "content": `# Tập 224: Giải mã
@@ -22193,6 +22266,7 @@ Kế hoạch chuẩn bị cho trận quyết chiến với Yamata no Orochi đan
 *Rất mong các bạn sẽ tiếp tục ủng hộ "Chú thuật sư không thể trở thành Dũng Giả" trong năm tới!*`
             },
             {
+                "id": "ep_225",
                 "ep": 225,
                 "title": "chuong_225_van_de_long_tin",
                 "content": `# Tập 225: Vấn đề lòng tin
@@ -22426,6 +22500,7 @@ Giờ là lúc bước vào giai đoạn chuẩn bị trang bị cuối cùng tr
 *Năm nay cũng xin mọi người tiếp tục ủng hộ tác phẩm "Chú thuật sư không thể trở thành Dũng Giả".*`
             },
             {
+                "id": "ep_226",
                 "ep": 226,
                 "title": "chuong_226_nguyen_lieu_ma_vat_quy_hiem",
                 "content": `# Tập 226: Nguyên liệu ma vật quý hiếm
@@ -22697,6 +22772,7 @@ Mọi công tác chuẩn bị nguyên liệu và trang bị ma pháp đang bư�
 Thời điểm diễn ra chiến dịch quyết định thảo phạt Yamata no Orochi đang đến rất gần.`
             },
             {
+                "id": "ep_227",
                 "ep": 227,
                 "title": "chuong_227_dem_truoc_quyet_chien",
                 "content": `# Tập 227: Đêm trước quyết chiến
@@ -23210,6 +23286,7 @@ Kế hoạch tiêu diệt Yamata no Orochi của Kotarou vẫn giữ nguyên kh�
 Quyết tâm đã định—— thế nhưng, trong lòng hai anh em họ vẫn không thể xóa nhòa một tia nghi hoặc mơ hồ.`
             },
             {
+                "id": "ep_228",
                 "ep": 228,
                 "title": "chuong_228_rerite_va_nhung_tinh_linh_khac_nhau_1",
                 "content": `# Tập 228: Rerite và những Tinh Linh khác nhau (1)
@@ -23517,6 +23594,7 @@ Những Tinh Linh Thảo Mộc tí hon lập tức tỏa ra ánh sáng xanh lá 
 Tôi nhẹ nhàng áp những phiến lá thuốc đang phát sáng ấm áp lên vết thương ở chân sau của chú chó nhỏ, bắt đầu quá trình trị liệu dịu dàng.`
             },
             {
+                "id": "ep_229",
                 "ep": 229,
                 "title": "chuong_229_rerite_va_nhung_tinh_linh_khac_2",
                 "content": `# Tập 229: Rerite và những Tinh Linh khác (2)
@@ -23912,6 +23990,7 @@ Và khi ánh sáng tan biến, một bóng người quen thuộc bước ra từ
 “A, cậu là—”`
             },
             {
+                "id": "ep_230",
                 "ep": 230,
                 "title": "chuong_230_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_mot",
                 "content": `# Tập 230: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn một
@@ -24273,6 +24352,7 @@ Chúng tôi tuyệt đối không được để những cái đầu khác của
 Và giờ đây, đội đột kích phá hủy lõi của chúng tôi cũng đã đến lúc phải xuất kích.`
             },
             {
+                "id": "ep_231",
                 "ep": 231,
                 "title": "chuong_231_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_hai",
                 "content": `# Tập 231: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn hai
@@ -24576,6 +24656,7 @@ Chính vì vậy, để ít nhất có thể vô hiệu hóa và đánh lừa kh
 Ẩn mình trong làn sương ấm áp mờ mịt, đội cảm tử chúng tôi lặng lẽ cất bước, tiến sâu dọc theo chiến hào hướng thẳng về phía ngọn núi đá tử thần.`
             },
             {
+                "id": "ep_232",
                 "ep": 232,
                 "title": "chuong_232_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_ba",
                 "content": `# Tập 232: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn ba
@@ -24943,6 +25024,7 @@ Sự tự tin và nỗi lo lắng chia đều mỗi bên một nửa. Không, th
 Nào, giai đoạn bốn của chiến dịch tiêu diệt Yamata no Orochi — giai đoạn kéo dài và cam go nhất — chính thức bắt đầu.`
             },
             {
+                "id": "ep_233",
                 "ep": 233,
                 "title": "chuong_233_chien_dich_thao_phat_yamata_no_orochi_giai_doan_bon",
                 "content": `# Tập 233: Chiến dịch thảo phạt Yamata no Orochi - Giai đoạn bốn
@@ -25242,6 +25324,7 @@ Sau một hồi chuông dài đến phát ngấy, Kotori mới miễn cưỡng c
 “Mồ, Kotori đang bận lắm đấy nhé, đừng có gọi điện vô ích nữa, Momokawa-kun!”`
             },
             {
+                "id": "ep_234",
                 "ep": 234,
                 "title": "chuong_234_chien_dich_thao_phat_yamata_no_orochi_giai_doan_5",
                 "content": `# Tập 234: Chiến dịch thảo phạt Yamata no Orochi - Giai đoạn 5
@@ -25561,6 +25644,7 @@ Và rồi, độ sâu đạt được ngay sau khi thuật thức kích hoạt l
 “Chỉ mới xuyên qua được khoảng một mét thôi sao... Khốn kiếp, chặng đường đục thủng lớp vỏ này xem ra còn dài lắm đây...”`
             },
             {
+                "id": "ep_235",
                 "ep": 235,
                 "title": "chuong_235_chien_dich_thao_phat_yamata_no_orochi_bien_co_bat_ngo",
                 "content": `# Tập 235: Chiến dịch thảo phạt Yamata no Orochi - Biến cố bất ngờ
@@ -25918,6 +26002,7 @@ Ba cột sáng rực rỡ sừng sững chọc thủng tầng mây như một th
 Phong ấn ba đầu rắn phía Đông đã hoàn toàn bị phá vỡ!`
             },
             {
+                "id": "ep_236",
                 "ep": 236,
                 "title": "chuong_236_tran_chien_chinh_phat_yamata_no_orochi_sup_do",
                 "content": `# Tập 236: Trận chiến chinh phạt Yamata no Orochi - Sụp đổ
@@ -26307,6 +26392,7 @@ Khi Asuna ngước nhìn lên một lần nữa, đập vào mắt cô là cái 
 Ngay sau tiếng thét thất thanh đến xé toạc lồng ngực của Yuuto, luồng hơi thở hủy diệt đỏ rực như máu rít gào, phóng thẳng về phía Kenzaki Asuna đang đứng chôn chân trong tuyệt vọng.`
             },
             {
+                "id": "ep_237",
                 "ep": 237,
                 "title": "chuong_237_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_cuoi_1",
                 "content": `# Tập 237: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn cuối (1)
@@ -26718,6 +26804,7 @@ Giờ chỉ việc bám vào dây thừng để phóng ra khỏi cái hố này,
 Thắng rồi, chúng tôi thực sự thắng rồi. Cuối cùng thì chúng tôi cũng đã đánh bại được Yamata no Orochi—`
             },
             {
+                "id": "ep_238",
                 "ep": 238,
                 "title": "chuong_238_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_cuoi_2",
                 "content": `# Tập 238: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn cuối (2)
@@ -27137,6 +27224,7 @@ Mau chóng kết liễu xong cái của nợ này rồi bình an trở về thô
 “Để tôi tặng cho con Boss dai như đỉa này một đòn tiễn vong cuối cùng vậy.”`
             },
             {
+                "id": "ep_239",
                 "ep": 239,
                 "title": "chuong_239_chien_dich_tieu_diet_yamata_no_orochi_giai_doan_cuoi_3",
                 "content": `# Tập 239: Chiến dịch tiêu diệt Yamata no Orochi - Giai đoạn cuối (3)
@@ -27502,6 +27590,7 @@ Cứ như thế, vị anh hùng của lớp 2-7 đã khải hoàn trở về.
 *(Và thế là, cuối cùng họ cũng đã tiêu diệt được Raid Boss Yamata no Orochi, nhưng chương sau vẫn chưa phải là chương cuối cùng đâu... Câu chuyện vẫn sẽ tiếp diễn, xin hãy đón chờ vào tuần sau nhé!)*`
             },
             {
+                "id": "ep_240",
                 "ep": 240,
                 "title": "chuong_240_ba_nguoi_duoc_chon",
                 "content": `# Tập 240: Ba người được chọn
@@ -27955,6 +28044,7 @@ Tôi thực sự rất vui vì mọi người đã thấu hiểu và đồng thu
 Giờ thì, bữa tiệc mừng chiến thắng vào ngày mai có thể diễn ra một cách trọn vẹn và vui vẻ nhất rồi!`
             },
             {
+                "id": "ep_241",
                 "ep": 241,
                 "title": "chuong_241_nang_ly_chuc_mung",
                 "content": `# Tập 241: Nâng ly chúc mừng
@@ -28360,6 +28450,7 @@ Hắn ta vừa nhìn ngắm những người bạn cùng lớp đang quằn qu�
 *Chúc cho tất cả các độc giả sẽ có những khoảng thời gian vui vẻ và an toàn.*`
             },
             {
+                "id": "ep_242",
                 "ep": 242,
                 "title": "chuong_242_ke_phan_boi_1",
                 "content": `# Tập 242: Kẻ phản bội (1)
@@ -28761,6 +28852,7 @@ Takanashi nhìn tôi bằng ánh mắt khinh miệt và ghê tởm tột cùng, 
 “—Chú thuật sư không thể trở thành Dũng Giả đâu.”`
             },
             {
+                "id": "ep_243",
                 "ep": 243,
                 "title": "chuong_243_ke_phan_boi_2",
                 "content": `# Tập 243: Kẻ phản bội (2)
@@ -29162,6 +29254,7 @@ Chờ đợi đúng thời khắc cô ta mở toang cánh cửa này ra một l�
 Ngay khoảnh khắc cánh cửa vừa hé ra một khe hở, tôi gào thét hết cỡ bình sinh rồi cắm đầu lao thục mạng ra phía cầu thang.`
             },
             {
+                "id": "ep_244",
                 "ep": 244,
                 "title": "chuong_244_ke_phan_boi_3",
                 "content": `# Tập 244: Kẻ phản bội (3)
@@ -29577,6 +29670,7 @@ Trong đôi mắt tròn xoe của cô ta lúc này không phải là sự phẫn
 “— Takanashi Kotori, cô chắc chắn sẽ bị tôi nguyền rủa cho đến chết.”`
             },
             {
+                "id": "ep_245",
                 "ep": 245,
                 "title": "chuong_245_hoi_ngo_ban_hoc_1",
                 "content": `# Tập 245: Hội ngộ bạn học (1)
@@ -29874,6 +29968,7 @@ Hừm, ra vậy, đúng là phong thái của bậc tiền bối với ba tháng
 Để xem tài nghệ nấu nướng của Momokawa đỉnh đến đâu nào. *Ọt ọt...*`
             },
             {
+                "id": "ep_246",
                 "ep": 246,
                 "title": "chuong_246_tai_ngo_ban_hoc_2",
                 "content": `# Tập 246: Tái ngộ bạn học (2)
@@ -30279,6 +30374,7 @@ Nghĩ bụng như vậy, tôi bèn sải bước vượt qua Momokawa, ghé sát
 “……Có người thật này.”`
             },
             {
+                "id": "ep_247",
                 "ep": 247,
                 "title": "chuong_247_takanashi_kotori",
                 "content": `# Tập 247: Takanashi Kotori
@@ -30704,6 +30800,7 @@ Với tư cách là một 『Hiền Giả』, một sứ giả chân chính củ
 Takanashi Kotori lại đeo lên khuôn mặt chiếc mặt nạ nụ cười ngây thơ vô số tội, tiếp tục sắm trọn vai diễn búp bê thánh thiện của mình.`
             },
             {
+                "id": "ep_248",
                 "ep": 248,
                 "title": "chuong_248_ai_do",
                 "content": `# Tập 248: Có ai đó
@@ -31195,6 +31292,7 @@ Cơ mà này người anh em, cậu đi ngược hướng rồi đấy.
 Randou vừa bế bồng Rem vừa bật cười nói một câu đầy thấu hiểu như thế.`
             },
             {
+                "id": "ep_249",
                 "ep": 249,
                 "title": "chuong_249_nhom_dao_thai_1",
                 "content": `# Tập 249: Nhóm đào thải (1)
@@ -31494,6 +31592,7 @@ Hayama lẩm bẩm với vẻ mặt khá là nghiêm trọng.
 Trước mắt, việc giải quyết vấn đề "kẻ ngoài cuộc" của Hayama sẽ tùy thuộc vào thành quả thu hoạch lần này vậy.`
             },
             {
+                "id": "ep_250",
                 "ep": 250,
                 "title": "chuong_250_nhom_roi_cuoc_2",
                 "content": `# Tập 250: Nhóm Rời Cuộc (2)
@@ -31801,6 +31900,7 @@ Không, người phải ngượng chín mặt đến bốc hỏa lúc này đán
 Ơ, khoan đã nào. Chẳng lẽ bầu không khí giữa hai đứa thực sự đang chuyển biến theo chiều hướng lãng mạn chết người sao? Không xong rồi, thế này thì nguy hiểm đến tính mạng mất... Áaaa, đầu óc tôi sắp sửa nổ tung và tan chảy hoàn toàn vì bị kẹp cứng ngắc giữa khe ngực đồ sộ của Randou mất rồi...!`
             },
             {
+                "id": "ep_251",
                 "ep": 251,
                 "title": "chuong_251_khu_vuc_khoi_dau_hoai_niem",
                 "content": `# Tập 251: Khu vực khởi đầu hoài niệm
@@ -32182,6 +32282,7 @@ Tôi tự đắc vận dụng vốn tri thức cổ ngữ đáng tự hào—th�
 “Ồ, ngon lành rồi, nó bắt đầu phản ứng rồi này! Để xem nào, rốt cuộc thì công năng của thứ đồ chơi này là——”`
             },
             {
+                "id": "ep_252",
                 "ep": 252,
                 "title": "chuong_252_chuyen_huong",
                 "content": `# Tập 252: Chuyển hướng
@@ -32567,6 +32668,7 @@ Gặp được Loyrops ở một nơi thế này quả là may mắn. Việc ti�
 “Không cần để tâm quá đâu. Tôi nghĩ một người biết thành thật nhận lỗi như cậu là rất đáng quý rồi.”`
             },
             {
+                "id": "ep_253",
                 "ep": 253,
                 "title": "chuong_253_danh_ba_hoc_sinh_lop_2_7_hoc_vien_hakurei_phan_5",
                 "content": `# Danh bạ học sinh Lớp 2-7 Học viện Hakurei (Phần 5)
@@ -32648,6 +32750,7 @@ Dưới đây là danh sách cập nhật Thiên Chức, nguyên nhân tử vong
 * **Số thứ tự 49: CÒN SỐNG** — Randou Kyouko 『Thổ Ma Thuật Sư』`
             },
             {
+                "id": "ep_253",
                 "ep": 253,
                 "title": "chuong_253_ac_linh_1",
                 "content": `# Tập 253: Ác Linh (1)
@@ -32977,6 +33080,7 @@ Tôi nghĩ đó là cách sử dụng hợp lý nhất rồi mà. Có lẽ Hayam
 Dù sao thì, nhanh chóng bắt tay vào xây dựng căn cứ tạm thời thôi. Lần này, có lẽ tôi nên dựng thêm cả tường phòng thủ để đề phòng trường hợp một con Loyrops khác đột ngột lao ra tấn công.`
             },
             {
+                "id": "ep_254",
                 "ep": 254,
                 "title": "chuong_254_da_vai_ngay_troi_qua_ke_tu_khi_chung_toi_dung_can_cu_duoi_chan_nui",
                 "content": `Đã vài ngày trôi qua kể từ khi chúng tôi dựng căn cứ dưới chân núi.
@@ -33382,6 +33486,7 @@ Con Grimgoa vừa chạy trốn kia rồi cũng sẽ sớm trở lại trạng t
 Cơ mà, dù đây là một cuộc tập kích hoàn toàn nằm ngoài dự tính... nhưng chúng tôi lại thu hoạch được hai cái xác Grimgoa tươi nguyên mà không hề tốn một giọt mồ hôi hay chịu bất kỳ tổn thất nào. Xét về mặt thu chi thì đây quả là một món hời lớn. Lần này may mắn thật đấy.`
             },
             {
+                "id": "ep_255",
                 "ep": 255,
                 "title": "chuong_255_vuot_nui_1",
                 "content": `# Tập 255: Vượt núi (1)
@@ -33737,6 +33842,7 @@ Trông em ấy giống hệt một học sinh tiểu học, vô cùng đáng yê
 Thay đổi trang bị xong xuôi, chúng tôi hướng về phía đỉnh núi và xuất phát.`
             },
             {
+                "id": "ep_256",
                 "ep": 256,
                 "title": "chuong_256_vuot_nui_2",
                 "content": `# Tập 256: Vượt núi (2)
@@ -34094,6 +34200,7 @@ Một trận bão tuyết trắng xóa gào rú điên cuồng, thổi thốc th
 “Uầy... hóa ra đây là một khu vực băng tuyết à...”`
             },
             {
+                "id": "ep_257",
                 "ep": 257,
                 "title": "chuong_257_thi_tran_bang_gia_1",
                 "content": `# Tập 257: Thị trấn băng giá (1)
@@ -34417,6 +34524,7 @@ Dù sao đi nữa, mục tiêu sống còn của ngày hôm nay đã hoàn thàn
 Thế nhưng, dù chưa trải qua một trận đại chiến sinh tử nào ra trò mà cả nhóm đã kiệt sức đến mức này. Để chinh phục được toàn bộ khu vực tuyết giá băng này, chặng đường chông gai phía trước chắc chắn vẫn còn vô vàn thử thách khắc nghiệt...`
             },
             {
+                "id": "ep_258",
                 "ep": 258,
                 "title": "chuong_258_thi_tran_bang_gia_2",
                 "content": `# Tập 258: Thị trấn băng giá (2)
@@ -34718,6 +34826,7 @@ Mà tôi cứ nghĩ giữa chó đỏ và Sói Tro Tuyết có sự khác biệt
 Vừa nghĩ ngợi vẩn vơ, chúng tôi vừa thong thả rảo bước hướng về phía khu rừng trải dài bên ngoài thị trấn.`
             },
             {
+                "id": "ep_259",
                 "ep": 259,
                 "title": "chuong_259_thi_tran_bang_gia_3",
                 "content": `# Tập 259: Thị trấn băng giá (3)
@@ -34967,6 +35076,7 @@ Không cần nguyên liệu xác ma vật, chỉ cần có Lõi là có thể t�
 Vậy là mọi sự chuẩn bị cần thiết đã hoàn tất một cách mỹ mãn. Sau khi dành cả ngày mai để nghỉ ngơi hồi sức, chúng tôi sẽ chính thức bắt đầu hành động để chinh phục con Boss của khu vực này.`
             },
             {
+                "id": "ep_260",
                 "ep": 260,
                 "title": "chuong_260_tu_duoi_day_lan_nuoc_bang_gia",
                 "content": `# Tập 260: Từ dưới đáy làn nước băng giá
@@ -35336,6 +35446,7 @@ Một sự hiện diện khủng khiếp đè nặng lên không gian mà ngay c
 “——— Kotarou cưng ơi, tớ tìm thấy cậu rồi nhé.”`
             },
             {
+                "id": "ep_261",
                 "ep": 261,
                 "title": "chuong_261_quai_thu_gao_thet_tinh_yeu",
                 "content": `# Tập 261: Quái thú gào thét tình yêu
@@ -35619,6 +35730,7 @@ Tôi bắt buộc phải tiêu diệt Yokomichi. Đứng trước một con quá
 Được rồi, quyết tâm đã định. Trận chiến tiêu diệt quái thú Yokomichi, chơi luôn!`
             },
             {
+                "id": "ep_262",
                 "ep": 262,
                 "title": "chuong_262_chien_dich_tieu_diet_yokomichi_1",
                 "content": `# Tập 262: Chiến dịch tiêu diệt Yokomichi (1)
@@ -35968,6 +36080,7 @@ Kẻ thù của kẻ thù là bạn, người xưa dạy cấm có sai bao giờ
 Vậy nên, tôi cũng sẽ dốc lòng dốc sức hỗ trợ hết mình từ xa, các bạn Goma hãy chiến đấu kiên cường cho đến giọt máu cuối cùng nhé.`
             },
             {
+                "id": "ep_263",
                 "ep": 263,
                 "title": "chuong_263_chien_dich_thao_phat_yokomichi_2",
                 "content": `# Tập 263: Chiến dịch thảo phạt Yokomichi (2)
@@ -36331,6 +36444,7 @@ Dù đây chỉ là phân thân, tôi cũng chẳng hề muốn bị nuốt ch�
 Vừa dứt lời, tôi lập tức kích nổ kíp lựu đạn giấu sẵn trong túi áo.`
             },
             {
+                "id": "ep_264",
                 "ep": 264,
                 "title": "chuong_264_chien_dich_tieu_diet_yokomichi_3",
                 "content": `# Tập 264: Chiến dịch tiêu diệt Yokomichi (3)
@@ -36682,6 +36796,7 @@ Một nhát chém từ thanh kiếm bọ ngựa kia làm sao có thể cản n�
 Tôi chỉ biết đứng trơ mắt nhìn khoảnh khắc va chạm tuyệt vọng đó xảy ra ———`
             },
             {
+                "id": "ep_265",
                 "ep": 265,
                 "title": "chuong_265_toi_da_nghi_minh_chet_chac_roi",
                 "content": `Tôi đã nghĩ mình chết chắc rồi.
@@ -37031,6 +37146,7 @@ Chỉ kịp để lại lời xin lỗi, Hayama đổ gục xuống đất.
 Cậu ấy đã ngất đi mất rồi...`
             },
             {
+                "id": "ep_266",
                 "ep": 266,
                 "title": "chuong_266_chu_thuat_su_vs_thuc_nhan_quy_1",
                 "content": `# Tập 266: Chú thuật sư VS Thực nhân quỷ (1)
@@ -37326,6 +37442,7 @@ Bởi vậy, Yokomichi đã hoàn toàn sập bẫy. Bị tóm gọn một cách
 Bị nuốt trọn trong luồng ánh sáng trắng xóa rực rỡ, Yokomichi cuối cùng mới bàng hoàng nhận ra rằng nơi mình đang đứng chôn chân chính là tâm điểm của một ma pháp trận dịch chuyển.`
             },
             {
+                "id": "ep_267",
                 "ep": 267,
                 "title": "chuong_267_chu_thuat_su_vs_thuc_nhan_quy_2",
                 "content": `# Tập 267: Chú thuật sư VS Thực nhân quỷ (2)
@@ -37651,6 +37768,7 @@ Tôi đến lúc này mới buông tay ra... và lặng lẽ đứng nhìn cái 
 『Đầu Lâu Của Thực Nhân Quỷ』: Đầu lâu của quyến thuộc 『Thực Nhân Quỷ』. Đó là cái đầu của loài quỷ gớm ghiếc. Minh chứng cho việc tiêu diệt kẻ ăn thịt người, tàn tích của sự phàm ăn và tham lam vô độ. Hỡi kẻ sở hữu, chớ có chìm đắm trong dục vọng. Cái đầu này cho đến nay vẫn bị giam cầm trong cơn đói khát vô tận.`
             },
             {
+                "id": "ep_268",
                 "ep": 268,
                 "title": "chuong_268_vi_vua_bi_truc_xuat",
                 "content": `# Tập 268: Vị Vua bị trục xuất
@@ -38045,6 +38163,7 @@ Có vẻ nhiều độc giả nghĩ rằng Yokomichi bằng cách nào đó sẽ
 Hẹn gặp lại các bạn ở chương tiếp theo!`
             },
             {
+                "id": "ep_269",
                 "ep": 269,
                 "title": "chuong_269_tien_xuong_tang_sau_nhat_1",
                 "content": `# Tập 269: Tiến xuống tầng sâu nhất (1)
@@ -38372,6 +38491,7 @@ Cho dù có bất kỳ trở ngại nào ngáng đường đi chăng nữa, tôi
 Bởi vì tôi tin rằng, đó chính là sứ mệnh của bản thân—người được ban tặng thiên chức 『Dũng Giả』.`
             },
             {
+                "id": "ep_270",
                 "ep": 270,
                 "title": "chuong_270_tien_xuong_tang_sau_nhat_2",
                 "content": `# Tập 270: Tiến xuống tầng sâu nhất (2)
@@ -38669,6 +38789,7 @@ Shimokawa hiểu rằng cậu có thể bắt chước Kotarou, nhưng không th
 Và thế là, ba người họ siết chặt tay nhau, thắt chặt thêm sợi dây liên kết bền chặt của bộ ba.`
             },
             {
+                "id": "ep_270",
                 "ep": 270,
                 "title": "chuong_270_chuong_270_toi_tang_sau_nhat_2",
                 "content": `**Chương 270: Tới tầng sâu nhất (2)**
@@ -38966,6 +39087,7 @@ Shimokawa hiểu rất rõ rằng mình có thể bắt chước Kotarou đôi c
 Nói rồi, ba người họ siết chặt tay nhau thật mạnh, mối gắn kết của bộ ba lại càng thêm phần thắt chặt.`
             },
             {
+                "id": "ep_271",
                 "ep": 271,
                 "title": "chuong_271_tien_xuong_tang_sau_nhat_3",
                 "content": `# Tập 271: Tiến xuống tầng sâu nhất (3)
@@ -39273,6 +39395,7 @@ Goma vốn là loài sinh vật ma vật hoang dã. Chính vì chúng hoàn toà
 Một biến số chí mạng hoàn toàn nằm ngoài mọi kịch bản dự tính lại bất thình lình dựng đứng trước mặt vị 『Hiền Giả』 mang sứ mệnh của Thần linh. Và kẻ đứng sau biến số ngáng đường ấy, trớ trêu thay, lại chính là chủng tộc quái vật hoang dã mà bọn họ đã phải chạm trán và tàn sát ròng rã suốt từ những ngày đầu tiên đặt chân đến thế giới này — tộc Goma.`
             },
             {
+                "id": "ep_272",
                 "ep": 272,
                 "title": "chuong_272_tranh_luan_chia_re_1",
                 "content": `# Tập 272: Tranh luận chia rẽ (1)
@@ -39544,6 +39667,7 @@ Tuy nhiên, nếu cô ta cố tình can thiệp quá mức để rồi bị cả
 Trước câu nói châm chọc đầy thừa thãi của Shimokawa, sự chịu đựng của Asuna cuối cùng đã vượt quá giới hạn — và kết quả là, cô đã ném thêm một quả bom nguyên tử hoàn toàn mới vào giữa cuộc họp lớp.`
             },
             {
+                "id": "ep_273",
                 "ep": 273,
                 "title": "chuong_273_tranh_luan_chia_re_2",
                 "content": `# Tập 273: Tranh luận chia rẽ (2)
@@ -39915,6 +40039,7 @@ Khi Kotori mỉm cười vẫy tay, bóng dáng của nam sinh mang tên Shimoka
 \`『Thiên Phạt Hình Pháp Điều 4 - Trục Xuất Hình』\`: Đó là sự phán xét của thiên giới. Không một ai được phép trốn thoát—Việc thi hành thiên phạt chủ yếu do thiên sứ đảm nhận—Việc lựa chọn nơi trục xuất, để đảm bảo kẻ đó không bao giờ có thể quay trở lại, là một vùng đất ma quỷ nơi cái chết được định sẵn—Vì vậy, kẻ trên đây sẽ bị xử phạt trục xuất theo Điều 4 của Thiên Phạt Hình Pháp.`
             },
             {
+                "id": "ep_274",
                 "ep": 274,
                 "title": "chuong_274_zagan",
                 "content": `# Tập 274: Zagan
@@ -40062,6 +40187,7 @@ Dẫn đầu là Trọng Chiến Binh Yamada, theo sau là Ueta và Nakai, cả 
 Trong những trận chiến đòi hỏi sự quyết đoán nhanh chóng, hiếm khi có ai lên tiếng phản đối. Họ không hề tranh cãi như trong các buổi họp lớp, mà hoàn toàn tuân theo sự chỉ huy của tôi.`
             },
             {
+                "id": "ep_275",
                 "ep": 275,
                 "title": "chuong_275_sup_do_1",
                 "content": `# Tập 275: Sụp đổ (1)
@@ -40393,6 +40519,7 @@ Himeno hoảng loạn xua tay thanh minh với gương mặt cắt không còn m
 Ngay từ phần trán trắng trẻo, hai chiếc sừng nhọn hoắt đen nhánh như của loài quỷ dữ đang từ từ nhô lên.`
             },
             {
+                "id": "ep_276",
                 "ep": 276,
                 "title": "chuong_276_su_sup_do_2",
                 "content": `# Tập 276: Sự Sụp Đổ (2)
@@ -40788,6 +40915,7 @@ Thực chất, trong thâm tâm tôi hiểu rất rõ. Không, chẳng phải t�
 Asuna, cô lại một lần nữa... đối với chính những người đồng đội của mình—`
             },
             {
+                "id": "ep_277",
                 "ep": 277,
                 "title": "chuong_277_su_lien_ket_noi_day_vuc",
                 "content": `# Tập 277: Mối liên kết nơi đáy vực
@@ -41157,6 +41285,7 @@ Thế nhưng nếu người đó là Momokawa Kotarou, kỳ lạ thay, trong th�
 “Trước mắt, hãy tìm cách thoát khỏi nơi này đã. Nếu đúng như lời Takanashi từng nói, tầng sâu nhất này là một khu vực khép kín hoàn toàn... thì lúc đó, chúng ta chỉ còn nước đặt cược toàn bộ hy vọng vào việc Momokawa-kun sẽ xuất hiện cứu chúng ta thôi.”`
             },
             {
+                "id": "ep_278",
                 "ep": 278,
                 "title": "chuong_278_phao_dai_binh_yen",
                 "content": `# Tập 278: Pháo đài bình yên
@@ -41490,6 +41619,7 @@ Chỉ cần đặt chân đến khu vực cuối cùng, 『Tháp Trung Tâm』, 
 Kịch bản của Thần một khi đã bắt đầu chuyển động trở lại thì sẽ không một ai có thể ngăn cản được nữa. Kotori, người đang ôm trọn niềm tin mù quáng đó, từ từ chìm vào giấc ngủ trên chiếc giường êm ái với một tâm trạng thanh thản hơn bất kỳ ai.`
             },
             {
+                "id": "ep_279",
                 "ep": 279,
                 "title": "chuong_279_dai_chien_si",
                 "content": `# Tập 279: Đại Chiến Sĩ
@@ -41789,6 +41919,7 @@ Ba tên con trai hoảng hồn co giò đạp đất bỏ chạy tán loạn. Ma
 Dù đang phải oằn mình chống chọi với cuộc chiến sinh tồn vô cùng khắc nghiệt và tăm tối, nhưng ít nhất trong ngày hôm nay, họ vẫn đang kiên cường nắm tay nhau bước tiếp.`
             },
             {
+                "id": "ep_280",
                 "ep": 280,
                 "title": "chuong_280_nhung_ke_bi_truc_xuat",
                 "content": `# Tập 280: Những kẻ bị trục xuất
@@ -42258,6 +42389,7 @@ Cậu ta nói với giọng điệu vô cùng thản nhiên, chìa ra những l�
 Cứ như vậy, Momokawa Kotarou đã kịp thời xuất hiện để giải cứu các bạn học của mình khỏi tình cảnh ngặt nghèo.`
             },
             {
+                "id": "ep_281",
                 "ep": 281,
                 "title": "chuong_281_nhung_ke_cham_tran",
                 "content": `# Tập 281: Những kẻ chạm trán
@@ -42661,6 +42793,7 @@ Vừa thong thả bàn luận, Ryuuichi và cô hầu gái vừa rảo bước t
 *Từ chương tiếp theo, chiến dịch chinh phạt tầng sâu nhất của Momokawa sẽ chính thức khai màn. Với sự gia nhập của 5 bạn học vừa hội quân trong gang tấc, phe cánh mới của Momokawa sẽ vận hành ra sao, xin mời các bạn hãy cùng đón đọc nhé.*`
             },
             {
+                "id": "ep_282",
                 "ep": 282,
                 "title": "chuong_282_dau_va_canh_tay_phai_1",
                 "content": `# Tập 282: Đầu và cánh tay phải (1)
@@ -42956,6 +43089,7 @@ Thế nhưng sự thật nghiệt ngã là, ngoài việc cầm máu ra, dù có
 “Tớ sẽ cấy ghép cánh tay phải của mình sang cho cậu.”`
             },
             {
+                "id": "ep_283",
                 "ep": 283,
                 "title": "chuong_283_dau_va_canh_tay_phai_2",
                 "content": `# Tập 283: Đầu và Cánh tay phải (2)
@@ -43289,6 +43423,7 @@ Nhưng cũng không phải là không thể đánh bại.
 “Lột bộ lông đẹp đẽ kia ra làm quần lót cho Kyouko thì sao nhỉ?”`
             },
             {
+                "id": "ep_284",
                 "ep": 284,
                 "title": "chuong_284_am",
                 "content": `# Tập 284: Mèo con
@@ -43402,6 +43537,7 @@ Trong thoáng chốc, cậu ta có vẻ chưa hiểu hết hàm ý của tôi, n
 “Được rồi, lên nào, Kinako, Beniwo! Linh thú hóa!”`
             },
             {
+                "id": "ep_285",
                 "ep": 285,
                 "title": "chuong_285_con_mat_cua_oh_ma",
                 "content": `# Tập 285: Con mắt của Oh-ma
@@ -43733,6 +43869,7 @@ Nhờ vậy, con Grimgoar đã tái sinh một cách vô cùng ngoạn mục. Ky
 *Nào, giờ thì hãy đến giải cứu các bạn học một cách thật ngầu, nhân tiện rửa sạch luôn cái hàm oan đầu độc bẩn thỉu kia thôi.*`
             },
             {
+                "id": "ep_286",
                 "ep": 286,
                 "title": "chuong_286_phu_suyt_chut_nua_la_khong_kip_roi",
                 "content": `— Phù, suýt chút nữa là không kịp rồi.
@@ -44080,6 +44217,7 @@ Dù năng lực cá nhân của họ có thể vượt trội, nhưng sức mạ
 “Hãy tiêu diệt kẻ phản bội, và lần này, chúng ta nhất định sẽ cùng nhau sống sót thoát khỏi hầm ngục này.”`
             },
             {
+                "id": "ep_287",
                 "ep": 287,
                 "title": "chuong_287_tam_mat_cua_takanashi",
                 "content": `# Tập 287: Tầm mắt của Takanashi
@@ -44461,6 +44599,7 @@ Chậc, việc tôi đến được khu vực này và hội ngộ với năm ng
 Giờ thì sự hiện diện của chúng tôi đã bị Takanashi phát hiện, tốt nhất là nên nhanh chóng rút lui trước khi cậu ta kịp giở trò gì đó.`
             },
             {
+                "id": "ep_288",
                 "ep": 288,
                 "title": "chuong_288_ke_lang_thang",
                 "content": `# Tập 288: Kẻ lang thang
@@ -44878,6 +45017,7 @@ Ngay khoảnh khắc tôi vừa định hình rõ ràng nhân dạng của nó v
 *Ơ... c-cái quái gì thế này, sao tự dưng mấy dòng mô tả nghe sặc mùi chết chóc nguy hiểm lại tự động nhảy múa trong đầu tôi thế kia...?!*`
             },
             {
+                "id": "ep_289",
                 "ep": 289,
                 "title": "chuong_289_can_cu_cua_chung_toi",
                 "content": `# Tập 289: Căn cứ của chúng tôi
@@ -45195,6 +45335,7 @@ Quả thực là nhờ có Quảng Trường Tinh Linh mà căn cứ của chún
 Thế thì, nên bắt đầu từ việc gì trước đây nhỉ...`
             },
             {
+                "id": "ep_290",
                 "ep": 290,
                 "title": "chuong_290_hom_thu_gop_y_tro_lai",
                 "content": `# Tập 290: Hòm thư góp ý trở lại
@@ -45644,6 +45785,7 @@ Dù sao thì Yamada cũng đã rèn luyện để trở thành một 『Trọng 
 *Có thể khiến một tên Yamada như vậy cải tà quy chính... quả thực tớ phải ngả mũ kính phục cậu đấy.*`
             },
             {
+                "id": "ep_291",
                 "ep": 291,
                 "title": "chuong_291_con_mat_cua_kotarou",
                 "content": `# Tập 291: Con mắt của Kotarou
@@ -46117,6 +46259,7 @@ Bởi lẽ, đàn Ếch Lợn đói khát bên dưới đáy mương đã lập 
 Sau khi tiện tay đẩy luôn xác con Jaaja xuống mương cho lũ Ếch Lợn dọn dẹp sạch sẽ nhằm phi tang toàn bộ chứng cứ, tôi siết chặt \`『Cây Gậy Ẩn Mật』\` trong tay, hòa mình vào màn đêm và sải bước tiến sâu vào những con ngõ vắng lặng không một bóng người của Vương quốc Goma.`
             },
             {
+                "id": "ep_292",
                 "ep": 292,
                 "title": "chuong_292_chuong_292_chien_dich_tham_nhap",
                 "content": `# Chương 292: Chiến dịch thâm nhập
@@ -46366,6 +46509,7 @@ Thế nhưng, đối với tôi, chỉ cần bấy nhiêu từ đó thôi là qu
 “Chào cậu, Natsukawa-san, lâu rồi không gặp. Không ngờ lại chạm trán nhau ở một nơi thế này, đúng là trùng hợp thật đấy.”`
             },
             {
+                "id": "ep_293",
                 "ep": 293,
                 "title": "chuong_293_chien_dich_cung_dot_nhap_1",
                 "content": `# Tập 293: Chiến dịch cùng đột nhập (1)
@@ -46701,6 +46845,7 @@ Sức mạnh của 『Quang Chi Tử』 tự xưng là "Yuuto" mà ông từng �
 Ngay trên trần nhà của đại sảnh nơi các Đại Chiến Sĩ đang tụ họp, 『Kẻ xảo quyệt』 đang âm thầm ẩn nấp quan sát mọi chuyện — một sự thật mà ngay cả một kẻ nhạy bén như Zagan cũng không thể nào ngờ tới.`
             },
             {
+                "id": "ep_294",
                 "ep": 294,
                 "title": "chuong_294_chien_dich_tham_nhap_chung_2",
                 "content": `# Tập 294: Chiến dịch thâm nhập chung (2)
@@ -47042,6 +47187,7 @@ Và giờ đây, tên con người — thiên địch lớn nhất và tàn bạ
 Còn chưa kịp có bất kỳ hành động chà đạp nào, món hung khí lạnh lẽo đã lạnh lùng cắm phập vào cơ thể cô gái tội nghiệp.`
             },
             {
+                "id": "ep_295",
                 "ep": 295,
                 "title": "chuong_295_chien_dich_xam_nhap_chung_3",
                 "content": `# Tập 295: Chiến dịch xâm nhập chung (3)
@@ -47337,6 +47483,7 @@ Với một vụ náo loạn lớn, hay đúng hơn là sự hỗn loạn tột 
 Với tâm trạng vô cùng vui vẻ, tôi bắt đầu rảo bước đi vào bên trong pháo đài giờ đã biến thành một vũng bùn hỗn loạn.`
             },
             {
+                "id": "ep_296",
                 "ep": 296,
                 "title": "chuong_296_lai_lao_vao_luyen_tap",
                 "content": `# Tập 296: Lại lao vào luyện tập
@@ -47728,6 +47875,7 @@ Nhìn Kyouko bắt đầu cuống cuồng như thể có côn trùng bám trên 
 Nói rồi, Rerite bắt đầu trò chuyện với những thổ tinh linh đang tỏa sáng sắc cam rực rỡ vây quanh Kyouko————`
             },
             {
+                "id": "ep_297",
                 "ep": 297,
                 "title": "chuong_297_hoan_thanh_nhiem_vu_tham_nhap",
                 "content": `# Tập 297: Hoàn thành nhiệm vụ thâm nhập
@@ -48057,6 +48205,7 @@ Vì vậy, không hề có chuyện cậu ta bị Nữ thần Ruinhilde kích đ
 **A:** Vợ của Zagan á, nhìn qua làm sao mà biết được con nào với con nào chứ...`
             },
             {
+                "id": "ep_298",
                 "ep": 298,
                 "title": "chuong_298_cach_lat_do_mot_vuong_quoc",
                 "content": `# Tập 298: Cách lật đổ một vương quốc
@@ -48358,6 +48507,7 @@ Kẻ khơi mào câu chuyện là Gizaginzu khéo léo đáp lời rồi cúi đ
 “Các Đại Chiến Sĩ đang gánh vác sự an nguy của vương quốc. Ta đặt trọn kỳ vọng vào sức mạnh của các ngươi. Giờ thì xuất kích đi. Tuyệt đối không được để lũ nhân loại xảo quyệt đó tiếp tục lộng hành nữa —”`
             },
             {
+                "id": "ep_299",
                 "ep": 299,
                 "title": "chuong_299_chuong_299_ke_diet_khong_lo_1",
                 "content": `# Chương 299: Kẻ diệt khổng lồ (1)
@@ -48657,6 +48807,7 @@ Bởi vì, khi cơ thể bằng xương bằng thịt của hắn còn chưa k�
 Từ đỉnh đầu xuống tận bụng dưới, toàn bộ nửa thân trên của hắn bị tảng đá bay tới nghiền nát thành một đống thịt vụn bầy nhầy————Đại Chiến Sĩ Bon tử trận tại chỗ ngay tức khắc.`
             },
             {
+                "id": "ep_300",
                 "ep": 300,
                 "title": "chuong_300_ke_diet_khong_lo_2",
                 "content": `# Tập 300: Kẻ diệt khổng lồ (2)
@@ -48996,6 +49147,7 @@ Ngay sau đó, cơ thể Bazuzu bùng nổ một luồng ma lực đỏ rực kh
 “Gi... Gaaaaahhhhhh!”`
             },
             {
+                "id": "ep_301",
                 "ep": 301,
                 "title": "chuong_301_ke_diet_khong_lo_3",
                 "content": `# Tập 301: Kẻ diệt khổng lồ (3)
@@ -49323,6 +49475,7 @@ Thế nhưng, đứa trẻ ấy lại giương cao một cây trượng dị d�
 *Cho đến giờ tôi vẫn chưa có dịp giải thích tường tận về cơ chế không thể giải trừ này nên nó vô tình bị hiểu nhầm. Tuy nhiên, vì Kotarou chưa bao giờ tự đắc kiểu "Hừ, 『Khổng Lồ Hóa』 cũng sẽ bị 『Xích Nhiệt Bệnh』 vô hiệu hóa thôi!" nên trong chương này, tôi đã chính thức lồng ghép lời giải thích rõ ràng rằng việc đó là bất khả thi.*`
             },
             {
+                "id": "ep_302",
                 "ep": 302,
                 "title": "chuong_302_ke_diet_khong_lo_4",
                 "content": `# Tập 302: Kẻ diệt khổng lồ (4)
@@ -49729,6 +49882,7 @@ Chương tiếp theo sẽ là chương cuối cùng của Phần 18.
 Từ phần sau, chúng ta sẽ chính thức bước vào chiến dịch chinh phục Vương quốc Goma. Xin hãy cùng đón chờ nhé.`
             },
             {
+                "id": "ep_303",
                 "ep": 303,
                 "title": "chuong_303_doi_canh_tu_do",
                 "content": `# Tập 303: Đôi cánh tự do
@@ -50086,6 +50240,7 @@ Mặc dù kích thước và hình dạng của ma pháp trận hơi khác một
 “Thế thì, đi nhanh thôi——ra thế giới bên ngoài.”`
             },
             {
+                "id": "ep_304",
                 "ep": 304,
                 "title": "chuong_304_thanh_qua_tu_ke_diet_khong_lo",
                 "content": `# Tập 304: Thành quả từ kẻ diệt khổng lồ
@@ -50381,6 +50536,7 @@ Tận dụng nó, tôi sẽ chế tạo ra những trang bị tối tân nhất 
 “Hừm, ngón tay tớ đang ngứa ngáy lắm rồi đây.”`
             },
             {
+                "id": "ep_305",
                 "ep": 305,
                 "title": "chuong_305_giao_dich_bi_mat",
                 "content": `# Tập 305: Giao dịch bí mật
@@ -50744,6 +50900,7 @@ Natsukawa đồng ý ngay lập tức với một nụ cười vô cùng rạng 
 Souma à, nếu được chọn, cậu thực sự nên chọn Natsukawa thì hơn đấy.`
             },
             {
+                "id": "ep_306",
                 "ep": 306,
                 "title": "chuong_306_dien_tap_khung_bo_dong_loat",
                 "content": `# Tập 306: Diễn tập khủng bố đồng loạt
@@ -51029,6 +51186,7 @@ Lửa ở khu vực này vẫn đang cháy dữ dội, ở lại lâu sẽ rất
 Cả nhóm lục tục di chuyển sang khu vực bên cạnh. Khu vực này vẫn là những tòa nhà phế tích đổ nát quen thuộc. Tôi dẫn mọi người đi vào một trong số những tòa nhà đó.`
             },
             {
+                "id": "ep_307",
                 "ep": 307,
                 "title": "chuong_307_ke_pha_vo_lenh_cam_yeu",
                 "content": `# Tập 307: Kẻ phá vỡ lệnh cấm yêu
@@ -51380,6 +51538,7 @@ Dù sao thì Randou Kyouko cũng là người duy nhất tin tưởng và đi th
 Dù nói vậy, nhưng khóe môi Yamada vẫn giãn ra. Cậu bế chú mèo con đáng yêu vào lòng rồi bước về phía giường ngủ của mình.`
             },
             {
+                "id": "ep_308",
                 "ep": 308,
                 "title": "chuong_308_ke_pha_vo_lenh_cam_yeu_duong_2",
                 "content": `# Tập 308: Kẻ phá vỡ lệnh cấm yêu đương (2)
@@ -51699,6 +51858,7 @@ Tôi cũng leo lên lưng con thú cưng Alpha của mình, thế là công tác
 Nào, đi đánh sập Vương quốc Goma thôi.`
             },
             {
+                "id": "ep_309",
                 "ep": 309,
                 "title": "chuong_309_chien_dich_cong_pha_vuong_quoc_goma_1",
                 "content": `# Tập 309: Chiến dịch công phá Vương quốc Goma (1)
@@ -51956,6 +52116,7 @@ Oh-ma, dù ngươi có khôn ngoan đến đâu thì lũ Goma cũng chỉ là l�
 Hãy chuẩn bị tinh thần đi. Hôm nay, vương quốc của ngươi sẽ bị xóa sổ không còn một dấu vết.`
             },
             {
+                "id": "ep_310",
                 "ep": 310,
                 "title": "chuong_310_chien_dich_chinh_phuc_vuong_quoc_goma_2",
                 "content": `# Tập 310: Chiến dịch chinh phục Vương quốc Goma (2)
@@ -52271,6 +52432,7 @@ Bỏ lại sau lưng Nam Đại Môn đang chìm trong biển lửa, mục tiêu
 Thế nhưng, việc chúng tôi gây ra một vụ náo loạn rõ ràng như thế này chắc chắn đã đánh động đến Oh-ma. Hắn ta hẳn đã bắt đầu triển khai các biện pháp đối phó rồi. Để xem lũ chúng sẽ giở trò gì tiếp theo đây...`
             },
             {
+                "id": "ep_311",
                 "ep": 311,
                 "title": "chuong_311_chien_dich_chinh_phuc_vuong_quoc_goma_3",
                 "content": `# Tập 311: Chiến dịch chinh phục Vương quốc Goma (3)
@@ -52518,6 +52680,7 @@ Tôi thả chiếc hộp đen hình vuông cạnh 30 cm của 『Bom lõi điề
 Tốt lắm, điểm đặt bom thứ ba đã hoàn thành. Phải nhanh chóng di chuyển đến điểm tiếp theo thôi.`
             },
             {
+                "id": "ep_312",
                 "ep": 312,
                 "title": "chuong_312_chien_dich_chinh_phuc_vuong_quoc_goma_4",
                 "content": `# Tập 312: Chiến dịch chinh phục Vương quốc Goma (4)
@@ -52807,6 +52970,7 @@ Lúc này, đôi bên không cần bất kỳ lời nói nào nữa. Ngay từ �
 Ba Đại Chiến Sĩ tỏa ra luồng ánh sáng rực rỡ cùng lượng ma lực khổng lồ, đồng loạt giải phóng sức mạnh tối thượng của mình: 『Khổng Lồ Hóa』.`
             },
             {
+                "id": "ep_313",
                 "ep": 313,
                 "title": "chuong_313_chien_dich_chinh_phuc_vuong_quoc_goma_5",
                 "content": `# Tập 313: Chiến dịch chinh phục Vương quốc Goma (5)
@@ -53088,6 +53252,7 @@ Cuối cùng, lực lượng chủ lực gồm ba tên Gira-GoGame Mastera đã 
 “Tập trung tinh thần nào. Chúng ta sẽ tống cổ tất cả bọn chúng xuống đáy vực sâu.”`
             },
             {
+                "id": "ep_314",
                 "ep": 314,
                 "title": "chuong_314_chien_dich_chinh_phuc_vuong_quoc_goma_6",
                 "content": `# Tập 314: Chiến dịch chinh phục Vương quốc Goma (6)
@@ -53453,6 +53618,7 @@ Thề sẽ báo thù, Zagan giải phóng sức mạnh \`『Khổng Lồ Hóa』
 *   **Bon:** Tuổi tác tương đương Bandon, thuộc diện tuyển dụng giữa chừng. Là một Đại Chiến Sĩ ở mức trung bình từ trước đến nay. Dù khá gần gũi với GoGame Mastera nhưng gã vẫn sở hữu sức mạnh vượt trội hơn hẳn. Đúng chất nhân viên chính thức. Lũ GoGame Mastera bốn tay chỉ giống như tổ trưởng ca làm thêm mà thôi. Dù lớn tuổi hơn Bazuzu nhưng Bon hoàn toàn bị coi là đàn em cấp dưới. Tuy nhiên, gã không hề cảm thấy khó chịu khi bị cấp trên nhỏ tuổi hơn nói chuyện ngang hàng. Trong thế giới Goma, tuổi tác không quyết định tất cả mà sức mạnh mới là tuyệt đối. Nhưng những kẻ sống sót lâu năm tự khắc cũng sẽ là những kẻ mạnh. Một xã hội cạnh tranh khốc liệt nơi chỉ có kẻ mạnh mới có quyền sinh tồn.`
             },
             {
+                "id": "ep_315",
                 "ep": 315,
                 "title": "chuong_315_chien_dich_chinh_phuc_vuong_quoc_goma_7",
                 "content": `# Tập 315: Chiến dịch chinh phục Vương quốc Goma (7)
@@ -53802,6 +53968,7 @@ Chỉ cần chậm trễ thêm một nhịp, hay đúng hơn là một phần m�
 ...Rồi cuối cùng cũng phải rơi thẳng xuống đáy vực sâu thẳm.`
             },
             {
+                "id": "ep_316",
                 "ep": 316,
                 "title": "chuong_316_su_tan_lui_cua_vuong_quoc_1",
                 "content": `# Tập 316: Sự tàn lụi của Vương quốc (1)
@@ -54131,6 +54298,7 @@ Một nhóm con người khác mà họ vẫn luôn cảnh giác.
 Nhóm người do 『Quang Chi Tử』 dẫn đầu đã xuất hiện như thể để thực hiện một cuộc gọng kìm kẹp chặt họ từ hai phía.`
             },
             {
+                "id": "ep_317",
                 "ep": 317,
                 "title": "chuong_317_vuong_quoc_sup_do_2",
                 "content": `# Tập 317: Vương quốc sụp đổ (2)
@@ -54512,6 +54680,7 @@ Mà thôi, lựa chọn thế nào là quyền của Oh-ma. Chúng tôi chỉ vi
 Hửm, thắng chắc rồi.`
             },
             {
+                "id": "ep_318",
                 "ep": 318,
                 "title": "chuong_318_su_tan_lui_cua_vuong_quoc_3",
                 "content": `# Tập 318: Sự tàn lụi của Vương quốc (3)
@@ -54835,6 +55004,7 @@ Thế nên, tôi sẽ tung ra quân bài tẩy tối thượng của mình ngay 
 “Cứu mạng với! Mei-chaaaaaaaaaaaaaaaaan!!!”`
             },
             {
+                "id": "ep_319",
                 "ep": 319,
                 "title": "chuong_319_cuong_chien_binh_vs_dai_chien_si",
                 "content": `# Tập 319: Cuồng Chiến Binh VS Đại Chiến Sĩ
@@ -55192,6 +55362,7 @@ Trước hành vi phi nhân tính đó, một cơn giận dữ tột độ và c
 “Ngươi dám sỉ nhục Đại Chiến Sĩ của ta ngay cả khi cậu ta đã chết sao, không thể tha thứ! Chỉ riêng ngươi là ta quyết không bao giờ tha thứ!!”`
             },
             {
+                "id": "ep_320",
                 "ep": 320,
                 "title": "chuong_320_chuong_320_tieu_diet_khong_lo_1",
                 "content": `# Chương 320: Tiêu diệt khổng lồ (1)
@@ -55495,6 +55666,7 @@ Liếc nhìn xuống dưới tường thành, tôi thấy ba người họ cùng
 Hạ quyết tâm, tôi cũng lao mình xuống từ tường thành.`
             },
             {
+                "id": "ep_321",
                 "ep": 321,
                 "title": "chuong_321_diet_khong_lo_2",
                 "content": `# Tập 321: Diệt Khổng Lồ (2)
@@ -55760,6 +55932,7 @@ Thế nên, không cần phải cố quá sức chiến đấu ở đây nữa. 
 Tôi lặng lẽ nhìn theo bóng lưng thảm hại của Oh-ma đang lảo đảo chạy trốn một mình vào vương cung.`
             },
             {
+                "id": "ep_322",
                 "ep": 322,
                 "title": "chuong_322_vuong_quoc_sup_do",
                 "content": `# Tập 322: Vương quốc sụp đổ
@@ -56047,6 +56220,7 @@ Phía chúng tôi chỉ phải đối đầu với Oh-ma và đội hộ vệ c�
 “Thế nên, chúng ta cũng xuất phát thôi. Nếu để bọn họ nẫng tay trên vào lúc này thì mọi nỗ lực từ trước đến nay của chúng ta sẽ đổ sông đổ biển hết.”`
             },
             {
+                "id": "ep_323",
                 "ep": 323,
                 "title": "chuong_323_doi_cho_noi_vuong_toa",
                 "content": `# Tập 323: Đợi chờ nơi vương tọa
@@ -56374,6 +56548,7 @@ Thế rồi, tôi và Momokawa đối mặt nhau giữa phòng vương tọa.
 “Nào, chúng ta bắt đầu buổi họp lớp cuối cùng chứ————”`
             },
             {
+                "id": "ep_324",
                 "ep": 324,
                 "title": "chuong_324_nguoi_di_gioi",
                 "content": `# Tập 324: Người dị giới
@@ -56683,6 +56858,7 @@ Chương 20 tiếp theo dự kiến sẽ là chương dài nhất từ trước 
 Hẹn gặp lại các bạn ở chương sau!`
             },
             {
+                "id": "ep_325",
                 "ep": 325,
                 "title": "chuong_325_takanashi_kotori_2",
                 "content": `# Tập 325: Takanashi Kotori (2)
@@ -57092,6 +57268,7 @@ Ngày 3 tháng 12 năm 2021
 *Từ chương sau, buổi họp lớp sẽ thực sự bắt đầu.*`
             },
             {
+                "id": "ep_326",
                 "ep": 326,
                 "title": "chuong_326_buoi_hop_lop_cuoi_cung_1",
                 "content": `# Tập 326: Buổi họp lớp cuối cùng (1)
@@ -57461,6 +57638,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 *Thế nên mọi người cứ yên tâm đi. Ngay sau khi dịch chuyển thành công, tôi sẽ dùng 『Đoản Kiếm Kịch Độc Death Stinger』 đâm chết Takanashi ngay lập tức.*`
             },
             {
+                "id": "ep_327",
                 "ep": 327,
                 "title": "chuong_327_buoi_hop_lop_cuoi_cung_2",
                 "content": `# Tập 327: Buổi họp lớp cuối cùng (2)
@@ -57708,6 +57886,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 *Ơ, hình như vừa nãy Sakura định nói gì đó đúng không? Nhưng lời tuyên bố tham chiến đầy hào hùng của Yamada đã hoàn toàn át đi tiếng thì thầm thút thít của cô nàng rồi. Mà thôi, sao cũng được.*`
             },
             {
+                "id": "ep_328",
                 "ep": 328,
                 "title": "chuong_328_buoi_hop_lop_cuoi_cung_3",
                 "content": `# Tập 328: Buổi họp lớp cuối cùng (3)
@@ -58051,6 +58230,7 @@ Thế nhưng, bờ vai và tấm lưng ấy run rẩy tuyệt đối không ph�
 Takanashi Kotori cuối cùng đã lộ ra bản chất thật của mình, gào lên một tiếng thét đầy giận dữ.`
             },
             {
+                "id": "ep_329",
                 "ep": 329,
                 "title": "chuong_329_buoi_hop_lop_cuoi_cung_4",
                 "content": `# Tập 329: Buổi họp lớp cuối cùng (4)
@@ -58450,6 +58630,7 @@ Sau khi tiêu diệt con khốn chủ mưu này, chúng tôi nhất định sẽ
 Ngay lập tức, một luồng sáng trắng xóa thiêu rụi hoàn toàn tầm nhìn của tôi.`
             },
             {
+                "id": "ep_330",
                 "ep": 330,
                 "title": "chuong_330_thien_su",
                 "content": `# Tập 330: Thiên Sứ
@@ -58803,6 +58984,7 @@ Và rồi, với bóng dáng của một con Salamander đen phía sau, kẻ th�
 Tendou Ryuuichi đã xuất hiện.`
             },
             {
+                "id": "ep_331",
                 "ep": 331,
                 "title": "chuong_331_su_tro_lai_cua_bac_quan_vuong",
                 "content": `# Tập 331: Sự trở lại của bậc quân vương
@@ -59094,6 +59276,7 @@ Rõ ràng trước mặt tôi không hề có tấm gương nào — thế mà t
 “Tendou-kuuuun! Cái này là thế nào hả?!”`
             },
             {
+                "id": "ep_332",
                 "ep": 332,
                 "title": "chuong_332_nghi_van_cua_vuong",
                 "content": `# Tập 332: Nghi vấn của Vương
@@ -59401,6 +59584,7 @@ Ngay từ đầu, khi thỏa thuận được thiết lập trong buổi họp l
 Dù kế hoạch có bị chệch hướng đôi chút, nhưng cái gì dùng được thì cứ việc xài cho bằng sạch thôi.`
             },
             {
+                "id": "ep_333",
                 "ep": 333,
                 "title": "chuong_333_do_thi_co_dai_albion",
                 "content": `# Tập 333: Đô thị cổ đại Albion
@@ -59730,6 +59914,7 @@ Thương lượng thành công. Chúng tôi bắt tay nhau.
 Vậy thì, hãy lên tinh thần và bắt đầu những bước chuẩn bị cuối cùng cho chiến dịch chinh phục này nào.`
             },
             {
+                "id": "ep_334",
                 "ep": 334,
                 "title": "chuong_334_su_chuan_bi_cuoi_cung_1",
                 "content": `# Tập 334: Sự chuẩn bị cuối cùng (1)
@@ -60057,6 +60242,7 @@ Khi tôi gặng hỏi là thứ gì, Hayama-kun khẽ lảng tránh ánh mắt r
 “Tớ cứ thắc mắc không biết vì sao lại mất một quả, hóa ra là do cậu cuỗm đi à!”`
             },
             {
+                "id": "ep_335",
                 "ep": 335,
                 "title": "chuong_335_chuan_bi_cuoi_cung_2",
                 "content": `# Tập 335: Chuẩn bị cuối cùng (2)
@@ -60326,6 +60512,7 @@ Chẳng cần tôi phải truy hỏi hay dùng lý lẽ để dồn Kotori vào 
 Cuối cùng cũng đến lúc này. Cuối cùng, Souma Sakura—tôi cũng có thể khiến cô ta phải chiến đấu bằng cả mạng sống của mình rồi.`
             },
             {
+                "id": "ep_336",
                 "ep": 336,
                 "title": "chuong_336_tri_lieu_tam_ly_bang_vu_luc",
                 "content": `# Tập 336: Trị liệu tâm lý bằng vũ lực
@@ -60689,6 +60876,7 @@ Sakura, ồn ào quá đấy. Tập trung làm việc nghiêm túc giùm cái đ
 *Haizz, xem ra chặng đường phía trước còn gian nan lắm đây...*`
             },
             {
+                "id": "ep_337",
                 "ep": 337,
                 "title": "chuong_337_phia_sau_ngoai_phap_1",
                 "content": `# Tập 337: Phía sau ngoại pháp (1)
@@ -60980,6 +61168,7 @@ Cảm giác bị trói chặt toàn thân bằng những sợi xích nung đỏ 
 Đây là nỗi đau đớn và bỏng rát như thể bị đóng dấu sắt nung lên người. Một minh chứng không bao giờ phai nhạt đang được khắc sâu vào da thịt tôi —`
             },
             {
+                "id": "ep_338",
                 "ep": 338,
                 "title": "chuong_338_phia_sau_ngoai_phap_2",
                 "content": `# Tập 338: Phía sau ngoại pháp (2)
@@ -61327,6 +61516,7 @@ Có điều, cậu đã phần nào hiểu được thiên chức \`『Cuồng C
 “Futaba-san đỉnh thật đấy... Mình cũng phải cố gắng thôi.”`
             },
             {
+                "id": "ep_339",
                 "ep": 339,
                 "title": "chuong_339_phia_sau_ngoai_phap_3",
                 "content": `# Tập 339: Phía sau Ngoại Pháp (3)
@@ -61652,6 +61842,7 @@ Kết quả này sẽ quyết định xem Khắc Ấn Thuật của tôi có th�
 Liệu hiệu quả thực sự của nó sẽ ra sao đây————`
             },
             {
+                "id": "ep_340",
                 "ep": 340,
                 "title": "chuong_340_cuong_che_tham_hiem_thap_trung_tam",
                 "content": `# Tập 340: Cưỡng chế thám hiểm Tháp Trung Tâm
@@ -61935,6 +62126,7 @@ Tôi quyết định ngừng suy nghĩ tiếp.
 Vừa mới bước chân vào đã phải đụng ngay cái cơ chế rác rưởi bẫy chết người ngay lập tức thế này, tôi thực sự mệt mỏi quá rồi...`
             },
             {
+                "id": "ep_341",
                 "ep": 341,
                 "title": "chuong_341_phuong_phap_bat_song_1",
                 "content": `# Tập 341: Phương pháp bắt sống (1)
@@ -62252,6 +62444,7 @@ Nói tóm lại, chính Rerite — người sở hữu thiên chức gốc 『Ti
 “Nguy to rồi, cứ đà này thì mình sẽ chỉ là kẻ ăn may nhờ mỗi chiêu 『Triệu Hoán Linh Thú』 mất thôi...”`
             },
             {
+                "id": "ep_342",
                 "ep": 342,
                 "title": "chuong_342_phuong_phap_bat_song_2",
                 "content": `# Tập 342: Phương Pháp Bắt Sống (2)
@@ -62545,6 +62738,7 @@ Nắm lấy bàn tay nhỏ nhắn của bé Rem dắt vào bồn tắm nước n
 “MOMOKAWA ĐỒ KHỐNNNNNNNNNNNNNNNNNNNNNNNNN!!”`
             },
             {
+                "id": "ep_343",
                 "ep": 343,
                 "title": "chuong_343_tro_lua_song_sinh",
                 "content": `# Tập 343: Trò lừa song sinh
@@ -62842,6 +63036,7 @@ Trước câu trả lời thản nhiên của Mei, Momoko bỗng rùng mình ớ
 “S-Sao chị lại biết được chứ...”`
             },
             {
+                "id": "ep_344",
                 "ep": 344,
                 "title": "chuong_344_mon_do_than_thanh_hang_mong_doi",
                 "content": `# Tập 344: Món đồ thần thánh hằng mong đợi
@@ -63127,6 +63322,7 @@ Nói cách khác, đây là một vật phẩm được yểm ma pháp không gi
 Kyouko, cậu vừa khai quật được một món đồ thần thánh cực kỳ xịn sò rồi đấy.`
             },
             {
+                "id": "ep_345",
                 "ep": 345,
                 "title": "chuong_345_dem_truoc_chien_dich_chinh_phuc_thap_1",
                 "content": `# Tập 345: Đêm trước chiến dịch chinh phục Tháp (1)
@@ -63396,6 +63592,7 @@ Tuyệt đối không cho phép hy sinh bất kỳ ai để cứu một người
 Dù đã vượt qua biết bao trận chiến khốc liệt, nhưng đêm trước một cuộc đại chiến vẫn luôn mang lại cảm giác bất an. Chính vì thế, sự lạc quan và vui vẻ vô bờ bến của Minami vào lúc này lại là liều thuốc tinh thần đáng quý hơn bất cứ thứ gì.`
             },
             {
+                "id": "ep_346",
                 "ep": 346,
                 "title": "chuong_346_dem_truoc_chien_dich_chinh_phuc_thap_2",
                 "content": `# Tập 346: Đêm trước chiến dịch chinh phục Tháp (2)
@@ -63711,6 +63908,7 @@ Nhanh chóng kết thúc cuộc đấu mắt vô nghĩa, cả hai đồng thời
 “Ơ, khoá... Ủa, sao hai người lại vào cùng lúc———— U oa, Rem! Cứu chủ nhân với Rem ơi————!”`
             },
             {
+                "id": "ep_347",
                 "ep": 347,
                 "title": "chuong_347_tang_sau_nhat_cua_thap_trung_tam",
                 "content": `# Tập 347: Tầng sâu nhất của Tháp Trung Tâm
@@ -64056,6 +64254,7 @@ Ngay sau đó, màn hình giám sát tối đen.
 “M-Momokawa... Mo-mo-ka-wa-aaaaaaaaaaaaaaaaaaaaaa!!”`
             },
             {
+                "id": "ep_348",
                 "ep": 348,
                 "title": "chuong_348_chinh_phuc_thap_trung_tam_1",
                 "content": `# Tập 348: Chinh phục Tháp Trung Tâm (1)
@@ -64305,6 +64504,7 @@ Lao ra thành từng hàng là những bóng người màu trắng.
 Ngay khi Kotarou vừa nở nụ cười giễu cợt, một tên cuồng chiến sĩ đã vung vũ khí trên tay lao thẳng về phía họ.`
             },
             {
+                "id": "ep_349",
                 "ep": 349,
                 "title": "chuong_349_chinh_phuc_thap_trung_tam_2",
                 "content": `# Tập 349: Chinh phục Tháp Trung Tâm (2)
@@ -64498,6 +64698,7 @@ Vấn đề còn lại là bắt đầu từ lưng chừng tòa tháp này, li�
 “Đây là cuộc chiến với thời gian. Xuất phát thôi.”`
             },
             {
+                "id": "ep_350",
                 "ep": 350,
                 "title": "chuong_350_chinh_phuc_thap_trung_tam_3",
                 "content": `# Tập 350: Chinh phục Tháp Trung Tâm (3)
@@ -64753,6 +64954,7 @@ Có thể thốt ra câu đó một cách tự nhiên như vậy, Sakura quả t
 Đẩy đội quân Skeleton cầm súng trường yểm thuộc tính Quang chuyên trị Zombie lên phía trước, tôi bắt đầu khám phá tầng nhà xưởng cổ đại đầy khả nghi này.`
             },
             {
+                "id": "ep_351",
                 "ep": 351,
                 "title": "chuong_351_tham_thuc_vat_ma_vat_1",
                 "content": `# Tập 351: Thảm Thực Vật Ma Vật (1)
@@ -65000,6 +65202,7 @@ Dù sao thì ở đây chỉ cần hai tinh linh hệ Thổ và Băng là quá �
 Bỏ lại sau lưng trận chiến hỗn loạn giữa các tinh linh và lũ Boss ma vật, chúng tôi nhanh chóng tiến về phía trước. Hayama lững thững bước theo sau, ánh mắt không giấu nổi sự ngưỡng mộ xen lẫn thèm muốn khi nhìn bóng dáng các tinh linh trung cấp đang chiến đấu vô cùng dũng mãnh.`
             },
             {
+                "id": "ep_352",
                 "ep": 352,
                 "title": "chuong_352_nha_may_ma_vat_2",
                 "content": `# Tập 352: Nhà máy ma vật (2)
@@ -65297,6 +65500,7 @@ Chậc, không ngờ cái đứa như Kotori mà cũng nghĩ ra được trò n�
 Mà thực ra, chỉ cần Lớp trưởng chịu hợp tác là mọi chuyện sẽ được giải quyết êm đẹp thôi.`
             },
             {
+                "id": "ep_353",
                 "ep": 353,
                 "title": "chuong_353_chuong_353_xu_ly_dong_bang",
                 "content": `# Chương 353: Xử lý đóng băng
@@ -65602,6 +65806,7 @@ Oành! Tiếng va chạm kim loại đinh tai nhức óc cùng làn sóng xung k
 Huyết quang đỏ thẫm cuồng bạo tỏa ra từ Mei-chan đan xen với ánh sáng trắng thánh khiết từ đôi cánh của Kenzaki. Tôi chỉ biết trơ mắt nhìn hai luồng sáng đỏ trắng đối nghịch nhau vẽ nên một vệt xoắn ốc rực rỡ, rồi cùng nhau mất hút dưới đáy vực sâu thăm thẳm đen ngòm.`
             },
             {
+                "id": "ep_354",
                 "ep": 354,
                 "title": "chuong_354_khu_rung_cua_yeu_tinh_1",
                 "content": `# Tập 354: Khu rừng của Yêu tinh (1)
@@ -65889,6 +66094,7 @@ Thế nên, tôi mới buông lời trêu chọc để che giấu sự ngượng
 Sakura rú lên một tiếng kỳ quái rồi lao vào ăn tươi nuốt sống tôi.`
             },
             {
+                "id": "ep_355",
                 "ep": 355,
                 "title": "chuong_355_chuong_355_khu_rung_yeu_tinh_2",
                 "content": `# Chương 355: Khu rừng Yêu tinh (2)
@@ -66154,6 +66360,7 @@ Tự cổ vũ bản thân rằng mình không thể thua một kẻ chỉ vừa 
 “Vậy sao? Thế thì thử xem nhé?”`
             },
             {
+                "id": "ep_356",
                 "ep": 356,
                 "title": "chuong_356_khu_rung_tinh_linh_3",
                 "content": `# Tập 356: Khu rừng tinh linh (3)
@@ -66461,6 +66668,7 @@ Lớp vỏ bọc kim loại đen kịt chạy dọc những đường vân màu 
 “Là thứ gọi là Death Stalker sao!?”`
             },
             {
+                "id": "ep_357",
                 "ep": 357,
                 "title": "chuong_357_khu_rung_yeu_tinh_4",
                 "content": `# Tập 357: Khu rừng Yêu tinh (4)
@@ -66760,6 +66968,7 @@ Và rồi, một cái, hai cái, ba cái, tổng cộng có bốn cái như th�
 Này Takanashi, trong chuỗi Boss liên hoàn mà cô lại lôi cả Raid Boss ra thế này thì chơi bẩn quá rồi đấy nhé.`
             },
             {
+                "id": "ep_358",
                 "ep": 358,
                 "title": "chuong_358_khu_rung_yeu_tinh_5",
                 "content": `# Tập 358: Khu rừng Yêu tinh (5)
@@ -67149,6 +67358,7 @@ Dứt lời, Tendou thúc hắc long Liberta bay vút lên bầu trời, lao th�
 “Đừng nhìn tớ bằng ánh mắt đó chứ, Aoi. Khi nào nhóc lớn hơn một chút, tớ cũng sẽ cố gắng để làm được như vậy mà.”`
             },
             {
+                "id": "ep_359",
                 "ep": 359,
                 "title": "chuong_359_cuong_chien_binh_vs_song_kiem_si_1",
                 "content": `# Tập 359: Cuồng Chiến Binh VS Song Kiếm Sĩ (1)
@@ -67448,6 +67658,7 @@ Chậm hơn một nhịp, Himeno Airi cũng xuất hiện.
 Có vẻ như hai người họ đã cùng nhau chạy đến đây. Và vào đúng khoảnh khắc nhát chém kết liễu chuẩn bị bổ xuống đầu Kenzaki Asuna, chàng trai thầm yêu cô gái ấy đã kịp thời xuất hiện.`
             },
             {
+                "id": "ep_360",
                 "ep": 360,
                 "title": "chuong_360_cuong_chien_binh_vs_song_kiem_si_2",
                 "content": `# Tập 360: Cuồng Chiến Binh VS Song Kiếm Sĩ (2)
@@ -67703,6 +67914,7 @@ Với đôi mắt rực lửa giận dữ, nắm đấm cuộn xoáy luồng s�
 Nắm đấm của Cuồng Chiến Binh găm thẳng vào khuôn mặt đang méo mó vì sợ hãi và tuyệt vọng của Asuna.`
             },
             {
+                "id": "ep_361",
                 "ep": 361,
                 "title": "chuong_361_song_kiem_gay",
                 "content": `# Tập 361: Song Kiếm Gãy
@@ -68044,6 +68256,7 @@ Mặc cho các bạn học cùng lớp đã tiến sát đến tầng này.
 Bên cạnh hai cơ thể đang quấn lấy nhau, trên màn hình chiếu vẫn đang lặng lẽ sáng đèn, hiển thị hình ảnh Momokawa Kotarou đang cưỡi chung một con bạch mã cùng với Souma Sakura.`
             },
             {
+                "id": "ep_362",
                 "ep": 362,
                 "title": "chuong_362_orochi_tai_lam",
                 "content": `# Tập 362: Orochi Tái Lâm
@@ -68393,6 +68606,7 @@ Sau đó, Rerite cho Beniwo, Koyuki và Aoi ăn, rồi ôm chặt lấy những 
 Thế là, bốn người nhóm Ryouko dẫn đầu, cùng nhau tiến vào tầng cuối cùng của tòa tháp.`
             },
             {
+                "id": "ep_363",
                 "ep": 363,
                 "title": "chuong_363_bach_linh_thu_1",
                 "content": `# Tập 363: Bạch Linh Thú (1)
@@ -68558,6 +68772,7 @@ Rerite ném chiếc PSP thuộc tính Thổ, còn Minami ném chiếc thuộc t�
 Từ ma pháp trận tỏa sáng như dung nham trên mặt đất, đất đá phun lên như suối nước nóng, và một con địa long khổng lồ xuất hiện. Nó có hình dáng khá giống với Grimgoar với chiếc đầu góc cạnh và chiếc hàm lớn, nhưng sở hữu kích thước vĩ đại của một loài khủng long ăn thịt cỡ lớn.`
             },
             {
+                "id": "ep_364",
                 "ep": 364,
                 "title": "chuong_364_bach_linh_thu_2",
                 "content": `# Tập 364: Bạch Linh Thú (2)
@@ -68939,6 +69154,7 @@ Luồng bê tông lỏng do Kyouko bắn ra chuẩn xác bay vào trong cái mi�
 Và thế là, Linh thú Kinako đang cuồng nộ cuối cùng đã hoàn toàn bị phong tỏa cử động, bất động hoàn toàn.`
             },
             {
+                "id": "ep_365",
                 "ep": 365,
                 "title": "chuong_365_bach_linh_thu_3",
                 "content": `# Tập 365: Bạch Linh Thú (3)
@@ -69200,6 +69416,7 @@ Nhận mệnh lệnh của chủ nhân, Rem đội 『Mũ Giáp Khổng Lồ』 
 “Giga~”`
             },
             {
+                "id": "ep_366",
                 "ep": 366,
                 "title": "chuong_366_khong_lo_vs_thanh_thu_1",
                 "content": `# Tập 366: Khổng Lồ VS Thánh Thú (1)
@@ -69379,6 +69596,7 @@ Chỉ có Hayama là ở lại phía sau, còn tất cả những người khác
 “Được rồi, đi thôi nào ————”`
             },
             {
+                "id": "ep_367",
                 "ep": 367,
                 "title": "chuong_367_khong_nhan_vs_thanh_thu_2",
                 "content": `# Tập 367: Khổng Nhân VS Thánh Thú (2)
@@ -69594,6 +69812,7 @@ Nó không chỉ sở hữu sức mạnh và tốc độ vượt trội, mà cò
 Để gặt hái thành quả xứng đáng với bao công sức đã bỏ ra, tôi dồn toàn lực vung trượng. Ngay lập tức, 『Hắc Xích Chú Phát』 uốn lượn thân hình dài ngoằng phủ đầy tóc đen bóng bẩy, lao thẳng về phía tấm lưng của Kinako.`
             },
             {
+                "id": "ep_368",
                 "ep": 368,
                 "title": "chuong_368_cu_nhan_vs_thanh_thu_3",
                 "content": `# Tập 368: Cự nhân VS Thánh thú (3)
@@ -69827,6 +70046,7 @@ Dù cảm thấy có chút áy náy khi bắt những người vốn đã làm v
 Đáp lại lời kêu gọi đó, tôi dùng cánh tay phải đã hoàn toàn biến thành một màu đen kịt trong nháy mắt, chộp chặt lấy chiếc vòng khuyên.`
             },
             {
+                "id": "ep_369",
                 "ep": 369,
                 "title": "chuong_369_su_cam_do_cua_bong_toi",
                 "content": `# Tập 369: Sự cám dỗ của bóng tối
@@ -70142,6 +70362,7 @@ Nửa bên phải gương mặt vô hồn của Hayama đã bị nhuộm kín m�
 Ngay tức khắc, một luồng hào quang bóng tối đen ngòm bốc lên cuồn cuộn, bộc phát dữ dội từ cơ thể Hayama—`
             },
             {
+                "id": "ep_370",
                 "ep": 370,
                 "title": "chuong_370_dark_rerite",
                 "content": `# Tập 370: Dark Rerite
@@ -70461,6 +70682,7 @@ Nụ cười trên môi tôi tuy có một nửa là diễn trò để che mắt
 “Mày vẫn mãi là một con 『Hiền Giả』 ngu xuẩn bại não như mọi khi nhỉ. Khoảnh khắc mày đích thân vác cái mặt lộ diện ở đây, thời cơ lật ngược ván cờ của tao đã thực sự đến rồi đấy.”`
             },
             {
+                "id": "ep_371",
                 "ep": 371,
                 "title": "chuong_371_bi_thach_trang_1",
                 "content": `# Tập 371: Bí thạch trắng (1)
@@ -70698,6 +70920,7 @@ Cây trượng của Takanashi vung lên tỏa ra ánh sáng rực rỡ, cơ th�
 “— Giải phóng Kỹ năng Đặc hữu thứ ba, 『Bí Thạch Trắng』.”`
             },
             {
+                "id": "ep_372",
                 "ep": 372,
                 "title": "chuong_372_bach_bi_thach_2",
                 "content": `# Tập 372: Bạch Bí Thạch (2)
@@ -70933,6 +71156,7 @@ Khi mọi thứ cuối cùng đã yên ắng trở lại, Yuuto cất thanh 『T
 Cơ thể của Rerite dần bị nuốt chửng bởi ánh sáng trắng của Thiên Tống Môn rồi biến mất.`
             },
             {
+                "id": "ep_373",
                 "ep": 373,
                 "title": "chuong_373_khon_kiep",
                 "content": `「Khốn kiếp...」
@@ -71212,6 +71436,7 @@ And on Souma Yuuto's cheek, there was only the wound Sakura had cut.
 Với nhát chém ngược trở lại, lần này đầu của tôi thực sự đã rơi xuống ——— và ngay khoảnh khắc đó, tầm nhìn của tôi tại nơi này hoàn toàn chìm vào bóng tối.`
             },
             {
+                "id": "ep_374",
                 "ep": 374,
                 "title": "chuong_374_phia_ben_kia_thien_tong_mon_2",
                 "content": `# Tập 374: Phía Bên Kia Thiên Tống Môn (2)
@@ -71519,6 +71744,7 @@ Nhìn thấy bóng dáng của 『Vương』 Tendou Ryuuichi hiên ngang đứng
 Và đứng giữa hai quái vật mạnh nhất lớp, mang trên môi nụ cười giễu cợt đầy ngạo nghễ của kẻ thao túng bóng tối... chính là 『Chú thuật sư』 Momokawa Kotarou đích thực!`
             },
             {
+                "id": "ep_375",
                 "ep": 375,
                 "title": "chuong_375_tai_thao_phat_yamata_no_orochi_1",
                 "content": `# Tập 375: Tái Thảo Phạt Yamata no Orochi (1)
@@ -71784,6 +72010,7 @@ Và toàn bộ sự sống còn của kế hoạch luyện kim thần tốc này
 Hét lên một tiếng gào thét như xé ruột xé gan, đôi bàn tay của Himeno Airi liền bùng cháy ma lực, điên cuồng kích hoạt các ma pháp trận rực sáng khắp ngôi đền!`
             },
             {
+                "id": "ep_376",
                 "ep": 376,
                 "title": "chuong_376_tai_thao_phat_yamata_no_orochi_2",
                 "content": `# Tập 376: Tái Thảo Phạt Yamata no Orochi (2)
@@ -71971,6 +72198,7 @@ Lõi ma lực khổng lồ của Gira-GoGame Mastera lập tức quá tải, nă
 Cùng với nụ cười rạng rỡ hết nấc của Momoko, quả bom 『Requiem Heart』 giải phóng toàn bộ sức mạnh hủy diệt, thổi bay con quái vật Yamata no Orochi thành tro bụi!`
             },
             {
+                "id": "ep_377",
                 "ep": 377,
                 "title": "chuong_377_quyet_chien_cuoi_cung_1",
                 "content": `# Tập 377: Quyết chiến cuối cùng (1)
@@ -72256,6 +72484,7 @@ Ngay sau đó, những loạt đạn ánh sáng từ mười con hộ vệ thiê
 “Mày đúng là đồ ngu ngốc mà. Chiêu đó mày đã dùng một lần rồi. Bọn tao dĩ nhiên là phải có biện pháp đối phó chứ.”`
             },
             {
+                "id": "ep_378",
                 "ep": 378,
                 "title": "chuong_378_quyet_chien_cuoi_cung_2",
                 "content": `# Tập 378: Quyết Chiến Cuối Cùng (2)
@@ -72547,6 +72776,7 @@ Kỹ năng đặc hữu thứ tư:
 \`『Hoàng Linh Trang』\`: Bộ giáp của Dũng Giả mang sức mạnh của tam vị nhất thể tinh linh.`
             },
             {
+                "id": "ep_379",
                 "ep": 379,
                 "title": "chuong_379_tinh_linh_thuat",
                 "content": `# Tập 379: Tinh Linh Thuật
@@ -72718,6 +72948,7 @@ Nắm chặt cây vương trượng 『Vong Vương Tích - Nghiệp Ma Phùng M
 “Chuẩn bị sẵn sàng chưa hỡi Ám tinh linh của ta... Chúng ta chuẩn bị tăng ga kết liễu trận đấu này thôi nào——”`
             },
             {
+                "id": "ep_380",
                 "ep": 380,
                 "title": "chuong_380_hong_thi_hai_giap",
                 "content": `# Tập 380: Hồng Thi Hài Giáp
@@ -73007,6 +73238,7 @@ Việc còn lại chỉ là xử lý tương tự. Có đủ sức mạnh để 
 Bên đang nắm thế chủ động tấn công là chúng tôi. Nếu cô ta không còn chiêu trò gì khác, tôi sẽ dọn sạch lũ thiên sứ phiền phức này rồi tiến đến đập thẳng vào mặt cô ta.`
             },
             {
+                "id": "ep_381",
                 "ep": 381,
                 "title": "chuong_381_linh_trang_hao_quang",
                 "content": `# Tập 381: Linh Trang Hào Quang
@@ -73322,6 +73554,7 @@ Nhìn dáng vẻ kiêu hãnh và bất khuất của hai người họ, Dũng Gi
 “—Vậy sao. Thế thì tớ chỉ còn cách đánh cho đến khi các cậu không thể đứng dậy được nữa.”`
             },
             {
+                "id": "ep_382",
                 "ep": 382,
                 "title": "chuong_382_vu_khi_khoi_luong",
                 "content": `# Tập 382: Vũ khí khối lượng
@@ -73593,6 +73826,7 @@ Vì vậy, tôi đành dùng đến phương án thứ hai. Phương án này ch
 “Nào, thử chặn nó xem, Takanashi. Cú đè bẹp bằng cả cơ thể của gã khổng lồ này.”`
             },
             {
+                "id": "ep_383",
                 "ep": 383,
                 "title": "chuong_383_ban_hoc_vs_dung_gia_1",
                 "content": `# Tập 383: Bạn học VS Dũng Giả (1)
@@ -73912,6 +74146,7 @@ Số lượng là ba người. Cùng một khuôn mặt, cùng một dáng vẻ,
 Dũng Giả bị xoay như chong chóng bởi ảo ảnh chỉ biết trừng mắt đầy sát khí nhìn về phía gã chú thuật sư mà cậu không thể phân biệt nổi đâu mới là bản thể thật.`
             },
             {
+                "id": "ep_384",
                 "ep": 384,
                 "title": "chuong_384_ban_hoc_vs_dung_gia_2",
                 "content": `# Tập 384: Bạn học VS Dũng Giả (2)
@@ -74033,6 +74268,7 @@ Nhìn Dũng Giả thong thả vào lại thế thủ song kiếm, tôi đáp l�
 *Nào nào, đừng có nhìn tôi với vẻ mặt đắc`
             },
             {
+                "id": "ep_385",
                 "ep": 385,
                 "title": "chuong_385_ban_hoc_vs_dung_gia_3",
                 "content": `# Tập 385: Bạn học VS Dũng Giả (3)
@@ -74244,6 +74480,7 @@ Lưỡi kiếm ánh sáng khổng lồ chứa đựng sức tàn phá khủng kh
 Nhát chém vô tình của vị Vương đã chém bay cả hai cánh tay đang nắm giữ thanh kiếm của Dũng Giả.`
             },
             {
+                "id": "ep_386",
                 "ep": 386,
                 "title": "chuong_386_ban_hoc_vs_dung_gia_4",
                 "content": `# Tập 386: Bạn học VS Dũng Giả (4)
@@ -74485,6 +74722,7 @@ Bởi vì đòn đánh quyết định đã chạm tới. Ngay trước khi tr�
 Lưỡi dao của 『Đạo Tặc』 âm thầm tiếp cận từ phía sau đã đâm xuyên qua lưng của Dũng Giả.`
             },
             {
+                "id": "ep_387",
                 "ep": 387,
                 "title": "chuong_387_souma_yuuto_khong_the_tro_thanh_dung_gia",
                 "content": `# Tập 387: Souma Yuuto không thể trở thành Dũng Giả
@@ -74820,6 +75058,7 @@ Hạn ngạch thoát hiểm đã được định sẵn. Ba người đó đã �
 “A ha ha, chỉ cần giết sạch tụi mày rồi làm lại từ đầu là được chứ gì!”`
             },
             {
+                "id": "ep_388",
                 "ep": 388,
                 "title": "chuong_388_bac_thay_nguyen_to",
                 "content": `# Tập 388: Bậc Thầy Nguyên Tố
@@ -75133,6 +75372,7 @@ Vô số tinh linh tí hon phát sáng bay lượn ngút ngàn như một màn s
 “————『Ma Nhân Hóa - Thổ Tinh Linh』.”`
             },
             {
+                "id": "ep_389",
                 "ep": 389,
                 "title": "chuong_389_thanh_kiem_diet_nguoi_khong_lo",
                 "content": `# Tập 389: Thanh Kiếm Diệt Người Khổng Lồ
@@ -75304,6 +75544,7 @@ Nắm chặt cây gậy phép trong tay, Chú thuật sư Momokawa Kotarou lạn
 “Mọi chuyện kết thúc ở đây được rồi đấy Takanashi. Mau tính sổ một lần cho xong nào!”`
             },
             {
+                "id": "ep_390",
                 "ep": 390,
                 "title": "chuong_390_love_death",
                 "content": `# Tập 390: Love Death
@@ -75571,6 +75812,7 @@ Tiếng chuông ngân vang như thể vọng lại từ một nơi vô cùng xa 
 Ngay khoảnh khắc lời cầu xin đó được chấp thuận, tầm nhìn của tôi hoàn toàn chìm vào một màu trắng xóa—`
             },
             {
+                "id": "ep_391",
                 "ep": 391,
                 "title": "chuong_391_than_thoai_tai_sinh",
                 "content": `# Tập 391: Thần thoại tái sinh
@@ -75844,6 +76086,7 @@ Và rồi, chiếc mũ giáp hình đầu lâu hung tợn như một vị vua qu
 “— Đứa con của ta, Momokawa Kotarou.”`
             },
             {
+                "id": "ep_392",
                 "ep": 392,
                 "title": "chuong_392_chu_than_ruinhilde",
                 "content": `# Tập 392: Chú thần Ruinhilde
@@ -76091,6 +76334,7 @@ Tôi vung 『Vô Đạo Nhất Thức』 lên, triệu hồi ra một khối th�
 “Tao trả lại nguyên văn câu nói lúc nãy cho mày đấy — Đừng hòng nghĩ rằng mày sẽ được chết một cách thanh thản, Takanashi.”`
             },
             {
+                "id": "ep_393",
                 "ep": 393,
                 "title": "chuong_393_chuong_393_chu_thuat_su_vs_hien_gia_1",
                 "content": `# Chương 393: Chú thuật sư VS Hiền giả (1)
@@ -76370,6 +76614,7 @@ Tôi giương cao cây trượng 『Vong Vương Tích「Nghiệp Ma Phùng Ma�
 “Người đồng hành cuối cùng của ta chính là ngươi đấy, Oh-ma. Nào, hãy cho ta mượn thứ gọi là sự bảo hộ của thần Goma đi.”`
             },
             {
+                "id": "ep_394",
                 "ep": 394,
                 "title": "chuong_394_chu_thuat_su_vs_hien_gia_2",
                 "content": `# Tập 394: Chú thuật sư VS Hiền giả (2)
@@ -76751,6 +76996,7 @@ Mà thôi kệ đi, ngươi cứ việc ôm lấy sự thắc mắc đó mà ch�
 “Bằng chiếc 『Vạc Của Phù Thủy』 khổng lồ này, không————phải gọi là 『Lò Luyện Ngục Của Hắc Ma Nữ』, ta sẽ nguyền rủa và thiêu rụi linh hồn của ngươi.”`
             },
             {
+                "id": "ep_395",
                 "ep": 395,
                 "title": "chuong_395_su_ket_thuc_cua_hien_gia",
                 "content": `# Tập 395: Sự kết thúc của Hiền Giả
@@ -77086,6 +77332,7 @@ Dù có giành được chiến thắng sau một trận chiến sinh tử, thì
 Điều đó là hiển nhiên thôi. Bởi vì, những người đã mất đi sẽ không bao giờ có thể quay trở lại nữa.`
             },
             {
+                "id": "ep_396",
                 "ep": 396,
                 "title": "chuong_396_phan_thuong_pha_dao_1",
                 "content": `# Tập 396: Phần thưởng phá đảo (1)
@@ -77361,6 +77608,7 @@ Nhìn ngắm khung cảnh trống trải nơi Thiên Tống Môn—giờ chỉ c
 “Nếu biết có thể cường hóa nhiều đến mức này... thì mình đã làm chuyện ấy sớm hơn có phải tốt hơn không hả trời ơi!!!”`
             },
             {
+                "id": "ep_397",
                 "ep": 397,
                 "title": "chuong_397_phan_thuong_hoan_thanh_2",
                 "content": `# Tập 397: Phần thưởng hoàn thành (2)
@@ -77690,6 +77938,7 @@ Không, ý tôi là, tôi đâu có làm gì mờ ám đâu chứ...
 Vỗ nhẹ lên vai tôi một cái, Tendou bước về phía phòng của Sakura.`
             },
             {
+                "id": "ep_398",
                 "ep": 398,
                 "title": "chuong_398_phan_thuong_hoan_thanh_3",
                 "content": `# Tập 398: Phần thưởng hoàn thành (3)
@@ -77989,6 +78238,7 @@ Nhưng ở góc khuất của tầm mắt vừa chuyển đi, tôi thoáng thấ
 Bị Kyouko áp sát với đôi mắt sáng rực đầy khát khao như vậy, đầu óc tôi thực sự không còn trống để suy nghĩ thêm được bất cứ điều gì nữa.`
             },
             {
+                "id": "ep_399",
                 "ep": 399,
                 "title": "chuong_399_phan_thuong_pha_dao_4",
                 "content": `# Tập 399: Phần Thưởng Phá Đảo (4)
@@ -78266,6 +78516,7 @@ Và dẫu thế giới bên ngoài kia có bao nhiêu kẻ thù hung bạo đang
 “Cố gắng hết mình để trở thành một Dungeon Master vĩ đại nào!”`
             },
             {
+                "id": "ep_400",
                 "ep": 400,
                 "title": "chuong_400_thanh_gia_nuoc",
                 "content": `# Tập 400: Thánh Giả Nước
@@ -78551,6 +78802,7 @@ Giữa bầu không khí nóng hừng hực và cuồng nhiệt tột độ, Shi
 Shimokawa đã không nhận ra rằng việc dừng suy nghĩ và phó mặc cho sự lạc quan chính là điểm khác biệt chí mạng giữa cậu và Kotarou, người luôn chuẩn bị cho những tình huống quản trị rủi ro tồi tệ nhất.`
             },
             {
+                "id": "ep_401",
                 "ep": 401,
                 "title": "chuong_401_thu_ho_chien_si",
                 "content": `# Tập 401: Thủ Hộ Chiến Sĩ
@@ -78896,6 +79148,7 @@ Theo hướng ngón tay chỉ của Ricardo, bóng dáng của một thành ph�
 “Vâng, đó chính là Vanheit, một trong những thành phố hầm ngục sầm uất nhất của vương quốc Astoria. Ngài Yamuda, cầu chúc cho ngài sẽ gặp được nhiều điều tốt lành tại nơi đó.”`
             },
             {
+                "id": "ep_402",
                 "ep": 402,
                 "title": "chuong_402_kiem_hao_va_thanh_chien_si",
                 "content": `# Tập 402: Kiếm Hào và Thánh Chiến Sĩ
@@ -79331,6 +79584,7 @@ Bởi lẽ, ánh mắt gã đoàn trưởng nhìn hai người lúc này giống
 “Nhìn vào thực lực của hai đứa, ta có một đề nghị thế này. Liệu hai đứa có muốn cùng bọn ta đi săn ma cà rồng không?”`
             },
             {
+                "id": "ep_403",
                 "ep": 403,
                 "title": "chuong_403_tinh_linh_thuat_si_cua_anh_sang_va_bong_toi",
                 "content": `# Tập 403: Tinh Linh Thuật Sư Của Ánh Sáng Và Bóng Tối
@@ -79588,6 +79842,7 @@ Bé Đào Ảnh khẽ nở một nụ cười ấm áp:
 “Mừng cho cậu nhé, Hayama-kun. Thứ quan trọng nhất trần đời của cậu... đã thực sự được lấy lại trọn vẹn rồi đấy!”`
             },
             {
+                "id": "ep_404",
                 "ep": 404,
                 "title": "chuong_404_trieu_hoi_dung_gia",
                 "content": `# Tập 404: Triệu hồi Dũng Giả
@@ -79957,6 +80212,7 @@ Vì mục tiêu đó, tôi sẵn sàng vứt bỏ thứ công lý viển vông c
 Phải rồi, hệt như cái cách mà tên chú thuật sư đó vẫn luôn làm vậy——`
             },
             {
+                "id": "ep_405",
                 "ep": 405,
                 "title": "chuong_405_ngay_khoi_hanh",
                 "content": `# Tập 405: Ngày khởi hành
@@ -80305,6 +80561,7 @@ Chúng tôi không còn là những cô cậu học trò đơn thuần của L�
 **Phần 2: Vương Quốc Astoria**`
             },
             {
+                "id": "ep_406",
                 "ep": 406,
                 "title": "chuong_406_diem_den_cua_cuoc_hanh_trinh",
                 "content": `# Tập 406: Điểm Đến Của Cuộc Hành Trình
@@ -80672,6 +80929,7 @@ Lối thoát đã mở toang!
 Ném thêm vài quả lựu đạn khói độc mù mịt vào giữa thánh đường, tôi nắm chặt tay Mei-chan và dắt bé Rem phóng thẳng ra thế giới bên ngoài!`
             },
             {
+                "id": "ep_407",
                 "ep": 407,
                 "title": "chuong_407_khu_vuon_cua_dai_thanh_duong",
                 "content": `# Tập 407: Khu vườn của Đại thánh đường
@@ -80971,6 +81229,7 @@ Luồng sáng đó tăng dần tốc độ rực rỡ, tỏa ra một áp lực 
 Cứ như vậy, nữ Dũng Giả mang theo thanh 『Thánh Kiếm Ánh Sáng』 đã đứng chặn trước đường đi của chúng tôi.`
             },
             {
+                "id": "ep_408",
                 "ep": 408,
                 "title": "chuong_408_nu_dung_gia_1",
                 "content": `# Tập 408: Nữ Dũng Giả (1)
@@ -81248,6 +81507,7 @@ Trước đòn tấn công mạnh nhất của 『Cuồng Chiến Binh』 đang 
 Lilith chỉ đơn giản đưa tay lên dải băng bịt mắt của mình.`
             },
             {
+                "id": "ep_409",
                 "ep": 409,
                 "title": "chuong_409_nu_dung_gia_2",
                 "content": `# Tập 409: Nữ Dũng Giả (2)
@@ -81463,6 +81723,7 @@ Tầm nhìn đen trắng dần dần bị ánh sáng trắng xóa nuốt chửng
 Buông rơi thanh thánh kiếm, Nữ Dũng Giả Lilith mỉm cười dịu dàng như một Thánh Mẫu, dang rộng đôi tay ôm trọn lấy thân xác đang ngã gục của tôi vào lòng...`
             },
             {
+                "id": "ep_410",
                 "ep": 410,
                 "title": "chuong_410_nu_dung_gia_3",
                 "content": `# Tập 410: Nữ Dũng Giả (3)
@@ -81666,6 +81927,7 @@ Mỉm cười tao nhã, Nữ Dũng Giả Lilith một tay ôm chặt Kotarou tro
 Đứng nhìn bóng lưng của họ khuất dần sau cánh cửa đá, trong lòng Souma Yuuto dâng lên một mối hoài nghi và bất an tột cùng...`
             },
             {
+                "id": "ep_411",
                 "ep": 411,
                 "title": "chuong_411_xu_tri_loi_nguyen",
                 "content": `# Tập 411: Xử Trí Lời Nguyền
@@ -81817,6 +82079,7 @@ Shidou Aki bàng hoàng đứng chết lặng khi nghe Công Chúa Salistiane ru
 *“...Đó là... LỜI NGUYỀN CỦA NỮ THẦN RUINHILDE...!”*`
             },
             {
+                "id": "ep_412",
                 "ep": 412,
                 "title": "chuong_412_dua_tre_no_le",
                 "content": `# Tập 412: Đứa trẻ nô lệ
@@ -82070,6 +82333,7 @@ Bàn tay nhỏ nhắn, hai đầu gối và phần bụng áo bao tải chỉ d�
 Nó cất tiếng cười khanh khách đầy thích thú.`
             },
             {
+                "id": "ep_412",
                 "ep": 412,
                 "title": "chuong_412_danh_sach_diem_danh_lop_2_7_hoc_vien_hakurei_chung_cuoc",
                 "content": `# Danh sách điểm danh Lớp 2-7 Học viện Hakurei (Chung cuộc)
@@ -82227,6 +82491,7 @@ Những dòng thông tin đi kèm cái tên ấy chứa đầy những từ ng�
 — ...Dũng Giả của tôi.`
             },
             {
+                "id": "ep_413",
                 "ep": 413,
                 "title": "chuong_413_ngoai_truyen_buoi_hop_lop_dau_tien",
                 "content": `# Ngoại truyện: Buổi họp lớp đầu tiên
@@ -82592,6 +82857,7 @@ Như nhận ra ánh mắt cầu cứu của tôi, cô nàng Futaba to lớn ng�
 *Vậy thì, chúc mọi người tận hưởng lễ hội trường của nhóm Kotarou.*`
             },
             {
+                "id": "ep_413",
                 "ep": 413,
                 "title": "chuong_413_cuoc_song_moi_trong_mo",
                 "content": `# Tập 413: Cuộc sống mới trong mơ
@@ -82869,6 +83135,7 @@ Và giờ đây, trước mặt cô đã xuất hiện một đứa con của th
 “Con xin tạ ơn 『Cự Thần Vĩ Đại』 đã phái một đứa con của thần đến bên con một lần nữa.”`
             },
             {
+                "id": "ep_414",
                 "ep": 414,
                 "title": "chuong_414_tap_268_5_maid_truong",
                 "content": `# Tập 268.5: Maid Trưởng
@@ -83174,6 +83441,7 @@ Với phương châm luôn hướng tới kết quả tốt nhất, Lớp trư�
 Dù liên tục bị một Reina tăng động xoay như chong chóng, nhưng dưới sự dẫn dắt tài tình của cô nàng Lớp trưởng, tổ quản gia nữ vẫn là nhóm đi tiên phong trong việc triển khai kế hoạch so với tất cả các tổ khác trong lớp.`
             },
             {
+                "id": "ep_414",
                 "ep": 414,
                 "title": "chuong_414_khong_co_no_le_khong_co_cuoc_song_1",
                 "content": `# Tập 414: Không có nô lệ, không có cuộc sống (1)
@@ -83533,6 +83801,7 @@ Không có ai cả. Rõ ràng anh ta đã tận mắt nhìn thấy cậu nhóc c
 Sau khi lục tung cả dinh thự tìm kiếm trong vô vọng, cuối cùng Dairick cũng tìm thấy Momoka tại khu lán trại nô lệ. Cậu nhóc đang ngủ ngon lành trong vòng tay ấm áp của Riza.`
             },
             {
+                "id": "ep_415",
                 "ep": 415,
                 "title": "chuong_415_khong_no_le_khong_sinh_ton_2",
                 "content": `# Tập 415: Không nô lệ, không sinh tồn (2)
@@ -83922,6 +84191,7 @@ Nhưng lúc này có oán hận gã buôn nô lệ thì cũng đã muộn.
 Momoka. Phải nhanh chóng tìm cách giải quyết đứa nô lệ bị nguyền rủa đó mới được. Winston bắt đầu nghiêm túc lo ngại rằng, nếu cứ để thế này, ngay cả sự tồn vong của trang trại New Hope cũng sẽ bị đe dọa.`
             },
             {
+                "id": "ep_415",
                 "ep": 415,
                 "title": "chuong_415_khoi_dau_cua_thoi_ky_chuan_bi",
                 "content": `# Tập 413: Khởi đầu của thời kỳ chuẩn bị
@@ -84193,6 +84463,7 @@ Không, bình tĩnh nào, vẫn chưa đến mức phải hoảng loạn. Phải
 “A... vâng...”`
             },
             {
+                "id": "ep_416",
                 "ep": 416,
                 "title": "chuong_416_tiec_harem",
                 "content": `# Tiệc Harem
@@ -84532,6 +84803,7 @@ Thực ra dù đề xuất món cơm cuộn trứng sốt Hayashi của tôi có
 Và khi giờ nghỉ trưa kết thúc, bạn Futaba, người dường như đã lờ mờ đoán được ý định của tôi, khẽ nói lời cảm ơn. Chỉ bấy nhiêu thôi cũng đủ để tôi cảm thấy công sức bướng bỉnh của mình hoàn toàn xứng đáng rồi.`
             },
             {
+                "id": "ep_416",
                 "ep": 416,
                 "title": "chuong_416_no_slave_no_life_3",
                 "content": `# Tập 416: No Slave, No Life (3)
@@ -84863,6 +85135,7 @@ Từ ngày mai trở đi, không biết chúng có còn giữ được mạng s�
 Gương mặt của Momoka khi vuốt ve đầu Latina với những cử chỉ đầy trìu mến lại lạnh lùng và không một chút cảm xúc, tựa như một con búp bê.`
             },
             {
+                "id": "ep_417",
                 "ep": 417,
                 "title": "chuong_417_nan_nhan_dau_tien",
                 "content": `# Tập 417: Nạn nhân đầu tiên
@@ -85122,6 +85395,7 @@ Cậu ta chỉ là một miếng mồi ngon bị lôi đi, và sẽ không bao g
 Momoka mỉm cười vẫy tay tiễn Junior và con Gấu Giáp Sắt đi khuất.`
             },
             {
+                "id": "ep_417",
                 "ep": 417,
                 "title": "chuong_417_loi_canh_bao_can_thiet_nhat",
                 "content": `# Lời cảnh báo cần thiết nhất
@@ -85429,6 +85703,7 @@ Nếu vì chơi thân từ nhỏ mà không thể coi nhau là đối tượng y
 Thật thế sao? Nếu đúng là vậy thì ít ra tôi cũng gỡ gạc được chút thể diện của đấng nam nhi rồi.`
             },
             {
+                "id": "ep_418",
                 "ep": 418,
                 "title": "chuong_418_ngoai_truyen_nhap_mon_gia_gai",
                 "content": `# Ngoại truyện: Nhập môn giả gái
@@ -85810,6 +86085,7 @@ Thật sự phải làm sao... ôi trời... đ-đành chịu vậy...
 Lớp trưởng phũ quá đi...`
             },
             {
+                "id": "ep_418",
                 "ep": 418,
                 "title": "chuong_418_chu_thuat_su_thuc_tinh",
                 "content": `# Tập 418: Chú thuật sư thức tỉnh
@@ -86069,6 +86345,7 @@ Dù là mệnh lệnh gì, cô cũng sẽ hoàn thành. Lần này, dù có ph�
 “Hãy lập khế ước với ta, và trở thành Tinh Linh Chiến Sĩ của ta nhé!”`
             },
             {
+                "id": "ep_419",
                 "ep": 419,
                 "title": "chuong_419_loi_moi",
                 "content": `# Tập 416: Lời mời
@@ -86410,6 +86687,7 @@ Momokawa Kotarou tôi đây, vào một thời điểm không ngờ tới nhất
 Thật không ngờ ngày này lại đến. Thế nên ông trời ơi, sao không báo trước cho con một tiếng chứ...`
             },
             {
+                "id": "ep_419",
                 "ep": 419,
                 "title": "chuong_419_cuoc_noi_loan_o_don_dien_new_hope_1",
                 "content": `# Tập 419: Cuộc nổi loạn ở đồn điền New Hope (1)
@@ -86631,6 +86909,7 @@ Nhưng chuyện này thì tôi có thể dùng phân thân để căn chỉnh th
 “Vậy thì, chúng ta đi xử lý ký túc xá ngay thôi nào.”`
             },
             {
+                "id": "ep_420",
                 "ep": 420,
                 "title": "chuong_420_cuoc_noi_day_o_don_dien_new_hope_2",
                 "content": `# Tập 420: Cuộc nổi dậy ở đồn điền New Hope (2)
@@ -86886,6 +87165,7 @@ Thế nhưng, đêm nay ông không thể chạy trốn.
 Một tiếng gầm rú đinh tai nhức óc làm rung chuyển cả đồn điền vang lên, Deyrick lập tức lao ra ngoài không chút do dự.`
             },
             {
+                "id": "ep_420",
                 "ep": 420,
                 "title": "chuong_420_buoi_hen_ho_dau_tien",
                 "content": `# Buổi hẹn hò đầu tiên
@@ -87149,6 +87429,7 @@ Bất chợt, một giọng nam cất lên gọi tên Randou. Tôi ngoảnh đ�
 Higuchi Kyouya, kẻ bất hảo chỉ xếp sau Tendou trong lớp, đột ngột xuất hiện trước mặt chúng tôi.`
             },
             {
+                "id": "ep_421",
                 "ep": 421,
                 "title": "chuong_421_ngoai_truyen_thanh_qua_cua_buoi_hen_ho",
                 "content": `# Ngoại truyện: Thành quả của buổi hẹn hò
@@ -87486,6 +87767,7 @@ Trước những lời động viên ấm áp của bạn bè, Meiko khẽ lau n
 Trước diệu kế đầy tự tin của Rurika, Meiko chỉ biết gật đầu đồng ý.`
             },
             {
+                "id": "ep_421",
                 "ep": 421,
                 "title": "chuong_421_cuoc_noi_day_o_don_dien_new_hope_3",
                 "content": `# Tập 421: Cuộc nổi dậy ở đồn điền New Hope (3)
@@ -87727,6 +88009,7 @@ Lũ Skeleton, những con zombie cơ bắp, và có lẽ là cả con 『Thiết
 Gầm lên một tiếng thét điên cuồng như dã thú, người cha đang bùng cháy trong ngọn lửa giận dữ tột cùng đã đập tan cửa kính cửa sổ rồi lao thẳng ra ngoài, hoàn toàn quên mất rằng đó chỉ là một cái bẫy chết người của kẻ sử dụng chú thuật.`
             },
             {
+                "id": "ep_422",
                 "ep": 422,
                 "title": "chuong_422_tinh_linh_chien_si",
                 "content": `# Tập 422: Tinh Linh Chiến Sĩ
@@ -87986,6 +88269,7 @@ Derrick thậm chí còn chưa kịp phản ứng để né tránh thì đã b�
 Ôi chao, lần này thì Derrick chắc chắn là chầu diêm vương thật rồi. Mà thôi, ngay cả khi ở trạng thái sung mãn nhất, hắn cũng chẳng có cửa làm đối thủ của Riza trong dạng ác quỷ này đâu.`
             },
             {
+                "id": "ep_422",
                 "ep": 422,
                 "title": "chuong_422_suc_manh_cua_dong_tien",
                 "content": `# Tập 419: Sức mạnh của đồng tiền
@@ -88361,6 +88645,7 @@ Bản thân tôi cũng chẳng biết tí gì về quy tắc tiếp khách cả.
 Và thế là, khóa huấn luyện hầu gái của tôi sẽ bắt đầu từ ngày mai.`
             },
             {
+                "id": "ep_423",
                 "ep": 423,
                 "title": "chuong_423_huan_luyen_lam_hau_gai_phan_1",
                 "content": `# Tập 420: Huấn luyện làm Hầu gái (Phần 1)
@@ -88660,6 +88945,7 @@ Tôi cũng phải nhanh chóng ăn xong hộp bento của mình thôi.
 A, đây đích thị là nụ cười của nữ thần rồi. Cảm ơn cậu nhiều nhé, bạn Futaba.`
             },
             {
+                "id": "ep_423",
                 "ep": 423,
                 "title": "chuong_423_giai_phong_no_le_1",
                 "content": `# Tập 423: Giải phóng nô lệ (1)
@@ -88989,6 +89275,7 @@ Chính vì thế, tôi phải khắc ghi điều đó vào sâu trong cơ thể 
 Chỉ khi tự mình gánh chịu nỗi đau tương đương với những gì mà toàn bộ nô lệ Diana đã phải trải qua, chúng ta mới có thể xây dựng nên một mối quan hệ thực sự bình đẳng, không phải sao?`
             },
             {
+                "id": "ep_424",
                 "ep": 424,
                 "title": "chuong_424_huan_luyen_maid_2",
                 "content": `# Tập 422: Huấn luyện Maid (2)
@@ -89294,6 +89581,7 @@ Dù tôi không còn ở cái tuổi chỉ cần được ăn chực là sướn
 Tuần trước tôi vừa có buổi hẹn hò đầu tiên trong đời với bạn Randou, không ngờ tuần này lại chuẩn bị đến nhà một đứa con gái lần đầu tiên trong đời... Phen này tôi lại phải chuẩn bị tinh thần thật kỹ rồi đây.`
             },
             {
+                "id": "ep_424",
                 "ep": 424,
                 "title": "chuong_424_giai_phong_no_le_2",
                 "content": `# Tập 424: Giải phóng nô lệ (2)
@@ -89577,6 +89865,7 @@ Cứ việc chọn theo ý mình. Dù vung roi hay không vung roi, tôi cũng s
 “Wonta, tao sẽ không tha thứ cho mày. Hãy nhận lấy quả báo đi, thằng khốn.”`
             },
             {
+                "id": "ep_425",
                 "ep": 425,
                 "title": "chuong_425_binh_minh_moi_binh_minh_cua_hy_vong",
                 "content": `# Tập 425: Bình minh mới, bình minh của hy vọng
@@ -89880,6 +90169,7 @@ Anh ta chỉ nở một nụ cười điềm đạm và trả lời.
 “Hô hô cạaa, vậy thì đáng mong chờ lắm đây nhaaa...”`
             },
             {
+                "id": "ep_426",
                 "ep": 426,
                 "title": "chuong_426_mot_tuan_truoc_ngay_khai_mac",
                 "content": `# Tập 423: Một tuần trước ngày khai mạc
@@ -90153,6 +90443,7 @@ Sắp tới, với tư cách là hầu gái át chủ bài kiêm Maid Trưởng,
 “Cứ giao cho tớ. Tớ sẽ biến cậu thành một mỹ nhân không thua kém gì Souma đâu.”`
             },
             {
+                "id": "ep_426",
                 "ep": 426,
                 "title": "chuong_426_day_chinh_la_chu_nhan_cua_toi",
                 "content": `# Tập 426: Đây chính là Chủ nhân của tôi
@@ -90420,6 +90711,7 @@ Trong lòng bàn tay phải của cậu, một làn sương đen kỳ bí đang 
 “——『Luyện Thành』 và 『Triệu Hoán』. Ta muốn tất cả các bạn ghi nhớ hai điều này.”`
             },
             {
+                "id": "ep_427",
                 "ep": 427,
                 "title": "chuong_427_ke_bat_hao",
                 "content": `# Tập 425: Kẻ Bất Hảo
@@ -90771,6 +91063,7 @@ Nếu đó là cái tên do chính người bạn thân nhất đặt cho, chắ
 Kotarou trò chuyện rôm rả với Ryuuichi một cách vô cùng tự nhiên — thế nhưng, ngay cả một người nhạy bén như Ryuuichi cũng không thể nhận ra rằng, từ đằng xa, có một nam sinh với ánh mắt đã hoàn toàn bị vặn vẹo đang đăm đăm dõi theo bóng dáng của hai người bọn họ.`
             },
             {
+                "id": "ep_428",
                 "ep": 428,
                 "title": "chuong_428_su_menh_cua_dung_gia",
                 "content": `# Tập 428: Sứ Mệnh Của Dũng Giả
@@ -90938,6 +91231,7 @@ Và tổ chức tiên phong gánh vác sứ mệnh viễn chinh công phá Tứ 
 “——**『DŨNG TINH THẬP TỰ ĐOÀN』 (Dũng Tinh Thập Tự Đoàn / Dũng Tinh Thập Tự Đoàn)!** Thiếp tin chắc rằng một Dũng Giả vĩ đại như Yuuto-sama nhất định sẽ gia nhập cùng chúng tôi!”`
             },
             {
+                "id": "ep_429",
                 "ep": 429,
                 "title": "chuong_429_tan_binh_sieu_khung_xuat_hien",
                 "content": `# Tập 429: Tân Binh Siêu Khủng Xuất Hiện!
@@ -91171,6 +91465,7 @@ Chỉ có điều, ngồi nghễu nghện trên lưng xác con Hỏa Ngưu khổ
 “TRÁNH RA! TRÁNH HẾT RA CHO ĐẠI CA YAMUDA VÀ CHIẾN TÍCH SIÊU HỎA NGƯU ĐI QUA MAUUUU!!”`
             },
             {
+                "id": "ep_430",
                 "ep": 430,
                 "title": "chuong_430_thang_nhoc_chuot_dong",
                 "content": `# Tập 430: Thằng Nhóc Chuột Đồng
@@ -91382,6 +91677,7 @@ Dẫu biết cái triết lý thực dụng của Kotarou là vô cùng tàn nh�
 Và thế là, chàng chiến binh Yamada Genki đã chính thức thu nạp thành viên đầu tiên vào tổ đội mạo hiểm giả của mình!`
             },
             {
+                "id": "ep_431",
                 "ep": 431,
                 "title": "chuong_431_nguy_co_ap_sat_vanheit",
                 "content": `# Tập 431: Nguy Cơ Áp Sát Vanheit
@@ -91613,6 +91909,7 @@ Và trên đỉnh ngọn núi lửa khổng lồ, một bóng đen vĩ đại ma
 Chứng kiến nguy cơ thành phố sắp bị xóa sổ, Thủ Hộ Chiến Sĩ Yamada Genki không một giây do dự, lập tức phóng hết tốc lực lao về phía tiền tuyến!`
             },
             {
+                "id": "ep_432",
                 "ep": 432,
                 "title": "chuong_432_don_dien_new_hope_cua_chung_toi",
                 "content": `# Tập 432: Đồn Điền New Hope Của Chúng Tôi
@@ -91770,6 +92067,7 @@ Cả hai giờ đây đã là những kẻ chung một chiến tuyến sống c�
 Hành trình công phá Đại Mê Cung tiếp theo của Chú thuật sư chính thức bắt đầu!`
             },
             {
+                "id": "ep_433",
                 "ep": 433,
                 "title": "chuong_433_me_cung_do_thi_vanheit",
                 "content": `# Tập 433: Mê Cung Đô Thị Vanheit
@@ -91887,6 +92185,7 @@ Muốn công phá Đại Mê Cung, có những đồng đội đáng tin cậy l
 Và giờ đây, tổ đội viễn chinh của Momokawa Kotarou tại Mê Cung Đô Thị Vanheit đã chính thức tề tựu đông đủ!`
             },
             {
+                "id": "ep_434",
                 "ep": 434,
                 "title": "chuong_434_lao_binh_bat_tu_1",
                 "content": `# Tập 434: Lão Binh Bất Tử (1)
@@ -92021,6 +92320,7 @@ Cứ yên tâm. Chú thuật sư Momokawa Kotarou này đã từng nối thành 
 *Nào... Hãy ký khế ước với tôi, và trở thành Chiến Binh Cải Tạo (Cyborg) phục vụ Chú thần đi nhé!*`
             },
             {
+                "id": "ep_435",
                 "ep": 435,
                 "title": "chuong_435_lao_binh_bat_tu_2",
                 "content": `# Tập 435: Lão Binh Bất Tử (2)
@@ -92160,6 +92460,7 @@ Gerald khoác lên mình bộ giáp nhẹ kháng nhiệt do chính tay tôi ch�
 “Thiếu chủ, tôi đi săn quái lấy lại cảm giác đây!!”`
             },
             {
+                "id": "ep_436",
                 "ep": 436,
                 "title": "chuong_436_hac_phat_giao_hoi",
                 "content": `# Tập 436: Hắc Phát Giáo Hội
@@ -92261,6 +92562,7 @@ Từng đàn quái vật dữ tợn từ lòng đất bắt đầu tràn lên m�
 Và chàng chiến binh mang Thiên Chức Thủ Hộ — Yamada Genki — vẫn bặt vô âm tín, chưa thể trở về!`
             },
             {
+                "id": "ep_437",
                 "ep": 437,
                 "title": "chuong_437_phao_dai_general_guard",
                 "content": `# Tập 437: Pháo Đài General Guard
@@ -92414,6 +92716,7 @@ Cậu thiếu niên vươn tay xoa đầu cô bé, dõng dạc tuyên bố:
 “Tôi là **Momokawa Kotarou** — đồng đội chí cốt của 『Thủ Hộ Chiến Sĩ』 Yamada Genki! Cho nên dù em không cầu xin... **TÔI CŨNG NHẤT ĐỊNH SẼ ĐI CỨU CẬU ẤY!**”`
             },
             {
+                "id": "ep_438",
                 "ep": 438,
                 "title": "chuong_438_thu_ho_chien_si_tai_ngo",
                 "content": `# Tập 438: Thủ Hộ Chiến Sĩ Tái Ngộ
@@ -92542,6 +92845,7 @@ Nhìn thấy gương mặt quen thuộc cùng cô nàng hầu gái hộ pháp si
 “Mẹ kiếp... Sống rồi! Momokawa... Tôi đã chờ cậu mãi đấy!!”`
             },
             {
+                "id": "ep_439",
                 "ep": 439,
                 "title": "chuong_439_hau_chien_long_tai_vanheit",
                 "content": `# Tập 439: Hậu Chiến Long Tai Vanheit
@@ -92659,6 +92963,7 @@ Ngay tại chỗ, General Guard buộc phải cam kết:
 Một bản khế ước đôi bên cùng có lợi đã được ký kết hoàn hảo!`
             },
             {
+                "id": "ep_440",
                 "ep": 440,
                 "title": "chuong_440_chuan_bi_cong_pha_hoa_son_than_dien_1",
                 "content": `# Tập 440: Chuẩn Bị Công Phá Hỏa Sơn Thần Điện (1)
@@ -95927,6 +96232,7 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
         "title": "Cô Bạn Thuở Nhỏ Khăng Khăng Bạn Đời Của Cậu Ấy Là Tôi ―― Hóa Ra Người Phát Điên Lại Chính Là Cô Ấy",
         "chapters": [
             {
+                "id": "ep_1",
                 "ep": 1,
                 "title": "chuong_1_chuong_1_co_ban_thuo_nho_khang_khang_va_tieu_thu_t",
                 "content": `**Chương 1: Cô bạn thuở nhỏ khăng khăng, và tiểu thư trầm lặng**
@@ -95986,6 +96292,7 @@ Một vết nứt rạn khẽ len vào bầu không khí chúc tụng, vài quý
 Mireille cất giọng nũng nịu hỏi, nhưng Lucas không đáp lời. Đôi mắt màu xám bạc của anh, xuyên qua bờ vai của những kẻ đang vỗ tay chúc tụng, chỉ chăm chú nhìn về phía Elena. Elena đón nhận ánh nhìn ấy và hạ quyết tâm: dẫu bản thân không thể tự mình đứng ra nhận lấy danh phận, nhưng một khi anh cần sự giúp đỡ, cô tuyệt đối sẽ không quay lưng. Giữa lúc ban nhạc bắt đầu tấu lên một khúc ca rộn rã mới, một cậu hầu trẻ tuổi dùng khăn vải nhặt mẩu bánh mì nhân thịt rơi dưới sàn lên, khẽ thở dài sao cho không ai nhìn thấy.`
             },
             {
+                "id": "ep_2",
                 "ep": 2,
                 "title": "chuong_2_chuong_2_cang_cham_vao_long_cang_xa_cach",
                 "content": `**Chương 2: Càng chạm vào, lòng càng xa cách**
@@ -96127,6 +96434,7 @@ Miếng bánh nướng bị mẻ một góc, lớp giấy gói thấm đẫm d�
 Khi Lucas cất lời, ngón tay Elena khựng lại trên lớp giấy gói. Cô cụp mắt xuống như thể đã biết trước điều gì đó, nhưng không đáp lại ngay. Ánh mắt cô nhìn anh trong đêm dạ yến và sự ngập ngừng đêm nay như nối liền lại với nhau, dấy lên trong lòng Lucas một mối nghi hoặc mới. Càng chạm vào Mireille – kẻ tự xưng là bạn đời – anh lại càng đau đớn, trong khi chỉ cần ở cạnh một Elena chẳng hề đòi hỏi điều gì, cơ thể anh lại tìm thấy sự an yên. Khoảnh khắc thừa nhận sự thật ấy, những điều anh từng cố ép mình tin là đúng đắn bấy lâu nay bỗng lặng lẽ sụp đổ ngay dưới chân mình.`
             },
             {
+                "id": "ep_3",
                 "ep": 3,
                 "title": "chuong_3_chuong_3_mui_huong_gia_doi_va_su_cong_huong_dich_t",
                 "content": `Chương 3: Mùi hương giả dối và sự cộng hưởng đích thực
@@ -96617,6 +96925,7 @@ Elena không lập tức đáp lại bằng những lời mừng rỡ, mà chỉ
         "title": "Tôi Đáng Lẽ Chỉ Là Một Ác Nữ Phản Diện Thông Thường Mà",
         "chapters": [
             {
+                "id": "ep_1",
                 "ep": 1,
                 "title": "chuong_1_chuong_1_loi_mo_dau",
                 "content": `# Chương 1: Lời mở đầu
@@ -96754,6 +97063,7 @@ Cô cũng sẽ không phải trải qua những chuỗi ngày bị giam cầm tr
 Ý thức của Aurelia dần chìm vào những ký ức về cuốn tiểu thuyết 『Hoàng Tử Băng Vương Và Thiếu Nữ Phỉ Thúy』 mà cô đã đọc ở kiếp trước.`
             },
             {
+                "id": "ep_2",
                 "ep": 2,
                 "title": "chuong_2_hoang_tu_bang_vuong_va_thieu_nu_phi_thuy",
                 "content": `# Tập 2: 『Hoàng Tử Băng Vương Và Thiếu Nữ Phỉ Thúy』
@@ -96973,6 +97283,7 @@ Thế nhưng, cảm giác nhẹ nhõm và thanh thản rõ ràng đang chiếm p
 Nỗi cô đơn này, rồi cũng sẽ phai nhạt dần theo thời gian mà thôi.`
             },
             {
+                "id": "ep_3",
                 "ep": 3,
                 "title": "chuong_3_nhung_ngay_thang_o_lanh_dia",
                 "content": `# Tập 3: Những ngày tháng ở lãnh địa
@@ -97180,6 +97491,7 @@ Aurelia trao bức thư đã được dán kín cho Nina.
 Lần này, chắc chắn Dylan sẽ hiểu được rằng cô đang có một cuộc sống vô cùng an nhiên và tự tại ở nơi đây.`
             },
             {
+                "id": "ep_4",
                 "ep": 4,
                 "title": "chuong_4_cong_tu_ba_tuoc_dylan_cromwell",
                 "content": `# Tập 4: Công tử Bá tước Dylan Cromwell
@@ -97435,6 +97747,7 @@ Có vẻ như đám tùy tùng do Aurelia sai khiến đã hành động quá k�
 Hàng loạt sự thật chấn động đang dần được phơi bày ngay trước mắt Aurelia theo một cách không thể lường trước được.`
             },
             {
+                "id": "ep_5",
                 "ep": 5,
                 "title": "chuong_5_cong_tu_nha_tu_tuoc_theodore_vester",
                 "content": `# Tập 5: Công tử nhà Tử tước, Theodore Vester
@@ -97664,6 +97977,7 @@ Cậu ta thở dài một tiếng thườn thượt.
 Trước thái độ thất lễ của Theodore, tôi cũng bực bội thở dài đáp trả.`
             },
             {
+                "id": "ep_6",
                 "ep": 6,
                 "title": "chuong_6_chuong_6_su_that_chua_tung_biet",
                 "content": `# Chương 6: Sự thật chưa từng biết ①
@@ -97837,16 +98151,19 @@ Nghĩ vậy, cô quyết định không bận tâm thêm nữa.
 Cô nhấp một ngụm trà sữa mật ong đã nguội ngắt. Vị ngọt dịu nhẹ nhàng lan tỏa trong khoang miệng.`
             },
             {
+                "id": "ep_7",
                 "ep": 7,
                 "title": "chuong_7",
                 "content": `*   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *`
             },
             {
+                "id": "ep_8",
                 "ep": 8,
                 "title": "chuong_8",
                 "content": `*   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *`
             },
             {
+                "id": "ep_9",
                 "ep": 9,
                 "title": "chuong_9_su_that_tu_hoang_tu_bang_gia_felix",
                 "content": `# Tập 9: Sự thật từ "Hoàng tử Băng giá" Felix
@@ -98032,6 +98349,7 @@ Sự im lặng của 『Hoàng tử Băng giá』 Felix thực sự khiến cô 
 Trong lòng Aurelia không ngừng gào thét gọi tên cô hầu gái thân cận vẫn luôn túc trực bên mình.`
             },
             {
+                "id": "ep_10",
                 "ep": 10,
                 "title": "chuong_10_khoang_thoi_gian_nguong_ngung",
                 "content": `# Tập 10: Khoảng thời gian ngượng ngùng
@@ -98239,6 +98557,7 @@ Vấn đề là những gì xảy ra sau đó kìa.
 Aurelia đưa mắt nhìn ra ngoài cửa sổ, vội vàng giục Felix ra về để tránh việc anh ta lại nói ra điều gì đó phiền phức hơn.`
             },
             {
+                "id": "ep_11",
                 "ep": 11,
                 "title": "chuong_11_la_thu_bao_tin_ghe_tham",
                 "content": `# Tập 11: Lá thư báo tin ghé thăm
@@ -98402,6 +98721,7 @@ Nói rồi, cô nhún vai.
 Dù thế nào đi nữa, cô cũng dự định sẽ kết thúc chuyện này thật nhanh chóng để tránh rắc rối.`
             },
             {
+                "id": "ep_12",
                 "ep": 12,
                 "title": "chuong_12_chuyen_vieng_tham_cua_cac_thanh_vien_hoi_hoc_sinh",
                 "content": `# Tập 12: Chuyến viếng thăm của các thành viên Hội học sinh
@@ -98543,6 +98863,7 @@ Trước lời cảm ơn và xin lỗi cuối cùng cũng được thốt ra, Au
 Cuối cùng cũng có thể đi vào vấn đề chính. Aurelia thở phào nhẹ nhõm và đề xuất thảo luận về các nội dung cuộc họp.`
             },
             {
+                "id": "ep_13",
                 "ep": 13,
                 "title": "chuong_13_tai_lieu_buoi_bao_cao_nghien_cuu",
                 "content": `# Tập 13: Tài liệu buổi báo cáo nghiên cứu
@@ -98760,6 +99081,7 @@ Trước bầu không khí có phần ngột ngạt này, Aurelia lẩm bẩm đ
 Quả nhiên, xen vào chuyện của người khác chẳng bao giờ mang lại kết quả tốt đẹp gì.`
             },
             {
+                "id": "ep_14",
                 "ep": 14,
                 "title": "chuong_14_qua_khu_doc_long_hoc_hoi",
                 "content": `# Tập 14: Quá khứ dốc lòng học hỏi
@@ -98997,6 +99319,7 @@ Dù bây giờ anh ta có muốn xích lại gần đi chăng nữa, sự viến
 Nuốt ngược những lời thật lòng suýt nữa thì thốt ra vào trong, Aurelia xếp gọn các tài liệu lại rồi trao chúng cho Cedric.`
             },
             {
+                "id": "ep_15",
                 "ep": 15,
                 "title": "chuong_15_cong_tu_nha_hau_tuoc_cedric_grandier",
                 "content": `# Tập 15: Công tử nhà Hầu tước Cedric Grandier
@@ -99140,6 +99463,7 @@ Nắm được điểm yếu bất ngờ của đối phương, Aurelia nở m�
 Nhìn Cedric thở dài ngao ngán với gương mặt nhăn nhó, Aurelia thầm reo lên đầy đắc ý: *Cho chừa nhé!*.`
             },
             {
+                "id": "ep_16",
                 "ep": 16,
                 "title": "chuong_16_sau_khi_ho_ra_ve",
                 "content": `# Tập 16: Sau khi họ ra về
@@ -99317,6 +99641,7 @@ Cô không hề có ý định bước lên sân khấu đó một lần nữa.
 Aurelia quyết định sẽ không bao giờ dính dáng đến họ thêm một lần nào nữa.`
             },
             {
+                "id": "ep_17",
                 "ep": 17,
                 "title": "chuong_17_sau_chuyen_ghe_tham_nang_noi_lanh_dia",
                 "content": `# Tập 17: Sau chuyến ghé thăm nàng nơi lãnh địa
@@ -99538,6 +99863,7 @@ Nếu tất cả những điều đó đều là bản chất thật sự của 
 Chỉ đến khi hôn ước đã hoàn toàn bị hủy bỏ, niềm hối hận muộn màng và nặng trĩu mới bắt đầu khắc sâu vào tâm khảm của Felix.`
             },
             {
+                "id": "ep_18",
                 "ep": 18,
                 "title": "chuong_18_nhung_vi_khach_ghe_tham_lan_nua",
                 "content": `# Tập 18: Những vị khách ghé thăm lần nữa
@@ -99751,6 +100077,7 @@ Sự lạnh lẽo trong đôi mắt ấy chính là rào cản ngài ấy dựng
 Giữa căn phòng im phăng phắc, Aurelia vắt óc cố gắng nhớ lại từng tình tiết trong cuốn tiểu thuyết 『Hoàng Tử Băng Vương Và Thiếu Nữ Phỉ Thúy』.`
             },
             {
+                "id": "ep_19",
                 "ep": 19,
                 "title": "chuong_19_the_gioi_van_luon_khac_sau_trong_tam_tri",
                 "content": `# Tập 19: Thế giới vẫn luôn khắc sâu trong tâm trí
@@ -99904,6 +100231,7 @@ Thà phải chọn đi ăn ở mấy gian hàng lề đường mà cô ta vốn 
 Nhìn Cedric cứng họng câm nín, tôi cảm thấy vô cùng sảng khoái, liền nở một nụ cười rạng rỡ với mọi người: “Nào, thời gian cũng không có nhiều, chúng ta đi thôi.”`
             },
             {
+                "id": "ep_20",
                 "ep": 20,
                 "title": "chuong_20_tai_khu_pho_suoi_nuoc_nong",
                 "content": `# Tập 20: Tại khu phố suối nước nóng
@@ -100065,6 +100393,7 @@ Dưới ánh nắng mặt trời, mái tóc vàng nhạt của Sylphy lấp lán
 Đúng như những gì lũ trẻ đã nói, sắc vàng ấy rực rỡ tựa như một nàng công chúa bước ra từ thế giới cổ tích.`
             },
             {
+                "id": "ep_21",
                 "ep": 21,
                 "title": "chuong_21_tai_khu_pho_suoi_nuoc_nong_phan_2",
                 "content": `# Tập 21: Tại khu phố suối nước nóng (Phần 2)
@@ -100228,6 +100557,7 @@ Vết thương đã lành lặn hoàn toàn, cô đã quên béng mất việc m
 Khẽ lẩm bẩm, Aurelia nhìn xuống cổ chân trái với vẻ mặt đầy nghiêm trọng.`
             },
             {
+                "id": "ep_22",
                 "ep": 22,
                 "title": "chuong_22_tren_chuyen_xe_ngua_tro_ve_tu_lanh_dia",
                 "content": `# Tập 22: Trên chuyến xe ngựa trở về từ lãnh địa
@@ -100379,6 +100709,7 @@ Những khía cạnh của cô mà anh chưa từng được biết, người ki
 —Anh lại ích kỷ ước ao một điều như thế.`
             },
             {
+                "id": "ep_23",
                 "ep": 23,
                 "title": "chuong_23_mot_minh",
                 "content": `# Tập 23: Một mình
@@ -100514,6 +100845,7 @@ Giờ đây, bên cạnh Aurelia chẳng còn một ai.
 Cô cảm giác như chỉ có mình mình bị bỏ lại ở một nơi xa xôi, cô độc.`
             },
             {
+                "id": "ep_24",
                 "ep": 24,
                 "title": "chuong_24_vi_khach_khong_ngo_toi",
                 "content": `# Tập 24: Vị khách không ngờ tới
@@ -100735,6 +101067,7 @@ Dù trong lòng vẫn chưa hết bàng hoàng, nhưng một khi Theodore đã t
 Ngay vào thời điểm câu chuyện chuẩn bị đi đến hồi kết, Theodore đang tự tay thay đổi cả tương lai của thế giới này.`
             },
             {
+                "id": "ep_25",
                 "ep": 25,
                 "title": "chuong_25_gio_nay_co_ta_dang",
                 "content": `# Tập 25: Giờ này cô ta đang...
@@ -100866,6 +101199,7 @@ Trả lời Felix xong, cô quay sang gọi Nina.
 Bị Nina nhìn chằm chằm mà không nói lời nào, Aurelia vội vàng thanh minh rồi giục cô hầu gái nhanh chóng chuẩn bị.`
             },
             {
+                "id": "ep_26",
                 "ep": 26,
                 "title": "chuong_26_tu_lanh_dia_tro_ve_vuong_do",
                 "content": `# Tập 26: Từ lãnh địa trở về Vương đô
@@ -101071,6 +101405,7 @@ Có vẻ như cậu ấy rất biết ý mà vờ như tin vào lời chống ch
 *(Từ chương sau sẽ bắt đầu phần Vương đô!)*`
             },
             {
+                "id": "ep_27",
                 "ep": 27,
                 "title": "chuong_27_tro_ve_vuong_do",
                 "content": `# Tập 27: Trở về Vương đô
@@ -101168,6 +101503,7 @@ Càng nói, giọng điệu của Teo càng trở nên ủ dột.
 Dù tuyệt đối không thể để lộ ra ngoài, nhưng trong lòng Aurelia đang vô cùng háo hức mong chờ những câu chuyện dở khóc dở cười sắp tới.`
             },
             {
+                "id": "ep_28",
                 "ep": 28,
                 "title": "chuong_28_tam_cong_chua_beatrice",
                 "content": `# Tập 28: Tam Công chúa Beatrice
@@ -101345,6 +101681,7 @@ Quả đúng là người có thể khiến Theodore phải phát ngán.
 Ban đầu cô chẳng thiết tha gì việc gặp mặt, nhưng không ngờ vị công chúa này lại là một đối tượng giải trí thú vị ngoài mong đợi của Aurelia.`
             },
             {
+                "id": "ep_29",
                 "ep": 29,
                 "title": "chuong_29_them_mot_chien_thang",
                 "content": `# Tập 29: Thêm một chiến thắng
@@ -101502,6 +101839,7 @@ Cedric dừng bút, ngẩng đầu lên với vẻ bực bội rõ rệt.
 Chàng trai với mái tóc màu vàng cần tây nhạt khẽ thở dài, gương mặt lộ rõ vẻ ngán ngẩm.`
             },
             {
+                "id": "ep_30",
                 "ep": 30,
                 "title": "chuong_30_dieu_nam_o_phia_cuoi_con_duong",
                 "content": `# Tập 30: Điều nằm ở phía cuối con đường
@@ -101673,6 +102011,7 @@ Nghe những lời của Aurelia, gương mặt Cedric nhăn nhó lại, trông 
 Hồi tưởng lại quãng đường về nhà lê lết từng bước chân của bản thân ở kiếp trước, Aurelia tốt bụng đề xuất thêm.`
             },
             {
+                "id": "ep_31",
                 "ep": 31,
                 "title": "chuong_31_ky_uc_ve_cau_thang_hoc_vien",
                 "content": `# Tập 31: Ký ức về cầu thang học viện
@@ -101902,6 +102241,7 @@ Nhìn Aurelia mỉm cười rạng rỡ, Cedric thở dài bất lực định n
 Trước lời dặn dò kỹ lưỡng của Aurelia, Cedric không nói gì thêm mà chỉ khẽ gật đầu đồng ý.`
             },
             {
+                "id": "ep_32",
                 "ep": 32,
                 "title": "chuong_32_ac_nu_doi_dau_ac_nu",
                 "content": `# Tập 32: Ác nữ đối đầu Ác nữ
@@ -102127,6 +102467,7 @@ Sau khi đã thỏa mãn, Aurelia nhanh chóng chấn chỉnh lại tinh thần.
 Cô tập trung trở lại vào xấp tài liệu và cầm bút lên.`
             },
             {
+                "id": "ep_33",
                 "ep": 33,
                 "title": "chuong_33_nang_ac_nu_bi_bo_lai",
                 "content": `# Tập 33: Nàng ác nữ bị bỏ lại
@@ -102290,6 +102631,7 @@ Cánh cửa vừa khép lại, phòng Hội học sinh mới vừa rồi còn �
 Aurelia ngẩn ngơ nhìn chằm chằm vào cánh cửa đã đóng chặt một lúc lâu.`
             },
             {
+                "id": "ep_34",
                 "ep": 34,
                 "title": "chuong_34_camilla_va_gazel_nhung_nguoi_hau_can_cua_nang_cong_chua_phan_dien",
                 "content": `# Tập 34: Camilla và Gazel, những người hầu cận của nàng công chúa phản diện
@@ -102477,6 +102819,7 @@ Ngay khoảnh khắc cắn nhẹ, vị chua thanh mát của lớp kem chanh chu
 Nghe cô giục, Camilla mới rụt rè cầm nĩa hướng về phía đĩa bánh của mình.`
             },
             {
+                "id": "ep_35",
                 "ep": 35,
                 "title": "chuong_35_camilla_va_gazel_nhung_ke_hau_can_cua_cong_chua_ac_nu_phan_2",
                 "content": `# Tập 35: Camilla và Gazel, những kẻ hầu cận của Công chúa ác nữ (Phần 2)

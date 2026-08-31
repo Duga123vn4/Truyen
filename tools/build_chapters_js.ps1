@@ -112,6 +112,7 @@ foreach ($dir in $novelDirs) {
             $content = $content.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
 
             [void]$sb.AppendLine("            {")
+            [void]$sb.AppendLine("                " + $q + "id" + $q + ": " + $q + "ep_" + $ep + $q + ",")
             [void]$sb.AppendLine("                " + $q + "ep" + $q + ": " + $ep + ",")
             $escapedTitle = $title.Replace('"', '\"')
             [void]$sb.AppendLine("                " + $q + "title" + $q + ": " + $q + $escapedTitle + $q + ",")

@@ -1553,7 +1553,7 @@
             <div id="novelSubTitle">Light Novel Reader & Audio Library</div>
         </div>
         <div class="header-btns">
-            <select id="novelSelectDropdown" class="novel-select-box" onchange="switchNovel(this.value)" title="Chọn bộ truyện"></select>
+            <select id="novelSelectDropdown" class="novel-select-box" autocomplete="off" onchange="switchNovel(this.value)" title="Chọn bộ truyện"></select>
             
             <!-- Studio Tools Unified Dropdown -->
             <div class="studio-dropdown">
@@ -1595,7 +1595,7 @@
     <!-- Chapter Navigation Bar (Library Tab) -->
     <div class="chapter-nav-bar" id="chapterNavBar">
         <button class="btn" id="prevChapBtn" onclick="prevChapter()">◄ Chương trước</button>
-        <select class="chapter-select" id="chapterSelectDropdown" onchange="onChapterSelectChange(this.value)"></select>
+        <select class="chapter-select" id="chapterSelectDropdown" autocomplete="off" onchange="onChapterSelectChange(this.value)"></select>
         <button class="btn" id="nextChapBtn" onclick="nextChapter()">Chương sau ►</button>
     </div>
 
@@ -3743,24 +3743,28 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
             populateChapterDropdown();
 
             let novelKey = window.ACTIVE_NOVEL_KEY || 'default';
-            let savedChapId = localStorage.getItem('current_chapter_id_' + novelKey) || localStorage.getItem('current_chapter_id');
-            let savedChapIdx = localStorage.getItem('current_chapter_idx_' + novelKey);
-            
-            if (savedChapId && chapterList.length > 0) {
-                let idx = chapterList.findIndex(c => c.id === savedChapId || String(c.id) === String(savedChapId));
-                if (idx >= 0) {
-                    currentChapterIdx = idx;
-                } else if (savedChapIdx !== null && parseInt(savedChapIdx) < chapterList.length) {
-                    currentChapterIdx = parseInt(savedChapIdx);
-                } else {
-                    currentChapterIdx = 0;
+            let rawSavedEp = localStorage.getItem('current_chapter_ep_' + novelKey) || localStorage.getItem('current_chapter_id_' + novelKey) || localStorage.getItem('current_chapter_id');
+            let rawSavedIdx = localStorage.getItem('current_chapter_idx_' + novelKey);
+
+            let targetIdx = 0;
+            if (rawSavedEp && rawSavedEp !== "undefined" && rawSavedEp !== "null" && chapterList.length > 0) {
+                let foundIdx = chapterList.findIndex(c => 
+                    String(c.ep) === String(rawSavedEp) || 
+                    (c.id && String(c.id) === String(rawSavedEp)) ||
+                    (c.id && String(c.id) === `ep_${rawSavedEp}`)
+                );
+                if (foundIdx >= 0) {
+                    targetIdx = foundIdx;
+                } else if (rawSavedIdx !== null && !isNaN(parseInt(rawSavedIdx))) {
+                    let pIdx = parseInt(rawSavedIdx);
+                    if (pIdx >= 0 && pIdx < chapterList.length) targetIdx = pIdx;
                 }
-            } else if (savedChapIdx !== null && chapterList.length > 0) {
-                let idx = parseInt(savedChapIdx);
-                currentChapterIdx = (idx >= 0 && idx < chapterList.length) ? idx : 0;
-            } else {
-                currentChapterIdx = 0;
+            } else if (rawSavedIdx !== null && !isNaN(parseInt(rawSavedIdx)) && chapterList.length > 0) {
+                let pIdx = parseInt(rawSavedIdx);
+                if (pIdx >= 0 && pIdx < chapterList.length) targetIdx = pIdx;
             }
+
+            currentChapterIdx = targetIdx;
 
             if (chapterList.length > 0) {
                 loadChapterByIdx(currentChapterIdx);
@@ -3787,21 +3791,32 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
             if (idx < 0 || idx >= chapterList.length) return;
             currentChapterIdx = idx;
             let chap = chapterList[idx];
+            let epVal = chap.ep || (idx + 1);
 
-            document.getElementById('chapterSelectDropdown').value = idx;
-            document.getElementById('volumeTitle').innerText = chap.volume || "Light Novel";
-            document.getElementById('chapterTitle').innerText = chap.title;
+            let dropdown = document.getElementById('chapterSelectDropdown');
+            if (dropdown) {
+                dropdown.value = idx;
+            }
+
+            let volEl = document.getElementById('volumeTitle');
+            if (volEl) volEl.innerText = chap.volume || "Light Novel";
+            let chapTitleEl = document.getElementById('chapterTitle');
+            if (chapTitleEl) chapTitleEl.innerText = chap.title;
             
             let novelKey = window.ACTIVE_NOVEL_KEY || 'default';
-            localStorage.setItem('current_chapter_id_' + novelKey, chap.id);
+            localStorage.setItem('current_chapter_ep_' + novelKey, epVal);
             localStorage.setItem('current_chapter_idx_' + novelKey, idx);
-            localStorage.setItem('current_chapter_id', chap.id);
+            localStorage.setItem('current_chapter_id_' + novelKey, `ep_${epVal}`);
 
             // Update prev/next button states
-            document.getElementById('prevChapBtn').disabled = (idx === 0);
-            document.getElementById('nextChapBtn').disabled = (idx === chapterList.length - 1);
-            document.getElementById('botPrevBtn').disabled = (idx === 0);
-            document.getElementById('botNextBtn').disabled = (idx === chapterList.length - 1);
+            let prevBtn = document.getElementById('prevChapBtn');
+            if (prevBtn) prevBtn.disabled = (idx === 0);
+            let nextBtn = document.getElementById('nextChapBtn');
+            if (nextBtn) nextBtn.disabled = (idx === chapterList.length - 1);
+            let botPrevBtn = document.getElementById('botPrevBtn');
+            if (botPrevBtn) botPrevBtn.disabled = (idx === 0);
+            let botNextBtn = document.getElementById('botNextBtn');
+            if (botNextBtn) botNextBtn.disabled = (idx === chapterList.length - 1);
 
             let onContentReady = (content) => {
                 parseMarkdownToStory(content, autoPlay);
@@ -3846,8 +3861,9 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
             } else {
                 // Khôi phục câu đang đọc dở (chỉ khôi phục nếu chưa đọc tới cuối chương)
                 let novelKey = window.ACTIVE_NOVEL_KEY || 'default';
-                let chapId = chapterList[currentChapterIdx].id;
-                let savedParaStr = localStorage.getItem('saved_para_' + novelKey + '_' + chapId) || localStorage.getItem('saved_para_' + chapId);
+                let curChap = chapterList[currentChapterIdx];
+                let epVal = curChap ? (curChap.ep || (currentChapterIdx + 1)) : (currentChapterIdx + 1);
+                let savedParaStr = localStorage.getItem('saved_para_' + novelKey + '_' + epVal) || localStorage.getItem('saved_para_' + epVal);
                 let savedPara = savedParaStr !== null ? parseInt(savedParaStr) : 0;
 
                 if (!isNaN(savedPara) && savedPara > 0 && savedPara < paragraphs.length) {
@@ -4391,9 +4407,10 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
 
             if (currentTab === 'library' && chapterList[currentChapterIdx]) {
                 let novelKey = window.ACTIVE_NOVEL_KEY || 'default';
-                let chapId = chapterList[currentChapterIdx].id;
-                localStorage.setItem('saved_para_' + novelKey + '_' + chapId, paraIdx);
-                localStorage.setItem('saved_para_' + chapId, paraIdx);
+                let curChap = chapterList[currentChapterIdx];
+                let epVal = curChap ? (curChap.ep || (currentChapterIdx + 1)) : (currentChapterIdx + 1);
+                localStorage.setItem('saved_para_' + novelKey + '_' + epVal, paraIdx);
+                localStorage.setItem('saved_para_' + epVal, paraIdx);
             }
 
             document.getElementById('currentProgressNum').innerText = paraIdx + 1;
