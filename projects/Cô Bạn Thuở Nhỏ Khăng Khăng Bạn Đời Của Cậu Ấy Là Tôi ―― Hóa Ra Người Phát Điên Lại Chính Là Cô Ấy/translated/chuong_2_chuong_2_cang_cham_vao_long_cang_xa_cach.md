@@ -1,3 +1,5 @@
+# Tập 2: Chuong 2 Cang Cham Vao Long Cang Xa Cach
+
 **Chương 2: Càng chạm vào, lòng càng xa cách**
 
 Ba ngày sau đêm dạ yến, nhà ăn của trụ sở đoàn kỵ sĩ nồng nặc mùi xúc xích nướng cùng súp đậu hầm. Dù chuông báo trưa đã điểm quá nửa khắc, đĩa gỗ đặt trước mặt Lucas vẫn chẳng hề có dấu vết đụng đũa, lớp váng mỡ trắng bắt đầu đông lại trên mặt nước dùng. Những kỵ sĩ vừa kết thúc buổi huấn luyện vắt áo khoác màu xám ướt đẫm mồ hôi lên lưng ghế, vừa chấm bánh mì đen vào súp đậu vừa rôm rả bàn tán về ván cược tối qua hay chuyện con ngựa cái ở chuồng vừa sinh một chú ngựa con. Bình thường, Lucas sẽ không rời bàn trước khi cấp dưới dùng bữa xong, thế nhưng hôm nay anh chỉ tựa một tay lên trán, nhấp từng ngụm nước đã nguội ngắt.

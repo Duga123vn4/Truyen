@@ -1,3 +1,5 @@
+# Tập 270: Chuong 270 Toi Tang Sau Nhat 2
+
 **Chương 270: Tới tầng sâu nhất (2)**
 
 “——Này, Ueta, Nakai, tụi mày thấy thế nào?”

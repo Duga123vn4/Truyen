@@ -1,3 +1,5 @@
+# Tập 3: Chuong 3 Mui Huong Gia Doi Va Su Cong Huong Dich T
+
 Chương 3: Mùi hương giả dối và sự cộng hưởng đích thực
 
 Sáng hôm sau, Alfred quỳ một gối trên hành lang vắng vẻ của trụ sở kỵ sĩ đoàn, ghé sát mũi vào kẽ hở giữa những tấm ván sàn. Cơn mưa rả rích kéo dài đến tận trước lúc rạng đông khiến toàn bộ tòa nhà ẩm ướt, vương lại mùi áo choàng ướt cùng mùi gỗ cũ. Dưới nhà bếp, món súp hành tây cho bữa sáng đang được ninh nhừ, bốc làn khói thơm phức cùng với mẻ bánh mì đen nướng cháy. Thế nhưng, riêng một góc hành lang này vẫn bám lại mùi hoa ly nồng nặc đến mức lấn át hết thảy mọi thứ xung quanh. Đó chính là nơi Mireille đã đứng ngày hôm qua, và trên sàn vẫn còn hằn lại vệt mực đen mờ mờ do nàng giẫm phải.

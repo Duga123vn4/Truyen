@@ -1,3 +1,5 @@
+# Tập 254: Da Vai Ngay Troi Qua Ke Tu Khi Chung Toi Dung Can Cu Duoi Chan Nui
+
 Đã vài ngày trôi qua kể từ khi chúng tôi dựng căn cứ dưới chân núi.
 
 Trên bãi sông, một "ngôi nhà đậu phụ" tường đá có kèm cả nhà tắm lớn, được bao quanh bởi một bức tường phòng thủ cao khoảng 5 mét, đã được dựng lên. Đây là một căn cứ xa hoa tận dụng tối đa kỹ thuật Thổ ma pháp tích lũy được từ trận chiến thảo phạt Yamata no Orochi.

@@ -1,3 +1,5 @@
+# Tập 373: Khon Kiep
+
 「Khốn kiếp...」
 
 Ngoại trừ việc chửi thề một câu bất lực, tôi chẳng thể làm gì khác vào lúc này.

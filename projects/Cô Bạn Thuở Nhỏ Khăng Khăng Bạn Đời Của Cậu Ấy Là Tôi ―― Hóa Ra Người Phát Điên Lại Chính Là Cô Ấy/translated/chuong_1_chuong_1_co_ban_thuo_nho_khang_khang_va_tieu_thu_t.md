@@ -1,3 +1,5 @@
+# Tập 1: Chuong 1 Co Ban Thuo Nho Khang Khang Va Tieu Thu T
+
 **Chương 1: Cô bạn thuở nhỏ khăng khăng, và tiểu thư trầm lặng**
 
 Trong đại sảnh hoàng cung, ba mươi chân nến sáp ong xếp thành hàng, tỏa ánh sáng vàng rực xuống sàn nhà bóng loáng. Tà váy lụa bồng bềnh dập dờn theo điệu valse do ban nhạc tấu lên, các người hầu bưng khay bạc đựng rượu vang và bánh nướng nhân thịt bê đi lại thoăn thoắt. Mùi tiêu và bơ bốc lên từ những chiếc bánh nướng mới ra lò khiến Elena sực nhớ ra mình hầu như chưa ăn gì cho bữa tối, song chiếc áo nịt thắt chặt lấy vòng eo mảnh khảnh làm cô chẳng còn chút cảm giác thèm ăn. Bộ váy màu xanh nhạt này vốn được sửa lại từ trang phục thời thiếu nữ của mẹ cô, ở mặt trong cổ tay áo vẫn còn sót lại một sợi chỉ trắng do thị nữ may vá để lại. Elena khẽ cuộn sợi chỉ ấy nơi đầu ngón tay như muốn tránh ánh nhìn của người khác, mắt hướng về Lucas đang đứng giữa sảnh đường.

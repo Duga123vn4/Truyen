@@ -102,14 +102,35 @@ foreach ($dir in $novelDirs) {
 
         $cCount = 0
         foreach ($file in $sortedFiles) {
-            $title = $file.BaseName
+            $rawContent = Get-FileTextContent $file.FullName
             $ep = 0
-            if ($title -match "(\d+)") {
+            if ($file.BaseName -match "(\d+)") {
                 $ep = [int]$Matches[1]
             }
 
-            $content = Get-FileTextContent $file.FullName
-            $content = $content.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
+            # Trích xuất tiêu đề có dấu tiếng Việt từ dòng # đầu tiên
+            $title = ""
+            $lines = $rawContent -split "`r?`n"
+            foreach ($line in $lines) {
+                $trimmed = $line.Trim()
+                if ($trimmed -match '^#\s+(.+)$') {
+                    $title = $Matches[1].Trim()
+                    break
+                }
+            }
+
+            # Nếu không tìm thấy dòng # thì fallback format đẹp
+            if (-not $title) {
+                if ($ep -gt 0) {
+                    $cleanName = $file.BaseName -replace '^chuong_\d+_?', '' -replace '_', ' '
+                    $cleanName = (Get-Culture).TextInfo.ToTitleCase($cleanName)
+                    $title = "Tập $ep" + $(if ($cleanName) { ": $cleanName" } else { "" })
+                } else {
+                    $title = $file.BaseName -replace '_', ' '
+                }
+            }
+
+            $content = $rawContent.Replace('\', '\\').Replace("$([char]96)", "\$([char]96)").Replace('${', '\${')
 
             [void]$sb.AppendLine("            {")
             [void]$sb.AppendLine("                " + $q + "id" + $q + ": " + $q + "ep_" + $ep + $q + ",")

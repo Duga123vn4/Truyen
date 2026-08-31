@@ -1,3 +1,5 @@
+# Tập 286: Phù, suýt chút nữa là không kịp rồi
+
 — Phù, suýt chút nữa là không kịp rồi.
 
 Tiếng gầm của linh thú vang dội, át đi tiếng la hét và gầm rú phẫn nộ của lũ Goma.
