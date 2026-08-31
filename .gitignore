@@ -41,5 +41,11 @@ tmp/
 Thumbs.db
 desktop.ini
 
-# 5. Thư mục sao lưu cục bộ
+# 5. Thư mục sao lưu cục bộ & Cơ sở dữ liệu Vector cục bộ
 backups/
+lore_vector_db/
+projects/*/lore_vector_db/
+*.sqlite3
+*.pkl
+*.bin
+
