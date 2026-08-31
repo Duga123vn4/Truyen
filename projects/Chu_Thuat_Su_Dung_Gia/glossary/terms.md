@@ -216,6 +216,85 @@
 
 ---
 
+## [SKILL-015] 『Đại Sơn Thành Lũy』 (Taizan Jousai)
+
+- **id:** SKILL-015
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Đại Sơn Thành Lũy』 (Taizan Jousai)
+- **tên_gốc:** 大山城塞 / Taizan Jousai
+- **người_thi_triển:** Randou Kyouko (Thổ Ma Thuật)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 309, 317
+- **mô_tả:** Ma pháp Thổ cấp cao quy mô lớn, nâng mặt đất đùn lên tạo thành con dốc khổng lồ dài hơn 100m, cao gần 30m bắc thẳng lên đỉnh tường thành.
+
+---
+
+## [SKILL-016] 『Thi Hài Giáp』 (Corpse Armor)
+
+- **id:** SKILL-016
+- **loại:** KỸ NĂNG / CHÚ THUẬT
+- **tên_chuẩn:** 『Thi Hài Giáp』 (Corpse Armor)
+- **tên_gốc:** 死骸鎧 / Corpse Armor
+- **người_thi_triển:** Momokawa Kotarou (Ruinhilde / Hinagiku)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 311, 319
+- **mô_tả:** Chú thuật độc môn cho phép Kotarou tự dung hợp cơ thể vào thi nhân hình của Đại Chiến Sĩ Bazuzu, biến thành cự nhân lông đỏ sở hữu sức mạnh cận chiến kinh hoàng.
+
+---
+
+## [SKILL-017] 『Bách Thủ Phược』 (Hundred Hands Binding)
+
+- **id:** SKILL-017
+- **loại:** KỸ NĂNG / CHÚ THUẬT
+- **tên_chuẩn:** 『Bách Thủ Phược』 (Hundred Hands Binding)
+- **tên_gốc:** 百手縛
+- **người_thi_triển:** Momokawa Kotarou (Gậy Vô Đạo Nhất Thức)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 310
+- **mô_tả:** Phóng thích hàng trăm cánh tay hắc ám từ gậy Vô Đạo để tước đoạt vũ khí và khóa cứng mục tiêu.
+
+---
+
+## [SKILL-018] 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
+
+- **id:** SKILL-018
+- **loại:** KỸ NĂNG / MA PHÁP
+- **tên_chuẩn:** 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
+- **tên_gốc:** 荒天落雷 / 肉体再生
+- **người_thi_triển:** Vua Oh-ma (Vương quốc Goma)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 319, 321
+- **mô_tả:** Triệu hồi sấm sét hủy diệt từ bầu trời và ma pháp chữa lành tái sinh tức thì mọi tổn thương thể xác cho bản thân và đồng minh.
+
+---
+
+## [SKILL-019] 『Khổng Lồ Hóa』 (Gigantification)
+
+- **id:** SKILL-019
+- **loại:** KỸ NĂNG / BẨM SINH
+- **tên_chuẩn:** 『Khổng Lồ Hóa』 (Gigantification)
+- **tên_gốc:** 巨大化
+- **người_thi_triển:** Các Đại Chiến Sĩ Goma (Zagan, Bandon, Gizaginzu, Jiji-Gogo, Bon, Bazuzu)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn Arc Goma
+- **mô_tả:** Năng lực đặc trưng của chủng tộc Đại Chiến Sĩ (Gira-Goma), biến đổi cơ thể thành cự nhân cao 5 - 10 mét với sức mạnh tàn phá khủng khiếp.
+
+
 ### 2. 🛡️ VẬT PHẨM, TRANG BỊ & DƯỢC PHẨM (ITEMS & WEAPONS)
 
 ## [ITEM-001] Ngân Thiết Kiếm
@@ -427,6 +506,89 @@
 - **mô_tả:** Thanh bảo kiếm hoàng kim tối thượng thuộc quyền sở hữu của Tendou Ryuuichi.
 
 ---
+
+## [ITEM-015] 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
+
+- **id:** ITEM-015
+- **loại:** VẬT PHẨM / TRANG BỊ MA PHÁP
+- **tên_chuẩn:** 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
+- **tên_gốc:** 突貫工事 / 突貫工事くん (Tokkan Kouji-kun)
+- **biệt_danh:** Bé Thi Công Thần Tốc
+- **người_chế_tạo:** Randou Kyouko + Momokawa Kotarou + Hayama Ritsuki
+- **phân_loại_mẫu:**
+  - **Mẫu 1 (Tokkan Kouji Mẫu 1):** Cọc sắt dài cắm làm điểm neo dẫn truyền ma lực để Kyouko kích hoạt ma pháp 『Đại Sơn Thành Lũy』 tạo đường dốc vượt tường thành.
+  - **Mẫu 2 (Tokkan Kouji Mẫu 2):** Cọc chuyên dụng kích hoạt ma pháp Thổ tạo các bức tường kiên cố dựng pháo đài cố thủ.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 309, 313, 317
+- **mô_tả:** Cọc kim loại khắc thuật thức dẫn truyền ma lực tăng tốc độ thi triển Thổ ma thuật lên mức tức thì.
+
+---
+
+## [ITEM-016] 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
+
+- **id:** ITEM-016
+- **loại:** VẬT PHẨM / PHƯƠNG TIỆN CHIẾN ĐẤU
+- **tên_chuẩn:** 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
+- **tên_gốc:** ロイロップス (Roiroppusu)
+- **phân_loại:**
+  - **Loyrops Số 1 (Bản Vận Tải Thiết Giáp):** Gắn cabin kim loại chống tên bắn, làm phòng phẫu thuật dã chiến của Himeno và kho tiếp tế lựu đạn cháy.
+  - **Loyrops Số 2 (Bản Đột Kích Trọng Trang):** Bọc giáp gai nhọn, trang bị súng phun lửa cỡ lớn do Trọng Chiến Binh Yamada điều khiển càn quét.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 308, 309, 318
+- **mô_tả:** Hai phương tiện chiến lược được cải tiến từ loài ma thú Loyrops bọc thép khổng lồ.
+
+---
+
+## [ITEM-017] 『Bát Táp Ngưu Ma Đao & Berserk X』
+
+- **id:** ITEM-017
+- **loại:** VẬT PHẨM / VŨ KHÍ & DƯỢC PHẨM
+- **tên_chuẩn:** 『Bát Táp Ngưu Ma Đao & Berserk X』
+- **tên_gốc:** 八颯牛魔刀 / Berserk X
+- **người_sở_hữu:** Futaba Meiko (Mei-chan)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 319, 321
+- **mô_tả:** Thanh đại đao nguyền rủa cực nặng kết hợp cùng thuốc cường hóa tối thượng Berserk X giúp Mei-chan chém bay đầu Đại Chiến Sĩ Trưởng Zagan.
+
+---
+
+## [ITEM-018] 『Viêm Kiếm Salamandra』 (Salamander Sword)
+
+- **id:** ITEM-018
+- **loại:** VẬT PHẨM / VŨ KHÍ MA PHÁP
+- **tên_chuẩn:** 『Viêm Kiếm Salamandra』 (Salamander Sword)
+- **người_sở_hữu:** Nakajima Haruma (Ma Pháp Kiếm Sĩ)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 306, 310
+- **mô_tả:** Thanh kiếm gia trì ma thuật lửa giúp Nakajima thi triển Hỏa Viêm Phòng Bích và các kiếm kỹ trung cấp hệ Hỏa.
+
+---
+
+## [ITEM-019] 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
+
+- **id:** ITEM-019
+- **loại:** VẬT PHẨM / BỘT NỔ MA LỰC
+- **tên_chuẩn:** 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
+- **người_chế_tạo:** Momokawa Kotarou
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 311, 316
+- **mô_tả:** Bom lõi ma lực cực lớn được Kotarou bí mật đặt dưới các cột trụ nâng đỡ, kích nổ đánh sập toàn bộ thành trì Vương quốc Goma.
+
 
 ### 3. 🐺 SINH VẬT, QUÁI VẬT & MA THÚ (MONSTERS & BEASTS)
 
@@ -654,6 +816,38 @@
 - **mô_tả:** Quái vật tượng đá biết bay canh giữ pháo đài và vách núi.
 
 ---
+
+## [MONSTER-016] Goma & Gira-Goma (Đại Chiến Sĩ)
+
+- **id:** MONSTER-016
+- **loại:** SINH VẬT / QUÁI VẬT & CHỦNG TỘC
+- **tên_chuẩn:** Goma & Gira-Goma (Đại Chiến Sĩ)
+- **tên_gốc:** ゴーマ (Goma) / ギラ・ゴーマ (Gira-Goma)
+- **phân_cấp:**
+  - **Goma thông thường:** Lính canh, công nhân, quái vật bốn tay canh gác thành trì.
+  - **Gira-Goma (Đại Chiến Sĩ):** Tầng lớp chiến binh tinh anh tối cao dưới trướng Vua Oh-ma (Zagan, Bazuzu, Bandon, Gizaginzu, Jiji-Gogo, Bon), sở hữu kỹ năng Khổng Lồ Hóa.
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn Arc Goma
+- **mô_tả:** Chủng tộc ma nhân hiếu chiến làm chủ Vương quốc Goma dưới lòng đất.
+
+---
+
+## [MONSTER-017] Loyrops (Ma Thú Bọc Thép Khổng Lồ)
+
+- **id:** MONSTER-017
+- **loại:** SINH VẬT / MA THÚ THUẦN HÓA
+- **tên_chuẩn:** Loyrops (Ma Thú Bọc Thép)
+- **tên_gốc:** ロイロップス / Loyrops
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Toàn truyện
+- **mô_tả:** Ma thú ăn cỏ khổng lồ hình dáng tê giác bọc thép hai sừng, được thuần hóa làm phương tiện chuyên chở và xe bọc thép chiến đấu.
+
 
 ### 4. 📜 THUẬT NGỮ & KHÁI NIỆM THẾ GIỚI (WORLD TERMS)
 
