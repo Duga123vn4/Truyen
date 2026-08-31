@@ -2114,11 +2114,17 @@ def extract_lore_evidence_dual_engine(novel: NovelContext, query: str) -> Dict[s
         "raw_evidence": []
     }
 
-    stopwords = {
-        "như", "thế", "nào", "trong", "truyện", "tại", "sao", "ai", "là", "gì", "khi", "nào", 
-        "bao", "nhiêu", "yêu", "được", "bị", "bởi", "và", "với", "cho", "của", "đã", "đang", 
-        "sẽ", "có", "không", "một", "những", "các", "bằng", "về", "làm", "ở", "đâu"
-    }
+    # TẦNG 0: CHROMA VECTOR EMBEDDING SEARCH (NGỮ NGHĨA TOÀN DIỆN 100% OFFLINE)
+    try:
+        from vector_lore_search import search_lore_hybrid
+        vector_results = search_lore_hybrid(novel.dir, query, top_k=6)
+        if vector_results:
+            result["translated_evidence"].extend(vector_results)
+    except Exception as e:
+        pass
+
+    # Stopwords chuẩn (Chỉ lọc Hư từ ngữ pháp, giữ 100% từ cảm xúc & hành động cốt truyện)
+    stopwords = {"và", "với", "của", "cho", "bởi", "trong", "ở", "tại", "những", "các", "một", "này", "đó", "được", "bị", "là"}
 
     q_clean = query.lower().replace("-", " ")
     q_words = [w.strip() for w in re.split(r'\s+', q_clean) if len(w.strip()) >= 2 and w.strip() not in stopwords]

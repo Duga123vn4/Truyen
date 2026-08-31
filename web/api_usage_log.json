@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-01 03:03:17",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 7.99,
+    "input_tokens": 9284,
+    "output_tokens": 465,
+    "cache_tokens": 0,
+    "cost": 0.00111
+  },
+  {
+    "timestamp": "2026-09-01 02:58:46",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 5.63,
+    "input_tokens": 11947,
+    "output_tokens": 303,
+    "cache_tokens": 0,
+    "cost": 0.00132
+  },
+  {
     "timestamp": "2026-08-28 02:35:25",
     "model": "gemini-3.7-flash",
     "chapter_title": "",
