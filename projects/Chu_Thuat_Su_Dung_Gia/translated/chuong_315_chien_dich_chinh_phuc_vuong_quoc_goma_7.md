@@ -1,8 +1,8 @@
 # Tập 315: Chiến dịch chinh phục Vương quốc Goma (7)
 
-“Hử, thắng chắc rồi...”
+“Hừ, thắng chắc rồi...”
 
-Zagan, kẻ đứng đầu lũ Gira-GoGame Mastera và cũng là kẻ thù đã sát hại đồng đội của chúng tôi, cuối cùng đã lộ diện. Nhìn gã khổng lồ đang tỏa ra luồng ma lực khủng khiếp kia, tôi không kìm được mà lẩm bẩm như thế.
+Zagan—kẻ đứng đầu lũ Gira-Gogma và cũng là kẻ thù đã sát hại đồng đội của chúng tôi—cuối cùng đã lộ diện. Nhìn gã khổng lồ đang tỏa ra luồng ma lực khủng khiếp kia, tôi không kìm được mà lẩm bẩm.
 
 Chiến dịch chinh phục vương quốc lần này có không ít yếu tố bất định, buộc chúng tôi phải đặt cược vào những canh bạc hiểm nghèo. Thế nhưng, mọi chuyện cuối cùng cũng trôi qua êm đẹp, và chúng tôi đã thành công dẫn dắt thế cục đi đúng hướng.
 
@@ -10,29 +10,29 @@ Chiến dịch chinh phục vương quốc lần này có không ít yếu tố 
 
 “Đâu có sao, tớ đang đợi gã ra đây mà.”
 
-Đối mặt với Zagan khổng lồ hóa đang tỏa ra chiến ý ngút trời, cậu Hayama run rẩy hỏi, nhưng tôi chỉ mỉm cười đầy tự tin đáp lại.
+Đối mặt với một Zagan khổng lồ hóa đang tỏa ra chiến ý ngút trời, Hayama-kun run rẩy hỏi, nhưng tôi chỉ mỉm cười đầy tự tin đáp lại.
 
-Tất nhiên, tôi không hề có suy nghĩ ngây thơ rằng Zagan là kẻ không đáng sợ. Tôi e dè và cảnh giác gã chẳng kém gì Oh-ma. Nhưng chính vì vậy, nếu gã không chịu ló mặt ra ngay lúc này thì kế hoạch của tôi sẽ đổ bể mất.
+Tất nhiên, tôi không hề ngây thơ đến mức nghĩ rằng Zagan không đáng sợ. Tôi e dè và cảnh giác gã chẳng kém gì Oh-ma. Nhưng chính vì vậy, nếu gã không chịu ló mặt ra ngay lúc này thì kế hoạch của tôi sẽ đổ bể mất.
 
-Cho dù không phải gã, việc đối đầu trực diện với một Gira-GoGame Mastera vẫn mang lại rủi ro quá lớn.
+Cho dù không phải là gã, việc đối đầu trực diện với một Gira-Gogma vẫn mang lại rủi ro quá lớn.
 
-Khi buộc phải cố thủ tại pháo đài này để câu giờ trước ba gã khổng lồ cùng lúc, tôi đã được một phen lạnh gáy. Nhưng thật may mắn khi đối phương cũng tỏ ra thận trọng, chỉ tung ra những đòn tấn công mang tính thăm dò. Nếu chúng cứ hành động đúng chất lũ Goma hoang dã, điên cuồng xua quân tổng tấn công bất chấp hậu quả, thì pháo đài này chắc chắn không trụ nổi năm phút.
+Khi buộc phải cố thủ tại pháo đài này để câu giờ trước ba gã khổng lồ cùng lúc, tôi đã được một phen lạnh gáy. May mắn thay, đối phương cũng tỏ ra thận trọng và chỉ tung ra những đòn tấn công mang tính thăm dò. Nếu chúng cứ hành động đúng chất lũ Goma hoang dã, điên cuồng xua quân tổng tấn công bất chấp hậu quả, thì pháo đài này chắc chắn không trụ nổi năm phút.
 
-Chiếc hố bẫy chứa 『Đầm Lầy Thối Rữa』 cũng đã phát huy tối đa công hiệu. Nhờ có nhãn thuật 『Hư Ảnh Tương Chiếu』, việc ngụy trang cho cái bẫy trở nên dễ dàng và hoàn hảo hơn bao giờ hết.
+Chiếc hố bẫy chứa 『Đầm Lầy Thối Rữa』 cũng đã phát huy tối đa công hiệu. Nhờ có nhãn thuật 『Hư Ảnh Tương Chiếu』, việc ngụy trang cho cái bẫy trở nên hoàn hảo hơn bao giờ hết.
 
-Dù có hóa thành khổng lồ thì chúng vẫn phải di chuyển bằng hai chân, một khi mất đi điểm tựa thì việc ngã nhào là điều hiển nhiên. Hơn nữa, lớp giáp của Bandon dù có cứng cáp đến đâu cũng chẳng thể nào vượt qua nổi Yamata no Orochi. Khả năng ăn mòn của 『Đầm Lầy Thối Rữa』—thứ từng làm tan chảy lớp vỏ giáp siêu cứng dày cả mét của con đại xà kia—không phải chỉ để làm cảnh.
+Dù có hóa thành khổng lồ thì chúng vẫn phải di chuyển bằng hai chân, một khi mất đi điểm tựa thì việc ngã nhào là điều tất yếu. Hơn nữa, lớp giáp của Bandon dù có cứng cáp đến đâu cũng chẳng thể nào vượt qua nổi Yamata no Orochi. Khả năng ăn mòn của 『Đầm Lầy Thối Rữa』—thứ từng làm tan chảy lớp vỏ giáp siêu cứng dày cả mét của con đại xà kia—không phải chỉ để làm cảnh.
 
 Dù Bandon đã được đồng bọn yểm trợ để vội vàng rút lui, nhưng việc gã không nổi điên lên rồi càn quét lung tung tại chỗ thực sự đã giúp tôi trút đi một gánh nặng. Bởi lẽ, tôi chẳng thể nào chuẩn bị thêm bất kỳ cái bẫy nào quy mô hơn thế nữa.
 
 Và ngay khi đối phương đang định chấn chỉnh lại đội hình, Zagan đã xuất hiện. Một thời điểm không thể hoàn hảo hơn.
 
-Tổng cộng bốn tên Gira-GoGame Mastera. Tôi buộc phải gom bằng sạch lũ chúng lại tại địa điểm này. Nếu Zagan cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, nửa sau của chiến dịch chinh phục này chắc chắn sẽ rơi vào thế vô cùng ngặt nghèo.
+Tổng cộng bốn tên Gira-Gogma. Tôi buộc phải gom bằng sạch lũ chúng lại tại địa điểm này. Nếu Zagan cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, nửa sau của chiến dịch chinh phục chắc chắn sẽ rơi vào thế vô cùng ngặt nghèo.
 
-Dù sao đi nữa, cuối cùng thì mọi điều kiện cần thiết cũng đã hội tụ đầy đủ. Tôi đã làm tất cả những gì có thể. Việc còn lại chỉ là chờ đợi ý trời mà thôi.
+Dù sao đi nữa, cuối cùng mọi điều kiện cần thiết cũng đã hội tụ đầy đủ. Tôi đã làm tất cả những gì có thể. Việc còn lại chỉ là chờ đợi ý trời mà thôi.
 
 “Cầu xin sự bảo hộ của ngài Ruinhilde ban xuống—”
 
-Tôi giơ cao cây trượng 『Vô Đạo Nhất Thức』, đối đầu trực diện với Zagan, kẻ đang chuẩn bị dồn toàn lực lao tới.
+Tôi giơ cao cây trượng 『Vô Đạo Nhất Thức』, đối đầu trực diện với Zagan—kẻ đang chuẩn bị dồn toàn lực lao tới.
 
 Tôi có thể cảm nhận rõ ràng ánh mắt ngập tràn sát khí của gã đang găm thẳng vào mình. Không sai vào đâu được, lúc này gã chỉ đang nhìn chăm chăm vào tôi.
 
@@ -46,7 +46,7 @@ Có lẽ gã cũng đã nhận ra kẻ đang giơ cao cây trượng dẫn đầ
 
 Hàng loạt tiếng nổ đanh tai vang lên liên tiếp từ khắp bốn phương tám hướng. Điều đó là hiển nhiên, bởi tôi đã giăng sẵn bẫy ở khắp mọi nơi rồi.
 
-Ngay cả từ vị trí này, tôi vẫn có thể nhìn thấy rõ ràng bốn cột lửa và khói bụi đang cuồn cuộn bốc lên. Dù vị trí đặt bom chỉ là những cửa cống kiểm tra dưới lòng đất, nhưng những quả bom lõi được chế tạo xa xỉ từ tận hai chiếc lõi của ma vật cấp Boss vẫn sở hữu sức công phá dư sức thổi bay cả những tòa nhà kiên cố ngay phía trên. Tất nhiên, mục tiêu cốt lõi mà tôi muốn nghiền nát bằng thứ uy lực kinh hoàng đó chính là các cột trụ nâng đỡ vương quốc.
+Ngay cả từ vị trí này, tôi vẫn có thể nhìn thấy rõ bốn cột lửa và khói bụi đang cuồn cuộn bốc lên. Dù vị trí đặt bom chỉ là những cửa cống kiểm tra dưới lòng đất, nhưng các quả bom lõi được chế tạo xa xỉ từ tận hai chiếc lõi của ma vật cấp Boss vẫn sở hữu sức công phá dư sức thổi bay cả những tòa nhà kiên cố ngay phía trên. Tất nhiên, mục tiêu cốt lõi mà tôi muốn nghiền nát bằng thứ uy lực kinh hoàng đó chính là các cột trụ nâng đỡ vương quốc.
 
 Phân thân chịu trách nhiệm đặt bom đang ẩn nấp ở phía đối diện gần Đông Môn cũng đã xác nhận việc kích nổ diễn ra vô cùng suôn sẻ.
 
@@ -54,9 +54,9 @@ Chiến dịch đã thành công mỹ mãn. Không sót một quả nào, toàn 
 
 “Này, Momokawa.”
 
-“Cậu Hayama, đừng nói gì cả.”
+“Hayama-kun, đừng nói gì cả.”
 
-“Buta...”
+“Nhưng...”
 
 “Tớ bảo là đừng nói mà.”
 
@@ -64,11 +64,11 @@ Chiến dịch đã thành công mỹ mãn. Không sót một quả nào, toàn 
 
 “Áaaaaaaa!!”
 
-Kyouko nói ra rồi. Cậu ấy đã nói ra cái điều tuyệt đối không được phép nói ra! Tôi sắp khóc đến nơi rồi đây này, khóc thật đấy, giờ tôi khóc được chưa hả?
+Kyouko nói ra rồi. Cậu ấy đã nói ra cái điều tuyệt đối không được phép nói ra! Tôi sắp khóc đến nơi rồi đây này, khóc thật đấy, giờ tôi khóc được chưa hả?!
 
-Thôi xong, phải làm sao bây giờ, thực sự chẳng có biến động gì xảy ra cả. Vụ nổ rõ ràng đã thành công. Những quả bom lõi chắc chắn đã kích nổ. Thế nhưng, mặt đất vẫn im lìm không một tiếng động.
+Thôi xong, phải làm sao bây giờ, thực sự chẳng có biến động gì xảy ra cả. Vụ nổ rõ ràng đã thành công. Những quả bom lõi chắc chắn đã phát nổ. Thế nhưng, mặt đất vẫn im lìm không một tiếng động.
 
-*Chẳng lẽ tính toán của tôi đã sai lầm? Sức công phá của thuốc nổ vẫn chưa đủ? Hay là ở đây còn tồn tại một cột trụ cốt lõi thực sự nâng đỡ cả vương quốc mà tôi chưa biết đến?*
+*Chẳng lẽ tính toán của mình đã sai lầm? Sức công phá của thuốc nổ vẫn chưa đủ? Hay là ở đây còn tồn tại một cột trụ cốt lõi thực sự nâng đỡ cả vương quốc mà mình chưa biết đến?*
 
 Dù nguyên nhân là gì đi nữa, thực tế trước mắt là vương quốc vẫn hoàn toàn bình an vô sự. Đúng là một trò hề mà.
 
@@ -76,7 +76,7 @@ Dù nguyên nhân là gì đi nữa, thực tế trước mắt là vương qu�
 
 “Nba, daava!?”
 
-Chứng kiến những tiếng nổ kinh hoàng cùng làn khói bụi cuồn cuộn bốc lên từ khắp nơi, lũ Gira-GoGame Mastera dẫn đầu là Zagan cũng không khỏi ngơ ngác nhìn quanh rồi bàn tán xôn xao.
+Chứng kiến những tiếng nổ kinh hoàng cùng làn khói bụi cuồn cuộn bốc lên từ khắp nơi, lũ Gira-Gogma dẫn đầu là Zagan cũng không khỏi ngơ ngác nhìn quanh rồi xôn xao bàn tán.
 
 Tuy nhiên, sau khi xác nhận rằng đó chỉ là những vụ nổ đơn thuần và không gây ra bất kỳ thiệt hại nào đáng kể, bọn chúng dường như đã nhanh chóng mất đi sự hứng thú.
 
@@ -90,43 +90,43 @@ Như để lấy lại tinh thần, Zagan một lần nữa cất tiếng gầm 
 
 “Thật đấy à Momokawa, ngay vào cái lúc nước sôi lửa bỏng này sao?!”
 
-“Này, giờ chúng ta phải làm sao đây hả cậu Momokawa!”
+“Này, giờ chúng ta phải làm sao đây hả Momokawa-kun?!”
 
 Ueta và Yoshizaki hét toáng lên, còn Himeno thì trông như sắp phát điên đến nơi.
 
-“Bình tĩnh lại đi lũ mày. Có làm ầm lên cũng chẳng giải quyết được gì đâu.”
+“Bình tĩnh lại đi tụi mày. Có làm ầm lên cũng chẳng giải quyết được gì đâu.”
 
 “Đ-Đúng thế đấy. Trước mắt chúng ta phải rút lui khỏi đây đã—”
 
 Yamada tuy vẫn giữ được sự bình tĩnh nhưng bầu không khí xung quanh cậu ta đã nhuốm màu bỏ cuộc.
 
-Cậu Nakajima cũng đang vô cùng lo lắng, nhưng lời đề xuất của cậu ta lại là phương án thực tế nhất vào lúc này. Nơi chúng tôi đang cố thủ là phía bên ngoài Đông Môn. Chỉ cần lùi lại phía sau, cả nhóm có thể dễ dàng chạy thoát và một lần nữa ẩn náu dưới đường hầm ngầm.
+Nakajima-kun cũng đang vô cùng lo lắng, nhưng lời đề xuất của cậu ta lại là phương án thực tế nhất vào lúc này. Nơi chúng tôi đang cố thủ là phía bên ngoài Đông Môn. Chỉ cần lùi lại phía sau, cả nhóm có thể dễ dàng chạy thoát và một lần nữa ẩn náu dưới đường hầm ngầm.
 
 “Đã đi đến tận nước này rồi mà chúng ta vẫn phải bỏ chạy sao...”
 
 “Biết làm sao được hả Hayama! Này Kotarou, cậu đừng bận tâm quá nhé, lần sau chúng ta lại cùng cố gắng tiếp, được chứ?”
 
-Lời an ủi dịu dàng của Kyouko lúc này ngược lại lại giống như một mũi kim sắc nhọn đâm thẳng vào lòng tự trọng của tôi.
+Lời an ủi dịu dàng của Kyouko lúc này lại như một mũi kim sắc nhọn đâm thẳng vào lòng tự trọng của tôi.
 
-Đúng là nếu lựa chọn rút lui lúc này, chúng tôi vẫn có thể bảo toàn được lực lượng để làm lại từ đầu. Chúng tôi chưa mất đi bất kỳ một người đồng đội nào, lại còn phóng hỏa gây ra thiệt hại không nhỏ cho vương quốc Goma, đồng thời kiểm chứng được năng lực của những tên Gira-GoGame Mastera khác.
+Đúng là nếu lựa chọn rút lui lúc này, chúng tôi vẫn có thể bảo toàn được lực lượng để làm lại từ đầu. Chúng tôi chưa mất đi một người đồng đội nào, lại còn phóng hỏa gây ra thiệt hại không nhỏ cho vương quốc Goma, đồng thời kiểm chứng được năng lực của những tên Gira-Gogma khác.
 
 Đó đều là những thành quả thực tế—thế nhưng, chẳng lẽ tôi lại phải bắt mọi người thực hiện một chiến dịch quy mô lớn như thế này thêm một lần nữa sao?
 
-Tôi đã dồn toàn bộ số nguyên liệu tích góp được vào canh bạc này. Quá trình chuẩn bị cũng đã tiêu tốn biết bao nhiêu thời gian và công sức.
+Tôi đã dồn toàn bộ số nguyên liệu tích góp được vào canh bạc này. Quá trình chuẩn bị cũng đã tiêu tốn biết bao thời gian và công sức.
 
-And trên hết, tôi đã bắt những người đồng đội của mình phải mạo hiểm mạng sống để tiến hành chiến dịch này đến tận bước cuối cùng. Chẳng lẽ tôi lại phải mở lời yêu cầu họ đánh cược tính mạng thêm một lần nữa sao?
+Và trên hết, tôi đã bắt những người đồng đội của mình phải mạo hiểm mạng sống để tiến hành chiến dịch đến tận bước cuối cùng. Chẳng lẽ tôi lại phải mở lời yêu cầu họ đánh cược tính mạng thêm một lần nữa sao?
 
 “Khốn kiếp... Sập đi chứ lị.”
 
-Tâm trạng bất mãn của cậu Hayama lúc này chính là thứ gần gũi với suy cách của tôi nhất.
+Tâm trạng bất mãn của Hayama-kun lúc này chính là thứ gần gũi với suy nghĩ của tôi nhất.
 
 Tôi cảm thấy vô cùng uất ức. Công sức và rủi ro mà chúng tôi đã bỏ ra cho chiến dịch này thậm chí còn vượt xa cả trận chiến thảo phạt Yamata no Orochi.
 
-Vậy mà, lại dễ dàng đầu hàng như thế này sao...
+Vậy mà lại dễ dàng đầu hàng như thế này sao...
 
 “Sập đi... Tao bảo sập đi cơ mà!”
 
-Ai mà thèm bỏ cuộc chứ, khốn kiếp! Hét lên một tiếng đầy giận dữ như đang trút giận, tôi vung cây trượng 『Vô Đạo Nhất Thức』 đập mạnh xuống đất.
+Ai mà thèm bỏ cuộc chứ, khốn kiếp! Hét lên một tiếng đầy giận dữ như để trút giận, tôi vung cây trượng 『Vô Đạo Nhất Thức』 đập mạnh xuống đất.
 
 Hộp sọ của Yokomichi nện một cú thật mạnh vào bức tường đá cứng ngắc—để lại cho bàn tay tôi một cảm giác tê rần đầy trống rỗng.
 
@@ -148,7 +148,7 @@ Nhìn về phía trước, Zagan khổng lồ hóa đang sải những bước c
 
 “Oài, rung thật rồi! Đất đang rung chuyển thật kìa?!”
 
-Ai nấy đều đồng tình với tiếng hét của cậu Hayama. Theo bản năng sinh tồn đã ăn sâu vào máu từ thế giới cũ, cả nhóm lập tức nằm rạp xuống đất để lánh nạn.
+Ai nấy đều đồng tình với tiếng hét của Hayama-kun. Theo bản năng sinh tồn đã ăn sâu vào máu từ thế giới cũ, cả nhóm lập tức nằm rạp xuống đất để lánh nạn.
 
 Cùng với những tiếng gầm rú dữ dội từ lòng đất, cả pháo đài bắt đầu chao đảo mạnh mẽ. Từ cấp độ 1, cơn địa chấn đã nhanh chóng leo thang lên cấp độ 3 hoặc 4, tạo ra những đợt rung lắc vô cùng dữ dội.
 
@@ -156,7 +156,7 @@ Cùng với những tiếng gầm rú dữ dội từ lòng đất, cả pháo �
 
 Dù đang nằm rạp dưới đất, tôi vẫn có thể khẳng định chắc chắn điều đó.
 
-Thành công rồi. Kế hoạch đặt bom đã thành công. Vương quốc Goma sẽ bị chôn vùi vào ngày hôm nay.
+Thành công rồi. Kế hoạch đặt bom đã thành công. Vương quốc Goma sẽ bị chôn vùi vào ngày hôm nay!
 
 “Thành công rồi! Áaaaaaaa!”
 
@@ -168,11 +168,11 @@ Như để hưởng ứng tiếng hét phấn khích của tôi, mặt đất c�
 
 “Daagobaa?!”
 
-Ngay cả Zagan cũng buộc phải dừng bước, gã khuỵu gối xuống đất và cất tiếng gầm rú kinh hoàng. Những tên Gira-GoGame Mastera khác cũng có phản ứng tương tự.
+Ngay cả Zagan cũng buộc phải dừng bước, gã khuỵu gối xuống đất và cất tiếng gầm rú kinh hoàng. Những tên Gira-Gogma khác cũng có phản ứng tương tự.
 
 Dù có sở hữu thân hình khổng lồ và sức mạnh vô song đến đâu, bọn chúng vẫn hoàn toàn bất lực trước sự giận dữ của đất mẹ. Nhìn những tấm thân hộ pháp kiêu ngạo kia giờ đây đang co rúm lại vì sợ hãi trông thật nực cười làm sao. Gì thế hả lũ kia, đây là lần đầu tiên các ngươi nếm mùi động đất à? Cái phản ứng hoảng loạn tột độ của bọn chúng trông chẳng khác nào mấy người nước ngoài lần đầu tiên trải nghiệm động đất ở Nhật Bản vậy.
 
-Thế nhưng, đây tuyệt đối không phải là cơn thịnh nộ của thần linh, cũng chẳng phải là sự uy nghiêm của tự nhiên. Đây không phải thiên tai, mà là nhân tai. Chính tay tôi đã tạo ra nó, với mục đích kéo bằng sạch lũ các ngươi xuống vực sâu không sót một mống.
+Thế nhưng, đây tuyệt đối không phải là cơn thịnh nộ của thần linh, cũng chẳng phải là sự uy nghiêm của tự nhiên. Đây không phải thiên tai, mà là nhân tai. Chính tay tôi đã tạo ra nó, với mục đích kéo bằng sạch lũ các ngươi xuống vực sâu không sót một mống!
 
 “Nào, sập xuống đi.”
 
@@ -208,13 +208,13 @@ Một khi một góc đã sụp đổ, nó lập tức tạo ra một phản ứ
 
 Những đợt rung chấn kinh hoàng liên tục ập đến khiến lũ Goma thậm chí còn chẳng thể đứng vững để mà chạy trốn. Dù vậy, bọn chúng vẫn cố gắng bò trườn một cách thảm hại trên mặt đất để tìm kiếm con đường sống.
 
-Nhưng các ngươi định chạy đi đâu được chứ? Trên mảnh đất đang đi vào cõi diệt vong này, không một kẻ nào có thể trốn thoát được cả. Bởi lẽ, tất cả mọi thứ đều sẽ sụp đổ mà thôi.
+Nhưng các ngươi định chạy đi đâu được chứ? Trên mảnh đất đang đi vào cõi diệt vong này, không một kẻ nào có thể trốn thoát được cả. Bởi lẽ, tất cả mọi thứ đều sẽ sụp đổ mà thôi!
 
 “Ha ha ha ha! Nhìn kìa! Lũ Goma trông chẳng khác nào đống rác rưởi cả!”
 
 Mặt đất sụp đổ ở khắp mọi nơi, kéo theo hàng loạt tiếng la hét thảm thiết của lũ Goma khi bị vực sâu nuốt chửng. Ngay cả tên Zagan kiêu ngạo kia lúc này cũng phải trợn tròn mắt, bất lực nhìn xuống đáy vực sâu thẳm đầy tuyệt vọng.
 
-Đúng vậy, chiến dịch 『Vương Quốc Sụp Đổ』 không đơn thuần chỉ là để hủy diệt vương quốc Goma. Nó còn là một cái hố bẫy khổng lồ chống khổng lồ được thiết kế để tóm gọn toàn bộ lũ Gira-GoGame Mastera các ngươi cùng một lúc.
+Đúng vậy, chiến dịch 『Vương Quốc Sụp Đổ』 không đơn thuần chỉ là để hủy diệt vương quốc Goma. Nó còn là một cái hố bẫy khổng lồ chống khổng lồ được thiết kế để tóm gọn toàn bộ lũ Gira-Gogma các ngươi cùng một lúc.
 
 Theo cấu trúc địa hình, chỉ có khu vực xung quanh Tháp Trung Tâm trong phạm vi vài trăm mét vuông là không bị ảnh hưởng bởi vụ sụp đổ. Tức là chỉ còn lại khu vực pháo đài trung tâm mà thôi.
 
@@ -222,13 +222,13 @@ Oh-ma gần như sẽ không bao giờ bước chân ra khỏi pháo đài. Th�
 
 Nếu gã cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, thì chỉ có mình gã là thoát được kiếp nạn này. Thú thật, tôi từng nghĩ kế hoạch này sẽ thất bại, nhưng có vẻ như mối thù hận thấu xương tủy dành cho chúng tôi đã thôi thúc gã đích thân dẫn quân đến đây làm viện binh.
 
-Cả bốn tên Gira-GoGame Mastera còn lại giờ đây đã tập hợp đông đủ. Một khi đã bước chân ra khỏi phạm vi an toàn của pháo đài, tất cả bọn chúng đều chỉ là những con mồi đã sập bẫy mà thôi.
+Cả bốn tên Gira-Gogma còn lại giờ đây đã tập hợp đông đủ. Một khi đã bước chân ra khỏi phạm vi an toàn của pháo đài, tất cả bọn chúng đều chỉ là những con mồi đã sập bẫy mà thôi.
 
 “Guba, dobbaaaaa!”
 
 “B-Bandon?!”
 
-Ồ, kẻ đầu tiên bị loại khỏi cuộc chơi chính là cậu Bandon, kẻ sở hữu bộ giáp hạng nặng kiên cố nhất.
+Ồ, kẻ đầu tiên bị loại khỏi cuộc chơi chính là tên Bandon, kẻ sở hữu bộ giáp hạng nặng kiên cố nhất.
 
 Nhờ có chiếc mai lớn trên lưng, khi bò bằng bốn chân trông Bandon chẳng khác nào một con rùa khổng lồ. Gã chỉ biết tuyệt vọng nhìn mặt đất xung quanh mình sụp đổ xuống, nhưng chẳng thể làm được gì ngoài việc rơi thẳng xuống đáy hố sâu tối tăm.
 
@@ -248,7 +248,7 @@ Thay vì học cách bắn cầu lửa hay phun lửa xanh, đáng lẽ ra gã n
 
 “Gububu... Zaba! Gudobaruda, Zagan!”
 
-Nào, cuộc đua rơi tự do của lũ Gira-GoGame Mastera giờ chỉ còn lại hai kẻ. Tôi đang thích thú quan sát xem kẻ nào sẽ là người trụ lại cuối cùng như đang xem một chương trình giải trí, thì Jiji-Gogo bất ngờ hét lên với Zagan. Tôi cứ ngỡ gã đang cầu cứu thủ lĩnh của mình trong vô vọng, thế nhưng ánh mắt của lão Goma già nua kia lại đang rực cháy một chiến ý vô cùng kiên định.
+Nào, cuộc đua rơi tự do của lũ Gira-Gogma giờ chỉ còn lại hai kẻ. Tôi đang thích thú quan sát xem kẻ nào sẽ là người trụ lại cuối cùng như đang xem một chương trình giải trí, thì Jiji-Gogo bất ngờ hét lên với Zagan. Tôi cứ ngỡ gã đang cầu cứu thủ lĩnh của mình trong vô vọng, thế nhưng ánh mắt của lão Goma già nua kia lại đang rực cháy một chiến ý vô cùng kiên định.
 
 “Goo! Zagan!”
 
@@ -298,7 +298,7 @@ Nhưng nguy rồi, với tốc độ kinh hoàng đó, Kyouko chắc chắn khô
 
 Thế nhưng, khối thịt dị dạng vừa lao xuống định bao phủ lấy gã từ trên cao đã bị Zagan đấm bay bằng một cú đấm móc ngược vô cùng chuẩn xác và uy lực.
 
-Thật sao, khốn kiếp, uy lực gì thế này. Đúng hơn là khả năng ứng biến của gã quá đáng sợ. Sức mạnh, tốc độ và khả năng đánh bật đòn tấn công đó của gã khiến tôi không khỏi liên tưởng đến Mei. Kiểu đối thủ sở hữu sức mạnh trực diện thô bạo mà tôi không muốn đối đầu nhất.
+Thật sao, khốn kiếp, uy lực gì thế này. Đúng hơn là khả năng ứng biến của gã quá đáng sợ. Sức mạnh, tốc độ và khả năng đánh bật đòn tấn công đó của gã khiến tôi không khỏi liên tưởng đến Mei-chan. Kiểu đối thủ sở hữu sức mạnh trực diện thô bạo mà tôi không muốn đối đầu nhất.
 
 “Woogaaaaa!”
 
@@ -316,7 +316,7 @@ Vào đúng thời khắc sinh tử đó, Jiji-Gogo đã chuẩn bị sẵn mộ
 
 Việc tôi khinh suất cho rằng giữa bọn chúng không thể tồn tại những chiến thuật phối hợp như vậy chính là sai lầm lớn nhất.
 
-Chỉ vì một chút sơ hở đó, tên Gira-GoGame Mastera mạnh nhất và đáng sợ nhất cuối cùng đã vượt qua bức tường để xuất hiện ngay trước mắt chúng tôi.
+Chỉ vì một chút sơ hở đó, tên Gira-Gogma mạnh nhất và đáng sợ nhất cuối cùng đã vượt qua bức tường để xuất hiện ngay trước mắt chúng tôi.
 
 Tận dụng cây rìu làm điểm tựa để thực hiện cú nhảy tiếp theo, Zagan đã vượt qua bức tường đá. Gã vung nắm đấm khổng lồ đủ sức nghiền nát tất cả chúng tôi cùng một lúc.
 
@@ -326,7 +326,7 @@ Hỏng rồi, cả phản công lẫn phòng ngự đều không còn kịp nữ
 
 “Pungaaaaaaaaaaaaaaaaaaaa!”
 
-Tiếng hét của cậu Hayama cùng tiếng gầm rú của Kinako vang dội thấu tận trời xanh.
+Tiếng hét của Hayama-kun cùng tiếng gầm rú của Kinako vang dội thấu tận trời xanh.
 
 Ngay sau đó, kèm theo một luồng gió rít gầm rú kinh người, một cánh tay thú khổng lồ lướt qua ngay phía trên đầu tôi.
 

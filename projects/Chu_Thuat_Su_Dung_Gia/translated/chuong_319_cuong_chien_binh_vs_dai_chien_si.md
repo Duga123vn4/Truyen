@@ -4,11 +4,11 @@
 
 Tôi gào lên hết cỡ, một tiếng hét thảm thiết đầy vẻ ỷ lại và thảm hại mà chẳng chút ngượng ngùng.
 
-Đương nhiên rồi, bởi vì đây chính là minh chứng cho sự tin tưởng thuần khiết nhất, giống như những đứa trẻ đang gọi vị anh hùng của chúng vậy.
+Đương nhiên rồi, bởi vì đây chính là minh chứng cho sự tin tưởng thuần khiết nhất, tựa như những đứa trẻ đang cất tiếng gọi vị anh hùng của chúng vậy.
 
-Tiếng gọi hướng về vị anh hùng sẽ cứu ta khỏi tình cảnh ngàn cân treo sợi tóc. Người đó không phải là một kẻ cải tạo đeo mặt nạ, cũng chẳng phải người khổng lồ ánh sáng đến từ tinh vân xa xôi.
+Tiếng gọi hướng về người hùng sẽ cứu ta thoát khỏi tình cảnh ngàn cân treo sợi tóc. Người đó không phải là một kẻ cải tạo mang mặt nạ, cũng chẳng phải người khổng lồ ánh sáng đến từ tinh vân xa xôi.
 
-Vị anh hùng đối với tôi là một cô bạn cùng lớp có thân hình cao lớn, cực kỳ đáng yêu và nấu ăn siêu ngon.
+Vị anh hùng đối với tôi là một cô bạn cùng lớp có vóc dáng cao ráo đẫy đà, cực kỳ đáng yêu và nấu ăn siêu ngon.
 
 “Zagan!”
 
@@ -16,35 +16,35 @@ Vị anh hùng đối với tôi là một cô bạn cùng lớp có thân hình
 
 Cùng với tiếng hét của Oh-ma, Zagan quay ngoắt lại.
 
-Ở đó, một quả cầu lửa đang bay thẳng tới, không, đó là một quả pháo kích đang tỏa ra ánh sáng đỏ rực như muốn thiêu cháy mọi thứ. Nó vạch ra một vệt đuôi màu đỏ rực giữa hư không, lao đến với tốc độ kinh hoàng.
+Tại nơi đó, một quả cầu lửa đang lao thẳng tới — không, đó là một quả pháo kích đang tỏa ra ánh sáng đỏ rực như muốn thiêu rụi vạn vật. Nó vạch ra một vệt đuôi rực lửa giữa hư không, phóng đến với tốc độ kinh hoàng.
 
 Điểm xuất phát của quả pháo kích màu đỏ đó có lẽ là sân thượng của vương cung cách đây vài trăm mét.
 
-Cô ấy đã bay từ đó. Đơn giản là thực hiện một cú nhảy vọt.
+Cô ấy đã bay từ nơi đó. Đơn giản chỉ là một cú bật nhảy vượt ngàn trùng.
 
 “Đồ ranh con!”
 
 Zagan tung ra một cú đấm theo phản xạ.
 
-Nếu đó chỉ là một ma pháp tấn công thông thường, hẳn hắn đã đánh rụng nó một cách ngoạn mục, nhưng thứ đang bay tới không phải là một quả đạn chỉ biết bay thẳng.
+Nếu đó chỉ là ma pháp tấn công thông thường, hẳn hắn đã đánh rụng nó một cách ngoạn mục, nhưng thứ đang bay tới tuyệt đối không phải là một quả đạn chỉ biết bay theo đường thẳng.
 
-Nào, nhìn cho kỹ đi Oh-ma. Nếu hộ vệ mạnh nhất mà ngươi tin tưởng nhất là Zagan, thì cô ấy chính là hộ mệnh thần của tôi.
+Nào, nhìn cho kỹ đi hỡi Oh-ma. Nếu hộ vệ mạnh nhất mà ngươi tin tưởng nhất là Zagan, thì cô ấy chính là hộ mệnh thần của tôi.
 
-Hãy khắc ghi sức mạnh của 『Cuồng Chiến Binh』 Futaba Meiko vào sâu trong tâm trí ngươi đi.
+Hãy khắc ghi sức mạnh của 『Cuồng Chiến Binh』 Futaba Meiko vào tận cùng tâm trí ngươi đi!
 
 “————『Hắc Nại』.”
 
-Trong sát na, một vệt chém mang điềm gở pha trộn giữa sắc đỏ và đen lóe lên.
+Trong sát na, một vệt chém mang điềm gở đan xen giữa hai sắc đỏ và đen lóe lên.
 
-Né tránh nắm đấm đón đánh trong gang tấc bằng cách thay đổi quỹ đạo ngay giữa không trung, đòn 『Hắc Nại』 dốc toàn lực của cô đã bộc phát ngay trên cổ của gã khổng lồ.
+Né tránh nắm đấm đón đánh trong gang tấc bằng cách chuyển hướng quỹ đạo ngay giữa không trung, đòn 『Hắc Nại』 dốc toàn lực của cô đã bùng nổ ngay trên cổ gã khổng lồ.
 
 “Nuuu… Gwaaaaaaaaaaaaaaaaaaaaaa!?”
 
-Máu tươi phun ra xối xả như mưa trút. Bị chém một vết sâu hoắm ở cổ, ngay cả kẻ như Zagan cũng phải rú lên đau đớn, tự dùng tay bóp chặt lấy vết thương để cầm máu.
+Máu tươi phun ra xối xả như mưa trút. Bị chém một nhát sâu hoắm nơi yết hầu, ngay cả kẻ dạn dày như Zagan cũng phải rú lên đau đớn, vội lấy tay bóp chặt vết thương để cầm máu.
 
-Sau khi tung ra đòn tấn công phủ đầu tuyệt đẹp, cô ấy tận dụng đà lao tới để đáp xuống ngay bên cạnh tôi trên đỉnh bức tường thành.
+Sau khi tung ra đòn phủ đầu tuyệt mỹ, cô ấy tận dụng đà lao tới để đáp xuống ngay bên cạnh tôi trên đỉnh tường thành.
 
-Cú tiếp đất tạo ra một lực chấn động mạnh mẽ thổi bay bụi cát xung quanh. Chiếc váy ngắn tung bay, khuôn ngực đầy đặn khẽ dao động. Sau khi vung nhẹ thanh đao nguyền rủa ở tay phải để gạt đi vết máu, cô ấy hướng ánh mắt về phía tôi.
+Cú tiếp đất tạo ra một lực chấn động dữ dội thổi bay bụi cát xung quanh. Chiếc váy ngắn tung bay, khuôn ngực đầy đặn khẽ phập phồng. Sau khi vung nhẹ thanh ma đao bên tay phải để gạt đi vệt máu, cô ấy hướng ánh mắt dịu dàng về phía tôi.
 
 “Tớ về rồi đây, Kotarou-kun.”
 
@@ -52,302 +52,304 @@ Cú tiếp đất tạo ra một lực chấn động mạnh mẽ thổi bay b�
 
 Tớ đã chờ đợi khoảnh khắc này từ rất lâu rồi.
 
-Tôi đã đi đến tận đây chỉ để có được cuộc hội ngộ này.
+Tôi đã vượt qua bao gian nan đến tận đây cũng chỉ vì cuộc hội ngộ này.
 
 “Xin lỗi nhé, tớ cứ nghĩ là bọn tớ có thể tự mình giải quyết xong xuôi cơ.”
 
-“Không sao đâu, thế này là tốt rồi. Tớ chỉ muốn quay lại càng sớm càng tốt. Vì tớ rất muốn gặp Kotarou-kun.”
+“Không sao đâu, thế này là tốt lắm rồi. Tớ chỉ muốn quay lại càng sớm càng tốt thôi. Vì tớ rất muốn gặp Kotarou-kun mà.”
 
-“Đối thủ là Zagan đấy. Cậu sẽ phải làm việc quá sức đấy.”
+“Đối thủ là Zagan đấy. Cậu sẽ phải lao lực lắm đấy.”
 
-“Tớ đã nghỉ ngơi suốt thời gian qua rồi mà. Cho tớ làm quá sức một chút đi.”
+“Tớ đã nghỉ ngơi suốt thời gian qua rồi còn gì. Cho tớ gắng sức một chút đi.”
 
-Cô ấy trả lời bằng một nụ cười rạng rỡ. Yêu cầu cô ấy chiến đấu một chọi một với Zagan, một lời nhờ vả vô lý như thế mà cô ấy lại đón nhận một cách nhẹ nhàng như thể đang pha một tách trà vậy.
+Cô ấy đáp lại bằng một nụ cười rạng rỡ. Yêu cầu cô ấy đơn thương độc mã quyết đấu với Zagan — một lời thỉnh cầu vô lý đến nhường ấy mà cô ấy lại đón nhận nhẹ tênh tựa như việc thưởng thức một tách trà.
 
-Dưới tư cách là một thằng đàn ông thì thật thảm hại, nhưng đây là quân bài tẩy cuối cùng còn lại của tôi. Tôi sẽ đặt cược tất cả vào cậu.
+Đứng trên lập trường của một thằng đàn ông thì đúng là thảm hại thật, nhưng đây chính là quân bài tẩy cuối cùng của tôi. Tôi xin đặt cược toàn bộ vào cậu.
 
 “Mei-chan, đây là thuốc mới đấy.”
 
-『Berserk X』: Loại thuốc cường hóa dùng cho trận quyết chiến được cải tiến từ Thuốc thử X. Ngoài việc giải phóng giới hạn não bộ bằng chất gây nghiện của Goma, nó không chỉ tăng cường các loại năng lực thể chất mà còn được pha trộn thêm Lõi ma vật có độ tinh khiết cao. Bằng cách tạm thời nhận được nguồn cung cấp ma lực khổng lồ, hiệu quả và thời gian duy trì của thuốc đã được tăng lên đáng kể. Hơn nữa, nhờ vào sức mạnh của Hayama, tôi còn cho một tinh linh bóng tối bám lấy mình trú ngụ vào trong đó. Đây là một loại thuốc cực kỳ nguy hiểm, người bình thường uống vào chết lúc nào không hay. Nhưng nếu là Mei… tôi nghĩ nếu là Mei thì sẽ ổn, nên đã chuẩn bị sẵn cho cậu.
+『Berserk X』: Loại thuốc cường hóa phục vụ trận quyết chiến được cải tiến từ Thuốc thử X. Không chỉ giải phóng giới hạn não bộ bằng chất kích thích chiết xuất từ Goma để tăng cường toàn diện thể chất, nó còn được pha trộn thêm Lõi Ma Vật có độ tinh khiết cực cao. Bằng cách tạm thời hấp thụ nguồn ma lực khổng lồ từ lõi, hiệu năng và thời gian duy trì của thuốc đã được gia tăng vượt bậc. Hơn thế nữa, nhờ vào năng lực của Hayama, tôi còn phong ấn cả một tinh linh bóng tối bám theo mình vào trong đó. Đây là loại độc dược cực kỳ nguy hiểm, người bình thường uống vào chắc chắn mất mạng trong chớp mắt. Nhưng nếu là Mei… tôi tin chắc nếu là Mei thì sẽ vượt qua được, nên mới đặc chế riêng cho cậu.
 
-“————Cảm ơn cậu.”
+“————Cảm ơn cậu nhé.”
 
-Không một chút nghi ngờ, Mei lập tức uống cạn 『Berserk X』 với một nụ cười trên môi.
+Không một chút mảy may nghi ngờ, Mei đón lấy và nở nụ cười uống cạn bình 『Berserk X』.
 
-Chất lỏng đáng ngờ tỏa ra ánh sáng âm u màu đỏ tím đậm trong lọ potion đã trôi tuột xuống cổ họng cô ấy chỉ trong một hơi mà không có lấy một khắc do dự.
+Dung dịch đáng ngờ phát ra ánh sáng âm u mang sắc đỏ tím sẫm trong lọ potion trôi tuột xuống cổ họng cô ấy chỉ trong một hơi, không hề có lấy một giây do dự.
 
-Ngay sau đó, sự biến đổi bắt đầu.
+Ngay sau đó, sự dị biến bắt đầu.
 
 “Ưm…”
 
-Cô ấy khẽ phát ra một tiếng rên rỉ đầy quyến rũ, đưa tay lên ôm lấy ngực————Đoàng! Một luồng hào quang đỏ rực phun trào mạnh mẽ từ khắp cơ thể cô ấy như thể phát ra tiếng nổ.
+Cô ấy khẽ phát ra một tiếng rên rỉ đầy quyến rũ, đưa tay lên ôm lấy lồng ngực————*Đoàng!* Một luồng hào quang đỏ rực phun trào mãnh liệt từ khắp cơ thể cô ấy tựa như một vụ nổ ma lực bộc phát.
 
-Có vẻ như nguồn cung cấp ma lực từ Lõi tinh khiết cao đang hoạt động bình thường. Và việc luồng hào quang ma lực mang màu sắc này tỏa ra chính là minh chứng cho thấy nó đã thích ứng hoàn toàn với cơ thể của Mei.
+Có vẻ nguồn cung cấp ma lực từ Lõi tinh khiết đang vận hành hoàn hảo. Và việc luồng hào quang ma lực mang sắc thái rực rỡ này bùng cháy chính là bằng chứng xác thực cho thấy cơ thể Mei đã thích ứng trọn vẹn với độc dược.
 
-Quả nhiên, nếu nói về việc sử dụng chất kích thích thì không ai có thể vượt qua cô ấy. Kỹ năng 『Huệ Thể』 vạn tuế.
+Quả nhiên, nếu bàn về khả năng hấp thụ các chất kích thích cường hóa thì không một ai có thể vượt qua cô ấy. Kỹ năng 『Huệ Thể』 vạn tuế!
 
-“Nhờ cậu cả đấy, Mei-chan.”
+“Trông cậy cả vào cậu đấy, Mei-chan.”
 
 “Ừm, cứ giao cho tớ, Kotarou-kun.”
 
-Và rồi, chỉ với việc nắm chặt thanh đao nguyền rủa 『Bát Táp Ngưu Ma Đao』 duy nhất trên tay, 『Cuồng Chiến Binh』 lao vào khiêu chiến gã khổng lồ————
+Và rồi, chỉ với một thanh ma đao 『Bát Táp Ngưu Ma Đao』 duy nhất trong tay, 『Cuồng Chiến Binh』 đã lao thẳng vào khiêu chiến gã khổng lồ————
+
+***
 
 “Zagan!”
 
 “Hửm, kẻ nào thế!?”
 
-Nghe thấy tiếng gọi của Oh-ma, Zagan quay phắt lại như một chiếc lò xo bị nén.
+Nghe thấy tiếng hô của Oh-ma, Zagan quay phắt người lại như một chiếc lò xo bật nén.
 
-Thứ đập vào mắt hắn là một con người đang được bao bọc trong luồng hào quang đỏ rực dữ dội như ngọn lửa đang bùng cháy.
+Đập vào mắt hắn là một con người đang được bao bọc trong luồng hào quang đỏ rực dữ dội tựa ngọn lửa bùng cháy.
 
-Theo phản xạ, câu hỏi “Kẻ nào thế” đã thốt ra khỏi miệng, nhưng từ tận đáy lòng, hắn thực sự muốn biết danh tính của con người đang ẩn chứa sức mạnh đáng sợ này. Đó không phải là 『Quang Chi Tử』. Nhưng sức mạnh đó có thể sánh ngang, không, kẻ trước mắt này dường như đang phát huy một sức mạnh vượt trội hơn cả kẻ mà hắn từng chiến đấu khi đó.
+Theo phản xạ, câu hỏi “Kẻ nào thế” đã buột ra khỏi miệng, nhưng tự sâu thẳm tâm can, hắn thực sự muốn biết danh tính của con người đang ẩn chứa uy lực đáng sợ này. Kẻ đó không phải là 『Quang Chi Tử』. Nhưng nguồn sức mạnh kia hoàn toàn có thể sánh ngang, không, thậm chí kẻ trước mắt này dường như còn đang phát huy thứ sức mạnh vượt trội hơn cả đối thủ mà hắn từng đụng độ khi trước.
 
-Sự xuất hiện của một kẻ mạnh mới bên phía con người nằm ngoài mọi dự tính khiến hắn vô cùng kinh ngạc, nhưng cơ thể hắn không được rèn luyện một cách yếu ớt đến mức bị đông cứng bởi điều đó.
+Sự xuất hiện của một kẻ địch hùng mạnh mới bên phía loài người hoàn toàn nằm ngoài dự liệu khiến hắn không khỏi kinh ngạc, song cơ thể kinh qua trăm trận của hắn tuyệt đối không mềm yếu đến mức bị chôn chân bởi sự ngỡ ngàng.
 
-Zagan tung ra một cú đấm sắc lẹm nhằm đánh rụng con người đang bay thẳng tới.
+Zagan tung ra một cú đấm sắc lẹm nhằm đánh rụng con người đang lao tới.
 
 “Uraaa!”
 
-Cú đấm đón đánh được tung ra cùng với tiếng hét xé lòng đã nhắm chuẩn xác vào con người đang lao thẳng tới————đáng lẽ là như vậy.
+Cú đấm đón đầu được tung ra cùng tiếng thét xé lòng nhắm chuẩn xác vào mục tiêu đang phóng tới————đáng lẽ phải là như vậy.
 
-Ngay trước khi va chạm, con người đó đã bẻ lái. Cô ta đã thay đổi quỹ đạo ngay giữa không trung.
+Thế nhưng ngay trước khoảnh khắc va chạm, con người đó đã bẻ ngoặt hướng đi. Cô ta đã tự ý thay đổi quỹ đạo ngay giữa không trung.
 
-Hắn biết rằng nếu đạt đến cực hạn của võ kỹ tăng cường lực chân, người ta có thể đạp vào hư không để nhảy lên, nhưng không ngờ ngoài bản thân ra lại có kẻ khác học được chiêu này. Sự khinh thường rằng một kẻ như con người làm sao có thể chạm tới đỉnh cao của võ kỹ đã biến thành sơ hở chí mạng.
+Hắn biết rằng nếu tôi luyện võ kỹ cường hóa lực chân tới cảnh giới tối cao, người ta có thể đạp lên hư không để đổi hướng, nhưng không ngờ ngoài bản thân ra lại có kẻ khác lĩnh hội được bí kỹ này. Sự khinh suất cho rằng lũ con người yếu ớt không thể chạm tới đỉnh cao võ học đã biến thành sơ hở chết người.
 
 “————Hắc (Hắc Nại).”
 
-Giọng nói tĩnh lặng của con người đó truyền đến tai hắn như thể đang thì thầm bên cạnh.
+Giọng nói lạnh băng của ả truyền vào tai hắn tựa như một lời thì thầm bên gối.
 
-Ngay sau đó, một cảm giác nóng rát chạy dọc cổ hắn.
+Ngay khoảnh khắc tiếp theo, một cảm giác nóng rát tột cùng rạch ngang qua cổ hắn.
 
 “Nuuu… Gwaaaaaaaaaaaaaaaaaaaaaa!?”
 
-Bị chém rồi. Vết chém cực sâu. Nếu không nhờ 『Khổng Lồ Hóa』 thì hắn đã mất mạng ngay tức khắc.
+Bị chém trúng rồi! Vết chém sâu hoắm. Nếu không nhờ có 『Khổng Lồ Hóa』 che chở, hẳn hắn đã bay đầu tại chỗ.
 
-Vừa dùng tay ấn chặt lấy dòng máu tươi đang tuôn trào, Zagan vừa vô cùng hối hận về sự bất cẩn của mình.
+Vừa lấy tay ấn chặt lấy dòng máu tươi đang trào xối xả, Zagan vừa vô cùng căm phẫn sự bất cẩn của chính mình.
 
-Không có đòn truy kích nào tiếp theo. Quả thực với tốc độ lao tới kinh hoàng như vậy, việc lập tức quay người lại để tấn công tiếp là điều bất khả thi.
+Không hề có đòn truy kích nào tiếp nối. Quả thực với vận tốc lao đi kinh hoàng như vậy, việc lập tức quay ngoắt người lại để tấn công tiếp là điều bất khả thi.
 
-Con người đã tặng cho Đại Chiến Sĩ Trưởng Zagan một đòn chí mạng này đã đáp xuống bên cạnh 『Chú Thuật Ngự Tử』 đang chờ sẵn trên bức tường thành.
+Kẻ vừa ban cho Đại Chiến Sĩ Trưởng Zagan một đòn chí mạng đã đáp xuống bên cạnh 『Chú Thuật Ngự Tử』 đang đứng đợi sẵn trên mặt thành.
 
-Một Chú Thuật Ngự Tử nhỏ bé như một đứa trẻ, và một con người cao lớn, đứng sừng sững đầy oai phong như một Đại Chiến Sĩ. Hình ảnh hai kẻ đứng cạnh nhau đó có nét gì đó trùng lặp với hình ảnh của Vua Oh-ma và chính hắn.
+Một Chú Thuật Ngự Tử nhỏ thó như một đứa trẻ, và một con người cao lớn, sừng sững đầy uy nghiêm tựa một Đại Chiến Sĩ. Hình ảnh hai kẻ đứng cạnh nhau kia dường như có nét tương đồng kỳ lạ với hình bóng của Vua Oh-ma và chính hắn.
 
-Có vẻ như đối với Ngự Tử, con người đó chính là Đại Chiến Sĩ Trưởng của cậu ta.
+Xem ra đối với tên Ngự Tử kia, con người đó chính là Đại Chiến Sĩ Trưởng hộ mệnh của cậu ta.
 
-“Hãy mọc ra mầm thịt, hãy vươn dài dây leo biến thành máu thịt, tạo nên thân cây xương thịt————『Nhục Thể Tái Sinh』.”
+“Hãy mọc ra mầm thịt, hãy vươn dài dây leo biến thành máu huyết, đắp nặn nên thân cây cốt nhục————『Nhục Thể Tái Sinh』.”
 
-Vết thương trên cổ Zagan lập tức khép miệng lại trong khi bọt máu vẫn còn đang sủi lên sùng sục.
+Vết thương trên cổ Zagan lập tức khép miệng lại trong khi bọt máu vẫn còn sôi lên sùng sục.
 
-Dưới chân hắn là hình ảnh Oh-ma đang giơ cao cây gậy phép.
+Ngay dưới chân hắn, Oh-ma đang giơ cao quyền trượng ma pháp.
 
-“Đa tạ sự trợ giúp của ngài, bệ hạ Oh-ma.”
+“Đa tạ ơn cứu giúp của ngài, bệ hạ Oh-ma.”
 
-“Không có gì, giờ đây đây đã là một trận quyết đấu. Nhìn xem, bọn chúng cũng đang lập thành cặp bài trùng giữa thuật giả và chiến sĩ đấy thôi.”
+“Không có gì, giờ đây trận chiến đã biến thành một cuộc quyết đấu thực sự. Ngươi thấy đấy, bọn chúng cũng đang hợp thành cặp bài trùng giữa thuật giả và chiến sĩ.”
 
-Có vẻ như dưới mắt của Oh-ma, hình ảnh Ngự Tử và chiến sĩ đứng cạnh nhau cũng hiện lên như vậy.
+Có vẻ như trong mắt Oh-ma, hình ảnh Ngự Tử và chiến sĩ đứng cạnh nhau cũng hiện lên đầy tương xứng như vậy.
 
 “Chúng ta sẽ nghênh chiến chứ?”
 
 “Rõ!”
 
-“Ta là Vua Goma vĩ đại Oh-ma. Còn ngươi là Đại Chiến Sĩ Trưởng đứng đầu vạn quân. Chúng ta mới là kẻ mạnh nhất. Hãy để cho lũ con người ngu xuẩn kia biết thế nào là lễ độ!”
+“Ta là Vua Goma vĩ đại Oh-ma. Còn ngươi là Đại Chiến Sĩ Trưởng thống lĩnh vạn quân. Chúng ta mới là những kẻ mạnh nhất! Hãy dạy cho lũ sâu bọ con người kia biết thế nào là lễ độ!”
 
 “Tuân lệnh! Chúng ta mới là kẻ mạnh nhất!!”
 
-Đây chính là trận quyết chiến đỉnh cao giữa Goma và con người. Liệu trong quá khứ đã từng có một thời khắc quyết định nào như thế này chưa?
+Đây chính là trận long tranh hổ đấu đỉnh cao giữa tộc Goma và loài người. Liệu trong dòng chảy lịch sử đã từng xuất hiện một thời khắc định đoạt hào hùng đến nhường này hay chưa?
 
-Những vết thương từ lúc bị rơi xuống vực sâu vẫn chưa lành hẳn. Vũ khí cũng đã mất. Tuy nhiên, cơ thể Zagan đang tràn ngập sức mạnh của 『Khổng Lồ Hóa』, và linh hồn hắn đang rực cháy ý chí chiến đấu.
+Những thương tổn từ cú rơi xuống vực sâu vẫn chưa lành hẳn. Binh khí tùy thân cũng đã thất lạc. Tuy nhiên, cơ thể Zagan lúc này đang cuộn trào sức mạnh của 『Khổng Lồ Hóa』, và linh hồn hắn đang rực cháy ngọn lửa chiến đấu bất diệt.
 
-Đối mặt với Đại Chiến Sĩ Trưởng Zagan đang tăng cường luồng hào quang ma lực màu tím lên một tầng nữa, chiến sĩ của Ngự Tử là,
+Đối mặt với Đại Chiến Sĩ Trưởng Zagan đang bùng nổ luồng hào quang ma lực màu tím lên một tầng cao mới, chiến sĩ bên phía Ngự Tử cũng,
 
 “Haaaaa… Oooooooooaaaaaaaaaaaaaa!”
 
-Cô ta gầm lên một tiếng như tiếng gầm của loài rồng, đồng thời giải phóng một luồng hào quang ma lực mạnh mẽ không hề kém cạnh.
+Ả ta rống lên một tiếng tựa như tiếng gầm của loài rồng, đồng thời phóng thích một luồng hào quang ma lực cuồng bạo không hề kém cạnh.
 
-Luồng hào quang phun trào như vũ bão từ khắp cơ thể cô ta là sự pha trộn giữa sắc đỏ rực của lửa hồng và sắc đen kịt như đêm tối, một màu sắc đầy điềm gở. Hơn nữa, thanh kiếm tỏa ra luồng khí nguyền rủa đáng sợ trên tay cô ta cũng đang hấp thụ luồng hào quang đó để khuếch đại sức mạnh nguyền rủa ghê tởm của nó.
+Luồng hào quang tuôn trào như bão táp từ khắp cơ thể ả là sự giao hòa ghê rợn giữa sắc đỏ rực của lửa thiêng và sắc đen ngòm của màn đêm u tối. Hơn thế nữa, thanh kiếm toát ra tà khí nguyền rủa đáng sợ trên tay ả cũng đang điên cuồng hấp thụ luồng hào quang ấy để khuếch đại uy lực nguyền rủa tột cùng.
 
-“Hừm, quả là một sức mạnh tà ác xứng đáng với lũ con người… Zagan, đừng coi ả ta là một chiến sĩ thông thường.”
+“Hừm, quả là thứ sức mạnh tà đạo xứng danh lũ con người… Zagan, chớ có xem ả là một chiến sĩ tầm thường.”
 
-“Đúng vậy. Có lẽ nên gọi ả ta là Cuồng Chiến Binh.”
+“Đúng vậy. Có lẽ phải gọi ả ta là một Cuồng Chiến Binh.”
 
-Không phải là một chiến sĩ thông thường. Nhưng để gọi là Đại Chiến Sĩ như một vị anh hùng vĩ đại sở hữu sức mạnh to lớn thì thật là khiên cưỡng.
+Không phải là một chiến sĩ bình thường. Nhưng để tôn xưng là một Đại Chiến Sĩ tựa như bậc dũng sĩ vĩ đại sở hữu sức mạnh chính trực thì thật quá khiên cưỡng.
 
-Sở hữu sức mạnh vượt qua cả chiến sĩ nhưng lại sử dụng sức mạnh của sự điên cuồng tà ác, cái tên đáng ghét Cuồng Chiến Binh mới là phù hợp nhất với cô ta.
+Kẻ nắm giữ sức mạnh vượt tầm chiến sĩ nhưng lại sa đà vào sự điên loạn tà ác, danh xưng ghê tởm Cuồng Chiến Binh mới là thứ định danh chuẩn xác nhất dành cho ả.
 
-“Đi đi, Zagan. Ngươi chỉ cần tập trung vào việc nghiền nát con mụ Cuồng Chiến Binh đó thôi. Cho dù tên Chú Thuật Ngự Tử kia có dùng mưu hèn kế bẩn gì đi chăng nữa, ta cũng sẽ không cho phép hắn thành công.”
+“Tiến lên, Zagan! Ngươi chỉ cần dốc toàn lực nghiền nát con ả Cuồng Chiến Binh đó! Cho dù tên Chú Thuật Ngự Tử kia có giở trò ma quỷ gì đi chăng nữa, ta tuyệt đối sẽ không để hắn toại nguyện!”
 
-“Tuân lệnh! Ta chính là Đại Chiến Sĩ Trưởng Zagan! Đại Chiến Sĩ Trưởng Zagan! Hãy đường đường chính chính phân thắng bại!”
+“Tuân lệnh! Ta chính là Đại Chiến Sĩ Trưởng Zagan! Hãy đường đường chính chính phân định thắng bại!”
 
 “Haaaaaaaaaaaaaaaaaaaaaa!!”
 
-Cùng với lời tuyên chiến của Zagan, bức màn của trận chiến cuối cùng cũng được vén lên.
+Cùng với lời tuyên chiến đanh thép của Zagan, tấm màn nhung của trận tử chiến cuối cùng đã chính thức vén lên.
 
-Cuồng Chiến Binh lao ra khỏi bức tường thành với một đà thế giống như lúc nãy, không, thậm chí còn dữ dội hơn thế. Bỏ lại tiếng gầm điên cuồng ở phía sau, một khối sát ý tỏa ra ánh sáng đỏ đen bay vút đi.
+Ả Cuồng Chiến Binh phóng mình khỏi mặt thành với một khí thế hung bạo tương tự như vừa nãy — không, thậm chí còn điên cuồng hơn gấp bội. Bỏ lại tiếng rống cuồng loạn sau lưng, một khối sát ý bọc trong ánh sáng đỏ đen xé gió lao đi vun vút.
 
-“Đến cả việc xưng danh cũng không thèm làm, quả nhiên là Cuồng Chiến Binh. Một lũ thú vật đã vứt bỏ cả lòng kiêu hãnh của chiến sĩ để đổi lấy sức mạnh————『Hào Quyền』!”
+“Đến cả việc xưng danh cũng chẳng buồn làm, quả nhiên đúng là loài Cuồng Chiến Binh mạt hạng! Lũ súc sinh đã vứt bỏ danh dự của một chiến binh để đổi lấy sức mạnh————『Hào Quyền』!”
 
-Dù đã mất đi thanh kiếm yêu thích và đang tay không tấc sắt, nhưng đối với một Đại Chiến Sĩ, bản thân cơ thể khổng lồ đó đã là một thứ hung khí, không, một món vũ khí quá đủ rồi.
+Dẫu đã mất đi thanh kiếm yêu thích và tay không tấc sắt, nhưng đối với một Đại Chiến Sĩ, bản thân thể xác khổng lồ kia đã là một thứ hung khí, một món vũ khí quá đỗi hoàn hảo.
 
-Kỹ năng 『Hào Quyền』 được kích hoạt vừa là một võ kỹ, vừa là một biến dị thuật giúp tái tạo cơ thể chuyên dùng cho chiến đấu.
+Kỹ năng 『Hào Quyền』 được khai triển vừa là một môn võ kỹ thượng thừa, vừa là một biến dị thuật giúp tái cấu trúc cơ thể chuyên dụng cho chiến đấu.
 
-Bốn cánh tay của GoGame Mastera là ví dụ điển hình cho biến dị thuật, nhưng đối với một Đại Chiến Sĩ, đó là một thuật kỹ cao cấp hơn khi chỉ biến dị những phần cần thiết vào lúc cần thiết. Luồng hào quang màu tím tập trung đậm đặc hơn trên hai cánh tay của Zagan, và trên đó bắt đầu hình thành những chiếc vảy sắc nhọn tỏa ra ánh sáng bạc như những lưỡi đao.
+Bốn cánh tay của Goma chỉ là ví dụ sơ đẳng của biến dị thuật, còn đối với một Đại Chiến Sĩ, đó là thuật kỹ cao cấp hơn nhiều: chỉ biến dị những bộ phận trọng yếu vào thời khắc quyết định. Luồng hào quang màu tím cô đặc lại trên đôi tay của Zagan, và trên bề mặt da thịt bắt đầu kết tinh những phiến vảy sắc nhọn lấp lánh ánh bạc tựa như hàng trăm lưỡi đao.
 
-Nhờ vào uy lực của võ kỹ và sự hiện diện của những chiếc vảy vật lý, hai cánh tay của Zagan đã biến thành những món vũ khí có thể đối đầu trực diện với thanh đao nguyền rủa của Cuồng Chiến Binh.
+Nhờ vào uy lực võ đạo cùng sự gia cố vật lý từ lớp vảy kim loại, đôi nắm đấm của Zagan đã hóa thành món binh khí đủ sức va chạm trực diện với thanh ma đao của Cuồng Chiến Binh.
 
 “Seya!”
 
 “————Đoạn (Phá Đoạn).”
 
-Nắm đấm của Zagan và võ kỹ của Cuồng Chiến Binh giao nhau. Những tia lửa và ánh sáng ma lực bắn ra tung tóe dữ dội.
+Nắm đấm thép của Zagan và tuyệt kỹ của Cuồng Chiến Binh va vào nhau chan chát. Vô số tia lửa cùng những mảnh vỡ ma lực bắn tung tóe mù mịt.
 
-Cuộc đọ sức giữa hai kẻ đang đứng trên đỉnh cao của chiến sĩ không thể kết thúc chỉ sau một hiệp đấu. Những vệt kiếm lóe lên và những luồng xung kích quét qua chỉ trong chớp mắt.
+Cuộc đọ sức đỉnh cao giữa hai thực thể đứng trên đỉnh phong chiến đấu không thể ngã ngũ chỉ sau một chiêu thức. Những vệt chém lóe sáng và những luồng xung kích chấn động xé toạc không gian chỉ trong chớp mắt.
 
-Cuồng Chiến Binh liên tục tung ra những nhát chém tốc độ cao trong khi nhảy nhót đa chiều giữa hư không một cách tự do như thể đang bay lượn. Đối mặt với điều đó, Zagan cũng di chuyển một cách khéo léo để tuyệt đối không để con người nhỏ bé kia lọt vào góc chết của mình.
+Ả Cuồng Chiến Binh liên tục vung ra những nhát chém cuồng phong trong khi thoăn thoắt nhảy múa đa chiều giữa không trung như thể đang bay lượn tự do. Đối đầu với điều đó, Zagan cũng di chuyển cực kỳ linh hoạt để tuyệt đối không để thân ảnh nhỏ bé của con người lọt vào góc chết thị giác.
 
-Trận chiến dữ dội như một cơn bão cục bộ quét qua dần dần di chuyển vào bên trong pháo đài. Một Cuồng Chiến Binh liên tục tấn công dồn dập không một giây dừng lại, và một Zagan vừa phòng thủ vừa đuổi theo. Việc xen vào giữa trận chiến của hai kẻ này là điều bất khả thi đối với một chiến sĩ thông thường.
+Trận bão táp chiến tranh dữ dội dần dần dịch chuyển sâu vào bên trong pháo đài. Một Cuồng Chiến Binh dồn dập tấn công không ngơi nghỉ nửa nhịp, và một Zagan vừa vững vàng phòng ngự vừa rình rập phản công. Việc chen chân vào giữa cuộc chiến của hai kẻ quái vật này là điều bất khả thi đối với bất kỳ chiến binh tầm thường nào.
 
-Thế nhưng, kẻ đang ngang nhiên bước chân vào thánh địa của những chiến sĩ đang chiến đấu ác liệt đó lại chính là Chú Thuật Ngự Tử.
+Thế nhưng, kẻ đang ngang nhiên nhúng tay vào thánh địa giao tranh ác liệt ấy lại chính là Chú Thuật Ngự Tử.
 
-“————Yogomichiii! (Ngoạm lấy nó đi, 『Vô Đạo Nhất Thức』!)”
+“————Yogomichiii! (Ngoạm lấy nó, 『Vô Đạo Nhất Thức』!)”
 
-Trên bức tường thành, Ngự Tử đang vung cây gậy dài gắn chiếc đầu lâu dị dạng đáng sợ.
+Đứng trên mặt thành cao, tên Ngự Tử đang vung vẩy cây trường trượng gắn chiếc đầu lâu dị dạng gớm ghiếc.
 
-Thứ bay ra từ ma pháp trận màu máu và cái bóng hỗn mang được vẽ ra là một ma vật quá đỗi kỳ dị để có thể gọi là một con chim.
+Thứ chui ra từ ma pháp trận màu máu và bóng tối hỗn mang là một ma vật quá đỗi quái dị để có thể gọi là chim muông.
 
-Thân hình nó dài ngoằn như một con đại xà, và từ đó mọc ra vô số đôi cánh. Có đôi cánh chim được bao phủ bởi lông vũ, có đôi cánh màng như của loài dơi, và thậm chí có cả đôi cánh côn trùng bán trong suốt.
+Thân hình nó dài ngoằng như loài cự xà, và từ thân mình mọc ra chi chít vô số đôi cánh. Có đôi cánh lông vũ của loài chim, có đôi cánh màng da của loài dơi, thậm chí có cả những đôi cánh côn trùng bán trong suốt.
 
-Oh-ma cũng đã nhìn thấy ma pháp triệu hồi ra sự tồn tại ghê tởm đáng gọi là thú tổng hợp pha trộn đặc tính của nhiều loài ma vật và động vật này trong trận chiến ở Đông Môn. Một năng lực không thể xem thường khi đã kiềm chế được Bandon, kẻ sở hữu lực phòng ngự mạnh nhất trong số các Đại Chiến Sĩ, dù chỉ là tạm thời.
+Oh-ma cũng từng chứng kiến thuật triệu hồi quái thai lai tạp tổng hợp đặc tính của muôn loài ma thú này trong trận chiến tại Đông Môn. Một năng lực không thể xem thường khi từng kiềm tỏa được cả Bandon — kẻ sở hữu khả năng phòng ngự kiên cố nhất trong các Đại Chiến Sĩ, dù chỉ là trong thoáng chốc.
 
-Chú Thuật Ngự Tử đã thả con thú tổng hợp có thể sánh ngang với Đại Chiến Sĩ đó về phía Zagan. Bằng cách kết hợp các bộ phận cánh, nó đã có được khả năng cơ động để bám theo Zagan, kẻ đang vừa di chuyển vừa chiến đấu.
+Tên Chú Thuật Ngự Tử đã thả con quái thú dị hình có sức mạnh sánh ngang Đại Chiến Sĩ đó lao thẳng về phía Zagan. Bằng cách kết hợp vô số đôi cánh, nó sở hữu khả năng cơ động điên cuồng để bám đuổi theo Zagan, kẻ đang vừa di chuyển vừa kịch chiến.
 
-Nếu cứ để mặc nó, nó có thể tạo ra một sơ hở chí mạng trong trận cận chiến với Cuồng Chiến Binh.
+Nếu cứ mặc kệ nó quấy nhiễu, nó chắc chắn sẽ tạo ra sơ hở chí mạng cho Zagan trong trận giáp lá cà với Cuồng Chiến Binh.
 
-Nhưng ta sẽ không để ngươi làm vậy, Oh-ma cũng vung gậy kích hoạt thuật pháp.
+Nhưng ta đâu dễ để ngươi toại nguyện! Oh-ma lập tức vung quyền trượng kích hoạt bí thuật.
 
-“Hãy đến đi lôi vân, ánh chớp ẩn hiện trong bóng tối, hãy vung tay phán xét xuống————『Hoang Thiên Lạc Lôi』.”
+“Hãy tụ hội đi hỡi lôi vân, ánh chớp ẩn hiện nơi vực thẳm bóng tối, hãy giáng sấm sét phán xét xuống trần gian————『Hoang Thiên Lạc Lôi』!”
 
-Trên bầu trời vương quốc, những đám mây mưa dùng để dập lửa vẫn đang lơ lửng. Khi chúng tụ lại phía trên pháo đài như một vòng xoáy, chúng tạo thành những đám mây đen kịt, và tiếng sấm bắt đầu rền vang dữ dội.
+Trên bầu trời vương quốc, những đám mây mưa dùng để dập tắt hỏa hoạn ban nãy vẫn chưa tan biến. Khi chúng xoáy tụ lại phía trên pháo đài thành một vòng xoáy khổng lồ, bầu trời tối sầm lại trong những đám mây đen kịt, và tiếng sấm sét bắt đầu gầm rống long trời lở đất.
 
-Ngay trước khi con thú tổng hợp có cánh chuẩn bị lao vào Zagan, những tia sét chói lòa được giáng xuống.
+Ngay trước khoảnh khắc con quái thú nhiều cánh chuẩn bị bổ nhào vào Zagan, những lôi kích chói lòa đã giáng thẳng xuống.
 
-Một tia, hai tia, những tia sét phóng ra từ đám mây tăng lên với tốc độ chóng mặt, dồn dập lao về phía con thú tổng hợp như thể đang thực thi sự phán xét của thần linh. Bị đánh trúng bởi vô số tia sét, con thú tổng hợp lập tức bị cháy đen thui và rơi rụng xuống đất.
+Một tia, hai tia, rồi vô số luồng thiên lôi phóng ra từ đám mây với tốc độ kinh hoàng, dồn dập trút thẳng vào đầu con quái vật như một cuộc hành quyết của thần linh. Bị hàng chục tia sét thiêu đốt cùng lúc, con thú tổng hợp lập tức biến thành một khối than cháy đen thui rồi rơi rụng xuống nền đất.
 
-“Tch, quả nhiên hắn có thể điều khiển thời tiết.”
+“Tch, quả nhiên hắn có thể thao túng thời tiết.”
 
-“Đúng vậy, năng lực điều khiển thời tiết này chính là phép màu kỳ diệu được thần linh ban tặng!”
+“Phải, quyền năng điều khiển thiên tượng này chính là phép màu vĩ đại được thần linh tối cao ban tặng!”
 
-Ta khác hẳn với kẻ sử dụng sức mạnh nguyền rủa ghê tởm như ngươi.
+Bản vương hoàn toàn khác biệt với loại cặn bã sử dụng tà thuật nguyền rủa ghê tởm như ngươi!
 
-Oh-ma hét lên đầy tự hào với Ngự Tử, kẻ đang nhìn chằm chằm vào con thú tổng hợp bị bắn rơi từ bức tường thành với vẻ mặt đầy khó chịu.
+Oh-ma ngạo nghễ gầm lên với tên Ngự Tử, kẻ đang đứng trên tường thành nhìn chằm chằm vào xác con quái vật bị sét đánh hạ với vẻ mặt vô cùng khó chịu.
 
-“Nào, Chú Thuật Ngự Tử, giờ là lúc ngươi phải nhận sự phán xét của thần linh————『Hoang Thiên Lạc Lôi』!”
+“Nào, hỡi Chú Thuật Ngự Tử, giờ là lúc ngươi phải chịu sự phán quyết của thần linh————『Hoang Thiên Lạc Lôi』!”
 
-Đám mây lôi âm vẫn đang gầm rú mà không hề tan đi.
+Tầng mây sấm sét vẫn cuồn cuộn gầm thét mà không hề suy suyển.
 
-Đối với Ngự Tử đang đứng trên bức tường thành, không có cách nào để trốn thoát khỏi lôi kích. Trận chiến giữa vua và Ngự Tử, phần thắng thuộc về ta. Oh-ma vung gậy xuống đầy tự tin.
+Đối với tên Ngự Tử đang đứng trơ trọi trên đỉnh tường thành, không có bất kỳ ngóc ngách nào để trốn thoát khỏi lôi phạt. Trận chiến giữa một quân vương và một tên Ngự Tử tà đạo, phần thắng ắt thuộc về ta! Oh-ma vung quyền trượng xuống đầy quyết đoán.
 
 “Luyện thành!”
 
-Ngự Tử hét lên một tiếng kỳ lạ rồi phủ phục xuống đất. Thật là một tư thế thảm hại. Ngươi nghĩ trốn như thế là xong sao, chỉ bằng cách cúi đầu thấp xuống thì không thể nào thoát khỏi tia sét giáng xuống từ trên trời đâu.
+Tên Ngự Tử hô lên một tiếng kỳ quặc rồi lập tức phủ phục sát đất. Đúng là một tư thế hèn mạt nực cười. Ngươi tưởng nằm bẹp xuống là thoát sao? Chỉ bằng cách cúi đầu rạp mình thì làm sao tránh được sấm sét từ trên trời giáng xuống!
 
-Ngay vào khoảnh khắc Oh-ma chuẩn bị chứng kiến cái chết đáng thương và ngu xuẩn của Ngự Tử, một cây cột đột ngột nhô ra từ bức tường thành với tiếng rắc rắc dữ dội.
+Ngay vào khoảnh khắc Oh-ma đinh ninh sắp được chứng kiến cái chết thảm hại và ngu xuẩn của tên Ngự Tử, một cây cột bất ngờ trồi lên từ mặt thành kèm theo âm thanh răng rắc chói tai.
 
-Cây cột nhô lên mạnh mẽ như Thổ ma thuật, vươn thẳng lên trời như muốn đâm thủng bầu khí quyển. Nó không quá dày, cũng không đủ lớn để có thể dùng làm vật che chắn cơ thể.
+Cây cột vươn cao mạnh mẽ tựa như Thổ ma thuật, đâm thẳng lên trời cao như muốn xé toạc bầu khí quyển. Nó không quá dày, cũng chẳng đủ bề ngang để làm vật chắn che chở cho thân thể.
 
-Ngự Tử lăn lộn bò lê bò càng ra xa khỏi cây cột do chính mình tạo ra như thể đang chạy trốn, và rồi,
+Tên Ngự Tử lăn lộn bò lê bò càng ra xa khỏi cây cột do chính mình tạo ra như thể đang tháo chạy trối chết, và rồi —
 
-Đoàng!
+*ĐOÀNG!*
 
-Tia sét của 『Hoang Thiên Lạc Lôi』 được phóng xuống ngay lúc đó.
+Tia sét hủy diệt của 『Hoang Thiên Lạc Lôi』 bổ thẳng xuống ngay tích tắc ấy.
 
-Tia sét giáng xuống bị hút thẳng vào đầu cây cột như thể bị nam châm hút.
+Thế nhưng, luồng thiên lôi giáng xuống lại bị hút trọn vào đỉnh cây cột kim loại như thể bị nam châm cực mạnh lôi kéo.
 
-Những tia sét tiếp theo được phóng xuống cũng đều đánh trúng vào cây cột đó.
+Những tia sét tiếp theo liên tiếp giáng xuống cũng đều bị cây cột ấy hút sạch, không sót một tia nào.
 
-“Cá… Cái gì! Tại sao lại không trúng!?”
+“Cá… Cái gì!? Tại sao lại không trúng!?”
 
-Đó là sự bảo hộ của tà thần sao? Hay là trên cây cột đó có khắc một thuật thức ma pháp đặc biệt nào đó để triệt tiêu lôi kích?
+Đó là sự bảo hộ của tà thần sao? Hay trên cây cột đó có khắc đồ hình ma pháp đặc biệt nào để hóa giải lôi kích?
 
-『Hoang Thiên Lạc Lôi』 chỉ có thể nhắm mục tiêu một cách tương đối. Tuy nhiên, trước những tia sét được giáng xuống liên tục, việc tất cả đều trượt là điều hoàn toàn bất khả thi.
+『Hoang Thiên Lạc Lôi』 vốn chỉ có thể khóa mục tiêu một cách tương đối. Tuy nhiên, trước hàng loạt tia lôi kích đánh xuống dồn dập, việc toàn bộ đều đánh trượt mục tiêu là điều vô lý đến mức không tưởng!
 
-Cũng không phải là do thuật thức bị lỗi. Những con thú tổng hợp lúc nãy đều bị đánh trúng không trượt phát nào.
+Tuyệt đối không phải do thuật thức bị lỗi. Bằng chứng là con quái thú lúc nãy đã bị đánh trúng không trượt một phát nào.
 
-Bộ óc nhạy bén của Oh-ma lập tức hoạt động hết công suất để giải mã hiện tượng không thể hiểu nổi này. Mọi khả năng có thể xảy ra và những bằng chứng phản bác lại chúng. Đồng thời, hắn lục tìm trong ký ức xem mình đã từng nhìn thấy thứ gì tương tự chưa.
+Trí tuệ trác tuyệt của Oh-ma lập tức vận hành hết công suất để bóc tách hiện tượng không tưởng này. Mọi giả thuyết được đặt ra và lập tức bị những luận cứ phản bác dập tắt. Đồng thời, hắn lục lọi trong ký ức xem bản thân đã từng chứng kiến cảnh tượng tương tự ở đâu chưa.
 
-“Sét đánh vào cây cổ thụ… cũng tương tự như vậy sao?”
+“Sét luôn đánh vào những ngọn cây cổ thụ cao nhất… Lẽ nào cũng cùng một nguyên lý!?”
 
-Một cảnh tượng tự nhiên mà từ trước đến nay hắn chưa từng bận tâm đột ngột hiện lên trong đầu Oh-ma.
+Một hiện tượng tự nhiên mà từ trước đến nay hắn chưa từng mảy may bận tâm đột ngột lóe lên trong tâm trí Oh-ma.
 
-Hắn cứ nghĩ đó là điều hiển nhiên. Nhưng nếu như ở đó có một nguyên lý mà hắn không hề biết đến thì sao.
+Hắn cứ ngỡ đó là điều hiển nhiên của trời đất. Nhưng nếu như ẩn sau đó là một quy luật vật lý mà hắn chưa từng hay biết thì sao?
 
-Và nếu như Ngự Tử biết rõ điều đó. Thì chẳng cần đến ma pháp đặc biệt nào cả. Chỉ cần dựng lên một cấu trúc dễ bị sét đánh, kẻ đó có thể dễ dàng vô hiệu hóa lôi kích ngay cả khi đang ở ngoài trời.
+Và nếu như tên Ngự Tử kia nắm rõ quy luật ấy trong lòng bàn tay… thì hắn chẳng cần đến bất kỳ ma pháp cao siêu nào cả. Chỉ cần dựng lên một cấu trúc dẫn sét, kẻ đó có thể dễ dàng vô hiệu hóa toàn bộ sấm sét giáng xuống ngay giữa thanh thiên bạch nhật!
 
-“Khốn kiếp, ngươi dám tự phụ là sở hữu trí tuệ vượt trội hơn ta sao…”
+“Khốn kiếp… Ngươi dám tự phụ rằng bản thân nắm giữ tri thức vượt trên cả ta sao…”
 
-Chú Thuật Ngự Tử. Việc tên đó có thể tiêu diệt vương quốc không phải chỉ dựa vào sự bảo hộ của tà thần. Có lẽ, kẻ đó biết rõ những quy luật của thế giới mà ngay cả một Vua Goma như hắn cũng không hề hay biết.
+Chú Thuật Ngự Tử. Việc tên khốn đó có thể phá hủy cả một vương quốc không đơn thuần chỉ dựa vào sự che chở của tà thần. Có lẽ, kẻ đó thực sự am hiểu những quy luật vận hành của thế giới này — những điều mà ngay cả một đấng quân vương như hắn cũng chưa từng thấu suốt.
 
-Bằng cách tập hợp tất cả trí tuệ và mưu lược đó, tên đó đã đi được đến tận đây chỉ với một nhóm nhỏ thuộc hạ.
+Bằng cách đan cài tất cả mưu mô và tri thức dị giới đó lại với nhau, tên đó đã đặt chân được đến tận nơi này chỉ với một nhóm tàn quân ít ỏi.
 
-“Nhưng đây là đất nước của ta, là thành trì của ta. Ta sẽ không thua đâu, cho dù ngươi có nhận được bao nhiêu sự chỉ dẫn đi chăng nữa, ta cũng quyết không khuất phục!”
+“Nhưng đây là giang sơn của ta, là thành trì của ta! Bản vương quyết không thua! Dù ngươi có nhận được bao nhiêu sự chỉ dẫn đi chăng nữa, ta cũng tuyệt đối không cúi đầu!”
 
-Thay đổi chiến thuật. Oh-ma lập tức chấm dứt thuật pháp 『Cầu Mưa Đại Tế』 tại đây.
+Lập tức đổi chiến thuật! Oh-ma quyết đoán giải trừ thuật thức 『Cầu Mưa Đại Tế』.
 
-Việc tiếp tục sử dụng lôi kích đã bị vô hiệu hóa chỉ là sự lãng phí ma lực vô ích. Chỉ riêng việc duy trì đám mây lôi âm cũng đã tiêu tốn một lượng ma lực không hề nhỏ rồi.
+Việc tiếp tục duy trì lôi kích đã bị khắc chế chỉ là sự lãng phí ma lực vô ích. Chỉ riêng việc duy trì màn mây giông bão cũng đã ngốn một lượng ma lực khổng lồ.
 
-Hiệu quả của những vật tế dâng lên ma pháp trận cũng có giới hạn. Dù vẫn còn vài vu nữ chưa dâng tế, nhưng hắn không còn nhiều thời gian dư dả nữa.
+Hiệu năng từ những vật tế dâng lên ma pháp trận không phải là vô hạn. Dẫu vẫn còn vài vu nữ dự phòng chưa đưa lên bệ tế, nhưng thời gian của hắn không còn nhiều.
 
-“Nếu ngươi đã biết cách tránh sét, vậy ngươi có cách nào để tránh đá rơi không? Những viên đá bay loạn xạ, những tảng đá lơ lửng, như mặt nước trôi chảy, hãy nổi lên, chìm xuống và bùng phát dữ dội————『Nộ Đào Thổ Thạch』.”
+“Nếu ngươi đã biết cách hóa giải sấm sét, vậy để xem ngươi tránh né đá rơi bằng cách nào! Hỡi những mảnh đá cuồng loạn, hỡi những khối nham thạch lơ lửng, hãy tựa như sóng trào cuộn chảy, nổi lên, chìm xuống và bùng nổ dữ dội————『Nộ Đào Thổ Thạch』!”
 
-Cốp, Oh-ma nện mạnh cán gậy xuống đất, ngay lập tức vô số đất đá với đủ loại kích cỡ bắt đầu hình thành xung quanh hắn.
+*Cốp!* Oh-ma nện mạnh cán quyền trượng xuống đất, ngay lập tức vô số đất đá với đủ kích cỡ bắt đầu ngưng tụ dày đặc xung quanh hắn.
 
-Tạo ra đá rồi ném đi là ma pháp tấn công hệ Thổ cơ bản, nhưng chiêu 『Nộ Đào Thổ Thạch』 của Oh-ma có thể tạo sẵn những tảng đá chuẩn bị bắn đi và cho chúng lơ lửng xung quanh mình, cho phép bắn liên tục và đồng thời nhiều phát. Trong trường hợp cần thiết, nó cũng có thể lập tức biến thành tấm khiên bảo vệ bản thân, đây là một ma pháp công thủ toàn diện.
+Ngưng tụ đất đá rồi phóng đi là ma pháp tấn công hệ Thổ cơ bản nhất, nhưng chiêu 『Nộ Đào Thổ Thạch』 của Oh-ma có thể tạo sẵn hàng loạt tảng cự thạch lơ lửng xung quanh người, cho phép khai hỏa dồn dập nhiều đợt cùng lúc. Trong tình huống ngặt nghèo, chúng còn có thể lập tức liên kết lại làm tấm khiên chắn kiên cố — một ma pháp công thủ toàn diện đích thực.
 
-Những tảng đá được phóng đi sẽ chỉ bị hút về phía mặt đất theo trọng lực của chúng và rơi xuống. Không có cách nào để dễ dàng tránh né thuật pháp này.
+Những tảng đá được phóng đi sẽ rơi tự do theo trọng lực và nghiền nát mục tiêu. Tuyệt đối không có bất kỳ mưu mẹo nào để né tránh được chiêu thức diện rộng này!
 
-Sức sát thương không quá lớn, nhưng uy lực của nó là quá đủ để tiêu diệt một thuật giả yếu ớt như một đứa trẻ.
+Sức công phá không quá tập trung, nhưng uy lực của nó là quá đủ để nghiền nát một tên thuật giả có thể xác yếu ớt như trẻ con thành thịt vụn.
 
-“Hãy bị nghiền nát và phơi xác đi————hửm!”
+“Hãy nát thây và phơi xác đi————hửm!?”
 
 “Oooooooooaaaaaaaaaaaaaa!”
 
-Ngay lúc đó, một tiếng hét chói tai vang lên khắp nơi. Đó không phải là tiếng gầm của Cuồng Chiến Binh. Không hề cảm nhận được mối đe dọa nào từ đó, chỉ là một tiếng hét ồn ào vô nghĩa.
+Đúng lúc đó, những tiếng thét the thé chói tai đồng loạt vang lên khắp chiến trường. Đó không phải là tiếng gầm của Cuồng Chiến Binh. Chẳng hề có chút khí tức đe dọa nào toát ra từ đó, chỉ là những âm thanh gào rú ồn ào vô nghĩa.
 
-Thế nhưng, tiếng hét đó lập tức tăng lên thành hai, rồi ba tiếng chỉ trong chớp mắt. Nhìn kỹ lại, có vài bóng người đang lao đi vun vút trên mặt đất.
+Thế nhưng, tiếng la hét ấy lập tức nhân lên thành hai, rồi ba tiếng chỉ trong chớp mắt. Nhìn kỹ lại, có vài bóng đen đang lao vun vút trên mặt đất.
 
-“Hừ, xác sống sao. Đó là những sứ ma mà tên đó triệu hồi ra à.”
+“Hừ, lũ xác sống sao? Là đám sứ ma mà tên đó triệu hồi ra à.”
 
-Đó là những quái vật undead dạng người thường thấy ở những nơi có công trình cổ xưa. Những cá thể xác sống cấp cao sở hữu cơ thể tráng kiện và phát huy sức mạnh thể chất có thể đọ lại với Gove.
+Đó là những quái vật undead hình người thường xuất hiện tại các phế tích cổ xưa. Những cá thể xác sống cấp cao sở hữu cơ bắp cứng cáp, phát huy sức mạnh thể chất có thể đọ ngang ngửa với một Gove.
 
-Hắn đã nhìn thấy việc Chú Thuật Ngự Tử sai khiến chúng từ trước. Kế hoạch của tên đó là dùng sứ ma để nhắm trực tiếp vào một thuật giả như hắn. Đơn giản nhưng hiệu quả.
+Hắn từng thấy Chú Thuật Ngự Tử điều khiển lũ này từ trước. Ý đồ của tên đó là dùng đám tốt thí này để áp sát đánh giáp lá cà với một thuật giả như hắn. Kế sách đơn giản nhưng vô cùng thực dụng.
 
-“Giao cho các ngươi đấy. Tuyệt đối không được để một con nào tiếp cận ta.”
+“Giao cho các ngươi đấy! Tuyệt đối không được để bất kỳ con nào bén mảng tới gần ta!”
 
-“Tuân lệnh! Xin ngài cứ giao cho chúng thần!”
+“Tuân lệnh! Xin bệ hạ cứ yên tâm giao cho chúng thần!”
 
-Cỡ này thì chỉ cần giao cho đội hộ vệ đi cùng giải quyết là quá đủ rồi.
+Cỡ này thì chỉ cần đội cận vệ tinh nhuệ giải quyết là quá đủ.
 
-Ngự Tử liên tục triệu hồi ra các sứ ma, từ những bộ xương yếu ớt chỉ được cái số lượng, cho đến những xác sống khổng lồ có kích thước gần bằng GoGame Mastera cũng xuất hiện. Nhưng cho dù có gộp tất cả bọn chúng lại thì cũng không thể nào phá vỡ được đội hộ vệ này.
+Tên Ngự Tử liên tục triệu hồi thêm sứ ma, từ những bộ cốt binh yếu ớt chỉ biết cậy đông, cho tới những tên khổng lồ xác sống to lớn gần bằng Goma cũng bắt đầu xuất hiện. Nhưng cho dù có gom tất cả bọn chúng lại thì cũng đừng hòng xuyên thủng được vòng vây của đội cận vệ.
 
-Ngược lại, nếu bên đó đã dùng sứ ma tấn công, thì bên này cũng có thể chia một phần binh lực để tràn lên bức tường thành.
+Ngược lại, nếu đối phương đã chia quân đánh úp, thì bên này cũng có thể điều động một cánh quân tràn lên mặt thành để lấy đầu hắn.
 
-Không, trước đó nếu tên đó bị nghiền nát bởi 『Nộ Đào Thổ Thạch』 thì mọi chuyện sẽ kết thúc tại đây————
+Không, chưa cần đến mức đó, chỉ cần hắn bị nghiền nát dưới làn mưa đá của 『Nộ Đào Thổ Thạch』 thì mọi thứ sẽ kết thúc ngay tại đây————
 
 “Bazuzuuuu! (Thi Hài Giáp!)”
 
-Từ trên bức tường thành, hắn cảm nhận được luồng hào quang màu đỏ và luồng ma lực quen thuộc.
+Từ trên đỉnh tường thành, một luồng hào quang màu đỏ cùng luồng ma lực quen thuộc bất ngờ bùng nổ.
 
-Cơ thể nhỏ bé của Chú Thuật Ngự Tử lập tức bị bao phủ bởi một bộ giáp bằng cơ bắp cuồn cuộn chỉ trong nháy mắt, và chẳng mấy chốc, hình dáng của tên đó đã biến đổi thành một hình dạng không thể nhầm lẫn vào đâu được.
+Cơ thể nhỏ bé của tên Chú Thuật Ngự Tử lập tức bị bao bọc bởi một lớp giáp cơ bắp cuồn cuộn chỉ trong cái chớp mắt, và chẳng mấy chốc, nhân dạng của tên đó đã biến đổi thành một hình hài không thể nào nhầm lẫn.
 
-Bộ lông và làn da đỏ rực, cùng với hai chiếc sừng oai dũng và khuôn mặt giống như một con mãnh thú sắc sảo.
+Bộ lông và làn da đỏ rực như lửa, cùng đôi sừng oai phong lẫm liệt và khuôn mặt góc cạnh mang thần thái của một con mãnh thú hung tợn.
 
-“Đó… Đó là Bazuzu sao…?”
+“Đó… Đó là Bazuzu sao…!?”
 
-Đại Chiến Sĩ Bazuzu. Dù còn thô ráp nhưng đó là một thanh niên đầy triển vọng. Chú Thuật Ngự Tử đang khoác lên mình một hình dáng cực kỳ giống với hình dạng 『Khổng Lồ Hóa』 đầy dũng mãnh mà cậu ta từng tự hào.
+Đại Chiến Sĩ Bazuzu. Dẫu tính khí còn bộc trực nhưng đó là một tráng sĩ đầy triển vọng của tộc Goma. Tên Chú Thuật Ngự Tử lúc này đang khoác lên mình hình hài giống hệt với trạng thái 『Khổng Lồ Hóa』 dũng mãnh mà chàng chiến sĩ ấy từng vô cùng tự hào!
 
-Chính hắn là người đã khẳng định rằng tên đó đã cải trang thành Goma để lẻn vào vương quốc.
+Chính Oh-ma là người từng khẳng định tên khốn đó đã cải trang thành Goma để trà trộn vào vương quốc.
 
-Thế nhưng, hắn chưa từng tưởng tượng nổi tên đó lại dám khoác lên mình cả lớp da của Đại Chiến Sĩ. Rốt cuộc lũ con người kia định sỉ nhục tộc Goma đến mức nào, và định chà đạp lên sự tôn nghiêm của người chết đến bao giờ nữa đây.
+Thế nhưng, hắn vạn lần không thể ngờ tới tên nghịch tặc đó lại dám lột cả da thịt của một Đại Chiến Sĩ để làm áo giáp khoác lên người! Rốt cuộc lũ con người bẩn thỉu kia còn định sỉ nhục tộc Goma đến mức nào, và định chà đạp lên linh hồn của người đã khuất đến bao giờ nữa đây!?
 
-Trước hành vi phi nhân tính đó, một cơn giận dữ tột độ và cảm giác nhục nhã ê chề trào dâng mạnh mẽ trong lòng Oh-ma.
+Trước hành vi man rợ tột cùng ấy, một cơn thịnh nộ cuồng bạo đan xen nỗi nhục nhã ê chề bùng lên như núi lửa phun trào trong lồng ngực Oh-ma.
 
-“Ngươi dám sỉ nhục Đại Chiến Sĩ của ta ngay cả khi cậu ta đã chết sao, không thể tha thứ! Chỉ riêng ngươi là ta quyết không bao giờ tha thứ!!”
+“Ngươi dám bôi nhọ Đại Chiến Sĩ của ta ngay cả khi cậu ấy đã nhắm mắt xuôi tay sao… Không thể tha thứ! Riêng loại súc sinh như ngươi, bản vương thề quyết không bao giờ tha thứ!!”

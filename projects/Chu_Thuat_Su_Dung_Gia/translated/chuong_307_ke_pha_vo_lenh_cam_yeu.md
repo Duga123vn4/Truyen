@@ -2,15 +2,15 @@
 
 Hai tuần trôi qua trong chớp mắt.
 
-Việc chế tạo trang bị được đẩy nhanh tiến độ với tốc độ chóng mặt, và hoạt động săn bắn để thu thập nguyên liệu cũng được tiến hành sát sao cho đến tận phút chót. Sau đó là các cuộc thử nghiệm thực chiến dành cho trang bị mới, cùng những buổi thảo luận và luyện tập vô cùng tỉ mỉ về kế hoạch tác chiến.
+Việc chế tác trang bị được đẩy nhanh tiến độ với tốc độ chóng mặt, và hoạt động săn bắn để thu thập nguyên liệu cũng được tiến hành ráo riết cho đến tận phút chót. Tiếp đó là các đợt thử nghiệm thực chiến dành cho vũ khí mới, cùng những buổi thảo luận và diễn tập vô cùng tỉ mỉ về kế hoạch tác chiến.
 
-Kotarou đã có vài đêm phải thức trắng. Kyouko tự tay làm đồ ăn khuya mang đến tiếp tế cho cậu, còn Rerite dù không giúp được gì nhiều cũng chủ động đề nghị phụ một tay. Riêng Himeno thì bị ép buộc phải thức đêm cùng họ.
+Kotarou đã trải qua vài đêm thức trắng. Kyouko-san tự tay làm đồ ăn khuya mang đến tiếp tế cho cậu, còn Rerite dù không giúp được gì nhiều cũng chủ động đề nghị phụ một tay. Riêng Himeno thì bị ép buộc phải thức đêm cùng bọn họ.
 
-Cứ như thế, bằng cách này hay cách khác, mục tiêu thực hiện kế hoạch tác chiến trong vòng hai tuần đã được định hình. Kotarou nhờ Minami chuyển lời, gửi đến Ryouko thời gian tấn công Vương quốc Goma cùng với kế hoạch hành động cụ thể và các chỉ thị cho ngày hôm đó. Một khi đã liên lạc với cô ấy, họ sẽ không thể quay đầu lại được nữa.
+Cứ như thế, bằng cách này hay cách khác, mục tiêu triển khai kế hoạch tác chiến trong vòng hai tuần đã được định hình. Kotarou nhờ Minami chuyển lời, gửi đến Ryouko-senpai thời điểm phát động tấn công Vương quốc Goma, kèm theo phương án hành động cụ thể và các chỉ thị cho ngày hôm đó. Một khi đã liên lạc với cô ấy, họ sẽ không còn đường lui nữa.
 
 Và rồi, đêm trước ngày quyết chiến đã đến.
 
-Sau khi nâng ly chúc mừng chiến thắng và càn quét sạch sẽ những món ăn thịnh soạn nhất có thể chuẩn bị, tại một góc của căn cứ rộng lớn, có bóng dáng của một đôi nam nữ.
+Sau khi nâng ly chúc mừng thắng lợi và càn quét sạch sẽ những món ăn thịnh soạn nhất có thể chuẩn bị, tại một góc của căn cứ rộng lớn, xuất hiện bóng dáng của một đôi nam nữ.
 
 — Này, ngồi xuống đi Yoshizaki.
 
@@ -22,9 +22,9 @@ Ueta tay cầm một chai rượu, còn Yoshizaki Hiroe (Mari) thì miễn cư�
 
 — Nếu ngày mai mày mà gục vì say xỉn, tao chém đôi mày ra đấy, thằng ranh.
 
-Nói vậy thôi, nhưng có lẽ bản thân cô cũng muốn uống. Mari ngoan ngoãn đưa ly ra, để mặc cho Ueta rót đầy.
+Nói vậy thôi, nhưng có lẽ bản thân cô cũng muốn uống. Mari ngoan ngoãn chìa ly ra, để mặc cho Ueta rót đầy.
 
-Chất lỏng màu đỏ tím trong suốt như rượu vang đỏ được rót đầy ly, hai chiếc ly chạm vào nhau. Cạn ly.
+Chất lỏng màu đỏ tím trong suốt tựa rượu vang đỏ chảy tràn vào ly. Hai chiếc ly chạm nhau lách cách. Cạn chén.
 
 — Mà này, mày kiếm đâu ra chai rượu này thế?
 
@@ -32,49 +32,49 @@ Chất lỏng màu đỏ tím trong suốt như rượu vang đỏ được rót
 
 — Thật không đó? Đừng có kéo tao làm đồng phạm nha.
 
-— Thật mà, tao không lừa mày đâu. Mày không tin tưởng tao đến thế cơ à?
+— Thật mà, tao lừa mày làm gì. Mày không tin tưởng tao đến thế cơ à?
 
-Rượu do một tay Kotarou quản lý. Trong hoàn cảnh này, dù là rượu lậu do Kotarou tự ủ không thể sánh bằng hương vị của xưởng rượu Futaba, nhưng nó vẫn là một món đồ xa xỉ vô cùng quý giá. Chỉ có Kotarou mới có thể làm ra rượu, và việc phân phát cũng được thực hiện một cách bình đẳng. Đó tuy là chuyện nhỏ nhặt, nhưng cậu hiểu rất rõ rằng sự tích tụ của những bất mãn nhỏ nhặt chính là nguyên nhân dẫn đến sự rạn nứt lớn.
+Rượu hoàn toàn do một tay Kotarou quản lý. Trong hoàn cảnh này, dù chỉ là rượu lậu do Kotarou tự ủ không thể sánh bằng hương vị của xưởng rượu Futaba, nhưng nó vẫn là một món đồ xa xỉ vô cùng quý giá. Chỉ có Kotarou mới có khả năng làm ra rượu, và việc phân phát luôn được thực hiện một cách bình đẳng. Đó tuy là chuyện nhỏ nhặt, nhưng cậu hiểu rất rõ rằng sự tích tụ của những bất mãn vụn vặt chính là nguyên nhân dẫn đến rạn nứt lớn.
 
-Và Kotarou cũng hiểu rằng, nếu chỉ cứng nhắc phân phát một cách công bằng theo khuôn mẫu thì vẫn sẽ có người không hài lòng.
+Và Kotarou cũng thấu suốt rằng, nếu chỉ cứng nhắc phân phát theo khuôn mẫu công bằng một cách máy móc thì vẫn sẽ có kẻ không hài lòng.
 
-Vì vậy, chai rượu này là thứ mà Kotarou đã thấu hiểu tâm tư của Ueta và giao cho cậu ta. Cậu ngầm ý bảo Ueta hãy dùng chai này để rủ rê Yoshizaki Hiroe.
+Vì vậy, chai rượu này là thứ mà Kotarou đã nhìn thấu tâm tư của Ueta và trao tận tay cho cậu ta. Cậu ngầm ra hiệu cho Ueta hãy dùng chai rượu này để tiếp cận Yoshizaki Hiroe.
 
 Và giờ đây, hai người họ đang uống rượu riêng với nhau.
 
-Nhờ có hơi men, giữa hai người không hề có một chút ngượng ngùng nào.
+Nhờ có hơi men đưa đẩy, giữa hai người không hề có lấy một tia ngượng ngùng.
 
-Thời còn đi học trong hòa bình, mối quan hệ giữa họ chỉ dừng lại ở mức thỉnh thoảng nói chuyện vài câu. Sau khi hội quân tại Học Viện Tháp, họ coi nhau như những người đồng đội. Và rồi sau khi bị Takanashi cô lập, trải qua cuộc sống lang thang cận kề giới hạn của cái chết cùng năm người, rồi lại hợp tác với Kotarou một lần nữa — chỉ trong khoảng thời gian ngắn ngủi này, mối quan hệ giữa họ đã trở nên sâu sắc hơn rất nhiều. Điều đó cũng là lẽ tự nhiên, bởi họ đã thực sự giao phó mạng sống cho nhau.
+Thời còn đi học trong yên bình, mối quan hệ giữa họ chỉ dừng lại ở mức thỉnh thoảng nói chuyện vài câu xã giao. Sau khi hội quân tại Học Viện Tháp, họ xem nhau như những người đồng đội. Và rồi sau khi bị Takanashi cô lập, trải qua chuỗi ngày lang bạt bên bờ vực sinh tử cùng nhóm năm người, rồi lại một lần nữa hợp tác cùng Kotarou — chỉ trong khoảng thời gian ngắn ngủi ấy, mối liên kết giữa họ đã trở nên sâu sắc hơn rất nhiều. Điều đó hoàn toàn tự nhiên, bởi họ đã thực sự phó thác mạng sống cho nhau.
 
-Thế nhưng, việc nảy sinh những cảm xúc vượt trên cả mức đồng đội đáng tin cậy cũng là một lẽ vô cùng tự nhiên. Đó chính là chuyện thường tình giữa nam và nữ.
+Thế nhưng, việc nảy sinh những cảm xúc vượt trên mức đồng đội đáng tin cậy cũng là một lẽ thường tình. Đó chính là bản năng giữa nam và nữ.
 
 — ...Này, chai rượu cạn sạch rồi kìa.
 
 — Hửm, ồ, đúng thế thật.
 
-Mải mê ôn lại những kỷ niệm thời đi học nay đã xa vời và những câu chuyện phiếm, chai rượu đã cạn sạch từ lúc nào không hay. Chai rượu mà Kotarou đưa cho cậu ta chỉ có duy nhất một chai này.
+Mải mê ôn lại những kỷ niệm thời cắp sách nay đã xa xôi cùng những câu chuyện phiếm không đầu không cuối, chai rượu đã rỗng không tự lúc nào. Chai rượu mà Kotarou đưa cho cậu ta chỉ có duy nhất một chai này.
 
-Không có chai thứ hai hay thứ ba. Hãy tự mình giải quyết dứt điểm chỉ với một chai này thôi. Ueta cảm thấy như thể mình đang bị nói như vậy.
+Không có chai thứ hai hay thứ ba. Hãy tự mình giải quyết dứt điểm chỉ với bấy nhiêu thôi. Ueta cảm thấy dường như mình đang bị thúc ép như vậy.
 
 — Cứ thế này mà giải tán thì ổn chứ hả?
 
 — ...Không, không ổn chút nào.
 
-*Không ổn chút nào đâu.* Ueta khẽ lẩm bẩm như vậy.
+*Không ổn chút nào đâu.* Ueta khẽ lẩm bẩm trong miệng.
 
-Một khoảng lặng ngắn trôi qua. Thế nhưng, nam nhi Ueta Youhei đã hạ quyết tâm, mở lời:
+Một khoảng lặng ngắn ngủi trôi qua. Thế nhưng, nam nhi Ueta Youhei đã hạ quyết tâm, cất lời:
 
 — Yoshizaki, đêm nay qua phòng tao đi.
 
 — Phụt!
 
-Lời mời gọi dồn hết tâm sức của cậu ta lập tức bị dập tắt bởi một tiếng cười nhạo.
+Lời mời gọi dồn hết can đảm của cậu ta lập tức bị dập tắt bởi một tràng cười ngặt nghẽo.
 
 — Này, sao lại cười chứ! Tao nghiêm túc mà?!
 
-— Không, đùa kiểu đó nghe như quấy rối tình dục ấy.
+— Không, đùa kiểu đó nghe thô bỉ chẳng khác gì quấy rối tình dục ấy.
 
-Nhìn Mari nở nụ cười đầy mỉa mai, Ueta tiếc nuối lẩm bẩm: “Chết tiệt”. Xem ra, cậu ta hoàn toàn không có cửa rồi.
+Nhìn Mari nở nụ cười đầy mỉa mai, Ueta cay đắng lẩm bẩm: “Chết tiệt”. Xem ra, cậu ta hoàn toàn không có cửa rồi.
 
 — Rốt cuộc mày vẫn thích Tendou à?
 
@@ -84,264 +84,264 @@ Nhìn Mari nở nụ cười đầy mỉa mai, Ueta tiếc nuối lẩm bẩm: �
 
 — À, xin lỗi nha. Nhưng tao đảm bảo là mày không đến mức phải tự ti về bản thân đâu, đừng có khóc.
 
-— Mày an ủi kiểu nửa vời thế càng làm tao muốn khóc hơn đấy. Thật tình, bị từ chối thẳng thừng thế này, trông tao chẳng khác gì thằng ngốc cả.
+— Mày an ủi kiểu nửa vời thế càng làm tao muốn khóc hơn đấy. Thật tình, bị từ chối thẳng thừng thế này, trông tao chẳng khác gì thằng hề cả.
 
 — Ha ha, thế nên đừng có dỗi nữa mà.
 
-Vừa cười, Mari vừa nói rằng cô không hề ghét Ueta đến thế.
+Vừa cười, Mari vừa phân trần rằng cô không hề có ý ghét bỏ Ueta.
 
-Gương mặt trung bình, chiều cao trung bình, đầu óc, vận động và cả tính cách cũng vậy, Ueta không có điểm gì quá nổi bật, có thể nói là một nam sinh cấp ba vô cùng bình thường. Đó chính là kiểu người có thể bắt gặp ở bất cứ đâu, nhưng cũng có nghĩa là cậu ta không có khuyết điểm hay mặc cảm gì đặc biệt, một xuất phát điểm khá tốt.
+Gương mặt trung bình, chiều cao trung bình, học lực, thể thao và cả tính cách cũng vậy, Ueta không có điểm gì quá nổi bật, có thể nói là một nam sinh cấp ba vô cùng bình thường. Đó chính là mẫu người có thể bắt gặp ở bất cứ đâu, nhưng đồng nghĩa với việc cậu ta không có khuyết điểm hay mặc cảm gì quá mức, một xuất phát điểm tương đối tốt.
 
-Một Ueta bình thường như thế đã nhận được thiên chức bình thường là 『Kiếm Sĩ』, và mạnh lên một cách bình thường. Với thực lực hiện tại, cậu ta hoàn toàn có thể tự mình đối đầu và hạ gục một con GoGame Mastera mà không gặp quá nhiều nguy hiểm.
+Một Ueta bình thường như thế đã nhận được thiên chức bình thường là 『Kiếm Sĩ』, và mạnh lên một cách vững vàng. Với thực lực hiện tại, cậu ta hoàn toàn có thể tự mình đối đầu và hạ gục một con quái vật Goma mà không gặp quá nhiều hiểm nguy.
 
-— Dù sao thì chúng ta cũng đã đồng hành cùng nhau đến tận đây. Tao khá tin tưởng và công nhận năng lực của mày mà.
+— Dù sao thì chúng ta cũng đã sát cánh cùng nhau đến tận đây. Tao khá tin tưởng và công nhận thực lực của mày mà.
 
-— Nhưng lại không thể coi tao là đàn ông.
+— Nhưng lại không thể coi tao là một người đàn ông.
 
 — Cũng không hẳn. Mày của hiện tại trông cũng khá ra dáng đàn ông đấy chứ.
 
 — Thế thì—
 
-— Xin lỗi nhé, nhưng tao trông thế này thôi chứ trong chuyện yêu đương thì thận trọng lắm. Thế nên, kiểu tiến tới theo quán tính thế này thì hơi khó.
+— Xin lỗi nhé, nhưng tao trông bỗ bã thế này thôi chứ trong chuyện yêu đương thì thận trọng lắm. Thế nên, kiểu tiến tới theo cảm tính thế này thì hơi khó.
 
-Ở nơi này chỉ có một số lượng nam nữ giới hạn. Ngay cả trong cuộc sinh tồn hầm ngục đầy hiểm nguy này, họ còn phải đối mặt với trận chiến lớn là thảo phạt Vương quốc Goma vào ngày mai, chưa kể còn phải giải quyết kẻ phản bội Takanashi.
+Nơi này chỉ có một lượng nam nữ hữu hạn. Ngay giữa cuộc sinh tồn nghẹt thở nơi mê cung, họ còn phải chuẩn bị đối mặt với trận đại chiến thảo phạt Vương quốc Goma vào ngày mai, chưa kể còn món nợ phải thanh toán với kẻ phản bội Takanashi.
 
-Một tình cảnh bị dồn vào đường cùng. Nhưng tuyệt đối không phải là tuyệt vọng. Đặt cược vào một tia hy vọng mong manh để chiến đấu hết mình và mở ra con đường sống — trong một thời điểm như thế này, Yoshizaki Hiroe không hề muốn nghĩ đến chuyện nam nữ.
+Một tình thế ngặt nghèo bị dồn vào chân tường. Nhưng tuyệt đối chưa phải là đường cùng tuyệt vọng. Đặt cược vào một tia hy vọng mong manh để chiến đấu hết mình và mở ra con đường sống — trong một thời điểm ngổn ngang như thế này, Yoshizaki Hiroe không hề có tâm trí nghĩ đến chuyện tình cảm nam nữ.
 
-— Trước khi bị dịch chuyển tới đây, tao cũng có bạn trai đàng hoàng đấy chứ.
+— Trước khi bị ném tới đây, tao cũng có bạn trai đàng hoàng đấy chứ.
 
 — À, tao biết. Cái gã sinh viên đại học đúng không?
 
-— Ừm. Hồi đó tao cũng bị nói ra nói vào là yêu đương với sinh viên đại học thì ăn chơi quá đà này nọ, nhưng bọn tao quen nhau nghiêm túc lắm đấy.
+— Ừm. Hồi đó tao cũng bị xì xào là yêu đương với sinh viên đại học thì đú đởn ăn chơi này nọ, nhưng bọn tao quen nhau nghiêm túc lắm đấy.
 
-Anh chàng bạn trai sinh viên đại học đó thực chất là thanh mai trúc mã từ thuở nhỏ của cô. Một người anh trai lớn tuổi hơn một chút, rất ngầu và đẹp trai. Đó là đối tượng vô cùng thích hợp cho mối tình đầu.
+Anh chàng bạn trai sinh viên đại học đó thực chất là thanh mai trúc mã từ thuở ấu thơ của cô. Một người anh lớn tuổi hơn một chút, vô cùng chững chạc và bảnh bao. Đó là hình mẫu lý tưởng cho mối tình đầu.
 
-Dù sau đó cả hai phải chuyển trường và xa nhau, nhưng khi Mari đỗ vào Học viện Hakurei và rời nhà lên thành phố học, họ đã tình cờ tái ngộ. Khi Mari học năm nhất thì anh ấy đang học năm ba và vẫn còn ở trường.
+Dù sau đó cả hai phải chuyển trường và cách xa nhau, nhưng khi Mari thi đỗ vào Học viện Hakurei và lên thành phố học, họ đã tình cờ tái ngộ. Khi Mari học năm nhất thì anh ấy đang học năm ba và vẫn còn gắn bó với trường.
 
-Từ đó, những kỷ niệm thời thơ ấu đã tự nhiên kéo hai người lại gần nhau, họ làm bạn suốt một năm. Và khi anh ấy tốt nghiệp, anh ấy đã tỏ tình với cô — câu chuyện là như vậy.
+Từ đó, những kỷ niệm thời thơ ấu đã tự nhiên kéo hai người lại gần nhau, làm bạn suốt một năm ròng. Và đến khi anh ấy tốt nghiệp, anh ấy đã chính thức ngỏ lời với cô — câu chuyện là như vậy.
 
-— Tao thực sự thích anh ấy. Anh ấy vừa dịu dàng vừa tốt bụng. Đẹp trai hơn mày nhiều.
+— Tao thực sự thích anh ấy. Vừa dịu dàng lại tốt bụng. Đẹp trai hơn mày nhiều.
 
-— Im đi, tao không muốn nghe mày khoe khoang về người yêu cũ đâu.
+— Thôi im đi, tao không có nhu cầu nghe mày khoe khoang về người yêu cũ đâu.
 
-Dù có một người bạn trai đáng tự hào như thế, nhưng một khi đã bị dịch chuyển đến dị giới này thì mọi chuyện cũng chẳng còn ý nghĩa gì nữa. Anh ấy không ở bên cạnh cô. Ở nơi này chỉ có những người bạn cùng lớp năm 2 lớp 7 mà thôi.
+Dẫu có một người bạn trai đáng tự hào như thế, nhưng một khi đã bị dịch chuyển đến dị giới này thì mọi thứ cũng trở nên vô nghĩa. Anh ấy không ở bên cạnh cô. Nơi đây chỉ còn lại những người bạn cùng lớp 2-7 mà thôi.
 
-— Thế nên tao mới đổ cậu Tendou đấy.
+— Thế nên tao mới đổ Tendou-kun đấy.
 
-— Chẳng phải mày bảo mình rất thận trọng khi yêu đương sao?
+— Chẳng phải mày bảo mình là đứa thận trọng trong chuyện yêu đương sao?
 
-— Thì chuyện đó đủ để thay đổi cả thế giới quan của tao mà.
+— Thì chuyện đó đủ sức làm đảo lộn cả thế giới quan của tao mà.
 
-Mari tự nhận mình không phải là kiểu con gái lăng nhăng, dễ dàng nói lời yêu thích chỉ vì có một người đàn ông đáng tin cậy xuất hiện.
+Mari tự nhận mình không phải là kiểu con gái lẳng lơ, dễ dàng rung động chỉ vì có một người đàn ông đáng tin cậy xuất hiện.
 
-Thế nhưng, trong hoàn cảnh cực hạn của cuộc sinh tồn hầm ngục này, sự tồn tại của Tendou Ryuuichi là quá đỗi áp đảo. Cậu ta không biết cách quan tâm tinh tế như bạn trai cũ của cô. Cậu ta cũng không chỉ hướng mắt về một mình cô.
+Thế nhưng, trong hoàn cảnh cùng cực của cuộc sinh tồn hầm ngục này, sự hiện diện của Tendou Ryuuichi là quá đỗi áp đảo. Cậu ta không biết cách quan tâm tinh tế như bạn trai cũ của cô. Cậu ta cũng chẳng bao giờ đặt trọn ánh nhìn về một mình cô.
 
-Dù vậy, Tendou vẫn là người đàn ông có thể hiên ngang tiến về phía trước mà không hề sợ hãi hay do dự, ngay cả trong hoàn cảnh tồi tệ và rác rưởi nhất. Cậu ta là một người đàn ông mạnh mẽ.
+Dù vậy, Tendou vẫn là kẻ có thể hiên ngang đạp lên tất cả mà tiến về phía trước mà không hề sợ hãi hay do dự, ngay cả trong nghịch cảnh tồi tệ và rác rưởi nhất. Cậu ta là một kẻ mạnh tuyệt đối.
 
-Và dù người đàn ông mạnh mẽ ấy không hề trao cho họ một lời hỏi han ấm áp nào, nhưng cậu ta đã bảo vệ nhóm của Mari. Cậu ta không cho phép một vết xước nào xuất hiện trên người họ, cũng chưa từng để họ phải chịu ấm ức.
+Và dẫu người đàn ông hùng mạnh ấy không hề buông một lời hỏi han ấm áp, cậu ta vẫn bảo bọc nhóm của Mari đến nơi đến chốn. Cậu ta không để bất kỳ vết xước nào chạm vào họ, cũng chưa từng để họ phải chịu thiệt thòi hay ấm ức.
 
-Là con gái, nếu không đổ một người như thế thì mới là lạ.
+Là phận nữ nhi, không rung động trước một người như thế mới là chuyện lạ.
 
-Vì vậy, Mari nghĩ rằng Kyouko là một kẻ vô ơn bạc nghĩa đến mức không tưởng nổi. Dù bản thân là gánh nặng lớn nhất, vậy mà cô ta vẫn có thể thản nhiên để Tendou bảo vệ suốt bấy lâu nay.
+Vì vậy, Mari luôn cho rằng Kyouko là một kẻ vô ơn bạc nghĩa đến mức khó hiểu. Dù bản thân từng là gánh nặng lớn nhất, vậy mà cô ta vẫn có thể thản nhiên để Tendou bảo vệ suốt bấy lâu nay.
 
-Nhưng nếu cô ta là một đứa cuồng shota đến mức đổ đứ đừ Momokawa như thế thì cũng đành chịu. Gu mỗi người mỗi khác. Mari là một cô gái rất thấu hiểu và tôn trọng xu hướng tình dục của bạn bè.
+Nhưng nếu cô ta thực sự là một đứa mê shota đến mức đổ đứ đừ Momokawa như thế thì cũng đành chịu. Gu mỗi người mỗi khác. Mari vốn là cô gái rất thấu hiểu và tôn trọng sở thích của bạn bè.
 
-— Tao vẫn thực sự thích cậu Tendou. Thế nên, dù trong hoàn cảnh chỉ có mày là lựa chọn duy nhất đi nữa, tao cũng không muốn nhắm mắt chọn đại chỉ vì lý do đó.
+— Tao vẫn thích Tendou-kun. Thế nên, dù trong tình cảnh chỉ có mày là lựa chọn duy nhất đi nữa, tao cũng không muốn nhắm mắt chọn bừa chỉ vì lý do đó.
 
 — Th... Thế à...
 
-— Này, mày nghĩ sau khi thoát khỏi đây, thế giới bên ngoài sẽ như thế nào? Biết đâu con người ở thế giới đó toàn là trai xinh gái đẹp thì sao?
+— Này, mày nghĩ sau khi thoát khỏi đây, thế giới bên ngoài sẽ ra sao? Biết đâu con người ở thế giới đó toàn là trai xinh gái đẹp thì sao?
 
-— Cái gì thế, tao chưa từng nghĩ tới chuyện đó luôn.
+— Cái gì thế, tao chưa từng nghĩ tới chuyện viển vông đó luôn đấy.
 
-Nhưng đây là dị giới của kiếm và ma pháp, nơi có quái vật hoành hành. Khác với Kotarou, Mari không biết quá chi tiết, nhưng cô vẫn biết đến những thiết lập kỳ ảo nổi tiếng như Elf hay Dwarf.
+Nhưng đây là dị giới của gươm đao và ma pháp, nơi quái vật hoành hành khắp chốn. Khác với Kotarou, Mari không am hiểu quá sâu xa, nhưng cô vẫn biết đến những thiết lập kỳ ảo quen thuộc như Elf hay Dwarf.
 
-Nếu chủng tộc nổi tiếng là toàn mỹ nam mỹ nữ như Elf thực sự tồn tại... thì đúng là cô sẽ bị hút hồn mất thôi.
+Nếu chủng tộc nổi tiếng toàn mỹ nam mỹ nữ như Elf thực sự tồn tại... thì đúng là cô sẽ bị hớp hồn mất thôi.
 
-— Nếu giữa một rừng người như thế mà mày vẫn chọn tao — thì lúc đó tao sẽ cân nhắc.
+— Nếu giữa một rừng người như thế mà mày vẫn một lòng chọn tao — thì lúc đó tao sẽ cân nhắc.
 
-— Chỉ cân nhắc thôi á?
+— Chỉ dừng ở mức cân nhắc thôi á?
 
 — Dĩ nhiên rồi.
 
-Nhìn Ueta lộ rõ vẻ mặt tiếc nuối đến tội nghiệp, Mari bật cười rồi đứng dậy.
+Nhìn vẻ mặt tiu nghỉu đến tội nghiệp của Ueta, Mari bật cười rồi đứng dậy.
 
-— Vậy thì chuyện đó cứ để dành cho đến khi thoát khỏi đây nhé. Giờ thì ngoan ngoãn tuân thủ luật cấm yêu đương của Momokawa đi.
+— Vậy thì chuyện đó cứ để dành cho đến khi thoát khỏi đây nhé. Giờ thì ngoan ngoãn tuân thủ Lệnh Cấm Yêu Đương của Momokawa đi.
 
-— Xì, biết rồi. Tao sẽ không bao giờ nói mấy lời này nữa... cho đến khi thoát khỏi đây.
+— Xì, biết rồi. Tao sẽ không bao giờ mở mồm nói mấy lời này nữa... cho đến khi thoát khỏi cái hầm ngục này.
 
-Không biết Mari có nhận ra tình cảm của Ueta là nghiêm túc đến mức nào hay không, cô chỉ khẽ vẫy tay rồi bước ra khỏi phòng.
+Không rõ Mari có cảm nhận được sự nghiêm túc trong tình cảm của Ueta hay không, cô chỉ khẽ vẫy tay rồi cất bước rời khỏi phòng.
 
-— Chết tiệt, biết thế tao đã xin Momokawa thêm một chai nữa rồi.
+— Chết tiệt, biết thế tao đã nài nỉ Momokawa cho thêm một chai nữa rồi.
 
-Nhìn chiếc ly rỗng một cách đầy tiếc nuối, Ueta gục xuống bàn và quyết định ngủ một giấc cho đỡ sầu.
+Nhìn chiếc ly rỗng không với vẻ đầy tiếc nuối, Ueta gục đầu xuống bàn và quyết định đánh một giấc cho qua cơn sầu.
 
-Về phần Mari, cô không quay lại phòng mình mà đi về phía Kinako. Cô quyết định ngủ bên cạnh khối lông xù khổng lồ đang thở đều đặn kia để tận hưởng cảm giác êm ái tối đa.
+Về phần Mari, cô không quay về phòng mình mà bước thẳng về phía Kinako. Cô quyết định chui vào ngủ cạnh khối lông xù khổng lồ đang thở đều đặn kia để tận hưởng cảm giác ấm áp và êm ái tuyệt đối.
 
 ***
 
-Ở một góc khác, hai nam sinh đang trò chuyện với nhau.
+Ở một góc khác của căn cứ, hai nam sinh đang ngồi trò chuyện với nhau.
 
 — Này, Nakajima.
 
-— Có chuyện gì thế, cậu Yamada?
+— Có chuyện gì thế, Yamada-kun?
 
-Yamada Genki và Nakajima Haruma. Cả hai đều từng là nạn nhân dưới độc vuốt của 『Succubus』, nhưng vì thời điểm gia nhập tổ đội của Himeno là luân phiên nhau nên giữa hai người không hề có hiềm khích gì đặc biệt. Mối quan hệ của họ chỉ dừng lại ở mức bạn học bình thường trong lớp, và sau đó là cùng nhau sinh tồn từ khi ở Học Viện Tháp.
+Yamada Genki và Nakajima Haruma. Cả hai đều từng là nạn nhân dưới nanh vuốt của 『Succubus』, nhưng vì thời điểm gia nhập tổ đội của Himeno là luân phiên nhau nên giữa hai người không hề tồn tại khúc mắc hay hiềm khích cá nhân nào. Mối quan hệ của họ chỉ dừng lại ở mức bạn học cùng lớp, và sau đó là cùng nhau nương tựa sinh tồn từ chuỗi ngày ở Học Viện Tháp.
 
-Chính vì thế, họ có thể trò chuyện với nhau một cách thoải mái mà không cần kiêng dè.
+Chính vì thế, họ có thể đối thoại với nhau một cách thẳng thắn mà không cần giữ kẽ.
 
-Yamada vẫn giữ vẻ mặt lầm lì như mọi khi, nhưng đôi mắt lại ánh lên vẻ nghiêm túc hơn thường lệ. Cậu nhìn thẳng vào Nakajima và hỏi:
+Yamada vẫn giữ vẻ mặt lầm lì thường thấy, nhưng đáy mắt lại ánh lên vẻ nghiêm túc khác hẳn mọi ngày. Cậu nhìn thẳng vào Nakajima và hỏi:
 
-— Cậu vẫn còn thích Kenzaki à?
+— Cậu vẫn còn tơ tưởng đến Kenzaki à?
 
 — Ơ, chuyện đó...
 
-Nakajima ngập ngừng thấy rõ. Nhưng có lẽ nhận ra không cần phải giấu giếm trước mặt Yamada, cậu thành thật thú nhận:
+Nakajima thoáng ngập ngừng. Nhưng có lẽ nhận ra chẳng việc gì phải giấu giếm trước mặt Yamada, cậu thành thật cúi đầu:
 
-— Tớ thích chứ. Đối với tớ, bạn Kenzaki là người tớ luôn ngưỡng mộ.
+— Tớ thích chứ. Đối với tớ, Kenzaki-san luôn là người mà tớ ngưỡng mộ nhất.
 
-— Tớ khuyên thật lòng đấy. Hãy quên cô ta đi.
+— Tớ khuyên thật lòng đấy. Quên cô ta đi.
 
-— Chuyện đó... đâu có liên quan gì đến cậu Yamada.
+— Chuyện đó... đâu có liên can gì đến Yamada-kun.
 
-— Ở đây chẳng có ai là không liên quan đến cô ta cả. Dù một kẻ như tớ không có tư cách để nói, nhưng Kenzaki đã làm những chuyện không thể tha thứ.
+— Ở đây chẳng có ai là người ngoài cuộc đối với cô ta cả. Dù một kẻ như tớ chẳng có tư cách gì để lên mặt dạy đời, nhưng Kenzaki đã nhúng tay vào những chuyện không thể tha thứ.
 
-Khi chạy đến pháo đài đó, Yamada với bước chân chậm chạp đã chạy ở cuối hàng, nhưng cậu vẫn nhìn thấy rất rõ hành vi tàn nhẫn của Kenzaki. Cậu đã rất ngạc nhiên. Không ngờ cô ta lại làm ra chuyện như vậy.
+Khi tháo chạy đến pháo đài đó, Yamada với bước chân nặng nề đã chạy ở cuối hàng, nhưng cậu vẫn chứng kiến tận mắt hành vi tàn nhẫn của Kenzaki. Cậu đã vô cùng bàng hoàng. Không thể ngờ cô ta lại có thể ra tay như vậy.
 
-Thế nhưng, cậu cũng lập tức hiểu ra. Kenzaki đã không còn bình thường nữa rồi. Dù cô ta có làm ra chuyện đó thì cũng chẳng có gì lạ.
+Thế nhưng, cậu cũng lập tức vỡ lẽ. Kenzaki đã đánh mất sự tỉnh táo rồi. Dù cô ta có làm ra chuyện tày đình đó thì cũng chẳng có gì lạ.
 
-— Dù cậu có thích Kenzaki đi nữa, cô ta cũng chẳng mảy may quan tâm đến cậu đâu. Chỉ cần thấy cậu đi cùng Momokawa, cô ta sẵn sàng coi cậu là kẻ thù phản bội và vung kiếm chém cậu đấy.
+— Dù cậu có si mê Kenzaki đi chăng nữa, cô ta cũng chẳng thèm để mắt đến cậu đâu. Chỉ cần thấy cậu đi cùng Momokawa, cô ta sẵn sàng gán cho cậu cái mác kẻ phản bội và vung kiếm chém bay đầu cậu đấy.
 
-— Không có chuyện đó đâu! Nếu nói chuyện đàng hoàng, cô ấy chắc chắn sẽ hiểu mà. Cậu Yamada thì biết gì về cô ấy chứ?!
+— Không có chuyện đó đâu! Nếu thẳng thắn nói chuyện, cô ấy chắc chắn sẽ hiểu ra mà. Yamada-kun thì biết cái gì về cô ấy chứ?!
 
-— Tớ biết chứ. Cô ta luôn tin rằng mình đúng, và coi tất cả những ai không theo ý mình là kẻ ác. Cách đây không lâu, tớ cũng từng giống hệt như vậy.
+— Tớ biết chứ. Cô ta luôn khư khư tin rằng bản thân mình luôn đúng, và quy chụp tất cả những ai làm trái ý mình là kẻ xấu. Cách đây không lâu, tớ cũng từng là một thằng tồi tệ y hệt như thế.
 
-Sau khi hội quân với Himeno, Yamada với tư cách là kẻ mạnh nhất đã độc chiếm cơ thể của cô ta. Cậu đã nghĩ mình là số một. Cậu bị chi phối bởi cảm giác vạn năng và toàn năng.
+Sau khi hội quân cùng Himeno, Yamada với tư cách là kẻ mạnh nhất đã độc chiếm thân xác của cô ta. Cậu đã ngạo mạn nghĩ mình là số một thiên hạ. Cậu bị che mờ mắt bởi cảm giác quyền lực và toàn năng giả tạo.
 
-Đắm chìm trong khoái lạc thể xác của người phụ nữ, bắt những người đàn ông khác phải phục tùng. Đứng ở vị trí đó, liệu có bao nhiêu người đàn ông có thể giữ được lý trí? Yamada cũng chỉ là một nam sinh cấp ba bình thường mà thôi. Cậu làm sao có thể có được tấm lòng cao cả để tự kiểm điểm lại hành vi của mình.
+Đắm chìm trong nhục dục của thể xác, bắt những gã đàn ông khác phải cúi đầu phục tùng. Đứng ở vị thế đó, liệu có bao nhiêu thằng đàn ông có thể giữ trọn được lý trí? Yamada cũng chỉ là một thằng học sinh cấp ba bình thường không hơn không kém. Cậu lấy đâu ra nhân cách cao thượng để tự soi xét lại những hành vi nhơ nhuốc của mình.
 
-— Tớ đã nhận ra mình ngu ngốc đến mức nào khi Yama-Jun qua đời... Nhưng Kenzaki thì không thay đổi. Đầu tiên cô ta đẩy Momokawa, giờ lại đạp Himeno. Tội lỗi cứ chồng chất đến mức không thể quay đầu được nữa. Vì thế cô ta càng phải bướng bỉnh bám lấy cái gọi là chính nghĩa của mình để tự huyễn hoặc bản thân.
+— Tớ chỉ nhận ra mình ngu muội đến nhường nào khi Yama-Jun ngã xuống... Nhưng Kenzaki thì không bao giờ chịu thay đổi. Ban đầu cô ta xô ngã Momokawa, giờ lại thẳng chân đạp Himeno vào chỗ chết. Tội lỗi cứ thế chồng chất đến mức không còn đường quay đầu. Vì thế cô ta càng phải mù quáng bám víu lấy cái thứ gọi là chính nghĩa rởm đời để tự lừa mị chính mình.
 
-— Đừng có nói giọng dạy đời như thế chứ. Tất cả chỉ là suy nghĩ phiến diện của cậu thôi mà.
+— Đừng có nói cái giọng đạo lý đó chứ. Tất cả chỉ là góc nhìn phiến diện của cậu thôi mà.
 
-— Ừ, có lẽ vậy... Nhưng tớ chỉ muốn cậu nhớ kỹ điều này. Khi cần thiết, Kenzaki sẽ không ngần ngại chém cậu đâu. Tớ không muốn thấy ai phải chết nữa... Tớ tuyệt đối không muốn chứng kiến đồng đội của mình phải ra đi.
+— Ừ, có lẽ vậy... Nhưng tớ chỉ muốn cậu khắc cốt ghi tâm điều này. Khi cần thiết, Kenzaki sẽ không ngần ngại vung kiếm chém cậu đâu. Tớ không muốn phải nhìn thấy thêm bất cứ ai bỏ mạng nữa... Tớ tuyệt đối không muốn chứng kiến đồng đội của mình phải ra đi.
 
-Bị nói đến mức này, Nakajima cũng không thể đưa ra lời phản bác dễ dàng nào nữa.
+Bị dồn vào những lời lẽ tâm can đó, Nakajima không còn cách nào để cãi lại.
 
-Những lời của Yamada hoàn toàn là vì nghĩ cho Nakajima. Đó chỉ là lời khuyên xuất phát từ mong muốn giữ an toàn cho cậu mà thôi.
+Những lời của Yamada hoàn toàn là vì muốn tốt cho Nakajima. Đó là lời can ngăn chân thành xuất phát từ mong muốn giữ an toàn cho mạng sống của cậu mà thôi.
 
-— ...Cảm ơn cậu đã lo lắng cho tớ. Lúc đó cậu cũng đã không ngần ngại chặn con GoGame Mastera để bọn tớ chạy thoát.
+— ...Cảm ơn cậu đã lo lắng cho tớ. Lúc đó cậu cũng đã không màng tính mạng đứng ra chặn con quái vật Goma để bọn tớ chạy thoát.
 
-— Chuyện đó chẳng có ý nghĩa gì lớn lao cả. Nếu Momokawa không đến thì tất cả đã bỏ mạng rồi.
+— Chuyện đó chẳng có gì to tát cả. Nếu Momokawa không kịp thời xuất hiện thì tất cả chúng ta đã bỏ xác ở đó rồi.
 
-— Nhưng tớ không thể làm được như cậu. Tớ... yếu đuối lắm...
+— Nhưng tớ không thể làm được như cậu. Tớ... hèn nhát lắm...
 
-Cứ mãi trăn trở mà không giải quyết được gì, Nakajima cảm thấy ghét bỏ bản thân từ tận đáy lòng.
+Cứ mãi giằng xé nội tâm mà không giải quyết được gì, Nakajima cảm thấy căm ghét bản thân từ tận đáy lòng.
 
-Cậu để Himeno rơi vào tay bộ ba Jou-Chuu-Ge rồi ôm nỗi ấm ức bỏ chạy. Cuối cùng, cậu lại gặp lại Himeno và quay về mối quan hệ như cũ. Ở Học Viện Tháp, cậu chỉ chiến đấu theo những gì được sắp đặt. Và giờ đây, cậu lại được cứu bởi Momokawa, kẻ mà cậu từng mắng chửi là phản bội, và được đón nhận như một người đồng đội.
+Cậu trơ mắt nhìn Himeno rơi vào tay bộ ba Jou-Chuu-Ge rồi ôm nỗi uất ức tháo chạy. Rốt cuộc, cậu lại tái ngộ Himeno và quay trở lại cái vòng luẩn quẩn ngày trước. Ở Học Viện Tháp, cậu chỉ biết vung kiếm theo những gì người khác an bài. Và giờ đây, cậu lại được cứu mạng bởi chính Momokawa — kẻ mà cậu từng nguyền rủa là kẻ phản bội — rồi được dung nạp như một đồng đội.
 
-Một kẻ tên Nakajima Haruma, dù bị ném vào hầm ngục này và có được sức mạnh của 『Ma Pháp Kiếm Sĩ』, nhưng chưa từng tự mình quyết định bất cứ điều gì. Việc duy nhất cậu tự ý làm là bỏ chạy khỏi tổ đội của Himeno.
+Một kẻ mang tên Nakajima Haruma, dù bị ném vào hầm ngục này và sở hữu sức mạnh của 『Ma Pháp Kiếm Sĩ』, nhưng chưa một lần tự mình đưa ra quyết định. Điều duy nhất cậu tự ý làm là bỏ chạy khỏi tổ đội của Himeno.
 
-Không thể quyết định, cũng chẳng làm nên trò trống gì.
+Không dám tự quyết, cũng chẳng làm nên tích sự gì.
 
-Thế nhưng, chính vì vậy mà hình bóng của Kenzaki Asuna lại hiện lên vô cùng rực rỡ.
+Thế nhưng, chính vì sự nhu nhược ấy mà hình bóng của Kenzaki Asuna lại tỏa sáng rực rỡ đến chói lòa trong mắt cậu.
 
-Được cô ấy dạy kiếm thuật, được cô ấy khen ngợi là đã làm tốt, đối với cậu đó là niềm vui lớn lao hơn tất cả.
+Được cô ấy chỉ dạy kiếm thuật, được cô ấy buông lời ngợi khen khi làm tốt, đối với cậu đó là niềm vinh hạnh lớn lao hơn bất cứ thứ gì trên đời.
 
-Dáng vẻ hiên ngang, xinh đẹp và lẫm liệt. Chỉ riêng việc một người phụ nữ như thế công nhận một kẻ như cậu đã đủ khiến cậu cảm thấy sướng phát điên.
+Dáng vẻ hiên ngang, sắc sảo và lẫm liệt. Chỉ riêng việc một người con gái xuất chúng như thế chịu công nhận một kẻ bất tài như cậu đã đủ khiến cậu sướng đến run người.
 
-Đến mức ngay cả những khoái lạc thể xác với Himeno cũng chẳng còn chút sức hút nào nữa.
+Đến mức ngay cả những hoan lạc thể xác với Himeno cũng chẳng còn chút sức hút nào nữa.
 
-— Nakajima, cậu đã làm rất tốt rồi. Nếu thiếu đi bất kỳ ai trong chúng ta, cả nhóm đã không thể sống sót đến tận đây.
+— Nakajima, cậu đã làm rất tốt rồi. Nếu thiếu đi bất kỳ ai trong chúng ta, cả nhóm đã chẳng thể sống sót đến tận ngày hôm nay.
 
-— Cậu Yamada đã thông suốt rồi thì tốt. Nhưng tớ thì không thể quên được bạn Kenzaki, và tớ cũng biết mình không có cách nào để cứu cô ấy, cũng chẳng có sức hút hay thực lực để khiến cô ấy hướng về phía mình.
+— Yamada-kun thông suốt được thì tốt rồi. Nhưng tớ thì không thể nào gạt bỏ hình bóng của Kenzaki-san ra khỏi đầu, và tớ cũng tự biết mình chẳng có cách nào cứu được cô ấy, cũng chẳng có chút mị lực hay thực lực nào để khiến cô ấy đoái hoài đến mình.
 
-— Này, đừng có suy nghĩ nhiều quá. Bây giờ hãy tập trung vào trận chiến, vào việc sống sót của chúng ta đi. Cậu đã nghe kế hoạch của Momokawa rồi đúng không?
+— Này, đừng có vẩn vơ nghĩ ngợi nhiều quá. Lúc này hãy dồn toàn tâm toàn ý vào trận chiến, vào việc bảo toàn mạng sống của chúng ta đi. Cậu đã nắm rõ kế hoạch của Momokawa rồi đúng không?
 
 — Ừm...
 
-— Vậy thì chúng ta chỉ còn cách thực hiện nó thôi. Thực tế, đó là con đường duy nhất để tất cả chúng ta có thể sống sót trở về.
+— Vậy thì chúng ta chỉ còn cách dốc toàn lực thực hiện nó thôi. Trên thực tế, đó là con đường sống duy nhất để tất cả chúng ta có thể trở về an toàn.
 
-— Ừ, đúng vậy nhỉ...
+— Ừ, đúng là như vậy...
 
-— Chuyện của Kenzaki cứ để sau khi mọi chuyện được giải quyết êm đẹp rồi tính tiếp. Nếu không thoát khỏi hoàn cảnh này thì làm gì có chuyện yêu đương gì nữa.
+— Chuyện của Kenzaki cứ để sau khi giải quyết êm đẹp mọi chuyện rồi tính tiếp. Nếu cái mạng này còn không giữ nổi thì nói gì đến chuyện yêu với đương.
 
-— ...Cậu Yamada, cậu thực sự nghĩ cậu Momokawa sẽ để bạn Kenzaki sống sót sao?
+— ...Yamada-kun, cậu thực sự nghĩ là Momokawa-kun sẽ để cho Kenzaki-san sống sót sao?
 
-— Hãy tin tưởng cậu ta. Momokawa chưa từng chà đạp lên cảm xúc của bạn học lần nào cả.
+— Hãy tin tưởng cậu ta. Momokawa chưa từng chà đạp lên cảm xúc của bạn học lấy một lần nào cả.
 
-Yamada đã hạ quyết tâm. Cậu tin tưởng Momokawa Kotarou.
+Yamada đã hạ quyết tâm sắt đá. Cậu đặt trọn niềm tin vào Momokawa Kotarou.
 
-Lần tới, ngay cả khi bị đầu độc, cậu cũng sẽ cam lòng ngã xuống. Nếu đó là phương án tốt nhất mà Kotarou tin tưởng và thực hiện, cậu sẵn sàng hy sinh vì nó.
+Lần tới, ngay cả khi lại bị trúng độc, cậu cũng sẽ cam lòng ngã xuống. Nếu đó là phương án tối ưu nhất mà Kotarou vạch ra và thực hiện, cậu sẵn sàng hy sinh vì nó.
 
-Thế nhưng, đối với Nakajima, việc có được quyết tâm đến mức đó là điều hoàn toàn bất khả thi—
+Thế nhưng, đối với Nakajima, việc đạt đến sự giác ngộ như thế là điều hoàn toàn bất khả thi—
 
 — Aaa, Haruma, cậu ở đây à~!
 
-Một giọng nói lanh lảnh, ngọt xớt và vô tư vang lên, phá tan bầu không khí trầm mặc.
+Một giọng nói lanh lảnh, ngọt xớt và vô tư lự vang lên, xé tan bầu không khí trầm mặc.
 
-— Ối, bạn Himeno.
+— Ối, Himeno-san.
 
-— Gì thế này, hai người vẫn chưa ngủ à?
+— Gì thế này, hai người vẫn chưa chịu đi ngủ à?
 
-— Tớ hơi say một chút nên ra đây hóng gió cho tỉnh táo thôi mà~
+— Tớ hơi chếnh choáng một chút nên ra đây hóng gió cho tỉnh táo thôi mà~
 
-Vừa nói, Himeno vừa nhanh nhảu ngồi xuống sát sạt bên cạnh Nakajima.
+Vừa nũng nịu nói, Himeno vừa nhanh nhảu ngồi sà xuống sát rạt bên cạnh Nakajima.
 
-Nakajima theo phản xạ định nhấc mông né ra xa, nhưng cánh tay đã bị Himeno ôm chặt lấy, mọi nỗ lực đều trở nên vô ích.
+Nakajima theo phản xạ định nhích người né ra xa, nhưng cánh tay đã bị Himeno ôm ghì lấy, mọi sự kháng cự đều trở nên công cốc.
 
 — Này, tớ đi ngủ trước đây... Himeno, trông chừng Nakajima giùm nhé.
 
-— Ừm, cảm ơn cậu nhé Yamada. Chúc ngủ ngon~
+— Ừm, cảm ơn cậu nha Yamada-kun. Chúc ngủ ngon~
 
-— Ơ, kìa, cậu Yamada?! Cậu bỏ mặc tớ à!
+— Ơ, kìa, Yamada-kun?! Cậu nỡ bỏ mặc tớ à!
 
-— Ngày mai sẽ vất vả lắm đấy, hai người cũng vừa phải thôi nhé.
+— Ngày mai sẽ cam go lắm đấy, hai người liệu mà chừng mực thôi nhé.
 
-— Kìa, chúng ta là bạn mà?!
+— Kìa, chúng ta là bạn bè cơ mà?!
 
-Như thể không nghe thấy tiếng khóc ròng của Nakajima, Yamada chỉ để lại một câu “Chào nhé” rồi bước đi.
+Như thể không nghe thấy tiếng khóc thầm của Nakajima, Yamada chỉ buông lại một câu “Gặp lại sau” rồi cất bước rời đi.
 
-Sau khi bước ra khỏi phòng, Yamada khẽ lẩm nhẩm một mình.
+Sau khi bước ra khỏi phòng, Yamada khẽ lẩm bẩm trong miệng:
 
-— Bạn của tớ... chỉ có Yama-Jun mà thôi... Chỉ có mỗi cậu ấy thôi...
+— Bạn của tớ... chỉ có duy nhất Yama-Jun mà thôi... Chỉ có mỗi cậu ấy...
 
-Bước những bước chân nặng nề qua hành lang tối tăm để về phòng mình, Yamada bỗng khựng lại.
+Lặng lẽ rảo những bước chân nặng nề qua hành lang tối tăm để trở về phòng nghỉ, Yamada bỗng khựng người lại.
 
-— Hí hí, từ đây trở đi cấm đi qua nhé.
+— Hí hí, từ đây trở đi là khu vực cấm qua lại nhé.
 
-— ...Hayama? Cậu đang làm cái trò gì ở đây thế hả?
+— ...Hayama? Cậu đang làm cái trò mèo gì ở đây thế hả?
 
-Hayama Ritsuki xuất hiện, hai tay dang rộng chắn ngang lối đi một cách đầy giả tạo.
+Hayama Ritsuki bất thình lình xuất hiện, hai tay dang rộng chắn ngang lối đi một cách đầy kiểu cách.
 
-Dưới chân cậu ta, Beniwo và Koyuki đang nằm cuộn tròn bên cạnh. Có vẻ như Kinako đã đi ngủ rồi.
+Dưới chân cậu ta, Beniwo và Koyuki đang nằm cuộn tròn một góc. Có vẻ như Kinako đã say giấc nồng rồi.
 
-— Xin lỗi nhé, nhưng đêm nay đừng đi qua lối này.
+— Xin lỗi nhé, nhưng đêm nay miễn đi qua lối này.
 
-Tớ đã chuẩn bị sẵn chỗ ngủ bên kia rồi, Hayama vừa nói vừa chỉ tay về hướng khác.
+Tớ đã chuẩn bị sẵn chỗ ngủ bên kia cho cậu rồi, Hayama vừa phân trần vừa chỉ tay về hướng ngược lại.
 
-— Mà, sao cũng được. Nhưng chuyện này là thế nào?
+— Mà, sao cũng được. Nhưng rốt cuộc chuyện này là thế nào?
 
-— À, đêm nay là trận chiến quyết định của Randou mà. Tớ chỉ đang tinh tế giúp cậu ấy không bị làm phiền thôi.
+— À, đêm nay là trận quyết chiến của Randou-san mà. Tớ chỉ đang tinh tế giúp cậu ấy không bị ai quấy rầy thôi.
 
 — Thật là, cái lũ này...
 
-Yamada thở dài một hơi đầy ngán ngẩm.
+Yamada thở dài một hơi đầy ngao ngán.
 
-Cậu biết Ueta đã rủ Yoshizaki. Cậu cũng vừa chứng kiến Himeno bám lấy Nakajima ngay trước mắt.
+Cậu biết Ueta đã rủ rê Yoshizaki. Cậu cũng vừa chứng kiến Himeno bám riết lấy Nakajima ngay trước mắt.
 
-Thế nhưng, cậu không ngờ ngay cả Randou cũng hành động để nhắm vào Momokawa.
+Thế nhưng, cậu thực sự không ngờ ngay cả Randou cũng chủ động ra tay để nhắm vào Momokawa.
 
-Nhưng nghĩ lại thì, tình cảm của cô ấy cũng là thật. Trước một trận chiến lớn ngang ngửa với trận thảo phạt Yamata no Orochi, việc cô ấy muốn làm chuyện đó cũng là điều dễ hiểu.
+Nhưng ngẫm lại thì, tâm ý của cô ấy cũng là chân thành. Đứng trước một trận đại chiến khốc liệt không kém gì trận thảo phạt Yamata no Orochi, việc cô ấy muốn bộc lộ tình cảm cũng là điều dễ hiểu.
 
-Dù sao thì Randou Kyouko cũng là người duy nhất tin tưởng và đi theo Momokawa ngay giữa tâm bão của sự nghi ngờ đầu độc. Tình cảm đó, quyết tâm đó, chắc chắn là thật lòng.
+Dẫu sao thì Randou Kyouko cũng là người duy nhất tin tưởng và kề vai sát cánh cùng Momokawa ngay giữa tâm bão nghi kỵ hạ độc. Tình cảm đó, quyết tâm sắt đá đó, chắc chắn xuất phát từ tận đáy lòng.
 
-— Thật là hết cách với các cậu mà.
+— Thật là hết nói nổi các cậu mà.
 
-— Xin lỗi nhé, Yamada. Để tạ lỗi, đêm nay cậu có thể ôm Koyuki ngủ cũng được đấy.
+— Xin lỗi nhé, Yamada. Để tạ lỗi, đêm nay cậu được đặc cách ôm Koyuki ngủ đấy.
 
-*Ngoà~* Rerite đưa chú mèo con báo tuyết đang kêu một tiếng ngái ngủ ra trước mặt Yamada.
+*Ngoà~* Rerite đưa chú báo tuyết nhỏ đang cất tiếng kêu ngái ngủ ra trước mặt Yamada.
 
 — ...Thật tình, hết cách với cậu luôn.
 
-Dù nói vậy, nhưng khóe môi Yamada vẫn giãn ra. Cậu bế chú mèo con đáng yêu vào lòng rồi bước về phía giường ngủ của mình.
+Dù cằn nhằn như vậy, nhưng khóe môi Yamada vẫn khẽ giãn ra thành một nụ cười nhẹ. Cậu đón lấy chú thú nhỏ đáng yêu vào lòng rồi rảo bước về phía giường ngủ của mình.

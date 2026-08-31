@@ -2,39 +2,39 @@
 
 “K-Khoan, chờ chút đã... Bình tĩnh đi, đừng có làm chuyện dại dột chứ...”
 
-Miệng tôi thì lắp bắp những lời cứ như thể đang bị ai đó kề dao vào cổ, nhưng thực tế, tôi quả thực đang rơi vào một tình thế ngàn cân treo sợi tóc.
+Miệng tôi lắp bắp những lời cứ như thể đang bị ai đó kề dao vào cổ, nhưng thực tế thì tôi quả thực đang rơi vào một tình thế ngàn cân treo sợi tóc.
 
 “Đúng là lúc này tim tớ đang đập thình thịch, cũng có phần là do kích động nữa... nhưng tớ không hối hận đâu.”
 
-Kyouko nói với vẻ ngượng ngùng hơn mọi khi, nhưng bộ dạng của cô ấy lúc này thì không thể chỉ dùng hai chữ “ngượng ngùng” mà tả hết được.
+Kyouko nói với vẻ ngượng ngùng hơn mọi khi, nhưng bộ dạng của cô ấy lúc này thì chẳng thể nào chỉ dùng hai chữ “ngượng ngùng” mà lột tả hết được.
 
 Kyouko hiện tại đang cởi đồ.
 
-Không phải là khỏa thân hoàn toàn. Thế nhưng, cô ấy đang khoác trên mình bộ đồ lót hai mảnh họa tiết báo tuyết ôm sát, phô diễn những đường cong vô cùng táo bạo.
+Không phải là khỏa thân hoàn toàn. Thế nhưng, cô ấy đang khoác trên mình bộ đồ lót hai mảnh mang họa tiết báo tuyết ôm sát, phô diễn trọn vẹn những đường cong vô cùng táo bạo.
 
-Làn da nâu khỏe khoắn, gợi cảm càng làm nổi bật lớp vải hoa văn đen trắng chỉ vừa đủ che đi những vùng nhạy cảm. Trang bị kiểu gì thế này, trông còn kích thích hơn cả khỏa thân nữa.
+Làn da nâu khỏe khoắn, gợi cảm càng làm nổi bật lớp vải hoa văn đen trắng chỉ vừa vặn che đi những vùng nhạy cảm nhất. Trang bị kiểu quái gì thế này, trông còn kích thích hơn cả khỏa thân nữa chứ.
 
-Tôi thầm hối hận từ tận đáy lòng vì đã lỡ thiết kế bộ đồ lót này theo phong cách gợi cảm, hở hang như vậy. Ai mà ngờ được trang bị dồn hết điểm vào sức tấn công này lại có ngày chĩa thẳng vào chính mình cơ chứ...
+Tôi thầm hối hận từ tận đáy lòng vì đã lỡ thiết kế bộ đồ lót này theo phong cách khêu gợi, thiếu vải đến vậy. Ai mà ngờ được món trang bị dồn toàn bộ điểm thuộc tính vào sức tấn công này lại có ngày chĩa thẳng mũi dùi vào chính bản thân tôi cơ chứ...
 
-“T-Tớ nghĩ trên đời này có những chuyện có thể làm lúc kích động, và cũng có những chuyện tuyệt đối không nên đâu.”
+“T-Tớ nghĩ trên đời này có những chuyện có thể làm trong lúc kích động, nhưng cũng có những chuyện tuyệt đối không nên đâu.”
 
 “Mấy chuyện thế này, không kích động thì sao mà làm nổi chứ.”
 
-Tôi hiểu. Tôi hiểu rất rõ là đằng khác, nhưng lúc này thì thực sự gay go rồi đây.
+Tôi hiểu. Tôi hiểu rất rõ là đằng khác, nhưng lúc này thì thực sự gay go to rồi đây.
 
-Tại sao mọi chuyện lại thành ra thế này? Nói vậy thôi chứ đây cũng chẳng phải là một hành động quá đỗi bất ngờ hay nằm ngoài dự tính.
+Tại sao mọi chuyện lại thành ra nông nỗi này? Nói vậy thôi chứ đây cũng chẳng phải là hành động quá đỗi bất ngờ hay hoàn toàn nằm ngoài dự tính.
 
 Đêm nay là đêm trước trận quyết chiến một mất một còn với Vương quốc Goma. Đây chính là cơ hội cuối cùng để giải tỏa mọi vướng bận trong lòng.
 
 Sau khi dùng bữa tối cùng mọi người, tôi kiểm tra qua loa công tác chuẩn bị cho ngày mai rồi trở về phòng riêng.
 
-Vừa mở cửa bước vào, tôi đã thấy Kyouko ở đó. Có vẻ cô ấy đã đợi tôi từ trước.
+Vừa mở cửa bước vào, tôi đã thấy Kyouko ở đó. Có vẻ như cô ấy đã đợi tôi từ trước.
 
-*Đêm trước quyết chiến, được cùng cô ấy trò chuyện tâm tình thế này thì thật tuyệt biết bao*, tôi vừa mới nghĩ bụng như thế thì Kyouko đã cởi đồ.
+*Đêm trước quyết chiến, được cùng cô ấy trò chuyện tâm tình thế này thì thật tuyệt biết bao*, tôi vừa mới nghĩ bụng như thế thì Kyouko đã bắt đầu cởi đồ.
 
 Tốc độ cởi đồ nhanh nhẹn và dứt khoát đến mức tôi còn chưa kịp mở miệng ngăn lại. Nhìn bộ đồng phục thủy thủ quen thuộc tuột xuống ngay trước mắt, tôi lập tức có cảm giác như mình đang mất đi nhận thức về thực tại. Cứ như thể tôi vừa dính phải bẫy ảo ảnh của gã mây mù nào đó vậy.
 
-Và thế là, đối mặt với một Kyouko trong bộ đồ lót báo tuyết đã sẵn sàng cho trận chiến đêm, tôi của hiện tại chỉ biết van xin tha mạng trong sự bối rối đến thảm hại.
+Và thế là, đối mặt với một Kyouko trong bộ đồ lót báo tuyết đã sẵn sàng nghênh chiến cho trận chiến đêm, tôi của hiện tại chỉ biết van xin tha mạng trong sự bối rối đến thảm hại.
 
 “Cậu hiểu tâm ý của tớ mà, đúng không?”
 
@@ -46,23 +46,23 @@ Tôi tự nhận là mình hiểu. Hiểu rằng Kyouko dành cho tôi nhiều t
 
 “Vậy thì, cậu cũng hiểu cho nỗi lòng của tớ chứ?”
 
-Tôi biết cách nói này có hơi hèn hạ. Nhưng sự thật là tôi đang bị dồn vào đường cùng đến mức không còn lựa chọn nào khác. Ngay từ đầu, tôi đâu phải là một đứa trẻ thẳng thắn, thành thật hay ngoan ngoãn gì cho cam. Tôi vốn là một 『Chú thuật sư』 chuyên dùng những thủ đoạn hèn hạ, luồn lách để đánh úp sau lưng đối thủ mà.
+Tôi biết cách nói này có hơi hèn hạ. Nhưng sự thật là tôi đang bị dồn vào chân tường đến mức chẳng còn lựa chọn nào khác. Ngay từ đầu, tôi đâu phải là một đứa trẻ thẳng thắn, thành thật hay ngoan ngoãn gì cho cam. Tôi vốn là một 『Chú thuật sư』 chuyên dùng những thủ đoạn hèn hạ, luồn lách để đánh úp sau lưng đối thủ mà.
 
 “Bây giờ... bây giờ vẫn chưa phải lúc để chúng ta làm chuyện này.”
 
 “Cậu ghét làm chuyện đó với tớ đến thế sao?”
 
-“Tớ thậm chí còn muốn cúi đầu cầu xin cậu ấy chứ, nhưng bây giờ thì không được. Nếu làm vậy, tớ chắc chắn sẽ không thể quay đầu lại được nữa... Tôi yếu đuối và chật vật hơn Kyouko nghĩ nhiều, tớ đang ở ngay sát giới hạn của mình rồi.”
+“Tớ thậm chí còn muốn cúi đầu cầu xin cậu ấy chứ, nhưng bây giờ thì không được. Nếu làm vậy, tớ chắc chắn sẽ không thể quay đầu lại được nữa... Tớ yếu đuối và chật vật hơn Kyouko nghĩ nhiều, tớ đang ở ngay sát giới hạn rồi.”
 
 Từ lúc nào không hay, tôi đã không còn than vãn hay tỏ ra yếu đuối trước mặt người khác nữa.
 
-*Nếu người chỉ huy tỏ ra bất an, sự lo lắng đó sẽ lập tức lây lan sang thuộc hạ và làm giảm sút sĩ khí.* Tôi từng nghe qua lý thuyết đó, nhưng không phải vì thế mà tôi cố tình gồng mình lên để thực hiện. Chỉ là tự nhiên tôi lại trở nên như vậy.
+*Nếu người chỉ huy tỏ ra bất an, sự lo lắng đó sẽ lập tức lây lan sang thuộc hạ và làm giảm sút sĩ khí.* Tôi từng nghe qua lý thuyết đó, nhưng không phải vì thế mà tôi cố tình gồng mình lên để làm theo. Chỉ là tự nhiên tôi lại trở nên như vậy.
 
-Có lẽ, việc đứng trên đỉnh ngọn giáo để dẫn dắt mọi người chính là như thế.
+Có lẽ, việc đứng nơi đầu sóng ngọn gió để dẫn dắt mọi người chính là như thế.
 
 “Chính vì vậy đấy. Kotarou đã phải gánh vác quá nhiều thứ rồi, nên ít nhất hãy để tớ giúp cậu san sẻ một chút đi chứ. Nếu cậu nhìn tớ bằng ánh mắt thèm khát như vậy, tớ muốn cậu được làm những gì mình thích.”
 
-*Hộc*, cảm giác như muốn hộc máu mồm là thế này đây... Kyouko không hề nói về chuyện hẹn hò hay không hẹn hò ở giai đoạn này. Cô ấy thấy tôi đang phải gồng mình cố gắng, nên mới quyết định dùng cơ thể của mình để an ủi tôi. Cô ấy đã hạ quyết tâm đến mức đó rồi sao.
+*Hộc*, cảm giác như muốn hộc máu mồm là thế này đây... Kyouko không hề nói về chuyện hẹn hò hay không hẹn hò ở giai đoạn này. Cô ấy thấy tôi đang phải gồng mình chịu đựng, nên mới quyết định dùng chính cơ thể của mình để an ủi tôi. Cô ấy đã hạ quyết tâm đến mức đó rồi sao.
 
 Nhưng không được. Nếu buông xuôi lúc này, tôi thực sự có thể sẽ vứt bỏ tất cả mà chạy trốn mất. Chỉ riêng điểm này là tôi hoàn toàn không có chút tự tin nào vào bản thân. Sức quyến rũ của Kyouko có thừa khả năng khiến tôi vứt bỏ cả quyết tâm cứu mạng mọi người.
 
@@ -72,9 +72,9 @@ Nhưng không được. Nếu buông xuôi lúc này, tôi thực sự có thể
 
 Xin lỗi nhé, vì tớ chỉ có thể vạch ra một kế hoạch khiến cậu phải bất an đến mức đó. Nếu chiến cục dễ dàng đến mức tỷ lệ thành công là 100%, chắc chắn thắng và không có lý do gì để thua thì tốt biết mấy. Nhưng với thực lực hiện tại của chúng tôi, kiểu gì cũng sẽ có những lúc phải đánh cược một mất một còn.
 
-Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự gắn kết giữa các thành viên cũng vô cùng vững chắc. Dù vậy, chiến thắng vẫn là điều không thể nói trước.
+Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự gắn kết giữa các thành viên cũng vô cùng vững chắc. Dù vậy, chiến thắng vẫn là điều chưa thể nói trước.
 
-Đây là một chiến dịch nguy hiểm đến mức nếu có ai đó sợ hãi mà bỏ trốn ngay trước giờ G thì cũng là điều dễ hiểu.
+Đây là một chiến dịch nguy hiểm đến mức nếu có ai đó sợ hãi mà bỏ trốn ngay trước giờ G thì cũng là điều hoàn toàn dễ hiểu.
 
 “Với tớ, chỉ cần những lời đó của cậu là quá đủ rồi. Hơn nữa, bị cậu dồn vào thế này, tớ vừa vui vừa kích thích đến mức không thể suy nghĩ tỉnh táo được nữa. Nếu đi quá giới hạn, tớ sẽ không thể đưa ra những quyết định sáng suốt được nữa đâu.”
 
@@ -84,7 +84,7 @@ Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự
 
 Thế nên thế này là được rồi. Đến đây thôi là đủ rồi.
 
-Chỉ cần cô ấy biết rằng, kẻ đang làm bộ làm tịch làm thủ lĩnh như tôi thực chất đang gồng mình đến nghẹt thở, không hề có chút tự tin hay thong dong nào, thế là đủ. Đó là điều mà ngay cả Mei, người luôn tin tưởng tôi từ tận đáy lòng, cũng không hề biết.
+Chỉ cần cô ấy biết rằng, kẻ đang làm bộ làm tịch làm thủ lĩnh như tôi thực chất đang gồng mình đến nghẹt thở, chẳng hề có chút tự tin hay thong dong nào, thế là đủ. Đó là điều mà ngay cả Mei-chan, người luôn tin tưởng tôi từ tận đáy lòng, cũng không hề hay biết.
 
 Chỉ cần một mình Kyouko biết được sự yếu đuối của tôi, thế là quá đủ rồi.
 
@@ -92,7 +92,7 @@ Chỉ cần một mình Kyouko biết được sự yếu đuối của tôi, th
 
 “Hầy... Tớ không ngờ là mình lại bị từ chối phũ phàng đến mức này đấy.”
 
-Cuối cùng cô ấy cũng chịu bỏ cuộc sao? Hay là cô ấy đang ngán ngẩm trước một kẻ dâng mỡ đến miệng mèo mà không chịu ăn như tôi? Kyouko thở dài một hơi thật lớn.
+Cuối cùng cô ấy cũng chịu bỏ cuộc sao? Hay là cô ấy đang ngán ngẩm trước một kẻ dâng mỡ đến miệng mèo mà không chịu ăn như tôi? Kyouko thở dài một hơi thật thượt.
 
 “Tớ cũng đã phải hạ quyết tâm dữ dội lắm mới dám đến đây đấy nhé.”
 
@@ -102,7 +102,7 @@ Và rồi, từ đôi mắt quyến rũ như mắt mèo ấy, một giọt nư�
 
 Tôi buột miệng nói lời xin lỗi theo phản xạ, nhưng bản thân tôi lấy tư cách gì mà xin lỗi cơ chứ?
 
-Không có đủ dũng khí để nhìn thẳng vào gương mặt sắp khóc của Kyouko, tôi ngượng ngùng đánh mắt sang hướng khác rồi cúi đầu xuống———— và ngay khoảnh khắc tiếp theo, toàn thân tôi đã bị bao bọc bởi một sự ấm áp và mềm mại đầy đê mê.
+Không có đủ dũng khí để nhìn thẳng vào gương mặt rơm rớm nước mắt của Kyouko, tôi ngượng ngùng đánh mắt sang hướng khác rồi cúi đầu xuống———— và ngay khoảnh khắc tiếp theo, toàn thân tôi đã bị bao bọc bởi một sự ấm áp và mềm mại đầy mê đắm.
 
 “Hì, bắt được cậu rồi nhé.”
 
@@ -110,15 +110,15 @@ Không có đủ dũng khí để nhìn thẳng vào gương mặt sắp khóc c
 
 Trong một khoảnh khắc, đầu óc tôi hoàn toàn trống rỗng.
 
-Bị bắt rồi. Cơ thể không thể cử động được. Tôi đang bị Kyouko ôm chặt lấy!
+Bị tóm rồi. Cơ thể không thể cử động được. Tôi đang bị Kyouko ôm chặt lấy!
 
 “Hơ, a...”
 
 Tôi định nói gì đó nhưng chỉ có những âm thanh thảm hại phát ra từ cổ họng.
 
-Biết sao được đây, cảm giác tiếp xúc trên toàn cơ thể này quá đỗi quyến rũ và kích thích. Kyouko trong bộ đồ lót hai mảnh mỏng manh lúc này chẳng khác nào đang khỏa thân. Làn da nâu mịn màng trực tiếp truyền hơi ấm sang cơ thể tôi.
+Biết sao được đây, cảm giác tiếp xúc da thịt trên toàn cơ thể này quá đỗi quyến rũ và kích thích. Kyouko trong bộ đồ lót hai mảnh mỏng manh lúc này chẳng khác nào đang khỏa thân. Làn da nâu mịn màng trực tiếp truyền hơi ấm sang cơ thể tôi.
 
-Đòn tấn công trực diện đầy nhiệt liệt này đang nhanh chóng bào mòn thanh máu của tôi. Dừng lại đi, lý trí của tôi sắp về con số không rồi———— Khoan đã, thế này là nguy to rồi!
+Đòn tấn công trực diện đầy mãnh liệt này đang nhanh chóng bào mòn thanh máu của tôi. Dừng lại đi, lý trí của tôi sắp về con số không rồi———— Khoan đã, thế này là nguy to rồi!
 
 Tôi vốn đã thấp bé, giờ lại bị Kyouko với vóc dáng cao ráo ôm chặt từ chính diện, khiến mặt tôi lọt thỏm ngay trước ngực cô ấy. Bị kẹp giữa hai bầu ngực căng tròn nóng bỏng, tôi chỉ biết ngước nhìn khuôn mặt cô ấy từ khe ngực đầy quyến rũ.
 
@@ -128,25 +128,25 @@ Một ác ma đang mỉm cười. Không, thế này thì hoàn toàn là một 
 
 Gương mặt vẫn còn vương chút lệ của cô ấy giờ đang nở một nụ cười đầy mê hoặc.
 
-Bị lừa rồi. Tôi đã bị lừa một cách quá dễ dàng. Bởi nước mắt của con người con gái.
+Bị lừa rồi. Tôi đã bị sập bẫy một cách quá dễ dàng. Bởi chính giọt nước mắt của người con gái.
 
-Tôi vốn chẳng mảy may lay động trước nước mắt của Reina hay Kotori, vậy mà lại dễ dàng sập bẫy trước những giọt nước mắt của Kyouko đến thế. Thật là sơ hở. Thật là nông nổi.
+Tôi vốn chẳng mảy may lay động trước nước mắt của Reina hay Kotori, vậy mà lại dễ dàng gục ngã trước những giọt nước mắt của Kyouko đến thế. Thật là sơ hở. Thật là nông nổi.
 
-Có hối hận thì bây giờ cũng đã quá muộn. Thế cờ này tôi đã hoàn toàn thua trắng. Cụ thể là chỉ chưa đầy 10 giây nữa, lý trí của tôi sẽ chính thức bay màu.
+Có hối hận thì bây giờ cũng đã quá muộn. Thế cờ này tôi đã hoàn toàn thua trắng. Cụ thể là chỉ chưa đầy mười giây nữa, lý trí của tôi sẽ chính thức bay màu.
 
 “Không sao đâu, cứ giao cho tớ. Chuyện này... tuy là lần đầu tiên của tớ, nhưng chắc rồi cũng sẽ ổn thôi.”
 
-A, đây chính là cảm giác khi bị dính 『Ma Nhãn Mê Hoặc』 sao? Được một dâm quỷ nhìn bằng ánh mắt vừa quyến rũ vừa có chút ngượng ngùng như thế, tôi quả thực không thể kháng cự nổi. Không, tay chân tôi đang định tá máy đây này, nhưng không được, không phải thế!
+A, đây chính là cảm giác khi bị dính 『Ma Nhãn Mê Hoặc』 sao? Được một dâm quỷ nhìn bằng ánh mắt vừa quyến rũ vừa có chút ngượng ngùng như thế, tôi quả thực không tài nào kháng cự nổi. Không, tay chân tôi đang định tá máy đây này, nhưng không được, không phải thế!
 
-Đếm ngược đến khi lý trí tiêu biến: còn khoảng 5 giây.
+Đếm ngược đến khi lý trí tiêu biến: còn khoảng năm giây.
 
-Trong khoảng thời gian ngắn ngủi cuối cùng này, tôi phải... phải dùng biện pháp gì đó, nếu không tôi sẽ bị cuốn đi và chính thức tổ chức lễ tốt nghiệp đời trai tân mất. Phải làm sao đây, Momokawa Kotarou!?
+Trong khoảng thời gian ngắn ngủi cuối cùng này, tôi phải... phải dùng biện pháp gì đó, nếu không tôi sẽ bị cuốn trôi và chính thức tổ chức lễ tốt nghiệp đời trai tân mất. Phải làm sao đây, Momokawa Kotarou!?
 
-1: Momokawa Kotarou thông minh đột nhiên nảy ra một ý tưởng lật ngược thế cờ.
-2: Nữ thần Ruinhilde vĩ đại hiển linh ban phát phép màu.
-3: Dục vọng là tiếng nói chân thật nhất.
+1: Momokawa Kotarou thông minh đột nhiên nảy ra một ý tưởng lật ngược thế cờ.  
+2: Nữ thần Ruinhilde vĩ đại hiển linh ban phát phép màu.  
+3: Dục vọng là tiếng nói chân thật nhất.  
 
-Còn 2 giây. Dù đang vùi mặt vào bộ ngực căng đầy của Kyouko, tôi vẫn phải đưa ra lựa chọn định mệnh.
+Còn hai giây. Dù đang vùi mặt vào bộ ngực căng tràn của Kyouko, tôi vẫn phải đưa ra lựa chọn định mệnh.
 
 “R-Rem ơi...”
 
@@ -156,11 +156,11 @@ Từ ngoài cửa, Rem trong hình dạng bé gái tóc bạc khẽ ló đầu v
 
 Đúng vậy, khi trở về phòng, tôi luôn dẫn theo Rem. Vì cơ bản là đêm nào chúng tôi cũng ngủ chung giường mà.
 
-Và khi thấy Kyouko ở trong phòng, Rem đã tự động biết ý mà lặng lẽ rút lui. Em ấy vẫn luôn túc trực ngay bên ngoài phòng.
+Và khi thấy Kyouko ở trong phòng, Rem đã tự động biết ý mà lặng lẽ rút lui. Em ấy vẫn luôn túc trực ngay bên ngoài cửa.
 
 Có lẽ, nếu tôi đầu hàng trước dục vọng ở lựa chọn thứ 3 và chọn một kết cục tàn nhẫn, Rem sẽ lập tức chuyển chức thành lính gác cổng để ngăn không cho bất kỳ kẻ phá đám nào bước vào.
 
-Thế nhưng, vào khoảnh khắc cuối cùng, lựa chọn của tôi vẫn là số 1. 『Chú thuật sư』 Momokawa Kotarou này, ngay từ trận chiến đầu tiên với Gấu Thiết Giáp, đã không ít lần vượt qua những tình cảnh hiểm nghèo rồi!
+Thế nhưng, vào khoảnh khắc cuối cùng, lựa chọn của tôi vẫn là số 1. 『Chú thuật sư』 Momokawa Kotarou này, ngay từ trận chiến đầu tiên với Gấu Thiết Giáp, đã không ít lần vượt qua những tình cảnh nghìn cân treo sợi tóc rồi!
 
 Để thoát khỏi tình thế tiến thoái lưỡng nan đầy kích thích này, tôi triệu hồi Rem như một đòn phản công quyết định. Sự xuất hiện của kẻ thứ ba sẽ hoàn toàn phá vỡ bầu không khí ám muội này!
 
@@ -174,7 +174,7 @@ Dù vậy, lúc này tớ vẫn chưa thể chìm đắm vào cơ thể của c�
 
 “Ủa, ngủ chung á? Cả ba người?”
 
-“Này, đừng có làm tớ phải xấu hổ tư cách con gái thêm nữa chứ. Ít nhất cũng phải cho tớ ngủ cùng giường.”
+“Này, đừng có làm tớ phải xấu hổ cho tư cách con gái thêm nữa chứ. Ít nhất cũng phải cho tớ ngủ cùng giường.”
 
 “Trong bộ dạng đó hả?”
 
@@ -184,9 +184,9 @@ Dù vậy, lúc này tớ vẫn chưa thể chìm đắm vào cơ thể của c�
 
 Thế là, chúng tôi đi ngủ với đội hình ba người xếp hàng ngang như một gia đình.
 
-Bên phải tôi là Kyouko đã chui vào chăn, trông lại càng thêm phần quyến rũ; bên trái tôi là Rem, người tuy không cần ngủ nhưng vẫn nằm xuống cạnh tôi.
+Bên phải tôi là Kyouko đã chui vào chăn, trông lại càng thêm phần khêu gợi; bên trái tôi là Rem, người tuy không cần ngủ nhưng vẫn ngoan ngoãn nằm xuống cạnh tôi.
 
-Nói cách khác, tôi vừa bị Kyouko ở ngay bên cạnh cám dỗ, lại vừa không thể làm gì được vì có Rem ở phía đối diện. Đây quả thực là một đội hình địa ngục đầy nguy hiểm mà kẻ phải chịu đựng giới hạn chịu đựng cực hạn chỉ có duy nhất mình tôi.
+Nói cách khác, tôi vừa bị Kyouko ở ngay bên cạnh cám dỗ, lại vừa chẳng thể làm gì được vì có Rem ở phía đối diện. Đây quả thực là một đội hình địa ngục đầy nguy hiểm mà kẻ phải chịu đựng sự tra tấn tinh thần cực hạn chỉ có duy nhất mình tôi.
 
 Tạm biệt giấc ngủ ngon. Hay là ngày mai hoãn kế hoạch lại một ngày nhỉ...
 
@@ -198,13 +198,13 @@ Ngày hôm sau. Ngày quyết định thực hiện chiến dịch.
 
 Vừa mở mắt ra, tôi đã thấy cánh tay mình đang bị kẹp chặt giữa hai bầu ngực của Kyouko, suýt chút nữa là kế hoạch đã đổ bể ngay từ bước đầu tiên rồi.
 
-Mà thật tình, nếu không nhờ cậu bạn Hayama hét toáng lên gọi mọi người thức dậy mà không thèm nhìn bầu không khí xung quanh, thì có lẽ lý trí của tôi đã hoàn toàn tiêu biến từ lúc đó rồi.
+Mà thật tình, nếu không nhờ cậu bạn Hayama hét toáng lên gọi mọi người thức dậy mà không thèm nhìn bầu không khí xung quanh, thì có lẽ lý trí của tôi đã hoàn toàn tan biến từ lúc đó rồi.
 
 “Chào buổi sáng, Kotarou.”
 
 “...Chào buổi sáng.”
 
-Liệu đây có được gọi là trải nghiệm “buổi sáng ngọt ngào” trong truyền thuyết không nhỉ? Dù không có ánh nắng ban mai chiếu qua cửa sổ, cũng chẳng có tiếng chim sẻ hót líu lo, nhưng chỉ cần có một người phụ nữ xinh đẹp đang ngồi dậy từ trong chăn với cơ thể mảnh mai kia, thì tình huống này coi như cũng đã đủ điều kiện rồi đấy chứ.
+Liệu đây có được gọi là trải nghiệm “buổi sáng ngọt ngào” trong truyền thuyết không nhỉ? Dù không có ánh nắng ban mai chiếu qua khung cửa sổ, cũng chẳng có tiếng chim sẻ hót líu lo, nhưng chỉ cần có một người phụ nữ xinh đẹp đang ngồi dậy từ trong chăn với cơ thể mảnh mai quyến rũ kia, thì tình huống này coi như cũng đã đủ điều kiện rồi đấy chứ.
 
 Tất nhiên, ngay từ sáng sớm tôi đã phải vận dụng tối đa lý trí để cố gắng đánh mắt đi hướng khác.
 
@@ -214,7 +214,7 @@ Tất nhiên, ngay từ sáng sớm tôi đã phải vận dụng tối đa lý 
 
 Trong lúc nhắm nghiền mắt chịu đựng, tôi đã ngủ thiếp đi từ lúc nào không hay.
 
-Dù buổi sáng bắt đầu có chút hỗn loạn, nhưng tình trạng cơ thể tôi không hề tệ. Dù đã phải kìm nén dục vọng suốt cả đêm, nhưng hiện tại tôi lại cảm thấy vô cùng sảng khoái. Có điều... cảm giác như ma lực có hơi giảm đi một chút.
+Dù buổi sáng bắt đầu có chút hỗn loạn, nhưng tình trạng cơ thể tôi không hề tệ. Dù đã phải kìm nén dục vọng suốt cả đêm, nhưng hiện tại tôi lại cảm thấy vô cùng sảng khoái. Có điều... cảm giác như ma lực có hơi sụt giảm đôi chút.
 
 Mà thực ra lượng ma lực của bản thân cũng đâu có hiển thị bằng thanh MP để mà nhìn, tất cả chỉ là cảm nhận chủ quan mà thôi. Lượng ma lực tiêu hao cũng không đáng kể, đến lúc bắt đầu chiến dịch chắc chắn sẽ hồi phục lại hoàn toàn.
 
@@ -224,7 +224,7 @@ Vừa suy nghĩ vẩn vơ về bản thân, tôi vừa cố gắng không để 
 
 “Không cần phải cẩn thận đến thế đâu, tớ tự biết cách lẻn ra ngoài mà không bị phát hiện.”
 
-Đến nước này rồi thì cái luật cấm yêu đương kia có còn ý nghĩa gì nữa đâu, chính tôi cũng nghĩ thế, nhưng dù sao thì về mặt danh nghĩa vẫn nên giữ kẽ một chút. Tôi không muốn tự dưng lại bị ai đó bắt gặp cảnh tôi và Kyouko cùng bước ra từ một căn phòng rồi lại gây ra những lời bàn tán không đáng có.
+Đến nước này rồi thì cái luật cấm yêu đương kia có còn ý nghĩa gì nữa đâu, chính tôi cũng nghĩ thế, nhưng dù sao thì về mặt danh nghĩa vẫn nên giữ kẽ một chút. Tôi không muốn tự dưng lại bị ai đó bắt gặp cảnh tôi và Kyouko cùng bước ra từ một căn phòng rồi lại dấy lên những lời bàn tán không đáng có.
 
 Vì vậy, tôi để Rem lại làm nhiệm vụ cảnh giới cho Kyouko, còn bản thân thì một mình rời phòng hướng về phía Quảng trường Tinh Linh.
 
@@ -232,11 +232,11 @@ Vì vậy, tôi để Rem lại làm nhiệm vụ cảnh giới cho Kyouko, còn
 
 Chiến dịch lần này được quyết định sẽ bắt đầu vào buổi sáng khi mặt trời đã lên cao. Không phải nửa đêm, cũng chẳng phải lúc rạng đông, mà là vào thời điểm mọi người bắt đầu các hoạt động trong ngày. Nếu tính theo nhịp sinh hoạt cũ, thì đây chính là lúc tiết học đầu tiên bắt đầu. Thức dậy, ăn sáng, rồi đi học, chúng tôi sẽ tiến hành theo một thời gian biểu mang lại cảm giác thường nhật như thế.
 
-Dù chúng tôi là bên chủ động tập kích Vương quốc Goma, nhưng sở dĩ không chọn đêm tối là vì sau khi xâm nhập, tầm nhìn sáng sủa sẽ có lợi hơn.
+Dù chúng tôi là bên chủ động tập kích Vương quốc Goma, nhưng sở dĩ không chọn đêm tối là vì sau khi xâm nhập, tầm nhìn sáng sủa sẽ có lợi hơn nhiều.
 
-Về phía Goma, chúng tôi cũng cần chúng phát hiện ra đội quân dương đông kích tây do Rem dẫn đầu, và bản thân chúng tôi cũng cần nhìn rõ động thái của kẻ địch. Ngay sau khi đột nhập vào vương quốc, chúng tôi sẽ phóng hỏa và làm loạn một trận tơi bời, nên bóng tối của ban đêm không mang lại nhiều lợi ích. Hơn nữa, người duy nhất biết rõ đường đi lối lại trong vương quốc chỉ có mình tôi, mà đó cũng chỉ là qua một lần đi thám thính sơ bộ. Chạy quanh một thành phố xa lạ trong đêm tối với tầm nhìn hạn chế là điều vô cùng mạo hiểm.
+Về phía Goma, chúng tôi cũng cần chúng phát hiện ra đội quân dương đông kích tây do Rem dẫn đầu, và bản thân chúng tôi cũng cần nhìn rõ từng động thái của kẻ địch. Ngay sau khi đột nhập vào vương quốc, chúng tôi sẽ phóng hỏa và quậy một trận tơi bời, nên bóng tối của ban đêm không mang lại nhiều lợi ích. Hơn nữa, người duy nhất biết rõ đường đi lối lại trong vương quốc chỉ có mình tôi, mà đó cũng chỉ là qua một lần đi thám thính sơ bộ. Chạy quanh một thành phố xa lạ trong đêm tối với tầm nhìn hạn chế là điều vô cùng mạo hiểm.
 
-Vì lý do đó, sau khi mọi người tập hợp đông đủ, chúng tôi cùng ăn sáng tại quảng trường. Kyouko cũng thản nhiên nhập bọn như không có chuyện gì xảy ra.
+Vì lý do đó, sau khi mọi người tập hợp đông đủ, chúng tôi cùng ăn sáng tại quảng trường. Kyouko cũng thản nhiên nhập bọn như thể chưa từng có chuyện gì xảy ra.
 
 Vừa ăn, chúng tôi vừa tranh thủ họp nhanh để thống nhất lại kế hoạch, sau đó mỗi người tự kiểm tra lại trang bị lần cuối rồi chính thức xuất phát.
 
@@ -254,9 +254,9 @@ Quá trình di chuyển đến địa điểm này cũng đã được diễn t�
 
 Nhìn lại thì các bạn học của tôi giờ đây đều đã là những chiến binh dày dạn kinh nghiệm. Không ai tỏ ra quá căng thẳng, mọi người vừa đi vừa trò chuyện rôm rả.
 
-Thế nhưng, khi đến gần điểm đích đầu tiên — nơi dẫn từ lòng đất lên mặt đất — tiếng nói chuyện thưa dần, và ánh mắt của mọi người đã chuyển sang cảnh giác cao độ, sắc bén dò xét xung quanh.
+Thế nhưng, khi đến gần điểm đích đầu tiên — nơi dẫn từ lòng đất lên mặt đất — tiếng nói chuyện thưa dần, và ánh mắt của mọi người đã chuyển sang trạng thái cảnh giác cao độ, sắc bén dò xét xung quanh.
 
-Đây là một trong số nhiều ga tàu điện ngầm ngầm. Đó là ga gần nhất với bãi rác của vương quốc, nơi chúng tôi chọn làm điểm xâm nhập. Nếu chỉ tính lối vào gần nhất thì vẫn còn những nơi khác, nhưng chúng tôi bắt buộc phải xuất phát từ đây.
+Đây là một trong số nhiều ga tàu điện ngầm dưới lòng đất. Đó là ga gần nhất với bãi rác của vương quốc, nơi chúng tôi chọn làm điểm xâm nhập. Nếu chỉ tính lối vào gần nhất thì vẫn còn những nơi khác, nhưng chúng tôi bắt buộc phải xuất phát từ đây.
 
 Lý do cho việc đó sẽ rõ ràng ngay khi nhìn vào không gian này.
 
@@ -274,11 +274,11 @@ Nói cách khác, nơi đây là địa điểm vô cùng thích hợp để là
 
 “Ừm.”
 
-Giọng nói có phần uể oải của Himeno vang lên cùng với câu trả lời cộc lốc như thường lệ của Yamada. Hai người họ bước lên hai con Loyrops khác nhau.
+Giọng nói có phần uể oải của Himeno-san vang lên cùng với câu trả lời cộc lốc như thường lệ của Yamada-kun. Hai người họ bước lên hai con Loyrops khác nhau.
 
-『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』: Con Loyrops đã đồng hành cùng chúng tôi suốt thời gian qua, nay đã được nâng cấp toàn diện cho chiến dịch lần này. Đặc điểm lớn nhất của nó là chiếc cabin bảo vệ được lắp trên lưng để bảo vệ Himeno bên trong. Được thiết kế dựa trên boongke đất của Kyouko và chế tạo chủ yếu từ các vật liệu kim loại thu được từ vũ khí của Goma, chiếc cabin này có thể chống đỡ được vô số mũi tên bắn vào mà không hề bị xuyên thủng. Bên trong cabin được thiết kế để phục vụ cho việc trị liệu khẩn cấp, có thể chứa tối đa hai người bị thương. Ngoài việc vận chuyển nhu yếu phẩm như trước, hai bên hông của nó còn được lắp đặt các thùng chứa nhỏ đựng các vật phẩm tiêu hao như lựu đạn cháy dùng trong chiến dịch để tiện cho việc tiếp tế. Xe số 1 sẽ luôn được bố trí ở giữa đội hình, đảm nhận vai trò chuyên trị liệu và tiếp tế.
+『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』: Con Loyrops đã đồng hành cùng chúng tôi suốt thời gian qua, nay đã được nâng cấp toàn diện cho chiến dịch lần này. Đặc điểm lớn nhất của nó là chiếc cabin bảo vệ được lắp trên lưng để bảo vệ Himeno-san bên trong. Được thiết kế dựa trên boongke đất của Kyouko và chế tạo chủ yếu từ các vật liệu kim loại thu được từ vũ khí của Goma, chiếc cabin này có thể chống đỡ được vô số mũi tên bắn vào mà không hề bị xuyên thủng. Bên trong cabin được thiết kế để phục vụ cho việc trị liệu khẩn cấp, có thể chứa tối đa hai người bị thương. Ngoài việc vận chuyển nhu yếu phẩm như trước, hai bên hông của nó còn được lắp đặt các thùng chứa nhỏ đựng các vật phẩm tiêu hao như lựu đạn cháy dùng trong chiến dịch để tiện cho việc tiếp tế. Xe số 1 sẽ luôn được bố trí ở giữa đội hình, đảm nhận vai trò chuyên trị liệu và tiếp tế.
 
-『Loyrops Số 2 - Bản Đột Kích Trọng Trang』: Phương tiện chuyên dụng do 『Trọng Chiến Binh』 Yamada điều khiển. Để có thể đột phá trực diện qua đội hình quân đội Goma, con Loyrops vốn đã là một loài ma vật dạng tê giác nặng nề nay được trang bị thêm lớp giáp gai nhọn đầy tính công kích bao phủ toàn thân, mang đậm phong cách tận thế. Hơn nữa, vũ khí chính của nó là một khẩu súng phun lửa cỡ lớn. Yamada sẽ dùng thứ này để phóng hỏa thiêu rụi vương quốc.
+『Loyrops Số 2 - Bản Đột Kích Trọng Trang』: Phương tiện chuyên dụng do 『Trọng Chiến Binh』 Yamada-kun điều khiển. Để có thể đột phá trực diện qua đội hình quân đội Goma, con Loyrops vốn đã là một loài ma vật dạng tê giác nặng nề nay được trang bị thêm lớp giáp gai nhọn đầy tính công kích bao phủ toàn thân, mang đậm phong cách tận thế. Hơn nữa, vũ khí chính của nó là một khẩu súng phun lửa cỡ lớn. Yamada-kun sẽ dùng thứ này để phóng hỏa thiêu rụi vương quốc.
 
 “Kyouko———— cậu lên xe rồi hả.”
 
@@ -292,21 +292,21 @@ Trên lưng Guririn cũng được lắp đặt thêm giáp bảo vệ, cùng v�
 
 “Chứ sao nữa! Tớ đã luyện tập cật lực cho ngày hôm nay đấy!”
 
-Hayama nở nụ cười rạng rỡ, trả lời từ trên lưng con Raptor.
+Hayama-kun nở nụ cười rạng rỡ, trả lời từ trên lưng con Raptor.
 
 Con Raptor này thực chất chỉ là một con Raptor bình thường. Tất nhiên, nó đã được biến thành 『Thi Nhân Hình』.
 
-Hayama vốn thuộc nhóm ma pháp sư giống tôi nên thể chất không có gì nổi trội. Chỉ riêng việc chạy quanh chiến trường thôi cũng đã đủ mệt rồi, nếu còn phải chiến đấu nữa thì không biết thể lực của cậu ta có chịu đựng nổi không. Đặc biệt là lần này chúng tôi sẽ phải di chuyển một quãng đường rất dài trong vương quốc, nên việc giảm tốc độ di chuyển đồng nghĩa với cái chết.
+Hayama-kun vốn thuộc nhóm ma pháp sư giống tôi nên thể chất không có gì nổi trội. Chỉ riêng việc chạy quanh chiến trường thôi cũng đã đủ mệt rồi, nếu còn phải chiến đấu nữa thì không biết thể lực của cậu ta có chịu đựng nổi không. Đặc biệt là lần này chúng tôi sẽ phải di chuyển một quãng đường rất dài trong vương quốc, nên việc giảm tốc độ di chuyển đồng nghĩa với cái chết.
 
-Vì vậy, tôi quyết định để Hayama cưỡi Raptor trong trận chiến này. Đúng như cậu ta nói, nhờ luyện tập chăm chỉ nên dáng ngồi trên lưng Raptor trông đã rất ra dáng rồi... và hơn hết, thông qua cánh tay phải của cậu ta, có vẻ như cậu ta đang thể hiện một khả năng kiểm soát vượt trội hơn hẳn việc cưỡi thú thông thường.
+Vì vậy, tôi quyết định để Hayama-kun cưỡi Raptor trong trận chiến này. Đúng như cậu ta nói, nhờ luyện tập chăm chỉ nên dáng ngồi trên lưng Raptor trông đã rất ra dáng rồi... và hơn hết, thông qua cánh tay phải của cậu ta, có vẻ như cậu ta đang thể hiện một khả năng kiểm soát vượt trội hơn hẳn việc cưỡi thú thông thường.
 
-Tôi đoán là tinh linh bóng tối trú ngụ trong cánh tay phải mà tôi ghép cho cậu ta đã can thiệp và gây ảnh hưởng lên con Raptor vốn là một 『Thi Nhân Hình』 thuộc hệ chú thuật. Thực tế, Rem cũng từng nói rằng khi Hayama đang nắm dây cương, em ấy rất khó để can thiệp vào việc điều khiển con Raptor đó. Chắc chắn là có sự ảnh hưởng nào đó ở đây.
+Tôi đoán là tinh linh bóng tối trú ngụ trong cánh tay phải mà tôi ghép cho cậu ta đã can thiệp và gây ảnh hưởng lên con Raptor vốn là một 『Thi Nhân Hình』 thuộc hệ chú thuật. Thực tế, Rem cũng từng nói rằng khi Hayama-kun đang nắm dây cương, em ấy rất khó để can thiệp vào việc điều khiển con Raptor đó. Chắc chắn là có sự ảnh hưởng nào đó ở đây.
 
-Dù sao thì chúng tôi cũng có thể kỳ vọng vào khả năng cơ động của Hayama với tư cách là một kị binh thực thụ.
+Dù sao thì chúng tôi cũng có thể kỳ vọng vào khả năng cơ động của Hayama-kun với tư cách là một kị binh thực thụ.
 
 “Được rồi, những ai cần lên thú cưỡi đều đã lên hết rồi nhỉ.”
 
-Giống như lý thuyết kị binh hóa Hayama, tất cả những thành viên có tốc độ di chuyển chậm giờ đây đều đã có thú cưỡi.
+Giống như lý thuyết kị binh hóa Hayama-kun, tất cả những thành viên có tốc độ di chuyển chậm giờ đây đều đã có thú cưỡi.
 
 Ba người Ueta, Yoshizaki và Nakajima đều được hưởng lợi từ việc tăng cường thể chất giúp tăng tốc độ chạy, đồng thời họ cũng đã học được các võ kỹ hỗ trợ di chuyển. Còn Beniwo thì sở hữu tốc độ chạy của loài sói, và Kinako dù có thân hình tròn trịa như thế nhưng khi chạy bằng bốn chân giống như gấu hoang dã, nó vẫn có thể đạt tốc độ vượt trội hơn con người. Một con gấu bình thường cũng có thể chạy với vận tốc 50 km/h. Với một ma vật như Kinako thì tốc độ chắc chắn sẽ còn nhanh hơn nữa.
 

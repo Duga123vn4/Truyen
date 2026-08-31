@@ -1,48 +1,48 @@
 # Tập 324: Người dị giới
 
-Dưới âm mưu thâm độc của Takanashi Kotori, 『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi Học Viện Tháp bằng ma pháp dịch chuyển. Nơi cậu bị ném tới là một tàn tích sa mạc khô cằn, nắng cháy.
+Dưới âm mưu thâm độc của Takanashi Kotori, 『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi Học Viện Tháp bằng ma pháp dịch chuyển. Nơi cậu bị ném tới là tàn tích của một cổ trấn giữa sa mạc khô cằn, nắng cháy.
 
-Sau khi tạm thời đẩy lùi được lũ quái vật dạng chó, ngay khi cậu định dùng Thủy ma thuật để rã xác chúng kiếm thức ăn cho ngày hôm nay, thì đúng vào khoảnh khắc ấy.
+Sau khi tạm thời đẩy lùi được bầy quái vật dạng chó, ngay khi cậu định dùng Thủy ma thuật để rã xác chúng kiếm thức ăn cho ngày hôm nay, thì đúng vào khoảnh khắc ấy...
 
 “— Ai đó?!”
 
-Nghe thấy tiếng động khẽ khàng như tiếng chân giẫm lên cát, Shimokawa lập tức quay phắt lại cảnh giác.
+Nghe thấy tiếng động khẽ khàng như tiếng bước chân giẫm lên cát, Shimokawa lập tức quay phắt lại cảnh giác.
 
-Bước ra từ lối đi tối tăm dẫn vào đại sảnh là một bóng người. Đó chắc chắn là một "con người". Không phải bạn cùng lớp, cũng chẳng phải quái vật dạng người. Đó là người bản địa dị giới đầu tiên mà cậu nhìn thấy kể từ khi bị ném vào hầm ngục này.
+Bước ra từ lối đi tối tăm dẫn vào đại sảnh là một bóng người. Đó chắc chắn là một "con người". Không phải bạn cùng lớp, cũng chẳng phải quái vật dạng người. Đó chính là người bản địa dị giới đầu tiên mà cậu nhìn thấy kể từ khi bị ném tới thế giới này.
 
 “...”
 
-Người dị giới ấy là một thiếu nữ có làn da bánh mật khỏe khoắn.
+Người dị giới ấy là một thiếu nữ sở hữu làn da bánh mật khỏe khoắn.
 
-Đó là một cô gái vô cùng xinh đẹp. Gương mặt sắc sảo với những đường nét sâu thẳm khác hẳn người Nhật, mái tóc đỏ rực rỡ như lửa và đôi mắt xanh lam trong vắt như ngọc bích. Ngoại hình ấy khiến người ta lập tức tin rằng cô chính là một cư dân của thế giới khác.
+Đó là một cô gái vô cùng xinh đẹp. Gương mặt sắc sảo với những đường nét thanh tú, sâu thẳm khác hẳn người Nhật, mái tóc đỏ rực rỡ như lửa và đôi mắt xanh lam trong vắt như ngọc bích. Ngoại hình ấy khiến bất kỳ ai nhìn vào cũng lập tức nhận ra cô chính là cư dân của thế giới bên ngoài.
 
 Thế nhưng, Shimokawa không hề ngây thơ đến mức đứng ngẩn người ngắm nhìn một mỹ nhân da nâu mang vẻ đẹp hoang dã ấy.
 
 Bên hông cô gái dắt một thanh kiếm, và bàn tay cô đã đặt sẵn lên chuôi kiếm từ lúc nào.
 
-Từng chứng kiến những cao thủ kiếm thuật hàng đầu nhờ Thiên Chức như cậu bạn thân Ueta ở cự ly gần, Shimokawa lập tức nhận ra tư thế chuẩn bị của cô gái. Nhanh nhẹn nhưng vô cùng tự nhiên, đó tuyệt đối không phải là tư thế của kẻ nghiệp dư, mà là của một chiến binh dày dạn kinh nghiệm.
+Từng chứng kiến những cao thủ kiếm thuật hàng đầu nhờ Thiên Chức như cậu bạn thân Ueta ở cự ly gần, Shimokawa lập tức nhận ra tư thế rút kiếm của cô gái. Nhanh nhẹn nhưng vô cùng tự nhiên, đó tuyệt đối không phải là tư thế của kẻ nghiệp dư, mà là của một chiến binh dày dạn kinh nghiệm.
 
 *Khoảng cách này nguy hiểm quá.* Cậu lập tức nhận ra thế bất lợi của mình.
 
-Nếu thiếu nữ da nâu này sở hữu kỹ năng tương đương với một 『Kiếm Sĩ』 thực thụ, thì khoảng cách có thể nhìn rõ mặt nhau thế này sẽ bị cô ta rút ngắn trong chớp mắt để lấy đầu cậu.
+Nếu thiếu nữ da nâu này sở hữu thực lực tương đương với một 『Kiếm Sĩ』 thực thụ, thì khoảng cách nhìn rõ mặt nhau thế này sẽ bị cô ta rút ngắn trong chớp mắt để lấy đầu cậu.
 
-Dù cô gái chỉ khoác một chiếc áo choàng trắng đơn giản che kín người, nhưng bao kiếm bên hông lại được chạm khắc hoa văn bằng vàng vô cùng tinh xảo, chứng tỏ đó không phải là một món vũ khí rẻ tiền. Nếu chỉ là đồ trang trí thì không sao, nhưng lỡ như đó là một thanh danh kiếm hay ma pháp kiếm cực mạnh thì sao? Mà ngay cả khi thanh kiếm đó có cùn đi chăng nữa, nó vẫn là một món hung khí thừa sức kết liễu một ma thuật sư yếu ớt về thể chất như cậu.
+Dù cô gái chỉ khoác một chiếc áo choàng trắng đơn giản che kín người, nhưng vỏ kiếm bên hông lại được chạm khắc hoa văn bằng vàng vô cùng tinh xảo, chứng tỏ đó không phải là món vũ khí rẻ tiền. Nếu chỉ là đồ trang trí thì không sao, nhưng lỡ như đó là một thanh danh kiếm hay ma pháp kiếm cực mạnh thì sao? Mà ngay cả khi thanh kiếm đó có cùn đi chăng nữa, nó vẫn là một món hung khí thừa sức kết liễu một ma thuật sư yếu ớt về thể chất như cậu.
 
-Dù Shimokawa có thể niệm ma pháp tấn công nhanh với tư cách là một 『Thủy Ma Thuật Sư』, nhưng ở khoảng cách này, cơ hội phản công của cậu giỏi lắm cũng chỉ có một lần. Và chưa chắc đã kịp.
+Dù Shimokawa có thể niệm chú công kích thần tốc với tư cách là một 『Thủy Ma Thuật Sư』, nhưng ở khoảng cách này, cơ hội phản công của cậu giỏi lắm cũng chỉ có một lần duy nhất. Và chưa chắc đã kịp.
 
-Bằng mọi giá, cậu phải tránh một cuộc xung đột.
+Bằng mọi giá, cậu phải tránh một cuộc xung đột vũ trang.
 
 “Nước...”
 
 Hình như cô gái vừa khẽ lẩm bẩm từ đó.
 
-Đối phương có vẻ cũng rất ngạc nhiên khi thấy có người ở đây. Dù ánh mắt cô vẫn sắc lẹm dò xét cậu, nhưng Shimokawa nhận ra sự chú ý của cô thực chất đang đổ dồn vào bể phun nước cũ đã được cậu lấp đầy bằng Thủy ma thuật.
+Đối phương có vẻ cũng rất kinh ngạc khi thấy có người ở đây. Dù ánh mắt cô vẫn sắc lẹm dò xét cậu, nhưng Shimokawa nhận ra sự chú ý của cô thực chất đang đổ dồn vào bể phun nước cũ đã được cậu lấp đầy bằng Thủy ma thuật.
 
-“C-Cậu muốn lấy nước sao? Nếu vậy thì cứ lấy bao nhiêu tùy thích đi. Tôi là 『Thủy Ma Thuật Sư』 mà!”
+“C-Cô muốn lấy nước sao? Nếu vậy thì cứ lấy bao nhiêu tùy thích đi! Tôi là 『Thủy Ma Thuật Sư』 mà!”
 
 Để biểu thị bản thân không có ý định chiến đấu, Shimokawa giơ hai tay lên cao, đồng thời thầm cầu nguyện trong lòng rằng ngôn ngữ giữa hai bên có thể thông suốt.
 
-Cậu không chắc hành động giơ hai tay lên có mang ý nghĩa tương tự ở thế giới này hay không, nhưng ít nhất nó cũng chứng minh cậu không cầm vũ khí. Dù đối với một ma thuật sư, việc tay có cầm gì hay không chẳng mấy quan trọng.
+Cậu không chắc hành động giơ hai tay lên có mang ý nghĩa đầu hàng hay thiện chí ở thế giới này hay không, nhưng ít nhất nó cũng chứng minh cậu không cầm vũ khí. Dù đối với một ma thuật sư, việc tay có cầm vũ khí hay không vốn chẳng mấy quan trọng.
 
 Tất nhiên, cậu vẫn âm thầm vận hành ma lực trong cơ thể để có thể kích hoạt ma pháp phòng ngự ngay lập tức nếu có biến cố.
 
@@ -50,25 +50,25 @@ Tất nhiên, cậu vẫn âm thầm vận hành ma lực trong cơ thể để 
 
 *Tuyệt quá, thông dịch được rồi!*
 
-Nhận ra hai bên có thể giao tiếp rõ ràng, Shimokawa thầm reo hò trong lòng. Lúc này, cậu cũng chẳng buồn bận tâm đến sự kỳ lạ khi một cô gái da nâu trông chẳng có nét gì là người Nhật lại đang nói tiếng Nhật vô cùng trôi chảy. Cứ coi như đang xem một bộ phim nước ngoài được lồng tiếng đi, nghĩ vậy thì mọi chuyện cũng không đến nỗi quá phi lý.
+Nhận ra hai bên có thể giao tiếp trôi chảy, Shimokawa thầm reo hò trong lòng. Lúc này, cậu cũng chẳng buồn bận tâm đến sự kỳ lạ khi một cô gái da nâu trông chẳng có nét gì là người Nhật lại đang nói tiếng Nhật vanh vách. Cứ coi như đang xem một bộ phim nước ngoài được lồng tiếng đi, nghĩ vậy thì mọi chuyện cũng không đến nỗi quá phi lý.
 
-Hơn nữa, giọng nói của cô gái này rất êm tai, khiến cậu có cảm giác như đang nghe một diễn viên lồng tiếng chuyên nghiệp vậy.
+Hơn nữa, giọng nói của cô gái này rất êm tai, khiến cậu có cảm giác như đang nghe một diễn viên lồng tiếng chuyên nghiệp.
 
-Dù sao thì, việc giao tiếp được đã là một sự may mắn lớn. Cậu tự nhủ rằng có lẽ khi nhận được Thiên Chức, hệ thống đã tự động cài đặt một cơ chế ma pháp nào đó giúp họ hiểu được ngôn ngữ của người bản địa. Lý do cụ thể là gì giờ không quan trọng nữa.
+Dù sao thì, việc giao tiếp được đã là một sự may mắn tột cùng. Cậu tự nhủ rằng có lẽ khi nhận được Thiên Chức, hệ thống thế giới đã tự động cài đặt một cơ chế ma pháp nào đó giúp họ hiểu được ngôn ngữ của người bản địa. Lý do cụ thể là gì giờ không quan trọng nữa.
 
 “Đúng thế, tôi là 『Thủy Ma Thuật Sư』.”
 
 “Tại sao ngươi lại ở một nơi thế này... Nguồn nước kia là do ngươi tạo ra sao?”
 
-“Phải, là tôi làm đấy. Lúc tôi mới tới đây, cái bể này hoàn toàn khô cạn.”
+“Phải, là do tôi làm đấy. Lúc tôi mới tới đây, cái bể này hoàn toàn khô cạn.”
 
-“...Hãy tạo ra nước cho ta xem. Nhưng đừng có giở trò gì mờ ám. Ở khoảng cách này, trước khi ma pháp tấn công của ngươi kịp chạm vào ta, ta dư sức chém bay đầu ngươi.”
+“...Hãy tạo ra nước cho ta xem. Nhưng đừng có giở trò mờ ám. Ở khoảng cách này, trước khi ma pháp tấn công của ngươi kịp chạm vào ta, ta dư sức chém bay đầu ngươi.”
 
 “Tôi biết rồi mà. Đã bảo tôi không phải kẻ khả nghi, cũng chẳng có ý định đánh nhau với cô đâu.”
 
-Nói vậy nhưng Shimokawa cũng nhận ra rằng người dị giới này hoàn toàn có khái niệm rõ ràng về ma pháp.
+Nói vậy nhưng Shimokawa cũng nhận ra rằng người dị giới này hoàn toàn có hiểu biết rõ ràng về ma pháp.
 
-Dựa vào giọng điệu tự tin vào kiếm kỹ của cô gái, Shimokawa tạm thời đánh giá cô có thực lực ngang ngửa với 『Kiếm Sĩ』 Ueta.
+Dựa vào giọng điệu tự tin tuyệt đối vào kiếm kỹ của cô gái, Shimokawa tạm thời đánh giá cô có thực lực ngang ngửa với 『Kiếm Sĩ』 Ueta.
 
 “Đây, thế này đã được chưa?”
 
@@ -82,11 +82,11 @@ Dĩ nhiên, cậu đâu có dùng hết công lực. Cậu chỉ tạo nước v
 
 “Thì tôi đã bảo từ nãy rồi còn gì.”
 
-“Vậy rốt cuộc ngươi là kẻ nào? Một 『Thủy Ma Thuật Sư』 lại xuất hiện đơn độc ở một nơi như thế này, có nghĩ thế nào cũng thấy vô lý.”
+“Vậy rốt cuộc ngươi là ai? Một 『Thủy Ma Thuật Sư』 lại xuất hiện đơn độc ở một nơi hoang phế thế này, có nghĩ thế nào cũng thấy vô lý.”
 
 Bàn tay cô gái vẫn không rời khỏi chuôi kiếm, ánh mắt sắc bén tiếp tục dồn ép cậu trả lời.
 
-Sự nghi ngờ thái quá này khiến Shimokawa đoán rằng ở thế giới này, những mạo hiểm giả đi khám phá tàn tích cổ đại có lẽ không phải là một sự tồn tại phổ biến.
+Sự nghi ngờ thái quá này khiến Shimokawa đoán rằng ở thế giới này, những mạo hiểm giả đi khám phá tàn tích cổ đại có lẽ không phải là sự tồn tại phổ biến.
 
 Cậu tự hỏi nên giải thích thế nào để không bị nghi ngờ, nhưng rồi quyết định nói thật thay vì bịa ra một lời nói dối vụng về. Dù sao thì cậu cũng chẳng có gì phải giấu giếm cả.
 
@@ -98,11 +98,11 @@ Cậu tự hỏi nên giải thích thế nào để không bị nghi ngờ, nh�
 
 “Tất nhiên là biết. Dù chưa từng trải qua dịch chuyển, nhưng ta cũng đã vài lần tiến vào Dungeon rồi.”
 
-“Tôi vốn đang cùng các đồng đội tiến sâu vào một Dungeon, nhưng một kẻ trong số đó đã phản bội và dùng ma pháp dịch chuyển ném tôi đi. Tôi nghĩ nơi này hoàn toàn khác biệt với Dungeon lúc trước của chúng tôi, và tôi cũng chẳng biết làm sao để quay về... Cô nhìn trang phục của tôi xem, chỉ có độc một bộ quần áo trên người thôi đúng không? Tôi vừa mới bị dịch chuyển đến đại sảnh này cách đây không lâu thôi.”
+“Tôi vốn đang cùng các đồng đội tiến sâu vào một Dungeon, nhưng một kẻ trong số đó đã phản bội và dùng ma pháp dịch chuyển ném tôi đi. Tôi nghĩ nơi này hoàn toàn khác biệt với Dungeon lúc trước của chúng tôi, và tôi cũng chẳng biết làm sao để quay về... Cô nhìn trang phục của tôi xem, chỉ có độc một bộ quần áo trên người thôi đúng không? Tôi vừa mới bị dịch chuyển đến đại sảnh này cách đây không lâu.”
 
-Shimokawa cố gắng giải thích chi tiết hơn về hoàn cảnh của mình.
+Shimokawa cố gắng giải thích cặn kẽ hơn về hoàn cảnh éo le của mình.
 
-Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ cô không cho rằng cậu đang nói dối. Cô đăm chiêu suy nghĩ, cân nhắc xem có nên tin lời cậu hay không.
+Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ cô không cho rằng cậu đang nói dối. Cô đăm chiêu suy nghĩ, cân nhắc mức độ chân thực trong lời nói của cậu.
 
 “Ngươi là người nước nào?”
 
@@ -110,19 +110,19 @@ Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ c
 
 “Không, ta chưa từng nghe qua cái tên đó bao giờ. Chắc hẳn là một quốc gia cực kỳ xa xôi. Đồng đội của ngươi cũng là người nước đó sao?”
 
-“Đúng vậy, tất cả chúng tôi đều là người Nhật Bản. À, khoan đã... Cô đã từng nghe nói đến vương quốc tên là ‘Astoria’ chưa? Or là thành phố ‘Sigrun’?”
+“Đúng vậy, tất cả chúng tôi đều là người Nhật Bản. À, khoan đã... Cô đã từng nghe nói đến vương quốc tên là ‘Astoria’ chưa? Hoặc là thành phố ‘Sigrun’?”
 
 “Ta cũng chưa từng nghe thấy những cái tên đó.”
 
-Xem ra, nơi này nằm cách rất xa vương quốc mà nhóm của cậu định dịch chuyển tới để thoát thân.
+Xem ra, nơi này nằm cách rất xa vương quốc mà nhóm của cậu từng dự định dịch chuyển tới để thoát thân.
 
-Nếu giả định rằng vương quốc Astoria không phải là một tiểu quốc vô danh mà là một quốc gia có quy mô và danh tiếng nhất định, thì việc cô gái này chưa từng nghe qua chỉ có thể giải thích bằng mức độ phát triển văn minh ở đây. Nói cách khác, đây là thời đại mà bản đồ thế giới vẫn chưa được khai phá hết, chứ đừng nói đến sự tồn tại của mạng Internet.
+Nếu giả định rằng vương quốc Astoria không phải là một tiểu quốc vô danh mà là một cường quốc có quy mô và danh tiếng nhất định, thì việc cô gái này chưa từng nghe qua chỉ có thể giải thích bằng mức độ phát triển văn minh ở đây. Nói cách khác, đây là thời đại mà bản đồ thế giới vẫn chưa được khai phá hết, chứ đừng nói đến sự tồn tại của mạng Internet.
 
-Cụm từ *“Thế giới Fantasy thời Trung Cổ”* chợt lóe lên trong đầu Shimokawa.
+Cụm từ *“Thế giới Fantasy thời Trung Cổ”* chợt lóe lên trong tâm trí Shimokawa.
 
 “Vậy ra, ngươi thực sự không biết nơi này là đâu sao?”
 
-“Đ-Đúng thế. Tôi thậm chí còn không rõ sa mạc này là thế giới bên ngoài hay vẫn là bên trong Dungeon nữa. Nếu được, cô có thể chỉ cho tôi biết không?”
+“Đ-Đúng thế. Tôi thậm chí còn không rõ sa mạc này là thế giới bên ngoài hay vẫn là bên trong Dungeon nữa. Nếu được, cô có thể chỉ dẫn cho tôi biết không?”
 
 “Nơi này là vùng đất 『Avdran』. Đây là tàn tích của một cổ trấn nằm ở rìa phía Tây sa mạc, trên con đường dẫn tới 『Thung Lũng Tận Cùng』.”
 
@@ -146,7 +146,7 @@ Việc cậu không biết các địa danh ở dị giới cũng là điều d�
 
 “Hả? Cái bể này á? Có đổ đầy mười hay hai mươi lần thì vẫn dư sức nhé. Chỉ là tạo nước thôi mà, đơn giản lắm.”
 
-Nghe câu trả lời của cậu, không biết cô gái đã tự suy luận ra điều gì, nhưng cuối cùng cô cũng buông tay khỏi chuôi kiếm và trút bỏ vẻ mặt cảnh giác đầy căng thẳng ban nãy.
+Nghe câu trả lời của cậu, không biết cô gái đã tự suy luận ra điều gì, nhưng cuối cùng cô cũng buông tay khỏi chuôi kiếm và trút bỏ hoàn toàn vẻ mặt cảnh giác đầy căng thẳng ban nãy.
 
 Sau đó, cô quỳ một gối xuống đất, chắp hai tay lại và khẽ nhắm mắt như đang cầu nguyện.
 
@@ -154,7 +154,7 @@ Sau đó, cô quỳ một gối xuống đất, chắp hai tay lại và khẽ n
 
 Không chỉ là giống như cầu nguyện, mà cô ấy thực sự đang thành tâm cầu nguyện.
 
-Shimokawa thoáng nghĩ *tự dưng cô nàng này làm cái gì thế không biết*, nhưng rồi cậu tự nhủ chắc đây là kiểu nghi lễ tôn giáo bắt buộc phải thực hiện vào những thời điểm nhất định, nên cậu im lặng đứng nhìn chứ không lên tiếng cắt ngang.
+Shimokawa thoáng nghĩ *tự dưng cô nàng này làm cái trò gì thế không biết*, nhưng rồi cậu tự nhủ chắc đây là kiểu nghi lễ tôn giáo bắt buộc phải thực hiện vào những thời điểm nhất định, nên cậu im lặng đứng nhìn chứ không lên tiếng cắt ngang.
 
 Sau khi thành kính dâng lời cầu nguyện xong, cô gái ngẩng đầu lên với gương mặt nhẹ nhõm đến lạ kỳ. Vẫn giữ nguyên tư thế quỳ gối, cô ngước nhìn thẳng vào mắt Shimokawa.
 
@@ -162,7 +162,7 @@ Sau khi thành kính dâng lời cầu nguyện xong, cô gái ngẩng đầu l�
 
 “...Hả?”
 
-Thái độ quay ngoắt một trăm tám mươi độ của cô gái — từ chỗ đằng đằng sát khí như muốn chém bay đầu cậu sang cung kính như thể đang đối diện với một vị khách quý — khiến đầu óc Shimokawa tạm thời bị quá tải.
+Thái độ quay ngoắt một trăm tám mươi độ của cô gái — từ chỗ đằng đằng sát khí như muốn chém bay đầu cậu sang cung kính như thể đang đối diện với một bậc cứu thế — khiến đầu óc Shimokawa tạm thời bị quá tải.
 
 Rốt cuộc trong cuộc đối thoại vừa rồi, có chi tiết nào đủ sức khiến cô ta phải hạ mình tôn kính cậu đến mức này chứ?
 
@@ -192,13 +192,13 @@ Nhìn những thân hình gầy gò, tiều tụy khoác trên mình những b�
 
 Đối với những kẻ đang bị thiêu đốt bởi cái nóng và cơn khát tột cùng của sa mạc, việc phát điên lên khi nhìn thấy một bể nước mát lạnh thế này cũng là điều dễ hiểu.
 
-“Này! Đừng có uống nước trực tiếp từ bể phun nước chứ! Chỉ dùng để rửa người thôi!”
+“Này! Đừng có uống nước trực tiếp từ bể phun nước chứ! Chỗ đó chỉ dùng để rửa người thôi!”
 
 “Nước uống ở bên này cơ mà! Bình tĩnh lại đi, tôi có thừa nước cho tất cả mọi người!”
 
-Nhìn cảnh mọi người cứ thế mang cả thân hình bẩn thỉu lao vào bể nước nghịch ngợm, Shimokawa thực sự không muốn họ uống thứ nước đó chút nào. Cậu đã cẩn thận dùng Thủy ma thuật để đổ đầy tất cả những bình chứa rỗng không đã cạn nước từ lâu của họ, nhưng những kẻ đang khát khô cổ họng này dường như đã đánh mất cả lý trí. Hầu hết bọn họ đều vừa ngâm mình trong bể vừa ngửa cổ uống ừng ực.
+Nhìn cảnh mọi người cứ thế mang cả thân hình bẩn thỉu lao vào bể nước nghịch ngợm, Shimokawa thực sự không muốn họ uống thứ nước đó chút nào. Cậu đã cẩn thận dùng Thủy ma thuật để đổ đầy tất cả những bình chứa rỗng không đã cạn khô từ lâu của họ, nhưng những kẻ đang khát cháy cổ họng này dường như đã đánh mất cả lý trí. Hầu hết bọn họ đều vừa ngâm mình trong bể vừa ngửa cổ uống ừng ực.
 
-*Hy vọng họ không bị đau bụng*, cậu thầm lo lắng nhìn cảnh tượng đó. Đúng lúc ấy, một giọng nói vang lên bên cạnh:
+*Hy vọng họ không bị đau bụng*, cậu thầm lo lắng nhìn cảnh tượng hỗn loạn đó. Đúng lúc ấy, một giọng nói vang lên bên cạnh:
 
 “Xin hãy nhìn xem, thưa ngài 『Thủy Ma Thuật Sư』. Nhờ có ngài mà bộ tộc của chúng ta đã được cứu sống.”
 
@@ -234,7 +234,7 @@ Mức độ yếu kém đến thảm hại ấy khiến Shimokawa, với tư cá
 
 “Chẳng lẽ ma thuật sư ở đây hầu hết đều chỉ ở trình độ đó thôi sao?”
 
-“Vùng đất Avdran này, như ngài thấy đấy, phần lớn là sa mạc khô cằn. Những người có độ tương thích với thuộc tính Thủy cực kỳ hiếm hoi, và họ cũng rất khó để rèn luyện thành những thuật sĩ mạnh mẽ. Nếu ở đất nước Nihon của ngài có những vị ma thuật sư xuất chúng như ngài là điều hiển nhiên, thì nơi đó chắc hẳn phải là một vùng đất được ban tặng nguồn ma lực hệ Thủy vô cùng dồi dào.”
+“Vùng đất Avdran này, như ngài thấy đấy, phần lớn là sa mạc khô cằn. Những người có độ tương thích với thuộc tính Thủy cực kỳ hiếm hoi, và họ cũng rất khó để rèn luyện thành những thuật sĩ mạnh mẽ. Nếu ở đất nước Nhật Bản của ngài có những vị ma thuật sư xuất chúng như ngài là điều hiển nhiên, thì nơi đó chắc hẳn phải là một vùng đất được ban tặng nguồn ma lực hệ Thủy vô cùng dồi dào.”
 
 Đúng là nước Nhật có rất nhiều nguồn nước và khí hậu mưa nhiều thật, nhưng làm gì có thứ gọi là ma lực hệ Thủy.
 
@@ -278,7 +278,7 @@ Dù đã may mắn cắt đuôi được sự truy đuổi gắt gao của kẻ 
 
 Sự kỳ vọng này quá đỗi nặng nề. Ánh mắt lấp lánh tràn đầy niềm tin tưởng tuyệt đối của cô gái khiến Shimokawa cảm thấy có chút áp lực.
 
-“Bản thân bị trục xuất, rồi lại đi gặp một lũ người cũng bị trục xuất giống mình... Đúng là trò đùa của số phận mà.”
+“Bản thân bị trục xuất, rồi lại đi gặp một đám người cũng bị trục xuất giống mình... Đúng là trò đùa của số phận mà.”
 
 Thế nhưng, ngọn lửa hy vọng đã được thắp lên mạnh mẽ hơn bao giờ hết.
 

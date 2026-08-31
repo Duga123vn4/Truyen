@@ -10,7 +10,7 @@ Dù có tàn nhẫn, nhưng sự khác biệt về ngoại hình đã lộ rõ n
 
 Tuổi tác càng lớn, khoảng cách ngoại hình lại càng nới rộng. Những khuyết điểm từng được che giấu nhờ sự tròn trịa, nhỏ nhắn của thời thơ ấu sẽ dần lộ ra những nét méo mó to lớn hơn theo quá trình trưởng thành.
 
-Lũ xấu xí mắt một mí, những khuôn mặt cá có hai mắt cách quá xa nhau, lũ chuột răng hô, lũ khỉ tai to, rồi cả những kẻ dị dạng mặt khổng lồ nữa chứ————Thôi đi giùm cái, các người tụ tập đông đủ thế này, sao lại có thể gom được một lũ xấu xí gây khó chịu đến mức này lại một chỗ hay vậy?
+Lũ xấu xí mắt một mí, những khuôn mặt cá có hai mắt cách quá xa nhau, lũ chuột răng hô, lũ khỉ tai to, rồi cả những kẻ dị dạng mặt to bè nữa chứ————Thôi đi giùm cái, các người tụ tập đông đủ thế này, sao lại có thể gom được một lũ xấu xí gây khó chịu đến mức này lại một chỗ hay vậy?
 
 *Cần phải có sự chọn lọc*————Ta đã nghĩ như vậy từ khi bắt đầu nhận thức được thế giới xung quanh.
 
@@ -32,7 +32,7 @@ Các người có biết câu nói mà Kotori ghét nhất là gì không? “T�
 
 Này này, đùa giỡn cũng phải có giới hạn thôi chứ. Đó là câu nói tồi tệ nhất, dùng để hợp thức hóa việc bản thân sở hữu một ngoại hình xấu xí, thậm chí còn trơ trẽn tuyên bố rằng tâm hồn mình đẹp đẽ và thanh khiết. Đúng là đỉnh cao của sự dối trá và ngạo mạn.
 
-Nghe cho rõ đây, lũ quái thai xấu xí rác rưởi kia, con người trước hết ngoại hình là tất cả đấy.
+Nghe cho rõ đây, lũ quái thai xấu xí rác rưởi kia, đối với con người thì trước hết ngoại hình là tất cả đấy.
 
 Phải có một ngoại hình ở mức tối thiểu thì người ta mới bắt đầu đánh giá đến nội tâm bên trong. Ngoại hình chính là vòng sơ tuyển. Nếu không vượt qua được vòng này, thì sẽ chẳng có vòng hai, vòng ba hay buổi phỏng vấn cuối cùng nào cả. Ta chỉ muốn cầu nguyện sao cho từ nay về sau không bao giờ phải dính dáng đến lũ hạ đẳng xấu xí như các người nữa.
 
@@ -94,7 +94,7 @@ Hả, Kotori hoàn toàn không có chút tình cảm nào với cậu bạn đ�
 
 Lấy Kotori làm trung tâm, cả lớp đã đoàn kết thành một khối.
 
-And rồi, con nhỏ xấu xí rác rưởi không biết lượng sức mình, kẻ từng vạch kế hoạch bắt nạt Kotori, cuối cùng đã mất đi toàn bộ bè lũ xung quanh và bị cô lập. Chỉ những kẻ có sự chuẩn bị tinh thần bị bắt nạt mới được phép bắt nạt người khác thôi.
+Và rồi, con nhỏ xấu xí rác rưởi không biết lượng sức mình, kẻ từng vạch kế hoạch bắt nạt Kotori, cuối cùng đã mất đi toàn bộ bè lũ xung quanh và bị cô lập. Chỉ những kẻ có sự chuẩn bị tinh thần bị bắt nạt mới được phép bắt nạt người khác thôi.
 
 Con nhỏ đó không chỉ bị cô lập trong lớp mà là trong toàn trường. Như một con quỷ xấu xí dám đối đầu với thiên sứ Kotori, ả ta phải tự mình gánh chịu hình phạt nặng nề đó.
 
@@ -116,7 +116,7 @@ Khoác lên mình bộ đồng phục nữ sinh, Kotori lại càng thêm đáng
 
 Trường cấp hai cũng phân chia theo khu vực học chánh. Đó cũng chỉ là nơi gom những đứa trẻ trong một phạm vi nhất định lại với nhau. Dù sao thì ở đây Kotori vẫn chắc chắn là người đáng yêu nhất rồi. Ta đã nghĩ như thế.
 
-“————Tớ là Kenzaki Asuna. Nhà tớ mở một võ đường kiếm thuật. Những ai muốn trở nên mạnh mẽ hơn, xin hãy đến gia nhập môn phái Kiếm phái Kenzaki của nhà tớ!”
+“————Tớ là Kenzaki Asuna. Nhà tớ mở một võ đường kiếm thuật. Những ai muốn trở nên mạnh mẽ hơn, xin hãy đến gia nhập phái kiếm Kenzaki của nhà tớ!”
 
 Một giọng nói đầy nội lực nhưng không kém phần thanh nhã vang vọng khắp phòng học.
 
@@ -170,7 +170,7 @@ Chỉ khoác hờ một chiếc áo khoác bên ngoài chiếc sơ mi và quần
 
 “Xem ra, không cần phải tốn lời với các người nữa rồi————”
 
-And rồi với một tốc độ nhanh đến mức mắt thường không kịp nhìn, cô ấy tung ra những cú đâm. Hay đúng hơn là đã tung ra rồi, vì Kotori hoàn toàn không nhìn thấy gì cả.
+Và rồi với một tốc độ nhanh đến mức mắt thường không kịp nhìn, cô ấy tung ra những cú đâm. Hay đúng hơn là đã tung ra rồi, vì Kotori hoàn toàn không nhìn thấy gì cả.
 
 Có vẻ như bọn chúng đã bị đâm vào cổ, họng và chấn thủy. Ba tên đó phát ra những tiếng rên rỉ ghê tởm như “Hự!” rồi ôm lấy những chỗ bị đâm đau đớn, khuỵu gối xuống đất.
 
@@ -224,7 +224,7 @@ Cô ấy ở một đẳng cấp hoàn toàn khác so với lũ con gái xấu x
 
 “À, tất nhiên rồi. Từ giờ mong được cậu giúp đỡ nhé, Takanashi-san.”
 
-And thế là, ta đã có được người bạn ngang hàng đầu tiên trong cuộc đời mình.
+Thế là, ta đã có được người bạn ngang hàng đầu tiên trong cuộc đời mình.
 
 Cuộc sống cấp hai của ta sau khi có được người bạn tên Kenzaki Asuna trôi qua vô cùng thuận buồm xuôi gió.
 
@@ -236,7 +236,7 @@ Cái lý thuyết bảo con gái không bao giờ thắng được con trai về
 
 Nhưng nhờ vậy mà sự đố kỵ của lũ con gái xấu xí nham hiểm, sự quấy rối của lũ khỉ đực động dục tởm lợm, hay thậm chí là những kẻ khả nghi có ý đồ xâm hại tình dục, tất cả đều bị Asuna dẹp gọn. Chỉ cần Kotori khóc, cô ấy sẽ lập tức bay đến ngay. Cô ấy chắc chắn sẽ bảo vệ ta. Chắc chắn sẽ cứu ta.
 
-A, tình bạn này mới thật tuyệt vời làm sao. Quả nhiên, trong đời nhất định phải có một người tri kỷ độc nhất vu nhị như vậy.
+A, tình bạn này mới thật tuyệt vời làm sao. Quả nhiên, trong đời nhất định phải có một người tri kỷ độc nhất vô nhị như vậy.
 
 Dù đôi lúc ta cũng bị xoay như chong chóng bởi một Asuna thẳng tính có cái đầu óc như thể được cấu tạo từ cơ bắp... nhưng ngay cả những điều đó cũng rất vui vẻ.
 
@@ -284,19 +284,19 @@ A, đây chính là tình yêu sao.
 
 “————Souma-kun trông đẹp trai thật đấy. Kotori đã rất ngạc nhiên luôn.”
 
-“À thì, tớ cũng nghĩ mặt mũi cậu ta trông cũng được... Nhưng so với ngoại hình thì sức mạnh của Souma mới là thứ đáng sợ thực sự. Cậu ta không hổ danh là người kế thừa của Souma-ryuu đâu. Tớ cũng không thể để thua được!”
+“À thì, tớ cũng nghĩ mặt mũi cậu ta trông cũng được... Nhưng so với ngoại hình thì sức mạnh của Souma mới là thứ đáng sợ thực sự. Cậu ta không hổ danh là người kế thừa của phái kiếm Souma đâu. Tớ cũng không thể để thua được!”
 
 Asuna vừa nói vừa nở một nụ cười tự tin, trông cô ấy vô cùng vui vẻ và hạnh phúc. Cái vẻ mặt như một thiếu nữ đang yêu đó là sao chứ.
 
 Ta biết Asuna có tình cảm với cậu bạn Souma Yuuto đó.
 
-Kiếm phái Kenzaki và kiếm phái Souma, cả hai nhà đều mở võ đường và đã có mối quan hệ qua lại từ khi họ còn nhỏ. Nghe nói cả hai đều là những môn phái cổ xưa và truyền thống, dù chẳng phải quý tộc gì nhưng hình như người lớn hai bên cũng có bàn chuyện kết hôn cho con cái của họ thì phải.
+Phái kiếm Kenzaki và phái kiếm Souma, cả hai nhà đều mở võ đường và đã có mối quan hệ qua lại từ khi họ còn nhỏ. Nghe nói cả hai đều là những môn phái cổ xưa và truyền thống, dù chẳng phải quý tộc gì nhưng hình như người lớn hai bên cũng có bàn chuyện kết hôn cho con cái của họ thì phải.
 
-And mỗi khi có cơ hội, Asuna lại kể với vẻ mặt vô cùng hạnh phúc rằng sau này có lẽ cô ấy sẽ phải miễn cưỡng kết hôn với người mà bố mẹ đã định sẵn.
+Mỗi khi có cơ hội, Asuna lại kể với vẻ mặt vô cùng hạnh phúc rằng sau này có lẽ cô ấy sẽ phải miễn cưỡng kết hôn với người mà bố mẹ đã định sẵn.
 
 Vì một người như Asuna lại đem lòng si mê, nên Kotori từng tự mình tưởng tượng xem tên Souma Yuuto đó rốt cuộc là một vị hào kiệt thế nào. Chắc hẳn phải là một gã khổng lồ cao hai mét, nặng một trăm năm mươi ký, cơ bắp cuồn cuộn và khắp người đầy sẹo như một con quỷ.
 
-And rồi, vào cái ngày nhập học tại Học viện Hakurei, trí tưởng tượng đó đã hoàn toàn bị phản bội,
+Và rồi, vào cái ngày nhập học tại Học viện Hakurei, trí tưởng tượng đó đã hoàn toàn bị phản bội,
 
 “……Đồ phản bội.”
 
@@ -328,7 +328,7 @@ Một kẻ bề trên, một kẻ thống trị sở hữu nhan sắc vượt tr
 
 Thế nhưng, một đứa con gái đứng ở vị trí ngang hàng như Kenzaki Asuna lại xuất hiện.
 
-And lại có một người đàn ông tỏa sáng rực rỡ đến mức ngay cả Kotori cũng phải ngước nhìn như Souma Yuuto.
+Lại có một người đàn ông tỏa sáng rực rỡ đến mức ngay cả Kotori cũng phải ngước nhìn như Souma Yuuto.
 
 Để có được thứ mình muốn, Kotori đã trở thành một kẻ thách thức.
 
@@ -398,7 +398,7 @@ Momokawa Kotarou.
 
 Thằng lùn tịt rác rưởi vô danh tiểu tốt kia, một kẻ thuộc tầng lớp đáy xã hội hạ đẳng như ngươi mà đòi đánh bại Takanashi Kotori này sao, mơ đi cưng!!
 
-Ngày 3 tháng 12 năm 2021
+***
 
 *Ghi chú của tác giả: Tiêu đề phụ là “Takanashi Kotori (2)”, phần (1) chính là Tập 247 “Takanashi Kotori”. Đây không phải là lỗi viết sai.*
 

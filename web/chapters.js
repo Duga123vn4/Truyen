@@ -51201,15 +51201,15 @@ Cả nhóm lục tục di chuyển sang khu vực bên cạnh. Khu vực này v�
 
 Hai tuần trôi qua trong chớp mắt.
 
-Việc chế tạo trang bị được đẩy nhanh tiến độ với tốc độ chóng mặt, và hoạt động săn bắn để thu thập nguyên liệu cũng được tiến hành sát sao cho đến tận phút chót. Sau đó là các cuộc thử nghiệm thực chiến dành cho trang bị mới, cùng những buổi thảo luận và luyện tập vô cùng tỉ mỉ về kế hoạch tác chiến.
+Việc chế tác trang bị được đẩy nhanh tiến độ với tốc độ chóng mặt, và hoạt động săn bắn để thu thập nguyên liệu cũng được tiến hành ráo riết cho đến tận phút chót. Tiếp đó là các đợt thử nghiệm thực chiến dành cho vũ khí mới, cùng những buổi thảo luận và diễn tập vô cùng tỉ mỉ về kế hoạch tác chiến.
 
-Kotarou đã có vài đêm phải thức trắng. Kyouko tự tay làm đồ ăn khuya mang đến tiếp tế cho cậu, còn Rerite dù không giúp được gì nhiều cũng chủ động đề nghị phụ một tay. Riêng Himeno thì bị ép buộc phải thức đêm cùng họ.
+Kotarou đã trải qua vài đêm thức trắng. Kyouko-san tự tay làm đồ ăn khuya mang đến tiếp tế cho cậu, còn Rerite dù không giúp được gì nhiều cũng chủ động đề nghị phụ một tay. Riêng Himeno thì bị ép buộc phải thức đêm cùng bọn họ.
 
-Cứ như thế, bằng cách này hay cách khác, mục tiêu thực hiện kế hoạch tác chiến trong vòng hai tuần đã được định hình. Kotarou nhờ Minami chuyển lời, gửi đến Ryouko thời gian tấn công Vương quốc Goma cùng với kế hoạch hành động cụ thể và các chỉ thị cho ngày hôm đó. Một khi đã liên lạc với cô ấy, họ sẽ không thể quay đầu lại được nữa.
+Cứ như thế, bằng cách này hay cách khác, mục tiêu triển khai kế hoạch tác chiến trong vòng hai tuần đã được định hình. Kotarou nhờ Minami chuyển lời, gửi đến Ryouko-senpai thời điểm phát động tấn công Vương quốc Goma, kèm theo phương án hành động cụ thể và các chỉ thị cho ngày hôm đó. Một khi đã liên lạc với cô ấy, họ sẽ không còn đường lui nữa.
 
 Và rồi, đêm trước ngày quyết chiến đã đến.
 
-Sau khi nâng ly chúc mừng chiến thắng và càn quét sạch sẽ những món ăn thịnh soạn nhất có thể chuẩn bị, tại một góc của căn cứ rộng lớn, có bóng dáng của một đôi nam nữ.
+Sau khi nâng ly chúc mừng thắng lợi và càn quét sạch sẽ những món ăn thịnh soạn nhất có thể chuẩn bị, tại một góc của căn cứ rộng lớn, xuất hiện bóng dáng của một đôi nam nữ.
 
 — Này, ngồi xuống đi Yoshizaki.
 
@@ -51221,9 +51221,9 @@ Ueta tay cầm một chai rượu, còn Yoshizaki Hiroe (Mari) thì miễn cư�
 
 — Nếu ngày mai mày mà gục vì say xỉn, tao chém đôi mày ra đấy, thằng ranh.
 
-Nói vậy thôi, nhưng có lẽ bản thân cô cũng muốn uống. Mari ngoan ngoãn đưa ly ra, để mặc cho Ueta rót đầy.
+Nói vậy thôi, nhưng có lẽ bản thân cô cũng muốn uống. Mari ngoan ngoãn chìa ly ra, để mặc cho Ueta rót đầy.
 
-Chất lỏng màu đỏ tím trong suốt như rượu vang đỏ được rót đầy ly, hai chiếc ly chạm vào nhau. Cạn ly.
+Chất lỏng màu đỏ tím trong suốt tựa rượu vang đỏ chảy tràn vào ly. Hai chiếc ly chạm nhau lách cách. Cạn chén.
 
 — Mà này, mày kiếm đâu ra chai rượu này thế?
 
@@ -51231,49 +51231,49 @@ Chất lỏng màu đỏ tím trong suốt như rượu vang đỏ được rót
 
 — Thật không đó? Đừng có kéo tao làm đồng phạm nha.
 
-— Thật mà, tao không lừa mày đâu. Mày không tin tưởng tao đến thế cơ à?
+— Thật mà, tao lừa mày làm gì. Mày không tin tưởng tao đến thế cơ à?
 
-Rượu do một tay Kotarou quản lý. Trong hoàn cảnh này, dù là rượu lậu do Kotarou tự ủ không thể sánh bằng hương vị của xưởng rượu Futaba, nhưng nó vẫn là một món đồ xa xỉ vô cùng quý giá. Chỉ có Kotarou mới có thể làm ra rượu, và việc phân phát cũng được thực hiện một cách bình đẳng. Đó tuy là chuyện nhỏ nhặt, nhưng cậu hiểu rất rõ rằng sự tích tụ của những bất mãn nhỏ nhặt chính là nguyên nhân dẫn đến sự rạn nứt lớn.
+Rượu hoàn toàn do một tay Kotarou quản lý. Trong hoàn cảnh này, dù chỉ là rượu lậu do Kotarou tự ủ không thể sánh bằng hương vị của xưởng rượu Futaba, nhưng nó vẫn là một món đồ xa xỉ vô cùng quý giá. Chỉ có Kotarou mới có khả năng làm ra rượu, và việc phân phát luôn được thực hiện một cách bình đẳng. Đó tuy là chuyện nhỏ nhặt, nhưng cậu hiểu rất rõ rằng sự tích tụ của những bất mãn vụn vặt chính là nguyên nhân dẫn đến rạn nứt lớn.
 
-Và Kotarou cũng hiểu rằng, nếu chỉ cứng nhắc phân phát một cách công bằng theo khuôn mẫu thì vẫn sẽ có người không hài lòng.
+Và Kotarou cũng thấu suốt rằng, nếu chỉ cứng nhắc phân phát theo khuôn mẫu công bằng một cách máy móc thì vẫn sẽ có kẻ không hài lòng.
 
-Vì vậy, chai rượu này là thứ mà Kotarou đã thấu hiểu tâm tư của Ueta và giao cho cậu ta. Cậu ngầm ý bảo Ueta hãy dùng chai này để rủ rê Yoshizaki Hiroe.
+Vì vậy, chai rượu này là thứ mà Kotarou đã nhìn thấu tâm tư của Ueta và trao tận tay cho cậu ta. Cậu ngầm ra hiệu cho Ueta hãy dùng chai rượu này để tiếp cận Yoshizaki Hiroe.
 
 Và giờ đây, hai người họ đang uống rượu riêng với nhau.
 
-Nhờ có hơi men, giữa hai người không hề có một chút ngượng ngùng nào.
+Nhờ có hơi men đưa đẩy, giữa hai người không hề có lấy một tia ngượng ngùng.
 
-Thời còn đi học trong hòa bình, mối quan hệ giữa họ chỉ dừng lại ở mức thỉnh thoảng nói chuyện vài câu. Sau khi hội quân tại Học Viện Tháp, họ coi nhau như những người đồng đội. Và rồi sau khi bị Takanashi cô lập, trải qua cuộc sống lang thang cận kề giới hạn của cái chết cùng năm người, rồi lại hợp tác với Kotarou một lần nữa — chỉ trong khoảng thời gian ngắn ngủi này, mối quan hệ giữa họ đã trở nên sâu sắc hơn rất nhiều. Điều đó cũng là lẽ tự nhiên, bởi họ đã thực sự giao phó mạng sống cho nhau.
+Thời còn đi học trong yên bình, mối quan hệ giữa họ chỉ dừng lại ở mức thỉnh thoảng nói chuyện vài câu xã giao. Sau khi hội quân tại Học Viện Tháp, họ xem nhau như những người đồng đội. Và rồi sau khi bị Takanashi cô lập, trải qua chuỗi ngày lang bạt bên bờ vực sinh tử cùng nhóm năm người, rồi lại một lần nữa hợp tác cùng Kotarou — chỉ trong khoảng thời gian ngắn ngủi ấy, mối liên kết giữa họ đã trở nên sâu sắc hơn rất nhiều. Điều đó hoàn toàn tự nhiên, bởi họ đã thực sự phó thác mạng sống cho nhau.
 
-Thế nhưng, việc nảy sinh những cảm xúc vượt trên cả mức đồng đội đáng tin cậy cũng là một lẽ vô cùng tự nhiên. Đó chính là chuyện thường tình giữa nam và nữ.
+Thế nhưng, việc nảy sinh những cảm xúc vượt trên mức đồng đội đáng tin cậy cũng là một lẽ thường tình. Đó chính là bản năng giữa nam và nữ.
 
 — ...Này, chai rượu cạn sạch rồi kìa.
 
 — Hửm, ồ, đúng thế thật.
 
-Mải mê ôn lại những kỷ niệm thời đi học nay đã xa vời và những câu chuyện phiếm, chai rượu đã cạn sạch từ lúc nào không hay. Chai rượu mà Kotarou đưa cho cậu ta chỉ có duy nhất một chai này.
+Mải mê ôn lại những kỷ niệm thời cắp sách nay đã xa xôi cùng những câu chuyện phiếm không đầu không cuối, chai rượu đã rỗng không tự lúc nào. Chai rượu mà Kotarou đưa cho cậu ta chỉ có duy nhất một chai này.
 
-Không có chai thứ hai hay thứ ba. Hãy tự mình giải quyết dứt điểm chỉ với một chai này thôi. Ueta cảm thấy như thể mình đang bị nói như vậy.
+Không có chai thứ hai hay thứ ba. Hãy tự mình giải quyết dứt điểm chỉ với bấy nhiêu thôi. Ueta cảm thấy dường như mình đang bị thúc ép như vậy.
 
 — Cứ thế này mà giải tán thì ổn chứ hả?
 
 — ...Không, không ổn chút nào.
 
-*Không ổn chút nào đâu.* Ueta khẽ lẩm bẩm như vậy.
+*Không ổn chút nào đâu.* Ueta khẽ lẩm bẩm trong miệng.
 
-Một khoảng lặng ngắn trôi qua. Thế nhưng, nam nhi Ueta Youhei đã hạ quyết tâm, mở lời:
+Một khoảng lặng ngắn ngủi trôi qua. Thế nhưng, nam nhi Ueta Youhei đã hạ quyết tâm, cất lời:
 
 — Yoshizaki, đêm nay qua phòng tao đi.
 
 — Phụt!
 
-Lời mời gọi dồn hết tâm sức của cậu ta lập tức bị dập tắt bởi một tiếng cười nhạo.
+Lời mời gọi dồn hết can đảm của cậu ta lập tức bị dập tắt bởi một tràng cười ngặt nghẽo.
 
 — Này, sao lại cười chứ! Tao nghiêm túc mà?!
 
-— Không, đùa kiểu đó nghe như quấy rối tình dục ấy.
+— Không, đùa kiểu đó nghe thô bỉ chẳng khác gì quấy rối tình dục ấy.
 
-Nhìn Mari nở nụ cười đầy mỉa mai, Ueta tiếc nuối lẩm bẩm: “Chết tiệt”. Xem ra, cậu ta hoàn toàn không có cửa rồi.
+Nhìn Mari nở nụ cười đầy mỉa mai, Ueta cay đắng lẩm bẩm: “Chết tiệt”. Xem ra, cậu ta hoàn toàn không có cửa rồi.
 
 — Rốt cuộc mày vẫn thích Tendou à?
 
@@ -51283,267 +51283,267 @@ Nhìn Mari nở nụ cười đầy mỉa mai, Ueta tiếc nuối lẩm bẩm: �
 
 — À, xin lỗi nha. Nhưng tao đảm bảo là mày không đến mức phải tự ti về bản thân đâu, đừng có khóc.
 
-— Mày an ủi kiểu nửa vời thế càng làm tao muốn khóc hơn đấy. Thật tình, bị từ chối thẳng thừng thế này, trông tao chẳng khác gì thằng ngốc cả.
+— Mày an ủi kiểu nửa vời thế càng làm tao muốn khóc hơn đấy. Thật tình, bị từ chối thẳng thừng thế này, trông tao chẳng khác gì thằng hề cả.
 
 — Ha ha, thế nên đừng có dỗi nữa mà.
 
-Vừa cười, Mari vừa nói rằng cô không hề ghét Ueta đến thế.
+Vừa cười, Mari vừa phân trần rằng cô không hề có ý ghét bỏ Ueta.
 
-Gương mặt trung bình, chiều cao trung bình, đầu óc, vận động và cả tính cách cũng vậy, Ueta không có điểm gì quá nổi bật, có thể nói là một nam sinh cấp ba vô cùng bình thường. Đó chính là kiểu người có thể bắt gặp ở bất cứ đâu, nhưng cũng có nghĩa là cậu ta không có khuyết điểm hay mặc cảm gì đặc biệt, một xuất phát điểm khá tốt.
+Gương mặt trung bình, chiều cao trung bình, học lực, thể thao và cả tính cách cũng vậy, Ueta không có điểm gì quá nổi bật, có thể nói là một nam sinh cấp ba vô cùng bình thường. Đó chính là mẫu người có thể bắt gặp ở bất cứ đâu, nhưng đồng nghĩa với việc cậu ta không có khuyết điểm hay mặc cảm gì quá mức, một xuất phát điểm tương đối tốt.
 
-Một Ueta bình thường như thế đã nhận được thiên chức bình thường là 『Kiếm Sĩ』, và mạnh lên một cách bình thường. Với thực lực hiện tại, cậu ta hoàn toàn có thể tự mình đối đầu và hạ gục một con GoGame Mastera mà không gặp quá nhiều nguy hiểm.
+Một Ueta bình thường như thế đã nhận được thiên chức bình thường là 『Kiếm Sĩ』, và mạnh lên một cách vững vàng. Với thực lực hiện tại, cậu ta hoàn toàn có thể tự mình đối đầu và hạ gục một con quái vật Goma mà không gặp quá nhiều hiểm nguy.
 
-— Dù sao thì chúng ta cũng đã đồng hành cùng nhau đến tận đây. Tao khá tin tưởng và công nhận năng lực của mày mà.
+— Dù sao thì chúng ta cũng đã sát cánh cùng nhau đến tận đây. Tao khá tin tưởng và công nhận thực lực của mày mà.
 
-— Nhưng lại không thể coi tao là đàn ông.
+— Nhưng lại không thể coi tao là một người đàn ông.
 
 — Cũng không hẳn. Mày của hiện tại trông cũng khá ra dáng đàn ông đấy chứ.
 
 — Thế thì—
 
-— Xin lỗi nhé, nhưng tao trông thế này thôi chứ trong chuyện yêu đương thì thận trọng lắm. Thế nên, kiểu tiến tới theo quán tính thế này thì hơi khó.
+— Xin lỗi nhé, nhưng tao trông bỗ bã thế này thôi chứ trong chuyện yêu đương thì thận trọng lắm. Thế nên, kiểu tiến tới theo cảm tính thế này thì hơi khó.
 
-Ở nơi này chỉ có một số lượng nam nữ giới hạn. Ngay cả trong cuộc sinh tồn hầm ngục đầy hiểm nguy này, họ còn phải đối mặt với trận chiến lớn là thảo phạt Vương quốc Goma vào ngày mai, chưa kể còn phải giải quyết kẻ phản bội Takanashi.
+Nơi này chỉ có một lượng nam nữ hữu hạn. Ngay giữa cuộc sinh tồn nghẹt thở nơi mê cung, họ còn phải chuẩn bị đối mặt với trận đại chiến thảo phạt Vương quốc Goma vào ngày mai, chưa kể còn món nợ phải thanh toán với kẻ phản bội Takanashi.
 
-Một tình cảnh bị dồn vào đường cùng. Nhưng tuyệt đối không phải là tuyệt vọng. Đặt cược vào một tia hy vọng mong manh để chiến đấu hết mình và mở ra con đường sống — trong một thời điểm như thế này, Yoshizaki Hiroe không hề muốn nghĩ đến chuyện nam nữ.
+Một tình thế ngặt nghèo bị dồn vào chân tường. Nhưng tuyệt đối chưa phải là đường cùng tuyệt vọng. Đặt cược vào một tia hy vọng mong manh để chiến đấu hết mình và mở ra con đường sống — trong một thời điểm ngổn ngang như thế này, Yoshizaki Hiroe không hề có tâm trí nghĩ đến chuyện tình cảm nam nữ.
 
-— Trước khi bị dịch chuyển tới đây, tao cũng có bạn trai đàng hoàng đấy chứ.
+— Trước khi bị ném tới đây, tao cũng có bạn trai đàng hoàng đấy chứ.
 
 — À, tao biết. Cái gã sinh viên đại học đúng không?
 
-— Ừm. Hồi đó tao cũng bị nói ra nói vào là yêu đương với sinh viên đại học thì ăn chơi quá đà này nọ, nhưng bọn tao quen nhau nghiêm túc lắm đấy.
+— Ừm. Hồi đó tao cũng bị xì xào là yêu đương với sinh viên đại học thì đú đởn ăn chơi này nọ, nhưng bọn tao quen nhau nghiêm túc lắm đấy.
 
-Anh chàng bạn trai sinh viên đại học đó thực chất là thanh mai trúc mã từ thuở nhỏ của cô. Một người anh trai lớn tuổi hơn một chút, rất ngầu và đẹp trai. Đó là đối tượng vô cùng thích hợp cho mối tình đầu.
+Anh chàng bạn trai sinh viên đại học đó thực chất là thanh mai trúc mã từ thuở ấu thơ của cô. Một người anh lớn tuổi hơn một chút, vô cùng chững chạc và bảnh bao. Đó là hình mẫu lý tưởng cho mối tình đầu.
 
-Dù sau đó cả hai phải chuyển trường và xa nhau, nhưng khi Mari đỗ vào Học viện Hakurei và rời nhà lên thành phố học, họ đã tình cờ tái ngộ. Khi Mari học năm nhất thì anh ấy đang học năm ba và vẫn còn ở trường.
+Dù sau đó cả hai phải chuyển trường và cách xa nhau, nhưng khi Mari thi đỗ vào Học viện Hakurei và lên thành phố học, họ đã tình cờ tái ngộ. Khi Mari học năm nhất thì anh ấy đang học năm ba và vẫn còn gắn bó với trường.
 
-Từ đó, những kỷ niệm thời thơ ấu đã tự nhiên kéo hai người lại gần nhau, họ làm bạn suốt một năm. Và khi anh ấy tốt nghiệp, anh ấy đã tỏ tình với cô — câu chuyện là như vậy.
+Từ đó, những kỷ niệm thời thơ ấu đã tự nhiên kéo hai người lại gần nhau, làm bạn suốt một năm ròng. Và đến khi anh ấy tốt nghiệp, anh ấy đã chính thức ngỏ lời với cô — câu chuyện là như vậy.
 
-— Tao thực sự thích anh ấy. Anh ấy vừa dịu dàng vừa tốt bụng. Đẹp trai hơn mày nhiều.
+— Tao thực sự thích anh ấy. Vừa dịu dàng lại tốt bụng. Đẹp trai hơn mày nhiều.
 
-— Im đi, tao không muốn nghe mày khoe khoang về người yêu cũ đâu.
+— Thôi im đi, tao không có nhu cầu nghe mày khoe khoang về người yêu cũ đâu.
 
-Dù có một người bạn trai đáng tự hào như thế, nhưng một khi đã bị dịch chuyển đến dị giới này thì mọi chuyện cũng chẳng còn ý nghĩa gì nữa. Anh ấy không ở bên cạnh cô. Ở nơi này chỉ có những người bạn cùng lớp năm 2 lớp 7 mà thôi.
+Dẫu có một người bạn trai đáng tự hào như thế, nhưng một khi đã bị dịch chuyển đến dị giới này thì mọi thứ cũng trở nên vô nghĩa. Anh ấy không ở bên cạnh cô. Nơi đây chỉ còn lại những người bạn cùng lớp 2-7 mà thôi.
 
-— Thế nên tao mới đổ cậu Tendou đấy.
+— Thế nên tao mới đổ Tendou-kun đấy.
 
-— Chẳng phải mày bảo mình rất thận trọng khi yêu đương sao?
+— Chẳng phải mày bảo mình là đứa thận trọng trong chuyện yêu đương sao?
 
-— Thì chuyện đó đủ để thay đổi cả thế giới quan của tao mà.
+— Thì chuyện đó đủ sức làm đảo lộn cả thế giới quan của tao mà.
 
-Mari tự nhận mình không phải là kiểu con gái lăng nhăng, dễ dàng nói lời yêu thích chỉ vì có một người đàn ông đáng tin cậy xuất hiện.
+Mari tự nhận mình không phải là kiểu con gái lẳng lơ, dễ dàng rung động chỉ vì có một người đàn ông đáng tin cậy xuất hiện.
 
-Thế nhưng, trong hoàn cảnh cực hạn của cuộc sinh tồn hầm ngục này, sự tồn tại của Tendou Ryuuichi là quá đỗi áp đảo. Cậu ta không biết cách quan tâm tinh tế như bạn trai cũ của cô. Cậu ta cũng không chỉ hướng mắt về một mình cô.
+Thế nhưng, trong hoàn cảnh cùng cực của cuộc sinh tồn hầm ngục này, sự hiện diện của Tendou Ryuuichi là quá đỗi áp đảo. Cậu ta không biết cách quan tâm tinh tế như bạn trai cũ của cô. Cậu ta cũng chẳng bao giờ đặt trọn ánh nhìn về một mình cô.
 
-Dù vậy, Tendou vẫn là người đàn ông có thể hiên ngang tiến về phía trước mà không hề sợ hãi hay do dự, ngay cả trong hoàn cảnh tồi tệ và rác rưởi nhất. Cậu ta là một người đàn ông mạnh mẽ.
+Dù vậy, Tendou vẫn là kẻ có thể hiên ngang đạp lên tất cả mà tiến về phía trước mà không hề sợ hãi hay do dự, ngay cả trong nghịch cảnh tồi tệ và rác rưởi nhất. Cậu ta là một kẻ mạnh tuyệt đối.
 
-Và dù người đàn ông mạnh mẽ ấy không hề trao cho họ một lời hỏi han ấm áp nào, nhưng cậu ta đã bảo vệ nhóm của Mari. Cậu ta không cho phép một vết xước nào xuất hiện trên người họ, cũng chưa từng để họ phải chịu ấm ức.
+Và dẫu người đàn ông hùng mạnh ấy không hề buông một lời hỏi han ấm áp, cậu ta vẫn bảo bọc nhóm của Mari đến nơi đến chốn. Cậu ta không để bất kỳ vết xước nào chạm vào họ, cũng chưa từng để họ phải chịu thiệt thòi hay ấm ức.
 
-Là con gái, nếu không đổ một người như thế thì mới là lạ.
+Là phận nữ nhi, không rung động trước một người như thế mới là chuyện lạ.
 
-Vì vậy, Mari nghĩ rằng Kyouko là một kẻ vô ơn bạc nghĩa đến mức không tưởng nổi. Dù bản thân là gánh nặng lớn nhất, vậy mà cô ta vẫn có thể thản nhiên để Tendou bảo vệ suốt bấy lâu nay.
+Vì vậy, Mari luôn cho rằng Kyouko là một kẻ vô ơn bạc nghĩa đến mức khó hiểu. Dù bản thân từng là gánh nặng lớn nhất, vậy mà cô ta vẫn có thể thản nhiên để Tendou bảo vệ suốt bấy lâu nay.
 
-Nhưng nếu cô ta là một đứa cuồng shota đến mức đổ đứ đừ Momokawa như thế thì cũng đành chịu. Gu mỗi người mỗi khác. Mari là một cô gái rất thấu hiểu và tôn trọng xu hướng tình dục của bạn bè.
+Nhưng nếu cô ta thực sự là một đứa mê shota đến mức đổ đứ đừ Momokawa như thế thì cũng đành chịu. Gu mỗi người mỗi khác. Mari vốn là cô gái rất thấu hiểu và tôn trọng sở thích của bạn bè.
 
-— Tao vẫn thực sự thích cậu Tendou. Thế nên, dù trong hoàn cảnh chỉ có mày là lựa chọn duy nhất đi nữa, tao cũng không muốn nhắm mắt chọn đại chỉ vì lý do đó.
+— Tao vẫn thích Tendou-kun. Thế nên, dù trong tình cảnh chỉ có mày là lựa chọn duy nhất đi nữa, tao cũng không muốn nhắm mắt chọn bừa chỉ vì lý do đó.
 
 — Th... Thế à...
 
-— Này, mày nghĩ sau khi thoát khỏi đây, thế giới bên ngoài sẽ như thế nào? Biết đâu con người ở thế giới đó toàn là trai xinh gái đẹp thì sao?
+— Này, mày nghĩ sau khi thoát khỏi đây, thế giới bên ngoài sẽ ra sao? Biết đâu con người ở thế giới đó toàn là trai xinh gái đẹp thì sao?
 
-— Cái gì thế, tao chưa từng nghĩ tới chuyện đó luôn.
+— Cái gì thế, tao chưa từng nghĩ tới chuyện viển vông đó luôn đấy.
 
-Nhưng đây là dị giới của kiếm và ma pháp, nơi có quái vật hoành hành. Khác với Kotarou, Mari không biết quá chi tiết, nhưng cô vẫn biết đến những thiết lập kỳ ảo nổi tiếng như Elf hay Dwarf.
+Nhưng đây là dị giới của gươm đao và ma pháp, nơi quái vật hoành hành khắp chốn. Khác với Kotarou, Mari không am hiểu quá sâu xa, nhưng cô vẫn biết đến những thiết lập kỳ ảo quen thuộc như Elf hay Dwarf.
 
-Nếu chủng tộc nổi tiếng là toàn mỹ nam mỹ nữ như Elf thực sự tồn tại... thì đúng là cô sẽ bị hút hồn mất thôi.
+Nếu chủng tộc nổi tiếng toàn mỹ nam mỹ nữ như Elf thực sự tồn tại... thì đúng là cô sẽ bị hớp hồn mất thôi.
 
-— Nếu giữa một rừng người như thế mà mày vẫn chọn tao — thì lúc đó tao sẽ cân nhắc.
+— Nếu giữa một rừng người như thế mà mày vẫn một lòng chọn tao — thì lúc đó tao sẽ cân nhắc.
 
-— Chỉ cân nhắc thôi á?
+— Chỉ dừng ở mức cân nhắc thôi á?
 
 — Dĩ nhiên rồi.
 
-Nhìn Ueta lộ rõ vẻ mặt tiếc nuối đến tội nghiệp, Mari bật cười rồi đứng dậy.
+Nhìn vẻ mặt tiu nghỉu đến tội nghiệp của Ueta, Mari bật cười rồi đứng dậy.
 
-— Vậy thì chuyện đó cứ để dành cho đến khi thoát khỏi đây nhé. Giờ thì ngoan ngoãn tuân thủ luật cấm yêu đương của Momokawa đi.
+— Vậy thì chuyện đó cứ để dành cho đến khi thoát khỏi đây nhé. Giờ thì ngoan ngoãn tuân thủ Lệnh Cấm Yêu Đương của Momokawa đi.
 
-— Xì, biết rồi. Tao sẽ không bao giờ nói mấy lời này nữa... cho đến khi thoát khỏi đây.
+— Xì, biết rồi. Tao sẽ không bao giờ mở mồm nói mấy lời này nữa... cho đến khi thoát khỏi cái hầm ngục này.
 
-Không biết Mari có nhận ra tình cảm của Ueta là nghiêm túc đến mức nào hay không, cô chỉ khẽ vẫy tay rồi bước ra khỏi phòng.
+Không rõ Mari có cảm nhận được sự nghiêm túc trong tình cảm của Ueta hay không, cô chỉ khẽ vẫy tay rồi cất bước rời khỏi phòng.
 
-— Chết tiệt, biết thế tao đã xin Momokawa thêm một chai nữa rồi.
+— Chết tiệt, biết thế tao đã nài nỉ Momokawa cho thêm một chai nữa rồi.
 
-Nhìn chiếc ly rỗng một cách đầy tiếc nuối, Ueta gục xuống bàn và quyết định ngủ một giấc cho đỡ sầu.
+Nhìn chiếc ly rỗng không với vẻ đầy tiếc nuối, Ueta gục đầu xuống bàn và quyết định đánh một giấc cho qua cơn sầu.
 
-Về phần Mari, cô không quay lại phòng mình mà đi về phía Kinako. Cô quyết định ngủ bên cạnh khối lông xù khổng lồ đang thở đều đặn kia để tận hưởng cảm giác êm ái tối đa.
+Về phần Mari, cô không quay về phòng mình mà bước thẳng về phía Kinako. Cô quyết định chui vào ngủ cạnh khối lông xù khổng lồ đang thở đều đặn kia để tận hưởng cảm giác ấm áp và êm ái tuyệt đối.
 
 ***
 
-Ở một góc khác, hai nam sinh đang trò chuyện với nhau.
+Ở một góc khác của căn cứ, hai nam sinh đang ngồi trò chuyện với nhau.
 
 — Này, Nakajima.
 
-— Có chuyện gì thế, cậu Yamada?
+— Có chuyện gì thế, Yamada-kun?
 
-Yamada Genki và Nakajima Haruma. Cả hai đều từng là nạn nhân dưới độc vuốt của 『Succubus』, nhưng vì thời điểm gia nhập tổ đội của Himeno là luân phiên nhau nên giữa hai người không hề có hiềm khích gì đặc biệt. Mối quan hệ của họ chỉ dừng lại ở mức bạn học bình thường trong lớp, và sau đó là cùng nhau sinh tồn từ khi ở Học Viện Tháp.
+Yamada Genki và Nakajima Haruma. Cả hai đều từng là nạn nhân dưới nanh vuốt của 『Succubus』, nhưng vì thời điểm gia nhập tổ đội của Himeno là luân phiên nhau nên giữa hai người không hề tồn tại khúc mắc hay hiềm khích cá nhân nào. Mối quan hệ của họ chỉ dừng lại ở mức bạn học cùng lớp, và sau đó là cùng nhau nương tựa sinh tồn từ chuỗi ngày ở Học Viện Tháp.
 
-Chính vì thế, họ có thể trò chuyện với nhau một cách thoải mái mà không cần kiêng dè.
+Chính vì thế, họ có thể đối thoại với nhau một cách thẳng thắn mà không cần giữ kẽ.
 
-Yamada vẫn giữ vẻ mặt lầm lì như mọi khi, nhưng đôi mắt lại ánh lên vẻ nghiêm túc hơn thường lệ. Cậu nhìn thẳng vào Nakajima và hỏi:
+Yamada vẫn giữ vẻ mặt lầm lì thường thấy, nhưng đáy mắt lại ánh lên vẻ nghiêm túc khác hẳn mọi ngày. Cậu nhìn thẳng vào Nakajima và hỏi:
 
-— Cậu vẫn còn thích Kenzaki à?
+— Cậu vẫn còn tơ tưởng đến Kenzaki à?
 
 — Ơ, chuyện đó...
 
-Nakajima ngập ngừng thấy rõ. Nhưng có lẽ nhận ra không cần phải giấu giếm trước mặt Yamada, cậu thành thật thú nhận:
+Nakajima thoáng ngập ngừng. Nhưng có lẽ nhận ra chẳng việc gì phải giấu giếm trước mặt Yamada, cậu thành thật cúi đầu:
 
-— Tớ thích chứ. Đối với tớ, bạn Kenzaki là người tớ luôn ngưỡng mộ.
+— Tớ thích chứ. Đối với tớ, Kenzaki-san luôn là người mà tớ ngưỡng mộ nhất.
 
-— Tớ khuyên thật lòng đấy. Hãy quên cô ta đi.
+— Tớ khuyên thật lòng đấy. Quên cô ta đi.
 
-— Chuyện đó... đâu có liên quan gì đến cậu Yamada.
+— Chuyện đó... đâu có liên can gì đến Yamada-kun.
 
-— Ở đây chẳng có ai là không liên quan đến cô ta cả. Dù một kẻ như tớ không có tư cách để nói, nhưng Kenzaki đã làm những chuyện không thể tha thứ.
+— Ở đây chẳng có ai là người ngoài cuộc đối với cô ta cả. Dù một kẻ như tớ chẳng có tư cách gì để lên mặt dạy đời, nhưng Kenzaki đã nhúng tay vào những chuyện không thể tha thứ.
 
-Khi chạy đến pháo đài đó, Yamada với bước chân chậm chạp đã chạy ở cuối hàng, nhưng cậu vẫn nhìn thấy rất rõ hành vi tàn nhẫn của Kenzaki. Cậu đã rất ngạc nhiên. Không ngờ cô ta lại làm ra chuyện như vậy.
+Khi tháo chạy đến pháo đài đó, Yamada với bước chân nặng nề đã chạy ở cuối hàng, nhưng cậu vẫn chứng kiến tận mắt hành vi tàn nhẫn của Kenzaki. Cậu đã vô cùng bàng hoàng. Không thể ngờ cô ta lại có thể ra tay như vậy.
 
-Thế nhưng, cậu cũng lập tức hiểu ra. Kenzaki đã không còn bình thường nữa rồi. Dù cô ta có làm ra chuyện đó thì cũng chẳng có gì lạ.
+Thế nhưng, cậu cũng lập tức vỡ lẽ. Kenzaki đã đánh mất sự tỉnh táo rồi. Dù cô ta có làm ra chuyện tày đình đó thì cũng chẳng có gì lạ.
 
-— Dù cậu có thích Kenzaki đi nữa, cô ta cũng chẳng mảy may quan tâm đến cậu đâu. Chỉ cần thấy cậu đi cùng Momokawa, cô ta sẵn sàng coi cậu là kẻ thù phản bội và vung kiếm chém cậu đấy.
+— Dù cậu có si mê Kenzaki đi chăng nữa, cô ta cũng chẳng thèm để mắt đến cậu đâu. Chỉ cần thấy cậu đi cùng Momokawa, cô ta sẵn sàng gán cho cậu cái mác kẻ phản bội và vung kiếm chém bay đầu cậu đấy.
 
-— Không có chuyện đó đâu! Nếu nói chuyện đàng hoàng, cô ấy chắc chắn sẽ hiểu mà. Cậu Yamada thì biết gì về cô ấy chứ?!
+— Không có chuyện đó đâu! Nếu thẳng thắn nói chuyện, cô ấy chắc chắn sẽ hiểu ra mà. Yamada-kun thì biết cái gì về cô ấy chứ?!
 
-— Tớ biết chứ. Cô ta luôn tin rằng mình đúng, và coi tất cả những ai không theo ý mình là kẻ ác. Cách đây không lâu, tớ cũng từng giống hệt như vậy.
+— Tớ biết chứ. Cô ta luôn khư khư tin rằng bản thân mình luôn đúng, và quy chụp tất cả những ai làm trái ý mình là kẻ xấu. Cách đây không lâu, tớ cũng từng là một thằng tồi tệ y hệt như thế.
 
-Sau khi hội quân với Himeno, Yamada với tư cách là kẻ mạnh nhất đã độc chiếm cơ thể của cô ta. Cậu đã nghĩ mình là số một. Cậu bị chi phối bởi cảm giác vạn năng và toàn năng.
+Sau khi hội quân cùng Himeno, Yamada với tư cách là kẻ mạnh nhất đã độc chiếm thân xác của cô ta. Cậu đã ngạo mạn nghĩ mình là số một thiên hạ. Cậu bị che mờ mắt bởi cảm giác quyền lực và toàn năng giả tạo.
 
-Đắm chìm trong khoái lạc thể xác của người phụ nữ, bắt những người đàn ông khác phải phục tùng. Đứng ở vị trí đó, liệu có bao nhiêu người đàn ông có thể giữ được lý trí? Yamada cũng chỉ là một nam sinh cấp ba bình thường mà thôi. Cậu làm sao có thể có được tấm lòng cao cả để tự kiểm điểm lại hành vi của mình.
+Đắm chìm trong nhục dục của thể xác, bắt những gã đàn ông khác phải cúi đầu phục tùng. Đứng ở vị thế đó, liệu có bao nhiêu thằng đàn ông có thể giữ trọn được lý trí? Yamada cũng chỉ là một thằng học sinh cấp ba bình thường không hơn không kém. Cậu lấy đâu ra nhân cách cao thượng để tự soi xét lại những hành vi nhơ nhuốc của mình.
 
-— Tớ đã nhận ra mình ngu ngốc đến mức nào khi Yama-Jun qua đời... Nhưng Kenzaki thì không thay đổi. Đầu tiên cô ta đẩy Momokawa, giờ lại đạp Himeno. Tội lỗi cứ chồng chất đến mức không thể quay đầu được nữa. Vì thế cô ta càng phải bướng bỉnh bám lấy cái gọi là chính nghĩa của mình để tự huyễn hoặc bản thân.
+— Tớ chỉ nhận ra mình ngu muội đến nhường nào khi Yama-Jun ngã xuống... Nhưng Kenzaki thì không bao giờ chịu thay đổi. Ban đầu cô ta xô ngã Momokawa, giờ lại thẳng chân đạp Himeno vào chỗ chết. Tội lỗi cứ thế chồng chất đến mức không còn đường quay đầu. Vì thế cô ta càng phải mù quáng bám víu lấy cái thứ gọi là chính nghĩa rởm đời để tự lừa mị chính mình.
 
-— Đừng có nói giọng dạy đời như thế chứ. Tất cả chỉ là suy nghĩ phiến diện của cậu thôi mà.
+— Đừng có nói cái giọng đạo lý đó chứ. Tất cả chỉ là góc nhìn phiến diện của cậu thôi mà.
 
-— Ừ, có lẽ vậy... Nhưng tớ chỉ muốn cậu nhớ kỹ điều này. Khi cần thiết, Kenzaki sẽ không ngần ngại chém cậu đâu. Tớ không muốn thấy ai phải chết nữa... Tớ tuyệt đối không muốn chứng kiến đồng đội của mình phải ra đi.
+— Ừ, có lẽ vậy... Nhưng tớ chỉ muốn cậu khắc cốt ghi tâm điều này. Khi cần thiết, Kenzaki sẽ không ngần ngại vung kiếm chém cậu đâu. Tớ không muốn phải nhìn thấy thêm bất cứ ai bỏ mạng nữa... Tớ tuyệt đối không muốn chứng kiến đồng đội của mình phải ra đi.
 
-Bị nói đến mức này, Nakajima cũng không thể đưa ra lời phản bác dễ dàng nào nữa.
+Bị dồn vào những lời lẽ tâm can đó, Nakajima không còn cách nào để cãi lại.
 
-Những lời của Yamada hoàn toàn là vì nghĩ cho Nakajima. Đó chỉ là lời khuyên xuất phát từ mong muốn giữ an toàn cho cậu mà thôi.
+Những lời của Yamada hoàn toàn là vì muốn tốt cho Nakajima. Đó là lời can ngăn chân thành xuất phát từ mong muốn giữ an toàn cho mạng sống của cậu mà thôi.
 
-— ...Cảm ơn cậu đã lo lắng cho tớ. Lúc đó cậu cũng đã không ngần ngại chặn con GoGame Mastera để bọn tớ chạy thoát.
+— ...Cảm ơn cậu đã lo lắng cho tớ. Lúc đó cậu cũng đã không màng tính mạng đứng ra chặn con quái vật Goma để bọn tớ chạy thoát.
 
-— Chuyện đó chẳng có ý nghĩa gì lớn lao cả. Nếu Momokawa không đến thì tất cả đã bỏ mạng rồi.
+— Chuyện đó chẳng có gì to tát cả. Nếu Momokawa không kịp thời xuất hiện thì tất cả chúng ta đã bỏ xác ở đó rồi.
 
-— Nhưng tớ không thể làm được như cậu. Tớ... yếu đuối lắm...
+— Nhưng tớ không thể làm được như cậu. Tớ... hèn nhát lắm...
 
-Cứ mãi trăn trở mà không giải quyết được gì, Nakajima cảm thấy ghét bỏ bản thân từ tận đáy lòng.
+Cứ mãi giằng xé nội tâm mà không giải quyết được gì, Nakajima cảm thấy căm ghét bản thân từ tận đáy lòng.
 
-Cậu để Himeno rơi vào tay bộ ba Jou-Chuu-Ge rồi ôm nỗi ấm ức bỏ chạy. Cuối cùng, cậu lại gặp lại Himeno và quay về mối quan hệ như cũ. Ở Học Viện Tháp, cậu chỉ chiến đấu theo những gì được sắp đặt. Và giờ đây, cậu lại được cứu bởi Momokawa, kẻ mà cậu từng mắng chửi là phản bội, và được đón nhận như một người đồng đội.
+Cậu trơ mắt nhìn Himeno rơi vào tay bộ ba Jou-Chuu-Ge rồi ôm nỗi uất ức tháo chạy. Rốt cuộc, cậu lại tái ngộ Himeno và quay trở lại cái vòng luẩn quẩn ngày trước. Ở Học Viện Tháp, cậu chỉ biết vung kiếm theo những gì người khác an bài. Và giờ đây, cậu lại được cứu mạng bởi chính Momokawa — kẻ mà cậu từng nguyền rủa là kẻ phản bội — rồi được dung nạp như một đồng đội.
 
-Một kẻ tên Nakajima Haruma, dù bị ném vào hầm ngục này và có được sức mạnh của 『Ma Pháp Kiếm Sĩ』, nhưng chưa từng tự mình quyết định bất cứ điều gì. Việc duy nhất cậu tự ý làm là bỏ chạy khỏi tổ đội của Himeno.
+Một kẻ mang tên Nakajima Haruma, dù bị ném vào hầm ngục này và sở hữu sức mạnh của 『Ma Pháp Kiếm Sĩ』, nhưng chưa một lần tự mình đưa ra quyết định. Điều duy nhất cậu tự ý làm là bỏ chạy khỏi tổ đội của Himeno.
 
-Không thể quyết định, cũng chẳng làm nên trò trống gì.
+Không dám tự quyết, cũng chẳng làm nên tích sự gì.
 
-Thế nhưng, chính vì vậy mà hình bóng của Kenzaki Asuna lại hiện lên vô cùng rực rỡ.
+Thế nhưng, chính vì sự nhu nhược ấy mà hình bóng của Kenzaki Asuna lại tỏa sáng rực rỡ đến chói lòa trong mắt cậu.
 
-Được cô ấy dạy kiếm thuật, được cô ấy khen ngợi là đã làm tốt, đối với cậu đó là niềm vui lớn lao hơn tất cả.
+Được cô ấy chỉ dạy kiếm thuật, được cô ấy buông lời ngợi khen khi làm tốt, đối với cậu đó là niềm vinh hạnh lớn lao hơn bất cứ thứ gì trên đời.
 
-Dáng vẻ hiên ngang, xinh đẹp và lẫm liệt. Chỉ riêng việc một người phụ nữ như thế công nhận một kẻ như cậu đã đủ khiến cậu cảm thấy sướng phát điên.
+Dáng vẻ hiên ngang, sắc sảo và lẫm liệt. Chỉ riêng việc một người con gái xuất chúng như thế chịu công nhận một kẻ bất tài như cậu đã đủ khiến cậu sướng đến run người.
 
-Đến mức ngay cả những khoái lạc thể xác với Himeno cũng chẳng còn chút sức hút nào nữa.
+Đến mức ngay cả những hoan lạc thể xác với Himeno cũng chẳng còn chút sức hút nào nữa.
 
-— Nakajima, cậu đã làm rất tốt rồi. Nếu thiếu đi bất kỳ ai trong chúng ta, cả nhóm đã không thể sống sót đến tận đây.
+— Nakajima, cậu đã làm rất tốt rồi. Nếu thiếu đi bất kỳ ai trong chúng ta, cả nhóm đã chẳng thể sống sót đến tận ngày hôm nay.
 
-— Cậu Yamada đã thông suốt rồi thì tốt. Nhưng tớ thì không thể quên được bạn Kenzaki, và tớ cũng biết mình không có cách nào để cứu cô ấy, cũng chẳng có sức hút hay thực lực để khiến cô ấy hướng về phía mình.
+— Yamada-kun thông suốt được thì tốt rồi. Nhưng tớ thì không thể nào gạt bỏ hình bóng của Kenzaki-san ra khỏi đầu, và tớ cũng tự biết mình chẳng có cách nào cứu được cô ấy, cũng chẳng có chút mị lực hay thực lực nào để khiến cô ấy đoái hoài đến mình.
 
-— Này, đừng có suy nghĩ nhiều quá. Bây giờ hãy tập trung vào trận chiến, vào việc sống sót của chúng ta đi. Cậu đã nghe kế hoạch của Momokawa rồi đúng không?
+— Này, đừng có vẩn vơ nghĩ ngợi nhiều quá. Lúc này hãy dồn toàn tâm toàn ý vào trận chiến, vào việc bảo toàn mạng sống của chúng ta đi. Cậu đã nắm rõ kế hoạch của Momokawa rồi đúng không?
 
 — Ừm...
 
-— Vậy thì chúng ta chỉ còn cách thực hiện nó thôi. Thực tế, đó là con đường duy nhất để tất cả chúng ta có thể sống sót trở về.
+— Vậy thì chúng ta chỉ còn cách dốc toàn lực thực hiện nó thôi. Trên thực tế, đó là con đường sống duy nhất để tất cả chúng ta có thể trở về an toàn.
 
-— Ừ, đúng vậy nhỉ...
+— Ừ, đúng là như vậy...
 
-— Chuyện của Kenzaki cứ để sau khi mọi chuyện được giải quyết êm đẹp rồi tính tiếp. Nếu không thoát khỏi hoàn cảnh này thì làm gì có chuyện yêu đương gì nữa.
+— Chuyện của Kenzaki cứ để sau khi giải quyết êm đẹp mọi chuyện rồi tính tiếp. Nếu cái mạng này còn không giữ nổi thì nói gì đến chuyện yêu với đương.
 
-— ...Cậu Yamada, cậu thực sự nghĩ cậu Momokawa sẽ để bạn Kenzaki sống sót sao?
+— ...Yamada-kun, cậu thực sự nghĩ là Momokawa-kun sẽ để cho Kenzaki-san sống sót sao?
 
-— Hãy tin tưởng cậu ta. Momokawa chưa từng chà đạp lên cảm xúc của bạn học lần nào cả.
+— Hãy tin tưởng cậu ta. Momokawa chưa từng chà đạp lên cảm xúc của bạn học lấy một lần nào cả.
 
-Yamada đã hạ quyết tâm. Cậu tin tưởng Momokawa Kotarou.
+Yamada đã hạ quyết tâm sắt đá. Cậu đặt trọn niềm tin vào Momokawa Kotarou.
 
-Lần tới, ngay cả khi bị đầu độc, cậu cũng sẽ cam lòng ngã xuống. Nếu đó là phương án tốt nhất mà Kotarou tin tưởng và thực hiện, cậu sẵn sàng hy sinh vì nó.
+Lần tới, ngay cả khi lại bị trúng độc, cậu cũng sẽ cam lòng ngã xuống. Nếu đó là phương án tối ưu nhất mà Kotarou vạch ra và thực hiện, cậu sẵn sàng hy sinh vì nó.
 
-Thế nhưng, đối với Nakajima, việc có được quyết tâm đến mức đó là điều hoàn toàn bất khả thi—
+Thế nhưng, đối với Nakajima, việc đạt đến sự giác ngộ như thế là điều hoàn toàn bất khả thi—
 
 — Aaa, Haruma, cậu ở đây à~!
 
-Một giọng nói lanh lảnh, ngọt xớt và vô tư vang lên, phá tan bầu không khí trầm mặc.
+Một giọng nói lanh lảnh, ngọt xớt và vô tư lự vang lên, xé tan bầu không khí trầm mặc.
 
-— Ối, bạn Himeno.
+— Ối, Himeno-san.
 
-— Gì thế này, hai người vẫn chưa ngủ à?
+— Gì thế này, hai người vẫn chưa chịu đi ngủ à?
 
-— Tớ hơi say một chút nên ra đây hóng gió cho tỉnh táo thôi mà~
+— Tớ hơi chếnh choáng một chút nên ra đây hóng gió cho tỉnh táo thôi mà~
 
-Vừa nói, Himeno vừa nhanh nhảu ngồi xuống sát sạt bên cạnh Nakajima.
+Vừa nũng nịu nói, Himeno vừa nhanh nhảu ngồi sà xuống sát rạt bên cạnh Nakajima.
 
-Nakajima theo phản xạ định nhấc mông né ra xa, nhưng cánh tay đã bị Himeno ôm chặt lấy, mọi nỗ lực đều trở nên vô ích.
+Nakajima theo phản xạ định nhích người né ra xa, nhưng cánh tay đã bị Himeno ôm ghì lấy, mọi sự kháng cự đều trở nên công cốc.
 
 — Này, tớ đi ngủ trước đây... Himeno, trông chừng Nakajima giùm nhé.
 
-— Ừm, cảm ơn cậu nhé Yamada. Chúc ngủ ngon~
+— Ừm, cảm ơn cậu nha Yamada-kun. Chúc ngủ ngon~
 
-— Ơ, kìa, cậu Yamada?! Cậu bỏ mặc tớ à!
+— Ơ, kìa, Yamada-kun?! Cậu nỡ bỏ mặc tớ à!
 
-— Ngày mai sẽ vất vả lắm đấy, hai người cũng vừa phải thôi nhé.
+— Ngày mai sẽ cam go lắm đấy, hai người liệu mà chừng mực thôi nhé.
 
-— Kìa, chúng ta là bạn mà?!
+— Kìa, chúng ta là bạn bè cơ mà?!
 
-Như thể không nghe thấy tiếng khóc ròng của Nakajima, Yamada chỉ để lại một câu “Chào nhé” rồi bước đi.
+Như thể không nghe thấy tiếng khóc thầm của Nakajima, Yamada chỉ buông lại một câu “Gặp lại sau” rồi cất bước rời đi.
 
-Sau khi bước ra khỏi phòng, Yamada khẽ lẩm nhẩm một mình.
+Sau khi bước ra khỏi phòng, Yamada khẽ lẩm bẩm trong miệng:
 
-— Bạn của tớ... chỉ có Yama-Jun mà thôi... Chỉ có mỗi cậu ấy thôi...
+— Bạn của tớ... chỉ có duy nhất Yama-Jun mà thôi... Chỉ có mỗi cậu ấy...
 
-Bước những bước chân nặng nề qua hành lang tối tăm để về phòng mình, Yamada bỗng khựng lại.
+Lặng lẽ rảo những bước chân nặng nề qua hành lang tối tăm để trở về phòng nghỉ, Yamada bỗng khựng người lại.
 
-— Hí hí, từ đây trở đi cấm đi qua nhé.
+— Hí hí, từ đây trở đi là khu vực cấm qua lại nhé.
 
-— ...Hayama? Cậu đang làm cái trò gì ở đây thế hả?
+— ...Hayama? Cậu đang làm cái trò mèo gì ở đây thế hả?
 
-Hayama Ritsuki xuất hiện, hai tay dang rộng chắn ngang lối đi một cách đầy giả tạo.
+Hayama Ritsuki bất thình lình xuất hiện, hai tay dang rộng chắn ngang lối đi một cách đầy kiểu cách.
 
-Dưới chân cậu ta, Beniwo và Koyuki đang nằm cuộn tròn bên cạnh. Có vẻ như Kinako đã đi ngủ rồi.
+Dưới chân cậu ta, Beniwo và Koyuki đang nằm cuộn tròn một góc. Có vẻ như Kinako đã say giấc nồng rồi.
 
-— Xin lỗi nhé, nhưng đêm nay đừng đi qua lối này.
+— Xin lỗi nhé, nhưng đêm nay miễn đi qua lối này.
 
-Tớ đã chuẩn bị sẵn chỗ ngủ bên kia rồi, Hayama vừa nói vừa chỉ tay về hướng khác.
+Tớ đã chuẩn bị sẵn chỗ ngủ bên kia cho cậu rồi, Hayama vừa phân trần vừa chỉ tay về hướng ngược lại.
 
-— Mà, sao cũng được. Nhưng chuyện này là thế nào?
+— Mà, sao cũng được. Nhưng rốt cuộc chuyện này là thế nào?
 
-— À, đêm nay là trận chiến quyết định của Randou mà. Tớ chỉ đang tinh tế giúp cậu ấy không bị làm phiền thôi.
+— À, đêm nay là trận quyết chiến của Randou-san mà. Tớ chỉ đang tinh tế giúp cậu ấy không bị ai quấy rầy thôi.
 
 — Thật là, cái lũ này...
 
-Yamada thở dài một hơi đầy ngán ngẩm.
+Yamada thở dài một hơi đầy ngao ngán.
 
-Cậu biết Ueta đã rủ Yoshizaki. Cậu cũng vừa chứng kiến Himeno bám lấy Nakajima ngay trước mắt.
+Cậu biết Ueta đã rủ rê Yoshizaki. Cậu cũng vừa chứng kiến Himeno bám riết lấy Nakajima ngay trước mắt.
 
-Thế nhưng, cậu không ngờ ngay cả Randou cũng hành động để nhắm vào Momokawa.
+Thế nhưng, cậu thực sự không ngờ ngay cả Randou cũng chủ động ra tay để nhắm vào Momokawa.
 
-Nhưng nghĩ lại thì, tình cảm của cô ấy cũng là thật. Trước một trận chiến lớn ngang ngửa với trận thảo phạt Yamata no Orochi, việc cô ấy muốn làm chuyện đó cũng là điều dễ hiểu.
+Nhưng ngẫm lại thì, tâm ý của cô ấy cũng là chân thành. Đứng trước một trận đại chiến khốc liệt không kém gì trận thảo phạt Yamata no Orochi, việc cô ấy muốn bộc lộ tình cảm cũng là điều dễ hiểu.
 
-Dù sao thì Randou Kyouko cũng là người duy nhất tin tưởng và đi theo Momokawa ngay giữa tâm bão của sự nghi ngờ đầu độc. Tình cảm đó, quyết tâm đó, chắc chắn là thật lòng.
+Dẫu sao thì Randou Kyouko cũng là người duy nhất tin tưởng và kề vai sát cánh cùng Momokawa ngay giữa tâm bão nghi kỵ hạ độc. Tình cảm đó, quyết tâm sắt đá đó, chắc chắn xuất phát từ tận đáy lòng.
 
-— Thật là hết cách với các cậu mà.
+— Thật là hết nói nổi các cậu mà.
 
-— Xin lỗi nhé, Yamada. Để tạ lỗi, đêm nay cậu có thể ôm Koyuki ngủ cũng được đấy.
+— Xin lỗi nhé, Yamada. Để tạ lỗi, đêm nay cậu được đặc cách ôm Koyuki ngủ đấy.
 
-*Ngoà~* Rerite đưa chú mèo con báo tuyết đang kêu một tiếng ngái ngủ ra trước mặt Yamada.
+*Ngoà~* Rerite đưa chú báo tuyết nhỏ đang cất tiếng kêu ngái ngủ ra trước mặt Yamada.
 
 — ...Thật tình, hết cách với cậu luôn.
 
-Dù nói vậy, nhưng khóe môi Yamada vẫn giãn ra. Cậu bế chú mèo con đáng yêu vào lòng rồi bước về phía giường ngủ của mình.`
+Dù cằn nhằn như vậy, nhưng khóe môi Yamada vẫn khẽ giãn ra thành một nụ cười nhẹ. Cậu đón lấy chú thú nhỏ đáng yêu vào lòng rồi rảo bước về phía giường ngủ của mình.`
             },
             {
                 "id": "ep_308",
@@ -51553,39 +51553,39 @@ Dù nói vậy, nhưng khóe môi Yamada vẫn giãn ra. Cậu bế chú mèo co
 
 “K-Khoan, chờ chút đã... Bình tĩnh đi, đừng có làm chuyện dại dột chứ...”
 
-Miệng tôi thì lắp bắp những lời cứ như thể đang bị ai đó kề dao vào cổ, nhưng thực tế, tôi quả thực đang rơi vào một tình thế ngàn cân treo sợi tóc.
+Miệng tôi lắp bắp những lời cứ như thể đang bị ai đó kề dao vào cổ, nhưng thực tế thì tôi quả thực đang rơi vào một tình thế ngàn cân treo sợi tóc.
 
 “Đúng là lúc này tim tớ đang đập thình thịch, cũng có phần là do kích động nữa... nhưng tớ không hối hận đâu.”
 
-Kyouko nói với vẻ ngượng ngùng hơn mọi khi, nhưng bộ dạng của cô ấy lúc này thì không thể chỉ dùng hai chữ “ngượng ngùng” mà tả hết được.
+Kyouko nói với vẻ ngượng ngùng hơn mọi khi, nhưng bộ dạng của cô ấy lúc này thì chẳng thể nào chỉ dùng hai chữ “ngượng ngùng” mà lột tả hết được.
 
 Kyouko hiện tại đang cởi đồ.
 
-Không phải là khỏa thân hoàn toàn. Thế nhưng, cô ấy đang khoác trên mình bộ đồ lót hai mảnh họa tiết báo tuyết ôm sát, phô diễn những đường cong vô cùng táo bạo.
+Không phải là khỏa thân hoàn toàn. Thế nhưng, cô ấy đang khoác trên mình bộ đồ lót hai mảnh mang họa tiết báo tuyết ôm sát, phô diễn trọn vẹn những đường cong vô cùng táo bạo.
 
-Làn da nâu khỏe khoắn, gợi cảm càng làm nổi bật lớp vải hoa văn đen trắng chỉ vừa đủ che đi những vùng nhạy cảm. Trang bị kiểu gì thế này, trông còn kích thích hơn cả khỏa thân nữa.
+Làn da nâu khỏe khoắn, gợi cảm càng làm nổi bật lớp vải hoa văn đen trắng chỉ vừa vặn che đi những vùng nhạy cảm nhất. Trang bị kiểu quái gì thế này, trông còn kích thích hơn cả khỏa thân nữa chứ.
 
-Tôi thầm hối hận từ tận đáy lòng vì đã lỡ thiết kế bộ đồ lót này theo phong cách gợi cảm, hở hang như vậy. Ai mà ngờ được trang bị dồn hết điểm vào sức tấn công này lại có ngày chĩa thẳng vào chính mình cơ chứ...
+Tôi thầm hối hận từ tận đáy lòng vì đã lỡ thiết kế bộ đồ lót này theo phong cách khêu gợi, thiếu vải đến vậy. Ai mà ngờ được món trang bị dồn toàn bộ điểm thuộc tính vào sức tấn công này lại có ngày chĩa thẳng mũi dùi vào chính bản thân tôi cơ chứ...
 
-“T-Tớ nghĩ trên đời này có những chuyện có thể làm lúc kích động, và cũng có những chuyện tuyệt đối không nên đâu.”
+“T-Tớ nghĩ trên đời này có những chuyện có thể làm trong lúc kích động, nhưng cũng có những chuyện tuyệt đối không nên đâu.”
 
 “Mấy chuyện thế này, không kích động thì sao mà làm nổi chứ.”
 
-Tôi hiểu. Tôi hiểu rất rõ là đằng khác, nhưng lúc này thì thực sự gay go rồi đây.
+Tôi hiểu. Tôi hiểu rất rõ là đằng khác, nhưng lúc này thì thực sự gay go to rồi đây.
 
-Tại sao mọi chuyện lại thành ra thế này? Nói vậy thôi chứ đây cũng chẳng phải là một hành động quá đỗi bất ngờ hay nằm ngoài dự tính.
+Tại sao mọi chuyện lại thành ra nông nỗi này? Nói vậy thôi chứ đây cũng chẳng phải là hành động quá đỗi bất ngờ hay hoàn toàn nằm ngoài dự tính.
 
 Đêm nay là đêm trước trận quyết chiến một mất một còn với Vương quốc Goma. Đây chính là cơ hội cuối cùng để giải tỏa mọi vướng bận trong lòng.
 
 Sau khi dùng bữa tối cùng mọi người, tôi kiểm tra qua loa công tác chuẩn bị cho ngày mai rồi trở về phòng riêng.
 
-Vừa mở cửa bước vào, tôi đã thấy Kyouko ở đó. Có vẻ cô ấy đã đợi tôi từ trước.
+Vừa mở cửa bước vào, tôi đã thấy Kyouko ở đó. Có vẻ như cô ấy đã đợi tôi từ trước.
 
-*Đêm trước quyết chiến, được cùng cô ấy trò chuyện tâm tình thế này thì thật tuyệt biết bao*, tôi vừa mới nghĩ bụng như thế thì Kyouko đã cởi đồ.
+*Đêm trước quyết chiến, được cùng cô ấy trò chuyện tâm tình thế này thì thật tuyệt biết bao*, tôi vừa mới nghĩ bụng như thế thì Kyouko đã bắt đầu cởi đồ.
 
 Tốc độ cởi đồ nhanh nhẹn và dứt khoát đến mức tôi còn chưa kịp mở miệng ngăn lại. Nhìn bộ đồng phục thủy thủ quen thuộc tuột xuống ngay trước mắt, tôi lập tức có cảm giác như mình đang mất đi nhận thức về thực tại. Cứ như thể tôi vừa dính phải bẫy ảo ảnh của gã mây mù nào đó vậy.
 
-Và thế là, đối mặt với một Kyouko trong bộ đồ lót báo tuyết đã sẵn sàng cho trận chiến đêm, tôi của hiện tại chỉ biết van xin tha mạng trong sự bối rối đến thảm hại.
+Và thế là, đối mặt với một Kyouko trong bộ đồ lót báo tuyết đã sẵn sàng nghênh chiến cho trận chiến đêm, tôi của hiện tại chỉ biết van xin tha mạng trong sự bối rối đến thảm hại.
 
 “Cậu hiểu tâm ý của tớ mà, đúng không?”
 
@@ -51597,23 +51597,23 @@ Tôi tự nhận là mình hiểu. Hiểu rằng Kyouko dành cho tôi nhiều t
 
 “Vậy thì, cậu cũng hiểu cho nỗi lòng của tớ chứ?”
 
-Tôi biết cách nói này có hơi hèn hạ. Nhưng sự thật là tôi đang bị dồn vào đường cùng đến mức không còn lựa chọn nào khác. Ngay từ đầu, tôi đâu phải là một đứa trẻ thẳng thắn, thành thật hay ngoan ngoãn gì cho cam. Tôi vốn là một 『Chú thuật sư』 chuyên dùng những thủ đoạn hèn hạ, luồn lách để đánh úp sau lưng đối thủ mà.
+Tôi biết cách nói này có hơi hèn hạ. Nhưng sự thật là tôi đang bị dồn vào chân tường đến mức chẳng còn lựa chọn nào khác. Ngay từ đầu, tôi đâu phải là một đứa trẻ thẳng thắn, thành thật hay ngoan ngoãn gì cho cam. Tôi vốn là một 『Chú thuật sư』 chuyên dùng những thủ đoạn hèn hạ, luồn lách để đánh úp sau lưng đối thủ mà.
 
 “Bây giờ... bây giờ vẫn chưa phải lúc để chúng ta làm chuyện này.”
 
 “Cậu ghét làm chuyện đó với tớ đến thế sao?”
 
-“Tớ thậm chí còn muốn cúi đầu cầu xin cậu ấy chứ, nhưng bây giờ thì không được. Nếu làm vậy, tớ chắc chắn sẽ không thể quay đầu lại được nữa... Tôi yếu đuối và chật vật hơn Kyouko nghĩ nhiều, tớ đang ở ngay sát giới hạn của mình rồi.”
+“Tớ thậm chí còn muốn cúi đầu cầu xin cậu ấy chứ, nhưng bây giờ thì không được. Nếu làm vậy, tớ chắc chắn sẽ không thể quay đầu lại được nữa... Tớ yếu đuối và chật vật hơn Kyouko nghĩ nhiều, tớ đang ở ngay sát giới hạn rồi.”
 
 Từ lúc nào không hay, tôi đã không còn than vãn hay tỏ ra yếu đuối trước mặt người khác nữa.
 
-*Nếu người chỉ huy tỏ ra bất an, sự lo lắng đó sẽ lập tức lây lan sang thuộc hạ và làm giảm sút sĩ khí.* Tôi từng nghe qua lý thuyết đó, nhưng không phải vì thế mà tôi cố tình gồng mình lên để thực hiện. Chỉ là tự nhiên tôi lại trở nên như vậy.
+*Nếu người chỉ huy tỏ ra bất an, sự lo lắng đó sẽ lập tức lây lan sang thuộc hạ và làm giảm sút sĩ khí.* Tôi từng nghe qua lý thuyết đó, nhưng không phải vì thế mà tôi cố tình gồng mình lên để làm theo. Chỉ là tự nhiên tôi lại trở nên như vậy.
 
-Có lẽ, việc đứng trên đỉnh ngọn giáo để dẫn dắt mọi người chính là như thế.
+Có lẽ, việc đứng nơi đầu sóng ngọn gió để dẫn dắt mọi người chính là như thế.
 
 “Chính vì vậy đấy. Kotarou đã phải gánh vác quá nhiều thứ rồi, nên ít nhất hãy để tớ giúp cậu san sẻ một chút đi chứ. Nếu cậu nhìn tớ bằng ánh mắt thèm khát như vậy, tớ muốn cậu được làm những gì mình thích.”
 
-*Hộc*, cảm giác như muốn hộc máu mồm là thế này đây... Kyouko không hề nói về chuyện hẹn hò hay không hẹn hò ở giai đoạn này. Cô ấy thấy tôi đang phải gồng mình cố gắng, nên mới quyết định dùng cơ thể của mình để an ủi tôi. Cô ấy đã hạ quyết tâm đến mức đó rồi sao.
+*Hộc*, cảm giác như muốn hộc máu mồm là thế này đây... Kyouko không hề nói về chuyện hẹn hò hay không hẹn hò ở giai đoạn này. Cô ấy thấy tôi đang phải gồng mình chịu đựng, nên mới quyết định dùng chính cơ thể của mình để an ủi tôi. Cô ấy đã hạ quyết tâm đến mức đó rồi sao.
 
 Nhưng không được. Nếu buông xuôi lúc này, tôi thực sự có thể sẽ vứt bỏ tất cả mà chạy trốn mất. Chỉ riêng điểm này là tôi hoàn toàn không có chút tự tin nào vào bản thân. Sức quyến rũ của Kyouko có thừa khả năng khiến tôi vứt bỏ cả quyết tâm cứu mạng mọi người.
 
@@ -51623,9 +51623,9 @@ Nhưng không được. Nếu buông xuôi lúc này, tôi thực sự có thể
 
 Xin lỗi nhé, vì tớ chỉ có thể vạch ra một kế hoạch khiến cậu phải bất an đến mức đó. Nếu chiến cục dễ dàng đến mức tỷ lệ thành công là 100%, chắc chắn thắng và không có lý do gì để thua thì tốt biết mấy. Nhưng với thực lực hiện tại của chúng tôi, kiểu gì cũng sẽ có những lúc phải đánh cược một mất một còn.
 
-Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự gắn kết giữa các thành viên cũng vô cùng vững chắc. Dù vậy, chiến thắng vẫn là điều không thể nói trước.
+Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự gắn kết giữa các thành viên cũng vô cùng vững chắc. Dù vậy, chiến thắng vẫn là điều chưa thể nói trước.
 
-Đây là một chiến dịch nguy hiểm đến mức nếu có ai đó sợ hãi mà bỏ trốn ngay trước giờ G thì cũng là điều dễ hiểu.
+Đây là một chiến dịch nguy hiểm đến mức nếu có ai đó sợ hãi mà bỏ trốn ngay trước giờ G thì cũng là điều hoàn toàn dễ hiểu.
 
 “Với tớ, chỉ cần những lời đó của cậu là quá đủ rồi. Hơn nữa, bị cậu dồn vào thế này, tớ vừa vui vừa kích thích đến mức không thể suy nghĩ tỉnh táo được nữa. Nếu đi quá giới hạn, tớ sẽ không thể đưa ra những quyết định sáng suốt được nữa đâu.”
 
@@ -51635,7 +51635,7 @@ Chúng tôi đã chuẩn bị kỹ lưỡng. Đã diễn tập thực tế. Sự
 
 Thế nên thế này là được rồi. Đến đây thôi là đủ rồi.
 
-Chỉ cần cô ấy biết rằng, kẻ đang làm bộ làm tịch làm thủ lĩnh như tôi thực chất đang gồng mình đến nghẹt thở, không hề có chút tự tin hay thong dong nào, thế là đủ. Đó là điều mà ngay cả Mei, người luôn tin tưởng tôi từ tận đáy lòng, cũng không hề biết.
+Chỉ cần cô ấy biết rằng, kẻ đang làm bộ làm tịch làm thủ lĩnh như tôi thực chất đang gồng mình đến nghẹt thở, chẳng hề có chút tự tin hay thong dong nào, thế là đủ. Đó là điều mà ngay cả Mei-chan, người luôn tin tưởng tôi từ tận đáy lòng, cũng không hề hay biết.
 
 Chỉ cần một mình Kyouko biết được sự yếu đuối của tôi, thế là quá đủ rồi.
 
@@ -51643,7 +51643,7 @@ Chỉ cần một mình Kyouko biết được sự yếu đuối của tôi, th
 
 “Hầy... Tớ không ngờ là mình lại bị từ chối phũ phàng đến mức này đấy.”
 
-Cuối cùng cô ấy cũng chịu bỏ cuộc sao? Hay là cô ấy đang ngán ngẩm trước một kẻ dâng mỡ đến miệng mèo mà không chịu ăn như tôi? Kyouko thở dài một hơi thật lớn.
+Cuối cùng cô ấy cũng chịu bỏ cuộc sao? Hay là cô ấy đang ngán ngẩm trước một kẻ dâng mỡ đến miệng mèo mà không chịu ăn như tôi? Kyouko thở dài một hơi thật thượt.
 
 “Tớ cũng đã phải hạ quyết tâm dữ dội lắm mới dám đến đây đấy nhé.”
 
@@ -51653,7 +51653,7 @@ Và rồi, từ đôi mắt quyến rũ như mắt mèo ấy, một giọt nư�
 
 Tôi buột miệng nói lời xin lỗi theo phản xạ, nhưng bản thân tôi lấy tư cách gì mà xin lỗi cơ chứ?
 
-Không có đủ dũng khí để nhìn thẳng vào gương mặt sắp khóc của Kyouko, tôi ngượng ngùng đánh mắt sang hướng khác rồi cúi đầu xuống———— và ngay khoảnh khắc tiếp theo, toàn thân tôi đã bị bao bọc bởi một sự ấm áp và mềm mại đầy đê mê.
+Không có đủ dũng khí để nhìn thẳng vào gương mặt rơm rớm nước mắt của Kyouko, tôi ngượng ngùng đánh mắt sang hướng khác rồi cúi đầu xuống———— và ngay khoảnh khắc tiếp theo, toàn thân tôi đã bị bao bọc bởi một sự ấm áp và mềm mại đầy mê đắm.
 
 “Hì, bắt được cậu rồi nhé.”
 
@@ -51661,15 +51661,15 @@ Không có đủ dũng khí để nhìn thẳng vào gương mặt sắp khóc c
 
 Trong một khoảnh khắc, đầu óc tôi hoàn toàn trống rỗng.
 
-Bị bắt rồi. Cơ thể không thể cử động được. Tôi đang bị Kyouko ôm chặt lấy!
+Bị tóm rồi. Cơ thể không thể cử động được. Tôi đang bị Kyouko ôm chặt lấy!
 
 “Hơ, a...”
 
 Tôi định nói gì đó nhưng chỉ có những âm thanh thảm hại phát ra từ cổ họng.
 
-Biết sao được đây, cảm giác tiếp xúc trên toàn cơ thể này quá đỗi quyến rũ và kích thích. Kyouko trong bộ đồ lót hai mảnh mỏng manh lúc này chẳng khác nào đang khỏa thân. Làn da nâu mịn màng trực tiếp truyền hơi ấm sang cơ thể tôi.
+Biết sao được đây, cảm giác tiếp xúc da thịt trên toàn cơ thể này quá đỗi quyến rũ và kích thích. Kyouko trong bộ đồ lót hai mảnh mỏng manh lúc này chẳng khác nào đang khỏa thân. Làn da nâu mịn màng trực tiếp truyền hơi ấm sang cơ thể tôi.
 
-Đòn tấn công trực diện đầy nhiệt liệt này đang nhanh chóng bào mòn thanh máu của tôi. Dừng lại đi, lý trí của tôi sắp về con số không rồi———— Khoan đã, thế này là nguy to rồi!
+Đòn tấn công trực diện đầy mãnh liệt này đang nhanh chóng bào mòn thanh máu của tôi. Dừng lại đi, lý trí của tôi sắp về con số không rồi———— Khoan đã, thế này là nguy to rồi!
 
 Tôi vốn đã thấp bé, giờ lại bị Kyouko với vóc dáng cao ráo ôm chặt từ chính diện, khiến mặt tôi lọt thỏm ngay trước ngực cô ấy. Bị kẹp giữa hai bầu ngực căng tròn nóng bỏng, tôi chỉ biết ngước nhìn khuôn mặt cô ấy từ khe ngực đầy quyến rũ.
 
@@ -51679,25 +51679,25 @@ Một ác ma đang mỉm cười. Không, thế này thì hoàn toàn là một 
 
 Gương mặt vẫn còn vương chút lệ của cô ấy giờ đang nở một nụ cười đầy mê hoặc.
 
-Bị lừa rồi. Tôi đã bị lừa một cách quá dễ dàng. Bởi nước mắt của con người con gái.
+Bị lừa rồi. Tôi đã bị sập bẫy một cách quá dễ dàng. Bởi chính giọt nước mắt của người con gái.
 
-Tôi vốn chẳng mảy may lay động trước nước mắt của Reina hay Kotori, vậy mà lại dễ dàng sập bẫy trước những giọt nước mắt của Kyouko đến thế. Thật là sơ hở. Thật là nông nổi.
+Tôi vốn chẳng mảy may lay động trước nước mắt của Reina hay Kotori, vậy mà lại dễ dàng gục ngã trước những giọt nước mắt của Kyouko đến thế. Thật là sơ hở. Thật là nông nổi.
 
-Có hối hận thì bây giờ cũng đã quá muộn. Thế cờ này tôi đã hoàn toàn thua trắng. Cụ thể là chỉ chưa đầy 10 giây nữa, lý trí của tôi sẽ chính thức bay màu.
+Có hối hận thì bây giờ cũng đã quá muộn. Thế cờ này tôi đã hoàn toàn thua trắng. Cụ thể là chỉ chưa đầy mười giây nữa, lý trí của tôi sẽ chính thức bay màu.
 
 “Không sao đâu, cứ giao cho tớ. Chuyện này... tuy là lần đầu tiên của tớ, nhưng chắc rồi cũng sẽ ổn thôi.”
 
-A, đây chính là cảm giác khi bị dính 『Ma Nhãn Mê Hoặc』 sao? Được một dâm quỷ nhìn bằng ánh mắt vừa quyến rũ vừa có chút ngượng ngùng như thế, tôi quả thực không thể kháng cự nổi. Không, tay chân tôi đang định tá máy đây này, nhưng không được, không phải thế!
+A, đây chính là cảm giác khi bị dính 『Ma Nhãn Mê Hoặc』 sao? Được một dâm quỷ nhìn bằng ánh mắt vừa quyến rũ vừa có chút ngượng ngùng như thế, tôi quả thực không tài nào kháng cự nổi. Không, tay chân tôi đang định tá máy đây này, nhưng không được, không phải thế!
 
-Đếm ngược đến khi lý trí tiêu biến: còn khoảng 5 giây.
+Đếm ngược đến khi lý trí tiêu biến: còn khoảng năm giây.
 
-Trong khoảng thời gian ngắn ngủi cuối cùng này, tôi phải... phải dùng biện pháp gì đó, nếu không tôi sẽ bị cuốn đi và chính thức tổ chức lễ tốt nghiệp đời trai tân mất. Phải làm sao đây, Momokawa Kotarou!?
+Trong khoảng thời gian ngắn ngủi cuối cùng này, tôi phải... phải dùng biện pháp gì đó, nếu không tôi sẽ bị cuốn trôi và chính thức tổ chức lễ tốt nghiệp đời trai tân mất. Phải làm sao đây, Momokawa Kotarou!?
 
-1: Momokawa Kotarou thông minh đột nhiên nảy ra một ý tưởng lật ngược thế cờ.
-2: Nữ thần Ruinhilde vĩ đại hiển linh ban phát phép màu.
-3: Dục vọng là tiếng nói chân thật nhất.
+1: Momokawa Kotarou thông minh đột nhiên nảy ra một ý tưởng lật ngược thế cờ.  
+2: Nữ thần Ruinhilde vĩ đại hiển linh ban phát phép màu.  
+3: Dục vọng là tiếng nói chân thật nhất.  
 
-Còn 2 giây. Dù đang vùi mặt vào bộ ngực căng đầy của Kyouko, tôi vẫn phải đưa ra lựa chọn định mệnh.
+Còn hai giây. Dù đang vùi mặt vào bộ ngực căng tràn của Kyouko, tôi vẫn phải đưa ra lựa chọn định mệnh.
 
 “R-Rem ơi...”
 
@@ -51707,11 +51707,11 @@ Từ ngoài cửa, Rem trong hình dạng bé gái tóc bạc khẽ ló đầu v
 
 Đúng vậy, khi trở về phòng, tôi luôn dẫn theo Rem. Vì cơ bản là đêm nào chúng tôi cũng ngủ chung giường mà.
 
-Và khi thấy Kyouko ở trong phòng, Rem đã tự động biết ý mà lặng lẽ rút lui. Em ấy vẫn luôn túc trực ngay bên ngoài phòng.
+Và khi thấy Kyouko ở trong phòng, Rem đã tự động biết ý mà lặng lẽ rút lui. Em ấy vẫn luôn túc trực ngay bên ngoài cửa.
 
 Có lẽ, nếu tôi đầu hàng trước dục vọng ở lựa chọn thứ 3 và chọn một kết cục tàn nhẫn, Rem sẽ lập tức chuyển chức thành lính gác cổng để ngăn không cho bất kỳ kẻ phá đám nào bước vào.
 
-Thế nhưng, vào khoảnh khắc cuối cùng, lựa chọn của tôi vẫn là số 1. 『Chú thuật sư』 Momokawa Kotarou này, ngay từ trận chiến đầu tiên với Gấu Thiết Giáp, đã không ít lần vượt qua những tình cảnh hiểm nghèo rồi!
+Thế nhưng, vào khoảnh khắc cuối cùng, lựa chọn của tôi vẫn là số 1. 『Chú thuật sư』 Momokawa Kotarou này, ngay từ trận chiến đầu tiên với Gấu Thiết Giáp, đã không ít lần vượt qua những tình cảnh nghìn cân treo sợi tóc rồi!
 
 Để thoát khỏi tình thế tiến thoái lưỡng nan đầy kích thích này, tôi triệu hồi Rem như một đòn phản công quyết định. Sự xuất hiện của kẻ thứ ba sẽ hoàn toàn phá vỡ bầu không khí ám muội này!
 
@@ -51725,7 +51725,7 @@ Dù vậy, lúc này tớ vẫn chưa thể chìm đắm vào cơ thể của c�
 
 “Ủa, ngủ chung á? Cả ba người?”
 
-“Này, đừng có làm tớ phải xấu hổ tư cách con gái thêm nữa chứ. Ít nhất cũng phải cho tớ ngủ cùng giường.”
+“Này, đừng có làm tớ phải xấu hổ cho tư cách con gái thêm nữa chứ. Ít nhất cũng phải cho tớ ngủ cùng giường.”
 
 “Trong bộ dạng đó hả?”
 
@@ -51735,9 +51735,9 @@ Dù vậy, lúc này tớ vẫn chưa thể chìm đắm vào cơ thể của c�
 
 Thế là, chúng tôi đi ngủ với đội hình ba người xếp hàng ngang như một gia đình.
 
-Bên phải tôi là Kyouko đã chui vào chăn, trông lại càng thêm phần quyến rũ; bên trái tôi là Rem, người tuy không cần ngủ nhưng vẫn nằm xuống cạnh tôi.
+Bên phải tôi là Kyouko đã chui vào chăn, trông lại càng thêm phần khêu gợi; bên trái tôi là Rem, người tuy không cần ngủ nhưng vẫn ngoan ngoãn nằm xuống cạnh tôi.
 
-Nói cách khác, tôi vừa bị Kyouko ở ngay bên cạnh cám dỗ, lại vừa không thể làm gì được vì có Rem ở phía đối diện. Đây quả thực là một đội hình địa ngục đầy nguy hiểm mà kẻ phải chịu đựng giới hạn chịu đựng cực hạn chỉ có duy nhất mình tôi.
+Nói cách khác, tôi vừa bị Kyouko ở ngay bên cạnh cám dỗ, lại vừa chẳng thể làm gì được vì có Rem ở phía đối diện. Đây quả thực là một đội hình địa ngục đầy nguy hiểm mà kẻ phải chịu đựng sự tra tấn tinh thần cực hạn chỉ có duy nhất mình tôi.
 
 Tạm biệt giấc ngủ ngon. Hay là ngày mai hoãn kế hoạch lại một ngày nhỉ...
 
@@ -51749,13 +51749,13 @@ Ngày hôm sau. Ngày quyết định thực hiện chiến dịch.
 
 Vừa mở mắt ra, tôi đã thấy cánh tay mình đang bị kẹp chặt giữa hai bầu ngực của Kyouko, suýt chút nữa là kế hoạch đã đổ bể ngay từ bước đầu tiên rồi.
 
-Mà thật tình, nếu không nhờ cậu bạn Hayama hét toáng lên gọi mọi người thức dậy mà không thèm nhìn bầu không khí xung quanh, thì có lẽ lý trí của tôi đã hoàn toàn tiêu biến từ lúc đó rồi.
+Mà thật tình, nếu không nhờ cậu bạn Hayama hét toáng lên gọi mọi người thức dậy mà không thèm nhìn bầu không khí xung quanh, thì có lẽ lý trí của tôi đã hoàn toàn tan biến từ lúc đó rồi.
 
 “Chào buổi sáng, Kotarou.”
 
 “...Chào buổi sáng.”
 
-Liệu đây có được gọi là trải nghiệm “buổi sáng ngọt ngào” trong truyền thuyết không nhỉ? Dù không có ánh nắng ban mai chiếu qua cửa sổ, cũng chẳng có tiếng chim sẻ hót líu lo, nhưng chỉ cần có một người phụ nữ xinh đẹp đang ngồi dậy từ trong chăn với cơ thể mảnh mai kia, thì tình huống này coi như cũng đã đủ điều kiện rồi đấy chứ.
+Liệu đây có được gọi là trải nghiệm “buổi sáng ngọt ngào” trong truyền thuyết không nhỉ? Dù không có ánh nắng ban mai chiếu qua khung cửa sổ, cũng chẳng có tiếng chim sẻ hót líu lo, nhưng chỉ cần có một người phụ nữ xinh đẹp đang ngồi dậy từ trong chăn với cơ thể mảnh mai quyến rũ kia, thì tình huống này coi như cũng đã đủ điều kiện rồi đấy chứ.
 
 Tất nhiên, ngay từ sáng sớm tôi đã phải vận dụng tối đa lý trí để cố gắng đánh mắt đi hướng khác.
 
@@ -51765,7 +51765,7 @@ Tất nhiên, ngay từ sáng sớm tôi đã phải vận dụng tối đa lý 
 
 Trong lúc nhắm nghiền mắt chịu đựng, tôi đã ngủ thiếp đi từ lúc nào không hay.
 
-Dù buổi sáng bắt đầu có chút hỗn loạn, nhưng tình trạng cơ thể tôi không hề tệ. Dù đã phải kìm nén dục vọng suốt cả đêm, nhưng hiện tại tôi lại cảm thấy vô cùng sảng khoái. Có điều... cảm giác như ma lực có hơi giảm đi một chút.
+Dù buổi sáng bắt đầu có chút hỗn loạn, nhưng tình trạng cơ thể tôi không hề tệ. Dù đã phải kìm nén dục vọng suốt cả đêm, nhưng hiện tại tôi lại cảm thấy vô cùng sảng khoái. Có điều... cảm giác như ma lực có hơi sụt giảm đôi chút.
 
 Mà thực ra lượng ma lực của bản thân cũng đâu có hiển thị bằng thanh MP để mà nhìn, tất cả chỉ là cảm nhận chủ quan mà thôi. Lượng ma lực tiêu hao cũng không đáng kể, đến lúc bắt đầu chiến dịch chắc chắn sẽ hồi phục lại hoàn toàn.
 
@@ -51775,7 +51775,7 @@ Vừa suy nghĩ vẩn vơ về bản thân, tôi vừa cố gắng không để 
 
 “Không cần phải cẩn thận đến thế đâu, tớ tự biết cách lẻn ra ngoài mà không bị phát hiện.”
 
-Đến nước này rồi thì cái luật cấm yêu đương kia có còn ý nghĩa gì nữa đâu, chính tôi cũng nghĩ thế, nhưng dù sao thì về mặt danh nghĩa vẫn nên giữ kẽ một chút. Tôi không muốn tự dưng lại bị ai đó bắt gặp cảnh tôi và Kyouko cùng bước ra từ một căn phòng rồi lại gây ra những lời bàn tán không đáng có.
+Đến nước này rồi thì cái luật cấm yêu đương kia có còn ý nghĩa gì nữa đâu, chính tôi cũng nghĩ thế, nhưng dù sao thì về mặt danh nghĩa vẫn nên giữ kẽ một chút. Tôi không muốn tự dưng lại bị ai đó bắt gặp cảnh tôi và Kyouko cùng bước ra từ một căn phòng rồi lại dấy lên những lời bàn tán không đáng có.
 
 Vì vậy, tôi để Rem lại làm nhiệm vụ cảnh giới cho Kyouko, còn bản thân thì một mình rời phòng hướng về phía Quảng trường Tinh Linh.
 
@@ -51783,11 +51783,11 @@ Vì vậy, tôi để Rem lại làm nhiệm vụ cảnh giới cho Kyouko, còn
 
 Chiến dịch lần này được quyết định sẽ bắt đầu vào buổi sáng khi mặt trời đã lên cao. Không phải nửa đêm, cũng chẳng phải lúc rạng đông, mà là vào thời điểm mọi người bắt đầu các hoạt động trong ngày. Nếu tính theo nhịp sinh hoạt cũ, thì đây chính là lúc tiết học đầu tiên bắt đầu. Thức dậy, ăn sáng, rồi đi học, chúng tôi sẽ tiến hành theo một thời gian biểu mang lại cảm giác thường nhật như thế.
 
-Dù chúng tôi là bên chủ động tập kích Vương quốc Goma, nhưng sở dĩ không chọn đêm tối là vì sau khi xâm nhập, tầm nhìn sáng sủa sẽ có lợi hơn.
+Dù chúng tôi là bên chủ động tập kích Vương quốc Goma, nhưng sở dĩ không chọn đêm tối là vì sau khi xâm nhập, tầm nhìn sáng sủa sẽ có lợi hơn nhiều.
 
-Về phía Goma, chúng tôi cũng cần chúng phát hiện ra đội quân dương đông kích tây do Rem dẫn đầu, và bản thân chúng tôi cũng cần nhìn rõ động thái của kẻ địch. Ngay sau khi đột nhập vào vương quốc, chúng tôi sẽ phóng hỏa và làm loạn một trận tơi bời, nên bóng tối của ban đêm không mang lại nhiều lợi ích. Hơn nữa, người duy nhất biết rõ đường đi lối lại trong vương quốc chỉ có mình tôi, mà đó cũng chỉ là qua một lần đi thám thính sơ bộ. Chạy quanh một thành phố xa lạ trong đêm tối với tầm nhìn hạn chế là điều vô cùng mạo hiểm.
+Về phía Goma, chúng tôi cũng cần chúng phát hiện ra đội quân dương đông kích tây do Rem dẫn đầu, và bản thân chúng tôi cũng cần nhìn rõ từng động thái của kẻ địch. Ngay sau khi đột nhập vào vương quốc, chúng tôi sẽ phóng hỏa và quậy một trận tơi bời, nên bóng tối của ban đêm không mang lại nhiều lợi ích. Hơn nữa, người duy nhất biết rõ đường đi lối lại trong vương quốc chỉ có mình tôi, mà đó cũng chỉ là qua một lần đi thám thính sơ bộ. Chạy quanh một thành phố xa lạ trong đêm tối với tầm nhìn hạn chế là điều vô cùng mạo hiểm.
 
-Vì lý do đó, sau khi mọi người tập hợp đông đủ, chúng tôi cùng ăn sáng tại quảng trường. Kyouko cũng thản nhiên nhập bọn như không có chuyện gì xảy ra.
+Vì lý do đó, sau khi mọi người tập hợp đông đủ, chúng tôi cùng ăn sáng tại quảng trường. Kyouko cũng thản nhiên nhập bọn như thể chưa từng có chuyện gì xảy ra.
 
 Vừa ăn, chúng tôi vừa tranh thủ họp nhanh để thống nhất lại kế hoạch, sau đó mỗi người tự kiểm tra lại trang bị lần cuối rồi chính thức xuất phát.
 
@@ -51805,9 +51805,9 @@ Quá trình di chuyển đến địa điểm này cũng đã được diễn t�
 
 Nhìn lại thì các bạn học của tôi giờ đây đều đã là những chiến binh dày dạn kinh nghiệm. Không ai tỏ ra quá căng thẳng, mọi người vừa đi vừa trò chuyện rôm rả.
 
-Thế nhưng, khi đến gần điểm đích đầu tiên — nơi dẫn từ lòng đất lên mặt đất — tiếng nói chuyện thưa dần, và ánh mắt của mọi người đã chuyển sang cảnh giác cao độ, sắc bén dò xét xung quanh.
+Thế nhưng, khi đến gần điểm đích đầu tiên — nơi dẫn từ lòng đất lên mặt đất — tiếng nói chuyện thưa dần, và ánh mắt của mọi người đã chuyển sang trạng thái cảnh giác cao độ, sắc bén dò xét xung quanh.
 
-Đây là một trong số nhiều ga tàu điện ngầm ngầm. Đó là ga gần nhất với bãi rác của vương quốc, nơi chúng tôi chọn làm điểm xâm nhập. Nếu chỉ tính lối vào gần nhất thì vẫn còn những nơi khác, nhưng chúng tôi bắt buộc phải xuất phát từ đây.
+Đây là một trong số nhiều ga tàu điện ngầm dưới lòng đất. Đó là ga gần nhất với bãi rác của vương quốc, nơi chúng tôi chọn làm điểm xâm nhập. Nếu chỉ tính lối vào gần nhất thì vẫn còn những nơi khác, nhưng chúng tôi bắt buộc phải xuất phát từ đây.
 
 Lý do cho việc đó sẽ rõ ràng ngay khi nhìn vào không gian này.
 
@@ -51825,11 +51825,11 @@ Nói cách khác, nơi đây là địa điểm vô cùng thích hợp để là
 
 “Ừm.”
 
-Giọng nói có phần uể oải của Himeno vang lên cùng với câu trả lời cộc lốc như thường lệ của Yamada. Hai người họ bước lên hai con Loyrops khác nhau.
+Giọng nói có phần uể oải của Himeno-san vang lên cùng với câu trả lời cộc lốc như thường lệ của Yamada-kun. Hai người họ bước lên hai con Loyrops khác nhau.
 
-『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』: Con Loyrops đã đồng hành cùng chúng tôi suốt thời gian qua, nay đã được nâng cấp toàn diện cho chiến dịch lần này. Đặc điểm lớn nhất của nó là chiếc cabin bảo vệ được lắp trên lưng để bảo vệ Himeno bên trong. Được thiết kế dựa trên boongke đất của Kyouko và chế tạo chủ yếu từ các vật liệu kim loại thu được từ vũ khí của Goma, chiếc cabin này có thể chống đỡ được vô số mũi tên bắn vào mà không hề bị xuyên thủng. Bên trong cabin được thiết kế để phục vụ cho việc trị liệu khẩn cấp, có thể chứa tối đa hai người bị thương. Ngoài việc vận chuyển nhu yếu phẩm như trước, hai bên hông của nó còn được lắp đặt các thùng chứa nhỏ đựng các vật phẩm tiêu hao như lựu đạn cháy dùng trong chiến dịch để tiện cho việc tiếp tế. Xe số 1 sẽ luôn được bố trí ở giữa đội hình, đảm nhận vai trò chuyên trị liệu và tiếp tế.
+『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』: Con Loyrops đã đồng hành cùng chúng tôi suốt thời gian qua, nay đã được nâng cấp toàn diện cho chiến dịch lần này. Đặc điểm lớn nhất của nó là chiếc cabin bảo vệ được lắp trên lưng để bảo vệ Himeno-san bên trong. Được thiết kế dựa trên boongke đất của Kyouko và chế tạo chủ yếu từ các vật liệu kim loại thu được từ vũ khí của Goma, chiếc cabin này có thể chống đỡ được vô số mũi tên bắn vào mà không hề bị xuyên thủng. Bên trong cabin được thiết kế để phục vụ cho việc trị liệu khẩn cấp, có thể chứa tối đa hai người bị thương. Ngoài việc vận chuyển nhu yếu phẩm như trước, hai bên hông của nó còn được lắp đặt các thùng chứa nhỏ đựng các vật phẩm tiêu hao như lựu đạn cháy dùng trong chiến dịch để tiện cho việc tiếp tế. Xe số 1 sẽ luôn được bố trí ở giữa đội hình, đảm nhận vai trò chuyên trị liệu và tiếp tế.
 
-『Loyrops Số 2 - Bản Đột Kích Trọng Trang』: Phương tiện chuyên dụng do 『Trọng Chiến Binh』 Yamada điều khiển. Để có thể đột phá trực diện qua đội hình quân đội Goma, con Loyrops vốn đã là một loài ma vật dạng tê giác nặng nề nay được trang bị thêm lớp giáp gai nhọn đầy tính công kích bao phủ toàn thân, mang đậm phong cách tận thế. Hơn nữa, vũ khí chính của nó là một khẩu súng phun lửa cỡ lớn. Yamada sẽ dùng thứ này để phóng hỏa thiêu rụi vương quốc.
+『Loyrops Số 2 - Bản Đột Kích Trọng Trang』: Phương tiện chuyên dụng do 『Trọng Chiến Binh』 Yamada-kun điều khiển. Để có thể đột phá trực diện qua đội hình quân đội Goma, con Loyrops vốn đã là một loài ma vật dạng tê giác nặng nề nay được trang bị thêm lớp giáp gai nhọn đầy tính công kích bao phủ toàn thân, mang đậm phong cách tận thế. Hơn nữa, vũ khí chính của nó là một khẩu súng phun lửa cỡ lớn. Yamada-kun sẽ dùng thứ này để phóng hỏa thiêu rụi vương quốc.
 
 “Kyouko———— cậu lên xe rồi hả.”
 
@@ -51843,21 +51843,21 @@ Trên lưng Guririn cũng được lắp đặt thêm giáp bảo vệ, cùng v�
 
 “Chứ sao nữa! Tớ đã luyện tập cật lực cho ngày hôm nay đấy!”
 
-Hayama nở nụ cười rạng rỡ, trả lời từ trên lưng con Raptor.
+Hayama-kun nở nụ cười rạng rỡ, trả lời từ trên lưng con Raptor.
 
 Con Raptor này thực chất chỉ là một con Raptor bình thường. Tất nhiên, nó đã được biến thành 『Thi Nhân Hình』.
 
-Hayama vốn thuộc nhóm ma pháp sư giống tôi nên thể chất không có gì nổi trội. Chỉ riêng việc chạy quanh chiến trường thôi cũng đã đủ mệt rồi, nếu còn phải chiến đấu nữa thì không biết thể lực của cậu ta có chịu đựng nổi không. Đặc biệt là lần này chúng tôi sẽ phải di chuyển một quãng đường rất dài trong vương quốc, nên việc giảm tốc độ di chuyển đồng nghĩa với cái chết.
+Hayama-kun vốn thuộc nhóm ma pháp sư giống tôi nên thể chất không có gì nổi trội. Chỉ riêng việc chạy quanh chiến trường thôi cũng đã đủ mệt rồi, nếu còn phải chiến đấu nữa thì không biết thể lực của cậu ta có chịu đựng nổi không. Đặc biệt là lần này chúng tôi sẽ phải di chuyển một quãng đường rất dài trong vương quốc, nên việc giảm tốc độ di chuyển đồng nghĩa với cái chết.
 
-Vì vậy, tôi quyết định để Hayama cưỡi Raptor trong trận chiến này. Đúng như cậu ta nói, nhờ luyện tập chăm chỉ nên dáng ngồi trên lưng Raptor trông đã rất ra dáng rồi... và hơn hết, thông qua cánh tay phải của cậu ta, có vẻ như cậu ta đang thể hiện một khả năng kiểm soát vượt trội hơn hẳn việc cưỡi thú thông thường.
+Vì vậy, tôi quyết định để Hayama-kun cưỡi Raptor trong trận chiến này. Đúng như cậu ta nói, nhờ luyện tập chăm chỉ nên dáng ngồi trên lưng Raptor trông đã rất ra dáng rồi... và hơn hết, thông qua cánh tay phải của cậu ta, có vẻ như cậu ta đang thể hiện một khả năng kiểm soát vượt trội hơn hẳn việc cưỡi thú thông thường.
 
-Tôi đoán là tinh linh bóng tối trú ngụ trong cánh tay phải mà tôi ghép cho cậu ta đã can thiệp và gây ảnh hưởng lên con Raptor vốn là một 『Thi Nhân Hình』 thuộc hệ chú thuật. Thực tế, Rem cũng từng nói rằng khi Hayama đang nắm dây cương, em ấy rất khó để can thiệp vào việc điều khiển con Raptor đó. Chắc chắn là có sự ảnh hưởng nào đó ở đây.
+Tôi đoán là tinh linh bóng tối trú ngụ trong cánh tay phải mà tôi ghép cho cậu ta đã can thiệp và gây ảnh hưởng lên con Raptor vốn là một 『Thi Nhân Hình』 thuộc hệ chú thuật. Thực tế, Rem cũng từng nói rằng khi Hayama-kun đang nắm dây cương, em ấy rất khó để can thiệp vào việc điều khiển con Raptor đó. Chắc chắn là có sự ảnh hưởng nào đó ở đây.
 
-Dù sao thì chúng tôi cũng có thể kỳ vọng vào khả năng cơ động của Hayama với tư cách là một kị binh thực thụ.
+Dù sao thì chúng tôi cũng có thể kỳ vọng vào khả năng cơ động của Hayama-kun với tư cách là một kị binh thực thụ.
 
 “Được rồi, những ai cần lên thú cưỡi đều đã lên hết rồi nhỉ.”
 
-Giống như lý thuyết kị binh hóa Hayama, tất cả những thành viên có tốc độ di chuyển chậm giờ đây đều đã có thú cưỡi.
+Giống như lý thuyết kị binh hóa Hayama-kun, tất cả những thành viên có tốc độ di chuyển chậm giờ đây đều đã có thú cưỡi.
 
 Ba người Ueta, Yoshizaki và Nakajima đều được hưởng lợi từ việc tăng cường thể chất giúp tăng tốc độ chạy, đồng thời họ cũng đã học được các võ kỹ hỗ trợ di chuyển. Còn Beniwo thì sở hữu tốc độ chạy của loài sói, và Kinako dù có thân hình tròn trịa như thế nhưng khi chạy bằng bốn chân giống như gấu hoang dã, nó vẫn có thể đạt tốc độ vượt trội hơn con người. Một con gấu bình thường cũng có thể chạy với vận tốc 50 km/h. Với một ma vật như Kinako thì tốc độ chắc chắn sẽ còn nhanh hơn nữa.
 
@@ -51887,11 +51887,11 @@ Tôi hỏi khẽ, cả ba đồng loạt gật đầu. Trên tay họ đang ôm 
 
 “Ờ, lúc nào cũng chiến được.”
 
-Yamada trả lời tôi khi tôi đã yên vị trên chiếc xe kéo Loyrops số 2. Cậu ta cũng ôm một chiếc cọc sắt tương tự, nhưng kích thước của nó khổng lồ gấp ba lần của ba người kia. Trông nó chẳng khác nào ngọn thương đột kích của các kị sĩ thời trung cổ. Thực tế, chỉ cần Yamada ôm thứ này rồi thúc Loyrops húc thẳng vào thì sức công phá cũng đủ kinh hồn rồi, có điều chúng tôi không định dùng cách đó để phá tường.
+Yamada trả lời khi tôi đã yên vị trên chiếc xe kéo Loyrops số 2. Cậu ta cũng ôm một chiếc cọc sắt tương tự, nhưng kích thước của nó khổng lồ gấp ba lần của ba người kia. Trông nó chẳng khác nào ngọn thương đột kích của các kị sĩ thời trung cổ. Thực tế, chỉ cần Yamada ôm thứ này rồi thúc Loyrops húc thẳng vào thì sức công phá cũng đủ kinh hồn rồi, có điều chúng tôi không định dùng cách đó để phá tường.
 
 Bức tường thành này không chỉ cao mà còn cực kỳ dày. Ngay cả khi dùng bom lõi, tôi cũng không dám chắc có thể phá hủy nó một cách suôn sẻ hay không.
 
-Chưa kể, chiều cao của nó vượt quá mười mét so với mặt đất, lại còn kết hợp với một hào sâu bên dưới, khiến tổng độ cao chênh lệch lên tới gần ba mươi mét. Ngay cả theo tiêu chuẩn của Trái Đất, đây cũng là một công trình phòng ngự kiên cố thuộc hàng top đầu.
+Chưa kể, chiều cao của nó vượt quá mười mét so với mặt đất, lại còn kết hợp với một con hào sâu bên dưới, khiến tổng độ cao chênh lệch lên tới gần ba mươi mét. Ngay cả theo tiêu chuẩn của Trái Đất, đây cũng là một công trình phòng ngự kiên cố thuộc hàng top đầu.
 
 Vậy thì, đối với bức tường thành vốn là kết tinh nỗ lực phòng thủ của Vương quốc Goma kia, phương án vượt qua mà tôi lựa chọn lại vô cùng đơn giản: “Cứ thế mà leo qua thôi”.
 
@@ -52053,7 +52053,7 @@ Nhưng như các bạn đã thấy, số lượng triệu hồi của chúng đ�
 
 Và nhờ sự thăng cấp lần này, một loại triệu hoán thú mới đã được mở khóa.
 
-\`『Tank』\` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài GoGame Mastera. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
+\`『Tank』\` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài Gogma. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
 
 Đây là toàn bộ lực lượng triệu hoán thú mạnh nhất mà tôi có thể tung ra ở thời điểm hiện tại. Gồm 26 Skeleton, 14 High Zombie và 3 Tank, tổng cộng là 43 thực thể. Tính ra thì quân số cũng đã khá ra dáng một đội quân rồi.
 
@@ -52073,7 +52073,7 @@ Những chiếc thùng không có kẽ hở bị ngâm dưới sông bùn hơn m
 
 Rem trong hình dạng Minotaur—thủ lĩnh của đội nghi binh—cất tiếng rống vang trời.
 
-\`『Minotaur』\` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-GoGame Mastera Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
+\`『Minotaur』\` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-Gogma Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
 
 \`『Binh lính Gove』\`: Những xác sống Gove được tôi tạo ra với số lượng tối đa mà Rem có thể kiểm soát. Tổng cộng là 20 con. Vì tôi để chúng hoạt động ở chế độ tự trị chứ không điều khiển trực tiếp nên cử động của chúng cũng chỉ tương đương với Skeleton hay High Zombie, nhưng đối với đội nghi binh thì càng đông càng tốt. Để che giấu thân phận, tôi cũng cho chúng đội những chiếc khăn trùm đầu thô sơ.
 
@@ -52089,11 +52089,11 @@ Tôi kích hoạt nhãn thuật ảo ảnh 『Hư Ảnh Tương Chiếu』, ph�
 
 Thực chất, lượng ma lực tiêu hao để duy trì chú thuật này vô cùng thấp. Dù số lượng có lên tới 64 thực thể thì tôi vẫn có thể dễ dàng bao phủ lên tất cả bọn họ. Chính xác thì tôi loại trừ Tank và Minotaur ra, nên con số là 61 thực thể.
 
-Đối với lũ Goma, mối đe dọa lớn nhất mà chúng cảnh giác là con người. Do đó, nếu một đội quân xác sống xuất hiện, mức độ ưu tiên đối phó của chúng sẽ giảm xuống. Ít nhất thì chúng sẽ không rảnh rỗi đến mức điều động cả Gira-GoGame Mastera ra trận.
+Đối với lũ Goma, mối đe dọa lớn nhất mà chúng cảnh giác là con người. Do đó, nếu một đội quân xác sống xuất hiện, mức độ ưu tiên đối phó của chúng sẽ giảm xuống. Ít nhất thì chúng sẽ không rảnh rỗi đến mức điều động cả Gira-Gogma ra trận.
 
-Nhưng nếu trước mắt chúng là một đội quân loài người gồm gần sáu mươi chiến binh, chúng chắc chắn sẽ lầm tưởng đây là lực lượng chủ lực của chúng tôi. Dù có nghi ngờ đi chăng nữa, chúng cũng tuyệt đối không thể ngó lơ. Bởi lẽ, chúng đã mất tới hai Gira-GoGame Mastera vào tay con người rồi còn gì?
+Nhưng nếu trước mắt chúng là một đội quân loài người gồm gần sáu mươi chiến binh, chúng chắc chắn sẽ lầm tưởng đây là lực lượng chủ lực của chúng tôi. Dù có nghi ngờ đi chăng nữa, chúng cũng tuyệt đối không thể ngó lơ. Bởi lẽ, chúng đã mất tới hai Gira-Gogma vào tay con người rồi còn gì?
 
-Để chắc chắn tiêu diệt được chúng tôi, chúng không còn cách nào khác ngoài việc điều động một đại quân có sự dẫn đầu của Gira-GoGame Mastera.
+Để chắc chắn tiêu diệt được chúng tôi, chúng không còn cách nào khác ngoài việc điều động một đại quân có sự dẫn đầu của Gira-Gogma.
 
 “Này Momokawa, bên này dọn dẹp xong rồi nhé.”
 
@@ -52135,13 +52135,13 @@ Hãy chuẩn bị tinh thần đi. Hôm nay, vương quốc của ngươi sẽ b
 
 “...phải được thanh tẩy bằng lửa!”
 
-Cùng với những tiếng hét đầy phấn khích, khu chợ của tộc Goma vốn vừa mới bắt đầu nhộn nhịp vào buổi sáng sớm nay đã bị bao trùm trong một ngọn lửa dữ dội như chốn địa ngục.
+Cùng với những tiếng gào thét đầy phấn khích, khu chợ của tộc Goma vốn vừa mới bắt đầu nhộn nhịp vào buổi sáng sớm nay đã bị bao trùm trong một ngọn lửa dữ dội tựa chốn địa ngục.
 
 Sau khi đi thẳng ra từ bãi phế thải, nhóm chúng tôi trước tiên hướng đến khu chợ này—nói đúng hơn là một con phố lớn nơi lũ Goma tụ tập để trao đổi hàng hóa, chủ yếu là lương thực thực phẩm. Con phố chợ này kéo dài từ phía nam sang phía tây, cắt vuông góc với đại lộ lớn nối liền Nam Đại Chính Môn (mục tiêu đầu tiên của chúng tôi) và pháo đài trung tâm.
 
-Đội tiên phong của chúng tôi tiến vào phố chợ từ phía nam, trong khi đội dương đông kích tây xuất hiện ở phía tây. Liếc nhìn qua, tôi có thể thấy những cột khói đen cuồn cuộn bốc lên đúng hướng như kế hoạch. Con Raptor Alpha mà tôi đang cưỡi cũng không có biểu hiện gì bất thường, chứng tỏ nhóm của Rem đang quậy phá rất thuận lợi.
+Đội tiên phong của chúng tôi tiến vào phố chợ từ phía nam, trong khi đội dương đông kích tây xuất hiện ở phía tây. Liếc mắt nhìn qua, tôi có thể thấy những cột khói đen cuồn cuộn bốc lên đúng hướng như kế hoạch. Con Raptor Alpha mà tôi đang cưỡi cũng không có biểu hiện gì bất thường, chứng tỏ nhóm của Rem đang quậy phá rất thuận lợi.
 
-Được rồi, đội dương đông cứ giao cho Rem—người luôn mang lại sự tin tưởng và hiệu quả tuyệt đối, còn chúng tôi cũng phải cố gắng thôi.
+Được rồi, đội dương đông cứ giao cho Rem—người luôn mang lại sự tin cậy và hiệu quả tuyệt đối, còn chúng tôi cũng phải dốc toàn lực thôi.
 
 “Phóng hỏa thì vui thật đấy, nhưng đừng có lạm dụng lựu đạn quá nhé~”
 
@@ -52149,21 +52149,21 @@ Sau khi đi thẳng ra từ bãi phế thải, nhóm chúng tôi trước tiên 
 
 “Tao vốn thích nghịch lửa mà~”
 
-Dù đã luyện tập nhiều lần ở khu phố di tích, nhưng khi chứng kiến cảnh tượng cả khu phố thực sự bốc cháy và lũ Goma biến thành những quả cầu lửa lăn lộn trên mặt đất, cảm giác phấn khích vẫn tăng lên rõ rệt. Bản thân tôi khi đi khủng bố xưởng rèn lần trước cũng rơi vào trạng thái hưng phấn kỳ lạ như vậy mà.
+Dù đã luyện tập nhiều lần ở khu phố di tích, nhưng khi chứng kiến cảnh tượng cả khu phố thực sự bốc cháy và lũ Goma biến thành những quả cầu lửa lăn lộn giãy giụa trên mặt đất, cảm giác phấn khích vẫn tăng lên rõ rệt. Bản thân tôi khi đi tập kích khủng bố xưởng rèn lần trước cũng từng rơi vào trạng thái hưng phấn kỳ lạ như vậy.
 
-Dù sao thì trang bị của hai người họ có vẻ đang hoạt động rất tốt, khiến họ vô cùng phấn chấn.
+Dù sao thì trang bị của hai người họ có vẻ đang hoạt động rất tốt, khiến tinh thần ai nấy đều vô cùng phấn chấn.
 
-『Áo Khoác Tản Nhiệt』: Trang bị kháng nhiệt được đưa vào sử dụng thực tế sau nhiều lần nghiên cứu. Ngoại hình là một chiếc áo khoác lông thú màu đỏ. Bằng cách sử dụng lớp lông đỏ có khả năng kháng hỏa cao lột từ xác của Yokomichi, kết hợp với Băng Tinh Thể của Lớp trưởng làm hạt nhân để triển khai một kết giới làm mát, trang bị này có thể ngăn chặn nhiệt độ cao ngay cả trong biển lửa. Cấu trúc của nó tương tự như túi sưởi được chế tạo ở vùng tuyết, nhưng là phiên bản ngược lại. Tuy nhiên, vì được thiết kế để sử dụng ngay giữa tâm hỏa, để tránh tình trạng thiếu oxy, một chức năng tạo gió nhẹ từ hạt nhân là Phong Quang Thạch đã được tích hợp, giúp liên tục cung cấp oxy trong lành. Việc thiết kế dưới dạng áo khoác là do ý kiến của đội tiên phong cho rằng áo choàng sẽ gây vướng víu khi cận chiến. Sau khi nhồi nhét quá nhiều chức năng, chiếc áo phồng lên trông giống như một chiếc áo chống đạn, nhưng nhìn thế này trông cũng khá ngầu.
+『Áo Khoác Tản Nhiệt』: Trang bị kháng nhiệt được đưa vào sử dụng thực tế sau nhiều lần nghiên cứu. Ngoại hình là một chiếc áo khoác lông thú màu đỏ. Bằng cách sử dụng lớp lông đỏ có khả năng kháng hỏa cao lột từ xác của Yokomichi, kết hợp với Băng Tinh Thể của Lớp trưởng làm hạt nhân để triển khai một kết giới làm mát, trang bị này có thể triệt tiêu nhiệt độ cao ngay cả giữa biển lửa. Cấu trúc của nó tương tự như túi sưởi được chế tạo ở vùng tuyết, nhưng mang cơ chế ngược lại. Tuy nhiên, vì được thiết kế để sử dụng ngay giữa tâm hỏa, nhằm tránh tình trạng ngạt khí, một chức năng tạo gió nhẹ từ hạt nhân là Phong Quang Thạch đã được tích hợp, giúp liên tục cung cấp oxy trong lành. Việc thiết kế dưới dạng áo khoác là do tiếp thu ý kiến của đội tiên phong cho rằng áo choàng sẽ gây vướng víu khi cận chiến. Sau khi nhồi nhét quá nhiều chức năng, chiếc áo phồng lên trông giống như một chiếc áo chống đạn, nhưng nhìn tổng thể thì khá ngầu.
 
-『Áo Choàng Tản Nhiệt』: Phiên bản chính thức của chiếc áo choàng kháng nhiệt thử nghiệm. Vì không muốn lãng phí nguyên liệu nên chiếc áo choàng kháng nhiệt cũ đã được cải tiến trực tiếp. Trang bị này dành cho đội hậu phương, những người không cần phải tham gia cận chiến.
+『Áo Choàng Tản Nhiệt』: Phiên bản chính thức của chiếc áo choàng kháng nhiệt thử nghiệm. Vì không muốn lãng phí nguyên liệu nên chiếc áo choàng kháng nhiệt cũ đã được cải tiến trực tiếp. Trang bị này dành cho đội hậu phương, những người không cần phải tham gia cận chiến giáp lá cà.
 
-『Phong Lưu Yển Nguyệt Đao』: Một món vũ khí được chế tạo lại từ thanh đại kiếm hệ phong của con GoGame Mastera bị Yokomichi dụ giết (MPK), nay được thu nhỏ kích thước để phù hợp với Ueta. Hình dáng của nó giống như một cây yển nguyệt đao với lưỡi đơn bản rộng, nhưng không có cán dài. Trên thân đao tỏa sáng những đường vân ma lực hệ phong màu ngọc lục bảo. Vì Ueta không phải là 『Ma Pháp Kiếm Sĩ』, nên dù sử dụng thanh ma kiếm chất lượng tốt này thì cậu ta cũng chỉ bắn ra được 『Phong Tiễn』 là cùng, nhưng cậu ta vẫn có thể kiểm soát để tạo ra những luồng gió lốc ở mức độ nhất định. Trong hoàn cảnh hiện tại, việc quạt gió sẽ giúp ngọn lửa lan rộng với tốc độ chóng mặt.
+『Phong Lưu Yển Nguyệt Đao』: Món vũ khí được chế tạo lại từ thanh đại kiếm hệ phong của con Goma Master bị Yokomichi dụ giết (MPK), nay được thu nhỏ kích thước để phù hợp với Ueta. Hình dáng của nó giống như một cây yển nguyệt đao với lưỡi đơn bản rộng, nhưng không có cán dài. Trên thân đao tỏa sáng những đường vân ma lực hệ phong màu ngọc lục bảo. Vì Ueta không phải là 『Ma Pháp Kiếm Sĩ』, nên dù sử dụng thanh ma kiếm chất lượng tốt này thì cậu ta cũng chỉ bắn ra được 『Phong Tiễn』 là cùng, bù lại cậu ta vẫn có thể kiểm soát để tạo ra những luồng gió lốc ở mức độ nhất định. Trong hoàn cảnh hiện tại, việc quạt gió sẽ giúp ngọn lửa lan rộng với tốc độ chóng mặt.
 
-『Rìu Rực Lửa』: Cũng là một món vũ khí được cải tiến từ cây đại rìu hệ hỏa của con GoGame Mastera bị dụ giết còn lại. Người sử dụng là Yoshizaki (Mari). Có lẽ vì có độ tương thích tốt với thuộc tính hỏa, sau một khoảng thời gian tích tụ ma lực, cô ấy thậm chí có thể bắn ra ma pháp tấn công trung cấp 『Hỏa Thương』. Tuy nhiên, lẽ ra nó phải có hình dạng giống như một ngọn thương lớn, nhưng có lẽ vì không phải chuyên môn nên nó chỉ biến thành một quả cầu lửa khổng lồ. Dù vậy, hiệu quả khi bắn ra vẫn tương đương. Sức công phá từ vụ nổ của nó giúp phát tán ngọn lửa đi khắp nơi một cách dữ dội.
+『Rìu Rực Lửa』: Cũng là một món vũ khí được cải tiến từ cây đại rìu hệ hỏa của con Goma Master bị dụ giết còn lại. Người sử dụng là Yoshizaki (Mari). Có lẽ nhờ sở hữu độ tương thích tốt với thuộc tính hỏa, sau một khoảng thời gian tích tụ ma lực, cô ấy thậm chí có thể bắn ra ma pháp tấn công trung cấp 『Hỏa Thương』. Tuy nhiên, lẽ ra chiêu thức phải có hình dạng giống như một ngọn thương lớn, nhưng do không đúng chuyên môn nên nó chỉ biến thành một quả cầu lửa khổng lồ. Dù vậy, hiệu quả công phá khi bắn ra vẫn tương đương. Sức nổ dữ dội của nó giúp phát tán ngọn lửa đi khắp mọi ngóc ngách.
 
-Cặp đôi Ueta và Yoshizaki liên tục vung những món vũ khí ma pháp của mình, khiến ngọn lửa lan rộng nhanh chóng. Dĩ nhiên, Nakajima—người sở hữu thiên chức 『Ma Pháp Kiếm Sĩ』—cũng không chịu kém cạnh khi dùng 『Viêm Kiếm Salamander』 để phóng hỏa với tốc độ không hề thua kém hai người kia.
+Cặp đôi Ueta và Yoshizaki liên tục vung những món vũ khí ma pháp của mình, khiến ngọn lửa bùng phát lan rộng nhanh chóng. Dĩ nhiên, Nakajima—người sở hữu thiên chức 『Ma Pháp Kiếm Sĩ』—cũng không chịu kém cạnh khi vung 『Viêm Kiếm Salamander』 để phóng hỏa với tốc độ không hề thua kém hai người kia.
 
-Lúc này, dù nhìn sang trái hay sang phải, khắp nơi đều là những vòng xoáy lửa màu cam rực rỡ. Nếu không có trang bị kháng nhiệt, chúng tôi chắc chắn đã rơi vào tình cảnh khốn đốn. Lũ Goma chỉ khoác trên mình những mảnh vải rách rưới còn thảm hại hơn nhiều. Ngay cả khi lửa chưa bén trực tiếp vào người, cái nóng thiêu đốt đến mức không thể chịu đựng nổi đã bắt đầu bao trùm toàn bộ khu vực xung quanh.
+Lúc này, dù nhìn sang trái hay sang phải, khắp nơi đều là những vòng xoáy lửa màu cam rực rỡ. Nếu không có trang bị kháng nhiệt, chúng tôi chắc chắn đã rơi vào tình cảnh khốn đốn. Lũ Goma chỉ khoác trên mình những mảnh vải rách rưới thì còn thảm hại hơn gấp bội. Ngay cả khi lửa chưa bén trực tiếp vào da thịt, cái nóng thiêu đốt đến mức không thể thở nổi đã bắt đầu bao trùm toàn bộ không gian xung quanh.
 
 “Bu-gê... Guuuu-eee...”
 
@@ -52173,7 +52173,7 @@ Một con Goma cái trông như người mẹ đang ôm đứa con nhỏ, vừa 
 
 Yamada, người đang dẫn đầu đội hình và liên tục phun lửa dọn đường, lên tiếng báo cáo khi phát hiện bóng dáng kẻ địch.
 
-Khác với những toán lính tuần tra nhỏ lẻ mà chúng tôi đã dọn dẹp dọc đường, lần này tôi có thể nhìn thấy rõ một con GoGame Mastera đang dẫn đầu gần một trăm con Goma dàn trận ngay phía cuối con phố.
+Khác với những toán lính tuần tra nhỏ lẻ mà chúng tôi đã dọn dẹp dọc đường, lần này tôi có thể nhìn thấy rõ một con Goma Master đang dẫn đầu gần một trăm con Goma dàn trận ngay phía cuối con phố.
 
 Quả không hổ danh là đã dự tính trước việc bị tập kích nên bố trí binh lính khắp nơi. Tốc độ triển khai phòng tuyến của chúng khá nhanh đấy.
 
@@ -52183,19 +52183,19 @@ Thế nhưng, chỉ bấy nhiêu đó thì không thể cản bước chúng tô
 
 “Rõ rồi, rõ rồi, thưa lão gia. Cứ để tớ lo.”
 
-Khi tôi ngồi vắt vẻo trên lưng Alpha và nói bằng giọng bề trên, Yamada lập tức đáp lại một cách vô cùng ăn ý. Không ngờ cậu ta cũng thích xem phim cổ trang đấy chứ.
+Khi tôi ngồi vắt vẻo trên lưng Alpha và cất giọng bề trên, Yamada lập tức đáp lại một cách vô cùng ăn ý. Không ngờ cậu ta cũng thích mấy trò diễn kịch cổ trang đấy chứ.
 
-Dù sao thì cứ giao nơi này cho Yamada là ổn. Chiếc xe Loyrops số 2 không phải chỉ để làm cảnh!
+Dù sao thì cứ giao nơi này cho Yamada là ổn thỏa. Chiếc xe Loyrops số 2 đâu phải chỉ để làm cảnh!
 
 “Lao lên nào! Tránh đường mauuuu!”
 
-Cùng với tiếng gầm của Yamada, chiếc Loyrops số 2 đột ngột tăng tốc. Hiểu rằng đây là một cú đột phá trực diện, đội tiên phong lập tức dội hàng loạt ma pháp tấn công vào đội hình Goma đang dàn hàng chắn đường. Tất nhiên, đội hậu phương chúng tôi cũng ném thêm vài quả lựu đạn ma pháp vào, nhưng...
+Cùng với tiếng gầm của Yamada, chiếc Loyrops số 2 đột ngột tăng tốc lao vút đi. Hiểu rằng đây là một cú đột phá trực diện, đội tiên phong lập tức dội hàng loạt ma pháp tấn công vào đội hình Goma đang dàn hàng chắn đường. Tất nhiên, đội hậu phương chúng tôi cũng ném thêm vài quả lựu đạn ma pháp vào, nhưng...
 
 “Gubu-bu... Bunguru-doga!”
 
-Con GoGame Mastera cầm chiếc khiên lớn vẫn đứng vững vàng không hề lay chuyển. Lũ Goma thông thường thì đã bị lửa bén vào người và đang nháo nhào hỗn loạn, nhưng những tên lính Gove được trang bị vũ khí đầy đủ thì vẫn duy trì được đội hình chiến đấu.
+Con Goma Master cầm chiếc khiên lớn vẫn đứng vững vàng như bàn thạch, không hề lay chuyển. Lũ Goma thông thường thì đã bị lửa bén vào người và đang nháo nhào hỗn loạn, nhưng những tên lính Gove được trang bị vũ khí đầy đủ thì vẫn duy trì được đội hình chiến đấu.
 
-Để phá vỡ phòng tuyến này trong một đòn, rõ ràng cần một sức công phá mạnh mẽ hơn nữa.
+Để phá vỡ phòng tuyến này trong một đòn, rõ ràng cần một sức công phá dũng mãnh hơn nữa.
 
 *Lên đi Yamada, hãy cho chúng thấy sức mạnh thực sự của một 『Trọng Chiến Binh』 nào.*
 
@@ -52203,11 +52203,11 @@ Con GoGame Mastera cầm chiếc khiên lớn vẫn đứng vững vàng không 
 
 *Rầm! Kenggg!*
 
-Một tiếng va chạm chói tai vang lên. Đó không phải là uy lực của võ kỹ hay ma pháp, mà hoàn toàn là sức húc thuần túy từ cú tông trực diện vào con GoGame Mastera đang giơ cao đại khiên.
+Một tiếng va chạm chói tai vang lên. Đó không phải là uy lực của võ kỹ hay ma pháp, mà hoàn toàn là sức húc thuần túy từ cú tông trực diện vào con Goma Master đang giơ cao đại khiên.
 
 “Bu-ga... Gugu-giga...”
 
-Dù là GoGame Mastera thì cũng không thể chống đỡ nổi cú húc sấm sét của kỵ binh hạng nặng Yamada, nó bị hất văng và lăn lộn sang bên đường. Tuy nhiên, sát thương nhận vào có vẻ không quá nghiêm trọng. Nó vừa lắc đầu vừa lồm cồm bò dậy.
+Dù là Goma Master thì cũng không thể chống đỡ nổi cú húc sấm sét của kỵ binh hạng nặng Yamada, nó bị hất văng và lăn lông lốc sang bên đường. Tuy nhiên, sát thương nhận vào có vẻ không quá nghiêm trọng. Nó vừa lắc đầu vừa lồm cồm bò dậy.
 
 Sức chống chịu thật đáng kinh ngạc, nhưng phía chúng tôi cũng đã quá quen với những đối thủ cỡ này rồi.
 
@@ -52215,21 +52215,21 @@ Sức chống chịu thật đáng kinh ngạc, nhưng phía chúng tôi cũng �
 
 “『Đại Đả』!”
 
-Võ kỹ của cặp đôi Ueta và Yoshizaki đồng loạt giáng xuống con GoGame Mastera đang sơ hở khi chuẩn bị đứng dậy.
+Võ kỹ của cặp đôi Ueta và Yoshizaki đồng loạt giáng xuống con Goma Master đang để lộ sơ hở khi chuẩn bị gượng dậy.
 
-Cả hai võ kỹ được tung ra đều là những chiêu thức cơ bản nhất mà họ học được từ thuở ban đầu. Chính vì thế, những nhát chém sắc bén và thuần thục nhất đã găm thẳng vào tử lộ của con GoGame Mastera một cách chuẩn xác.
+Cả hai võ kỹ được tung ra đều là những chiêu thức cơ bản nhất mà họ học được từ thuở ban đầu. Chính vì thế, những nhát chém sắc bén và thuần thục nhất đã găm thẳng vào tử huyệt của con Goma Master một cách chuẩn xác.
 
-Chiếc cổ to khỏe của nó bị chém đứt một nửa, phun ra một cơn mưa máu đỏ thẫm, cùng lúc đó, chiếc đầu khổng lồ bị rìu bổ đôi, làm vỡ vụn mảnh xương sọ dày cộp và bắn tung tóe não tủy. Dù là GoGame Mastera thì chúng vẫn mang định mệnh của loài quái vật dạng người—một khi phần đầu bị phá hủy, cái chết là điều không thể tránh khỏi.
+Chiếc cổ to khỏe của nó bị chém đứt một nửa, phun ra một cơn mưa máu đỏ thẫm, cùng lúc đó, chiếc đầu khổng lồ bị đại rìu bổ đôi, làm vỡ vụn mảnh xương sọ dày cộp và bắn tung tóe não tủy. Dù là Goma Master thì chúng vẫn mang định mệnh của loài quái vật dạng người—một khi phần đầu bị phá hủy, cái chết là điều không thể tránh khỏi.
 
-Ngay cả một con GoGame Mastera có lượng máu và giáp cực trâu cũng bị Yamada làm mất thăng bằng, rồi bị hai tiên phong cận chiến kết liễu. Nhờ sự phối hợp nhịp nhàng như nước chảy, con quái vật đã ngã gục xuống đất không một tiếng động.
+Ngay cả một con Goma Master sở hữu lượng máu và giáp hộ thân cực trâu cũng bị Yamada làm mất thăng bằng, rồi bị hai mũi tiên phong cận chiến kết liễu gọn gàng. Nhờ sự phối hợp nhịp nhàng như nước chảy mây trôi, con quái vật đã ngã gục xuống đất mà không kịp rên lên một tiếng.
 
 “—『Song Liệt』!”
 
-Bên cạnh đòn kết liễu con GoGame Mastera, võ kỹ liên hoàn của Nakajima cũng lập tức nhắm vào những tên lính Gove vẫn đang cố gắng chống cự.
+Bên cạnh đòn kết liễu con Goma Master, võ kỹ liên hoàn của Nakajima cũng lập tức nhắm vào những tên lính Gove vẫn đang cố gắng chống cự.
 
 Với phong cách song kiếm ma pháp—tay phải lăm lăm 『Viêm Kiếm Salamander』, tay trái cầm 『Cool Cutlass』—cậu ta liên tiếp tung ra những nhát chém mang hai thuộc tính băng và hỏa vào lũ Gove.
 
-Vốn dĩ, các võ kỹ thuộc chuỗi liên hoàn được thiết kế để tấn công liên tục vào một mục tiêu đơn lẻ, nhưng một khi đã sử dụng thành thạo, người ta hoàn toàn có thể dùng nó để dọn dẹp lũ lính tép riu một cách nhanh chóng. Kỹ năng của Nakajima đã đạt đến độ chín muồi để thực hiện điều đó mà không gặp chút khó khăn nào. Đây chắc hẳn là thành quả từ sự chỉ dạy nghiêm khắc của Asuna.
+Vốn dĩ, các võ kỹ thuộc chuỗi liên hoàn được thiết kế để tấn công liên tục vào một mục tiêu đơn lẻ, nhưng một khi đã sử dụng thuần thục, người ta hoàn toàn có thể dùng nó để dọn dẹp lũ lính tép riu một cách chớp nhoáng. Kỹ năng của Nakajima đã đạt đến độ chín muồi để thực hiện điều đó mà không gặp chút khó khăn nào. Đây chắc hẳn là thành quả từ sự chỉ dạy nghiêm khắc của Asuna-chan.
 
 Dù sao thì nhờ Nakajima dùng 『Song Liệt』 quét sạch những tên lính Gove cản đường, lối đi phía trước đã hoàn toàn thông thoáng. Đội hậu phương chúng tôi nhờ vậy cũng dễ dàng vượt qua.
 
@@ -52239,25 +52239,25 @@ Tôi thúc Alpha giẫm đạp lên lưng những xác chết Goma nằm la li�
 
 “Hừm, cơ thể tớ vừa mới ấm lên thôi đây này.”
 
-Ueta tự tin trả lời trong khi dùng thanh ma kiếm hệ phong để thổi bùng ngọn lửa lan rộng hơn. Những thành viên khác cũng không một ai tỏ ra nao núng hay e sợ. Tất nhiên, bản thân tôi cũng đã chuẩn bị vô cùng kỹ lưỡng.
+Ueta tự tin đáp lời trong khi dùng thanh ma kiếm hệ phong để thổi bùng ngọn lửa lan rộng hơn. Những thành viên khác cũng không một ai tỏ ra nao núng hay e sợ. Tất nhiên, bản thân tôi cũng đã chuẩn bị vô cùng kỹ lưỡng.
 
 Cho đến hiện tại, cả nhóm vẫn chưa chịu bất kỳ thương vong hay tiêu hao ma lực đáng kể nào, nên chúng tôi hoàn toàn có thể tấn công Nam Môn đúng như kế hoạch ban đầu. Cánh cổng phía nam lớn nhất vương quốc này chắc chắn được canh phòng bởi một lực lượng hùng hậu hơn hẳn lũ lính mà chúng tôi vừa vượt qua. Thế nhưng, với thực lực hiện tại của chúng tôi thì không có gì phải lo lắng. Dù sao thì mục tiêu của chúng tôi cũng đâu phải là mở cổng để đột phá ra ngoài.
 
 “Nhìn thấy rồi kìa—”
 
-Tôi thúc Alpha chạy song song với Yamada đang dẫn đầu, băng qua con phố chợ để tiến vào đại lộ lớn nhất vương quốc, và đập vào mắt chúng tôi chính là Nam Đại Môn. Nơi này vốn dĩ đã được phòng thủ nghiêm ngặt với hai con GoGame Mastera gác cổng thường trực, nhưng lần này lực lượng phòng ngự đã được tăng cường rõ rệt.
+Tôi thúc Alpha chạy song song với Yamada đang dẫn đầu, băng qua con phố chợ để tiến vào đại lộ lớn nhất vương quốc, và đập vào mắt chúng tôi chính là Nam Đại Môn. Nơi này vốn dĩ đã được phòng thủ nghiêm ngặt với hai con Goma Master gác cổng thường trực, nhưng lần này lực lượng phòng ngự đã được tăng cường rõ rệt.
 
-Cánh cổng khổng lồ cao khoảng 5 mét đóng chặt, và đứng chắn trước nó là bốn con GoGame Mastera lực lưỡng. Tất cả bọn chúng đều được trang bị giáp sắt kín kẽ từ đầu đến chân, tay lăm lăm những món vũ khí tỏa ra luồng sáng ma lực thuộc tính rực rỡ.
+Cánh cổng khổng lồ cao khoảng 5 mét đóng chặt, và đứng chắn trước nó là bốn con Goma Master lực lưỡng. Tất cả bọn chúng đều được trang bị giáp sắt kín kẽ từ đầu đến chân, tay lăm lăm những món vũ khí tỏa ra luồng sáng ma lực thuộc tính rực rỡ.
 
-Đáng chú ý nhất chính là một trong bốn con sở hữu tới bốn cánh tay. Không sai vào đâu được, đó chính là con GoGame Mastera bốn tay—tên Boss lớn mà Mei từng tiêu diệt tại kim tự tháp sa mạc. Cả bốn bàn tay của nó đều nắm chặt vũ khí, tạo nên một áp lực vô cùng khủng khiếp.
+Đáng chú ý nhất chính là một trong bốn con sở hữu tới bốn cánh tay. Không sai vào đâu được, đó chính là con Goma Master bốn tay—tên Boss lớn mà Mei-chan từng tiêu diệt tại kim tự tháp sa mạc. Cả bốn bàn tay của nó đều nắm chặt vũ khí, tạo nên một áp lực vô cùng nặng nề.
 
 Nhưng sự xuất hiện của tên này cũng đã nằm trong tính toán của tôi. Đúng là một đối thủ đáng gờm... cơ mà chúng tôi đâu nhất thiết phải tiêu diệt nó, đúng chứ?
 
 “Nào, lên thôi Yokomichi, tập trung tinh thần vào—Giải phóng 『Hệ Biến Thái Hoàn Toàn』!”
 
-Tôi ngồi trên lưng Alpha, giơ cao cây gậy phép làm từ xương Yokomichi—tức 『Vô Đạo Nhất Thức』. Tôi kích hoạt kỹ năng 『Hắc Huyết Mạch』 ở lòng bàn tay để tự làm chảy máu và để cây gậy hấp thụ nó. Nếu không vận hành ở công suất tối đa thì cũng không đến mức bị gai đâm nát tay. Dùng trực tiếp kiểu đó đau lắm, mà cứ phải uống thuốc giảm đau để đối phó thì phiền phức vô cùng.
+Tôi ngồi trên lưng Alpha, giơ cao cây gậy phép làm từ xương Yokomichi—tức 『Vô Đạo Nhất Thức』. Tôi kích hoạt kỹ năng 『Hắc Huyết Mạch』 ở lòng bàn tay để tự làm chảy máu và để cây gậy hấp thụ nó. Nếu không vận hành ở công suất tối đa thì cũng không đến mức bị gai đâm nát tay. Dùng trực tiếp kiểu đó đau lắm, mà cứ phải nốc thuốc giảm đau để đối phó thì phiền phức vô cùng.
 
-Mục tiêu của tôi chính là tên thủ lĩnh phòng ngự Nam Môn—con GoGame Mastera bốn tay kia.
+Mục tiêu của tôi chính là tên thủ lĩnh phòng ngự Nam Môn—con Goma Master bốn tay kia.
 
 “—『Bách Thủ Phược』!”
 
@@ -52273,17 +52273,17 @@ Chính vì lý do đó, việc tôi phải nghiên cứu và thử nghiệm nhi�
 
 Và chiêu thức đầu tiên tôi phát triển chính là 『Bách Thủ Phược』.
 
-Trong trận chiến với Bazuzu, chiêu này đã phát huy lực trói buộc đủ để khóa chặt chuyển động của hắn trong chốc lát dù hắn đã hóa khổng lồ. Lần đó tôi đã giải phóng toàn bộ con mồi tích trữ, nhưng thực chất thứ tôi cần chỉ là những cánh tay để bám chặt lấy đối thủ, cùng với sức mạnh để không bị giật ra và độ bền bỉ để không bị xé rách.
+Trong trận chiến với Bazuzu, chiêu này đã phát huy lực trói buộc đủ để khóa chặt chuyển động của hắn trong chốc lát dù hắn đã hóa khổng lồ. Lần đó tôi đã giải phóng toàn bộ con mồi tích trữ, nhưng thực chất thứ tôi cần chỉ là những cánh tay để bám chặt lấy đối thủ, cùng với sức mạnh để không bị giật đứt và độ bền bỉ để không bị xé rách.
 
-Sau khi hướng tới một kỹ năng khống chế hiệu quả... kết quả là tôi đã tạo ra 『Bách Thủ Phược』—một chiêu thức phóng ra một khối thịt cực kỳ kinh tởm với những cánh tay mọc ra thay cho chân rết.
+Sau khi hướng tới một kỹ năng khống chế hiệu quả... kết quả là tôi đã tạo ra 『Bách Thủ Phược』—một chiêu thức phóng ra khối thịt cực kỳ kinh tởm với những cánh tay mọc ra thay cho chân rết.
 
-Lấy phần thịt lộ rõ những sợi cơ màu đỏ đen làm nền tảng, trên đó mọc ra đủ loại chi thể: từ bàn tay dạng người của Goma và Gove, cánh tay thô kệch của GoGame Mastera, cho đến móng vuốt sắc nhọn của khủng long hay ma vật dạng chim, rồi cả tay gấu, chân ếch... Tóm lại, bất kỳ bộ phận nào có khả năng "bám víu" hay "co quắp" đều được cấy ghép chi chít lên đó.
+Lấy phần thịt lộ rõ những thớ cơ màu đỏ đen làm nền tảng, trên đó mọc ra đủ loại chi thể: từ bàn tay dạng người của Goma và Gove, cánh tay thô kệch của Goma Master, cho đến móng vuốt sắc nhọn của khủng long hay ma vật dạng chim, rồi cả tay gấu, chân ếch... Tóm lại, bất kỳ bộ phận nào có khả năng "bám víu" hay "co quắp" đều được cấy ghép chi chít lên đó.
 
-Khối thịt ngoằn ngoèo dài như một con mãng xà khổng lồ có kích thước ngang ngửa thân người của GoGame Mastera, với hàng loạt cánh tay kỳ dị mọc tua tủa xung quanh, lao thẳng về phía con GoGame Mastera bốn tay với tốc độ kinh hoàng.
+Khối thịt ngoằn ngoèo dài như một con mãng xà khổng lồ có kích thước ngang ngửa thân người của Goma Master, với hàng loạt cánh tay kỳ dị mọc tua tủa xung quanh, lao thẳng về phía con Goma Master bốn tay với tốc độ kinh hoàng.
 
 “Gubera, nba! Gondaruga!?”
 
-Ối chà, ngay cả con GoGame Mastera bốn tay dũng mãnh cũng phải kinh hãi thốt lên trước sự tởm lợm của thứ này. Tôi hoàn toàn hiểu được cảm giác đó của nó. Khi lần đầu tiên thi triển chiêu này, tôi cũng đã tự hỏi bản thân một cách nghiêm túc rằng liệu mình có nên tạo ra một thứ xúc phạm đến sự sống như thế này không. Nhưng tôi vẫn dùng. Vì nó mạnh.
+Ối chà, ngay cả con Goma Master bốn tay dũng mãnh cũng phải kinh hãi thốt lên trước sự tởm lợm của thứ này. Tôi hoàn toàn hiểu được cảm giác đó của nó. Khi lần đầu tiên thi triển chiêu này, tôi cũng đã tự hỏi bản thân một cách nghiêm túc rằng liệu mình có nên tạo ra một thứ xúc phạm đến sự sống như thế này không. Nhưng tôi vẫn dùng. Vì nó mạnh.
 
 Tuy nhiên, quả không hổ danh là Boss lớn, nó nhanh chóng vung cả bốn món vũ khí trên tay lên để chuẩn bị nghênh chiến với 『Bách Thủ Phược』 đang lao tới.
 
@@ -52291,17 +52291,17 @@ Tuy nhiên, quả không hổ danh là Boss lớn, nó nhanh chóng vung cả b�
 
 Ngay lập tức, chiếc dao găm phát sáng do Ueta ném ra phát nổ ngay trước mặt nó. Một sự phối hợp vô cùng chuẩn xác.
 
-Luồng sáng chói lòa bùng lên chỉ làm nó mất thị giác trong tích tắc. Thế nhưng, khoảng thời gian ngắn ngủi đó là quá đủ để 『Bách Thủ Phược』 đã áp sát đến nơi quấn chặt lấy bốn cánh tay của nó.
+Luồng sáng chói lòa bùng lên chỉ làm nó mất thị giác trong tích tắc. Thế nhưng, khoảng thời gian ngắn ngủi đó là quá đủ để 『Bách Thủ Phược』 áp sát đến nơi và quấn chặt lấy bốn cánh tay của nó.
 
 “Buguru, bundagoooo!”
 
-Chưa kịp phô diễn kỹ năng song kiếm bốn tay đầy tự hào thì đã bị khối thịt kinh tởm quấn chặt, con GoGame Mastera bốn tay chỉ biết gầm lên bất lực. Dù sở hữu tới bốn cánh tay khỏe mạnh, nhưng số lượng cánh tay quái dị bám chặt lấy nó còn nhiều hơn thế gấp bội, hoàn toàn khóa chặt mọi cử động của nó.
+Chưa kịp phô diễn kỹ năng song kiếm bốn tay đầy tự hào thì đã bị khối thịt kinh tởm quấn chặt, con Goma Master bốn tay chỉ biết gầm lên bất lực. Dù sở hữu tới bốn cánh tay vạm vỡ, nhưng số lượng cánh tay quái dị bám chặt lấy nó còn nhiều hơn thế gấp bội, hoàn toàn khóa chặt mọi cử động của nó.
 
 *Tốt lắm, với đà này thì giữ chân nó trong vòng 30 giây là chuyện quá đơn giản.* Trong các trò chơi hành động, một kỹ năng có thể khống chế đối thủ tới 30 giây thì đúng là một lỗi game cực kỳ bá đạo rồi. Khoảng thời gian câu giờ này là quá đủ cho chúng tôi.
 
 “Đến lượt cậu đấy, Hayama-kun!”
 
-“Được rồi! Trông cậy vào cậu đấy, Kinako ooooo!”
+“Được rồi! Trông cậy vào cậu đấy, Kinakoooooo!”
 
 “Pugaaaaaaa!”
 
@@ -52321,21 +52321,21 @@ Hiện ra từ vầng sáng đó là Linh thú Kinako, thực thể đã hoàn t
 
 “Nba! Nba!”
 
-Trước sự xuất hiện đột ngột của một con quái vật khổng lồ cấp độ Rồng, lũ GoGame Mastera gác cổng cũng không khỏi kinh hoàng. Điều đó cũng dễ hiểu thôi, bởi Linh thú Kinako là một thực thể siêu việt đủ sức đối đầu trực diện và đè bẹp cả một tên Gira-GoGame Mastera. Đối với lũ GoGame Mastera gác cổng này, Kinako rõ ràng là một sự tồn tại vượt trội hơn hẳn mà chúng không thể nào đối phó nổi.
+Trước sự xuất hiện đột ngột của một con quái vật khổng lồ cấp độ Rồng, lũ Goma Master gác cổng cũng không khỏi kinh hoàng. Điều đó cũng dễ hiểu thôi, bởi Linh thú Kinako là một thực thể siêu việt đủ sức đối đầu trực diện và đè bẹp cả một tên Gira-Gogma. Đối với lũ Goma Master gác cổng này, Kinako rõ ràng là một sự tồn tại vượt trội hơn hẳn mà chúng không thể nào đối phó nổi.
 
 “Gư ràaaaaaa!”
 
-Cùng với tiếng gầm dữ tợn, Linh thú Kinako vung nắm đấm lao vào con GoGame Mastera gần nhất. Cú đấm mang sức mạnh khủng khiếp từng đập tan xác Yokomichi ở dạng biến thái hoàn toàn và đánh bay tên Bazuzu hóa khổng lồ giáng xuống, khiến con GoGame Mastera dù đã trang bị giáp sắt kín kẽ cũng không thể nào chống đỡ nổi.
+Cùng với tiếng gầm dữ tợn, Linh thú Kinako vung nắm đấm lao vào con Goma Master gần nhất. Cú đấm mang sức mạnh khủng khiếp từng đập tan xác Yokomichi ở dạng biến thái hoàn toàn và đánh bay tên Bazuzu hóa khổng lồ giáng xuống, khiến con Goma Master dù đã trang bị giáp sắt kín kẽ cũng không thể nào chống đỡ nổi.
 
-*Rầm!* Một tiếng động chói tai vang lên, lớp giáp ngực dày cộp của con GoGame Mastera bị đấm lõm hẳn vào trong. Cơ thể khổng lồ của nó bay thẳng về phía sau, đập mạnh vào cánh cổng đang đóng chặt. Cú va chạm mạnh đến mức làm rung chuyển cả cánh cổng lớn, khiến vài tên cung thủ Gove đang đứng trên tường thành mất thăng bằng ngã nhào xuống đất.
+*Rầm!* Một tiếng động chói tai vang lên, lớp giáp ngực dày cộp của con Goma Master bị đấm lõm hẳn vào trong. Cơ thể khổng lồ của nó bay thẳng về phía sau, đập mạnh vào cánh cổng đang đóng chặt. Cú va chạm mạnh đến mức làm rung chuyển cả cánh cổng lớn, khiến vài tên cung thủ Gove đang đứng trên tường thành mất thăng bằng ngã nhào xuống đất.
 
 “Zenba, gudaba!”
 
 “Dungaaaa!”
 
-Thế nhưng lũ GoGame Mastera gác cổng này quả thực là những chiến binh tinh nhuệ. Đối mặt với một con ma thú vượt trội như Kinako, chúng không hề nao núng mà lập tức giương vũ khí lên nghênh chiến.
+Thế nhưng lũ Goma Master gác cổng này quả thực là những chiến binh tinh nhuệ. Đối mặt với một con ma thú vượt trội như Kinako, chúng không hề nao núng mà lập tức giương vũ khí lên nghênh chiến.
 
-Tuy nhiên, điều quan trọng nhất vào lúc này chính là con GoGame Mastera bị đánh bay đầu tiên vẫn đang nằm đo đất.
+Tuy nhiên, điều quan trọng nhất vào lúc này chính là con Goma Master bị đánh bay đầu tiên vẫn đang nằm đo đất.
 
 “Kyouko.”
 
@@ -52349,13 +52349,13 @@ Chiêu 『Thổ Tinh Pháo』 này là ma pháp tấn công có uy lực mạnh 
 
 *Ầmmmmm!*
 
-Một tiếng nổ kinh hoàng còn lớn hơn cả cú đấm trước đó của Kinako vang lên. Khối đá khổng lồ được bắn ra găm thẳng vào con GoGame Mastera đang nằm dưới đất. Quả pháo đá khổng lồ có kích thước bao trùm cả cơ thể của con GoGame Mastera đã nghiền nát hoàn toàn cơ thể nó.
+Một tiếng nổ kinh hoàng còn lớn hơn cả cú đấm trước đó của Kinako vang lên. Khối đá khổng lồ được bắn ra găm thẳng vào con Goma Master đang nằm dưới đất. Quả pháo đá khổng lồ có kích thước bao trùm cả cơ thể của con Goma Master đã nghiền nát hoàn toàn cơ thể nó.
 
 Bụi đất mù mịt bốc lên, cùng lúc đó, một lượng máu thịt khổng lồ bị ép ra từ cơ thể nát bét bắn tung tóe lên cánh cổng. Dưới tảng đá khổng lồ, chỉ còn lại một phần bàn chân của nó thò ra ngoài và co giật liên hồi.
 
 “Hạ được một con rồi! Lực trói buộc vẫn còn tác dụng, tiếp tục đi!”
 
-Lũ GoGame Mastera còn tự do chỉ còn lại hai con. Trong số đó, một con cứ để Kinako tự giải quyết. Con còn lại sẽ giao cho đội tiên phong của chúng tôi.
+Lũ Goma Master còn tự do chỉ còn lại hai con. Trong số đó, một con cứ để Kinako tự giải quyết. Con còn lại sẽ giao cho đội tiên phong của chúng tôi.
 
 “Cứ giao cho tớ—Mục tiêu sẽ là tên cầm búa kia!”
 
@@ -52369,9 +52369,9 @@ Cái cách Yamada lao lên khiến tôi cứ ngỡ cậu ta sẽ tông thẳng c
 
 “Da, guboga!?”
 
-Con GoGame Mastera gác cổng vẫn kịp phản xạ trước cú bổ rìu cực mạnh từ trên không của Yamada. Nó giơ cao chiếc búa khổng lồ có cán thép dày cộp—tỏa ra luồng sáng màu xanh lam chứng tỏ nó mang thuộc tính băng hoặc thủy—để đỡ lấy đòn tấn công của Yamada.
+Con Goma Master gác cổng vẫn kịp phản xạ trước cú bổ rìu cực mạnh từ trên không của Yamada. Nó giơ cao chiếc búa khổng lồ có cán thép dày cộp—tỏa ra luồng sáng màu xanh lam chứng tỏ nó mang thuộc tính băng hoặc thủy—để đỡ lấy đòn tấn công của Yamada.
 
-Thế nhưng, cú bổ rìu dồn toàn bộ trọng lượng và sức mạnh từ trên cao của Yamada không phải là thứ mà ngay cả một con GoGame Mastera có thể dễ dàng hóa giải. Nó bị ép phải khụy gối xuống, cơ thể cứng đờ ra để chống đỡ lực chấn động khủng khiếp đó.
+Thế nhưng, cú bổ rìu dồn toàn bộ trọng lượng và sức mạnh từ trên cao của Yamada không phải là thứ mà ngay cả một con Goma Master có thể dễ dàng hóa giải. Nó bị ép phải khụy gối xuống, cơ thể cứng đờ ra để chống đỡ lực chấn động khủng khiếp đó.
 
 Và đối với đội tiên phong hiện tại, họ đã sở hữu khả năng phối hợp nhịp nhàng để tận dụng triệt để ngay cả một sơ hở nhỏ nhất như vậy.
 
@@ -52379,29 +52379,29 @@ Và đối với đội tiên phong hiện tại, họ đã sở hữu khả nă
 
 “Chết đi! 『Đại Đoạn Kích Phá』!”
 
-Nhắm vào con GoGame Mastera đang bất động trong tư thế chống đỡ, cặp đôi Ueta và Yoshizaki từ hai bên sườn lập tức áp sát và tung ra những võ kỹ mạnh nhất của mình.
+Nhắm vào con Goma Master đang bất động trong tư thế chống đỡ, cặp đôi Ueta và Yoshizaki từ hai bên sườn lập tức áp sát và tung ra những võ kỹ mạnh nhất của mình.
 
-Tên Bon từng chống chịu được đòn tấn công có uy lực tương đương thế này, nhưng đối với một con GoGame Mastera thông thường thì sao?
+Tên Bon từng chống chịu được đòn tấn công có uy lực tương đương thế này, nhưng đối với một con Goma Master thông thường thì sao?
 
 Lớp giáp thép bảo vệ hai chân của nó bắn ra những tia lửa tung tóe để chống đỡ võ kỹ, nhưng rõ ràng nó không thể chịu nổi một đòn trực diện mạnh đến thế. Thanh kiếm của Ueta đã chém rách lớp giáp bảo vệ một cách gọn gàng, trong khi cây rìu của Mari đập nát phần giáp còn lại. Sau khi phá vỡ lớp phòng ngự của giáp sắt, hai võ kỹ vẫn giữ nguyên uy lực găm thẳng vào da thịt của nó.
 
 “Nboooooo!”
 
-Hai bên đùi bị chém đứt hơn một nửa, con GoGame Mastera gầm lên đau đớn rồi đổ sụp cơ thể khổng lồ xuống.
+Hai bên đùi bị chém đứt hơn một nửa, con Goma Master gầm lên đau đớn rồi đổ sụp cơ thể khổng lồ xuống.
 
 “Chết đi!”
 
 Ngay khi nó ngã ngửa ra đất, Yamada—người đã giương sẵn rìu như một đao phủ—lập tức giáng đòn kết liễu xuống cổ con quái vật. Một nhát chém cực kỳ mạnh mẽ và chuẩn xác không lệch một li đã chặt đứt lìa đầu nó, khiến chiếc đầu khổng lồ lăn lóc trên mặt đất.
 
-Tốt lắm, vậy là con GoGame Mastera thứ hai đã bị tiêu diệt.
+Tốt lắm, vậy là con Goma Master thứ hai đã bị tiêu diệt.
 
 À không, là con thứ ba chứ.
 
 “Gàaaaa! Gòooooo!”
 
-Ngay bên cạnh, Kinako đang điên cuồng nện nắm đấm xuống đất. Nói đúng hơn là nó đang giã nát con GoGame Mastera đã ngã xuống.
+Ngay bên cạnh, Kinako đang điên cuồng nện nắm đấm xuống đất. Nói đúng hơn là nó đang giã nát con Goma Master đã ngã xuống.
 
-Cú đấm mạnh đến mức làm lún cả cơ thể to khỏe của con GoGame Mastera xuống lòng đất. Mỗi lần nắm đấm giáng xuống, máu thịt cùng những mảnh giáp vỡ lại bắn tung tóe khắp nơi.
+Cú đấm mạnh đến mức làm lún cả cơ thể to khỏe của con Goma Master xuống lòng đất. Mỗi lần nắm đấm giáng xuống, máu thịt cùng những mảnh giáp vỡ lại bắn tung tóe khắp nơi.
 
 “Thế là đủ rồi, rút lui thôi.”
 
@@ -52411,11 +52411,11 @@ Nghe tiếng gọi của Hayama, Kinako nhanh chóng quay người chạy về p
 
 Theo sau Kinako, đội tiên phong cũng nhanh chóng rút lui.
 
-Ngoại trừ con GoGame Mastera bốn tay, ba con gác cổng còn lại đều đã bị tiêu diệt hoàn toàn. Chiến quả thế này là quá đủ rồi. Việc còn lại chỉ là phóng hỏa thiêu rụi cánh cổng này thôi.
+Ngoại trừ con Goma Master bốn tay, ba con gác cổng còn lại đều đã bị tiêu diệt hoàn toàn. Chiến quả thế này là quá đủ rồi. Việc còn lại chỉ là phóng hỏa thiêu rụi cánh cổng này thôi.
 
 Mà thực ra thì đội hậu phương chúng tôi đã bắt đầu phóng hỏa từ nãy giờ rồi.
 
-Tôi và Himeno liên tục dùng súng phóng khí nã lựu đạn cháy để tạo ra những bức tường lửa, ngăn cản lũ cung thủ trên tường thành quấy rối. Nakajima cũng tập trung bắn liên tiếp các ma pháp thuộc tính hỏa.
+Tôi và Himeno-san liên tục dùng súng phóng khí nã lựu đạn cháy để tạo ra những bức tường lửa, ngăn cản lũ cung thủ trên tường thành quấy rối. Nakajima cũng tập trung bắn liên tiếp các ma pháp thuộc tính hỏa.
 
 Và cậu ta sẽ là người thực hiện bước hoàn thiện cuối cùng.
 
@@ -52431,9 +52431,9 @@ Ma pháp được kích hoạt là một phép phòng ngự diện rộng cấp 
 
 “Có vũ khí ma pháp quý giá rơi ra thì dĩ nhiên là phải nhặt rồi.”
 
-Sau khi giải trừ khống chế đối với con GoGame Mastera bốn tay, tôi điều khiển 『Bách Thủ Phược』 vung mạnh một cái để thu gom toàn bộ vũ khí rơi ra từ ba con GoGame Mastera đã chết. Thực lòng tôi cũng muốn cuỗm luôn vũ khí của con bốn tay kia, nhưng tham lam quá đà trong những tình huống thế này rất dễ gặp nguy hiểm. Vì vậy tôi đành bằng lòng với ba món vũ khí này vậy.
+Sau khi giải trừ khống chế đối với con Goma Master bốn tay, tôi điều khiển 『Bách Thủ Phược』 vung mạnh một cái để thu gom toàn bộ vũ khí rơi ra từ ba con Goma Master đã chết. Thực lòng tôi cũng muốn cuỗm luôn vũ khí của con bốn tay kia, nhưng tham lam quá đà trong những tình huống thế này rất dễ gặp nguy hiểm. Vì vậy tôi đành bằng lòng với ba món vũ khí này vậy.
 
-Vừa nhét đống vũ khí thu hoạch được cho Himeno đang ngồi trên chiếc Loyrops số 1—vốn đóng vai trò là xe cứu thương kiêm xe chở đồ—chúng tôi vừa tiếp tục cất bước chạy.
+Vừa nhét đống vũ khí thu hoạch được cho Himeno-san đang ngồi trên chiếc Loyrops số 1—vốn đóng vai trò là xe cứu thương kiêm xe chở đồ—chúng tôi vừa tiếp tục cất bước chạy.
 
 Bỏ lại sau lưng Nam Đại Môn đang chìm trong biển lửa, mục tiêu tiếp theo của chúng tôi là Đông Môn—nơi được chọn làm điểm cố thủ. Cho đến lúc này, kế hoạch vẫn đang tiến triển vô cùng thuận lợi.
 
@@ -52447,245 +52447,247 @@ Thế nhưng, việc chúng tôi gây ra một vụ náo loạn rõ ràng như t
 
 Khói đen cuồn cuộn bốc lên che phủ bầu trời. Vừa lắng nghe tiếng la hét và gào rú thảm thiết của lũ Goma vọng lại từ đằng xa, tôi vừa điều khiển Alpha phóng đi.
 
-Bản thể tôi ở phía này hiện đang hành động đơn độc. Ngay sau khi phóng hỏa Nam Đại Môn, tôi đã tách ra thành bản thể chính và phân thân từ 『Song Ảnh』, một bên cưỡi Alpha đơn thương độc mã phóng đi.
+Bản thể tôi ở phía này hiện đang hành động đơn độc. Ngay sau khi phóng hỏa Nam Đại Môn, tôi đã tách thành bản thể chính và phân thân từ 『Song Ảnh』, một mình cưỡi Alpha đơn thương độc mã xông vào sâu bên trong.
 
 Nhiệm vụ của tôi đương nhiên là đặt những quả bom lõi — chìa khóa để đánh sập vương quốc này.
 
-Vương quốc Goma được xây dựng trên phần trần nhà bao quanh Tháp Trung Tâm. Khu vực tầng sâu nhất này thực chất không có tầng nào thấp hơn nữa... thế nhưng riêng Tháp Trung Tâm lại kéo dài xuống dưới thêm hàng trăm mét. Nói cách khác, khu vực này giống như một cái hố sụt khổng lồ có bán kính vài cây số với tâm là tòa tháp. Vì vậy, mặt đất ở đây không phải là đất đá vững chãi, mà chỉ như một tấm màn che mỏng manh đậy lên miệng hố.
+Vương quốc Goma được xây dựng trên phần trần vòm bao quanh Tháp Trung Tâm. Khu vực tầng sâu nhất này thực chất không có tầng nào thấp hơn nữa... thế nhưng riêng Tháp Trung Tâm lại cắm sâu xuống dưới thêm hàng trăm mét. Nói cách khác, khu vực này giống như một miệng vực khổng lồ có bán kính vài cây số với tâm là tòa tháp. Vì vậy, mặt đất ở đây không phải là tầng địa chất vững chãi, mà chỉ như một tấm nắp đậy mỏng manh bắc ngang miệng hố.
 
 Việc dùng bom để đánh sập điểm tựa này chính là mấu chốt của toàn bộ chiến dịch. Riêng bước này tuyệt đối không được phép thất bại.
 
-Từ phòng máy chủ nơi lũ đầu lĩnh họp bàn, tôi đã thu thập tối đa thông tin kiến trúc và cắt đứt nguồn cung cấp ma lực duy trì di tích. Hiện tại, bệ đỡ nâng đỡ vương quốc chỉ còn được duy trì bằng độ bền vật lý thuần túy.
+Từ phòng máy chủ nơi lũ đầu lĩnh họp bàn, tôi đã thu thập tối đa thông tin kiến trúc và cắt đứt nguồn cung cấp ma lực duy trì di tích. Hiện tại, bệ đỡ nâng toàn bộ vương quốc chỉ còn gượng lại nhờ độ bền vật lý thuần túy.
 
-Chỉ cần thổi bay vài cây cột trụ ở đây, phần bệ đỡ vốn đã phải gánh một lượng đất khổng lồ cùng hàng loạt công trình kiến trúc bên trên chắc chắn sẽ đổ sụp ngay lập tức... *ít nhất là theo lý thuyết.*
+Chỉ cần thổi bay vài cây cột trụ chịu lực ở đây, phần bệ đỡ vốn đang phải gánh một lượng đất đá khổng lồ cùng hàng loạt công trình kiến trúc bên trên chắc chắn sẽ đổ sụp ngay lập tức... *ít nhất là theo lý thuyết.*
 
-Tôi đâu phải chuyên gia phá dỡ hay chất nổ gì. Đến cả thuốc nổ dynamite tôi còn chưa từng chạm vào, kiến thức về xây dựng lại càng không. Những gì tôi có lúc này chỉ là mớ kiến thức vật lý thời cấp ba. Mà vì mới học lớp 11 nên tôi còn chưa học hết chương trình Vật lý II nữa cơ.
+Tôi đâu phải chuyên gia phá dỡ hay dân chế thuốc nổ. Đến cả một thỏi dynamite tôi còn chưa từng chạm vào, kiến thức về kết cấu xây dựng lại càng không. Những gì tôi có lúc này chỉ là mớ kiến thức vật lý thời cấp ba. Mà vì mới học lớp 11 nên tôi còn chưa học hết chương trình Vật lý II nữa cơ.
 
-Liệu có thực sự phá hủy được cột trụ không? Liệu phá hủy những cây cột đã nhắm vào có thực sự làm sập cả vương quốc không? Hàng tá nỗi lo sợ vẫn bủa vây, biến đây trở thành canh bạc lớn nhất trong chiến dịch lần này.
+Liệu có thực sự phá hủy được cột trụ không? Liệu phá hủy những cây cột đã nhắm tới có thực sự làm sập cả vương quốc không? Hàng tá nỗi âu lo vẫn bủa vây, biến đây trở thành canh bạc lớn nhất trong chiến dịch lần này.
 
-Dù đã thử chọn vài công trình có kích thước và chất liệu tương tự ở khu phố di tích để thử nghiệm cho nổ bằng bom lõi, nhưng tôi vẫn không dám khẳng định chắc chắn một trăm phần trăm.
+Dù đã thử chọn vài công trình có kích thước và chất liệu tương tự ở khu phố phế tích để nổ thử nghiệm bằng bom lõi, nhưng tôi vẫn không dám khẳng định chắc chắn một trăm phần trăm.
 
 Dẫu vậy, tôi đã làm tất cả những gì có thể. Gom góp toàn bộ số lõi hiện có, tôi đã chế tạo ra số lượng bom tối đa. Nếu không có số lõi ma vật cấp Boss mà Natsukawa lén tuồn cho, chắc chắn tôi không thể chuẩn bị được nhiều đến thế.
 
 Mang theo chiếc túi chứa đầy những quả bom lõi — kết tinh từ nỗ lực của tất cả mọi người, Alpha lặng lẽ và nhanh chóng lướt qua màn đêm.
 
-Nhiệm vụ của bản đội và đội dương đông kích tây là làm loạn thật hoành tráng, còn tôi là lẻn vào đặt bom. Vì thế, tôi cũng đã chuẩn bị trang bị phù hợp.
+Nhiệm vụ của bản đội và đội nghi binh là làm loạn thật hoành tráng, còn tôi là lẻn vào đặt bom. Vì thế, tôi cũng đã chuẩn bị trang bị chuyên dụng.
 
-Cả tôi và Alpha đều được phủ kín bằng những tấm vải rách để hòa vào cảnh quan của vương quốc. Thêm vào đó, tôi còn thi triển ảo ảnh từ 『Hư Ảnh Tương Chiếu』 để ngụy trang thành một mảnh vải rách bị gió thổi bay. Nếu chỉ nhìn lướt qua, chắc chắn không ai nhận ra có một con người đang cưỡi trên lưng Raptor.
+Cả tôi và Alpha đều được phủ kín bằng những tấm vải rách để hòa vào cảnh quan của vương quốc. Thêm vào đó, tôi còn thi triển ảo ảnh từ 『Hư Ảnh Tương Chiếu』 để ngụy trang thành một mảnh giẻ rách bị gió cuốn bay. Nếu chỉ nhìn lướt qua, chắc chắn không ai nhận ra có một con người đang cưỡi trên lưng Raptor.
 
-Hơn nữa, tôi còn trang bị 『Cây Gậy Ẩn Mật』 tích hợp 『Đầu Lâu Của Xạ Thủ』 mà phân thân lẻn vào vương quốc trước đó đã dùng chim Rem thu hồi lại. Khoác lên mình bộ đồ ngụy trang ghillie bằng vải rách, kết hợp ảo ảnh và kỹ năng che giấu hiện diện, tôi — với trang bị chuyên hóa ẩn mật tốt nhất hiện tại — vẫn chưa hề bị phát hiện.
+Hơn nữa, tôi còn trang bị 『Cây Gậy Ẩn Mật』 tích hợp 『Đầu Lâu Của Xạ Thủ』 mà phân thân lẻn vào vương quốc trước đó đã dùng chim Rem thu hồi lại. Khoác lên mình bộ đồ ngụy trang ghillie bằng vải rách, kết hợp ảo ảnh và kỹ năng che giấu hiện diện, tôi — với trang bị chuyên hóa ẩn mật tối tân nhất hiện tại — vẫn chưa hề bị phát hiện.
 
 Hiện tại, tôi đã đặt xong bom ở hai vị trí. Bây giờ tôi đang hướng tới điểm thứ ba, nằm gần Đông Môn — nơi bản đội cũng đang nhắm tới... nhưng mà...
 
-“Quả nhiên mọi chuyện không suôn sẻ như vậy nhỉ.”
+“Quả nhiên mọi chuyện chẳng bao giờ êm xuôi như tính toán nhỉ.”
 
-Tại mục tiêu đang hiện ra trước mắt, một đội tuần tra Goma đang túc trực ở đó.
+Tại mục tiêu đang hiện ra trước mắt, một đội tuần tra Goma đang túc trực dày đặc.
 
-Tất nhiên, bọn chúng canh gác ở đây không phải vì biết ý đồ của tôi. Đơn giản là vì nơi đó có một cơ sở luôn cần được bảo vệ nghiêm ngặt.
+Tất nhiên, bọn chúng canh gác ở đây không phải vì đánh hơi được ý đồ của tôi. Đơn giản là vì nơi đó có một cơ sở trọng yếu luôn cần được bảo vệ nghiêm ngặt.
 
-Đó là một nhà kho bằng đá được xây dựng gần Đông Môn. Việc bọn chúng cất công xây bằng đá chứ không phải bằng gỗ chứng tỏ đây không phải là kho lương thực hay kho chứa đồ thông thường. Theo những gì tôi tìm hiểu sơ qua, nơi này dường như là kho chứa đồ quý giá.
+Đó là một nhà kho bằng đá được xây dựng gần Đông Môn. Việc bọn chúng cất công xây bằng đá kiên cố chứ không phải bằng gỗ tạm bợ chứng tỏ đây không phải là kho lương thực hay kho chứa đồ thông thường. Theo những gì tôi nắm được sơ bộ, nơi này là kho chứa đồ quý giá.
 
-Kim loại tinh luyện từ xưởng rèn, lõi ma vật từ một kích cỡ nhất định trở lên, và cả một ít vũ khí dự phòng. Ngoài ra còn có các mặt hàng xa xỉ như rượu và đường.
+Kim loại tinh luyện từ xưởng rèn, lõi ma vật từ một kích cỡ nhất định trở lên, và cả một lượng vũ khí dự phòng. Ngoài ra còn có các mặt hàng xa xỉ phẩm như rượu và đường.
 
-Ở mỗi cổng thành đều có lính canh GoGame Mastera dẫn đầu cùng binh lính Goma có địa vị nhất định, nên tôi đoán những món đồ này có lẽ là dành cho bọn chúng. Toàn là những thứ mà lũ Goma thường hay tạp binh không đời nào chạm vào được.
+Ở mỗi cổng thành đều có lính canh Gogma dẫn đầu cùng binh lính Goma có địa vị nhất định, nên tôi đoán những món đồ này là dành cho tầng lớp chỉ huy của bọn chúng. Toàn là những thứ mà lũ Goma thường hay đám tạp binh không đời nào có cửa chạm vào.
 
-Việc xây kho bằng đá và bố trí lính canh có lẽ là để đề phòng những kẻ trộm cắp nội bộ chứ không phải ngoại địch như chúng tôi... Chậc, lũ khốn này, trong tình cảnh thế này mà vẫn canh gác nghiêm túc thế cơ chứ.
+Việc xây kho bằng đá và bố trí lính canh có lẽ là để đề phòng trộm cắp nội bộ hơn là ngoại địch như chúng tôi... Chậc, lũ khốn này, trong tình cảnh hỗn loạn thế này mà vẫn bám chốt nghiêm túc thế cơ chứ.
 
 “Đi solo những lúc thế này đúng là cực thật.”
 
-Đội hình của chúng gồm vài tên lính Gove và mười mấy con Goma. Một lực lượng mà chỉ cần một mình Ueta cũng có thể quét sạch trong chưa đầy một phút, nhưng với một 『Chú thuật sư』 thiếu thốn sát thương như tôi thì quả là một bài toán nan giải.
+Đội hình của chúng gồm vài tên lính Gove và mười mấy con Goma. Một lực lượng mà chỉ cần một mình Ueta cũng có thể quét sạch trong chưa đầy một phút, nhưng với một 『Chú thuật sư』 thiếu thốn sát thương diện rộng như tôi thì quả là một bài toán nan giải.
 
-Nếu có thời gian, tôi có thể dùng chú thuật để tỉa từng đứa một mà không bị phát hiện, nhưng lúc này tôi không có thì giờ để thong thả như vậy. Vẫn còn rất nhiều điểm đặt bom rải rác khắp vương quốc.
+Nếu có thời gian, tôi có thể dùng chú thuật để tỉa từng đứa một mà không bị đánh động, nhưng lúc này tôi không có thì giờ để thong dong như vậy. Vẫn còn rất nhiều điểm đặt bom rải rác khắp vương quốc.
 
-Dù Rem khi nghiêm túc có thể giết sạch bọn chúng trong nháy mắt, nhưng hiện tại phần lớn khả năng kiểm soát của tôi đã phải chia cho đội dương đông kích tây, nên Alpha chỉ có thể di chuyển cơ động chứ không thể kỳ vọng vào khả năng chiến đấu.
+Dù Rem khi bung toàn lực có thể đồ sát sạch bọn chúng trong nháy mắt, nhưng hiện tại phần lớn khả năng kiểm soát của tôi đã phải chia cho đội nghi binh, nên Alpha chỉ có thể cơ động di chuyển chứ không thể kỳ vọng vào khả năng cận chiến.
 
-Nếu tôi chậm trễ trong việc đặt bom, thời gian cố thủ của bản đội sẽ kéo dài thêm. Thời gian kéo dài càng lâu, nguy cơ lũ Gira-GoGame Mastera xuất hiện càng lớn. Tôi muốn kích nổ đánh sập nơi này ngay khi bọn chúng kéo ra. Tuyệt đối phải tránh việc giao chiến với những con Gira-GoGame Mastera còn lại. Chỉ riêng một mình Zagan thôi đã là mối đe dọa cực kỳ khủng khiếp đối với chúng tôi rồi.
+Nếu tôi chậm trễ trong việc đặt bom, thời gian cố thủ của bản đội sẽ kéo dài thêm. Thời gian kéo dài càng lâu, nguy cơ lũ Gira-Gogma xuất hiện càng lớn. Tôi muốn kích nổ đánh sập nơi này ngay khi bọn chúng vừa kéo ra. Tuyệt đối phải tránh việc giao chiến trực diện với những con Gira-Gogma còn lại. Chỉ riêng một mình Zagan thôi đã là mối đe dọa cực kỳ khủng khiếp đối với chúng tôi rồi.
 
-“Thế nên, lần này tôi xin phép dùng vũ lực để thông đường vậy——Nào, cho ta mượn sức mạnh của ngươi, Bazuzu.”
+“Thế nên, lần này tôi xin phép dùng vũ lực để mở đường vậy——Nào, cho ta mượn sức mạnh của ngươi, Bazuzu.”
 
-Tôi lấy ra một hộp sọ nhuốm màu đỏ đen như máu. Đó là đầu lâu của Bazuzu, một Gira-GoGame Mastera.
+Tôi lấy ra một hộp sọ nhuốm màu đỏ đen như máu. Đó là đầu lâu của Bazuzu, một Gira-Gogma.
 
-Trước đây, tôi thường gắn nguyên vẹn hộp sọ lên 『Cây Gậy Của Kẻ Ngốc』 để sử dụng, nhưng riêng đầu lâu của Bazuzu này đã được tôi gia công lại rất nhiều.
+Trước đây, tôi thường gắn nguyên vẹn hộp sọ lên 『Cây Gậy Của Kẻ Ngốc』 để kích hoạt thuật thức, nhưng riêng đầu lâu của Bazuzu này đã được tôi đẽo gọt và gia công lại rất nhiều.
 
 Nó có hình dạng giống như một chiếc mặt nạ.
 
-Một chiếc mặt nạ đầu lâu quỷ, giữ lại khoảng một nửa phần sọ. Ở mặt trong, tôi đã khắc chi chít các thuật thức ma pháp thô sơ kiểu Goma. Nói thật, chính tôi cũng không hiểu rõ tại sao nó lại hoạt động được, nhưng cứ chạy tốt là được nên tôi cứ để thế.
+Một chiếc mặt nạ đầu lâu quỷ, giữ lại khoảng một nửa phần sọ trên. Ở mặt trong, tôi đã khắc chi chít các thuật thức ma pháp thô sơ theo phong cách của tộc Goma. Nói thật, chính tôi cũng chẳng hiểu cặn kẽ tại sao nó lại vận hành được, nhưng miễn là chạy trơn tru thì tôi cứ thế mà dùng thôi.
 
-Tôi đeo chiếc mặt nạ đầu lâu Bazuzu kỳ dị đó lên mặt.
+Tôi áp chiếc mặt nạ đầu lâu Bazuzu kỳ dị đó lên mặt.
 
-“Biến thân————『Thi hài giáp』.”
+“Biến thân————『Thi Hài Giáp』.”
 
-Dưới chân tôi không phải là cái bóng thông thường, mà là một hiện tượng kỳ bí đen kịt xoáy cuộn như thứ hỗn mang xuất hiện khi triệu hồi Rem. Như thể bò lên từ đầm lầy đen không đáy, một khối thịt đỏ đen uốn lượn như rắn, lập tức quấn chặt lấy cơ thể tôi.
+Dưới chân tôi không phải là cái bóng đổ thông thường, mà là một vùng bóng tối đen kịt cuộn xoáy như thứ hỗn mang xuất hiện mỗi khi triệu hồi Rem. Như thể trồi lên từ đầm lầy đen không đáy, những thớ thịt đỏ đen uốn lượn như rắn lập tức bò lên, quấn chặt lấy toàn thân tôi.
 
-Những xúc tu thịt trông có vẻ kinh tởm quấn quanh khắp người, nhưng kỳ lạ thay, tôi không hề cảm thấy khó chịu. Cảm giác đó giống như chính tay mình đang chạm vào cơ thể mình vậy.
+Những xúc tu thịt trông đầy gớm ghiếc quấn quanh khắp người, nhưng kỳ lạ thay, tôi không hề cảm thấy ghê tởm hay khó chịu. Cảm giác ấy tự nhiên như thể chính tay mình đang chạm vào da thịt mình vậy.
 
-Cứ thế, chỉ trong nháy mắt, toàn thân tôi đã bị bao bọc trong khối thịt——và khi mở mắt ra lần nữa, tầm nhìn của tôi đã cao hơn trước rất nhiều.
+Cứ thế, chỉ trong nháy mắt, toàn thân tôi đã bị bao bọc kín mít trong khối thịt cơ bắp——và khi mở mắt ra lần nữa, tầm nhìn của tôi đã cao hơn trước rất nhiều.
 
-“Ừm, độ nhạy tốt. Cảm giác như hệ thống hoạt động trơn tru vậy.”
+“Ừm, độ phản hồi tốt. Hệ thống vận hành rất mượt mà.”
 
-Nếu ở đây có một tấm gương, tôi sẽ thấy mình đã biến thành một thực thể giống như một con quỷ đỏ khổng lồ.
+Nếu ở đây có một tấm gương, tôi sẽ thấy mình đã biến thành một thực thể dữ tợn tựa như một con ác quỷ đỏ khổng lồ.
 
-Đây chính là chú thuật mới do tôi tự phát triển: 『Thi hài giáp』.
+Đây chính là chú thuật mới do tôi tự nghiên cứu phát triển: 『Thi Hài Giáp』.
 
-Tuy nhiên, thực chất nó cũng không phải thứ gì quá ghê gớm. Nó không phải là năng lực biến bản thân thành ma vật dựa trên nguyên liệu của chúng, cũng chẳng phải bộ giáp sinh học cường hóa gì.
+Tuy nhiên, thực chất nó cũng không phải thứ gì quá đỗi thần thánh. Nó không phải là năng lực biến bản thân thành ma vật dựa trên vật liệu sinh học, cũng chẳng phải bộ giáp cường hóa công nghệ cao gì.
 
-Đơn giản là tôi tự nhét bản thân vào bên trong 『Thi nhân hình』 mà thôi.
+Đơn giản chỉ là tôi tự nhét chính mình vào bên trong một 『Thi nhân hình』 mà thôi.
 
-Lý do tôi phải làm trò này là vì trong chiến dịch lần này, khả năng kiểm soát Rem của tôi đã bị đẩy lên giới hạn tối đa. Nếu không phải vì đội dương đông kích tây, tôi chỉ cần để Rem chiến đấu dưới hình dạng một 『Thi nhân hình』 mạnh mẽ làm từ xác của Bazuzu là xong.
+Lý do tôi phải dùng đến hạ sách này là vì trong chiến dịch lần này, khả năng kiểm soát Rem của tôi đã bị đẩy lên mức kịch trần. Nếu không phải vì phải gánh đội nghi binh, tôi chỉ cần để Rem chiến đấu dưới hình dạng một 『Thi nhân hình』 mạnh mẽ làm từ xác của Bazuzu là xong chuyện.
 
-Dù có vẻ không thể phát huy được năng lực Khổng Lồ Hóa, nhưng bản thân Bazuzu ở trạng thái bình thường đã là một ma vật Gira-GoGame Mastera mạnh hơn cả GoGame Mastera. Nếu dồn toàn bộ ma lực để biến hắn thành 『Thi nhân hình』, hắn chắc chắn sẽ là con rối mạnh nhất từ trước đến nay.
+Dù có vẻ không thể tái hiện được năng lực Khổng Lồ Hóa, nhưng bản thân Bazuzu ở trạng thái bình thường đã là một ma vật Gira-Gogma trên cơ cả đám Gogma. Nếu dồn toàn bộ ma lực để biến hắn thành 『Thi nhân hình』, hắn chắc chắn sẽ là con rối có hỏa lực mạnh nhất từ trước đến nay.
 
-Thế nhưng, để điều khiển một con rối mạnh mẽ như vậy, tôi sẽ chạm tới giới hạn kiểm soát của mình và không thể làm gì khác.
+Thế nhưng, để điều khiển một con rối cỡ đó, dung lượng kiểm soát của tôi sẽ quá tải và tôi sẽ chẳng thể làm thêm được bất cứ việc gì khác.
 
-Trong chiến dịch này, ngoài đội dương đông kích tây, Rem còn phải đảm nhận rất nhiều vai trò khác như chim trinh sát, ma vật cưỡi... Nếu tôi bỏ qua tất cả để tập trung vào chế độ Bazuzu chuyên về cận chiến, chiến dịch sẽ đổ bể.
+Trong chiến dịch này, ngoài đội nghi binh, Rem còn phải đảm nhận hàng loạt vai trò khác như chim trinh sát, ma thú cưỡi... Nếu tôi buông bỏ tất cả để dồn hết vào chế độ Bazuzu chuyên cận chiến, toàn bộ kế hoạch sẽ sụp đổ.
 
-Một con rối thi thể mạnh mẽ, nhưng không thể sử dụng thì cũng vô dụng. Khả năng kiểm soát để vận hành nó một cách trọn vẹn dù có cố gắng thế nào cũng không đủ——Vậy thì, tại sao chính tôi không trực tiếp điều khiển nó luôn nhỉ?
+Một con rối thi thể cực mạnh nhưng không thể xuất trận thì cũng chỉ là phế phẩm. Dung lượng kiểm soát để vận hành nó một cách độc lập dù có cố gắng thế nào cũng không đủ——Vậy thì, tại sao chính tôi không trực tiếp chui vào buồng lái để điều khiển nó luôn nhỉ?
 
-Và thế là, 『Thi hài giáp』 ra đời.
+Và thế là, 『Thi Hài Giáp』 ra đời.
 
-*Nghĩ lại thì, vì Rem quá vạn năng nên tôi đã quá ỷ lại vào việc giao phó mọi thứ cho em ấy. Lẽ ra, phong cách chiến đấu đúng đắn của một Chú thuật sư như tôi phải là tự mình điều khiển các thi nhân hình như thể chân tay của chính mình chứ? Đến tận bây giờ tôi mới nhận ra điều đó.*
+*Nghĩ lại thì, vì Rem quá đỗi đa năng nên tôi đã ỷ lại, phó mặc mọi chuyện cho em ấy. Lẽ ra, phong cách chiến đấu chân chính của một Chú thuật sư điều khiển rối như tôi phải là tự tay thao túng các thi nhân hình như chính tay chân của mình chứ? Đến tận bây giờ tôi mới vỡ lẽ ra điều đó.*
 
-Dù sao thì, 『Thi hài giáp Bazuzu』 này hoàn toàn không tiêu tốn chút năng lực kiểm soát nào của Rem. Tôi tự mình vận hành nó, với cảm giác giống hệt như khi điều khiển 『Song Ảnh』.
+Dù sao thì, 『Thi Hài Giáp Bazuzu』 này hoàn toàn không tiêu tốn chút dung lượng kiểm soát nào của Rem. Tôi tự mình vận hành nó, mang lại cảm giác đồng bộ y hệt như khi điều khiển 『Song Ảnh』.
 
-Vì cách thức vận hành giống với 『Song Ảnh』 nên ngay cả khi bản thể của tôi tách rời ra, tôi vẫn có thể điều khiển được. Nhưng nếu quá tập trung vào điều khiển, bản thể của tôi sẽ rơi vào trạng thái bất động không thể phòng vệ... thế nên, chi bằng cứ đưa bản thể vào bên trong 『Thi nhân hình』 mạnh mẽ có khi lại an toàn hơn. Đó chính là ý tưởng của tôi. Khi đột nhập vào lãnh địa địch để chiến đấu như thế này, việc bản thể hợp nhất với 『Thi nhân hình』 giống như phi công lái robot sẽ mang lại hiệu quả cao hơn nhiều.
+Vì cơ chế tương tự 『Song Ảnh』 nên ngay cả khi tách rời bản thể, tôi vẫn có thể điều khiển được từ xa. Nhưng nếu dồn hết tâm trí vào điều khiển từ xa, bản thể của tôi sẽ rơi vào trạng thái bất động, hoàn toàn không có khả năng tự vệ... thế nên, chi bằng cứ nhét luôn bản thể vào bên trong 『Thi nhân hình』 kiên cố có khi lại an toàn hơn bội phần. Đó chính là ý tưởng cốt lõi của tôi. Khi thâm nhập vào sâu trong lòng địch để tác chiến thế này, việc bản thể hợp nhất với 『Thi nhân hình』 hệt như phi công ngồi trong buồng lái robot sẽ mang lại hiệu quả vượt trội.
 
-“Để ta cho các ngươi thấy sức mạnh của Gira-GoGame Mastera.”
+“Để ta cho các ngươi nếm thử sức mạnh của Gira-Gogma.”
 
-Để lại lời thì thầm đó phía sau, tôi——trong hình dạng 『Thi hài giáp Bazuzu』——lao đi với tốc độ kinh hoàng.
+Để lại lời thì thầm lạnh lẽo phía sau, tôi——trong hình dạng 『Thi Hài Giáp Bazuzu』——búng người lao đi với tốc độ xé gió.
 
-Thân hình cao khoảng hai mét rưỡi. Ngoại hình rất giống với dạng bán thú nhân khổng lồ của hắn, với bộ lông và làn da màu đỏ, trên đầu mọc hai chiếc sừng dê, và khuôn mặt dữ tợn để lộ hàm răng sắc nhọn.
+Thân hình vạm vỡ cao khoảng hai mét rưỡi. Ngoại hình mô phỏng chuẩn xác dạng bán thú nhân khổng lồ của hắn, với bộ lông và lớp da đỏ quạch, trên đầu mọc hai chiếc sừng dê cong vút, cùng khuôn mặt dữ tợn để lộ hàm răng nanh nhọn hoắt.
 
-Vốn dĩ khuôn mặt của Bazuzu khi khổng lồ hóa đã giống như ác quỷ, nhưng có lẽ do được tái cấu trúc bằng chú thuật, hoặc do oán niệm tích tụ, chiếc mặt nạ quỷ này trông càng dị dạng và đáng sợ hơn.
+Vốn dĩ diện mạo của Bazuzu khi khổng lồ hóa đã hệt như ác quỷ, nhưng có lẽ do được tái cấu trúc bằng chú thuật, cộng thêm oán niệm tích tụ, chiếc mặt nạ quỷ này trông càng dị dạng và tà ác hơn gấp bội.
 
-Về mặt chỉ số, có lẽ nó còn vượt trội hơn cả Bazuzu lúc bình thường. Dù chắc chắn không thể vượt qua được sức mạnh khi Khổng Lồ Hóa.
+Về mặt chỉ số thuần túy, có lẽ nó còn vượt trội hơn cả Bazuzu lúc sinh tiền ở trạng thái bình thường. Dù chắc chắn không thể chạm tới ngưỡng sức mạnh bùng nổ khi Khổng Lồ Hóa.
 
-Dù thế nào đi nữa, sức mạnh này là quá thừa thãi để tàn sát một đội tuần tra Goma. Chỉ cần chạy thôi mà gia tốc đã thế này rồi. Cảnh vật xung quanh lướt qua nhanh chóng, mang lại cảm giác giống như khi dùng phần mềm gian lận để điều khiển nhân vật di chuyển với tốc độ không tưởng trong game vậy.
+Dù vậy, lượng sức mạnh này đã là quá thừa thãi để tàn sát một đội tuần tra Goma. Chỉ cần dậm chân lấy đà thôi mà gia tốc đã kinh hoàng thế này rồi. Cảnh vật xung quanh lướt qua vun vút, mang lại cảm giác phấn khích hệt như khi bật phần mềm hack tốc độ để điều khiển nhân vật bay lượn trong game vậy.
 
-Đây vẫn chưa phải là tốc độ tối đa. Có vẻ như với nhãn lực của một người bình thường như tôi, việc kiểm soát hoàn toàn năng lực thể chất siêu phàm này chỉ bằng việc di chuyển thôi cũng đã là quá sức rồi.
+Đây thậm chí vẫn chưa phải là tốc độ tối đa. Có vẻ như với động năng thị giác của một người bình thường như tôi, việc kiểm soát hoàn hảo năng lực thể chất siêu phàm này chỉ riêng ở khâu di chuyển thôi cũng đã ngốn hết sạch sự tập trung rồi.
 
-Dù vậy, đây là kiểu điều khiển trực tiếp như 『Song Ảnh』. Chỉ cần giữ trong phạm vi bản thân có thể xử lý, tôi vẫn kiểm soát cực kỳ tốt. Mọi người nghĩ tôi đã chơi bao nhiêu tựa game hành động rồi chứ? Kiểu nhân vật cận chiến dồn hết điểm vào sức mạnh và tốc độ vốn là lựa chọn kinh điển của người chơi rồi.
+Dù vậy, đây là phương thức điều khiển trực tiếp bằng ý nghĩ tương tự 『Song Ảnh』. Chỉ cần ghìm tốc độ trong phạm vi não bộ có thể xử lý, tôi vẫn làm chủ cơ thể cực kỳ mượt mà. Mọi người nghĩ tôi đã cày nát bao nhiêu tựa game hành động chặt chém rồi chứ? Lối build nhân vật cận chiến dồn toàn bộ điểm tiềm năng vào sức mạnh và tốc độ vốn là chân ái kinh điển của mọi game thủ.
 
-Phóng đi với tốc độ còn nhanh hơn cả Alpha chạy, tôi áp sát nhà kho bằng đá chứa đồ quý giá mà không hề phát ra một tiếng động chân. Đầu tiên, tôi vòng ra phía sau tòa nhà, tiếp cận hai tên Goma đang uể oải đi tuần.
+Lao đi với tốc độ còn vượt xa cả Alpha khi phi nước đại, tôi áp sát nhà kho bằng đá chứa đồ quý giá mà không hề phát ra lấy một tiếng động bước chân. Đầu tiên, tôi luồn ra phía sau góc khuất của tòa nhà, tiếp cận hai tên lính Goma đang uể oải đi tuần.
 
 “Ưm...!”
 
 “Cạ...!”
 
-Đột nhiên nhìn thấy bóng dáng quỷ đỏ của tôi lao ra, bọn chúng định hét lên theo bản năng, nhưng trước khi kịp phát ra tiếng, bàn tay tôi đã chộp lấy mặt chúng như gọng kìm sắt.
+Bất thình lình thấy bóng dáng ác quỷ đỏ rực của tôi lù lù xuất hiện, bọn chúng theo phản xạ định há mồm gào lên, nhưng trước khi thanh âm kịp thoát ra khỏi cổ họng, hai bàn tay tôi đã vươn tới, chụp lấy mặt chúng như đôi gọng kìm thép.
 
-Khoảng cách giữa hai tên là hơn một mét, một khoảng cách lửng lơ. Nhưng với cơ thể to lớn này, tôi chỉ cần sải tay ra là có thể tóm gọn mặt cả hai cùng lúc. Cứ thế, tôi dồn lực bóp mạnh, từ từ nghiền nát đầu lũ Goma. Với sức mạnh của Bazuzu, đầu của lũ Goma chẳng khác nào quả cà chua chín.
+Khoảng cách giữa hai tên là hơn một mét, một khoảng cách vốn dĩ khá xa. Nhưng với sải tay hộ pháp của cơ thể này, tôi chỉ cần vung rộng hai cánh tay là tóm gọn đầu cả hai cùng lúc. Cứ thế, tôi siết chặt năm ngón tay, từ từ nghiền nát sọ lũ Goma. Với lực tay khủng khiếp của Bazuzu, đầu của lũ Goma mềm xèo chẳng khác nào hai quả cà chua chín mọng.
 
-Không để bọn chúng kịp rống lên tiếng kêu thảm thiết nào, tôi đã lặng lẽ tiễn cả hai lên đường. Tốt lắm, những tên khác vẫn chưa phát hiện ra.
+*Rắc! Phụt!*
 
-Bằng cách tương tự, tôi lần lượt kết liễu những tên lính gác ở hai bên hông nhà kho, rồi nhảy lên sân thượng. Nói là leo lên chứ thực ra với thể chất của Bazuzu, chỉ cần một cú bật nhảy thẳng đứng là tôi đã dễ dàng nhảy lên độ cao tương đương tòa nhà hai tầng rồi.
+Không để bọn chúng kịp rên rỉ lấy nửa lời, tôi đã lặng lẽ tiễn cả hai về cõi chết. Rất tốt, những tên còn lại vẫn chưa hề hay biết.
 
-Từ trên sân thượng, tôi nhìn xuống đội tuần tra đang đóng chốt ở phía trước. Bọn chúng đứng rải rác, vừa nhìn về phía làn khói đen cuồn cuộn bốc lên từ hướng Tây Nam vừa bàn tán xôn xao. Khói bốc cao thế kia thì ngay cả lũ Goma cũng thừa biết đang có một vụ hỏa hoạn kinh hoàng xảy ra.
+Bằng thủ pháp tương tự, tôi lần lượt bẻ cổ những tên lính gác ở hai bên hông nhà kho, rồi nhún chân phóng thẳng lên sân thượng. Gọi là leo trèo cho sang chứ thực ra với sức bật của Bazuzu, chỉ cần một cú giậm chân thẳng đứng là tôi đã nhẹ nhàng đáp lên độ cao tương đương tầng hai của một tòa nhà.
 
-Thế nhưng, vì khoảng cách quá xa nên bọn chúng có lẽ cho rằng không cần phải chạy đến ứng cứu làm gì, cứ tiếp tục nhiệm vụ canh gác của mình. Mà thôi, dù bọn chúng có đưa ra quyết định gì đi nữa thì toàn bộ lũ Goma trong vương quốc này cũng sẽ phải chết thôi——trước mắt, các ngươi cứ đi xuống địa ngục trước một bước đi.
+Từ trên sân thượng, tôi cúi xuống quan sát đội tuần tra đang đóng chốt ở mặt tiền. Bọn chúng đứng tụ tập lộn xộn, vừa nhìn về phía làn khói đen cuồn cuộn bốc lên từ hướng Tây Nam vừa xì xào bàn tán. Khói bốc ngút trời thế kia thì ngay cả lũ Goma đầu óc bã đậu cũng thừa biết đang có một trận đại hỏa hoạn xảy ra.
+
+Thế nhưng, vì khoảng cách quá xa nên bọn chúng đinh ninh không cần phải rời vị trí để đi chi viện, cứ tiếp tục bám trụ công việc canh gác. Mà thôi, dù bọn chúng có đưa ra quyết định gì đi chăng nữa thì toàn bộ lũ Goma trong vương quốc này cũng đều sẽ phải chôn thây tại đây thôi——trước mắt, các ngươi cứ ngoan ngoãn xuống địa ngục dẫn đường trước một bước đi.
 
 “Bộc...!?”
 
-Lao xuống từ sân thượng, tôi dùng đà rơi tự do giẫm nát tên đội trưởng Gove đang đứng bệ vệ nhất.
+Lao thẳng từ trên sân thượng xuống, tôi mượn trọn vẹn gia tốc rơi tự do giẫm nát tên đội trưởng Gove đang đứng bệ vệ nhất giữa đội hình.
 
-Tấm giáp sắt méo mó, xương cốt vỡ vụn, lục phủ ngũ tạng bị nghiền nát hoàn toàn. Tên đội trưởng tuần tra Gove bị giẫm bẹp dí từ trên đầu xuống, máu thịt bắn tung tóe dưới chân tôi, biến thành một vệt màu đỏ thẫm trên mặt đất.
+Tấm giáp sắt méo mó biến dạng, xương cốt vỡ vụn, lục phủ ngũ tạng nổ tung hoàn toàn. Tên đội trưởng Gove bị nghiền bẹp dí từ đỉnh đầu xuống gót chân, máu thịt bắn tung tóe dưới lòng bàn chân tôi, hóa thành một bãi chất lỏng nhầy nhụa đỏ thẫm trên nền đá.
 
-“Gư...!? Gì thế này!?”
+“Gư...!? Cái quái gì thế này!?”
 
-“Dabaga! GanbeTượng đất nung Tượng đất nung Tượng đất nung Tượng đất nung Tượng đất nung Dogun!”
+“Dabaga! Ganbegaaa! Dogun!”
 
-Kẻ phản ứng đầu tiên đương nhiên là lũ lính Gove dưới trướng. Nhìn thấy tên đội trưởng bị giẫm chết tươi như một con ếch chắc chắn là một cú sốc lớn, nhưng bọn chúng vẫn lập tức hét lên gì đó rồi chĩa mũi giáo về phía tôi.
+Lũ phản ứng đầu tiên đương nhiên là đám lính Gove dưới trướng. Nhìn thấy tên chỉ huy bị giẫm chết tươi như một con cóc chắc chắn là một cú sốc cực lớn, nhưng bọn chúng vẫn lập tức gầm lên những tiếng vô nghĩa rồi đồng loạt chĩa mũi giáo sắt về phía tôi.
 
-Thế nhưng, những ngọn giáo nhỏ bé đó không thể đâm thủng được cơ thể này. Giữa chúng tôi có một khoảng cách quá lớn, giống như sự chênh lệch về cấp độ và trang bị vậy.
+Thế nhưng, những ngọn giáo ngắn cũn cỡn đó làm sao xuyên thủng được lớp cơ bắp bọc thép này. Giữa chúng tôi tồn tại một hố sâu ngăn cách quá lớn, hệt như sự chênh lệch vô vọng về cấp độ và trang bị trong game.
 
-“Quả nhiên khi chiến đấu ngoài đời thực, chơi chế độ dễ vẫn là sướng nhất!”
+“Quả nhiên khi thực chiến ngoài đời, chơi chế độ Dễ (Easy Mode) vẫn là sướng nhất!”
 
-Tôi chẳng có chút võ nghệ nào. Hồi còn ở Học Viện Tháp, tôi có học lỏm một chút kiếm pháp phái Souma, nhưng sau khi bị biến thành bao cát tập luyện thì tôi đã bỏ cuộc ngay lập tức. Suy cho cùng, võ thuật chỉ là thứ vũ khí giúp kẻ mạnh trở nên mạnh hơn mà thôi.
+Bản thân tôi chẳng có nửa chữ võ nghệ phòng thân. Hồi còn ở Học Viện Tháp, tôi có học lỏm được vài đường kiếm pháp phái Souma, nhưng sau khi bị lôi ra làm bao cát chịu đòn thì tôi đã bỏ cuộc ngay tắp lự. Suy cho cùng, võ thuật chỉ là công cụ giúp kẻ mạnh đã mạnh nay càng mạnh hơn mà thôi.
 
-Vì vậy, nếu ngay từ đầu đã mạnh mẽ thì dù không biết võ thuật vẫn cứ mạnh. Chỉ là một cú đấm thẳng thô thiển của kẻ nghiệp dư, nhưng chỉ cần trúng đích là đủ để hạ đo ván một tên Gove cơ bắp.
+Vì vậy, nếu xuất phát điểm của bản thân đã mạnh mẽ áp đảo thì dù có đánh đấm vụng về vẫn cứ là vô địch. Dù chỉ là một cú đấm thẳng thô thiển của dân nghiệp dư, nhưng chỉ cần trúng đích là đủ để nghiền nát một tên Gove vạm vỡ.
 
-Không thèm né tránh ngọn giáo đang đâm tới, tôi tung một cú đấm thẳng vào người hắn. Cảm giác nện vào khối cơ bắp rắn chắc vang lên một tiếng trầm đục, kèm theo đó là cảm giác xương cốt đối phương vỡ vụn dưới lực tác động.
+Không thèm bận tâm né tránh ngọn giáo đang đâm tới, tôi tung một cú đấm thẳng tay vào ngực hắn. Cú va chạm nện vào khối cơ bắp rắn chắc phát ra một tiếng *bịch* trầm đục, kèm theo đó là âm thanh giòn rã của toàn bộ khung xương sườn đối phương vỡ vụn dưới áp lực ngàn cân.
 
 “Hự... hộc!”
 
-Bị cú đấm từ trên giáng xuống, tên Gove ngã nhào xuống đất. Hắn vẫn còn phát ra tiếng rên rỉ đau đớn, xem ra chưa chết ngay lập tức.
+Lĩnh trọn cú đấm trời giáng từ trên dội xuống, tên Gove đổ vật xuống đất như một khúc gỗ. Hắn vẫn còn thở hắt ra những tiếng rên rỉ đứt quãng, xem ra mạng vẫn còn lớn.
 
-Tôi nhanh chóng giẫm mạnh lên sau gáy hắn để kết liễu. Giẫm nát đầu là đòn kết liễu kinh điển trong các tựa game zombie.
+Tôi không chần chừ, giẫm mạnh gót chân lên sau gáy hắn để kết liễu. Giẫm nát sọ luôn là đòn dứt điểm kinh điển và chắc ăn nhất trong mọi tựa game zombie.
 
 “Ư... ưm...”
 
-“Lũ Goma các ngươi mà cũng biết sợ cơ à.”
+“Ồ? Lũ Goma các ngươi hóa ra cũng biết run rẩy cơ à.”
 
-Tên lính Gove còn lại, kẻ vừa dùng giáo chọc chọc vào lưng tôi trong lúc tôi đang giẫm tên kia, giờ đang lùi lại với giọng run rẩy rõ rệt. Ngọn giáo của hắn hoàn toàn không xi-nhê gì trước lớp da lông dày và giáp cơ bắp của tôi.
+Tên lính Gove còn lại — kẻ vừa lấy hết can đảm cầm giáo chọc liên tiếp vào lưng tôi trong lúc tôi đang bận giẫm nát tên kia — giờ đây đang run rẩy lùi lại từng bước, trong họng phát ra những âm thanh sợ hãi tột cùng. Mũi giáo của hắn hoàn toàn bất lực, không tài nào xuyên nổi lớp da lông dày cộm và thớ cơ bắp cứng như thép nguội của tôi.
 
-Nghĩ lại thì đây là lần đầu tiên tôi thấy lũ Goma tỏ ra sợ hãi rõ ràng đến thế... À, phải rồi. Sở dĩ lũ Goma luôn chiến đấu ngoan cường bất chấp thế yếu là vì đối thủ của chúng là con người.
+Nghĩ lại thì đây là lần đầu tiên tôi thấy lũ Goma lộ rõ vẻ khiếp đảm đến mức này... À, phải rồi. Sở dĩ lũ Goma luôn lao vào cắn xé ngoan cường bất chấp thương vong là vì đối thủ của chúng từ trước tới nay là con người.
 
-Còn hình dạng hiện tại của tôi là một con quái vật dạng người dũng mãnh. Bọn chúng làm sao biết được kẻ bên trong là con người. Thế nên, khi bị một con quái vật mạnh mẽ hơn tấn công, bọn chúng cũng biết sợ hãi như lẽ thường.
+Còn nhân dạng hiện tại của tôi lại là một con đại quái vật dạng người dũng mãnh và tàn bạo. Bọn chúng làm sao nhìn thấu được kẻ ẩn nấp bên trong lớp vỏ bọc này thực chất là một con người. Thế nên, khi đối diện với một sinh vật săn mồi thượng tầng mạnh hơn mình gấp bội, bọn chúng sợ hãi cũng là lẽ tự nhiên của muôn loài.
 
-*Tôi tự cười thầm vì mình toàn nhớ những chuyện không đâu, rồi tung một cú đấm thẳng thô thiển vào mặt tên lính Gove để kết liễu hắn. Quả nhiên đấm vào đầu là chết ngay lập tức. Cổ hắn đã quay đi một góc khoảng 230 độ rồi.*
+*Tôi tự cười giễu vì đầu óc mình toàn nghĩ lan man những chuyện không đâu, rồi tiện tay tung một cú đấm thẳng thô bạo vào mặt tên lính Gove để giải thoát cho hắn. Quả nhiên cứ nhắm thẳng vào đầu là chết ngay tức khắc. Cổ hắn đã bị bẻ ngoặt đi một góc khoảng 230 độ rồi.*
 
 “Chạy mau!”
 
-“Đại nhân Bazuzu phát điên rồi!”
+“Đại nhân Bazuzu nổi điên rồi!”
 
-Lũ lính Goma vốn chỉ dám tỏ ra hung hãn trước con người, nay trước sự chênh lệch thực lực quá lớn đã quyết định tháo chạy. Thực ra có để chúng chạy cũng chẳng sao, nhưng nếu chúng gọi viện binh đến thì sẽ rất phiền phức. Sẽ cực kỳ rắc rối nếu có kẻ quấy rầy trong lúc tôi đang đặt bom.
+Lũ lính Goma vốn chỉ biết ỷ đông hiếp yếu trước loài người, nay đứng trước khoảng cách sức mạnh tuyệt đối đã hoàn toàn vỡ trận, vứt vũ khí tháo chạy thục mạng. Thực ra có để chúng chạy thoát cũng chẳng ảnh hưởng gì đến đại cục, nhưng nếu chúng kéo viện binh đến thì sẽ vô cùng phiền toái. Sẽ cực kỳ rắc rối nếu có kẻ chọc gậy bánh xe trong lúc tôi đang cẩn mật đặt bom.
 
-Hơi tốn công một chút, nhưng tốt nhất là nên diệt sạch đội tuần tra này.
+Hơi tốn chút công sức, nhưng tốt nhất là nên diệt cỏ tận gốc toàn bộ đội tuần tra này.
 
-Tôi lao đuổi theo lũ Goma đang quay lưng bỏ chạy, lần lượt đấm đá hạ gục không sót một tên. Năng lực thể chất này quả thực quá tuyệt vời. Cảm giác sảng khoái này dễ khiến người ta ảo tưởng rằng bản thân đã thực sự trở nên mạnh mẽ.
+Tôi sải bước đuổi theo lũ Goma đang cắm đầu bỏ chạy, lần lượt tung cước giẫm đạp, hạ gục sạch sẽ không chừa một mống. Thể chất vượt trội này quả thực quá đỗi tiện lợi. Cảm giác nghiền ép mọi thứ bằng sức mạnh cơ bắp thuần túy rất dễ khiến người ta sinh ra ảo tưởng rằng bản thân mình đã thực sự trở thành kẻ bất khả chiến bại.
 
-Cảm giác giống như một siêu anh hùng truyện tranh Mỹ vô tình có được sức mạnh vậy. Thảo nào mấy nhân vật đó thường hay kiêu ngạo rồi làm hỏng chuyện ở giai đoạn đầu.
+Cảm giác hệt như mấy gã siêu anh hùng trong truyện tranh đột nhiên vớ được sức mạnh vô biên vậy. Thảo nào mấy nhân vật kiểu đó thường hay ngạo mạn rồi chuốc lấy thất bại ê chề ở giai đoạn đầu.
 
-“Phù, cuối cùng cũng dọn dẹp xong rồi————Giải trừ 『Thi hài giáp』.”
+“Phù, cuối cùng cũng dọn sạch bãi————Giải trừ 『Thi Hài Giáp』.”
 
-Giống như một đoạn băng tua ngược so với lúc kích hoạt, bộ giáp thi thể của Bazuzu bắt đầu tháo rã. Nó rã ra thành những khối thịt rồi chìm vào vùng hỗn mang, để lại tôi đang nhễ nhại mồ hôi.
+Như một đoạn phim bị tua ngược, bộ giáp thi thể của Bazuzu bắt đầu tan rã. Từng thớ thịt tự động bung ra thành những dải sợi đỏ đen rồi chìm sâu vào vùng bóng tối hỗn mang, để lại bản thể tôi đang ướt đẫm mồ hôi.
 
-“Quả nhiên tiêu hao ma lực kinh khủng thật.”
+“Quả nhiên hao tổn ma lực kinh khủng khiếp.”
 
-Tôi không tự chủ được mà thở hắt ra một hơi.
+Tôi không kìm được mà thở dốc một hơi thật sâu.
 
-Dù 『Thi hài giáp Bazuzu』 mang lại năng lực thể chất vượt trội, nhưng lượng ma lực tiêu tốn để duy trì nó là cực kỳ lớn. Cảm giác thanh MP đang bị rút cạn một cách chóng mặt.
+Dù 『Thi Hài Giáp Bazuzu』 mang lại nguồn thể chất vô song, nhưng lượng ma lực tiêu hao để duy trì cấu trúc của nó là một con số khổng lồ. Cảm giác như thanh MP đang bị rút cạn với tốc độ chóng mặt theo từng giây.
 
-Tuy sức mạnh siêu phàm đó rất đáng giá, nhưng nghĩ kỹ lại thì những người thuộc nhóm tiên phong như Ueta ở trạng thái bình thường vốn đã sở hữu thể chất gần như thế này rồi. Suy cho cùng, điểm lợi duy nhất của chiêu này là giúp một Chú thuật sư yếu ớt như tôi có được sức mạnh siêu nhân, chứ mức độ cường hóa thực chất không hề vượt trội hơn nhóm tiên phong.
+Tuy sức mạnh vật lý đó rất đáng nể, nhưng ngẫm lại thì những thành viên thuộc nhóm tiên phong như Ueta ở trạng thái bình thường vốn đã sở hữu chỉ số thể chất gần tương đương thế này rồi. Suy cho cùng, điểm cộng duy nhất của chiêu này là giúp một Chú thuật sư trói gà không chặt như tôi tạm thời có được sức mạnh cận chiến, chứ mức độ cường hóa thực chất chẳng thể vượt trội hơn các chiến binh thực thụ.
 
-Tiêu tốn ngần ấy ma lực cho hiệu năng thế này, thành thật mà nói là không đáng tiền. Chỉ vì tôi đang hành động đơn độc nên nó mới có giá trị sử dụng, chứ trong một trận chiến tổ đội thông thường thì chắc chắn không có đất diễn. Chắc chắn người ta sẽ bảo: “Chú thuật sư thì đừng có lên tuyến đầu đấm nhau, cứ đứng sau dùng chú thuật quấy rối kẻ địch đi.”
+Đốt ngần ấy ma lực chỉ để đổi lấy hiệu năng như vậy, nói một cách công bằng là không hề kinh tế chút nào. Chỉ vì tôi đang phải đơn thương độc mã thâm nhập nên nó mới có đất dụng võ, chứ đặt vào một trận combat tổ đội thông thường thì chắc chắn sẽ bị gạt bỏ ngay. Người ngoài nhìn vào chắc chắn sẽ mắng: “Chú thuật sư thì đừng có ảo tưởng sức mạnh mà lao lên tuyến đầu đấm nhau, cứ đứng yên ở hậu tuyến mà dùng nguyền rủa quấy rối kẻ địch đi.”
 
-Nghĩ vậy mới thấy năng lực Linh thú hóa của Hayama đáng sợ đến mức nào. Cái đó đúng là lỗi game mà. Quả nhiên 『Tinh Linh Thuật Sư』 là một thiên chức gian lận.
+Nghĩ vậy mới thấy năng lực Linh thú hóa của Hayama bá đạo và vô lý đến nhường nào. Cái đó rõ ràng là bug của thế giới này rồi. Quả nhiên 『Tinh Linh Thuật Sư』 là một thiên chức gian lận toàn diện.
 
-“Được rồi, phải nhanh chóng đặt bom thôi.”
+“Được rồi, phải tranh thủ đặt bom ngay thôi.”
 
-Để Alpha lại canh gác ở lối vào, tôi bước vào trong nhà kho. Bên trong căn phòng tối tăm và nồng nặc mùi ẩm mốc, những chiếc hòm gỗ và túi da được xếp đặt một cách lộn xộn, diện tích cũng không quá lớn. Tôi nhanh chóng tìm thấy nơi mình cần tìm.
+Để Alpha ở lại canh gác ngoài cửa, tôi rảo bước tiến vào bên trong nhà kho. Giữa căn phòng tối tăm nồng nặc mùi ẩm mốc, hàng loạt rương gỗ và bao tải da thú được xếp chồng chất vô tội vạ, diện tích bên trong cũng không quá rộng lớn. Tôi nhanh chóng tìm thấy thứ mình cần.
 
-Đó là một lối cầu thang dẫn xuống tầng hầm.
+Đó là một lối cầu thang đá dẫn sâu xuống lòng đất.
 
-Dưới chân cầu thang là một căn hầm rộng rãi nhưng không có gì đặc biệt. Tuy nhiên, trình độ xây dựng của tộc Goma chưa phát triển đến mức tự làm được tầng hầm.
+Dưới chân cầu thang là một khoảng không gian ngầm rộng rãi nhưng trống trải. Với trình độ xây dựng sơ khai của tộc Goma, bọn chúng tuyệt đối chưa thể tự tay đào được một tầng hầm kiên cố cỡ này.
 
-Đúng vậy, căn hầm này vốn đã tồn tại từ trước. Nói chính xác hơn, đây không phải là tầng hầm, mà là một khoảng không gian trống nằm bên trong phần trần nhà nâng đỡ vương quốc.
+Đúng vậy, căn hầm này vốn là kiến trúc đã tồn tại từ thời cổ đại. Nói chính xác hơn, đây không phải là tầng hầm nhân tạo, mà là một khoang rỗng kỹ thuật nằm ngay bên trong phần trần vòm nâng đỡ vương quốc.
 
-Lũ Goma chỉ coi đây là một tầng hầm thông thường để chất đống đủ thứ đồ đạc lặt vặt, nhưng ban đầu có lẽ nó được thiết kế làm lối đi kiểm tra kỹ thuật hoặc mục đích tương tự. Nơi này chỉ có những bức tường đá đặc trưng của di tích chứ không có bảng điều khiển bằng đá phiến, nên tôi cũng không rõ cách sử dụng đúng của căn phòng này.
+Lũ Goma chỉ ngây ngô coi đây là một căn hầm chứa đồ tiện lợi để vứt đống đồ đạc linh tinh, nhưng nguyên bản ban đầu có lẽ nó được thiết kế làm đường hào bảo trì kỹ thuật của phế tích. Nơi này chỉ có những bức tường đá nhẵn bóng đặc trưng của nền văn minh cổ chứ không hề có bảng điều khiển đá phiến, nên tôi cũng chịu chết không rõ công năng nguyên thủy của căn phòng này là gì.
 
-Nhưng điều quan trọng nhất là ngay phía dưới lối đi kiểm tra (tạm gọi) này chính là cây cột trụ nâng đỡ trần nhà.
+Thế nhưng điều then chốt nhất là ngay phía dưới đường hào kỹ thuật (tạm gọi là vậy) này chính là phần lõi của cây cột trụ khổng lồ đang chống đỡ toàn bộ trần vòm.
 
-Nói cách khác, vị trí của lối đi kiểm tra này chính là điểm đặt bom lý tưởng.
+Nói cách khác, vị trí của căn hầm này chính là điểm đặt bom hiểm yếu nhất.
 
-“Hỡi vũng nước đỏ ô uế và mục nát——『Đầm lầy thối rữa』.”
+“Hỡi vũng nước đỏ ô uế và mục rữa——『Đầm lầy thối rữa』.”
 
-Đầu tiên, tôi kích hoạt 『Đầm lầy thối rữa』. Tôi mở một cuộn giấy da có vẽ sẵn ma pháp trận chuyên dụng 『Vực Sâu Vô Tận』 ngay trên nền đá ở góc hầm rồi mới thi triển phép. Thực ra tôi cũng muốn dùng thêm vật tế, nhưng vì chúng quá cồng kềnh nên lần này đành bỏ qua.
+Đầu tiên, tôi niệm chú kích hoạt 『Đầm lầy thối rữa』. Tôi trải một cuộn giấy da cừu đã vẽ sẵn ma pháp trận chuyên dụng 『Vực Sâu Vô Tận』 ngay trên mặt sàn đá ở góc hầm rồi mới bắt đầu truyền dẫn ma lực. Thực ra tôi cũng muốn bồi thêm vật hiến tế để tăng cường uy lực, nhưng vì hành trang mang theo quá cồng kềnh nên lần này đành giản lược.
 
-Chà, không ngờ kinh nghiệm đào bới Yamata no Orochi lại có ích ở đây. Đúng là việc gì cũng nên trải nghiệm một lần cho biết.
+Chà, không ngờ kinh nghiệm đào bới thi thể Yamata no Orochi dạo trước lại phát huy tác dụng đắc lực ở đây. Đúng là ở đời trải nghiệm nhiều chẳng bao giờ thừa thãi cả.
 
-Tôi làm vậy là để quả bom phát nổ từ bên trong cột trụ chứ không phải chỉ ở bề mặt ngoài.
+Tôi làm vậy là để ép quả bom phải phát nổ từ tận sâu bên trong lõi cột trụ chứ không chỉ đơn thuần là phá hoại bề mặt bên ngoài.
 
-Dù không còn nguồn cung cấp ma lực, các công trình của di tích vẫn được làm từ những vật liệu cực kỳ kiên cố. Dù là bom lõi đi nữa, nếu chỉ nổ ở bề mặt thì chưa chắc đã làm gãy được cột. Đây chỉ là một mẹo nhỏ để giúp việc phá hủy dễ dàng hơn đôi chút.
+Dù nguồn cung ma lực cổ xưa đã bị ngắt, cấu trúc của phế tích vẫn được đúc từ những khối hợp kim đá vô cùng kiên cố. Dù là bom lõi uy lực cao đi chăng nữa, nếu chỉ nổ ở lớp vỏ bên ngoài thì chưa chắc đã bẻ gãy hoàn toàn được trụ chịu lực. Đây là một mẹo nhỏ để bào mòn độ bền của vật liệu, giúp quá trình phá hủy diễn ra triệt để hơn.
 
-Sau khi xác nhận hiệu ứng ăn mòn sâu xuống của 『Vực Sâu Vô Tận』 bắt đầu phát huy tác dụng, tôi mới thả quả bom lõi chủ lực vào đó.
+Sau khi tận mắt xác nhận hiệu ứng ăn mòn của 『Vực Sâu Vô Tận』 đã khoét sâu một lỗ hổng vào lòng đá, tôi mới cẩn thận lấy quả bom lõi chủ lực ra.
 
-『Bom lõi điều khiển từ xa kiểu Hắc Phát "Vương Quốc Sụp Đổ (Fallen Kingdom)"』: Một quả bom điều khiển từ xa dạng hộp được tích hợp cơ chế kích nổ đồng loạt các bom lõi. Mỗi quả bom được cấu tạo từ hai chiếc lõi ma vật. Khi dòng chảy ma lực của hai chiếc lõi bị kích thích đến mức bạo tẩu và tiếp xúc với nhau, chúng sẽ vượt qua giới hạn tới hạn và phát nổ. Vì bom sẽ không nổ nếu hai chiếc lõi không chạm vào nhau, nên cơ chế kích nổ vô cùng đơn giản: chỉ cần rút tấm vách ngăn ở giữa ra là xong. Và thứ tôi dùng để rút tấm vách ngăn đó chính là 『Tóc Đen Trói Buộc』. Chỉ cần một cú giật nhẹ sợi tóc đen là có thể kích nổ quả bom.
+『Bom lõi điều khiển từ xa kiểu Hắc Phát "Vương Quốc Sụp Đổ (Fallen Kingdom)"』: Một khối thuốc nổ điều khiển từ xa dạng hộp kín, được tích hợp cơ chế kích hoạt bạo động đồng loạt các lõi ma vật. Mỗi quả bom được cấu thành từ hai lõi ma vật chất lượng cao. Khi mạch ma lực của hai chiếc lõi bị kích thích đến trạng thái quá tải và chạm vào nhau, chúng sẽ lập tức vượt qua ngưỡng giới hạn tới hạn và phát nổ khủng khiếp. Vì bom sẽ tuyệt đối không phát nổ nếu hai chiếc lõi chưa tiếp xúc, nên cơ cấu kích hoạt vô cùng đơn giản: chỉ cần rút phăng tấm vách ngăn cách ly ở giữa ra là xong. Và công cụ mà tôi dùng để giật tấm vách ngăn đó chính là 『Tóc Đen Trói Buộc』. Chỉ cần một cái búng tay truyền tín hiệu giật sợi tóc đen là khối thuốc nổ sẽ được kích hoạt tức thì.
 
-Một thiết bị kích nổ chứa hai chiếc lõi cùng 『Tóc Đen Trói Buộc』, tất cả được đặt trong một chiếc hộp có khả năng kháng ăn mòn để không bị phân hủy khi thả vào 『Đầm lầy thối rữa』. Đó chính là cấu tạo của 『Vương Quốc Sụp Đổ』. Cái tên này cũng là kết quả của một cuộc tranh chấp quyền đặt tên với Hayama, suýt chút nữa nó đã bị đặt thành 『Vương quốc Bomber』 rồi. May mà lúc đó tôi quyết định phân định bằng oẳn tù tì ba ván thắng hai.
+Một thiết bị kích nổ chứa hai chiếc lõi ma vật kèm 『Tóc Đen Trói Buộc』, toàn bộ được bọc kín bên trong một chiếc hộp kim loại có khả năng kháng axit cực mạnh để không bị phân hủy khi ngâm trong 『Đầm lầy thối rữa』. Đó chính là toàn bộ kết cấu của 『Vương Quốc Sụp Đổ』. Cái tên đậm mùi kịch tính này là kết quả sau một hồi tranh cãi nảy lửa về quyền đặt tên giữa tôi và Hayama; suýt chút nữa nó đã bị con bé biến thành cái tên dở hơi 『Vương quốc Bomber』 rồi. May mà lúc đó tôi đã tỉnh táo giải quyết bằng màn oẳn tù tì phân định thắng bại ba ván thắng hai.
 
-Tôi thả chiếc hộp đen hình vuông cạnh 30 cm của 『Bom lõi điều khiển từ xa kiểu Hắc Phát "Vương Quốc Sụp Đổ (Fallen Kingdom)"』 chìm nghỉm vào 『Đầm lầy thối rữa』. Không cần phải dùng đá đè lên làm gì. Chỉ cần dùng 『Tóc Đen Trói Buộc』 mọc lên từ đáy đầm quấn lấy chiếc hộp rồi kéo tuột nó xuống tận đáy là xong.
+Tôi thả chiếc hộp sắt vuông vức màu đen kích thước 30 cm của 『Bom lõi điều khiển từ xa kiểu Hắc Phát "Vương Quốc Sụp Đổ (Fallen Kingdom)"』 chìm nghỉm vào đáy 『Đầm lầy thối rữa』. Không cần phải mất công lấy đá đè lên làm gì. Tôi chỉ việc điều khiển những sợi 『Tóc Đen Trói Buộc』 trồi lên từ đáy bùn, quấn chặt lấy chiếc hộp rồi lôi tuột nó găm sâu vào lòng hốc đá đã bị ăn mòn.
 
-Tốt lắm, điểm đặt bom thứ ba đã hoàn thành. Phải nhanh chóng di chuyển đến điểm tiếp theo thôi.`
+Tuyệt vời, điểm đặt bom thứ ba đã hoàn tất gọn gàng. Phải nhanh chân di chuyển sang điểm tiếp theo thôi.`
             },
             {
                 "id": "ep_312",
@@ -52693,75 +52695,75 @@ Tốt lắm, điểm đặt bom thứ ba đã hoàn thành. Phải nhanh chóng 
                 "title": "Tập 312: Chiến dịch chinh phục Vương quốc Goma (4)",
                 "content": `# Tập 312: Chiến dịch chinh phục Vương quốc Goma (4)
 
-Bên trong vương cung, nơi ngự trị của Vua Oh-ma với đỉnh 『Tháp Thử Thách』 sừng sững ngay trên đầu, bầu không khí bỗng chốc trở nên náo loạn.
+Bên trong vương cung, nơi ngự trị của Vua Oh-ma với đỉnh 『Tháp Thử Thách』 sừng sững ngay trên đầu, bầu không khí bỗng chốc trở nên náo loạn tột độ.
 
 “Báo! Quân đội loài người đã xâm nhập từ phía tây nam vương quốc!”
 
 “Chúng liên tục phóng hỏa trong thành phố, đang làm loạn khắp nơi————”
 
-“Phố chợ đã biến thành một biển lửa rồi!”
+“Khu phố chợ đã biến thành biển lửa rồi!”
 
 “Lũ loài người đang tấn công Nam Đại Môn!”
 
 “Nói nhảm gì thế, chẳng phải chúng đang hướng về phía đông sao————”
 
-“Quy mô đám cháy quá lớn! Lực lượng chữa cháy hoàn toàn không thể dập tắt kịp!”
+“Quy mô đám cháy quá lớn! Lực lượng cứu hỏa hoàn toàn không dập tắt kịp!”
 
-Ồn ào náo nhiệt, hỗn loạn tột cùng, chính là để chỉ cảnh tượng lúc này.
+Ồn ào náo nhiệt, hỗn loạn tột cùng chính là để miêu tả cảnh tượng lúc này.
 
-Các truyền lệnh binh liên tục lao vào đại sảnh ngai vàng, gào thét báo cáo về những tình huống nguy cấp mà họ đang phải đối mặt. Cuộc tấn công quá đỗi bất ngờ khiến ngay cả những binh lính tinh nhuệ bảo vệ vương cung cũng phải hoang mang dao động.
+Các truyền lệnh binh liên tục lao vào đại sảnh ngai vàng, gào thét báo cáo về những tình huống nguy cấp mà họ đang phải đối mặt. Cuộc tập kích quá đỗi bất ngờ khiến ngay cả những binh lính tinh nhuệ bảo vệ vương cung cũng phải hoang mang dao động.
 
 Nhưng điều đó cũng là lẽ đương nhiên.
 
-Bốn cánh cổng Đông, Tây, Nam, Bắc của vương quốc đều được phòng thủ nghiêm ngặt. Trên bức đại thành lũy kiêu hãnh của vương quốc, các toán tuần tra liên tục qua lại không ngừng nghỉ, thiết lập một hệ thống cảnh giới nghiêm ngặt để có thể lập tức phát hiện kẻ địch tấn công từ bất kỳ hướng nào.
+Bốn cánh cổng Đông, Tây, Nam, Bắc của vương quốc đều được phòng thủ nghiêm ngặt. Trên bức đại thành lũy kiêu hãnh của vương quốc, các toán tuần tra liên tục qua lại không ngừng nghỉ, thiết lập một mạng lưới cảnh giới dày đặc để có thể lập tức phát hiện kẻ địch tấn công từ bất kỳ hướng nào.
 
 Nếu một cuộc chiến với loài người nổ ra, đó chắc chắn phải là một trận chiến phòng thủ dọc theo đại thành lũy. Bất kỳ binh lính nào từ cấp Gove trở lên có chút đầu óc đều sẽ dự đoán như vậy.
 
-Thế nhưng, ngay từ sáng sớm nay, quân đội loài người đột nhiên xuất hiện ngay trong lòng thành phố. Lũ Goma hoàn toàn bị đánh úp một cách bất ngờ.
+Thế nhưng, ngay từ sáng sớm nay, quân đội loài người đột nhiên xuất hiện ngay trong lòng thành phố. Lũ Goma hoàn toàn bị đánh úp trong sự ngỡ ngàng.
 
-Và lũ loài người xảo quyệt và tàn nhẫn đến cực điểm kia đã tận dụng tối đa cuộc tập kích này để phóng hỏa trên diện rộng. Chúng liên tục di chuyển nhanh chóng khắp thành phố, gây ra thiệt hại khổng lồ trong nháy mắt, đồng thời liên tục cắt đuôi sự truy kích của binh lính Goma đang tiến đến nghênh chiến. Cứ đà này, nếu để mặc chúng hoành hành, toàn bộ vương quốc sẽ chìm trong biển lửa.
+Lũ loài người xảo quyệt và tàn nhẫn đến cực điểm kia đã tận dụng tối đa cuộc tập kích này để phóng hỏa trên diện rộng. Chúng di chuyển thần tốc khắp thành phố, gây ra thiệt hại khổng lồ trong nháy mắt, đồng thời liên tục cắt đuôi sự truy kích của binh lính Goma đang tiến đến nghênh chiến. Cứ theo đà này, nếu để mặc chúng hoành hành, toàn bộ vương quốc sẽ chìm trong biển lửa.
 
-Nguy to rồi. Phải làm gì đó ngay lập tức————sự nóng vội, bất an, cùng với cơn thịnh nộ và lòng căm thù khi lần đầu tiên trong lịch sử có kẻ dám phóng hỏa đốt Vương quốc Goma vĩ đại đã cướp đi khả năng phán đoán lý trí của bọn họ. Ai nấy đều gào thét theo cảm xúc của mình.
+Nguy to rồi. Phải làm gì đó ngay lập tức————sự nóng vội, bất an, cùng với cơn thịnh nộ và lòng căm thù khi lần đầu tiên trong lịch sử có kẻ dám phóng hỏa thiêu rụi Vương quốc Goma vĩ đại đã cướp đi khả năng phán đoán lý trí của bọn họ. Ai nấy đều gào thét theo cảm xúc hỗn loạn của mình.
 
 “……Im lặng.”
 
-Tuy nhiên, đây là đại sảnh ngai vàng. Nơi có vị vua duy nhất, kẻ đứng trên đỉnh cao của hơn vạn tộc Goma đang sinh sống tại vương quốc này.
+Tuy nhiên, đây là đại sảnh ngai vàng. Nơi ngự trị của vị vua duy nhất, kẻ đứng trên đỉnh cao của hơn vạn sinh linh tộc Goma đang sinh sống tại vương quốc này.
 
-Oh-ma chỉ cần thốt lên một lời, sự tĩnh lặng lập tức được thiết lập lại trong đại sảnh ngai vàng.
+Chỉ cần Oh-ma thốt lên một lời, sự tĩnh lặng lập tức được tái lập trong đại sảnh.
 
 “Báo cáo tốt lắm, lui ra đi.”
 
-Oh-ma ung dung gật đầu nói với các truyền lệnh binh đang phủ phục dưới đất. Bọn họ đồng loạt cúi đầu sát đất, đồng thanh hô lớn: “Tuân lệnh!”
+Oh-ma ung dung gật đầu nói với các truyền lệnh binh đang phủ phục dưới đất. Bọn họ đồng loạt dập đầu sát sàn đá, đồng thanh hô lớn: “Tuân lệnh!”
 
 “Hành tung của lũ loài người, mắt ta cũng đã nhìn thấy.”
 
 Oh-ma khẽ thở dài một tiếng. Trong căn phòng này, người hiểu được tiếng thở dài đó chứa đựng bao nhiêu sức nặng chỉ có duy nhất Đại Chiến Sĩ Trưởng Zagan đang túc trực ngay bên cạnh nhà vua.
 
-Zagan khẽ liếc nhìn sang, đập vào mắt anh ta là bàn tay khô héo của Oh-ma đang bóp chặt lấy tay vịn ngai vàng đến mức phát ra tiếng kêu răng rắc.
+Zagan khẽ liếc nhìn sang, đập vào mắt anh ta là bàn tay khô héo của Oh-ma đang bóp chặt lấy tay vịn ngai vàng đến mức phát ra tiếng rạn răng rắc.
 
 “Chúng đã vượt qua bức tường từ 『khu phế thải』 ở rìa phía tây nam để xâm nhập. Từ đó, chúng chia làm hai ngả, vừa tiến về phía nam và phía tây vừa phóng hỏa.”
 
-Đích thân Oh-ma đã tổng hợp các thông tin hỗn loạn và truyền đạt lại một cách ngắn gọn.
+Đích thân Oh-ma đã tổng hợp lại các nguồn thông tin hỗn loạn và truyền đạt lại một cách ngắn gọn, rõ ràng.
 
 Các truyền lệnh binh không khỏi trầm trồ thán phục trước sự anh minh của nhà vua, người có thể lập tức thấu suốt chuyển động của kẻ địch mà ngay cả những kẻ ở tiền tuyến như họ cũng không nắm bắt hết được…… Nhưng đối với Oh-ma, việc có được chút thông tin ít ỏi này đã phải đánh đổi bằng biết bao nhiêu mạng sống, nghĩ đến thôi cũng đủ khiến ông ta đau đầu.
 
 Khoảnh khắc quân đội loài người vượt qua đại thành lũy của vương quốc, Oh-ma đã tình cờ chứng kiến được nhờ vào sứ ma mắt quỷ mà ông ta thả trong thành phố.
 
-Lũ loài người đã sử dụng Thổ ma thuật quy mô lớn để dựng lên một cây cầu khổng lồ vượt qua cả đại thành lũy.
+Lũ loài người đã sử dụng Thổ ma thuật quy mô lớn để dựng nên một cây cầu đất khổng lồ bắc qua cả đại thành lũy.
 
-Trong trận quyết chiến giành quyền bá chủ với tộc Geela năm xưa, hay trong cuộc chiến phòng thủ trước làn sóng undead tưởng chừng như vô tận tràn đến. Dù trong hai đại chiến dịch quá khứ, bức đại thành lũy do chính tay ông ta xây dựng chưa từng cho phép bất kỳ kẻ nào vượt qua…… Vậy mà giờ đây, lũ loài người lại dễ dàng băng qua tuyến phòng thủ kiên cố nhất của vương quốc một cách quá đỗi đơn giản.
+Trong trận quyết chiến giành quyền bá chủ với tộc Geela năm xưa, hay trong cuộc chiến phòng thủ trước làn sóng undead tưởng chừng như vô tận tràn đến, bức đại thành lũy do chính tay ông ta xây dựng chưa từng cho phép bất kỳ kẻ nào vượt qua…… Vậy mà giờ đây, lũ loài người lại dễ dàng băng qua tuyến phòng thủ kiên cố nhất của vương quốc một cách quá đỗi đơn giản.
 
-Hơn nữa lại bằng một phương pháp đơn giản nhưng vô cùng táo bạo như thế. Tốc độ triển khai Thổ ma thuật quá nhanh khiến lực lượng nghênh chiến của phía Goma hoàn toàn không kịp phản ứng. Đến khi nhận ra thì lũ loài người đã vượt qua bức tường, đặt chân xuống 『khu phế thải』—nơi vứt bỏ những kẻ bệnh tật, bị thương và vô dụng.
+Hơn nữa lại bằng một phương pháp giản đơn nhưng vô cùng táo bạo như thế. Tốc độ triển khai Thổ ma thuật quá nhanh khiến lực lượng nghênh chiến của phía Goma hoàn toàn không kịp phản ứng. Đến khi nhận ra thì lũ loài người đã vượt qua bức tường, đặt chân xuống 『khu phế thải』—nơi vứt bỏ những kẻ bệnh tật, tàn phế và vô dụng.
 
-Từ đó, có lẽ chúng đã lên kế hoạch từ trước. Quân đội loài người chia làm hai ngả với tốc độ vô cùng trơn tru, dùng ma bàn tay lửa tấn công vào khu phố chợ buổi sáng đang nhộn nhịp.
+Từ đó, có lẽ chúng đã lên kế hoạch từ trước. Quân đội loài người chia làm hai ngả với tốc độ vô cùng trơn tru, gieo rắc những ngọn lửa tàn phá vào khu phố chợ buổi sáng đang tấp nập.
 
-“Quân loài người ở phía nam sau khi tấn công Nam Đại Môn, tiêu diệt phần lớn lính canh thì đã phóng hỏa đốt cổng và bắt đầu di chuyển về phía đông. Trong khi đó, quân loài người ở phía tây đang có động thái tấn công Tây Môn. Chắc chắn chúng cũng có ý định phóng hỏa nơi đó giống như Nam Đại Môn.”
+“Quân loài người ở phía nam sau khi tấn công Nam Đại Môn, tiêu diệt phần lớn lính canh thì đã phóng hỏa đốt cổng và bắt đầu di chuyển về phía đông. Trong khi đó, cánh quân ở phía tây đang có động thái tấn công Tây Môn. Chắc chắn chúng cũng có ý định thiêu rụi nơi đó giống như Nam Đại Môn.”
 
 Đó chính là tình hình thực tế ngay lúc này.
 
-Chuyển động của kẻ địch quá nhanh. Dù đã chứng kiến cảnh chúng vượt thành và lập tức ra lệnh cho binh lính nghênh chiến, nhưng trong khoảng thời gian mệnh lệnh truyền xuống các cấp dưới và bắt đầu hành động, lũ loài người đã chuyển sang bước tiếp theo. Mọi biện pháp đối phó đều bị chậm một nhịp.
+Chuyển động của kẻ địch quá nhanh. Dù đã chứng kiến cảnh chúng vượt thành và lập tức hạ lệnh cho binh lính nghênh chiến, nhưng trong khoảng thời gian mệnh lệnh truyền xuống các cấp dưới và bắt đầu hành động, lũ loài người đã chuyển sang bước tiếp theo. Mọi biện pháp đối phó đều bị chậm một nhịp.
 
-Thực tế, trong mắt Oh-ma đang phản chiếu hình ảnh những binh lính tiền tuyến hoàn toàn bị hai cánh quân loài người xoay như chong chóng. Cứ đà này, họ sẽ không thể ngăn chặn được chúng.
+Thực tế, trong mắt Oh-ma đang phản chiếu hình ảnh những binh lính tiền tuyến hoàn toàn bị hai cánh quân loài người xoay như chong chóng. Cứ đà này, họ sẽ không thể nào ngăn chặn được chúng.
 
 “Bệ hạ Oh-ma, xin hãy ban chỉ thị.”
 
@@ -52773,15 +52775,15 @@ Những giọng nói dõng dạc và dũng mãnh vang vọng khắp đại sản
 
 “Cả…… cả ba người chúng thần sao ạ?”
 
-“Mực mực mực, điều động tới ba Đại Chiến Sĩ cơ à.”
+“Hừm hừm hừm, điều động tới ba Đại Chiến Sĩ cơ à.”
 
 “Kẻ địch đang chia làm hai ngả, nếu một mình thần đi đối phó với ngả còn lại thì————”
 
 “Không được. Cả ba Đại Chiến Sĩ phải cùng hành động.”
 
-Oh-ma lặp lại mệnh lệnh một cách bình thản nhưng ẩn chứa một áp lực không thể chối từ.
+Oh-ma lặp lại mệnh lệnh một cách bình thản nhưng ẩn chứa một áp lực uy nghiêm không thể chối từ.
 
-“Đừng quên chúng ta đã mất đi hai Đại Chiến Sĩ là Bon và Bazuzu. Lũ loài người sở hữu chiến lực đủ để sát hại các Đại Chiến Sĩ của ta. Nghe cho rõ đây, trước tiên hãy nghiền nát lũ loài người ở phía tây, nơi có số lượng đông hơn. Hãy dùng sức mạnh của ba Đại Chiến Sĩ để nhanh chóng tiêu diệt chúng, không để sót một con nào.”
+“Đừng quên chúng ta đã mất đi hai Đại Chiến Sĩ là Bon và Bazuzu. Lũ loài người sở hữu chiến lực đủ để sát hại các Đại Chiến Sĩ của ta. Nghe cho rõ đây, trước tiên hãy nghiền nát lũ loài người ở phía tây, nơi có quân số đông hơn. Hãy dùng sức mạnh của cả ba Đại Chiến Sĩ để nhanh chóng tiêu diệt chúng, không để sót một mống nào.”
 
 “Rõ! Chúng thần xin tuân chỉ bệ hạ Oh-ma!”
 
@@ -52797,41 +52799,41 @@ Cứ như vậy, ba Đại Chiến Sĩ mạnh nhất vương quốc đã rời k
 
 Dĩ nhiên, sau khi rời khỏi đây, họ sẽ dẫn theo thuộc hạ đang đồn trú tại các pháo đài để tiến ra chiến trường. Dù vậy, công việc của đám thuộc hạ có lẽ chỉ là chém vào lưng những tàn binh bại tướng đang bỏ chạy thảm hại trước sức mạnh áp đảo của các Đại Chiến Sĩ mà thôi.
 
-Nhìn thấy ba Đại Chiến Sĩ xuất trận, những kẻ đang nháo nhào trong đại sảnh ngai vàng cũng reo hò tiễn đưa. Nỗi sợ hãi và bất an lập tức đảo chiều, nhường chỗ cho lòng dũng cảm và niềm hy vọng.
+Nhìn thấy ba Đại Chiến Sĩ xuất trận, những kẻ đang hoang mang trong đại sảnh ngai vàng cũng reo hò tiễn đưa. Nỗi sợ hãi và bất an lập tức bị đẩy lùi, nhường chỗ cho lòng dũng cảm và niềm hy vọng.
 
-Dĩ nhiên, đối với Oh-ma, việc phải điều động các Đại Chiến Sĩ sớm như vậy trong một tình thế cấp bách thế này khiến trong lòng ông ta không thể nào yên ả. Lý do còn đơn giản hơn cả thất bại về mặt chiến thuật khi để kẻ địch dễ dàng vượt qua đại thành lũy.
+Dĩ nhiên, đối với Oh-ma, việc phải điều động các Đại Chiến Sĩ sớm như vậy trong một tình thế cấp bách thế này khiến trong lòng ông ta không thể nào yên ả. Lý do còn vượt lên trên cả thất bại về mặt chiến thuật khi để kẻ địch dễ dàng vượt qua đại thành lũy.
 
-Trước sự thật rằng vương quốc mà ông ta đã tốn bao công sức, trải qua bao gian khổ và chiến đấu mới xây dựng nên đang bị thiêu rụi, không một vị vua nào có thể giữ được bình tĩnh.
+Trước sự thật rằng vương quốc mà ông ta đã tốn bao công sức, trải qua bao gian khổ và chiến trận mới gầy dựng nên đang bị thiêu rụi, không một vị vua nào có thể giữ được bình tĩnh.
 
 “Ta cũng sẽ hành động…… Zagan, đi theo ta.”
 
 “Rõ.”
 
-Oh-ma đứng dậy khỏi ngai vàng, giơ cao cây锡 trượng trên tay và dõng dạc tuyên bố.
+Oh-ma đứng dậy khỏi ngai vàng, giơ cao cây tích trượng trên tay và dõng dạc tuyên bố:
 
 “Sau đây, ta sẽ cử hành nghi lễ 『Cầu Mưa Đại Tế』.”
 
-Đó là ma pháp nghi lễ thần thánh mà chỉ duy nhất Oh-ma mới có thể sử dụng. Một kỳ tích có thể cầu xin thần Goma ban xuống những cơn mưa cứu rỗi.
+Đó là ma pháp nghi lễ thần thánh mà chỉ duy nhất Oh-ma mới có thể sử dụng. Một kỳ tích có thể cầu xin thần linh ban xuống những cơn mưa cứu rỗi cho tộc Goma.
 
-Vì đây cũng là một dạng nghi lễ thần linh nên không thể sử dụng một cách tùy tiện vào bất kỳ lúc nào hay bao nhiêu lần tùy ý. Đặc biệt, nghi lễ mang danh 『Đại Tế』 là một nghi lễ đặc biệt, mang lại hiệu quả mạnh mẽ nhất.
+Vì đây cũng là một dạng nghi lễ thần linh nên không thể sử dụng một cách tùy tiện vào bất kỳ lúc nào hay bao nhiêu lần tùy ý. Đặc biệt, nghi thức mang danh 『Đại Tế』 là một nghi lễ tối thượng, mang lại hiệu lực mạnh mẽ nhất.
 
 Oh-ma cũng không quên việc xưởng rèn đã bị thiêu rụi bởi bàn tay của kẻ loài người lẻn vào mật hội trước đó.
 
-Ông ta tin chắc rằng nếu lũ loài người thực sự tấn công vương quốc này, chúng chắc chắn sẽ phóng hỏa. Dù không hề muốn để chuyện đó xảy ra…… nhưng đề phòng trường hợp xấu nhất, ông ta đã chuẩn bị sẵn các biện pháp đối phó khi xảy ra hỏa hoạn quy mô lớn.
+Ông ta tin chắc rằng nếu lũ loài người thực sự tấn công vương quốc này, chúng chắc chắn sẽ dùng đến hỏa công. Dù không hề muốn để chuyện đó xảy ra…… nhưng đề phòng trường hợp xấu nhất, ông ta đã chuẩn bị sẵn các biện pháp đối phó khi xảy ra hỏa hoạn quy mô lớn.
 
-Sau lời tuyên bố, Oh-ma dẫn theo Zagan cùng bốn mỹ nữ có chiếc bụng đặc biệt lớn luôn túc trực bên cạnh, đường hoàng bước ra khỏi đại sảnh ngai vàng giữa hàng loạt thuộc hạ đang phủ phục.
+Sau lời tuyên bố, Oh-ma dẫn theo Zagan cùng bốn mỹ nữ có chiếc bụng căng tròn đặc biệt luôn túc trực bên cạnh, đường hoàng bước ra khỏi đại sảnh ngai vàng giữa hàng loạt thuộc hạ đang phủ phục.
 
-Nơi họ hướng đến là quảng trường trước vương cung, nơi có vẽ ma pháp trận dịch chuyển quy mô lớn thường dùng khi xuất chinh hoặc khai hoang.
+Nơi họ hướng đến là quảng trường trước vương cung, nơi có khắc ma pháp trận dịch chuyển quy mô lớn thường dùng khi xuất chinh hoặc khai hoang.
 
 Khi Oh-ma xuất hiện ở đó, những binh lính đang canh gác nghiêm ngặt phía trước đồng loạt quỳ gối. Đồng thời, cũng có những kẻ chỉ cúi chào nhẹ rồi lập tức bắt tay vào hành động.
 
-Họ là những Gove khoác trên mình những bộ trang phục cực kỳ sặc sỡ. Đó là những bộ lễ phục dài che kín toàn thân, rõ ràng không thích hợp cho việc chiến đấu. Dù vậy, những tấm vải rực rỡ sắc màu đó là món hàng xa xỉ mà chỉ những kẻ có địa vị mới có thể sở hữu.
+Họ là những Gove khoác trên mình những bộ trang phục cực kỳ sặc sỡ. Đó là những bộ lễ phục dài che kín toàn thân, rõ ràng không thích hợp cho việc chiến đấu. Dù vậy, những tấm vải rực rỡ sắc màu đó là món hàng xa xỉ mà chỉ những kẻ có địa vị cao quý mới có thể sở hữu.
 
 Những kẻ khoác trên mình trang phục thượng hạng đó chính là các thần quan.
 
-Dù tộc Gove có cơ thể phát triển tự nhiên trở nên vạm vỡ, cơ bắp cuồn cuộn, nhưng các thần quan Gove đều có thân hình mảnh khảnh hơn hẳn. Bởi thứ họ cần không phải là sự dũng mãnh của một chiến sĩ, mà là ma lực và trí tuệ của một thần quan.
+Dù tộc Gove có cơ thể phát triển tự nhiên trở nên vạm vỡ, cơ bắp cuồn cuộn, nhưng các thần quan Gove đều có thân hình mảnh khảnh hơn hẳn. Bởi thứ họ cần không phải là sự dũng mãnh của một chiến sĩ, mà là ma lực và trí tuệ của một bề tôi phụng sự thần linh.
 
-Nhóm thần quan, một tầng lớp tinh anh khác biệt với các Đại Chiến Sĩ, nhanh chóng đặt các loại vật tế khác nhau lên ma pháp trận ở quảng trường. Bắt đầu từ những lõi ma vật cỡ lớn, cho đến răng nanh, xương, sừng, và các cơ quan nội tạng đặc thù. Trong các vại gốm, máu tươi và rượu được đổ đầy tràn. Nhưng vật tế dâng lên thần linh không chỉ dừng lại ở đó.
+Nhóm thần quan, một tầng lớp tinh anh khác biệt hoàn toàn với các Đại Chiến Sĩ, nhanh chóng đặt các loại vật tế khác nhau lên ma pháp trận ở quảng trường. Bắt đầu từ những Lõi Ma Vật cỡ lớn, cho đến răng nanh, xương cốt, sừng thú, và các cơ quan nội tạng đặc thù. Trong các vại gốm, máu tươi và rượu nồng được đổ đầy tràn. Nhưng vật tế dâng lên thần linh không chỉ dừng lại ở đó.
 
 “Từ trước đến nay, các nàng đã hầu hạ rất tốt. Nào, hãy hoàn thành sứ mệnh cuối cùng đi.”
 
@@ -52839,13 +52841,13 @@ Nhóm thần quan, một tầng lớp tinh anh khác biệt với các Đại Ch
 
 Bốn mỹ nữ cúi đầu chào sâu rồi lần lượt bước về bốn góc của ma pháp trận.
 
-Những cô gái khoác trên mình trang phục trắng tinh khôi này không đơn thuần chỉ là những nữ nhân được Oh-ma nuôi dưỡng. Những người phụ nữ sở hữu dung mạo và vóc dáng tuyệt mỹ nhất được tuyển chọn trong vương quốc này có tư cách sinh con cho Oh-ma, nhưng điều quan trọng hơn cả là nghĩa vụ của một vu nữ.
+Những cô gái khoác trên mình trang phục trắng tinh khôi này không đơn thuần chỉ là những nữ nhân được Oh-ma nuôi dưỡng. Những người phụ nữ sở hữu dung mạo và vóc dáng tuyệt mỹ nhất được tuyển chọn trong vương quốc này có tư cách mang thai cốt nhục của Oh-ma, nhưng điều quan trọng hơn cả là nghĩa vụ của một vu nữ.
 
 Nghĩa vụ của vu nữ là trở thành vật tế cao cấp nhất dâng lên thần linh khi cử hành đại nghi lễ mang tên 『Đại Tế』————tức là, vật hiến tế sống.
 
 “Hỡi vị Thần vĩ đại của chúng ta. Thần của tộc Goma. Xin hãy lắng nghe lời cầu nguyện của ta————”
 
-Ngay giữa trung tâm nơi các vu nữ tự dùng dao cắt cổ mình, máu phun tung tóe rồi ngã gục, Oh-ma vung vẩy cây trượng bắt đầu cử hành nghi lễ.
+Ngay giữa trung tâm, nơi các vu nữ tự dùng dao cứa cổ mình, máu tươi phun tung tóe rồi ngã gục xuống nền đá, Oh-ma vung vẩy cây tích trượng bắt đầu cử hành nghi lễ.
 
 ***
 
@@ -52853,25 +52855,25 @@ Khu vực từ phía tây nam đến phía tây vương quốc là nơi tập tr
 
 Không chỉ có những căn lều được dựng từ những tấm vải lớn chắp vá, mà cả những công trình bằng gỗ cũng mọc lên san sát. Trong số đó còn có cả những ngôi nhà hai tầng hoặc nhà bằng đá.
 
-Phố chợ, ngả rẽ từ đại lộ nối liền pháo đài và Nam Đại Môn, là một con đường rộng trải đầy sỏi đá, nơi vô số Goma qua lại tấp nập ngay từ sáng sớm. Hai bên đường, những kẻ mang theo sản vật thu hoạch được chiếm giữ vị trí và cất tiếng rao lớn với những người qua đường.
+Phố chợ, ngả rẽ từ đại lộ nối liền pháo đài và Nam Đại Môn, là một con đường rộng trải đầy sỏi đá, nơi vô số Goma qua lại tấp nập ngay từ sáng sớm. Hai bên đường, những kẻ mang theo sản vật thu hoạch được chiếm giữ vị trí và cất tiếng rao lớn với người qua lại.
 
-Các mặt hàng được bày bán ở đây vô cùng đa dạng, từ các loại thực phẩm kiếm được trong rừng như quả hạch, rau rừng, thịt thú nhỏ, da thú, cho đến các vật dụng thủ công tự làm như đồ đá, đồ đan bằng dây leo, và thậm chí là cả những món đồ hời không rõ nguồn gốc như dao găm hay vải vóc mà họ kiếm được hoặc trộm được từ đâu đó.
+Các mặt hàng được bày bán ở đây vô cùng đa dạng, từ các loại thực phẩm kiếm được trong rừng như quả hạch, rau rừng, thịt thú nhỏ, da thú, cho đến các vật dụng thủ công tự làm như đồ đá, đồ đan bằng dây leo, và thậm chí là cả những món đồ hời không rõ nguồn gốc như dao găm hay vải vóc mà họ nhặt nhạnh hoặc cướp bóc được từ đâu đó.
 
-Trên con phố chợ này cũng có những kẻ sở hữu cửa hàng bằng gỗ. Những cửa hàng như vậy thường bán các loại lương thực chủ đạo được canh tác trong vương quốc như đậu bùn, khoai bùn, hoặc các loại thực phẩm như thịt ếch lợn được nuôi ở sông và đầm lầy.
+Trên con phố chợ này cũng có những kẻ sở hữu cửa hàng bằng gỗ kiên cố. Những cửa hàng như vậy thường bán các loại lương thực chủ đạo được canh tác trong vương quốc như đậu bùn, khoai bùn, hoặc các loại thực phẩm tươi sống như thịt ếch lợn được nuôi ở sông và đầm lầy.
 
-Tại cửa hàng thịt lớn nhất vương quốc, màn biểu diễn xẻ thịt những con ếch lợn béo mầm vừa nhập về sáng sớm ngay trước cửa tiệm hôm nay cũng thu hút rất đông người xem náo nhiệt.
+Tại cửa hàng thịt lớn nhất vương quốc, màn biểu diễn xẻ thịt những con ếch lợn béo mầm vừa nhập về sáng sớm ngay trước cửa tiệm hôm nay cũng thu hút rất đông kẻ vây quanh xem náo nhiệt.
 
-Ngoài ra, các cửa hàng quần áo, dụng cụ, và thậm chí cả cửa hàng vũ khí cũng xếp hàng san sát ở đây. Nơi đây đã hình thành nên một khu chợ khổng lồ và sầm uất đến mức người ta nói rằng không có thứ gì là không thể tìm thấy ở đây.
+Ngoài ra, các cửa hàng quần áo, nông cụ, và thậm chí cả tiệm vũ khí cũng xếp hàng san sát ở đây. Nơi đây đã hình thành nên một khu chợ khổng lồ và sầm uất đến mức người ta đồn rằng không có thứ gì là không thể tìm thấy.
 
-Dĩ nhiên, ngay cả những con đường phụ cách phố chợ ba dãy nhà và các quảng trường được bố trí tại các vị trí trọng yếu cũng chật kín những Goma mang đồ đến để trao đổi hiện vật, các hoạt động giao thương diễn ra vô cùng sôi nổi mỗi ngày.
+Dĩ nhiên, ngay cả những con hẻm phụ cách phố chợ ba dãy nhà và các quảng trường nhỏ được bố trí tại các vị trí trọng yếu cũng chật kín những Goma mang đồ đến để trao đổi hiện vật, các hoạt động giao thương diễn ra vô cùng sôi nổi mỗi ngày.
 
-Có kẻ cười tươi vì đổi được món hời. Có kẻ khóc lóc vì không thể phản kháng lại giao dịch bất công. Có những kẻ thương lượng bất thành dẫn đến đánh nhau sứt đầu mẻ trán, và đám đông hiếu kỳ vây quanh cổ vũ nhiệt tình. Đứa trẻ thèm thuồng chảy nước miếng trước mùi máu thịt tươi sống vừa được xẻ ngay trước cửa tiệm, và người mẹ kéo tay con đi một cách cưỡng ép vì nhà mình không có tiền ăn những thứ xa xỉ đó.
+Có kẻ cười tươi rói vì đổi được món hời. Có kẻ khóc lóc vì không thể phản kháng lại giao dịch bất công. Có những kẻ thương lượng bất thành dẫn đến đánh nhau sứt đầu mẻ trán, và đám đông hiếu kỳ lại vây quanh cổ vũ nhiệt tình. Đứa trẻ thèm thuồng chảy nước miếng trước mùi máu thịt tươi sống vừa được xẻ ngay trước cửa tiệm, rồi bị người mẹ kéo tay lôi đi một cách thô bạo vì nhà mình chẳng có tiền ăn những thứ xa xỉ đó.
 
-Cảnh tượng thường nhật náo nhiệt và hòa bình của vương quốc đáng lẽ ra vẫn sẽ tiếp diễn trong ngày hôm nay.
+Cảnh tượng thường nhật náo nhiệt và thanh bình của vương quốc đáng lẽ ra vẫn sẽ tiếp diễn trong ngày hôm nay.
 
 “BU-MOOOOOOOOOOOOOOOOOOOOO!”
 
-Cùng với tiếng gầm thét dũng mãnh, phố chợ lập tức biến thành một địa ngục thiêu đốt.
+Cùng với tiếng gầm thét dũng mãnh xé toạc không gian, phố chợ lập tức biến thành một địa ngục thiêu đốt.
 
 “Áaaa! Ngưu Ma Nhân xuất hiện kìa!?”
 
@@ -52881,93 +52883,93 @@ Cùng với tiếng gầm thét dũng mãnh, phố chợ lập tức biến thà
 
 “Hỏa hoạn! Có hỏa hoạn rồi!”
 
-Một Ngưu Ma Nhân đen kịt sở hữu thân hình khổng lồ cao hơn 3 mét như một con GoGame Mastera, vung vẩy cây côn sắt nặng nề đột ngột lao vào đám đông trên phố chợ. Chỉ với một cú vung, vài tên Goma đã bị đập nát bấy, máu tươi bắn tung tóe cùng những thân xác biến dạng bay lơ lửng trên không trung.
+Một Ngưu Ma Nhân đen kịt sở hữu thân hình khổng lồ cao hơn 3 mét như một con Gogma, vung vẩy cây côn sắt nặng nề đột ngột lao thẳng vào đám đông trên phố chợ. Chỉ với một cú vung tàn bạo, vài tên Goma đã bị đập nát bấy, máu tươi bắn tung tóe cùng những thân xác biến dạng bay lơ lửng giữa không trung.
 
-Thế nhưng, điều đáng sợ không chỉ có con ma vật mạnh mẽ đó, mà là những ngọn lửa liên tục bùng lên từ phía sau lưng nó. Cứ như thể những nơi con Ngưu Ma Nhân này đi qua đều tự động bốc cháy.
+Thế nhưng, điều đáng sợ không chỉ dừng lại ở con ma vật hung hãn đó, mà là những ngọn lửa liên tục bùng lên dữ dội từ phía sau lưng nó. Cứ như thể những nơi con Ngưu Ma Nhân này bước qua đều tự động bốc cháy.
 
-Nhưng thực chất không có gì thần bí cả. Chỉ là có những kẻ đang bám theo sau để phóng hỏa mà thôi. Dù vậy, đối với tộc Goma, điều đó lại biểu thị cho một tình huống tồi tệ nhất.
+Nhưng thực chất chẳng có gì thần bí cả. Chỉ là có những kẻ đang bám theo sau để phóng hỏa mà thôi. Dù vậy, đối với tộc Goma, điều đó lại báo hiệu cho một tình huống tồi tệ nhất.
 
 “Là…… loài người……”
 
 “Lũ loài người tấn công rồi!”
 
-Xuất hiện liên tiếp trên phố chợ là một nhóm người mặc trang phục che kín toàn thân.
+Xuất hiện liên tiếp trên phố chợ là một nhóm người mặc trang phục trùm kín toàn thân.
 
-Chúng được trang bị kiếm sắt và thương, liên tục ra tay sát hại những tên Goma trong tầm tay. Và dưới bầu trời xanh trong vắt này, có thể thấy nhiều kẻ đang giơ cao những cây đuốc cháy đỏ rực.
+Chúng được trang bị kiếm sắt và giáo dài, liên tục vung vũ khí sát hại những tên Goma trong tầm tay. Dưới bầu trời xanh trong vắt, có thể thấy rõ vô số bóng người đang giơ cao những cây đuốc cháy đỏ rực.
 
-Quân đội loài người vừa giết hại bất kỳ tên Goma nào chúng gặp, vừa phóng hỏa đốt các ngôi nhà.
+Quân đội loài người vừa tàn sát bất kỳ tên Goma nào chúng chạm trán, vừa phóng hỏa thiêu rụi từng dãy nhà.
 
 “Ta…… ta sẽ giết các ngươi!”
 
 “Giết chúng! Ăn tươi nuốt sống lũ loài người đi!”
 
-Trong khi phụ nữ và trẻ em chạy trốn tán loạn, những thanh niên Goma hiếu chiến cầm đồ đá trên tay và nổi giận lôi đình. Đối mặt với kẻ thù không đội trời chung, thiên địch vĩnh cửu của tộc Goma, lòng căm thù và phẫn nộ bản năng trỗi dậy, thổi bay mọi nỗi sợ hãi trong họ.
+Trong khi đàn bà và con nít chạy trốn tán loạn, những thanh niên Goma hiếu chiến vớ lấy đồ đá trên tay và nổi giận lôi đình. Đối mặt với kẻ thù không đội trời chung, thiên địch vĩnh cửu của tộc Goma, lòng căm thù và phẫn nộ từ tận bản năng trỗi dậy, thổi bay mọi nỗi sợ hãi trong lòng họ.
 
-Số lượng loài người xuất hiện không chỉ dừng lại ở con số mười hay hai mươi. Hơn nữa, dẫn đầu là con Ngưu Ma Nhân, theo sau là ba con quái vật khác cũng sở hữu thân hình khổng lồ cấp GoGame Mastera. Theo lẽ thường, đây không phải là đối thủ mà những Goma bình thường có thể chiến thắng dù có hợp lực lại.
+Số lượng quân loài người xuất hiện không chỉ dừng lại ở con số mười hay hai mươi. Hơn nữa, dẫn đầu là con Ngưu Ma Nhân hung tợn, theo sau là ba con quái vật khác cũng sở hữu thân hình khổng lồ cấp Gogma. Theo lẽ thường, đây tuyệt đối không phải là đối thủ mà những Goma bình thường có thể đả bại dù có hợp lực lại.
 
 Thế nhưng, bị thúc đẩy bởi lòng căm thù tột độ dành cho loài người, lũ Goma vẫn dũng cảm lao lên nghênh chiến, để rồi————
 
 “————BU-MOOOOOOO!”
 
-Chỉ một đòn quét sạch. Cây côn sắt khổng lồ mà Ngưu Ma Nhân vung vẩy thực sự là một cơn bão thép. Những kẻ lao lên đầu tiên lập tức bị đập nát bấy, biến thành những đống thịt vụn không rõ hình thù hoặc những vệt máu loang lổ trên mặt đất.
+Chỉ một đòn quét sạch. Cây côn sắt khổng lồ mà Ngưu Ma Nhân vung ra thực sự là một cơn bão thép cuồng loạn. Những kẻ lao lên đầu tiên lập tức bị nghiền nát bấy, biến thành những đống thịt vụn văng tung tóe cùng những vệt máu nhớp nháp loang lổ trên mặt đất.
 
-Không hề dừng lại dù chỉ một bước, quân loài người đường hoàng tiến quân dọc theo phố chợ, gieo rắc sự tàn sát khắp nơi. Không chỉ dừng lại ở việc tiêu diệt những tên Goma cản đường, chúng cũng không hề nương tay với những kẻ đang bỏ chạy hay trốn tránh.
+Không hề khựng lại dù chỉ nửa bước, quân loài người đường hoàng tiến bước dọc theo phố chợ, gieo rắc sự tàn sát khắp nơi. Không chỉ thẳng tay tiêu diệt những tên Goma cản đường, chúng cũng không hề nương tay với bất kỳ kẻ nào đang bỏ chạy hay lẩn trốn.
 
 “Hức, hức……”
 
 “Suỵt, im lặng nào…… kẻo bị phát hiện bây giờ……”
 
-Những đứa trẻ đang nín thở trốn trong một ngôi nhà gỗ bên đường nhận ra có bóng người đang đứng ngay trước cửa tiệm. Chúng nhắm chặt mắt, cầu nguyện từ tận đáy lòng rằng các chiến sĩ Goma dũng cảm sẽ sớm đến tiêu diệt lũ loài người đáng ghét————thì bỗng nghe thấy một tiếng “xoảng” vang lên.
+Những đứa trẻ đang nín thở trốn trong một ngôi nhà gỗ bên đường nhận ra có bóng người lướt qua ngay trước cửa. Chúng nhắm chặt mắt, cầu nguyện từ tận đáy lòng rằng các chiến sĩ Goma dũng cảm sẽ sớm đến tiêu diệt lũ loài người đáng ghét————thì bỗng nghe thấy một tiếng “xoảng” chát chúa vang lên.
 
-Một chiếc vại nhỏ bị đập vỡ ngay gần lối vào cửa tiệm, chất lỏng bên trong bắn tung tóe khắp nơi. Một chất lỏng nhớt mang theo mùi hôi đặc trưng lan tỏa.
+Một chiếc vại nhỏ bị đập vỡ ngay lối vào, chất lỏng bên trong bắn tung tóe khắp nền nhà. Một thứ dung dịch sền sệt mang theo mùi khét nồng nặc lan tỏa.
 
-Ngay khi nhận ra đó là dầu, một cây đuốc vô tình đã được ném vào.
+Ngay khi nhận ra đó là dầu, một cây đuốc rực lửa vô tình đã bị ném thẳng vào trong.
 
 “HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!”
 
-Khắp nơi vang vọng tiếng la hét thảm thiết của những tên Goma đang bị thiêu cháy trong đau đớn.
+Khắp nơi vang vọng tiếng la hét thảm thiết xé lòng của những tên Goma đang bị thiêu sống trong đau đớn cùng cực.
 
-Lửa bén vào những căn lều, những ngôi nhà gỗ, rồi nhanh chóng lan rộng ra xung quanh trong nháy mắt. Không chỉ dừng lại ở việc cháy lan, lũ loài người cầm đuốc và dầu liên tục chạy dọc ngang các con phố, tiếp tục phóng hỏa, khiến đám cháy ngày càng lan rộng và dữ dội hơn.
+Lửa bén vào những căn lều vải, những ngôi nhà gỗ, rồi nhanh chóng lan rộng ra xung quanh trong nháy mắt. Không chỉ dừng lại ở việc cháy lan, lũ loài người cầm đuốc và vò dầu liên tục chạy dọc ngang khắp các ngõ ngách, không ngừng tiếp lửa, khiến đám cháy ngày càng bùng lên dữ dội hơn.
 
-Trận hỏa hoạn lớn nhất trong lịch sử vương quốc đã bùng phát, ngọn lửa từ phố chợ lan sang các khu dân cư đông đúc, tạo nên một địa ngục trần gian đầy tiếng khóc than thảm thiết.
+Trận hỏa hoạn lớn nhất trong lịch sử vương quốc đã bùng phát, ngọn lửa từ phố chợ lan sang các khu dân cư đông đúc, tạo nên một địa ngục trần gian ngập tràn tiếng gào khóc ai oán.
 
-Vừa tiếp tục tàn sát vô tội vạ vừa tạo nên địa ngục lửa đỏ, quân loài người dẫn đầu bởi Ngưu Ma Nhân tiếp tục tiến thẳng về phía tây.
+Vừa tiếp tục đồ sát không ghê tay vừa tạo nên biển lửa đỏ rực, cánh quân loài người do Ngưu Ma Nhân dẫn đầu tiếp tục tiến thẳng về phía tây.
 
-Chẳng mấy chốc, chúng đã vượt qua phố chợ, và hiện ra trước mắt chính là Tây Môn.
+Chẳng mấy chốc, chúng đã vượt qua khu phố chợ, và hiện ra trước mắt chính là Tây Môn.
 
-Vốn dĩ, đây là đội phòng thủ được bố trí để đề phòng các cuộc tấn công từ bên ngoài, nhưng ngay cả một tân binh Goma cũng có thể hiểu được kẻ địch đã lọt vào bên trong khi tận mắt chứng kiến thảm cảnh của trận hỏa hoạn lớn này.
+Vốn dĩ, đây là lực lượng phòng thủ được bố trí để đề phòng các cuộc tấn công từ bên ngoài, nhưng ngay cả một tân binh Goma cũng có thể hiểu được kẻ địch đã lọt vào bên trong khi tận mắt chứng kiến thảm cảnh tro tàn của trận đại hỏa hoạn này.
 
-Theo mệnh lệnh của Oh-ma do truyền lệnh binh mang tới, họ không tiến vào phố chợ để tấn công lũ loài người đang làm loạn, mà giữ nguyên vị trí để củng cố phòng thủ tại cổng thành. Đội phòng thủ Tây Môn đang dàn trận trong tư thế sẵn sàng nghênh chiến, thế nhưng————
+Theo mệnh lệnh của Oh-ma do truyền lệnh binh mang tới, họ không tiến vào phố chợ để tấn công lũ loài người đang làm loạn, mà giữ nguyên vị trí để củng cố phòng tuyến tại cổng thành. Đội phòng thủ Tây Môn đang dàn trận trong tư thế sẵn sàng nghênh chiến, thế nhưng————
 
 “GÀOOOOOOOOOOOOOOOO!”
 
 “Á, nóng quá! Nóng quá đi mất!”
 
-Tây Môn nhanh chóng chìm trong lửa đỏ.
+Tây Môn nhanh chóng chìm trong biển lửa.
 
-Toàn bộ quân loài người với quân số gần 50 kẻ đồng loạt phóng hỏa. Đó là những vật ném phun lửa và phát nổ như hỏa thuật ma pháp, hoặc đơn giản là những thùng chứa đầy dầu. Theo đúng nghĩa đen, Tây Môn lập tức bị bao vây bởi hỏa lực áp đảo, chìm trong biển lửa trong nháy mắt, hoàn toàn không còn khả năng nghênh chiến.
+Gần 50 kẻ thuộc quân đoàn loài người đồng loạt phóng hỏa. Đó là những vật ném phun lửa và phát nổ tựa như hỏa ma thuật, hoặc đơn giản là những thùng chứa đầy dầu hỏa. Theo đúng nghĩa đen, Tây Môn lập tức bị bao vây bởi hỏa lực áp đảo, biến thành một lò thiêu khổng lồ trong chớp mắt, khiến quân phòng thủ hoàn toàn tê liệt khả năng nghênh chiến.
 
-Nếu đây là một cuộc tấn công từ bên ngoài cổng thành, họ chắc chắn đã có thể chống đỡ được. Nhưng vì bị tấn công từ bên trong, nơi đó không chỉ có bức tường thành bằng đá kiên cố, mà còn có rất nhiều công trình bằng gỗ như chòi canh, doanh trại, kho bãi, cung cấp nguồn chất đốt dồi dào cho ngọn lửa.
+Nếu đây là một cuộc tấn công từ bên ngoài cổng thành, họ chắc chắn đã có thể dựa vào tường thành kiên cố để chống đỡ. Nhưng vì bị đánh úp từ bên trong, nơi đó không chỉ có bức tường đá, mà còn có vô số công trình bằng gỗ như chòi canh, doanh trại, kho bãi, vô tình trở thành nguồn mồi lửa dồi dào cho ngọn lửa hung tàn.
 
-Ngay khi Tây Môn gần như đã rơi vào cảnh thất thủ hoàn toàn, thì lúc đó.
+Ngay khi Tây Môn gần như đã rơi vào cảnh thất thủ hoàn toàn, thì đúng lúc đó:
 
 “————Dừng lại ở đó thôi, lũ loài người kia!”
 
-Từ phía bên kia đại lộ nối liền Tây Môn và pháo đài trung tâm, một Đại Chiến Sĩ dẫn đầu đại quân Goma xuất hiện và hét lớn.
+Từ phía bên kia đại lộ nối liền Tây Môn và pháo đài trung tâm, một Đại Chiến Sĩ dẫn đầu đại quân Goma rầm rộ xuất hiện và gầm lên giận dữ:
 
 “Sự càn rỡ này, Đại Chiến Sĩ Bandon ta quyết không dung thứ!”
 
-“Ta cũng vậy, Đại Chiến Sĩ Jiji-Gogo đây.”
+“Ta cũng vậy, Đại Chiến Sĩ Jiji-Gogo đây!”
 
-“Đại Chiến Sĩ Gizaginzu…… Này, đối phó với lũ loài người thì cần gì phải xưng tên tuổi làm gì cho mệt chứ?”
+“Đại Chiến Sĩ Gizaginzu…… Này, đối phó với lũ loài người thì việc gì phải phí công xưng tên tuổi làm gì cho mệt chứ?”
 
 Ba Đại Chiến Sĩ nhận mệnh lệnh của Oh-ma đã đồng loạt xuất hiện.
 
-Ngưu Ma Nhân đứng chắn trước Tây Môn đang bốc cháy, đường hoàng đối mặt với ba kẻ trước mặt. Bên cạnh nó cũng là những con ma vật dạng người khổng lồ tương tự, và phía sau là những kẻ loài người với quân số đã giảm đi đôi chút.
+Ngưu Ma Nhân đứng chắn trước Tây Môn đang bốc cháy ngùn ngụt, ngạo nghễ đối mặt với ba kẻ trước mặt. Bên cạnh nó cũng là những con ma vật dạng người khổng lồ tương tự, và phía sau là những kẻ loài người với quân số đã giảm đi đôi chút.
 
-Dù nghe thấy màn xưng danh của các Đại Chiến Sĩ, quân loài người vẫn hoàn toàn giữ im lặng. Luồng gió thổi qua đã biến thành luồng khí nóng như muốn thiêu đốt da thịt do trận hỏa hoạn lớn gây ra.
+Dù nghe thấy màn xưng danh của các Đại Chiến Sĩ, quân loài người vẫn hoàn toàn giữ im lặng lạnh lùng. Luồng gió thổi qua đã hóa thành luồng dưỡng khí nóng rẫy như muốn thiêu đốt da thịt bởi trận đại hỏa hoạn đang gào thét xung quanh.
 
-Lúc này, đôi bên không cần bất kỳ lời nói nào nữa. Ngay từ đầu, Goma và loài người hễ gặp nhau là chỉ có một kết cục duy nhất: tàn sát lẫn nhau.
+Lúc này, đôi bên không cần đến bất kỳ lời nói nào nữa. Ngay từ đầu, Goma và loài người hễ chạm mặt là chỉ có một kết cục duy nhất: tàn sát lẫn nhau đến giọt máu cuối cùng.
 
 “Bệ hạ Oh-ma, và hỡi vị Thần Goma vĩ đại, xin hãy chứng giám cho trận chiến của chúng thần————GÀOOOOOOOOOOOOOOOOOOOOOOOOOO!”
 
@@ -52975,7 +52977,7 @@ Lúc này, đôi bên không cần bất kỳ lời nói nào nữa. Ngay từ �
 
 “GÀOOOOOOOOOOOOOOOOOOOOO!”
 
-Ba Đại Chiến Sĩ tỏa ra luồng ánh sáng rực rỡ cùng lượng ma lực khổng lồ, đồng loạt giải phóng sức mạnh tối thượng của mình: 『Khổng Lồ Hóa』.`
+Ba Đại Chiến Sĩ tỏa ra luồng hào quang rực rỡ cùng lượng ma lực cuồng bạo ngập trời, đồng loạt giải phóng sức mạnh tối thượng của mình: 『Khổng Lồ Hóa』.`
             },
             {
                 "id": "ep_313",
@@ -52989,33 +52991,33 @@ Ba Đại Chiến Sĩ tỏa ra luồng ánh sáng rực rỡ cùng lượng ma l
 
 “Toàn diệt... diệt diệt.”
 
-Mà, ngay khi phải triệu hồi lại Rem dạng bé gái thế này, tôi cũng đã tự hiểu được tình hình rồi.
+Mà, ngay khi phải triệu hồi lại Rem ở dạng bé gái thế này, tôi cũng đã tự hiểu được tình hình rồi.
 
-“Này, chẳng phải đội nghi binh bị tiêu diệt hơi nhanh quá sao? Có ổn không đấy?”
+“Này, chẳng phải đội nghi binh bị tiêu diệt hơi nhanh quá sao? Liệu có ổn không đấy?”
 
-Himeno hỏi với vẻ mặt lộ rõ sự lo lắng, trong khi đang giúp mặc quần áo cho Rem — người đang hoàn toàn khỏa thân do vừa được triệu hồi lại.
+Himeno hỏi với vẻ mặt lộ rõ sự lo lắng trong lúc đang giúp mặc quần áo cho Rem — người đang hoàn toàn khỏa thân do vừa được triệu hồi lại.
 
-Này nhé, nếu lúc này tôi bảo “không ổn” thì chắc chắn cô ấy sẽ hoảng loạn ngay lập tức. Dù có bất an thế nào đi nữa, tôi cũng không muốn cô ấy tùy tiện hỏi những câu dễ dẫn đến nguy cơ làm sụp đổ tinh thần của cả đội đâu.
+Này nhé, nếu lúc này tôi mà bảo “không ổn” thì chắc chắn cô ấy sẽ hoảng loạn ngay lập tức. Dù có bất an thế nào đi nữa, tôi cũng không muốn cô ấy tùy tiện hỏi những câu dễ dẫn đến nguy cơ làm sụp đổ tinh thần của cả đội đâu.
 
-Hiện tại, tôi đang cùng Himeno ngồi trong chiếc xe Loyrops Số 1, tiến hành triệu hồi lại Rem ở bên trong cabin. Khi năng lực kiểm soát vốn bị tiêu hao đến giới hạn đột ngột hồi phục gần như hoàn toàn, điều đó không có nghĩa lý gì khác ngoài việc các cơ thể rối mà tôi đang điều khiển đã biến mất.
+Hiện tại, tôi đang cùng Himeno ngồi trong chiếc xe Loyrops Số 1, tiến hành triệu hồi lại Rem ở bên trong cabin. Khi năng lực kiểm soát vốn bị tiêu hao đến giới hạn đột ngột hồi phục gần như hoàn toàn, điều đó không có nghĩa lý gì khác ngoài việc các cơ thể rối mà tôi đang điều khiển đã bị xóa sổ.
 
-Đội nghi binh đã bị tiêu diệt nhanh chóng bởi các Gira-GoGame Mastera vừa xuất trận.
+Đội nghi binh đã bị tiêu diệt nhanh chóng bởi các Gira-Gogma vừa xuất trận.
 
-“Không sao đâu, ngược lại chúng ta còn dụ được cả ba tên Gira-GoGame Mastera xuất hiện cùng một lúc. Đội nghi binh đã hoàn thành xuất sắc vai trò của mình rồi.”
+“Không sao đâu, ngược lại chúng ta còn dụ được cả ba tên Gira-Gogma xuất hiện cùng một lúc. Đội nghi binh đã hoàn thành xuất sắc vai trò của mình rồi.”
 
-Dù là đội nghi binh, nhưng không có gì đảm bảo kẻ địch chắc chắn sẽ cắn câu. Đây chính là phần đặt cược thứ hai trong kế hoạch lần này.
+Dù là đội nghi binh, nhưng chẳng có gì bảo đảm kẻ địch chắc chắn sẽ cắn câu. Đây chính là canh bạc thứ hai trong kế hoạch lần này.
 
 Oh-ma có thể nắm bắt tình hình khá rõ ràng thông qua các sứ ma giám sát dạng mắt bay. Hơn nữa, hắn còn xây dựng một hệ thống truyền tin nhanh chóng để báo cáo tình hình tiền tuyến về cho mình. Nếu hắn đang quan sát chiến cục, tôi chỉ cần tạo ra một vài chi tiết nhỏ để hướng hắn ra tay với đội nghi binh trước.
 
-Dù có vẻ như đội chính của chúng tôi và đội nghi binh của Rem bắt đầu phá hoại cùng một lúc, nhưng thực chất tôi đã điều chỉnh để đội nghi binh hành động trước một bước. Trong lúc đội chính tiến về phía Nam Đại Môn, chúng tôi ưu tiên tiêu diệt lũ Goma thông thường cản đường và đánh tan các tiểu đội tuần tra thành phố. Dọc đường đi, chúng tôi cũng chỉ phóng hỏa ở mức tối đa có thể.
+Dù có vẻ như đội chính của chúng tôi và đội nghi binh của Rem bắt đầu phá hoại cùng một lúc, nhưng thực chất tôi đã điều chỉnh để đội nghi binh hành động trước một bước. Trong lúc đội chính tiến về phía Nam Đại Môn, chúng tôi ưu tiên tiêu diệt lũ Goma thông thường cản đường và đánh tan các tiểu đội tuần tra thành phố. Dọc đường đi, chúng tôi cũng chỉ phóng hỏa ở mức vừa phải trong khả năng.
 
-Trong khi đó, đội nghi binh lại hành động cực kỳ phô trương, tiến thẳng về phía tây dọc theo phố chợ. Đội quân tốt thí được tập hợp chỉ để lấy số lượng, tay cầm đuốc và dầu hỏa, tỏa ra khắp các ngõ ngách trong thành phố và liên tục châm lửa đốt phá.
+Trong khi đó, đội nghi binh lại hành động cực kỳ phô trương, tiến thẳng về phía tây dọc theo khu phố chợ. Đội quân tốt thí được tập hợp chỉ để lấy số lượng, tay cầm đuốc và dầu hỏa, tỏa ra khắp các ngõ ngách trong thành phố và liên tục châm lửa đốt phá.
 
-Khi nhìn từ trên cao, thiệt hại do đội nghi binh gây ra rõ ràng là lớn hơn và nhanh hơn. Đơn giản là vì nhìn lướt qua, quân số của đội nghi binh đông hơn hẳn. Hơn thế nữa, ngay cả những Skeleton thông thường cũng được ngụy trang thành con người nhờ kỹ năng \`『Hư Ảnh Tương Chiếu』\`. Goma đã mất đi hai Gira-GoGame Mastera rồi. Chúng chắc chắn sẽ cảnh giác với bên nào có số lượng con người đông hơn. Ngược lại, nếu chúng nhìn thấu hầu hết chỉ là Skeleton, khả năng cao đội chính của chúng tôi đã bị nhắm vào... Nhưng một khi chúng đã cử lực lượng chủ lực gồm ba Gira-GoGame Mastera tới chỗ đội nghi binh, thì mối lo đó cũng chỉ là hờ hờ.
+Khi nhìn từ trên cao, thiệt hại do đội nghi binh gây ra rõ ràng là lớn hơn và lan nhanh hơn. Đơn giản là vì nhìn lướt qua, quân số của đội nghi binh đông hơn hẳn. Hơn thế nữa, ngay cả những Skeleton thông thường cũng được ngụy trang thành con người nhờ kỹ năng 『Hư Ảnh Tương Chiếu』. Goma đã mất đi hai Gira-Gogma rồi. Chúng chắc chắn sẽ cảnh giác với bên nào có số lượng con người đông hơn. Ngược lại, nếu chúng nhìn thấu hầu hết chỉ là Skeleton, khả năng cao đội chính của chúng tôi mới là mục tiêu bị nhắm vào... Nhưng một khi chúng đã cử lực lượng chủ lực gồm ba Gira-Gogma tới chỗ đội nghi binh, thì mối lo đó cũng chỉ là thừa thãi.
 
-Dù sao đi nữa, tôi tin rằng với tính cách của Oh-ma, hắn sẽ nhìn thấu quy mô của đội chính và đội nghi binh, từ đó tập trung binh lực để tiêu diệt từng bộ phận một. Hắn tuyệt đối không phạm phải sai lầm ngu xuẩn là cứ thấy kẻ địch xuất hiện ở đâu thì lại chia nhỏ quân ra ném vào đó một cách chắp vá.
+Dù sao đi nữa, tôi tin rằng với tính cách của Oh-ma, hắn sẽ nhìn thấu quy mô của đội chính và đội nghi binh, từ đó tập trung binh lực để tiêu diệt từng cánh quân một. Hắn tuyệt đối không phạm phải sai lầm ngu xuẩn là cứ thấy kẻ địch xuất hiện ở đâu thì lại chia nhỏ quân ra ném vào đó một cách chắp vá.
 
-Nếu có hai đội cùng tồn tại, hắn chắc chắn sẽ tránh quyết định chia bốn tên Gira-GoGame Mastera còn lại ra làm hai nhóm để đối phó với từng bên. Bởi vì trước đó hai tên đã bị tiêu diệt cùng lúc rồi. Oh-ma hiểu rõ nguy cơ tất cả những kẻ được cử đi đều sẽ bị hạ gục.
+Nếu có hai đội cùng tồn tại, hắn chắc chắn sẽ tránh quyết định chia bốn tên Gira-Gogma còn lại ra làm hai nhóm để đối phó với từng bên. Bởi vì trước đó hai tên đã bị tiêu diệt cùng lúc rồi. Oh-ma hiểu rõ nguy cơ tất cả những kẻ được cử đi đều sẽ bị hạ gục.
 
 Do đó, tôi đoán nếu hắn cử các Đại Chiến Sĩ ra trận, hắn sẽ phái từ ba tên trở lên. Và chỉ cần lực lượng chủ lực đó hướng về phía đội nghi binh, sự an toàn của chúng tôi sẽ được đảm bảo.
 
@@ -53027,33 +53029,33 @@ Tuy nhiên, giờ đây đội nghi binh đã bị tiêu diệt hoàn toàn dù 
 
 “Tớ đã cố gắng quan sát.”
 
-Phân thân \`『Song Ảnh』\` đầu tiên tôi lẻn vào vương quốc hiện vẫn đang ẩn nấp bên trong vương cung. Tôi đã để nó bò qua các lối đi ẩn, thò đầu ra ngoài ở một nơi có thể nhìn bao quát cả thành phố để trinh sát. Nhờ vậy, tôi nắm bắt được khá rõ chuyển động của kẻ địch. Cả quy mô của trận đại hỏa hoạn đang tiếp tục lan rộng nữa. Đúng nghĩa là một biển lửa.
+Phân thân 『Song Ảnh』 đầu tiên tôi phái lẻn vào vương quốc hiện vẫn đang ẩn nấp bên trong vương cung. Tôi đã để nó bò qua các lối đi ngầm, thò đầu ra ngoài ở một nơi có thể nhìn bao quát cả thành phố để trinh sát. Nhờ vậy, tôi nắm bắt được khá rõ chuyển động của kẻ địch. Cả quy mô của trận đại hỏa hoạn đang tiếp tục lan rộng nữa. Đúng nghĩa là một biển lửa.
 
-“Thật tốt khi đã tận mắt chứng kiến dạng Khổng Lồ Hóa của những tên Gira-GoGame Mastera còn lại.”
+“Thật tốt khi đã tận mắt chứng kiến dạng Khổng Lồ Hóa của những tên Gira-Gogma còn lại.”
 
 Tôi mới chỉ nhìn thấy dạng khổng lồ của Bazuzu, nhưng tôi đã lờ mờ nhận ra rằng hình dáng của chúng có vẻ khác so với Zagan.
 
 Nói cách khác, cùng là Khổng Lồ Hóa nhưng không phải cơ thể chỉ đơn thuần to ra, mà việc mọc thêm sừng hay vuốt, sở hữu những biến đổi và năng lực đặc thù riêng là điều hoàn toàn có thể xảy ra. Vì nếu không biết trước năng lực đặc thù của chúng, chúng tôi rất dễ bị hạ gục ngay từ lần chạm trán đầu tiên, nên tôi muốn tận dụng trận chiến của đội nghi binh để quan sát chúng.
 
-Không, thật sự là may mắn khi đã quan sát trước. Ba tên Gira-GoGame Mastera đó sở hữu những năng lực chiến đấu hoàn toàn khác biệt.
+Không, thật sự là may mắn khi đã quan sát trước. Ba tên Gira-Gogma đó sở hữu những năng lực chiến đấu hoàn toàn khác biệt.
 
 Đầu tiên là Bandon, kẻ được cho là phụ trách canh gác vương cung.
 
-Dạng khổng lồ của hắn được bao bọc bởi một lớp vỏ ngoài dày cộp như mai rùa. Trên lưng hắn là một chiếc mai khổng lồ, dày và chi chít gai nhọn, vẽ những hoa văn màu xanh lục và đen đầy điềm gở. Tấn công từ phía sau gần như là bất khả thi. Chiêu \`『Phá Nham Trường Thương』\` của Kyouko chắc chắn không thể phá vỡ được thứ đó. Ngay cả \`『Thổ Tinh Pháo』\` thì không biết sẽ phá hủy được đến mức nào.
+Dạng khổng lồ của hắn được bao bọc bởi một lớp vỏ ngoài dày cộp như mai rùa. Trên lưng hắn là một chiếc mai khổng lồ, dày và chi chít gai nhọn, vẽ nên những hoa văn màu xanh lục và đen đầy điềm gở. Tấn công từ phía sau gần như là bất khả thi. Chiêu 『Phá Nham Trường Thương』 của Kyouko chắc chắn không thể phá vỡ được thứ đó. Ngay cả 『Thổ Tinh Pháo』 thì không biết sẽ phá hủy được đến mức nào.
 
-Dù chiếc mai trên lưng là nổi bật nhất, nhưng toàn thân hắn cũng được bao bọc bởi lớp giáp vỏ cứng góc cạnh với hoa văn tương tự, trông như đang khoác một bộ giáp mũ tự nhiên. Đặc biệt, hai cánh tay của hắn phình to ra như thể đang đeo hai chiếc khiên nhỏ. Những đòn tấn công nửa vời chắc chắn sẽ bị đánh bật.
+Dù chiếc mai trên lưng là nổi bật nhất, nhưng toàn thân hắn cũng được bao bọc bởi lớp giáp vỏ cứng góc cạnh với hoa văn tương tự, trông như đang khoác một bộ giáp mũ tự nhiên. Đặc biệt, hai cánh tay của hắn phình to ra như thể đang đeo hai chiếc khiên nhỏ. Những đòn tấn công nửa vời chắc chắn sẽ bị đánh bật hoàn toàn.
 
 Vũ khí của hắn là một cây chùy khổng lồ giống của Bon. Tuy nhiên, từ khắp nơi trên cây chùy tỏa ra ánh sáng xanh lục rực rỡ, có lẽ là một vũ khí ma pháp thuộc tính Phong.
 
 Tên thứ hai là Jiji-Gogo. Trông hắn có vẻ như phụ trách tuần tra thành phố, nhưng ngay khi cuộc tập kích của chúng tôi lộ tẩy, hắn đã lập tức được gọi về vương cung. Đây có lẽ là biện pháp phòng ngừa hắn bị tấn công và tiêu diệt khi đi lẻ.
 
-Và tên này dường như là kẻ đã tiến hóa từ loại GoGame Mastera bốn tay. Bởi vì khi hóa khổng lồ, hắn thực sự có bốn cánh tay.
+Và tên này dường như là kẻ đã tiến hóa từ loại Gogma bốn tay. Bởi vì khi hóa khổng lồ, hắn thực sự có bốn cánh tay.
 
 Khoác trên mình lớp lông thú màu nâu xám thô ráp còn rậm rạp hơn cả Bazuzu, hình ảnh hắn dang rộng bốn cánh tay vạm vỡ trông không khác gì một con đười ươi khổng lồ. Vì không có lớp vỏ cứng như Bandon nên cơ thể hắn chắc chắn không cứng bằng, nhưng nhìn vóc dáng giống khỉ đột kia thì không khó để hình dung ra sức mạnh và độ bền bỉ của hắn, và hắn cũng sẽ sở hữu những chuyển động nhanh nhẹn dù không bằng Bazuzu.
 
 Điều đáng sợ nhất chính là những vũ khí ma pháp được cầm trên cả bốn cánh tay đó. Hai tay dưới cầm hai cây rìu chiến đang phóng ra những tia chớp đôm đốp, còn hai cánh tay mọc từ vai thì một bên cầm thanh song kiếm tỏa ra ánh sáng xanh lam, bên kia là cây búa mang sắc màu như dung nham.
 
-Hai cây rìu ở tay dưới thuộc tính Lôi. Thanh kiếm xanh lam là Thủy hoặc Băng. Cây búa có lẽ là thuộc tính Thổ. Chết tiệt, tôi muốn tất cả những thứ đó. Dù có phải giết hắn, tôi cũng phải cướp bằng được.
+Hai cây rìu ở tay dưới thuộc tính Lôi. Thanh kiếm xanh lam là Thủy hoặc Băng. Cây búa có lẽ là thuộc tính Thổ. Chết tiệt, tôi muốn đoạt lấy tất cả những thứ đó. Dù có phải giết hắn, tôi cũng phải cướp bằng được.
 
 Tên thứ ba cuối cùng. Tên này là kẻ cần phải cảnh giác nhất. Gizaginzu, gã Goma có dáng người gầy gò, cao lêu nghêu và mang vẻ mặt uể oải, lười biếng — một hình ảnh khá hiếm gặp ở tộc Goma.
 
@@ -53073,7 +53075,7 @@ Quả cầu lửa xanh lam bắn trúng trực diện, khiến Minotaur — th�
 
 Đòn đánh đó đã hoàn toàn kết liễu Minotaur.
 
-Ở một hướng khác, Bandon vung cây chùy khổng lồ, bắt đầu càn quét lũ Skeleton trên mặt đất như một chiếc xe tăng.
+Ở một hướng khác, Bandon vung cây chùy khổng lồ, bắt đầu càn quét lũ Skeleton trên mặt đất như một chiếc xe tăng bọc thép.
 
 Nhận thấy không thể tiếp tục chiến đấu một cách bình thường, Rem đã nhanh chóng ra lệnh cho những con rối còn lại phân tán bỏ chạy, vừa chạy vừa dùng lượng dầu hỏa còn lại để phóng hỏa khắp thành phố.
 
@@ -53095,9 +53097,9 @@ Nghi lễ được thực hiện theo kiểu dâng hiến vật tế truyền th
 
 Thế nhưng, đây là lần đầu tiên một Chú thuật sư như tôi được tận mắt chứng kiến một buổi hiến tế sống thực sự.
 
-Trong số các phi tần của Oh-ma, bốn con Goma cái vừa đứng vào bốn góc của ma pháp trận liền tự sát. Tôi cứ nghĩ là không phải, nhưng hóa ra bọn chúng làm thật. Lũ Goma cái đó đã tự cắt cổ mình không một chút do dự.
+Trong số các phi tần của Oh-ma, bốn ả Goma cái vừa đứng vào bốn góc của ma pháp trận liền tự sát. Tôi cứ nghĩ là không phải, nhưng hóa ra bọn chúng làm thật. Lũ Goma cái đó đã tự cắt cổ mình không một chút do dự.
 
-Bằng cách dâng hiến lượng lớn vật phẩm cùng bốn mạng sống làm vật tế, hiệu quả của nghi lễ cầu mưa lập tức xuất hiện.
+Bằng cách dâng hiến lượng lớn vật phẩm cùng bốn mạng sống làm vật tế, hiệu quả của nghi lễ cầu mưa lập tức phát huy tác dụng.
 
 Máu tươi chảy ra từ các vật tế như thể có ý chí riêng, chảy dọc theo các đường vân của ma pháp trận, và một luồng sáng màu tím đầy điềm gở bắt đầu tỏa ra từ toàn bộ trận pháp. Đồng thời, làn khói độc màu tím cũng bắt đầu phun ra, bao phủ quảng trường trong một màn sương mù kỳ quái.
 
@@ -53113,7 +53115,7 @@ Cơn mưa xối xả trút xuống, những hạt mưa lớn bắt đầu rơi l
 
 “Này, Momokawa. Tớ thấy đám mây mưa kia có vẻ rất bất thường, hay nói đúng hơn là mang lại cảm giác rất đáng sợ. Tớ cảm nhận được sự hiện diện của tinh linh rất mạnh, nhưng đó không phải là tinh linh thông thường.”
 
-Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra sự bất thường với tư cách là một \`『Tinh Linh Thuật Sư』\` — tiến lại gần chiếc xe số 1 và gọi tôi.
+Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra sự bất thường với tư cách là một 『Tinh Linh Thuật Sư』 — tiến lại gần chiếc xe số 1 và gọi tôi.
 
 “Đây là cơn mưa lớn do Oh-ma thi triển nghi lễ cầu mưa. Làn khói tím kỳ lạ từ ma pháp trận bốc lên hóa thành mây trên không trung, nên tớ nghĩ bản thân đám mây đó chính là một dạng ma pháp.”
 
@@ -53123,7 +53125,7 @@ Ngước nhìn bầu trời, Hayama — người dường như đã nhận ra s�
 
 “Chịu thôi. Cảm giác của nó hoàn toàn giống như một con ma vật hoang dã, tớ không cảm thấy ý chí của mình có thể truyền tới nó chút nào.”
 
-Hửm, hóa ra năng lực của \`『Tinh Linh Thuật Sư』\` chỉ có thể can thiệp vào các tinh linh tự nhiên, hoặc các tinh linh trú ngụ trong ma pháp do con người chúng ta thi triển sao? Một khi thuộc về ma pháp của tộc Goma, tính chất của chúng sẽ thay đổi, hoặc đó là một thực thể hoàn toàn khác dù trông rất giống tinh linh.
+Hửm, hóa ra năng lực của 『Tinh Linh Thuật Sư』 chỉ có thể can thiệp vào các tinh linh tự nhiên, hoặc các tinh linh trú ngụ trong ma pháp do con người chúng ta thi triển sao? Một khi thuộc về ma pháp của tộc Goma, tính chất của chúng sẽ thay đổi, hoặc đó là một thực thể hoàn toàn khác dù trông rất giống tinh linh.
 
 “Dù sao thì việc chiếm đóng Đông Môn cũng đã hoàn tất, chúng ta cũng mau chóng chuẩn bị cố thủ thôi.”
 
@@ -53135,9 +53137,9 @@ Vì chúng tôi sẽ đóng chốt ở đây nên không thể phóng hỏa như
 
 “Cứ giao cho tớ————Uố ô ô ô ô ô ô ô ô ô ô ô ô ô ô ôっ!”
 
-Tháo chiếc then cài to như thân cây gỗ, một mình Yamada đẩy cánh cổng khổng lồ mở ra. Tiếng kẽo kẹt của những chiếc bản lề rỉ sét vang lên như tiếng thét đau đớn, cánh cổng từ từ mở rộng.
+Tháo chiếc then cài to như thân cây gỗ, một mình Yamada đẩy cánh cổng khổng lồ mở toang. Tiếng kẽo kẹt của những chiếc bản lề rỉ sét vang lên như tiếng thét đau đớn, cánh cổng từ từ mở rộng.
 
-“Kyouko, mau chóng xây dựng pháo đài thôi. Lũ Gira-GoGame Mastera đang tiến về phía này rồi.”
+“Kyouko, mau chóng xây dựng pháo đài thôi. Lũ Gira-Gogma đang tiến về phía này rồi.”
 
 “Khoảng bao lâu nữa thì chúng tới?”
 
@@ -53149,13 +53151,13 @@ Kyouko cười đầy tự tin trên lưng Guririn. Mái tóc và quần áo ư�
 
 Chỉ nhìn thôi cũng thấy một bộ phận nào đó bắt đầu căng thẳng, tôi liền lén dời tầm mắt đi và tập trung suy nghĩ nghiêm túc.
 
-Dù bộ ba Gira-GoGame Mastera đã dễ dàng tiêu diệt đội nghi binh, nhưng có vẻ như chúng không thừa thắng xông lên mà lao thẳng tới đây ngay lập tức. Quả nhiên việc Khổng Lồ Hóa tiêu hao rất nhiều thể lực. Chúng đã giải trừ trạng thái khổng lồ và trở lại hình dáng ban đầu.
+Dù bộ ba Gira-Gogma đã dễ dàng tiêu diệt đội nghi binh, nhưng có vẻ như chúng không thừa thắng xông lên mà lao thẳng tới đây ngay lập tức. Quả nhiên việc Khổng Lồ Hóa tiêu hao rất nhiều thể lực. Chúng đã giải trừ trạng thái khổng lồ và trở lại hình dáng ban đầu.
 
 Sau đó, chúng gọi các thuộc hạ đang đi săn lùng tàn quân quay lại để tái cơ cấu đội hình. Có lẽ Oh-ma đã nghiêm khắc cảnh báo chúng không được phân tán lực lượng và hành động đơn độc.
 
 Sự thận trọng này thật không giống với tộc Goma thông thường. Nhưng việc có thể thực thi điều đó chính là nhờ năng lực thống trị đáng sợ của Oh-ma.
 
-Tuy nhiên, lần này đáng lẽ Oh-ma nên chấp nhận rủi ro và lập tức xua các Gira-GoGame Mastera tấn công chúng tôi ngay. Hiện tại, vì quá cảnh giác với chiến lực của chúng tôi nên Oh-ma liên tục rơi vào thế bị động.
+Tuy nhiên, lần này đáng lẽ Oh-ma nên chấp nhận rủi ro và lập tức xua các Gira-Gogma tấn công chúng tôi ngay. Hiện tại, vì quá cảnh giác với chiến lực của chúng tôi nên Oh-ma liên tục rơi vào thế bị động.
 
 “Ueta-kun, Yoshizaki-san, Yamada-kun, mọi người chuẩn bị xong chưa?”
 
@@ -53167,17 +53169,17 @@ Việc chuẩn bị cố thủ sau khi đến Đông Môn đương nhiên cũng 
 
 Ba người Ueta, Yoshizaki và Yamada ôm những chiếc cọc sắt bước ra ngoài cánh cổng đã mở.
 
-\`『Tokkan Kouji Mẫu 2』\`: Vật phẩm hỗ trợ chuyên dụng cho hệ Thổ. Mẫu 1 được thiết kế để làm cột trụ bắc cầu, còn mẫu này được dùng để tạo ra những bức tường lớn.
+『Tokkan Kouji Mẫu 2』: Vật phẩm hỗ trợ chuyên dụng cho hệ Thổ. Mẫu 1 được thiết kế để làm cột trụ bắc cầu, còn mẫu này được dùng để tạo ra những bức tường lớn.
 
 Pháo đài dùng để cố thủ sẽ tận dụng chính bức tường thành của vương quốc. Lấy cánh cổng và tường thành làm mặt chính, chúng tôi sẽ dựng thêm ba bức tường ở phía ngoài để tạo thành một khu vực khép kín hình chữ nhật.
 
 Dù sao quân số của chúng tôi cũng quá ít ỏi. Nếu không tạo ra được một địa hình có thể tập trung chiến lực vào mặt trước, chúng tôi sẽ nhanh chóng bị áp đảo.
 
-Phía trong tường thành đương nhiên có cầu thang dẫn lên lối đi phía trên, nhưng chúng cũng chỉ nằm ở hai bên cánh cổng. Chỉ cần phá hủy cầu thang đó, bức tường thành cao vút sẽ lại đóng vai trò phòng ngự chống lại chính chúng. Vì tộc Goma đang đóng chốt ở phía trong vương quốc, nên chúng tôi sẽ không lo bị bọc sườn hay đánh úp từ phía sau. Nếu chúng định cho đội quân lớn bao gồm cả Gira-GoGame Mastera đi đường vòng, việc đó sẽ giúp chúng tôi kéo dài được rất nhiều thời gian, hoàn toàn không có vấn đề gì.
+Phía trong tường thành đương nhiên có cầu thang dẫn lên lối đi phía trên, nhưng chúng cũng chỉ nằm ở hai bên cánh cổng. Chỉ cần phá hủy cầu thang đó, bức tường thành cao vút sẽ lại đóng vai trò phòng ngự chống lại chính chúng. Vì tộc Goma đang đóng chốt ở phía trong vương quốc, nên chúng tôi sẽ không lo bị bọc sườn hay đánh úp từ phía sau. Nếu chúng định cho đội quân lớn bao gồm cả Gira-Gogma đi đường vòng, việc đó sẽ giúp chúng tôi kéo dài được rất nhiều thời gian, hoàn toàn không có vấn đề gì.
 
-Tuy nhiên, lũ Goma vẫn có thể đi qua lối đi trên tường thành, nên riêng khu vực đó chúng tôi phải chặn đứng hoàn toàn. Dù vậy, vì chiến lực mạnh nhất của chúng là các Gira-GoGame Mastera khổng lồ, chúng chắc chắn sẽ tấn công trực diện từ phía trước, nên lối đi trên tường thành cũng không phải là điểm yếu quá lớn.
+Tuy nhiên, lũ Goma vẫn có thể đi qua lối đi trên tường thành, nên riêng khu vực đó chúng tôi phải chặn đứng hoàn toàn. Dù vậy, vì chiến lực mạnh nhất của chúng là các Gira-Gogma khổng lồ, chúng chắc chắn sẽ tấn công trực diện từ phía trước, nên lối đi trên tường thành cũng không phải là điểm yếu quá lớn.
 
-Sau khi hoàn thành việc xây dựng các bức tường ở hai bên và phía sau, việc còn lại chỉ là tập trung gia cố mặt trước. Bằng mọi giá, chúng tôi phải chịu đựng đòn tấn công dữ dội của các Gira-GoGame Mastera tại đây cho đến khi thời gian định sẵn kết thúc.
+Sau khi hoàn thành việc xây dựng các bức tường ở hai bên và phía sau, việc còn lại chỉ là tập trung gia cố mặt trước. Bằng mọi giá, chúng tôi phải chịu đựng đòn tấn công dữ dội của các Gira-Gogma tại đây cho đến khi thời gian định sẵn kết thúc.
 
 “————Ok, sự chuẩn bị của tớ và Rem cũng đã xong. Nakajima-kun, nhờ cậu nhé.”
 
@@ -53191,11 +53193,11 @@ Sau khi hoàn thành việc xây dựng các bức tường ở hai bên và ph�
 
 “Bư mô, bư ô ô ô ô!”
 
-Con \`『Minotaur』\` vừa được hồi sinh cùng Nakajima dẫn theo các Skeleton, \`『High Zombie』\` và \`『Tank』\` mà tôi vừa triệu hồi lại, tiến về phía khu vực xung quanh để tiếp tục phóng hỏa.
+Con 『Minotaur』 vừa được hồi sinh cùng Nakajima dẫn theo các Skeleton, 『High Zombie』 và 『Tank』 mà tôi vừa triệu hồi lại, tiến về phía khu vực xung quanh để tiếp tục phóng hỏa.
 
 Cơn mưa đang ngày càng nặng hạt, nhưng chúng tôi cũng mang theo rất nhiều nhiên liệu. Chỉ cần có dầu, lửa vẫn sẽ tiếp tục cháy, và quan trọng hơn hết là ma pháp phòng ngự hệ Hỏa của Nakajima cũng có hiệu ứng duy trì sự cháy.
 
-Nếu biến khu vực xung quanh đây thành một biển lửa, lũ lính Goma thông thường sẽ không thể tiếp cận được. Chúng tôi đã phải đối đầu với ba tên Gira-GoGame Mastera rồi. Không thể phân tâm để đối phó với lũ lính tép riu được nữa.
+Nếu biến khu vực xung quanh đây thành một biển lửa, lũ lính Goma thông thường sẽ không thể tiếp cận được. Chúng tôi đã phải đối đầu với ba tên Gira-Gogma rồi, không thể phân tâm để đối phó với lũ lính tép riu được nữa.
 
 “...Lửa đã bị dập tắt khá nhiều rồi.”
 
@@ -53207,13 +53209,13 @@ Với lượng nước liên tục dội xuống như muốn tạo ra một tr�
 
 Nhờ vậy, sự hỗn loạn trong thành phố đang dần được kiểm soát, và các đội tuần tra vốn đang chạy loạn xạ cũng bắt đầu lấy lại trật tự.
 
-Có lẽ thông tin về việc các Gira-GoGame Mastera đã tiêu diệt hoàn toàn đội nghi binh cũng đã được truyền đi. Các đơn vị Goma bắt đầu di chuyển và tập hợp về phía Đông Môn.
+Có lẽ thông tin về việc các Gira-Gogma đã tiêu diệt hoàn toàn đội nghi binh cũng đã được truyền đi. Các đơn vị Goma bắt đầu di chuyển và tập hợp về phía Đông Môn.
 
 Chúng chắc chắn sẽ không lơ là cảnh giác cho đến phút cuối cùng, mà sẽ tập trung toàn bộ lực lượng để nghiền nát những kẻ còn sót lại là chúng tôi.
 
 “Không sao, với tốc độ này thì chắc chắn sẽ kịp.”
 
-Bộ ba Gira-GoGame Mastera đã quay trở lại pháo đài trung tâm. Từ đó, chúng không có vẻ gì là sẽ lập tức xuất quân ngay. Có lẽ chúng đang chuẩn bị báo cáo tình hình cho Oh-ma.
+Bộ ba Gira-Gogma đã quay trở lại pháo đài trung tâm. Từ đó, chúng không có vẻ gì là sẽ lập tức xuất quân ngay. Có lẽ chúng đang chuẩn bị báo cáo tình hình cho Oh-ma.
 
 Trong khi đó, Oh-ma vẫn đang đứng trên ma pháp trận, tập trung cao độ vào việc duy trì nghi lễ cầu mưa. Rõ ràng chính hắn đang điều khiển để cơn mưa trút xuống tập trung vào những nơi ngọn lửa cháy mạnh nhất.
 
@@ -53223,9 +53225,9 @@ Việc dập tắt hỏa hoạn càng sớm càng tốt là quan trọng, nhưng
 
 Nhờ vậy, kế hoạch đặt bom xung quanh của tôi — vốn là mục tiêu cốt lõi của chiến dịch này — vẫn đang được tiến hành suôn sẻ mà không hề bị phát hiện. Nếu thông tin về việc có một kẻ đáng ngờ đang âm thầm hành động đơn độc lọt vào tai Oh-ma, hắn chắc chắn sẽ cảnh giác và tiêu diệt tôi trước.
 
-But vì Oh-ma đang tập trung vào việc cầu mưa, hắn không còn cách nào để ngăn chặn vụ nổ của tôi nữa.
+Nhưng vì Oh-ma đang tập trung vào việc cầu mưa, hắn không còn cách nào để ngăn chặn vụ nổ của tôi nữa.
 
-Biện pháp tốt nhất để phá vỡ kế hoạch của tôi lúc này là lập tức phái tên Gira-GoGame Mastera mạnh nhất là Zagan — kẻ đang túc trực bên cạnh làm hộ vệ cho hắn — đến tấn công chúng tôi ngay lập tức.
+Biện pháp tốt nhất để phá vỡ kế hoạch của tôi lúc này là lập tức phái tên Gira-Gogma mạnh nhất là Zagan — kẻ đang túc trực bên cạnh làm hộ vệ cho hắn — đến tấn công chúng tôi ngay lập tức.
 
 “Này, Kotarou! Thế này đã được chưa?”
 
@@ -53243,7 +53245,7 @@ Có vẻ như cậu ấy đã đi xa hơn một chút để trinh sát đội ti
 
 “Cảm ơn cậu. Ngọn lửa xung quanh cũng đã lan rộng khá tốt rồi, thế là đủ rồi.”
 
-Tôi và Nakajima dùng thang dây làm từ \`『Tóc Đen Trói Buộc』\` để leo lên bức tường phòng ngự.
+Tôi và Nakajima dùng thang dây làm từ 『Tóc Đen Trói Buộc』 để leo lên bức tường phòng ngự.
 
 Phía trên, tất cả mọi người đã vào vị trí và sẵn sàng nghênh chiến. Những vũ khí tầm xa bao gồm cả lựu đạn phóng hỏa đã chuẩn bị sẵn, lúc này không cần phải tiết kiệm nữa mà cứ việc xả hết sạch.
 
@@ -53255,7 +53257,7 @@ Như muốn cắt ngang lời tôi, một tiếng gầm rú vang dội khắp v�
 
 Trận hỏa hoạn xung quanh Đông Môn vẫn đang bùng cháy dữ dội bất chấp cơn mưa nặng hạt. Từ phía sau những ngọn lửa khổng lồ đang chao đảo, ba bóng người khổng lồ xuất hiện, đang từng bước tiến về phía chúng tôi.
 
-Cuối cùng, lực lượng chủ lực gồm ba tên Gira-GoGame Mastera đã xuất hiện.
+Cuối cùng, lực lượng chủ lực gồm ba tên Gira-Gogma đã xuất hiện.
 
 “Tập trung tinh thần nào. Chúng ta sẽ tống cổ tất cả bọn chúng xuống đáy vực sâu.”`
             },
@@ -53269,13 +53271,13 @@ Cuối cùng, lực lượng chủ lực gồm ba tên Gira-GoGame Mastera đã 
 
 Để tiêu diệt cánh quân còn lại của nhân loại, Đại Chiến Sĩ Bandon dẫn đầu lực lượng vừa được tái cơ cấu, vừa chỉ tay về phía trước vừa kinh ngạc thốt lên.
 
-“Hô, ra là vậy. Dùng Thổ ma thuật để xây dựng công sự dã chiến tức thời à. Ta nhớ bệ hạ Oh-ma từng nói bọn chúng đã bắc cầu đá để vượt qua Đại Thành Lũy. Có vẻ bên phía nhân loại sở hữu một kẻ sử dụng Thổ ma thuật cực kỳ đáng gờm đấy.”
+“Hô, ra là vậy. Dùng Thổ ma thuật để dựng công sự dã chiến tức thời à. Ta nhớ bệ hạ Oh-ma từng nói bọn chúng đã bắc cầu đá để vượt qua Đại Thành Lũy. Có vẻ bên phía nhân loại sở hữu một kẻ sử dụng Thổ ma thuật cực kỳ đáng gờm đấy.”
 
-Cổng Đông vốn quen thuộc từ thuở cha sinh mẹ đẻ, giờ đây đã bị bao phủ hoàn toàn bởi một bức tường đá khổng lồ sừng sững như vách đá dựng đứng. Đại Chiến Sĩ Gizaginzu, kẻ được mệnh danh là ma pháp sư mạnh thứ hai vương quốc chỉ sau Oh-ma, lập tức nhìn thấu nguyên nhân hình thành nên pháo đài đá này.
+Cổng Đông vốn quen thuộc từ thuở cha sinh mẹ đẻ, giờ đây đã bị bao phủ hoàn toàn bởi một bức tường đá khổng lồ sừng sững như vách núi dựng đứng. Đại Chiến Sĩ Gizaginzu, kẻ được mệnh danh là ma pháp sư mạnh thứ hai vương quốc chỉ sau Oh-ma, lập tức nhìn thấu nguyên nhân hình thành nên pháo đài đá này.
 
-“Lại làm ta nhớ đến pháo đài san hô của tộc Geela năm xưa. Hồi đó bị chúng chiếm cứ địa hình hiểm trở, ta đã phải chật vật lắm mới giải quyết được.”
+“Lại làm ta nhớ đến pháo đài san hô của tộc Geela năm xưa. Hồi đó bị chúng chiếm cứ địa hình hiểm trở, ta đã phải chật vật lắm mới giải quyết xong.”
 
-Đại Chiến Sĩ lớn tuổi nhất, Jiji-gogo, buột miệng kể lại ký ức về cuộc chiến tranh giành quyền bá chủ với tộc Geela.
+Đại Chiến Sĩ lớn tuổi nhất, Jiji-gogo, buột miệng nhắc lại ký ức về cuộc chiến tranh giành quyền bá chủ với tộc Geela.
 
 Tộc Geela sống dưới nước có khả năng điều khiển san hô để xây dựng những pháo đài kiên cố tương tự như Thổ ma thuật. Jiji-gogo thừa hiểu từ kinh nghiệm xương máu rằng việc kẻ địch nhanh chóng dựng pháo đài tại các điểm trọng yếu để củng cố phòng ngự sẽ phiền toái đến nhường nào.
 
@@ -53283,7 +53285,7 @@ Tộc Geela sống dưới nước có khả năng điều khiển san hô để
 
 “Hừ, thằng ranh còn chưa rụng hết vỏ trứng. Chỉ biết khôn lỏi một chút mà đã tưởng mình biết tuốt, coi chừng có ngày mang họa vào thân đấy.”
 
-“Đó cũng là một loại trải nghiệm đúng không, ông già?”
+“Đó cũng là một trải nghiệm mà, đúng không ông già?”
 
 “Cái gì cơ! Thằng nhóc này chỉ được cái mồm mép là giỏi!”
 
@@ -53295,11 +53297,11 @@ Sau đó, ba Đại Chiến Sĩ một lần nữa quan sát kỹ lưỡng pháo 
 
 “Không ngờ có ngày chúng ta phải công thành ngay trong vương quốc... Giờ tính sao đây?”
 
-“Hay là để tôi bắn thử vài phát xem sao nhé?”
+“Hay là để tôi bắn thử vài phát xem thế nào nhé?”
 
 “Hừm, trước tiên cứ thăm dò nhẹ nhàng vậy. Ta định bảo đó là cách làm của lũ hèn nhát yếu đuối, nhưng bệ hạ Oh-ma đã nghiêm lệnh phải tấn công cẩn trọng. Cứ làm thế trước đi.”
 
-Gặp pháo đài địch là lao vào húc mà không cần suy nghĩ, đó mới là phong cách của tộc Goma. Thực tế, nếu là Bazuzu hay Bon dẫn đầu, chắc chắn chúng đã làm như vậy.
+Gặp pháo đài địch là lao vào húc mà không cần suy nghĩ, đó mới là phong cách thường thấy của tộc Goma. Thực tế, nếu là Bazuzu hay Bon dẫn đầu, chắc chắn chúng đã làm như vậy.
 
 Tuy nhiên, ba người này không phải tự nhiên mà leo lên được vị trí Đại Chiến Sĩ chỉ bằng sức mạnh cơ bắp đơn thuần. Họ là những siêu tinh anh đã rèn luyện được tư duy chiến thuật và biết dùng cái đầu theo yêu cầu của Oh-ma.
 
@@ -53307,11 +53309,11 @@ Bandon đã học được cách tự kiềm chế bản thân dưới sự ch�
 
 “Vậy thì, tôi lên đây————”
 
-Gizaginzu dẫn đầu, kích hoạt kỹ năng \`『Khổng Lồ Hóa』\` của Đại Chiến Sĩ. Cùng với cảm giác vạn năng mang lại từ nguồn sức mạnh khổng lồ cuộn trào khắp cơ thể, ba Đại Chiến Sĩ đồng loạt giải phóng sức mạnh.
+Gizaginzu dẫn đầu, kích hoạt kỹ năng 『Khổng Lồ Hóa』 của Đại Chiến Sĩ. Cùng với cảm giác toàn năng mang lại từ nguồn sức mạnh khổng lồ cuộn trào khắp cơ thể, ba Đại Chiến Sĩ đồng loạt giải phóng sức mạnh.
 
-Hóa thành những gã khổng lồ cao hơn 5 mét, ba người ung dung bước vào khu vực Cổng Đông đang rực lửa.
+Hóa thành những gã khổng lồ cao hơn năm mét, cả ba ung dung bước vào khu vực Cổng Đông đang rực lửa.
 
-Cơn mưa tầm tã của Oh-ma vẫn đang trút xuống, nhưng có vẻ lượng dầu đổ ra quá lớn khiến ngọn lửa vẫn cháy dữ dội bất chấp lượng nước khổng lồ. Đối với binh lính bình thường, việc tiến thêm bước nữa là điều bất khả thi.
+Cơn mưa tầm tã của Oh-ma vẫn đang trút xuống, nhưng có vẻ lượng dầu đổ ra quá lớn khiến ngọn lửa vẫn cháy dữ dội bất chấp lượng nước xối xả. Đối với binh lính bình thường, việc tiến thêm bước nữa là điều bất khả thi.
 
 Thế nhưng, những ngọn lửa trần trụi này không đủ sức cản bước các Đại Chiến Sĩ.
 
@@ -53319,41 +53321,41 @@ Thế nhưng, những ngọn lửa trần trụi này không đủ sức cản b
 
 “Rõ rồi, rõ rồi. Nhờ các anh làm việc vặt nhé~”
 
-Dù đã hóa khổng lồ nhưng cái giọng điệu cợt nhả của Gizaginzu vẫn không đổi, khiến trán Jiji-gogo nổi đầy gân xanh, nhưng Bandon đã kịp thời can thiệp để cả hai bắt tay vào việc của mình.
+Dù đã hóa khổng lồ nhưng giọng điệu cợt nhả của Gizaginzu vẫn không đổi, khiến trán Jiji-gogo nổi đầy gân xanh. Bandon vội can thiệp để cả hai bắt tay vào việc của mình.
 
-Giao việc tấn công tầm xa vào pháo đài cho Gizaginzu, hai Đại Chiến Sĩ còn lại bắt đầu công việc dập lửa để mở đường cho thuộc hạ triển khai đội hình.
+Giao việc tấn công tầm xa vào pháo đài cho Gizaginzu, hai Đại Chiến Sĩ còn lại bắt đầu dập lửa để mở đường cho thuộc hạ triển khai đội hình.
 
-Jiji-gogo vung thanh kiếm thuộc tính Thủy, phóng ra những dòng nước khổng lồ để dập tắt những ngọn lửa đang bùng cháy dữ dội.
+Jiji-gogo vung thanh kiếm mang thuộc tính Thủy, phóng ra những luồng nước khổng lồ dập tắt những ngọn lửa đang bốc cao ngùn ngụt.
 
-Dù không sở hữu vũ khí ma pháp, Bandon vẫn liên tục đập nát các kiến trúc gỗ đang cháy rực để dập tắt nguồn lửa.
+Dù không sở hữu vũ khí ma pháp, Bandon vẫn liên tục đập nát các kiến trúc gỗ đang cháy rực để triệt tiêu nguồn lửa.
 
-Các binh lính Goma dưới quyền cũng bắt đầu công việc dập lửa thủ công. Chẳng mấy chốc, con đường dẫn đến Cổng Đông sẽ được thông thoáng.
+Các binh lính Goma dưới quyền cũng bắt đầu dập lửa thủ công. Chẳng mấy chốc, con đường dẫn đến Cổng Đông sẽ được thông thoáng.
 
 Trong khi đó, Đại Chiến Sĩ ma pháp sư Gizaginzu, người đảm nhận vai trò tiên phong, đã thu lại ánh mắt lười biếng thường ngày, nghiêm túc nhìn chằm chằm vào pháo đài.
 
 “Ở khoảng cách này mà chúng không bắn trả, nghĩa là bên kia không có ma pháp tấn công nào ra hồn chăng?”
 
-Cậu ta đã rút ngắn khoảng cách đến mức đủ để tung ra ma pháp tấn công. Khoảng 300 mét.
+Cậu ta đã rút ngắn khoảng cách đến mức đủ để tung ra ma pháp tấn công: khoảng 300 mét.
 
-Với một ma pháp sư tự tin vào năng lực của mình, đây là khoảng cách hoàn hảo để họ tung ra những ma pháp đắc ý nhất.
+Với một ma pháp sư tự tin vào năng lực của mình, đây là khoảng cách hoàn hảo để tung ra những đòn ma pháp đắc ý nhất.
 
 “Hay là chúng đang dụ mình? Mà sao cũng được, trước tiên cứ để ta bắn tự do đã———— Lên nào!”
 
-Hai cầu lửa màu xanh lam hình thành trên hai tay Gizaginzu rồi lao thẳng về phía pháo đài, nhắm vào bức tường đá chính diện có phòng ngự dày nhất.
+Hai quả cầu lửa màu xanh lam hình thành trên hai bàn tay Gizaginzu rồi lao vút về phía pháo đài, nhắm thẳng vào bức tường đá chính diện có lớp phòng ngự dày nhất.
 
-Vượt qua khoảng cách 300 mét trong chớp mắt, hai cầu lửa xanh lam va chạm trực tiếp. Trận bộc phát dữ dội diễn ra, những ngọn lửa xanh mang nhiệt độ khủng khiếp hơn cả lửa thường bắn tóe ra khắp nơi.
+Vượt qua khoảng cách 300 mét trong chớp mắt, hai quả cầu lửa xanh lam va chạm trực diện. Tiếng nổ dữ dội vang lên, những ngọn lửa xanh mang nhiệt độ khủng khiếp hơn cả lửa thường bắn tóe ra khắp xung quanh.
 
 “Quả nhiên một phát không sập được. Nhưng nếu nứt đến mức kia thì————”
 
-Bức tường đá nơi cầu lửa xanh phát nổ bị khoét một mảng lớn, những vết nứt chằng chịt kêu răng rắc lan rộng. Bức tường đá cực dày không dễ dàng sụp đổ ngay lập tức, nhưng Gizaginzu nghĩ nếu cứ tiếp tục bắn thế này thì việc phá hủy nó hoàn toàn nằm trong tầm tay, thế nhưng...
+Bức tường đá nơi cầu lửa xanh phát nổ bị khoét sâu một mảng lớn, những vết nứt chằng chịt kêu răng rắc lan rộng. Bức tường đá cực dày không dễ dàng sụp đổ ngay lập tức, nhưng Gizaginzu nghĩ nếu cứ tiếp tục bắn thế này thì việc phá hủy nó hoàn toàn nằm trong tầm tay, thế nhưng...
 
 “————Úi chà, nó đã tự phục hồi rồi. Phiền phức thật đấy.”
 
-Những vết cháy sém và đổ vỡ tại điểm va chạm đột ngột rung chuyển dữ dội, lớp đá mới trồi lên lấp đầy khoảng trống. Chưa đầy mười giây, bức tường đã được sửa chữa nguyên vẹn.
+Những vết cháy sém và đổ vỡ tại điểm va chạm đột ngột rung chuyển dữ dội, lớp đá mới trồi lên lấp đầy khoảng trống. Chưa đầy mười giây, bức tường đã được sửa chữa nguyên vẹn như cũ.
 
 “Hừm, cứ bắn cầu lửa thế này thì chẳng đi đến đâu cả.”
 
-“Hừm, nhóc con, to mồm cho lắm vào rồi giờ lại bất lực thế kia à.”
+“Hừ, nhóc con, to mồm cho lắm vào rồi giờ lại bất lực thế kia à.”
 
 “Tôi đã bảo là chỉ bắn thử thôi mà, ông già. Và kết quả cho thấy, chừng nào chưa tiêu diệt được kẻ dùng Thổ ma thuật kia, pháo đài đó sẽ tự phục hồi vô hạn.”
 
@@ -53361,7 +53363,7 @@ Những vết cháy sém và đổ vỡ tại điểm va chạm đột ngột ru
 
 Cuối cùng, phương án tấn công vẫn phải quay về con đường chính quy.
 
-Gizaginzu nhìn Bandon bằng ánh mắt khinh bỉ khi thấy gã phấn khích hét lên đòi đột kích, nhưng cậu ta tự nhủ rằng nếu chọn cách tấn công trực diện dựa trên lý do chính đáng này, bệ hạ Oh-ma chắc chắn cũng sẽ chấp thuận.
+Gizaginzu nhìn Bandon bằng ánh mắt ngán ngẩm khi thấy gã phấn khích hét lên đòi đột kích, nhưng cậu ta tự nhủ rằng nếu chọn cách tấn công trực diện dựa trên lý do chính đáng này, bệ hạ Oh-ma chắc chắn cũng sẽ chấp thuận.
 
 “Hừm, để ta cho các ngươi thấy cách công thành thực sự!”
 
@@ -53375,21 +53377,21 @@ Gizaginzu nhìn Bandon bằng ánh mắt khinh bỉ khi thấy gã phấn khích
 
 “Gizaginzu, thằng ranh kia!”
 
-“Đa tạ cậu đã giúp lời!”
+“Đa tạ cậu đã nói giúp!”
 
-Trước ánh mắt lườm nguýt đầy oán hận của Jiji-gogo, khuôn mặt Bandon lập tức rạng rỡ hẳn lên.
+Trước ánh mắt lườm nguýt đầy hậm hực của Jiji-gogo, khuôn mặt Bandon lập tức rạng rỡ hẳn lên.
 
 “Bệ hạ Oh-ma đã dặn dò kỹ lưỡng rồi. Phía bên kia vẫn chưa tung ra chiêu thức đã sát hại Bon và Bazuzu. Nếu ông già đột kích rồi trúng đòn chí mạng chết luôn thì biết giải thích thế nào với bệ hạ đây?”
 
 “Hừ... Đúng là về mặt phòng thủ thì ta không bằng Bandon...”
 
-“Kẻ xây dựng pháo đài vẫn chưa tung ra ma pháp tấn công nào. Nếu một kẻ mạnh như thế dốc toàn lực tấn công, ngay cả trạng thái \`『Khổng Lồ Hóa』\` cũng nguy hiểm đấy.”
+“Kẻ xây dựng pháo đài vẫn chưa tung ra ma pháp tấn công nào. Nếu một kẻ mạnh như thế dốc toàn lực tấn công, ngay cả trạng thái 『Khổng Lồ Hóa』 cũng nguy hiểm đấy.”
 
 Gizaginzu đoán rằng có lẽ Bazuzu đã quá tự mãn nên bị ma pháp tấn công của kẻ dùng Thổ ma thuật đập trúng đầu mà chết.
 
 “Nhưng với phòng ngự sắt đá của tôi, tôi sẽ chịu đựng được mọi đòn tấn công!”
 
-“Đúng thế, nên nếu phải đột kích, tôi nghĩ nên giao cho người cứng nhất là Bandon.”
+“Đúng thế, nên nếu phải đột kích, tôi nghĩ nên giao cho người cứng cáp nhất là Bandon.”
 
 “Hự, ưừm... Đành vậy, Bandon, ta nhường cho ngươi đấy.”
 
@@ -53401,33 +53403,37 @@ Họ quay mặt về phía pháo đài một lần nữa. Lần này, Bandon bư
 
 “Ta lên đây!”
 
-Vác cây chùy trên vai, Bandon hạ thấp người chuẩn bị cho cú húc và bắt đầu lao đi.
+Vác cây chùy lớn trên vai, Bandon hạ thấp người chuẩn bị cho cú húc rồi bắt đầu lao đi.
 
-*Ầm! Ầm!* Tiếng bước chân dồn dập và chấn động dữ dội của gã khổng lồ làm rung chuyển mặt đất vương quốc. Vốn dĩ đã có thân hình khổng lồ, Bandon còn sở hữu lớp giáp dày và chiếc mai lớn, giúp gã có trọng lượng nặng nhất trong số các Đại Chiến Sĩ.
+*Ầm! Ầm!* 
 
-Lao đi với áp lực như một quả núi đá khổng lồ lăn trực diện, có vẻ như lũ nhân loại cũng đã hoảng loạn, cuối cùng những đòn tấn công cũng bắt đầu bay tới.
+Tiếng bước chân dồn dập và chấn động dữ dội của gã khổng lồ làm rung chuyển mặt đất vương quốc. Vốn dĩ đã có thân hình khổng lồ, Bandon còn sở hữu lớp giáp dày và chiếc mai lớn, giúp gã có trọng lượng nặng nhất trong số các Đại Chiến Sĩ.
+
+Lao đi với áp lực tựa như một quả núi đá khổng lồ lăn trực diện, có vẻ như lũ nhân loại cũng đã hoảng loạn, cuối cùng những đòn tấn công cũng bắt đầu dội xuống.
 
 “Ha ha ha ha! Những đòn tấn công yếu ớt đó làm sao xuyên qua được Bandon này!”
 
-Bắt đầu từ những vật ném phát nổ bằng ngọn lửa từng thiêu rụi vương quốc, cho đến các ma pháp tấn công hệ phong và quang liên tục dội xuống. Những đòn tấn công tầm xa đó đều tập trung vào đầu Bandon, nhưng đầu gã được bao bọc bởi lớp vỏ ngoài dày như mũ giáp sắt, hoàn toàn không hề hấn gì.
+Bắt đầu từ những vật ném phát nổ bằng ngọn lửa từng thiêu rụi vương quốc, cho đến các ma pháp tấn công hệ phong và quang liên tục trút xuống. Những đòn tấn công tầm xa đó đều tập trung vào đầu Bandon, nhưng đầu gã được bao bọc bởi lớp vỏ ngoài dày như mũ giáp sắt, hoàn toàn không hề hấn gì.
 
 Trong số đó còn lẫn lộn cả những thứ phát ra khói mù và ánh sáng chói mắt nhằm cản trở tầm nhìn... nhưng gã không ngu ngốc đến mức vấp ngã chỉ vì bị che mắt chút ít.
 
 “Lũ nhân loại ngu xuẩn, hãy nát vụn trước sức mạnh thần thánh mà bệ hạ Oh-ma vĩ đại đã ban tặng đi!”
 
-Tăng tốc thêm một nhịp, cú húc với tốc độ và uy lực tối đa của Bandon va chạm vào bức tường đá———— ngay khoảnh khắc đó, thân hình khổng lồ của gã loạng choạng.
+Tăng tốc thêm một nhịp, cú húc với vận tốc và uy lực tối đa của Bandon chuẩn bị va chạm vào bức tường đá———— ngay khoảnh khắc đó, thân hình khổng lồ của gã bỗng loạng choạng.
 
 “Cái gì?!”
 
-*Bùm!* Mặt đất lẽ ra phải là nơi gã đặt chân vững chắc đột ngột bắn tung tóe nước lên tung tóe.
+*Bõm!* 
 
-Cứ như thể gã vừa bước hụt chân vào một cái hồ. Nhưng đây rõ ràng là trung tâm của đại lộ dẫn đến Cổng Đông. Làm sao có thể có hồ nước hay đầm lầy ở một nơi như thế này được. Hơn nữa, gã chắc chắn mình đã ‘nhìn thấy’ nơi đó vẫn là mặt đất bằng phẳng.
+Mặt đất lẽ ra phải là nơi gã đặt chân vững chắc đột ngột bắn tung tóe nước lên khắp nơi.
+
+Cứ như thể gã vừa bước hụt chân vào một cái hồ. Nhưng đây rõ ràng là trung tâm của đại lộ dẫn đến Cổng Đông. Làm sao có thể có hồ nước hay đầm lầy ở một nơi như thế này được? Hơn nữa, gã chắc chắn mình đã ‘nhìn thấy’ nơi đó vẫn là mặt đất bằng phẳng.
 
 Nhưng điều khiến Bandon rơi vào hiểm cảnh không phải là sự nghi ngờ đó, mà đơn giản là sự chênh lệch độ cao đột ngột.
 
-Cảm giác hụt chân giống như bước hụt bậc cầu thang khiến cơ thể khổng lồ của gã mất đà nghiêm trọng. Dễ hiểu thôi, một cái bẫy đầm lầy bí ẩn đã được giăng sẵn ở đó, mà gã lại dẫm cả hai chân xuống với toàn bộ lực quán tính của cú húc.
+Cảm giác hụt chân giống như bước trượt bậc cầu thang khiến cơ thể khổng lồ của gã mất đà nghiêm trọng. Dễ hiểu thôi, một cái bẫy đầm lầy bí ẩn đã được giăng sẵn ở đó, mà gã lại giẫm cả hai chân xuống với toàn bộ lực quán tính của cú húc.
 
-Mặt đất lẽ ra phải ở đó lại biến mất, lực giẫm chân cực mạnh không có điểm tựa lập tức xuyên qua mặt nước, khiến chân gã lún sâu xuống đáy đầm lầy sâu tới 2 mét ngoài ý muốn.
+Mặt đất lẽ ra phải ở đó lại biến mất, lực giẫm chân cực mạnh không có điểm tựa lập tức xuyên qua mặt nước, khiến chân gã lún sâu xuống đáy đầm lầy sâu tới hai mét ngoài ý muốn.
 
 Sự thăng bằng bị phá vỡ ngay lập tức. Khi gã nhận ra thì đà lao đi quá mạnh không thể dừng lại, việc ngã nhào là không thể tránh khỏi.
 
@@ -53439,11 +53445,11 @@ Nhìn lên bức tường đá của pháo đài lẽ ra phải bị mình đậ
 
 Và khi ngẩng đầu lên, gã nhìn thấy một bóng người nhân loại đang nở nụ cười méo mó, tà ác chưa từng thấy.
 
-Đó là một đứa trẻ nhân loại nhỏ bé, tay cầm cây gậy dài gắn chiếc đầu lâu dị dạng. Nó vừa cười khúc khích vừa nhìn xuống với đôi mắt sáng lên đầy ma mị, không, nó đang nhìn xuống Đại Chiến Sĩ được Oh-ma lựa chọn này như một kẻ ngu ngốc dễ dàng sập bẫy.
+Đó là một đứa trẻ nhân loại nhỏ bé, tay cầm cây gậy dài gắn chiếc đầu lâu dị dạng. Nó vừa cười khúc khích vừa nhìn xuống với đôi mắt sáng lên đầy ma mị; không, nó đang nhìn xuống Đại Chiến Sĩ được Oh-ma lựa chọn này như một kẻ ngu ngốc vừa sập bẫy.
 
-Rồi, đứa trẻ nhân loại tà ác tột cùng đó giơ cao cây gậy và hét lớn.
+Rồi, đứa trẻ nhân loại tà ác tột cùng đó giơ cao cây gậy và hét lớn:
 
-“Yoo-goo-mii-dii! De-roooo! (Đi thôi \`『Vô Đạo Nhất Thức』\`, giải phóng \`『Hệ Biến Thái Hoàn Toàn』\`!)”
+“Yoo-goo-mii-dii! De-roooo! (Đi thôi 『Vô Đạo Nhất Thức』, giải phóng 『Hệ Biến Thái Hoàn Toàn』!)”
 
 Một bóng đen khổng lồ đột ngột xuất hiện phía trên đầu Bandon.
 
@@ -53473,7 +53479,7 @@ Dù con quái vật này có dùng nanh vuốt cào xé thế nào đi nữa, n�
 
 Một cơn đau nhói như kim châm chạy dọc một bên chân, mang lại cảm giác bất an tột độ. Gã vội vàng nhìn xuống thì thấy chiếc chân đang đau nhói đó đang ngâm trong vũng nước của cái bẫy.
 
-Vì quá chú ý đến con quái vật kia mà gã hoàn toàn quên mất rằng thứ chất lỏng đổ đầy cái bẫy không phải là nước thường. Đó là một thứ chất lỏng đặc sệt, màu đỏ đen bốc mùi hôi thối như da thịt thối rữa.
+Vì quá chú ý đến con quái vật kia mà gã hoàn toàn quên mất rằng thứ chất lỏng đổ đầy cái bẫy không phải là nước thường. Đó là một thứ dung dịch đặc sệt, màu đỏ đen bốc mùi hôi thối như da thịt thối rữa.
 
 Và từ chiếc chân đang ngâm trong thứ chất lỏng dính nhớp đó, tiếng xèo xèo ghê rợn cùng làn khói nghi ngút đang bốc lên.
 
@@ -53495,19 +53501,19 @@ Như thể biết rằng cái đầm lầy axit nhỏ này là cách duy nhất 
 
 Chiếc chân đang bị ăn mòn từng giây từng phút. Dù gã đã giật đứt từng cánh tay, xúc tu của con quái vật bám quanh, nhưng vẫn chưa đủ để thoát thân.
 
-Lần đầu tiên Bandon cảm thấy hoảng loạn khi bị dồn vào đường cùng. Đây cũng là lần đầu tiên gã phải chịu đau đớn và sát thương trong trạng thái \`『Khổng Lồ Hóa』\`.
+Lần đầu tiên Bandon cảm thấy hoảng loạn khi bị dồn vào đường cùng. Đây cũng là lần đầu tiên gã phải chịu đau đớn và sát thương trong trạng thái 『Khổng Lồ Hóa』.
 
 Và kẻ nhân loại tà ác kia đã nhìn thấu sự hoảng loạn đó, xảo quyệt ra đòn quyết định.
 
 “Ganda! (Ngay lúc này!)”
 
-“Bungaaaa! \`『Cương Đại Đả Kích』\`!”
+“Bungaaaa! 『Cương Đại Đả Kích』!”
 
-“Bongaaaa! \`『Chân Nhất Thiểm』\`!”
+“Bongaaaa! 『Chân Nhất Thiểm』!”
 
 Từ trên bức tường thành, hai bóng người nhân loại lao xuống. Một chiến sĩ vung rìu và một kiếm sĩ lăm lăm thanh kiếm.
 
-Đòn tấn công đầu tiên là võ kỹ dũng mãnh của gã chiến sĩ. Một chấn động khủng khốc giáng thẳng vào phần gáy không có giáp bảo vệ do đang bận giằng co với con quái vật. Đòn đánh mạnh đến mức khiến gã phải rên rỉ đau đớn.
+Đòn tấn công đầu tiên là võ kỹ dũng mãnh của gã chiến sĩ. Một chấn động khủng khiếp giáng thẳng vào phần gáy không có giáp bảo vệ do đang bận giằng co với con quái vật. Đòn đánh mạnh đến mức khiến gã phải rên rỉ đau đớn.
 
 “Hự, nhưng chỉ thế này thì————”
 
@@ -53531,19 +53537,19 @@ Con quái vật vẫn tiếp tục bám chặt không buông. Tất nhiên, mộ
 
 Hơn thế nữa, lũ nhân loại có đủ sức mạnh để phá hủy các khớp xương của gã lại vừa xuất hiện. Hai kẻ đó đang dùng cơ thể con quái vật làm bàn đạp, một lần nữa nhắm vào gáy gã để tung ra đòn kết liễu.
 
-Tại sao mọi chuyện lại thành ra thế này. Đại Chiến Sĩ Bandon kiêu hãnh với phòng ngự tuyệt đối lại bị dồn vào đường cùng một cách dễ dàng như vậy sao.
+Tại sao mọi chuyện lại thành ra thế này? Đại Chiến Sĩ Bandon kiêu hãnh với phòng ngự tuyệt đối lại bị dồn vào đường cùng một cách dễ dàng như vậy sao?
 
 “Bandon, đứng im đó! Hự!”
 
 Trong cơn nguy kịch, tiếng hét của Jiji-gogo vang lên. Bandon đang tiến thoái lưỡng nan lập tức nghe theo, đứng im tại chỗ. Ngay sau đó là tiếng sấm sét nổ vang trời cùng luồng nhiệt lượng nóng bỏng như muốn thiêu rụi lớp giáp ngoài.
 
-“Chi, suýt nữa thì tiêu đời rồi!”
+“Tch, suýt nữa thì tiêu đời rồi!”
 
 “Uầy, suýt soát thật đấy...”
 
 Khi gã nhận ra thì hai kẻ nhân loại đã nhanh chóng bám theo sợi dây thừng đen rút lui lên đỉnh pháo đài. Đồng thời, lực trói của con quái vật đang quấn chặt lấy cơ thể gã cũng đã giảm đi đáng kể.
 
-Phần thân dày nhất của con quái vật đã bị chém một vết sâu hoắm. Trên bức tường pháo đài, một cây rìu mang theo sức mạnh sấm sét của Jiji-gogo đang cắm chặt.
+Phần thân dày nhất của con quái vật đã bị chém một vết sâu hoắm. Trên bức tường pháo đài, một cây rìu mang theo sức mạnh sấm sét của Jiji-gogo đang cắm chặt ngập sâu.
 
 Có vẻ như Jiji-gogo đã ném rìu chém đứt con quái vật để giải vây cho gã. Hơn thế nữa, Gizaginzu cũng đã phun lửa để xua đuổi lũ nhân loại đang lảng vảng xung quanh rút lui về pháo đài.
 
@@ -53557,7 +53563,7 @@ Sau khi rũ bỏ con quái vật đã suy yếu hoàn toàn, Bandon lùi lại, 
 
 Cây rìu Jiji-gogo ném đi bỗng phóng ra những tia chớp tím kết nối với cây rìu còn lại trên tay lão, tự động rút ra khỏi bức tường thành rồi bay ngược trở lại tay chủ nhân. Đây là một mẹo nhỏ giúp tự động thu hồi rìu ném bằng cách truyền lôi thuộc tính vào kim loại để tạo lực hút hoặc đẩy, một kỹ thuật mà lão học được từ lời khuyên của Vua Oh-ma.
 
-Cú ném rìu tuy đủ mạnh để để lại vết nứt trên bức tường đá, nhưng ngay sau khi cây rìu được rút ra, vết thương trên tường lại tự động phục hồi. Quả nhiên, nếu chỉ ném rìu đơn thuần thì không thể phá hủy hoàn toàn bức tường đó.
+Cú ném rìu tuy đủ mạnh để để lại vết nứt trên bức tường đá, nhưng ngay sau khi cây rìu được rút ra, vết nứt trên tường lại tự động phục hồi. Quả nhiên, nếu chỉ ném rìu đơn thuần thì không thể phá hủy hoàn toàn bức tường đó.
 
 “Chà chà, không ngờ lại có cái bẫy như thế. Quả nhiên để Bandon đi là đúng đắn.”
 
@@ -53585,7 +53591,7 @@ Cứ ngỡ lũ nhân loại sẽ tung ra chiêu thức tất sát để kết li
 
 “Cái gì, thế nghĩa là—”
 
-Nghĩa là sao chứ. Trong tình cảnh cả ba Đại Chiến Sĩ đều đang tề tựu ở đây, còn ai có thể lập công thay thế họ nữa... Gã chợt nhớ ra có một người như vậy.
+Nghĩa là sao chứ? Trong tình cảnh cả ba Đại Chiến Sĩ đều đang tề tựu ở đây, còn ai có thể lập công thay thế họ nữa... Gã chợt nhớ ra có một người như vậy.
 
 Bandon quay lại thì thấy một chiến sĩ, không, một Đại Chiến Sĩ đang đứng đó.
 
@@ -53609,7 +53615,7 @@ Dễ hiểu thôi. Cái cách chúng giăng bẫy dồn Bandon vào hiểm cản
 
 “Phần còn lại cứ giao cho ta. Lũ nhân loại ở đằng kia, chính tay ta sẽ tiễn chúng lên đường.”
 
-Thề sẽ báo thù, Zagan giải phóng sức mạnh \`『Khổng Lồ Hóa』\` theo sát ý đang cuộn trào từ tận đáy lòng.
+Thề sẽ báo thù, Zagan giải phóng sức mạnh 『Khổng Lồ Hóa』 theo sát ý đang cuộn trào từ tận đáy lòng.
 
 ---
 
@@ -53617,13 +53623,13 @@ Thề sẽ báo thù, Zagan giải phóng sức mạnh \`『Khổng Lồ Hóa』
 
 *Thông tin thiết lập về độ tuổi và hình ảnh khái quát của các Đại Chiến Sĩ Goma (sắp xếp theo thứ tự từ lớn đến nhỏ tuổi):*
 
-*   **Oh-ma:** Kẻ đứng đầu không ai có thể bì kịp, là người lớn tuổi nhất. Hiện thân của sự bất lão trường thọ. Giống như một vị chủ tịch tài ba đã tự tay gầy dựng công ty từ con số không cho đến khi lên sàn chứng khoán. Bằng trí tuệ thiên tài và sức hút áp đảo, ông đã quy tụ tộc Goma và dựng lên vương quốc, nhưng giờ đây không còn ai biết được những gian khổ thuở trẻ của ông nữa. Ông dự định sau khi cuộc chiến này kết thúc sẽ kể cho Zagan nghe về cuộc đời của mình.
-*   **Jiji-gogo:** Lão già lớn tuổi nhất. Giống như một nhân viên kỳ cựu sắp đến tuổi nghỉ hưu nhưng vẫn làm việc năng nổ ngoài thực địa. Thuở trẻ, lão là đại diện tiêu biểu cho lũ đầu đất hiếu chiến còn hơn cả Bazuzu, nhưng qua nhiều năm làm việc thực tế với tư cách Đại Chiến Sĩ, lão cuối cùng cũng đã tích lũy được trí khôn. Lão cùng thời với cha của Zagan. Lão là người sống thọ thứ hai trong tộc Goma (không tính Oh-ma), nhưng so với Vua Oh-ma sống thọ nhất thì khoảng cách tuổi tác giữa hai người còn lớn hơn cả ông nội và cháu trai.
-*   **Zagan:** Cánh tay phải đắc lực được cả chủ tịch lẫn mọi người công nhận. Giống như một giám đốc điều hành cực kỳ tài ba leo lên vị trí cao khi mới ngoài 30 tuổi, một thiên tài xuất chúng trong số các siêu tinh anh. Là Đại Chiến Sĩ Trưởng trẻ tuổi nhất trong lịch sử. Vốn dĩ, anh ta thuộc nhóm khá trẻ trong số các Đại Chiến Sĩ. Nhưng ngay cả Zagan cũng đã là người lớn tuổi thứ hai, cho thấy thế hệ Đại Chiến Sĩ hiện tại nhìn chung rất trẻ. Đây là thời kỳ chuyển giao thế hệ mạnh mẽ. Dù toàn là những gương mặt trẻ tuổi, nhưng nhờ sự bồi dưỡng nhân tài trong nhiều năm của Vua Oh-ma, đội hình hiện tại với Zagan dẫn đầu được coi là mạnh nhất lịch sử. Nếu có thêm mười hay hai mươi năm nữa để tích lũy kinh nghiệm, thế hệ trẻ này sẽ còn mạnh mẽ hơn nữa...
-*   **Bandon:** Nhân viên trung kiên hiếm hoi ở độ tuổi cận 30. Nếu không có Zagan, gã đã là ứng cử viên sáng giá cho vị trí Đại Chiến Sĩ Trưởng. Dù chênh lệch tuổi tác không quá lớn nhưng khoảng cách thế hệ tiền bối - hậu bối lại rất rõ ràng. Zagan đã chỉ bảo gã rất nhiều nên gã luôn kính trọng và thừa nhận Zagan là Đại Chiến Sĩ mạnh nhất. Nhờ có một kẻ mạnh vượt trội như vậy ở bên cạnh, Bandon không bị kiêu ngạo theo kiểu "ta là mạnh nhất" thường thấy ở các Đại Chiến Sĩ, mà sớm biết giữ mình điềm tĩnh. Việc bồi dưỡng thành công Bandon cũng giúp Vua Oh-ma đánh giá cao năng lực của Zagan hơn.
-*   **Gizaginzu:** Giống như một thanh niên vừa tốt nghiệp cấp ba vào công ty và vừa tròn 20 tuổi năm nay. Đang ở giai đoạn năm thứ hai và vừa thoát khỏi mác tân binh. Kiểu người tuy có vẻ ngoài cợt nhả nhưng làm việc cực kỳ hiệu quả và nhạy bén. Vì là Đại Chiến Sĩ hệ ma pháp sư cực kỳ hiếm hoi nên gã rất được Oh-ma để mắt tới. Trong khi các cựu binh chỉ biết làm việc chân tay ngoài thực địa, gã tuy là lính mới nhưng lại rất được trọng dụng vì biết sử dụng công nghệ (tương tự như biết dùng máy tính).
-*   **Bazuzu:** Giống như một cậu nhóc ngổ ngáo vừa được tuyển dụng vào công ty. Dù Gizaginzu là tiền bối nhưng vì tuổi tác khá gần nhau nên gã luôn tự coi mình là bạn cùng lứa và đơn phương coi Gizaginzu là đối thủ cạnh tranh. Là một Đại Chiến Sĩ điển hình, Oh-ma cũng nhìn nhận gã với tầm nhìn xa, tin rằng chỉ cần thả rông vài năm thì Zagan sẽ dạy dỗ gã nên người. Nếu không phải ở thế hệ mạnh nhất hiện tại, gã đã có đủ tài năng để leo lên vị trí Đại Chiến Sĩ Trưởng.
-*   **Bon:** Tuổi tác tương đương Bandon, thuộc diện tuyển dụng giữa chừng. Là một Đại Chiến Sĩ ở mức trung bình từ trước đến nay. Dù khá gần gũi với GoGame Mastera nhưng gã vẫn sở hữu sức mạnh vượt trội hơn hẳn. Đúng chất nhân viên chính thức. Lũ GoGame Mastera bốn tay chỉ giống như tổ trưởng ca làm thêm mà thôi. Dù lớn tuổi hơn Bazuzu nhưng Bon hoàn toàn bị coi là đàn em cấp dưới. Tuy nhiên, gã không hề cảm thấy khó chịu khi bị cấp trên nhỏ tuổi hơn nói chuyện ngang hàng. Trong thế giới Goma, tuổi tác không quyết định tất cả mà sức mạnh mới là tuyệt đối. Nhưng những kẻ sống sót lâu năm tự khắc cũng sẽ là những kẻ mạnh. Một xã hội cạnh tranh khốc liệt nơi chỉ có kẻ mạnh mới có quyền sinh tồn.`
+* **Oh-ma:** Kẻ đứng đầu không ai có thể bì kịp, là người lớn tuổi nhất. Hiện thân của sự bất lão trường thọ. Giống như một vị chủ tịch tài ba đã tự tay gầy dựng công ty từ con số không cho đến khi lên sàn chứng khoán. Bằng trí tuệ thiên tài và sức hút áp đảo, ông đã quy tụ tộc Goma và dựng lên vương quốc, nhưng giờ đây không còn ai biết được những gian khổ thuở trẻ của ông nữa. Ông dự định sau khi cuộc chiến này kết thúc sẽ kể cho Zagan nghe về cuộc đời của mình.
+* **Jiji-gogo:** Lão già lớn tuổi nhất. Giống như một nhân viên kỳ cựu sắp đến tuổi nghỉ hưu nhưng vẫn làm việc năng nổ ngoài thực địa. Thuở trẻ, lão là đại diện tiêu biểu cho lũ đầu đất hiếu chiến còn hơn cả Bazuzu, nhưng qua nhiều năm làm việc thực tế với tư cách Đại Chiến Sĩ, lão cuối cùng cũng đã tích lũy được trí khôn. Lão cùng thời với cha của Zagan. Lão là người sống thọ thứ hai trong tộc Goma (không tính Oh-ma), nhưng so với Vua Oh-ma sống thọ nhất thì khoảng cách tuổi tác giữa hai người còn lớn hơn cả ông nội và cháu trai.
+* **Zagan:** Cánh tay phải đắc lực được cả chủ tịch lẫn mọi người công nhận. Giống như một giám đốc điều hành cực kỳ tài ba leo lên vị trí cao khi mới ngoài 30 tuổi, một thiên tài xuất chúng trong số các siêu tinh anh. Là Đại Chiến Sĩ Trưởng trẻ tuổi nhất trong lịch sử. Vốn dĩ, anh ta thuộc nhóm khá trẻ trong số các Đại Chiến Sĩ. Nhưng ngay cả Zagan cũng đã là người lớn tuổi thứ hai, cho thấy thế hệ Đại Chiến Sĩ hiện tại nhìn chung rất trẻ. Đây là thời kỳ chuyển giao thế hệ mạnh mẽ. Dù toàn là những gương mặt trẻ tuổi, nhưng nhờ sự bồi dưỡng nhân tài trong nhiều năm của Vua Oh-ma, đội hình hiện tại với Zagan dẫn đầu được coi là mạnh nhất lịch sử. Nếu có thêm mười hay hai mươi năm nữa để tích lũy kinh nghiệm, thế hệ trẻ này sẽ còn mạnh mẽ hơn nữa...
+* **Bandon:** Nhân viên trung kiên hiếm hoi ở độ tuổi cận 30. Nếu không có Zagan, gã đã là ứng cử viên sáng giá cho vị trí Đại Chiến Sĩ Trưởng. Dù chênh lệch tuổi tác không quá lớn nhưng khoảng cách thế hệ tiền bối - hậu bối lại rất rõ ràng. Zagan đã chỉ bảo gã rất nhiều nên gã luôn kính trọng và thừa nhận Zagan là Đại Chiến Sĩ mạnh nhất. Nhờ có một kẻ mạnh vượt trội như vậy ở bên cạnh, Bandon không bị kiêu ngạo theo kiểu "ta là mạnh nhất" thường thấy ở các Đại Chiến Sĩ, mà sớm biết giữ mình điềm tĩnh. Việc bồi dưỡng thành công Bandon cũng giúp Vua Oh-ma đánh giá cao năng lực của Zagan hơn.
+* **Gizaginzu:** Giống như một thanh niên vừa tốt nghiệp cấp ba vào công ty và vừa tròn 20 tuổi năm nay. Đang ở giai đoạn năm thứ hai và vừa thoát khỏi mác tân binh. Kiểu người tuy có vẻ ngoài cợt nhả nhưng làm việc cực kỳ hiệu quả và nhạy bén. Vì là Đại Chiến Sĩ hệ ma pháp sư cực kỳ hiếm hoi nên gã rất được Oh-ma để mắt tới. Trong khi các cựu binh chỉ biết làm việc chân tay ngoài thực địa, gã tuy là lính mới nhưng lại rất được trọng dụng vì biết sử dụng công nghệ (tương tự như biết dùng máy tính).
+* **Bazuzu:** Giống như một cậu nhóc ngổ ngáo vừa được tuyển dụng vào công ty. Dù Gizaginzu là tiền bối nhưng vì tuổi tác khá gần nhau nên gã luôn tự coi mình là bạn cùng lứa và đơn phương coi Gizaginzu là đối thủ cạnh tranh. Là một Đại Chiến Sĩ điển hình, Oh-ma cũng nhìn nhận gã với tầm nhìn xa, tin rằng chỉ cần thả rông vài năm thì Zagan sẽ dạy dỗ gã nên người. Nếu không phải ở thế hệ mạnh nhất hiện tại, gã đã có đủ tài năng để leo lên vị trí Đại Chiến Sĩ Trưởng.
+* **Bon:** Tuổi tác tương đương Bandon, thuộc diện tuyển dụng giữa chừng. Là một Đại Chiến Sĩ ở mức trung bình từ trước đến nay. Dù khá gần gũi với Goma nhưng gã vẫn sở hữu sức mạnh vượt trội hơn hẳn. Đúng chất nhân viên chính thức. Lũ Goma bốn tay chỉ giống như tổ trưởng ca làm thêm mà thôi. Dù lớn tuổi hơn Bazuzu nhưng Bon hoàn toàn bị coi là đàn em cấp dưới. Tuy nhiên, gã không hề cảm thấy khó chịu khi bị cấp trên nhỏ tuổi hơn nói chuyện ngang hàng. Trong thế giới Goma, tuổi tác không quyết định tất cả mà sức mạnh mới là tuyệt đối. Nhưng những kẻ sống sót lâu năm tự khắc cũng sẽ là những kẻ mạnh. Một xã hội cạnh tranh khốc liệt nơi chỉ có kẻ mạnh mới có quyền sinh tồn.`
             },
             {
                 "id": "ep_315",
@@ -53631,9 +53637,9 @@ Thề sẽ báo thù, Zagan giải phóng sức mạnh \`『Khổng Lồ Hóa』
                 "title": "Tập 315: Chiến dịch chinh phục Vương quốc Goma (7)",
                 "content": `# Tập 315: Chiến dịch chinh phục Vương quốc Goma (7)
 
-“Hử, thắng chắc rồi...”
+“Hừ, thắng chắc rồi...”
 
-Zagan, kẻ đứng đầu lũ Gira-GoGame Mastera và cũng là kẻ thù đã sát hại đồng đội của chúng tôi, cuối cùng đã lộ diện. Nhìn gã khổng lồ đang tỏa ra luồng ma lực khủng khiếp kia, tôi không kìm được mà lẩm bẩm như thế.
+Zagan—kẻ đứng đầu lũ Gira-Gogma và cũng là kẻ thù đã sát hại đồng đội của chúng tôi—cuối cùng đã lộ diện. Nhìn gã khổng lồ đang tỏa ra luồng ma lực khủng khiếp kia, tôi không kìm được mà lẩm bẩm.
 
 Chiến dịch chinh phục vương quốc lần này có không ít yếu tố bất định, buộc chúng tôi phải đặt cược vào những canh bạc hiểm nghèo. Thế nhưng, mọi chuyện cuối cùng cũng trôi qua êm đẹp, và chúng tôi đã thành công dẫn dắt thế cục đi đúng hướng.
 
@@ -53641,29 +53647,29 @@ Chiến dịch chinh phục vương quốc lần này có không ít yếu tố 
 
 “Đâu có sao, tớ đang đợi gã ra đây mà.”
 
-Đối mặt với Zagan khổng lồ hóa đang tỏa ra chiến ý ngút trời, cậu Hayama run rẩy hỏi, nhưng tôi chỉ mỉm cười đầy tự tin đáp lại.
+Đối mặt với một Zagan khổng lồ hóa đang tỏa ra chiến ý ngút trời, Hayama-kun run rẩy hỏi, nhưng tôi chỉ mỉm cười đầy tự tin đáp lại.
 
-Tất nhiên, tôi không hề có suy nghĩ ngây thơ rằng Zagan là kẻ không đáng sợ. Tôi e dè và cảnh giác gã chẳng kém gì Oh-ma. Nhưng chính vì vậy, nếu gã không chịu ló mặt ra ngay lúc này thì kế hoạch của tôi sẽ đổ bể mất.
+Tất nhiên, tôi không hề ngây thơ đến mức nghĩ rằng Zagan không đáng sợ. Tôi e dè và cảnh giác gã chẳng kém gì Oh-ma. Nhưng chính vì vậy, nếu gã không chịu ló mặt ra ngay lúc này thì kế hoạch của tôi sẽ đổ bể mất.
 
-Cho dù không phải gã, việc đối đầu trực diện với một Gira-GoGame Mastera vẫn mang lại rủi ro quá lớn.
+Cho dù không phải là gã, việc đối đầu trực diện với một Gira-Gogma vẫn mang lại rủi ro quá lớn.
 
-Khi buộc phải cố thủ tại pháo đài này để câu giờ trước ba gã khổng lồ cùng lúc, tôi đã được một phen lạnh gáy. Nhưng thật may mắn khi đối phương cũng tỏ ra thận trọng, chỉ tung ra những đòn tấn công mang tính thăm dò. Nếu chúng cứ hành động đúng chất lũ Goma hoang dã, điên cuồng xua quân tổng tấn công bất chấp hậu quả, thì pháo đài này chắc chắn không trụ nổi năm phút.
+Khi buộc phải cố thủ tại pháo đài này để câu giờ trước ba gã khổng lồ cùng lúc, tôi đã được một phen lạnh gáy. May mắn thay, đối phương cũng tỏ ra thận trọng và chỉ tung ra những đòn tấn công mang tính thăm dò. Nếu chúng cứ hành động đúng chất lũ Goma hoang dã, điên cuồng xua quân tổng tấn công bất chấp hậu quả, thì pháo đài này chắc chắn không trụ nổi năm phút.
 
-Chiếc hố bẫy chứa 『Đầm Lầy Thối Rữa』 cũng đã phát huy tối đa công hiệu. Nhờ có nhãn thuật 『Hư Ảnh Tương Chiếu』, việc ngụy trang cho cái bẫy trở nên dễ dàng và hoàn hảo hơn bao giờ hết.
+Chiếc hố bẫy chứa 『Đầm Lầy Thối Rữa』 cũng đã phát huy tối đa công hiệu. Nhờ có nhãn thuật 『Hư Ảnh Tương Chiếu』, việc ngụy trang cho cái bẫy trở nên hoàn hảo hơn bao giờ hết.
 
-Dù có hóa thành khổng lồ thì chúng vẫn phải di chuyển bằng hai chân, một khi mất đi điểm tựa thì việc ngã nhào là điều hiển nhiên. Hơn nữa, lớp giáp của Bandon dù có cứng cáp đến đâu cũng chẳng thể nào vượt qua nổi Yamata no Orochi. Khả năng ăn mòn của 『Đầm Lầy Thối Rữa』—thứ từng làm tan chảy lớp vỏ giáp siêu cứng dày cả mét của con đại xà kia—không phải chỉ để làm cảnh.
+Dù có hóa thành khổng lồ thì chúng vẫn phải di chuyển bằng hai chân, một khi mất đi điểm tựa thì việc ngã nhào là điều tất yếu. Hơn nữa, lớp giáp của Bandon dù có cứng cáp đến đâu cũng chẳng thể nào vượt qua nổi Yamata no Orochi. Khả năng ăn mòn của 『Đầm Lầy Thối Rữa』—thứ từng làm tan chảy lớp vỏ giáp siêu cứng dày cả mét của con đại xà kia—không phải chỉ để làm cảnh.
 
 Dù Bandon đã được đồng bọn yểm trợ để vội vàng rút lui, nhưng việc gã không nổi điên lên rồi càn quét lung tung tại chỗ thực sự đã giúp tôi trút đi một gánh nặng. Bởi lẽ, tôi chẳng thể nào chuẩn bị thêm bất kỳ cái bẫy nào quy mô hơn thế nữa.
 
 Và ngay khi đối phương đang định chấn chỉnh lại đội hình, Zagan đã xuất hiện. Một thời điểm không thể hoàn hảo hơn.
 
-Tổng cộng bốn tên Gira-GoGame Mastera. Tôi buộc phải gom bằng sạch lũ chúng lại tại địa điểm này. Nếu Zagan cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, nửa sau của chiến dịch chinh phục này chắc chắn sẽ rơi vào thế vô cùng ngặt nghèo.
+Tổng cộng bốn tên Gira-Gogma. Tôi buộc phải gom bằng sạch lũ chúng lại tại địa điểm này. Nếu Zagan cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, nửa sau của chiến dịch chinh phục chắc chắn sẽ rơi vào thế vô cùng ngặt nghèo.
 
-Dù sao đi nữa, cuối cùng thì mọi điều kiện cần thiết cũng đã hội tụ đầy đủ. Tôi đã làm tất cả những gì có thể. Việc còn lại chỉ là chờ đợi ý trời mà thôi.
+Dù sao đi nữa, cuối cùng mọi điều kiện cần thiết cũng đã hội tụ đầy đủ. Tôi đã làm tất cả những gì có thể. Việc còn lại chỉ là chờ đợi ý trời mà thôi.
 
 “Cầu xin sự bảo hộ của ngài Ruinhilde ban xuống—”
 
-Tôi giơ cao cây trượng 『Vô Đạo Nhất Thức』, đối đầu trực diện với Zagan, kẻ đang chuẩn bị dồn toàn lực lao tới.
+Tôi giơ cao cây trượng 『Vô Đạo Nhất Thức』, đối đầu trực diện với Zagan—kẻ đang chuẩn bị dồn toàn lực lao tới.
 
 Tôi có thể cảm nhận rõ ràng ánh mắt ngập tràn sát khí của gã đang găm thẳng vào mình. Không sai vào đâu được, lúc này gã chỉ đang nhìn chăm chăm vào tôi.
 
@@ -53677,7 +53683,7 @@ Có lẽ gã cũng đã nhận ra kẻ đang giơ cao cây trượng dẫn đầ
 
 Hàng loạt tiếng nổ đanh tai vang lên liên tiếp từ khắp bốn phương tám hướng. Điều đó là hiển nhiên, bởi tôi đã giăng sẵn bẫy ở khắp mọi nơi rồi.
 
-Ngay cả từ vị trí này, tôi vẫn có thể nhìn thấy rõ ràng bốn cột lửa và khói bụi đang cuồn cuộn bốc lên. Dù vị trí đặt bom chỉ là những cửa cống kiểm tra dưới lòng đất, nhưng những quả bom lõi được chế tạo xa xỉ từ tận hai chiếc lõi của ma vật cấp Boss vẫn sở hữu sức công phá dư sức thổi bay cả những tòa nhà kiên cố ngay phía trên. Tất nhiên, mục tiêu cốt lõi mà tôi muốn nghiền nát bằng thứ uy lực kinh hoàng đó chính là các cột trụ nâng đỡ vương quốc.
+Ngay cả từ vị trí này, tôi vẫn có thể nhìn thấy rõ bốn cột lửa và khói bụi đang cuồn cuộn bốc lên. Dù vị trí đặt bom chỉ là những cửa cống kiểm tra dưới lòng đất, nhưng các quả bom lõi được chế tạo xa xỉ từ tận hai chiếc lõi của ma vật cấp Boss vẫn sở hữu sức công phá dư sức thổi bay cả những tòa nhà kiên cố ngay phía trên. Tất nhiên, mục tiêu cốt lõi mà tôi muốn nghiền nát bằng thứ uy lực kinh hoàng đó chính là các cột trụ nâng đỡ vương quốc.
 
 Phân thân chịu trách nhiệm đặt bom đang ẩn nấp ở phía đối diện gần Đông Môn cũng đã xác nhận việc kích nổ diễn ra vô cùng suôn sẻ.
 
@@ -53685,9 +53691,9 @@ Chiến dịch đã thành công mỹ mãn. Không sót một quả nào, toàn 
 
 “Này, Momokawa.”
 
-“Cậu Hayama, đừng nói gì cả.”
+“Hayama-kun, đừng nói gì cả.”
 
-“Buta...”
+“Nhưng...”
 
 “Tớ bảo là đừng nói mà.”
 
@@ -53695,11 +53701,11 @@ Chiến dịch đã thành công mỹ mãn. Không sót một quả nào, toàn 
 
 “Áaaaaaaa!!”
 
-Kyouko nói ra rồi. Cậu ấy đã nói ra cái điều tuyệt đối không được phép nói ra! Tôi sắp khóc đến nơi rồi đây này, khóc thật đấy, giờ tôi khóc được chưa hả?
+Kyouko nói ra rồi. Cậu ấy đã nói ra cái điều tuyệt đối không được phép nói ra! Tôi sắp khóc đến nơi rồi đây này, khóc thật đấy, giờ tôi khóc được chưa hả?!
 
-Thôi xong, phải làm sao bây giờ, thực sự chẳng có biến động gì xảy ra cả. Vụ nổ rõ ràng đã thành công. Những quả bom lõi chắc chắn đã kích nổ. Thế nhưng, mặt đất vẫn im lìm không một tiếng động.
+Thôi xong, phải làm sao bây giờ, thực sự chẳng có biến động gì xảy ra cả. Vụ nổ rõ ràng đã thành công. Những quả bom lõi chắc chắn đã phát nổ. Thế nhưng, mặt đất vẫn im lìm không một tiếng động.
 
-*Chẳng lẽ tính toán của tôi đã sai lầm? Sức công phá của thuốc nổ vẫn chưa đủ? Hay là ở đây còn tồn tại một cột trụ cốt lõi thực sự nâng đỡ cả vương quốc mà tôi chưa biết đến?*
+*Chẳng lẽ tính toán của mình đã sai lầm? Sức công phá của thuốc nổ vẫn chưa đủ? Hay là ở đây còn tồn tại một cột trụ cốt lõi thực sự nâng đỡ cả vương quốc mà mình chưa biết đến?*
 
 Dù nguyên nhân là gì đi nữa, thực tế trước mắt là vương quốc vẫn hoàn toàn bình an vô sự. Đúng là một trò hề mà.
 
@@ -53707,7 +53713,7 @@ Dù nguyên nhân là gì đi nữa, thực tế trước mắt là vương qu�
 
 “Nba, daava!?”
 
-Chứng kiến những tiếng nổ kinh hoàng cùng làn khói bụi cuồn cuộn bốc lên từ khắp nơi, lũ Gira-GoGame Mastera dẫn đầu là Zagan cũng không khỏi ngơ ngác nhìn quanh rồi bàn tán xôn xao.
+Chứng kiến những tiếng nổ kinh hoàng cùng làn khói bụi cuồn cuộn bốc lên từ khắp nơi, lũ Gira-Gogma dẫn đầu là Zagan cũng không khỏi ngơ ngác nhìn quanh rồi xôn xao bàn tán.
 
 Tuy nhiên, sau khi xác nhận rằng đó chỉ là những vụ nổ đơn thuần và không gây ra bất kỳ thiệt hại nào đáng kể, bọn chúng dường như đã nhanh chóng mất đi sự hứng thú.
 
@@ -53721,43 +53727,43 @@ Như để lấy lại tinh thần, Zagan một lần nữa cất tiếng gầm 
 
 “Thật đấy à Momokawa, ngay vào cái lúc nước sôi lửa bỏng này sao?!”
 
-“Này, giờ chúng ta phải làm sao đây hả cậu Momokawa!”
+“Này, giờ chúng ta phải làm sao đây hả Momokawa-kun?!”
 
 Ueta và Yoshizaki hét toáng lên, còn Himeno thì trông như sắp phát điên đến nơi.
 
-“Bình tĩnh lại đi lũ mày. Có làm ầm lên cũng chẳng giải quyết được gì đâu.”
+“Bình tĩnh lại đi tụi mày. Có làm ầm lên cũng chẳng giải quyết được gì đâu.”
 
 “Đ-Đúng thế đấy. Trước mắt chúng ta phải rút lui khỏi đây đã—”
 
 Yamada tuy vẫn giữ được sự bình tĩnh nhưng bầu không khí xung quanh cậu ta đã nhuốm màu bỏ cuộc.
 
-Cậu Nakajima cũng đang vô cùng lo lắng, nhưng lời đề xuất của cậu ta lại là phương án thực tế nhất vào lúc này. Nơi chúng tôi đang cố thủ là phía bên ngoài Đông Môn. Chỉ cần lùi lại phía sau, cả nhóm có thể dễ dàng chạy thoát và một lần nữa ẩn náu dưới đường hầm ngầm.
+Nakajima-kun cũng đang vô cùng lo lắng, nhưng lời đề xuất của cậu ta lại là phương án thực tế nhất vào lúc này. Nơi chúng tôi đang cố thủ là phía bên ngoài Đông Môn. Chỉ cần lùi lại phía sau, cả nhóm có thể dễ dàng chạy thoát và một lần nữa ẩn náu dưới đường hầm ngầm.
 
 “Đã đi đến tận nước này rồi mà chúng ta vẫn phải bỏ chạy sao...”
 
 “Biết làm sao được hả Hayama! Này Kotarou, cậu đừng bận tâm quá nhé, lần sau chúng ta lại cùng cố gắng tiếp, được chứ?”
 
-Lời an ủi dịu dàng của Kyouko lúc này ngược lại lại giống như một mũi kim sắc nhọn đâm thẳng vào lòng tự trọng của tôi.
+Lời an ủi dịu dàng của Kyouko lúc này lại như một mũi kim sắc nhọn đâm thẳng vào lòng tự trọng của tôi.
 
-Đúng là nếu lựa chọn rút lui lúc này, chúng tôi vẫn có thể bảo toàn được lực lượng để làm lại từ đầu. Chúng tôi chưa mất đi bất kỳ một người đồng đội nào, lại còn phóng hỏa gây ra thiệt hại không nhỏ cho vương quốc Goma, đồng thời kiểm chứng được năng lực của những tên Gira-GoGame Mastera khác.
+Đúng là nếu lựa chọn rút lui lúc này, chúng tôi vẫn có thể bảo toàn được lực lượng để làm lại từ đầu. Chúng tôi chưa mất đi một người đồng đội nào, lại còn phóng hỏa gây ra thiệt hại không nhỏ cho vương quốc Goma, đồng thời kiểm chứng được năng lực của những tên Gira-Gogma khác.
 
 Đó đều là những thành quả thực tế—thế nhưng, chẳng lẽ tôi lại phải bắt mọi người thực hiện một chiến dịch quy mô lớn như thế này thêm một lần nữa sao?
 
-Tôi đã dồn toàn bộ số nguyên liệu tích góp được vào canh bạc này. Quá trình chuẩn bị cũng đã tiêu tốn biết bao nhiêu thời gian và công sức.
+Tôi đã dồn toàn bộ số nguyên liệu tích góp được vào canh bạc này. Quá trình chuẩn bị cũng đã tiêu tốn biết bao thời gian và công sức.
 
-And trên hết, tôi đã bắt những người đồng đội của mình phải mạo hiểm mạng sống để tiến hành chiến dịch này đến tận bước cuối cùng. Chẳng lẽ tôi lại phải mở lời yêu cầu họ đánh cược tính mạng thêm một lần nữa sao?
+Và trên hết, tôi đã bắt những người đồng đội của mình phải mạo hiểm mạng sống để tiến hành chiến dịch đến tận bước cuối cùng. Chẳng lẽ tôi lại phải mở lời yêu cầu họ đánh cược tính mạng thêm một lần nữa sao?
 
 “Khốn kiếp... Sập đi chứ lị.”
 
-Tâm trạng bất mãn của cậu Hayama lúc này chính là thứ gần gũi với suy cách của tôi nhất.
+Tâm trạng bất mãn của Hayama-kun lúc này chính là thứ gần gũi với suy nghĩ của tôi nhất.
 
 Tôi cảm thấy vô cùng uất ức. Công sức và rủi ro mà chúng tôi đã bỏ ra cho chiến dịch này thậm chí còn vượt xa cả trận chiến thảo phạt Yamata no Orochi.
 
-Vậy mà, lại dễ dàng đầu hàng như thế này sao...
+Vậy mà lại dễ dàng đầu hàng như thế này sao...
 
 “Sập đi... Tao bảo sập đi cơ mà!”
 
-Ai mà thèm bỏ cuộc chứ, khốn kiếp! Hét lên một tiếng đầy giận dữ như đang trút giận, tôi vung cây trượng 『Vô Đạo Nhất Thức』 đập mạnh xuống đất.
+Ai mà thèm bỏ cuộc chứ, khốn kiếp! Hét lên một tiếng đầy giận dữ như để trút giận, tôi vung cây trượng 『Vô Đạo Nhất Thức』 đập mạnh xuống đất.
 
 Hộp sọ của Yokomichi nện một cú thật mạnh vào bức tường đá cứng ngắc—để lại cho bàn tay tôi một cảm giác tê rần đầy trống rỗng.
 
@@ -53779,7 +53785,7 @@ Nhìn về phía trước, Zagan khổng lồ hóa đang sải những bước c
 
 “Oài, rung thật rồi! Đất đang rung chuyển thật kìa?!”
 
-Ai nấy đều đồng tình với tiếng hét của cậu Hayama. Theo bản năng sinh tồn đã ăn sâu vào máu từ thế giới cũ, cả nhóm lập tức nằm rạp xuống đất để lánh nạn.
+Ai nấy đều đồng tình với tiếng hét của Hayama-kun. Theo bản năng sinh tồn đã ăn sâu vào máu từ thế giới cũ, cả nhóm lập tức nằm rạp xuống đất để lánh nạn.
 
 Cùng với những tiếng gầm rú dữ dội từ lòng đất, cả pháo đài bắt đầu chao đảo mạnh mẽ. Từ cấp độ 1, cơn địa chấn đã nhanh chóng leo thang lên cấp độ 3 hoặc 4, tạo ra những đợt rung lắc vô cùng dữ dội.
 
@@ -53787,7 +53793,7 @@ Cùng với những tiếng gầm rú dữ dội từ lòng đất, cả pháo �
 
 Dù đang nằm rạp dưới đất, tôi vẫn có thể khẳng định chắc chắn điều đó.
 
-Thành công rồi. Kế hoạch đặt bom đã thành công. Vương quốc Goma sẽ bị chôn vùi vào ngày hôm nay.
+Thành công rồi. Kế hoạch đặt bom đã thành công. Vương quốc Goma sẽ bị chôn vùi vào ngày hôm nay!
 
 “Thành công rồi! Áaaaaaaa!”
 
@@ -53799,11 +53805,11 @@ Như để hưởng ứng tiếng hét phấn khích của tôi, mặt đất c�
 
 “Daagobaa?!”
 
-Ngay cả Zagan cũng buộc phải dừng bước, gã khuỵu gối xuống đất và cất tiếng gầm rú kinh hoàng. Những tên Gira-GoGame Mastera khác cũng có phản ứng tương tự.
+Ngay cả Zagan cũng buộc phải dừng bước, gã khuỵu gối xuống đất và cất tiếng gầm rú kinh hoàng. Những tên Gira-Gogma khác cũng có phản ứng tương tự.
 
 Dù có sở hữu thân hình khổng lồ và sức mạnh vô song đến đâu, bọn chúng vẫn hoàn toàn bất lực trước sự giận dữ của đất mẹ. Nhìn những tấm thân hộ pháp kiêu ngạo kia giờ đây đang co rúm lại vì sợ hãi trông thật nực cười làm sao. Gì thế hả lũ kia, đây là lần đầu tiên các ngươi nếm mùi động đất à? Cái phản ứng hoảng loạn tột độ của bọn chúng trông chẳng khác nào mấy người nước ngoài lần đầu tiên trải nghiệm động đất ở Nhật Bản vậy.
 
-Thế nhưng, đây tuyệt đối không phải là cơn thịnh nộ của thần linh, cũng chẳng phải là sự uy nghiêm của tự nhiên. Đây không phải thiên tai, mà là nhân tai. Chính tay tôi đã tạo ra nó, với mục đích kéo bằng sạch lũ các ngươi xuống vực sâu không sót một mống.
+Thế nhưng, đây tuyệt đối không phải là cơn thịnh nộ của thần linh, cũng chẳng phải là sự uy nghiêm của tự nhiên. Đây không phải thiên tai, mà là nhân tai. Chính tay tôi đã tạo ra nó, với mục đích kéo bằng sạch lũ các ngươi xuống vực sâu không sót một mống!
 
 “Nào, sập xuống đi.”
 
@@ -53839,13 +53845,13 @@ Một khi một góc đã sụp đổ, nó lập tức tạo ra một phản ứ
 
 Những đợt rung chấn kinh hoàng liên tục ập đến khiến lũ Goma thậm chí còn chẳng thể đứng vững để mà chạy trốn. Dù vậy, bọn chúng vẫn cố gắng bò trườn một cách thảm hại trên mặt đất để tìm kiếm con đường sống.
 
-Nhưng các ngươi định chạy đi đâu được chứ? Trên mảnh đất đang đi vào cõi diệt vong này, không một kẻ nào có thể trốn thoát được cả. Bởi lẽ, tất cả mọi thứ đều sẽ sụp đổ mà thôi.
+Nhưng các ngươi định chạy đi đâu được chứ? Trên mảnh đất đang đi vào cõi diệt vong này, không một kẻ nào có thể trốn thoát được cả. Bởi lẽ, tất cả mọi thứ đều sẽ sụp đổ mà thôi!
 
 “Ha ha ha ha! Nhìn kìa! Lũ Goma trông chẳng khác nào đống rác rưởi cả!”
 
 Mặt đất sụp đổ ở khắp mọi nơi, kéo theo hàng loạt tiếng la hét thảm thiết của lũ Goma khi bị vực sâu nuốt chửng. Ngay cả tên Zagan kiêu ngạo kia lúc này cũng phải trợn tròn mắt, bất lực nhìn xuống đáy vực sâu thẳm đầy tuyệt vọng.
 
-Đúng vậy, chiến dịch 『Vương Quốc Sụp Đổ』 không đơn thuần chỉ là để hủy diệt vương quốc Goma. Nó còn là một cái hố bẫy khổng lồ chống khổng lồ được thiết kế để tóm gọn toàn bộ lũ Gira-GoGame Mastera các ngươi cùng một lúc.
+Đúng vậy, chiến dịch 『Vương Quốc Sụp Đổ』 không đơn thuần chỉ là để hủy diệt vương quốc Goma. Nó còn là một cái hố bẫy khổng lồ chống khổng lồ được thiết kế để tóm gọn toàn bộ lũ Gira-Gogma các ngươi cùng một lúc.
 
 Theo cấu trúc địa hình, chỉ có khu vực xung quanh Tháp Trung Tâm trong phạm vi vài trăm mét vuông là không bị ảnh hưởng bởi vụ sụp đổ. Tức là chỉ còn lại khu vực pháo đài trung tâm mà thôi.
 
@@ -53853,13 +53859,13 @@ Oh-ma gần như sẽ không bao giờ bước chân ra khỏi pháo đài. Th�
 
 Nếu gã cứ tiếp tục túc trực bên cạnh để bảo vệ Oh-ma tại quảng trường ma pháp trận, thì chỉ có mình gã là thoát được kiếp nạn này. Thú thật, tôi từng nghĩ kế hoạch này sẽ thất bại, nhưng có vẻ như mối thù hận thấu xương tủy dành cho chúng tôi đã thôi thúc gã đích thân dẫn quân đến đây làm viện binh.
 
-Cả bốn tên Gira-GoGame Mastera còn lại giờ đây đã tập hợp đông đủ. Một khi đã bước chân ra khỏi phạm vi an toàn của pháo đài, tất cả bọn chúng đều chỉ là những con mồi đã sập bẫy mà thôi.
+Cả bốn tên Gira-Gogma còn lại giờ đây đã tập hợp đông đủ. Một khi đã bước chân ra khỏi phạm vi an toàn của pháo đài, tất cả bọn chúng đều chỉ là những con mồi đã sập bẫy mà thôi.
 
 “Guba, dobbaaaaa!”
 
 “B-Bandon?!”
 
-Ồ, kẻ đầu tiên bị loại khỏi cuộc chơi chính là cậu Bandon, kẻ sở hữu bộ giáp hạng nặng kiên cố nhất.
+Ồ, kẻ đầu tiên bị loại khỏi cuộc chơi chính là tên Bandon, kẻ sở hữu bộ giáp hạng nặng kiên cố nhất.
 
 Nhờ có chiếc mai lớn trên lưng, khi bò bằng bốn chân trông Bandon chẳng khác nào một con rùa khổng lồ. Gã chỉ biết tuyệt vọng nhìn mặt đất xung quanh mình sụp đổ xuống, nhưng chẳng thể làm được gì ngoài việc rơi thẳng xuống đáy hố sâu tối tăm.
 
@@ -53879,7 +53885,7 @@ Thay vì học cách bắn cầu lửa hay phun lửa xanh, đáng lẽ ra gã n
 
 “Gububu... Zaba! Gudobaruda, Zagan!”
 
-Nào, cuộc đua rơi tự do của lũ Gira-GoGame Mastera giờ chỉ còn lại hai kẻ. Tôi đang thích thú quan sát xem kẻ nào sẽ là người trụ lại cuối cùng như đang xem một chương trình giải trí, thì Jiji-Gogo bất ngờ hét lên với Zagan. Tôi cứ ngỡ gã đang cầu cứu thủ lĩnh của mình trong vô vọng, thế nhưng ánh mắt của lão Goma già nua kia lại đang rực cháy một chiến ý vô cùng kiên định.
+Nào, cuộc đua rơi tự do của lũ Gira-Gogma giờ chỉ còn lại hai kẻ. Tôi đang thích thú quan sát xem kẻ nào sẽ là người trụ lại cuối cùng như đang xem một chương trình giải trí, thì Jiji-Gogo bất ngờ hét lên với Zagan. Tôi cứ ngỡ gã đang cầu cứu thủ lĩnh của mình trong vô vọng, thế nhưng ánh mắt của lão Goma già nua kia lại đang rực cháy một chiến ý vô cùng kiên định.
 
 “Goo! Zagan!”
 
@@ -53929,7 +53935,7 @@ Nhưng nguy rồi, với tốc độ kinh hoàng đó, Kyouko chắc chắn khô
 
 Thế nhưng, khối thịt dị dạng vừa lao xuống định bao phủ lấy gã từ trên cao đã bị Zagan đấm bay bằng một cú đấm móc ngược vô cùng chuẩn xác và uy lực.
 
-Thật sao, khốn kiếp, uy lực gì thế này. Đúng hơn là khả năng ứng biến của gã quá đáng sợ. Sức mạnh, tốc độ và khả năng đánh bật đòn tấn công đó của gã khiến tôi không khỏi liên tưởng đến Mei. Kiểu đối thủ sở hữu sức mạnh trực diện thô bạo mà tôi không muốn đối đầu nhất.
+Thật sao, khốn kiếp, uy lực gì thế này. Đúng hơn là khả năng ứng biến của gã quá đáng sợ. Sức mạnh, tốc độ và khả năng đánh bật đòn tấn công đó của gã khiến tôi không khỏi liên tưởng đến Mei-chan. Kiểu đối thủ sở hữu sức mạnh trực diện thô bạo mà tôi không muốn đối đầu nhất.
 
 “Woogaaaaa!”
 
@@ -53947,7 +53953,7 @@ Vào đúng thời khắc sinh tử đó, Jiji-Gogo đã chuẩn bị sẵn mộ
 
 Việc tôi khinh suất cho rằng giữa bọn chúng không thể tồn tại những chiến thuật phối hợp như vậy chính là sai lầm lớn nhất.
 
-Chỉ vì một chút sơ hở đó, tên Gira-GoGame Mastera mạnh nhất và đáng sợ nhất cuối cùng đã vượt qua bức tường để xuất hiện ngay trước mắt chúng tôi.
+Chỉ vì một chút sơ hở đó, tên Gira-Gogma mạnh nhất và đáng sợ nhất cuối cùng đã vượt qua bức tường để xuất hiện ngay trước mắt chúng tôi.
 
 Tận dụng cây rìu làm điểm tựa để thực hiện cú nhảy tiếp theo, Zagan đã vượt qua bức tường đá. Gã vung nắm đấm khổng lồ đủ sức nghiền nát tất cả chúng tôi cùng một lúc.
 
@@ -53957,7 +53963,7 @@ Hỏng rồi, cả phản công lẫn phòng ngự đều không còn kịp nữ
 
 “Pungaaaaaaaaaaaaaaaaaaaa!”
 
-Tiếng hét của cậu Hayama cùng tiếng gầm rú của Kinako vang dội thấu tận trời xanh.
+Tiếng hét của Hayama-kun cùng tiếng gầm rú của Kinako vang dội thấu tận trời xanh.
 
 Ngay sau đó, kèm theo một luồng gió rít gầm rú kinh người, một cánh tay thú khổng lồ lướt qua ngay phía trên đầu tôi.
 
@@ -53981,77 +53987,77 @@ Chỉ cần chậm trễ thêm một nhịp, hay đúng hơn là một phần m�
                 "title": "Tập 316: Sự tàn lụi của Vương quốc (1)",
                 "content": `# Tập 316: Sự tàn lụi của Vương quốc (1)
 
-Cuối cùng thì vương quốc cũng đã sụp đổ. Tiện thể, chúng tôi cũng đã hạ gục được cả Zagan.
+Cuối cùng thì vương quốc cũng đã sụp đổ. Tiện thể, chúng tôi cũng đã giải quyết xong cả Zagan.
 
-Trước sự thành công vang dội của chiến dịch, cả nhóm chúng tôi vỡ òa trong niềm vui sướng. Bầu không khí phấn khích đến mức tôi còn bị mọi người tung hứng lên trời, và trong lúc chúng tôi đang hò hét ăn mừng thì những dư chấn cuối cùng cũng dần lắng xuống.
+Trước thành công vang dội của chiến dịch, cả nhóm chúng tôi vỡ òa trong niềm vui sướng tột cùng. Bầu không khí phấn khích đến mức tôi còn bị mọi người đồng thanh tung hứng lên trời. Và rồi, giữa những tiếng hò reo ăn mừng của chúng tôi, các dư chấn cuối cùng cũng dần lắng xuống.
 
-Những rung chấn dữ dội và tiếng gầm rú đinh tai nhức óc đã qua đi, giờ đây chỉ còn lại tiếng sụp đổ loảng xoảng của vài mảnh vụn đất đá thỉnh thoảng vang lên cô độc.
+Những rung chấn dữ dội cùng tiếng gầm rú đinh tai nhức óc đã đi qua, giờ đây không gian chỉ còn lại tiếng lạo xạo của vài mảnh vụn đất đá thỉnh thoảng đổ sụp một cách đơn độc.
 
 “Chà, thật sự cảm ơn cậu nhiều lắm, Hayama-kun.”
 
 Tôi một lần nữa bày tỏ lòng biết ơn chân thành của mình.
 
-Quả không hổ danh là vũ khí tối thượng của chúng tôi. Hayama, người đã tung ra quân bài tẩy mang tên Linh thú vào thời khắc quyết định, hoàn toàn xứng đáng với danh hiệu MVP của chiến dịch lần này.
+Quả không hổ danh là át chủ bài của cả đội. Hayama-kun, người đã tung ra quân bài tẩy mang tên Linh thú vào đúng thời khắc sinh tử, hoàn toàn xứng đáng với danh hiệu MVP của chiến dịch lần này.
 
-“Lúc đó tớ cũng hú vía đấy chứ. Nếu Kinako không gầm lên thì tớ cũng chẳng thể cử động nổi rồi.”
+“Lúc đó tớ cũng hú vía đấy chứ. Nếu Kinako không gầm lên đánh thức thì tớ cũng chẳng thể cử động nổi rồi.”
 
 “Vậy à, cảm ơn cả Kinako nữa nhé.”
 
 “Pư-gừ-gừ, pư-gà!”
 
-Sau khi đấm bay tên Zagan đang lao vào liều chết, Kinako lập tức trở lại hình dáng ban đầu. Để tỏ lòng kính trọng, tôi lao đến ôm chầm lấy và nũng nịu xoa xoa lớp lông xù của nó. Ơ, nhưng mà hình như nó đang tỏ vẻ hơi khó chịu thì phải?
+Sau khi đấm bay tên Zagan đang lao vào liều chết, Kinako lập tức thu nhỏ trở lại hình dáng ban đầu. Để bày tỏ lòng cảm kích, tôi nhào đến ôm chầm lấy và nũng nịu vùi mặt xoa xoa lớp lông xù của nó. Ơ, nhưng mà hình như nhóc này đang tỏ vẻ hơi khó chịu thì phải?
 
-Dù sao đi nữa, nhờ có Hayama và Kinako mà chúng tôi đã giành được thắng lợi giòn giã.
+Dù sao đi nữa, nhờ có Hayama-kun và Kinako mà chúng tôi đã giành được một thắng lợi giòn giã.
 
-Giờ đây, toàn bộ mặt đất đã sụt lún hoàn toàn, chỉ còn lại Tháp Trung Tâm và khu vực lân cận trơ trọi giữa một cái hố khổng lồ hình bánh donut. Toàn bộ lãnh thổ của vương quốc từ đông tây nam bắc, tất cả các khu vực theo đúng nghĩa đen đã đổ sụp xuống tận cùng của vực thẳm.
+Giờ đây, toàn bộ mặt đất xung quanh đã sụt lún hoàn toàn, chỉ còn lại Tháp Trung Tâm và vùng đất lân cận trơ trọi giữa một cái hố khổng lồ hình chiếc bánh donut. Toàn bộ lãnh thổ của vương quốc trải dài khắp bốn phương đông tây nam bắc, tất cả các khu vực theo đúng nghĩa đen đều đã đổ sụp xuống tận cùng của vực thẳm.
 
-Một cảnh tượng thực sự ngoạn mục. Ngay cả bản thân tôi cũng phải tự cảm thán rằng không ngờ mình lại có thể làm đến mức này. Quả nhiên giữa việc tưởng tượng và thực tế xảy ra luôn có một khoảng cách một trời một vực.
+Một cảnh tượng thực sự ngoạn mục. Ngay cả bản thân tôi cũng phải tự cảm thán rằng không ngờ mình lại có thể làm đến mức này. Quả nhiên giữa việc mường tượng trong đầu và thực tế diễn ra luôn có một khoảng cách một trời một vực.
 
-“Mọi người, vất vả rồi. Dù trận chiến vẫn chưa hoàn toàn kết thúc, nhưng chúng ta đã vượt qua được cửa ải gian nan nhất một cách an toàn.”
+“Mọi người, vất vả rồi. Dù trận chiến vẫn chưa hoàn toàn kết thúc, nhưng chúng ta đã vượt qua được ải gian nan nhất một cách an toàn.”
 
 “Phải đấy, chúng ta làm được rồi!”
 
-“Tiếc là tớ không được tự tay kết liễu Zagan.”
+“Chỉ tiếc là tớ không được tự tay kết liễu tên Zagan đó.”
 
-Dù cả nhóm đang chìm đắm trong bầu không khí chiến thắng, nhưng với một chiến quả to lớn thế này, cứ việc thành thật vui mừng đi đã.
+Dù cả nhóm đang chìm đắm trong men say chiến thắng, nhưng với một chiến quả to lớn dường này, cứ việc thành thật mà vui mừng đi đã.
 
-“Như mọi người thấy đấy, Vương quốc Goma đã chìm xuống đáy đất. Tuy nhiên, một phần của pháo đài và vương cung vẫn còn nguyên vẹn. Oh-ma vẫn còn sống, và lực lượng bảo vệ hắn vẫn còn lại kha khá.”
+“Như mọi người thấy đấy, Vương quốc Goma đã chìm xuống đáy đất. Tuy nhiên, một phần của pháo đài và vương cung vẫn còn nguyên vẹn. Oh-ma vẫn còn sống, và lực lượng cận vệ của hắn vẫn còn lại kha khá.”
 
-Nếu cứ thế này mà hăm hở lao vào tấn công thì sự chênh lệch lực lượng vẫn còn chút đáng ngại.
+Nếu cứ thế này mà hăm hở lao vào tấn công ngay thì sự chênh lệch quân số vẫn là điều đáng ngại.
 
-Tôi nghĩ đối phương cũng đã phải chịu tổn thất nặng nề ngoài sức tưởng tượng, đến mức không còn nhuệ khí để chiến đấu tử tế nữa. Thế nhưng nếu là Oh-ma, hắn vẫn có khả năng tập hợp tàn quân để thiết lập nên phòng tuyến cuối cùng.
+Tôi đoán đối phương cũng đã phải chịu tổn thất nặng nề ngoài sức tưởng tượng, đến mức chẳng còn nhuệ khí để chiến đấu đàng hoàng nữa. Thế nhưng nếu là Oh-ma, hắn vẫn hoàn toàn có khả năng tập hợp tàn quân để thiết lập nên một tuyến phòng thủ cuối cùng.
 
 “Vì vậy, đến giờ nghỉ trưa rồi!”
 
-Nhìn vào đồng hồ đeo tay, kim giờ đã chỉ qua mốc 12 giờ. Đây là thời điểm hoàn hảo cho một bữa trưa. Chúng tôi đã xuất phát từ sáng sớm, bụng ai nấy chắc cũng đã đói meo rồi.
+Nhìn vào đồng hồ đeo tay, kim giờ đã nhích qua mốc 12 giờ. Đây là thời điểm hoàn hảo cho một bữa trưa. Chúng tôi đã xuất phát từ sáng sớm, bụng ai nấy chắc cũng đã bắt đầu réo ầm ĩ rồi.
 
 “Nghỉ trưa sao. Cậu vẫn cứ thong dong như mọi khi nhỉ, Momokawa.”
 
-Yamada nhìn tôi với vẻ mặt cạn lời. Nhưng việc cần phải bổ sung nhu yếu phẩm cũng là sự thật.
+Yamada nhìn tôi với vẻ mặt cạn lời. Nhưng việc phải bổ sung thể lực và nhu yếu phẩm là sự thật hiển nhiên.
 
-“Có sao đâu chứ, dù thế nào thì chúng ta cũng phải tiếp tế mà.”
+“Có sao đâu chứ, đằng nào thì chúng ta cũng phải tiếp tế mà.”
 
 “Trước tiên, chúng ta sẽ di chuyển về phía Nam Đại Môn.”
 
 Nhìn qua là hiểu, con đường dẫn đến Tháp Trung Tâm giờ chỉ còn lại lối đó và Bắc Môn ở phía đối diện.
 
-Xét theo cấu trúc của phần trần nhà bị sập, có những cây cột trụ khổng lồ đến mức không thể phá hủy chạy dọc từ nam chí bắc. Do đó, ngay cả khi mọi thứ xung quanh đã sụp đổ, chỉ riêng những cây cột trụ này vẫn đứng vững, kéo theo cả đại lộ nằm ngay phía trên chúng cũng được bảo toàn.
+Xét theo kết cấu của phần trần nhà bị sập, có những cây cột trụ khổng lồ đến mức không thể phá hủy chạy dọc từ nam chí bắc. Do đó, ngay cả khi mọi thứ xung quanh đã tan tành, chỉ riêng những cây cột trụ này vẫn đứng vững, kéo theo cả đại lộ nằm ngay phía trên chúng cũng được bảo toàn.
 
-Trông nó chẳng khác nào một cây cầu khổng lồ được bắc qua vực thẳm. Chúng tôi sẽ băng qua đây để tiến đánh vương cung.
+Trông nó chẳng khác nào một cây cầu khổng lồ được bắc ngang qua vực thẳm. Chúng tôi sẽ băng qua đây để tiến đánh vương cung.
 
-Nếu chẳng may những cây cột này cũng sập nốt thì có lẽ tôi đã phải vắt óc nghĩ cách bay qua đó rồi... Thật nhẹ nhõm vì không phải thử thách bản thân với việc chế tạo khinh khí cầu hay tàu bay.
+Nếu chẳng may những cây cột này cũng sập nốt thì có lẽ tôi đã phải vắt óc nghĩ cách bay qua đó rồi... Thật nhẹ nhõm vì không phải thử thách bản thân với việc chế tạo khinh khí cầu hay tàu lượn.
 
-“Tớ đã chuẩn bị sẵn thức ăn và nhu yếu phẩm ở khu vực ngầm gần nhất. Dù chúng ta không thể nghỉ ngơi quá lâu.”
+“Tớ đã chuẩn bị sẵn lương thực và nhu yếu phẩm ở khu vực ngầm gần nhất rồi. Dù vậy, chúng ta cũng không thể nghỉ ngơi quá lâu đâu.”
 
-Càng kéo dài thời gian, Oh-ma càng có thêm thời gian để chuẩn bị thế trận nghênh chiến. Chúng tôi dự định sẽ ra tay ngay khi mọi thứ đã sẵn sàng cho cuộc tấn công vương cung cuối cùng.
+Càng kéo dài thời gian, Oh-ma càng có thêm cơ hội để chuẩn bị thế trận nghênh chiến. Chúng tôi dự định sẽ ra tay ngay khi mọi thứ đã sẵn sàng cho đợt tổng tấn công vương cung.
 
-Vì vậy, tất cả nhu yếu phẩm đều là những thứ đã được chuẩn bị từ trước. Thật may là chúng không bị lãng phí.
+Vì vậy, tất cả nhu yếu phẩm đều là những thứ đã được dự trữ từ trước. Thật may là công sức chuẩn bị đã không uổng phí.
 
 Tuy nhiên, sự chuẩn bị quan trọng nhất thực chất đã được hoàn tất từ trước đó rồi.
 
 “Sau khi no bụng, chúng ta sẽ đi kết liễu vương quốc này một lần và mãi mãi.”
 
-*Không biết một vị vua khi nhìn vương quốc của mình sụp đổ sẽ có cảm giác thế nào nhỉ. Oh-ma, ta rất mong chờ được nhìn thấy bộ mặt của ngươi đấy.*
+*Không biết một vị vua khi tận mắt chứng kiến vương quốc của mình sụp đổ sẽ có cảm giác thế nào nhỉ. Oh-ma, ta đang rất mong chờ được nhìn thấy bộ mặt của ngươi đấy.*
 
 ***
 
@@ -54059,73 +54065,73 @@ Tuy nhiên, sự chuẩn bị quan trọng nhất thực chất đã được ho
 
 Oh-ma không thể tin vào cảnh tượng đang diễn ra trước mắt.
 
-Không, hắn hoàn toàn không muốn tin vào một cảnh tượng như vậy. Ngay cả trong một cơn ác mộng, nó cũng nên dịu dàng hơn thế này chứ.
+Không, hắn hoàn toàn không muốn tin vào một cảnh tượng như vậy. Ngay cả trong một cơn ác mộng tồi tệ nhất, thực tại cũng không nên nghiệt ngã đến nhường này.
 
-Không thể nào. Chuyện này không được phép xảy ra. Vương quốc này làm sao có thể chìm xuống đất và diệt vong như thế được.
+Không thể nào. Chuyện này tuyệt đối không được phép xảy ra. Vương quốc này làm sao có thể chìm xuống đáy đất và diệt vong một cách vô lý như thế được!
 
-“Vô lý, vương quốc... vương quốc mà ta đã dày công gầy dựng...”
+“Vô lý, vương quốc... vương quốc mà ta đã dày công gầy dựng bấy lâu nay...”
 
 Quảng trường ma pháp trận này nằm ngay trước vương cung. Vì tọa lạc ở vị trí cao hơn hẳn so với xung quanh, nên từ đây có thể thu trọn vào tầm mắt toàn cảnh đô thị trải dài về phía nam.
 
-Nơi đây vốn là một danh lam thắng cảnh tuyệt mỹ, nơi người ta có thể cùng lúc nhìn thấy những con phố nhộn nhịp bóng dáng người dân và pháo đài nơi các binh sĩ dũng cảm đang trấn giữ. Nhưng giờ đây, nó chỉ còn là một bức tranh thiên tai tàn khốc, nơi mọi thứ lần lượt bị nuốt chửng bởi những vết nứt địa chấn đang không ngừng lan rộng.
+Nơi đây vốn là một danh lam tuyệt mỹ, nơi người ta có thể cùng lúc ngắm nhìn những con phố nhộn nhịp bóng dáng muôn dân và pháo đài kiên cố nơi các chiến sĩ dũng cảm đang ngày đêm trấn giữ. Nhưng giờ đây, nó chỉ còn là một bức tranh thảm họa tàn khốc, nơi mọi thứ lần lượt bị nuốt chửng bởi những vết nứt địa chấn đang không ngừng toác rộng.
 
-Hơn thế nữa, từ nhãn quan của những sứ ma do chính Oh-ma thả ra, những cảnh tượng tương tự cũng liên tục truyền về.
+Hơn thế nữa, từ nhãn quan của những sứ ma do chính Oh-ma phóng thích, những cảnh tượng tương tự cũng liên tục truyền về trong tâm trí.
 
-Không chỉ có phía nam trước mắt. Cả phía bắc đối diện, phía tây lẫn phía đông, toàn bộ vương quốc đều đang phải hứng chịu thảm họa kinh hoàng này.
+Không chỉ có phía nam trước mắt. Cả phía bắc đối diện, phía tây lẫn phía đông, toàn bộ lãnh thổ vương quốc đều đang phải hứng chịu thảm họa kinh hoàng này.
 
 “Aaa... Thần linh ơi, Ngài đã ruồng bỏ ta rồi sao...?”
 
-Trước thảm họa vượt ngoài tầm hiểu biết của nhân loại, Oh-ma vô thức quỳ sụp gối xuống, hoàn toàn bị đánh gục bởi sự tuyệt vọng. Đúng như những gì vừa thốt ra, hắn cảm thấy mình thực sự đã bị thần linh bỏ rơi.
+Trước tai ương vượt ngoài tầm hiểu biết của muôn loài, Oh-ma vô thức quỳ sụp gối xuống, hoàn toàn bị đánh gục bởi sự tuyệt vọng. Đúng như những gì vừa thốt ra, hắn cảm thấy mình thực sự đã bị thần linh vứt bỏ.
 
-Dù Oh-ma có vĩ đại đến đâu, nếu đã bị thần linh ruồng bỏ thì hắn cũng đành phải từ bỏ tất cả. Tộc Goma được sinh ra nhờ sự bảo hộ của thần linh và được hứa hẹn một tương lai phồn vinh. Hắn trị vì với tư cách là Vua của Goma, nhưng đó cũng là vận mệnh do thần linh định đoạt.
+Dù Oh-ma có vĩ đại đến đâu, nếu đã bị thần linh ruồng bỏ thì hắn cũng đành phải chấp nhận buông xuôi. Tộc Goma được sinh ra nhờ sự bảo hộ của thần linh và được hứa hẹn một tương lai phồn vinh rực rỡ. Hắn trị vì với tư cách là Vua của Goma, nhưng đó cũng là thiên mệnh do thần linh định đoạt.
 
-Vì vậy, nếu thần linh đã định sẵn vương quốc phải diệt vong tại đây, hắn cũng sẽ chấp nhận—thế nhưng, kẻ đã phủ nhận điều đó không phải là một lời sấm truyền thiêng liêng, mà lại là một thực thể khác, không ai khác ngoài một tên con người.
+Vì vậy, nếu thần linh đã định sẵn vương quốc phải diệt vong tại đây, hắn cũng sẽ cúi đầu chấp nhận—thế nhưng, kẻ phủ nhận điều đó không phải là một lời sấm truyền thiêng liêng, mà lại là một thực thể khác. Không ai khác ngoài một tên con người.
 
-Trong số vô vàn thông tin hình ảnh truyền về từ các sứ ma, một trong số đó đã ghi lại được bóng dáng của một tên con người đang đóng chốt tại pháo đài được dựng lên ở Đông Môn.
+Trong số vô vàn thông tin hình ảnh truyền về từ các sứ ma, một con trong số đó đã ghi lại được bóng dáng của một tên con người đang đóng chốt tại pháo đài được dựng lên ở Đông Môn.
 
-Tên con người đó đang nhìn thẳng vào mắt của sứ ma. Hắn biết Oh-ma đang quan sát mình.
+Tên con người đó đang nhìn thẳng vào mắt của sứ ma. Hắn biết rõ Oh-ma đang quan sát mình.
 
 Phản chiếu trong nhãn cầu khổng lồ của sứ ma là một tên con người trông nhỏ thó như một đứa trẻ, hắn đang méo mó nhăn mặt cười một cách vô cùng tà ác rồi mở miệng.
 
-“Yêêê, Mi-giê-ba, Ô-maaa! (Hú hu, Oh-ma đang xem đấy àー!)”
+“Yêêê, Mi-giê-ba, Oh-maaa! (Hú hu, Oh-ma đang xem đấy àー!)”
 
-Hắn đang cười. Gương mặt xấu xí của lũ con người đáng lẽ ra không thể phân biệt rõ biểu cảm, nhưng Oh-ma vẫn có thể cảm nhận một cách trực quan rằng kẻ đó đang cười, đang chế giễu hắn, vị Vua Goma vĩ đại.
+Hắn đang cười. Gương mặt xấu xí của lũ con người đáng lẽ ra không thể phân biệt rõ biểu cảm, nhưng Oh-ma vẫn có thể cảm nhận một cách trực quan đến rợn người rằng kẻ đó đang cười, đang chế giễu hắn—vị Vua Goma vĩ đại.
 
-Đồng thời, hắn cũng nhận ra. Trí óc của Oh-ma, vốn đã ngưng trệ trước cảnh tượng tuyệt vọng đến khó tin kia, bắt đầu hoạt động trở lại.
+Đồng thời, hắn cũng bừng tỉnh. Trí óc của Oh-ma, vốn đã ngưng trệ trước cảnh tượng tuyệt vọng đến khó tin kia, bắt đầu hoạt động trở lại.
 
-Vụ nổ ở rìa ngoài vương quốc ngay trước khi cuộc đại sụp đổ này diễn ra. Vì tất cả đều nằm sát tường thành và không có bất kỳ công trình quan trọng nào ở đó, nên sau khi xác nhận thiệt hại chỉ ở mức nhẹ, hắn đã nghĩ rằng đó không phải là điều đáng bận tâm.
+Vụ nổ ở rìa ngoài vương quốc ngay trước khi cuộc đại sụp đổ này diễn ra. Vì tất cả đều nằm sát bờ tường thành và không có bất kỳ công trình trọng yếu nào ở đó, nên sau khi xác nhận thiệt hại chỉ ở mức nhẹ, hắn đã cho rằng đó không phải là điều đáng bận tâm.
 
-Thế nhưng ngay sau đó, những rung chấn đã tấn công vương quốc, nhanh chóng biến thành một trận đại địa chấn. Cùng với tiếng gầm rú và tiếng động đất kinh hoàng, mặt đất nứt toác và mọi thứ bắt đầu sụp đổ.
+Thế nhưng ngay sau đó, những rung chấn dữ dội đã tấn công vương quốc, nhanh chóng biến thành một trận đại địa chấn hủy diệt. Cùng với tiếng gầm rú và tiếng sụp đổ kinh hoàng, mặt đất nứt toác và mọi thứ bắt đầu đổ sụp xuống vực sâu.
 
-Đây không đơn thuần là một thảm họa tự nhiên đầy bi kịch.
+Đây không đơn thuần là một thảm họa tự nhiên bi kịch.
 
-Là con người. Chắc chắn là do lũ con người gây ra. Oh-ma quả quyết như vậy.
+Là con người. Chắc chắn là do lũ con người gây ra! Oh-ma quả quyết như vậy.
 
 “Tên con người đó đã biết trước sao... rằng ngay dưới vương quốc này là một cái hố khổng lồ!”
 
 Mặt đất đang sụp đổ không chỉ có đất đá. Có thể thấy một lượng lớn các cột kim loại và mảnh vỡ cấu trúc của khu di tích cổ đại này.
 
-Trước đây, chưa từng có ai bận tâm đến những gì nằm dưới mặt đất này. Bởi vì tất cả mọi người, và cả chính hắn, đều tin tưởng tuyệt đối rằng mặt đất là một thực thể vĩnh cửu luôn nâng đỡ tộc Goma.
+Trước đây, chưa từng có một ai bận tâm đến những gì nằm bên dưới mặt đất. Bởi vì tất cả mọi người, và cả chính hắn, đều tin tưởng tuyệt đối rằng mặt đất là một thực thể vĩnh cửu luôn nâng đỡ tộc Goma.
 
-Nhưng tên con người đó thì biết. Hắn biết rằng dưới vương quốc là một vực thẳm sâu hoắm, và tộc Goma đã tận hưởng sự phồn vinh suốt hàng trăm năm qua mà không hề hay biết điều đó.
+Nhưng tên con người đó thì biết. Hắn biết rằng bên dưới vương quốc là một vực thẳm sâu hoắm, và tộc Goma đã an nhiên tận hưởng sự phồn vinh suốt hàng trăm năm qua mà không hề hay biết về sự thật ấy.
 
-Chính vì vậy hắn mới đánh sập nó. Để quét sạch đại quân Goma mà một nhóm nhỏ con người không cách nào địch nổi chỉ trong một nốt nhạc. Không, là để hủy diệt chính vương quốc này.
+Chính vì vậy hắn mới đánh sập nó. Để quét sạch đại quân Goma mà một nhóm nhỏ con người không cách nào địch nổi chỉ trong chớp mắt. Không, là để hủy diệt chính vương quốc này!
 
-Vụ nổ đó là để phá hủy cấu trúc nâng đỡ vương quốc của khu di tích cổ đại. Chắc chắn chúng đã nhắm vào những vị trí như cột trụ chống đỡ.
+Vụ nổ đó là nhằm phá hủy cấu trúc nâng đỡ vương quốc của khu di tích cổ đại. Chắc chắn chúng đã nhắm chính xác vào những vị trí cột trụ chịu lực then chốt.
 
-Và chính vì biết vương quốc sẽ chìm xuống đáy đất nên chúng mới vội vàng dựng pháo đài ở Đông Môn để đóng chốt. Một vị trí vừa vặn thoát khỏi tầm ảnh hưởng của vụ sụp đổ. Và để chứng kiến vương quốc sụp đổ ở cự ly gần.
+Và chính vì biết rõ vương quốc sẽ chìm xuống đáy đất nên chúng mới vội vàng dựng pháo đài ở Đông Môn để cố thủ. Một vị trí vừa vặn thoát khỏi tầm ảnh hưởng của vụ sụp đổ, và là nơi hoàn hảo để tận mắt chứng kiến vương quốc sụp đổ ở cự ly gần.
 
 “T-Tên khốn...”
 
-Giờ đây có nhận ra thì cũng đã quá muộn.
+Giờ đây có nhận ra thì mọi chuyện cũng đã quá muộn màng.
 
-Cảm giác tuyệt vọng đến mức đầu óc trống rỗng dần bị lấp đầy bởi một cơn thịnh nộ đỏ rực đang cuồn cuộn dâng trào.
+Cảm giác tuyệt vọng đến mức đầu óc trống rỗng dần bị thiêu đốt bởi một cơn thịnh nộ đỏ rực đang cuồn cuộn dâng trào.
 
 “Tên khốn... Tên khốn... Tên khốn kiếp...”
 
-Đây không phải là vì họ đã chọc giận thần linh.
+Đây không phải là vì họ đã cả gan chọc giận thần linh.
 
-Đây chỉ đơn thuần là một hành vi tàn bạo, độc ác được gây ra bởi ác ý của con người.
+Đây chỉ đơn thuần là một hành vi tàn bạo, độc ác xuất phát từ ác ý tột cùng của loài người!
 
 “TÊNNNN KHỐNNNNN KIẾPPP! LŨ CON NGƯỜI CHÚNG MÀYYYYYY!”
 
@@ -54133,177 +54139,177 @@ Oh-ma nổi trận lôi đình.
 
 Hắn gào thét điên cuồng trong cơn giận dữ tột độ.
 
-Cơn thịnh nộ này hoàn toàn không thể so sánh với lúc hắn nghe tin hai Đại Chiến Sĩ bị sát hại. Sự tự chủ để không tỏ ra mất bình tĩnh trước mặt các thuộc hạ với tư cách là một vị vua đã hoàn toàn tan biến không còn một mảnh vụn.
+Cơn thịnh nộ này hoàn toàn không thể so sánh với lúc hắn nghe tin hai Đại Chiến Sĩ bị sát hại. Sự tự chủ để không tỏ ra mất bình tĩnh trước mặt thuộc hạ với tư cách là một bậc quân vương đã hoàn toàn tan biến không còn một mảnh vụn.
 
-Tất cả. Bởi vì Oh-ma giờ đây đã mất đi tất cả.
+Tất cả. Bởi vì Oh-ma giờ đây đã mất đi tất cả!
 
 “TẠI SAO CÁC NGƯƠI LẠI CÓ THỂ LÀM RA CHUYỆN TÀN NHẪN NHƯ THẾ NÀY HẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢẢ!!”
 
-Trên bầu trời của vương quốc đang lụi tàn, tiếng thét của Oh-ma vang lên đầy vô vọng.
+Trên bầu trời của vương quốc đang lụi tàn, tiếng thét xé lòng của Oh-ma vang lên đầy vô vọng.
 
 Đáp lại tiếng thét ấy chỉ có tiếng gầm rú của mặt đất vẫn đang tiếp tục sụp đổ dù đã mất đi hơn một nửa diện tích, tiếng kim loại vỡ vụn của cấu trúc di tích cổ đại, và vô số tiếng la hét thảm thiết của những người dân vô tội đang bị nuốt chửng một cách tàn nhẫn xuống đáy vực sâu.
 
-Để đạt được sự phồn vinh như thế này, họ đã phải mất bao nhiêu thời gian. Thời thiếu niên khi hắn nuôi chí hướng xây dựng một vương quốc tại vùng đất này từ thuở xa xưa, đến nay hắn vẫn có thể nhớ rõ.
+Để đạt được sự phồn vinh như ngày hôm nay, họ đã phải đánh đổi bằng biết bao nhiêu thời gian và xương máu. Thời thiếu niên khi hắn nung nấu chí hướng xây dựng một vương quốc tại vùng đất này từ thuở xa xưa, đến tận bây giờ hắn vẫn còn nhớ như in.
 
-Thời kỳ gian khổ đã kéo dài đằng đẵng. Hắn đã cầu nguyện thần linh, nhận lấy sự bảo hộ, và dẫn dắt tộc Goma khi đó còn rất yếu ớt và ít ỏi về số lượng.
+Thời kỳ gian khổ ấy đã kéo dài đằng đẵng. Hắn đã thành tâm cầu nguyện thần linh, đón nhận sự bảo hộ thiêng liêng, và dẫn dắt tộc Goma khi đó còn vô cùng yếu ớt và thưa thớt về số lượng.
 
-Vừa phải chật vật sinh tồn qua ngày, họ vừa từng chút, từng chút một, chậm rãi nhưng chắc chắn, tăng thêm số lượng, chuẩn bị trang bị, và huấn luyện binh sĩ với một nỗ lực phi thường.
+Vừa phải chật vật sinh tồn qua ngày, họ vừa từng chút, từng chút một, chậm rãi nhưng vững chắc, gia tăng dân số, rèn đúc trang bị, và huấn luyện binh sĩ với một nỗ lực phi thường.
 
-Chỉ riêng việc tiếp cận được Tháp Thử Thách ở trung tâm cũng đã ngốn mất một khoảng thời gian khổng lồ, và để vượt qua thử thách của tòa tháp lại càng mất nhiều thời gian hơn nữa. Nhưng chính vì bản thân hắn đã vượt qua những thử thách khắc nghiệt đó nên mới phát triển được kỹ năng 『Khổng Lồ Hóa』, có được sức mạnh để tiến hóa thành Đại Chiến Sĩ Gira-Gogma.
+Chỉ riêng việc tiếp cận được Tháp Thử Thách ở trung tâm cũng đã ngốn mất một khoảng thời gian khổng lồ, và để vượt qua thử thách khắc nghiệt của tòa tháp lại càng mất nhiều thời gian hơn nữa. Nhưng chính vì bản thân hắn đã vượt qua những thử thách sinh tử đó nên mới khai mở được kỹ năng 『Khổng Lồ Hóa』, đoạt lấy sức mạnh để tiến hóa thành Đại Chiến Sĩ Gira-Gogma.
 
-Vào thời điểm đó, nơi đây cũng chỉ có thể coi là một bộ tộc nhỏ bé. Nhờ sức mạnh của các Đại Chiến Sĩ, phòng thủ đã trở nên kiên cố, và cuối cùng họ cũng có thể bắt đầu mở rộng khu vực sinh sống.
+Vào thời điểm đó, nơi đây cũng chỉ có thể xem là một bộ tộc nhỏ bé. Nhờ sức mạnh vô song của các Đại Chiến Sĩ, hệ thống phòng thủ dần trở nên kiên cố, và cuối cùng họ cũng có thể bắt đầu mở rộng khu vực sinh sống.
 
-Chặt cây, dựng hàng rào và vọng gác, xây dựng nên một pháo đài dù còn thô sơ. Để nuôi sống dân số đang ngày một tăng lên, họ đã tìm kiếm những loại cây trồng dễ canh tác và bắt đầu làm ruộng.
+Đốn hạ cây rừng, dựng hàng rào và vọng gác, dựng xây nên một pháo đài dù còn thô sơ. Để nuôi sống lượng dân cư ngày một đông đúc, họ đã lùng sục những giống cây trồng dễ canh tác và bắt đầu khai khẩn ruộng nương.
 
-Sự tấn công của những ma vật hùng mạnh như Hỏa Long, chủng tộc Geela đối địch, và lũ undead không ngừng trỗi dậy. Đã có không biết bao nhiêu lần vương quốc đứng trước nguy cơ diệt vong, và cũng có lúc họ phải tạm thời bỏ xứ mà đi.
+Sự tấn công của những ma vật hùng mạnh như Hỏa Long, sự quấy phá của chủng tộc Geela đối địch, và bầy lũ undead không ngừng trỗi dậy từ lòng đất. Đã có không biết bao nhiêu lần vương quốc đứng trên bờ vực diệt vong, và cũng có lúc họ buộc phải tạm thời bỏ xứ mà lưu vong.
 
-Nhưng họ luôn quay trở lại đây để tiếp tục công cuộc xây dựng vương quốc. Vượt qua mọi gian khổ, họ chỉ biết tiến lên phía trước với mong muốn vương quốc ngày một phát triển.
+Thế nhưng họ luôn quay trở lại mảnh đất này để tiếp tục sự nghiệp kiến thiết vương quốc. Băng qua muôn vàn gian khổ, họ chỉ biết tiến lên phía trước với khát vọng cháy bỏng là làm cho vương quốc ngày càng lớn mạnh.
 
-Hàng phòng ngự ban đầu chỉ là những hàng rào thô sơ, sau đó được xếp đá tạo thành những bức tường thấp, rồi lại được xếp cao hơn thành những bức tường thành bằng đá. Cuối cùng, họ đã dựng nên một bức đại thành trì sừng sững khiến ai nấy đều phải ngước nhìn.
+Hàng phòng ngự ban đầu chỉ là những cọc gỗ thô sơ, sau đó được xếp đá tạo thành những bức tường thấp, rồi lại được tôn cao lên thành những bức tường thành bằng đá kiên cố. Cuối cùng, họ đã dựng nên một bức đại thành trì sừng sững khiến bất kỳ ai nhìn vào cũng phải kính phục ngước nhìn.
 
-Khu vực sinh sống từ những chiếc lều vải thô sơ ban đầu giờ đã có những tấm bạt khổng lồ căng lên làm buồm để chứa được nhiều hộ gia đình lớn, và những ngôi nhà bằng gỗ cũng không còn là của hiếm. Kho lương thực luôn đầy ắp, và nhiều loại hàng hóa khác nhau được tích trữ.
+Khu vực sinh sống từ những căn lều rách nát ban đầu giờ đã có những tấm bạt khổng lồ căng lên làm buồm để che chở cho những gia tộc lớn, và những dãy nhà gỗ khang trang cũng không còn là của hiếm. Kho lương thực luôn ăm ắp, hàng hóa các loại được tích trữ dồi dào.
 
-Chợ búa cũng mở rộng nhanh chóng, lượng giao dịch tăng lên theo từng năm. Nhận thấy việc chỉ trao đổi hàng hóa đơn thuần sẽ có giới hạn, hắn đã nghĩ đến việc tạo ra một hệ thống mới để phát triển hơn nữa.
+Khu chợ cũng mở rộng nhanh chóng, khối lượng giao thương tăng vọt theo từng năm. Nhận thấy việc chỉ trao đổi hàng hóa đơn thuần sẽ gặp giới hạn, hắn thậm chí đã toan tính đến việc thiết lập nên một thể chế mới để phát triển xa hơn.
 
-Công cuộc khai hoang được gửi đi khắp nơi cũng đang gặt hái được thành công ở nhiều địa điểm. Nhờ những vật phẩm cống nạp từ khắp nơi, vương quốc đã bắt đầu thu thập được sản vật từ mọi ngóc ngách của khu di tích cổ đại.
+Các đội khai hoang được phái đi khắp nơi cũng đang gặt hái được vô số thành quả tại nhiều địa điểm. Nhờ những tặng phẩm cống nạp từ bốn phương, vương quốc đã bắt đầu thâu tóm được sản vật từ mọi ngóc ngách của khu di tích cổ đại.
 
-Dù vậy, vương quốc vẫn sẽ tiếp tục mở rộng. Họ có thể mở rộng nó đến vô tận. Ngay cả khi đã thống trị toàn bộ khu di tích này, họ vẫn sẽ tiến xa hơn nữa, ra thế giới bên ngoài.
+Dù vậy, vương quốc vẫn sẽ tiếp tục bành trướng. Họ có thể mở rộng lãnh thổ đến vô tận. Ngay cả khi đã hoàn toàn thống trị khu di tích này, họ vẫn sẽ tiến xa hơn nữa, vươn mình ra thế giới bên ngoài.
 
-Khả năng là vô hạn. Sự phồn vinh hơn nữa và tương lai tươi sáng của tộc Goma đã được thần linh hứa hẹn—thế nhưng, tất cả những giấc mơ và hy vọng đó giờ đây đang sụp đổ.
+Tiềm năng là vô hạn. Tương lai rực rỡ và sự phồn vinh ngút ngàn của tộc Goma đã được thần linh hứa hẹn—thế nhưng, toàn bộ những giấc mơ và hy vọng ấy giờ đây đang vỡ vụn thành từng mảnh.
 
-Chẳng còn tương lai nào nữa, vương quốc mà hắn đã mất hàng trăm năm để xây dựng với tư cách là một vị vua, tất cả mọi thứ đang biến mất.
+Chẳng còn tương lai nào nữa. Vương quốc mà hắn đã dành trọn hàng trăm năm đắp xây với tư cách là một đấng quân vương, tất cả đang tan biến vào hư vô.
 
-Mất sạch. Tất cả đều đang bị tước đoạt.
+Mất sạch. Tất cả đều đang bị cướp đoạt một cách trắng trợn.
 
 “Púp púp púp, pư-gyaー (Púp púp púp, pư-gyaー)”
 
-Ngay khi gương mặt tà ác của tên con người đang chỉ tay cười nhạo phản chiếu qua sứ ma, tầm nhìn của sứ ma lập tức tối sầm lại bởi một mũi tên lao tới. Đó chỉ là việc một con sứ ma bị bắn hạ, nhưng đối với Oh-ma, cảm giác như thể toàn bộ thế giới trước mắt hắn đã hoàn toàn sụp đổ vào bóng tối.
+Ngay khi gương mặt tà ác của tên con người đang chỉ tay cười nhạo phản chiếu qua nhãn quan sứ ma, tầm nhìn của sứ ma lập tức tối sầm lại bởi một mũi tên găm thẳng vào mắt. Đó chỉ đơn thuần là việc một con sứ ma bị bắn hạ, nhưng đối với Oh-ma, cảm giác ấy như thể toàn bộ thế giới trước mắt hắn đã hoàn toàn sụp đổ vào cõi bóng đêm vĩnh hằng.
 
-Cơn giận dữ và lòng căm thù vô hạn đối với con người đã thổi bay lý trí của hắn, khiến hắn không còn khả năng phán đoán bình thường về những gì mình đang nhìn thấy nữa.
+Cơn giận dữ và mối thù hận vô biên đối với loài người đã thiêu rụi toàn bộ lý trí của hắn, khiến hắn không còn khả năng nhận thức tỉnh táo về những gì mình đang chứng kiến nữa.
 
-Hơn một nửa vương quốc đã bị mặt đất nuốt chửng và biến mất. Binh lính hỗn loạn, tư tế gào thét, vu nữ bám víu lấy hắn. Sắc xanh của bầu trời giờ đây bị pha trộn bởi những làn khói đen ngùn ngụt bốc lên, tạo nên một tông màu hỗn độn.
+Hơn một nửa vương quốc đã bị lòng đất nuốt chửng và biến mất. Binh lính nháo nhào hỗn loạn, tư tế gào thét hoảng loạn, các vu nữ thì tuyệt vọng bám víu lấy hắn. Sắc xanh của bầu trời giờ đây bị vấy bẩn bởi những cột khói đen ngùn ngụt bốc lên, nhuộm cả không gian thành một mớ hỗn độn thê lương.
 
-Hắn không biết mình đang nhìn cái gì nữa. Hắn không muốn nhìn thấy bất cứ thứ gì nữa.
+Hắn không biết mình đang nhìn thấy cái gì nữa. Hắn không còn muốn nhìn thấy bất cứ thứ gì trên cõi đời này nữa.
 
-Tầm nhìn tối đen và đầu óc trống rỗng. Nhưng Oh-ma, người có cơ thể đang sôi sục vì cơn giận dữ đỏ rực, đã ngừng suy nghĩ.
+Tầm nhìn tối sầm và tâm trí trống rỗng. Cơ thể của Oh-ma sôi sục trong cơn giận đỏ lửa, rồi mọi luồng suy nghĩ hoàn toàn đình trệ.
 
 “...Bệ hạ.”
 
-Hắn đã mất đi lý trí trong bao lâu rồi? Hay chỉ đơn giản là đã ngất đi?
+Hắn đã đánh mất nhận thức trong bao lâu rồi? Hay chỉ đơn giản là đã ngất lịm đi?
 
 “...Bệ hạ... Bệ hạ Oh-ma.”
 
-Tiếng gọi hắn vang lên vô cùng rõ ràng.
+Tiếng gọi hắn vang lên vô cùng gấp gáp và rõ ràng.
 
-Mở mắt ra, gương mặt của một vu nữ xinh đẹp hiện lên mờ ảo.
+Khẽ mở mắt ra, gương mặt của một vu nữ xinh đẹp đang hiện lên mờ ảo trước tầm mắt.
 
 “Bệ hạ Oh-ma!”
 
 “...Đừng làm loạn. Ta nghe thấy rồi.”
 
-Cuối cùng cũng lấy lại được bình tĩnh, Oh-ma vừa dùng tay ngăn vu nữ đang khóc lóc bám lấy mình, vừa chậm rãi chống gậy đứng dậy.
+Cuối cùng cũng lấy lại được sự bình tâm, Oh-ma vừa giơ tay gạt nhẹ vu nữ đang khóc lóc bám lấy mình, vừa chậm rãi chống gậy đứng thẳng dậy.
 
 “Ôi, chuyện gì thế này...”
 
-Nhìn lại cảnh tượng xung quanh, một màu đen ngòm bao trùm khắp nơi. Đó là một cái hố khổng lồ, một cái hố quá đỗi khổng lồ.
+Đưa mắt nhìn lại cảnh tượng xung quanh, một màu đen ngòm thăm thẳm bao trùm khắp không gian. Đó là một cái hố khổng lồ, một vực thẳm sâu không đáy quá đỗi rùng mình.
 
-Toàn bộ vùng đất bên ngoài pháo đài trung tâm cho đến bức đại thành trì đều đã biến mất dưới đáy đất. Đó là một cảnh tượng tuyệt vọng khi mất đi tất cả, nhưng Oh-ma sau khi đã bình tâm lại đã chấp nhận thực tế đúng như những gì nó đang diễn ra.
+Toàn bộ vùng đất nằm ngoài pháo đài trung tâm kéo dài cho tới bức đại thành trì đều đã biến mất không còn dấu tích dưới đáy đất. Đó là một cảnh tượng tuyệt vọng tột cùng khi mất đi tất cả, nhưng Oh-ma sau khi đã trấn tĩnh lại đã chấp nhận thực tế nghiệt ngã đúng như những gì nó đang phơi bày.
 
-Nhờ lý trí đã được khôi phục, bộ óc ưu tú của Oh-ma bắt đầu hoạt động trở lại, phân tích và thấu hiểu tình hình từ cảnh tượng đập vào mắt.
+Nhờ lý trí đã được khôi phục, bộ óc ưu tú của Oh-ma bắt đầu vận hành trở lại, lập tức phân tích và nắm bắt tình hình từ những gì đập vào mắt.
 
-“Những kẻ còn lại chỉ là đội cận vệ vương cung và một ít binh lính phòng thủ sao.”
+“Những kẻ còn lại chỉ là đội cận vệ vương cung và một ít binh lính phòng thủ thôi sao.”
 
-Có lẽ nhờ một phần của Tháp Thử Thách làm bệ đỡ nên pháo đài này vẫn được giữ lại mà không bị rơi xuống hố sâu. Tuy nhiên, bức tường thành bao quanh pháo đài đã bị phá hủy một nửa, và có thể thấy nhiều vị trí đã bị cuốn vào vụ sụp đổ.
+Có lẽ nhờ một phần của Tháp Thử Thách làm bệ đỡ nâng đỡ phía dưới nên pháo đài này mới có thể trụ lại mà không bị rơi xuống vực sâu. Tuy nhiên, bức tường bao quanh pháo đài đã bị xé toạc một nửa, và có thể thấy rất nhiều vị trí phòng tuyến đã bị cuốn phăng vào vụ sụp đổ.
 
-Một pháo đài với hơn một nửa tường thành bị sập thì chức năng phòng thủ của nó coi như đã không còn.
+Một pháo đài với hơn phân nửa tường thành bị sập đổ thì chức năng phòng ngự của nó coi như đã hoàn toàn tê liệt.
 
 “Zagan, giá như ít nhất ngươi vẫn còn ở đây...”
 
-*Ta nên ngăn cản hắn lại,* Oh-ma hối hận từ tận đáy lòng về quyết định của mình.
+*Lẽ ra ta nên ngăn cản hắn lại,* Oh-ma hối hận từ tận đáy lòng về quyết định của mình.
 
-Sau khi xác nhận lũ con người ở Đông Môn đang kháng cự mạnh mẽ, để chắc chắn tiêu diệt được chúng, hắn đã đồng ý cử cả Đại Chiến Sĩ Trưởng mạnh nhất là Zagan đi. Hơn hết, chính Zagan cũng đã khẩn khoản cầu xin điều đó.
+Sau khi xác nhận lũ con người ở Đông Môn đang điên cuồng kháng cự, để đảm bảo tiêu diệt gọn gàng mầm họa, hắn đã chuẩn tấu điều động cả Đại Chiến Sĩ Trưởng mạnh nhất là Zagan xuất trận. Hơn hết, chính Zagan cũng đã tha thiết khẩn cầu điều đó.
 
-Với niềm tin rằng kẻ ám sát tàn nhẫn đã sát hại vợ mình đang lẩn trốn trong số lũ con người đóng chốt ở đó.
+Với niềm tin mãnh liệt rằng kẻ ám sát tàn nhẫn đã sát hại người vợ yêu dấu của mình đang lẩn trốn trong số lũ con người đóng chốt tại đó.
 
-Sự tập trung toàn bộ lực lượng, và hơn hết là nguyện vọng mãnh liệt của Zagan. Hắn đã không thể từ chối. Dù biết vậy, nhưng sự hối hận vẫn không thể nguôi ngoai.
+Sự cần thiết của việc tập trung toàn lực, và hơn cả là tâm nguyện cháy bỏng của Zagan. Hắn đã không thể chối từ. Dù biết rõ nguyên do, nhưng nỗi dằn vặt và ân hận trong lòng hắn vẫn không thể nào nguôi ngoai.
 
-“Tất cả hãy im lặng.”
+“Tất cả hãy trật tự!”
 
-Dù cuộc đại sụp đổ đã tạm thời lắng xuống, nhưng trước tình cảnh thiệt hại kinh hoàng đến mức không từ ngữ nào tả xiết, trước những Goma chỉ biết chạy hỗn loạn không biết làm gì, Oh-ma đã lên tiếng.
+Dù cuộc đại địa chấn đã tạm thời lắng xuống, nhưng trước cảnh tượng tàn phá kinh hoàng đến mức không từ ngữ nào lột tả xiết, trước cảnh bầy Goma chỉ biết chạy loạn như rắn mất đầu, Oh-ma đã cất cao giọng.
 
-Nghe thấy những lời nói đầy uy nghiêm và sức mạnh như thường lệ, những Goma đang nháo nhào vô ích lập tức phủ phục xuống đất.
+Lắng nghe thanh âm đầy uy nghiêm và sức mạnh quen thuộc của bậc đế vương, những Goma đang nháo nhào vô vọng lập tức đồng loạt phủ phục xuống mặt đất.
 
-“Bởi âm mưu tà ác của lũ con người, vương quốc đã sụp đổ một cách thảm hại... Tuy nhiên, vương quốc của ta vẫn chưa diệt vong!”
+“Bởi âm mưu hèn hạ và tà ác của lũ con người, vương quốc của chúng ta đã sụp đổ một cách thảm hại... Tuy nhiên, vương quốc của ta vẫn chưa hề diệt vong!”
 
-Mất đi cả thành phố, người dân chết sạch, đại quân tinh nhuệ biến mất, và ngay cả Zagan cũng không còn. Oh-ma là người hiểu rõ nhất rằng đây là một tình thế không thể cứu vãn.
+Mất đi toàn bộ thành phố, thần dân chết sạch, đại quân tinh nhuệ bị chôn vùi, và ngay cả Zagan cũng không còn sống sót trở về. Oh-ma là người thấu suốt hơn ai hết rằng đây là một cục diện hoàn toàn không thể cứu vãn.
 
-Dù vậy, Oh-ma vẫn phải tuyên bố điều đó. Bởi vì hắn là vị vua duy nhất thống trị tộc Goma.
+Dẫu vậy, Oh-ma vẫn buộc phải dõng dạc tuyên bố điều đó. Bởi vì hắn là vị vua duy nhất thống trị tộc Goma.
 
-“Ta vẫn ở đây. Ta vẫn còn sống. Nghe cho rõ đây, chừng nào Vua Goma Oh-ma này còn tồn tại, vương quốc sẽ trường tồn bất diệt! Và các ngươi cũng vẫn còn sống sót!”
+“Ta vẫn ở đây! Ta vẫn còn sống sờ sờ tại nơi này! Nghe cho rõ đây, chừng nào Vua Goma Oh-ma này còn tồn tại, vương quốc sẽ trường tồn bất diệt! Và các ngươi cũng vẫn còn sống sót!”
 
-Lực lượng vẫn còn. Những kẻ được giữ lại để bảo vệ vương cung và pháo đài, dù không có các Đại Chiến Sĩ, nhưng tất cả đều là những tinh nhuệ được tuyển chọn kỹ lưỡng.
+Binh lực vẫn chưa cạn kiệt. Những kẻ được giữ lại để bảo vệ vương cung và pháo đài, dù không có sự hiện diện của các Đại Chiến Sĩ, nhưng tất cả đều là những chiến binh tinh nhuệ được tuyển chọn gắt gao nhất.
 
-Lần này, vì dự định sẽ dồn toàn lực để nghiền nát lực lượng chủ lực của con người nên pháo đài nơi hắn ở chắc chắn sẽ bị thiếu hụt nhân sự. Chính vì vậy, để đối phó với những cuộc tập kích bất ngờ của sát thủ, hắn chỉ chọn những kẻ tinh nhuệ nhất để phòng thủ. Hắn đã dùng chất lượng để bù đắp cho số lượng.
+Lần này, vì dự định sẽ dồn toàn lực ra tiền tuyến để nghiền nát lực lượng chủ lực của con người nên pháo đài nơi hắn ngự chắc chắn sẽ bị hao hụt quân số nghiêm trọng. Chính vì vậy, nhằm đối phó với những cuộc tập kích bất ngờ của thích khách, hắn chỉ giữ lại những cá nhân ưu tú nhất để phòng thủ. Hắn đã dùng chất lượng đỉnh cao để bù đắp cho số lượng thiếu hụt.
 
-Quyết định đó đã tỏ ra may mắn. Nếu chỉ tính riêng về số lượng binh lực, họ vẫn đang áp đảo nhóm nhỏ con người kia.
+Quyết định phòng xa đó hóa ra lại là một sự may mắn. Nếu chỉ tính riêng về quân số hiện hữu, họ vẫn đang chiếm ưu thế áp đảo trước nhóm tàn quân ít ỏi của loài người.
 
-Vương cung vẫn còn rất nhiều nhu yếu phẩm tích trữ, và hơn một nửa số kho bãi trong pháo đài vẫn an toàn. Cả lương thực lẫn trang bị đều rất dồi dào.
+Vương cung vẫn còn tích trữ bạt ngàn tài nguyên, và hơn một nửa số kho bãi trong pháo đài vẫn hoàn toàn nguyên vẹn. Cả lương thực lẫn vũ khí trang bị đều vô cùng dồi dào.
 
-“Ngẩng đầu lên. Đừng quỳ gối nữa. Hãy đứng lên, hỡi các Goma! Chúng ta vẫn còn sống. Chúng ta vẫn chưa thua. Chúng ta phải chiến thắng lũ con người tà ác!”
+“Ngẩng cao đầu lên! Đừng quỳ gối nữa! Hãy đứng thẳng dậy, hỡi các chiến binh Goma! Chúng ta vẫn còn sống! Chúng ta vẫn chưa hề bại trận! Chúng ta nhất định phải đập tan lũ con người tà ác!”
 
-Oh-ma giơ cao cây gậy phép, chỉ về hướng Nam Đại Môn ở phía trước.
+Oh-ma giơ cao cây trượng phép, chỉ thẳng về hướng Nam Đại Môn ở phía trước.
 
-Nơi đó là mặt đất duy nhất không bị sụp đổ. Chắc hẳn ngay phía dưới nó có một cây cột trụ khổng lồ chạy qua. Chỉ riêng đại lộ dẫn từ Nam Đại Môn vào pháo đài là được giữ lại nguyên vẹn như một cây cầu bắc qua vực thẳm.
+Nơi đó là dải đất duy nhất không bị sụp đổ. Chắc chắn ngay phía dưới nó có một cây cột trụ nâng đỡ khổng lồ chạy xuyên suốt. Chỉ riêng đại lộ nối liền từ Nam Đại Môn thẳng vào pháo đài là được bảo toàn nguyên vẹn như một cây cầu độc đạo bắc qua miệng vực thẳm.
 
-Trên đại lộ còn sót lại đó, có thể thấy bóng dáng của vài Goma may mắn sống sót thần kỳ, nhưng họ không phải là đối tượng đáng chú ý.
+Trên đại lộ còn sót lại đó, lác đác vài bóng dáng Goma may mắn thoát chết một cách thần kỳ, nhưng họ không phải là đối tượng đáng để tâm lúc này.
 
-Từ cánh cổng Nam Đại Môn đã bị thiêu rụi thảm hại, một nhóm người đang hiên ngang tiến vào.
+Từ cánh cổng Nam Đại Môn đã bị ngọn lửa thiêu rụi tan hoang, một nhóm người đang hiên ngang sải bước tiến vào.
 
-“Nhìn kìa, lũ con người đang đến! Chúng đến để giết sạch chúng ta không chừa một ai!”
+“Nhìn kìa, lũ con người đang đến! Chúng mò tới đây để tàn sát sạch sẽ chúng ta không chừa một ai!”
 
-Không cần thông qua sứ ma, chỉ cần nhìn từ xa cũng có thể nhận ra.
+Không cần phải thông qua mắt của sứ ma, chỉ cần phóng tầm mắt từ xa cũng có thể nhận diện rõ ràng.
 
-Không biết từ lúc nào chúng đã bỏ pháo đài ở Đông Môn, và kẻ vừa xuất hiện trở lại từ Nam Đại Môn chắc chắn là nhóm con người đã làm sụp đổ vương quốc.
+Không biết từ lúc nào chúng đã bỏ lại pháo đài ở Đông Môn, và kẻ vừa xuất đầu lộ diện trở lại từ Nam Đại Môn đích thị là nhóm con người đã giật sập cả vương quốc này.
 
-Một đứa trẻ loài người dẫn đầu những binh sĩ tinh nhuệ mạnh mẽ mang theo sự bảo hộ của tà thần, đi cùng lũ ma thú màu đen.
+Một đứa trẻ loài người đang dẫn đầu những chiến binh tinh nhuệ mang theo sức mạnh bảo hộ từ tà thần, theo sau là bầy ma thú màu đen gớm ghiếc.
 
-Đứa trẻ nhỏ thó đó chính là thủ lĩnh của chúng. Và kẻ đã phóng hỏa xưởng rèn, sát hại hai Đại Chiến Sĩ, và cuối cùng là đánh sập vương quốc, kẻ mang danh ‘Kẻ xảo quyệt’ chắc chắn chính là đứa trẻ đó.
+Đứa trẻ nhỏ thó đó chính là kẻ cầm đầu của chúng. Kẻ đã phóng hỏa thiêu rụi xưởng rèn, mưu sát hai Đại Chiến Sĩ, và sau cùng là đánh sập cả vương quốc—kẻ mang danh 『Kẻ xảo quyệt』 chắc chắn không ai khác ngoài đứa trẻ đó.
 
-Đến nước này thì hai chữ "xảo quyệt" đã không còn đủ để mô tả về hắn nữa rồi. Phải gọi kẻ đó là gì đây? Hắn tà ác hơn, mưu mô hơn, tàn nhẫn hơn và táo tợn hơn bất kỳ tên con người nào hắn từng thấy trước đây. Kẻ đó giống như một lời nguyền của tà thần đang gặm nhấm vận mệnh huy hoàng của vị vua được thần linh định đoạt—
+Đến nước này thì hai chữ "xảo quyệt" đã chẳng còn đủ tầm mức để miêu tả về hắn nữa rồi. Phải dùng danh xưng gì để gọi kẻ đó đây? Hắn tà ác hơn, thâm hiểm hơn, tàn độc hơn và táo tợn hơn bất kỳ tên con người nào hắn từng chạm trán trước đây. Kẻ đó tựa như một hiện thân của lời nguyền tà thần đang gặm nhấm vận mệnh huy hoàng của vị vua được thần linh định đoạt—
 
-“Kẻ kia chính là 『Nguyền Chi Tử』. Hắn chắc chắn là đứa con nhận được toàn bộ sức mạnh từ sự bảo hộ đáng nguyền rủa của vị thần đen tối tà ác nhất.”
+“Kẻ kia chính là 『Nguyền Chi Tử』. Hắn đích thực là đứa con nhận lấy toàn bộ ân huệ nguyền rủa từ sự bảo hộ của vị thần đen tối và tà ác nhất.”
 
-Oh-ma khẳng định chắc nịch. Đó chính là 『Nguyền Chi Tử』. Nếu không giết được kẻ đó bằng mọi giá, vương quốc sẽ không có tương lai.
+Oh-ma khẳng định chắc nịch. Đó chính là 『Nguyền Chi Tử』. Nếu không thể trừ khử kẻ đó bằng mọi giá, vương quốc sẽ vĩnh viễn không bao giờ có được tương lai!
 
-Để vượt qua cuộc đại sụp đổ tuyệt vọng này và một lần nữa xây dựng nên vương quốc Goma vĩ đại, điều cần thiết hơn cả là phải tiêu diệt được 『Nguyền Chi Tử』 và đập tan lời nguyền của tà thần.
+Để vượt qua thảm họa đại sụp đổ tuyệt vọng này và một lần nữa gầy dựng lại đế chế Goma vĩ đại, điều tối thượng hơn cả là phải tiêu diệt cho bằng được 『Nguyền Chi Tử』 và nghiền nát lời nguyền của tà thần hắc ám!
 
-“Hỡi toàn thể Goma, hãy chiến đấu! Bằng mọi giá phải tiêu diệt tên 『Nguyền Chi Tử』 đó!”
+“Hỡi toàn thể Goma, hãy cầm vũ khí lên và chiến đấu! Bằng mọi giá phải lấy đầu tên 『Nguyền Chi Tử』 đó!”
 
 “U-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô-Ô!”
 
-Đáp lại lời kêu gọi của Oh-ma là những tiếng hò reo vang dội. Ý chí chiến đấu và nhuệ khí của tộc Goma đã được khôi phục.
+Đáp lại lời hiệu triệu đanh thép của Oh-ma là những tiếng thét xung trận vang dội rung chuyển trời đất. Ý chí chiến đấu và nhuệ khí của tộc Goma đã được thổi bùng trở lại.
 
-“Hãy rửa hận kẻ đã phá hủy vương quốc! Hãy giành lại vinh quang của chúng ta! Hãy đập tan lời nguyền của tà thần và giành lấy tương lai cho Vương quốc Goma vĩ đại!”
+“Hãy rửa sạch mối hận của kẻ đã chôn vùi vương quốc! Hãy giành lại vinh quang tối thượng của chúng ta! Hãy đập tan lời nguyền của tà thần và đoạt lấy tương lai cho Vương quốc Goma vĩ đại!”
 
-Dưới mệnh lệnh của Oh-ma, các Goma bắt đầu hành động. Giờ đây, không còn một ai cúi đầu tuyệt vọng nữa.
+Nhận mệnh lệnh tối cao từ Oh-ma, toàn bộ quân Goma lập tức sục sôi hành động. Giờ phút này, không còn một ai cúi đầu bi lụy trong tuyệt vọng nữa.
 
-Kẻ thù truyền kiếp cuối cùng, 『Nguyền Chi Tử』, kẻ đã hiên ngang xuất hiện trước mắt họ cùng với lũ con người mà hắn dẫn dắt.
+Kẻ thù truyền kiếp cuối cùng, 『Nguyền Chi Tử』, kẻ đã ngạo nghễ xuất hiện trước mắt họ cùng với bầy lũ con người mà hắn dẫn dắt.
 
-Tập trung toàn bộ lực lượng tinh nhuệ còn lại để tiêu diệt chúng, Oh-ma bắt đầu lớn tiếng chỉ huy, nhưng ngay lúc đó.
+Tập trung toàn bộ lực lượng tinh nhuệ còn lại để nghiền nát chúng, Oh-ma bắt đầu cất giọng dõng dạc chỉ huy trận địa, thế nhưng ngay đúng lúc ấy.
 
 “—『Thánh Kiếm Ánh Sáng』!”
 
-Hắn nhìn thấy một luồng ánh sáng trắng chói lòa bùng nổ.
+Một luồng bạch quang chói lòa bùng nổ dữ dội xé toạc không gian.
 
-Không phải bằng mắt thường. Một con sứ ma đang bay trên bầu trời vương quốc đã ghi lại được cảnh tượng đó.
+Không phải nhìn thấy bằng mắt thường. Một con sứ ma đang chao liệng trên bầu trời vương quốc đã ghi lại trọn vẹn cảnh tượng kinh hoàng đó.
 
-Vị trí là ngay phía sau, Bắc Môn. Cánh cổng phía bắc, nơi duy nhất thoát khỏi ngọn lửa và còn nguyên vẹn, đã bị chém đứt bởi một nhát chém khổng lồ phát ra ánh sáng rực rỡ đó.
+Vị trí phát ra là ngay phía sau lưng họ—tại Bắc Môn. Cánh cổng thành phía bắc, nơi duy nhất thoát khỏi biển lửa và còn nguyên vẹn, vừa bị chém đứt lìa bởi một nhát kiếm ánh sáng khổng lồ đầy uy lực.
 
-“C-Cái đó, không lẽ nào...”
+“C-Cái đó... không lẽ nào...”
 
-Một nhóm con người khác mà họ vẫn luôn cảnh giác.
+Một nhóm con người khác mà họ vẫn luôn đề phòng bấy lâu nay.
 
-Nhóm người do 『Quang Chi Tử』 dẫn đầu đã xuất hiện như thể để thực hiện một cuộc gọng kìm kẹp chặt họ từ hai phía.`
+Nhóm người do 『Quang Chi Tử』 dẫn đầu đã xuất hiện ngay phía sau, tạo nên một thế gọng kìm siết chặt lấy họ từ hai phía.`
             },
             {
                 "id": "ep_317",
@@ -54449,7 +54455,7 @@ Thay vì để chúng tôi tự do tấn công từ những chỗ tường thàn
 
 “Vâng, anh hai.”
 
-Sakura sẽ là lá chắn cuối cùng bảo vệ hai người không có khả năng chiến đấu là Takanashi và bạn Futaba. Lẽ ra Lớp trưởng cũng nên ở lại bọc lót phía sau, nhưng với quân số ít ỏi hiện tại, cậu ấy sẽ phải đứng ở vị trí trung phong để tập trung chiến đấu.
+Sakura sẽ là lá chắn cuối cùng bảo vệ hai người không có khả năng chiến đấu là Takanashi-san và Futaba-san. Lẽ ra Lớp trưởng cũng nên ở lại bọc lót phía sau, nhưng với quân số ít ỏi hiện tại, cậu ấy sẽ phải đứng ở vị trí trung phong để tập trung chiến đấu.
 
 Hàng tiền vệ chỉ có ba người là tôi, Asuna và Natsukawa. Nói thật, chỉ cần để sổng một con lọt qua thôi cũng sẽ rất nguy hiểm, nhưng chúng tôi không còn cách nào khác ngoài việc cố gắng hết sức.
 
@@ -54459,13 +54465,13 @@ Trang bị đã được chuẩn bị ở trạng thái tốt nhất có thể. 
 
 “Á, áaaa?!”
 
-Ngay khi tôi vừa tiến lên một bước định lao vào đội quân Goma đang áp sát, tiếng hét của Takanashi bất ngờ vang lên từ phía sau.
+Ngay khi tôi vừa tiến lên một bước định lao vào đội quân Goma đang áp sát, tiếng hét của Takanashi-san bất ngờ vang lên từ phía sau.
 
 “Gì thế, có chuyện gì vậy?!”
 
 “L-Làm sao bây giờ... Nguy to rồi!”
 
-Tôi quay lại thì thấy Takanashi đang mếu máo, cuống cuồng cả lên. Có vẻ như không phải là tình huống kẻ địch bất ngờ xuất hiện từ phía sau, nhưng...
+Tôi quay lại thì thấy Takanashi-san đang mếu máo, cuống cuồng cả lên. Có vẻ như không phải là tình huống kẻ địch bất ngờ xuất hiện từ phía sau, nhưng...
 
 “Anh hai, hỏng rồi.”
 
@@ -54475,19 +54481,19 @@ Sakura, người dường như cũng đã nhận ra tình hình, cất tiếng v
 
 Nhìn lướt qua thì không có gì bất thường. Cũng không thấy bóng dáng kẻ địch. Đúng vậy, không có kẻ địch, nhưng... lại thiếu mất một người.
 
-“Bạn Futaba đâu rồi?”
+“Futaba-san đâu rồi?”
 
 “Chuyện đó... hoàn toàn không thấy chị ấy đâu cả.”
 
 “Thế là sao?!”
 
-Dáng người cao ráo nổi bật của bạn Futaba hoàn toàn biến mất không một dấu vết.
+Dáng người cao ráo nổi bật của Futaba-san hoàn toàn biến mất không một dấu vết.
 
-Bình tĩnh lại nào, khi tôi phá hủy cánh cổng, cậu ấy chắc chắn vẫn còn đi cùng. Lúc rời khỏi pháo đài ẩn, lần này chúng tôi đã bắt cậu ấy mang theo vũ khí và vác cả nhu yếu phẩm. Một người mang theo cây kích lớn và khiên, lại còn thồ thêm một đống hành lý cồng kềnh như bạn Futaba thì không thể nào dễ dàng mất dấu chỉ vì khoảng cách hơi xa được.
+Bình tĩnh lại nào, khi tôi phá hủy cánh cổng, cậu ấy chắc chắn vẫn còn đi cùng. Lúc rời khỏi pháo đài ẩn, lần này chúng tôi đã bắt cậu ấy mang theo vũ khí và vác cả nhu yếu phẩm. Một người mang theo cây kích lớn và khiên, lại còn thồ thêm một đống hành lý cồng kềnh như Futaba-san thì không thể nào dễ dàng mất dấu chỉ vì khoảng cách hơi xa được.
 
 Kể từ sau vụ mưu sát bằng độc của Momokawa, tinh thần của cậu ấy luôn trong trạng thái nửa tỉnh nửa mê, nhưng cậu ấy chưa bao giờ tự ý bỏ đi một mình rồi biến mất. Cậu ấy vẫn luôn lẳng lặng đi theo mọi người và sinh hoạt hoàn toàn bình thường kia mà.
 
-Chính vì thế chăng? Cả tôi, Sakura, và cả Takanashi ở phía sau đều đinh ninh rằng bạn Futaba vẫn đang lẳng lặng đi theo như mọi khi.
+Chính vì thế chăng? Cả tôi, Sakura, và cả Takanashi-san ở phía sau đều đinh ninh rằng Futaba-san vẫn đang lẳng lặng đi theo như mọi khi.
 
 “Ơ kìa, vừa chớp mắt đã không thấy đâu rồi... Lạc ở đâu mất rồi, Kotori hoàn toàn không biết luôn á!”
 
@@ -54499,13 +54505,13 @@ Tiếng gọi sắc lẹm của Asuna kéo tôi quay trở lại thực tại.
 
 Đội quân Gove dẫn theo vài con Gogma đã tiến đến khoảng cách có thể nhìn rõ bằng mắt thường. Tình thế này không cho phép chúng tôi có thời gian để đi tìm người nữa.
 
-“Không còn cách nào khác, trước mắt hãy giải quyết kẻ địch trước mặt đã. Về phần bạn Futaba... sau khi chiếm được vương cung rồi đi tìm sẽ an toàn hơn.”
+“Không còn cách nào khác, trước mắt hãy giải quyết kẻ địch trước mặt đã. Về phần Futaba-san... sau khi chiếm được vương cung rồi đi tìm sẽ an toàn hơn.”
 
 “...Khốn kiếp, chỉ còn cách đó thôi sao.”
 
-Trong tình cảnh này, không đời nào bạn Futaba lại chạy lên trước chúng tôi để lao vào pháo đài. Xét việc toàn bộ lũ Goma còn lại đều đang cố thủ ở đây, thì phía ngoài kia lại là nơi an toàn. Hy vọng cậu ấy đã quay trở lại pháo đài ẩn... Khốn thật, bây giờ phải tập trung vào trận chiến trước mắt đã.
+Trong tình cảnh này, không đời nào Futaba-san lại chạy lên trước chúng tôi để lao vào pháo đài. Xét việc toàn bộ lũ Goma còn lại đều đang cố thủ ở đây, thì phía ngoài kia lại là nơi an toàn. Hy vọng cậu ấy đã quay trở lại pháo đài ẩn... Khốn thật, bây giờ phải tập trung vào trận chiến trước mắt đã.
 
-*Làm ơn, hãy bình an vô sự nhé bạn Futaba...*
+*Làm ơn, hãy bình an vô sự nhé, Futaba-san...*
 
 ***
 
@@ -54535,7 +54541,7 @@ Chỉ cần biến đổi cánh cổng này một chút là chúng tôi sẽ có
 
 “Chênh lệch chút xíu đó thôi mà.”
 
-“Tớ nghĩ chỉ gắn thêm cái tay cầm mà mất hơn 30 giây là quá lâu đấy.”
+“Tôi nghĩ chỉ gắn thêm cái tay cầm mà mất hơn 30 giây là quá lâu đấy.”
 
 Cái gọi là "biến đổi một chút" thực chất chỉ là tạo ra một cái tay cầm để có thể cầm tấm khiên mà thôi. Đó là một công đoạn gia công đơn giản, chỉ cần kéo phần kim loại của cánh cổng ra là xong.
 
@@ -54633,7 +54639,7 @@ Nấp sau tấm khiên lớn của Tank, Ueta và Yoshizaki dồn hết sức b�
 
 Thứ vũ khí này tất nhiên chính là 『Tokkan Kouji-kun Mẫu 1』.
 
-“— 『Đại Sơn Thành Lũy』!”
+“— 『Địa Thành Lũy』!”
 
 Dưới ma pháp phòng ngự cấp cao của Kyouko, mặt đất bắt đầu rung chuyển dữ dội và nhô cao lên.
 
@@ -54969,7 +54975,7 @@ Trước sự xuất hiện uy nghiêm của Vua Goma Oh-ma, Zagan dù vẫn gi�
 
 Từ trên cao nhìn xuống toàn bộ cảnh tượng đó, Oh-ma hướng thẳng đôi mắt đục ngầu về phía tôi và cất giọng khàn đặc.
 
-“Ngươi... chính là... kẻ nguyền rủa.”
+“Ngươi... chính là... Đứa con của Lời Nguyền.”
 
 “...Lão biết nói tiếng người sao.”
 
@@ -54979,11 +54985,11 @@ Không, không phải. Cảm giác này giống hệt như khoảnh khắc trư�
 
 “À, đúng thế đấy... Chính ta đã giật sập cái vương quốc Goma bẩn thỉu này của các ngươi đấy.”
 
-“Kẻ nguyền rủa... tà ác... đáng ghê tởm!”
+“Đứa con của Lời Nguyền... tà ác... đáng ghê tởm!”
 
 “Hê, ta không ngờ lũ Goma các ngươi cũng có khái niệm về cái ác đấy. Một lũ quái vật ăn thịt người còn thua cả gián bọ mà lại tự xưng là thần thánh, đúng là nực cười!”
 
-“Loài người... là giống loài tà ác. Nhưng kẻ nguyền rủa... chính ngươi... mới là kẻ đáng nguyền rủa... tà ác tột cùng.”
+“Loài người... là giống loài tà ác. Nhưng Đứa con của Lời Nguyền... chính ngươi... mới là kẻ đáng nguyền rủa... tà ác tột cùng.”
 
 “Phải rồi, ta là 『Chú thuật sư』 mà, nguyền rủa chẳng phải là nghề của ta sao.”
 
@@ -54995,9 +55001,9 @@ Không, không phải. Cảm giác này giống hệt như khoảnh khắc trư�
 
 Ôi trời, đáng sợ thật đấy. Áp lực khủng khiếp đến nghẹt thở. Tình cảnh này không đơn thuần là ếch bị rắn lườm nữa rồi, mà là sự chênh lệch chiến lực đến mức tuyệt vọng.
 
-“Zagan, kẻ nguyền rủa... hãy xé xác hắn! Dâng hiến thủ cấp hắn cho ta!”
+“Zagan, Đứa con của Lời Nguyền... hãy xé xác hắn! Dâng hiến thủ cấp hắn cho ta!”
 
-“Rõ, bệ hạ Oh-ma! Kẻ nguyền rủa... ta sẽ bẻ gãy cổ ngươi!!!”
+“Rõ, bệ hạ Oh-ma! Đứa con của Lời Nguyền... ta sẽ bẻ gãy cổ ngươi!!!”
 
 Quả thực là đã bị dồn đến bước đường cùng.
 
@@ -55021,11 +55027,11 @@ Thế nên, tôi sẽ tung ra quân bài tẩy tối thượng của mình ngay 
 
 Tôi gào lên hết cỡ, một tiếng hét thảm thiết đầy vẻ ỷ lại và thảm hại mà chẳng chút ngượng ngùng.
 
-Đương nhiên rồi, bởi vì đây chính là minh chứng cho sự tin tưởng thuần khiết nhất, giống như những đứa trẻ đang gọi vị anh hùng của chúng vậy.
+Đương nhiên rồi, bởi vì đây chính là minh chứng cho sự tin tưởng thuần khiết nhất, tựa như những đứa trẻ đang cất tiếng gọi vị anh hùng của chúng vậy.
 
-Tiếng gọi hướng về vị anh hùng sẽ cứu ta khỏi tình cảnh ngàn cân treo sợi tóc. Người đó không phải là một kẻ cải tạo đeo mặt nạ, cũng chẳng phải người khổng lồ ánh sáng đến từ tinh vân xa xôi.
+Tiếng gọi hướng về người hùng sẽ cứu ta thoát khỏi tình cảnh ngàn cân treo sợi tóc. Người đó không phải là một kẻ cải tạo mang mặt nạ, cũng chẳng phải người khổng lồ ánh sáng đến từ tinh vân xa xôi.
 
-Vị anh hùng đối với tôi là một cô bạn cùng lớp có thân hình cao lớn, cực kỳ đáng yêu và nấu ăn siêu ngon.
+Vị anh hùng đối với tôi là một cô bạn cùng lớp có vóc dáng cao ráo đẫy đà, cực kỳ đáng yêu và nấu ăn siêu ngon.
 
 “Zagan!”
 
@@ -55033,35 +55039,35 @@ Vị anh hùng đối với tôi là một cô bạn cùng lớp có thân hình
 
 Cùng với tiếng hét của Oh-ma, Zagan quay ngoắt lại.
 
-Ở đó, một quả cầu lửa đang bay thẳng tới, không, đó là một quả pháo kích đang tỏa ra ánh sáng đỏ rực như muốn thiêu cháy mọi thứ. Nó vạch ra một vệt đuôi màu đỏ rực giữa hư không, lao đến với tốc độ kinh hoàng.
+Tại nơi đó, một quả cầu lửa đang lao thẳng tới — không, đó là một quả pháo kích đang tỏa ra ánh sáng đỏ rực như muốn thiêu rụi vạn vật. Nó vạch ra một vệt đuôi rực lửa giữa hư không, phóng đến với tốc độ kinh hoàng.
 
 Điểm xuất phát của quả pháo kích màu đỏ đó có lẽ là sân thượng của vương cung cách đây vài trăm mét.
 
-Cô ấy đã bay từ đó. Đơn giản là thực hiện một cú nhảy vọt.
+Cô ấy đã bay từ nơi đó. Đơn giản chỉ là một cú bật nhảy vượt ngàn trùng.
 
 “Đồ ranh con!”
 
 Zagan tung ra một cú đấm theo phản xạ.
 
-Nếu đó chỉ là một ma pháp tấn công thông thường, hẳn hắn đã đánh rụng nó một cách ngoạn mục, nhưng thứ đang bay tới không phải là một quả đạn chỉ biết bay thẳng.
+Nếu đó chỉ là ma pháp tấn công thông thường, hẳn hắn đã đánh rụng nó một cách ngoạn mục, nhưng thứ đang bay tới tuyệt đối không phải là một quả đạn chỉ biết bay theo đường thẳng.
 
-Nào, nhìn cho kỹ đi Oh-ma. Nếu hộ vệ mạnh nhất mà ngươi tin tưởng nhất là Zagan, thì cô ấy chính là hộ mệnh thần của tôi.
+Nào, nhìn cho kỹ đi hỡi Oh-ma. Nếu hộ vệ mạnh nhất mà ngươi tin tưởng nhất là Zagan, thì cô ấy chính là hộ mệnh thần của tôi.
 
-Hãy khắc ghi sức mạnh của 『Cuồng Chiến Binh』 Futaba Meiko vào sâu trong tâm trí ngươi đi.
+Hãy khắc ghi sức mạnh của 『Cuồng Chiến Binh』 Futaba Meiko vào tận cùng tâm trí ngươi đi!
 
 “————『Hắc Nại』.”
 
-Trong sát na, một vệt chém mang điềm gở pha trộn giữa sắc đỏ và đen lóe lên.
+Trong sát na, một vệt chém mang điềm gở đan xen giữa hai sắc đỏ và đen lóe lên.
 
-Né tránh nắm đấm đón đánh trong gang tấc bằng cách thay đổi quỹ đạo ngay giữa không trung, đòn 『Hắc Nại』 dốc toàn lực của cô đã bộc phát ngay trên cổ của gã khổng lồ.
+Né tránh nắm đấm đón đánh trong gang tấc bằng cách chuyển hướng quỹ đạo ngay giữa không trung, đòn 『Hắc Nại』 dốc toàn lực của cô đã bùng nổ ngay trên cổ gã khổng lồ.
 
 “Nuuu… Gwaaaaaaaaaaaaaaaaaaaaaa!?”
 
-Máu tươi phun ra xối xả như mưa trút. Bị chém một vết sâu hoắm ở cổ, ngay cả kẻ như Zagan cũng phải rú lên đau đớn, tự dùng tay bóp chặt lấy vết thương để cầm máu.
+Máu tươi phun ra xối xả như mưa trút. Bị chém một nhát sâu hoắm nơi yết hầu, ngay cả kẻ dạn dày như Zagan cũng phải rú lên đau đớn, vội lấy tay bóp chặt vết thương để cầm máu.
 
-Sau khi tung ra đòn tấn công phủ đầu tuyệt đẹp, cô ấy tận dụng đà lao tới để đáp xuống ngay bên cạnh tôi trên đỉnh bức tường thành.
+Sau khi tung ra đòn phủ đầu tuyệt mỹ, cô ấy tận dụng đà lao tới để đáp xuống ngay bên cạnh tôi trên đỉnh tường thành.
 
-Cú tiếp đất tạo ra một lực chấn động mạnh mẽ thổi bay bụi cát xung quanh. Chiếc váy ngắn tung bay, khuôn ngực đầy đặn khẽ dao động. Sau khi vung nhẹ thanh đao nguyền rủa ở tay phải để gạt đi vết máu, cô ấy hướng ánh mắt về phía tôi.
+Cú tiếp đất tạo ra một lực chấn động dữ dội thổi bay bụi cát xung quanh. Chiếc váy ngắn tung bay, khuôn ngực đầy đặn khẽ phập phồng. Sau khi vung nhẹ thanh ma đao bên tay phải để gạt đi vệt máu, cô ấy hướng ánh mắt dịu dàng về phía tôi.
 
 “Tớ về rồi đây, Kotarou-kun.”
 
@@ -55069,305 +55075,307 @@ Cú tiếp đất tạo ra một lực chấn động mạnh mẽ thổi bay b�
 
 Tớ đã chờ đợi khoảnh khắc này từ rất lâu rồi.
 
-Tôi đã đi đến tận đây chỉ để có được cuộc hội ngộ này.
+Tôi đã vượt qua bao gian nan đến tận đây cũng chỉ vì cuộc hội ngộ này.
 
 “Xin lỗi nhé, tớ cứ nghĩ là bọn tớ có thể tự mình giải quyết xong xuôi cơ.”
 
-“Không sao đâu, thế này là tốt rồi. Tớ chỉ muốn quay lại càng sớm càng tốt. Vì tớ rất muốn gặp Kotarou-kun.”
+“Không sao đâu, thế này là tốt lắm rồi. Tớ chỉ muốn quay lại càng sớm càng tốt thôi. Vì tớ rất muốn gặp Kotarou-kun mà.”
 
-“Đối thủ là Zagan đấy. Cậu sẽ phải làm việc quá sức đấy.”
+“Đối thủ là Zagan đấy. Cậu sẽ phải lao lực lắm đấy.”
 
-“Tớ đã nghỉ ngơi suốt thời gian qua rồi mà. Cho tớ làm quá sức một chút đi.”
+“Tớ đã nghỉ ngơi suốt thời gian qua rồi còn gì. Cho tớ gắng sức một chút đi.”
 
-Cô ấy trả lời bằng một nụ cười rạng rỡ. Yêu cầu cô ấy chiến đấu một chọi một với Zagan, một lời nhờ vả vô lý như thế mà cô ấy lại đón nhận một cách nhẹ nhàng như thể đang pha một tách trà vậy.
+Cô ấy đáp lại bằng một nụ cười rạng rỡ. Yêu cầu cô ấy đơn thương độc mã quyết đấu với Zagan — một lời thỉnh cầu vô lý đến nhường ấy mà cô ấy lại đón nhận nhẹ tênh tựa như việc thưởng thức một tách trà.
 
-Dưới tư cách là một thằng đàn ông thì thật thảm hại, nhưng đây là quân bài tẩy cuối cùng còn lại của tôi. Tôi sẽ đặt cược tất cả vào cậu.
+Đứng trên lập trường của một thằng đàn ông thì đúng là thảm hại thật, nhưng đây chính là quân bài tẩy cuối cùng của tôi. Tôi xin đặt cược toàn bộ vào cậu.
 
 “Mei-chan, đây là thuốc mới đấy.”
 
-『Berserk X』: Loại thuốc cường hóa dùng cho trận quyết chiến được cải tiến từ Thuốc thử X. Ngoài việc giải phóng giới hạn não bộ bằng chất gây nghiện của Goma, nó không chỉ tăng cường các loại năng lực thể chất mà còn được pha trộn thêm Lõi ma vật có độ tinh khiết cao. Bằng cách tạm thời nhận được nguồn cung cấp ma lực khổng lồ, hiệu quả và thời gian duy trì của thuốc đã được tăng lên đáng kể. Hơn nữa, nhờ vào sức mạnh của Hayama, tôi còn cho một tinh linh bóng tối bám lấy mình trú ngụ vào trong đó. Đây là một loại thuốc cực kỳ nguy hiểm, người bình thường uống vào chết lúc nào không hay. Nhưng nếu là Mei… tôi nghĩ nếu là Mei thì sẽ ổn, nên đã chuẩn bị sẵn cho cậu.
+『Berserk X』: Loại thuốc cường hóa phục vụ trận quyết chiến được cải tiến từ Thuốc thử X. Không chỉ giải phóng giới hạn não bộ bằng chất kích thích chiết xuất từ Goma để tăng cường toàn diện thể chất, nó còn được pha trộn thêm Lõi Ma Vật có độ tinh khiết cực cao. Bằng cách tạm thời hấp thụ nguồn ma lực khổng lồ từ lõi, hiệu năng và thời gian duy trì của thuốc đã được gia tăng vượt bậc. Hơn thế nữa, nhờ vào năng lực của Hayama, tôi còn phong ấn cả một tinh linh bóng tối bám theo mình vào trong đó. Đây là loại độc dược cực kỳ nguy hiểm, người bình thường uống vào chắc chắn mất mạng trong chớp mắt. Nhưng nếu là Mei… tôi tin chắc nếu là Mei thì sẽ vượt qua được, nên mới đặc chế riêng cho cậu.
 
-“————Cảm ơn cậu.”
+“————Cảm ơn cậu nhé.”
 
-Không một chút nghi ngờ, Mei lập tức uống cạn 『Berserk X』 với một nụ cười trên môi.
+Không một chút mảy may nghi ngờ, Mei đón lấy và nở nụ cười uống cạn bình 『Berserk X』.
 
-Chất lỏng đáng ngờ tỏa ra ánh sáng âm u màu đỏ tím đậm trong lọ potion đã trôi tuột xuống cổ họng cô ấy chỉ trong một hơi mà không có lấy một khắc do dự.
+Dung dịch đáng ngờ phát ra ánh sáng âm u mang sắc đỏ tím sẫm trong lọ potion trôi tuột xuống cổ họng cô ấy chỉ trong một hơi, không hề có lấy một giây do dự.
 
-Ngay sau đó, sự biến đổi bắt đầu.
+Ngay sau đó, sự dị biến bắt đầu.
 
 “Ưm…”
 
-Cô ấy khẽ phát ra một tiếng rên rỉ đầy quyến rũ, đưa tay lên ôm lấy ngực————Đoàng! Một luồng hào quang đỏ rực phun trào mạnh mẽ từ khắp cơ thể cô ấy như thể phát ra tiếng nổ.
+Cô ấy khẽ phát ra một tiếng rên rỉ đầy quyến rũ, đưa tay lên ôm lấy lồng ngực————*Đoàng!* Một luồng hào quang đỏ rực phun trào mãnh liệt từ khắp cơ thể cô ấy tựa như một vụ nổ ma lực bộc phát.
 
-Có vẻ như nguồn cung cấp ma lực từ Lõi tinh khiết cao đang hoạt động bình thường. Và việc luồng hào quang ma lực mang màu sắc này tỏa ra chính là minh chứng cho thấy nó đã thích ứng hoàn toàn với cơ thể của Mei.
+Có vẻ nguồn cung cấp ma lực từ Lõi tinh khiết đang vận hành hoàn hảo. Và việc luồng hào quang ma lực mang sắc thái rực rỡ này bùng cháy chính là bằng chứng xác thực cho thấy cơ thể Mei đã thích ứng trọn vẹn với độc dược.
 
-Quả nhiên, nếu nói về việc sử dụng chất kích thích thì không ai có thể vượt qua cô ấy. Kỹ năng 『Huệ Thể』 vạn tuế.
+Quả nhiên, nếu bàn về khả năng hấp thụ các chất kích thích cường hóa thì không một ai có thể vượt qua cô ấy. Kỹ năng 『Huệ Thể』 vạn tuế!
 
-“Nhờ cậu cả đấy, Mei-chan.”
+“Trông cậy cả vào cậu đấy, Mei-chan.”
 
 “Ừm, cứ giao cho tớ, Kotarou-kun.”
 
-Và rồi, chỉ với việc nắm chặt thanh đao nguyền rủa 『Bát Táp Ngưu Ma Đao』 duy nhất trên tay, 『Cuồng Chiến Binh』 lao vào khiêu chiến gã khổng lồ————
+Và rồi, chỉ với một thanh ma đao 『Bát Táp Ngưu Ma Đao』 duy nhất trong tay, 『Cuồng Chiến Binh』 đã lao thẳng vào khiêu chiến gã khổng lồ————
+
+***
 
 “Zagan!”
 
 “Hửm, kẻ nào thế!?”
 
-Nghe thấy tiếng gọi của Oh-ma, Zagan quay phắt lại như một chiếc lò xo bị nén.
+Nghe thấy tiếng hô của Oh-ma, Zagan quay phắt người lại như một chiếc lò xo bật nén.
 
-Thứ đập vào mắt hắn là một con người đang được bao bọc trong luồng hào quang đỏ rực dữ dội như ngọn lửa đang bùng cháy.
+Đập vào mắt hắn là một con người đang được bao bọc trong luồng hào quang đỏ rực dữ dội tựa ngọn lửa bùng cháy.
 
-Theo phản xạ, câu hỏi “Kẻ nào thế” đã thốt ra khỏi miệng, nhưng từ tận đáy lòng, hắn thực sự muốn biết danh tính của con người đang ẩn chứa sức mạnh đáng sợ này. Đó không phải là 『Quang Chi Tử』. Nhưng sức mạnh đó có thể sánh ngang, không, kẻ trước mắt này dường như đang phát huy một sức mạnh vượt trội hơn cả kẻ mà hắn từng chiến đấu khi đó.
+Theo phản xạ, câu hỏi “Kẻ nào thế” đã buột ra khỏi miệng, nhưng tự sâu thẳm tâm can, hắn thực sự muốn biết danh tính của con người đang ẩn chứa uy lực đáng sợ này. Kẻ đó không phải là 『Quang Chi Tử』. Nhưng nguồn sức mạnh kia hoàn toàn có thể sánh ngang, không, thậm chí kẻ trước mắt này dường như còn đang phát huy thứ sức mạnh vượt trội hơn cả đối thủ mà hắn từng đụng độ khi trước.
 
-Sự xuất hiện của một kẻ mạnh mới bên phía con người nằm ngoài mọi dự tính khiến hắn vô cùng kinh ngạc, nhưng cơ thể hắn không được rèn luyện một cách yếu ớt đến mức bị đông cứng bởi điều đó.
+Sự xuất hiện của một kẻ địch hùng mạnh mới bên phía loài người hoàn toàn nằm ngoài dự liệu khiến hắn không khỏi kinh ngạc, song cơ thể kinh qua trăm trận của hắn tuyệt đối không mềm yếu đến mức bị chôn chân bởi sự ngỡ ngàng.
 
-Zagan tung ra một cú đấm sắc lẹm nhằm đánh rụng con người đang bay thẳng tới.
+Zagan tung ra một cú đấm sắc lẹm nhằm đánh rụng con người đang lao tới.
 
 “Uraaa!”
 
-Cú đấm đón đánh được tung ra cùng với tiếng hét xé lòng đã nhắm chuẩn xác vào con người đang lao thẳng tới————đáng lẽ là như vậy.
+Cú đấm đón đầu được tung ra cùng tiếng thét xé lòng nhắm chuẩn xác vào mục tiêu đang phóng tới————đáng lẽ phải là như vậy.
 
-Ngay trước khi va chạm, con người đó đã bẻ lái. Cô ta đã thay đổi quỹ đạo ngay giữa không trung.
+Thế nhưng ngay trước khoảnh khắc va chạm, con người đó đã bẻ ngoặt hướng đi. Cô ta đã tự ý thay đổi quỹ đạo ngay giữa không trung.
 
-Hắn biết rằng nếu đạt đến cực hạn của võ kỹ tăng cường lực chân, người ta có thể đạp vào hư không để nhảy lên, nhưng không ngờ ngoài bản thân ra lại có kẻ khác học được chiêu này. Sự khinh thường rằng một kẻ như con người làm sao có thể chạm tới đỉnh cao của võ kỹ đã biến thành sơ hở chí mạng.
+Hắn biết rằng nếu tôi luyện võ kỹ cường hóa lực chân tới cảnh giới tối cao, người ta có thể đạp lên hư không để đổi hướng, nhưng không ngờ ngoài bản thân ra lại có kẻ khác lĩnh hội được bí kỹ này. Sự khinh suất cho rằng lũ con người yếu ớt không thể chạm tới đỉnh cao võ học đã biến thành sơ hở chết người.
 
 “————Hắc (Hắc Nại).”
 
-Giọng nói tĩnh lặng của con người đó truyền đến tai hắn như thể đang thì thầm bên cạnh.
+Giọng nói lạnh băng của ả truyền vào tai hắn tựa như một lời thì thầm bên gối.
 
-Ngay sau đó, một cảm giác nóng rát chạy dọc cổ hắn.
+Ngay khoảnh khắc tiếp theo, một cảm giác nóng rát tột cùng rạch ngang qua cổ hắn.
 
 “Nuuu… Gwaaaaaaaaaaaaaaaaaaaaaa!?”
 
-Bị chém rồi. Vết chém cực sâu. Nếu không nhờ 『Khổng Lồ Hóa』 thì hắn đã mất mạng ngay tức khắc.
+Bị chém trúng rồi! Vết chém sâu hoắm. Nếu không nhờ có 『Khổng Lồ Hóa』 che chở, hẳn hắn đã bay đầu tại chỗ.
 
-Vừa dùng tay ấn chặt lấy dòng máu tươi đang tuôn trào, Zagan vừa vô cùng hối hận về sự bất cẩn của mình.
+Vừa lấy tay ấn chặt lấy dòng máu tươi đang trào xối xả, Zagan vừa vô cùng căm phẫn sự bất cẩn của chính mình.
 
-Không có đòn truy kích nào tiếp theo. Quả thực với tốc độ lao tới kinh hoàng như vậy, việc lập tức quay người lại để tấn công tiếp là điều bất khả thi.
+Không hề có đòn truy kích nào tiếp nối. Quả thực với vận tốc lao đi kinh hoàng như vậy, việc lập tức quay ngoắt người lại để tấn công tiếp là điều bất khả thi.
 
-Con người đã tặng cho Đại Chiến Sĩ Trưởng Zagan một đòn chí mạng này đã đáp xuống bên cạnh 『Chú Thuật Ngự Tử』 đang chờ sẵn trên bức tường thành.
+Kẻ vừa ban cho Đại Chiến Sĩ Trưởng Zagan một đòn chí mạng đã đáp xuống bên cạnh 『Chú Thuật Ngự Tử』 đang đứng đợi sẵn trên mặt thành.
 
-Một Chú Thuật Ngự Tử nhỏ bé như một đứa trẻ, và một con người cao lớn, đứng sừng sững đầy oai phong như một Đại Chiến Sĩ. Hình ảnh hai kẻ đứng cạnh nhau đó có nét gì đó trùng lặp với hình ảnh của Vua Oh-ma và chính hắn.
+Một Chú Thuật Ngự Tử nhỏ thó như một đứa trẻ, và một con người cao lớn, sừng sững đầy uy nghiêm tựa một Đại Chiến Sĩ. Hình ảnh hai kẻ đứng cạnh nhau kia dường như có nét tương đồng kỳ lạ với hình bóng của Vua Oh-ma và chính hắn.
 
-Có vẻ như đối với Ngự Tử, con người đó chính là Đại Chiến Sĩ Trưởng của cậu ta.
+Xem ra đối với tên Ngự Tử kia, con người đó chính là Đại Chiến Sĩ Trưởng hộ mệnh của cậu ta.
 
-“Hãy mọc ra mầm thịt, hãy vươn dài dây leo biến thành máu thịt, tạo nên thân cây xương thịt————『Nhục Thể Tái Sinh』.”
+“Hãy mọc ra mầm thịt, hãy vươn dài dây leo biến thành máu huyết, đắp nặn nên thân cây cốt nhục————『Nhục Thể Tái Sinh』.”
 
-Vết thương trên cổ Zagan lập tức khép miệng lại trong khi bọt máu vẫn còn đang sủi lên sùng sục.
+Vết thương trên cổ Zagan lập tức khép miệng lại trong khi bọt máu vẫn còn sôi lên sùng sục.
 
-Dưới chân hắn là hình ảnh Oh-ma đang giơ cao cây gậy phép.
+Ngay dưới chân hắn, Oh-ma đang giơ cao quyền trượng ma pháp.
 
-“Đa tạ sự trợ giúp của ngài, bệ hạ Oh-ma.”
+“Đa tạ ơn cứu giúp của ngài, bệ hạ Oh-ma.”
 
-“Không có gì, giờ đây đây đã là một trận quyết đấu. Nhìn xem, bọn chúng cũng đang lập thành cặp bài trùng giữa thuật giả và chiến sĩ đấy thôi.”
+“Không có gì, giờ đây trận chiến đã biến thành một cuộc quyết đấu thực sự. Ngươi thấy đấy, bọn chúng cũng đang hợp thành cặp bài trùng giữa thuật giả và chiến sĩ.”
 
-Có vẻ như dưới mắt của Oh-ma, hình ảnh Ngự Tử và chiến sĩ đứng cạnh nhau cũng hiện lên như vậy.
+Có vẻ như trong mắt Oh-ma, hình ảnh Ngự Tử và chiến sĩ đứng cạnh nhau cũng hiện lên đầy tương xứng như vậy.
 
 “Chúng ta sẽ nghênh chiến chứ?”
 
 “Rõ!”
 
-“Ta là Vua Goma vĩ đại Oh-ma. Còn ngươi là Đại Chiến Sĩ Trưởng đứng đầu vạn quân. Chúng ta mới là kẻ mạnh nhất. Hãy để cho lũ con người ngu xuẩn kia biết thế nào là lễ độ!”
+“Ta là Vua Goma vĩ đại Oh-ma. Còn ngươi là Đại Chiến Sĩ Trưởng thống lĩnh vạn quân. Chúng ta mới là những kẻ mạnh nhất! Hãy dạy cho lũ sâu bọ con người kia biết thế nào là lễ độ!”
 
 “Tuân lệnh! Chúng ta mới là kẻ mạnh nhất!!”
 
-Đây chính là trận quyết chiến đỉnh cao giữa Goma và con người. Liệu trong quá khứ đã từng có một thời khắc quyết định nào như thế này chưa?
+Đây chính là trận long tranh hổ đấu đỉnh cao giữa tộc Goma và loài người. Liệu trong dòng chảy lịch sử đã từng xuất hiện một thời khắc định đoạt hào hùng đến nhường này hay chưa?
 
-Những vết thương từ lúc bị rơi xuống vực sâu vẫn chưa lành hẳn. Vũ khí cũng đã mất. Tuy nhiên, cơ thể Zagan đang tràn ngập sức mạnh của 『Khổng Lồ Hóa』, và linh hồn hắn đang rực cháy ý chí chiến đấu.
+Những thương tổn từ cú rơi xuống vực sâu vẫn chưa lành hẳn. Binh khí tùy thân cũng đã thất lạc. Tuy nhiên, cơ thể Zagan lúc này đang cuộn trào sức mạnh của 『Khổng Lồ Hóa』, và linh hồn hắn đang rực cháy ngọn lửa chiến đấu bất diệt.
 
-Đối mặt với Đại Chiến Sĩ Trưởng Zagan đang tăng cường luồng hào quang ma lực màu tím lên một tầng nữa, chiến sĩ của Ngự Tử là,
+Đối mặt với Đại Chiến Sĩ Trưởng Zagan đang bùng nổ luồng hào quang ma lực màu tím lên một tầng cao mới, chiến sĩ bên phía Ngự Tử cũng,
 
 “Haaaaa… Oooooooooaaaaaaaaaaaaaa!”
 
-Cô ta gầm lên một tiếng như tiếng gầm của loài rồng, đồng thời giải phóng một luồng hào quang ma lực mạnh mẽ không hề kém cạnh.
+Ả ta rống lên một tiếng tựa như tiếng gầm của loài rồng, đồng thời phóng thích một luồng hào quang ma lực cuồng bạo không hề kém cạnh.
 
-Luồng hào quang phun trào như vũ bão từ khắp cơ thể cô ta là sự pha trộn giữa sắc đỏ rực của lửa hồng và sắc đen kịt như đêm tối, một màu sắc đầy điềm gở. Hơn nữa, thanh kiếm tỏa ra luồng khí nguyền rủa đáng sợ trên tay cô ta cũng đang hấp thụ luồng hào quang đó để khuếch đại sức mạnh nguyền rủa ghê tởm của nó.
+Luồng hào quang tuôn trào như bão táp từ khắp cơ thể ả là sự giao hòa ghê rợn giữa sắc đỏ rực của lửa thiêng và sắc đen ngòm của màn đêm u tối. Hơn thế nữa, thanh kiếm toát ra tà khí nguyền rủa đáng sợ trên tay ả cũng đang điên cuồng hấp thụ luồng hào quang ấy để khuếch đại uy lực nguyền rủa tột cùng.
 
-“Hừm, quả là một sức mạnh tà ác xứng đáng với lũ con người… Zagan, đừng coi ả ta là một chiến sĩ thông thường.”
+“Hừm, quả là thứ sức mạnh tà đạo xứng danh lũ con người… Zagan, chớ có xem ả là một chiến sĩ tầm thường.”
 
-“Đúng vậy. Có lẽ nên gọi ả ta là Cuồng Chiến Binh.”
+“Đúng vậy. Có lẽ phải gọi ả ta là một Cuồng Chiến Binh.”
 
-Không phải là một chiến sĩ thông thường. Nhưng để gọi là Đại Chiến Sĩ như một vị anh hùng vĩ đại sở hữu sức mạnh to lớn thì thật là khiên cưỡng.
+Không phải là một chiến sĩ bình thường. Nhưng để tôn xưng là một Đại Chiến Sĩ tựa như bậc dũng sĩ vĩ đại sở hữu sức mạnh chính trực thì thật quá khiên cưỡng.
 
-Sở hữu sức mạnh vượt qua cả chiến sĩ nhưng lại sử dụng sức mạnh của sự điên cuồng tà ác, cái tên đáng ghét Cuồng Chiến Binh mới là phù hợp nhất với cô ta.
+Kẻ nắm giữ sức mạnh vượt tầm chiến sĩ nhưng lại sa đà vào sự điên loạn tà ác, danh xưng ghê tởm Cuồng Chiến Binh mới là thứ định danh chuẩn xác nhất dành cho ả.
 
-“Đi đi, Zagan. Ngươi chỉ cần tập trung vào việc nghiền nát con mụ Cuồng Chiến Binh đó thôi. Cho dù tên Chú Thuật Ngự Tử kia có dùng mưu hèn kế bẩn gì đi chăng nữa, ta cũng sẽ không cho phép hắn thành công.”
+“Tiến lên, Zagan! Ngươi chỉ cần dốc toàn lực nghiền nát con ả Cuồng Chiến Binh đó! Cho dù tên Chú Thuật Ngự Tử kia có giở trò ma quỷ gì đi chăng nữa, ta tuyệt đối sẽ không để hắn toại nguyện!”
 
-“Tuân lệnh! Ta chính là Đại Chiến Sĩ Trưởng Zagan! Đại Chiến Sĩ Trưởng Zagan! Hãy đường đường chính chính phân thắng bại!”
+“Tuân lệnh! Ta chính là Đại Chiến Sĩ Trưởng Zagan! Hãy đường đường chính chính phân định thắng bại!”
 
 “Haaaaaaaaaaaaaaaaaaaaaa!!”
 
-Cùng với lời tuyên chiến của Zagan, bức màn của trận chiến cuối cùng cũng được vén lên.
+Cùng với lời tuyên chiến đanh thép của Zagan, tấm màn nhung của trận tử chiến cuối cùng đã chính thức vén lên.
 
-Cuồng Chiến Binh lao ra khỏi bức tường thành với một đà thế giống như lúc nãy, không, thậm chí còn dữ dội hơn thế. Bỏ lại tiếng gầm điên cuồng ở phía sau, một khối sát ý tỏa ra ánh sáng đỏ đen bay vút đi.
+Ả Cuồng Chiến Binh phóng mình khỏi mặt thành với một khí thế hung bạo tương tự như vừa nãy — không, thậm chí còn điên cuồng hơn gấp bội. Bỏ lại tiếng rống cuồng loạn sau lưng, một khối sát ý bọc trong ánh sáng đỏ đen xé gió lao đi vun vút.
 
-“Đến cả việc xưng danh cũng không thèm làm, quả nhiên là Cuồng Chiến Binh. Một lũ thú vật đã vứt bỏ cả lòng kiêu hãnh của chiến sĩ để đổi lấy sức mạnh————『Hào Quyền』!”
+“Đến cả việc xưng danh cũng chẳng buồn làm, quả nhiên đúng là loài Cuồng Chiến Binh mạt hạng! Lũ súc sinh đã vứt bỏ danh dự của một chiến binh để đổi lấy sức mạnh————『Hào Quyền』!”
 
-Dù đã mất đi thanh kiếm yêu thích và đang tay không tấc sắt, nhưng đối với một Đại Chiến Sĩ, bản thân cơ thể khổng lồ đó đã là một thứ hung khí, không, một món vũ khí quá đủ rồi.
+Dẫu đã mất đi thanh kiếm yêu thích và tay không tấc sắt, nhưng đối với một Đại Chiến Sĩ, bản thân thể xác khổng lồ kia đã là một thứ hung khí, một món vũ khí quá đỗi hoàn hảo.
 
-Kỹ năng 『Hào Quyền』 được kích hoạt vừa là một võ kỹ, vừa là một biến dị thuật giúp tái tạo cơ thể chuyên dùng cho chiến đấu.
+Kỹ năng 『Hào Quyền』 được khai triển vừa là một môn võ kỹ thượng thừa, vừa là một biến dị thuật giúp tái cấu trúc cơ thể chuyên dụng cho chiến đấu.
 
-Bốn cánh tay của GoGame Mastera là ví dụ điển hình cho biến dị thuật, nhưng đối với một Đại Chiến Sĩ, đó là một thuật kỹ cao cấp hơn khi chỉ biến dị những phần cần thiết vào lúc cần thiết. Luồng hào quang màu tím tập trung đậm đặc hơn trên hai cánh tay của Zagan, và trên đó bắt đầu hình thành những chiếc vảy sắc nhọn tỏa ra ánh sáng bạc như những lưỡi đao.
+Bốn cánh tay của Goma chỉ là ví dụ sơ đẳng của biến dị thuật, còn đối với một Đại Chiến Sĩ, đó là thuật kỹ cao cấp hơn nhiều: chỉ biến dị những bộ phận trọng yếu vào thời khắc quyết định. Luồng hào quang màu tím cô đặc lại trên đôi tay của Zagan, và trên bề mặt da thịt bắt đầu kết tinh những phiến vảy sắc nhọn lấp lánh ánh bạc tựa như hàng trăm lưỡi đao.
 
-Nhờ vào uy lực của võ kỹ và sự hiện diện của những chiếc vảy vật lý, hai cánh tay của Zagan đã biến thành những món vũ khí có thể đối đầu trực diện với thanh đao nguyền rủa của Cuồng Chiến Binh.
+Nhờ vào uy lực võ đạo cùng sự gia cố vật lý từ lớp vảy kim loại, đôi nắm đấm của Zagan đã hóa thành món binh khí đủ sức va chạm trực diện với thanh ma đao của Cuồng Chiến Binh.
 
 “Seya!”
 
 “————Đoạn (Phá Đoạn).”
 
-Nắm đấm của Zagan và võ kỹ của Cuồng Chiến Binh giao nhau. Những tia lửa và ánh sáng ma lực bắn ra tung tóe dữ dội.
+Nắm đấm thép của Zagan và tuyệt kỹ của Cuồng Chiến Binh va vào nhau chan chát. Vô số tia lửa cùng những mảnh vỡ ma lực bắn tung tóe mù mịt.
 
-Cuộc đọ sức giữa hai kẻ đang đứng trên đỉnh cao của chiến sĩ không thể kết thúc chỉ sau một hiệp đấu. Những vệt kiếm lóe lên và những luồng xung kích quét qua chỉ trong chớp mắt.
+Cuộc đọ sức đỉnh cao giữa hai thực thể đứng trên đỉnh phong chiến đấu không thể ngã ngũ chỉ sau một chiêu thức. Những vệt chém lóe sáng và những luồng xung kích chấn động xé toạc không gian chỉ trong chớp mắt.
 
-Cuồng Chiến Binh liên tục tung ra những nhát chém tốc độ cao trong khi nhảy nhót đa chiều giữa hư không một cách tự do như thể đang bay lượn. Đối mặt với điều đó, Zagan cũng di chuyển một cách khéo léo để tuyệt đối không để con người nhỏ bé kia lọt vào góc chết của mình.
+Ả Cuồng Chiến Binh liên tục vung ra những nhát chém cuồng phong trong khi thoăn thoắt nhảy múa đa chiều giữa không trung như thể đang bay lượn tự do. Đối đầu với điều đó, Zagan cũng di chuyển cực kỳ linh hoạt để tuyệt đối không để thân ảnh nhỏ bé của con người lọt vào góc chết thị giác.
 
-Trận chiến dữ dội như một cơn bão cục bộ quét qua dần dần di chuyển vào bên trong pháo đài. Một Cuồng Chiến Binh liên tục tấn công dồn dập không một giây dừng lại, và một Zagan vừa phòng thủ vừa đuổi theo. Việc xen vào giữa trận chiến của hai kẻ này là điều bất khả thi đối với một chiến sĩ thông thường.
+Trận bão táp chiến tranh dữ dội dần dần dịch chuyển sâu vào bên trong pháo đài. Một Cuồng Chiến Binh dồn dập tấn công không ngơi nghỉ nửa nhịp, và một Zagan vừa vững vàng phòng ngự vừa rình rập phản công. Việc chen chân vào giữa cuộc chiến của hai kẻ quái vật này là điều bất khả thi đối với bất kỳ chiến binh tầm thường nào.
 
-Thế nhưng, kẻ đang ngang nhiên bước chân vào thánh địa của những chiến sĩ đang chiến đấu ác liệt đó lại chính là Chú Thuật Ngự Tử.
+Thế nhưng, kẻ đang ngang nhiên nhúng tay vào thánh địa giao tranh ác liệt ấy lại chính là Chú Thuật Ngự Tử.
 
-“————Yogomichiii! (Ngoạm lấy nó đi, 『Vô Đạo Nhất Thức』!)”
+“————Yogomichiii! (Ngoạm lấy nó, 『Vô Đạo Nhất Thức』!)”
 
-Trên bức tường thành, Ngự Tử đang vung cây gậy dài gắn chiếc đầu lâu dị dạng đáng sợ.
+Đứng trên mặt thành cao, tên Ngự Tử đang vung vẩy cây trường trượng gắn chiếc đầu lâu dị dạng gớm ghiếc.
 
-Thứ bay ra từ ma pháp trận màu máu và cái bóng hỗn mang được vẽ ra là một ma vật quá đỗi kỳ dị để có thể gọi là một con chim.
+Thứ chui ra từ ma pháp trận màu máu và bóng tối hỗn mang là một ma vật quá đỗi quái dị để có thể gọi là chim muông.
 
-Thân hình nó dài ngoằn như một con đại xà, và từ đó mọc ra vô số đôi cánh. Có đôi cánh chim được bao phủ bởi lông vũ, có đôi cánh màng như của loài dơi, và thậm chí có cả đôi cánh côn trùng bán trong suốt.
+Thân hình nó dài ngoằng như loài cự xà, và từ thân mình mọc ra chi chít vô số đôi cánh. Có đôi cánh lông vũ của loài chim, có đôi cánh màng da của loài dơi, thậm chí có cả những đôi cánh côn trùng bán trong suốt.
 
-Oh-ma cũng đã nhìn thấy ma pháp triệu hồi ra sự tồn tại ghê tởm đáng gọi là thú tổng hợp pha trộn đặc tính của nhiều loài ma vật và động vật này trong trận chiến ở Đông Môn. Một năng lực không thể xem thường khi đã kiềm chế được Bandon, kẻ sở hữu lực phòng ngự mạnh nhất trong số các Đại Chiến Sĩ, dù chỉ là tạm thời.
+Oh-ma cũng từng chứng kiến thuật triệu hồi quái thai lai tạp tổng hợp đặc tính của muôn loài ma thú này trong trận chiến tại Đông Môn. Một năng lực không thể xem thường khi từng kiềm tỏa được cả Bandon — kẻ sở hữu khả năng phòng ngự kiên cố nhất trong các Đại Chiến Sĩ, dù chỉ là trong thoáng chốc.
 
-Chú Thuật Ngự Tử đã thả con thú tổng hợp có thể sánh ngang với Đại Chiến Sĩ đó về phía Zagan. Bằng cách kết hợp các bộ phận cánh, nó đã có được khả năng cơ động để bám theo Zagan, kẻ đang vừa di chuyển vừa chiến đấu.
+Tên Chú Thuật Ngự Tử đã thả con quái thú dị hình có sức mạnh sánh ngang Đại Chiến Sĩ đó lao thẳng về phía Zagan. Bằng cách kết hợp vô số đôi cánh, nó sở hữu khả năng cơ động điên cuồng để bám đuổi theo Zagan, kẻ đang vừa di chuyển vừa kịch chiến.
 
-Nếu cứ để mặc nó, nó có thể tạo ra một sơ hở chí mạng trong trận cận chiến với Cuồng Chiến Binh.
+Nếu cứ mặc kệ nó quấy nhiễu, nó chắc chắn sẽ tạo ra sơ hở chí mạng cho Zagan trong trận giáp lá cà với Cuồng Chiến Binh.
 
-Nhưng ta sẽ không để ngươi làm vậy, Oh-ma cũng vung gậy kích hoạt thuật pháp.
+Nhưng ta đâu dễ để ngươi toại nguyện! Oh-ma lập tức vung quyền trượng kích hoạt bí thuật.
 
-“Hãy đến đi lôi vân, ánh chớp ẩn hiện trong bóng tối, hãy vung tay phán xét xuống————『Hoang Thiên Lạc Lôi』.”
+“Hãy tụ hội đi hỡi lôi vân, ánh chớp ẩn hiện nơi vực thẳm bóng tối, hãy giáng sấm sét phán xét xuống trần gian————『Hoang Thiên Lạc Lôi』!”
 
-Trên bầu trời vương quốc, những đám mây mưa dùng để dập lửa vẫn đang lơ lửng. Khi chúng tụ lại phía trên pháo đài như một vòng xoáy, chúng tạo thành những đám mây đen kịt, và tiếng sấm bắt đầu rền vang dữ dội.
+Trên bầu trời vương quốc, những đám mây mưa dùng để dập tắt hỏa hoạn ban nãy vẫn chưa tan biến. Khi chúng xoáy tụ lại phía trên pháo đài thành một vòng xoáy khổng lồ, bầu trời tối sầm lại trong những đám mây đen kịt, và tiếng sấm sét bắt đầu gầm rống long trời lở đất.
 
-Ngay trước khi con thú tổng hợp có cánh chuẩn bị lao vào Zagan, những tia sét chói lòa được giáng xuống.
+Ngay trước khoảnh khắc con quái thú nhiều cánh chuẩn bị bổ nhào vào Zagan, những lôi kích chói lòa đã giáng thẳng xuống.
 
-Một tia, hai tia, những tia sét phóng ra từ đám mây tăng lên với tốc độ chóng mặt, dồn dập lao về phía con thú tổng hợp như thể đang thực thi sự phán xét của thần linh. Bị đánh trúng bởi vô số tia sét, con thú tổng hợp lập tức bị cháy đen thui và rơi rụng xuống đất.
+Một tia, hai tia, rồi vô số luồng thiên lôi phóng ra từ đám mây với tốc độ kinh hoàng, dồn dập trút thẳng vào đầu con quái vật như một cuộc hành quyết của thần linh. Bị hàng chục tia sét thiêu đốt cùng lúc, con thú tổng hợp lập tức biến thành một khối than cháy đen thui rồi rơi rụng xuống nền đất.
 
-“Tch, quả nhiên hắn có thể điều khiển thời tiết.”
+“Tch, quả nhiên hắn có thể thao túng thời tiết.”
 
-“Đúng vậy, năng lực điều khiển thời tiết này chính là phép màu kỳ diệu được thần linh ban tặng!”
+“Phải, quyền năng điều khiển thiên tượng này chính là phép màu vĩ đại được thần linh tối cao ban tặng!”
 
-Ta khác hẳn với kẻ sử dụng sức mạnh nguyền rủa ghê tởm như ngươi.
+Bản vương hoàn toàn khác biệt với loại cặn bã sử dụng tà thuật nguyền rủa ghê tởm như ngươi!
 
-Oh-ma hét lên đầy tự hào với Ngự Tử, kẻ đang nhìn chằm chằm vào con thú tổng hợp bị bắn rơi từ bức tường thành với vẻ mặt đầy khó chịu.
+Oh-ma ngạo nghễ gầm lên với tên Ngự Tử, kẻ đang đứng trên tường thành nhìn chằm chằm vào xác con quái vật bị sét đánh hạ với vẻ mặt vô cùng khó chịu.
 
-“Nào, Chú Thuật Ngự Tử, giờ là lúc ngươi phải nhận sự phán xét của thần linh————『Hoang Thiên Lạc Lôi』!”
+“Nào, hỡi Chú Thuật Ngự Tử, giờ là lúc ngươi phải chịu sự phán quyết của thần linh————『Hoang Thiên Lạc Lôi』!”
 
-Đám mây lôi âm vẫn đang gầm rú mà không hề tan đi.
+Tầng mây sấm sét vẫn cuồn cuộn gầm thét mà không hề suy suyển.
 
-Đối với Ngự Tử đang đứng trên bức tường thành, không có cách nào để trốn thoát khỏi lôi kích. Trận chiến giữa vua và Ngự Tử, phần thắng thuộc về ta. Oh-ma vung gậy xuống đầy tự tin.
+Đối với tên Ngự Tử đang đứng trơ trọi trên đỉnh tường thành, không có bất kỳ ngóc ngách nào để trốn thoát khỏi lôi phạt. Trận chiến giữa một quân vương và một tên Ngự Tử tà đạo, phần thắng ắt thuộc về ta! Oh-ma vung quyền trượng xuống đầy quyết đoán.
 
 “Luyện thành!”
 
-Ngự Tử hét lên một tiếng kỳ lạ rồi phủ phục xuống đất. Thật là một tư thế thảm hại. Ngươi nghĩ trốn như thế là xong sao, chỉ bằng cách cúi đầu thấp xuống thì không thể nào thoát khỏi tia sét giáng xuống từ trên trời đâu.
+Tên Ngự Tử hô lên một tiếng kỳ quặc rồi lập tức phủ phục sát đất. Đúng là một tư thế hèn mạt nực cười. Ngươi tưởng nằm bẹp xuống là thoát sao? Chỉ bằng cách cúi đầu rạp mình thì làm sao tránh được sấm sét từ trên trời giáng xuống!
 
-Ngay vào khoảnh khắc Oh-ma chuẩn bị chứng kiến cái chết đáng thương và ngu xuẩn của Ngự Tử, một cây cột đột ngột nhô ra từ bức tường thành với tiếng rắc rắc dữ dội.
+Ngay vào khoảnh khắc Oh-ma đinh ninh sắp được chứng kiến cái chết thảm hại và ngu xuẩn của tên Ngự Tử, một cây cột bất ngờ trồi lên từ mặt thành kèm theo âm thanh răng rắc chói tai.
 
-Cây cột nhô lên mạnh mẽ như Thổ ma thuật, vươn thẳng lên trời như muốn đâm thủng bầu khí quyển. Nó không quá dày, cũng không đủ lớn để có thể dùng làm vật che chắn cơ thể.
+Cây cột vươn cao mạnh mẽ tựa như Thổ ma thuật, đâm thẳng lên trời cao như muốn xé toạc bầu khí quyển. Nó không quá dày, cũng chẳng đủ bề ngang để làm vật chắn che chở cho thân thể.
 
-Ngự Tử lăn lộn bò lê bò càng ra xa khỏi cây cột do chính mình tạo ra như thể đang chạy trốn, và rồi,
+Tên Ngự Tử lăn lộn bò lê bò càng ra xa khỏi cây cột do chính mình tạo ra như thể đang tháo chạy trối chết, và rồi —
 
-Đoàng!
+*ĐOÀNG!*
 
-Tia sét của 『Hoang Thiên Lạc Lôi』 được phóng xuống ngay lúc đó.
+Tia sét hủy diệt của 『Hoang Thiên Lạc Lôi』 bổ thẳng xuống ngay tích tắc ấy.
 
-Tia sét giáng xuống bị hút thẳng vào đầu cây cột như thể bị nam châm hút.
+Thế nhưng, luồng thiên lôi giáng xuống lại bị hút trọn vào đỉnh cây cột kim loại như thể bị nam châm cực mạnh lôi kéo.
 
-Những tia sét tiếp theo được phóng xuống cũng đều đánh trúng vào cây cột đó.
+Những tia sét tiếp theo liên tiếp giáng xuống cũng đều bị cây cột ấy hút sạch, không sót một tia nào.
 
-“Cá… Cái gì! Tại sao lại không trúng!?”
+“Cá… Cái gì!? Tại sao lại không trúng!?”
 
-Đó là sự bảo hộ của tà thần sao? Hay là trên cây cột đó có khắc một thuật thức ma pháp đặc biệt nào đó để triệt tiêu lôi kích?
+Đó là sự bảo hộ của tà thần sao? Hay trên cây cột đó có khắc đồ hình ma pháp đặc biệt nào để hóa giải lôi kích?
 
-『Hoang Thiên Lạc Lôi』 chỉ có thể nhắm mục tiêu một cách tương đối. Tuy nhiên, trước những tia sét được giáng xuống liên tục, việc tất cả đều trượt là điều hoàn toàn bất khả thi.
+『Hoang Thiên Lạc Lôi』 vốn chỉ có thể khóa mục tiêu một cách tương đối. Tuy nhiên, trước hàng loạt tia lôi kích đánh xuống dồn dập, việc toàn bộ đều đánh trượt mục tiêu là điều vô lý đến mức không tưởng!
 
-Cũng không phải là do thuật thức bị lỗi. Những con thú tổng hợp lúc nãy đều bị đánh trúng không trượt phát nào.
+Tuyệt đối không phải do thuật thức bị lỗi. Bằng chứng là con quái thú lúc nãy đã bị đánh trúng không trượt một phát nào.
 
-Bộ óc nhạy bén của Oh-ma lập tức hoạt động hết công suất để giải mã hiện tượng không thể hiểu nổi này. Mọi khả năng có thể xảy ra và những bằng chứng phản bác lại chúng. Đồng thời, hắn lục tìm trong ký ức xem mình đã từng nhìn thấy thứ gì tương tự chưa.
+Trí tuệ trác tuyệt của Oh-ma lập tức vận hành hết công suất để bóc tách hiện tượng không tưởng này. Mọi giả thuyết được đặt ra và lập tức bị những luận cứ phản bác dập tắt. Đồng thời, hắn lục lọi trong ký ức xem bản thân đã từng chứng kiến cảnh tượng tương tự ở đâu chưa.
 
-“Sét đánh vào cây cổ thụ… cũng tương tự như vậy sao?”
+“Sét luôn đánh vào những ngọn cây cổ thụ cao nhất… Lẽ nào cũng cùng một nguyên lý!?”
 
-Một cảnh tượng tự nhiên mà từ trước đến nay hắn chưa từng bận tâm đột ngột hiện lên trong đầu Oh-ma.
+Một hiện tượng tự nhiên mà từ trước đến nay hắn chưa từng mảy may bận tâm đột ngột lóe lên trong tâm trí Oh-ma.
 
-Hắn cứ nghĩ đó là điều hiển nhiên. Nhưng nếu như ở đó có một nguyên lý mà hắn không hề biết đến thì sao.
+Hắn cứ ngỡ đó là điều hiển nhiên của trời đất. Nhưng nếu như ẩn sau đó là một quy luật vật lý mà hắn chưa từng hay biết thì sao?
 
-Và nếu như Ngự Tử biết rõ điều đó. Thì chẳng cần đến ma pháp đặc biệt nào cả. Chỉ cần dựng lên một cấu trúc dễ bị sét đánh, kẻ đó có thể dễ dàng vô hiệu hóa lôi kích ngay cả khi đang ở ngoài trời.
+Và nếu như tên Ngự Tử kia nắm rõ quy luật ấy trong lòng bàn tay… thì hắn chẳng cần đến bất kỳ ma pháp cao siêu nào cả. Chỉ cần dựng lên một cấu trúc dẫn sét, kẻ đó có thể dễ dàng vô hiệu hóa toàn bộ sấm sét giáng xuống ngay giữa thanh thiên bạch nhật!
 
-“Khốn kiếp, ngươi dám tự phụ là sở hữu trí tuệ vượt trội hơn ta sao…”
+“Khốn kiếp… Ngươi dám tự phụ rằng bản thân nắm giữ tri thức vượt trên cả ta sao…”
 
-Chú Thuật Ngự Tử. Việc tên đó có thể tiêu diệt vương quốc không phải chỉ dựa vào sự bảo hộ của tà thần. Có lẽ, kẻ đó biết rõ những quy luật của thế giới mà ngay cả một Vua Goma như hắn cũng không hề hay biết.
+Chú Thuật Ngự Tử. Việc tên khốn đó có thể phá hủy cả một vương quốc không đơn thuần chỉ dựa vào sự che chở của tà thần. Có lẽ, kẻ đó thực sự am hiểu những quy luật vận hành của thế giới này — những điều mà ngay cả một đấng quân vương như hắn cũng chưa từng thấu suốt.
 
-Bằng cách tập hợp tất cả trí tuệ và mưu lược đó, tên đó đã đi được đến tận đây chỉ với một nhóm nhỏ thuộc hạ.
+Bằng cách đan cài tất cả mưu mô và tri thức dị giới đó lại với nhau, tên đó đã đặt chân được đến tận nơi này chỉ với một nhóm tàn quân ít ỏi.
 
-“Nhưng đây là đất nước của ta, là thành trì của ta. Ta sẽ không thua đâu, cho dù ngươi có nhận được bao nhiêu sự chỉ dẫn đi chăng nữa, ta cũng quyết không khuất phục!”
+“Nhưng đây là giang sơn của ta, là thành trì của ta! Bản vương quyết không thua! Dù ngươi có nhận được bao nhiêu sự chỉ dẫn đi chăng nữa, ta cũng tuyệt đối không cúi đầu!”
 
-Thay đổi chiến thuật. Oh-ma lập tức chấm dứt thuật pháp 『Cầu Mưa Đại Tế』 tại đây.
+Lập tức đổi chiến thuật! Oh-ma quyết đoán giải trừ thuật thức 『Cầu Mưa Đại Tế』.
 
-Việc tiếp tục sử dụng lôi kích đã bị vô hiệu hóa chỉ là sự lãng phí ma lực vô ích. Chỉ riêng việc duy trì đám mây lôi âm cũng đã tiêu tốn một lượng ma lực không hề nhỏ rồi.
+Việc tiếp tục duy trì lôi kích đã bị khắc chế chỉ là sự lãng phí ma lực vô ích. Chỉ riêng việc duy trì màn mây giông bão cũng đã ngốn một lượng ma lực khổng lồ.
 
-Hiệu quả của những vật tế dâng lên ma pháp trận cũng có giới hạn. Dù vẫn còn vài vu nữ chưa dâng tế, nhưng hắn không còn nhiều thời gian dư dả nữa.
+Hiệu năng từ những vật tế dâng lên ma pháp trận không phải là vô hạn. Dẫu vẫn còn vài vu nữ dự phòng chưa đưa lên bệ tế, nhưng thời gian của hắn không còn nhiều.
 
-“Nếu ngươi đã biết cách tránh sét, vậy ngươi có cách nào để tránh đá rơi không? Những viên đá bay loạn xạ, những tảng đá lơ lửng, như mặt nước trôi chảy, hãy nổi lên, chìm xuống và bùng phát dữ dội————『Nộ Đào Thổ Thạch』.”
+“Nếu ngươi đã biết cách hóa giải sấm sét, vậy để xem ngươi tránh né đá rơi bằng cách nào! Hỡi những mảnh đá cuồng loạn, hỡi những khối nham thạch lơ lửng, hãy tựa như sóng trào cuộn chảy, nổi lên, chìm xuống và bùng nổ dữ dội————『Nộ Đào Thổ Thạch』!”
 
-Cốp, Oh-ma nện mạnh cán gậy xuống đất, ngay lập tức vô số đất đá với đủ loại kích cỡ bắt đầu hình thành xung quanh hắn.
+*Cốp!* Oh-ma nện mạnh cán quyền trượng xuống đất, ngay lập tức vô số đất đá với đủ kích cỡ bắt đầu ngưng tụ dày đặc xung quanh hắn.
 
-Tạo ra đá rồi ném đi là ma pháp tấn công hệ Thổ cơ bản, nhưng chiêu 『Nộ Đào Thổ Thạch』 của Oh-ma có thể tạo sẵn những tảng đá chuẩn bị bắn đi và cho chúng lơ lửng xung quanh mình, cho phép bắn liên tục và đồng thời nhiều phát. Trong trường hợp cần thiết, nó cũng có thể lập tức biến thành tấm khiên bảo vệ bản thân, đây là một ma pháp công thủ toàn diện.
+Ngưng tụ đất đá rồi phóng đi là ma pháp tấn công hệ Thổ cơ bản nhất, nhưng chiêu 『Nộ Đào Thổ Thạch』 của Oh-ma có thể tạo sẵn hàng loạt tảng cự thạch lơ lửng xung quanh người, cho phép khai hỏa dồn dập nhiều đợt cùng lúc. Trong tình huống ngặt nghèo, chúng còn có thể lập tức liên kết lại làm tấm khiên chắn kiên cố — một ma pháp công thủ toàn diện đích thực.
 
-Những tảng đá được phóng đi sẽ chỉ bị hút về phía mặt đất theo trọng lực của chúng và rơi xuống. Không có cách nào để dễ dàng tránh né thuật pháp này.
+Những tảng đá được phóng đi sẽ rơi tự do theo trọng lực và nghiền nát mục tiêu. Tuyệt đối không có bất kỳ mưu mẹo nào để né tránh được chiêu thức diện rộng này!
 
-Sức sát thương không quá lớn, nhưng uy lực của nó là quá đủ để tiêu diệt một thuật giả yếu ớt như một đứa trẻ.
+Sức công phá không quá tập trung, nhưng uy lực của nó là quá đủ để nghiền nát một tên thuật giả có thể xác yếu ớt như trẻ con thành thịt vụn.
 
-“Hãy bị nghiền nát và phơi xác đi————hửm!”
+“Hãy nát thây và phơi xác đi————hửm!?”
 
 “Oooooooooaaaaaaaaaaaaaa!”
 
-Ngay lúc đó, một tiếng hét chói tai vang lên khắp nơi. Đó không phải là tiếng gầm của Cuồng Chiến Binh. Không hề cảm nhận được mối đe dọa nào từ đó, chỉ là một tiếng hét ồn ào vô nghĩa.
+Đúng lúc đó, những tiếng thét the thé chói tai đồng loạt vang lên khắp chiến trường. Đó không phải là tiếng gầm của Cuồng Chiến Binh. Chẳng hề có chút khí tức đe dọa nào toát ra từ đó, chỉ là những âm thanh gào rú ồn ào vô nghĩa.
 
-Thế nhưng, tiếng hét đó lập tức tăng lên thành hai, rồi ba tiếng chỉ trong chớp mắt. Nhìn kỹ lại, có vài bóng người đang lao đi vun vút trên mặt đất.
+Thế nhưng, tiếng la hét ấy lập tức nhân lên thành hai, rồi ba tiếng chỉ trong chớp mắt. Nhìn kỹ lại, có vài bóng đen đang lao vun vút trên mặt đất.
 
-“Hừ, xác sống sao. Đó là những sứ ma mà tên đó triệu hồi ra à.”
+“Hừ, lũ xác sống sao? Là đám sứ ma mà tên đó triệu hồi ra à.”
 
-Đó là những quái vật undead dạng người thường thấy ở những nơi có công trình cổ xưa. Những cá thể xác sống cấp cao sở hữu cơ thể tráng kiện và phát huy sức mạnh thể chất có thể đọ lại với Gove.
+Đó là những quái vật undead hình người thường xuất hiện tại các phế tích cổ xưa. Những cá thể xác sống cấp cao sở hữu cơ bắp cứng cáp, phát huy sức mạnh thể chất có thể đọ ngang ngửa với một Gove.
 
-Hắn đã nhìn thấy việc Chú Thuật Ngự Tử sai khiến chúng từ trước. Kế hoạch của tên đó là dùng sứ ma để nhắm trực tiếp vào một thuật giả như hắn. Đơn giản nhưng hiệu quả.
+Hắn từng thấy Chú Thuật Ngự Tử điều khiển lũ này từ trước. Ý đồ của tên đó là dùng đám tốt thí này để áp sát đánh giáp lá cà với một thuật giả như hắn. Kế sách đơn giản nhưng vô cùng thực dụng.
 
-“Giao cho các ngươi đấy. Tuyệt đối không được để một con nào tiếp cận ta.”
+“Giao cho các ngươi đấy! Tuyệt đối không được để bất kỳ con nào bén mảng tới gần ta!”
 
-“Tuân lệnh! Xin ngài cứ giao cho chúng thần!”
+“Tuân lệnh! Xin bệ hạ cứ yên tâm giao cho chúng thần!”
 
-Cỡ này thì chỉ cần giao cho đội hộ vệ đi cùng giải quyết là quá đủ rồi.
+Cỡ này thì chỉ cần đội cận vệ tinh nhuệ giải quyết là quá đủ.
 
-Ngự Tử liên tục triệu hồi ra các sứ ma, từ những bộ xương yếu ớt chỉ được cái số lượng, cho đến những xác sống khổng lồ có kích thước gần bằng GoGame Mastera cũng xuất hiện. Nhưng cho dù có gộp tất cả bọn chúng lại thì cũng không thể nào phá vỡ được đội hộ vệ này.
+Tên Ngự Tử liên tục triệu hồi thêm sứ ma, từ những bộ cốt binh yếu ớt chỉ biết cậy đông, cho tới những tên khổng lồ xác sống to lớn gần bằng Goma cũng bắt đầu xuất hiện. Nhưng cho dù có gom tất cả bọn chúng lại thì cũng đừng hòng xuyên thủng được vòng vây của đội cận vệ.
 
-Ngược lại, nếu bên đó đã dùng sứ ma tấn công, thì bên này cũng có thể chia một phần binh lực để tràn lên bức tường thành.
+Ngược lại, nếu đối phương đã chia quân đánh úp, thì bên này cũng có thể điều động một cánh quân tràn lên mặt thành để lấy đầu hắn.
 
-Không, trước đó nếu tên đó bị nghiền nát bởi 『Nộ Đào Thổ Thạch』 thì mọi chuyện sẽ kết thúc tại đây————
+Không, chưa cần đến mức đó, chỉ cần hắn bị nghiền nát dưới làn mưa đá của 『Nộ Đào Thổ Thạch』 thì mọi thứ sẽ kết thúc ngay tại đây————
 
 “Bazuzuuuu! (Thi Hài Giáp!)”
 
-Từ trên bức tường thành, hắn cảm nhận được luồng hào quang màu đỏ và luồng ma lực quen thuộc.
+Từ trên đỉnh tường thành, một luồng hào quang màu đỏ cùng luồng ma lực quen thuộc bất ngờ bùng nổ.
 
-Cơ thể nhỏ bé của Chú Thuật Ngự Tử lập tức bị bao phủ bởi một bộ giáp bằng cơ bắp cuồn cuộn chỉ trong nháy mắt, và chẳng mấy chốc, hình dáng của tên đó đã biến đổi thành một hình dạng không thể nhầm lẫn vào đâu được.
+Cơ thể nhỏ bé của tên Chú Thuật Ngự Tử lập tức bị bao bọc bởi một lớp giáp cơ bắp cuồn cuộn chỉ trong cái chớp mắt, và chẳng mấy chốc, nhân dạng của tên đó đã biến đổi thành một hình hài không thể nào nhầm lẫn.
 
-Bộ lông và làn da đỏ rực, cùng với hai chiếc sừng oai dũng và khuôn mặt giống như một con mãnh thú sắc sảo.
+Bộ lông và làn da đỏ rực như lửa, cùng đôi sừng oai phong lẫm liệt và khuôn mặt góc cạnh mang thần thái của một con mãnh thú hung tợn.
 
-“Đó… Đó là Bazuzu sao…?”
+“Đó… Đó là Bazuzu sao…!?”
 
-Đại Chiến Sĩ Bazuzu. Dù còn thô ráp nhưng đó là một thanh niên đầy triển vọng. Chú Thuật Ngự Tử đang khoác lên mình một hình dáng cực kỳ giống với hình dạng 『Khổng Lồ Hóa』 đầy dũng mãnh mà cậu ta từng tự hào.
+Đại Chiến Sĩ Bazuzu. Dẫu tính khí còn bộc trực nhưng đó là một tráng sĩ đầy triển vọng của tộc Goma. Tên Chú Thuật Ngự Tử lúc này đang khoác lên mình hình hài giống hệt với trạng thái 『Khổng Lồ Hóa』 dũng mãnh mà chàng chiến sĩ ấy từng vô cùng tự hào!
 
-Chính hắn là người đã khẳng định rằng tên đó đã cải trang thành Goma để lẻn vào vương quốc.
+Chính Oh-ma là người từng khẳng định tên khốn đó đã cải trang thành Goma để trà trộn vào vương quốc.
 
-Thế nhưng, hắn chưa từng tưởng tượng nổi tên đó lại dám khoác lên mình cả lớp da của Đại Chiến Sĩ. Rốt cuộc lũ con người kia định sỉ nhục tộc Goma đến mức nào, và định chà đạp lên sự tôn nghiêm của người chết đến bao giờ nữa đây.
+Thế nhưng, hắn vạn lần không thể ngờ tới tên nghịch tặc đó lại dám lột cả da thịt của một Đại Chiến Sĩ để làm áo giáp khoác lên người! Rốt cuộc lũ con người bẩn thỉu kia còn định sỉ nhục tộc Goma đến mức nào, và định chà đạp lên linh hồn của người đã khuất đến bao giờ nữa đây!?
 
-Trước hành vi phi nhân tính đó, một cơn giận dữ tột độ và cảm giác nhục nhã ê chề trào dâng mạnh mẽ trong lòng Oh-ma.
+Trước hành vi man rợ tột cùng ấy, một cơn thịnh nộ cuồng bạo đan xen nỗi nhục nhã ê chề bùng lên như núi lửa phun trào trong lồng ngực Oh-ma.
 
-“Ngươi dám sỉ nhục Đại Chiến Sĩ của ta ngay cả khi cậu ta đã chết sao, không thể tha thứ! Chỉ riêng ngươi là ta quyết không bao giờ tha thứ!!”`
+“Ngươi dám bôi nhọ Đại Chiến Sĩ của ta ngay cả khi cậu ấy đã nhắm mắt xuôi tay sao… Không thể tha thứ! Riêng loại súc sinh như ngươi, bản vương thề quyết không bao giờ tha thứ!!”`
             },
             {
                 "id": "ep_320",
@@ -55383,7 +55391,7 @@ Không hiểu sao sau khi tôi kích hoạt 『Thi hài giáp Bazuzu』, Oh-ma l
 
 “Ngay từ đầu, nếu ngươi không tung ra đòn tấn công diện rộng thế này thì ta cũng chẳng thèm dùng cái bộ giáp xác chết tốn ma lực này đâu, đồ khốn!”
 
-Bằng cánh tay quỷ đỏ mang sức mạnh của Gira-GoGame Mastera, tôi đấm vỡ vụn những tảng đá đang trút xuống.
+Bằng cánh tay quỷ đỏ mang sức mạnh của Gira-Gogma, tôi đấm vỡ vụn những tảng đá đang trút xuống.
 
 Oh-ma đã kích hoạt ma pháp tấn công diện rộng thuộc tính Thổ, nâng vô số đất đá lên không trung rồi bắn thẳng vào tường thành như một loạt pháo kích liên hoàn. Để tự vệ, tôi không còn cách nào khác ngoài việc sử dụng 『Thi hài giáp Bazuzu』.
 
@@ -55399,11 +55407,11 @@ Thú thật, tình thế hiện tại đang rất bất lợi. Tổn thất lớ
 
 『Cánh Vỗ Trói Buộc』: Một khối thịt bay lơ lửng được ghép từ các loại cánh chim và cánh côn trùng. Dù lực trói buộc không bằng 『Bách Thủ Phược』 do lượng thịt sử dụng ít hơn, nhưng điểm mạnh của nó là khả năng bay lượn cơ động để tiếp cận và khóa chặt mục tiêu. Đây là một kỹ năng cực kỳ hiệu quả đối với những kẻ to xác nhưng lại di chuyển nhanh nhẹn như Zagan.
 
-Mei hiện tại đang phát huy sức mạnh khủng khiếp nhất từ trước đến nay nhờ hiệu ứng của 『Berserk X』. Nếu là cô ấy — người đang liên tục tấn công mà không hề lùi bước trước một Zagan khổng lồ hóa, thì chỉ cần tôi quấy rối gã một chút thôi cũng đủ để tạo ra một cơ hội ngàn vàng cho cô ấy dứt điểm.
+Mei-chan hiện tại đang phát huy sức mạnh khủng khiếp nhất từ trước đến nay nhờ hiệu ứng của 『Berserk X』. Nếu là cô ấy — người đang liên tục tấn công mà không hề lùi bước trước một Zagan khổng lồ hóa, thì chỉ cần tôi quấy rối gã một chút thôi cũng đủ để tạo ra một cơ hội ngàn vàng cho cô ấy dứt điểm.
 
 Thế nhưng, đòn quấy rối đó đã bị sấm sét của Oh-ma chặn đứng, và lão lập tức quay sang phản công tôi.
 
-Dù nhờ có 『Thi hài giáp Bazuzu』 mà tôi vẫn tạm thời chống đỡ được, nhưng đây không phải là trận chiến có thể thắng chỉ bằng cách phòng thủ thụ động. Có lẽ giới hạn thể lực của Mei sẽ đến trước. Nếu tôi không thể hỗ trợ cô ấy hạ gục Zagan trong lúc cô ấy vẫn còn đủ sức chiến đấu, chúng tôi sẽ thua.
+Dù nhờ có 『Thi hài giáp Bazuzu』 mà tôi vẫn tạm thời chống đỡ được, nhưng đây không phải là trận chiến có thể thắng chỉ bằng cách phòng thủ thụ động. Có lẽ giới hạn thể lực của Mei-chan sẽ đến trước. Nếu tôi không thể hỗ trợ cô ấy hạ gục Zagan trong lúc cô ấy vẫn còn đủ sức chiến đấu, chúng tôi sẽ thua.
 
 “Làm ơn đấy, ma lực của tôi ơi, hãy trụ vững đi... 『Độc』!”
 
@@ -55411,7 +55419,7 @@ Tôi bắn ma pháp độc về phía Oh-ma.
 
 Ngay trước khoảnh khắc bị Zagan ngoạm trúng, tôi đã kịp ném 『Cây Gậy Của Kẻ Ngốc』 có gắn 『Đầu lâu của Chú thuật sư』 ra xa để bảo toàn. Nhờ vậy, tôi đã nhặt lại được nó khi nó đang lăn lóc ở góc tường thành. *Làm tốt lắm Sakurai, Hinagiku vẫn bình an vô sự nhé.*
 
-And thế là, tôi tiếp tục vắt kiệt 『Cây Gậy Của Kẻ Ngốc』 để duy trì các đòn tấn công tầm xa nhắm vào Oh-ma.
+Thế rồi, tôi tiếp tục vắt kiệt 『Cây Gậy Của Kẻ Ngốc』 để duy trì các đòn tấn công tầm xa nhắm vào Oh-ma.
 
 “Hừ, vô ích thôi, lũ rác rưởi!”
 
@@ -55453,7 +55461,7 @@ Chiếc container sắt gắn sau lưng nó cũng bị bóp méo thảm hại...
 
 Với khuôn mặt lấm lem muội than và lộ rõ vẻ kiệt quệ, Himeno lườm tôi rồi nói.
 
-Người đang gối đầu lên đùi cô ấy là Nakajima, cậu ta đang bất tinh nhân sự với cơ thể đẫm máu. Himeno đang tập trung cao độ để thi triển 『Cấp Cứu Hồi Phục』 cho cậu ta.
+Người đang gối đầu lên đùi cô ấy là Nakajima, cậu ta đang bất tỉnh nhân sự với cơ thể đẫm máu. Himeno đang tập trung cao độ để thi triển 『Cấp Cứu Hồi Phục』 cho cậu ta.
 
 “Còn giữ được mạng là tốt rồi. Nhưng không ngờ người khỏe khoắn nhất ở đây lại là Himeno-san đấy.”
 
@@ -55557,7 +55565,7 @@ Chất lỏng bên trong không phải là màu xanh lam trong suốt như Re-po
 
 “Tớ đã chuẩn bị sẵn phần cho mọi người để phòng hờ trường hợp này rồi.”
 
-『Cuồng Hóa A』: Đây cũng là một loại thuốc tăng lực được bào chế từ 『Thử nghiệm dược X』. Khác với phiên bản 『X』 dành riêng cho Mei với khả năng phá vỡ giới hạn siêu việt, phiên bản 『A』 đã được giảm bớt dược tính để đảm bảo an toàn cho người sử dụng thông thường. Nói một cách đơn giản, nó là phiên bản pha loãng. Tuy nhiên, nó vẫn tác động lên toàn bộ thể chất, tinh thần và ma lực, cho phép người dùng chiến đấu hết công suất trong một thời gian ngắn ngay cả khi cơ thể đã kiệt quệ và đầy thương tích. Đây là át chủ bài được chuẩn bị sẵn cho thời khắc sinh tử quyết định để mở ra cơ hội lật ngược thế cờ. Nào, hãy nốc cạn thứ này và hóa thân thành cuồng chiến binh ngay đi!
+『Cuồng Hóa A』: Đây cũng là một loại thuốc tăng lực được bào chế từ 『Thử nghiệm dược X』. Khác với phiên bản 『X』 dành riêng cho Mei-chan với khả năng phá vỡ giới hạn siêu việt, phiên bản 『A』 đã được giảm bớt dược tính để đảm bảo an toàn cho người sử dụng thông thường. Nói một cách đơn giản, nó là phiên bản pha loãng. Tuy nhiên, nó vẫn tác động lên toàn bộ thể chất, tinh thần và ma lực, cho phép người dùng chiến đấu hết công suất trong một thời gian ngắn ngay cả khi cơ thể đã kiệt quệ và đầy thương tích. Đây là át chủ bài được chuẩn bị sẵn cho thời khắc sinh tử quyết định để mở ra cơ hội lật ngược thế cờ. Nào, hãy nốc cạn thứ này và hóa thân thành cuồng chiến binh ngay đi!
 
 “...Tao chơi.”
 
@@ -55605,9 +55613,9 @@ Thế nhưng, đó chính là niềm kiêu hãnh của cậu ta. *Nhìn xem Yama
 
 *Đã bảo là không có thời gian rồi mà, đừng có ngắt lời tớ chứ Ueta.*
 
-“Lực lượng hộ tống của Oh-ma rất đông, lại có thêm nhiều GoGame Mastera nữa. Dù có đột kích thì chúng ta cũng không thể chạm tới lão... Nhưng chắc chắn Zagan sẽ hành động.”
+“Lực lượng hộ tống của Oh-ma rất đông, lại có thêm nhiều Gira-Gogma nữa. Dù có đột kích thì chúng ta cũng không thể chạm tới lão... Nhưng chắc chắn Zagan sẽ hành động.”
 
-Chúng tôi đang bị dồn vào đường cùng, nhưng Phía bên kia cũng chẳng khá khẩm hơn là bao. Bằng chứng là việc đích thân nhà vua phải ra tận tiền tuyến tham chiến.
+Chúng tôi đang bị dồn vào đường cùng, nhưng phía bên kia cũng chẳng khá khẩm hơn là bao. Bằng chứng là việc đích thân nhà vua phải ra tận tiền tuyến tham chiến.
 
 Chính vì thế, Zagan đang đề phòng ở mức độ cao nhất. Nếu chúng tôi liều chết xông lên, gã chắc chắn sẽ lo sợ cho sự an nguy của nhà vua. Với tư cách là chiến sĩ mạnh nhất vương quốc và lòng trung thành tuyệt đối dành cho Oh-ma, gã sẽ không bao giờ bỏ mặc nhà vua trong tình thế hiểm nghèo. Dù có phải hy sinh tính mạng, gã cũng sẽ lao ra ứng cứu.
 
@@ -55657,7 +55665,7 @@ Tôi ôm viên Lõi cuối cùng trước ngực và giải trừ phân thân. B
 
 Tôi tiêu hao ma lực cấu thành nên 『Song Ảnh』 cùng viên Lõi để triệu hồi Hắc Kị Sĩ Rem thế chỗ.
 
-*Chà, đúng là cái gì cũng nên nhặt nhạnh lại mà.* Tôi trang bị cho Rem thanh đại kiếm và đại rìu ma pháp tịch thu được từ tên lính gác cổng GoGame Mastera, vốn được cất giữ trên xe số 1.
+*Chà, đúng là cái gì cũng nên nhặt nhạnh lại mà.* Tôi trang bị cho Rem thanh đại kiếm và đại rìu ma pháp tịch thu được từ tên lính gác cổng Gira-Gogma, vốn được cất giữ trên xe số 1.
 
 Mọi khâu chuẩn bị đã hoàn tất. Kyouko vẫn chưa tỉnh lại, Nakajima vẫn bất tỉnh nhân sự. Cả Hayama cũng đang ngủ say sưa trên tường thành.
 
@@ -55681,263 +55689,263 @@ Hạ quyết tâm, tôi cũng lao mình xuống từ tường thành.`
 
 “Uốôôôôôôôôôôôôôôôôôôôôô!”
 
-Tiếng gầm rú vang lên, các đồng đội của tôi phát động đợt tổng tấn công cuối cùng.
+Tiếng gầm thét vang trời rẽ đất bộc phát, các đồng đội của tôi đồng loạt phát động đợt tổng tấn công cuối cùng.
 
-Vì họ lao thẳng trực diện một cách đường đường chính chính, lực lượng hộ vệ của địch phản ứng cũng rất nhanh. Khoảng một nửa số quân đang lập phòng tuyến bảo vệ quanh Oh-ma lập tức di chuyển, chuyển sang đội hình hàng ngang để đối phó với hướng tấn công của chúng tôi.
+Bởi vì họ lao thẳng trực diện đường đường chính chính, lực lượng cận vệ của địch phản ứng cũng cực kỳ mau lẹ. Khoảng một nửa số quân đang lập phòng tuyến bảo vệ quanh Oh-ma lập tức chuyển động, dàn thành đội hình hàng ngang nhằm đối phó với hướng xung phong của chúng tôi.
 
-Ngay lúc đó, Hắc Kị Sĩ Rem lao thẳng vào hàng rào giáo mác của binh lính Gove, phá vỡ đội hình và tạo ra một lỗ hổng. Ueta và Yoshizaki — cặp đôi tiên phong — nhanh như cắt lao vào khoảng trống đó.
+Ngay khoảnh khắc đó, Hắc Kị Sĩ Rem lao thẳng vào hàng rào giáo mác của binh lính Gove, phá vỡ thế trận và xé toạc một lỗ hổng. Ueta và Yoshizaki — cặp đôi tiền phong — nhanh như chớp luồn sâu vào khoảng trống ấy.
 
-Chậm hơn một nhịp, Yamada cũng xông lên. Dù đã mất đi bộ giáp, cậu ta vẫn kích hoạt tối đa kỹ năng phòng ngự của 『Trọng Chiến Binh』 để càn quét sâu hơn vào bên trong.
+Chậm hơn nửa nhịp, Yamada cũng gầm lên xông trận. Dù đã mất đi bộ giáp nặng, cậu ta vẫn kích hoạt toàn bộ kỹ năng phòng ngự của 『Trọng Chiến Binh』, dũng mãnh càn quét mở đường.
 
-Hiệu quả của 『Cuồng Hóa A』 được phát huy tối đa. Dù cơ thể đầy thương tích, họ vẫn chiến đấu dũng mãnh như sư tử... Thế nhưng, quân Gove vừa có chất lượng vừa có số lượng không dễ gì bị đột phá. Lũ GoGame Mastera trang bị giáp nặng cũng đã xuất kích, siết chặt vòng vây khiến việc tiến sâu hơn dường như là bất khả thi.
+Hiệu quả của 『Cuồng Hóa A』 được đẩy lên đến cực hạn. Dù trên mình đầy thương tích, họ vẫn chiến đấu dũng mãnh như bầy mãnh thú... Thế nhưng, quân Gove vừa áp đảo về số lượng lại vừa thiện chiến, không dễ gì bị xuyên thủng. Lũ Gira-Gogma trang bị giáp nặng cũng đã xuất trận, tầng tầng lớp lớp siết chặt vòng vây, khiến việc tiến sâu hơn gần như rơi vào bế tắc.
 
-Dù đang kịch chiến với Mei, Zagan vẫn liếc mắt về phía Oh-ma vừa có biến động. Nhưng hắn không hề di chuyển. Có lẽ hắn nhận định rằng chỉ riêng đội hộ vệ là thừa sức bảo vệ nhà vua.
+Dù đang kịch chiến với Mei, Zagan vẫn liếc mắt về phía Oh-ma — nơi vừa có biến động. Nhưng hắn không hề quay lại chi viện. Có lẽ hắn nhận định rằng riêng đội cận vệ kia đã thừa sức bảo vệ an nguy cho nhà vua.
 
-Quả nhiên, cần phải có một hành động tạo ra cảm giác khủng hoảng lớn hơn. Sự lo ngại của Ueta và Yoshizaki hoàn toàn chính xác.
+Quả nhiên, cần phải có một nước cờ tạo ra cảm giác khủng hoảng lớn hơn thế nữa. Mối lo ngại ban đầu của Ueta và Yoshizaki hoàn toàn chính xác.
 
 Chính vì vậy mới cần đến tôi.
 
-“Thuốc thương tích: Xong! Thuốc giảm đau: Xong! Giác ngộ: Xong! Nào, nhào vô đi Oh-ma, vứt cây gậy đó đi rồi bước ra đây chiến với tao xem nào!”
+“Thuốc trị thương: Xong! Thuốc giảm đau: Xong! Giác ngộ: Xong! Nào, nhào vô đi Oh-ma! Vứt cái gậy đó đi rồi bước ra đây chiến với tao xem nào!”
 
-Nhảy xuống từ tường thành, tôi lao thẳng về phía Oh-ma từ một hướng hoàn toàn khác với đội đột kích.
+Bật nhảy khỏi bờ tường thành, tôi lao thẳng về phía Oh-ma từ một góc độ hoàn toàn tách biệt với đội đột kích.
 
-Đúng như dự đoán, đội hộ vệ cũng bắt đầu di chuyển về phía tôi. Thấy tôi đi một mình, số lượng quân chặn đường khá ít. Không, hay là chính Oh-ma muốn tự tay kết liễu tôi?
+Đúng như dự liệu, một toán hộ vệ bắt đầu chuyển hướng nghênh đón tôi. Thấy tôi đơn thương độc mã, số lượng quân chặn đường tương đối thưa thớt. Không, hay là chính Oh-ma muốn tự tay kết liễu mạng sống của tôi?
 
-“Tao không rảnh chơi với lũ tép riu các ngươi, cút ra!”
+“Tao không rảnh chơi với lũ tép riu tụi mày, biến đi!”
 
-Tôi dùng sức mạnh cơ bắp — thứ vốn không thuộc về một Chú thuật sư — để đột phá bằng 『Thi hài giáp Bazuzu』. Tôi đấm bay, đá văng, rồi dùng vai húc đổ những tên Gove cản đường, điên cuồng lao về phía trước.
+Tôi phát huy thứ sức mạnh cơ bắp — điều vốn dĩ không thuộc về một Chú thuật sư — thông qua 『Hài Trang Bazuzu』 để mở đường máu. Tôi đấm bay, đá văng, rồi dùng cả bờ vai bọc giáp tông thẳng vào những tên Gove ngáng đường, điên cuồng áp sát mục tiêu.
 
 “Gư ha ha, nhân loại nguyền rủa, ngu xuẩn!”
 
-Thế nhưng Oh-ma không hề nao núng trước đòn đột kích của tôi. Hắn nở nụ cười ngạo nghễ đầy tự tin rồi chĩa vương trượng về phía này. So với việc tôi cố thủ trên tường thành, việc tôi tự mình lao đầu vào thế này giúp hắn tiêu diệt tôi dễ dàng hơn nhiều. Có lẽ hắn nghĩ rằng tôi đã cạn kiệt mọi mưu kế, điên cuồng tung ra đòn tấn công tuyệt vọng cuối cùng.
+Thế nhưng Oh-ma không hề nao núng trước đòn đột kích của tôi. Hắn nhếch môi cười ngạo nghễ đầy tự tin rồi chĩa thẳng vương trượng về phía này. So với việc tôi cố thủ trên tường thành cao, việc tôi tự dâng mạng thế này giúp hắn tiêu diệt tôi dễ dàng hơn vạn phần. Hẳn là hắn đinh ninh tôi đã cạn kiệt mưu hèn kế bẩn, điên cuồng tung ra đòn tấn công tuyệt vọng cuối cùng.
 
-Đó không hẳn là kiêu ngạo. Thực tế, đây quả thực là đòn tấn công cuối cùng của tôi.
+Đó cũng chẳng hẳn là kiêu ngạo. Bởi trên thực tế, đây đúng thật là đòn tấn công cuối cùng của tôi.
 
-Hàng phòng ngự của Oh-ma là bất khả xâm phạm. Dù có dốc toàn lực hiện tại lao vào, cơ hội chiến thắng cũng chưa đến một phần vạn.
+Tường phòng ngự của Oh-ma là bất khả xâm phạm. Dù có dốc toàn bộ sức tàn hiện tại để lao vào, cơ hội chiến thắng cũng chẳng nổi một phần vạn.
 
-Nhưng tôi vẫn có cơ hội. Bởi vì tôi vẫn còn một chú thuật tủ chưa từng cho hắn thấy.
+Nhưng tôi vẫn có cửa thắng. Bởi vì tôi vẫn còn ém lại một ngón đòn chú thuật tủ chưa từng để lộ trước mặt hắn.
 
 “KẾT THÚC RỒI, CHẾT ĐI!”
 
-Theo nhịp vung trượng của Oh-ma, vô số đất đá lơ lửng xung quanh bắn thẳng về phía tôi. Ở khoảng cách này, vị trí này, việc né tránh hoàn toàn là bất khả thi, mà đánh chặn cũng có giới hạn. Chắc chắn sẽ trúng đòn.
+Theo cú vung trượng của Oh-ma, vô số khối đất đá lơ lửng xung quanh bắn xé gió thẳng về phía tôi. Ở cự ly này, góc độ này, việc né tránh hoàn toàn là điều bất khả thi, mà đánh chặn cũng chỉ có hạn. Chắc chắn tôi sẽ lãnh trọn.
 
-Nhưng thế lại hay. Tôi lao đến đây chính là để hứng chịu đòn tấn công của hắn mà.
+Nhưng thế lại càng hay. Tôi lao đầu tới đây vốn dĩ là để hứng chịu đòn tấn công của hắn mà!
 
 “Uốôôôô! Giải trừ Bazuzu!”
 
-Đè nén nỗi sợ hãi, tôi giải phóng lớp giáp cơ bắp vạm vỡ. Dưới góc nhìn của Oh-ma, lồng ngực của Bazuzu đột ngột nứt toác ra theo chiều dọc. Sâu trong vết nứt răng rắc đó là cơ thể thật của tôi.
+Đè nén nỗi sợ hãi tột cùng, tôi lập tức giải phóng lớp giáp cơ bắp vạm vỡ. Dưới góc nhìn của Oh-ma, lồng ngực của Bazuzu đột ngột nứt toác theo chiều dọc. Sâu trong khe nứt rạn vỡ ấy chính là cơ thể chân thực của tôi.
 
-Thứ lao thẳng vào cơ thể nhỏ bé, yếu ớt của tôi giữa cơn mưa đất đá trút xuống là một viên đá nhỏ được tôi chọn lọc kỹ lưỡng trong tích tắc.
+Thứ lao thẳng vào thân thể nhỏ bé, yếu ớt của tôi giữa cơn mưa đất đá trút xuống là một viên đá nhỏ được tôi tính toán và chọn lọc kỹ lưỡng trong chớp mắt.
 
-Đó là một viên đá có kích thước cực kỳ tinh tế: đủ để không làm tôi mất mạng khi va chạm trực tiếp, nhưng chắc chắn sẽ gây ra chấn thương.
+Một viên đá với kích thước vô cùng tinh tế: vừa đủ để không cướp đi sinh mạng khi va chạm trực diện, nhưng chắc chắn sẽ gây ra thương tổn nặng nề.
 
-Tôi lao thẳng vào viên đá mà mình đã xác định là có kích thước tối ưu nhất đó. Không còn lớp giáp cơ bắp của Bazuzu bảo vệ, tôi hoàn toàn không phòng ngự, để mặc cho viên đá đâm thẳng vào người — và kích hoạt 『Phản Phục Thống Khổ』.
+Tôi lao thẳng vào viên đá tối ưu ấy. Không còn lớp giáp cơ bắp của Bazuzu che chắn, tôi hoàn toàn buông bỏ phòng ngự, để mặc cho viên đá đâm thẳng vào da thịt — và lập tức kích hoạt 『Phản Phục Thống Khổ』!
 
 “Á á á á! Đau quá a a a a a a a a a a a a a a a a a a!”
 
 “Á á á! Đau quá a a a a a a a a a a a a a a a a a a a a a!”
 
-Tiếng hét thảm thiết vì đau đớn tột cùng vang lên đồng thời từ miệng tôi và Oh-ma.
+Hai tiếng thét xé lòng vì đau đớn tột cùng đồng thanh vang lên từ miệng tôi và Oh-ma.
 
-Chưa kịp vui mừng vì thành công, cơn đau dữ dội ngoài sức tưởng tượng đã cưỡng chế cắt đứt mọi suy nghĩ của tôi. Đau, đau quá, đau vãi cả chưởng! Đau muốn chết đi được, khốn kiếp thật!!
+Chưa kịp vui mừng vì bẫy đã sập, cơn đau dữ dội vượt xa sức tưởng tượng đã cưỡng chế đánh sập mọi dòng suy nghĩ trong tâm trí tôi. Đau, đau buốt ruột gan, đau đến phát điên! Đau muốn chết đi sống lại, khốn kiếp thật!!
 
-Chắc hẳn Oh-ma cũng đang nghĩ như vậy.
+Chắc hẳn Oh-ma cũng đang trải qua cảm giác tương tự.
 
-Tôi tuy yếu ớt thật, nhưng hắn chắc chắn còn sống một cuộc đời xa lạ với "nỗi đau" hơn tôi nhiều. Tôi không biết Oh-ma đã trị vì vương quốc này bao nhiêu năm, nhưng trong suốt thời gian ngồi chễm chệ trên ngai vàng, hắn đã bị thương bao nhiêu lần? Có khi là chưa một lần nào ấy chứ.
+Tôi tuy thể chất yếu ớt, nhưng hắn chắc chắn còn sống một cuộc đời xa lạ với "nỗi đau" hơn tôi gấp bội. Tôi không biết Oh-ma đã ngự trị vương quốc này bao nhiêu năm tháng, nhưng trong suốt chuỗi ngày ngồi chễm chệ trên ngai vàng, liệu hắn đã từng nếm mùi đổ máu bao giờ chưa? Có khi là chưa từng dính lấy một vết xước ấy chứ.
 
-Nhân cơ hội hiếm có này, hãy tận hưởng cho thật đã đi. Đây chính là nỗi đau của chiến trận. Nào, hét to lên nữa đi, quằn quại nữa đi! Đau đến mức khiến Zagan phải cuống cuồng bay lại đây cứu giá ấy!
+Nhân cơ hội hiếm có này, cứ việc tận hưởng cho đã đi! Đây chính là nỗi đau nơi chiến trận đấy! Nào, hét to lên nữa đi, quằn quại thống khổ hơn nữa đi! Đau đến mức khiến tên Zagan kia phải cuống cuồng vứt bỏ tất cả mà lao về đây cứu giá ấy!
 
 “Oốôôôôôôôôôôôôôôô!”
 
-Tuyệt vời, hắn đã động đậy!
+Tuyệt vời, hắn đã cắn câu!
 
-Khi thấy Oh-ma bị tấn công, sự điềm tĩnh của Zagan lập tức bay biến.
+Khoảnh khắc nhìn thấy Oh-ma dính đòn quằn quại, vẻ điềm tĩnh của Zagan lập tức vỡ vụn.
 
-Hắn dùng cánh tay đỡ đòn tấn công như vũ bão từ trên không trung của Mei, chấp nhận chịu chút tổn thương để quay người lao về phía này.
+Hắn dùng cánh tay gạt phăng đòn tấn công như vũ bão từ trên không của Mei, chấp nhận lãnh trọn thương tổn để quay phắt người lao về hướng này.
 
-Dù những nhát chém liên hoàn nhanh đến hoa mắt của Mei đã chém rách bươm bắp tay và vai của Zagan — nơi không có vảy bảo vệ — hắn vẫn phớt lờ sát thương đó, điên cuồng chạy về phía Oh-ma.
+Mặc cho những nhát trảm kích liên hoàn nhanh đến hoa mắt của Mei chém rách toang bắp tay và bờ vai — nơi không có vảy cứng bao bọc — Zagan vẫn phớt lờ máu tuôn xối xả, điên cuồng phi thân về phía Oh-ma.
 
-Quay lưng lại với Mei — người đã hóa thành một Cuồng chiến binh hoàn hảo — là một sai lầm chí mạng. Bản thân Zagan chắc chắn hiểu rõ điều đó. Nhưng hắn không còn lựa chọn nào khác ngoài việc đi cứu Oh-ma.
+Dám quay lưng lại với Mei — người đang ở trạng thái Cuồng Chiến Binh hoàn hảo — là một sai lầm chí mạng. Bản thân Zagan chắc chắn thừa hiểu điều đó. Nhưng hắn chẳng còn lựa chọn nào khác ngoài việc cứu lấy chủ nhân của mình.
 
 “Gư be ra, ge va a a a a a a a a a a!”
 
-“Hự... t-tớ cũng muốn được cứu đây này...”
+“Hự... t-tớ cũng đang muốn có người cứu đây này...”
 
-Chờ đã, thực ra tôi cũng đang rơi vào tình cảnh ngàn cân treo sợi tóc đây.
+Khoan đã, tình cảnh của tôi lúc này cũng ngàn cân treo sợi tóc không kém.
 
-Một toán lính Gove đang áp sát tôi, kẻ đang nằm quằn quại vì đau đớn. Dù tôi đã nhanh chóng mặc lại 『Thi hài giáp Bazuzu』 và dùng thuốc trị thương cùng thuốc giảm đau để sơ cứu, nhưng tôi không tự tin có thể đối phó dễ dàng như lúc nãy. Nhờ có thuốc nên cơn đau đã dứt, nhưng có vẻ tổn thương lên cơ thể lớn hơn tôi tưởng, tay chân tôi bủn rủn đến đáng ngạc nhiên.
+Một toán lính Gove đang ùa tới vây bắt tôi — kẻ đang nằm sõng soài quằn quại vì đau đớn. Dù đã nhanh tay kích hoạt lại 『Hài Trang Bazuzu』 và nốc liền mấy liều thuốc trị thương cùng thuốc giảm đau để sơ cứu, tôi vẫn chẳng đủ tự tin đối phó trơn tru như lúc nãy. Nhờ dược tính ngấm vào nên cơn đau đã dịu, nhưng tổn thương thực tế lên thân xác lớn hơn tôi tưởng, tứ chi bủn rủn đến run rẩy.
 
-Nếu bị chúng tấn công lúc này, tệ nhất là tôi sẽ mất mạng. Nhưng trong tình cảnh này, tôi không thể trông chờ vào sự viện trợ của đồng đội.
+Nếu bị chúng bổ nhào vào lúc này, tệ nhất là bỏ mạng tại chỗ. Song trong hoàn cảnh này, tôi không thể trông chờ vào sự tiếp viện từ các đồng đội tiên phong.
 
-“Đứa nào dám đụng vào Kotarou của bà, hả lũ khốn kiaaaa!”
+“Đứa nào dám đụng vào Kotarou của bà, hả lũ khốn kiếp kiaaaa!”
 
-Đầu của tên lính Gove đang lao tới trước mắt tôi bị một viên đạn đá cỡ lớn bắn nát bét.
+Đầu của tên lính Gove đang lao tới trước mắt tôi lập tức bị một viên đạn đá khổng lồ bắn nát vụn.
 
 “Bụp!?”
 
 “Đa gư ba, n-ba!”
 
-Những phát 『Thạch Tiễn』 liên tiếp phóng ra, hạ gục lũ Gove đang nhắm vào tôi. Cũng phải thôi, chạy trên một bãi đất trống trải thế này trước mặt một Thổ ma thuật sư lão luyện thì chỉ có nước làm bia tập bắn.
+Từng phát 『Thạch Tiễn』 liên tiếp xé gió phóng ra, bắn gục ngã toàn bộ lũ Gove đang nhắm vào tôi. Cũng phải thôi, chạy lông nhông trên một bãi đất trống trải trước mặt một Thổ Ma Thuật Sư lão luyện thì chẳng khác nào biến mình thành bia tập bắn di động.
 
 “Cảm ơn cậu, Kyouko.”
 
-Tôi khẽ nói, dù biết ở khoảng cách này cô ấy không thể nghe thấy.
+Tôi lẩm bẩm trong miệng, dẫu biết ở cự ly xa xôi này cô ấy chẳng thể nào nghe thấy.
 
-Nơi tầm mắt tôi hướng đến, Kyouko đang tựa vào vai Himeno, tay lăm lăm khẩu súng lục ổ xoay hoàng kim. Đã bảo là không cần phải cố quá rồi mà.
+Nơi tầm mắt tôi dõi theo, Kyouko đang tựa vào vai Himeno, tay lăm lăm khẩu súng lục ổ xoay màu hoàng kim. Rõ ràng đã dặn cô ấy không cần phải cố quá sức rồi mà.
 
-Ý chí thật kiên cường. Không, có lẽ nên gọi đó là sức mạnh của tình yêu. Quả là một sức mạnh vĩ đại.
+Ý chí thật kiên cường. Không, có lẽ nên gọi đó là sức mạnh của tình yêu thì đúng hơn. Quả là một thứ sức mạnh vĩ đại.
 
-*Vậy thì, kẻ đã tự hành xác để tạo ra sơ hở này là tôi đây, cũng là nhờ sức mạnh tình yêu nhỉ.*
+*Vậy thì, kẻ vừa tự hành xác để tạo ra sơ hở này là tôi đây, âu cũng là nhờ sức mạnh của tình yêu nhỉ.*
 
-Nhưng tôi không thể thỏa mãn và ngã xuống ở đây được. Vẫn còn bước hoàn thiện cuối cùng.
+Nhưng tôi không thể nằm yên mãn nguyện ở đây được. Vẫn còn một mắt xích kết liễu cuối cùng.
 
-Nghe này Himeno, đừng có bắn trượt đấy nhé? Tuyệt đối không được trượt!
+Nghe rõ đây Himeno, tuyệt đối không được bắn trượt đấy nhé! Nhất quyết không được trượt!
 
 “— 『Phá Đoạn』!”
 
 “Gừ ư ga a a a a a a a a a a!”
 
-Lưỡi đao tử thần của Mei lao thẳng vào tấm lưng đang chạy trốn của Zagan. Võ kỹ cường hóa trảm kích 『Phá Đoạn』 nổ tung ngay vùng gáy của hắn.
+Lưỡi đao tử thần của Mei bám sát nút, giáng thẳng xuống tấm lưng trần đang tháo chạy của Zagan. Võ kỹ cường hóa trảm kích 『Phá Đoạn』 phát nổ ngay gáy hắn.
 
-Lượng máu phun ra còn nhiều hơn cả đòn tấn công đầu tiên. Máu tươi tuôn xối xả, nhưng vẫn chưa đủ để chém bay đầu hắn.
+Lượng máu phun ra còn dữ dội hơn cả đòn đánh mở màn. Máu đỏ tuôn xối xả, nhưng bấy nhiêu vẫn chưa đủ sức chém lìa đầu hắn.
 
 “— 『Kích Chấn』!”
 
-Đòn tiếp theo được tung ra là võ kỹ 『Kích Chấn』 mang theo xung lực cực mạnh. Nó nện chuẩn xác vào vết chém hoác ở gáy hắn. Cùng với cơn mưa máu đỏ thẫm là những mảnh thịt vụn bắn tung tóe như thể vừa có một vụ nổ xảy ra.
+Đòn tiếp nối được tung ra ngay tức khắc là võ kỹ 『Kích Chấn』 mang theo xung lực hủy diệt. Nó nện chuẩn xác vào ngay miệng vết chém hoác ở gáy. Cùng với cơn mưa máu đỏ thẫm, những mảnh thịt vụn bắn tung tóe tựa như một vụ nổ nội tại vừa phát tác.
 
-Đòn đánh nhắm thẳng vào vết thương sâu hoắm đó. Xung lực không chỉ khoét sâu vào phần thịt cổ mà chắc chắn đã chạm tới xương.
+Đòn đánh khoét thẳng vào miệng vết thương sâu hoắm. Xung lực kinh hoàng không chỉ nghiền nát cơ thịt cổ mà chắc chắn đã chạm thấu đến tận xương tủy.
 
-Tuy nhiên, đốt sống cổ dày cộp đỡ lấy cái đầu khổng lồ của gã khổng lồ sở hữu độ bền vô cùng đáng sợ. Dù đã trúng liên tiếp hai võ kỹ của cô, cái đầu vẫn chưa chịu lìa cổ.
+Tuy nhiên, đốt sống cổ thô ráp nâng đỡ cái đầu hộ pháp của gã khổng lồ sở hữu độ bền bỉ đến kinh hoàng. Dù đã lãnh trọn hai võ kỹ liên tiếp của cô, cái đầu hộ pháp vẫn chưa chịu lìa khỏi thân.
 
-Vài Zagan lúc này, dù mang trọng thương như vậy vẫn không dừng lại. Hắn chắc chắn sẽ không để trúng thêm đòn thứ ba. Dù đang quay lưng lại, hắn vẫn vung chuẩn xác lòng bàn tay ra sau hòng đập nát Mei, người đang để lộ sơ hở nhỏ do khựng lại sau khi thi triển võ kỹ.
+Và Zagan lúc này, dù dính phải trọng thương trí mạng đến thế vẫn không hề dừng bước. Hắn quyết không để trúng thêm đòn thứ ba. Dù đang quay lưng, hắn vẫn vung chuẩn xác bàn tay hộ pháp ra sau nhằm đập nát Mei — người vừa để lộ một thoáng khựng lại sau khi xuất chiêu.
 
-“Ngay bây giờ!”
+“Ngay lúc này!”
 
 “『Cấp Cứu Hồi Phục』!”
 
-Himeno chĩa hai tay về phía Zagan, dốc toàn lực phóng ra ma pháp trị liệu.
+Himeno chĩa thẳng hai tay về phía Zagan, dồn toàn bộ ma lực phóng thích ma pháp trị liệu.
 
-Với ma pháp trị liệu còi cọc của cô, dù có thi triển bao nhiêu lần cũng không thể lấp đầy vết thương khổng lồ kia, nhưng hiệu quả trị liệu thì chắc chắn có phát huy. Một luồng sáng xanh lục nhạt le lói thắp lên nơi cổ của Zagan.
+Với lượng ma lực trị liệu còi cọc của cô, dù có thi triển bao nhiêu lần cũng chẳng thể vá lành vết rách khổng lồ kia, nhưng hiệu ứng trị liệu thì chắc chắn đã phát huy. Một luồng sáng xanh lục nhạt le lói thắp lên nơi vết thương hở trên cổ Zagan.
 
-“— Hãy quằn quại trong đau đớn đi, 『Điệp Vũ Ngược』.”
+“— Hãy quằn quại trong đau đớn đi, 『Nghịch Điệp Vũ』.”
 
-Đây chính là đòn quyết định để kết liễu Zagan.
+Đây mới chính là phát súng quyết định để kết liễu Zagan.
 
-Tôi phóng ra 『Điệp Vũ Ngược』 vốn được giấu sẵn trong túi của Mei, bắn thẳng vào vết thương đang phát sáng ma pháp 『Cấp Cứu Hồi Phục』 của Himeno.
+Tôi kích hoạt 『Nghịch Điệp Vũ』 vốn được giấu sẵn trong túi đồ của Mei, bắn thẳng vào vết thương đang lập lòe ánh sáng ma pháp 『Cấp Cứu Hồi Phục』 của Himeno.
 
 “Gừ ô ô ô!? Mư gự ư a a a a a a a a a a a a!”
 
-Đến cả kẻ như Zagan cũng phải gào thét thảm thiết vì đau đớn. Khổng lồ thì cũng biết đau chứ. Một kẻ như Zagan hẳn sở hữu sức chịu đựng và ý chí thép để phớt lờ hầu hết các loại đau đớn, nhưng cái gì cũng có giới hạn của nó.
+Đến cả một chiến binh thép như Zagan cũng phải rống lên những tiếng thét đau đớn thấu tận trời xanh. Là khổng lồ thì cũng biết đau đớn chứ. Một kẻ như Zagan ắt hẳn sở hữu sức chịu đựng phi thường cùng ý chí sắt đá để bỏ qua phần lớn thương tật, nhưng sức người có hạn.
 
-Đặc biệt, cơn đau do hiệu ứng trị liệu bị đảo ngược bởi 『Điệp Vũ Ngược』 mang lại một sự đau đớn hoàn toàn khác biệt so với việc bị thương thông thường. Dù là một chiến binh dày dạn trận mạc như Zagan, chắc chắn hắn cũng chưa từng trải qua cơn đau kiểu này bao giờ. Mà có gì phải ngại đâu, lần đầu tiên lúc nào chả đau đớn chứ.
+Đặc biệt, cơn đau do hiệu ứng trị liệu bị đảo ngược bởi 『Nghịch Điệp Vũ』 mang lại một sự thống khổ hoàn toàn dị biệt so với việc bị gươm đao chém trúng. Dù là một chiến binh dạn dày sương gió như Zagan, chắc chắn hắn cũng chưa từng nếm trải thứ cảm giác tra tấn này bao giờ. Mà việc gì phải ngại, "lần đầu tiên" lúc nào chẳng đớn đau tột cùng.
 
-Khi bị cơn đau "lần đầu" đó hành hạ thì sẽ thế nào? Tất nhiên rồi — nó sẽ tạo ra một khoảng trống quá đủ để Mei tung ra đòn kết liễu.
+Và khi bị cơn đau "lần đầu" ấy tàn phá thể xác lẫn tinh thần thì chuyện gì sẽ xảy ra? Dĩ nhiên rồi — nó mở toang một khoảng trống quá đủ để Mei tung đòn ân huệ cuối cùng.
 
 “— 『Hắc Tĩnh』.”
 
-Luồng ma khí đáng sợ cuồn cuộn phun ra từ lưỡi đao nguyền rủa, Mei phóng qua vai Zagan, một lần nữa giáng võ kỹ vào vết thương trên cổ hắn. Zagan, kẻ đang để lộ sơ hở vì đau đớn, không còn cách nào để ngăn chặn đòn đánh này nữa.
+Luồng ma khí ngút trời cuồn cuộn trào dâng từ lưỡi đao nguyền rủa, Mei lướt qua vai Zagan, một lần nữa giáng thẳng võ kỹ vào tử huyệt trên cổ hắn. Zagan, kẻ đang tê liệt vì đau đớn, hoàn toàn bất lực trong việc cản phá nhát đao này.
 
-Rắc rắc rắc ———
+Rắc rắc rắc ———!
 
-Đó là tiếng đốt sống cổ khổng lồ bị chặt đứt bằng sức mạnh thô bạo. Âm thanh ghê rợn vang lên chói tai, võ kỹ 『Hắc Tĩnh』 chém đứt cổ Zagan.
+Âm thanh xương cốt đốt sống khổng lồ bị đứt gãy dưới sức mạnh bạo liệt vang lên rợn người. Võ kỹ 『Hắc Tĩnh』 đã chém xuyên qua cổ Zagan.
 
-Nhưng dù vậy, cổ của Zagan vẫn chưa đứt hẳn. Thanh 『Bát Liệt Ngưu Ma Đao』 của Mei dường như đã bị kẹt lại giữa chừng trong cổ hắn.
+Dẫu vậy, đầu của Zagan vẫn chưa đứt lìa hoàn toàn. Thanh 『Bát Táp Ngưu Ma Đao』 của Mei dường như bị mắc kẹt lại giữa chừng nơi cuống họng hắn.
 
 “Hự... Ự... O o o o o...”
 
-Zagan vẫn còn sống. Như trút hết chút tàn lực cuối cùng, hắn vung hai cánh tay lên — và Mei cũng buông vũ khí, vung nắm đấm lên.
+Zagan vẫn còn thoi thóp. Như gom hết chút tàn lực cuối cùng, hắn vung hai cánh tay lên — và Mei cũng lập tức buông chuôi vũ khí, siết chặt nắm đấm.
 
 “『Khải Triệt』!”
 
-Luồng ma khí đỏ đen cuộn xoáy tụ lại nơi nắm đấm phải của cô, rồi bộc phát cùng cú đấm lao ra.
+Luồng ma khí đỏ đen cuộn xoáy ngưng tụ nơi nắm đấm phải của cô, rồi nổ tung cùng cú đấm vung ra.
 
-*Đoàng!* Một tiếng nổ chói tai vang lên, ma lực bộc phát hóa thành một luồng sóng xung kích quét qua không trung.
+*Đoàng!* Một tiếng nổ đanh gọn xé toạc không gian, kình lực bộc phát hóa thành luồng sóng xung kích càn quét tứ phía.
 
-Và tại tâm chấn nơi nắm đấm tất sát giáng xuống,
+Và tại tâm chấn nơi nắm đấm tất sát giáng xuống—
 
 “Gộc... ộc... a a a a...”
 
-Máu phun ra như thác từ miệng, cái đầu của Zagan cuối cùng cũng lìa khỏi cổ.
+Máu tươi từ miệng hắn phun ra như suối, cái đầu của Zagan cuối cùng cũng lìa hẳn khỏi cổ.
 
-Có lẽ sau khi lưỡi đao của 『Hắc Tĩnh』 cắm sâu vào nửa đốt sống cổ, cô đã dùng 『Khải Triệt』 đấm mạnh vào chuôi đao, đập vỡ hoàn toàn phần xương còn lại. Giống như đóng một chiếc nêm vào đá để đập vỡ nó vậy.
+Có lẽ sau khi lưỡi đao của 『Hắc Tĩnh』 ngập sâu vào nửa đốt sống, cô đã dùng 『Khải Triệt』 nện thẳng vào sống đao, đập nát hoàn toàn phần xương xẩu còn sót lại. Hệt như động tác đóng một chiếc nêm sắt để chẻ đôi tảng đá vậy.
 
-Cái đầu khổng lồ lăn lông lốc về phía trước như thể đang cúi đầu chào, suýt chút nữa thì dừng lại nhờ chút da thịt còn dính ở cổ họng, nhưng cuối cùng sức nặng của nó đã làm đứt lìa tất cả và rơi bịch xuống đất. Chậm mất một nhịp, cơ thể mất đầu đổ gục xuống như một con rối đứt dây, quỳ gối rồi đổ nhào về phía trước.
+Cái đầu khổng lồ lộn nhào về phía trước như đang cúi đầu hành lễ, suýt chút nữa đã dừng lại nhờ một dải da thịt mỏng dính nơi cổ họng, nhưng rồi chính sức nặng ngàn cân của nó đã giật đứt toàn bộ và rơi ầm xuống đất. Chậm mất một nhịp, thân xác không đầu đổ sụp xuống tựa con rối đứt dây, quỳ gối rồi đổ vật ra phía trước.
 
-Tại đây, Đại Chiến Sĩ Gira-GoGame Mastera mạnh nhất, Zagan, cuối cùng đã tử trận.
+Tại nơi này, Đại Chiến Sĩ Gira-Gogma mạnh nhất, Zagan, cuối cùng đã đền mạng.
 
-“Za... Zagan... Không thể nào, vô lý... Zagan của ta...”
+“Za... Zagan... Không thể nào... vô lý... Zagan của ta...”
 
-Oh-ma, kẻ đang bò lê bò lết dưới đất sau khi trúng 『Phản Phục Thống Khổ』 của tôi, ngẩng đầu lên nhìn xác Zagan đổ gục. Dù khó có thể phân biệt biểu cảm trên khuôn mặt gớm ghiếc của tộc Goma, nhưng lúc này tôi có thể hiểu rõ.
+Oh-ma, kẻ đang bò lê bò lết dưới đất sau khi dính trọn 『Phản Phục Thống Khổ』 của tôi, ngẩng đầu lên nhìn thi thể Zagan gục ngã. Dù khó mà nhận diện biểu cảm trên khuôn mặt gớm ghiếc của tộc Goma, nhưng lúc này tôi có thể đọc vị được rất rõ.
 
-Đó là sự tuyệt vọng. Một sự tuyệt vọng còn vượt qua cả nỗi đau thể xác mà hắn đang gánh chịu. Đó là vẻ mặt của kẻ đã mất đi tất cả những gì mình hằng tin tưởng.
+Đó là sự tuyệt vọng. Một nỗi tuyệt vọng còn đè bẹp cả sự đau đớn thể xác mà hắn đang phải gánh chịu. Vẻ mặt của kẻ vừa đánh mất đi chỗ dựa vững chắc nhất cuộc đời.
 
-“Khặc, ha ha... Ha ha ha ha ha! Thấy chưa Oh-ma, đây chính là sức mạnh của đồng đội!”
+“Khặc, ha ha... Ha ha ha ha ha! Thấy chưa hả Oh-ma, đây chính là sức mạnh của sự phối hợp đồng đội đấy!”
 
-Zagan đã chết. Giờ chỉ còn lại Oh-ma và đội hộ vệ của hắn.
+Zagan đã bị hạ sát. Giờ đây chỉ còn lại Oh-ma và tàn dư đội cận vệ.
 
-Dù không thể gọi đội hộ vệ là lũ tép riu, nhưng việc Zagan mạnh nhất tử trận cũng giáng một đòn tâm lý cực mạnh vào chúng. Với vẻ mặt như vừa chứng kiến điều không tưởng, chúng hoàn toàn mất đi ý chí chiến đấu. Sĩ khí đã tan rã. Trận chiến coi như đã ngã ngũ.
+Tuy không thể xem thường đội cận vệ, nhưng việc Zagan — chiến binh mạnh nhất — đền mạng đã giáng một đòn chí mạng vào tâm lý của chúng. Nhìn bộ dạng như vừa chứng kiến ngày tận thế, chúng hoàn toàn đánh mất dũng khí. Sĩ khí tan rã. Cục diện trận chiến coi như đã an bài.
 
-“Được rồi, giờ là lúc dọn dẹp tàn dư.”
+“Được rồi, giờ là lúc dọn dẹp tàn cuộc.”
 
-“Ừm, tớ biết rồi, Kotarou-kun. Tớ vẫn còn cử động được chút ít, chắc là sẽ dọn dẹp xong thôi.”
+“Ừm, tớ hiểu rồi, Kotarou-kun. Tớ vẫn còn cử động được một chút, chắc sẽ dọn dẹp xong xuôi thôi.”
 
-Mei nhẹ nhàng nhảy xuống từ cơ thể khổng lồ đang đổ gục của Zagan. Nhân tiện lúc đáp xuống đất, cô vung một đao chém đôi một con GoGame Mastera mặc giáp toàn thân từ trên không trung.
+Mei nhẹ nhàng đáp xuống từ cơ thể hộ pháp đang đổ sụp của Zagan. Nhân tiện lúc tiếp đất, cô vung một đao chém ngọt xớt một tên Gira-Gogma giáp trụ đầy mình làm đôi ngay trên không trung.
 
-“Uốôôô, làm được rồi, làm được rồi! Zagan chết rồi!”
+“Uốôôô, làm được rồi, làm được rồi! Zagan toi đời rồi!”
 
-“Bao nhiêu phần ngon ăn bị Futaba nẫng tay trên hết rồi.”
+“Bao nhiêu phần ngon ăn đều bị Futaba nẫng tay trên hết sạch.”
 
-“Giờ chỉ còn lũ tép riu thôi. Mau chóng dọn dẹp rồi kết thúc chuyện này nào.”
+“Giờ chỉ còn lũ lâu la thôi. Mau chóng dọn sạch rồi kết thúc mớ hỗn độn này nào!”
 
-Sĩ khí đảo chiều, đội hộ vệ vốn đang áp đảo hoàn toàn đợt đột kích của chúng tôi giờ bắt đầu tháo chạy tán loạn. Trong những lúc thế này, đáng lẽ chỉ huy phải đứng ra chấn chỉnh đội hình, nhưng ngay cả Oh-ma lúc này cũng đang bàng hoàng trước cái chết của Zagan nên chẳng còn tâm trí đâu nữa.
+Thế trận đảo chiều, đội cận vệ vốn đang áp chế hoàn toàn đợt xung phong của chúng tôi giờ bắt đầu tháo chạy tán loạn. Đáng lý trong tình huống này, kẻ chỉ huy phải đứng ra chấn chỉnh lại hàng ngũ, nhưng ngay cả Oh-ma lúc này cũng đang chết lặng trước cái chết của Zagan nên chẳng còn tâm trí đâu nữa.
 
-Nỗi tuyệt vọng quá lớn khiến Oh-ma ngơ ngẩn cả người.
+Cú sốc quá lớn khiến Oh-ma ngây dại cả người.
 
-Lũ Gove hộ vệ đã mất đi chiến ý lần lượt bị tiêu diệt, đội hình phòng thủ hoàn toàn tan rã. Trên hết, kẻ vừa kịch chiến ngang ngửa với Zagan — Cuồng chiến binh — đang lao thẳng vào chúng. Lũ như chúng làm sao cản nổi cô ấy nữa. Cho đến khi thuốc hết tác dụng, không ai có thể ngăn cản cô ấy.
+Lũ Gove cận vệ một khi đã mất hết chiến ý liền bị tiêu diệt gọn gàng, vòng vây bảo vệ vỡ vụn hoàn toàn. Hơn hết thảy, kẻ vừa đè bẹp Zagan trong trận kịch chiến — Cuồng Chiến Binh — đang lao thẳng về phía chúng. Lũ tép riu đó lấy tư cách gì để cản bước cô ấy? Cho đến khi thuốc hết tác dụng, chẳng ai có thể ngáng chân nổi cô ấy.
 
-Cứ thế lấy luôn đầu của Oh-ma đi, Mei.
+Cứ thế mà lấy luôn đầu của Oh-ma đi, Mei!
 
 “O o o... Oh-ma...”
 
-Đúng lúc đó, Zagan cử động.
+Đúng lúc ấy, cái xác của Zagan bỗng chuyển động.
 
-Dù cái đầu đã bị chặt đứt lìa khỏi cổ, Zagan vẫn thốt lên tên của Oh-ma. Và phần thân thể đáng lẽ đã mất đầu cũng bắt đầu trườn bò trên mặt đất như đang bò trườn tiến lên.
+Dù chiếc đầu đã lìa khỏi cổ, Zagan vẫn thều thào gọi tên Oh-ma. Và phần thân thể không đầu đáng lẽ phải bất động lại bắt đầu trườn bò trên mặt đất, cố lết tới phía trước.
 
-“Tặc, cái trò mất đầu mà vẫn cử động được thì chỉ cần một mình Yokomichi là quá đủ rồi!”
+“Chậc, cái trò mất đầu mà vẫn lết đi được thì chỉ cần một mình tên Yokomichi là quá đủ rồi!”
 
-“Oh-ma... chạy... chạy đi...!”
+“Oh-ma... chạy... chạy mau...!”
 
-Cái đầu lìa cổ của Zagan vừa hét lên vừa lăn xả về phía Mei cùng với phần thân thể đang bò tới.
+Chiếc đầu lìa cổ của Zagan vừa gầm gừ vừa lăn xả về phía Mei cùng với phần thân xác đang bò tới.
 
-Không màng đến việc xung quanh có rất nhiều binh lính Gove đồng tộc, hắn chỉ nhắm vào Mei — chiến lực mạnh nhất của chúng tôi — hòng kìm chân cô bằng mọi giá.
+Bất chấp xung quanh có bầy binh lính Gove đồng tộc cản lối, hắn chỉ dồn toàn bộ sự chú ý vào Mei — chiến lực mạnh nhất của chúng tôi — hòng dùng chút tàn hơi cuối cùng để kìm chân cô.
 
 “Vẫn còn cử động được sao. Nếu vậy thì—”
 
-“Không cần đâu Mei-chan. Cứ lùi lại đi.”
+“Không cần đâu Mei-chan! Cứ lùi lại đi!”
 
-Không cần phải dây dưa với Zagan thêm nữa. Bằng một ý chí đáng sợ, dù đã biến thành một cái xác không đầu, Zagan vẫn đang vắt kiệt chút ma lực còn sót lại trong cơ thể khổng lồ để di chuyển, lấy thân mình bảo vệ chủ quân Oh-ma.
+Chẳng việc gì phải phí sức dây dưa với Zagan thêm nữa. Bằng một ý chí quật cường đến đáng sợ, dù đã biến thành một xác chết không đầu, Zagan vẫn đang vắt kiệt chút ma lực tàn dư trong cơ thể khổng lồ để di chuyển, lấy thân mình làm lá chắn bảo vệ chủ quân Oh-ma.
 
-Không cần phải đôi co với sự chấp niệm và lòng trung nghĩa cuối cùng đó làm gì. Chẳng mấy chốc, trạng thái khổng lồ hóa của Zagan sẽ hoàn toàn bị giải trừ, hắn sẽ trở lại kích thước ban đầu. Và đó mới là lúc Zagan thực sự chết hẳn.
+Không cần thiết phải nhọc công đối đầu với chấp niệm và lòng trung thành mù quáng cuối cùng đó. Chẳng mấy chốc, trạng thái khổng lồ hóa của Zagan sẽ tự động giải trừ, hắn sẽ teo tóp lại về kích thước ban đầu. Và đó mới là thời khắc Zagan thực sự chết hẳn.
 
 “Chạy đi... Oh-ma...”
 
 “Ô ô, Zagan... Zagan!”
 
-Nhìn thấy Zagan dù chết vẫn cố bảo vệ mình, Oh-ma dường như cũng tỉnh táo lại.
+Chứng kiến Zagan dẫu mất mạng vẫn cố sống cố chết bảo bọc mình, Oh-ma dường như đã bừng tỉnh khỏi cơn mê muội.
 
-Dù đang run rẩy vì đau đớn, Oh-ma vẫn chống vương trượng đứng dậy.
+Dù toàn thân đang run rẩy vì đau đớn, Oh-ma vẫn chống vương trượng lảo đảo gượng dậy.
 
-“Nhưng mà nhà vua định chạy trốn kìa?”
+“Nhưng mà tên vua đó đang định trốn kìa?”
 
 “À, không sao đâu.”
 
-Bởi vì tôi biết rõ nơi hắn sẽ chạy trốn mà.
+Bởi vì tôi thừa biết đích đến mà hắn sẽ tháo chạy tới là ở đâu.
 
-Thế nên, không cần phải cố quá sức chiến đấu ở đây nữa. Mọi người cũng đã cận kề giới hạn rồi, tốt nhất là nên dọn dẹp lũ Gove đã mất chiến ý trước một cách an toàn và chắc chắn.
+Do đó, không cần phải liều mạng vắt kiệt sức ở đây nữa. Mọi người cũng đã chạm tới giới hạn thể lực rồi, lựa chọn tối ưu nhất lúc này là dọn dẹp sạch sẽ tàn quân Gove đã mất nhuệ khí một cách an toàn và chắc chắn.
 
-“Kể từ khoảnh khắc mất đi Zagan, ông đã lâm vào thế bí rồi, Oh-ma.”
+“Kể từ khoảnh khắc mất đi Zagan, ông đã bước vào tử lộ rồi, Oh-ma.”
 
-Tôi lặng lẽ nhìn theo bóng lưng thảm hại của Oh-ma đang lảo đảo chạy trốn một mình vào vương cung.`
+Tôi lạnh lùng dõi theo bóng lưng thảm hại của Oh-ma đang xiêu vẹo chạy trốn một mình vào sâu trong vương cung.`
             },
             {
                 "id": "ep_322",
@@ -55945,13 +55953,13 @@ Tôi lặng lẽ nhìn theo bóng lưng thảm hại của Oh-ma đang lảo đ�
                 "title": "Tập 322: Vương quốc sụp đổ",
                 "content": `# Tập 322: Vương quốc sụp đổ
 
-Phòng vương tọa lúc này hoàn toàn vắng lặng. Bản thân Oh-ma, người ngồi trên chiếc ngai kia đã đích thân ra trận, nên chắc chắn chẳng có kẻ nào được phép ở lại đây rồi.
+Phòng vương tọa lúc này hoàn toàn vắng lặng. Bản thân Oh-ma, kẻ ngự trên chiếc ngai kia đã đích thân ra trận, nên chắc chắn chẳng có tên nào được phép lảng vảng ở đây.
 
-Thế nên, tôi quyết định ngồi lên chiếc ngai vàng đang trống và thong thả chờ đợi. Sau khi Zagan bị hạ gục và việc quét sạch tàn dư cũng đang diễn ra suôn sẻ, tôi hoàn toàn có thể thảnh thơi ngồi ngả ngốn ở đây một cách đầy thư thái.
+Thế nên, tôi quyết định ngồi lên chiếc ngai vàng đang bỏ trống và thong thả chờ đợi. Sau khi Zagan bị hạ gục và công cuộc quét sạch tàn dư cũng đang diễn ra suôn sẻ, tôi hoàn toàn có thể thảnh thơi ngồi ngả ngốn ở đây một cách đầy thư thái.
 
 Mà, chắc cũng sắp đến lúc rồi nhỉ...
 
-*Két két két két...*
+*Két... két... két...*
 
 Cánh cửa dẫn vào phòng vương tọa mở ra, phát ra âm thanh nặng nề đến vô ích. Có vẻ như nhân vật chính đã xuất hiện rồi.
 
@@ -55959,11 +55967,11 @@ Cánh cửa dẫn vào phòng vương tọa mở ra, phát ra âm thanh nặng n
 
 “Đứa con của Lời Nguyền! T-Tại sao ngươi lại ở đây...!”
 
-Kẻ vừa xuất hiện là Oh-ma, lão ta đang thở hồng hộc đầy mệt nhọc. Cuối cùng thì lão cũng chẳng còn một tên tùy tùng nào bên cạnh, hoàn toàn đơn độc. Khi đã rơi vào bước đường này, một vị vua trông cũng thật thảm hại.
+Kẻ vừa xuất hiện chính là Oh-ma, lão ta đang thở hồng hộc đầy mệt nhọc. Đến cuối cùng, lão cũng chẳng còn lấy một tên tùy tùng nào bên cạnh, hoàn toàn đơn độc. Khi đã rơi vào bước đường cùng, một vị vua trông cũng thật thảm hại.
 
-“Đừng khách sáo, cứ vào đi.”
+“Đừng khách sáo, cứ tự nhiên vào đi.”
 
-“Khốn kiếp, ngay cả ngai vàng của ta ngươi cũng dám cướp sao, lũ loài người kiaaaa!”
+“Khốn kiếp, ngay cả ngai vàng của ta mà ngươi cũng dám cướp sao, lũ loài người kiaaaa!”
 
 “Ể, ta thèm vào cái ghế bẩn thỉu này.”
 
@@ -55973,23 +55981,23 @@ Mà bỏ qua chuyện đó đi, vấn đề là tôi và Oh-ma đang trò chuy�
 
 Ngay từ trận chiến lúc nãy, chúng tôi đã có thể hiểu được ngôn ngữ của nhau, nhưng giờ đây mọi thứ lại càng trở nên rõ ràng hơn. Dĩ nhiên, không phải đột nhiên tôi học được kỹ năng giải mã tiếng Goma, và ngược lại, Oh-ma cũng chẳng thể nói được tiếng Nhật.
 
-Chẳng có kỹ năng giải mã nào cả. Không có, nhưng cuối cùng tôi cũng đã hiểu ra bí mật của thứ gọi là ngôn ngữ Goma rồi.
+Chẳng có kỹ năng giải mã nào ở đây cả. Không có, nhưng cuối cùng tôi cũng đã hiểu ra bí mật của thứ gọi là ngôn ngữ Goma rồi.
 
 “Tại sao... Ngươi ở đây từ bao giờ...?”
 
 “Ừm, khoảng hai tuần trước chăng?”
 
-Dĩ nhiên, tôi đang đứng ở đây lúc này chính là phân thân 『Song Ảnh』 được cài cắm sẵn trong vương cung.
+Dĩ nhiên, kẻ đang ngồi ở đây lúc này chính là phân thân 『Song Ảnh』 được tôi cài cắm sẵn trong vương cung.
 
-Sau khi kế hoạch đánh sập vương quốc thành công, phân thân này đã bắt đầu hành động bên trong vương cung. Nếu Oh-ma bị dồn vào đường cùng và bỏ chạy, lão chắc chắn sẽ tìm đến phòng vương tọa. Vì đã nắm thóp được điều đó, tôi mới đến đây để chặn đầu.
+Sau khi kế hoạch đánh sập vương quốc thành công, phân thân này đã bắt đầu hành động bên trong hoàng cung. Nếu Oh-ma bị dồn vào đường cùng và bỏ chạy, lão chắc chắn sẽ tìm đường về phòng vương tọa. Vì đã nắm thóp được điều đó, tôi mới đến đây để chặn đầu.
 
 “Ta không để ngươi chạy thoát đâu, Oh-ma. Ta tuyệt đối không thể để ngươi trốn thoát.”
 
 “Không thể nào... Đứa con của Lời Nguyền đã vươn tay đến tận nơi này của ta từ lâu rồi sao...”
 
-Oh-ma lảo đảo bước đến giữa phòng vương tọa, rồi như thể đã cạn kiệt chút dưỡng khí cuối cùng, lão buông rơi cây trượng. Tiếng động vang lên khô khốc, cô độc.
+Oh-ma lảo đảo bước đến giữa phòng vương tọa, rồi như thể đã cạn kiệt chút dưỡng khí cuối cùng, lão buông rơi cây trượng. Tiếng gậy đập xuống sàn vang lên khô khốc, cô độc.
 
-“Vận mệnh của ta đã tận rồi sao... Nhưng vương quốc sẽ không diệt vong.”
+“Vận mệnh của ta đã tận rồi sao... Nhưng vương quốc sẽ không bao giờ diệt vong.”
 
 “Sẽ diệt vong đấy.”
 
@@ -55997,9 +56005,9 @@ Oh-ma lảo đảo bước đến giữa phòng vương tọa, rồi như thể 
 
 Lão đã từ bỏ mạng sống của chính mình. Thế nhưng, ngọn lửa hy vọng vẫn đang nhen nhóm trong đôi mắt của Oh-ma.
 
-Đó không phải là lời nói cứng hay mong ước hão huyền. Oh-ma có cơ sở để tin tưởng vào điều đó.
+Đó không phải là lời nói cứng hay mong ước hão huyền. Oh-ma có cơ sở vững chắc để tin tưởng vào điều đó.
 
-“Không đâu, vương quốc này sẽ bị hủy diệt. Ngay trong ngày hôm nay, chính ta sẽ hủy diệt nó.”
+“Không đâu, vương quốc này sẽ bị hủy diệt. Ngay trong ngày hôm nay, chính tay ta sẽ hủy diệt nó.”
 
 “Nếu vậy, cứ giết ta đi!”
 
@@ -56007,25 +56015,25 @@ Oh-ma dang rộng hai tay gào lên. Thật là một thái độ dứt khoát. 
 
 Nhưng nếu thế thì tôi lại gặp rắc rối to đấy.
 
-“Này Oh-ma, ngươi biết ta là một 『Chú thuật sư』 mà đúng không?”
+“Này Oh-ma, ngươi biết ta là một 『Chú thuật sư』 mà, đúng không?”
 
-Có lẽ nhờ màn tự giới thiệu bản thân trước đó mà Oh-ma luôn gọi tôi là "Đứa con của Lời Nguyền". Dù nghe hơi đao to búa lớn, nhưng theo văn hóa Goma, nó có nghĩa là một kẻ cực kỳ nguy hiểm chuyên thao túng nguyền rủa.
+Có lẽ nhờ màn tự giới thiệu bản thân trước đó mà Oh-ma luôn gọi tôi là "Đứa con của Lời Nguyền". Dù nghe hơi đao to búa lớn, nhưng theo cách hiểu của loài Goma, danh xưng đó ám chỉ một kẻ cực kỳ nguy hiểm chuyên thao túng những nguyền rủa hắc ám.
 
 “Ngươi không nghĩ rằng mình có thể nhắm mắt xuôi tay một cách thanh thản khi vẫn ôm giữ hy vọng về tương lai đấy chứ?”
 
-“Nói nhảm! Vương quốc của ta sẽ là vĩnh cửu... Và cái tên của ta cũng sẽ được lưu truyền đến muôn đời sau.”
+“Nói nhảm! Vương quốc của ta là vĩnh cửu... Và cái tên của ta cũng sẽ được lưu truyền đến muôn đời sau!”
 
-“Vị vua lập quốc vĩ đại, vị vua đầu tiên của vương quốc Goma - Oh-ma sao? Quả không hổ danh là vua, ngay cả lúc này vẫn còn nghĩ đến việc lưu danh sử sách cơ đấy.”
+“Vị vua lập quốc vĩ đại, vị vua đầu tiên của vương quốc Goma — Oh-ma sao? Quả không hổ danh là vua, ngay cả lúc này vẫn còn nghĩ đến việc lưu danh sử sách cơ đấy.”
 
-Đúng là, việc dẫn dắt một lũ quái vật dạng người có trí thông minh thấp kém như Goma để gầy dựng nên một vương quốc thế này, Oh-ma quả thực đã lập nên một kỳ tích vĩ đại trong lịch sử Goma. Thế nhưng, một huyền thoại sẽ chẳng có ý nghĩa gì nếu không còn ai sống sót để truyền tụng nó.
+Đúng là, việc dẫn dắt một lũ quái vật dạng người có trí thông minh thấp kém như Goma để gầy dựng nên một vương quốc thế này, Oh-ma quả thực đã lập nên một kỳ tích vĩ đại trong lịch sử chủng tộc của lão. Thế nhưng, một huyền thoại sẽ chẳng có chút ý nghĩa gì nếu không còn ai sống sót để truyền tụng nó.
 
 “Phải, ta sẽ trở thành một huyền thoại.”
 
-“Ngươi tin vào điều đó vì ngươi có một 'hy vọng' đúng không... Hửm, để ta đoán xem 'hy vọng' của ngươi là gì nhé?”
+“Ngươi tin vào điều đó vì ngươi nắm giữ một 'hy vọng', đúng chứ... Hửm, để ta đoán xem 'hy vọng' của ngươi là gì nhé?”
 
-Tôi cảm giác nét mặt của Oh-ma khẽ biến sắc.
+Tôi nhận thấy nét mặt của Oh-ma khẽ biến sắc.
 
-*Không lẽ nào, không, làm sao có thể thế được...* Chắc hẳn trong lòng lão đang cuộn trào sự bất an.
+*Không lẽ nào... Không, làm sao có thể như thế được...* Chắc hẳn trong lòng lão đang cuộn trào sự bất an tột độ.
 
 *Chà, thực ra tôi cũng hơi hồi hộp đấy. Lỡ như tự tin tuyên bố thế này mà lại đoán sai thì quê chết mất.*
 
@@ -56033,9 +56041,11 @@ Tôi cảm giác nét mặt của Oh-ma khẽ biến sắc.
 
 “Hy vọng của ngươi, là thứ này phải không?”
 
-*Bịch!* Một tiếng động trầm đục vang lên, một thứ gì đó rơi xuống từ trần nhà cao vút của phòng vương tọa.
+*Bịch!* 
 
-Tôi đã dùng 『Tóc Đen Trói Buộc』 trói chặt nó lại như một con nhện rồi treo lên trần nhà từ trước. Giờ chỉ đơn giản là giải trừ chú thuật và thả nó xuống trước mặt Oh-ma.
+Một tiếng động trầm đục vang lên, có thứ gì đó vừa rơi xuống từ trần nhà cao vút của phòng vương tọa.
+
+Tôi đã dùng 『Tóc Đen Trói Buộc』 quấn chặt nó lại như một con nhện rồi treo lên trần nhà từ trước. Giờ chỉ đơn giản là giải trừ chú thuật và thả nó xuống ngay trước mặt Oh-ma.
 
 Thứ đang lăn lóc như một đống rác trong mớ tóc đen ấy là một con Goma.
 
@@ -56043,99 +56053,101 @@ Một đứa trẻ Goma vẫn còn rất nhỏ, với tay chân ngắn ngủn.
 
 “O... O-Oh... OZMAAAAAAAA!”
 
-Tiếng hét điên cuồng vang vọng khắp phòng vương tọa. Đây chính là âm thanh mà tôi muốn nghe.
+Tiếng thét xé lòng đầy điên cuồng vang vọng khắp phòng vương tọa. Đây chính là âm thanh mà tôi mong muốn được nghe nhất.
 
 Nhìn vào phản ứng của Oh-ma, có vẻ như tôi đã đoán trúng phóc rồi.
 
-“Thì ra tên là Ozma-kun à? Đứa nhóc đó chính là người thừa kế của ngươi, vị hoàng tử sẽ nối ngôi vương quốc Goma này sao.”
+“Thì ra tên là Ozma à? Đứa nhóc đó chính là người thừa kế của ngươi, vị hoàng tử sẽ nối ngôi vương quốc Goma này sao.”
 
-Phân thân 『Song Ảnh』 này đã ẩn náu trong vương cung suốt từ lúc đột nhập cho đến tận hôm nay. Nơi này là khu vực sinh hoạt của Oh-ma cùng dàn hậu cung của lão. Thế nên, dù không muốn thì những chuyện đó vẫn đập vào mắt tôi thôi.
+Phân thân 『Song Ảnh』 này đã ẩn náu trong vương cung suốt từ lúc đột nhập cho đến tận hôm nay. Nơi này là khu vực sinh hoạt của Oh-ma cùng dàn hậu cung của lão. Thế nên, dù không muốn thì những chuyện đó vẫn cứ đập vào mắt tôi.
 
-Oh-ma có rất nhiều con cái. Vốn dĩ tộc Goma sinh sản rất nhiều. Dù đã già nua nhưng Oh-ma vẫn còn sung sức lắm, ban đêm lão ta luôn được vây quanh bởi những con Goma cái bụng bầu vượt mặt và tha hồ hành lạc. *Ra là vậy, khi đối phó với nhiều đối tác cùng lúc thì phải chơi kiểu đó mới trơn tru được sao! Thật là một bài học bổ ích, thưa bệ hạ Oh-ma.*
+Oh-ma có rất nhiều con cái. Vốn dĩ tộc Goma sinh sản cực kỳ nhanh và nhiều. Dù đã già nua nhưng Oh-ma vẫn còn sung sức lắm, ban đêm lão luôn được vây quanh bởi những con Goma cái bụng bầu vượt mặt để tha hồ hành lạc. *Ra là vậy, khi đối phó với nhiều đối tác cùng lúc thì phải chơi kiểu đó mới trơn tru được sao! Thật là một bài học bổ ích, thưa bệ hạ Oh-ma.*
 
 Dù sao thì, việc có nhiều con cái là kết quả tất yếu, và những cá thể được coi là ưu tú theo tiêu chuẩn của Goma sẽ được tuyển chọn để nuôi dưỡng trong vương cung. Ở đây có đủ mọi lứa tuổi, từ những đứa trẻ sơ sinh cho đến những chiến binh Gove trưởng thành lực lưỡng.
 
-Giờ nghĩ lại, tên chỉ huy Gove trong vụ Yokomichi MPK (Monster Train) có lẽ cũng là một trong các hoàng tử.
+Giờ nghĩ lại, tên chỉ huy Gove trong vụ Yokomichi MPK (kéo quái) có lẽ cũng là một trong các hoàng tử.
 
-Trong số vô vàn đứa con của Oh-ma, kẻ được đặc cách đối đãi nhất chính là Ozma này.
+Trong số vô vàn đứa con của Oh-ma, kẻ nhận được sự đối đãi đặc cách nhất chính là Ozma này.
 
-Trước hết là trang phục của nó rất khác biệt. Nó được mặc một bộ quần áo làm từ vải trắng tinh khiết, khoác ngoài là một tấm áo choàng sặc sỡ nhiều màu sắc, giống hệt như trang phục của con Goma cái mà tôi đã giết trên đường đi phóng hỏa xưởng rèn.
+Trước hết là trang phục của nó rất khác biệt. Nó được mặc một bộ quần áo làm từ vải trắng tinh khiết, khoác ngoài là tấm áo choàng sặc sỡ nhiều màu sắc, giống hệt như trang phục của con Goma cái mà tôi đã giết trên đường đi phóng hỏa xưởng rèn.
 
-Không chỉ quần áo, những vật phẩm ma pháp đeo trên người nó cũng rất đa dạng. Không có đứa trẻ nào khác được trang bị nhiều món đồ như vậy.
+Không chỉ quần áo, những trang sức ma pháp đeo trên người nó cũng vô cùng đa dạng. Chẳng có đứa trẻ nào khác được trang bị nhiều món đồ ma thuật như vậy.
 
-Nó luôn được nhiều con Goma cái chăm sóc, thức ăn thì vô cùng xa xỉ. So với lũ trẻ con khác trong vương cung vốn bị thả rông như thú hoang, đây thực sự là một sự biệt đãi không tưởng.
+Nó luôn được nhiều con Goma cái hầu hạ, thức ăn thì vô cùng xa xỉ. So với lũ trẻ con khác trong cung vốn bị thả rông chẳng khác nào thú hoang, đây thực sự là một sự biệt đãi trên trời dưới biển.
 
-Có lẽ trong xã hội Goma, thực lực mới là tất cả chứ không phải tuổi tác. Oh-ma chắc chắn đã nhận định Ozma chính là cá thể xuất sắc nhất, xứng đáng kế thừa vị trí của lão.
+Có lẽ trong xã hội Goma, thực lực và tiềm năng mới là tất cả chứ không phải tuổi tác. Oh-ma chắc chắn đã nhận định Ozma chính là cá thể xuất sắc nhất, xứng đáng kế thừa vị trí của lão.
 
-“Ta tuy không hiểu được nỗi lòng của một người cha, nhưng ngươi cũng đã trị vì vương quốc này trong một thời gian rất dài rồi nhỉ. Nỗi khổ cực của kẻ đứng trên đỉnh cao, ta nghĩ mình cũng phần nào thấu hiểu được.”
+“Ta tuy không hiểu được nỗi lòng của một người cha, nhưng ngươi cũng đã trị vì vương quốc này suốt một thời gian rất dài rồi nhỉ. Nỗi khổ cực của kẻ đứng trên đỉnh cao, ta nghĩ mình cũng phần nào thấu hiểu được.”
 
-Dù việc so sánh hàng vạn con Goma với số lượng bạn học đã giảm xuống chưa đầy một nửa của tôi là vô cùng khập khiễng. Về cơ bản, tôi luôn khinh bỉ, ghê tởm và căm ghét lũ Goma, những sinh vật chẳng khác nào loài quái thú ăn thịt người.
+Dù việc so sánh hàng vạn con Goma với số lượng bạn học đã giảm xuống chưa đầy một nửa của tôi là vô cùng khập khiễng. Về cơ bản, tôi luôn khinh bỉ, ghê tởm và căm ghét lũ Goma — những sinh vật chẳng khác nào loài quái thú ăn thịt người.
 
-Thế nhưng Oh-ma, ta vẫn phải công nhận ngươi. Ngươi là một kẻ đáng gờm.
+Thế nhưng Oh-ma à, ta vẫn phải công nhận ngươi. Ngươi thực sự là một kẻ đáng gờm.
 
-Ngươi đã quy tụ lũ Goma dã man và ngu muội, xây dựng nên một đội quân hùng mạnh với những Gira-GoGame Mastera như Zagan dưới trướng, và lập nên một vương quốc thống trị tầng sâu nhất này. Cho đến tận ngày hôm nay, vương quốc ấy vẫn luôn tận hưởng sự hòa bình và thịnh vượng. Bản lĩnh tạo nên một thời đại của ngươi là hoàn toàn có thật.
+Ngươi đã quy tụ lũ Goma dã man và ngu muội, xây dựng nên một đội quân hùng mạnh với những Gira-Gogma như Zagan dưới trướng, và lập nên một vương quốc thống trị tầng sâu nhất này. Cho đến tận ngày hôm nay, vương quốc ấy vẫn luôn tận hưởng sự hòa bình và thịnh vượng. Bản lĩnh tạo nên cả một thời đại của ngươi là hoàn toàn có thật.
 
-“But, dù là một vị vua vĩ đại đến đâu thì cũng không thể chống lại tuổi già. Cho đến tận khi đã già nua thế này, ngươi mới sinh ra được một đứa con đủ tư cách kế vị.”
+“Thế nhưng, dù là một vị vua vĩ đại đến đâu thì cũng không thể chống lại được tuổi già. Mãi cho đến khi đã già nua thế này, ngươi mới sinh ra được một đứa con đủ tư cách kế vị.”
 
 Chắc hẳn ngươi đã rất sốt ruột. Và sự sốt ruột đó tuyệt đối không được để bất kỳ ai nhận ra.
 
-Bởi vì Oh-ma chính là đỉnh cao. Kẻ đứng đầu thì không bao giờ được phép để lộ sự bất an hay nôn nóng trước mặt thuộc hạ.
+Bởi vì Oh-ma chính là kẻ đứng ở đỉnh cao. Người đứng đầu thì không bao giờ được phép để lộ sự bất an hay nôn nóng trước mặt thuộc hạ.
 
-“Thế nên, Ozma chính là hy vọng của ngươi. Có đứa trẻ này, ngươi đã có thể thở phào nhẹ nhõm rằng mình có thể ra đi bất cứ lúc nào... đúng chứ?”
+“Thế nên, Ozma chính là hy vọng duy nhất của ngươi. Có đứa trẻ này, ngươi mới có thể thở phào nhẹ nhõm rằng mình có thể nhắm mắt xuôi tay bất cứ lúc nào... đúng chứ?”
 
 “OZMAAAAAAAA! AAAAAAAA! WOOOOOOOAAAAAAAAAAAAAA!!”
 
-Tiếng gào thét này chính là kết cục khi niềm hy vọng ấy bị đập tan một cách tàn nhẫn.
+Tiếng gào thét bi phẫn này chính là kết cục khi niềm hy vọng ấy bị đập tan một cách tàn nhẫn.
 
-Lão ta chắc chẳng còn nghe lọt tai lời tôi nói nữa rồi. Bởi giấc mơ về một vương quốc Goma vĩnh cửu đã hoàn toàn tan vỡ.
+Lão ta chắc chẳng còn nghe lọt tai lời tôi nói nữa rồi. Bởi giấc mơ về một vương quốc Goma vĩnh cửu đã hoàn toàn vỡ vụn.
 
 “Ngươi nghĩ rằng đã sơ tán nó đến một ngôi làng khai hoang nào đó là sẽ an toàn sao? Tiếc quá, ta đã hạ thủ trước khi nó kịp dịch chuyển rồi~”
 
 Chính phòng vương tọa này là lối vào chính dẫn đến Tháp Trung Tâm. Ngay phía sau chiếc ngai vàng tôi đang ngồi không phải là bức tường, mà là một cánh cửa trượt khổng lồ hai cánh.
 
-Trong suốt thời gian ẩn náu, cánh cửa này chưa từng được mở ra lần nào, nhưng tôi đã nắm rõ sơ đồ cấu trúc nhờ thông tin từ phiến đá cổ, và biết rằng chức năng đóng mở của nó vẫn hoạt động bình thường.
+Trong suốt thời gian ẩn náu, cánh cửa này chưa từng được mở ra lần nào, nhưng tôi đã nắm rõ sơ đồ cấu trúc nhờ thông tin từ phiến đá cổ, và biết rằng cơ chế đóng mở của nó vẫn hoạt động bình thường.
 
 Ở lối vào của Tháp về cơ bản luôn có lắp đặt ma pháp trận dịch chuyển. Hoặc nếu không thì cũng sẽ có một Quảng Trường Tinh Linh đi kèm.
 
-Ma pháp trận dịch chuyển thường dùng của vương quốc nằm ở quảng trường trước vương cung, nhưng thứ có thể dùng để trốn thoát trong trường hợp khẩn cấp lại là ma pháp trận dịch chuyển ở lối vào Tháp Trung Tâm, đi qua phòng vương tọa này.
+Ma pháp trận dịch chuyển thông thường của vương quốc nằm ở quảng trường trước hoàng cung, nhưng thứ có thể dùng để trốn thoát trong trường hợp khẩn cấp lại là ma pháp trận dịch chuyển ở lối vào Tháp Trung Tâm, nằm ngay sau phòng vương tọa này.
 
 Đúng như dự đoán, ngay khoảnh khắc quả bom 『Vương Quốc Sụp Đổ』 phát nổ đẩy vương quốc vào thế ngàn cân treo sợi tóc, kế hoạch di tản khẩn cấp cho Ozma đã được kích hoạt.
 
-Chà, thực sự là rất suýt soát đấy. May nhờ lũ Goma cái hầu cận tham lam cố vơ vét quần áo và kho báu trong phòng, nên phân thân 『Song Ảnh』 của tôi mới có thể đi trước một bước và mai phục sẵn ở phòng vương tọa.
+Chà, thực sự là rất suýt soát đấy. May nhờ lũ Goma cái hầu cận tham lam cố vơ vét của cải, áo quần trong phòng, nên phân thân 『Song Ảnh』 của tôi mới có thể đi trước một bước và mai phục sẵn ở phòng vương tọa.
 
-Một đứa nhóc tì cùng vài con Goma cái bụng bầu thì chỉ cần một phân thân của tôi là dư sức quét sạch. Tôi thực sự phải cảm ơn món vũ khí 『Death Stinger』 có thể kết liễu mục tiêu chỉ bằng một nhát đâm này rất nhiều.
+Một đứa nhóc tì cùng vài con Goma cái mang bầu thì chỉ cần một phân thân của tôi là dư sức quét sạch. Tôi thực sự phải cảm ơn món vũ khí 『Death Stinger』 có thể kết liễu mục tiêu chỉ bằng một nhát đâm này rất nhiều.
 
 “LŨ LOÀI NGƯỜI KHỐN KIẾPPPPPP!”
 
-Oh-ma giận dữ tột độ, lão nhặt lại cây trượng vừa buông bỏ rồi định lao vào tôi trên ngai vàng, thế nhưng—
+Oh-ma giận dữ tột độ, lão vớ lấy cây trượng vừa buông bỏ rồi điên cuồng lao về phía tôi trên ngai vàng, thế nhưng—
 
 “— Rem.”
 
+*Xoẹt!*
+
 Một nhát chém chớp nhoáng của Hắc Kị Sĩ đã phạt bay cánh tay đang cầm trượng của Oh-ma.
 
-Việc dọn dẹp tàn dư bên ngoài rất thong thả, nên tôi đã cho Hắc Kị Sĩ Rem đột nhập vào vương cung từ trước. Bởi nếu chỉ có mỗi phân thân của tôi, ng nhỡ Oh-ma dồn hết ma lực để giãy giụa trước khi chết thì việc kết liễu lão sẽ tốn khá nhiều thời gian.
+Việc dọn dẹp tàn dư bên ngoài diễn ra rất thong thả, nên tôi đã cho Hắc Kị Sĩ Rem đột nhập vào vương cung từ trước. Bởi nếu chỉ có mỗi phân thân của tôi, lỡ như Oh-ma dồn hết ma lực giãy giụa trước khi chết thì việc kết liễu lão sẽ tốn khá nhiều thời gian.
 
-Trong lúc lão mải trò chuyện với tôi, Hắc Kị Sĩ Rem đã đứng chờ sẵn phía sau lưng Oh-ma từ lâu. Để chỉ cần lão có bất kỳ động thái sơ hở nào là sẽ lập tức bị khống chế. Và thời khắc đó chính là bây giờ.
+Trong lúc lão mải nói chuyện với tôi, Hắc Kị Sĩ Rem đã đứng chờ sẵn phía sau lưng Oh-ma từ lâu. Chỉ cần lão có bất kỳ động thái sơ hở nào là sẽ lập tức bị khống chế. Và thời khắc đó chính là lúc này.
 
 “Hự... aaaa!”
 
-Lưỡi kiếm vung ngược lại bồi thêm một nhát chém. Rem lạnh lùng chặt đứt đôi chân gầy guộc, thảm hại của Oh-ma.
+Lưỡi kiếm vung ngược lại bồi thêm một nhát chém tàn nhẫn. Rem lạnh lùng chặt đứt đôi chân gầy guộc, thảm hại của Oh-ma.
 
-Mất đi cả tay lẫn chân, Oh-ma ngã rạp xuống sàn nhà. Lão sẽ không bao giờ có thể đứng lên được nữa. Được rồi, khâu chuẩn bị nguyên liệu đến đây là ổn rồi đấy.
+Mất đi cả tay lẫn chân, Oh-ma ngã rạp xuống sàn. Lão sẽ không bao giờ có thể đứng lên được nữa. Được rồi, khâu chuẩn bị nguyên liệu đến đây là ổn thỏa.
 
-“Ta ghét lũ Goma. Nhưng ta lại rất trân trọng chúng dưới tư cách là nguyên liệu chế tạo.”
+“Ta ghét lũ Goma. Nhưng ta lại vô cùng trân trọng chúng dưới tư cách là nguyên liệu chế tạo.”
 
-Bởi đây là nguồn nguyên liệu ma vật dễ kiếm nhất trong hầm ngục này. Vừa thu được lõi, lại vừa có thể cho Yokomichi nuốt chửng để không lãng phí dù chỉ là một mẩu thịt của lũ rác rưởi. Nếu là GoGame Mastera thì còn thu hoạch được cả vũ khí ma pháp. Có thể nói đây là loại nguyên liệu ma vật mà tôi tận dụng nhiều nhất từ trước đến nay.
+Bởi đây là nguồn nguyên liệu ma vật dễ kiếm nhất trong hầm ngục này. Vừa thu hoạch được lõi, lại vừa có thể ném cho Yokomichi nuốt chửng để không lãng phí dù chỉ là một mẩu thịt. Nếu là Gira-Gogma thì còn thu được cả vũ khí ma pháp. Có thể nói đây là loại nguyên liệu ma vật mà tôi tận dụng triệt để nhất từ trước đến nay.
 
-“Thế nên Oh-ma, ta thực sự muốn ngươi phải ôm lòng căm thù ta tột độ trước khi chết.”
+“Thế nên Oh-ma à, ta thực sự muốn ngươi phải ôm lòng căm thù ta tột độ trước khi trút hơi thở cuối cùng.”
 
-*Thì đấy, tôi là một chú thuật sư mà. Những nguyên liệu mang theo oán niệm sâu nặng như vậy mới phát huy được tối đa giá trị. Chúng sẽ trở thành những trang bị và vật phẩm mạnh mẽ hơn. Ý chí mãnh liệt sẽ luôn tồn tại, ngay cả khi chỉ còn là một chiếc đầu lâu.*
+*Thì đấy, tôi là một chú thuật sư mà. Những nguyên liệu mang theo oán niệm sâu nặng như vậy mới phát huy được tối đa giá trị. Chúng sẽ trở thành những trang bị và vật phẩm mạnh mẽ hơn. Ý chí mãnh liệt sẽ luôn tồn tại, ngay cả khi chỉ còn lại một chiếc đầu lâu.*
 
 “Vua Goma Oh-ma, một kẻ như ngươi thì sẽ chế tạo ra được trang bị mạnh mẽ đến nhường nào đây, ta thực sự rất mong chờ đấy... — 『Xích Phát Phược』.”
 
-Những xúc tu tóc mang sắc đỏ đen độc hại phóng ra, đây là một biến thể của 『Tóc Đen Trói Buộc』 mang tính axit ăn mòn cực mạnh tương tự như 『Đầm Lầy Thối Rữa』. Dù có thể dùng để tấn công nhưng vì không có tính sát thương tức thời nên tôi ít khi sử dụng. Tuy nhiên, nếu là để lấy đầu lão ta thì thay vì dùng lưỡi kiếm, dùng thứ này để ăn mòn và làm đứt lìa sẽ dễ dàng hơn nhiều.
+Những sợi tóc mang sắc đỏ đen kịch độc phóng ra, đây là một biến thể của 『Tóc Đen Trói Buộc』 mang tính axit ăn mòn cực mạnh tương tự như 『Đầm Lầy Thối Rữa』. Dù có thể dùng để tấn công nhưng vì không có tính sát thương tức thời nên tôi ít khi sử dụng. Tuy nhiên, nếu là để lấy đầu lão ta thì thay vì dùng lưỡi kiếm, dùng thứ này để ăn mòn và làm đứt lìa cổ sẽ dễ dàng hơn nhiều.
 
-*Giao cho Rem xử lý là nhanh nhất, nhưng suy cho cùng thì boss cuối vẫn nên tự tay mình kết liễu chứ nhỉ? Dù sao tôi cũng đã cất công giết chết hoàng tử Ozma để gieo rắc tuyệt vọng cho lão ta rồi.*
+*Giao cho Rem xử lý là nhanh nhất, nhưng suy cho cùng thì boss cuối vẫn nên tự tay mình kết liễu chứ nhỉ? Dù sao tôi cũng đã cất công giết chết hoàng tử Ozma để gieo rắc tuyệt vọng cho lão rồi.*
 
 Tự tay kết liễu Oh-ma chính là bổn phận của một chú thuật sư.
 
@@ -56145,11 +56157,15 @@ Tự tay kết liễu Oh-ma chính là bổn phận của một chú thuật sư
 
 “Không tha thứ... Đứa con... của Lời Nguyền...”
 
-Dứt lời, cái đầu của Oh-ma rơi xuống một cách dễ dàng đến không ngờ. Chiếc cổ gầy guộc như cành củi khô ấy chắc hẳn phần thịt rất mỏng và xương cũng vô cùng giòn.
+*Phập!*
 
-Chiếc đầu lâu của Oh-ma lăn lóc trên sàn, ngay cả khi đã chết, đôi mắt trợn trừng đỏ ngầu của lão vẫn như đang trút hết oán hận lên tôi.
+Dứt lời, cái đầu của Oh-ma rơi xuống một cách dễ dàng đến không ngờ. Chiếc cổ gầy guộc như cành củi khô ấy chắc hẳn phần thịt rất mỏng và xương cốt cũng vô cùng giòn.
 
-“Vậy thì, trong lúc chờ mọi người đến thì cũng rảnh rỗi, tranh thủ xử lý khi nguyên liệu còn tươi thôi nào. Rem, giúp ta dựng 『Vạc Của Phù Thủy』 ở đằng kia nhé.”
+Chiếc đầu lâu của Oh-ma lăn lóc trên sàn, ngay cả khi đã chết, đôi mắt trợn trừng đỏ ngầu của lão vẫn như đang trút hết mọi oán hận ngút trời lên tôi.
+
+“Vậy thì, trong lúc chờ mọi người đến thì cũng đang rảnh rỗi, tranh thủ xử lý khi nguyên liệu còn tươi thôi nào. Rem, giúp ta dựng 『Vạc Của Phù Thủy』 ở đằng kia nhé.”
+
+***
 
 “...Đại loại là thế đấy, Oh-ma chết rồi.”
 
@@ -56159,19 +56175,19 @@ Trở lại với bản thể thực của tôi, tôi vừa tường thuật tr�
 
 Bản thể của tôi đang phải chịu tổn thương nghiêm trọng do đòn phản phệ trực tiếp từ kỹ năng tối thượng 『Phản Phục Thống Khổ』. Dù đã sơ cứu qua nhưng được trị liệu bằng ma pháp vẫn là tốt nhất.
 
-Tôi lê lết cơ thể rã rời vì đau đớn và cạn kiệt ma lực quay trở lại lô cốt, nhận phép 『Cấp Cứu Hồi Phục』 từ Himeno.
+Tôi lê lết cơ thể rã rời vì đau đớn và cạn kiệt ma lực quay trở lại boongke đất, đón nhận phép 『Cấp Cứu Hồi Phục』 từ Himeno.
 
 “Phù... Cuối cùng thì lũ Goma cũng bị tiêu diệt sạch sẽ rồi.”
 
-Himeno buông một tiếng thở dài mệt mỏi rồi nói.
+Himeno buông một tiếng thở dài nhẹ nhõm rồi nói.
 
-Trong tầm mắt của chúng tôi, không còn một con Goma nào sống sót. Zagan đã tử trận, Oh-ma thì bỏ chạy, lũ quái vật lúc này chẳng còn lấy một mảnh giáp sĩ khí.
+Trong tầm mắt của chúng tôi, không còn lấy một con Goma nào sống sót. Zagan đã tử trận, Oh-ma thì bỏ chạy, lũ quái vật lúc này chẳng còn sót lại chút sĩ khí nào.
 
-Những con GoGame Mastera vốn là chỗ dựa của chúng cũng bị Mei trong trạng thái cuồng chiến áp đảo hoàn toàn. Nhóm Ueta thì chém gục binh lính Gove dễ dàng như phát cỏ, còn lũ tàn quân yếu ớt tháo chạy thì cứ giao cho đám triệu hoán thú xử lý là đủ. Đến nước này, lực lượng chiến đấu của vương quốc Goma đã chính thức bị xóa sổ theo đúng nghĩa đen.
+Những con Gira-Gogma vốn là chỗ dựa vững chắc của chúng cũng bị Mei trong trạng thái cuồng chiến áp đảo hoàn toàn. Nhóm Ueta thì chém gục đám lính Gove dễ dàng như cắt cỏ, còn lũ tàn quân yếu ớt tháo chạy thì cứ giao cho đám triệu hoán thú xử lý là xong. Đến nước này, lực lượng chiến đấu của vương quốc Goma đã chính thức bị xóa sổ theo đúng nghĩa đen.
 
 “Kotarou-kun!”
 
-Khi công việc đã hoàn tất, Mei nở nụ cười rạng rỡ chạy ùa về phía tôi. Nụ cười tươi tắn của cô ấy rực rỡ đến mức khiến người nhìn cũng cảm thấy hạnh phúc lây, thế nhưng lực chân của cô ấy lại mạnh đến mức cuốn phăng cả cát bụi với tốc độ chóng mặt. Tôi thậm chí còn chẳng cần phải bước tới.
+Khi công việc đã hoàn tất, Mei nở nụ cười rạng rỡ chạy ùa về phía tôi. Nụ cười tươi tắn của cô ấy rực rỡ đến mức khiến người nhìn cũng cảm thấy hạnh phúc lây, thế nhưng lực chân của cô ấy dậm xuống đất lại mạnh đến mức cuốn phăng cả cát bụi với tốc độ chóng mặt. Tôi thậm chí còn chẳng cần phải bước tới.
 
 Vì thế, tôi chỉ việc dang rộng hai tay, chuẩn bị tận hưởng màn tái ngộ đầy cảm động này...
 
@@ -56179,49 +56195,49 @@ Vì thế, tôi chỉ việc dang rộng hai tay, chuẩn bị tận hưởng m�
 
 “Hự...!”
 
-*Aaa, cái ôm ấm áp và mềm mại bao trọn lấy toàn thân này. Hỏng rồi, lý trí của tôi đang tan chảy mất. Sức công phá khi bị kẹp giữa đôi gò bồng đảo khổng lồ này quả thực là quá áp đảo... Mọi sự kháng cự đều là vô nghĩa, tôi chỉ muốn để cả thể xác lẫn tâm hồn mình tan chảy ra thế này mãi thôi...*
+*Aaa, cái ôm ấm áp và mềm mại bao trọn lấy toàn thân này. Hỏng rồi, lý trí của tôi đang tan chảy mất. Sức công phá khi bị vùi giữa đôi gò bồng đảo khổng lồ này quả thực là quá áp đảo... Mọi sự kháng cự đều là vô nghĩa, tôi chỉ muốn để cả thể xác lẫn tâm hồn mình tan chảy ra thế này mãi thôi...*
 
 “Futaba-chan, cậu mau buông cậu ấy ra đi.”
 
 “Ể... Nhưng mà...”
 
-“Cứ thế này thì cậu Momokawa sẽ biến thành phế nhân mất.”
+“Cứ thế này thì Momokawa-kun sẽ biến thành phế nhân mất.”
 
-*Khốn thật, cái con Himeno này, dám phá hỏng khoảnh khắc cực lạc của người ta.* Tôi đành phải giã từ giấc mộng thiên đường để trở về với thế giới thực tại khắc nghiệt.
+*Khốn thật, cái cô Himeno này, dám phá hỏng khoảnh khắc cực lạc của người ta.* Tôi đành phải ngậm ngùi giã từ giấc mộng thiên đường để trở về với thực tại khắc nghiệt.
 
 “Dù sao thì, cậu đến kịp lúc thế này giúp tớ nhiều lắm. Thực sự cảm ơn cậu nhé, Futaba-chan.”
 
-“Không có gì đâu, Hime-chan bình an vô sự là tốt rồi. Ma pháp trị liệu của cậu cũng giúp ích nhiều lắm.”
+“Không có gì đâu, Hime-chan bình an vô sự là tốt rồi. Ma pháp trị liệu của cậu cũng giúp ích nhiều lắm mà.”
 
-Về phía hai cô gái, đây cũng là một màn tái ngộ đầy tình bạn ấm áp. Chắc hẳn Mei cũng đã rất lo lắng khi thấy Himeno bị nhốt ở bên ngoài.
+Về phía hai cô gái, đây cũng là một màn tái ngộ đượm tình bạn ấm áp. Chắc hẳn Mei cũng đã vô cùng lo lắng khi thấy Himeno bị nhốt ở bên ngoài.
 
-“Nhưng mà, cậu xuất hiện đúng lúc một cách kỳ lạ thật đấy, đây cũng là sự sắp đặt của cậu Momokawa sao?”
+“Nhưng mà, cậu xuất hiện đúng lúc một cách kỳ lạ thật đấy, đây cũng là sự sắp đặt của Momokawa-kun sao?”
 
 “Tớ đã cài cắm từ hồi còn ở Học Viện Tháp rồi.”
 
-Để báo cho Mei biết mỗi khi tôi gặp nguy hiểm, tôi đã cài sẵn một phân thân Rem dạng côn trùng nhỏ lên người cô ấy. Đó là một chú bọ cánh cam nhỏ, thường ngày vẫn ẩn nấp dưới mặt sau cổ áo thủy thủ của cô ấy.
+Để báo cho Mei biết mỗi khi tôi gặp nguy hiểm, tôi đã cài sẵn một phân thân Rem dạng côn trùng nhỏ lên người cô ấy. Đó là một chú bọ cánh cam nhỏ, thường ngày vẫn ẩn nấp dưới mặt sau cổ áo thủy thủ của Mei.
 
 Hồi còn ở Học Viện Tháp, tôi chưa từng phải dùng đến nó, nhưng ngay cả sau khi Takanashi lộ bản chất thật và tôi phải bỏ trốn, chú bọ cánh cam Rem này vẫn luôn bám theo Mei.
 
-Dĩ nhiên, khi bị ngăn cách bởi các khu vực khác nhau của hầm ngục, Rem chỉ có thể cảm nhận được chú bọ cánh cam đó còn sống hay không. Phải đến khi đặt chân xuống tầng sâu nhất này, tôi mới xác định được Mei đang ở cùng một khu vực với mình, nhưng có lẽ vì cô ấy bị giam lỏng trong pháo đài ẩn nên tôi vẫn không thể định vị chính xác vị trí.
+Dĩ nhiên, khi bị ngăn cách bởi các tầng khác nhau của hầm ngục, Rem chỉ có thể cảm nhận được chú bọ cánh cam đó còn tồn tại hay không. Phải đến khi đặt chân xuống tầng sâu nhất này, tôi mới xác định được Mei đang ở cùng một khu vực với mình, nhưng có lẽ vì cô ấy bị giam lỏng trong pháo đài ẩn nên tôi vẫn không thể định vị chính xác vị trí.
 
-Nói cách khác, chỉ cần cô ấy bước ra ngoài, Rem sẽ lập tức định vị được ngay. Cả từ phía tôi lẫn phía cô ấy đều như vậy.
+Nói cách khác, chỉ cần cô ấy bước chân ra ngoài, Rem sẽ lập tức định vị được ngay. Cả từ phía tôi lẫn phía cô ấy đều như vậy.
 
-“Tớ đã nghe ngóng được tình hình của Mei-chan từ bạn Natsukawa rồi. Nếu manh động thì sẽ khiến Takanashi cảnh giác, nên tớ mới phải nhẫn nhịn không tiếp xúc cho đến tận hôm nay.”
+“Tớ đã nghe ngóng được tình hình của Mei-chan từ Natsukawa-san rồi. Nếu manh động thì sẽ khiến Takanashi cảnh giác, nên tớ mới phải nhẫn nhịn không tiếp xúc cho đến tận hôm nay.”
 
 Takanashi đã dùng kỹ năng 『Quy Tắc Ý Niệm』 để trói buộc tâm trí của Mei, phong tỏa mọi hành động của cô ấy.
 
-Nếu không làm vậy, cô ta chắc chắn đã bị một Cuồng Chiến Binh đang nổi điên băm vằm thành trăm mảnh từ lâu rồi. Đó cũng là lý do vì sao trong vụ đầu độc náo loạn lần trước, chỉ có duy nhất Mei là không chạy đến ứng cứu.
+Nếu không làm vậy, cô ta chắc chắn đã bị một Cuồng Chiến Binh đang nổi điên băm vằm thành trăm mảnh từ lâu rồi. Đó cũng là lý do vì sao trong vụ đầu độc náo loạn lần trước, chỉ có duy nhất Mei là không thể chạy đến ứng cứu.
 
 “Nếu mọi chuyện diễn ra đúng như kế hoạch thì đã không cần Mei-chan phải ra tay rồi... Thực sự cảm ơn cậu nhiều lắm.”
 
-“Hì hì, tớ đến kịp là tốt rồi.”
+“Hì hì, tớ đến kịp là tốt rồi mà.”
 
-“Này, nhóm của cậu Souma hiện giờ thế nào rồi?”
+“Này, nhóm của Souma-kun hiện giờ thế nào rồi?”
 
 “Chắc họ cũng sắp tiếp cận được vương cung rồi.”
 
-Phía chúng tôi chỉ phải đối đầu với Oh-ma và đội hộ vệ của lão, chứng tỏ kế hoạch phân tán lực lượng bằng cách gọng kìm với dàn harem của Souma đã thành công mỹ mãn.
+Phía chúng tôi chỉ phải đối đầu với Oh-ma và đội hộ vệ của lão, chứng tỏ kế hoạch phân tán lực lượng bằng cách đánh gọng kìm với dàn hậu cung của Souma đã thành công mỹ mãn.
 
 *Thế nhưng, cái kiểu không thèm xuất hiện đúng lúc chúng tôi gặp nguy khốn vì màn hồi sinh kỳ tích của Zagan quả đúng là phong cách của ngài Dũng Giả (cười) mà. Bộ chỉ biết đến cứu nguy cho các nữ chính thôi hay sao? À mà, ngay cả lúc Reina gặp nguy hiểm cậu ta cũng có đến kịp đâu. Thôi xin lỗi nhé, tôi sẽ không giận cá chém thớt nữa đâu.*
 
@@ -56233,29 +56249,29 @@ Phía chúng tôi chỉ phải đối đầu với Oh-ma và đội hộ vệ c�
                 "title": "Tập 323: Đợi chờ nơi vương tọa",
                 "content": `# Tập 323: Đợi chờ nơi vương tọa
 
-Cuối cùng, họ cũng tiêu diệt xong lũ lính Goma canh giữ pháo đài. Lũ lính Gove được trang bị tận răng cùng vài con GoGame Mastera là những đối thủ cực kỳ đáng gờm, khiến họ mất khá nhiều thời gian. Nhưng thật tốt vì mọi người đều an toàn giành chiến thắng.
+Cuối cùng, chúng tôi cũng tiêu diệt xong toán lính Goma canh giữ pháo đài. Lũ lính Gove được trang bị tận răng cùng vài con Gogma là những đối thủ cực kỳ khó nhằn, khiến cả nhóm mất khá nhiều thời gian. Nhưng thật may khi mọi người đều an toàn giành thắng lợi.
 
-“Hức, Souma-kun ơi~!”
+“Hức... Souma-kun ơi~!”
 
-“Takanashi-san, không sao nữa rồi.”
+“Takanashi-san, không sao rồi.”
 
-Tôi bế cơ thể nhỏ nhắn đang khóc lóc thút thít của cô ấy lên.
+Tôi đỡ lấy cơ thể nhỏ nhắn đang thút thít của cô ấy.
 
-Lúc nãy, khi mặt đất dưới chân Takanashi bất ngờ đổ sụp và cô ấy suýt chút nữa rơi xuống vực sâu, tôi đã thực sự hoảng loạn. May mắn thay, cô ấy rơi trúng một khu vực nhô ra trông giống như ban công của tòa tháp nên không gặp nguy hiểm... Nhưng việc kéo cô ấy lên cứu hộ đã ngốn thêm không ít thời gian.
+Lúc nãy, khi mặt đất dưới chân Takanashi bất ngờ sụp đổ khiến cô ấy suýt chút nữa rơi xuống vực sâu, tôi đã thực sự hoảng loạn. May mắn thay, cô ấy rơi trúng một khoảng nhô ra trông như ban công của tòa tháp nên không gặp nguy hiểm tính mạng... Dù vậy, việc giải cứu và kéo cô ấy lên cũng đã ngốn thêm không ít thời gian.
 
 “Kotori, cậu có bị thương ở đâu không?”
 
 “Ừm, tớ không sao đâu Asuna-chan. Sakura-chan cũng đã dùng ma pháp trị liệu cho tớ rồi.”
 
-“Kịp thời chữa trị được thật là tốt quá. Hơn nữa có vẻ điểm tiếp đất cũng tốt nên cậu không bị chấn thương nào nghiêm trọng cả.”
+“Kịp thời chữa trị được thì tốt quá. Hơn nữa có vẻ điểm tiếp đất khá bằng phẳng nên cậu không gặp chấn thương nào nghiêm trọng.”
 
-“Thật là, làm người ta lo muốn chết... Từ đây trở đi để tớ cõng cậu nhé?”
+“Thật tình, làm người ta lo muốn chết... Từ đây trở đi để tớ cõng cậu nhé?”
 
-“Mồ, không cần đến mức đó đâu Asuna-chan! Lần tới tớ sẽ chú ý hơn mà!”
+“Mồ, không cần đến mức đó đâu Asuna-chan! Lần tới tớ sẽ chú ý cẩn thận hơn mà!”
 
-Nhìn cô ấy đùa giỡn vui vẻ với Asuna như vậy, có vẻ thực sự không sao rồi.
+Nhìn cô ấy cười đùa với Asuna như vậy, có vẻ như mọi chuyện đã thực sự ổn thỏa.
 
-Thế nhưng, người nhẹ nhõm nhất lúc này có lẽ không phải là Kotori được cứu, mà chính là tôi. Cứ mỗi lần nghĩ đến cảnh đồng đội gặp nguy hiểm là tim tôi lại lạnh toát.
+Thế nhưng, người cảm thấy nhẹ nhõm nhất lúc này có lẽ không phải là Kotori vừa thoát nạn, mà chính là tôi. Cứ mỗi lần nghĩ đến cảnh đồng đội gặp nguy hiểm, tim tôi lại thắt lại.
 
 “Được rồi, tiếp theo chúng ta phải đi tìm Futaba-san thôi.”
 
@@ -56265,29 +56281,29 @@ Thế nhưng, người nhẹ nhõm nhất lúc này có lẽ không phải là K
 
 “Cậu ấy đã đến trước rồi. Cậu ấy vừa liên lạc xong.”
 
-“Vậy sao, cậu ấy an toàn à! Tốt quá... Ủa mà khoan, Futaba-san hiện tại... dùng điện thoại liên lạc sao?”
+“Vậy sao, cậu ấy an toàn à! Tốt quá... Ơ nhưng mà khoan, Futaba-san hiện tại... dùng điện thoại liên lạc sao?”
 
 “Ừ, đúng vậy.”
 
-Việc lạc mất nhau rồi dùng điện thoại báo tin là chuyện bình thường, nhưng với một người đang trong trạng thái bất ổn tâm lý như cô ấy, liệu có đủ tỉnh táo để làm vậy? Ngay từ đầu, nếu có khả năng nhận thức đó thì cô ấy đã không đi lạc rồi...
+Việc lạc nhau rồi dùng điện thoại báo tin là chuyện bình thường, nhưng với một người đang trong trạng thái bất ổn tâm lý như cô ấy, liệu có đủ tỉnh táo để làm thế? Ngay từ đầu, nếu còn khả năng nhận thức rành mạch thì cô ấy đã chẳng đi lạc...
 
 “Futaba-san đang đợi đấy. Chúng ta mau đi thôi.”
 
 “Ừ, đi thôi.”
 
-Dù sao đi nữa, xác nhận được cô ấy an toàn là điều quan trọng nhất. Lũ lính Goma có vẻ đã bị tiêu diệt sạch, nhưng không loại trừ khả năng vẫn còn kẻ địch ẩn nấp đâu đó. Phải nhanh chóng hội quân để đảm bảo an toàn.
+Dù sao đi nữa, việc xác nhận được cô ấy an toàn vẫn là quan trọng nhất. Lũ lính Goma có vẻ đã bị quét sạch, nhưng không loại trừ khả năng vẫn còn tàn quân ẩn nấp đâu đó. Phải nhanh chóng hội quân để đảm bảo an toàn.
 
 Thế rồi, chúng tôi tiến sâu vào bên trong pháo đài.
 
-Theo cuộc điều tra của Natsukawa, phía sau pháo đài này là vương cung nơi Vua Goma Oh-ma ngự trị, và phần lớn kiến trúc của nó là tàn tích của Tháp Trung Tâm. Chính vì thế, vương cung có rất nhiều lối đi ẩn, giúp việc xâm nhập trở nên vô cùng dễ dàng.
+Theo thông tin do thám của Natsukawa, phía sau pháo đài này là vương cung nơi Vua Goma Oh-ma ngự trị, và phần lớn cấu trúc của nó vốn là tàn tích của Tháp Trung Tâm. Chính vì thế, vương cung có rất nhiều lối đi bí mật, giúp việc thâm nhập trở nên vô cùng dễ dàng.
 
 “Lối này nè.”
 
-Dưới sự dẫn đường của Natsukawa, chúng tôi đi theo con đường ngắn nhất xuyên qua pháo đài rộng lớn. Chẳng mấy chốc, cả nhóm đã đến vương cung.
+Dưới sự dẫn đường của Natsukawa, chúng tôi đi theo lộ trình ngắn nhất xuyên qua pháo đài rộng lớn. Chẳng mấy chốc, cả nhóm đã đến được vương cung.
 
-Nơi này vốn là một lối đi ẩn, cô ấy chỉ cần chạm nhẹ tay lên bức tường trơn nhẵn, một cánh cửa lập tức trượt mở ra không tiếng động.
+Nơi này vốn là một mật đạo, cô ấy chỉ cần chạm nhẹ tay lên bức tường trơn nhẵn, một cánh cửa lập tức trượt mở mà không phát ra bất kỳ tiếng động nào.
 
-Lũ Goma hoàn toàn không biết đến các lối đi ẩn này, nên chúng tôi nhanh chóng xếp hàng đi qua.
+Lũ Goma hoàn toàn không hay biết về các lối đi ẩn này, nên chúng tôi nhanh chóng nối đuôi nhau bước qua.
 
 “Trong vương cung không còn tên Goma nào sao?”
 
@@ -56295,7 +56311,7 @@ Lũ Goma hoàn toàn không biết đến các lối đi ẩn này, nên chúng 
 
 Đúng như dự đoán, Natsukawa cũng không cảm nhận được bất kỳ hơi thở nào của Goma.
 
-Tộc Goma cũng có con cái và con non, nghĩa là có dân thường tồn tại. Những kẻ chúng tôi tiêu diệt chắc chắn đều là binh lính. Vậy phụ nữ và trẻ em Goma vốn sống trong vương cung đã đi đâu hết rồi? Pháo đài vẫn an toàn nên không thể có chuyện họ bị chôn vùi do sụp đổ... Có lẽ họ đã dùng ma pháp dịch chuyển để di tản đi nơi khác rồi.
+Tộc Goma cũng có phụ nữ và con non, tức là có cả dân thường tồn tại. Những kẻ chúng tôi chạm trán chắc chắn đều là binh lính. Vậy phụ nữ và trẻ em Goma vốn sống trong vương cung đã biến đi đâu hết rồi? Pháo đài vẫn nguyên vẹn nên không thể có chuyện họ bị chôn vùi do đất đá sụp đổ... Có lẽ họ đã dùng ma pháp dịch chuyển để di tản đi nơi khác rồi.
 
 “Đây là Phòng Vương Tọa.”
 
@@ -56305,51 +56321,51 @@ Tộc Goma cũng có con cái và con non, nghĩa là có dân thường tồn t
 
 Cuối cùng cũng đến được đây.
 
-Khi mới biết đến sự tồn tại của Vương quốc Goma, tôi hoàn toàn không biết làm sao để vượt qua. Hơn hết, vì tên Goma hùng mạnh Zagan mà chúng tôi đã mất đi hai người bạn.
+Khi mới biết đến sự tồn tại của Vương quốc Goma, tôi hoàn toàn không biết phải làm sao để vượt qua. Đau đớn hơn cả, vì tên Goma hùng mạnh Zagan mà chúng tôi đã mất đi hai người bạn.
 
-Rồi sau đó, dưới sự truy kích của chúng... chúng tôi lại mất thêm năm người nữa. Liệu họ có còn sống sót ở đâu đó trong khu vực này không?
+Rồi sau đó, trước sự truy kích ráo riết của chúng... chúng tôi lại lạc mất thêm năm người nữa. Liệu họ có còn sống sót ở đâu đó trong khu vực này không?
 
-Dù đã cố gắng tìm kiếm hết sức, nhưng cuối cùng chúng tôi không tìm thấy bất kỳ dấu vết nào của sự sống. Hy vọng sống sót vô cùng mong manh.
+Dù đã dốc toàn lực tìm kiếm, nhưng cuối cùng chúng tôi chẳng thể thấy bất kỳ dấu vết nào của sự sống. Hy vọng sống sót vô cùng mong manh.
 
-Dù vậy, chúng tôi vẫn phải bước tiếp. Chỉ cần vẫn còn những người sống sót, chúng tôi sẽ không bao giờ bỏ cuộc cho đến phút cuối cùng.
+Dù vậy, chúng tôi vẫn phải cắn răng bước tiếp. Chỉ cần vẫn còn những người sống sót, chúng tôi tuyệt đối không bao giờ bỏ cuộc cho đến phút cuối cùng.
 
 “Nào, đi thôi.”
 
-Tôi đặt tay lên cánh cửa đôi khổng lồ và dùng lực đẩy mạnh ra. Tôi tin rằng phía sau cánh cửa này chính là con đường hy vọng để thoát khỏi hầm ngục đáng nguyền rủa này————
+Tôi đặt tay lên cánh cửa đôi khổng lồ và dồn lực đẩy mạnh ra. Tôi tin rằng phía sau cánh cửa này chính là con đường hy vọng dẫn lối thoát khỏi hầm ngục ngột ngạt này————
 
 “———— Chào cậu, Souma-kun. Lâu rồi không gặp, tớ đợi cậu mãi đấy.”
 
-Một bóng người nhỏ nhắn đang ngồi trên vương tọa gọi tên tôi.
+Một bóng người nhỏ nhắn đang ung dung ngồi trên vương tọa cất tiếng gọi tên tôi.
 
 Gương mặt trung tính mang nét ngây thơ nhưng lại nở nụ cười kiêu ngạo như một con mèo hoang trơ trẽn.
 
-Giọng nói đó, gương mặt đó, dáng vẻ đó... không thể nhầm lẫn được. Cả đời này tôi cũng không thể quên.
+Giọng nói đó, gương mặt đó, dáng vẻ đó... không thể nào nhầm lẫn được. Cả đời này tôi cũng không thể quên.
 
-Kẻ đại ác đã giết người bạn thanh mai trúc mã của tôi và phản bội cả lớp.
+Kẻ tội đồ đã nhẫn tâm giết hại người bạn thanh mai trúc mã của tôi và phản bội cả lớp.
 
-Nhưng đồng thời, cậu ta cũng là thủ lĩnh đầy mưu mẹo đã dẫn dắt cả lớp vượt qua Yamata no Orochi mà không tổn thất một ai, dù cho sự gắn kết đó chỉ là giả dối.
+Nhưng đồng thời, cậu ta cũng chính là thủ lĩnh đầy mưu mô từng dẫn dắt cả lớp vượt qua Yamata no Orochi mà không tổn thất một ai, dẫu cho sự gắn kết đó chỉ là một màn kịch giả tạo.
 
 “Momokawa... sao cậu lại ở đây?”
 
-“Chao ôi, cậu vẫn chậm hiểu như ngày nào. Cậu nghĩ ai đã tiêu diệt Vương quốc Goma này hả?”
+“Chao ôi, cậu vẫn chậm hiểu như ngày nào. Cậu nghĩ ai là người đã san phẳng Vương quốc Goma này hả?”
 
-“Kh-Không lẽ———— Lớp trưởng!?”
+“Kh-Không lẽ nào———— Lớp trưởng!?”
 
-“Phải, tôi chỉ làm theo kế hoạch của Momokawa-kun thôi. Người chinh phục vương quốc này là cậu ấy.”
+“Phải, tôi chỉ làm theo kế hoạch của Momokawa-kun thôi. Người chinh phục vương quốc này chính là cậu ấy.”
 
-“Ý cậu là sao! Tại sao, thế nào mà ngay cả Lớp trưởng cũng... phản bội chúng tôi sao————”
+“Ý cậu là sao chứ! Tại sao, cớ làm sao ngay cả Lớp trưởng cũng... phản bội chúng tôi sao————”
 
-“———— Phản bội? Cậu lại nói thế rồi, Souma-kun. Cậu luôn như vậy đấy.”
+“———— Phản bội? Cậu lại nói câu đó rồi, Souma-kun. Lúc nào cậu cũng mở miệng ra là như vậy.”
 
-“Momokawa, sao mày dám mở miệng nói thế hả, đồ phản bội khốn kiếp!”
+“Momokawa, sao mày dám trơ tráo nói thế hả, đồ phản bội khốn khiếp!”
 
 “Chưa biết chừng đâu. Yuuto-kun, đối với họ, kẻ phản bội lại chính là chúng ta đấy.”
 
-Lúc này, tôi mới muộn màng nhận ra.
+Đến lúc này, tôi mới bàng hoàng nhận ra.
 
-Dưới vương tọa nơi Momokawa đang ngồi, có rất nhiều bóng người khác.
+Phía dưới vương tọa nơi Momokawa đang ngự trị, có rất nhiều bóng người khác đang đứng đó.
 
-“Hừ, tụi tao phải trầy da tróc vẩy mới chinh phục được vương quốc này, thế mà Dũng Giả các hạ lại thong dong đến sau hưởng sái, sướng thật đấy nhỉ?”
+“Hừ, tụi tao phải trầy da tróc vảy mới bình định được cái vương quốc này, thế mà Dũng Giả các hạ lại thong dong tới sau hưởng sái, sướng thật đấy nhỉ?”
 
 “Đừng nói là các người đã quên sạch tụi tao rồi nhé.”
 
@@ -56357,157 +56373,157 @@ Dưới vương tọa nơi Momokawa đang ngồi, có rất nhiều bóng ngư�
 
 “Chúng tớ được Momokawa cứu.”
 
-“Dù cậu ta bắt tụi tớ làm mấy việc khá là điên rồ...”
+“Dù cậu ta bắt tụi tớ phải làm mấy việc khá là điên rồ...”
 
 “Yamada, Nakajima, các cậu cũng còn sống...”
 
-“Mà khoan đã, Kenzaki Asuna! Tao sẽ không bao giờ tha thứ cho cú đá của mày đâu, chuẩn bị tinh thần đi con khốn kia!!”
+“Khoan đã, Kenzaki Asuna! Tao sẽ không bao giờ tha thứ cho cú đá của mày đâu, chuẩn bị tinh thần đi con khốn kia!!”
 
-Và rồi, Himeno hét lên đầy giận dữ như muốn phun cả nước bọt vào mặt chúng tôi.
+Và rồi, Himeno gào lên đầy căm hận như muốn nuốt tươi nuốt sống chúng tôi.
 
-“Thế đấy, cả năm người mà các cậu bỏ rơi đều được tớ cứu sống. Tốt quá rồi còn gì Souma-kun, cậu không bị mất đi những người bạn quý giá. Trước hết, tớ nghĩ cậu nên nói một lời cảm ơn với tớ chứ nhỉ?”
+“Thế đấy, cả năm người mà các cậu nhẫn tâm bỏ rơi đều đã được tớ cứu sống toàn mạng. Quá tuyệt vời rồi còn gì, Souma-kun, cậu không phải chịu cảnh mất đi những người bạn quý giá nữa. Trước hết, tớ nghĩ cậu nên nói một lời cảm ơn với tớ chứ nhỉ?”
 
-“Câm miệng đi! Dù cậu có làm gì đi nữa, Momokawa Kotarou, cậu vẫn là kẻ phản bội hèn hạ đã âm mưu đầu độc tất cả chúng tôi! Ngay tại đây, chúng ta hãy phân định thắng thua luôn đi!”
+“Câm miệng lại! Dù cậu có giở trò gì đi nữa, Momokawa Kotarou, cậu vẫn là kẻ phản bội hèn hạ đã âm mưu đầu độc toàn bộ chúng tôi! Ngay tại đây, chúng ta hãy phân định thắng bại luôn đi!”
 
 “Vậy cậu muốn quyết đấu sinh tử với tớ không?”
 
-Tỏa ra một luồng ma lực khủng khiếp khiến người ta lạnh sống lưng, Futaba lạnh lùng lên tiếng.
+Tỏa ra một luồng ma lực khủng khiếp khiến người ta lạnh buốt sống lưng, Futaba lạnh lùng lên tiếng.
 
-Như một kị sĩ trung thành tuyệt đối bảo vệ Momokawa trên vương tọa, cô ấy mang theo chiếc khiên đen khổng lồ và cây kích, nhìn chúng tôi với ánh mắt đầy sát khí.
+Tựa như một kị sĩ tuyệt đối trung thành đang canh giữ cho Momokawa trên vương tọa, cô ấy cầm chiếc khiên đen khổng lồ và cây kích, nhìn chúng tôi bằng ánh mắt tràn ngập sát khí.
 
 “F-Futaba-san, cậu đã tỉnh táo lại rồi sao...”
 
-“Ừm, tớ là 『Cuồng Chiến Binh』 Futaba Meiko. Souma-san, cậu nên cân nhắc kỹ vị thế của mình trước khi nói chuyện. Cậu nghĩ đối đầu với tụi tớ mà có thể yên ổn rời đi sao?”
+“Ừm, tớ là 『Cuồng Chiến Binh』 Futaba Meiko. Souma-san, cậu nên cân nhắc kỹ vị thế của mình trước khi mở lời. Cậu nghĩ đối đầu với tụi tớ mà có thể lành lặn rời khỏi đây sao?”
 
-Nhìn quanh một lượt, không ai có ý định cản Futaba lại, cũng không ai nói đỡ cho nhóm chúng tôi.
+Đảo mắt nhìn quanh một lượt, tuyệt nhiên không một ai có ý định cản Futaba lại, cũng chẳng một ai lên tiếng bênh vực cho nhóm chúng tôi.
 
-Điều đó là hiển nhiên. Vào lúc đó, bắt đầu từ cú đá của Asuna nhắm vào Himeno, chúng tôi đã xem như bỏ rơi họ. Việc chúng tôi bị oán hận là điều đương nhiên.
+Điều đó cũng dễ hiểu thôi. Vào thời khắc ấy, khởi đầu từ cú đá của Asuna nhắm thẳng vào Himeno, chúng tôi coi như đã bỏ rơi họ lại phía sau. Việc bị họ căm ghét oán hận là lẽ đương nhiên.
 
-Cuối cùng, tôi đã không thể cứu họ, còn người cứu họ lại chính là... dù có cay đắng thế nào, thì đó cũng là sự thật hiển nhiên, chính là Momokawa.
+Sau cùng, tôi đã bất lực không thể cứu được họ, còn người cứu sống họ lại chính là... dẫu cho có cay đắng đến nhường nào, thì sự thật hiển nhiên ấy, chính là Momokawa.
 
 “Đừng quên tụi này nữa chứ~”
 
-“Gư gừ!”
+“Gừ gừ!”
 
-Từ lúc nào không hay, Randou đã xuất hiện phía sau chúng tôi. Dù khẩu súng lục ổ xoay bằng vàng của cô ấy chưa chĩa thẳng vào chúng tôi, nhưng cô ấy đã sẵn sàng thi triển ma pháp hệ Thổ cấp cao.
+Từ lúc nào không hay, Randou đã đứng chắn phía sau lưng chúng tôi. Dù khẩu súng lục ổ xoay màu vàng kim của cô ấy chưa chĩa thẳng vào chúng tôi, nhưng luồng ma lực hệ Thổ cấp cao đã bắt đầu cuộn trào tích tụ.
 
-Và đứng chắn bảo vệ cho cô ấy là Rem trong hình dạng Hắc Kị Sĩ. Hơn nữa, số lượng Skeleton và High Zombie đã tăng lên rất nhiều so với trước, cùng với một triệu hoán thú khổng lồ như GoGame Mastera cũng xuất hiện.
+Đứng cạnh bảo vệ cô ấy là Rem trong hình dạng Hắc Kị Sĩ. Hơn thế nữa, số lượng Skeleton và High Zombie đã tăng lên vượt trội so với trước, thậm chí còn có cả sự xuất hiện của những con quái vật khổng lồ như Gogma.
 
-Chúng tôi hoàn toàn bị bao vây và lép vế về số lượng. Nếu chiến đấu, chúng tôi chắc chắn sẽ thua.
+Chúng tôi hoàn toàn rơi vào thế gọng kìm và bị áp đảo tuyệt đối về quân số. Nếu giao chiến, chúng tôi chắc chắn sẽ thảm bại.
 
-“Sakura, xin em đừng hành động bồng bột. Cả chị và Momokawa-kun đều không muốn tàn sát lẫn nhau khi đợi ở đây.”
+“Sakura, xin em đừng hành động bồng bột. Cả chị và Momokawa-kun khi đứng đợi ở đây đều không hề muốn xảy ra cảnh tương tàn tàn sát lẫn nhau.”
 
-“L-Lớp trưởng cũng... đứng về phía Momokawa sao?”
+“L-Lớp trưởng cũng... đứng về phe Momokawa sao?”
 
-“Huhu... xin lỗi cậu nhé Souma-kun, vì đã lừa cậu.”
+“Huhu... xin lỗi cậu nhé Souma-kun, vì đã giấu cậu.”
 
-“Minami, em không cần phải xin lỗi. Để mọi chuyện rắc rối đến mức này, Yuuto-kun cũng có phần trách nhiệm. Và tất nhiên, cả tôi nữa.”
+“Minami, em không cần phải xin lỗi. Để mọi chuyện đi đến bước đường phức tạp này, Yuuto-kun cũng có một phần trách nhiệm. Và tất nhiên, cả tôi nữa.”
 
-“Không thể nào, Ryouko! Ngay cả cậu cũng phản bội sao!”
+“Không thể nào, Ryouko! Ngay cả cậu cũng phản bội bọn này sao!”
 
-“Đến nước này rồi mà còn đứng về phía Momokawa, các cậu điên rồi! Vì ham sống sợ chết mà đầu hàng kẻ thù, thật không biết xấu hổ!”
+“Đến nước này rồi mà còn đứng về phía Momokawa, các cậu điên thật rồi! Vì ham sống sợ chết mà đi đầu hàng kẻ thù, thật không biết liêm sỉ!”
 
-“Mọi người bị làm sao thế này?! Này, chuyện này chắc chắn có gì đó sai trái... Không phải các cậu đang bị chú thuật của Momokawa-kun thao túng đấy chứ?!”
+“Mọi người bị làm sao thế này?! Này, chuyện này nhất định có điều gì đó khuất tất... Không phải các cậu đang bị chú thuật của Momokawa-kun thao túng đấy chứ?!”
 
-Đến cả Lớp trưởng và Natsukawa cũng đứng về phía Momokawa. Đúng như lời Takanashi nói, tôi thực sự nghĩ rằng tên đó đang dùng tà thuật nào đó để tẩy não hai người họ.
+Đến cả Lớp trưởng và Natsukawa cũng ngả về phía Momokawa. Đúng như lời Takanashi hoảng hốt, tôi thực sự nghĩ rằng tên quái vật đó đang dùng tà thuật quỷ quyệt nào đó để tẩy não hai người họ.
 
-“...Nói cho tớ biết đi, Lớp trưởng. Từ lúc nào? Cậu đã thông đồng với Momokawa từ lúc nào?”
+“...Nói cho tớ biết đi, Lớp trưởng. Từ bao giờ? Cậu đã bắt tay với Momokawa từ bao giờ?”
 
-“Từ lúc Minami lần đầu tiên lẻn vào vương quốc. Ở đó em ấy đã tình cờ gặp Momokawa-kun.”
+“Từ lúc Minami lần đầu tiên thâm nhập vào vương quốc. Khi đó em ấy đã tình cờ chạm mặt Momokawa-kun.”
 
-“Vậy thì, thông tin trên phiến đá cổ và báo cáo trinh sát vương quốc...”
+“Vậy thì, thông tin giải mã trên phiến đá cổ và báo cáo trinh sát tình hình vương quốc...”
 
-“Không phải do một mình Minami thu thập. Thông tin trên phiến đá là do Momokawa-kun giải mã.”
+“Không phải do một mình Minami thu thập. Nội dung trên phiến đá là do Momokawa-kun đích thân giải mã.”
 
-*Hóa ra tất cả đều nằm trong lòng bàn tay của cậu ta...*
+*Hóa ra tất cả mọi chuyện đều nằm gọn trong lòng bàn tay thao túng của cậu ta...*
 
-“Tôi đã chọn phương án tốt nhất để không phải hy sinh thêm bất kỳ người bạn học nào nữa. Dù cho việc đó có nghĩa là tôi phải lừa dối các cậu.”
+“Tôi đã lựa chọn phương án tối ưu nhất để không phải hy sinh thêm bất kỳ một người bạn học nào nữa. Dù cho điều đó đồng nghĩa với việc tôi phải lừa dối các cậu.”
 
-“Cậu... không tin tưởng tớ đến thế sao...”
+“Cậu... không còn chút tin tưởng nào vào tớ nữa sao...”
 
-Tôi không thấy giận Lớp trưởng vì sự phản bội này.
+Tôi không hề thấy căm giận Lớp trưởng vì sự quay lưng này.
 
-Tôi chỉ thấy hận bản thân. Hận vì mình đã đánh mất lòng tin của cô ấy. Hận vì sự bất lực của mình đã đẩy Lớp trưởng đến nước này. Tôi thấy mình thật thảm hại và vô dụng.
+Tôi chỉ thấy căm ghét chính bản thân mình. Căm ghét vì bản thân đã đánh mất đi niềm tin của cô ấy. Căm ghét sự bất lực yếu đuối của mình đã đẩy Lớp trưởng đến bước đường cùng này. Tôi thấy mình sao mà thảm hại và vô dụng đến thế.
 
-Dũng Giả cái nỗi gì chứ... Cuối cùng tôi chẳng cứu được ai... Việc cứu năm người kia lẫn tiêu diệt vương quốc Goma để mở đường... tất cả đều do Momokawa làm. Lại chính là cậu ta làm.
+Dũng Giả cái nỗi gì chứ... Rốt cuộc tôi chẳng bảo vệ được một ai... Cả việc cứu sống năm người kia lẫn việc san phẳng Vương quốc Goma để mở đường máu... tất cả đều do một tay Momokawa làm nên. Lại chính là cậu ta.
 
-Tôi đã làm cái gì suốt thời gian qua chứ... Tôi nên làm gì mới đúng đây...
+Suốt ngần ấy thời gian qua, tôi đã làm được cái trò trống gì chứ... Tôi rốt cuộc phải làm gì mới đúng đây...
 
-“Đủ rồi... Lớp trưởng và Natsukawa-san cứ đi cùng Momokawa đi.”
+“Đủ rồi... Lớp trưởng và Natsukawa-san cứ đi theo Momokawa đi.”
 
-“Đừng thế chứ, Yuuto-kun, sao cậu lại nói vậy————”
+“Đừng như vậy chứ, Yuuto-kun, sao cậu lại nói ra những lời————”
 
-“Đi đi! Nếu đã tin tưởng tên đó hơn thì cứ làm theo ý mình đi!”
+“Đi đi! Nếu đã đặt niềm tin vào tên đó hơn thì các người cứ việc làm theo ý mình đi!”
 
-A, tôi đang nói cái gì thế này.
+A, tôi đang thốt ra những lời điên rồ gì thế này.
 
-Không phải, tôi không muốn nói những lời này. Hai người họ không có lỗi gì cả.
+Không phải, tôi thực tâm không hề muốn nói những lời cay độc đó. Hai người họ chẳng có lỗi lầm gì cả.
 
-Thế nhưng, cảm xúc bất lực dâng trào trong lồng ngực giống như một con đập bị vỡ, tuôn ra khỏi miệng tôi thành những tiếng thét ngu ngốc. Tôi không thể tự kiểm soát được bản thân.
+Thế nhưng, cảm giác bất lực nghẹn ứ nơi lồng ngực tựa như một con đập vỡ, cuộn trào tuôn ra khỏi miệng tôi thành những tiếng gầm gừ mù quáng. Tôi không còn khả năng kiểm soát nổi chính mình nữa.
 
-*Tự hủy hoại bản thân là thế này sao.*
+*Cảm giác tự hủy hoại bản thân chính là thế này sao.*
 
-“Một kẻ chẳng làm được gì như tôi, cứ mặc kệ tôi đi!”
+“Một kẻ vô tích sự chẳng làm nên trò trống gì như tôi, cứ mặc xác tôi đi!”
 
-“———— Cái thằng đại ngu ngốc này!!”
+“———— Cái thằng đại ngu ngốc nhà mày!!”
 
-Một tiếng thét giận dữ vang lên át cả tiếng hét tuyệt vọng của tôi.
+Một tiếng thét đanh thép giận dữ vang lên, át đi toàn bộ những lời gào thét tuyệt vọng của tôi.
 
-Khi nhận ra, một bóng người quen thuộc đã đứng trước mặt tôi.
+Đến khi định thần lại, một bóng người quen thuộc đã sừng sững đứng chắn trước mặt tôi.
 
 “C-Cậu là... Hayama...? Hayama đó sao? Không thể nào, cậu vẫn còn sống————”
 
-“Tao nghe chán ngấy cái câu 'mày còn sống hả' rồi! Chuyện đó tính sau, nhưng mà Souma Yuuto!”
+“Tao nghe phát ngấy cái câu 'mày còn sống hả' rồi đấy! Chuyện đó để sau, nhưng mà Souma Yuuto!”
 
 “C-Cái gì chứ...”
 
-“Đừng có giỡn mặt tao! Từ nãy đến giờ tao chỉ nghe thấy mày lải nhải cằn nhằn thôi! Trước hết, thấy mọi người còn sống thì phải khóc lóc mừng rỡ, rồi sau đó cảm ơn tụi tao vì đã cứu mạng chứ!”
+“Đừng có giở cái thói đời đó ra với tao! Từ nãy đến giờ tao chỉ toàn nghe thấy mày lải nhải mấy lời cằn nhằn thảm hại thôi đấy! Trước hết, thấy mọi người còn sống sờ sờ ra đó thì phải khóc lóc mừng rỡ, rồi sau đó mở mồm cảm ơn tụi tao vì đã liều mạng cứu người chứ!”
 
-“Cậu nói hay lắm... Hayama, cậu không biết những gì Momokawa đã làm đâu. Không, vì cậu không biết gì nên mới bị cậu ta lừa————”
+“Cậu nói nghe dễ lắm... Hayama, cậu không hề hay biết những tội ác mà Momokawa đã gây ra đâu. Không, chính vì cậu không biết gì nên mới bị cậu ta dắt mũi————”
 
-“Câm miệng lại đi. Mày lúc nào cũng nghĩ nếu không phải tự tay mày cứu thì không chịu được hả?”
+“Câm cái mồm mày lại đi. Mày lúc nào cũng ảo tưởng rằng nếu không phải do đích thân bàn tay mày cứu thì không chịu nổi hả?”
 
-“Cái gì?!”
+“Cái gì cơ?!”
 
-“Nhìn mày bây giờ chỉ thấy như vậy thôi. Nào là không tin những gì Momokawa làm, nào là bị lừa dối... rồi giờ lại coi Lớp trưởng là kẻ phản bội. Kẻ không tin tưởng người khác ở đây chính là mày đấy!”
+“Nhìn cái bộ dạng mày bây giờ ngứa mắt chết đi được. Nào là không tin những việc Momokawa làm, nào là bị người ta lừa dối... rồi giờ lại quay sang coi Lớp trưởng là kẻ phản bội. Kẻ không hề mở lòng tin tưởng bất kỳ ai ở đây chính là cái thằng mày đấy!”
 
-“Không phải! Cậu không biết Momokawa nguy hiểm đến mức nào đâu!”
+“Không phải! Cậu không biết Momokawa nguy hiểm và quỷ quyệt đến mức nào đâu!”
 
-“Ồn ào quá, tao biết hết rồi! Biết rõ hết nhưng tao vẫn quyết định tin tưởng Momokawa. Không ai khác, chính Momokawa đã cứu tao, cứu tụi tao và dẫn dắt tụi tao đến tận đây!”
+“Ồn ào quá, tao biết hết rồi! Biết tỏng tòng teo rồi nhưng tao vẫn quyết định đặt niềm tin vào Momokawa. Chẳng phải ai khác, chính Momokawa đã cứu mạng tao, cứu cả bọn tao và dẫn dắt tụi tao đến tận nơi này!”
 
-Đúng vậy, Momokawa là người có thể làm được điều đó. Cậu ta có sức mạnh và tài năng. Chính vì thế, tôi mới thấy cậu ta thật đáng sợ.
+Đúng vậy, Momokawa chính là kẻ có đủ năng lực để làm nên điều đó. Cậu ta sở hữu sức mạnh và mưu lược dị thường. Chính vì lẽ đó, tôi mới thấy cậu ta đáng sợ đến ghê người.
 
-Việc cậu ta quay lại đây đã là một phép màu. Hơn nữa, dù cậu ta đã âm mưu đầu độc cả lớp, nhưng giờ đây phần lớn bạn học đều đứng về phía cậu ta. Đến cả Lớp trưởng và Natsukawa cũng vậy... Mọi người điên hết rồi. Tại sao lại như vậy chứ.
+Việc cậu ta có thể sống sót trở về đây đã là một kỳ tích. Hơn thế nữa, dù cho cậu ta từng âm mưu hạ độc sát hại cả lớp, nhưng giờ đây phần lớn bạn học đều tình nguyện đứng về phía cậu ta. Đến cả Lớp trưởng và Natsukawa cũng chẳng phải ngoại lệ... Mọi người đều hóa điên hết rồi. Rốt cuộc tại sao lại thành ra nông nỗi này.
 
-“Tớ... tớ chỉ muốn cứu mọi người thôi mà...”
+“Tớ... tớ chỉ muốn cứu sống tất cả mọi người thôi mà...”
 
-“Nếu nghĩ vậy thì hãy đối mặt đàng hoàng với Momokawa đi. Nghe đây, tên đó đã cứu cả mày nữa đấy, cậu ta mới đến được tận đây.”
+“Nếu trong đầu mày thực sự nghĩ thế thì hãy đường hoàng đối mặt với Momokawa đi. Nghe cho rõ đây, tên đó đã cứu cả mày nữa đấy, nhờ vậy cậu ta mới có thể đứng được ở đây.”
 
-“Phải đấy, Yuuto-kun. Chúng ta có thể bắt đầu lại một lần nữa, với tư cách là Lớp 2-7.”
+“Phải đấy, Yuuto-kun. Chúng ta hoàn toàn có thể bắt đầu lại từ đầu, với tư cách là tập thể Lớp 2-7.”
 
 “Bắt đầu lại... sao...?”
 
-“Ừ, được chứ. Chỉ cần nói chuyện đàng hoàng, chúng ta chắc chắn sẽ làm được.”
+“Ừ, được chứ. Chỉ cần chúng ta ngồi lại nói chuyện thẳng thắn, nhất định sẽ làm được.”
 
-Lớp trưởng tha thiết cầu xin tôi tin tưởng cô ấy.
+Lớp trưởng tha thiết van nài tôi hãy tin tưởng cô ấy.
 
-Tôi cũng muốn tin chứ. Tôi đã luôn tin tưởng. Nhưng mặt khác, cảm giác bị lừa dối vẫn hiện hữu rõ ràng, khiến tôi không thể phớt lờ.
+Bản thân tôi cũng muốn tin chứ. Tôi đã luôn gửi gắm trọn vẹn niềm tin vào cô ấy. Nhưng ở chiều ngược lại, cảm giác bị dối lừa cay đắng vẫn hiển hiện mồn một, khiến tôi không tài nào gạt phăng đi được.
 
-Tôi nên tin tưởng sao?
+Tôi có nên tin tưởng không?
 
-Hay là, tôi nên coi như Lớp trưởng đã bị tẩy não và lập tức rút kiếm chiến đấu?
+Hay là, tôi phải xem như Lớp trưởng đã bị tà thuật tẩy não để lập tức tuốt kiếm quyết chiến?
 
-“Đừng bị lừa, anh hai! Nói chuyện gì tầm này nữa, đã quá muộn rồi!”
+“Đừng để bị lừa gạt, anh hai! Nói chuyện hòa giải cái tầm này nữa, mọi chuyện đã quá muộn màng rồi!”
 
-“Đúng thế, Souma! Cậu quên những gì Momokawa đã làm rồi sao! Tên đó chắc chắn đang âm mưu gì đó!”
+“Đúng thế, Souma! Cậu quên sạch những tội ác tày trời mà Momokawa đã làm rồi sao! Tên đó chắc chắn lại đang giở trò mưu mô gì đó!”
 
-“Dừng lại đi, Sakura, Asuna. Các em biết rõ nếu chiến đấu thì sẽ có người chết mà.”
+“Dừng lại đi, Sakura, Asuna. Cả hai em đều thừa hiểu nếu rút kiếm ở đây thì chắc chắn sẽ có người phải bỏ mạng mà.”
 
-“Ryouko, cậu mới là người cần tỉnh táo lại đấy!”
+“Ryouko, chính cậu mới là người cần phải tỉnh táo lại đấy!”
 
-“Đ-Đúng thế! Lớp trưởng và Natsukawa-san chắc chắn đang bị thao túng!”
+“Đ-Đúng thế! Lớp trưởng và Natsukawa-san nhất định đang bị trúng thuật thao túng tâm trí!”
 
-“Tên đó đang muốn đổ hết tội lỗi lên đầu Kotori. Gặp mặt thế này thì không thể tránh khỏi một trận chiến sinh tử rồi — Lần này, chính ta sẽ chém chết tên cặn bã này!”
+“Tên khốn đó chỉ đang muốn đổ vấy hết mọi tội vạ lên đầu Kotori mà thôi. Chạm trán thế này thì chẳng thể nào tránh khỏi một trận chiến một mất một còn rồi — Lần này, chính tay ta sẽ chém chết tươi tên cặn bã này!”
 
 “...Dừng lại đi.”
 
@@ -56517,43 +56533,43 @@ Hay là, tôi nên coi như Lớp trưởng đã bị tẩy não và lập tức
 
 “Souma-kun?!”
 
-“Dừng lại đi... Tàn sát lẫn nhau ở đây thì được ích gì chứ... Này, Lớp trưởng, tớ có thể tin cậu đúng không. Cậu thực sự nói rằng chúng ta có thể làm được mà không ai phải chết nữa đúng không.”
+“Dừng tay lại hết đi... Tàn sát lẫn nhau ngay tại đây thì giải quyết được cái gì chứ... Này, Lớp trưởng, tớ thực sự có thể tin cậu đúng không. Cậu đoan chắc rằng chúng ta có thể vượt qua mà không cần ai phải đổ máu nữa đúng không.”
 
-Tôi hiểu sự tức giận của Sakura và Asuna, cả sự lo lắng của Kotori.
+Tôi hiểu rất rõ nỗi phẫn nộ của Sakura và Asuna, cũng như sự sợ hãi tột cùng của Kotori.
 
-Nhưng nếu rút kiếm ở đây, mọi thứ sẽ kết thúc. Chúng tôi sẽ không thể quay đầu lại.
+Thế nhưng, nếu vung kiếm chém giết ở đây, mọi thứ sẽ sụp đổ hoàn toàn. Chúng tôi sẽ không còn bất kỳ đường lui nào nữa.
 
-Momokawa đã có đủ lực lượng để áp chế chúng tôi.
+Momokawa lúc này đã nắm giữ thừa thãi thực lực để trấn áp toàn bộ chúng tôi.
 
-Ngay từ đầu, chúng tôi đã không có lựa chọn nào khác ngoài việc đàm phán.
+Ngay từ giây phút đầu tiên, chúng tôi vốn dĩ đã chẳng có lựa chọn nào khác ngoài việc đàm phán.
 
-“Phải, làm được chứ. Momokawa-kun có phương án để giải quyết tình huống này mà không ai phải hy sinh.”
+“Phải, chúng ta làm được. Momokawa-kun đã có phương án vẹn toàn để giải quyết tình thế này mà không ai phải hy sinh.”
 
-“Tớ hiểu rồi, tớ tin cậu, Lớp trưởng. Thế nên Sakura, Asuna, cả Takanashi-san nữa, hãy tin tớ và hạ vũ khí xuống đi. Nếu có ai đó muốn làm hại các cậu... lúc đó, tớ sẽ dùng cả tính mạng để bảo vệ.”
+“Tớ hiểu rồi, tớ chọn tin cậu, Lớp trưởng. Vậy nên Sakura, Asuna, cả Takanashi-san nữa, xin hãy tin tớ mà hạ vũ khí xuống đi. Nếu có kẻ nào dám làm hại đến các cậu... vào lúc đó, tớ sẽ đem cả tính mạng này ra để bảo vệ.”
 
-Nếu cần thiết, tôi sẽ đẩy Futaba ra và chém Momokawa. Tôi biết cậu ta có chú thuật phản sát thương 『Phản Phục Thống Khổ』. Nhưng tôi sẽ không ngần ngại.
+Nếu tình thế bắt buộc, tôi sẽ đẩy phăng Futaba ra và chém đứt đầu Momokawa. Tôi biết cậu ta sở hữu chú thuật phản đòn sát thương 『Phản Phục Thống Khổ』. Nhưng tôi sẽ không mảy may do dự.
 
-Tôi sẽ đồng quy vu tận với hắn nếu thời khắc đó đến.
+Tôi sẵn sàng kéo hắn cùng xuống địa ngục nếu thời khắc sinh tử ấy ập đến.
 
-“Hư hư, đừng có làm vẻ mặt đáng sợ thế chứ, Souma-kun.”
+“Hư hư, đừng có trưng ra cái bộ mặt đáng sợ như chuẩn bị đi chết thế chứ, Souma-kun.”
 
-Như thể đang chế giễu quyết tâm tử thủ của tôi, Momokawa đứng dậy từ vương tọa.
+Như thể đang chế giễu quyết tâm tử thủ của tôi, Momokawa chậm rãi đứng dậy khỏi ngai vàng.
 
-“Đúng như Lớp trưởng nói, tớ có một kế hoạch để gắn kết cả lớp lại mà không ai phải hy sinh. Thật vui vì cuối cùng cậu cũng chịu lắng nghe.”
+“Đúng như những gì Lớp trưởng đã nói, tớ có một kế hoạch hoàn hảo để gắn kết toàn bộ lớp học lại mà không để bất kỳ ai phải hy sinh vô ích. Rất vui vì cuối cùng cậu cũng chịu mở lòng lắng nghe.”
 
-Cậu ta nói hay lắm.
+Cậu ta nói thì hay lắm.
 
-Dù Momokawa nói năng rất rộng lượng, nhưng Futaba bên cạnh vẫn nắm chặt vũ khí. Những người khác cũng vậy.
+Dù Momokawa buông những lời nghe chừng vô cùng độ lượng, nhưng Futaba đứng bên cạnh vẫn siết chặt vũ khí trong tay không chút lơi lỏng. Những người khác cũng thế.
 
-Ueta và nhóm của cậu ta không hề buông vũ khí, Randou vẫn tích tụ ma lực trong khẩu súng lục.
+Nhóm Ueta tuyệt nhiên không hề hạ vũ khí xuống, còn Randou vẫn âm thầm tích tụ ma lực cuồn cuộn nơi họng súng lục.
 
-Người duy nhất không cầm vũ khí ở đây là Hayama... Ủa mà sao tên đó lại ôm một con mèo con vậy? Trong tình cảnh này mà cậu ta nghĩ gì thế không biết. Dù gương mặt cậu ta trông cực kỳ nghiêm túc. Mà con gấu với con sói phía sau là ma vật đúng không...?
+Người duy nhất không lăm lăm vũ khí ở đây chính là Hayama... Ơ mà sao cậu ta lại ôm khư khư một con mèo con thế kia? Trong tình cảnh ngàn cân treo sợi tóc này mà cậu ta còn rảnh rỗi nghĩ cái quái gì không biết. Dù cho nét mặt cậu ta trông cực kỳ nghiêm trọng. Mà con gấu khổng lồ với con sói dữ tợn phía sau lưng cậu ta đích thị là ma thú đúng không...?
 
-Thôi bỏ đi, tôi không biết thiên chức của Hayama là gì, chắc đó là sứ ma của cậu ta. Dù sao thì tôi cũng không được lơ là.
+Thôi bỏ đi, tôi chẳng rõ thiên chức của Hayama rốt cuộc là gì, chắc hẳn đó là đám sứ ma của cậu ta. Dù thế nào đi nữa, tôi tuyệt đối không được phép lơ là cảnh giác.
 
-Thế rồi, tôi và Momokawa đối mặt nhau giữa phòng vương tọa.
+Thế rồi, tôi và Momokawa đứng đối diện nhau ngay giữa trung tâm phòng vương tọa.
 
-“Nào, chúng ta bắt đầu buổi họp lớp cuối cùng chứ————”`
+“Nào, chúng ta bắt đầu buổi họp lớp cuối cùng chứ nhỉ————”`
             },
             {
                 "id": "ep_324",
@@ -56561,49 +56577,49 @@ Thế rồi, tôi và Momokawa đối mặt nhau giữa phòng vương tọa.
                 "title": "Tập 324: Người dị giới",
                 "content": `# Tập 324: Người dị giới
 
-Dưới âm mưu thâm độc của Takanashi Kotori, 『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi Học Viện Tháp bằng ma pháp dịch chuyển. Nơi cậu bị ném tới là một tàn tích sa mạc khô cằn, nắng cháy.
+Dưới âm mưu thâm độc của Takanashi Kotori, 『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi Học Viện Tháp bằng ma pháp dịch chuyển. Nơi cậu bị ném tới là tàn tích của một cổ trấn giữa sa mạc khô cằn, nắng cháy.
 
-Sau khi tạm thời đẩy lùi được lũ quái vật dạng chó, ngay khi cậu định dùng Thủy ma thuật để rã xác chúng kiếm thức ăn cho ngày hôm nay, thì đúng vào khoảnh khắc ấy.
+Sau khi tạm thời đẩy lùi được bầy quái vật dạng chó, ngay khi cậu định dùng Thủy ma thuật để rã xác chúng kiếm thức ăn cho ngày hôm nay, thì đúng vào khoảnh khắc ấy...
 
 “— Ai đó?!”
 
-Nghe thấy tiếng động khẽ khàng như tiếng chân giẫm lên cát, Shimokawa lập tức quay phắt lại cảnh giác.
+Nghe thấy tiếng động khẽ khàng như tiếng bước chân giẫm lên cát, Shimokawa lập tức quay phắt lại cảnh giác.
 
-Bước ra từ lối đi tối tăm dẫn vào đại sảnh là một bóng người. Đó chắc chắn là một "con người". Không phải bạn cùng lớp, cũng chẳng phải quái vật dạng người. Đó là người bản địa dị giới đầu tiên mà cậu nhìn thấy kể từ khi bị ném vào hầm ngục này.
+Bước ra từ lối đi tối tăm dẫn vào đại sảnh là một bóng người. Đó chắc chắn là một "con người". Không phải bạn cùng lớp, cũng chẳng phải quái vật dạng người. Đó chính là người bản địa dị giới đầu tiên mà cậu nhìn thấy kể từ khi bị ném tới thế giới này.
 
 “...”
 
-Người dị giới ấy là một thiếu nữ có làn da bánh mật khỏe khoắn.
+Người dị giới ấy là một thiếu nữ sở hữu làn da bánh mật khỏe khoắn.
 
-Đó là một cô gái vô cùng xinh đẹp. Gương mặt sắc sảo với những đường nét sâu thẳm khác hẳn người Nhật, mái tóc đỏ rực rỡ như lửa và đôi mắt xanh lam trong vắt như ngọc bích. Ngoại hình ấy khiến người ta lập tức tin rằng cô chính là một cư dân của thế giới khác.
+Đó là một cô gái vô cùng xinh đẹp. Gương mặt sắc sảo với những đường nét thanh tú, sâu thẳm khác hẳn người Nhật, mái tóc đỏ rực rỡ như lửa và đôi mắt xanh lam trong vắt như ngọc bích. Ngoại hình ấy khiến bất kỳ ai nhìn vào cũng lập tức nhận ra cô chính là cư dân của thế giới bên ngoài.
 
 Thế nhưng, Shimokawa không hề ngây thơ đến mức đứng ngẩn người ngắm nhìn một mỹ nhân da nâu mang vẻ đẹp hoang dã ấy.
 
 Bên hông cô gái dắt một thanh kiếm, và bàn tay cô đã đặt sẵn lên chuôi kiếm từ lúc nào.
 
-Từng chứng kiến những cao thủ kiếm thuật hàng đầu nhờ Thiên Chức như cậu bạn thân Ueta ở cự ly gần, Shimokawa lập tức nhận ra tư thế chuẩn bị của cô gái. Nhanh nhẹn nhưng vô cùng tự nhiên, đó tuyệt đối không phải là tư thế của kẻ nghiệp dư, mà là của một chiến binh dày dạn kinh nghiệm.
+Từng chứng kiến những cao thủ kiếm thuật hàng đầu nhờ Thiên Chức như cậu bạn thân Ueta ở cự ly gần, Shimokawa lập tức nhận ra tư thế rút kiếm của cô gái. Nhanh nhẹn nhưng vô cùng tự nhiên, đó tuyệt đối không phải là tư thế của kẻ nghiệp dư, mà là của một chiến binh dày dạn kinh nghiệm.
 
 *Khoảng cách này nguy hiểm quá.* Cậu lập tức nhận ra thế bất lợi của mình.
 
-Nếu thiếu nữ da nâu này sở hữu kỹ năng tương đương với một 『Kiếm Sĩ』 thực thụ, thì khoảng cách có thể nhìn rõ mặt nhau thế này sẽ bị cô ta rút ngắn trong chớp mắt để lấy đầu cậu.
+Nếu thiếu nữ da nâu này sở hữu thực lực tương đương với một 『Kiếm Sĩ』 thực thụ, thì khoảng cách nhìn rõ mặt nhau thế này sẽ bị cô ta rút ngắn trong chớp mắt để lấy đầu cậu.
 
-Dù cô gái chỉ khoác một chiếc áo choàng trắng đơn giản che kín người, nhưng bao kiếm bên hông lại được chạm khắc hoa văn bằng vàng vô cùng tinh xảo, chứng tỏ đó không phải là một món vũ khí rẻ tiền. Nếu chỉ là đồ trang trí thì không sao, nhưng lỡ như đó là một thanh danh kiếm hay ma pháp kiếm cực mạnh thì sao? Mà ngay cả khi thanh kiếm đó có cùn đi chăng nữa, nó vẫn là một món hung khí thừa sức kết liễu một ma thuật sư yếu ớt về thể chất như cậu.
+Dù cô gái chỉ khoác một chiếc áo choàng trắng đơn giản che kín người, nhưng vỏ kiếm bên hông lại được chạm khắc hoa văn bằng vàng vô cùng tinh xảo, chứng tỏ đó không phải là món vũ khí rẻ tiền. Nếu chỉ là đồ trang trí thì không sao, nhưng lỡ như đó là một thanh danh kiếm hay ma pháp kiếm cực mạnh thì sao? Mà ngay cả khi thanh kiếm đó có cùn đi chăng nữa, nó vẫn là một món hung khí thừa sức kết liễu một ma thuật sư yếu ớt về thể chất như cậu.
 
-Dù Shimokawa có thể niệm ma pháp tấn công nhanh với tư cách là một 『Thủy Ma Thuật Sư』, nhưng ở khoảng cách này, cơ hội phản công của cậu giỏi lắm cũng chỉ có một lần. Và chưa chắc đã kịp.
+Dù Shimokawa có thể niệm chú công kích thần tốc với tư cách là một 『Thủy Ma Thuật Sư』, nhưng ở khoảng cách này, cơ hội phản công của cậu giỏi lắm cũng chỉ có một lần duy nhất. Và chưa chắc đã kịp.
 
-Bằng mọi giá, cậu phải tránh một cuộc xung đột.
+Bằng mọi giá, cậu phải tránh một cuộc xung đột vũ trang.
 
 “Nước...”
 
 Hình như cô gái vừa khẽ lẩm bẩm từ đó.
 
-Đối phương có vẻ cũng rất ngạc nhiên khi thấy có người ở đây. Dù ánh mắt cô vẫn sắc lẹm dò xét cậu, nhưng Shimokawa nhận ra sự chú ý của cô thực chất đang đổ dồn vào bể phun nước cũ đã được cậu lấp đầy bằng Thủy ma thuật.
+Đối phương có vẻ cũng rất kinh ngạc khi thấy có người ở đây. Dù ánh mắt cô vẫn sắc lẹm dò xét cậu, nhưng Shimokawa nhận ra sự chú ý của cô thực chất đang đổ dồn vào bể phun nước cũ đã được cậu lấp đầy bằng Thủy ma thuật.
 
-“C-Cậu muốn lấy nước sao? Nếu vậy thì cứ lấy bao nhiêu tùy thích đi. Tôi là 『Thủy Ma Thuật Sư』 mà!”
+“C-Cô muốn lấy nước sao? Nếu vậy thì cứ lấy bao nhiêu tùy thích đi! Tôi là 『Thủy Ma Thuật Sư』 mà!”
 
 Để biểu thị bản thân không có ý định chiến đấu, Shimokawa giơ hai tay lên cao, đồng thời thầm cầu nguyện trong lòng rằng ngôn ngữ giữa hai bên có thể thông suốt.
 
-Cậu không chắc hành động giơ hai tay lên có mang ý nghĩa tương tự ở thế giới này hay không, nhưng ít nhất nó cũng chứng minh cậu không cầm vũ khí. Dù đối với một ma thuật sư, việc tay có cầm gì hay không chẳng mấy quan trọng.
+Cậu không chắc hành động giơ hai tay lên có mang ý nghĩa đầu hàng hay thiện chí ở thế giới này hay không, nhưng ít nhất nó cũng chứng minh cậu không cầm vũ khí. Dù đối với một ma thuật sư, việc tay có cầm vũ khí hay không vốn chẳng mấy quan trọng.
 
 Tất nhiên, cậu vẫn âm thầm vận hành ma lực trong cơ thể để có thể kích hoạt ma pháp phòng ngự ngay lập tức nếu có biến cố.
 
@@ -56611,25 +56627,25 @@ Tất nhiên, cậu vẫn âm thầm vận hành ma lực trong cơ thể để 
 
 *Tuyệt quá, thông dịch được rồi!*
 
-Nhận ra hai bên có thể giao tiếp rõ ràng, Shimokawa thầm reo hò trong lòng. Lúc này, cậu cũng chẳng buồn bận tâm đến sự kỳ lạ khi một cô gái da nâu trông chẳng có nét gì là người Nhật lại đang nói tiếng Nhật vô cùng trôi chảy. Cứ coi như đang xem một bộ phim nước ngoài được lồng tiếng đi, nghĩ vậy thì mọi chuyện cũng không đến nỗi quá phi lý.
+Nhận ra hai bên có thể giao tiếp trôi chảy, Shimokawa thầm reo hò trong lòng. Lúc này, cậu cũng chẳng buồn bận tâm đến sự kỳ lạ khi một cô gái da nâu trông chẳng có nét gì là người Nhật lại đang nói tiếng Nhật vanh vách. Cứ coi như đang xem một bộ phim nước ngoài được lồng tiếng đi, nghĩ vậy thì mọi chuyện cũng không đến nỗi quá phi lý.
 
-Hơn nữa, giọng nói của cô gái này rất êm tai, khiến cậu có cảm giác như đang nghe một diễn viên lồng tiếng chuyên nghiệp vậy.
+Hơn nữa, giọng nói của cô gái này rất êm tai, khiến cậu có cảm giác như đang nghe một diễn viên lồng tiếng chuyên nghiệp.
 
-Dù sao thì, việc giao tiếp được đã là một sự may mắn lớn. Cậu tự nhủ rằng có lẽ khi nhận được Thiên Chức, hệ thống đã tự động cài đặt một cơ chế ma pháp nào đó giúp họ hiểu được ngôn ngữ của người bản địa. Lý do cụ thể là gì giờ không quan trọng nữa.
+Dù sao thì, việc giao tiếp được đã là một sự may mắn tột cùng. Cậu tự nhủ rằng có lẽ khi nhận được Thiên Chức, hệ thống thế giới đã tự động cài đặt một cơ chế ma pháp nào đó giúp họ hiểu được ngôn ngữ của người bản địa. Lý do cụ thể là gì giờ không quan trọng nữa.
 
 “Đúng thế, tôi là 『Thủy Ma Thuật Sư』.”
 
 “Tại sao ngươi lại ở một nơi thế này... Nguồn nước kia là do ngươi tạo ra sao?”
 
-“Phải, là tôi làm đấy. Lúc tôi mới tới đây, cái bể này hoàn toàn khô cạn.”
+“Phải, là do tôi làm đấy. Lúc tôi mới tới đây, cái bể này hoàn toàn khô cạn.”
 
-“...Hãy tạo ra nước cho ta xem. Nhưng đừng có giở trò gì mờ ám. Ở khoảng cách này, trước khi ma pháp tấn công của ngươi kịp chạm vào ta, ta dư sức chém bay đầu ngươi.”
+“...Hãy tạo ra nước cho ta xem. Nhưng đừng có giở trò mờ ám. Ở khoảng cách này, trước khi ma pháp tấn công của ngươi kịp chạm vào ta, ta dư sức chém bay đầu ngươi.”
 
 “Tôi biết rồi mà. Đã bảo tôi không phải kẻ khả nghi, cũng chẳng có ý định đánh nhau với cô đâu.”
 
-Nói vậy nhưng Shimokawa cũng nhận ra rằng người dị giới này hoàn toàn có khái niệm rõ ràng về ma pháp.
+Nói vậy nhưng Shimokawa cũng nhận ra rằng người dị giới này hoàn toàn có hiểu biết rõ ràng về ma pháp.
 
-Dựa vào giọng điệu tự tin vào kiếm kỹ của cô gái, Shimokawa tạm thời đánh giá cô có thực lực ngang ngửa với 『Kiếm Sĩ』 Ueta.
+Dựa vào giọng điệu tự tin tuyệt đối vào kiếm kỹ của cô gái, Shimokawa tạm thời đánh giá cô có thực lực ngang ngửa với 『Kiếm Sĩ』 Ueta.
 
 “Đây, thế này đã được chưa?”
 
@@ -56643,11 +56659,11 @@ Dĩ nhiên, cậu đâu có dùng hết công lực. Cậu chỉ tạo nước v
 
 “Thì tôi đã bảo từ nãy rồi còn gì.”
 
-“Vậy rốt cuộc ngươi là kẻ nào? Một 『Thủy Ma Thuật Sư』 lại xuất hiện đơn độc ở một nơi như thế này, có nghĩ thế nào cũng thấy vô lý.”
+“Vậy rốt cuộc ngươi là ai? Một 『Thủy Ma Thuật Sư』 lại xuất hiện đơn độc ở một nơi hoang phế thế này, có nghĩ thế nào cũng thấy vô lý.”
 
 Bàn tay cô gái vẫn không rời khỏi chuôi kiếm, ánh mắt sắc bén tiếp tục dồn ép cậu trả lời.
 
-Sự nghi ngờ thái quá này khiến Shimokawa đoán rằng ở thế giới này, những mạo hiểm giả đi khám phá tàn tích cổ đại có lẽ không phải là một sự tồn tại phổ biến.
+Sự nghi ngờ thái quá này khiến Shimokawa đoán rằng ở thế giới này, những mạo hiểm giả đi khám phá tàn tích cổ đại có lẽ không phải là sự tồn tại phổ biến.
 
 Cậu tự hỏi nên giải thích thế nào để không bị nghi ngờ, nhưng rồi quyết định nói thật thay vì bịa ra một lời nói dối vụng về. Dù sao thì cậu cũng chẳng có gì phải giấu giếm cả.
 
@@ -56659,11 +56675,11 @@ Cậu tự hỏi nên giải thích thế nào để không bị nghi ngờ, nh�
 
 “Tất nhiên là biết. Dù chưa từng trải qua dịch chuyển, nhưng ta cũng đã vài lần tiến vào Dungeon rồi.”
 
-“Tôi vốn đang cùng các đồng đội tiến sâu vào một Dungeon, nhưng một kẻ trong số đó đã phản bội và dùng ma pháp dịch chuyển ném tôi đi. Tôi nghĩ nơi này hoàn toàn khác biệt với Dungeon lúc trước của chúng tôi, và tôi cũng chẳng biết làm sao để quay về... Cô nhìn trang phục của tôi xem, chỉ có độc một bộ quần áo trên người thôi đúng không? Tôi vừa mới bị dịch chuyển đến đại sảnh này cách đây không lâu thôi.”
+“Tôi vốn đang cùng các đồng đội tiến sâu vào một Dungeon, nhưng một kẻ trong số đó đã phản bội và dùng ma pháp dịch chuyển ném tôi đi. Tôi nghĩ nơi này hoàn toàn khác biệt với Dungeon lúc trước của chúng tôi, và tôi cũng chẳng biết làm sao để quay về... Cô nhìn trang phục của tôi xem, chỉ có độc một bộ quần áo trên người thôi đúng không? Tôi vừa mới bị dịch chuyển đến đại sảnh này cách đây không lâu.”
 
-Shimokawa cố gắng giải thích chi tiết hơn về hoàn cảnh của mình.
+Shimokawa cố gắng giải thích cặn kẽ hơn về hoàn cảnh éo le của mình.
 
-Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ cô không cho rằng cậu đang nói dối. Cô đăm chiêu suy nghĩ, cân nhắc xem có nên tin lời cậu hay không.
+Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ cô không cho rằng cậu đang nói dối. Cô đăm chiêu suy nghĩ, cân nhắc mức độ chân thực trong lời nói của cậu.
 
 “Ngươi là người nước nào?”
 
@@ -56671,19 +56687,19 @@ Thiếu nữ đối diện vẫn giữ vẻ mặt nghi hoặc, nhưng có vẻ c
 
 “Không, ta chưa từng nghe qua cái tên đó bao giờ. Chắc hẳn là một quốc gia cực kỳ xa xôi. Đồng đội của ngươi cũng là người nước đó sao?”
 
-“Đúng vậy, tất cả chúng tôi đều là người Nhật Bản. À, khoan đã... Cô đã từng nghe nói đến vương quốc tên là ‘Astoria’ chưa? Or là thành phố ‘Sigrun’?”
+“Đúng vậy, tất cả chúng tôi đều là người Nhật Bản. À, khoan đã... Cô đã từng nghe nói đến vương quốc tên là ‘Astoria’ chưa? Hoặc là thành phố ‘Sigrun’?”
 
 “Ta cũng chưa từng nghe thấy những cái tên đó.”
 
-Xem ra, nơi này nằm cách rất xa vương quốc mà nhóm của cậu định dịch chuyển tới để thoát thân.
+Xem ra, nơi này nằm cách rất xa vương quốc mà nhóm của cậu từng dự định dịch chuyển tới để thoát thân.
 
-Nếu giả định rằng vương quốc Astoria không phải là một tiểu quốc vô danh mà là một quốc gia có quy mô và danh tiếng nhất định, thì việc cô gái này chưa từng nghe qua chỉ có thể giải thích bằng mức độ phát triển văn minh ở đây. Nói cách khác, đây là thời đại mà bản đồ thế giới vẫn chưa được khai phá hết, chứ đừng nói đến sự tồn tại của mạng Internet.
+Nếu giả định rằng vương quốc Astoria không phải là một tiểu quốc vô danh mà là một cường quốc có quy mô và danh tiếng nhất định, thì việc cô gái này chưa từng nghe qua chỉ có thể giải thích bằng mức độ phát triển văn minh ở đây. Nói cách khác, đây là thời đại mà bản đồ thế giới vẫn chưa được khai phá hết, chứ đừng nói đến sự tồn tại của mạng Internet.
 
-Cụm từ *“Thế giới Fantasy thời Trung Cổ”* chợt lóe lên trong đầu Shimokawa.
+Cụm từ *“Thế giới Fantasy thời Trung Cổ”* chợt lóe lên trong tâm trí Shimokawa.
 
 “Vậy ra, ngươi thực sự không biết nơi này là đâu sao?”
 
-“Đ-Đúng thế. Tôi thậm chí còn không rõ sa mạc này là thế giới bên ngoài hay vẫn là bên trong Dungeon nữa. Nếu được, cô có thể chỉ cho tôi biết không?”
+“Đ-Đúng thế. Tôi thậm chí còn không rõ sa mạc này là thế giới bên ngoài hay vẫn là bên trong Dungeon nữa. Nếu được, cô có thể chỉ dẫn cho tôi biết không?”
 
 “Nơi này là vùng đất 『Avdran』. Đây là tàn tích của một cổ trấn nằm ở rìa phía Tây sa mạc, trên con đường dẫn tới 『Thung Lũng Tận Cùng』.”
 
@@ -56707,7 +56723,7 @@ Việc cậu không biết các địa danh ở dị giới cũng là điều d�
 
 “Hả? Cái bể này á? Có đổ đầy mười hay hai mươi lần thì vẫn dư sức nhé. Chỉ là tạo nước thôi mà, đơn giản lắm.”
 
-Nghe câu trả lời của cậu, không biết cô gái đã tự suy luận ra điều gì, nhưng cuối cùng cô cũng buông tay khỏi chuôi kiếm và trút bỏ vẻ mặt cảnh giác đầy căng thẳng ban nãy.
+Nghe câu trả lời của cậu, không biết cô gái đã tự suy luận ra điều gì, nhưng cuối cùng cô cũng buông tay khỏi chuôi kiếm và trút bỏ hoàn toàn vẻ mặt cảnh giác đầy căng thẳng ban nãy.
 
 Sau đó, cô quỳ một gối xuống đất, chắp hai tay lại và khẽ nhắm mắt như đang cầu nguyện.
 
@@ -56715,7 +56731,7 @@ Sau đó, cô quỳ một gối xuống đất, chắp hai tay lại và khẽ n
 
 Không chỉ là giống như cầu nguyện, mà cô ấy thực sự đang thành tâm cầu nguyện.
 
-Shimokawa thoáng nghĩ *tự dưng cô nàng này làm cái gì thế không biết*, nhưng rồi cậu tự nhủ chắc đây là kiểu nghi lễ tôn giáo bắt buộc phải thực hiện vào những thời điểm nhất định, nên cậu im lặng đứng nhìn chứ không lên tiếng cắt ngang.
+Shimokawa thoáng nghĩ *tự dưng cô nàng này làm cái trò gì thế không biết*, nhưng rồi cậu tự nhủ chắc đây là kiểu nghi lễ tôn giáo bắt buộc phải thực hiện vào những thời điểm nhất định, nên cậu im lặng đứng nhìn chứ không lên tiếng cắt ngang.
 
 Sau khi thành kính dâng lời cầu nguyện xong, cô gái ngẩng đầu lên với gương mặt nhẹ nhõm đến lạ kỳ. Vẫn giữ nguyên tư thế quỳ gối, cô ngước nhìn thẳng vào mắt Shimokawa.
 
@@ -56723,7 +56739,7 @@ Sau khi thành kính dâng lời cầu nguyện xong, cô gái ngẩng đầu l�
 
 “...Hả?”
 
-Thái độ quay ngoắt một trăm tám mươi độ của cô gái — từ chỗ đằng đằng sát khí như muốn chém bay đầu cậu sang cung kính như thể đang đối diện với một vị khách quý — khiến đầu óc Shimokawa tạm thời bị quá tải.
+Thái độ quay ngoắt một trăm tám mươi độ của cô gái — từ chỗ đằng đằng sát khí như muốn chém bay đầu cậu sang cung kính như thể đang đối diện với một bậc cứu thế — khiến đầu óc Shimokawa tạm thời bị quá tải.
 
 Rốt cuộc trong cuộc đối thoại vừa rồi, có chi tiết nào đủ sức khiến cô ta phải hạ mình tôn kính cậu đến mức này chứ?
 
@@ -56753,13 +56769,13 @@ Nhìn những thân hình gầy gò, tiều tụy khoác trên mình những b�
 
 Đối với những kẻ đang bị thiêu đốt bởi cái nóng và cơn khát tột cùng của sa mạc, việc phát điên lên khi nhìn thấy một bể nước mát lạnh thế này cũng là điều dễ hiểu.
 
-“Này! Đừng có uống nước trực tiếp từ bể phun nước chứ! Chỉ dùng để rửa người thôi!”
+“Này! Đừng có uống nước trực tiếp từ bể phun nước chứ! Chỗ đó chỉ dùng để rửa người thôi!”
 
 “Nước uống ở bên này cơ mà! Bình tĩnh lại đi, tôi có thừa nước cho tất cả mọi người!”
 
-Nhìn cảnh mọi người cứ thế mang cả thân hình bẩn thỉu lao vào bể nước nghịch ngợm, Shimokawa thực sự không muốn họ uống thứ nước đó chút nào. Cậu đã cẩn thận dùng Thủy ma thuật để đổ đầy tất cả những bình chứa rỗng không đã cạn nước từ lâu của họ, nhưng những kẻ đang khát khô cổ họng này dường như đã đánh mất cả lý trí. Hầu hết bọn họ đều vừa ngâm mình trong bể vừa ngửa cổ uống ừng ực.
+Nhìn cảnh mọi người cứ thế mang cả thân hình bẩn thỉu lao vào bể nước nghịch ngợm, Shimokawa thực sự không muốn họ uống thứ nước đó chút nào. Cậu đã cẩn thận dùng Thủy ma thuật để đổ đầy tất cả những bình chứa rỗng không đã cạn khô từ lâu của họ, nhưng những kẻ đang khát cháy cổ họng này dường như đã đánh mất cả lý trí. Hầu hết bọn họ đều vừa ngâm mình trong bể vừa ngửa cổ uống ừng ực.
 
-*Hy vọng họ không bị đau bụng*, cậu thầm lo lắng nhìn cảnh tượng đó. Đúng lúc ấy, một giọng nói vang lên bên cạnh:
+*Hy vọng họ không bị đau bụng*, cậu thầm lo lắng nhìn cảnh tượng hỗn loạn đó. Đúng lúc ấy, một giọng nói vang lên bên cạnh:
 
 “Xin hãy nhìn xem, thưa ngài 『Thủy Ma Thuật Sư』. Nhờ có ngài mà bộ tộc của chúng ta đã được cứu sống.”
 
@@ -56795,7 +56811,7 @@ Mức độ yếu kém đến thảm hại ấy khiến Shimokawa, với tư cá
 
 “Chẳng lẽ ma thuật sư ở đây hầu hết đều chỉ ở trình độ đó thôi sao?”
 
-“Vùng đất Avdran này, như ngài thấy đấy, phần lớn là sa mạc khô cằn. Những người có độ tương thích với thuộc tính Thủy cực kỳ hiếm hoi, và họ cũng rất khó để rèn luyện thành những thuật sĩ mạnh mẽ. Nếu ở đất nước Nihon của ngài có những vị ma thuật sư xuất chúng như ngài là điều hiển nhiên, thì nơi đó chắc hẳn phải là một vùng đất được ban tặng nguồn ma lực hệ Thủy vô cùng dồi dào.”
+“Vùng đất Avdran này, như ngài thấy đấy, phần lớn là sa mạc khô cằn. Những người có độ tương thích với thuộc tính Thủy cực kỳ hiếm hoi, và họ cũng rất khó để rèn luyện thành những thuật sĩ mạnh mẽ. Nếu ở đất nước Nhật Bản của ngài có những vị ma thuật sư xuất chúng như ngài là điều hiển nhiên, thì nơi đó chắc hẳn phải là một vùng đất được ban tặng nguồn ma lực hệ Thủy vô cùng dồi dào.”
 
 Đúng là nước Nhật có rất nhiều nguồn nước và khí hậu mưa nhiều thật, nhưng làm gì có thứ gọi là ma lực hệ Thủy.
 
@@ -56839,7 +56855,7 @@ Dù đã may mắn cắt đuôi được sự truy đuổi gắt gao của kẻ 
 
 Sự kỳ vọng này quá đỗi nặng nề. Ánh mắt lấp lánh tràn đầy niềm tin tưởng tuyệt đối của cô gái khiến Shimokawa cảm thấy có chút áp lực.
 
-“Bản thân bị trục xuất, rồi lại đi gặp một lũ người cũng bị trục xuất giống mình... Đúng là trò đùa của số phận mà.”
+“Bản thân bị trục xuất, rồi lại đi gặp một đám người cũng bị trục xuất giống mình... Đúng là trò đùa của số phận mà.”
 
 Thế nhưng, ngọn lửa hy vọng đã được thắp lên mạnh mẽ hơn bao giờ hết.
 
@@ -56881,7 +56897,7 @@ Dù có tàn nhẫn, nhưng sự khác biệt về ngoại hình đã lộ rõ n
 
 Tuổi tác càng lớn, khoảng cách ngoại hình lại càng nới rộng. Những khuyết điểm từng được che giấu nhờ sự tròn trịa, nhỏ nhắn của thời thơ ấu sẽ dần lộ ra những nét méo mó to lớn hơn theo quá trình trưởng thành.
 
-Lũ xấu xí mắt một mí, những khuôn mặt cá có hai mắt cách quá xa nhau, lũ chuột răng hô, lũ khỉ tai to, rồi cả những kẻ dị dạng mặt khổng lồ nữa chứ————Thôi đi giùm cái, các người tụ tập đông đủ thế này, sao lại có thể gom được một lũ xấu xí gây khó chịu đến mức này lại một chỗ hay vậy?
+Lũ xấu xí mắt một mí, những khuôn mặt cá có hai mắt cách quá xa nhau, lũ chuột răng hô, lũ khỉ tai to, rồi cả những kẻ dị dạng mặt to bè nữa chứ————Thôi đi giùm cái, các người tụ tập đông đủ thế này, sao lại có thể gom được một lũ xấu xí gây khó chịu đến mức này lại một chỗ hay vậy?
 
 *Cần phải có sự chọn lọc*————Ta đã nghĩ như vậy từ khi bắt đầu nhận thức được thế giới xung quanh.
 
@@ -56903,7 +56919,7 @@ Các người có biết câu nói mà Kotori ghét nhất là gì không? “T�
 
 Này này, đùa giỡn cũng phải có giới hạn thôi chứ. Đó là câu nói tồi tệ nhất, dùng để hợp thức hóa việc bản thân sở hữu một ngoại hình xấu xí, thậm chí còn trơ trẽn tuyên bố rằng tâm hồn mình đẹp đẽ và thanh khiết. Đúng là đỉnh cao của sự dối trá và ngạo mạn.
 
-Nghe cho rõ đây, lũ quái thai xấu xí rác rưởi kia, con người trước hết ngoại hình là tất cả đấy.
+Nghe cho rõ đây, lũ quái thai xấu xí rác rưởi kia, đối với con người thì trước hết ngoại hình là tất cả đấy.
 
 Phải có một ngoại hình ở mức tối thiểu thì người ta mới bắt đầu đánh giá đến nội tâm bên trong. Ngoại hình chính là vòng sơ tuyển. Nếu không vượt qua được vòng này, thì sẽ chẳng có vòng hai, vòng ba hay buổi phỏng vấn cuối cùng nào cả. Ta chỉ muốn cầu nguyện sao cho từ nay về sau không bao giờ phải dính dáng đến lũ hạ đẳng xấu xí như các người nữa.
 
@@ -56965,7 +56981,7 @@ Hả, Kotori hoàn toàn không có chút tình cảm nào với cậu bạn đ�
 
 Lấy Kotori làm trung tâm, cả lớp đã đoàn kết thành một khối.
 
-And rồi, con nhỏ xấu xí rác rưởi không biết lượng sức mình, kẻ từng vạch kế hoạch bắt nạt Kotori, cuối cùng đã mất đi toàn bộ bè lũ xung quanh và bị cô lập. Chỉ những kẻ có sự chuẩn bị tinh thần bị bắt nạt mới được phép bắt nạt người khác thôi.
+Và rồi, con nhỏ xấu xí rác rưởi không biết lượng sức mình, kẻ từng vạch kế hoạch bắt nạt Kotori, cuối cùng đã mất đi toàn bộ bè lũ xung quanh và bị cô lập. Chỉ những kẻ có sự chuẩn bị tinh thần bị bắt nạt mới được phép bắt nạt người khác thôi.
 
 Con nhỏ đó không chỉ bị cô lập trong lớp mà là trong toàn trường. Như một con quỷ xấu xí dám đối đầu với thiên sứ Kotori, ả ta phải tự mình gánh chịu hình phạt nặng nề đó.
 
@@ -56987,7 +57003,7 @@ Khoác lên mình bộ đồng phục nữ sinh, Kotori lại càng thêm đáng
 
 Trường cấp hai cũng phân chia theo khu vực học chánh. Đó cũng chỉ là nơi gom những đứa trẻ trong một phạm vi nhất định lại với nhau. Dù sao thì ở đây Kotori vẫn chắc chắn là người đáng yêu nhất rồi. Ta đã nghĩ như thế.
 
-“————Tớ là Kenzaki Asuna. Nhà tớ mở một võ đường kiếm thuật. Những ai muốn trở nên mạnh mẽ hơn, xin hãy đến gia nhập môn phái Kiếm phái Kenzaki của nhà tớ!”
+“————Tớ là Kenzaki Asuna. Nhà tớ mở một võ đường kiếm thuật. Những ai muốn trở nên mạnh mẽ hơn, xin hãy đến gia nhập phái kiếm Kenzaki của nhà tớ!”
 
 Một giọng nói đầy nội lực nhưng không kém phần thanh nhã vang vọng khắp phòng học.
 
@@ -57041,7 +57057,7 @@ Chỉ khoác hờ một chiếc áo khoác bên ngoài chiếc sơ mi và quần
 
 “Xem ra, không cần phải tốn lời với các người nữa rồi————”
 
-And rồi với một tốc độ nhanh đến mức mắt thường không kịp nhìn, cô ấy tung ra những cú đâm. Hay đúng hơn là đã tung ra rồi, vì Kotori hoàn toàn không nhìn thấy gì cả.
+Và rồi với một tốc độ nhanh đến mức mắt thường không kịp nhìn, cô ấy tung ra những cú đâm. Hay đúng hơn là đã tung ra rồi, vì Kotori hoàn toàn không nhìn thấy gì cả.
 
 Có vẻ như bọn chúng đã bị đâm vào cổ, họng và chấn thủy. Ba tên đó phát ra những tiếng rên rỉ ghê tởm như “Hự!” rồi ôm lấy những chỗ bị đâm đau đớn, khuỵu gối xuống đất.
 
@@ -57095,7 +57111,7 @@ Cô ấy ở một đẳng cấp hoàn toàn khác so với lũ con gái xấu x
 
 “À, tất nhiên rồi. Từ giờ mong được cậu giúp đỡ nhé, Takanashi-san.”
 
-And thế là, ta đã có được người bạn ngang hàng đầu tiên trong cuộc đời mình.
+Thế là, ta đã có được người bạn ngang hàng đầu tiên trong cuộc đời mình.
 
 Cuộc sống cấp hai của ta sau khi có được người bạn tên Kenzaki Asuna trôi qua vô cùng thuận buồm xuôi gió.
 
@@ -57107,7 +57123,7 @@ Cái lý thuyết bảo con gái không bao giờ thắng được con trai về
 
 Nhưng nhờ vậy mà sự đố kỵ của lũ con gái xấu xí nham hiểm, sự quấy rối của lũ khỉ đực động dục tởm lợm, hay thậm chí là những kẻ khả nghi có ý đồ xâm hại tình dục, tất cả đều bị Asuna dẹp gọn. Chỉ cần Kotori khóc, cô ấy sẽ lập tức bay đến ngay. Cô ấy chắc chắn sẽ bảo vệ ta. Chắc chắn sẽ cứu ta.
 
-A, tình bạn này mới thật tuyệt vời làm sao. Quả nhiên, trong đời nhất định phải có một người tri kỷ độc nhất vu nhị như vậy.
+A, tình bạn này mới thật tuyệt vời làm sao. Quả nhiên, trong đời nhất định phải có một người tri kỷ độc nhất vô nhị như vậy.
 
 Dù đôi lúc ta cũng bị xoay như chong chóng bởi một Asuna thẳng tính có cái đầu óc như thể được cấu tạo từ cơ bắp... nhưng ngay cả những điều đó cũng rất vui vẻ.
 
@@ -57155,19 +57171,19 @@ A, đây chính là tình yêu sao.
 
 “————Souma-kun trông đẹp trai thật đấy. Kotori đã rất ngạc nhiên luôn.”
 
-“À thì, tớ cũng nghĩ mặt mũi cậu ta trông cũng được... Nhưng so với ngoại hình thì sức mạnh của Souma mới là thứ đáng sợ thực sự. Cậu ta không hổ danh là người kế thừa của Souma-ryuu đâu. Tớ cũng không thể để thua được!”
+“À thì, tớ cũng nghĩ mặt mũi cậu ta trông cũng được... Nhưng so với ngoại hình thì sức mạnh của Souma mới là thứ đáng sợ thực sự. Cậu ta không hổ danh là người kế thừa của phái kiếm Souma đâu. Tớ cũng không thể để thua được!”
 
 Asuna vừa nói vừa nở một nụ cười tự tin, trông cô ấy vô cùng vui vẻ và hạnh phúc. Cái vẻ mặt như một thiếu nữ đang yêu đó là sao chứ.
 
 Ta biết Asuna có tình cảm với cậu bạn Souma Yuuto đó.
 
-Kiếm phái Kenzaki và kiếm phái Souma, cả hai nhà đều mở võ đường và đã có mối quan hệ qua lại từ khi họ còn nhỏ. Nghe nói cả hai đều là những môn phái cổ xưa và truyền thống, dù chẳng phải quý tộc gì nhưng hình như người lớn hai bên cũng có bàn chuyện kết hôn cho con cái của họ thì phải.
+Phái kiếm Kenzaki và phái kiếm Souma, cả hai nhà đều mở võ đường và đã có mối quan hệ qua lại từ khi họ còn nhỏ. Nghe nói cả hai đều là những môn phái cổ xưa và truyền thống, dù chẳng phải quý tộc gì nhưng hình như người lớn hai bên cũng có bàn chuyện kết hôn cho con cái của họ thì phải.
 
-And mỗi khi có cơ hội, Asuna lại kể với vẻ mặt vô cùng hạnh phúc rằng sau này có lẽ cô ấy sẽ phải miễn cưỡng kết hôn với người mà bố mẹ đã định sẵn.
+Mỗi khi có cơ hội, Asuna lại kể với vẻ mặt vô cùng hạnh phúc rằng sau này có lẽ cô ấy sẽ phải miễn cưỡng kết hôn với người mà bố mẹ đã định sẵn.
 
 Vì một người như Asuna lại đem lòng si mê, nên Kotori từng tự mình tưởng tượng xem tên Souma Yuuto đó rốt cuộc là một vị hào kiệt thế nào. Chắc hẳn phải là một gã khổng lồ cao hai mét, nặng một trăm năm mươi ký, cơ bắp cuồn cuộn và khắp người đầy sẹo như một con quỷ.
 
-And rồi, vào cái ngày nhập học tại Học viện Hakurei, trí tưởng tượng đó đã hoàn toàn bị phản bội,
+Và rồi, vào cái ngày nhập học tại Học viện Hakurei, trí tưởng tượng đó đã hoàn toàn bị phản bội,
 
 “……Đồ phản bội.”
 
@@ -57199,7 +57215,7 @@ Một kẻ bề trên, một kẻ thống trị sở hữu nhan sắc vượt tr
 
 Thế nhưng, một đứa con gái đứng ở vị trí ngang hàng như Kenzaki Asuna lại xuất hiện.
 
-And lại có một người đàn ông tỏa sáng rực rỡ đến mức ngay cả Kotori cũng phải ngước nhìn như Souma Yuuto.
+Lại có một người đàn ông tỏa sáng rực rỡ đến mức ngay cả Kotori cũng phải ngước nhìn như Souma Yuuto.
 
 Để có được thứ mình muốn, Kotori đã trở thành một kẻ thách thức.
 
@@ -57269,7 +57285,7 @@ Momokawa Kotarou.
 
 Thằng lùn tịt rác rưởi vô danh tiểu tốt kia, một kẻ thuộc tầng lớp đáy xã hội hạ đẳng như ngươi mà đòi đánh bại Takanashi Kotori này sao, mơ đi cưng!!
 
-Ngày 3 tháng 12 năm 2021
+***
 
 *Ghi chú của tác giả: Tiêu đề phụ là “Takanashi Kotori (2)”, phần (1) chính là Tập 247 “Takanashi Kotori”. Đây không phải là lỗi viết sai.*
 
@@ -57283,7 +57299,7 @@ Ngày 3 tháng 12 năm 2021
 
 “Nào, hãy bắt đầu buổi họp lớp cuối cùng thôi — Chủ đề thảo luận tất nhiên là về phương pháp để tất cả chúng ta thoát khỏi hầm ngục này một cách an toàn.”
 
-Thật tình, nếu mọi chuyện diễn ra đúng như kế hoạch ban đầu thì giờ này đã chẳng còn chỗ cho những tranh luận vô ích thế này. Nhưng biết sao được, Takanashi đã phản bội, vu oan cho tôi tội đầu độc, biến các bạn học thành vật tế cho tấn bi kịch này, tất cả chỉ để cô ta và cậu Souma có thể sống sót rời đi.
+Thật tình, nếu mọi chuyện diễn ra đúng như kế hoạch ban đầu thì giờ này đã chẳng còn chỗ cho những tranh luận vô ích thế này. Nhưng biết sao được, Takanashi đã phản bội, vu oan cho tôi tội đầu độc, biến các bạn học thành vật tế cho tấn bi kịch này, tất cả chỉ để cô ta và Souma-kun có thể sống sót rời đi.
 
 Takanashi Kotori giờ đây thậm chí không còn là bạn học của chúng tôi nữa, mà là tay sai của Nữ thần Elysion. Kẻ phản bội tồi tệ nhất này, bằng mọi giá phải bị loại bỏ. Nếu không giết cô ta, chúng tôi sẽ không bao giờ có được sự yên bình. Đây là điều kiện bắt buộc, ngay cả khi gạt bỏ mối thâm thù cá nhân của tôi sang một bên.
 
@@ -57293,19 +57309,19 @@ Dẫu vậy, vì Lớp trưởng và Natsukawa đã nhìn ra lẽ phải mà đ�
 
 Nhưng mà, tôi đã suy nghĩ kỹ rồi.
 
-Cậu Souma, vì cậu rất mạnh. Sakura, năng lực 『Thánh Nữ』 của cậu rất xuất sắc. Và cả Kenzaki nữa, ngươi cũng rất mạnh, nên nếu các người hóa điên rồi làm loạn lên thì có khi lại có người phải bỏ mạng.
+Souma-kun, vì cậu rất mạnh. Sakura, năng lực 『Thánh Nữ』 của cậu rất xuất sắc. Và cả Kenzaki nữa, ngươi cũng rất mạnh, nên nếu các người hóa điên rồi làm loạn lên thì có khi lại có người phải bỏ mạng.
 
 Biểu quyết theo đa số là phương thức đơn giản nhất để đạt được hạnh phúc lớn nhất cho số đông. Thế nhưng, việc lắng nghe ý kiến của thiểu số cũng vô cùng quan trọng, giống như những gì nền chính trị hiện đại thường nói. Thật hoài niệm, hình như chúng tôi cũng từng học qua điều đó trong tiết Chính trị và Kinh tế thì phải.
 
 Vì vậy, tôi quyết định sẽ tôn trọng ý kiến của nhóm thiểu số các cậu. Tôi đã nghĩ ra một phương án có thể thuyết phục được ngay cả những kẻ đang đưa ra quyết định ngu ngốc hơn cả mấy ông bà già bị lừa đảo qua điện thoại — đó là tin tưởng và bao che cho kẻ phản bội Takanashi.
 
-“Cậu Souma, cứ yên tâm đi. Tôi đã nghĩ ra cách để không cần phải giết Takanashi Kotori rồi.”
+“Souma-kun, cứ yên tâm đi. Tôi đã nghĩ ra cách để không cần phải giết Takanashi Kotori rồi.”
 
 “Cậu nói cái gì?”
 
-Đứng đối diện tôi, cậu Souma nhìn xuống với ánh mắt sắc lẹm. Dù sao thì cậu ta cũng cao hơn tôi mà. Khi đứng thẳng trước mặt nhau, khoảng cách chiều cao lộ rõ mồn một.
+Đứng đối diện tôi, Souma-kun nhìn xuống với ánh mắt sắc lẹm. Dù sao thì cậu ta cũng cao hơn tôi mà. Khi đứng thẳng trước mặt nhau, khoảng cách chiều cao lộ rõ mồn một.
 
-But đến nước này rồi, những hạn chế vật lý như kích thước cơ thể chẳng thể tạo ra chút áp lực nào lên tôi nữa. Nếu muốn dùng chiều cao để dọa tôi, thì ít nhất cậu ta phải biến thành một gã khổng lồ cỡ Zagan cơ.
+Nhưng đến nước này rồi, những hạn chế vật lý như kích thước cơ thể chẳng thể tạo ra chút áp lực nào lên tôi nữa. Nếu muốn dùng chiều cao để dọa tôi, thì ít nhất cậu ta phải biến thành một gã khổng lồ cỡ Zagan cơ.
 
 Thế nên, tôi không hề nao núng mà tự tin tuyên bố. Đây chính là giải pháp tuyệt vời mà tôi đã nghĩ ra, đủ để thuyết phục lũ khờ khạo đang bị dắt mũi các người.
 
@@ -57317,7 +57333,7 @@ Thế nên, tôi không hề nao núng mà tự tin tuyên bố. Đây chính l�
 
 “Ý cậu là sao? Một kẻ như cậu lại chịu nhường suất thoát hiểm quý giá cho Takanashi-san và Asuna, rốt cuộc cậu đang âm mưu cái gì?”
 
-“Sai rồi cậu Souma, đó là sự khác biệt trong nhận thức. Đúng là chúng ta từng rơi vào trạng thái sinh tử chiến kiểu battle royale để tranh giành suất thoát hiểm qua 『Thiên Tống Môn』. Đó quả thực là phần thưởng xứng đáng để đánh cược mạng sống. Nhưng cậu nhớ chứ, sau khi tiêu diệt Yamata no Orochi, tôi đã nói rồi mà. Ngay cả khi không dùng đến 『Thiên Tống Môn』, chỉ cần mọi người đồng lòng, chúng ta vẫn có thể đi bộ thoát khỏi đây.”
+“Sai rồi Souma-kun, đó là sự khác biệt trong nhận thức. Đúng là chúng ta từng rơi vào trạng thái sinh tử chiến kiểu battle royale để tranh giành suất thoát hiểm qua 『Thiên Tống Môn』. Đó quả thực là phần thưởng xứng đáng để đánh cược mạng sống. Nhưng cậu nhớ chứ, sau khi tiêu diệt Yamata no Orochi, tôi đã nói rồi mà. Ngay cả khi không dùng đến 『Thiên Tống Môn』, chỉ cần mọi người đồng lòng, chúng ta vẫn có thể đi bộ thoát khỏi đây.”
 
 Đúng vậy, thế giới bên ngoài rộng lớn bao la không biết đâu là giới hạn kia. Vùng đất dị giới nguy hiểm, nơi lũ Salamander bay lượn đầy trời.
 
@@ -57327,13 +57343,13 @@ Nhưng chúng tôi không còn là những học sinh vô lực nữa. Chúng t�
 
 Tiền đề cho rằng không thể thoát ra ngoài nếu không dịch chuyển đã sụp đổ từ lâu rồi. Chúng tôi sở hữu đủ sức mạnh để có thể tiến ra thế giới bên ngoài ngay lúc này. Tôi đã có được sức mạnh và những người đồng đội đủ để tin tưởng vào điều đó.
 
-“Với cậu Souma, việc thoát ra bằng 『Thiên Tống Môn』 là cách để đưa họ lánh nạn an toàn. Nhưng đối với tôi, đó lại là phương tiện để trục xuất họ khỏi tổ đội Lớp 2-7 này.”
+“Với Souma-kun, việc thoát ra bằng 『Thiên Tống Môn』 là cách để đưa họ lánh nạn an toàn. Nhưng đối với tôi, đó lại là phương tiện để trục xuất họ khỏi tổ đội Lớp 2-7 này.”
 
 Chỉ là thay đổi góc nhìn mà thôi.
 
 Điều quan trọng đối với tôi là không chứa chấp một kẻ phản bội như Takanashi trong đội.
 
-Điều quan trọng đối với cậu Souma là không để một cô gái yếu đuối như Takanashi gặp nguy hiểm.
+Điều quan trọng đối với Souma-kun là không để một cô gái yếu đuối như Takanashi gặp nguy hiểm.
 
 Xem đi, chỉ cần tống cô ta qua 『Thiên Tống Môn』 đến Vương đô Sigrun, mong muốn của cả hai bên đều sẽ được thực hiện.
 
@@ -57353,11 +57369,11 @@ Bây giờ, trước cả khi ngươi kịp rút kiếm ra, Kyouko đã bắn n�
 
 Thật là phiền phức mà. Để thương lượng với một lũ man di hiếu chiến, lúc nào tôi cũng phải nắm đằng chuôi sinh sát trong tay mới được.
 
-“Đừng nhìn tôi bằng ánh mắt đáng sợ thế chứ, cậu Souma. Chúng tôi cũng chẳng muốn giết Kenzaki làm gì. Nếu không, tôi đã chẳng đưa ra đề xuất này.”
+“Đừng nhìn tôi bằng ánh mắt đáng sợ thế chứ, Souma-kun. Chúng tôi cũng chẳng muốn giết Kenzaki làm gì. Nếu không, tôi đã chẳng đưa ra đề xuất này.”
 
 “...Tôi biết rồi.”
 
-“Phải, cậu hiểu được thì tốt. Đối với chúng tôi, việc tống khứ được con khốn sẵn sàng đạp đổ đồng đội như Kenzaki sẽ giúp mọi người an tâm hơn. Còn đối với cậu Souma, dù cô ta có bị chúng tôi ghét bỏ đến mức nào, việc cho cô ta thoát trước vẫn đảm bảo được an toàn tính mạng. Hơn nữa, để một kẻ yếu ớt như Takanashi-san đi cùng một người bạn thân có tay nghề cao như Kenzaki, cậu cũng yên tâm hơn đúng không?”
+“Phải, cậu hiểu được thì tốt. Đối với chúng tôi, việc tống khứ được con khốn sẵn sàng đạp đổ đồng đội như Kenzaki sẽ giúp mọi người an tâm hơn. Còn đối với Souma-kun, dù cô ta có bị chúng tôi ghét bỏ đến mức nào, việc cho cô ta thoát trước vẫn đảm bảo được an toàn tính mạng. Hơn nữa, để một kẻ yếu ớt như Takanashi-san đi cùng một người bạn thân có tay nghề cao như Kenzaki, cậu cũng yên tâm hơn đúng không?”
 
 *Mà thôi, biết đâu sau khi đến vương quốc, ả ta lại giở thói vô lễ rồi nổi điên rút kiếm ra, để rồi bị giới vương tôn quý tộc chém chết vì tội phạm thượng không chừng. Nhưng đến lúc đó thì tự làm tự chịu thôi.*
 
@@ -57369,13 +57385,13 @@ Thật là phiền phức mà. Để thương lượng với một lũ man di hi
 
 “Thôi đi Momokawa. Đừng dùng những lời lẽ khiêu khích vô ích đó nữa.”
 
-“Vậy tôi hỏi cậu nhé, cậu Souma. Cậu thực sự nghĩ Kenzaki có thể hòa nhập và chung sống hòa bình với chúng tôi một lần nữa sao?”
+“Vậy tôi hỏi cậu nhé, Souma-kun. Cậu thực sự nghĩ Kenzaki có thể hòa nhập và chung sống hòa bình với chúng tôi một lần nữa sao?”
 
 “Chuyện... chuyện đó... Nếu Asuna chiến đấu với tư cách là một 『Song Kiếm Sĩ』, sẵn sàng đánh cược mạng sống để bảo vệ mọi người thì—”
 
-“Tất nhiên là cô ta sẽ chiến đấu rồi, vì cô ta là một kiếm sĩ đầu đất chỉ biết mỗi việc đó thôi mà. Nhưng đến khi gặp nguy hiểm, cô ta lại sẵn sàng vứt bỏ ai đó đúng không? Cậu Souma này, cậu thì sẽ không bao giờ bị vứt bỏ đâu, nhưng kẻ bị chọn làm vật tế thần thì lúc nào cũng là chúng tôi đấy.”
+“Tất nhiên là cô ta sẽ chiến đấu rồi, vì cô ta là một kiếm sĩ đầu đất chỉ biết mỗi việc đó thôi mà. Nhưng đến khi gặp nguy hiểm, cô ta lại sẵn sàng vứt bỏ ai đó đúng không? Souma-kun này, cậu thì sẽ không bao giờ bị vứt bỏ đâu, nhưng kẻ bị chọn làm vật tế thần thì lúc nào cũng là chúng tôi đấy.”
 
-Nói một cách tích cực thì Kenzaki quả thực rất biết nghĩ cho đồng đội của mình. Chắc chắn vì cậu Souma hay Takanashi, cô ta sẵn sàng hy sinh bản thân mà không chút do dự để chiến đấu đến cùng.
+Nói một cách tích cực thì Kenzaki quả thực rất biết nghĩ cho đồng đội của mình. Chắc chắn vì Souma-kun hay Takanashi, cô ta sẵn sàng hy sinh bản thân mà không chút do dự để chiến đấu đến cùng.
 
 Đó chắc chắn là ưu điểm, là thế mạnh và là ý chí cao cả của cô gái mang tên Kenzaki Asuna.
 
@@ -57389,7 +57405,7 @@ Kỹ năng 『Quy Tắc Ý Niệm』 của Takanashi lúc đó chắc chắn đ�
 
 Chẳng thể bào chữa vào đâu được nữa, Kenzaki đã tự đưa ra quyết định bằng chính ý chí của mình để đạp bay và trục xuất Himeno.
 
-“Có thể các cậu không biết, nhưng khi nhóm năm người của Ueta bị nhốt ở ngoài và phải lang thang trong rừng, họ đã bị một đàn Goma khổng lồ tấn công và rơi vào cảnh ngàn cân treo sợi tóc. Trước mặt họ là hai con GoGame Mastera chặn đường, dồn họ vào đường cùng — chính vào khoảnh khắc đó, Yamada-kun đã đứng ra hy sinh bản thân, hét lên 'Cứ để chỗ này cho tớ, mọi người đi trước đi'.”
+“Có thể các cậu không biết, nhưng khi nhóm năm người của Ueta bị nhốt ở ngoài và phải lang thang trong rừng, họ đã bị một đàn Goma khổng lồ tấn công và rơi vào cảnh ngàn cân treo sợi tóc. Trước mặt họ là hai con Gogma chặn đường, dồn họ vào đường cùng — chính vào khoảnh khắc đó, Yamada-kun đã đứng ra hy sinh bản thân, hét lên 'Cứ để chỗ này cho tớ, mọi người đi trước đi'.”
 
 “N-Này Momokawa, chuyện đó thực ra cũng không—”
 
@@ -57397,19 +57413,19 @@ Chẳng thể bào chữa vào đâu được nữa, Kenzaki đã tự đưa ra 
 
 Ueta và Yoshizaki khẽ ra hiệu bắt Yamada ngậm miệng lại để tránh nói hớ. Đây chính là sự phối hợp ăn ý của những người đồng đội đã cùng nhau thắt chặt sợi dây liên kết nhỉ.
 
-“Cậu cũng biết Yamada-kun là một 『Trọng Chiến Binh』, là trụ cột gánh vác tiền tuyến của nhóm năm người đó mà. Thế nhưng, cậu ấy vẫn không ngần ngại vứt bỏ mạng sống của mình để mở đường máu cho đồng đội chạy trốn vào thời khắc sinh tử đó. Cậu nghĩ Kenzaki có thể làm được điều tương tự không, cậu Souma? Dù có nghĩ thế nào đi nữa, nếu rơi vào hoàn cảnh đó, cô ta chắc chắn sẽ lại hy sinh Himeno-san một lần nữa thôi.”
+“Cậu cũng biết Yamada-kun là một 『Trọng Chiến Binh』, là trụ cột gánh vác tiền tuyến của nhóm năm người đó mà. Thế nhưng, cậu ấy vẫn không ngần ngại vứt bỏ mạng sống của mình để mở đường máu cho đồng đội chạy trốn vào thời khắc sinh tử đó. Cậu nghĩ Kenzaki có thể làm được điều tương tự không, Souma-kun? Dù có nghĩ thế nào đi nữa, nếu rơi vào hoàn cảnh đó, cô ta chắc chắn sẽ lại hy sinh Himeno-san một lần nữa thôi.”
 
 “Đ-Đừng nói những lời như thế nữa...”
 
-“Đã đến lúc cậu phải chấp nhận sự thật rồi, cậu Souma. Đây không phải là sự vu khống một chiều từ tôi, mà là sự thật hiển nhiên. Một bên là Kenzaki, kẻ sẵn sàng vứt bỏ đồng đội vì coi họ là gánh nặng, và một bên là Yamada-kun, người đã hy sinh bản thân để cứu sống tất cả mọi người.”
+“Đã đến lúc cậu phải chấp nhận sự thật rồi, Souma-kun. Đây không phải là sự vu khống một chiều từ tôi, mà là sự thật hiển nhiên. Một bên là Kenzaki, kẻ sẵn sàng vứt bỏ đồng đội vì coi họ là gánh nặng, và một bên là Yamada-kun, người đã hy sinh bản thân để cứu sống tất cả mọi người.”
 
-Đúng vậy, đây không phải là lời vu oan hay bịa đặt, tôi chỉ đang trần thuật lại những sự kiện đã thực sự xảy ra mà thôi. Việc cậu Souma và Kenzaki không thể chấp nhận hay không muốn thừa nhận điều đó chỉ đơn giản là vì nó đi ngược lại lợi ích của họ.
+Đúng vậy, đây không phải là lời vu oan hay bịa đặt, tôi chỉ đang trần thuật lại những sự kiện đã thực sự xảy ra mà thôi. Việc Souma-kun và Kenzaki không thể chấp nhận hay không muốn thừa nhận điều đó chỉ đơn giản là vì nó đi ngược lại lợi ích của họ.
 
 *Cái này người ta gọi là tội phơi bày sự thật à?*
 
 *Quả nhiên, con người ta coi trọng những thông tin có lợi cho bản thân hơn là sự thật.*
 
-But trong hoàn cảnh này, làm sao chúng tôi có thể dung thứ cho toàn bộ sự thối nát trong nhân tính của họ được chứ.
+Nhưng trong hoàn cảnh này, làm sao chúng tôi có thể dung thứ cho toàn bộ sự thối nát trong nhân tính của họ được chứ.
 
 “Kenzaki, ngươi đã hoàn toàn đánh mất lòng tin của các bạn học rồi. Chuyện đã đi quá xa để ngươi có thể lập công chuộc tội hay lấy lại danh dự. Không đùa đâu. Một kẻ như ngươi không xứng đáng làm đồng đội của chúng tôi nữa.”
 
@@ -57423,7 +57439,7 @@ Tôi mỉm cười nói với Kenzaki đang giận dữ, kèm theo cử chỉ ta
 
 *Nếu cái lý lẽ đó mà cũng thông qua được, thì trên đời này chỉ cần trừng trị duy nhất một kẻ phạm tội nặng nhất là xong à. Làm gì có chuyện vô lý thế chứ.*
 
-“Vậy nên, cậu Souma. Nếu cậu có thể thuyết phục chúng tôi tin rằng Kenzaki vẫn xứng đáng làm đồng đội để đi tiếp cùng mọi người, tôi sẵn sàng lắng nghe đấy?”
+“Vậy nên, Souma-kun. Nếu cậu có thể thuyết phục chúng tôi tin rằng Kenzaki vẫn xứng đáng làm đồng đội để đi tiếp cùng mọi người, tôi sẵn sàng lắng nghe đấy?”
 
 *Đến nước này rồi thì ngay cả tôi cũng chẳng thể nghĩ ra cách nào để dùng lời nói lấy lại lòng tin cho Kenzaki. Nhưng với tư cách là một 『Dũng Giả』, liệu cậu có thể xoay chuyển tình thế bằng một bài thuyết phục vô lý hết chỗ nói không đây? Tôi thực sự rất mong chờ xem cậu ta sẽ đưa ra lý lẽ điên rồ nào đấy.*
 
@@ -57443,7 +57459,7 @@ Tôi giơ nắm đấm lên tuyên bố chiến thắng, và Himeno cũng đáp 
 
 Thế nên, việc ăn mừng quyết định trục xuất Kenzaki là quyền lợi chính đáng của những kẻ bị áp bức như chúng tôi. Chính nghĩa luôn chiến thắng! Kẻ chiến thắng chính là chính nghĩa!
 
-“Này Kenzaki, giờ ngươi cảm thấy thế nào? Đến cả cậu Souma cũng không thể bao che cho ngươi được nữa rồi, cảm giác thế nào hả?”
+“Này Kenzaki, giờ ngươi cảm thấy thế nào? Đến cả Souma-kun cũng không thể bao che cho ngươi được nữa rồi, cảm giác thế nào hả?”
 
 “Đủ rồi đấy, Momokawa! Cậu định sỉ nhục người khác đến mức nào mới chịu thôi hả!”
 
@@ -57457,7 +57473,7 @@ Tạm thời cứ thu quân ở đây đã.
 
 *Nếu khiêu khích quá đà dẫn đến việc hai bên lao vào chém giết lẫn nhau thì kế hoạch dày công chuẩn bị của tôi sẽ đổ sông đổ bể mất. Biết điểm dừng là rất quan trọng. Mà về khoản này thì tôi rành lắm.*
 
-“Vậy thì, cậu hứa sẽ để Takanashi và Kenzaki bị trục xuất, à không, thoát ra ngoài bằng 『Thiên Tống Môn』 rồi chứ, cậu Souma?”
+“Vậy thì, cậu hứa sẽ để Takanashi và Kenzaki bị trục xuất, à không, thoát ra ngoài bằng 『Thiên Tống Môn』 rồi chứ, Souma-kun?”
 
 “Được, cứ quyết định thế đi. Việc minh oan cho Takanashi-san hay giúp Asuna nhận được sự tha thứ là điều bất khả thi khi chúng ta vẫn còn ở trong hầm ngục này.”
 
@@ -57483,7 +57499,7 @@ Tạm thời cứ thu quân ở đây đã.
 
 “Ư... Souma...”
 
-Cậu Souma dịu dàng ôm lấy cả Takanashi đang giả vờ khóc lóc thảm thiết lẫn Asuna cuối cùng cũng phải rơi lệ chịu khuất phục, rồi ân cần dỗ dành hai người họ. Ừm, đúng là hành động chỉ dành riêng cho mấy tên soái ca đích thực mà.
+Souma-kun dịu dàng ôm lấy cả Takanashi đang giả vờ khóc lóc thảm thiết lẫn Asuna cuối cùng cũng phải rơi lệ chịu khuất phục, rồi ân cần dỗ dành hai người họ. Ừm, đúng là hành động chỉ dành riêng cho mấy tên soái ca đích thực mà.
 
 “Này, chúng ta phải đợi cho đến khi cô ta nín khóc mới được tiếp tục à?”
 
@@ -57495,7 +57511,7 @@ Cậu Souma dịu dàng ôm lấy cả Takanashi đang giả vờ khóc lóc th�
 
 “Uống chứ~”
 
-Tôi vừa thưởng thức món đồ uống đặc chế của Mei vừa tán gẫu đôi câu. Ồ, ly chanh mật ong này được ướp lạnh hoàn hảo thật đấy! Quả nhiên năng lực thuộc tính Băng của Lớp trưởng vô cùng hữu dụng mà.
+Tôi vừa thưởng thức món đồ uống đặc chế của Mei-chan vừa tán gẫu đôi câu. Ồ, ly chanh mật ong này được ướp lạnh hoàn hảo thật đấy! Quả nhiên năng lực thuộc tính Băng của Lớp trưởng vô cùng hữu dụng mà.
 
 Trong lúc thư giãn như vậy, tôi quyết định kiên nhẫn chờ đợi vở kịch rẻ tiền của bọn họ hạ màn.
 
@@ -57503,11 +57519,11 @@ Trong lúc thư giãn như vậy, tôi quyết định kiên nhẫn chờ đợi
 
 *Thứ chúng tôi cần không phải là cảm xúc, mà là ý tưởng để giải quyết vấn đề. Nếu nghĩ rằng nước mắt của phụ nữ có tác dụng với tôi thì nhầm to rồi nhé. Muốn dùng mỹ nhân kế thì ít nhất cỡ ngực cũng phải tăng gấp đôi rồi hãy quay lại đây nói chuyện.*
 
-“Thế, chúng ta tiếp tục câu chuyện được chưa hả cậu Souma?”
+“Thế, chúng ta tiếp tục câu chuyện được chưa hả Souma-kun?”
 
 “...Được rồi, tôi nghe đây.”
 
-Bỏ lại Takanashi vẫn đang cố gắng thút thít diễn kịch cùng Kenzaki đang nép sát bên cạnh, cậu Souma bước lại gần tôi một lần nữa.
+Bỏ lại Takanashi vẫn đang cố gắng thút thít diễn kịch cùng Kenzaki đang nép sát bên cạnh, Souma-kun bước lại gần tôi một lần nữa.
 
 *Thế nên tôi mới bảo, cậu không cần phải lườm tôi cháy mặt như vậy đâu. Tôi đã rộng lượng tha mạng cho cả con mụ chủ mưu lẫn con nhỏ bạo lực kia rồi còn gì.*
 
@@ -57527,7 +57543,7 @@ Ha ha ha, phản ứng của Sakura lúc nào cũng không làm tôi thất vọ
 
 “Cái gì cũng phải có giới hạn thôi. Nếu con bé mà giương cung lên thì buổi họp lớp này coi như giải tán đấy.”
 
-“Biết rồi, biết rồi. Nhưng tôi thực sự tò mò muốn biết trong hoàn cảnh này, cậu Souma sẽ chọn ai làm người thứ ba đấy.”
+“Biết rồi, biết rồi. Nhưng tôi thực sự tò mò muốn biết trong hoàn cảnh này, Souma-kun sẽ chọn ai làm người thứ ba đấy.”
 
 “Nếu tôi có quyền lựa chọn, tôi sẽ không chọn người thứ ba.”
 
@@ -57535,7 +57551,7 @@ Ha ha ha, phản ứng của Sakura lúc nào cũng không làm tôi thất vọ
 
 “Vậy thì cậu muốn chọn ai?”
 
-Cậu ta không thể trả lời ngay lập tức cũng là điều dễ hiểu. Bản thân tôi cũng đã phải đắn đo rất nhiều về việc có nên chọn người thứ ba hay không. Quyết định không vội vàng chọn người thứ ba của cậu Souma thực ra cũng không phải là tồi.
+Cậu ta không thể trả lời ngay lập tức cũng là điều dễ hiểu. Bản thân tôi cũng đã phải đắn đo rất nhiều về việc có nên chọn người thứ ba hay không. Quyết định không vội vàng chọn người thứ ba của Souma-kun thực ra cũng không phải là tồi.
 
 Tuy nhiên, sau khi cân nhắc kỹ lưỡng, tôi đã chọn được người thứ ba.
 
@@ -57549,7 +57565,7 @@ Dù sao thì hiện tại, phe đối địch với tôi cũng chỉ còn lại 
 
 “Tôi có thể biết lý do không?”
 
-“Có cần thiết không? Chẳng phải vì Himeno-san là người yếu nhất sao. Cô ấy là một cô gái yếu đuối cần được bảo vệ trước cả Takanashi nữa... Hay là cậu Souma hoàn toàn không bận tâm đến chuyện đó?”
+“Có cần thiết không? Chẳng phải vì Himeno-san là người yếu nhất sao. Cô ấy là một cô gái yếu đuối cần được bảo vệ trước cả Takanashi nữa... Hay là Souma-kun hoàn toàn không bận tâm đến chuyện đó?”
 
 “……”
 
@@ -57575,21 +57591,21 @@ Dù sao thì hiện tại, phe đối địch với tôi cũng chỉ còn lại 
 
 “……”
 
-*Chậc, chỉ vì kỹ năng diễn xuất của tôi chưa đủ chín mà trò đùa này bị nguội ngắt rồi sao. Cậu Souma đang lườm tôi bằng ánh mắt sắc như muốn phóng dao găm thế kia.*
+*Chậc, chỉ vì kỹ năng diễn xuất của tôi chưa đủ chín mà trò đùa này bị nguội ngắt rồi sao. Souma-kun đang lườm tôi bằng ánh mắt sắc như muốn phóng dao găm thế kia.*
 
-*Không chấp nhận trò bắt chước dở tệ à, không ngờ cậu Souma lại khắt khe với khiếu hài hước đến thế.*
+*Không chấp nhận trò bắt chước dở tệ à, không ngờ Souma-kun lại khắt khe với khiếu hài hước đến thế.*
 
 “Tôi tin rằng cô ấy cũng đã cống hiến hết mình vì cả lớp. Dù có nghi vấn cô ấy là quyến thuộc 『Succubus』... nhưng tôi nghĩ không nên chỉ vì sự nghi ngờ đó mà trục xuất cô ấy, và tôi đã cố gắng làm như vậy.”
 
 *À, về điểm đó thì tôi không trách cậu đâu. Dù sao thì kẻ có lỗi ở đây vẫn là con nhỏ Kenzaki đã hành động nông nổi thôi.*
 
-*Tôi đã nghe nhân chứng kể lại rằng khi vụ việc Himeno bị lộ thân phận Succubus xảy ra, cậu Souma quả thực đã không lập tức đòi đuổi cô ấy đi.*
+*Tôi đã nghe nhân chứng kể lại rằng khi vụ việc Himeno bị lộ thân phận Succubus xảy ra, Souma-kun quả thực đã không lập tức đòi đuổi cô ấy đi.*
 
 “Nhưng cậu đã nhận định rằng thay vì giữ cô ấy lại đi cùng chúng ta, việc để cô ấy thoát ra ngoài trước sẽ an toàn hơn đúng không.”
 
 “Ừm, đúng là vậy đấy. Dù việc mất đi một nhân lực quý giá cũng khiến tôi đau đầu, nhưng suy cho cùng, tính mạng vẫn là trên hết mà.”
 
-Đó chỉ là cái cớ để thuyết phục cậu Souma mà thôi.
+Đó chỉ là cái cớ để thuyết phục Souma-kun mà thôi.
 
 Lý do thực sự khiến tôi chọn Himeno làm người thứ ba. Đó là vì cô ấy là một 『Succubus』.
 
@@ -57601,7 +57617,7 @@ Việc gửi Sakura đến vương quốc vốn dĩ khả thi là nhờ có sự
 
 Vì vậy, tôi buộc phải thay đổi lớn trong kế hoạch. Dù hai suất thoát hiểm đã phải dùng để trục xuất Takanashi và Kenzaki, nhưng suất cuối cùng này, tôi muốn gửi đi một nhân tố có khả năng mang lại hy vọng cứu viện cao nhất cho chúng tôi.
 
-Nói vậy chứ tôi không thể gửi những chủ lực như Mei hay cậu Souma đi được, và cũng không thể buông tay một bộ óc phân tích quý giá như Lớp trưởng. Hơn nữa, việc trục xuất Kenzaki đã khiến tổng chiến lực của cả lớp bị giảm sút đáng kể, nên tôi không muốn gửi đi bất kỳ ai sở hữu Thiên chức chuyên về chiến đấu nữa.
+Nói vậy chứ tôi không thể gửi những chủ lực như Mei-chan hay Souma-kun đi được, và cũng không thể buông tay một bộ óc phân tích quý giá như Lớp trưởng. Hơn nữa, việc trục xuất Kenzaki đã khiến tổng chiến lực của cả lớp bị giảm sút đáng kể, nên tôi không muốn gửi đi bất kỳ ai sở hữu Thiên chức chuyên về chiến đấu nữa.
 
 Dùng phương pháp loại trừ thì chỉ còn lại mỗi Himeno... Nhưng sự thật là tôi đặt kỳ vọng rất lớn vào năng lực 『Succubus』 của cô ấy.
 
@@ -57657,29 +57673,29 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “Ơ kìa, cậu nghĩ là hết rồi à?”
 
-*Này Souma, tớ thực sự muốn cậu sớm sửa cái tính suy nghĩ nông cạn đó đi đấy. Mà thôi, với một quý ngài đẹp trai toàn diện như cậu thì chắc trước giờ cứ đụng đâu đánh đó cũng trăm trận trăm thắng rồi nhỉ.*
+*Này Souma, tớ thực sự muốn cậu sớm sửa cái thói suy nghĩ nông cạn đó đi đấy. Mà thôi, với một quý ngài hoàn hảo toàn diện như cậu thì chắc trước giờ cứ đụng đâu đánh đó cũng trăm trận trăm thắng rồi nhỉ.*
 
 “Này, Souma-kun. Sắp tới chúng ta sẽ lại cùng tập thể lớp 2-7 đồng lòng chinh phục hầm ngục cuối cùng mang tên Tháp Trung Tâm. Đến đây thì cậu hiểu rồi đúng không?”
 
-“Ừm, dĩ nhiên. Tớ không muốn mất thêm bất kỳ ai nữa, và cũng không thể để chuyện đó xảy ra.”
+“Ừm, dĩ nhiên. Tớ không muốn mất thêm bất kỳ ai nữa, và cũng tuyệt đối không thể để chuyện đó xảy ra.”
 
 “Ừm ừm, quyết tâm tốt đấy.”
 
 *Lúc nào cũng vậy, được mỗi cái quyết tâm là giỏi.*
 
-*Nhưng tớ không hoàn toàn mỉa mai đâu nhé. Ngay cả khi rơi vào tình cảnh bất lợi thế này mà cậu vẫn có thể khẳng định chắc nịch rằng sẽ chiến đấu đến cùng để không ai phải chết, cậu đúng là một 『Dũng Giả』 thực thụ. Bình thường nếu cứ gặp phải toàn chuyện hãm hại liên tiếp thế này, người ta đã buông xuôi tất cả và tự hủy hoại bản thân rồi.*
+*Nhưng tớ không hoàn toàn mỉa mai đâu nhé. Ngay cả khi rơi vào tình cảnh bất lợi thế này mà cậu vẫn có thể khẳng định chắc nịch rằng sẽ chiến đấu đến cùng để không ai phải chết, cậu đúng là một 『Dũng Giả』 thực thụ. Bình thường nếu cứ liên tiếp gặp phải toàn những chuyện hãm hại thế này, người ta đã buông xuôi tất cả và tự hủy hoại bản thân từ lâu rồi.*
 
-“Thế nên, tớ nghĩ là dù chúng ta có vào được bên trong thì cũng không có chuyện đi thẳng một mạch tới đích đến là Thiên Tống Môn đâu.”
+“Thế nên, tớ nghĩ là dù chúng ta có vào được bên trong thì cũng chẳng có chuyện đi thẳng một mạch tới đích đến là Thiên Tống Môn đâu.”
 
-“Nghe nói Thiên Tống Môn nằm ở tầng dưới cùng của tòa tháp. Chắc chắn trên đường tới đó sẽ có những con Boss hùng mạnh cản lối.”
+“Nghe nói Thiên Tống Môn nằm ở tầng sâu nhất của tòa tháp. Chắc chắn trên đường tới đó sẽ có những con Boss hùng mạnh cản lối.”
 
-*Mà đâu chỉ có một con Boss cuối siêu mạnh. Thậm chí có khả năng hầm ngục này được thiết kế theo kiểu tàn bạo như nội dung cuối game, mỗi tầng lại có một con ma vật Boss cực mạnh trấn giữ. Chưa kể còn có cái truyền thống Boss Rush nữa.*
+*Mà đâu chỉ có duy nhất một con Boss cuối siêu mạnh. Thậm chí có khả năng hầm ngục này được thiết kế theo kiểu tàn bạo như nội dung cuối game, mỗi tầng lại có một con ma vật Boss cực mạnh trấn giữ. Chưa kể còn có cả cái truyền thống Boss Rush nữa.*
 
 “Vậy là chúng ta đã có chung nhận thức rằng chuyến đi này sẽ cực kỳ gian nan rồi.”
 
 “Đã đi đến nước này rồi, làm gì có ai nghĩ chặng cuối sẽ dễ dàng chứ.”
 
-*Ngoại trừ Takanashi ra. Nhưng đó mới là điểm mấu chốt.*
+*Ngoại trừ Takanashi ra. Nhưng đó mới chính là điểm mấu chốt.*
 
 “Một nơi như thế, cậu định để mọi người cùng xông vào chinh phục giống như từ trước đến nay sao?”
 
@@ -57691,7 +57707,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “Nghe này, Takanashi chính là kẻ chủ mưu. Cô ta là tay sai do mụ nữ thần khốn kiếp đứng sau trò sinh tồn hầm ngục quái quỷ này phái tới. Là một Game Master có nhiệm vụ kiểm soát mọi thứ theo đúng kịch bản của thần linh.”
 
-*Thế mà Takanashi lúc này vẫn chỉ thút thít khóc lóc chứ chẳng có động thái gì đặc biệt. Nói cách khác, ả ta nghĩ rằng cứ để mọi chuyện diễn ra thế này, rồi cả lũ cùng vào Tháp Trung Tâm thì cũng chẳng sao. Lý do có lẽ là vì nơi đó nằm trong phạm vi ý chí của ả. Dù là điều khiển các con Boss chờ sẵn trong tháp, hay kích hoạt cạm bẫy để quét sạch chúng tôi một cách êm đẹp, ả vẫn còn thừa tính toán để ra tay ——— thế nhưng, Souma hoàn toàn không hề suy đoán đến mức đó.*
+*Thế mà Takanashi lúc này vẫn chỉ thút thít khóc lóc chứ chẳng có động thái gì đặc biệt. Nói cách khác, ả ta nghĩ rằng cứ để mọi chuyện diễn ra thế này, rồi cả lũ cùng vào Tháp Trung Tâm thì cũng chẳng sao. Lý do có lẽ là vì nơi đó hoàn toàn nằm trong tầm kiểm soát của ả. Dù là điều khiển các con Boss chờ sẵn trong tháp, hay kích hoạt cạm bẫy để quét sạch chúng tôi một cách êm đẹp, ả vẫn còn thừa tính toán để ra tay ——— thế nhưng, Souma hoàn toàn không hề suy đoán đến mức đó.*
 
 “Điều quan trọng không phải là cậu có công nhận đây là sự thật hay không. Mà là cậu phải hành động dựa trên giả định rằng nó có thể là sự thật.”
 
@@ -57701,27 +57717,27 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “Đúng là như vậy... Nhưng...”
 
-“Nhưng cái gì? Đây là họp lớp mà, có gì muốn nói thì cậu phải nói ra chứ.”
+“Nhưng cái gì? Đây là họp lớp mà, có gì muốn nói thì cậu cứ việc nói thẳng ra đi chứ.”
 
 “……Không, thôi bỏ đi. Một khi không thể xóa bỏ sự nghi ngờ của mọi người, thì phải quyết định hành động dựa trên tiền đề thừa nhận điều đó. Ý cậu là vậy đúng không, Momokawa?”
 
 “Souma-kun, trả lời chính xác. Chà, cậu hiểu ra vấn đề làm tớ vui lắm đấy.”
 
-*Vui thật chứ không đùa. Vì cậu ta đã tự mình nhận ra và chấp nhận nó. Nhờ vậy mà đống lý lẽ tớ chuẩn bị sẵn để dồn cậu ta vào góc tường đã trở nên thừa thãi rồi.*
+*Vui thật chứ không đùa. Vì cậu ta đã tự mình nhận ra và chấp nhận nó. Nhờ vậy mà đống lý lẽ tớ chuẩn bị sẵn để dồn cậu ta vào chân tường đã trở nên thừa thãi rồi.*
 
-“Đúng thế, vậy nên chúng ta phải lên kế hoạch chinh phục sắp tới dựa trên tiền đề rằng Takanashi là kẻ chủ mưu và ả định loại bỏ tất cả mọi người trong hầm ngục này ngoại trừ Souma-kun. Sakura-chan cũng đồng ý chứ?”
+“Đúng thế, vậy nên chúng ta phải lên kế hoạch chinh phục sắp tới dựa trên tiền đề rằng Takanashi là kẻ chủ mưu, và ả định loại bỏ tất cả mọi người trong hầm ngục này ngoại trừ Souma-kun. Sakura-chan cũng đồng ý chứ?”
 
-“Đã ngậm máu phun người rồi còn nói giọng đó... Cái thứ lý sự cùn đó, tôi không bao giờ chấp nhận!”
+“Đã ngậm máu phun người rồi còn nói cái giọng đó... Thứ lý sự cùn đó, tôi không bao giờ chấp nhận!”
 
 “Anh trai ơi, nhờ cậu thuyết phục em ấy hộ cái.”
 
 “Sakura, bỏ cuộc đi. Trong hoàn cảnh này, em không thể cãi thắng Momokawa đâu.”
 
-“S-sao lại thế, anh... sao anh lại nói như vậy...”
+“S-Sao lại thế, anh... sao anh lại nói như vậy chứ...”
 
 “Đúng đấy, nói thế phũ phàng quá! Cậu phải thuyết phục em ấy đàng hoàng hơn chứ! Đó là nhiệm vụ của cậu mà!”
 
-*Nào, đừng có trưng ra cái bộ mặt ngán ngẩm đó chứ. Quả nhiên ngay cả Souma cũng thấy việc dạy bảo cô em gái này là một công việc cực nhọc, cứng đầu và dễ phát điên đúng không.*
+*Nào, đừng có trưng ra cái bộ mặt ngán ngẩm đó chứ. Quả nhiên ngay cả Souma cũng thấy việc dạy bảo cô em gái cứng đầu này là một công việc cực nhọc và dễ phát điên đúng không.*
 
 “Nghe này, Sakura. Anh đã quyết định chấp nhận lời của Momokawa. Anh buộc phải chấp nhận vì đây là kết quả từ những hành động của chính anh. Không thể làm được gì, không cứu được ai, đó là trách nhiệm của bản thân anh ——— Vì vậy Sakura, nếu chỉ có mình em không thể chấp nhận lời của Momokawa, thì hãy tự mình phản bác đi.”
 
@@ -57731,7 +57747,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “A, a... Anh ơi, sao lại... E-Em...”
 
-*Souma đã dùng tông giọng lạnh lùng, đẩy cô em gái ra xa hơn bao giờ hết. Hiệu quả cực kỳ mỹ mãn. Khóe mắt Sakura đã lấp lánh những giọt lệ.*
+*Souma đã dùng tông giọng lạnh lùng, đẩy cô em gái ra xa hơn bao giờ hết. Hiệu quả cực kỳ mỹ mãn. Khóe mắt Sakura đã bắt đầu lấp lánh những giọt lệ.*
 
 “Em chỉ... vì muốn tốt cho anh... muốn làm điều đúng đắn thôi mà... ư, ư u u...”
 
@@ -57745,7 +57761,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “Có lẽ là vậy.”
 
-*Không hề nổi giận trước lời của tớ, Souma chỉ lặng lẽ nhìn Sakura đang khóc nức nở với đôi mắt đượm buồn và u uất. Bình thường, nếu thấy em gái khóc, cậu ta chắc chắn sẽ gạt bỏ mọi thứ để lao đến dỗ dành, nhưng vì chính lời nói của mình đã làm em ấy khóc, cậu ta thậm chí không buồn ôm lấy bờ vai đang run rẩy kia.*
+*Không hề nổi giận trước lời của tớ, Souma chỉ lặng lẽ nhìn Sakura đang khóc nức nở với đôi mắt đượm buồn và u uất. Bình thường, nếu thấy em gái khóc, cậu ta chắc chắn sẽ gạt bỏ mọi thứ để lao đến dỗ dành, nhưng vì chính lời nói của mình đã làm em ấy tổn thương, cậu ta thậm chí không buồn ôm lấy bờ vai đang run rẩy kia.*
 
 “Sakura không còn ở trạng thái có thể bình tĩnh nói chuyện được nữa. Đừng bận tâm đến em ấy, cứ tiếp tục đi.”
 
@@ -57775,7 +57791,7 @@ Vậy thì, để cường hóa năng lực của một 『Succubus』, hay nói
 
 “C-Cái gì cơ?!”
 
-*Souma cứng họng. Cũng phải, mức độ này thì đâu còn là đối xử như tội phạm nữa, mà là đối xử với trọng tội phạm đến mức thà đem đi hành quyết luôn cho nhanh. Nhưng tớ đã bảo rồi, nhận thức của cậu ta quá ngây thơ.*
+*Souma cứng họng. Cũng phải, mức độ này thì đâu còn là đối xử như tội phạm nữa, mà là đối xử với trọng tội phạm đến mức thà đem đi hành quyết luôn cho nhanh. Nhưng tớ đã bảo rồi, nhận thức của cậu ta quá đỗi ngây thơ.*
 
 *Những gì tớ vừa nói chẳng qua chỉ là những phương pháp giam giữ cơ bản nhất nảy ra trong đầu thôi. Dù có thực hiện tất cả những điều đó thì vẫn còn lâu mới gọi là an toàn tuyệt đối. Ngay từ đầu, một kẻ phản bội sở hữu sức mạnh đặc biệt và âm mưu sát hại cả lớp mà vẫn được giữ lại mạng sống thì đã là một ân huệ lớn rồi. Cô ta nên thấy biết ơn vì mình chưa chết mới phải.*
 

@@ -8,7 +8,7 @@ Không hiểu sao sau khi tôi kích hoạt 『Thi hài giáp Bazuzu』, Oh-ma l
 
 “Ngay từ đầu, nếu ngươi không tung ra đòn tấn công diện rộng thế này thì ta cũng chẳng thèm dùng cái bộ giáp xác chết tốn ma lực này đâu, đồ khốn!”
 
-Bằng cánh tay quỷ đỏ mang sức mạnh của Gira-GoGame Mastera, tôi đấm vỡ vụn những tảng đá đang trút xuống.
+Bằng cánh tay quỷ đỏ mang sức mạnh của Gira-Gogma, tôi đấm vỡ vụn những tảng đá đang trút xuống.
 
 Oh-ma đã kích hoạt ma pháp tấn công diện rộng thuộc tính Thổ, nâng vô số đất đá lên không trung rồi bắn thẳng vào tường thành như một loạt pháo kích liên hoàn. Để tự vệ, tôi không còn cách nào khác ngoài việc sử dụng 『Thi hài giáp Bazuzu』.
 
@@ -24,11 +24,11 @@ Thú thật, tình thế hiện tại đang rất bất lợi. Tổn thất lớ
 
 『Cánh Vỗ Trói Buộc』: Một khối thịt bay lơ lửng được ghép từ các loại cánh chim và cánh côn trùng. Dù lực trói buộc không bằng 『Bách Thủ Phược』 do lượng thịt sử dụng ít hơn, nhưng điểm mạnh của nó là khả năng bay lượn cơ động để tiếp cận và khóa chặt mục tiêu. Đây là một kỹ năng cực kỳ hiệu quả đối với những kẻ to xác nhưng lại di chuyển nhanh nhẹn như Zagan.
 
-Mei hiện tại đang phát huy sức mạnh khủng khiếp nhất từ trước đến nay nhờ hiệu ứng của 『Berserk X』. Nếu là cô ấy — người đang liên tục tấn công mà không hề lùi bước trước một Zagan khổng lồ hóa, thì chỉ cần tôi quấy rối gã một chút thôi cũng đủ để tạo ra một cơ hội ngàn vàng cho cô ấy dứt điểm.
+Mei-chan hiện tại đang phát huy sức mạnh khủng khiếp nhất từ trước đến nay nhờ hiệu ứng của 『Berserk X』. Nếu là cô ấy — người đang liên tục tấn công mà không hề lùi bước trước một Zagan khổng lồ hóa, thì chỉ cần tôi quấy rối gã một chút thôi cũng đủ để tạo ra một cơ hội ngàn vàng cho cô ấy dứt điểm.
 
 Thế nhưng, đòn quấy rối đó đã bị sấm sét của Oh-ma chặn đứng, và lão lập tức quay sang phản công tôi.
 
-Dù nhờ có 『Thi hài giáp Bazuzu』 mà tôi vẫn tạm thời chống đỡ được, nhưng đây không phải là trận chiến có thể thắng chỉ bằng cách phòng thủ thụ động. Có lẽ giới hạn thể lực của Mei sẽ đến trước. Nếu tôi không thể hỗ trợ cô ấy hạ gục Zagan trong lúc cô ấy vẫn còn đủ sức chiến đấu, chúng tôi sẽ thua.
+Dù nhờ có 『Thi hài giáp Bazuzu』 mà tôi vẫn tạm thời chống đỡ được, nhưng đây không phải là trận chiến có thể thắng chỉ bằng cách phòng thủ thụ động. Có lẽ giới hạn thể lực của Mei-chan sẽ đến trước. Nếu tôi không thể hỗ trợ cô ấy hạ gục Zagan trong lúc cô ấy vẫn còn đủ sức chiến đấu, chúng tôi sẽ thua.
 
 “Làm ơn đấy, ma lực của tôi ơi, hãy trụ vững đi... 『Độc』!”
 
@@ -36,7 +36,7 @@ Tôi bắn ma pháp độc về phía Oh-ma.
 
 Ngay trước khoảnh khắc bị Zagan ngoạm trúng, tôi đã kịp ném 『Cây Gậy Của Kẻ Ngốc』 có gắn 『Đầu lâu của Chú thuật sư』 ra xa để bảo toàn. Nhờ vậy, tôi đã nhặt lại được nó khi nó đang lăn lóc ở góc tường thành. *Làm tốt lắm Sakurai, Hinagiku vẫn bình an vô sự nhé.*
 
-And thế là, tôi tiếp tục vắt kiệt 『Cây Gậy Của Kẻ Ngốc』 để duy trì các đòn tấn công tầm xa nhắm vào Oh-ma.
+Thế rồi, tôi tiếp tục vắt kiệt 『Cây Gậy Của Kẻ Ngốc』 để duy trì các đòn tấn công tầm xa nhắm vào Oh-ma.
 
 “Hừ, vô ích thôi, lũ rác rưởi!”
 
@@ -78,7 +78,7 @@ Chiếc container sắt gắn sau lưng nó cũng bị bóp méo thảm hại...
 
 Với khuôn mặt lấm lem muội than và lộ rõ vẻ kiệt quệ, Himeno lườm tôi rồi nói.
 
-Người đang gối đầu lên đùi cô ấy là Nakajima, cậu ta đang bất tinh nhân sự với cơ thể đẫm máu. Himeno đang tập trung cao độ để thi triển 『Cấp Cứu Hồi Phục』 cho cậu ta.
+Người đang gối đầu lên đùi cô ấy là Nakajima, cậu ta đang bất tỉnh nhân sự với cơ thể đẫm máu. Himeno đang tập trung cao độ để thi triển 『Cấp Cứu Hồi Phục』 cho cậu ta.
 
 “Còn giữ được mạng là tốt rồi. Nhưng không ngờ người khỏe khoắn nhất ở đây lại là Himeno-san đấy.”
 
@@ -182,7 +182,7 @@ Chất lỏng bên trong không phải là màu xanh lam trong suốt như Re-po
 
 “Tớ đã chuẩn bị sẵn phần cho mọi người để phòng hờ trường hợp này rồi.”
 
-『Cuồng Hóa A』: Đây cũng là một loại thuốc tăng lực được bào chế từ 『Thử nghiệm dược X』. Khác với phiên bản 『X』 dành riêng cho Mei với khả năng phá vỡ giới hạn siêu việt, phiên bản 『A』 đã được giảm bớt dược tính để đảm bảo an toàn cho người sử dụng thông thường. Nói một cách đơn giản, nó là phiên bản pha loãng. Tuy nhiên, nó vẫn tác động lên toàn bộ thể chất, tinh thần và ma lực, cho phép người dùng chiến đấu hết công suất trong một thời gian ngắn ngay cả khi cơ thể đã kiệt quệ và đầy thương tích. Đây là át chủ bài được chuẩn bị sẵn cho thời khắc sinh tử quyết định để mở ra cơ hội lật ngược thế cờ. Nào, hãy nốc cạn thứ này và hóa thân thành cuồng chiến binh ngay đi!
+『Cuồng Hóa A』: Đây cũng là một loại thuốc tăng lực được bào chế từ 『Thử nghiệm dược X』. Khác với phiên bản 『X』 dành riêng cho Mei-chan với khả năng phá vỡ giới hạn siêu việt, phiên bản 『A』 đã được giảm bớt dược tính để đảm bảo an toàn cho người sử dụng thông thường. Nói một cách đơn giản, nó là phiên bản pha loãng. Tuy nhiên, nó vẫn tác động lên toàn bộ thể chất, tinh thần và ma lực, cho phép người dùng chiến đấu hết công suất trong một thời gian ngắn ngay cả khi cơ thể đã kiệt quệ và đầy thương tích. Đây là át chủ bài được chuẩn bị sẵn cho thời khắc sinh tử quyết định để mở ra cơ hội lật ngược thế cờ. Nào, hãy nốc cạn thứ này và hóa thân thành cuồng chiến binh ngay đi!
 
 “...Tao chơi.”
 
@@ -230,9 +230,9 @@ Thế nhưng, đó chính là niềm kiêu hãnh của cậu ta. *Nhìn xem Yama
 
 *Đã bảo là không có thời gian rồi mà, đừng có ngắt lời tớ chứ Ueta.*
 
-“Lực lượng hộ tống của Oh-ma rất đông, lại có thêm nhiều GoGame Mastera nữa. Dù có đột kích thì chúng ta cũng không thể chạm tới lão... Nhưng chắc chắn Zagan sẽ hành động.”
+“Lực lượng hộ tống của Oh-ma rất đông, lại có thêm nhiều Gira-Gogma nữa. Dù có đột kích thì chúng ta cũng không thể chạm tới lão... Nhưng chắc chắn Zagan sẽ hành động.”
 
-Chúng tôi đang bị dồn vào đường cùng, nhưng Phía bên kia cũng chẳng khá khẩm hơn là bao. Bằng chứng là việc đích thân nhà vua phải ra tận tiền tuyến tham chiến.
+Chúng tôi đang bị dồn vào đường cùng, nhưng phía bên kia cũng chẳng khá khẩm hơn là bao. Bằng chứng là việc đích thân nhà vua phải ra tận tiền tuyến tham chiến.
 
 Chính vì thế, Zagan đang đề phòng ở mức độ cao nhất. Nếu chúng tôi liều chết xông lên, gã chắc chắn sẽ lo sợ cho sự an nguy của nhà vua. Với tư cách là chiến sĩ mạnh nhất vương quốc và lòng trung thành tuyệt đối dành cho Oh-ma, gã sẽ không bao giờ bỏ mặc nhà vua trong tình thế hiểm nghèo. Dù có phải hy sinh tính mạng, gã cũng sẽ lao ra ứng cứu.
 
@@ -282,7 +282,7 @@ Tôi ôm viên Lõi cuối cùng trước ngực và giải trừ phân thân. B
 
 Tôi tiêu hao ma lực cấu thành nên 『Song Ảnh』 cùng viên Lõi để triệu hồi Hắc Kị Sĩ Rem thế chỗ.
 
-*Chà, đúng là cái gì cũng nên nhặt nhạnh lại mà.* Tôi trang bị cho Rem thanh đại kiếm và đại rìu ma pháp tịch thu được từ tên lính gác cổng GoGame Mastera, vốn được cất giữ trên xe số 1.
+*Chà, đúng là cái gì cũng nên nhặt nhạnh lại mà.* Tôi trang bị cho Rem thanh đại kiếm và đại rìu ma pháp tịch thu được từ tên lính gác cổng Gira-Gogma, vốn được cất giữ trên xe số 1.
 
 Mọi khâu chuẩn bị đã hoàn tất. Kyouko vẫn chưa tỉnh lại, Nakajima vẫn bất tỉnh nhân sự. Cả Hayama cũng đang ngủ say sưa trên tường thành.
 

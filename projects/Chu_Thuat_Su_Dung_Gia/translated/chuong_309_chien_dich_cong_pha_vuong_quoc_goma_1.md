@@ -16,11 +16,11 @@ Tôi hỏi khẽ, cả ba đồng loạt gật đầu. Trên tay họ đang ôm 
 
 “Ờ, lúc nào cũng chiến được.”
 
-Yamada trả lời tôi khi tôi đã yên vị trên chiếc xe kéo Loyrops số 2. Cậu ta cũng ôm một chiếc cọc sắt tương tự, nhưng kích thước của nó khổng lồ gấp ba lần của ba người kia. Trông nó chẳng khác nào ngọn thương đột kích của các kị sĩ thời trung cổ. Thực tế, chỉ cần Yamada ôm thứ này rồi thúc Loyrops húc thẳng vào thì sức công phá cũng đủ kinh hồn rồi, có điều chúng tôi không định dùng cách đó để phá tường.
+Yamada trả lời khi tôi đã yên vị trên chiếc xe kéo Loyrops số 2. Cậu ta cũng ôm một chiếc cọc sắt tương tự, nhưng kích thước của nó khổng lồ gấp ba lần của ba người kia. Trông nó chẳng khác nào ngọn thương đột kích của các kị sĩ thời trung cổ. Thực tế, chỉ cần Yamada ôm thứ này rồi thúc Loyrops húc thẳng vào thì sức công phá cũng đủ kinh hồn rồi, có điều chúng tôi không định dùng cách đó để phá tường.
 
 Bức tường thành này không chỉ cao mà còn cực kỳ dày. Ngay cả khi dùng bom lõi, tôi cũng không dám chắc có thể phá hủy nó một cách suôn sẻ hay không.
 
-Chưa kể, chiều cao của nó vượt quá mười mét so với mặt đất, lại còn kết hợp với một hào sâu bên dưới, khiến tổng độ cao chênh lệch lên tới gần ba mươi mét. Ngay cả theo tiêu chuẩn của Trái Đất, đây cũng là một công trình phòng ngự kiên cố thuộc hàng top đầu.
+Chưa kể, chiều cao của nó vượt quá mười mét so với mặt đất, lại còn kết hợp với một con hào sâu bên dưới, khiến tổng độ cao chênh lệch lên tới gần ba mươi mét. Ngay cả theo tiêu chuẩn của Trái Đất, đây cũng là một công trình phòng ngự kiên cố thuộc hàng top đầu.
 
 Vậy thì, đối với bức tường thành vốn là kết tinh nỗ lực phòng thủ của Vương quốc Goma kia, phương án vượt qua mà tôi lựa chọn lại vô cùng đơn giản: “Cứ thế mà leo qua thôi”.
 
@@ -182,7 +182,7 @@ Nhưng như các bạn đã thấy, số lượng triệu hồi của chúng đ�
 
 Và nhờ sự thăng cấp lần này, một loại triệu hoán thú mới đã được mở khóa.
 
-`『Tank』` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài GoGame Mastera. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
+`『Tank』` (Xác Sống Hộ Vệ): Một ma vật có thân hình hộ pháp, vạm vỡ giống như một võ sĩ sumo, gợi liên tưởng đến loài Gogma. Khuôn mặt của nó khá giống High Zombie với những chiếc răng nanh sắc nhọn, nhưng cơ thể lại được bao bọc bởi lớp da màu xám xù xì và cứng cáp. Có thể coi đây là phiên bản tiến hóa vượt trội của High Zombie, sở hữu sức mạnh vật lý và độ trâu bò đáng kinh ngạc đúng như vẻ ngoài của nó. Và đúng như dự đoán, tốc độ di chuyển của nó khá chậm. Tuy nhiên, nó vẫn có thể chạy với tốc độ tương đương một người bình thường nên không phải là vấn đề lớn. Số lượng triệu hồi tối đa là 3 con.
 
 Đây là toàn bộ lực lượng triệu hoán thú mạnh nhất mà tôi có thể tung ra ở thời điểm hiện tại. Gồm 26 Skeleton, 14 High Zombie và 3 Tank, tổng cộng là 43 thực thể. Tính ra thì quân số cũng đã khá ra dáng một đội quân rồi.
 
@@ -202,7 +202,7 @@ Những chiếc thùng không có kẽ hở bị ngâm dưới sông bùn hơn m
 
 Rem trong hình dạng Minotaur—thủ lĩnh của đội nghi binh—cất tiếng rống vang trời.
 
-`『Minotaur』` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-GoGame Mastera Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
+`『Minotaur』` (Nhân Ngưu): Hình dạng ít khi được sử dụng do sự xuất hiện của Hắc Kị Sĩ. Tuy nhiên, sau khi tái cấu trúc cơ thể bằng các nguyên liệu ma vật bổ sung, tôi đã nâng cấp thành công thể hình và sức mạnh cơ bắp cho nó. Vũ khí mà con Minotaur này sử dụng là cây đại côn bổng từng thuộc sở hữu của Gira-Gogma Bon. Nó sở hữu sức mạnh đủ để vung vẩy thứ vũ khí siêu trọng đó một cách nhẹ nhàng. Tôi muốn nó tận dụng thân hình khổng lồ và sức mạnh đó để làm loạn một trận thật hoành tráng, thu hút toàn bộ sự chú ý của kẻ địch về phía đội nghi binh.
 
 `『Binh lính Gove』`: Những xác sống Gove được tôi tạo ra với số lượng tối đa mà Rem có thể kiểm soát. Tổng cộng là 20 con. Vì tôi để chúng hoạt động ở chế độ tự trị chứ không điều khiển trực tiếp nên cử động của chúng cũng chỉ tương đương với Skeleton hay High Zombie, nhưng đối với đội nghi binh thì càng đông càng tốt. Để che giấu thân phận, tôi cũng cho chúng đội những chiếc khăn trùm đầu thô sơ.
 
@@ -218,11 +218,11 @@ Tôi kích hoạt nhãn thuật ảo ảnh 『Hư Ảnh Tương Chiếu』, ph�
 
 Thực chất, lượng ma lực tiêu hao để duy trì chú thuật này vô cùng thấp. Dù số lượng có lên tới 64 thực thể thì tôi vẫn có thể dễ dàng bao phủ lên tất cả bọn họ. Chính xác thì tôi loại trừ Tank và Minotaur ra, nên con số là 61 thực thể.
 
-Đối với lũ Goma, mối đe dọa lớn nhất mà chúng cảnh giác là con người. Do đó, nếu một đội quân xác sống xuất hiện, mức độ ưu tiên đối phó của chúng sẽ giảm xuống. Ít nhất thì chúng sẽ không rảnh rỗi đến mức điều động cả Gira-GoGame Mastera ra trận.
+Đối với lũ Goma, mối đe dọa lớn nhất mà chúng cảnh giác là con người. Do đó, nếu một đội quân xác sống xuất hiện, mức độ ưu tiên đối phó của chúng sẽ giảm xuống. Ít nhất thì chúng sẽ không rảnh rỗi đến mức điều động cả Gira-Gogma ra trận.
 
-Nhưng nếu trước mắt chúng là một đội quân loài người gồm gần sáu mươi chiến binh, chúng chắc chắn sẽ lầm tưởng đây là lực lượng chủ lực của chúng tôi. Dù có nghi ngờ đi chăng nữa, chúng cũng tuyệt đối không thể ngó lơ. Bởi lẽ, chúng đã mất tới hai Gira-GoGame Mastera vào tay con người rồi còn gì?
+Nhưng nếu trước mắt chúng là một đội quân loài người gồm gần sáu mươi chiến binh, chúng chắc chắn sẽ lầm tưởng đây là lực lượng chủ lực của chúng tôi. Dù có nghi ngờ đi chăng nữa, chúng cũng tuyệt đối không thể ngó lơ. Bởi lẽ, chúng đã mất tới hai Gira-Gogma vào tay con người rồi còn gì?
 
-Để chắc chắn tiêu diệt được chúng tôi, chúng không còn cách nào khác ngoài việc điều động một đại quân có sự dẫn đầu của Gira-GoGame Mastera.
+Để chắc chắn tiêu diệt được chúng tôi, chúng không còn cách nào khác ngoài việc điều động một đại quân có sự dẫn đầu của Gira-Gogma.
 
 “Này Momokawa, bên này dọn dẹp xong rồi nhé.”
 

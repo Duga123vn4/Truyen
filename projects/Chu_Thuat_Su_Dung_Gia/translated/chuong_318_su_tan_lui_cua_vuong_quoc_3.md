@@ -276,7 +276,7 @@ Trước sự xuất hiện uy nghiêm của Vua Goma Oh-ma, Zagan dù vẫn gi�
 
 Từ trên cao nhìn xuống toàn bộ cảnh tượng đó, Oh-ma hướng thẳng đôi mắt đục ngầu về phía tôi và cất giọng khàn đặc.
 
-“Ngươi... chính là... kẻ nguyền rủa.”
+“Ngươi... chính là... Đứa con của Lời Nguyền.”
 
 “...Lão biết nói tiếng người sao.”
 
@@ -286,11 +286,11 @@ Không, không phải. Cảm giác này giống hệt như khoảnh khắc trư�
 
 “À, đúng thế đấy... Chính ta đã giật sập cái vương quốc Goma bẩn thỉu này của các ngươi đấy.”
 
-“Kẻ nguyền rủa... tà ác... đáng ghê tởm!”
+“Đứa con của Lời Nguyền... tà ác... đáng ghê tởm!”
 
 “Hê, ta không ngờ lũ Goma các ngươi cũng có khái niệm về cái ác đấy. Một lũ quái vật ăn thịt người còn thua cả gián bọ mà lại tự xưng là thần thánh, đúng là nực cười!”
 
-“Loài người... là giống loài tà ác. Nhưng kẻ nguyền rủa... chính ngươi... mới là kẻ đáng nguyền rủa... tà ác tột cùng.”
+“Loài người... là giống loài tà ác. Nhưng Đứa con của Lời Nguyền... chính ngươi... mới là kẻ đáng nguyền rủa... tà ác tột cùng.”
 
 “Phải rồi, ta là 『Chú thuật sư』 mà, nguyền rủa chẳng phải là nghề của ta sao.”
 
@@ -302,9 +302,9 @@ Không, không phải. Cảm giác này giống hệt như khoảnh khắc trư�
 
 Ôi trời, đáng sợ thật đấy. Áp lực khủng khiếp đến nghẹt thở. Tình cảnh này không đơn thuần là ếch bị rắn lườm nữa rồi, mà là sự chênh lệch chiến lực đến mức tuyệt vọng.
 
-“Zagan, kẻ nguyền rủa... hãy xé xác hắn! Dâng hiến thủ cấp hắn cho ta!”
+“Zagan, Đứa con của Lời Nguyền... hãy xé xác hắn! Dâng hiến thủ cấp hắn cho ta!”
 
-“Rõ, bệ hạ Oh-ma! Kẻ nguyền rủa... ta sẽ bẻ gãy cổ ngươi!!!”
+“Rõ, bệ hạ Oh-ma! Đứa con của Lời Nguyền... ta sẽ bẻ gãy cổ ngươi!!!”
 
 Quả thực là đã bị dồn đến bước đường cùng.
 

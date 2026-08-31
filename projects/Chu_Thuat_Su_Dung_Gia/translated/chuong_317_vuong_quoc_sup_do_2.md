@@ -138,7 +138,7 @@ Thay vì để chúng tôi tự do tấn công từ những chỗ tường thàn
 
 “Vâng, anh hai.”
 
-Sakura sẽ là lá chắn cuối cùng bảo vệ hai người không có khả năng chiến đấu là Takanashi và bạn Futaba. Lẽ ra Lớp trưởng cũng nên ở lại bọc lót phía sau, nhưng với quân số ít ỏi hiện tại, cậu ấy sẽ phải đứng ở vị trí trung phong để tập trung chiến đấu.
+Sakura sẽ là lá chắn cuối cùng bảo vệ hai người không có khả năng chiến đấu là Takanashi-san và Futaba-san. Lẽ ra Lớp trưởng cũng nên ở lại bọc lót phía sau, nhưng với quân số ít ỏi hiện tại, cậu ấy sẽ phải đứng ở vị trí trung phong để tập trung chiến đấu.
 
 Hàng tiền vệ chỉ có ba người là tôi, Asuna và Natsukawa. Nói thật, chỉ cần để sổng một con lọt qua thôi cũng sẽ rất nguy hiểm, nhưng chúng tôi không còn cách nào khác ngoài việc cố gắng hết sức.
 
@@ -148,13 +148,13 @@ Trang bị đã được chuẩn bị ở trạng thái tốt nhất có thể. 
 
 “Á, áaaa?!”
 
-Ngay khi tôi vừa tiến lên một bước định lao vào đội quân Goma đang áp sát, tiếng hét của Takanashi bất ngờ vang lên từ phía sau.
+Ngay khi tôi vừa tiến lên một bước định lao vào đội quân Goma đang áp sát, tiếng hét của Takanashi-san bất ngờ vang lên từ phía sau.
 
 “Gì thế, có chuyện gì vậy?!”
 
 “L-Làm sao bây giờ... Nguy to rồi!”
 
-Tôi quay lại thì thấy Takanashi đang mếu máo, cuống cuồng cả lên. Có vẻ như không phải là tình huống kẻ địch bất ngờ xuất hiện từ phía sau, nhưng...
+Tôi quay lại thì thấy Takanashi-san đang mếu máo, cuống cuồng cả lên. Có vẻ như không phải là tình huống kẻ địch bất ngờ xuất hiện từ phía sau, nhưng...
 
 “Anh hai, hỏng rồi.”
 
@@ -164,19 +164,19 @@ Sakura, người dường như cũng đã nhận ra tình hình, cất tiếng v
 
 Nhìn lướt qua thì không có gì bất thường. Cũng không thấy bóng dáng kẻ địch. Đúng vậy, không có kẻ địch, nhưng... lại thiếu mất một người.
 
-“Bạn Futaba đâu rồi?”
+“Futaba-san đâu rồi?”
 
 “Chuyện đó... hoàn toàn không thấy chị ấy đâu cả.”
 
 “Thế là sao?!”
 
-Dáng người cao ráo nổi bật của bạn Futaba hoàn toàn biến mất không một dấu vết.
+Dáng người cao ráo nổi bật của Futaba-san hoàn toàn biến mất không một dấu vết.
 
-Bình tĩnh lại nào, khi tôi phá hủy cánh cổng, cậu ấy chắc chắn vẫn còn đi cùng. Lúc rời khỏi pháo đài ẩn, lần này chúng tôi đã bắt cậu ấy mang theo vũ khí và vác cả nhu yếu phẩm. Một người mang theo cây kích lớn và khiên, lại còn thồ thêm một đống hành lý cồng kềnh như bạn Futaba thì không thể nào dễ dàng mất dấu chỉ vì khoảng cách hơi xa được.
+Bình tĩnh lại nào, khi tôi phá hủy cánh cổng, cậu ấy chắc chắn vẫn còn đi cùng. Lúc rời khỏi pháo đài ẩn, lần này chúng tôi đã bắt cậu ấy mang theo vũ khí và vác cả nhu yếu phẩm. Một người mang theo cây kích lớn và khiên, lại còn thồ thêm một đống hành lý cồng kềnh như Futaba-san thì không thể nào dễ dàng mất dấu chỉ vì khoảng cách hơi xa được.
 
 Kể từ sau vụ mưu sát bằng độc của Momokawa, tinh thần của cậu ấy luôn trong trạng thái nửa tỉnh nửa mê, nhưng cậu ấy chưa bao giờ tự ý bỏ đi một mình rồi biến mất. Cậu ấy vẫn luôn lẳng lặng đi theo mọi người và sinh hoạt hoàn toàn bình thường kia mà.
 
-Chính vì thế chăng? Cả tôi, Sakura, và cả Takanashi ở phía sau đều đinh ninh rằng bạn Futaba vẫn đang lẳng lặng đi theo như mọi khi.
+Chính vì thế chăng? Cả tôi, Sakura, và cả Takanashi-san ở phía sau đều đinh ninh rằng Futaba-san vẫn đang lẳng lặng đi theo như mọi khi.
 
 “Ơ kìa, vừa chớp mắt đã không thấy đâu rồi... Lạc ở đâu mất rồi, Kotori hoàn toàn không biết luôn á!”
 
@@ -188,13 +188,13 @@ Tiếng gọi sắc lẹm của Asuna kéo tôi quay trở lại thực tại.
 
 Đội quân Gove dẫn theo vài con Gogma đã tiến đến khoảng cách có thể nhìn rõ bằng mắt thường. Tình thế này không cho phép chúng tôi có thời gian để đi tìm người nữa.
 
-“Không còn cách nào khác, trước mắt hãy giải quyết kẻ địch trước mặt đã. Về phần bạn Futaba... sau khi chiếm được vương cung rồi đi tìm sẽ an toàn hơn.”
+“Không còn cách nào khác, trước mắt hãy giải quyết kẻ địch trước mặt đã. Về phần Futaba-san... sau khi chiếm được vương cung rồi đi tìm sẽ an toàn hơn.”
 
 “...Khốn kiếp, chỉ còn cách đó thôi sao.”
 
-Trong tình cảnh này, không đời nào bạn Futaba lại chạy lên trước chúng tôi để lao vào pháo đài. Xét việc toàn bộ lũ Goma còn lại đều đang cố thủ ở đây, thì phía ngoài kia lại là nơi an toàn. Hy vọng cậu ấy đã quay trở lại pháo đài ẩn... Khốn thật, bây giờ phải tập trung vào trận chiến trước mắt đã.
+Trong tình cảnh này, không đời nào Futaba-san lại chạy lên trước chúng tôi để lao vào pháo đài. Xét việc toàn bộ lũ Goma còn lại đều đang cố thủ ở đây, thì phía ngoài kia lại là nơi an toàn. Hy vọng cậu ấy đã quay trở lại pháo đài ẩn... Khốn thật, bây giờ phải tập trung vào trận chiến trước mắt đã.
 
-*Làm ơn, hãy bình an vô sự nhé bạn Futaba...*
+*Làm ơn, hãy bình an vô sự nhé, Futaba-san...*
 
 ***
 
@@ -224,7 +224,7 @@ Chỉ cần biến đổi cánh cổng này một chút là chúng tôi sẽ có
 
 “Chênh lệch chút xíu đó thôi mà.”
 
-“Tớ nghĩ chỉ gắn thêm cái tay cầm mà mất hơn 30 giây là quá lâu đấy.”
+“Tôi nghĩ chỉ gắn thêm cái tay cầm mà mất hơn 30 giây là quá lâu đấy.”
 
 Cái gọi là "biến đổi một chút" thực chất chỉ là tạo ra một cái tay cầm để có thể cầm tấm khiên mà thôi. Đó là một công đoạn gia công đơn giản, chỉ cần kéo phần kim loại của cánh cổng ra là xong.
 
@@ -322,7 +322,7 @@ Nấp sau tấm khiên lớn của Tank, Ueta và Yoshizaki dồn hết sức b�
 
 Thứ vũ khí này tất nhiên chính là 『Tokkan Kouji-kun Mẫu 1』.
 
-“— 『Đại Sơn Thành Lũy』!”
+“— 『Địa Thành Lũy』!”
 
 Dưới ma pháp phòng ngự cấp cao của Kyouko, mặt đất bắt đầu rung chuyển dữ dội và nhô cao lên.
 

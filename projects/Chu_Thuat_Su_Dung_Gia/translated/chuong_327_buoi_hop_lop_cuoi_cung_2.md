@@ -6,29 +6,29 @@
 
 “Ơ kìa, cậu nghĩ là hết rồi à?”
 
-*Này Souma, tớ thực sự muốn cậu sớm sửa cái tính suy nghĩ nông cạn đó đi đấy. Mà thôi, với một quý ngài đẹp trai toàn diện như cậu thì chắc trước giờ cứ đụng đâu đánh đó cũng trăm trận trăm thắng rồi nhỉ.*
+*Này Souma, tớ thực sự muốn cậu sớm sửa cái thói suy nghĩ nông cạn đó đi đấy. Mà thôi, với một quý ngài hoàn hảo toàn diện như cậu thì chắc trước giờ cứ đụng đâu đánh đó cũng trăm trận trăm thắng rồi nhỉ.*
 
 “Này, Souma-kun. Sắp tới chúng ta sẽ lại cùng tập thể lớp 2-7 đồng lòng chinh phục hầm ngục cuối cùng mang tên Tháp Trung Tâm. Đến đây thì cậu hiểu rồi đúng không?”
 
-“Ừm, dĩ nhiên. Tớ không muốn mất thêm bất kỳ ai nữa, và cũng không thể để chuyện đó xảy ra.”
+“Ừm, dĩ nhiên. Tớ không muốn mất thêm bất kỳ ai nữa, và cũng tuyệt đối không thể để chuyện đó xảy ra.”
 
 “Ừm ừm, quyết tâm tốt đấy.”
 
 *Lúc nào cũng vậy, được mỗi cái quyết tâm là giỏi.*
 
-*Nhưng tớ không hoàn toàn mỉa mai đâu nhé. Ngay cả khi rơi vào tình cảnh bất lợi thế này mà cậu vẫn có thể khẳng định chắc nịch rằng sẽ chiến đấu đến cùng để không ai phải chết, cậu đúng là một 『Dũng Giả』 thực thụ. Bình thường nếu cứ gặp phải toàn chuyện hãm hại liên tiếp thế này, người ta đã buông xuôi tất cả và tự hủy hoại bản thân rồi.*
+*Nhưng tớ không hoàn toàn mỉa mai đâu nhé. Ngay cả khi rơi vào tình cảnh bất lợi thế này mà cậu vẫn có thể khẳng định chắc nịch rằng sẽ chiến đấu đến cùng để không ai phải chết, cậu đúng là một 『Dũng Giả』 thực thụ. Bình thường nếu cứ liên tiếp gặp phải toàn những chuyện hãm hại thế này, người ta đã buông xuôi tất cả và tự hủy hoại bản thân từ lâu rồi.*
 
-“Thế nên, tớ nghĩ là dù chúng ta có vào được bên trong thì cũng không có chuyện đi thẳng một mạch tới đích đến là Thiên Tống Môn đâu.”
+“Thế nên, tớ nghĩ là dù chúng ta có vào được bên trong thì cũng chẳng có chuyện đi thẳng một mạch tới đích đến là Thiên Tống Môn đâu.”
 
-“Nghe nói Thiên Tống Môn nằm ở tầng dưới cùng của tòa tháp. Chắc chắn trên đường tới đó sẽ có những con Boss hùng mạnh cản lối.”
+“Nghe nói Thiên Tống Môn nằm ở tầng sâu nhất của tòa tháp. Chắc chắn trên đường tới đó sẽ có những con Boss hùng mạnh cản lối.”
 
-*Mà đâu chỉ có một con Boss cuối siêu mạnh. Thậm chí có khả năng hầm ngục này được thiết kế theo kiểu tàn bạo như nội dung cuối game, mỗi tầng lại có một con ma vật Boss cực mạnh trấn giữ. Chưa kể còn có cái truyền thống Boss Rush nữa.*
+*Mà đâu chỉ có duy nhất một con Boss cuối siêu mạnh. Thậm chí có khả năng hầm ngục này được thiết kế theo kiểu tàn bạo như nội dung cuối game, mỗi tầng lại có một con ma vật Boss cực mạnh trấn giữ. Chưa kể còn có cả cái truyền thống Boss Rush nữa.*
 
 “Vậy là chúng ta đã có chung nhận thức rằng chuyến đi này sẽ cực kỳ gian nan rồi.”
 
 “Đã đi đến nước này rồi, làm gì có ai nghĩ chặng cuối sẽ dễ dàng chứ.”
 
-*Ngoại trừ Takanashi ra. Nhưng đó mới là điểm mấu chốt.*
+*Ngoại trừ Takanashi ra. Nhưng đó mới chính là điểm mấu chốt.*
 
 “Một nơi như thế, cậu định để mọi người cùng xông vào chinh phục giống như từ trước đến nay sao?”
 
@@ -40,7 +40,7 @@
 
 “Nghe này, Takanashi chính là kẻ chủ mưu. Cô ta là tay sai do mụ nữ thần khốn kiếp đứng sau trò sinh tồn hầm ngục quái quỷ này phái tới. Là một Game Master có nhiệm vụ kiểm soát mọi thứ theo đúng kịch bản của thần linh.”
 
-*Thế mà Takanashi lúc này vẫn chỉ thút thít khóc lóc chứ chẳng có động thái gì đặc biệt. Nói cách khác, ả ta nghĩ rằng cứ để mọi chuyện diễn ra thế này, rồi cả lũ cùng vào Tháp Trung Tâm thì cũng chẳng sao. Lý do có lẽ là vì nơi đó nằm trong phạm vi ý chí của ả. Dù là điều khiển các con Boss chờ sẵn trong tháp, hay kích hoạt cạm bẫy để quét sạch chúng tôi một cách êm đẹp, ả vẫn còn thừa tính toán để ra tay ——— thế nhưng, Souma hoàn toàn không hề suy đoán đến mức đó.*
+*Thế mà Takanashi lúc này vẫn chỉ thút thít khóc lóc chứ chẳng có động thái gì đặc biệt. Nói cách khác, ả ta nghĩ rằng cứ để mọi chuyện diễn ra thế này, rồi cả lũ cùng vào Tháp Trung Tâm thì cũng chẳng sao. Lý do có lẽ là vì nơi đó hoàn toàn nằm trong tầm kiểm soát của ả. Dù là điều khiển các con Boss chờ sẵn trong tháp, hay kích hoạt cạm bẫy để quét sạch chúng tôi một cách êm đẹp, ả vẫn còn thừa tính toán để ra tay ——— thế nhưng, Souma hoàn toàn không hề suy đoán đến mức đó.*
 
 “Điều quan trọng không phải là cậu có công nhận đây là sự thật hay không. Mà là cậu phải hành động dựa trên giả định rằng nó có thể là sự thật.”
 
@@ -50,27 +50,27 @@
 
 “Đúng là như vậy... Nhưng...”
 
-“Nhưng cái gì? Đây là họp lớp mà, có gì muốn nói thì cậu phải nói ra chứ.”
+“Nhưng cái gì? Đây là họp lớp mà, có gì muốn nói thì cậu cứ việc nói thẳng ra đi chứ.”
 
 “……Không, thôi bỏ đi. Một khi không thể xóa bỏ sự nghi ngờ của mọi người, thì phải quyết định hành động dựa trên tiền đề thừa nhận điều đó. Ý cậu là vậy đúng không, Momokawa?”
 
 “Souma-kun, trả lời chính xác. Chà, cậu hiểu ra vấn đề làm tớ vui lắm đấy.”
 
-*Vui thật chứ không đùa. Vì cậu ta đã tự mình nhận ra và chấp nhận nó. Nhờ vậy mà đống lý lẽ tớ chuẩn bị sẵn để dồn cậu ta vào góc tường đã trở nên thừa thãi rồi.*
+*Vui thật chứ không đùa. Vì cậu ta đã tự mình nhận ra và chấp nhận nó. Nhờ vậy mà đống lý lẽ tớ chuẩn bị sẵn để dồn cậu ta vào chân tường đã trở nên thừa thãi rồi.*
 
-“Đúng thế, vậy nên chúng ta phải lên kế hoạch chinh phục sắp tới dựa trên tiền đề rằng Takanashi là kẻ chủ mưu và ả định loại bỏ tất cả mọi người trong hầm ngục này ngoại trừ Souma-kun. Sakura-chan cũng đồng ý chứ?”
+“Đúng thế, vậy nên chúng ta phải lên kế hoạch chinh phục sắp tới dựa trên tiền đề rằng Takanashi là kẻ chủ mưu, và ả định loại bỏ tất cả mọi người trong hầm ngục này ngoại trừ Souma-kun. Sakura-chan cũng đồng ý chứ?”
 
-“Đã ngậm máu phun người rồi còn nói giọng đó... Cái thứ lý sự cùn đó, tôi không bao giờ chấp nhận!”
+“Đã ngậm máu phun người rồi còn nói cái giọng đó... Thứ lý sự cùn đó, tôi không bao giờ chấp nhận!”
 
 “Anh trai ơi, nhờ cậu thuyết phục em ấy hộ cái.”
 
 “Sakura, bỏ cuộc đi. Trong hoàn cảnh này, em không thể cãi thắng Momokawa đâu.”
 
-“S-sao lại thế, anh... sao anh lại nói như vậy...”
+“S-Sao lại thế, anh... sao anh lại nói như vậy chứ...”
 
 “Đúng đấy, nói thế phũ phàng quá! Cậu phải thuyết phục em ấy đàng hoàng hơn chứ! Đó là nhiệm vụ của cậu mà!”
 
-*Nào, đừng có trưng ra cái bộ mặt ngán ngẩm đó chứ. Quả nhiên ngay cả Souma cũng thấy việc dạy bảo cô em gái này là một công việc cực nhọc, cứng đầu và dễ phát điên đúng không.*
+*Nào, đừng có trưng ra cái bộ mặt ngán ngẩm đó chứ. Quả nhiên ngay cả Souma cũng thấy việc dạy bảo cô em gái cứng đầu này là một công việc cực nhọc và dễ phát điên đúng không.*
 
 “Nghe này, Sakura. Anh đã quyết định chấp nhận lời của Momokawa. Anh buộc phải chấp nhận vì đây là kết quả từ những hành động của chính anh. Không thể làm được gì, không cứu được ai, đó là trách nhiệm của bản thân anh ——— Vì vậy Sakura, nếu chỉ có mình em không thể chấp nhận lời của Momokawa, thì hãy tự mình phản bác đi.”
 
@@ -80,7 +80,7 @@
 
 “A, a... Anh ơi, sao lại... E-Em...”
 
-*Souma đã dùng tông giọng lạnh lùng, đẩy cô em gái ra xa hơn bao giờ hết. Hiệu quả cực kỳ mỹ mãn. Khóe mắt Sakura đã lấp lánh những giọt lệ.*
+*Souma đã dùng tông giọng lạnh lùng, đẩy cô em gái ra xa hơn bao giờ hết. Hiệu quả cực kỳ mỹ mãn. Khóe mắt Sakura đã bắt đầu lấp lánh những giọt lệ.*
 
 “Em chỉ... vì muốn tốt cho anh... muốn làm điều đúng đắn thôi mà... ư, ư u u...”
 
@@ -94,7 +94,7 @@
 
 “Có lẽ là vậy.”
 
-*Không hề nổi giận trước lời của tớ, Souma chỉ lặng lẽ nhìn Sakura đang khóc nức nở với đôi mắt đượm buồn và u uất. Bình thường, nếu thấy em gái khóc, cậu ta chắc chắn sẽ gạt bỏ mọi thứ để lao đến dỗ dành, nhưng vì chính lời nói của mình đã làm em ấy khóc, cậu ta thậm chí không buồn ôm lấy bờ vai đang run rẩy kia.*
+*Không hề nổi giận trước lời của tớ, Souma chỉ lặng lẽ nhìn Sakura đang khóc nức nở với đôi mắt đượm buồn và u uất. Bình thường, nếu thấy em gái khóc, cậu ta chắc chắn sẽ gạt bỏ mọi thứ để lao đến dỗ dành, nhưng vì chính lời nói của mình đã làm em ấy tổn thương, cậu ta thậm chí không buồn ôm lấy bờ vai đang run rẩy kia.*
 
 “Sakura không còn ở trạng thái có thể bình tĩnh nói chuyện được nữa. Đừng bận tâm đến em ấy, cứ tiếp tục đi.”
 
@@ -124,7 +124,7 @@
 
 “C-Cái gì cơ?!”
 
-*Souma cứng họng. Cũng phải, mức độ này thì đâu còn là đối xử như tội phạm nữa, mà là đối xử với trọng tội phạm đến mức thà đem đi hành quyết luôn cho nhanh. Nhưng tớ đã bảo rồi, nhận thức của cậu ta quá ngây thơ.*
+*Souma cứng họng. Cũng phải, mức độ này thì đâu còn là đối xử như tội phạm nữa, mà là đối xử với trọng tội phạm đến mức thà đem đi hành quyết luôn cho nhanh. Nhưng tớ đã bảo rồi, nhận thức của cậu ta quá đỗi ngây thơ.*
 
 *Những gì tớ vừa nói chẳng qua chỉ là những phương pháp giam giữ cơ bản nhất nảy ra trong đầu thôi. Dù có thực hiện tất cả những điều đó thì vẫn còn lâu mới gọi là an toàn tuyệt đối. Ngay từ đầu, một kẻ phản bội sở hữu sức mạnh đặc biệt và âm mưu sát hại cả lớp mà vẫn được giữ lại mạng sống thì đã là một ân huệ lớn rồi. Cô ta nên thấy biết ơn vì mình chưa chết mới phải.*
 
