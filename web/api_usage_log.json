@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-09-01 03:35:14",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 6.59,
+    "input_tokens": 875,
+    "output_tokens": 276,
+    "cache_tokens": 0,
+    "cost": 0.0002
+  },
+  {
     "timestamp": "2026-09-01 03:03:17",
     "model": "gemini-3.7-flash",
     "chapter_title": "",

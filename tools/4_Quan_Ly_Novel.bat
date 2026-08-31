@@ -2117,7 +2117,7 @@ def extract_lore_evidence_dual_engine(novel: NovelContext, query: str) -> Dict[s
     # TẦNG 0: CHROMA VECTOR EMBEDDING SEARCH (NGỮ NGHĨA TOÀN DIỆN 100% OFFLINE)
     try:
         from vector_lore_search import search_lore_hybrid
-        vector_results = search_lore_hybrid(novel.dir, query, top_k=6)
+        vector_results = search_lore_hybrid(novel.folder, query, top_k=10)
         if vector_results:
             result["translated_evidence"].extend(vector_results)
     except Exception as e:
