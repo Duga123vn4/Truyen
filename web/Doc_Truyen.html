@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Light Novel Web Reader & Audio TTS</title>
     <script src="chapters.js"></script>
+    <meta name="theme-color" content="#1e1b4b">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Novel Reader">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="images/icon-192.png">
+    <link rel="apple-touch-icon" href="images/icon-192.png">
     <style>
         :root {
             --bg-color: #161618;
@@ -1855,6 +1862,7 @@
     <button id="miniPlayerToggleBtn" onclick="togglePlayerBarVisibility()" title="Hiện thanh phát Audio (Phím H)">🎧</button>
 
         <audio id="streamAudio" style="display:none;"></audio>
+    <audio id="bgSilentKeeper" loop preload="auto" style="display:none;" src="data:audio/wav;base64,UklGRigAAABXQVZFZm10IBIAAAABAAEARKwAAIhYAQACABAAAABkYXRhAgAAAAEA"></audio>
     <audio id="bgmAudio" loop style="display:none;"></audio>
 
     <!-- Modal Nhạc Nền Thư Giãn (BGM) -->
@@ -1967,6 +1975,34 @@
         let currentVoiceName = localStorage.getItem('tts_voice') || 'Chị Google';
         let rate = parseFloat(localStorage.getItem('tts_rate')) || 1.0;
         let audioPlayer = document.getElementById('streamAudio');
+
+        // Đăng ký Service Worker cho Progressive Web App (PWA)
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(reg => console.log('[PWA] Service Worker hoạt động:', reg.scope))
+                    .catch(err => console.warn('[PWA] Lỗi đăng ký Service Worker:', err));
+            });
+        }
+
+        let bgSilentKeeper = null;
+        function ensureBackgroundAudioActive() {
+            if (!bgSilentKeeper) {
+                bgSilentKeeper = document.getElementById('bgSilentKeeper');
+            }
+            if (bgSilentKeeper && bgSilentKeeper.paused) {
+                bgSilentKeeper.play().catch(e => console.warn('bgSilentKeeper play error:', e));
+            }
+        }
+        function pauseBackgroundAudioKeeper() {
+            if (!bgSilentKeeper) {
+                bgSilentKeeper = document.getElementById('bgSilentKeeper');
+            }
+            if (bgSilentKeeper && !bgSilentKeeper.paused) {
+                bgSilentKeeper.pause();
+            }
+        }
+
 
         let chapterList = [];
         let currentChapterIdx = 0;
@@ -4126,7 +4162,7 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
             if ('mediaSession' in navigator) {
                 let title = "Light Novel Audio Reader";
                 let artist = "Đang phát giọng đọc AI";
-                let chapterImg = "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=512&q=80";
+                let chapterImg = "images/icon-512.png";
 
                 if (currentTab === 'library' && chapterList[currentChapterIdx]) {
                     title = chapterList[currentChapterIdx].title;
@@ -4141,19 +4177,22 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
                     navigator.mediaSession.metadata = new MediaMetadata({
                         title: title,
                         artist: artist,
-                        album: "Light Novel Studio",
+                        album: "Light Novel Studio PWA",
                         artwork: [
-                            { src: chapterImg, sizes: '512x512', type: 'image/jpeg' }
+                            { src: chapterImg, sizes: '512x512', type: 'image/png' },
+                            { src: 'images/icon-192.png', sizes: '192x192', type: 'image/png' }
                         ]
                     });
 
                     navigator.mediaSession.playbackState = (isSpeaking && !isPaused) ? "playing" : "paused";
 
                     navigator.mediaSession.setActionHandler('play', () => {
+                        ensureBackgroundAudioActive();
                         if (isSpeaking && isPaused) toggleSpeech();
                         else startSpeech();
                     });
                     navigator.mediaSession.setActionHandler('pause', () => toggleSpeech());
+                    navigator.mediaSession.setActionHandler('stop', () => stopSpeech());
                     navigator.mediaSession.setActionHandler('previoustrack', () => {
                         if (currentParaIdx > 0) jumpToSentence(currentParaIdx - 1);
                         else prevChapter();
@@ -4340,10 +4379,12 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
         }
 
         function toggleSpeech() {
+            ensureBackgroundAudioActive();
             if (isSpeaking && !isPaused) {
                 try { synth.pause(); } catch (e) {}
                 if (audioPlayer) audioPlayer.pause();
                 pauseBgm();
+            pauseBackgroundAudioKeeper();
                 disableMobileAudioWakeLock();
                 isPaused = true;
                 clearTtsWatchdog();
@@ -4374,6 +4415,7 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
         }
 
         function startSpeech() {
+            ensureBackgroundAudioActive();
             stopSpeech();
             requestWakeLock();
             let activeContainer = (currentTab === 'paste') ? 'pasteStoryContent' : 'storyContent';
@@ -4393,9 +4435,12 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
         function processParagraph(paraIdx) {
             if (paraIdx >= paragraphs.length || !isSpeaking) {
                 let wasSpeaking = isSpeaking;
-                stopSpeech();
                 if (wasSpeaking && currentTab === 'library' && currentChapterIdx < chapterList.length - 1) {
+                    // Chuyển tiếp mượt mà sang chương tiếp theo trong nền mà không kill audio session
+                    paragraphs.forEach(p => p.classList.remove('speaking'));
                     nextChapter(true);
+                } else {
+                    stopSpeech();
                 }
                 return;
             }
@@ -4626,6 +4671,7 @@ ${characters ? `### 👥 DANH BẠ NHÂN VẬT & XƯNG HÔ CHUẨN:\n${character
                 audioPlayer.src = "";
             }
             pauseBgm();
+            pauseBackgroundAudioKeeper();
             isSpeaking = false;
             isPaused = false;
             if (paragraphs) paragraphs.forEach(p => p.classList.remove('speaking'));
