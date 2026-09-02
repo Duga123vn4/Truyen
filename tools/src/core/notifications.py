@@ -20,14 +20,6 @@ from tools.src.core.paths import TOOLS_DIR
 
 console = Console()
 
-# Tích hợp Discord Notifier nếu có
-try:
-    sys.path.insert(0, str(TOOLS_DIR))
-    from discord_notifier import notify_workflow_finish, notify_unclassified_entities
-    HAS_DISCORD_NOTIFIER = True
-except Exception:
-    HAS_DISCORD_NOTIFIER = False
-
 def play_success_sound():
     """Phát âm thanh thông báo hoàn tất thành công trên Windows."""
     def _beep():
@@ -103,10 +95,3 @@ def notify_completion(
     console.print()
     console.print(table)
     console.print()
-
-    # Gửi Discord Webhook
-    if HAS_DISCORD_NOTIFIER:
-        try:
-            notify_workflow_finish(novel_name, action_name, total_processed, elapsed_time, report_path)
-        except Exception:
-            pass

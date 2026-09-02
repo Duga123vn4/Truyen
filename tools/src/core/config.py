@@ -10,7 +10,7 @@ from typing import Dict, Any, List
 from rich.console import Console
 from rich.prompt import Prompt, Confirm
 
-from tools.src.core.paths import CONFIG_FILE, LEGACY_CONFIG_FILE
+from tools.src.core.paths import CONFIG_FILE
 
 console = Console()
 
@@ -29,13 +29,11 @@ DEFAULT_CONFIG = {
 }
 
 def load_config() -> Dict[str, Any]:
-    """Tải cấu hình từ ai_config.json hoặc config.json cũ."""
+    """Tải cấu hình từ ai_config.json."""
     cfg = DEFAULT_CONFIG.copy()
-    fpath = CONFIG_FILE if CONFIG_FILE.exists() else (LEGACY_CONFIG_FILE if LEGACY_CONFIG_FILE.exists() else None)
-    
-    if fpath and fpath.exists():
+    if CONFIG_FILE.exists():
         try:
-            with open(fpath, "r", encoding="utf-8") as f:
+            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
                 user_cfg = json.load(f)
                 # Cập nhật đệ quy nhẹ
                 for k, v in user_cfg.items():

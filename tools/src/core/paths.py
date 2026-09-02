@@ -18,7 +18,6 @@ WEB_DIR = WORKSPACE_DIR / "web"
 
 # File cấu hình AI
 CONFIG_FILE = TOOLS_DIR / "ai_config.json"
-LEGACY_CONFIG_FILE = TOOLS_DIR / "config.json"
 
 # Quy tắc phong cách toàn cục
 MASTER_STYLE_GUIDE_FILE = TOOLS_DIR / "MASTER_STYLE_GUIDE.md"
