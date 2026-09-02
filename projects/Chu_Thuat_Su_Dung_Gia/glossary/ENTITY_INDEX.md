@@ -24,6 +24,7 @@
 * `[SKILL-017]` **『Bách Thủ Phược』** (Hundred Hands Binding - Momokawa Kotarou)
 * `[SKILL-018]` **『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』** (Vua Oh-ma)
 * `[SKILL-019]` **『Khổng Lồ Hóa』** (Gigantification - Đại Chiến Sĩ Goma)
+* `[SKILL-020]` **『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』** (Twin Trick)
 
 ---
 
@@ -47,6 +48,8 @@
 * `[ITEM-017]` **『Bát Táp Ngưu Ma Đao & Berserk X』**
 * `[ITEM-018]` **『Viêm Kiếm Salamandra』**
 * `[ITEM-019]` **『Bom Vương Quốc Sụp Đổ』**
+* `[ITEM-020]` **『Mô Hình Ngụy Trang Dũng Giả』**
+* `[ITEM-021]` **『Thánh Vật Cổ Đại Albion』**
 
 ---
 
@@ -68,3 +71,11 @@
 * `[MONSTER-015]` **Gargoyle**
 * `[MONSTER-016]` **Goma & Gira-Goma (Đại Chiến Sĩ)**
 * `[MONSTER-017]` **Loyrops (Ma Thú Bọc Thép)**
+
+---
+
+### 4. 📜 THUẬT NGỮ & ĐỊA DANH (WORLD TERMS)
+* `[TERM-001]` **Tam Đầu Lâu Chú Thuật**
+* `[TERM-002]` **Cổ Đại Đô Thị Albion**
+* `[TERM-003]` **Thiên Tống Môn (Teleport Gate)**
+* `[TERM-004]` **Khu Rừng Tinh Linh (Fairy Forest)**

@@ -294,6 +294,20 @@
 - **nguồn:** Toàn Arc Goma
 - **mô_tả:** Năng lực đặc trưng của chủng tộc Đại Chiến Sĩ (Gira-Goma), biến đổi cơ thể thành cự nhân cao 5 - 10 mét với sức mạnh tàn phá khủng khiếp.
 
+## [SKILL-020] 『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』
+
+- **id:** SKILL-020
+- **loại:** KỸ NĂNG / CHIẾN THUẬT TÂM LÝ
+- **tên_chuẩn:** 『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』
+- **tên_gốc:** 双子のトリック / Twin Trick
+- **người_thực_hiện:** Momokawa Kotarou + Souma Sakura + Tendou Ryuuichi
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 341, 342, 343
+- **mô_tả:** Kế sách phối hợp giữa mô hình bùn ngụy trang và giọng nói thật của Sakura để đánh lừa trực giác siêu phàm của Dũng Giả Souma Yuuto nhằm bắt sống cậu ta.
+
 
 ### 2. 🛡️ VẬT PHẨM, TRANG BỊ & DƯỢC PHẨM (ITEMS & WEAPONS)
 
@@ -589,6 +603,35 @@
 - **nguồn:** Tập 311, 316
 - **mô_tả:** Bom lõi ma lực cực lớn được Kotarou bí mật đặt dưới các cột trụ nâng đỡ, kích nổ đánh sập toàn bộ thành trì Vương quốc Goma.
 
+## [ITEM-020] 『Mô Hình Ngụy Trang Dũng Giả』 (Yuuto Decoy)
+
+- **id:** ITEM-020
+- **loại:** VẬT PHẨM / ĐẠO CỤ CHIẾN THUẬT
+- **tên_chuẩn:** 『Mô Hình Ngụy Trang Dũng Giả』 (Yuuto Decoy)
+- **người_chế_tạo:** Momokawa Kotarou (Thao Khôi Lỗi) + Sakura (Thanh âm gia trì)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 341 - 343
+- **mô_tả:** Con rối ngụy trang đặc biệt được Kotarou tạo ra để mô phỏng hoàn hảo khí tức và hình dáng của mục tiêu.
+
+---
+
+## [ITEM-021] 『Thánh Vật Cổ Đại Albion』 (Albion Holy Relic)
+
+- **id:** ITEM-021
+- **loại:** VẬT PHẨM / DI VẬT CỔ ĐẠI
+- **tên_chuẩn:** 『Thánh Vật Cổ Đại Albion』 (Albion Holy Relic)
+- **tên_gốc:** アルビオンの遺物 / Albion Relic
+- **vị_trí:** Tầng sâu nhất của Tháp Trung Tâm
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 344, 347
+- **mô_tả:** Cổ vật ma pháp tối cao của nền văn minh cổ Albion, nắm giữ chìa khóa kích hoạt Thiên Tống Môn.
+
 
 ### 3. 🐺 SINH VẬT, QUÁI VẬT & MA THÚ (MONSTERS & BEASTS)
 
@@ -865,3 +908,48 @@
 - **mô_tả:** Hệ thống chú thuật hắc ám thờ phụng 3 đầu lâu thần thánh (Hinagiku, Ruinhilde, Nerine).
 
 ---
+
+## [TERM-002] Cổ Đại Đô Thị Albion (Albion Ancient City)
+
+- **id:** TERM-002
+- **loại:** THUẬT NGỮ THẾ GIỚI / ĐỊA DANH
+- **tên_chuẩn:** Cổ Đại Đô Thị Albion
+- **tên_gốc:** 古代都市アルビオン / Albion
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 330 - 350
+- **mô_tả:** Tàn tích đô thị công nghệ ma pháp cổ đại nằm bên dưới Mê Cung Tháp, nơi chứa các cơ sở chỉ huy quân sự và Thiên Tống Môn.
+
+---
+
+## [TERM-003] Thiên Tống Môn (Teleport Gate)
+
+- **id:** TERM-003
+- **loại:** THUẬT NGỮ THẾ GIỚI / THIẾT BỊ KHÔNG GIAN
+- **tên_chuẩn:** Thiên Tống Môn
+- **tên_gốc:** 転送門 / Teleport Gate
+- **vị_trí:** Phòng Thị trưởng Albion, tầng sâu nhất Tháp Trung Tâm
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 335, 347
+- **mô_tả:** Cổng không gian cổ đại cho phép di chuyển tức thời giữa các phân khu mê cung, từng bị Takanashi Kotori chiếm giữ quyền kiểm soát.
+
+---
+
+## [TERM-004] Khu Rừng Tinh Linh (Fairy Forest)
+
+- **id:** TERM-004
+- **loại:** THUẬT NGỮ THẾ GIỚI / ĐỊA DANH MÊ CUNG
+- **tên_chuẩn:** Khu Rừng Tinh Linh
+- **tên_gốc:** 精霊の森 / Fairy Forest
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 354 - 357
+- **mô_tả:** Tầng mê cung sinh thái rậm rạp nơi trú ngụ của các tinh linh thiên nhiên và ma thực vật biến dị nguy hiểm.
+
