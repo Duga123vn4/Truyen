@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-03 02:02:54",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "Tập 407",
+    "chapter_ep": 407,
+    "elapsed_sec": 47.29,
+    "input_tokens": 230567,
+    "output_tokens": 7184,
+    "cache_tokens": 225243,
+    "cost": 0.01296
+  },
+  {
+    "timestamp": "2026-09-03 02:02:07",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "Tập 407",
+    "chapter_ep": 407,
+    "elapsed_sec": 29.75,
+    "input_tokens": 230567,
+    "output_tokens": 5211,
+    "cache_tokens": 0,
+    "cost": 0.03771
+  },
+  {
     "timestamp": "2026-09-03 01:56:52",
     "model": "gemini-3.7-flash",
     "chapter_title": "Tập 406",

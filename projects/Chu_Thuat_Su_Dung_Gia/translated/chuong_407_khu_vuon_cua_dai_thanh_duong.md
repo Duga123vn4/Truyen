@@ -2,294 +2,274 @@
 
 “Tạm thời, Rem cứ tiếp tục đập cô nàng Thánh Nữ đó đi.”
 
-Vừa bước qua cánh cửa và lao nhanh lên những bậc thang dẫn lên phía trên, tôi vừa ra lệnh cho Rem khổng lồ—người mà tôi đã để lại phía sau tại quảng trường Thiên Tống Môn.
+Vừa sải bước qua cánh cửa và lao nhanh lên những bậc thang xoắn ốc dẫn lên phía trên, tôi vừa truyền lệnh cho Rem dạng khổng lồ—người tôi đã để lại chặn hậu tại quảng trường 『Thiên Tống Môn』.
 
-So với việc đi tiêu diệt lũ kị sĩ thánh đường tuần tra xung quanh, thì việc giữ chân cô nàng ‘Thánh Nữ’ trông như công chúa kia—người ít nhất cũng có thực lực ngang ngửa với chúng tôi—sẽ hiệu quả hơn nhiều.
+So với việc tản lực đi tiêu diệt lũ kị sĩ thánh đường tuần tra xung quanh, việc ghìm chân cô nàng 『Thánh Nữ』 mang phong thái vương giả kia—kẻ sở hữu thực lực ít nhất cũng ngang ngửa chúng tôi—sẽ mang lại hiệu quả vượt trội hơn nhiều.
 
-Hơn nữa, trong phòng điều khiển vẫn còn lũ già yếu cần chăm sóc đang nằm lăn lóc ở đó. Lũ kị sĩ thánh đường chắc chắn không thể làm ngơ khi bộ chỉ huy, nơi tập trung các nhân vật cấp cao, đang bị tấn công.
+Chưa kể, trong phòng điều khiển vẫn còn cả một đám già nua tàn tật đang nằm la liệt. Bọn kị sĩ thánh đường chắc chắn không thể làm ngơ khi bộ chỉ huy tối cao bị tấn công trực diện.
 
-Hy vọng việc này sẽ tạo ra chút sơ hở trong cuộc truy đuổi của chúng. Nếu có thể phóng hỏa một cách hoành tráng như hồi đột nhập vào vương quốc Goma thì tốt biết mấy.
+Hy vọng nước đi này sẽ khoét sâu thêm sơ hở trong mạng lưới truy kích của chúng. Nếu có thể phóng hỏa thiêu rụi một trận hoành tráng như hồi đột kích Vương quốc Goma thì cục diện đã dễ thở hơn biết bao.
 
-“Lên hết chỗ này là chúng ta sẽ ra được mặt đất chứ cậu?”
+“Lên hết cầu thang này là chúng ta sẽ ra tới mặt đất chứ cậu?”
 
-“Chắc vậy, vì chỗ này khả năng cao là dưới lòng đất mà.”
+“Chắc vậy, vì nơi này nhiều khả năng được xây sâu dưới lòng đất.”
 
-Nếu cấu trúc ở đây hoàn toàn giống với Albion, thì khoảng cách để leo lên bằng chính đôi chân của mình là có giới hạn. Tháp Trung Tâm cao tới tận một cây số cơ mà.
+Nếu cấu trúc ở đây tương đồng với Albion, quãng đường leo bộ bằng chính đôi chân trần của con người là có hạn. 『Tháp Trung Tâm』 cao tới tận một cây số cơ mà.
 
-Nhưng trước mắt chỉ có mỗi cầu thang đi lên, chúng tôi không còn lựa chọn nào khác ngoài việc tiếp tục bước đi.
+Nhưng trước mắt chỉ độc một lối thang bộ đi lên, chúng tôi không còn lựa chọn nào khác ngoài việc cắn răng dấn bước.
 
-Không biết có điểm dịch chuyển nào tiện lợi không nhỉ... Không, nếu bất cẩn bước vào vòng dịch chuyển, rất có thể sẽ bị Shitou can thiệp rồi tống khứ ngược trở lại. Dù có thấy thì cũng không thể tùy tiện dùng vòng dịch chuyển ở nơi này được.
+Không biết quanh đây có điểm dịch chuyển nào tiện lợi không... Không, nếu bất cẩn bước vào ma pháp trận dịch chuyển, rất có thể sẽ bị Shitou can thiệp quyền quản trị rồi tống khứ ngược trở lại. Dù có thấy tận mắt, tôi cũng tuyệt đối không dám tùy tiện sử dụng 『Cổng Dịch Chuyển』 ở nơi này.
 
-“Nếu lối ra nằm ở trên đỉnh tòa nhà thì sao cậu?”
+“Lỡ như lối ra lại nằm tít trên đỉnh tháp thì sao cậu?”
 
-“Nếu ra được chỗ cao thì càng tốt, chúng ta sẽ có tầm nhìn bao quát xung quanh. Hơn nữa, trong trường hợp khẩn cấp, tớ chỉ cần để Mei-chan bế rồi nhảy xuống là được.”
+“Nếu ra được điểm cao thì càng tốt, chúng ta sẽ có tầm nhìn bao quát toàn cảnh. Hơn nữa, trong trường hợp khẩn cấp, tớ chỉ cần để Mei-chan bế rồi nhảy thẳng xuống là xong.”
 
-“Ừm, đúng vậy nhỉ.”
+“Ừm, đúng là vậy thật nhỉ.”
 
-Nhìn nụ cười rạng rỡ của cô ấy, tâm hồn tôi như được chữa lành.
+Nhìn nụ cười rạng rỡ của cô ấy, tâm hồn căng như dây đàn của tôi phần nào được xoa dịu.
 
-Kẻ địch đã bày sẵn cạm bẫy, rình rập thời khắc chúng tôi bước qua Thiên Tống Môn. Nhìn bề ngoài, có vẻ như chúng tôi đang áp đảo và dễ dàng thoát ra, nhưng đối với tôi, việc phải khơi mào một trận chiến ngay giữa lòng sào huyệt của địch là hạ sách của hạ sách, trong lòng không tài nào yên ổn nổi.
+Kẻ địch đã giăng sẵn thiên la địa võng, chực chờ ngay khoảnh khắc chúng tôi bước qua 『Thiên Tống Môn』. Nhìn bề ngoài, có vẻ như chúng tôi đang chiếm thế thượng phong và phá vây dễ dàng, nhưng đối với tôi, việc phải nổ súng khai chiến ngay giữa sào huyệt đầu não của địch là hạ sách của mọi hạ sách, trong lòng chẳng tài nào an ổn nổi.
 
-Thực ra, tôi muốn giả vờ ngoan ngoãn chịu sự bảo hộ để dò la tình hình quân địch, sau đó tiến hành khủng bố phá hoại trung ương vương quốc rồi mới rút lui. Thế nhưng, rõ ràng là Shitou muốn xử lý chúng tôi ngay tại chỗ này.
+Vốn dĩ, tôi dự tính sẽ giả vờ ngoan ngoãn chấp nhận sự bảo hộ để thám thính tình báo quân sự, sau đó tiến hành khủng bố phá hoại cơ quan trung ương của vương quốc rồi mới rút lui êm đẹp. Thế nhưng, dã tâm của Shitou là muốn trừ khử chúng tôi ngay tại trận.
 
-Liệu chúng sẽ giết chết để bịt đầu mối, hay giam cầm, tra tấn và tẩy não chúng tôi? Một khi đã chắc chắn rằng bản thân sẽ chết hoặc rơi vào tình trạng sống không bằng chết, tôi không còn cách nào khác ngoài việc dùng đến bạo lực để lật ngược thế cờ.
+Liệu chúng sẽ giết người diệt khẩu, hay giam cầm, tra tấn dã man rồi tẩy não biến chúng tôi thành công cụ? Một khi đã nắm chắc rằng bản thân sẽ bỏ mạng hoặc rơi vào cảnh sống không bằng chết, tôi chẳng còn cách nào khác ngoài việc vung đao dùng bạo lực để lật ngược bàn cờ.
 
-Nếu chỉ có một mình, tôi đã tuyệt vọng rồi, nhưng có Mei ở bên là quá đủ để tôi nuôi hy vọng rằng mọi chuyện rồi sẽ ổn thôi.
+Nếu chỉ đơn độc một mình, có lẽ tôi đã gục ngã trong tuyệt vọng. Nhưng chỉ cần có Mei kề vai sát cánh, tôi lại có thêm niềm tin mãnh liệt rằng mọi chuyện rồi sẽ ổn thỏa.
 
-“Kotarou-kun, có một cánh cửa kìa. Để tớ ra trước nhé.”
+“Kotarou-kun, có một cánh cửa kìa. Để tớ mở đường trước nhé.”
 
-“Chỉ cần quan sát lướt qua thôi đấy.”
+“Chỉ cần quan sát lướt qua tình hình thôi đấy.”
 
-Nhờ chạy hết tốc lực lên cầu thang, chúng tôi đã lên đến tầng trên nhanh hơn dự kiến.
+Nhờ guồng chân hết tốc lực, chúng tôi đã vươn lên tầng trên nhanh hơn dự tính.
 
-Từ đây vẫn còn cầu thang dẫn lên cao hơn, nhưng cũng có một cánh cửa dẫn ra tầng này.
+Từ vị trí này vẫn còn cầu thang dẫn tiếp lên cao, nhưng ngay bên cạnh đã xuất hiện một cánh cửa lớn ăn thông ra sảnh tầng.
 
-Tôi vừa tò mò phía trên có gì, vừa muốn biết cấu trúc đằng sau cánh cửa kia ra sao. Nếu bầu không khí vẫn rõ ràng là một tầng hầm, tôi sẽ không ngần ngại lao thẳng lên đỉnh tháp. Nhưng nếu đã là mặt đất, thì việc thoát ra ngoài ngay lập tức là lựa chọn tốt nhất.
+Tôi vừa tò mò phía trên đỉnh tháp có gì, vừa muốn biết cấu trúc đằng sau cánh cửa kia ra sao. Nếu bầu không khí bên ngoài vẫn nồng nặc mùi hầm ngục, tôi sẽ không ngần ngại phi thẳng lên đỉnh tháp. Nhưng nếu đã thông ra mặt đất, việc tẩu thoát ra ngoài không gian mở ngay lập tức mới là thượng sách.
 
-“—Oa, là bên ngoài kìa.”
+“—Oa, là bên ngoài kìa cậu!”
 
-Tôi hoàn toàn đồng ý với cảm thán ngây ngô của Mei.
+Tôi hoàn toàn đồng tình với tiếng cảm thán ngây ngô đầy kinh ngạc của Mei.
 
-Phía sau cánh cửa, tuy vẫn còn những lối đi lát đá và các cột trụ khổng lồ, nhưng mở ra trước mắt chúng tôi là một khu vườn xanh mướt tuyệt đẹp dưới bầu trời lộng gió.
+Phía sau cánh cửa, dẫu vẫn còn những hành lang lát đá cùng các thức cột khổng lồ sừng sững, nhưng mở toang ra trước mắt chúng tôi là một khu vườn địa đàng xanh mướt tuyệt mỹ trải dài dưới vòm trời lộng gió.
 
-Bầu không khí buổi sáng trong lành thoang thoảng, mặt trời tỏa sáng rực rỡ trên cao. Làn gió mát dịu nhẹ mơn trớn làn da, mang theo hương thơm thoang thoảng của cỏ cây hoa lá.
+Bầu không khí ban mai trong lành mơn man da thịt, vầng thái dương rải ánh nắng vàng rực rỡ từ trên cao. Những cơn gió thoảng nhẹ nhàng lướt qua, mang theo hương thơm ngát dịu dàng của hoa cỏ thảo mộc.
 
-“Đây thực sự là bên ngoài sao? Cậu nghĩ thế nào?”
+“Đây thực sự là bên ngoài sao? Cậu cảm nhận thế nào?”
 
-“Ừm, tớ nghĩ đây không phải bên trong dungeon đâu. Chắc chắn là thế giới bên ngoài thực sự đấy.”
+“Ừm, tớ tin chắc đây không phải bên trong dungeon đâu. Nhất định là thế giới bên ngoài thực sự đấy.”
 
-Tôi không có nhãn lực hay trực giác để nhìn thấu một hình ảnh hologram giả lập ngoại cảnh tinh vi ngay lập tức. Nhưng một khi Mei đã nói vậy, thì nơi này chắc chắn là thế giới thực chứ không phải không gian giả lập trong dungeon.
+Tôi không có nhãn lực hay trực giác siêu phàm để nhìn thấu một ảo ảnh hologram giả lập môi trường tinh vi ngay tức khắc. Nhưng một khi Mei đã khẳng định như vậy, nơi này chắc chắn là thế giới thực chứ tuyệt đối không phải không gian ảo ảnh trong mê cung.
 
-Theo quan sát sơ bộ, trong khu vườn được cắt tỉa gọn gàng bởi bàn tay con người này, không hề có bóng dáng của lực lượng kị sĩ thánh đường. Mei cũng không cảm nhận được bất kỳ dấu hiệu mai phục nào.
+Theo quan sát bao quát, khu vườn được cắt tỉa vô cùng công phu này hoàn toàn vắng bóng lực lượng kị sĩ thánh đường. Mei cũng không cảm nhận được bất kỳ dấu vết mai phục hay sát khí ẩn giấu nào.
 
-Phải chăng toàn bộ lực lượng dùng để tiêu diệt chúng tôi đều đã được tập trung ở chỗ lúc nãy rồi?
+Phải chăng toàn bộ quân số tinh nhuệ phục kích đã bị dồn hết xuống sảnh 『Thiên Tống Môn』 lúc nãy?
 
-Dù sao đi nữa, việc không có quân đội của kẻ thù ập đến ngay trước mắt lúc này đã là một điều may mắn.
+Dù lý do là gì, việc không có quân đoàn thiết giáp của kẻ thù ập đến chặn đầu ngay lúc này đã là một ân huệ quá lớn.
 
-“Được rồi, chúng ta ra khỏi đây thôi.”
+“Được rồi, chúng ta rời khỏi đây thôi.”
 
-“Ừm.”
+“Ừm!”
 
-Dù thế nào đi nữa, một khi đã lên được mặt đất, cơ hội trốn thoát sẽ rộng mở hơn nhiều. Nếu không, chúng tôi sẽ chỉ như cá chậu chim lồng nếu tòa nhà bị phong tỏa hoàn toàn.
+Bằng mọi giá, một khi đã đặt chân lên mặt đất, không gian tẩu thoát sẽ thênh thang hơn gấp bội. Bằng không, chúng tôi sẽ chỉ như cá nằm trên thớt nếu toàn bộ tòa tháp bị phong tỏa giới nghiêm.
 
-Dù rất muốn lao ngay vào khu vườn rộng lớn kia, nhưng trước đó, tôi một lần nữa vung 『Cây Gậy Của Kẻ Ngốc』 và 『Vô Đạo Nhất Thức』 lên.
+Dẫu rất muốn lập tức lao mình vào khu vườn rộng lớn kia, nhưng trước hết, tôi một lần nữa vung cao 『Cây Gậy Của Kẻ Ngốc』 và gậy 『Vô Đạo Nhất Thức』.
 
-Từ trận pháp tựa như đầm lầy hỗn mang, tôi triệu hồi ra lũ skeleton và high zombie mà mình vừa sử dụng lúc nãy, đồng thời thả thêm cả lũ Rem chim để trinh sát.
+Từ pháp trận đen ngòm tựa đầm lầy hỗn mang dưới chân, tôi triệu hồi hàng loạt 『Skeleton』 và 『High Zombie』 vừa sử dụng lúc nãy, đồng thời thả thêm bầy Rem dạng quạ đen bay vút lên không trung để trinh sát tầm cao.
 
-Tôi phát cho mỗi con skeleton ba quả lựu đạn mà tôi đã chế tạo hàng loạt từ trước. Chỉ cần ném chúng vào những vị trí thích hợp, chắc chắn sẽ gây ra một vài vụ hỗn loạn nho nhỏ.
+Tôi trang bị cho mỗi con 『Skeleton』 ba quả lựu đạn nổ ma lực đã được gia công hàng loạt. Chỉ cần ném bừa vào các cứ điểm trọng yếu, chúng thừa sức châm ngòi cho những vụ bạo loạn kinh hoàng.
 
-Còn lũ high zombie có tốc độ chạy cực nhanh và lũ tank có khả năng đấu tay đôi với GoGame Mastera thì dù không có trang bị, chỉ số của chúng vẫn đủ sức đối phó với kị sĩ thông thường. Chưa dừng lại ở đó, tôi còn lắp đặt thêm các trang bị cường hóa được chế tác từ nguyên liệu ma vật tích hợp sẵn trong 『Vô Đạo Nhất Thức』.
+Riêng lũ 『High Zombie』 sở hữu tốc độ bứt phá kinh hồn cùng phân đội 『Tank』 có khả năng cận chiến tay đôi với cả 『Đại Chiến Sĩ Goma』, dẫu không mang vũ khí, các chỉ số cơ bản của chúng vẫn dư sức đè bẹp kị sĩ thông thường. Chưa dừng lại ở đó, tôi tiếp tục kích hoạt và gắn thêm các khí tài sinh học được chế tác từ nguyên liệu ma thú tươi sống tích hợp sẵn bên trong gậy 『Vô Đạo Nhất Thức』.
 
-`『Cơ Quan Tăng Ma Lực』`: Tên gọi chung của các trang bị cường hóa dành cho triệu hoán thú tận dụng nguyên liệu ma vật, hoạt động nhờ vào khả năng sai khiến của 『Vô Đạo Nhất Thức』 giúp duy trì trạng thái “sống” ngay cả với những khối thịt dị dạng. Khi tách khỏi cây gậy, chúng sẽ nhanh chóng mất đi sinh mệnh lực, nhưng nếu bám vào vật chủ và hấp thụ ma lực, chúng có thể tiếp tục tồn tại. Về cơ bản, con người vẫn có thể sử dụng chúng, nhưng vì chúng được làm từ nguyên liệu ma vật tươi sống nên cảm giác khi trang bị sẽ gây ra sự ghê tởm về mặt sinh lý, thế nên tôi không khuyến khích dùng.
+`『Cơ Quan Tăng Ma Lực』`: Danh xưng tổng thể của các trang bị cường hóa sinh học dành riêng cho triệu hoán thú, vận hành dựa trên năng lực điều khiển của 『Vô Đạo Nhất Thức』 nhằm duy trì trạng thái tế bào sống cho những khối thịt dị dạng. Khi tách rời khỏi thân gậy, chúng sẽ nhanh chóng cạn kiệt sinh lực, nhưng nếu ký sinh bám chặt vào vật chủ và hút ma lực duy trì, chúng có thể hoạt động vĩnh viễn. Về mặt lý thuyết, con người hoàn toàn có thể gắn chúng lên người, nhưng do được chế tác trực tiếp từ mô thịt ma thú tươi sống nên cảm giác ghê tởm về mặt sinh lý là cực kỳ nặng nề, vì vậy tôi tuyệt đối không khuyến khích.
 
-`『Móng Vuốt Đao』`: Một dạng của Cơ Quan Tăng Ma Lực. Trang bị đơn giản cho phép mọc ra những chiếc vuốt dài và sắc nhọn ở tay chân. Về cơ bản, nó được sử dụng như một lưỡi đao dài hoặc dao găm. Có thể chế tạo các trang bị cấp cao hơn bằng cách sử dụng nguyên liệu từ rồng như Salamander, hoặc các nguyên liệu có độc tố tự nhiên ở móng vuốt.
+`『Móng Vuốt Đao』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Trang bị cơ bản giúp mọc ra những lưỡi vuốt dài sắc bén như dao cạo ở tứ chi, đóng vai trò như đao ngắn hoặc dao găm cận chiến. Có thể gia tăng uy lực bằng cách sử dụng nguyên liệu từ loài rồng như Salamander hoặc các chi tiết chứa nọc độc tự nhiên.
 
-`『Thương Sừng』`: Một dạng của Cơ Quan Tăng Ma Lực. Cây thương có phần mũi là một chiếc sừng dài nhọn hoắt, với phần cán làm từ xương kéo dài. Do đặc tính của Cơ Quan Tăng Ma Lực là phải kết nối với phần thịt sống, trang bị này sẽ dung hợp trực tiếp với cánh tay của người sử dụng.
+`『Thương Sừng』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Ngọn thương sinh học với phần mũi thương là chiếc sừng nhọn hoắt kéo dài từ cấu trúc xương cốt. Do bản chất của trang bị là phải liên kết trực tiếp với tế bào sống, ngọn thương này sẽ dung hợp thẳng vào cánh tay của triệu hoán thú.
 
-`『Thiết Bị Phun』`: Một dạng của Cơ Quan Tăng Ma Lực. Thiết bị phun lửa hoặc độc tố. Cấu trúc của nó được sao chép hoàn toàn từ cơ quan phun hơi thở (breath) từ miệng của ma vật. Đối với thiết bị phun lửa, nó kết nối từ túi lửa tạo ra nhiên liệu lỏng dễ cháy, qua thực quản đóng vai trò là ống dẫn nhiên liệu, đến khoang miệng đóng vai trò là bộ phận đánh lửa và vòi phun. Chuỗi cơ quan này được hợp nhất thành một ống duy nhất bọc trong lớp thịt sống như một con rắn. Khi kết nối với người sử dụng, ngay cả một con skeleton cũng có thể phun lửa một cách hoành tráng.
+`『Thiết Bị Phun』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Vũ khí phun lửa hoặc độc tố tầm xa, mô phỏng hoàn hảo cơ quan phát động hơi thở nguyên tố từ khoang miệng ma thú. Đối với hệ Hỏa, thiết bị kết nối từ túi chứa nhiên liệu lỏng dễ cháy, chạy dọc qua thực quản đóng vai trò ống dẫn áp suất, đến khoang miệng đóng vai trò bộ đánh lửa và đầu phun. Toàn bộ hệ thống được bọc kín trong lớp mô thịt sống tựa như một con rắn quấn quanh cánh tay. Khi kết nối ma lực, ngay cả một bộ xương 『Skeleton』 khô khốc cũng có thể phun ra những cột lửa hủy diệt ngập trời.
 
-`『Giáp Cơ Bắp』`: Một dạng của Cơ Quan Tăng Ma Lực. Bộ giáp bằng cơ bắp, có thể coi là phiên bản giản lược của Thi Hài Giáp. Bằng cách quấn các sợi cơ mạnh mẽ quanh cơ thể, nó giúp nâng cao sức mạnh thể chất thuần túy. Nhờ đó, ngay cả những con skeleton yếu ớt cũng có được sức mạnh đủ để đấm chết người, lũ high zombie sẽ trở nên mạnh mẽ hơn, còn lũ tank sẽ biến thành những gã khổng lồ cơ bắp lực lưỡng như các võ sĩ sumo. Thiết bị này cũng có thể sử dụng riêng lẻ cho từng bộ phận như `『Cánh Tay Cơ Bắp』` hay `『Chân Cơ Bắp』`.
+`『Giáp Cơ Bắp』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Lớp giáp sinh học cấu tạo từ các bó cơ nén chặt, có thể xem là phiên bản rút gọn của 『Thi Hài Giáp』. Bằng cách bọc các thớ cơ cường hóa quanh khung xương, nó giúp khuếch đại sức mạnh vật lý thuần túy lên mức phi thường. Nhờ vậy, ngay cả những con 『Skeleton』 mỏng manh cũng có thể tung ra những cú đấm vỡ sọ, lũ 『High Zombie』 trở nên dẻo dai hơn, còn lũ 『Tank』 sẽ hóa thân thành những cự nhân cơ bắp cuồn cuộn như võ sĩ sumo. Thiết bị này cũng có thể lắp đặt riêng lẻ theo từng bộ phận như `『Cánh Tay Cơ Bắp』` hay `『Chân Cơ Bắp』`.
 
-`『Vỏ Giáp Cứng』`: Một dạng của Cơ Quan Tăng Ma Lực. Lớp giáp bảo vệ bằng vỏ cứng dày cộp, đồng thời cũng đóng vai trò như một tấm khiên. Nếu kết hợp với `『Giáp Cơ Bắp』`, triệu hoán thú sẽ lập tức biến thành một kị sĩ bọc giáp đầy uy mãnh.
+`『Vỏ Giáp Cứng』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Lớp giáp bảo vệ làm từ giáp xác dày đặc của ma trùng, đồng thời kiêm luôn vai trò của một tấm khiên chống đạn. Khi kết hợp cùng `『Giáp Cơ Bắp』`, triệu hoán thú sẽ lập tức biến thành một trọng kị sĩ bọc thép bất khả xâm phạm.
 
-`『Nhân Tự Sát』`: Một dạng của Cơ Quan Tăng Ma Lực. Nói đơn giản thì đây chính là bom lõi. Dù chỉ là những mảnh ma thạch vụn không đáng một xu, thậm chí không đủ để thi triển một phép thuật sơ cấp, nhưng tích tiểu thì thành đại. Nếu cho 『Vô Đạo Nhất Thức』 hấp thụ thật nhiều ma thạch nhỏ hoặc các mảnh vỡ vô dụng, chúng sẽ được tổng hợp lại bên trong Dạ Dày Không Đáy. Khi biến nó thành một quả bom lõi và cấy vào bên trong cơ thể triệu hoán thú, chúng sẽ có khả năng tự sát. Những binh sĩ tự sát dạng high zombie lao đi với tốc độ của một vận động viên điền kinh là thứ mà bất kỳ kẻ khủng bố nào cũng thèm muốn. Nếu cấy nó vào lũ tank, khi chúng tiêu diệt được một kẻ địch lớn và bị bao vây, một cú nổ bùm sẽ kéo theo kha khá kẻ địch chết chung. Và trên hết, tự sát tập kích luôn là một nghệ thuật đầy lãng mạn.
+`『Nhân Tự Sát』`: Một biến thể của 『Cơ Quan Tăng Ma Lực』. Nói một cách trần trụi, đây chính là bom cảm tử sinh học. Dù chỉ là những mẩu ma thạch vụn vỡ không đáng một xu, chẳng đủ để thi triển lấy một ma pháp sơ cấp, nhưng gom gió ắt thành bão. Khi cho 『Vô Đạo Nhất Thức』 nuốt chửng hàng ngàn mảnh ma thạch phế phẩm, chúng sẽ được nén và tổng hợp lại bên trong 『Dạ Dày Không Đáy』. Khi cấy quả bom nén ma lực này vào lồng ngực triệu hoán thú, chúng sẽ biến thành những kẻ đánh bom tự sát. Những cảm tử quân 『High Zombie』 lao đi với vận tốc của vận động viên điền kinh là cơn ác mộng mà bất kỳ kẻ khủng bố nào cũng khao khát sở hữu. Nếu cấy vào lũ 『Tank』, một khi chúng bị vây khốn, một tiếng nổ đanh gọn sẽ kéo theo cả phân đội kị sĩ của đối phương cùng xuống mồ. Hơn hết, nghệ thuật phục kích cảm tử luôn mang một vẻ đẹp lãng mạn đến tàn nhẫn.
 
-“—Thật là, tự dưng lại phải xả kho hàng loạt thế này.”
+“—Thật tình, lại phải xả kho hàng loạt thế này đây.”
 
-Những nguyên liệu ma vật mà tôi đã vất vả tích lũy suốt thời gian qua đang liên tục bị lôi ra sử dụng.
+Kho nguyên liệu ma thú quý giá mà tôi đã còng lưng tích cóp suốt bao tháng ngày đang vơi đi với tốc độ chóng mặt.
 
-Nhưng trong tình thế ngặt nghèo này, tôi không thể keo kiệt được. Đây chính là lúc để sử dụng những gì đã chuẩn bị, và số lượng quân số từ thuật triệu hồi sẽ phát huy hiệu quả tối đa.
+Nhưng trong tình thế ngàn cân treo sợi tóc, tôi tuyệt đối không thể tiếc của. Đây chính là thời khắc mang toàn bộ vốn liếng ra sử dụng, và ưu thế biển người từ thuật triệu hồi sẽ phát huy công năng tối đa.
 
-Sau khi hoàn tất việc trang bị cho lũ skeleton, tôi tiến hành tạo ra các thế thân làm mồi nhử cuối cùng.
+Sau khi vũ trang tận răng cho phân đội 『Skeleton』, tôi bắt tay vào việc tạo ra các thế thân làm mồi nhử then chốt.
 
-“Chồng chất, phản chiếu, hiện hình. Thực thể hư vô, vạn vật quy nhất—『Song Ảnh』.”
+“Chồng chất, tương phản, hiển hiện. Hư vô thực thể, vạn tượng quy nhất—『Song Ảnh』.”
 
-Tôi tập trung tinh thần, đọc đầy đủ bài chú để tạo ra các phân thân.
+Tôi ngưng thần định khí, ngâm xướng trọn vẹn thuật thức để phân tách các hình nhân bóng tối.
 
-Vì tôi đã để lại một phân thân bên cạnh Kyouko ở Albion để trông nhà, nên tuyệt đối không thể làm biến mất phân thân đó. Nhưng trừ đi phần đó, tôi vẫn tạo ra số lượng phân thân vượt quá giới hạn kiểm soát tối đa của mình.
+Vì một phân thân vẫn đang được duy trì bên cạnh Kyouko ở Albion để trông giữ căn cứ, tôi tuyệt đối không được phép làm đứt đoạn liên kết đó. Trừ đi phần cố định ấy, tôi đã ép bản thân phân tách số lượng phân thân vượt quá giới hạn dung nạp thông thường.
 
-Mục đích lần này là đánh lạc hướng kẻ địch và phân tán lực lượng truy đuổi càng nhiều càng tốt. Bản thân tôi không cần phải trực tiếp quan sát hay phán đoán tình hình tại chỗ để hành động. Chỉ cần để chúng chạy loạn xạ về những hướng có vẻ như là đường thoát thân là được. Việc chiến đấu và phá hoại đã có đội quân triệu hoán lo liệu.
+Mục tiêu duy nhất lần này là tung hỏa mù và phân tán tối đa mạng lưới truy lùng của kẻ thù. Tôi không cần phải trực tiếp truyền ý thức để chỉ huy từng phân thân. Chỉ cần cài đặt mệnh lệnh cho chúng chạy thục mạng về những phương hướng có khả năng là đường thoát hiểm là đủ. Nhiệm vụ giao tranh và tàn phá đã có quân đoàn xác sống gánh vác.
 
-Sau đó, để chắc chắn, tôi dùng 『Hư Ảnh Tương Chiếu』 lên một con high zombie đã được điều chỉnh vóc dáng bằng Giáp Cơ Bắp để biến nó thành hình dáng của Mei. Thế là khâu chuẩn bị đã hoàn tất.
+Kế đó, để đảm bảo tính chân thực, tôi thi triển 『Hư Ảnh Tương Chiếu』 lên một con 『High Zombie』 đã được độn vóc dáng bằng 『Giáp Cơ Bắp』 để biến nó thành bản sao hoàn hảo của Mei. Thế là mọi khâu chuẩn bị nghi binh đã hoàn tất mỹ mãn.
 
-“Được rồi, đi đi!”
+“Được rồi, xuất kích!”
 
-Tôi ra lệnh cho các phân thân tỏa ra khắp khu vườn theo mọi hướng, đồng thời cử một nhóm leo lên cầu thang dẫn lên phía trên.
+Tôi vung tay ra lệnh cho các phân thân tản ra khắp bốn phương tám hướng trong khu vườn, đồng thời điều động một nhóm tiếp tục chạy ngược lên các tầng tháp cao hơn.
 
-Trong lúc đội quân nghi binh đang triển khai, tôi quan sát kết quả trinh sát từ lũ Rem chim để quyết định lộ trình trốn thoát chính thức.
+Trong lúc đội ngũ chim mồi bắt đầu di chuyển, tôi tiếp nhận dữ liệu thị giác truyền về từ lũ Rem dạng chim để định hình lộ trình đào thoát an toàn nhất.
 
-Nhờ cho chúng bay lên thật cao, tôi đã phần nào nắm bắt được toàn cảnh vương đô Sigrun của Astoria.
+Nhờ tầm quan sát từ trên tầng mây, tôi đã nắm bắt được toàn cảnh đại đô thị Sigrun, vương đô của Astoria.
 
-Cổ tích di tích mà chúng tôi đang đứng thực chất là một tòa tháp vô cùng đồ sộ. Đó là một tòa tháp khổng lồ màu trắng cao khoảng 500 mét, nhưng nếu xét đến việc phần dưới lòng đất chỉ có mỗi quảng trường Thiên Tống Môn kia, thì nó vẫn nhỏ hơn tòa nhà chính phủ trung ương của Albion.
+Di tích cổ đại nơi chúng tôi đang đứng thực chất là một ngọn đại tháp vô cùng đồ sộ. Đó là một công trình màu trắng tinh khôi cao tới gần 500 mét, nhưng nếu xét việc dưới lòng đất chỉ có độc mỗi quảng trường 『Thiên Tống Môn』, quy mô của nó vẫn khiêm tốn hơn nhiều so với tòa thị chính trung tâm của Albion.
 
-Phía bên kia khu vườn là một đại thánh đường tráng lệ không khác gì một cung điện. Có lẽ nơi đó mới là trung tâm của khu di tích cổ đại này.
+Băng qua khu vườn bạt ngàn là một đại thánh đường nguy nga tráng lệ chẳng khác nào hoàng cung. Rất có thể nơi đó mới chính là trung tâm điều hành của khu di tích cổ này.
 
-Khu vực xung quanh tòa tháp và thánh đường này khá thông thoáng, mở ra một cảnh quan đồng quê yên bình với những thảm cỏ xanh mướt, những cánh rừng nhỏ và một hồ nước tròn trịa tuyệt đẹp.
+Vùng ngoại vi bao quanh tòa tháp và thánh đường tương đối thoáng đãng, mở ra một khung cảnh điền viên thanh bình với những thảm cỏ xanh mướt, những cánh rừng thưa xen kẽ một hồ nước tròn vành vạnh tuyệt đẹp.
 
-Vị trí này có vẻ như nằm ở vùng ngoại ô, hơi cách xa vương đô một chút. Lẽ ra nơi đây phải là khu dân cư vệ tinh, nhưng có lẽ nó đã bị giáo hội Pandora—tổ chức sở hữu đại thánh đường này—độc chiếm hoàn toàn.
+Khu vực này dường như tọa lạc ở vùng ngoại ô, tương đối tách biệt với trung tâm vương đô. Lẽ ra nơi đây phải là khu dân cư vệ tinh sầm uất, nhưng có lẽ nó đã bị giáo hội Pandora—thế lực làm chủ đại thánh đường này—thâu tóm và độc chiếm toàn bộ.
 
-Trước mắt, việc không thấy một đội quân lớn nào được triển khai trên vùng đất rộng lớn này quả là một điều may mắn.
+Trước mắt, việc không thấy bất kỳ cánh quân quy mô lớn nào bố phòng trên bình nguyên bao la này đã là một điều cực kỳ may mắn.
 
-Và vương đô Sigrun, đúng như mong đợi, là một đô thị khổng lồ khiến người ta lập tức nhận ra đây chính là dị giới. Những bức tường sơn trắng tinh khôi kết hợp với mái ngói màu xanh lam rực rỡ tạo nên một cảnh quan thành phố vô cùng mỹ lệ.
+Và vương đô Sigrun, đúng như kỳ vọng, là một siêu đô thị tráng lệ khiến bất kỳ ai cũng phải thốt lên rằng đây chính là thế giới thần thoại. Những bức tường thành quét vôi trắng muốt kết hợp cùng mái ngói xanh lam rực rỡ dưới ánh mặt trời tạo nên một bức tranh kiến trúc hoa lệ đến ngột ngạt.
 
-Thế nhưng, không biết có phải nhờ thừa hưởng kỹ nghệ xây dựng từ nền văn minh cổ đại hay không mà các tòa nhà cao tầng mọc lên san sát như ở Dubai. Tuy nhiên, chúng không mang lại cảm giác của những tòa cao ốc văn phòng thông thường, mà được trang trí vô cùng tỉ mỉ, mang diện mạo của những thánh đường uy nghiêm. Sự kết hợp hoàn hảo giữa chiều cao và tính thẩm mỹ này là điều không thể tìm thấy ở Trái Đất.
+Không hiểu có phải nhờ kế thừa công nghệ kiến trúc từ nền văn minh cổ đại hay không mà các tòa tháp cao tầng mọc lên san sát tựa như Dubai thời hiện đại. Thế nhưng, chúng không hề mang dáng dấp của những khối bê tông văn phòng vô cảm, mà được chạm khắc hoa văn tinh xảo mang diện mạo của những thánh đường sừng sững. Sự giao thoa hoàn hảo giữa chiều cao chọc trời và mỹ thuật tôn giáo uy nghiêm này là điều không thể tìm thấy ở Trái Đất.
 
-Dù đây là một đô thị dị giới tráng lệ đến mức khiến tôi muốn dừng lại ngắm nhìn mãi, nhưng lúc này không phải là lúc để thong thả tham quan. Điều quan trọng nhất hiện giờ là thông tin địa lý để biết nên chạy trốn theo hướng nào.
+Dù cảnh quan dị giới tráng lệ đến mức khiến tôi muốn dừng chân chiêm ngưỡng, nhưng lúc này không phải là thời điểm để thong thả du ngoạn. Điều cốt tử hiện tại là thông tin địa hình để xác định hướng đào tẩu.
 
-Tôi liếc nhìn chiếc la bàn tự chế, đối chiếu các hướng và địa hình xung quanh để phác thảo một tấm bản đồ trong đầu.
+Tôi liếc nhanh chiếc la bàn ma thuật tự chế, đối chiếu các phương vị và địa thế xung quanh để phác thảo sơ đồ tác chiến trong đầu.
 
-Lấy vương đô làm trung tâm, thánh đường của chúng tôi nằm ở phía Bắc. Phía Đông có thể nhìn thấy một dãy núi cao sừng sững ở đằng xa. Trong khi đó, phía Tây là một vùng biển rộng lớn, cho thấy vương đô cũng là một thành phố cảng khổng lồ.
+Lấy vương đô làm tâm điểm, đại thánh đường của chúng tôi nằm chếch về phía Bắc. Phía Đông có thể trông thấy rặng núi non trùng điệp sừng sững tít đằng xa. Ngược lại, phía Tây là một vùng biển cả mênh mông, chứng tỏ vương đô đồng thời cũng là một hải cảng khổng lồ.
 
-Phía Nam khá bằng phẳng, theo những gì mắt thường có thể nhìn thấy thì đó là một vùng đồng bằng kéo dài vô tận...
+Phía Nam địa hình tương đối bằng phẳng, theo tầm mắt quan sát thì đó là một bình nguyên trải dài tít tắp...
 
-*Nếu muốn trốn thoát ngay lập tức, có lẽ hướng Đông với những dãy núi là lựa chọn tốt nhất.*
+*Nếu muốn cắt đuôi truy kích ngay lập tức, hướng Đông với rặng núi non hiểm trở chắc chắn là lựa chọn số một.*
 
-Để trốn đi thật xa thì đường biển là tối ưu nhất, nhưng ngặt nỗi chúng tôi vừa gây ra một vụ náo loạn lớn để đào tẩu. Việc lẻn lên một con tàu để đi lậu vé vào lúc này là vô cùng khó khăn.
+Để trốn chạy thật xa, tuyến đường biển luôn là tối ưu nhất. Ngặt nỗi chúng tôi vừa gây ra một trận náo loạn kinh thiên động địa để phá vây. Việc trà trộn lên tàu thuyền để vượt biên lậu vào thời điểm này chẳng khác nào tự chui đầu vào rọ.
 
-Hơn nữa, việc đi vào vương đô vào lúc này sẽ rất nguy hiểm. Dù là một thành phố lớn dễ lẩn trốn, nhưng số lượng kẻ thù ở đó cũng sẽ nhiều tương ứng.
+Hơn nữa, tiến thẳng vào trung tâm vương đô lúc này là canh bạc quá mạo hiểm. Dù một đại đô thị đông đúc sẽ dễ lẩn khuất, nhưng mật độ kẻ thù ở đó cũng sẽ tăng theo cấp số nhân.
 
-Nếu toàn bộ người dân Astoria đều căm ghét những người Nhật tóc đen mắt đen và sẵn sàng báo cáo ngay lập tức khi nhìn thấy, thì việc lảng vảng trước mắt dân thường là quá nguy hiểm. Muốn giấu một chiếc lá thì phải giấu vào trong rừng, nhưng nếu khu rừng đó lại là một tổ côn trùng có hại thì việc đó chẳng còn ý nghĩa gì nữa.
+Nếu toàn thể thần dân Astoria đều mang lòng thù hằn với những người Nhật Bản mang mái tóc đen mắt đen và sẵn sàng mật báo ngay khi chạm mặt, việc đi lại giữa chốn đông người là tự sát. Muốn giấu một chiếc lá phải giấu vào trong rừng, nhưng nếu khu rừng đó lại là một tổ kiến lửa hung hãn thì việc ẩn thân chẳng còn chút giá trị nào.
 
-Chạy trốn vào vùng núi hiểm trở nghe có vẻ là suy nghĩ của kẻ nghiệp dư, nhưng tiếc thay, chúng tôi không phải là những kẻ nghiệp dư. Tôi của hiện tại đã được trang bị đầy đủ và phong phú hơn rất nhiều so với thời điểm cùng Kyouko và Hayama vượt núi ngày trước.
+Chạy trốn vào thâm sơn cùng cốc thoạt nghe có vẻ là tư duy non nớt của dân nghiệp dư, nhưng tiếc thay, chúng tôi không phải là những kẻ non tay. Tôi của hiện tại đã được trang bị đến tận răng, vượt xa thời điểm cùng Kyouko và Hayama vượt núi băng tuyết ngày trước.
 
-Vốn dĩ chúng tôi đến đây là để thám hiểm vùng núi rừng lá kim phủ đầy tuyết mà. Trang bị sinh tồn được chuẩn bị vô cùng phong phú, nên dù có phải bắt đầu leo núi ngay lập tức thì cũng chẳng gặp vấn đề gì.
+Vốn dĩ mục tiêu ban đầu của chúng tôi là thám hiểm những cánh rừng lá kim lạnh giá cơ mà. Quân nhu sinh tồn được chuẩn bị dư dả đến mức dẫu có phải bắt đầu cuộc hành trình băng rừng vượt núi ngay bây giờ, chúng tôi cũng chẳng gặp chút trở ngại nào.
 
-Mặt khác, nếu lũ kị sĩ yếu ớt bị chúng tôi đánh tan tác lúc nãy đuổi theo, địa hình núi non hiểm trở cũng sẽ khiến tốc độ tìm kiếm của chúng bị chậm lại. Nếu nơi đó có cả ma vật hoang dã xuất hiện thì lại càng tốt.
+Mặt khác, nếu đám kị sĩ thánh đường đuổi theo, địa hình đồi núi cheo leo sẽ bẻ gãy tốc độ hành quân của chúng. Nếu nơi đó có thêm ma thú hoang dã cát cứ thì lại càng tuyệt vời.
 
-Vùng đồng bằng phía Nam tuy giúp chúng tôi di chuyển nhanh hơn, nhưng lũ kị sĩ cũng sẽ dễ dàng đuổi theo hơn. Hơn nữa, vùng đồng bằng gần vương đô chắc chắn sẽ có nhiều thị trấn lớn nối tiếp nhau. Đối với chúng tôi—những kẻ không muốn lọt vào mắt người thường lúc này—thì bất lợi của lộ trình đó là quá lớn.
+Bình nguyên phía Nam dẫu giúp chúng tôi di chuyển thần tốc, nhưng lũ kị sĩ thiết kị cũng sẽ dễ dàng bắt kịp hơn. Hơn nữa, vùng đồng bằng trù phú cận kề thủ phủ chắc chắn sẽ dày đặc các thị trấn vệ tinh nối tiếp nhau. Đối với những kẻ đang cần ẩn mình khỏi tầm mắt của cư dân bản địa như chúng tôi, rủi ro của lộ trình đó là quá lớn.
 
-“Ừm, có vẻ như ở phía đại thánh đường, rất nhiều kẻ trông giống kị sĩ đang bắt đầu hành động rồi. Chúng ta mau lên thôi.”
+“Ừm, có vẻ như phía đại thánh đường, rất nhiều toán kị sĩ trang bị đầy đủ đang bắt đầu túa ra rồi. Chúng ta phải tăng tốc thôi.”
 
-“Ừm.”
+“Ừm!”
 
-Vừa thiết lập điểm đến cho các đội hình nghi binh, chúng tôi vừa lao nhanh về phía dãy núi sừng sững ở phía Đông làm mục tiêu tạm thời.
+Vừa thiết lập tọa độ di chuyển cho các toán nghi binh, chúng tôi vừa bung hết sức bình sinh lao nhanh về phía rặng núi sừng sững ở hướng Đông làm mục tiêu chiến lược.
 
-Trước mắt, chúng tôi chạy hết tốc lực theo một đường thẳng ngắn nhất. Tất nhiên là phải tránh xa đại thánh đường ra.
+Trước mắt, chúng tôi vạch ra lộ trình đường thẳng ngắn nhất để rút ngắn thời gian. Tất nhiên là phải giữ khoảng cách tuyệt đối an toàn với đại thánh đường.
 
-Trên đường di chuyển, tôi cho một đội nghi binh đi tiên phong, đồng thời tập trung lũ Rem chim để dò đường phía trước.
+Trên đường di chuyển, tôi cho một phân đội nghi binh mở đường phía trước, đồng thời tập trung đàn Rem quạ đen quét sạch mọi điểm mù phía tiền tuyến.
 
-Các đội nghi binh khác được phân bổ như sau: một đội được gửi đến đại thánh đường để quấy rối, một đội khác đi về phía Bắc.
+Các phân đội chim mồi khác được phân bổ theo kế hoạch tác chiến: một đội tiến thẳng về phía đại thánh đường để quấy rối đánh lạc hướng, một đội khác rẽ ngoặt về hướng Bắc.
 
-Những đội còn lại được phân tán theo các lộ trình hướng về vương đô. Trong số đó, đội nghi binh hướng về phía cảng để tạo giả tượng vượt biên bằng đường biển được tôi đầu tư chế tạo với chất lượng cao nhất.
+Những đội còn lại được phân tán rải rác theo các trục đường hướng về vương đô. Trong số đó, phân đội nghi binh hướng về phía hải cảng nhằm tạo hiện trường giả về một cuộc tẩu thoát bằng đường thủy được tôi đầu tư tinh vi nhất.
 
-Khi kẻ địch nắm bắt được hành động của chúng tôi, đây sẽ là nhóm di chuyển giống với bản thể thật nhất. Dù chỉ là chuẩn bị vội vã, nhưng tôi đã dồn rất nhiều nguyên liệu dự trữ để tạo ra một số lượng lớn các đội nghi binh. Không chỉ để chúng quấy phá một cách lộ liễu, việc trà trộn một đội di chuyển lén lút khiến kẻ địch lầm tưởng là bản thể thật sẽ mang lại hiệu quả cao hơn nhiều.
+Khi đối phương nắm bắt được động thái đào tẩu, đây sẽ là nhóm di chuyển mang lại cảm giác chân thực nhất. Dù thời gian chuẩn bị gấp rút, tôi đã trút sạch kho dự trữ để tạo ra một lượng lớn thế thân chất lượng cao. Không chỉ để chúng gây náo loạn lộ liễu, việc cài cắm một toán di chuyển thoắt ẩn thoắt hiện khiến đối phương đinh ninh là bản thể thật sẽ mang lại hiệu quả nghi binh vượt trội hơn nhiều.
 
-“Kotarou-kun, động tĩnh của kẻ địch thế nào rồi?”
+“Kotarou-kun, động tĩnh của kẻ địch ra sao rồi?”
 
-“Không sao, hướng này không có ai cả.”
+“Không sao cả, hướng này hoàn toàn thông thoáng.”
 
-Có vẻ như cạm bẫy của chúng thực sự chỉ được giăng sẵn ở quảng trường Thiên Tống Môn của tòa tháp mà thôi.
+Có vẻ như cái bẫy của chúng thực sự chỉ được bài trí cục bộ tại sảnh 『Thiên Tống Môn』 dưới đáy tháp mà thôi.
 
-Phía đại thánh đường—nơi có vẻ như vừa nhận được báo cáo—đang vô cùng hỗn loạn với việc binh lính ra vào tấp nập, nhưng những khu vực xung quanh chỉ có lính canh phòng thông thường mà thôi.
+Phía đại thánh đường—nơi dường như vừa tiếp nhận cấp báo—đang rơi vào cảnh gà bay chó sủa với quân lính nháo nhào ra vào, nhưng các khu vực ngoại vi lân cận chỉ duy trì lính gác tuần tra cơ bản.
 
-Mà cũng phải, dựa vào thái độ của lũ kị sĩ thánh đường, có vẻ như chúng chỉ coi đây là một nhiệm vụ dễ dàng để giải quyết những cậu bé cô bé nghiệp dư mới nhận thiên chức chưa đầy một năm. Thế nên chắc chắn không có chuyện vương quốc Astoria huy động toàn bộ quân đội để chuẩn bị một cách quy mô như vậy.
+Nghĩ lại cũng phải, dựa vào thái độ ngạo mạn của đám kị sĩ thánh đường, chúng chỉ xem đây là một nhiệm vụ dọn dẹp cỏ rác để xử lý vài đứa nhóc học sinh non nớt vừa nhận thiên chức chưa đầy một năm. Thế nên chắc chắn vương quốc Astoria chẳng việc gì phải phát lệnh tổng động viên toàn quân để đón đầu quy mô đến thế.
 
-Sự chủ quan đó sẽ là đòn chí mạng của các người đấy—ngay khi tôi vừa nghĩ như vậy.
+Sự khinh địch đó sẽ là mồ chôn của các người—ngay khi ý nghĩ ấy vừa lướt qua tâm trí tôi.
 
-“Dừng lại!”
+“Dừng lại mau!”
 
-Người đầu tiên hét lớn là Mei.
+Người đầu tiên cất tiếng thét cảnh báo là Mei.
 
-Nhìn tấm lưng lớn của cô ấy đột ngột dừng lại như thể phanh gấp, tôi không thể tin được rằng cô ấy lại phát hiện ra thứ gì đó khiến bản thân phải cảnh giác đến mức này.
+Nhìn bờ vai rộng lớn của cô ấy đột ngột khựng lại tựa như đạp phanh gấp, tôi không thể tin nổi cô ấy lại phát hiện ra thứ gì đó đủ sức khiến một 『Cuồng Chiến Binh』 phải nâng cao cảnh giác đến mức này.
 
-Bởi vì, nơi chúng tôi vừa đặt chân đến chính là Quảng Trường Tinh Linh—một địa điểm vô cùng quen thuộc trong các di tích cổ đại.
+Bởi vì, nơi chúng tôi vừa đặt chân tới chính là 『Quảng Trường Tinh Linh』—một địa điểm mang cấu trúc vô cùng thân quen trong các phế tích cổ đại.
 
-Khu quảng trường được thiết lập ngoài trời này thực sự rất hòa hợp với cảnh quan sân vườn xung quanh.
+Khu quảng trường lộ thiên này hòa mình một cách hoàn mỹ vào cảnh sắc sân vườn tĩnh lặng xung quanh.
 
-Một đài phun nước nhỏ với bức tượng yêu tinh đáng yêu trong tư thế giơ hai tay chào đón làm trung tâm. Xung quanh là những bồn hoa rực rỡ sắc màu đang đua nhau nở rộ, bên cạnh những hàng cây dẻ Yêu tinh thẳng tắp.
+Một đài phun nước bằng đá với bức tượng yêu tinh giơ hai tay chào đón tọa lạc tại trung tâm. Bao quanh là những thảm hoa rực rỡ ngát hương đang đua nhau khoe sắc, bên cạnh những hàng cây dẻ Yêu tinh thẳng tắp vươn cao.
 
-Lý do tôi hoàn toàn mất cảnh giác là vì khu vực này đã được trinh sát từ trước. Lũ Rem chim không hề phát hiện ra bóng người nào, và đội nghi binh đi tiên phong đi qua đây cách đây không lâu cũng xác nhận nơi này không có ai.
+Lý do khiến tôi hoàn toàn hạ thấp cảnh giác là bởi khu vực này đã được trinh sát kỹ lưỡng từ trước. Đàn Rem quạ đen không hề phát hiện bất kỳ bóng người nào, và phân đội nghi binh đi tiên phong qua đây cách đây ít phút cũng xác nhận khu vực này hoàn toàn trống trải.
 
-Lẽ ra không thể có ai đang chờ sẵn ở đây mới đúng.
+Theo lẽ thường, không thể có bất kỳ ai phục kích ở đây được.
 
 “Xin chào.”
 
-Thế nhưng, quả thực có một người đang ở đó.
+Thế nhưng, quả thực có một bóng hình đang an tọa nơi đó.
 
-Khi đứng cạnh Mei quan sát Quảng Trường Tinh Linh, tôi nhìn thấy một người phụ nữ đang ngồi trên thành đài phun nước.
+Khi đứng cạnh Mei phóng tầm mắt về phía 『Quảng Trường Tinh Linh』, tôi nhìn thấy một người phụ nữ đang thong thả ngồi trên thành đài phun nước.
 
-Cô ta là ai vậy? Tại sao lại ở đây? Chắc chắn là trước đó không hề có sự hiện diện của người này ở khu vực xung quanh.
+Cô ta là ai? Tại sao lại xuất hiện ở đây? Rõ ràng trước đó không hề có lấy một gợn sóng sinh mệnh hay khí tức nào của người này quanh khu vực.
 
-Tất nhiên, cô ta cũng không phải vừa dịch chuyển đến đây. Việc dịch chuyển sẽ tạo ra luồng sáng rực rỡ và dao động ma lực lớn, không đời nào chúng tôi lại không nhận ra.
+Tất nhiên, cô ta cũng không phải vừa sử dụng ma pháp dịch chuyển tức thời đến đây. Việc dịch chuyển cự ly ngắn luôn bộc phát luồng sáng chói lòa cùng sự biến động ma lực dữ dội, không đời nào chúng tôi lại bỏ sót một dấu hiệu lộ liễu đến thế.
 
-Liệu cô ta có phải là một tu nữ của giáo hội Pandora? Bộ trang phục màu trắng tinh khôi với phần tà dài trông giống như một bộ tu phục hơn là áo choàng pháp sư. Thiết kế đơn giản, nhưng chính vì thế mà... Nguy rồi, vóc dáng của người phụ nữ này ở cùng đẳng cấp với Mei. Lẽ ra toàn bộ cơ thể phải được che giấu dưới lớp vải dày không để lộ đường cong, thế nhưng vóc dáng tuyệt mỹ kia lại hoàn toàn không thể bị che lấp.
+Liệu cô ta có phải là một nữ tu của giáo hội Pandora? Bộ trang phục thuần trắng tinh khôi với phần tà áo thướt tha mang kết cấu của một bộ thánh y tu viện hơn là áo choàng ma pháp sư. Thiết kế trang nhã tối giản, nhưng chính vì thế mà... Nguy rồi, vóc dáng của người phụ nữ này hoàn toàn ở cùng đẳng cấp siêu thực với Mei. Đáng lý toàn bộ cơ thể phải được che giấu dưới lớp vải tu phục dày cộp không để lộ đường cong, thế nhưng những đường nét đẫy đà tuyệt mỹ kia lại chẳng thể nào bị che lấp.
 
 “Vâng, xin chào—”
 
-Để che giấu ánh mắt suýt chút nữa đã bị hút vào thứ vũ khí hạng nặng đang đẩy cao phần ngực của bộ tu phục—thứ vóc dáng đủ để thổi bay mọi nghi vấn vừa xuất hiện trong đầu—tôi đáp lại bằng một nụ cười như thể đang chào hỏi một người hàng xóm tình cờ gặp khi đi dạo.
+Để che giấu ánh mắt suýt chút nữa đã bị hút chặt vào thứ vũ khí hạng nặng đang đội căng phần ngực của bộ thánh y—thứ thân hình đủ sức đánh bạt mọi nghi vấn vừa nhen nhóm trong đầu—tôi đáp lại bằng một nụ cười xã giao như thể đang chào hỏi một người hàng xóm vô tình chạm mặt khi đi dạo.
 
-*Cô là một nữ tu bình thường đang làm việc tại đại thánh đường đúng không? Hôm nay cô cũng vất vả rồi. Vậy thì chúng tôi xin phép đi qua đây một chút nhé.*
+*Cô chỉ là một nữ tu bình thường đang quét dọn tại đại thánh đường thôi đúng không? Hôm nay trời đẹp, cô vất vả rồi. Vậy thì chúng tôi xin phép mượn đường đi qua nhé.*
 
 “Xin hãy dừng bước.”
 
-Chậc, quả nhiên là không được mà...
+Chậc, quả nhiên là không thể lừa mình dối người được rồi...
 
-Đột ngột xuất hiện như vậy thì làm sao có thể là một nữ tu bình thường được chứ. Mei đã bước vào trạng thái chiến đấu, tỏa ra sát khí ngùn ngụt không chút giấu giếm.
+Xuất hiện một cách ma quái như thế này thì làm sao có thể là một nữ tu tầm thường cho được. Mei đã hạ thấp trọng tâm, kích hoạt trạng thái chiến đấu toàn diện với sát khí đỏ quạch cuồn cuộn tỏa ra không chút giấu giếm.
 
-Đồng thời với lời ngăn cản, cô ta đứng dậy một cách nhẹ nhàng không tiếng động, nhưng lại mang một vẻ vô cùng tao nhã.
+Ngay khi buông lời ngăn cản, người phụ nữ đứng dậy một cách nhẹ nhàng không một tiếng động, toát lên vẻ tao nhã đến rợn người.
 
-Với dáng vẻ thanh tao, cô ta chậm rãi bước lên một bước, để lộ khuôn mặt ẩn sau tấm mạng che đầu đang rủ xuống.
+Với từng cử chỉ đài các, cô ta chậm rãi tiến lên một bước, để lộ dung mạo ẩn giấu sau tấm mạng che đầu đang rủ xuống.
 
-Mái tóc màu bạch kim tuyệt đẹp khẽ lộ ra. Màu tóc sáng lấp lánh như phát quang kia thực sự mang đậm màu sắc kỳ ảo, nhưng thứ đáng chú ý hơn lại nằm ở chỗ khác.
+Mái tóc màu bạch kim tuyệt mỹ khẽ lay động theo làn gió. Sắc tóc sáng lấp lánh tựa như phát quang thực sự mang đậm màu sắc thần thoại, nhưng thứ khiến tôi lạnh gáy lại nằm ở một chi tiết khác.
 
-Đôi mắt của cô ta, không hiểu vì lý do gì, lại bị che phủ bởi một dải băng bịt mắt vô cùng chắc chắn.
+Đôi mắt của cô ta, không hiểu vì lý do gì, lại bị bịt kín bởi một dải băng màu xám tro vô cùng kiên cố.
 
-Thông thường người ta sẽ nghĩ là cô ta bị thương, nhưng tôi lại liên tưởng đến một tên tội phạm nguy hiểm đang bị giam giữ nghiêm ngặt.
+Thông thường người ta sẽ nghĩ cô ta bị mù hoặc thương tật, nhưng trong mắt tôi, hình ảnh đó lại gợi nhớ đến một trọng phạm nguy hiểm cấp độ quốc gia đang bị phong ấn ngũ quan.
 
-Thật kỳ lạ, dù bị bịt mắt nhưng khuôn mặt đó vẫn toát lên vẻ đẹp của một tuyệt thế mỹ nhân. Nếu sở hữu vóc dáng và khuôn mặt này, lẽ ra đây phải là cuộc gặp gỡ định mệnh đầy tuyệt vời của tôi với một thiếu nữ dị giới lý tưởng—thế nhưng tôi lại không thể rũ bỏ được cảm giác bất an trong lòng.
+Thật kỳ dị, dẫu đôi mắt đã bị che khuất, những đường nét trên gương mặt ấy vẫn toát lên vẻ đẹp nghiêng nước nghiêng thành của một tuyệt thế mỹ nhân. Nếu sở hữu vóc dáng và dung mạo này, lẽ ra đây phải là cuộc hội ngộ định mệnh đầy lãng mạn giữa tôi và một thiếu nữ dị giới hoàn hảo—thế nhưng trong lồng ngực tôi chỉ trào dâng một cảm giác bất an tột cùng.
 
-“Xin lỗi, chúng tôi đang vội.”
+“Thứ lỗi, chúng tôi đang có việc gấp.”
 
-“Đây là lần đầu tiên ngài đến vương quốc đúng không? Chào mừng đến với Astoria... ngài Momokawa Kotarou.”
+“Đây là lần đầu tiên ngài đặt chân tới vương quốc của chúng tôi đúng không? Chào mừng ngài đã đến với Astoria... ngài Momokawa Kotarou.”
 
-“Không lẽ cô là kiểu người chuyển sinh thành ác nữ phản diện đấy chứ?”
+“Không lẽ cô lại là kiểu nhân vật chuyển sinh thành ác nữ phản diện đấy chứ?”
 
-“Ufu-fu, tôi phát âm tên ngài có chuẩn không? Tôi đã luyện tập nhiều lắm đấy.”
+“Ufufu, tôi phát âm tên của ngài có chuẩn xác không? Tôi đã phải khổ luyện rất nhiều đấy.”
 
-Hỏng bét rồi. Điều tồi tệ nhất là người phụ nữ này đang trả lời sau khi đã hiểu chính xác những gì tôi nói, nghĩa là cô ta đã biết tôi là loại người như thế nào—dù cô ta là một người bản địa dị giới chính gốc.
+Hỏng bét rồi. Điều tồi tệ nhất là người phụ nữ này đang đối đáp trôi chảy sau khi đã thấu triệt từng tầng ý nghĩa trong lời nói của tôi, đồng nghĩa với việc cô ta đã tường tận tôi là loại người như thế nào—dù cô ta là một cư dân bản địa dị giới thuần chủng 100%.
 
-Cô ta không phải là một người được triệu hồi như Shitou, cũng không phải là một kẻ chuyển sinh sở hữu cheat. Chắc chắn cô ta là cư dân của vương quốc Astoria.
+Cô ta không phải là một kẻ được triệu hồi như Shitou, cũng chẳng phải người chuyển sinh sở hữu năng lực gian lận. Chắc chắn cô ta là người của vương quốc Astoria.
 
-Nếu không muốn giấu giếm, cô ta đã tự xưng bản danh như Shitou. Nếu muốn giấu giếm, cô ta sẽ giả vờ như không hiểu lời tôi nói.
+Nếu không muốn che giấu tung tích, cô ta đã tự xưng bản danh dị giới như Shitou. Nếu muốn giấu giếm thân phận, cô ta sẽ giả vờ như không hiểu ngôn ngữ Trái Đất mà tôi vừa thốt ra.
 
-Nhưng cô ta không chọn cả hai cách đó, mà chủ động thể hiện rằng mình có thể phát âm chính xác tên “Momokawa Kotarou” bằng tiếng Nhật. Đúng như lời cô ta nói, một người dị giới vốn không biết gì về Nhật Bản đã cất công học tập. Học về tôi, Momokawa Kotarou.
+Thế nhưng cô ta không chọn cả hai phương án đó, mà chủ động chứng minh rằng mình có thể xướng lên danh xưng “Momokawa Kotarou” bằng tiếng Nhật chuẩn xác không một tì vết. Đúng như những gì cô ta vừa thừa nhận, một kẻ dị giới vốn mù tịt về Nhật Bản đã cất công dùi mài kinh sử. Học về tôi, nghiên cứu về Momokawa Kotarou.
 
-“Từ khi nào, và bằng cách nào cô quan sát tôi...”
+“Từ bao giờ, và bằng thủ đoạn nào cô dám theo dõi tôi...”
 
-“Từ lúc bắt đầu, tất cả mọi thứ.”
+“Ngay từ thời khắc khởi đầu, không sót bất kỳ điều gì.”
 
-Cô ta nở một nụ cười hiền hậu như đức mẹ, như thể đang dõi theo sự trưởng thành của đứa con thân yêu.
+Cô ta nở một nụ cười hiền từ tựa như thánh mẫu, ánh mắt vô hình như đang dõi theo từng bước trưởng thành của đứa con ruột thịt.
 
-“Chỉ với chú thuật ban đầu mà ngài đã hạ gục được con gấu giáp sắt, quả là một màn trình diễn tuyệt vời. Cho đến tận bây giờ, dáng vẻ oai phong của ngài Momokawa vẫn in đậm trong ‘đôi mắt’ này của tôi.”
+“Chỉ với một nhánh chú thuật khởi đầu mà ngài đã có thể hạ sát một con 『Thiết Giáp Hùng』, quả là một kỳ tích tuyệt mỹ. Cho đến tận giây phút này, dáng vẻ ngạo nghễ oai phong của ngài Momokawa vẫn khắc sâu trong ‘đôi mắt’ này của tôi.”
 
-“Khốn kiếp, hóa ra việc xé bỏ cuốn sổ ngay sau khi nhận thiên chức mới là lựa chọn tối ưu nhất sao.”
+“Khốn kiếp thật... Hóa ra việc xé nát cuốn sổ tay ma pháp ngay sau khi nhận thiên chức mới là nước đi chuẩn xác nhất sao.”
 
-“Ôi, ngài quả là có khả năng quan sát vô cùng nhạy bén. Sự thông minh đó của ngài cũng thật tuyệt vời.”
+“Ôi chao, ngài quả thực sở hữu năng lực suy đoán vô cùng sắc sảo. Trí tuệ thâm sâu đó của ngài cũng thật đáng ngưỡng mộ.”
 
-Vốn dĩ kẻ sắp đặt để chúng tôi nhận 『Thiên Chức』 là Shitou. Vòng tròn ma pháp đó chắc chắn có tích hợp chức năng giám sát. Việc có cả chức năng gửi email thông tin ma vật cho thấy nó rõ ràng có kết nối với Astoria.
+Kẻ đứng sau dàn dựng nghi thức ban tặng 『Thiên Chức』 cho lớp chúng tôi chính là Shitou. Vòng tròn ma pháp đó chắc chắn đã được cài cắm thuật thức giám sát tầm xa. Việc hệ thống có thể gửi email cập nhật thông tin ma thú theo thời gian thực chứng minh nó có đường truyền ma lực trực tiếp kết nối với máy chủ tại Astoria.
 
-Hơn nữa, bằng cách tích hợp thêm chức năng la bàn, cả lớp ai nấy đều mang theo cuốn sổ bên mình không rời, nên không có công cụ nào tối ưu hơn thế để theo dõi động tĩnh của buổi lễ.
+Hơn thế nữa, bằng cách tích hợp thêm tính năng la bàn định vị sinh tồn, toàn bộ học sinh trong lớp đều nâng niu cuốn sổ bên mình như vật bất ly thân, biến nó thành công cụ do thám hoàn hảo nhất để theo dõi nhất cử nhất động của buổi lễ hiến tế.
 
-Shitou chắc chắn đã dùng cách này để theo dõi quá trình chinh phục dungeon của chúng tôi. Và có khả năng người phụ nữ này cũng đang xem những nội dung tương tự.
+Shitou chắc chắn đã tận dụng triệt để kênh thông tin này để theo dõi tiến trình sinh tồn trong hầm ngục của chúng tôi. Và rất có thể người phụ nữ bí ẩn này cũng đang thưởng thức cùng một buổi phát sóng trực tiếp đó.
 
-Dù tôi đã ít sử dụng cuốn sổ hơn kể từ khi ở Học Viện Tháp, nhưng lúc đó tôi đã hội quân với Kotori rồi. Nếu có Game Master 『Hiền Giả』 ở đó, việc toàn bộ những gì cô ta nhìn thấy và nghe thấy được cập nhật theo thời gian thực là điều hoàn toàn có thể xảy ra. Không lẽ thiên chức thực sự của cô ta là 『Streamer』 sao? Kiểu này chắc chắn sẽ sớm bị bóc phốt rồi ăn gạch đá cho mà xem.
-
-Dù sao đi nữa, khác với lũ kị sĩ thánh đường ngu ngốc, người phụ nữ này đã nắm rõ hầu hết các quân bài tẩy của tôi. Chỉ mới trò chuyện vài câu mà tôi đã có cảm giác như bị dồn vào đường cùng rồi.
-
-“Chà, thật bất ngờ khi tôi lại có một người hâm mộ cuồng nhiệt đến thế đấy. Nếu được, chị gái có thể cho tôi biết tên được không?”
-
-“Thật thất lễ quá, tôi lại mải trò chuyện mà chưa tự giới thiệu... Vậy thì, xin phép được giới thiệu lại.”
-
-Như một vị tư tế đang dang rộng hai tay thuyết pháp trước các tín đồ thành kính, cô ta dang rộng hai tay và tự xưng danh.
-
-“Tôi là Lilith.”
-
-Trên đôi bàn tay cô ta, một luồng lân quang màu xanh ngọc lục bảo khẽ hiện lên.
-
-“Lilith Godland Astoria.”
-
-Luồng sáng đó tăng dần tốc độ rực rỡ, tỏa ra một áp lực ma lực khủng khiếp đến mức khiến sống lưng tôi lạnh toát, dần dần ngưng tụ thành một thanh kiếm.
-
-“Tôi được Nữ thần Elshion ban cho thiên chức 『Dũng Giả』.”
-
-Cứ như vậy, nữ Dũng Giả mang theo thanh 『Thánh Kiếm Ánh Sáng』 đã đứng chặn trước đường đi của chúng tôi.
+Dẫu tôi đã hạn chế sử dụng cuốn sổ kể từ ngày tiếp quản 『Học Viện Tháp』, nhưng thời điểm ấy tôi đã hội quân với Kotori. Dưới sự hiện diện của Game Master mang thiên chức 『
