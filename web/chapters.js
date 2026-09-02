@@ -81304,275 +81304,275 @@ Dẫu tôi đã hạn chế sử dụng cuốn sổ kể từ ngày tiếp quả
 
 “Tôi được Nữ thần Elshion ban cho thiên chức 『Dũng Giả』.”
 
-Tay nắm chặt thanh 『Thánh Kiếm Ánh Sáng』 đang tỏa ra vầng hào quang màu xanh ngọc lục bảo, nữ Dũng Giả Lilith đứng đối diện với chúng tôi.
+Bàn tay thon dài siết chặt chuôi thanh 『Thánh Kiếm Ánh Sáng』 đang tỏa ra vầng hào quang màu xanh ngọc lục bảo thuần khiết, nữ Dũng Giả Lilith hiên ngang đứng chắn ngay trước mặt chúng tôi.
 
-“Tôi là Momokawa Kotarou. Một học sinh cấp ba hết sức bình thường được Nữ thần nguyền rủa Ruinhilde tôn kính ban cho thiên chức 『Chú thuật sư』~”
+“Còn tôi là Momokawa Kotarou. Một học sinh cấp ba hết sức bình thường được Nữ thần nguyền rủa Ruinhilde tôn kính ban cho thiên chức 『Chú thuật sư』~”
 
-“Vâng, tôi có biết.”
+“Vâng, điều đó thì tôi đã tường tận.”
 
-Lilith mỉm cười đón nhận lời tự giới thiệu cợt nhả của tôi.
+Lilith nở nụ cười hòa nhã, ung dung đón nhận lời tự giới thiệu đầy vẻ cợt nhả của tôi.
 
-Dù đã rút kiếm, nhưng có vẻ cô ta không có ý định lao vào chém giết ngay lập tức mà không thèm hỏi han gì. Hay là cô ta đang chờ đợi đội kỵ sĩ hoàn tất vòng vây...? Không, không thể nào. Một 『Dũng Giả』 có thể triệu hồi thanh 『Thánh Kiếm Ánh Sáng』 tinh xảo hơn cả của Souma như thế này thì làm sao phải trông cậy vào lũ tép riu đó.
+Dù lưỡi kiếm sắc lạnh đã tuốt khỏi vỏ, nhưng đối phương dường như không hề có ý định lập tức lao vào đồ sát mà không thèm gặng hỏi nửa lời. Liệu có phải cô ta đang cố tình câu giờ để đội kỵ sĩ thánh đường hoàn tất vòng vây bọc hậu...? Không, tuyệt đối không thể nào. Một kẻ mang danh 『Dũng Giả』 sở hữu thanh 『Thánh Kiếm Ánh Sáng』 tỏa ra thần uy còn tinh xảo và áp đảo hơn cả của Souma Yuuto thì làm sao phải cậy nhờ vào lũ kỵ sĩ tép riu đó.
 
-Cô ta tự tin rằng một mình mình dư sức trấn áp chúng tôi. Chính vì tin chắc như vậy nên cô ta mới hiên ngang đứng một mình chờ sẵn ở đây.
+Cô ta tự tin đến mức tuyệt đối rằng chỉ bằng sức mạnh của một mình mình là quá đủ để trấn áp toàn bộ chúng tôi. Chính vì nắm chắc phần thắng trong tay, ả mới thong thả đứng một mình nghênh chiến ở đây.
 
-Sức mạnh của một 『Dũng Giả』 vượt trội hơn cả Souma. Khả năng ẩn mật giúp cô ta qua mặt được sự giám sát của tôi. Và cả tốc độ lẫn khả năng phán đoán đáng ngại khi cô ta đã đi trước đón đầu ở đây, dù chúng tôi mới chỉ quyết định lộ trình chạy trốn cách đây không lâu.
+Một thứ sức mạnh 『Dũng Giả』 vượt xa Souma. Khả năng ẩn giấu hơi thở ma lực hoàn hảo đến mức qua mặt được toàn bộ giác quan giám sát của tôi. Và đáng sợ hơn cả là tốc độ di chuyển cùng khả năng phán đoán quái đRet: dù chúng tôi mới chỉ định hình lộ trình tẩu thoát cách đây ít phút, cô ta đã kịp thời đón đầu ngay lối ra.
 
-Chỉ với vài quả bom khói để tẩu thoát thì không đời nào cắt đuôi được nữ Dũng Giả này. Mà nói thật, dù cô ta đang bịt mắt, nhưng chắc chắn là vẫn nhìn thấy đường.
+Chỉ bằng vài ba quả bom khói che mắt thì không đời nào cắt đuôi được ả nữ Dũng Giả này. Dù đôi mắt ả đang bị một dải băng dày bịt kín mít, nhưng tôi dám chắc cô ta vẫn nhìn thấy mọi thứ rõ như ban ngày.
 
-Hoặc là, tôi nên giả định rằng cô ta sở hữu năng lực cảm nhận vượt trội hơn cả thị giác thông thường. Ít nhất, không nên nghĩ rằng cô ta đang phải chịu bất lợi vì mù lòa. Mấy nhân vật bịt mắt trong truyện lúc nào chẳng là kẻ mạnh.
+Hay đúng hơn, tôi buộc phải giả định rằng ả sở hữu năng lực cảm nhận không gian và sinh mệnh vượt trội hơn cả thị giác thông thường. Tuyệt đối không được phép ngây thơ cho rằng cô ta đang chịu bất lợi vì mù lòa. Mấy nhân vật bịt mắt trong tiểu thuyết hành động lúc nào chẳng là những kẻ quái vật mạnh nhất.
 
-“Vậy là màn tự giới thiệu của hai bên đã xong xuôi. Hôm nay chúng ta giải tán ở đây được không nhỉ? Bọn tôi đang bị đội kỵ sĩ đáng sợ truy đuổi vì mấy lời buộc tội vô căn cứ đấy.”
+“Vậy là màn chào hỏi của hai bên đã xong xuôi trọn vẹn rồi nhỉ. Hôm nay chúng ta tạm giải tán trong hòa bình ở đây được không? Bọn tôi đang bị đội kỵ sĩ đáng sợ truy sát ráo riết vì mấy lời vu cáo trắng trợn vô căn cứ đấy.”
 
-“Vậy thì, xin cậu hãy để tôi bắt giữ được không? Tôi xin hứa sẽ không đối xử tệ với các bạn đâu.”
+“Nếu đã vậy, xin cậu hãy ngoan ngoãn để tôi bắt giữ được không? Tôi xin lấy danh dự bảo đảm sẽ không đối xử tệ bạc với các bạn đâu.”
 
-“Nể tình chút đi, nhắm mắt làm ngơ cho bọn tôi qua được không?”
+“Nể tình bạn học xa xứ một chút đi, nhắm mắt làm ngơ cho bọn tôi qua được chứ?”
 
-“Tôi đứng đợi ở đây chính là vì việc này mà.”
+“Tôi đứng đợi ở đây chính là vì chuyện này mà.”
 
-Ra vậy. Chẳng có sự hiểu lầm hay bất đồng đáng tiếc nào ở đây cả. Lilith rõ ràng đến đây là để bắt chúng tôi. Đã thế thì có khua môi múa mép thế nào cũng vô dụng.
+Ra vậy. Chẳng có bất kỳ sự hiểu lầm hay bất đồng đáng tiếc nào ở đây cả. Mục đích duy nhất của Lilith khi xuất hiện ở đây là tóm sống chúng tôi. Đã đến nước này thì có khua môi múa mép hay giở trò đàm phán cũng hoàn toàn vô nghĩa.
 
-Cùng lắm thì chỉ kéo dài được chút thời gian. Nhưng ở thời điểm hiện tại, thời gian trôi đi không hề mang lại lợi thế cho chúng tôi.
+Cùng lắm thì màn tán gẫu này chỉ giúp tôi kéo dài thêm được vài giây ngắn ngủi. Nhưng trong tình thế ngàn cân treo sợi tóc hiện tại, thời gian trôi đi càng lâu thì lợi thế càng nghiêng hẳn về phía kẻ địch.
 
-“...Lilith chắc chắn mạnh hơn Souma-kun nhiều đúng không? Nếu đã có một 『Dũng Giả』 xuất sắc như cô rồi, thì cậu ta đâu còn cần thiết nữa?”
+“...Lilith mạnh hơn Souma-kun nhiều đúng không? Nếu phe các người đã sở hữu một 『Dũng Giả』 xuất chúng đến nhường này, thì thằng nhóc đó đâu còn giá trị lợi dụng nữa?”
 
-“Tôi có sứ mệnh của riêng mình. Nữ thần mong muốn trao cho Dũng Giả Souma một sứ mệnh mới.”
+“Tôi có sứ mệnh của riêng mình. Và Nữ thần mong muốn trao cho Dũng Giả Souma một sứ mệnh hoàn toàn mới.”
 
-“Đúng là một sự phân công rác rưởi. Một vị thần không biết dùng người đúng nơi đúng chỗ thì vứt đi cho rồi. Cô không nghĩ đến chuyện ngừng tin thờ bà ta à?”
+“Đúng là một sự phân công nhân sự rác rưởi. Một vị thần thậm chí không biết cách dùng người đúng nơi đúng chỗ thì vứt xó cho rồi. Cô không bao giờ nghĩ đến chuyện từ bỏ cái đức tin mù quáng đó à?”
 
-“Con người mà dám phán xét ý chí của Thần linh thì thật là bất kính... Huống chi, nếu đó là đại nghĩa để cứu rỗi thế giới, thì một kẻ như tôi làm sao có thể thấu hiểu được sự nhìn xa trông rộng của Ngài.”
+“Phàm nhân mà dám ngạo mạn phán xét ý chí tối cao của Thần linh thì thật là đại bất kính... Huống chi, nếu đó là đại nghĩa tối thượng để cứu rỗi toàn bộ thế giới này, thì một kẻ phàm trần như tôi làm sao có thể thấu triệt được tầm nhìn xa trông rộng của Ngài.”
 
-“Cứu rỗi thế giới? Bộ quân đội Ma Vương sắp sửa tấn công hay sao?”
+“Cứu rỗi thế giới? Bộ quân đội Ma Vương sắp sửa tổng lực tấn công hay sao?”
 
-“Nữ thần Elshion lo ngại việc Ma Vương tái lâm vào thế giới này hơn bất cứ điều gì khác. Chắc chắn Ngài sẽ ban cho Dũng Giả Souma sứ mệnh để ngăn chặn điều đó.”
+“Nữ thần Elshion lo ngại viễn cảnh Ma Vương tái lâm vào thế giới này hơn bất cứ hiểm họa nào khác. Nhất định Ngài sẽ ban cho Dũng Giả Souma một trọng trách vĩ đại để ngăn chặn thảm kịch đó.”
 
 “Hửm, ‘Ma Vương’ sao...”
 
-Tôi chợt nhớ lại lúc bức tượng Nữ thần hóa thân thành Elshion giáng lâm bên cạnh Takanashi khi cô ta bị dồn vào đường cùng.
+Ký ức trong tôi lập tức ùa về khoảnh khắc bức tượng Nữ thần hóa thân thành Elshion đích thân giáng lâm bên cạnh Takanashi khi cô ta bị dồn vào bước đường cùng.
 
-Khi tôi hoàn toàn bất lực trước thứ sức mạnh gian lận không thể cản phá đó, người xuất hiện cứu tôi không ai khác chính là vị Nữ thần vĩ đại của chúng tôi, Chú thần Ruinhilde.
+Vào giây phút tôi hoàn toàn bất lực trước thứ quyền năng gian lận không thể cản phá đó, người đã xé toạc không gian để cứu rỗi tôi không ai khác chính là vị Thần linh vĩ đại duy nhất của chúng tôi—Chú Thần Ruinhilde.
 
-And lúc đó, Ruinhilde đã cầm thanh đại kiếm màu đen và nói:
+Và lúc ấy, Ruinhilde đã vung thanh đại kiếm đen kịt ngập tràn oán niệm rồi cất lời:
 
-“Thanh kiếm của Ma Vương. Cơn gió đen diệt trừ thần ma, 『Vô Mệnh Thủ Đoạn』... Ra vậy, ngươi muốn chém ta để hả giận chuyện ngày xưa bị ta chém sao?”
+“Thanh kiếm của Ma Vương. Cơn cuồng phong đen diệt trừ thần ma, 『Vô Mệnh Thủ Đoạn』... Ra vậy, ngươi muốn chém ta một nhát để hả giận cho mối thù ngày xưa bị ta chém bay xác sao?”
 
-“Tuyệt vời làm sao. Cậu đã được phép biết đến một chương trong thần thoại rồi sao. Quả không hổ danh là Đứa con của Thần.”
+“Tuyệt vời làm sao. Cậu thậm chí đã được phép tiếp cận một chương trong thần thoại cổ đại rồi ư. Quả không hổ danh là Đứa con của Thần.”
 
-“Hừ, bị người ta đánh cho thảm hại rồi phong ấn nó đi như một lịch sử đen tối à. Hành xử chẳng khác gì mấy đứa học sinh.”
+“Hừ, bị người ta đánh cho tan tác tơi bời rồi vội vàng phong ấn nó đi như một vết nhơ lịch sử đen tối à. Hành xử ấu trĩ chẳng khác gì mấy đứa học sinh cấp hai che giấu nhật ký.”
 
-Tôi bắt đầu lờ mờ nhìn ra được bức tranh toàn cảnh rồi.
+Bức tranh toàn cảnh về thế giới này đang dần dần hiện rõ từng mảng ghép trong tâm trí tôi.
 
-Trong quá khứ, Ma Vương là có thật. Elshion đã thua Ma Vương. Kết quả là ở thế giới hiện tại, tầm ảnh hưởng của Nữ thần và Ma Vương đang ở thế giằng co chia đôi thiên hạ, và quân cờ để lật ngược thế cờ đó chính là Dũng Giả.
+Trong quá khứ xa xưa, Ma Vương là thực thể hoàn toàn có thật. Và Nữ thần Elshion đã từng thảm bại dưới tay Ma Vương. Hệ quả là ở kỷ nguyên hiện tại, tầm ảnh hưởng của Nữ thần và Ma Vương vẫn đang ở thế giằng co chia đôi thiên hạ, và quân cờ định mệnh được ném vào bàn cờ để lật ngược thế trận chính là các Dũng Giả.
 
-Chung quy lại thì đây cũng chỉ là một cuộc tranh giành quyền lực đơn thuần. Cứu rỗi thế giới cái nỗi gì? Là tự cứu lấy bản thân mình thì có. Nếu thế lực Ma Vương thống trị thế giới, thế lực Nữ thần chắc chắn sẽ bị tiêu diệt sạch sẽ.
+Chung quy lại, đây cũng chỉ là một cuộc chiến tranh giành quyền lực trần trụi và tàn khốc. Cứu rỗi thế giới cái nỗi gì? Chẳng qua là lũ Thần linh đang tìm cách tự cứu lấy cái ngai vàng của chính mình mà thôi. Nếu phe Ma Vương trỗi dậy thống trị thế giới, thần quyền của phe Nữ thần Elshion chắc chắn sẽ bị nhổ tận gốc và tiêu diệt sạch bóng.
 
-Có điều, tôi vẫn chưa rõ ‘Ma Vương’ là một con người được ban cho thiên chức 『Ma Vương』, hay bản thân ông ta là một vị thần được gọi là Ma Vương Thần. Vốn dĩ cũng có trường hợp ban đầu chỉ là người thường, nhưng sau khi trở thành anh hùng huyền thoại thì sau khi chết được thăng hoa thành Thần.
+Có điều, tôi vẫn chưa rõ ‘Ma Vương’ là một con người được ban cho thiên chức 『Ma Vương』, hay bản thân kẻ đó chính là một vị thần tối cao được xưng tụng là Ma Vương Thần. Vốn dĩ ở dị giới này, việc một phàm nhân lập nên chiến công cái thế rồi sau khi chết được tín ngưỡng thăng hoa thành Thần linh vốn chẳng phải chuyện hiếm hoi gì.
 
-Dù sao đi nữa, việc xác nhận được rằng không phải toàn bộ thế giới này đều nằm dưới sự thống trị của Nữ thần Elshion đã là quá đủ rồi.
+Dù sao đi nữa, việc xác nhận được rằng không phải toàn bộ thế giới này đều nằm trọn dưới bàn tay thống trị của Nữ thần Elshion đã là một thắng lợi tình báo quá lớn.
 
-And chúng tôi nghiễm nhiên thuộc về phe Ma Vương.
+Và chúng tôi nghiễm nhiên thuộc về phe Ma Vương.
 
-Bởi vì Ruinhilde có vẻ như là con gái của Ma Vương. Chính bà đã vung thanh đại kiếm và nói “Thanh kiếm của cha ta”, rồi dùng 『Vô Mệnh Thủ Đoạn』 thổi bay hóa thân của Elshion.
+Bởi lẽ Chú Thần Ruinhilde rất có thể chính là con gái của Ma Vương cổ đại. Chính bà đã vung thanh đại kiếm ngút trời và thốt lên “Thanh kiếm của cha ta”, rồi dùng chính tuyệt kỹ 『Vô Mệnh Thủ Đoạn』 để thổi bay hóa thân của Elshion.
 
-“Nếu cậu còn câu hỏi nào khác, xin cứ tự nhiên. Trong phạm vi có thể trả lời, tôi rất sẵn lòng giải đáp.”
+“Nếu cậu còn bất kỳ thắc mắc nào khác, xin cứ tự nhiên. Trong phạm vi quyền hạn cho phép, tôi rất sẵn lòng giải đáp.”
 
-“Tôi vẫn còn nhiều điều muốn hỏi lắm, nhưng mà—”
+“Tôi vẫn còn khối điều muốn chất vấn đấy, nhưng mà—”
 
-Phải rồi, nếu Lilith đã tự nhận là kẻ thù của tôi, thì tôi chẳng việc gì phải ngần ngại hỏi mấy câu quấy rối tình dục cả. Đối mặt với một mỹ nhân ngực khủng như thế này, cơ hội để hỏi một cách hợp pháp về số đo ba vòng hay màu quần lót giống như mấy buổi phỏng vấn đầu phim AV thế này hiếm khi có được lắm.
+Phải rồi, nếu Lilith đã công khai thừa nhận mình là kẻ địch sinh tử của tôi, thì tôi chẳng việc gì phải giữ kẽ hay ngần ngại tung ra mấy lời quấy rối bậy bạ. Đối diện với một mỹ nhân sở hữu bộ ngực khủng đầy đặn thế này, cơ hội danh chính ngôn thuận để tra hỏi số đo ba vòng hay màu nội y giống như mấy màn phỏng vấn mở đầu phim người lớn hiếm khi nào có được lần thứ hai trong đời.
 
-Thật đáng tiếc là không thể làm vậy, vì thời gian của chúng tôi không còn nhiều nữa. Từ đây trở đi, chỉ có thể dùng thực lực để nói chuyện thôi.
+Chỉ tiếc là tình thế ngặt nghèo không cho phép tôi bông đùa. Thời gian đang cạn dần từng khắc. Từ giây phút này trở đi, chỉ có thể dùng nắm đấm và ma pháp để nói chuyện mà thôi.
 
-“—Lên hết sức mình nào, Oh-ma, Yokomichi!”
+“—Dốc toàn lực nghênh chiến, Oh-ma, Yokomichi!”
 
-Tay phải nắm chặt 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』, tay trái cầm 『Vô Đạo Nhất Thức』, tôi dồn toàn bộ ma lực vào chúng.
+Bàn tay phải siết chặt trượng ma thuật 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』, tay trái nắm chắc thanh kiếm nguyền rủa 『Vô Đạo Nhất Thức』, tôi lập tức bơm toàn bộ lượng ma lực cuồng bạo trong kinh mạch vào cả hai món trang bị.
 
-“Sơ hở sau lưng kìa—!”
+“Sơ hở ngay sau lưng kìa—!”
 
-Và từ phía sau Lilith, đội tiên phong nghi binh mà tôi đã lệnh quay trở lại đột ngột lao ra. Phân thân của tôi cùng với đội triệu hoán thú được trang bị tăng ma lực đồng loạt tấn công Lilith.
+Và ngay từ góc khuất sau lưng Lilith, đội tiên phong nghi binh mà tôi đã âm thầm truyền lệnh vòng lại đột ngột xé gió lao ra. Phân thân rối bóng của tôi cùng với binh đoàn triệu hoán thú được cường hóa toàn bộ ma lực đồng loạt phóng tới như vũ bão.
 
 “Giải phóng 『Hệ Biến Thái Hoàn Toàn』, 『Cự Long Đại Ngạc』!”
 
-Đòn tấn công trực diện là cái đầu rồng khổng lồ được chắp vá, tập trung hoàn toàn vào khối lượng và lực cắn khủng khiếp.
+Đòn tiên phong trực diện là chiếc đầu rồng xương khổng lồ được chắp vá từ nghìn khối thi thể, dồn trọn vẹn sức nặng ngàn cân và lực nghiền nát khủng khiếp cắn thẳng xuống.
 
-“Hỡi mây giông hãy kéo đến, hỡi tia chớp ẩn trong bóng tối, hãy giáng xuống bàn tay phán xét— 『Hoang Thiên Lạc Lôi』!”
+“Hỡi mây dông hãy kéo đến, hỡi tia chớp ẩn mình trong bóng tối vĩnh hằng, hãy giáng xuống bàn tay phán quyết thiêng liêng— 『Hoang Thiên Lạc Lôi』!”
 
-Vừa ép đối phương từ trước ra sau bằng số lượng và khối lượng, tôi vừa dội sấm sét diện rộng từ trên đầu xuống để triệt tiêu đường lui. Lũ thuộc hạ tôi tung ra đương nhiên cũng sẽ bị vạ lây, nhưng chúng không phải là người sống nên tôi có bắn trúng đồng đội bao nhiêu lần cũng chẳng sao.
+Vừa bọc lót ép chặt đối phương từ trước ra sau bằng số lượng và khối lượng đè bẹp, tôi vừa dội một trận bão lôi điện cuồng nộ từ trên đỉnh đầu xuống để triệt tiêu mọi đường lui của ả. Lũ tay sai Undead tôi ném vào đương nhiên cũng sẽ tan xác theo đòn sấm sét, nhưng chúng vốn là lũ xác chết vô tri, tôi có dội bom trúng bao nhiêu lần thì cũng chẳng mảy may bận lòng.
 
-Nhưng quân bài chủ lực, tất nhiên vẫn là nàng 『Cuồng Chiến Binh』 đáng tin cậy.
+Thế nhưng, đòn sát thủ kết liễu thực sự, dĩ nhiên vẫn thuộc về nàng 『Cuồng Chiến Binh』 đáng tin cậy nhất của tôi.
 
 “—『Hắc Nại』!”
 
-Thanh 『Bát Táp Ngưu Ma Đao』 cuồn cuộn luồng oán khí nguyền rủa được vung xuống từ trên đỉnh đầu.
+Thanh 『Bát Táp Ngưu Ma Đao』 cuồn cuộn luồng hắc khí nguyền rủa tanh nồng rít lên một tiếng xé gió, chém thẳng xuống từ đỉnh đầu với một góc độ tuyệt mỹ không một kẽ hở.
 
-Chuỗi tấn công này được thực hiện hoàn toàn đồng thời. Những màn phối hợp kiểu này là sở trường của chúng tôi, đặc biệt là giữa tôi và Mei.
+Chuỗi liên hoàn kích này được kích hoạt hoàn toàn đồng thời chỉ trong một phần mười giây. Những pha phối hợp tác chiến chớp nhoáng thế này vốn là bản năng ăn ý tuyệt đối giữa tôi và Mei.
 
-Không cần tôi phải giải thích, cô ấy cũng tự hiểu rằng việc tôi luyên thuyên với Lilith dưới danh nghĩa thu thập thông tin thực chất là để câu giờ cho đội tiên phong quay lại.
+Chẳng cần tôi phải mở miệng ra hiệu, cô ấy thừa thông minh để hiểu rằng việc tôi đứng luyên thuyên đấu khẩu với Lilith dưới danh nghĩa thu thập thông tin thực chất là màn kịch câu giờ hoàn hảo để đội tiên phong bí mật di chuyển vào vị trí mai phục.
 
-Và ngay khi họ đến nơi, cái vung trượng của tôi chính là tín hiệu khai chiến.
+Và ngay khoảnh khắc quân cờ đã vào thế, cú vung trượng dứt khoát của tôi chính là phát súng lệnh khai hỏa.
 
-Lũ triệu hoán thú và những khối thịt lao vào như vũ bão. Sấm sét trút xuống như mưa.
+Bầy triệu hoán thú gầm rú điên cuồng lao vào xâu xé. Mưa sấm sét chát chúa trút xuống như tận thế.
 
-Và trước lưỡi đao đang áp sát của nàng Cuồng Chiến Binh, Lilith cuối cùng cũng nâng thánh kiếm lên.
+Và ngay trước lưỡi đao đen kịt mang theo uy lực xé toạc không gian đang áp sát chân mày, nữ Dũng Giả Lilith cuối cùng cũng chậm rãi nâng thanh thánh kiếm lên ngang ngực.
 
 “Ánh sáng ơi, hãy hiện hữu.”
 
-Chỉ một câu duy nhất.
+Chỉ một câu thần chú nhẹ tựa lông hồng.
 
-Và chỉ với một câu đó, mọi thứ biến mất.
+Thế nhưng, chỉ bằng một câu nói bình thản ấy, toàn bộ thế giới trước mắt chúng tôi bỗng chốc bốc hơi.
 
-“...Hả?”
+“...Cái... cái gì cơ?”
 
-Kẻ đầu tiên biến mất là phân thân của tôi đang hăm hở lao vào. Tôi đã định bụng nếu có cơ hội sẽ kích hoạt 『Tóc Đen Trói Buộc』 quấn chặt lấy cơ thể cô ta để tự mình khóa chặt đối phương.
+Kẻ đầu tiên tan biến vào hư vô chính là phân thân rối bóng của tôi đang hăm hở lao tới. Tôi đã tính toán sẵn rằng nếu có cơ hội áp sát, tôi sẽ lập tức kích hoạt ma pháp 『Tóc Đen Trói Buộc』 quấn chặt lấy tứ chi của cô ta để biến bản thân thành một chiếc lồng giam tự sát khóa cứng đối phương.
 
-Thế nhưng, ngay khi một luồng sáng xanh lục nhạt lóe lên từ thanh 『Thánh Kiếm Ánh Sáng』 được giơ cao, phân thân của tôi liền tan biến. Nó hóa thành những hạt ma lực mịn màng rồi bốc hơi như tro bụi.
+Thế nhưng, ngay khi một luồng ánh sáng xanh lục nhạt lóe lên từ thanh 『Thánh Kiếm Ánh Sáng』 được dựng thẳng đứng, phân thân của tôi liền rã rời. Nó vỡ vụn thành hàng triệu hạt ma lực li ti rồi tan biến vào không khí tựa như tro tàn bị gió cuốn.
 
-Tiếp theo là những bộ xương được trang bị tăng ma lực. Ngay sau đó, những xác sống cấp cao được tăng cường thể chất cũng biến mất, và thậm chí cả Tank với thân hình hộ pháp cũng không trụ nổi một giây.
+Kế đó là những bộ xương ma thuật được tăng cường ma lực. Liền ngay sau đó, những xác sống cấp cao được gia cố thể chất tối đa cũng bốc hơi không một dấu vết. Thậm chí gã khổng lồ Tank với thân hình hộ pháp bằng thép đặc cũng không trụ nổi lấy một cái chớp mắt.
 
-Nhưng điều đáng kinh ngạc hơn cả là ngay cả 『Cự Long Đại Ngạc』 với khối lượng khổng lồ vượt trội cũng biến mất một cách quá đỗi dễ dàng.
+Nhưng điều khiến tim tôi thắt lại trong nỗi kinh hoàng tột độ là ngay cả 『Cự Long Đại Ngạc』 với khối lượng khổng lồ vượt trội nặng hàng chục tấn cũng bị xóa sổ một cách quá đỗi dễ dàng.
 
-Cái quái gì thế này? Thuộc tính Quang khắc chế Undead cũng không đến mức vô lý như vậy chứ. Chỉ cần bị ánh sáng từ thánh kiếm của Lilith chiếu vào, tất cả đều chịu hiệu ứng tức tử không khác gì bị xóa sổ.
+Cái quái quỷ gì đang diễn ra thế này?! Dẫu biết thuộc tính Quang có khả năng khắc chế thuộc tính Hắc Ám và Undead, nhưng cũng tuyệt đối không thể nào vô lý đến mức phi nhân tính như vậy! Chỉ cần bị vầng sáng từ thánh kiếm của Lilith chạm nhẹ vào, tất cả mọi tạo vật tà thuật đều lập tức chịu hiệu ứng tử vong tức thì, không khác gì bị xóa bỏ hoàn toàn khỏi quy luật tồn tại của thế giới.
 
-Hơn nữa, thứ biến mất không chỉ có bấy nhiêu.
+Kinh hoàng hơn nữa, thứ bị ánh sáng nuốt chửng không chỉ dừng lại ở các sinh thể Undead.
 
-Đám mây đen của Oh-ma đang cuộn xoáy trên đầu Lilith để gọi sấm sét cũng bị thổi bay như thể nó cũng nằm trong phạm vi tác dụng.
+Đám mây giông của Oh-ma đang cuồn cuộn vần vũ trên đỉnh đầu Lilith để gọi sấm sét cũng bị quét sạch bách như thể nó cũng nằm trọn trong vùng thanh tẩy.
 
-Thậm chí, không chỉ có mây, ngay cả những tia sét đang trên đường giáng xuống cũng biến mất. Những tia chớp đột ngột dừng lại giữa không trung rồi tan biến ở khoảnh khắc tiếp theo trông cứ như một trò ảo giác.
+Thậm chí, không chỉ có mây đen, ngay cả những tia sét chát chúa đang trên đà bổ xuống giữa chừng cũng biến mất không một dấu vết. Những lằn chớp xé rách không trung đột ngột khựng lại rồi tan biến vào thinh không chỉ trong tích tắc, trông hệt như một trò ảo thuật rẻ tiền được dàn dựng công phu.
 
-Bằng cách đưa mọi thứ trở về hư vô chỉ bằng một vầng sáng, người duy nhất còn sót lại là Mei.
+Bằng cách xóa sổ toàn bộ đòn công kích liên hoàn và đưa vạn vật trở về cát bụi chỉ bằng một cái phất kiếm, người duy nhất còn đứng vững trên chiến trường lúc này... chỉ còn lại Mei.
 
 “Hự...”
 
-“Một nhát chém sắc bén, nặng nề, và trên hết là mang theo quyết tâm tất sát. Đây là tài năng của 『Cuồng Chiến Binh』, không, phải là của riêng cô sao?”
+“Một nhát chém sắc bén, nặng nề, và trên hết là mang theo quyết tâm tất sát đến cùng cực. Đây là tài năng thiên bẩm của thiên chức 『Cuồng Chiến Binh』, hay... phải gọi đó là bản lĩnh phi thường của riêng một mình cô?”
 
-Lilith vừa nói vừa dùng một tay đỡ nhẹ nhàng nhát chém 『Hắc Nại』 của Mei bằng thanh thánh kiếm, thái độ như thể đang chăm chú đánh giá đối thủ.
+Lilith cất giọng nhẹ nhàng, một tay nhấc bổng thanh thánh kiếm đỡ trọn nhát chém kinh thiên động địa 『Hắc Nại』 của Mei. Thái độ của ả thong thả tựa như một bậc thầy kiếm đạo đang chăm chú thẩm định tài năng của một môn đồ trẻ tuổi.
 
-Hiệu lực từ ánh sáng của thánh kiếm dường như đã tác động lên cả món vũ khí nguyền rủa 『Bát Táp Ngưu Ma Đao』, khiến luồng oán khí bao quanh lưỡi đao hoàn toàn biến mất.
+Quang năng thuần khiết tỏa ra từ lưỡi thánh kiếm dường như đang trực tiếp áp chế lên thanh ma đao nguyền rủa 『Bát Táp Ngưu Ma Đao』, khiến lớp hắc khí oán hận bao bọc quanh lưỡi đao bị xua tan hoàn toàn.
 
-Dù vậy, khi Mei dồn lực ép kiếm xuống trong thế giằng co, luồng oán khí đỏ đen lại cuồn cuộn bốc lên như thể sức mạnh lại được trào dâng.
+Dẫu vậy, khi Mei nghiến chặt răng dồn toàn bộ trọng lượng cơ thể ép lưỡi đao xuống trong thế giằng co sinh tử, luồng oán khí đỏ đen lại một lần nữa cuồn cuộn bùng cháy dữ dội như một ngọn núi lửa đang trào dâng dung nham phẫn nộ.
 
-“Nhận được 『Thiên chức』 chưa đầy một năm mà đã có được sức mạnh thế này. Thiên tài thực sự quả là đáng sợ. Tôi đã phải mất tới 20 năm mới chạm tới cảnh giới này đấy.”
+“Nhận được 『Thiên chức』 chưa đầy một năm mà đã tôi luyện được sức mạnh bạt sơn đảo hải đến nhường này. Thiên tài thực thụ quả là sinh vật đáng sợ. Kẻ tầm thường như tôi đã phải trầy vi tróc vảy mất tới 20 năm ròng rã mới chạm tới được cảnh giới này đấy.”
 
-“Kotarou-kun... chạy đi.”
+“Kotarou-kun... mau chạy đi!”
 
-*Hãy chạy đi một mình.* Chỉ sau một hiệp đấu kiếm duy nhất mà Mei đã phải thốt ra lời đó sao.
+*Hãy chạy đi một mình đi!* Chỉ sau một hiệp chạm kiếm chớp nhoáng mà Mei đã phải cất lên tiếng kêu tuyệt vọng đến xé lòng ấy sao?
 
-Chết tiệt, khoảng cách thực lực lại lớn đến mức này ư? Chúng tôi, những kẻ đã vượt qua bao thử thách để phá đảo dungeon, lại bị cô ta thong thả hóa giải toàn bộ đòn tấn công trong lúc vừa cười nói vừa trò chuyện.
+Khốn kiếp thật, khoảng cách thực lực giữa chúng tôi và ả ta lại thăm thẳm đến mức tuyệt vọng thế này ư? Chúng tôi—những kẻ đã nghiền nát bao nhiêu Boss dungeon, vượt qua vô vàn cửa tử để chinh phục Albion—vậy mà giờ đây toàn bộ đòn sát thủ lại bị cô ta thong dong hóa giải như trò đùa trẻ con trong lúc vẫn nở nụ cười đàm đạo.
 
 Nữ Dũng Giả Lilith.
 
-Kẻ này sâu không thấy đáy, và tôi hoàn toàn không nhìn ra bất kỳ sơ hở nào để khai thác.
+Người phụ nữ này thâm sâu không thấy đáy, và đôi mắt tinh tường của tôi hoàn toàn bất lực trong việc tìm ra dù chỉ một kẽ hở nhỏ nhất để khai thác.
 
-“Nhanh lên, chạy đi—!”
+“Nhanh lên, chạy đi ngay lập tức—!”
 
-“Ý chí sẵn sàng hy sinh bản thân mà không hề do dự. Đó cũng là kỹ năng của 『Cuồng Chiến Binh』 sao? Hay là...”
+“Ý chí sẵn sàng hy sinh thân mình mà không mảy may do dự một giây. Đó cũng là một hiệu ứng kỹ năng của 『Cuồng Chiến Binh』 sao? Hay là...”
 
-“Còn phải hỏi sao! Tớ chỉ có bấy nhiêu thôi... Việc duy nhất tớ có thể làm cho Kotarou-kun lúc này chỉ có thế này thôi!!”
+“Còn phải hỏi cái câu thừa thãi đó sao! Tớ chỉ có bấy nhiêu sức mọn thôi... Việc duy nhất tớ có thể làm cho Kotarou-kun vào lúc này chỉ có việc này mà thôi!!”
 
-“Là tình yêu sao. Thật khiến người ta hơi ghen tị đấy.”
+“Là tình yêu sao. Thật sự khiến một kẻ cô độc như tôi cảm thấy có chút ghen tị đấy.”
 
-Dù Mei đã thể hiện quyết tâm đến mức đó, tôi vẫn không thể lập tức quay đầu bỏ chạy trối chết.
+Dù Mei đã thể hiện sự kiên quyết đến mức sẵn sàng liều mạng, tôi tuyệt đối không thể nào quay đầu tháo chạy như một con chó hèn nhát.
 
-Đúng là giữa chúng tôi đã xây dựng được sự tin tưởng vững chắc đến mức cô ấy tin rằng chỉ cần tôi thoát được, tôi chắc chắn sẽ quay lại cứu cô ấy. Dù sức mạnh của 『Cuồng Chiến Binh』 vượt trội hơn nhiều, nhưng một 『Chú thuật sư』 như tôi có thể bày mưu tính kế hãm hại kẻ thù sau khi thu thập thông tin và chuẩn bị chu đáo. Giống như cách tôi đã giật sập vương quốc Goma, Mei tin rằng tôi cũng có thể hủy diệt vương quốc loài người Astoria này.
+Đúng là giữa hai đứa tôi đã hun đúc được một niềm tin son sắt đến mức cô ấy tin rằng chỉ cần tôi còn sống sót thoát khỏi đây, tôi nhất định sẽ tìm ra cách quay lại giải cứu cô ấy. Dù sức mạnh cận chiến của 『Cuồng Chiến Binh』 vượt trội hơn tôi gấp bội, nhưng một 『Chú thuật sư』 am hiểu cạm bẫy như tôi hoàn toàn có thể bày mưu tính kế hãm hại kẻ thù sau khi thu thập đủ tin tức tình báo. Giống như cách tôi đã từng giật sập cả một vương quốc Goma hùng mạnh, Mei tin rằng tôi cũng có thể nghiền nát cái vương quốc loài người Astoria thối nát này.
 
-Nhưng mà, tôi tự thấy mình cũng là kẻ biết nghĩ cho đồng đội... Tôi không thể nhẫn tâm đến mức bỏ mặc người phụ nữ mình yêu chỉ trong một nốt nhạc để lo thân mình.
+Thế nhưng, tôi tự biết mình trước hết vẫn là một thằng đàn ông biết nghĩ cho người mình thương... Tôi tuyệt đối không thể nhẫn tâm đến mức trơ mắt nhìn người phụ nữ yêu mình liều chết cản đường rồi cắm đầu bỏ chạy chỉ trong một nốt nhạc.
 
-“Làm ơn đi, Rem. Chỉ còn biết trông cậy vào em thôi.”
+“Làm ơn đi, Rem. Lúc này chỉ còn biết trông cậy vào em thôi!”
 
-Tôi lập tức giải trừ trạng thái khổng lồ hóa của Rem đang làm loạn dưới quảng trường Thiên Tống Môn.
+Tôi lập tức kích hoạt ấn chú giải trừ trạng thái khổng lồ hóa của Rem đang làm loạn dưới quảng trường Thiên Tống Môn phía sau lưng.
 
-Sau đó triệu hồi cô bé lại đây, rồi một lần nữa kích hoạt khổng lồ hóa để lao vào Lilith.
+Ngay lập tức triệu hồi cô bé về lại bên mình, rồi không một giây chần chừ, tôi tiếp tục rót cạn sinh lực để kích hoạt cấm thuật khổng lồ hóa một lần nữa lao thẳng vào Lilith.
 
-Việc kích hoạt khổng lồ hóa liên tục gây ra gánh nặng rất lớn cho cả tôi và Rem, nhưng đây là lúc bắt buộc phải liều mạng.
+Việc ép một cơ thể thi thể khổng lồ hóa liên tục hai lần trong thời gian ngắn tạo ra một áp lực xé rách kinh hoàng lên cả thể xác của tôi lẫn Rem, nhưng đây là khoảnh khắc sinh tử bắt buộc phải liều mạng đánh cược.
 
-“Xin lỗi nhé, Mei-chan. Ráng chịu đựng thêm chút nữa thôi.”
+“Xin lỗi nhé, Mei-chan. Ráng cắn răng chịu đựng thêm một chút nữa thôi!”
 
-“Không được đâu, Kotarou-kun... Người phụ nữ này...”
+“Không được đâu, Kotarou-kun... Người phụ nữ này thật sự...”
 
-“Trước tiên, tôi xin phép được bắt giữ 『Cuồng Chiến Binh』 Futaba Meiko trước vậy— 『Thần Thánh Ngôn Ngữ "Lời Thề"』.”
+“Trước tiên, tôi xin phép được phong tỏa và bắt giữ 『Cuồng Chiến Binh』 Futaba Meiko trước vậy— 『Thần Thánh Ngôn Ngữ "Lời Thề"』.”
 
-Một lần nữa, thanh thánh kiếm của nữ Dũng Giả lại tỏa sáng rực rỡ.
+Một lần nữa, thanh thánh kiếm trong tay nữ Dũng Giả lại bùng lên một vầng hào quang chói lòa nuốt chửng cả không gian.
 
-“Lilith Godland Astoria thề nguyện. Thực hiện một cuộc quyết đấu công bằng với Cuồng Chiến Binh— 『Hắc Thánh Hòm』.”
+“Lilith Godland Astoria xin thành tâm thề nguyện. Khởi tạo một cuộc quyết đấu công bằng tuyệt đối với Cuồng Chiến Binh— 『Hắc Thánh Hòm』.”
 
-Ngay lập tức, một cột sáng khổng lồ trút xuống, nuốt chửng cả Mei và Lilith vào trong.
+Ngay tức khắc, một cột sáng khổng lồ từ trên trời cao giáng xuống xé toạc đại địa, nuốt chửng hoàn toàn cả bóng hình của Mei lẫn Lilith vào bên trong.
 
 ◇◇◇
 
-“—Đây là đâu?”
+“—Nơi này... là đâu?”
 
-Trải qua một màn tối sầm tương tự như khi dịch chuyển, Mei lấy lại thị giác và không khỏi hoang mang.
+Trải qua một thoáng chớp mắt tối sầm tựa như khi bước qua cánh cổng dịch chuyển, Mei dần dần lấy lại thị giác và không khỏi bàng hoàng thảng thốt.
 
-Nơi cô đang đứng không còn là Quảng trường Tinh Linh lúc nãy nữa.
+Mảnh đất cô đang đặt chân lên không còn là Quảng trường Tinh Linh rợp bóng cây cỏ lúc nãy nữa.
 
-“Đây là lần đầu tiên cô trải nghiệm 『Dịch chuyển ma pháp』 sao?”
+“Đây là lần đầu tiên cô được đích thân trải nghiệm 『Dịch chuyển ma pháp』 chân chính sao?”
 
-Nhận ra Lilith đang cất tiếng như một hướng dẫn viên du lịch, Mei nhanh chóng lùi lại phòng thủ, một lần nữa thủ thế với lưỡi đao nguyền rủa.
+Nhận ra giọng nói trong trẻo của Lilith đang cất lên đều đều tựa như một hướng dẫn viên du lịch nhàn nhã, Mei lập tức lùi phắt lại phía sau lập thế thủ, một lần nữa dựng thẳng lưỡi đao nguyền rủa chắn trước ngực.
 
-Cô vừa gườm gườm nhìn Lilith vừa quan sát không gian xung quanh.
+Cô vừa trừng mắt gườm gườm nhìn Lilith, vừa căng mắt quan sát toàn bộ không gian kỳ dị xung quanh.
 
-Không gian bên trong căn phòng trắng toát này trông rất giống quảng trường Thiên Tống Môn của đại thánh đường.
+Kiến trúc bên trong căn phòng trắng toát không một hạt bụi này trông rất giống quảng trường Thiên Tống Môn của đại thánh đường.
 
-Thế nhưng, nơi này rộng lớn đến mức không thấy điểm dừng. Sàn nhà và những cây cột tròn màu trắng tinh kéo dài vô tận về mọi phía.
+Thế nhưng, quy mô của nơi này rộng lớn đến mức rợn ngợp, hoàn toàn không nhìn thấy đường chân trời hay điểm dừng. Mặt sàn lát đá cẩm thạch trắng và những hàng cột trụ tròn khổng lồ màu tuyết trắng cứ thế kéo dài vô tận về mọi phía.
 
-Không nhìn thấy bầu trời, nhưng trần nhà cũng chẳng thấy đâu. Rốt cuộc nơi này cao đến mức nào chứ?
+Không hề có bầu trời xanh hay mặt trời, nhưng nhìn lên trên cũng chẳng thấy trần nhà đâu cả. Rốt cuộc không gian này cao đến mức nào chứ?
 
-Một không gian khổng lồ kỳ lạ, thiếu thực tế khiến cô dâng lên một chút bất an. Sẽ rất rắc rối nếu bị giam cầm ở một nơi thế này.
+Một không gian dị giới khổng lồ, siêu thực và quỷ dị đến mức khiến lồng ngực cô dâng lên một nỗi bất an tột độ. Sẽ là một thảm họa khủng khiếp nếu bị cầm tù vĩnh viễn ở một nơi ma quái như thế này.
 
-“Xin cứ yên tâm. Dù cô có thắng, cô vẫn có thể quay trở về nơi cũ một cách an toàn.”
+“Xin cô cứ yên tâm. Dù cô có giành chiến thắng trong trận đấu này, cô vẫn có thể quay trở về thế giới thực tại một cách an toàn tuyệt đối.”
 
-Trước lời nói đi guốc trong bụng của Lilith, Mei tự xốc lại tinh thần, tự nhủ lúc này điều duy nhất cần nghĩ là phải đánh bại nữ Dũng Giả trước mắt.
+Trước lời nói dường như đã đi guốc trong bụng mình của Lilith, Mei hít sâu một hơi để tự trấn an tinh thần. Cô tự nhắc nhở bản thân rằng vào lúc này, điều duy nhất và quan trọng nhất cô phải làm bằng mọi giá là đánh gục người phụ nữ trước mắt.
 
-“Vâng, xin cô cứ dốc toàn lực lao vào. Tôi nhường cô ra đòn trước đấy.”
+“Vâng, xin cô cứ dốc toàn bộ sức mạnh lao vào tấn công. Tôi xin phép nhường cô ra đòn trước đấy.”
 
-Như thể đang khiêu khích, không, đó chính xác là một lời khiêu khích. Lilith hạ thế thủ, thậm chí còn không thèm cầm thanh 『Thánh Kiếm Ánh Sáng』, chỉ đứng yên tại chỗ.
+Giọng điệu bình thản tựa như đang khiêu khích—không, đó chính xác là một lời khiêu chiến ngạo nghễ không chút e dè. Lilith thong thả hạ thấp thế kiếm, thậm chí còn buông lỏng tay không thèm thủ thế thanh 『Thánh Kiếm Ánh Sáng』, chỉ đơn giản đứng yên một chỗ như một pho tượng đá.
 
-Vốn dĩ Mei không phải là người hiếu chiến. Dù bị khiêu khích lộ liễu, cô cũng không hề nổi giận.
+Vốn dĩ Mei không phải là mẫu người hiếu chiến hay dễ bị kích động. Dẫu đối phương có buông lời khiêu khích lộ liễu đến đâu, tâm trí cô vẫn phẳng lặng như mặt hồ.
 
-Nếu đối phương đã nhường nước đi trước và không chịu động đậy, cô chợt nghĩ liệu mình cứ đứng yên thế này để câu giờ cho Kotarou chạy trốn có tốt hơn không.
+Nếu kẻ địch đã chủ động nhường nước đi đầu tiên và không chịu nhúc nhích, một ý nghĩ chợt lóe lên trong đầu cô: liệu mình cứ đứng yên bất động thế này để kéo dài tối đa thời gian cho Kotarou chạy trốn có phải là thượng sách hay không?
 
-“Không, mình phải đặt cược tất cả vào đòn đánh này.”
+“Không, mình bắt buộc phải đặt cược toàn bộ sinh mạng vào đòn đánh này!”
 
-Tuy nhiên, Mei đã chọn cách đáp lại lời khiêu khích bằng việc tung ra đòn tấn công có uy lực mạnh nhất ngay từ đầu.
+Thế nhưng, Mei đã dứt khoát chọn cách đáp lại lời khiêu khích bằng việc tung ra đòn sát thủ có uy lực hủy diệt mạnh nhất ngay từ chiêu đầu tiên.
 
-Thực lực của Dũng Giả Lilith vẫn là một ẩn số. Nhưng chắc chắn là vô cùng áp đảo.
+Thực lực thực sự của Dũng Giả Lilith vẫn là một màn sương mù dày đặc. Nhưng có một điều chắc chắn: ả sở hữu sức mạnh áp đảo đến mức tuyệt đối.
 
-Chỉ qua một lần chạm kiếm vừa rồi, cô đã cảm nhận rõ ràng một khoảng cách biệt mà bản thân hiện tại không thể san lấp.
+Chỉ qua một lần va chạm kiếm chớp nhoáng ban nãy, cô đã cảm nhận rõ rệt một bức tường ranh giới sừng sững mà bản thân ở thời điểm hiện tại không tài nào san lấp nổi.
 
-Vì vậy, cô quyết định từ bỏ sự an toàn của bản thân để đánh cược vào cơ hội giúp Kotarou trốn thoát. Dù chỉ một phút thôi cũng được, nếu cô cầm chân được Lilith, Kotarou sẽ có cơ hội chạy thoát.
+Chính vì lẽ đó, cô quyết định vứt bỏ hoàn toàn sự an toàn của bản thân để dốc toàn bộ vốn liếng đánh cược vào cơ hội sống sót của Kotarou. Dù chỉ kéo dài thêm được một phút ngắn ngủi thôi, chỉ cần cô cầm chân được Lilith, Kotarou nhất định sẽ tìm được khe cửa hẹp để thoát thân.
 
-Và chỉ cần thoát khỏi nơi này, chàng 『Chú thuật sư』 chắc chắn sẽ quay lại để đòi lại món nợ này.
+Và chỉ cần thoát khỏi nanh vuốt của kẻ thù, chàng 『Chú thuật sư』 kiệt xuất của cô chắc chắn sẽ bày ra muôn vàn quỷ kế để đòi lại món nợ máu này.
 
-Và trên hết, mục tiêu thực sự của đối phương có vẻ như chính là Kotarou. Không biết bản thân cậu ta có nhận ra điều đó hay không, nhưng Mei tin chắc vào trực giác của mình.
+Và trên hết tất cả, mục tiêu thực sự mà người phụ nữ này nhắm tới ngay từ đầu... chính là Kotarou. Không biết bản thân cậu ta có nhận ra điều bất thường đó hay không, nhưng giác quan nhạy bén của một người con gái mách bảo cho Mei rằng phán đoán của cô không hề sai lầm.
 
-Bởi vì ngay từ khoảnh khắc chạm mặt, người phụ nữ này chỉ chăm chăm nhìn vào mỗi Kotarou.
+Bởi vì ngay từ khoảnh khắc chạm mặt đầu tiên, mọi sự chú ý của người phụ nữ này chỉ dán chặt vào một mình Kotarou.
 
-Dù đôi mắt đã bị che kín bởi dải băng bịt mắt, nhưng ánh mắt mang theo sự chấp niệm và ám ảnh khó tả của cô ta vẫn luôn dính chặt lấy cậu.
+Dẫu đôi mắt đã bị che kín bởi dải băng trắng dày cộm, nhưng cái nhìn mang theo một sự chấp niệm và ám ảnh đến rợn người của ả vẫn luôn bám riết lấy từng cử chỉ của cậu.
 
-Người phụ nữ này rất nguy hiểm. Cô ta rõ ràng đang nhắm vào Kotarou.
+Người phụ nữ này nguy hiểm khôn cùng. Mục tiêu săn đuổi của ả ta đích thực là Kotarou.
 
-Thế nên nếu cô cố tình câu giờ một cách lộ liễu, cô ta có thể sẽ đổi ý và chuyển sang tấn công chớp nhoáng. Hoặc tệ hơn là bỏ mặc cô ở không gian này để tự mình quay lại bắt Kotarou.
+Thế nên nếu cô cố tình giở trò câu giờ lộ liễu, rất có thể ả sẽ lập tức đổi ý và chuyển sang tấn công chớp nhoáng. Hoặc tồi tệ hơn nữa, ả sẽ bỏ mặc cô kẹt lại trong không gian kín này để một mình quay trở lại mặt đất truy bắt Kotarou.
 
-Vậy thì, phải chiến đấu. Nhất là khi đối phương vẫn còn đang tỏ ra chủ quan.
+Nếu đã như vậy, thì chỉ có một con đường duy nhất: Chiến đấu đến hơi thở cuối cùng! Nhất là khi kẻ địch vẫn còn đang chìm trong sự chủ quan ngạo mạn.
 
-Cô phải tung ra đòn tấn công mạnh nhất, dữ dội nhất hiện tại để buộc cô ta phải đổ máu, dù chỉ là một chút.
+Cô bắt buộc phải tung ra đòn tấn công mạnh bạo nhất, cuồng nộ nhất để ép ả ta phải đổ máu, dù chỉ là một vết xước nhỏ.
 
-“『Zagan's Pride』, giải phóng lưỡi đao tối đa—”
+“『Zagan's Pride』, giải phóng toàn bộ giới hạn lưỡi đao—!”
 
-Thời gian tích tụ lực lên tới 10 giây.
+Thời gian tụ lực kéo dài đằng đẵng tới tận 10 giây.
 
-Một đại chiêu để lộ sơ hở quá lớn, hoàn toàn không thực tế trong thực chiến.
+Một đại chiêu có độ trễ quá lớn và để lộ sơ hở mênh mông, hoàn toàn không có tính khả thi trong những trận thực chiến tốc độ cao.
 
-Thế nhưng, sức tàn phá của nó đủ sức chém chết cả một gã khổng lồ.
+Thế nhưng, cái giá của sự đánh đổi đó chính là một sức tàn phá kinh thiên động địa, đủ sức chém ngọt một gã khổng lồ hộ pháp thành muôn mảnh vụn!
 
 “—『Kẻ Diệt Khổng Lồ』!”
 
-Luồng lôi điện đỏ đen phóng ra từ lưỡi đao, tạo thành một thanh cự kiếm màu đen khổng lồ đâm toác cả bầu trời.
+Luồng lôi điện đỏ đen tanh nồng oán khí cuồng bạo phóng vọt ra từ thân đao, ngưng tụ lại thành một thanh cự kiếm hắc ám khổng lồ đâm toạc cả bầu không gian trắng xóa.
 
-Trước đòn tấn công mạnh nhất của 『Cuồng Chiến Binh』 đang giáng xuống như một tòa tháp sụp đổ,
+Trước đòn tất sát kinh hoàng nhất của 『Cuồng Chiến Binh』 đang ầm ầm giáng xuống tựa như một tòa thiên tháp sụp đổ,
 
-“Ra vậy, sức mạnh này quả thật rất đáng để ‘nhìn’ đấy.”
+“Ra vậy, thứ sức mạnh trác tuyệt này quả thật rất đáng để tôi phải mở mắt ‘chiêm ngưỡng’ đấy.”
 
-Lilith chỉ đơn giản đưa tay lên dải băng bịt mắt của mình.`
+Lilith chỉ khẽ mỉm cười, rồi nhẹ nhàng đưa những ngón tay thon thả chạm lên dải băng bịt mắt của mình.`
             },
             {
                 "id": "ep_409",
@@ -106668,6 +106668,86 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **khóa_bảo_vệ:** CÓ
 - **nguồn:** Toàn văn bản dịch
 - **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
+
+---
+
+## [SKILL-021] 『Thần Thánh Ngôn Ngữ "Lời Thề"』
+
+- **id:** SKILL-021
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』
+- **tên_khác:** Holy Language "Oath"
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Kỹ năng thần thánh độc quyền của Dũng Giả Lilith do Nữ thần Elshion ban tặng. Cất lời thề thiêng liêng để kích hoạt các cấm thuật không gian và can thiệp thực tại quy ước.
+
+---
+
+## [SKILL-022] 『Hắc Thánh Hòm』
+
+- **id:** SKILL-022
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Hắc Thánh Hòm』
+- **tên_khác:** Black Holy Ark / Black Ark
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Tuyệt kỹ kết giới không gian của Lilith. Giáng cột sáng khổng lồ phong tỏa và dịch chuyển tức thời đối thủ vào một không gian phòng màu trắng tinh vô tận để tiến hành cuộc quyết đấu công bằng 1vs1 cô lập hoàn toàn với thế giới bên ngoài.
+
+---
+
+## [SKILL-023] 『Kẻ Diệt Khổng Lồ』
+
+- **id:** SKILL-023
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Kẻ Diệt Khổng Lồ』
+- **tên_khác:** Giant Slayer / Zagan's Pride
+- **chủ_sở_hữu:** Futaba Meiko (Cuồng Chiến Binh)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Đại chiêu tất sát giải phóng tối đa lưỡi đao 『Bát Táp Ngưu Ma Đao』 của Cuồng Chiến Binh Futaba Meiko. Yêu cầu tụ lực 10 giây phóng ra lôi điện đỏ đen cuồn cuộn ngưng tụ thành cự kiếm hắc ám đâm toạc bầu trời, đủ sức chém chết cả cự nhân khổng lồ.
+
+---
+
+## [ITEM-022] 『Thánh Kiếm Ánh Sáng』
+
+- **id:** ITEM-022
+- **loại:** VẬT PHẨM & TRANG BỊ
+- **tên_chuẩn:** 『Thánh Kiếm Ánh Sáng』
+- **tên_khác:** Holy Sword of Light
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Thánh kiếm thần ban của Dũng Giả tiền nhiệm Lilith. Tỏa ánh sáng xanh ngọc lục bảo thuần khiết, tinh xảo và áp đảo hơn thanh kiếm của Souma Yuuto. Chỉ cần kích hoạt bằng câu "Ánh sáng ơi, hãy hiện hữu", vầng hào quang lập tức thanh tẩy, đưa toàn bộ ma pháp, sấm sét và sinh vật Undead về hư vô trong chớp mắt.
+
+---
+
+## [ITEM-023] 『Vô Mệnh Thủ Đoạn』
+
+- **id:** ITEM-023
+- **loại:** VẬT PHẨM & TRANG BỊ
+- **tên_chuẩn:** 『Vô Mệnh Thủ Đoạn』
+- **tên_khác:** Lifeless Measure / Thanh kiếm của Ma Vương
+- **chủ_sở_hữu:** Chú Thần Ruinhilde / Cổ Đại Ma Vương
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Thanh đại kiếm màu đen diệt trừ thần ma của Cổ Đại Ma Vương. Chú Thần Ruinhilde (con gái Ma Vương) từng vung thanh kiếm này với câu nói "Thanh kiếm của cha ta" để chém tan nát hóa thân giáng lâm của Nữ thần Elshion.
 `,
             "characters": `# 👥 HỒ SƠ NHÂN VẬT (CHARACTER DATABASE)
 > **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả  
@@ -107451,6 +107531,28 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - **thiên_chức:** Không rõ Thiên Chức
 - **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
 - **mô_tả:** CLB / Vị trí: CLB Minh họa • Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
+
+---
+
+## [CHAR-042] Lilith Godland Astoria
+
+- **id:** CHAR-042
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Lilith Godland Astoria
+- **tên_thường_gọi:** Nữ Dũng Giả Lilith / Lilith
+- **tên_gốc:** リリス・ゴッドランド・アストリア
+- **tên_romaji:** Ririsu Goddorando Asutoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Xuất hiện Tập 408)
+- **thân_phận:** Nữ Dũng Giả tiền nhiệm của Nữ thần Elshion, Thánh Điện Vương quốc Astoria
+- **thiên_chức:** 『Dũng Giả』
+- **vũ_khí:** 『Thánh Kiếm Ánh Sáng』 (Holy Sword of Light)
+- **kỹ_năng_chính:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』, 『Hắc Thánh Hòm』 (Black Ark)
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Nữ Dũng Giả ngực khủng, đeo dải băng bịt kín hai mắt nhưng sở hữu năng lực cảm nhận không gian và sinh mệnh siêu phàm. Mất 20 năm rèn luyện đạt đến cảnh giới tối cao. Có thể hóa giải toàn bộ ma pháp, tạo vật Undead và phân thân thành tro bụi chỉ bằng một vầng quang minh. Đặc biệt mang chấp niệm và ám ảnh bí ẩn nhắm vào Momokawa Kotarou.
 
 `,
             "events": `# DÒNG THỜI GIAN & BIÊN NIÊN SỬ KIỆN (TIMELINE & EVENTS)
@@ -108952,6 +109054,13 @@ Tôi để bản thể ngồi trên Thiết Giáp Ngưu Xa “Raging Bull”, th
 - Momokawa Kotarou triệu tập cuộc họp cơ mật cùng Souma Sakura, Kisaragi Ryouko và Tendou Ryuuichi để triển khai kế hoạch bắt sống Dũng Giả Souma Yuuto.
 - Kotarou phân tích kế hoạch đánh vào tâm lý và điểm yếu trực giác của Yuuto; Sakura kịch liệt phản đối vì cho là phi nhân tính nhưng bị Ryouko và Tendou bác bỏ để bảo đảm tỷ lệ thành công tối đa.
 - Nhóm thống nhất phương án phối hợp chế tác mô hình giả và chuẩn bị bẫy khống chế Dũng Giả.
+
+### Tập 408:
+- Momokawa Kotarou và Futaba Meiko chạm trán Nữ Dũng Giả Lilith Godland Astoria (người được Nữ thần Elshion ban thiên chức Dũng Giả tiền nhiệm) tại lối ra đại thánh đường.
+- Lilith hé lộ thần thoại cổ đại: Nữ thần Elshion từng thảm bại dưới tay Ma Vương, Chú Thần Ruinhilde là con gái của Ma Vương sở hữu đại kiếm 『Vô Mệnh Thủ Đoạn』, thế giới đang giằng co giữa phe Nữ thần và phe Ma Vương.
+- Kotarou và Meiko dốc toàn lực liên hoàn công kích (Phân thân rối bóng, Tank, Cự Long Đại Ngạc, Hoang Thiên Lạc Lôi của Oh-ma, Hắc Nại của Meiko) nhưng toàn bộ ma pháp và tạo vật Undead bị 『Thánh Kiếm Ánh Sáng』 của Lilith thanh tẩy về hư vô chỉ bằng một câu "Ánh sáng ơi, hãy hiện hữu".
+- Lilith sử dụng 『Thần Thánh Ngôn Ngữ "Lời Thề"』 kích hoạt 『Hắc Thánh Hòm』, giáng cột sáng nuốt chửng Futaba Meiko vào không gian màu trắng vô tận để tiến hành quyết đấu 1vs1.
+- Meiko kích hoạt 『Zagan's Pride』 tụ lực 10 giây tung tuyệt kỹ 『Kẻ Diệt Khổng Lồ』 ngưng tụ lôi điện đỏ đen đâm toạc bầu trời, buộc Lilith phải chạm tay mở dải băng bịt mắt.
 `,
             "style_guide": `# Quy Tắc Văn Phong & Định Dạng (Style Guide)
 **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả (呪術師は勇者になれない)

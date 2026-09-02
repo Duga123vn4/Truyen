@@ -13440,3 +13440,83 @@
 - **khóa_bảo_vệ:** CÓ
 - **nguồn:** Toàn văn bản dịch
 - **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
+
+---
+
+## [SKILL-021] 『Thần Thánh Ngôn Ngữ "Lời Thề"』
+
+- **id:** SKILL-021
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』
+- **tên_khác:** Holy Language "Oath"
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Kỹ năng thần thánh độc quyền của Dũng Giả Lilith do Nữ thần Elshion ban tặng. Cất lời thề thiêng liêng để kích hoạt các cấm thuật không gian và can thiệp thực tại quy ước.
+
+---
+
+## [SKILL-022] 『Hắc Thánh Hòm』
+
+- **id:** SKILL-022
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Hắc Thánh Hòm』
+- **tên_khác:** Black Holy Ark / Black Ark
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Tuyệt kỹ kết giới không gian của Lilith. Giáng cột sáng khổng lồ phong tỏa và dịch chuyển tức thời đối thủ vào một không gian phòng màu trắng tinh vô tận để tiến hành cuộc quyết đấu công bằng 1vs1 cô lập hoàn toàn với thế giới bên ngoài.
+
+---
+
+## [SKILL-023] 『Kẻ Diệt Khổng Lồ』
+
+- **id:** SKILL-023
+- **loại:** KỸ NĂNG & MA PHÁP
+- **tên_chuẩn:** 『Kẻ Diệt Khổng Lồ』
+- **tên_khác:** Giant Slayer / Zagan's Pride
+- **chủ_sở_hữu:** Futaba Meiko (Cuồng Chiến Binh)
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Đại chiêu tất sát giải phóng tối đa lưỡi đao 『Bát Táp Ngưu Ma Đao』 của Cuồng Chiến Binh Futaba Meiko. Yêu cầu tụ lực 10 giây phóng ra lôi điện đỏ đen cuồn cuộn ngưng tụ thành cự kiếm hắc ám đâm toạc bầu trời, đủ sức chém chết cả cự nhân khổng lồ.
+
+---
+
+## [ITEM-022] 『Thánh Kiếm Ánh Sáng』
+
+- **id:** ITEM-022
+- **loại:** VẬT PHẨM & TRANG BỊ
+- **tên_chuẩn:** 『Thánh Kiếm Ánh Sáng』
+- **tên_khác:** Holy Sword of Light
+- **chủ_sở_hữu:** Lilith Godland Astoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Thánh kiếm thần ban của Dũng Giả tiền nhiệm Lilith. Tỏa ánh sáng xanh ngọc lục bảo thuần khiết, tinh xảo và áp đảo hơn thanh kiếm của Souma Yuuto. Chỉ cần kích hoạt bằng câu "Ánh sáng ơi, hãy hiện hữu", vầng hào quang lập tức thanh tẩy, đưa toàn bộ ma pháp, sấm sét và sinh vật Undead về hư vô trong chớp mắt.
+
+---
+
+## [ITEM-023] 『Vô Mệnh Thủ Đoạn』
+
+- **id:** ITEM-023
+- **loại:** VẬT PHẨM & TRANG BỊ
+- **tên_chuẩn:** 『Vô Mệnh Thủ Đoạn』
+- **tên_khác:** Lifeless Measure / Thanh kiếm của Ma Vương
+- **chủ_sở_hữu:** Chú Thần Ruinhilde / Cổ Đại Ma Vương
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Thanh đại kiếm màu đen diệt trừ thần ma của Cổ Đại Ma Vương. Chú Thần Ruinhilde (con gái Ma Vương) từng vung thanh kiếm này với câu nói "Thanh kiếm của cha ta" để chém tan nát hóa thân giáng lâm của Nữ thần Elshion.

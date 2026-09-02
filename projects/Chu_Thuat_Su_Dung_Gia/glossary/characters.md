@@ -781,3 +781,25 @@
 - **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
 - **mô_tả:** CLB / Vị trí: CLB Minh họa • Thiên chức: Không rõ Thiên Chức • Ghi chú: ❓ MẤT TÍCH
 
+---
+
+## [CHAR-042] Lilith Godland Astoria
+
+- **id:** CHAR-042
+- **loại:** NHÂN VẬT
+- **tên_chuẩn:** Lilith Godland Astoria
+- **tên_thường_gọi:** Nữ Dũng Giả Lilith / Lilith
+- **tên_gốc:** リリス・ゴッドランド・アストリア
+- **tên_romaji:** Ririsu Goddorando Asutoria
+- **trạng_thái:** ĐÃ XÁC NHẬN
+- **canon:** CHÍNH THỨC
+- **độ_tin_cậy:** TUYỆT ĐỐI
+- **khóa_bảo_vệ:** CÓ
+- **trạng_thái_nhân_vật:** CÒN SỐNG (Xuất hiện Tập 408)
+- **thân_phận:** Nữ Dũng Giả tiền nhiệm của Nữ thần Elshion, Thánh Điện Vương quốc Astoria
+- **thiên_chức:** 『Dũng Giả』
+- **vũ_khí:** 『Thánh Kiếm Ánh Sáng』 (Holy Sword of Light)
+- **kỹ_năng_chính:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』, 『Hắc Thánh Hòm』 (Black Ark)
+- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
+- **mô_tả:** Nữ Dũng Giả ngực khủng, đeo dải băng bịt kín hai mắt nhưng sở hữu năng lực cảm nhận không gian và sinh mệnh siêu phàm. Mất 20 năm rèn luyện đạt đến cảnh giới tối cao. Có thể hóa giải toàn bộ ma pháp, tạo vật Undead và phân thân thành tro bụi chỉ bằng một vầng quang minh. Đặc biệt mang chấp niệm và ám ảnh bí ẩn nhắm vào Momokawa Kotarou.
+

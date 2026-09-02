@@ -1497,3 +1497,10 @@
 - Momokawa Kotarou triệu tập cuộc họp cơ mật cùng Souma Sakura, Kisaragi Ryouko và Tendou Ryuuichi để triển khai kế hoạch bắt sống Dũng Giả Souma Yuuto.
 - Kotarou phân tích kế hoạch đánh vào tâm lý và điểm yếu trực giác của Yuuto; Sakura kịch liệt phản đối vì cho là phi nhân tính nhưng bị Ryouko và Tendou bác bỏ để bảo đảm tỷ lệ thành công tối đa.
 - Nhóm thống nhất phương án phối hợp chế tác mô hình giả và chuẩn bị bẫy khống chế Dũng Giả.
+
+### Tập 408:
+- Momokawa Kotarou và Futaba Meiko chạm trán Nữ Dũng Giả Lilith Godland Astoria (người được Nữ thần Elshion ban thiên chức Dũng Giả tiền nhiệm) tại lối ra đại thánh đường.
+- Lilith hé lộ thần thoại cổ đại: Nữ thần Elshion từng thảm bại dưới tay Ma Vương, Chú Thần Ruinhilde là con gái của Ma Vương sở hữu đại kiếm 『Vô Mệnh Thủ Đoạn』, thế giới đang giằng co giữa phe Nữ thần và phe Ma Vương.
+- Kotarou và Meiko dốc toàn lực liên hoàn công kích (Phân thân rối bóng, Tank, Cự Long Đại Ngạc, Hoang Thiên Lạc Lôi của Oh-ma, Hắc Nại của Meiko) nhưng toàn bộ ma pháp và tạo vật Undead bị 『Thánh Kiếm Ánh Sáng』 của Lilith thanh tẩy về hư vô chỉ bằng một câu "Ánh sáng ơi, hãy hiện hữu".
+- Lilith sử dụng 『Thần Thánh Ngôn Ngữ "Lời Thề"』 kích hoạt 『Hắc Thánh Hòm』, giáng cột sáng nuốt chửng Futaba Meiko vào không gian màu trắng vô tận để tiến hành quyết đấu 1vs1.
+- Meiko kích hoạt 『Zagan's Pride』 tụ lực 10 giây tung tuyệt kỹ 『Kẻ Diệt Khổng Lồ』 ngưng tụ lôi điện đỏ đen đâm toạc bầu trời, buộc Lilith phải chạm tay mở dải băng bịt mắt.

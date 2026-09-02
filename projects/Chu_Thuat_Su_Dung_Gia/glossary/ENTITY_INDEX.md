@@ -25,6 +25,9 @@
 * `[SKILL-018]` **『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』** (Vua Oh-ma)
 * `[SKILL-019]` **『Khổng Lồ Hóa』** (Gigantification - Đại Chiến Sĩ Goma)
 * `[SKILL-020]` **『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』** (Twin Trick)
+* `[SKILL-021]` **『Thần Thánh Ngôn Ngữ "Lời Thề"』** (Holy Language "Oath" - Lilith)
+* `[SKILL-022]` **『Hắc Thánh Hòm』** (Black Holy Ark - Lilith)
+* `[SKILL-023]` **『Kẻ Diệt Khổng Lồ』** (Giant Slayer / Zagan's Pride - Futaba Meiko)
 
 ---
 
@@ -50,6 +53,8 @@
 * `[ITEM-019]` **『Bom Vương Quốc Sụp Đổ』**
 * `[ITEM-020]` **『Mô Hình Ngụy Trang Dũng Giả』**
 * `[ITEM-021]` **『Thánh Vật Cổ Đại Albion』**
+* `[ITEM-022]` **『Thánh Kiếm Ánh Sáng』** (Holy Sword of Light - Lilith)
+* `[ITEM-023]` **『Vô Mệnh Thủ Đoạn』** (Lifeless Measure - Thanh kiếm Ma Vương)
 
 ---
 
