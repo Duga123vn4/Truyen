@@ -2,326 +2,328 @@
 
 “Wonta, con cũng đến tuổi rồi. Ta sẽ giao cho con một nô lệ riêng.”
 
-“Hả, thật ạ! Tuyệt quá, bố ơi!”
+“Hả, thật sao cha?! Tuyệt quá đi mất!”
 
-“Chẳng phải như vậy vẫn còn hơi sớm sao anh?”
+“Liệu như thế có sớm quá không anh?”
 
-Hôm đó, tại căn biệt thự của đồn điền New Hope, Winston đã thông báo với cậu con trai độc nhất của mình trong bữa tối về việc sẽ giao cho cậu một nô lệ chuyên phục vụ riêng.
+Tối hôm đó, tại phòng ăn sang trọng của dinh thự đồn điền New Hope, Winston nhàn nhã buông nĩa, tuyên bố với đứa con trai độc nhất về việc sẽ cắt cử một nô lệ chuyên phục vụ riêng cho cậu ta.
 
-Nghe lời cha nói, cậu con trai Wonta lập tức reo lên đầy vui sướng. Trái lại, người mẹ lại tỏ vẻ ngần ngại.
+Nghe cha nói vậy, thằng nhóc Wonta nhảy cẫng lên reo hò phấn khích. Ngược lại, phu nhân Winston lại cau mày, lộ vẻ ngần ngại.
 
-“Wonta là người sẽ thừa kế đồn điền này. Ngay từ bây giờ, nó cần phải học cách điều khiển nô lệ cho thật tốt.”
+“Wonta là người thừa kế tương lai của cả đồn điền này. Ngay từ bây giờ, nó phải học cách thuần phục và sai bảo nô lệ cho thuần thục.”
 
-Winston nói vậy không hẳn chỉ là để bao biện.
+Winston nói thế không đơn thuần chỉ là biện hộ trước mặt vợ.
 
-Người ta thường nghĩ nô lệ thì muốn mua bao nhiêu chẳng được, nhưng rõ ràng dùng một kẻ đã quen việc vẫn tốt hơn một kẻ mù mờ không biết gì. Cả trong công việc lẫn cách hành xử đối với chủ nhân.
+Người ngoài nhìn vào thường nghĩ nô lệ chỉ là món hàng, bỏ tiền ra là mua được bao nhiêu chẳng có. Thế nhưng, dùng một kẻ đã quen việc, hiểu ý chủ bao giờ cũng tốt hơn loại ngơ ngác chẳng biết gì — từ hiệu suất lao động cho đến cung cách phục tùng chủ nhân.
 
-Đúng như lời vợ ông nói, việc này có hơi sớm một chút, nhưng nếu giao cho con trai một nô lệ nhỏ tuổi, ông có thể dạy dỗ chúng ngay từ bây giờ.
+Đúng như vợ ông lo lắng, quyết định này có phần hơi sớm. Nhưng nếu giao cho con trai một nô lệ trạc tuổi, ông có thể uốn nắn, biến chúng thành tay chân trung thành ngay từ tấm bé.
 
-Đến khi con trai trưởng thành, nếu đã có sẵn những nô lệ đắc lực trong tay, việc tiếp quản và điều hành đồn điền sẽ diễn ra vô cùng suôn sẻ.
+Chờ đến khi Wonta trưởng thành, trong tay đã có sẵn đám gia nô đắc lực răm rắp nghe lời, việc tiếp quản cả cơ nghiệp đồn điền sẽ thuận buồm xuôi gió biết bao.
 
-Tất nhiên, tấm lòng cha mẹ như vậy thì đứa con trai chỉ vừa mới qua tuổi lên mười làm sao mà hiểu được.
+Tất nhiên, tấm lòng toan tính sâu xa của bậc làm cha làm mẹ, một thằng nhóc miệng còn hôi sữa chỉ vừa qua tuổi lên mười như Wonta làm sao thấu được.
 
-“Này bố, con muốn đứa kia cơ, cái đứa vừa mạnh mẽ lại có ngực bự ấy!”
+“Cha ơi, con muốn con nhỏ kia cơ! Cái đứa vừa khỏe mà ngực lại to ấy!”
 
-“Riza là nguồn thu nhập chính của chúng ta nên không được. Hơn nữa, con bé đó quá nguy hiểm.”
+“Riza là nguồn thu chính của đồn điền chúng ta, không thể trao cho con được. Hơn nữa, ả ta quá nguy hiểm.”
 
-Mới vài ngày trước, khi vô tình chứng kiến khí thế chiến sĩ của Riza ở cự ly gần, Winston đã phải toát mồ hôi hột trong lòng.
+Nhắc đến ả, trong lòng Winston vẫn còn thấy rợn người khi nhớ lại khí thế hung hãn của Riza ở cự ly gần cách đây vài ngày.
 
-Chỉ nhờ việc ăn uống được cải thiện một chút mà cơ thể con bé đó lại có thể phát triển đến mức ấy sao. Ông nghĩ nếu bây giờ cô ta thực sự nổi loạn, lực lượng cảnh vệ đáng tự hào của ông chắc chắn sẽ có người thương vong.
+Chỉ nhờ khẩu phần ăn được cải thiện đôi chút mà thể trạng ả nô lệ đó đã hồi phục đến mức kinh người. Ông thầm nghĩ, nếu ả thực sự phát điên làm phản, lực lượng cảnh vệ tinh nhuệ đáng tự hào của ông chắc chắn sẽ phải trả giá bằng máu.
 
-“Ngày mai ta sẽ dẫn chúng đến cho con. Nhớ phải dạy dỗ cho nghiêm chỉnh đấy.”
+“Sáng mai ta sẽ dẫn người đến cho con. Nhớ phải dạy dỗ cho nghiêm chỉnh đấy.”
 
-“Vâng ạ, cứ giao cho con!”
+“Vâng ạ! Cha cứ để đấy cho con!”
 
-Và sáng hôm sau, Winston dẫn hai nô lệ đến trước mặt Wonta.
+Và sáng hôm sau, Winston dẫn hai đứa trẻ nô lệ đến đứng trước mặt Wonta.
 
 “Tôi là... Caron.”
 
 “Tôi là... Latina...”
 
-“Cái gì thế này, toàn lũ nhóc ranh.”
+“Gì thế này? Toàn lũ ranh con yếu ớt!”
 
-Wonta lộ rõ vẻ thất vọng trên khuôn mặt, nhưng xét về việc chọn người, ngoài hai đứa trẻ nô lệ này ra thì không còn ai phù hợp hơn.
+Wonta bĩu môi, vẻ thất vọng lộ rõ trên gương mặt non choẹt. Thế nhưng xét về mặt nhân sự, ngoài hai đứa trẻ này ra, Winston chẳng còn lựa chọn nào thích hợp hơn.
 
-Lý do lớn nhất khiến Winston rút hai đứa trẻ này ra khỏi khu lao động là để cách ly chúng khỏi Momoka.
+Nguyên do lớn nhất khiến ông rút hai đứa trẻ này khỏi nông trường là để triệt để cách ly chúng khỏi Momoka.
 
-Theo báo cáo của Malcolm, đây là hai kẻ luôn túc trực bên cạnh Momoka nhiều nhất, và hiện tại, chúng thậm chí đã có thể hiểu được ý đồ qua những lời nói bập bẹ của cậu ta để giúp đỡ.
+Theo báo cáo định kỳ của Malcolm, đây là hai đứa luôn bám dính lấy Momoka nhiều nhất. Thậm chí dạo gần đây, chúng đã bắt đầu hiểu được ý tứ qua những tiếng bập bẹ ngọng nghịu của thằng nhóc quái dị đó để xốc vác công việc.
 
-Việc điều khiển hai nô lệ làm thuộc hạ thân cận chỉ trong vòng một tuần ngắn ngủi, liệu đó là cố ý hay tình cờ? Winston không muốn tin rằng một kẻ có biểu hiện thiểu năng trí tuệ như Momoka lại cố tình làm vậy, nhưng khi mọi chuyện đã đi đến nước này, trong đầu ông thậm chí còn dấy lên nghi ngờ rằng vẻ điên khùng kia chỉ là một màn kịch.
+Thu phục hai kẻ nô lệ làm tay sai thân cận chỉ vỏn vẹn trong một tuần ngắn ngủi — liệu đó là mưu mô tính toán hay chỉ là sự trùng hợp ngẫu nhiên? Winston không muốn tin một kẻ có biểu hiện thiểu năng trí tuệ như Momoka lại mưu mô đến thế. Song khi sự việc đã đi xa tới nước này, trong thâm tâm ông không khỏi dấy lên mối ngờ vực: liệu bộ dạng ngây ngô kia có phải chỉ là một màn kịch tinh vi?
 
-Dù sao đi nữa, ông tuyệt đối không muốn bản thân hay con trai mình dính dáng đến đứa trẻ bị nguyền rủa Momoka. Nhưng ông vẫn phải thực hiện các biện pháp để hạn chế tầm ảnh hưởng của cậu ta, dù chỉ là một chút.
+Dù sự thực là gì, ông tuyệt đối không bao giờ để bản thân hay con trai mình dính líu đến đứa trẻ mang lời nguyền Momoka. Nhưng ông bắt buộc phải ra tay kiềm chế, bóp nghẹt tầm ảnh hưởng của nó, dẫu chỉ là từng chút một.
 
-Vì vậy, Winston quyết định lấy cớ phong làm nô lệ riêng cho con trai để chia rẽ cậu thiếu niên và cô bé đã trở thành thuộc hạ của Momoka.
+Chính vì vậy, Winston mượn cớ ban thưởng nô lệ riêng cho con trai nhằm bứng hai đứa trẻ này ra khỏi tầm tay của Momoka.
 
-Bên cạnh đó, ông cũng đã chỉ thị cho Malcolm sắp xếp công việc ở nông trường sao cho Momoka bị cô lập tối đa, không thể tiếp xúc với các nô lệ khác.
+Mặt khác, ông cũng chỉ thị cho Malcolm sắp xếp lại công việc trên đồng áng, cô lập Momoka tới mức tối đa, tuyệt đối không để nó tiếp xúc gần với những nô lệ khác.
 
-“Nghe cho kỹ đây, từ hôm nay Wonta sẽ là chủ nhân của các ngươi. Hãy hầu hạ cho thật tốt.”
+“Nghe cho rõ đây. Kể từ hôm nay, Wonta sẽ là chủ nhân của các ngươi. Liệu mà dốc lòng phục vụ.”
 
-Để lại những lời răn đe đầy uy quyền như thường lệ, Winston giao lại mọi việc rồi quay trở về với công việc của mình.
+Bỏ lại lời răn đe lạnh lùng đầy uy quyền như thường lệ, Winston dứt khoát xoay người rời đi, quay về với guồng quay công việc.
 
-Dù là nô lệ, nhưng suy cho cùng chúng cũng chỉ là những đứa trẻ chưa biết suy nghĩ chín chắn. Để đề phòng bất trắc, ông vẫn bố trí cho con trai mình một người hầu người Astoria và một cảnh vệ đi kèm.
+Dẫu sao chúng cũng chỉ là những đứa trẻ nô lệ chưa đủ nhận thức. Để đề phòng bất trắc, ông vẫn bố trí một gia nhân người Astoria cùng một tay cảnh vệ túc trực bên cạnh con trai.
 
-Sự an toàn đã được đảm bảo. Việc còn lại cứ để con trai tùy ý xử lý — bản thân Wonta cũng hiểu rất rõ điều đó.
+An toàn tuyệt đối. Chuyện còn lại cứ để mặc Wonta tùy ý xử lý — và bản thân thằng nhóc Wonta cũng nhận thức rất rõ điều đó.
 
-“Được rồi, trước tiên hai đứa mày cởi đồ ra.”
+“Được rồi, trước tiên hai đứa chúng mày lột sạch đồ ra!”
 
-“Dạ?”
+“Dạ...?”
 
-“Nhanh lên cái coi. Đầu tiên là phải tập quất roi chứ hả!”
+“Nhanh cái chân lên! Phải tập quất roi trước đã chứ!”
 
-Đối với Wonta, một đứa trẻ lớn lên ở đồn điền này, việc quất roi nô lệ là công việc của người lớn. Giống như việc những người lính bắn súng blaster, đó là hình ảnh mà lũ trẻ luôn ao ước.
+Đối với Wonta, một đứa trẻ lớn lên giữa bạt ngàn đồn điền, việc cầm roi quất vào da thịt nô lệ chính là biểu tượng quyền uy của người lớn. Giống như hình ảnh những người lính cầm 『Súng Blaster』 kiêu hãnh, đó là thứ quyền lực mà lũ trẻ con nơi đây luôn khát khao hướng tới.
 
-Có nô lệ riêng đồng nghĩa với việc cậu có thể tự tay cầm roi và đánh đập họ.
+Có nô lệ riêng đồng nghĩa với việc cậu ta có thể tùy ý vung roi đánh đập mà không sợ bất kỳ ai trách phạt.
 
-Ở đó không hề có sự kiêng nể hay do dự nào. Chỉ với sự tò mò và phấn khích thuần túy, Wonta nắm chặt cây roi được người hầu trao cho.
+Chẳng hề có chút ngập ngừng hay cắn rứt lương tâm. Đôi mắt Wonta chỉ rực lên sự tò mò và phấn khích tàn bạo thuần túy khi siết chặt cán roi da do tên gia nhân vừa cung kính dâng lên.
 
 ◇◇◇
 
-“...Tôi xin lỗi, chúng tôi đã hoàn toàn mất dấu nó.”
+“...Tôi xin lỗi, đội của tôi đã hoàn toàn mất dấu nó.”
 
-Chiều tối hôm đó, trước báo cáo của Đội trưởng Deyrick vừa trở về sau chuyến đi xa, Winston lộ rõ vẻ mặt cau có.
+Hoàng hôn buông xuống, trước báo cáo của Đội trưởng Deyrick vừa trở về sau chuyến lùng sục dài ngày, lông mày Winston nhíu chặt lại đầy khó chịu.
 
-“Ngay cả cậu mà cũng không giải quyết được sao?”
+“Ngay cả một tay thiện chiến như cậu mà cũng để vuột mất sao?”
 
-“Từ vài ngày trước, mọi dấu vết đã hoàn toàn biến mất. Có lẽ nó đã rút sâu vào trong núi rồi.”
+“Cách đây vài ngày, mọi dấu vết của nó đã biến mất không còn một tì vết. Khả năng cao nó đã lẩn sâu vào vùng rừng núi hiểm trở.”
 
-“Nhưng thế cũng không thể chủ quan được... Ta muốn chắc chắn phải hạ gục con Thiết Giáp Hùng hung tợn đó.”
+“Nhưng tuyệt đối không thể lơ là... Ta nhất định phải trừ khử bằng được con 『Thiết Giáp Hùng』 hung tợn đó.”
 
-Dạo gần đây, ông hoàn toàn bị xoay như chong chóng bởi đứa trẻ bị nguyền rủa Momoka, nhưng mối bận tâm lớn nhất hiện tại lại là sự xuất hiện của con Thiết Giáp Hùng từ dãy núi Elemental đi xuống.
+Dạo gần đây, đứa trẻ bị nguyền rủa Momoka khiến ông điên đầu quay cuồng, nhưng mối họa đe dọa trực tiếp nhất lúc này lại là sự xuất hiện của con 『Thiết Giáp Hùng』 hung bạo mò xuống từ dãy núi Elemental.
 
-Khoảng ba tháng trước, những thông tin nhìn thấy nó bắt đầu xuất hiện quanh Easthope, và chẳng bao lâu sau, các trang trại chăn nuôi bắt đầu bị tấn công. Dù chưa có thiệt hại về người nhưng một số lượng lớn gia súc đã bị ăn thịt. Tất nhiên, thị trấn cũng đã cử binh lính đi tuần tra và tiêu diệt vì sự nguy hiểm của nó, nhưng vì đây là một thị trấn biên thùy nên lực lượng có hạn.
+Chừng ba tháng trước, những tin đồn về việc nhìn thấy con quái thú bắt đầu rộ lên quanh thị trấn Easthope, rồi chẳng mấy chốc, các nông trại chăn nuôi lân cận liên tiếp bị tàn phá. Tuy chưa ghi nhận thương vong về người, nhưng số lượng gia súc bị cắn xé ngấu nghiến là không hề nhỏ. Chính quyền thị trấn đương nhiên đã phái binh lính đi tuần tiễu hòng tiêu diệt nó, song bởi đây chỉ là vùng biên thùy hẻo lánh nên quân số vô cùng eo hẹp.
 
-Winston ngoài mặt thì tuyên bố đây là hành động đóng góp cho xã hội để bảo vệ sự an toàn của thị trấn, nhưng thực chất vì lo sợ trang trại của mình bị tấn công, ông đã cất công cử đội lính đánh thuê tinh nhuệ do Deyrick dẫn đầu vào rừng săn lùng...
+Bên ngoài, Winston luôn rêu rao rằng mình chi tiền vì nghĩa cử cao đẹp, chung tay bảo vệ an ninh trật tự cho thị trấn. Nhưng kỳ thực, chỉ vì sợ nông trại bạc triệu của mình bị con quái thú xé nát, ông mới cắn răng bỏ ra một khoản tiền khổng lồ thuê đội lính đánh thuê thiện chiến do Deyrick chỉ huy lùng sục khắp cánh rừng...
 
-“Dù dấu vết của Thiết Giáp Hùng đã biến mất, nhưng bù lại chúng tôi đã tìm thấy thứ khác. Đó là nguồn gốc thức ăn của lũ nô lệ.”
+“Tuy mất dấu 『Thiết Giáp Hùng』, nhưng chúng tôi lại phát hiện ra một manh mối khác. Chính là nguồn gốc của số thực phẩm mà lũ nô lệ lén lút ăn dạo gần đây.”
 
-“Thật sao!”
+“Thật sao?!”
 
-“Chắc chắn có dấu vết của một nhóm người khá đông đã thu hoạch ở đó.”
+“Chắc chắn có dấu vết của một nhóm người khá đông đảo đã tiến hành thu hoạch ở đó.”
 
-Winston từng nghi ngờ rằng liệu có phải vị thần của tộc Diana thực sự đã làm phép tạo ra thức ăn hay không, nhưng khi biết chắc chắn đó là hành vi do con người thực hiện, ông cảm thấy nhẹ nhõm hẳn.
+Từng có lúc Winston hoang mang tự hỏi liệu có phải thần linh của tộc Diana thực sự hiển linh làm phép tạo ra lương thực hay không. Giờ đây, khi biết chắc đó là hành vi do con người nhúng tay, gánh nặng trong lòng ông lập tức vơi đi phân nửa.
 
-“Vậy, hành tung của bọn chúng thế nào?”
+“Vậy hành tung của bọn chúng ra sao?”
 
-“Tiếc là chúng tôi không lần ra được. Có vẻ như bọn chúng che giấu dấu vết rất khéo.”
+“Đáng tiếc là chúng tôi không lần ra được điểm đến. Đám người đó xóa dấu vết cực kỳ điêu luyện.”
 
-“Rốt cuộc bọn chúng là ai chứ?”
+“Rốt cuộc là kẻ phương nào dám nhúng tay vào địa bàn của ta chứ?!”
 
-“Biết đâu, chính cậu ta là người đã làm việc đó.”
+“Biết đâu chừng... chính thằng nhóc đó là kẻ đứng sau.”
 
-Chưa từng có ai nhìn thấy hai Momoka đứng cạnh nhau.
+Chưa một ai từng thấy hai Momoka cùng xuất hiện song song.
 
-Thế nhưng, theo những gì nghe được về tình hình trong một tuần qua, các báo cáo nhìn thấy cậu ta xuất hiện ở nhiều nơi khác nhau vào cùng một thời điểm liên tục gửi về. Cùng một giờ, tại các địa điểm khác nhau, hình ảnh của Momoka đã được xác nhận.
+Thế nhưng, xâu chuỗi các báo cáo thu thập suốt một tuần qua, những lời khai nhìn thấy thằng nhóc xuất hiện ở nhiều địa điểm cách xa nhau trong cùng một thời điểm cứ liên tục bay về bàn làm việc. Cùng một canh giờ, nhưng tại hai góc nông trường hoàn toàn khác biệt, bóng dáng của Momoka đều được các giám thị xác nhận.
 
-Lần đầu tiên chính mắt ông nhìn thấy Momoka lén lút nhìn trộm vào phòng làm việc này, khi ông đuổi theo thì cậu ta đã biến mất hoàn toàn trong một phòng khách nhỏ. Nếu nghĩ rằng cậu ta đã biến mất ngay tại chỗ bằng ma pháp phân thân thì mọi chuyện đều trở nên hợp lý.
+Thậm chí, lần đầu tiên chính mắt Winston bắt gặp Momoka lén lút dòm ngó vào phòng làm việc của mình, khi ông lao ra truy đuổi, thằng nhóc đã bốc hơi không chút dấu tích giữa căn phòng tiếp khách trống trải. Nếu giả định rằng nó đã dùng ma pháp phân thân để biến mất ngay tại chỗ, thì mọi mảnh ghép kỳ quặc bấy lâu nay bỗng chốc ăn khớp hoàn hảo.
 
-“Phân thân... thực sự có loại ma pháp như vậy sao?”
+“Phân thân... Trên đời thực sự tồn tại loại ma pháp quái đản như thế sao?”
 
-“À thì, ma thuật sư hệ Băng có thể tạo ra ảo ảnh, nhưng việc tạo ra một thực thể có thể tự do hành động thì tôi chưa từng nghe nói đến. Tuy nhiên, nếu cậu ta là đứa con của một vị thần dị giáo không thuộc Pandora Thánh Giáo, thì chẳng biết cậu ta được ban cho năng lực gì đâu.”
+“À thì, 『Ma thuật sư hệ Băng』 có thể tạo ra ảo ảnh đánh lừa thị giác, nhưng tạo ra hẳn một thực thể sống bằng xương bằng thịt có thể tự do hành động thì tôi chưa từng nghe qua. Tuy nhiên, nếu nó là hiện thân của một tà thần dị giáo không thuộc Pandora Thánh Giáo, thì chẳng ai lường trước được nó nắm giữ thứ tà thuật ghê tởm nào đâu.”
 
-“Ừm... Nhưng trong trường hợp xấu nhất, điều đó có nghĩa là thực sự có kẻ đứng sau hỗ trợ Momoka một cách có tổ chức.”
+“Ừm... Trường hợp xấu nhất, điều đó đồng nghĩa với việc thực sự có một tổ chức bí mật đang âm thầm chống lưng cho Momoka.”
 
-“Đúng vậy. Quả thực giữ cậu ta lại lúc này là quá nguy hiểm phải không?”
+“Chính xác. Tiếp tục giữ thằng nhóc đó lại đồn điền quả thực là mối hiểm họa khôn lường, đúng không ngài?”
 
-“...Phải rồi. Ta sẽ tìm cách liên hệ để bán tống bán tháo Momoka đi nơi khác càng sớm càng tốt.”
+“...Phải. Ta sẽ tìm cách liên hệ các đầu mối, tống khứ thằng nhóc Momoka đó đi càng sớm càng tốt.”
 
-Ngay từ đầu, ông đã tận mắt chứng kiến khoảnh khắc thuộc hạ bị trọng thương do lời nguyền. Một kẻ nguy hiểm như vậy, muốn tống khứ đi càng sớm càng tốt là điều đương nhiên.
+Ngay từ ngày đầu tiên, ông đã tận mắt chứng kiến tay sai của mình lăn lộn đau đớn vì dính phải lời nguyền rủa độc địa. Một quả bom nổ chậm như thế, tống khứ được lúc nào nhẹ nợ lúc ấy.
 
-Hơn thế nữa, nếu bên ngoài còn có đồng phạm giúp sức, thì câu chuyện không còn dừng lại ở một đứa trẻ nô lệ nữa. Việc Momoka là đứa trẻ bị nguyền rủa đã rõ ràng, và những kẻ đứng về phía một đứa trẻ như vậy, kiểu gì cũng là một lũ chú thuật sư hoặc ma thuật sư mờ ám. Hoặc có thể là lũ tà giáo đáng sợ.
+Hơn thế nữa, nếu bên ngoài thực sự có đồng bọn tiếp ứng, chuyện sẽ không còn dừng lại ở một đứa trẻ nô lệ đơn thuần. Thân phận đứa con mang lời nguyền của Momoka đã rõ rành rành; những kẻ chịu đứng về phe một quái thai như thế chỉ có thể là lũ 『Chú thuật sư』 dơ bẩn hoặc đám ma thuật sư hắc ám thoái trào, hay thậm chí là tín đồ của một tà giáo cuồng tín ghê rợn nào đó.
 
-Bị những kẻ như thế nhắm vào thì ông xin kiếu.
+Bị những thế lực tăm tối như vậy nhắm trúng, nghĩ tới thôi cũng đủ khiến Winston lạnh cả sống lưng.
 
-Ngay cả khi không có lời nguyền, chỉ vì một mình Momoka mà chế độ đãi ngộ của nô lệ đã được cải thiện chỉ trong vòng một tuần. Không phải bởi một cấp dưới có ngân sách và quyền hạn, mà chỉ bởi một đứa nô lệ.
+Bỏ qua chuyện lời nguyền, chỉ riêng sự xuất hiện của Momoka đã khiến toàn bộ cơ chế quản lý nô lệ bị xới tung chỉ trong vòng một tuần ngắn ngủi. Không phải do một quản lý cấp cao có ngân sách và quyền hạn trong tay tạo nên, mà lại bắt nguồn từ một đứa nhóc nô lệ miệng còn hôi sữa.
 
-Nghĩ lại thì, đó là một sự tồn tại quá đỗi bất thường. Nếu cứ để một kẻ như vậy tự do tự tại không phải một năm, mà chỉ cần một tháng thôi... thì việc xảy ra một cuộc bạo động quy mô lớn là hoàn toàn có thể.
+Càng ngẫm, sự tồn tại của nó càng phi lý đến rợn người. Cứ để một mầm họa như thế tự do tung hoành, chẳng cần tới một năm, chỉ nội trong một tháng thôi... đồn điền này chắc chắn sẽ nổ ra một cuộc bạo loạn đẫm máu.
 
-“Chúng tôi sẽ vừa săn Thiết Giáp Hùng, vừa dò la tung tích của lũ người đang thu hoạch kia.”
+“Chúng tôi sẽ tiếp tục truy lùng 『Thiết Giáp Hùng』, đồng thời bí mật dò la tung tích nhóm người thu hoạch kia.”
 
-“Được, trăm sự nhờ cậu. Nhưng nếu ta xử lý được Momoka trước thì việc đó cũng bằng thừa.”
+“Được, trăm sự cậy nhờ vào cậu. Nhưng nếu ta thanh trừng được Momoka trước thì đám người kia cũng chẳng còn đất diễn.”
 
-“Lo gì chứ, so với những mệnh lệnh vô lý ở tiền tuyến thì việc này nhẹ nhàng chán.”
+“Ngài cứ yên tâm. So với những mệnh lệnh vô lý ngoài tiền tuyến thì nhiệm vụ này nhẹ tựa lông hồng.”
 
-Nói lời nhẹ tênh như vậy, Deyrick bước ra khỏi phòng làm việc.
+Bỏ lại câu nói thản nhiên, Deyrick quay người sải bước ra khỏi phòng làm việc.
 
-Báo cáo cần thiết đã xong. Việc còn lại chỉ là trở về nhà, Deyrick thong thả bước xuống cầu thang của biệt thự với tâm trạng thoải mái.
+Báo cáo công việc đã xong xuôi. Giờ chỉ việc trở về tổ ấm của mình, Deyrick thong thả rảo bước xuống cầu thang dinh thự với tâm trạng nhẹ nhõm.
 
-“Ồ, Malcolm, vất vả rồi.”
+“Ồ, Malcolm, vất vả cho cậu rồi.”
 
-“Vất vả cho anh rồi, Đội trưởng Deyrick. Anh đã về rồi sao.”
+“Đội trưởng Deyrick cũng vất vả rồi. Anh vừa trở về đấy à?”
 
-Hai người trụ cột nâng đỡ đồn điền này có tuổi đời khá tương đồng. Deyrick mang phong thái của một lính đánh thuê phong trần, còn Malcolm lại toát lên vẻ trí thức của vương đô, hai người mang lại ấn tượng hoàn toàn trái ngược nhưng trong công việc, họ vẫn giữ một mối quan hệ hợp tác rất tốt đẹp.
+Hai trụ cột gánh vác đồn điền New Hope có độ tuổi xấp xỉ nhau. Deyrick mang đậm phong thái phong trần, gai góc của một tay lính đánh thuê dày dạn sương gió; trong khi Malcolm lại toát lên vẻ trí thức, lịch lãm của tầng lớp tinh hoa vương đô. Hai cá tính hoàn toàn đối lập, song trong công việc, họ lại phối hợp ăn ý đến kinh ngạc.
 
-“Hôm nay anh về sớm thế sao?”
+“Hôm nay anh xong việc sớm thế?”
 
-“Ừ, vì cô vợ quyến rũ và cậu con trai đang đợi tôi ở nhà mà.”
+“Ừ, cô vợ xinh đẹp cùng cậu quý tử đang ngóng tôi ở nhà mà.”
 
-“Ha ha, tuyệt thật đấy.”
+“Ha ha, hạnh phúc thật đấy.”
 
-“Cậu cũng mau kết hôn đi. Cứ ngắm nghía đóa hoa trên đỉnh núi mãi thì chẳng có kết quả gì đâu.”
+“Cậu cũng mau kiếm một tấm vợ đi thôi. Cứ mải miết ngắm nghía đóa hoa kiêu kỳ trên đỉnh núi cao mãi thì chẳng đi đến đâu đâu.”
 
-“Kìa anh, hiện tại công việc của tôi còn đang bận rộn quá, chuyện đó tạm thời chưa tính tới.”
+“Kìa anh, hiện tại công việc đồn điền đang ngập đầu ngập cổ, chuyện trăm năm tôi tạm thời chưa dám nghĩ tới.”
 
-Trước nụ cười xã giao của Malcolm, Deyrick, người biết rõ những uẩn khúc phức tạp phía sau, không gặng hỏi thêm nữa.
+Trước nụ cười trừ xã giao của Malcolm, Deyrick — người thừa hiểu những ẩn ức phức tạp phía sau — khéo léo không đào sâu thêm nữa.
 
-“Thôi được rồi, khi nào có hứng cứ bảo tôi, tôi sẽ giới thiệu cho vài chỗ hay ho.”
+“Thôi được rồi, lúc nào có nhã hứng cứ ới tôi một tiếng, tôi sẽ dắt cậu đến vài chốn giải khuây ra trò.”
 
-“Khi đó làm phiền anh nhé. Cả hai chúng ta dạo này đều bận rộn, đợi khi nào giải quyết xong vụ Thiết Giáp Hùng và đứa trẻ bị nguyền rủa, chúng ta đi làm vài ly nhé.”
+“Đến lúc đó phiền anh vậy. Dạo này đôi bên đều đầu tắt mặt tối, đợi giải quyết êm xuôi vụ 『Thiết Giáp Hùng』 cùng thằng nhóc bị nguyền rủa kia, anh em mình nhất định phải làm vài ly.”
 
-“Tính vào chi phí chung chứ?”
+“Tính vào công quỹ đấy nhé?”
 
-“Tôi sẽ thu xếp để duyệt chi khoản đó.”
+“Tôi sẽ lo liệu chứng từ để duyệt chi khoản đó.”
 
-“Tuyệt vời, trông cậy vào cậu đấy, cậu chủ nhỏ.”
+“Tuyệt vời! Trông cậy cả vào cậu đấy, cậu chủ nhỏ.”
 
-“Xin anh đừng gọi thế, nếu Chủ tịch nghe thấy là tôi bị mắng vuốt mặt không kịp đấy.”
+“Xin anh đừng gọi tôi như thế, để Chủ tịch nghe thấy là tôi ăn mắng vuốt mặt không kịp đâu.”
 
-Sau vài câu trò chuyện thân mật, hai người đường ai nấy đi.
+Trao nhau vài câu bông đùa thân tình, hai người gật đầu chào rồi ai về ngả nấy.
 
 ◇◇◇
 
-“Này, Riza, cô nghĩ thế nào về chuyện này?”
+“Này Riza, cô nghĩ sao về tình hình hiện tại?”
 
-Khi mặt trời bắt đầu lặn về phía thị trấn Easthope, các nô lệ từ các cánh đồng trở về và tập trung tại khu nhà tập thể dùng làm nơi ngủ nghỉ.
+Khi ánh hoàng hôn dần tắt lịm phía đường chân trời thị trấn Easthope, từng tốp nô lệ từ cánh đồng cà phê lũ lượt trở về, tập trung tại khu lán trại tồi tàn dùng làm chỗ ngả lưng.
 
-Đây là khoảng thời gian ngắn ngủi duy nhất trong ngày, vào buổi sáng và buổi tối, khi nô lệ từ các khu vực khác nhau tập trung lại một chỗ và có thể trò chuyện với nhau.
+Đây là khoảng thời gian ngắn ngủi duy nhất trong ngày — vào buổi sáng sớm và chập tối — khi những nô lệ thuộc các phân khu khác nhau có cơ hội chạm mặt và trao đổi đôi ba câu thì thào.
 
-Người khẽ tiến lại gần và bắt chuyện với Riza là một người đàn ông giữ vai trò thủ lĩnh của tộc Diana ở khu đất đối diện.
+Người khẽ sấn lại gần bắt chuyện với Riza là một gã đàn ông vạm vỡ, giữ vai trò đầu lĩnh của tộc Diana ở khu đất đối diện.
 
-Tên anh ta là Togo. Trước đây, anh ta là một chiến sĩ.
+Gã tên là Togo. Trước khi sa cơ thành phận nô lệ, gã từng là một 『Chiến sĩ』 lẫy lừng.
 
-“Tôi nghĩ, trước khi có mệnh lệnh của Ngài ấy, chúng ta không nên hành động.”
+“Tôi nghĩ, chừng nào Thần tử chưa hạ lệnh, chúng ta tuyệt đối không được manh động.”
 
-“Cô nghĩ với tình trạng của Ngài ấy, Ngài ấy thực sự sẽ phát lệnh khởi nghĩa sao?”
+“Cô nghĩ với trạng thái ngây ngô như trẻ con lúc này, Ngài ấy thực sự sẽ phát động khởi nghĩa sao?”
 
-Tại khu đất do Togo quản lý, Momoka cũng đã xuất hiện và phân phát thức ăn.
+Tại khu vực do Togo quản lý, Momoka cũng từng thoắt ẩn thoắt hiện, phân phát lương thực cứu đói.
 
-Đứa trẻ bị nguyền rủa trong lời đồn. Cậu ta mang đến những túi đầy quả mọng và óc chó không biết lấy từ đâu, và lượng cháo của họ cũng được tăng lên gấp đôi.
+Đứa trẻ mang lời nguyền trong truyền thuyết. Cậu ta thoắt cái đã mang tới những bao tải trĩu nặng quả mọng và hạt óc chó chẳng rõ lấy từ đâu ra, khiến khẩu phần cháo loãng thường ngày của họ lập tức tăng lên gấp đôi.
 
-Nhìn Momoka phân phát thức ăn với nụ cười ngây thơ, bọn họ đã rơi nước mắt vì cảm động, còn những kẻ giám sát thì không hề dùng vũ lực để ngăn cản mà chỉ đứng nhìn từ xa.
+Nhìn Momoka tươi cười trao từng phần thức ăn với vẻ mặt thơ ngây, đám nô lệ đã rơi nước mắt vì nghẹn ngào xúc động; trong khi đám giám thị hung tợn thì chẳng đứa nào dám vung roi ngăn cản, chỉ biết đứng run rẩy nhìn từ đằng xa.
 
-Trong môi trường khốn khổ này, đó quả thực là một phép màu. Và điều đó không chỉ diễn ra một ngày, mà ngày nào cũng vậy kể từ khi Momoka đến đây.
+Giữa địa ngục trần gian đầy đọa đày này, đó chẳng khác nào một phép màu cứu rỗi. Và điều kỳ diệu ấy không chỉ xảy ra trong một ngày, mà ngày nào cũng lặp lại kể từ khi Momoka đặt chân tới đây.
 
-Togo cũng công nhận Momoka, người mang lại ân huệ kỳ diệu này, chính là Đứa con của thần. Ngay cả khi vị thần đó không phải là ‘Cự Thần Vĩ Đại’ mà các chiến sĩ Diana thờ phụng, mà là một vị thần hoàn toàn xa lạ chưa từng biết tới.
+Togo cũng đã cúi đầu thừa nhận Momoka — kẻ mang tới nguồn ân huệ phi thường này — chính là Thần tử của họ. Dẫu vị thần bảo hộ phía sau cậu ta không phải là 『Cự Thần Vĩ Đại』 mà các 『Chiến sĩ』 tộc Diana hằng sùng kính, mà là một thực thể linh thiêng hoàn toàn xa lạ.
 
-“Ngài ấy là một người vô cùng sáng suốt. Dù hành xử như một đứa trẻ ngây thơ, nhưng Ngài ấy luôn ban phát cho chúng ta những thứ cần thiết.”
+“Ngài ấy là bậc đại trí đại dũng. Tuy hành xử hệt như một đứa trẻ vô tư, nhưng từng việc Ngài ấy làm đều mang lại cho chúng ta đúng thứ đang thiếu thốn nhất.”
 
-“Phải, nhờ có Ngài ấy mà chúng ta đã được cứu giúp biết bao nhiêu. Cả tôi và cô, lâu lắm rồi mới lấy lại được vóc dáng của một chiến sĩ thế này.”
+“Phải... Nhờ ân điển của Ngài ấy mà chúng ta mới hồi sinh được đến ngày hôm nay. Cả tôi lẫn cô, đã bao lâu rồi mới tìm lại được phong thái của một 『Chiến sĩ』 như thế này.”
 
-Nhờ những bữa ăn đầy đủ, những khối cơ bắp từng bị teo tóp của chiến sĩ Togo đã bắt đầu hồi phục như thời hoàng kim.
+Nhờ những bữa ăn đủ đầy dưỡng chất, những thớ cơ bắp từng teo tóp, kiệt quệ của Togo đã bắt đầu căng tràn sinh lực, cuồn cuộn sức mạnh như thời hoàng kim.
 
-Và sự phục hồi thể chất đó không chỉ xuất hiện ở tầng lớp chiến sĩ như Riza hay Togo, mà các nô lệ khác cũng đang bắt đầu có những thay đổi rõ rệt và vững chắc.
+Và sự phục hồi kỳ diệu ấy không chỉ diễn ra trên cơ thể của những cựu chiến binh như Riza hay Togo, mà khắp các phân khu, thần sắc của từng người nô lệ đều đang có những chuyển biến rõ rệt và vững chắc.
 
-“Từ hôm nọ còn có cả đồ ngọt ngâm mật ong, và cuối cùng chúng ta còn được tắm nước nóng nữa chứ. Khoảnh khắc ngâm mình trong làn nước nóng đó, tôi đã quên mất mình là một nô lệ.”
+“Từ hôm nọ lại còn có cả món quả ngâm mật ong ngọt lịm, rồi cuối cùng chúng ta còn được ngâm mình trong nước nóng nữa chứ. Khoảnh khắc chìm trong làn nước ấm áp ấy, tôi suýt chút nữa đã quên mất bản thân chỉ là một tên nô lệ khốn cùng.”
 
-Họ thực sự chỉ biết nghĩ rằng đây là ân huệ nhận được từ thần linh.
+Họ thực lòng chỉ biết phủ phục tạ ơn, tin rằng đó là hồng ân giáng xuống từ cõi thần linh.
 
-Hồi còn là chiến sĩ, anh ta vẫn thường tỏ vẻ ta đây rằng đồ ngọt không phải thứ dành cho nam giới, nhưng giờ đây, hương vị tươi mát của trái cây và vị ngọt ngào đến mức bùng nổ của mật ong khi chạm vào đầu lưỡi đã mang lại một cú sốc cực lớn như thể bị búa gõ vào đầu.
+Thuở còn là một 『Chiến sĩ』 kiêu hãnh, Togo từng cười khẩy cho rằng đồ ngọt chỉ dành cho đàn bà con trẻ. Thế nhưng giờ đây, vị thanh mát mọng nước của hoa quả quyện cùng vị ngọt lịm bùng nổ của mật ong rừng khi chạm vào đầu lưỡi đã giáng một đòn choáng váng vào tâm trí gã, chẳng khác nào một phát búa nện thẳng vào đỉnh đầu.
 
-Ngay cả bản thân anh ta còn cảm thấy thế. Lũ trẻ và phụ nữ thì vừa khóc vừa nhai ngấu nghiến, hoặc liếm sạch không chừa một giọt, thưởng thức bằng cả tấm lòng.
+Ngay cả một kẻ sắt đá như gã còn rung động đến nhường ấy, huống chi là đám đàn bà và lũ trẻ con. Chúng vừa khóc nức nở vừa nhai ngấu nghiến, vét sạch từng giọt mật dính trên ngón tay, trân quý thưởng thức bằng tất cả linh hồn.
 
-Nhưng điều khiến họ kinh ngạc nhất, và có lẽ cũng là một phép màu của thần, là việc nước nóng tự phun ra, biến khu vực tắm rửa thông thường thành một phòng tắm thực sự.
+Thế nhưng, điều khiến toàn thể nô lệ bàng hoàng kinh ngạc nhất — và cũng minh chứng rõ nhất cho quyền năng của thần thánh — chính là việc dòng nước nóng tự tuôn trào, biến góc tắm rửa hoang tàn thường ngày thành một nhà tắm thực thụ.
 
-Hôm qua, chiếc bồn tắm lớn vốn được làm từ những tấm gỗ mục nát đầy nấm mốc nay đã biến đổi thành một chất liệu đen bóng đầy kỳ dị. Dù cảnh giác trước sự thay đổi rõ ràng là đáng ngờ này, nhưng khi làn nước nóng ấm áp ngấm vào tận xương tủy đã được chuẩn bị sẵn, họ không có lý do gì để từ chối.
+Hôm qua, chiếc bồn tắm mục nát ghép từ những mảnh gỗ mốc meo bỗng chốc biến đổi thành một khối vật chất đen tuyền, bóng loáng đầy ma mị. Dẫu trong lòng dấy lên nỗi kinh sợ trước sự biến đổi dị thường, nhưng khi làn nước nóng nghi ngút phả hơi ấm ngấm sâu vào tận tủy xương đã sẵn sàng, chẳng một ai có thể chối từ sự cám dỗ ngọt ngào ấy.
 
-Họ không biết làm cách nào để đun sôi một lượng nước lớn như vậy mà không cần đốt lửa. Có vẻ như cậu ta cũng không trực tiếp phun nước nóng ra như một thủy ma thuật sư lành nghề.
+Họ không tài nào hiểu nổi bằng cách nào mà một lượng nước khổng lồ đến vậy có thể sôi sục mà không cần tới một đốm lửa nhóm củi. Có vẻ như cậu ta cũng chẳng hề dùng ma pháp phun nước nóng như những 『Thủy ma thuật sư』 bậc thầy.
 
-Thế nhưng, làn nước nóng đổ đầy chiếc bồn lớn vẫn giữ nguyên nhiệt độ không hề nguội đi, sưởi ấm cả cơ thể lẫn tâm hồn của tất cả bọn họ.
+Ấy vậy mà, làn nước ấm đầy ắp trong lòng bồn lớn vẫn giữ nguyên nhiệt độ suốt nhiều canh giờ, không hề nguội lạnh, vỗ về sưởi ấm từ thể xác rệu rã cho tới tâm hồn khô héo của từng kiếp người đọa đày.
 
-Như một lẽ tự nhiên, dù còn ngần ngại nhưng họ vẫn sử dụng đống xà phòng và khăn tắm được xếp thành chồng bên cạnh, cảm giác như cả thể xác lẫn tâm hồn đầy uế tạp của mình đã được gột rửa sạch sẽ.
+Như một lẽ tự nhiên, dù còn chút e dè, họ vẫn đón lấy những bánh xà phòng thơm ngát cùng những chồng khăn bông trắng tinh được xếp ngay ngắn bên cạnh. Từng lớp ghét bẩn, bụi đất và nỗi nhục nhằn bám chặt trên da thịt dường như đã được gột rửa sạch bong không tì vết.
 
-Hôm nay là ngày thứ hai họ được tắm như vậy. Họ vừa ngâm mình trong bồn tắm vừa cảm thấy nhẹ nhõm vì biết rằng chuyện ngày hôm qua không phải là một giấc mơ.
+Hôm nay là ngày thứ hai họ được tận hưởng ân huệ ấy. Ngâm mình dưới làn nước ấm, ai nấy đều thở phào nhẹ nhõm khi biết chắc rằng những điều kỳ diệu của ngày hôm qua không phải là một giấc mộng hão huyền.
 
-Togo lúc này đang đối mặt với Riza, người cũng đã lấy lại được làn da và mái tóc sạch sẽ giống như mình.
+Lúc này, Togo đang đứng đối diện với Riza — người cũng đã lấy lại được làn da bánh mật khỏe khoắn cùng mái tóc đen nhánh, sạch sẽ hệt như gã.
 
-“Sức lực và ý chí đều đã trở lại, đây chẳng phải là cơ hội tốt nhất sao. Dù tên Winston khốn kiếp đó vẫn đang để mặc Ngài ấy...”
+“Khí lực và ý chí chiến đấu đều đã trở lại, đây chẳng phải là thời cơ ngàn năm có một sao? Dẫu tên khốn Winston kia vẫn đang nhắm mắt làm ngơ trước hành tung của Ngài ấy...”
 
-“Đúng vậy, nhưng không lâu nữa ông ta sẽ trực tiếp loại bỏ Ngài ấy thôi.”
+“Phải, nhưng chẳng bao lâu nữa lão ta sẽ trực tiếp ra tay triệt hạ Thần tử thôi.”
 
-Vì có lợi ích từ việc sản lượng thu hoạch tăng lên, nên những hành động tùy ý của Momoka mới được ngầm thừa nhận.
+Chỉ vì nguồn lợi béo bở từ sản lượng thu hoạch tăng vọt, lão Winston mới cắn răng làm ngơ trước những hành động kỳ lạ của Momoka.
 
-Không chỉ Winston, người Astoria luôn lạnh lùng, tham lam và chỉ biết theo đuổi lợi nhuận.
+Không riêng gì Winston, bản chất của người Astoria luôn là sự lạnh lùng, tham lam và tôn sùng lợi nhuận đến mức tàn nhẫn.
 
-Dù nô lệ có bị vắt kiệt sức đến chết đi chăng nữa, chỉ cần biết rằng việc đó mang lại “chút lợi nhuận”, người Astoria sẽ không ngần ngại dùng họ cho đến chết. Họ coi người Diana như những con gia súc mang hình người, và điều duy nhất những nhà quản lý quan tâm chỉ là những con số sản lượng được ghi trong sổ sách.
+Dẫu nô lệ có bị vắt kiệt từng giọt mồ hôi tàn tạ đến chết, chỉ cần biết việc đó đem lại “chút đỉnh thặng dư”, người Astoria sẽ không ngần ngại nghiền nát họ đến tận xương tủy. Trong mắt chúng, người Diana chỉ là thứ súc vật mang hình hài con người; điều duy nhất khiến những kẻ cai trị bận tâm chỉ là những con số sản lượng nhảy múa trên từng trang sổ sách.
 
-Để đạt được những con số mong muốn, họ có thể ra lệnh thực hiện những hành vi tàn bạo nhất mà không hề mảy may lay động cõi lòng.
+Để đạt được mục tiêu doanh thu, chúng sẵn sàng ban bố những mệnh lệnh tàn độc nhất mà khóe mắt chẳng hề gợn chút gợn sóng.
 
-Nhưng đồng thời, họ cũng sợ bạo động.
+Nhưng đồng thời, nỗi khiếp sợ bạo loạn cũng luôn âm ỉ gặm nhấm tâm can chúng.
 
-Liệu họ có hiểu được nỗi căm hận của những kẻ bị đối xử như gia súc không? Người Astoria luôn chuẩn bị sẵn sàng lực lượng vũ trang đủ để trấn áp nô lệ mà không hề có một kẽ hở.
+Liệu chúng có thấu hiểu được nỗi oán hận ngút trời của những kẻ bị đối xử thua loài cầm thú? Người Astoria luôn bố trí lực lượng vũ trang dày đặc, siết chặt vòng kiềm tỏa nô lệ không một kẽ hở.
 
-Winston là một chủ đồn điền lớn có tiếng ở phía Đông, thế nên ông ta luôn thiết lập một hệ thống cảnh vệ vô cùng nghiêm ngặt. Ông ta làm suy yếu sức mạnh của họ, ngăn cản sự đoàn kết, thuê nhiều lính đánh thuê dày dạn kinh nghiệm thực chiến và không bao giờ để lộ sơ hở.
+Là một đại điền chủ khét tiếng miền Đông, mạng lưới an ninh mà Winston dựng lên vô cùng nghiêm ngặt. Lão bào mòn thể lực của họ, bẻ gãy mọi manh nha đoàn kết, vung tiền thuê đám lính đánh thuê dạn dày trận mạc canh chừng ngày đêm, không bao giờ để lộ một sơ hở dù là nhỏ nhất.
 
-Riza cũng vậy, trong suốt ba năm qua, cô đã nhiều lần nghĩ đến việc khởi nghĩa. Nhưng dưới góc nhìn của một chiến sĩ luôn bình tĩnh đánh giá cục diện trận đấu, cô hiểu rằng mình hoàn toàn không có cơ hội thắng, nên đã không hành động.
+Bản thân Riza suốt ba năm ròng rã nếm mật nằm gai cũng đã hàng trăm lần nung nấu ý định vùng lên. Nhưng dưới góc nhìn của một 『Chiến sĩ』 luôn giữ cái đầu lạnh để cân đo cục diện, cô hiểu rõ phần thắng chỉ là con số không tròn trĩnh, nên đành cắn răng nhẫn nhục.
 
-Thế nhưng, thời điểm để đứng lên chính là lúc này — số người suy nghĩ như Togo đang tăng lên nhanh chóng.
+Thế nhưng, thời khắc phá tan xiềng xích chính là lúc này — ngọn lửa phẫn nộ trong lòng những kẻ như Togo đang bùng cháy dữ dội hơn bao giờ hết.
 
-“Chính vì vậy, chúng ta không được nóng vội hành động. Ngài ấy chắc chắn sẽ phát lệnh vào thời điểm thích hợp.”
+“Chính vì lẽ đó, chúng ta càng không được manh động. Thần tử nhất định sẽ phát lệnh vào thời điểm chuẩn xác nhất.”
 
-“...Tôi hiểu rồi. Tôi tạm thời tin lời cô. Tôi cũng sẽ nhắc nhở những người khác không được hành động nông nổi.”
+“...Tôi hiểu rồi. Tôi tạm tin lời cô. Tôi cũng sẽ quán triệt đám anh em không được hành động khờ dại.”
 
 “Cảm ơn anh.”
 
-“Trông cậy cả vào cô trong việc chăm sóc Ngài ấy đấy.”
+“Trông cậy cả vào cô trong việc phụng sự Ngài ấy.”
 
 “Tất nhiên rồi.”
 
-Nói rồi, hai người trở về khu nhà tập thể của mình.
+Dứt lời, hai người tách ra, quay trở về khu lán trại của mình.
 
-Gọi là nhà tập thể, nhưng thực chất đó chỉ là những căn lều tồi tàn. Bên trong chỉ có những tấm chăn bám đầy bụi bẩn được trải ra để ngủ chung.
+Mang tiếng là khu nhà tập thể, nhưng thực chất đó chỉ là những túp lều rách nát, xiêu vẹo. Bên trong trống huơ trống hoác, chỉ có vài tấm chăn rách bám đầy bụi bặm trải vội trên nền đất ẩm làm chỗ ngả lưng tập thể.
 
-Nô lệ làm gì có quyền riêng tư, và họ cũng hầu như không có đồ dùng cá nhân. Nhiều nhất cũng chỉ là bộ quần áo đang mặc trên người.
+Thân phận nô lệ làm gì có quyền đòi hỏi sự riêng tư, và họ cũng chẳng có nổi tài sản cá nhân nào ngoài bộ quần áo rách rưới đang khoác trên mình.
 
-Chúng cũng chỉ được gom lại để giặt chung, nên chỉ cần kích cỡ vừa vặn là họ chẳng bận tâm xem đó là đồ của ai.
+Quần áo khi đem giặt cũng gom chung một mớ, hễ vớ được cái nào vừa vặn là mặc, chẳng ai hơi đâu bận tâm xem đó vốn là đồ của ai.
 
-Khung cảnh vốn dĩ tẻ nhạt, chỉ là một nơi chật hẹp để ngủ qua đêm, nhưng riêng hôm nay lại có sự khác biệt.
+Khung cảnh vốn dĩ xơ xác, tù túng và ảm đạm chỉ dùng để trốn tránh bóng đêm ấy, riêng tối nay lại có điều khác lạ.
 
-“Ngài Momoka, Ngài đang làm gì thế...”
+“Thần tử, Ngài đang làm gì thế...”
 
-Momoka đang ngồi bệt ở giữa phòng, bên cạnh chiếc đèn bão vốn là thứ nô lệ không được phép mang vào, và đang cật lực cử động hai bàn tay.
+Ngay giữa gian lều, bên cạnh chiếc đèn bão sáng trưng — thứ xa xỉ phẩm mà nô lệ tuyệt đối bị cấm bén mảng tới — Momoka đang ngồi xếp bằng, đôi bàn tay nhỏ nhắn thoăn thoắt cử động không ngừng.
 
-Nơi những ngón tay nhỏ bé của cậu chạm vào là một tấm lưng đỏ ửng và sưng tấy.
+Nơi những ngón tay mềm mại của cậu chạm vào là một tấm lưng trần chằng chịt những vết lằn roi đỏ ửng, rướm máu và sưng vù tấy đỏ.
 
-“Ư... ư...”
+“Ư... a...”
 
-“Caron.”
+“Caron!”
 
-“Chuyện này... có là gì đâu, chị Riza... Em đã được ngài Momoka bôi thuốc rồi, ngày mai... sẽ khỏi thôi...”
+“Chuyện này... chẳng thấm tháp gì đâu, chị Riza... Em được ngài Momoka xức thuốc rồi, ngày mai... sẽ lành ngay thôi mà...”
 
-Nhìn Caron đang nằm sấp và được Momoka bôi thuốc mỡ lên lưng nhưng vẫn cố tỏ ra cứng cỏi, Riza không thể lập tức thốt nên lời.
+Nhìn Caron cắn chặt môi nằm sấp trên đất, để mặc Momoka bôi thuốc mỡ mát lạnh lên vết thương rách toạc mà vẫn cố gượng cười tỏ ra cứng cỏi, cổ họng Riza nghẹn đắng, không thốt nên lời.
 
-Sự thật đau lòng rằng một đứa trẻ như vậy lại bị quất roi đã khiến cho trái tim vốn được rèn luyện để luôn giữ sự bình tĩnh của cô phải dao động.
+Tận mắt chứng kiến một đứa trẻ bị quất roi tàn bạo đến mức nhường này khiến bản lĩnh của một cựu 『Chiến sĩ』 dạn dày phong sương cũng phải rúng động dữ dội.
 
-Thế nhưng, bản thân cô bây giờ có thể làm được gì chứ? Suy cho cùng, việc nô lệ bị quất roi ở nơi này cũng chỉ là chuyện thường ngày chẳng ai thèm bận tâm.
+Thế nhưng, bản thân cô lúc này có thể làm được gì chứ? Ở chốn địa ngục này, chuyện nô lệ bị quất roi thừa sống thiếu chết vốn chỉ là cơm bữa, chẳng một ai thèm đoái hoài.
 
-Trên tấm lưng đầy thương tích đó, người duy nhất có thể làm được điều gì đó chỉ có Momoka.
+Trước tấm lưng chằng chịt huyết ngân ấy, người duy nhất có thể làm được điều gì đó lúc này chỉ có Momoka.
 
-Ngoài cậu ra, không một ai có thể kiếm được thuốc trị thương và bôi cho người khác.
+Ngoài cậu ra, không một ai có đủ khả năng kiếm đâu ra thứ thuốc trị thương thần kỳ này để chữa trị cho kẻ khác.
 
-Đối với một kẻ bất lực như cô, những lời hỏi han lo lắng dường như cũng chỉ là những lời sáo rỗng bề ngoài, khiến cô nghẹn lời không nói nên câu.
+Đối với một kẻ bất lực như cô, những lời xót thương thốt ra lúc này nghe sao mà sáo rỗng, khiến cô chỉ biết chết lặng chôn chân tại chỗ.
 
 “Em thì sao cũng được... nhưng còn Latina...”
 
-“Không thể nào.”
+“Không thể nào...”
 
-Bên cạnh Caron, Latina cũng đang nằm sấp và bất động như thể đã chết.
+Ngay cạnh Caron, Latina cũng đang nằm sấp, bất động như một cái xác không hồn.
 
-Có vẻ như cô bé đã ngất đi vì quá đau đớn.
+Dường như cô bé đã ngất lịm đi vì cơn đau vượt quá sức chịu đựng của một đứa trẻ.
 
-Lưng của cô bé cũng đã được bôi thuốc mỡ khắp nơi, Momoka đã hoàn thành việc sơ cứu. Việc còn lại chỉ là để cô bé nằm yên nghỉ ngơi mà thôi.
+Tấm lưng nhỏ bé của cô bé cũng đã được thoa kín một lớp thuốc mỡ dày. Momoka đã hoàn tất những thao tác sơ cứu cần thiết; việc còn lại chỉ là để cô bé nghỉ ngơi hồi sức.
 
-“...Trò này là do tên con trai kia làm sao?”
+“...Trò tàn độc này... là do thằng nhóc con đó làm sao?”
 
-“Tên khốn đó, cứ như một thằng ngốc chỉ biết vung roi liên tục.”
+“Thằng ranh con khốn nạn đó, cứ như một con quỷ nhỏ phát cuồng, vung roi không biết mỏi tay...”
 
-Khi nghe tin hai đứa trẻ này sẽ trở thành nô lệ riêng của Wonta, cô đã có linh cảm xấu, nhưng thực tế còn tồi tệ hơn thế nhiều.
+Khi nghe tin hai đứa trẻ bị điều đi làm nô lệ riêng cho Wonta, cô đã linh cảm thấy điềm chẳng lành, nhưng hiện thực tàn khốc còn vượt xa nỗi sợ hãi tồi tệ nhất.
 
-Cô cứ nghĩ nếu là một đứa trẻ thì cùng lắm cũng chỉ là những trò bắt nạt nhỏ nhặt chứ không đến mức tự tay quất roi, nhưng cô đã lầm. Chính vì là một đứa trẻ không biết tự chủ, nó mới có thể tận hưởng việc hành hạ nô lệ một cách tàn nhẫn đến thế.
+Cô từng ngây thơ cho rằng một đứa trẻ mười tuổi cùng lắm chỉ bày trò bắt nạt vặt vãnh chứ chưa đến mức tự tay cầm roi da quất xé thịt, nhưng cô đã lầm to. Chính vì là một đứa trẻ ngỗ ngược không biết kiềm chế thú tính, nó mới có thể say sưa tận hưởng việc đày đọa thân xác đồng loại một cách man rợ đến nhường ấy!
 
-Ngay ngày đầu tiên nhận việc đã ra nông nỗi này.
+Ngay ngày đầu tiên nhậm chức đã ra nông nỗi sống dở chết dở này.
 
-Từ ngày mai trở đi, không biết chúng có còn giữ được mạng sống hay không.
+Kể từ ngày mai, liệu chúng có còn giữ nổi cái mạng tàn hay không?
 
-“Ngài Momoka...”
+“Thần tử...”
 
-Gương mặt của Momoka khi vuốt ve đầu Latina với những cử chỉ đầy trìu mến lại lạnh lùng và không một chút cảm xúc, tựa như một con búp bê.
+Riza run rẩy thốt lên.
+
+Dưới ánh đèn bão leo lét, gương mặt của Momoka khi khẽ vuốt ve mái tóc rối bời của Latina đầy âu yếm lại lạnh tanh, phẳng lặng không một gợn sóng cảm xúc — tựa như một con búp bê vô hồn bằng sứ trắng.

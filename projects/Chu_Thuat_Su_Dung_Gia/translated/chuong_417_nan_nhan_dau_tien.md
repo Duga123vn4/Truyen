@@ -1,255 +1,265 @@
 # Tập 417: Nạn nhân đầu tiên
 
-“Nhìn này anh ơi, hai đứa này là nô lệ của em đấy!”
+“Nhìn này anh ơi, hai đứa này là nô lệ riêng của em đấy!”
 
-“Ồ~ Tuyệt đấy chứ. Cuối cùng thiếu gia cũng có nô lệ của riêng mình rồi à.”
+“Ồ~ Khá đấy chứ. Rốt cuộc thiếu gia cũng có nô lệ cho riêng mình rồi à.”
 
-Ngày hôm sau, tại khoảng sân trước biệt thự, Wonta đang khoe hai đứa nô lệ mới được mua cho với một thiếu niên lớn tuổi hơn, giống như một đứa trẻ đang khoe món đồ chơi mới cáu cạnh.
+Sáng hôm sau, tại khoảng sân trước dinh thự, Wonta hớn hở khoe hai đứa trẻ nô lệ vừa được giao cho với một thiếu niên lớn tuổi hơn, hệt như một đứa trẻ con đang khoe khoang món đồ chơi mới cáu cạnh.
 
-Thiếu niên đó là Derrick Junior. Cậu ta là con trai cưng của Đội trưởng Derrick, người đang nhận được sự biệt đãi nồng hậu nhất tại đồn điền New Hope này.
+Thiếu niên kia là Deyrick Junior, cậu quý tử cưng của Đội trưởng Deyrick — người đang nắm giữ địa vị và sự biệt đãi nồng hậu nhất tại đồn điền New Hope này.
 
-Nhờ mối quan hệ thân thiết giữa phụ huynh hai bên, tình cảm giữa Wonta và Junior cũng vô cùng tốt đẹp.
+Nhờ mối giao hảo thân tình giữa phụ huynh hai bên, quan hệ giữa Wonta và Junior cũng vô cùng khăng khít.
 
-Là con một, Wonta luôn kính trọng và bám đuôi Junior như một người anh trai đáng tin cậy. Về phần Junior, dù ngoài miệng vẫn gọi Wonta là “thiếu gia” theo đúng bổn phận, nhưng cậu ta luôn chăm sóc và coi Wonta như một đứa em trai nhỏ đáng yêu.
+Là con một trong nhà, Wonta luôn sùng bái và bám đuôi Junior như một người anh trai lớn đáng tin cậy. Về phần Junior, dẫu ngoài miệng vẫn gọi Wonta là “thiếu gia” theo đúng khuôn phép, nhưng thâm tâm cậu ta luôn bao bọc và coi Wonta như một đứa em trai nhỏ dễ bảo.
 
-Thế nên, việc Wonta lập tức đem hai đứa nô lệ hằng ao ước đi khoe với Junior đầu tiên gần như là một lẽ tất nhiên.
+Thế nên, việc Wonta vừa vớ được hai đứa nô lệ hằng mơ ước là lập tức dắt ngay tới khoe với Junior đầu tiên âu cũng là lẽ tất nhiên.
 
-“Nhưng mà này, hình như chúng vẫn chưa được dạy dỗ đàng hoàng thì phải — Thế này thì sao!”
+“Nhưng mà này, nom hai đứa này vẫn chưa được dạy dỗ ra ngô ra khoai gì thì phải — Ăn đòn này xem sao!”
 
-“Hự!?”
+“Hự?!”
 
-Một cú đá quét cực mạnh bất ngờ giáng xuống. Karon cố nén tiếng rên rỉ đau đớn, nhưng chấn động từ cú đá vẫn khiến cậu khuỵu gối xuống đất.
+Một cú đá quét sấm sét bất ngờ giáng thẳng vào ống chân. Caron cố cắn răng nén tiếng rên rỉ đau đớn, nhưng uy lực khủng khiếp từ cú càn quét vẫn khiến cậu nhóc khuỵu rạp gối xuống nền đất cứng.
 
-Derrick Junior chỉ mới tròn mười lăm tuổi — độ tuổi vừa được công nhận là trưởng thành ở thế giới này, nhưng vóc dáng của cậu ta đã vạm vỡ chẳng khác nào một người lớn thực thụ.
+Deyrick Junior mới vừa tròn mười lăm tuổi — độ tuổi vừa chạm mốc trưởng thành ở thế giới này — nhưng vóc dáng cậu ta đã vạm vỡ, đồ sộ chẳng khác nào một gã đàn ông lực lưỡng.
 
-Là con trai của một binh sĩ xuất sắc sau này trở thành lính đánh thuê, Junior thừa hưởng trọn vẹn dòng máu chiến binh từ cha mình. Được nuôi nấng trong một môi trường sung túc, lại thêm ý chí tự rèn luyện nghiêm túc, cậu ta sở hữu một cơ thể cực kỳ tráng kiện.
+Là con nhà nòi của một cựu binh xuất sắc nay là thủ lĩnh lính đánh thuê, Junior thừa hưởng trọn vẹn dòng máu chiến binh cuộn chảy trong huyết quản. Lại thêm từ bé được nuôi dưỡng trong nhung lụa thừa mứa dinh dưỡng, cộng với chế độ khổ luyện khắt khe, thể hình của cậu ta săn chắc và tráng kiện phi thường.
 
-Dưới sự chỉ dẫn của cha, Junior đã có được sức mạnh và khả năng chiến đấu vượt trội hơn hẳn những tân binh thông thường. Trong đám trẻ cùng trang lứa, không một ai có thể làm đối thủ của cậu ta, và Junior luôn nhận được sự ngưỡng mộ tuyệt đối từ họ.
+Dưới sự rèn giũa bài bản của cha, sức mạnh và kỹ năng cận chiến của Junior vượt xa mặt bằng chung của những tân binh thông thường. Trong đám đồng trang lứa quanh vùng, tuyệt nhiên không kẻ nào đủ sức làm đối thủ của cậu ta; Junior luôn là kẻ thống trị nhận được sự quy phục tuyệt đối.
 
-Thế nhưng, cậu ta không hài lòng với việc chỉ làm một kẻ cầm đầu lũ trẻ con. Bắt đầu từ năm nay, Junior sẽ nhập học tại trường sĩ quan, sau khi tốt nghiệp sẽ gia nhập quân đội Astoria với tư cách là sĩ quan dự bị. Derrick đang vạch sẵn cho con trai mình một con đường thăng tiến đầy vinh quang mà bản thân ông ta trước đây không thể chạm tới. Bản thân Junior cũng nung nấu một ý chí mãnh liệt là trở thành một quân nhân vĩ đại vượt qua cả cha mình.
+Thế nhưng, tham vọng của cậu ta không dừng lại ở chức vị đầu gấu xóm. Bắt đầu từ năm nay, Junior sẽ chính thức nhập học tại 『Trường Sĩ Quan』 của vương quốc, sau khi tốt nghiệp sẽ thẳng tiến vào biên chế quân đội Astoria với hàm sĩ quan dự bị. Đội trưởng Deyrick đang dốc toàn lực dọn sẵn cho con trai một con đường binh nghiệp thênh thang, xán lạn — điều mà bản thân ông ta năm xưa chưa từng vươn tới được. Bản thân Junior cũng nung nấu dã tâm cháy bỏng: trở thành một danh tướng lẫy lừng vượt xa cái bóng của người cha.
 
-“Ánh mắt xấc xược gớm nhỉ. Lũ nhóc của Dicky vẫn chưa hiểu rõ thân phận nô lệ của mình là gì à, hả?”
+“Ánh mắt xấc xược gớm nhỉ. Lũ mọi Dicky chúng mày vẫn chưa thông não nổi thân phận nô lệ của mình là gì à, hả?!”
 
-Đó chỉ là một lời kiếm chuyện vô cớ. Nhưng cũng không thể nói là Karon hoàn toàn không có ý chống đối.
+Đó rõ ràng chỉ là một cái cớ gây sự thô bỉ. Nhưng cũng không thể phủ nhận rằng sâu trong đáy mắt Caron vẫn âm ỉ ngọn lửa phản kháng.
 
-Nhờ có thứ thuốc hiệu nghiệm đến khó tin của Momoka, vết thương trên lưng cậu đã hoàn toàn dịu đi. Với thể trạng hiện tại, cậu tự tin mình có thể chịu đựng được ngay cả khi bị quất roi hôm nay.
+Nhờ thứ cao dược thần kỳ của Momoka xoa dịu, những vết lằn rách da chảy máu trên lưng cậu từ hôm qua đã lành lặn đến khó tin. Với thể trạng hồi phục thần tốc này, Caron tự tin mình hoàn toàn có thể cắn răng chịu đựng những trận đòn roi hôm nay.
 
-Karon vốn dĩ là một đứa trẻ bướng bỉnh, cậu không đủ khôn ngoan để che giấu đi sự bất khuất trong ánh mắt mình.
+Caron vốn là một đứa trẻ cứng đầu, và cậu nhóc chưa đủ già dơ để che giấu ngọn lửa bất khuất đang bùng lên trong con ngươi.
 
-Nhưng đối mặt với ánh mắt khiêu khích đó, Junior làm sao có thể làm ngơ. Ở Easthope này, cậu ta là kẻ mạnh nhất trong đám đồng lứa, và là một sĩ quan quân đội tương lai. Cậu ta không cho phép bất kỳ ai coi thường mình, huống chi lại là một lũ nô lệ Diana rẻ rách.
+Thế nhưng, trước ánh nhìn ngầm khiêu khích đó, một kẻ ngạo mạn như Junior làm sao chịu bỏ qua. Ở cái đất Easthope này, cậu ta là kẻ mạnh nhất trong lứa tuổi của mình, là một sĩ quan tương lai của đế chế. Cậu ta không cho phép bất kỳ kẻ nào dám dùng nửa con mắt nhìn mình, huống chi lại là thứ nô lệ tạp chủng Diana thấp hèn.
 
-“Thiếu gia này, anh có chiều chuộng chúng quá không đấy?”
+“Này thiếu gia, anh chiều chuộng lũ súc vật này quá trớn rồi đấy.”
 
-“Ủa, hôm qua em đã quất roi chúng đàng hoàng rồi mà.”
+“Ơ kìa, hôm qua em vung roi quất chúng túi bụi rồi mà anh.”
 
-“Này này, chỉ vung roi vù vù thế thì ăn thua gì. Đừng có bắt chước mấy lão giám thị vô dụng kia chứ, anh đâu còn là con nít nữa.”
+“Gì chứ, cứ vung roi vù vù như quạt muỗi thế thì bõ bèn gì! Đừng có bắt chước cái lối nửa mùa của mấy lão giám thị vô dụng, anh em mình đâu còn là con nít nữa.”
 
-“Hự… a…”
+“Hự... ặc...”
 
-Junior vừa giẫm đế giày đinh lên mặt Karon đang nằm đo đất, vừa lên giọng dạy bảo đứa em kết nghĩa về cách “dạy dỗ” lũ người Diana sao cho đúng điệu.
+Junior vừa dẫm mạnh đế giày đinh sắt nghiến thẳng lên nửa khuôn mặt Caron đang nằm đo đất, vừa vênh váo lên giọng truyền thụ cho thằng em kết nghĩa về “nghệ thuật thuần phục” lũ mọi Diana sao cho đúng điệu.
 
-“Đây là chuyện tao nghe kể lại, hồi cha tao san phẳng cái làng của lão Dicky ấy.”
+“Đây là chuyện chính tai tao nghe lỏm được, hồi cha tao dẫn quân san phẳng cái làng mọi của lão Dicky ấy.”
 
-Hiện tại, Derrick vẫn đang giữ chức đội trưởng, dẫn dắt nhiều thuộc cấp cũ từ thời binh nghiệp để thành lập nên đội tuần tra bảo vệ đồn điền.
+Hiện tại, Deyrick vẫn giữ chức đội trưởng, quy tụ dưới trướng rất nhiều thuộc cấp thiện chiến từ thời còn tại ngũ để lập nên lực lượng cảnh vệ tinh nhuệ cho đồn điền.
 
-Junior cũng rất được lòng đám binh lính đó, cậu ta thường xuyên cùng họ tụ tập và gây náo loạn ở các quán rượu.
+Junior rất được đám lính đánh thuê thô lỗ này cưng chiều. Cậu ta thường xuyên cùng bọn họ lê la khắp các quán rượu, đàn đúm thâu đêm suốt sáng.
 
-Tại đó, cậu ta đã được nghe những câu chuyện chiến trường thực tế mà cha mình hiếm khi kể lại. Và đây là một trong số đó.
+Tại những bàn nhậu nồng nặc mùi men, cậu ta được diện kiến những góc khuất trần trụi, khốc liệt nhất của chiến trường mà người cha nghiêm khắc hiếm khi hé môi. Và đây là một trong số những chiến tích kinh tởm đó.
 
-“Nghe bảo đợt đó chiếm đóng suôn sẻ lắm, cha tao cũng cao hứng nên uống hơi nhiều. Dù thực chất lão cũng chẳng mạnh mẽ gì cho cam.”
+“Nghe bảo đợt đấy đánh chiếm ngọt xớt, cha tao hưng phấn quá nên nốc đẫm rượu. Dù thực chất lão già nhà tao cũng chẳng tài cán gì cho cam.”
 
-Đó là chuyện thường tình xảy ra ở những vùng đất bị xâm lược. Cướp bóc, hãm hiếp và tàn sát.
+Đó là điệp khúc quen thuộc diễn ra tại mọi vùng đất bị gót sắt Astoria giày xéo: cướp bóc, cưỡng hiếp và tàn sát.
 
-Đối với kẻ bị cướp đoạt, đó là một bi kịch tột cùng; nhưng đối với kẻ cướp, đó lại là một chiến tích oai hùng để đem ra khoe khoang.
+Đối với kẻ bị tước đoạt, đó là bi kịch tận cùng của sự diệt vong; nhưng với những kẻ đồ tể cầm gươm, đó lại là chiến tích huy hoàng để đem ra làm mồi nhắm khoe khoang.
 
-“Lúc say xỉn, cha tao bảo với một con mụ Diana rằng: ‘Nếu trong ba phút mà làm tao sướng được thì tao sẽ tha mạng cho thằng đàn ông của mày’.”
+“Lúc say bí tỉ, cha tao dí thẳng họng 『Súng lục ổ quay』 vào đầu một con mụ Diana rồi gằn giọng: ‘Nếu trong ba phút mà mày phục vụ bú liếm khiến tao lên đỉnh được, tao sẽ tha mạng cho thằng đàn ông của mày’.”
 
-Người đàn ông đang bị họng súng lục chĩa vào đầu kia là chồng, người yêu, hay anh em của người phụ nữ đó, Junior không biết và cũng chẳng thèm quan tâm.
+Kẻ bị họng súng đen ngòm dí sát thái dương kia là chồng, nhân tình hay anh em ruột thịt của ả đàn bà khốn khổ, Junior không biết và cũng chẳng thèm để tâm.
 
-Suy cho cùng, đó chỉ là một trò tiêu khiển nhất thời nảy ra trong cái đầu đầy cồn của đám lính say xỉn. Lão ta chỉ muốn tìm kiếm chút khoái lạc và vui vẻ mà thôi.
+Suy cho cùng, đó chỉ là một trò tiêu khiển bệnh hoạn nảy sinh từ bộ não ngập ngụa cồn của đám lính khát máu. Bọn chúng chỉ đơn giản muốn tìm kiếm chút khoái lạc đồi bại mà thôi.
 
-“Thế là con mụ đó cuống cuồng bú liếm cho lão. Cha tao đến lúc sướng quá, đúng cái nhịp bắn ra thì lão bóp cò súng luôn!”
+“Thế là con mụ kia cuống cuồng quỳ sụp xuống bú liếm lấy sống lấy chết. Đúng lúc sướng quá trào ra, cha tao tiện tay bóp luôn cò súng!”
 
-Tiếng súng vang lên kèm theo những tràng cười man rợ.
+Đoàng!
 
-Người phụ nữ không kịp cất lên một tiếng khóc, người đàn ông bị bắn nát đầu cũng chẳng thể lên tiếng. Giữa không gian ấy, chỉ có tiếng cười hô hố của đám lính say xỉn vang vọng.
+Tiếng súng khô khốc xé toạc màn đêm quyện cùng những tràng cười sặc sụa man rợ.
 
-Sáng hôm sau, Derrick tỉnh dậy trong tình trạng trần truồng phần dưới và hoàn toàn không nhớ gì về chuyện đêm qua, điều đó lại càng khiến đám lính được một trận cười bò.
+Người đàn bà còn chưa kịp cất lên một tiếng thét ai oán, thì cái đầu của gã đàn ông xấu số đã nổ tung thành từng mảnh thịt vụn. Giữa vũng máu tanh tưởi, chỉ còn lại tiếng cười hô hố khoái trá của bầy linh cẩu say xỉn vang vọng khắp góc lều.
 
-Những kẻ đó vẫn thản nhiên kể lại câu chuyện ấy cho con trai của người đàn ông đáng thương bị biến thành trò đùa tình dục của ả đàn bà Diana kia, coi đó như một giai thoại chiến trường đầy thú vị.
+Sáng hôm sau, khi Deyrick ngơ ngác thức giấc trong tình trạng trần như nhộng từ thắt lưng trở xuống và tuyệt nhiên chẳng nhớ nổi nửa mảnh ký ức về tội ác đêm qua, đám thuộc hạ lại được dịp cười lăn lộn khoái chí.
 
-“Nghe chuyện bôi bác của cha tao thì cũng hơi ngượng thật, nhưng tao cũng nghĩ thế này. Quả nhiên mình phải làm được những chuyện như thế một cách tự nhiên thì mới ra dáng đàn ông được — Nào, mày cũng muốn thử mút cho tao không?”
+Bọn chúng thản nhiên kể lại câu chuyện ghê tởm ấy cho chính con trai của kẻ thủ ác, coi sự nhục nhã của người phụ nữ Diana cùng mạng sống của đồng bào cô như một trò hề mua vui rẻ tiền nơi chiến trường.
 
-“Hơ…”
+“Nghe chuyện bôi bác của ông già tao thì cũng hơi ngượng mồm thật, nhưng tao ngẫm ra một điều thế này: Đã là đàn ông bản lĩnh thì phải làm được những chuyện tàn độc ấy một cách tự nhiên như hơi thở — Nào, con ranh kia, mày cũng muốn thử mút cho tao sướng không?”
 
-Nhìn thấy ánh mắt của Junior hướng về phía mình, Latina nín thở. Không, chính cô cũng không biết mình có còn thở được nữa hay không.
+“Hức...!”
 
-Kể từ khoảnh khắc Karon bị đá ngã, sự bình tĩnh trong lòng cô đã hoàn toàn sụp đổ.
+Bắt gặp ánh mắt nhớp nhúa của Junior bất thình lình bắn sang phía mình, Latina nín thở. Cả lồng ngực cô bé đông cứng lại, đến việc hít thở dường như cũng vượt quá tầm kiểm soát.
 
-Đáng sợ. Thật sự quá đáng sợ và kinh hoàng.
+Kể từ khoảnh khắc Caron bị đá văng xuống đất, phòng tuyến tinh thần mong manh trong lòng cô bé đã hoàn toàn vỡ vụn.
 
-Nỗi đau từ những nhát roi. Sự bạo lực vô lý.
+Nỗi kinh hoàng tột độ bóp nghẹt buồng phổi.
 
-Nhưng giờ đây, một thứ còn đáng sợ và ghê tởm hơn cả những trận đòn roi hôm qua đang chuẩn bị giáng xuống đầu cô.
+Nỗi đau rát da thịt từ những lằn roi hôm qua. Sự bạo lực tàn nhẫn vô cớ của những kẻ thống trị.
 
-Dù trong cơn hoảng loạn, Latina không thể hiểu hết những gì Junior vừa nói, nhưng cô vẫn có thể cảm nhận được điều kinh khủng sắp xảy ra. Cô biết rõ bản thân không thể trốn tránh được nó.
+Thế nhưng lúc này, một thứ dơ bẩn, ghê tởm và đáng sợ hơn gấp vạn lần những lằn roi da kia đang chuẩn bị ập xuống thân xác non nớt của cô.
 
-“Này, mau lên coi.”
+Dẫu trí óc trẻ thơ hoảng loạn chưa thể hiểu hết từng lời bẩn thỉu thốt ra từ miệng Junior, nhưng linh tính mách bảo cho Latina biết một thảm kịch kinh hoàng sắp sửa giáng xuống đời mình. Và cô bé hoàn toàn bất lực, không cách nào trốn chạy.
 
-“Ư… a…”
+“Này, nhanh cái mồm lên coi!”
 
-Cánh tay cô bị chộp lấy.
+“Ư... a...”
 
-Đầu óc Latina hoàn toàn trống rỗng, cô không thể đưa ra bất kỳ sự kháng cự nào. Ngay cả một tiếng hét cũng nghẹn lại nơi cổ họng, chỉ có tiếng thở dốc dồn dập thoát ra.
+Bàn tay thô bạo của Junior thò tới, túm chặt lấy bả vai Latina giật mạnh.
 
-Chính vào khoảnh khắc này, cô mới thực sự hiểu ra thế nào là nô lệ. Nô lệ không đơn thuần chỉ là bị đe dọa và bắt làm việc cật lực.
+Đầu óc Latina nổ tung, trống rỗng hoàn toàn. Cô bé chẳng thể phát ra một chút phản kháng nào. Ngay cả một tiếng gào khóc cũng nghẹn đắng nơi cổ họng, chỉ còn lại những tiếng thở dốc run rẩy trong tuyệt vọng.
 
-Cô đã không biết điều đó. Bởi vì ngay khi nhận thức được thì cô đã bị bán đi, ở thương hội cô được bảo quản như một món hàng hóa kỹ lưỡng, còn ở đồn điền thì có Riza và những người lớn khác che chở.
+Chính vào giây phút này, cô bé mới thấu suốt định nghĩa trần trụi về hai chữ “nô lệ”. Nô lệ không đơn thuần chỉ là bị chửi bới và vắt kiệt sức lao động trên những luống cà phê.
 
-Dù cuộc sống có khổ cực, nhưng cô vẫn có đồng đội bên cạnh. Ít nhất, cô vẫn có thể sinh tồn.
+Trước đây cô bé chưa từng biết điều đó. Bởi lẽ từ khi có nhận thức, cô đã bị đem bán; ở thương hội người ta bảo quản cô như một món hàng cần giữ giá, còn khi trôi dạt về đồn điền New Hope, cô lại được Riza cùng những người lớn tộc Diana hết mực chở che, đùm bọc.
 
-Nhưng đó không phải là cuộc sống của một nô lệ thực sự.
+Dù chuỗi ngày qua vô cùng cơ cực, nhưng bên cạnh cô bé luôn có đồng bào san sẻ. Ít nhất, cô vẫn được phép tồn tại như một con người.
 
-Nô lệ chỉ là những món đồ chơi bị hủy hoại theo hứng thú nhất thời của chủ nhân.
+Thế nhưng, đó không phải là hiện thực của kiếp nô lệ thực thụ.
 
-Chẳng vì một lý do to tát nào cả, chỉ vì một cảm xúc bộc phát thoáng qua, dù món đồ đó có biến mất vĩnh viễn thì cũng chẳng ai thèm bận tâm hay nhớ đến — Đúng vậy, Latina đã thấu hiểu được số phận của mình, cô sắp sửa bị hủy hoại và vứt bỏ như một món đồ chơi rách nát.
+Nô lệ chỉ là những món đồ chơi rách rưới, sẵn sàng bị nghiền nát tan tành theo từng cơn bốc đồng bệnh hoạn của lũ chủ nhân.
 
-“Pya~”
-
-Thế nên, thứ duy nhất có thể thay đổi vận mệnh lúc này chỉ có thể là quyền năng của thần linh.
-
-Latina nhìn thấy một thứ gì đó màu đen bất ngờ bay sượt qua tầm mắt.
-
-“…Hả?”
+Chẳng cần bất kỳ lý do to tát nào, chỉ vì một thoáng hứng tình hay một cơn giận vô cớ, dẫu món đồ chơi ấy có vỡ vụn hay biến mất vĩnh viễn khỏi cõi đời này, cũng chẳng một ai thèm nhỏ một giọt nước mắt xót thương — Phải rồi, Latina đau đớn nhận ra số phận tàn khốc của mình: cô bé sắp sửa bị chà đạp và vứt bỏ nơi xó xỉnh tăm tối nhất.
 
 “Pya~”
 
-Đi kèm với tiếng kêu ngốc nghếch đó là một cục bùn đất.
+Ngay giữa hố sâu tuyệt vọng, thứ duy nhất có thể xoay chuyển càn khôn chỉ có thể là quyền năng nhiệm màu của thần linh.
 
-Cục bùn được ném đi một cách lỏng lẻo trúng ngay vào chiếc áo vest da bò của Junior. Đó là chiếc áo cậu ta mới mua gần đây và vô cùng yêu thích.
+Qua làn nước mắt nhạt nhòa, Latina chợt thấy một vệt đen xé gió bay sượt qua tầm mắt.
 
-Cục bùn vỡ ra, để lại một vệt bẩn nhem nhuốc, nhớp nháp trên chiếc áo da.
+“...Hả?”
 
-Nếu chỉ là vô tình ngã xuống đất sau cơn mưa, có lẽ Junior chỉ chửi thề vài câu rồi thôi.
+“Pya~!”
 
-Thế nhưng, kẻ dám làm bẩn chiếc áo của cậu ta, kẻ dám cả gan chọc giận cậu ta, lại chính là một đứa nô lệ rẻ rách.
+Đi kèm với âm thanh ngọng nghịu kỳ quặc ấy là một cục bùn nhão nhoét.
 
-“Mày… đang làm cái quái gì thế hả, thằng ranh con kia…”
+Bộp!
 
-Đó là một đứa trẻ tóc đen mặc bộ quần áo rách rưới như bao tải, thứ trang phục tồi tàn nhất đồn điền này.
+Cục bùn được ném bằng một lực lỏng lẻo, bay trúng phóc vào ngực chiếc áo gile da bò đắt tiền của Junior. Đó là món đồ hiệu cậu ta mới tậu cách đây không lâu và nâng niu như báu vật.
 
-Đứa trẻ đó đang cầm hai cục bùn trên tay với vẻ mặt đầy đắc ý như thể đang chơi đùa, rồi tiếp tục ném thẳng về phía Junior.
+Cục bùn toét ra, để lại một mảng bùn đất đen ngòm, nhơ nhớp loang lổ ngay giữa vạt áo bóng bẩy.
 
-“Tao sẽ giết chết mày, thằng chó!!”
+Nếu chỉ là lỡ chân trượt ngã lấm lem bùn đất sau cơn mưa, cùng lắm Junior chỉ buông vài câu chửi thề rồi phủi tay cho qua.
 
-“Ơ, hỏng rồi anh ơi! Đứa đó là—”
+Thế nhưng, kẻ to gan dám làm vấy bẩn bộ cánh kiêu hãnh của cậu ta, kẻ dám cả gan vuốt râu hùm chọc giận một sĩ quan tương lai, lại chính là một đứa nhóc nô lệ bẩn thỉu.
 
-Làm sao một kẻ kiêu ngạo như Junior có thể nhẫn nhịn khi bị một đứa trẻ nô lệ sỉ nhục như thế.
+“Mày... Mày vừa làm cái trò súc sinh gì đấy hả, thằng ranh con kia...?!”
 
-Cơn giận dữ bốc lên ngùn ngụt, Junior lao thẳng về phía trước, bỏ ngoài tai tiếng hét ngăn cản của Wonta.
+Xuất hiện ngay góc sân là một đứa trẻ tóc đen, khoác trên mình bộ bao tải rách rưới thùng thình — thứ y phục tồi tàn nhất của đáy tầng đồn điền.
 
-Đó là đứa trẻ bị nguyền rủa Momoka. Dù Wonta có cố hét lên cảnh báo rằng chạm vào đứa trẻ đó là cực kỳ nguy hiểm, thì mọi chuyện cũng đã quá muộn.
+Đứa trẻ ấy hai tay nắm chặt hai nắm bùn nhão, khuôn mặt nở nụ cười toe toét đắc thắng như thể vừa tìm thấy một trò chơi thú vị, rồi không chút do dự tiếp tục vung tay ném thẳng vào mặt Junior!
 
-Momoka vừa cười khúc khích vừa chạy trốn ra phía sau bụi rậm ngoài vườn. Junior lập tức rút con dao găm luôn giắt bên hông ra và đuổi theo.
+“Bố mày xé xác mày ra, thằng súc sinh!!”
 
-Lúc này, đầu óc cậu ta chỉ còn lại một màu đỏ của sự giận dữ. Lòng tự tôn của Junior đã bị tổn hại nghiêm trọng bởi sự khiêu khích quá đỗi trắng trợn này.
+“Á, chết rồi anh ơi! Thằng nhóc đó là—”
 
-Cậu ta không hề biết sợ hãi là gì. Dù trước đó có nghe Wonta kể về lời nguyền đi chăng nữa, Junior chắc chắn cũng sẽ không dừng lại.
+Lòng tự tôn ngút trời của Junior làm sao chịu nổi sự sỉ nhục trắng trợn từ một đứa nô lệ thấp hèn!
 
-Cậu ta điên cuồng đuổi theo bóng dáng đang chạy trốn của Momoka. Cả hai đã chạy ra khỏi khu vườn biệt thự và tiến vào cánh đồng rộng lớn phía ngoài.
+Cơn thịnh nộ bùng lên thiêu rụi lý trí, Junior hất văng Latina sang một bên, hùng hổ lao vụt về phía trước, bỏ ngoài tai tiếng thét thất thanh của Wonta.
 
-Dù thể lực của Junior vượt trội hơn hẳn, nhưng cậu ta vẫn không thể rút ngắn khoảng cách với đứa trẻ kia. Trước khi kịp nhận ra sự bất thường đó, chân của Junior bỗng vấp phải thứ gì đó.
+Đó là Momoka — đứa trẻ mang lời nguyền độc địa! Dẫu Wonta có gào rách cổ họng nhằm cảnh báo rằng chạm vào quái thai đó đồng nghĩa với việc rước họa sát thân, thì mọi chuyện đã trượt khỏi tầm kiểm soát.
 
-“U oa!?”
+Momoka cười khúc khích nắc nẻ, thoăn thoắt xoay người luồn qua hàng rào, phóng thục mạng ra phía bụi rậm rạp ngoài bìa vườn. Junior lập tức rút phắt con dao găm sáng loáng giắt bên hông, gầm lên lồng lộn đuổi theo bén gót.
 
-Theo đà lao tới, Junior ngã nhào về phía trước, nhưng cậu ta nhanh chóng thực hiện một động tác nhào lộn để giảm chấn thương. Cậu ta định lập tức đứng dậy, nhưng bàn chân vấp ngã đã bị thứ gì đó quấn chặt, không thể nhúc nhích.
+Lúc này, tầm nhìn của cậu ta chỉ còn rực lên một màu đỏ quạch của sự điên loạn. Bản lĩnh kiêu ngạo của một kẻ thống trị vừa bị chà đạp tàn nhẫn dưới bùn đen, và mối nhục này chỉ có thể rửa bằng máu!
 
-Nghĩ rằng mình bị vướng vào dây thừng hay dây leo, Junior vung tay phải đang cầm dao xuống định cắt đứt nó.
+Cậu ta không biết sợ hãi là gì. Dẫu trước đó có nghe Wonta lải nhải về những lời nguyền ma quái, thì với bản tính hung hăng của một kẻ ỷ vào sức mạnh cơ bắp, Junior tuyệt đối không bao giờ chùn bước.
 
-“Cái quái gì thế này, tóc… à? Tởm lợm thật.”
+Gã thiếu niên điên cuồng bám riết theo bóng lưng nhỏ thó của Momoka. Trong chớp mắt, cả hai đã xé toạc ranh giới khu vườn biệt thự, lao thẳng vào cánh đồng cỏ rậm rạp hoang vu tiếp giáp bìa rừng.
 
-Một búi tóc đen dài như những sợi dây thừng đang quấn chặt lấy cổ chân cậu ta.
+Dẫu thể lực và sải chân của Junior vượt trội hơn hẳn, nhưng kỳ lạ thay, khoảng cách giữa cậu ta và thằng nhóc tóc đen dường như không hề thu hẹp lại lấy một tấc. Còn chưa kịp nhận ra điểm phi lý đến rợn người ấy, gót chân Junior bỗng vấp phải một vật thể mềm nhũn nhưng dẻo dai khôn tả.
 
-Tại sao một thứ như thế này lại xuất hiện ở đây? Thay vì thắc mắc, Junior ưu tiên việc thoát khỏi sự trói buộc ghê tởm này trước. Cậu ta định dùng dao cắt đứt búi tóc — nhưng ngay lập tức, cánh tay cầm dao của cậu ta cũng bị khống chế.
+“U oái?!”
 
-“Mẹ kiếp! Thứ này từ đâu chui ra thế này!?”
+Mất đà, thân hình vạm vỡ của Junior ngã nhào cắm mặt về phía trước. Bằng phản xạ nhạy bén của con nhà võ, cậu ta lập tức tung người lăn tròn một vòng để triệt tiêu lực chấn động. Junior định bật dậy lao tiếp — thế nhưng bàn chân vừa trượt ngã bỗng bị một lực siết ghê gớm ghì chặt cứng ngắc, không tài nào nhúc nhích nổi nửa phân!
 
-Cả nắm tay đang siết chặt con dao của cậu ta cũng bị những sợi tóc đen quấn chặt lấy.
+Tưởng mình dính bẫy dây thừng hay dây leo rừng quấn chân, Junior gầm gừ vung con dao găm trên tay phải chém thẳng xuống nhằm chặt đứt chướng ngại vật.
 
-Những sợi tóc trói buộc cánh tay cậu ta dường như mọc ra từ phía bên kia bụi cỏ. Cậu ta hoàn toàn không biết gốc rễ của chúng nằm ở đâu, và làm thế nào mà chúng có thể bay tới đây được.
+“Cái của nợ gì thế này... Tóc?! Kinh tởm vãi đái!”
 
-Chắc chắn đây không phải là một búi tóc vô tình rơi vãi trên mặt đất.
+Đập vào mắt cậu ta là một búi tóc đen tuyền, bện chặt lại dày cộp như những sợi dây thừng xích sắt, đang quấn chằng chịt nhiều tầng quanh cổ chân!
 
-Đến lúc này, Junior mới bàng hoàng nhận ra những sợi tóc đen này đang được điều khiển bởi ý chí của một kẻ nào đó, giống như ma pháp vậy.
+Tại sao giữa đồng không mông quạnh lại thình lình xuất hiện thứ quái đản này?! Chưa kịp định thần, bản năng mách bảo Junior phải lập tức giải phóng bản thân khỏi sự giam cầm nhớp nhúa. Cậu ta nghiến răng vung lưỡi dao nhắm thẳng vào búi tóc chém xuống — nhưng ngay khoảnh khắc ấy, cánh tay phải cầm dao của cậu ta bỗng khựng lại giữa không trung!
+
+“Mẹ kiếp! Cái quái gì thế này?!”
+
+Một búi tóc đen khác từ đâu trồi lên, quấn chặt lấy cổ tay và nắm đấm của Junior, khóa cứng lưỡi dao găm!
+
+Những sợi tóc đen sì trói gông cánh tay cậu ta dường như đâm chồi từ sâu bên kia bụi cỏ rậm rạp. Chúng mọc ra từ đâu? Bằng cách nào mà chúng có thể vươn dài và uốn lượn linh hoạt như những xúc tu sống giữa không trung như thế?!
+
+Đây tuyệt đối không phải là mớ tóc rụng vô tri rơi vãi ngoài đồng ruộng!
+
+Đến tận giây phút này, Junior mới bàng hoàng rùng mình nhận ra: những sợi 『Chú phát』 đen ma quái này đang được điều khiển bằng ý niệm chuẩn xác của một kẻ giấu mặt — một loại ma thuật tà ác vượt xa tầm hiểu biết của cậu ta!
 
 “Kyahaha!”
 
-“M-Mày làm đúng không!”
+“M-Mày... Chính là mày làm đúng không?!”
 
-Chẳng cần phải suy nghĩ xem kẻ đó là ai.
+Chẳng cần phí tế bào não để đoán xem thủ phạm là ai.
 
-Nhìn Junior đang bị tóc đen trói chặt, Momoka cười ngặt nghẽo, ngón tay nhỏ nhắn chỉ thẳng vào dáng vẻ thảm hại đang bò rạp dưới đất của cậu ta.
+Bên kia bụi cỏ rậm, Momoka đang đứng khoanh tay, cười ngặt nghẽo khoái trá. Ngón tay nhỏ nhắn của cậu ta chĩa thẳng vào bộ dạng thảm hại đang nằm bẹp dí dưới bùn đất của tên bắt nạt.
 
-“Này, thả ra! Mau thả tao ra, thằng ranh con kia!!”
+“Mẹ kiếp, thả tao ra! Mau thả bố mày ra, thằng súc sinh ranh con kia!!”
 
-Junior gào thét và điên cuồng giãy giụa trên mặt đất, nhưng nếu không có lưỡi dao sắc bén thì làm sao có thể dễ dàng cắt đứt được búi tóc dày đặc này. Ít nhất, một kẻ chỉ có cơ bắp hữu dũng vô mưu như cậu ta là không thể làm được.
+Junior lồng lộn gào thét, cuống cuồng giãy giụa như cá mắc cạn trên nền đất ẩm. Thế nhưng một khi đã mất đi lưỡi dao sắc bén, sức người làm sao đọ nổi kết cấu bền bỉ tựa thép nguội của ma thuật nguyền rủa. Ít nhất, một tên hữu dũng vô mưu chỉ ỷ lại vào chút cơ bắp thô thiển như cậu ta hoàn toàn vô phương thoát trói.
 
-Trong lúc cậu ta còn đang chật vật giãy giụa, những sợi tóc đen từ phía bên kia bụi cỏ lại tiếp tục trườn tới như những con rắn săn mồi, quấn chặt lấy cơ thể cậu ta hơn nữa.
+Càng vùng vẫy dữ dội, những sợi tóc đen từ lòng đất lại càng lũ lượt trườn tới như bầy rắn độc ngửi thấy mùi mồi, quấn siết từng vòng nghẹt thở quanh ngực, bụng và hai chân Junior.
 
-“Đừng có đùa giỡn với tao! Cái quái gì thế này, tao thề sẽ phanh thây mày!!”
+“Đừng có đùa nhả với bố mày! Cái quái gì thế này... Tao thề sẽ băm vằm mày ra làm trăm mảnh!!”
 
-“Gàaaa~ Gà con gà tơ~”
+“Yếuuu~ Yếu xìu luôn~ Đồ gà mờ yếu xìu~!”
 
-Khi cơ thể đã hoàn toàn bị khóa chặt và chỉ còn biết gào thét những lời chửi rủa vô vọng, Junior nhìn thấy Momoka đang vừa làm động tác squat vừa hát những lời trêu chọc đầy thích thú ngay trước mặt mình.
+Khi toàn thân đã bị trói gô như một khúc gỗ, chỉ còn cái mồm là gào thét những lời nguyền rủa vô vọng, Junior cay đắng nhìn thấy Momoka đang vừa nhún nhảy làm động tác squat, vừa nghêu ngao cất giọng chế giễu đầy khoái trá ngay trước mũi mình.
 
-Đúng lúc đó, một tiếng động lớn vang lên từ bụi cỏ cao phía sau, có kẻ đang tiến lại gần.
+Xào xạc! Xoạt xoạt xoạt!
 
-“Này! Tôi ở đây! Mau cứu tôi với, con chó nô lệ này đang—”
+Đúng lúc ấy, một chuỗi âm thanh nặng nề vang lên từ bức tường cỏ lau cao ngất phía sau lưng. Có thứ gì đó khổng lồ đang lừng lững tiến lại gần.
 
-Tin rằng có người đến cứu, Junior hét lớn để báo hiệu vị trí của mình.
+“Này! Tôi ở đây! Mau tới cứu tôi với! Con chó nô lệ này dám—”
 
-Như bị thu hút bởi tiếng hét đó, kẻ tạo ra tiếng động lừng lững rẽ lối cỏ rậm rạp bước ra, lộ diện trước mặt cậu ta.
+Đinh ninh rằng lính tuần tra đồn điền nghe thấy tiếng động tới ứng cứu, Junior hét lạc cả giọng để báo hiệu vị trí.
 
-“Hả…?”
+Như bị đánh thức bởi tiếng gào thét inh ỏi, kẻ tạo ra chấn động khẽ khựng lại, rồi thong thả rẽ toang bụi cỏ rậm rạp, lộ diện hoàn toàn trước mắt cậu ta.
 
-Đó là một con thú. Một con thú đi bằng bốn chân.
+“Hả...?”
 
-Thế nhưng, toàn thân nó được bao phủ bởi một lớp giáp cứng như thép, thân hình đồ sộ của nó nếu đứng thẳng lên chắc chắn sẽ vượt quá ba mét.
+Âm thanh trong cổ họng Junior tắc nghẹn.
 
-Đó không phải là một con thú thông thường, mà là một ma vật.
+Đó là một con thú. Một con dã thú khổng lồ di chuyển bằng bốn chân.
 
-Một con Gấu Giáp Sắt đã xuất hiện.
+Thế nhưng, toàn bộ tấm lưng đồ sộ của nó được bao bọc bởi một lớp giáp sừng cứng như thép nguội, tỏa ra ánh kim loại đen sẫm lạnh ngắt. Khối thân hình hộ pháp bè bè của nó nếu chồm hai chân đứng thẳng lên, chắc chắn sẽ vượt quá ba mét chiều cao!
 
-“A… a… Tại sao lại…”
+Đó tuyệt đối không phải là một con dã thú thông thường. Đó là ma thú săn mồi thượng đẳng.
 
-Ngay khi nhìn thấy hình dáng của con Gấu Giáp Sắt, Junior lập tức nhận ra. Chính là nó. Đây chính là con ma vật mà cha cậu ta cùng đội tuần tra đang ráo riết săn lùng suốt thời gian qua.
+Một con 『Thiết Giáp Hùng』 hung tợn bằng xương bằng thịt vừa xuất hiện!
 
-Cậu ta cũng đã nhận được lời cảnh báo từ cha mình. Vì con quái vật vẫn chưa bị tiêu diệt nên rất có thể nó sẽ xuất hiện quanh khu vực đồn điền. Ông ta đã dặn cậu ta phải cực kỳ cẩn thận khi đến đây.
+“Á... a... Tại sao... Tại sao lại là...”
 
-Thế nhưng, trước sự lo lắng của cha, Junior của vài ngày trước chỉ cười khẩy đầy khinh thường, tự tin rằng mình sẽ không bao giờ biết sợ hãi.
+Khoảnh khắc diện kiến lớp giáp thép gai góc của 『Thiết Giáp Hùng』, Junior chết sững. Là nó! Chính là con hung thú tàn bạo mà cha cậu ta cùng toàn bộ phân đội cảnh vệ đồn điền đang ngày đêm lùng sục ráo riết suốt thời gian qua!
 
-Nhưng giờ đây, đối mặt với con quái vật thực sự, liệu cậu ta có thể giữ được sự bình tĩnh đó?
+Cậu ta từng nghe cha cảnh báo vô số lần: Vì con quái vật vẫn bặt vô âm tín ngoài vòng vây, nên ranh giới đồn điền vẫn nằm trong phạm vi săn mồi của nó; mỗi lần đến chơi phải hết sức cảnh giác.
 
-“Á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á !!”
+Thế nhưng, trước sự lo lắng ân cần của cha, Junior của vài ngày trước chỉ nhếch mép cười khẩy đầy kiêu bạo, huênh hoang rằng một tay súng tương lai như cậu ta thì việc quái gì phải xoắn một con gấu rừng.
 
-Trước khi nỗi sợ hãi kịp chiếm lấy tâm trí, con Gấu Giáp Sắt đã nhe nanh vuốt.
+Nhưng giờ đây, khi đối mặt trực diện với một cỗ máy nghiền thịt sống sờ sờ ở cự ly chưa đầy hai mét, sự kiêu hãnh rởm đời kia bay biến đi đâu sạch?!
 
-Nó há to cái miệng đầy nước dãi, ngoạm thẳng vào hông của Junior.
+“Á á á á á á á á á á á á á á á á á á á á á á á á á á á !!”
 
-Hàng răng nanh sắc nhọn cắm sâu vào da thịt, cơn đau đớn tột cùng và nỗi sợ hãi cái chết rõ ràng lần đầu tiên trong đời ập đến, khiến Junior hét lên một tiếng thảm thiết.
+Còn chưa kịp để nỗi sợ hãi đóng băng đại não, 『Thiết Giáp Hùng』 đã nhe hàm nanh gớm ghiếc.
 
-“Đau quá! Đau chết mất! Tha cho tôi đi mà, á á á á á á á á á á á á !!”
+Nó há toác cái mõm tanh tưởi nhầy nhụa nước dãi nhớp nháp, ngoạm phập một cú trời giáng thẳng vào mạn sườn đẫy thịt của Junior!
 
-Không còn màng đến lòng tự trọng hay thể diện, Junior chỉ biết khóc lóc thảm thiết trong đau đớn và sợ hãi. Con Gấu Giáp Sắt ngoạm chặt lấy cậu ta rồi nhấc bổng lên.
+Rắc! Phụt!
 
-Nó không ăn thịt con mồi ngay tại chỗ, mà quay người lại như thể muốn mang con mồi về tổ của mình.
+Những chiếc răng nanh nhọn hoắt dài cả tấc cắm ngập sâu vào da thịt, nghiền nát xương sườn. Cơn đau thấu tận tim gan cùng nỗi kinh hoàng cận kề cái chết lần đầu tiên giáng sấm sét xuống cuộc đời êm ấm của Junior, bóp nghẹt cổ họng cậu ta thành một tràng thét xé ruột xé gan!
 
-Và rồi, như muốn khẳng định mình mới là bá chủ của vùng đất này, con Gấu Giáp Sắt lững thững bước đi bằng bốn chân, kéo lê Junior theo sau. Đến lúc này, Junior mới hiểu ra số phận của mình.
+“Đau quá! Đau chết mất thôi! Tha cho con... Tha mạng cho con với! Á á á á á á á !!”
 
-Cậu ta chỉ là một miếng mồi ngon bị lôi đi, và sẽ không bao giờ có thể quay trở về được nữa.
+Chẳng còn lòng tự tôn sĩ quan, chẳng còn thể diện của kẻ thống trị, Junior giãy giụa trong vũng máu, vừa khóc rống thảm thiết vừa đái cả ra quần. 『Thiết Giáp Hùng』 nghiến chặt hàm răng thép, dễ dàng nhấc bổng thân xác nặng gần trăm ký của cậu thiếu niên lên không trung như một bao tải giẻ rách.
 
-“K-Không muốn đâu! Cứu con với, cha ơi! Con không muốn chết đâuuuu!!”
+Nó không hề có ý định xé xác con mồi ngay tại chỗ. Con thú khổng lồ khẽ ngoẹo đầu, xoay người lại như muốn tha miếng mồi béo bở này về tận hang ổ sâu trong hẻm núi để từ từ thưởng thức.
 
-“Tạm biệttti~”
+Và rồi, với uy phong lẫm liệt của kẻ xưng vương chốn hoang dã, 『Thiết Giáp Hùng』 lững thững bước bốn chân nện đều trên nền đất, kéo lê tấm thân đẫm máu của Junior mất hút vào màn cỏ lau rậm rạp. Đến tận giây phút này, Junior mới thấu suốt bi kịch tận cùng của đời mình.
 
-Momoka mỉm cười vẫy tay tiễn Junior và con Gấu Giáp Sắt đi khuất.
+Cậu ta giờ đây chỉ là một miếng thịt tươi bị tha đi dự trữ. Và cánh cửa trở về thế giới loài người đã vĩnh viễn khép lại sau lưng.
+
+“K-Không muốn đâu! Cứu con với cha ơi... Bố ơi cứu con với!! Con không muốn chết đâuuuu!!”
+
+“Bai-baiii~”
+
+Đứng bên bìa rừng, Momoka nở nụ cười rạng rỡ ngây thơ, vẫy vẫy bàn tay nhỏ nhắn tiễn đưa tiếng gào khóc thảm thiết của Junior cùng bóng lưng khổng lồ của 『Thiết Giáp Hùng』 chìm dần vào bóng tối đại ngàn.

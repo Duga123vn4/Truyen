@@ -1,30 +1,28 @@
-# Tập 413: Khởi đầu của thời kỳ chuẩn bị
-
 “Kính coong các coong”, tiếng chuông báo hiệu kết thúc một ngày học vang lên. Đáng lẽ ra tôi phải đi thẳng về nhà, nhưng giờ này tôi vẫn đang ngồi im lìm tại chỗ của mình trong lớp học.
 
 “Vậy thì, chúng ta bắt đầu cuộc họp bàn thôi nhỉ.”
 
-Đã tan học rồi mà Lớp trưởng vẫn thản nhiên bắt đầu làm việc. Bộ cô là chiến binh doanh nghiệp sẵn sàng tăng ca không lương đấy à?
+Đã tan học rồi mà Lớp trưởng vẫn thản nhiên bắt tay vào làm việc. Bộ cô là chiến binh doanh nghiệp sẵn sàng tăng ca không lương đấy à?
 
 “Hì hì, những gương mặt tập hợp ở đây có vẻ bất ngờ ngoài dự kiến nhỉ.”
 
 Vừa nói, Lớp trưởng vừa thích thú nhìn quanh những người bị giữ lại sau giờ học.
 
-Hiện tại, những người đang tập hợp ở đây gồm bốn người, tính cả tôi. Đây là cuộc họp của các trưởng bộ phận để chuẩn bị cho dự án 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』. Nói cách khác, đây chính là một cuộc họp ban cán sự.
+Hiện tại, những người đang tập hợp ở đây gồm bốn người, tính cả tôi. Đây là cuộc họp của các trưởng bộ phận để chuẩn bị cho dự án 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』. Nói cách khác, đây chính là một cuộc họp ban cán sự mở rộng.
 
 “Vâng, tôi là Hầu gái trưởng Momokawa đây~”
 
 “Thế thì tớ sẽ là Quản gia trưởng nhỉ.”
 
-Khi tôi nói với giọng bất cần đời, Lớp trưởng khẽ bật cười khúc khích rồi tiếp lời.
+Khi tôi cất giọng bằng vẻ bất cần đời, Lớp trưởng khẽ bật cười khúc khích rồi tiếp lời.
 
-Khốn thật, so với một thằng nhóc lùn tịt giả dạng hầu gái như tôi, dáng vẻ quản gia của Lớp trưởng chắc chắn sẽ cực kỳ ra dáng. Nghĩ đến cảnh hai đứa đứng cạnh nhau sau này là tôi đã thấy u ám rồi.
+Khốn thật, so với một thằng nhóc lùn tịt giả dạng hầu gái như tôi, dáng vẻ quản gia của Lớp trưởng chắc chắn sẽ cực kỳ ra dáng. Nghĩ đến cảnh hai đứa đứng cạnh nhau sau này là tôi đã thấy tương lai tối sầm lại rồi.
 
 “Ừm, vậy thì tớ chắc là Bếp trưởng nhỉ.”
 
-Thành viên CLB Nấu ăn, Futaba Meiko. Để gánh vác danh hiệu Bếp trưởng này, ngoài cô ấy ra thì không còn ai xứng đáng hơn.
+Thành viên CLB Nấu ăn, Futaba Meiko. Để gánh vác danh hiệu Bếp trưởng này, ngoài cô ấy ra thì chẳng còn ai xứng đáng hơn.
 
-Ngay cả trong các buổi sinh hoạt CLB thông thường, cô ấy vẫn tự mang theo dao bếp cá nhân và những dụng cụ nấu nướng chuyên dụng của mình. Trong cái CLB Nấu ăn vốn có bầu không khí khá thư thả kia, cô ấy nổi tiếng là thành viên thuộc phái "try-hard" thực thụ.
+Ngay cả trong các buổi sinh hoạt CLB thông thường, cô ấy vẫn tự mang theo dao bếp cá nhân cùng những dụng cụ nấu nướng chuyên dụng của mình. Trong cái CLB Nấu ăn vốn có bầu không khí khá thư thả kia, cô ấy nổi tiếng là thành viên thuộc phái "try-hard" thực thụ.
 
 Cô ấy tuyệt đối không phải kiểu người nửa mùa chỉ chú trọng hình thức, mà tay nghề thực sự rất đáng nể. Những ai từng được thưởng thức món ăn của Futaba đều đồng thanh khen ngợi là tuyệt phẩm. Tiếc là tôi chưa có cơ hội ăn thử lần nào.
 
@@ -56,7 +54,7 @@ Dù sao thì, một Sugino không hề sợ hãi trước đám cá biệt, lạ
 
 Tôi thì thực ra có bận tâm đấy. Tôi cũng chẳng thiết tha gì với CLB Văn học nên thành thật mà nói, mong muốn được về nhà sớm vẫn chiếm phần hơn. Nhưng tất nhiên tôi sẽ không dại gì mà nói ra mấy lời càu nhàu vô nghĩa đó.
 
-Nhưng mà, dù cả Futaba và Sugino đều nói chuyện với vẻ ôn hòa, niềm nở, nhưng khi hai người này đứng cạnh nhau thì độ đồ sộ quả là đáng sợ. Nếu tôi bị kẹp ở giữa hai người họ, trông chẳng khác nào một gia đình ba người với kích thước chênh lệch rõ rệt.
+Cơ mà, dù cả Futaba và Sugino đều nói chuyện với vẻ ôn hòa, niềm nở, nhưng khi hai người này đứng cạnh nhau thì độ đồ sộ quả là đáng sợ. Nếu tôi bị kẹp ở giữa hai người họ, trông chẳng khác nào một gia đình ba người với kích thước chênh lệch rõ rệt.
 
 “Hôm nay chúng ta chỉ thảo luận ý tưởng sơ bộ thôi. Trong giờ sinh hoạt lớp lúc nãy, chắc các cậu cũng đã bàn bạc xem nhóm mình muốn làm gì rồi, nên trước hết tớ muốn nghe ý kiến của mọi người.”
 
@@ -118,7 +116,7 @@ Vừa run rẩy lo sợ, tôi vừa lướt mắt qua các công thức nấu ă
 
 “Ư...!”
 
-Trước câu nói lầm bầm của tôi, Futaba lộ rõ vẻ lúng túng trên khuôn mặt.
+Trước câu nói lẩm bẩm của tôi, Futaba lộ rõ vẻ lúng túng trên khuôn mặt.
 
 “Quả nhiên... Momokawa-kun cũng nghĩ vậy sao...?”
 
@@ -138,7 +136,7 @@ Ngay cả món cơm trứng cuộn vốn có nguyên liệu khá đơn giản m�
 
 “Nhưng mà, xin hãy khoan đã.”
 
-Đúng vậy, khoan đã. Cứ đà này thì tôi sẽ trở thành một thằng con trai đáng ghét, chỉ biết soi mói vụn vặt làm Futaba mất hứng.
+Đúng vậy, khoan đã nào. Cứ đà này thì tôi sẽ trở thành một thằng con trai đáng ghét, chỉ biết soi mói vụn vặt làm Futaba mất hứng.
 
 Tôi thực lòng muốn nhìn thấy nụ cười của cô ấy. Đúng vậy, bởi vì tôi luôn đứng về phía những tâm hồn căng tròn.
 
@@ -208,7 +206,7 @@ Dù tôi đã đo đạc kỹ lưỡng cho mọi người như thể sắp đặ
 
 Tại vì tên Hayama cứ nhặng xị cả lên, còn bộ ba Jou-Chuu-Ge thì cứ giỡn hớt suốt. Một công việc đơn giản là đo số đo lần lượt cho từng người mà ngốn sạch cả tiết sinh hoạt kéo dài.
 
-“But cậu đã có dự tính gì trong đầu rồi đúng không?”
+“Nhưng mà cậu đã có dự tính gì trong đầu rồi đúng không?”
 
 “Thì cũng đại khái.”
 

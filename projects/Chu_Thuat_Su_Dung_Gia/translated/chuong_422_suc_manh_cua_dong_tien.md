@@ -1,371 +1,371 @@
-# Tập 419: Sức mạnh của đồng tiền
+# Tập 422: Sức mạnh của đồng tiền
 
-Sau khi các tiết học ngày thứ Hai kết thúc êm đẹp, buổi sinh hoạt câu lạc bộ bắt đầu.
+Sau khi các tiết học ngày thứ Hai kết thúc êm đẹp, thời gian dành cho các hoạt động sau giờ học cũng chính thức bắt đầu.
 
 “Vậy thì, chúng ta bắt đầu thôi nhỉ.”
 
-Lớp trưởng ngồi vào ghế chủ tọa với phong thái vô cùng chững chạc, tuyên bố bắt đầu cuộc họp ban cán sự.
+Lớp trưởng ngồi vào ghế chủ tọa với phong thái vô cùng chững chạc, cất tiếng tuyên bố mở đầu cuộc họp ban cán sự.
 
-Trên chiếc bàn được ghép lại để dùng làm bàn họp bày biện đủ thứ quà lưu niệm từ chuyến đi Disneyland của cậu Souma, khiến bầu không khí trông giống như một buổi tiệc trà nho nhỏ.
+Trên chiếc bàn được ghép lại để làm bàn họp bày biện đủ thứ bánh kẹo quà lưu niệm từ chuyến đi Disneyland của Souma-kun, khiến bầu không khí trông chẳng khác nào một buổi tiệc trà nho nhỏ.
 
 “Trước tiên, mọi người cho tôi nghe kết quả khảo sát của từng người nhé.”
 
 Nói rồi, Lớp trưởng đưa mắt nhìn qua một lượt những người có mặt, trong đó có cả tôi.
 
-Ban đầu, cuộc họp ban cán sự này chỉ dành riêng cho trưởng các bộ phận với quy mô bốn người, nhưng hôm nay có thêm bạn Souma Sakura và Yama-Jun tham gia, nâng tổng số thành viên lên sáu người.
+Ban đầu, cuộc họp ban cán sự này chỉ dành riêng cho trưởng các bộ phận với quy mô bốn người, nhưng hôm nay có thêm Souma Sakura-san và Yama-Jun cùng tham gia, nâng tổng số thành viên lên sáu người.
 
 “Ơ, ngoài tớ ra còn có ai đi cà phê hầu gái nữa à?”
 
-“Trong thành phố không có cà phê quản gia, nên tớ đã đi cà phê hầu gái để khảo sát thay thế đấy.”
+“Trong thành phố không có quán cà phê quản gia nào cả, nên tớ đã đi cà phê hầu gái để khảo sát thay thế đấy.”
 
-“Hôm qua tớ cũng dẫn nhóm cậu Hayama đi nữa.”
+“Hôm qua tớ cũng dẫn nhóm của Hayama-kun đi nữa.”
 
-Ra là vậy, mọi người hành động năng nổ và nghiêm túc hơn tớ tưởng nhiều.
+Ra là vậy, mọi người hành động năng nổ và nghiêm túc hơn tôi tưởng nhiều.
 
 “Lớp trưởng không đi à?”
 
-“Năm ngoái tớ làm chuyện đó rồi nên thôi, không cần thiết nữa.”
+“Năm ngoái tớ đi trải nghiệm rồi nên thôi, không cần thiết phải đi lại nữa.”
 
-Cũng đúng thôi. Và có vẻ như trải nghiệm đó không đủ thú vị để khiến cô ấy muốn quay lại lần nữa.
+Cũng đúng thôi. Và có vẻ như trải nghiệm đó không đủ thú vị để khiến cô ấy muốn quay lại lần thứ hai.
 
-“Tớ đề xuất quán 『Prim Heart』 nhé, ở đó được lắm.”
+“Tớ đề xuất quán 『Prim Heart』 nhé, ở đó làm ăn được lắm.”
 
-“Chỗ đó tốt thật đấy chứ. Chất lượng của các bạn hầu gái rất cao, cách vận hành quán cũng cực kỳ chuyên nghiệp.”
+“Chỗ đó công nhận tốt thật. Chất lượng của các bạn hầu gái rất cao, cách thức vận hành quán cũng cực kỳ chuyên nghiệp.”
 
-Hóa ra Yama-Jun và những người khác cũng đã đến 『Prim Heart』 đúng như lời hẹn trước đó.
+Hóa ra Yama-Jun và những người khác cũng đã ghé qua 『Prim Heart』 đúng như lời hẹn trước đó.
 
-“Ở đó có hầu gái tóc bạc mắt xanh không?”
+“Ở đó có bạn hầu gái tóc bạc mắt xanh không?”
 
-“Có chứ. Cậu Hayama với bộ ba Jou-Chuu-Ge phấn khích cuồng nhiệt luôn... Thật sự là làm tớ hơi khó xử đấy.”
+“Có chứ. Hayama-kun với bộ ba Jou-Chuu-Ge phấn khích cuồng nhiệt luôn... Thật sự làm tớ thấy hơi khó xử đấy.”
 
-*Tớ thề là sẽ không bao giờ đi cùng lũ đó.*
+*Tớ thề là sẽ không bao giờ đi chung với lũ đó nữa đâu.*
 
-Cảnh tượng bọn họ làm loạn lập tức hiện lên trong đầu tôi. Chắc chắn phản ứng của họ lúc đó chẳng khác nào vừa phát hiện ra một thần tượng nổi tiếng ngay giữa phố.
+Cảnh tượng bọn họ làm loạn lập tức hiện lên mồn một trong đầu tôi. Chắc chắn phản ứng của họ lúc ấy chẳng khác nào vừa phát hiện ra một thần tượng nổi tiếng ngay giữa phố xá đông đúc.
 
-“Quả nhiên đối với con trai thì đó là một nơi rất thú vị nhỉ. Tớ thì chẳng thấy thoải mái chút nào.”
+“Quả nhiên đối với con trai thì đó là một nơi rất thú vị nhỉ. Còn tớ thì chẳng thấy thoải mái chút nào.”
 
-Bạn Souma nói với vẻ mặt mệt mỏi. Có vẻ như cô ấy đã không có một trải nghiệm mấy dễ chịu.
+Souma-san nói với vẻ mặt mệt mỏi. Có vẻ như cô ấy đã không có được một trải nghiệm dễ chịu cho lắm.
 
-“Bạn Souma đã đi quán nào thế?”
+“Souma-san đã ghé quán nào thế?”
 
 “Để xem nào, hình như tên là Pink gì đó...”
 
-“À, 『Pure Pink』. Biển hiệu ở đó nổi bật lắm. Cậu nhìn thấy rồi vào luôn à?”
+“À, 『Pure Pink』. Biển hiệu ở đó nổi bật đập vào mắt lắm. Cậu vừa nhìn thấy là bước vào luôn à?”
 
 “Ừm. Tớ hối hận vì đã không suy nghĩ kỹ hơn trước khi chọn.”
 
-Nơi đó cũng là một quán nổi tiếng, nhưng theo một nghĩa hoàn toàn khác so với 『Prim Heart』. Không phải là tệ, chỉ là bầu không khí ở đó lúc nào cũng cực kỳ náo nhiệt, nếu không bắt kịp được nhịp độ thì sẽ thấy rất ngột ngạt.
+Nơi đó cũng là một quán nổi tiếng, nhưng theo một nghĩa hoàn toàn khác so với 『Prim Heart』. Không hẳn là tệ, chỉ là bầu không khí ở đó lúc nào cũng cực kỳ náo nhiệt, nếu không bắt kịp được nhịp độ thì sẽ thấy vô cùng ngột ngạt và lạc lõng.
 
-Nhưng những ai đã thích thì sẽ cực kỳ cuồng, kiểu quán sở hữu lượng người hâm mộ vô cùng trung thành. Ừm, tóm lại là một nơi tuyệt đối không dành cho người mới bắt đầu.
+Nhưng những ai đã hợp gu thì sẽ cực kỳ cuồng, thuộc kiểu quán sở hữu lượng khách quen trung thành đến mức mù quáng. Tóm lại, đó tuyệt đối không phải là nơi dành cho người mới đi lần đầu.
 
-“Tớ và Asuna bị chèo kéo tuyển dụng ráo riết luôn đấy.”
+“Tớ và Asuna-chan bị chèo kéo tuyển dụng ráo riết luôn đấy.”
 
-“Lại là lão Quản lý Pink đó à!”
+“Lại là lão Quản lý Pink đó chứ gì!”
 
-Lão quản lý nổi tiếng đã đưa 『Pure Pink』 trở thành cái tên được bàn tán xôn xao. Nghe nói lão ta lúc nào cũng tăng động và sở hữu tính cách lập dị đến mức ai nhìn thấy một lần cũng không thể nào quên.
+Lão quản lý nổi tiếng đã đưa 『Pure Pink』 trở thành cái tên được bàn tán xôn xao khắp nơi. Nghe nói lão ta lúc nào cũng tăng động và sở hữu tính cách lập dị đến mức ai đã nhìn thấy một lần thì không bao giờ quên được.
 
-“Lão ta cứ khăng khăng thuyết phục rằng nếu hai đứa tớ làm hầu gái thì quán sẽ xưng bá thiên hạ... Thật sự là phiền phức quá đi mất.”
+“Lão ta cứ khăng khăng thuyết phục rằng nếu hai đứa tớ chịu làm hầu gái thì quán sẽ xưng bá thiên hạ... Thật sự là phiền phức quá đi mất.”
 
-Vì coi 『Prim Heart』 là đối thủ truyền kiếp nên có vẻ như Quản lý Pink cũng đang sốt sắng săn lùng nhân tài. Mà cũng phải thôi, nếu chiêu mộ được bạn Souma làm hầu gái thì cô ấy sẽ trở thành siêu át chủ bài đủ sức đối đầu sòng phẳng với cô nàng hầu gái tóc bạc mắt xanh bên kia. Bị nhắm vào là chuyện đương nhiên.
+Vì luôn coi 『Prim Heart』 là đối thủ truyền kiếp nên có vẻ như Quản lý Pink cũng đang sốt sắng săn lùng nhân tài khắp nơi. Mà cũng phải thôi, nếu chiêu mộ được Souma-san vào đội ngũ hầu gái thì cô ấy sẽ lập tức trở thành một siêu át chủ bài đủ sức đối đầu sòng phẳng với cô nàng hầu gái tóc bạc mắt xanh bên kia. Bị nhắm trúng cũng là chuyện đương nhiên.
 
 “『Prim Heart』 là một quán rất yên tĩnh và dễ chịu đấy.”
 
-“Nếu có lần sau, tớ sẽ chọn quán đó.”
+“Nếu có lần sau, chắc chắn tớ sẽ chọn quán đó.”
 
-Đến cả dáng vẻ thở dài của cô ấy trông cũng thật thanh lịch làm sao.
+Đến cả dáng vẻ thở dài thườn thượt của cô ấy trông cũng thật thanh lịch làm sao.
 
-“Vậy, mọi người có rút ra được điều gì tham khảo được không?”
+“Vậy, mọi người có rút ra được điều gì để tham khảo không?”
 
-“Có chứ, bọn tớ đâu chỉ đến đó để chơi. Tớ đã suy nghĩ rất nghiêm túc đấy—”
+“Có chứ, bọn tớ đâu chỉ đến đó để chơi bời. Tớ đã suy nghĩ rất nghiêm túc đấy—”
 
-Nói rồi, tôi trình bày kết quả khảo sát về cà phê hầu gái mà tôi và bạn Randou đã đúc kết được vào hôm thứ Bảy.
+Nói rồi, tôi trình bày kết quả khảo sát về cà phê hầu gái mà tôi và Randou-san đã đúc kết được vào hôm thứ Bảy.
 
-Những ý kiến thảo luận giữa tôi và bạn Randou đã được tóm tắt ngắn gọn trong một bản ghi chép. Tôi vừa liếc nhìn nó vừa trình bày.
+Những ý kiến thảo luận giữa tôi và Randou-san đã được tóm tắt ngắn gọn trong một bản ghi chép. Tôi vừa liếc nhìn tờ giấy vừa trình bày mạch lạc từng đề mục.
 
-Dĩ nhiên là cũng chẳng có ý tưởng nào quá đao to búa lớn, nên những đề xuất của Yama-Jun đưa ra cũng gần như tương tự.
+Dĩ nhiên cũng chẳng có ý tưởng nào quá đao to búa lớn, nên những đề xuất mà Yama-Jun đưa ra sau đó cũng gần như tương tự.
 
-Và bạn Souma, người tưởng như đã bị Quản lý Pink quay cho chóng mặt, hóa ra cũng thể hiện óc quan sát vô cùng nhạy bén khi chỉ ra những điểm khác biệt giữa quán hầu gái và quán cà phê thông thường.
+Và Souma-san, người tưởng như đã bị Quản lý Pink quay cho mòng mòng, hóa ra cũng thể hiện óc quan sát vô cùng nhạy bén khi chỉ ra rành mạch những điểm khác biệt cốt lõi giữa quán hầu gái và quán cà phê thông thường.
 
-“—Quả nhiên là vẫn nên có dịch vụ chụp ảnh nhỉ.”
+“—Quả nhiên là vẫn nên có dịch vụ chụp ảnh lưu niệm nhỉ.”
 
-Sau khi mọi người cùng đưa ra ý kiến, đây chính là yếu tố đầu tiên cần phải quyết định.
+Sau khi mọi người cùng nhau thảo luận, đây chính là yếu tố đầu tiên cần phải được thông qua.
 
-Một khi đã quyết định lấy ngoại hình làm thế mạnh cạnh tranh, thì đây có thể coi là dịch vụ cốt lõi còn quan trọng hơn cả đồ ăn thức uống.
+Một khi đã quyết định lấy ngoại hình làm thế mạnh cạnh tranh hàng đầu, thì đây có thể coi là dịch vụ cốt lõi, thậm chí còn mang lại doanh thu quan trọng hơn cả đồ ăn thức uống.
 
-“Liệu có mượn được máy photocopy không?”
+“Liệu chúng ta có mượn được máy photocopy không?”
 
-Đề xuất hàng đầu của tôi chính là ý tưởng sử dụng máy photocopy ở phòng giáo viên do bạn Randou nghĩ ra. Nếu kế hoạch này được thông qua, chúng tôi sẽ tiết kiệm được toàn bộ ngân sách dành cho dịch vụ chụp ảnh.
+Đề xuất hàng đầu của tôi chính là ý tưởng trưng dụng máy photocopy ở phòng giáo viên do Randou-san nghĩ ra. Nếu kế hoạch này được thông qua, chúng tôi sẽ tiết kiệm được toàn bộ ngân sách dự trù dành cho dịch vụ in ấn ảnh chụp.
 
 “Không sao, tớ chắc chắn sẽ mượn được.”
 
-“Ồ, đúng là Lớp trưởng có khác.”
+“Ồ, đúng là Lớp trưởng có khác, uy tín thật đấy.”
 
-Lời khẳng định mới đáng tin cậy làm sao. Thông thường những việc thế này sẽ dẫn đến cảnh đùn đẩy trách nhiệm xem ai phải đi thương lượng với giáo viên.
+Lời khẳng định dứt khoát mới đáng tin cậy làm sao. Thông thường những việc tế nhị thế này sẽ dẫn đến cảnh đùn đẩy trách nhiệm xem ai là người phải lên phòng giáo viên để thương lượng.
 
-“Chỉ cần có máy photocopy thì mọi chuyện còn lại sẽ ổn chứ?”
+“Chỉ cần có máy photocopy thì mọi chuyện còn lại đều sẽ ổn chứ?”
 
-“Chỉ cần kết nối máy ảnh kỹ thuật số với máy tính là có thể in ảnh ra ngay lập tức. Nhưng tớ sợ đến lúc chạy thật lại lúng túng, nên trước đó phải chạy thử ít nhất một lần.”
+“Chỉ cần kết nối máy ảnh kỹ thuật số với máy tính là có thể in ảnh ra ngay lập tức. Nhưng tớ sợ đến lúc phục vụ thật lại lúng túng, nên trước đó bắt buộc phải chạy thử ít nhất một lần.”
 
-“Vậy thì việc đó giao cho cậu nhé.”
+“Vậy thì việc đó giao lại cho cậu nhé.”
 
 “Katsu có một chiếc máy ảnh kỹ thuật số xịn lắm, giao việc làm phó nháy cho cậu ấy được không?”
 
-“Cậu Sugino, lại rút thêm một người nữa đi thế này có ổn không?”
+“Sugino-kun, lại rút thêm một người bên cậu đi thế này liệu có ổn không đấy?”
 
-“À, không vấn đề gì đâu. Chỉ cần cậu ấy sang phụ giúp lúc rảnh tay là được.”
+“À, không vấn đề gì đâu. Chỉ cần cậu ấy sang phụ giúp những lúc rảnh tay là được rồi.”
 
-Cậu Sugino, người phụ trách khâu hậu cần, gật đầu đồng ý với nụ cười điềm đạm thường ngày.
+Sugino-kun, người phụ trách khâu hậu cần dựng rạp, gật đầu đồng ý với nụ cười điềm đạm thường ngày.
 
-Từ chỗ của cậu ấy, tôi đã rút bạn Randou đi làm stylist rồi. Cậu Saitou (Katsu) làm phó nháy là người thứ hai. Dù vậy, việc điều động nhân sự trong phạm vi nhỏ thế này vẫn nằm trong tầm kiểm soát.
+Từ tổ của cậu ấy, tôi đã rút Randou-san sang làm stylist. Saitou-kun (Katsu) làm phó nháy là người thứ hai. Dù vậy, việc điều động nhân sự trong phạm vi nhỏ thế này vẫn hoàn toàn nằm trong tầm kiểm soát.
 
 “Trước mắt, tớ đã lập bảng dự toán ngân sách tối thiểu cần thiết cho việc dựng gian hàng rồi đây.”
 
-“Cảm ơn cậu, Sugino. Giúp ích nhiều lắm.”
+“Cảm ơn cậu nhé, Sugino-kun. Giúp ích nhiều lắm đấy.”
 
-Lớp trưởng nhận lấy bản ghi chép từ cậu Sugino, lướt qua một lượt rồi đặt lên bàn cho tất cả cùng xem.
+Lớp trưởng nhận lấy bản ghi chép từ tay Sugino-kun, lướt mắt qua một lượt rồi đặt ngay ngắn lên bàn cho tất cả cùng xem.
 
-Ồ, chi phí nguyên vật liệu được tính toán khá chi tiết và kỹ lưỡng đấy chứ. Trong lúc chúng tôi đang vui vẻ chơi bời ở cà phê hầu gái, cậu ấy đã đi khảo sát giá cả ở các cửa hàng vật liệu xây dựng rồi.
+Ồ, chi phí nguyên vật liệu được tính toán khá chi tiết và kỹ lưỡng đấy chứ. Trong lúc chúng tôi đang vui vẻ chơi bời ở quán cà phê hầu gái, cậu ấy đã cất công đi khảo sát giá cả ở các cửa hàng vật liệu xây dựng rồi.
 
-“Tuy nhiên, nếu tính cả các vật liệu phụ trợ như băng keo, đinh, màu vẽ và sơn nước thì ngân sách sẽ còn tăng thêm nữa.”
+“Tuy nhiên, nếu tính cả các vật liệu phụ trợ như băng keo, đinh ốc, màu vẽ và sơn nước thì ngân sách dự tính sẽ còn đội lên nữa.”
 
-“Chúng ta hãy lên danh sách những thứ bắt buộc phải có, xem tự chuẩn bị được đến đâu, rồi mới mua phần còn thiếu.”
+“Chúng ta hãy lên danh sách những thứ bắt buộc phải có, xem tự chuẩn bị được đến đâu, rồi mới gom tiền mua nốt phần còn thiếu.”
 
-“Ừm, làm vậy là hợp lý nhất rồi.”
+“Ừm, làm như vậy là hợp lý nhất rồi.”
 
-“Thiết kế nội thất đã quyết định chưa?”
+“Bản thiết kế nội thất đã chốt xong chưa?”
 
-“Tớ đã nhờ các bạn nữ trong tổ rồi. Chắc đến giờ sinh hoạt lớp ngày mai là có bản thảo sơ bộ, lúc đó nhờ cậu kiểm tra nhé.”
+“Tớ đã nhờ các bạn nữ trong tổ phụ trách rồi. Chắc đến giờ sinh hoạt lớp ngày mai là có bản thảo sơ bộ, lúc đó nhờ cậu kiểm tra lại nhé.”
 
-“Nên quyết định sớm để còn bắt tay vào chế tạo.”
+“Nên quyết định sớm để còn kịp bắt tay vào gia công chế tạo.”
 
-“À, phải rồi. Liên quan đến chuyện vừa rồi, tớ có một điểm hơi băn khoăn.”
+“À, phải rồi. Liên quan đến chuyện vừa rồi, tớ có một điểm này hơi băn khoăn.”
 
-Giữa lúc cuộc họp đang diễn ra trơn tru, cậu Sugino bỗng nghiêm nét mặt và lên tiếng.
+Giữa lúc cuộc họp đang diễn ra vô cùng trơn tru, Sugino-kun bỗng nghiêm nét mặt và cất giọng ngập ngừng.
 
-“Có dịch vụ chụp ảnh thì tốt thật, nhưng e là khó mà đảm bảo được không gian chụp ảnh đấy.”
+“Có dịch vụ chụp ảnh thì tốt thật đấy, nhưng e là khó mà đảm bảo được không gian chụp ảnh bên trong lớp.”
 
 “Ra là vậy...”
 
-Tôi hoàn toàn quên mất chuyện này. Đây đúng là chi tiết chỉ có những người trực tiếp bắt tay vào dựng gian hàng mới nhận ra được.
+Tôi hoàn toàn quên bẵng mất chuyện này. Đây đúng là chi tiết thực tế mà chỉ có những người trực tiếp bắt tay vào đo đạc dựng gian hàng mới nhận ra được.
 
-Dù phần thiết kế nội thất được giao cho các bạn nữ bên hậu cần, nhưng sơ đồ bố trí và trang thiết bị chắc chắn đã được thảo luận kỹ lưỡng với cậu Sugino. Khi đó, vấn đề diện tích phát sinh là điều hiển nhiên.
+Dù phần thiết kế nội thất được giao cho các bạn nữ bên hậu cần, nhưng sơ đồ bố trí và trang thiết bị chắc chắn đã được thảo luận kỹ lưỡng với Sugino-kun. Khi ấy, vấn đề thiếu hụt diện tích phát sinh là điều không thể tránh khỏi.
 
-“Chúng ta phải nhét tất cả mọi thứ, kể cả khu vực bếp, vào trong lớp học. Nếu muốn lớp mình đông khách, chẳng phải nên ưu tiên dành nhiều không gian cho bàn ghế của khách sao?”
+“Chúng ta phải nhét tất cả mọi thứ, kể cả khu vực bếp tạm, vào bên trong một phòng học. Nếu muốn lớp mình đông khách, chẳng phải nên ưu tiên dành nhiều không gian để kê bàn ghế cho khách ngồi sao?”
 
-Mà giờ lại còn muốn nhét thêm cả góc chụp ảnh vào đó nữa. Việc này trở nên quá tải là điều dễ hiểu.
+Mà giờ lại còn muốn nhét thêm cả một góc chụp ảnh lưu niệm vào đó nữa. Việc mặt bằng trở nên quá tải là điều hoàn toàn dễ hiểu.
 
-Nói thêm một chút, vì lý do an toàn và vệ sinh, khu vực bếp có sử dụng lửa được giới hạn ở phòng nữ công gia chánh số một và số hai. Hai phòng này nằm cùng tầng với các lớp khối mười một và mười hai, nên về cơ bản, chỉ có học sinh lớp trên mới được phép phục vụ các món ăn cần nấu nướng.
+Nói thêm một chút, vì lý do an toàn phòng cháy và vệ sinh thực phẩm, khu vực bếp có sử dụng lửa được nhà trường giới hạn nghiêm ngặt ở phòng nữ công gia chánh số một và số hai. Hai phòng này nằm cùng tầng với các lớp khối mười một và mười hai, nên về cơ bản, chỉ có học sinh lớp trên mới được phép phục vụ các món ăn cần nấu nướng trực tiếp.
 
-Năm lớp mười, khi Lớp trưởng tổ chức cà phê hầu gái, chắc hẳn họ chỉ phục vụ những món ăn không cần dùng nhiệt. Tương tự như vậy, lần này chúng tôi cũng sẽ phải dựng một khu vực bếp đơn giản trong lớp để chuẩn bị đồ uống và các món ăn chỉ cần hâm nóng bằng lò vi sóng.
+Năm lớp mười, khi Lớp trưởng tổ chức cà phê hầu gái, chắc hẳn họ chỉ phục vụ những món ăn nguội không cần dùng nhiệt. Tương tự như vậy, lần này chúng tôi cũng sẽ phải dựng một khu vực bếp đơn giản trong lớp để chuẩn bị đồ uống và các món ăn chỉ cần hâm nóng bằng lò vi sóng.
 
-Dù không tốn diện tích cho bình ga, nhưng khu vực này vẫn chiếm một khoảng không gian đáng kể.
+Dù không tốn diện tích cho bình gas, nhưng khu vực pha chế này vẫn chiếm mất một khoảng không gian đáng kể.
 
-“Đúng là rắc rối thật. Năm ngoái khi tớ làm thì chỉ có phục vụ nước thôi... thế mà không gian vẫn cực kỳ chật chội.”
+“Đúng là rắc rối thật đấy. Năm ngoái khi tớ làm thì chỉ có phục vụ đồ uống thôi... thế mà không gian bên trong vẫn cực kỳ chật chội.”
 
-“Vậy thì, vì vấn đề diện tích nên chúng ta hủy bỏ dịch vụ chụp ảnh luôn đi được không?”
+“Vậy thì, vì vấn đề diện tích eo hẹp nên chúng ta hủy bỏ dịch vụ chụp ảnh luôn đi được không?”
 
-Này Souma Sakura, chỉ vì bản thân cậu không muốn chụp ảnh mà cậu định thừa cơ hội này để dẹp luôn dịch vụ đó đi đấy à.
+Này Souma Sakura-san, chỉ vì bản thân cậu không muốn bị chụp ảnh mà cậu định thừa cơ hội này để dẹp luôn dịch vụ hái ra tiền đó đi đấy à?
 
-Không, bản thân tôi cũng chẳng tha thiết gì việc phải vừa cười nói giả lả vừa chụp ảnh với lũ con trai xa lạ kia đâu. Nhưng đây là một ý tưởng hay, chẳng lẽ không có cách nào để hiện thực hóa nó sao?
+Không, thực lòng mà nói thì bản thân tôi cũng chẳng tha thiết gì việc phải vừa cười nói giả lả vừa chụp ảnh chung với lũ con trai xa lạ kia đâu. Nhưng đây rõ ràng là một ý tưởng kinh doanh xuất sắc, chẳng lẽ lại không có cách nào để hiện thực hóa nó sao?
 
-“...Chúng ta có thể suy nghĩ ngược lại. Chụp ở ngoài lớp học cũng được mà.”
+“...Chúng ta có thể thử suy nghĩ ngược lại xem. Chụp ở bên ngoài lớp học cũng được mà.”
 
-“Hả, không lẽ cậu định chụp ở ngoài hành lang?”
+“Hả, không lẽ cậu định dựng góc chụp ở ngoài hành lang?”
 
-*Chính xác là thế đấy!* Tôi gào thét trong lòng rồi dẫn mọi người ra ngoài lớp học.
+*Chính xác là thế đấy!* Tôi gào thét đắc thắng trong lòng rồi lập tức đứng dậy, dẫn mọi người bước ra ngoài cửa lớp.
 
-Mở cửa ra, đập vào mắt đương nhiên là hành lang quen thuộc.
+Mở cánh cửa trượt ra, đập vào mắt đương nhiên là dãy hành lang quen thuộc của trường học.
 
-Thế nhưng, nếu nhìn về phía bên trái, hành lang sẽ kết thúc ở đó.
+Thế nhưng, nếu nhìn về phía bên tay trái, hành lang sẽ kết thúc ngay tại bức tường ngăn.
 
-“Lớp mình nằm ngay góc hành lang. Dòng người qua lại chỉ đi theo một hướng thôi.”
+“Lớp mình nằm ngay góc cụt của dãy hành lang. Dòng người qua lại trong ngày hội chỉ có thể di chuyển theo một hướng duy nhất thôi.”
 
-Lớp 7 là lớp cuối cùng của dãy. Vì các lớp được xếp theo thứ tự số phòng nên việc lớp cuối cùng nằm ở góc cụt là điều hiển nhiên.
+Lớp 7 là lớp nằm ở vị trí cuối cùng của dãy phòng học. Vì các lớp được đánh số thứ tự từ ngoài vào trong nên việc lớp cuối cùng nằm ở góc chết là điều hiển nhiên.
 
-Bước ra khỏi lớp, hành lang kéo dài về phía bên phải hướng tới Lớp 6, còn phía bên trái chỉ có một cánh cửa dẫn vào giảng đường.
+Bước chân ra khỏi lớp, hành lang kéo dài về phía bên phải hướng tới Lớp 6, còn phía bên trái chỉ có duy nhất một cánh cửa sắt dẫn thẳng vào giảng đường lớn.
 
-“Vào dịp lễ hội trường, giảng đường sẽ bị phong tỏa. Nghĩa là góc hành lang trước cửa giảng đường này sẽ là một khoảng trống không gây cản trở lối đi của bất kỳ ai.”
+“Vào dịp lễ hội trường, giảng đường lớn sẽ bị niêm phong hoàn toàn. Nghĩa là khoảng hành lang trống trước cửa giảng đường này sẽ trở thành một góc chết, hoàn toàn không gây cản trở lối đi lại của bất kỳ ai.”
 
-“Đúng là vị trí thì không vấn đề gì... nhưng chụp ảnh ở một nơi thế này sao?”
+“Đúng là về vị trí thì không có vấn đề gì... nhưng chụp ảnh ở một nơi trống hoác thế này sao?”
 
-“Với địa hình thế này thì quả thực hơi khó để dựng lên một góc chụp ảnh lung linh nhỉ.”
+“Với địa hình thô kệch thế này thì quả thực hơi khó để dựng lên một góc chụp ảnh lung linh đẹp mắt nhỉ.”
 
-Nếu được chọn, tôi cũng muốn chụp ảnh ở một góc trang trí đẹp đẽ trong quán giống như ở 『Prim Heart』. Nhưng điều kiện vật lý không cho phép. Nếu cố chấp nhét vào trong lớp thì có khi cả quán cà phê sẽ bị vỡ trận mất.
+Nếu được quyền lựa chọn, tôi cũng rất muốn chụp ảnh ở một góc được bài trí lộng lẫy bên trong quán giống như phong cách của 『Prim Heart』. Nhưng điều kiện vật lý thực tế lại không cho phép. Nếu cứ cố chấp nhét bằng được góc chụp vào trong lớp thì có khi cả quán cà phê sẽ bị vỡ trận vì quá tải.
 
-Thế nhưng, nếu chụp ảnh ở cái hành lang trống trải này thì bức ảnh chụp chung với hầu gái và quản gia xinh đẹp sẽ bị giảm giá trị đi rất nhiều. Trong lớp thì còn đỡ, chứ ngoài hành lang với cánh cửa giảng đường bằng sắt thô kệch thế này thì có trang trí thế nào cũng có giới hạn của nó.
+Thế nhưng, nếu chụp ảnh ở cái góc hành lang trơ trọi này thì bức ảnh chụp chung với các hầu gái và quản gia xinh đẹp sẽ bị giảm giá trị đi rất nhiều. Trong lớp dù sao cũng có phông màn, chứ ngoài hành lang với cánh cửa giảng đường bằng sắt xám xịt thế này thì có trang trí khéo đến đâu cũng chạm trần giới hạn.
 
-“Không cần trang trí gì ở đây cả. Chúng ta cứ chụp với phông nền xanh lá chuyên dụng để ghép ảnh.”
+“Không cần phải tốn công trang trí rườm rà ở đây làm gì cả. Chúng ta cứ chụp ảnh với phông nền xanh lá chuyên dụng để ghép cảnh là xong.”
 
-Hay còn gọi là phông xanh (green screen). Đó là thứ phông nền một màu xanh lét thường thấy trong các bộ phim tài liệu điện ảnh để sau đó ghép kỹ xảo CG vào.
+Hay còn gọi là kỹ thuật phông xanh (green screen). Đó là thứ phông nền một màu xanh ngắt thường thấy trong các phóng sự hậu trường phim ảnh để phục vụ cho việc lồng ghép kỹ xảo CG vào sau đó.
 
-“Chúng ta chỉ cần đặt một chiếc ghế trước phông nền xanh rồi chụp, sau đó dùng máy tính ghép nền vào ngay lập tức. Làm thế thì tớ nghĩ ảnh ra lò trông cũng sẽ ra gì và này nho đấy.”
+“Chúng ta chỉ cần đặt một chiếc ghế tựa đơn giản trước tấm phông nền xanh rồi chụp, sau đó dùng máy tính ghép các phông nền lung linh vào ngay lập tức. Làm như thế thì tớ nghĩ sản phẩm ảnh in ra lò trông cũng sẽ cực kỳ ra gì và này nọ đấy.”
 
-“Ra là vậy, thà biến nó thành một góc chụp tối giản ngay từ đầu luôn nhỉ.”
+“Ra là vậy, thà biến nó thành một studio chụp hình tối giản ngay từ đầu luôn nhỉ.”
 
-“Nếu thế thì chắc chắn là tốt hơn việc cố nhét vào trong lớp rồi.”
+“Nếu làm được như thế thì chắc chắn là tốt hơn nhiều so với việc cố nhét vào trong lớp rồi.”
 
-Ồ, ý tưởng nảy ra trong đầu lúc đó của tôi hóa ra lại nhận được phản hồi khá tốt từ Lớp trưởng và cậu Sugino. Xem ra phương án này khả thi đấy chứ?
+Ồ, ý tưởng bất chợt nảy ra trong đầu lúc đó của tôi hóa ra lại nhận được những phản hồi rất tích cực từ Lớp trưởng và Sugino-kun. Xem ra phương án này khả thi hơn tưởng tượng đấy chứ?
 
-“Nhưng mà, nói sao nhỉ... làm thế này có hơi gian lận không?”
+“Nhưng mà, nói sao nhỉ... làm như thế này liệu có bị coi là hơi gian lận không?”
 
-“Có sao đâu, mấy lớp khác còn trang trí tràn ra cả hành lang trước cửa lớp cơ mà.”
+“Có sao đâu chứ, mấy lớp khác còn bày biện trang trí tràn lan ra cả hành lang trước cửa lớp cơ mà.”
 
-“Đúng thế đấy bạn Souma. Đây không phải gian lận, mà là tận dụng không gian hiệu quả.”
+“Đúng thế đấy, Souma-san. Đây không phải là gian lận, mà là tận dụng không gian triệt để và hiệu quả.”
 
-“Cậu Momokawa quả nhiên là kiểu người rất lắm mưu mẹo nhỉ.”
+“Momokawa-kun quả nhiên là kiểu người lúc nào cũng đầy rẫy mưu mẹo nhỉ.”
 
-Nói thế nghe có hơi quá đáng không hả bạn Souma?
+Nói thế nghe có hơi quá đáng và cay nghiệt không hả bạn Souma?
 
-“Nhưng phương án này rất đáng để thử đấy. Cậu Sugino, trước mắt cứ kiếm tạm cái gì đó màu xanh lá làm nền rồi chụp thử xem sao.”
+“Nhưng phương án này rất đáng để chúng ta thử nghiệm đấy. Sugino-kun, trước mắt cậu cứ kiếm tạm tấm vải bạt hay giấy màu xanh lá căng lên làm nền rồi chụp thử vài kiểu xem sao nhé.”
 
-“Ừ. Tớ cũng muốn kiểm tra xem việc chỉnh sửa ảnh trên máy kỹ thuật số có trơn tru không.”
+“Ừ. Tớ cũng muốn kiểm tra xem thao tác xuất và chỉnh sửa ảnh trên máy tính có diễn ra trơn tru hay không.”
 
-“Vậy để tớ bảo Katsu chuẩn bị nhé.”
+“Vậy để lát nữa tớ bảo Katsu chuẩn bị sẵn máy móc nhé.”
 
-Trước mắt, vấn đề góc chụp ảnh coi như đã được giải quyết.
+Trước mắt, bài toán hóc búa về góc chụp ảnh lưu niệm coi như đã được giải quyết êm đẹp.
 
-Sau đó, cả nhóm lại quay trở lại lớp học.
+Sau đó, cả nhóm lục tục quay trở lại bàn họp bên trong lớp học.
 
-“Vấn đề góc chụp ảnh coi như đã giải quyết được cả về ngân sách, thiết bị lẫn địa điểm rồi. Nhưng tiền thuê trang phục và nguyên liệu ăn uống vẫn còn eo hẹp quá.”
+“Vấn đề góc chụp ảnh coi như đã xử lý xong xuôi cả về ngân sách, thiết bị lẫn địa điểm rồi. Nhưng tiền thuê trang phục và tiền mua nguyên liệu pha chế thức ăn thì vẫn còn quá eo hẹp.”
 
-“Tớ xin lỗi nhé, mặc dù cậu Sugino đã cố gắng tiết giảm ngân sách rồi...”
+“Tớ xin lỗi nhé, mặc dù Sugino-kun đã cố gắng cắt giảm ngân sách hết mức có thể rồi...”
 
-Bạn Futaba nói với vẻ hối lỗi, cậu Sugino liền xua tay trấn an.
+Futaba-san cất giọng với vẻ mặt đầy áy náy, Sugino-kun liền xua xua tay trấn an cô ấy.
 
-Thực tế thì đây không phải là vấn đề có thể giải quyết chỉ bằng cách tiết kiệm chút ít. Thông thường, người ta buộc phải chọn một trong hai: hoặc là dồn tiền cho trang phục, hoặc là cho ăn uống để nâng cao chất lượng của một bên.
+Thực tế thì đây không phải là vấn đề có thể giải quyết dứt điểm chỉ bằng vài ba biện pháp thắt lưng buộc bụng nhỏ giọt. Thông thường, người ta buộc phải chấp nhận chọn một trong hai: hoặc là dồn toàn bộ tiền bạc cho trang phục, hoặc là dồn cho đồ ăn thức uống để nâng cao chất lượng vượt trội của một bên.
 
-Nhưng chúng tôi lại chọn con đường chông gai là muốn vẹn cả đôi đường.
+Thế nhưng, chúng tôi lại chọn con đường chông gai nhất là muốn vẹn toàn cả đôi đường.
 
-“Vậy là trong lớp mình không có ai sở hữu sẵn đồ hầu gái hay đồ quản gia nhỉ?”
+“Vậy là trong lớp mình không có bạn nào sở hữu sẵn đồ hầu gái hay đồ quản gia ở nhà nhỉ?”
 
-“Ừ, tớ đã hỏi mọi người rồi nhưng đúng là không ai có cả.”
+“Ừ, tớ đã đi hỏi thăm hết một lượt rồi nhưng đúng là không có ai có sẵn cả.”
 
-“Thế còn bộ đồ năm ngoái Lớp trưởng dùng thì sao?”
+“Thế còn bộ đồ năm ngoái Lớp trưởng từng mặc thì sao?”
 
-“Lúc đó tớ đi thuê thôi. Nếu không có ý tưởng nào tốt hơn thì lần này đành phải làm thế tiếp vậy.”
+“Lúc đó tớ đi thuê ở tiệm thôi. Nếu không tìm ra được ý tưởng nào tốt hơn thì lần này đành phải cắn răng đi thuê tiếp vậy.”
 
-Đúng như dự đoán.
+Đúng y như dự đoán của tôi.
 
-Tôi khẽ gật đầu, quyết định tung ra quân bài chủ lực của mình vào lúc này.
+Tôi khẽ gật gù, quyết định tung ra quân bài chiến lược quan trọng nhất của mình vào thời điểm then chốt này.
 
-“Nhưng chẳng phải cũng có những người muốn tự chuẩn bị trang phục riêng sao?”
+“Nhưng chẳng phải cũng sẽ có những người muốn tự tay chuẩn bị trang phục riêng cho mình sao?”
 
-“Kh-Không lẽ cậu, Momokawa, thực sự đã thức tỉnh niềm đam mê giả gái rồi sao?!”
+“Kh-Không lẽ cậu, Momokawa, thực sự đã thức tỉnh niềm đam mê mặc đồ nữ rồi sao?!”
 
-Người đứng bật dậy khỏi ghế vì kinh ngạc lại là Yama-Jun. Tiện thể, bạn Futaba cũng nhoài người về phía trước, nhìn tôi chằm chằm.
+Người giật nảy mình đứng bật dậy khỏi ghế vì kinh ngạc lại chính là Yama-Jun. Tiện thể, Futaba-san cũng nhoài hẳn nửa người về phía trước, trừng mắt nhìn tôi chằm chằm không chớp.
 
-“Không hề, làm gì có chuyện đó chứ.”
+“Không hề nhé, làm quái gì có chuyện hoang đường đó chứ!”
 
-“H-Hóa ra là vậy...”
+“H-Hóa ra là không phải à...”
 
-Yama-Jun cười trừ gượng gạo, còn bạn Futaba thì lộ rõ vẻ thất vọng. Hai người này bị làm sao thế hả, rốt cuộc là muốn tớ làm cái gì đây.
+Yama-Jun cười trừ gượng gạo gãi đầu, còn Futaba-san thì lộ rõ vẻ thất vọng tràn trề trên gương mặt. Hai cái người này bị làm sao thế hả, rốt cuộc là đang kỳ vọng tôi sẽ làm cái trò gì đây chứ?
 
-“Liệu có ai chịu bỏ ra một số tiền lớn chỉ để tự chuẩn bị một bộ cosplay xịn sò không?”
+“Liệu có ai chịu tự bỏ ra một số tiền lớn chỉ để sắm sửa một bộ đồ cosplay xịn sò phục vụ cho một ngày lễ hội không?”
 
-“Nếu được thì tớ cũng muốn thử một lần xem sao, nhưng tiền tiêu vặt của học sinh cấp ba thì không kham nổi đâu.”
+“Nếu có điều kiện thì tớ cũng muốn thử một lần xem sao, nhưng tiền tiêu vặt của học sinh cấp ba thì làm sao kham nổi chi phí đó chứ.”
 
-“Ừ, bình thường thì không thể rồi. Trừ khi cực kỳ đam mê, hoặc là cực kỳ giàu—”
+“Ừ, bình thường thì chắc chắn là không thể rồi. Trừ khi là người cực kỳ đam mê cuồng nhiệt, hoặc là kẻ sở hữu gia cảnh cực kỳ giàu có—”
 
-Đến đây, Lớp trưởng dường như đã nhận ra điều gì đó.
+Nói đến đây, Lớp trưởng dường như đã lờ mờ nhận ra điều gì đó.
 
-Nói đến chữ “giàu”, cô ấy khựng lại rồi liếc nhìn về phía tôi.
+Vừa thốt ra chữ “giàu có”, cô ấy bỗng khựng lại nửa chừng rồi liếc mắt đầy ẩn ý nhìn thẳng về phía tôi.
 
-Tôi liền cầm một viên sô-cô-la từ hộp quà lưu niệm Disneyland lên ăn với vẻ đầy ẩn ý.
+Tôi liền nhẩn nha cầm lấy một viên sô-cô-la thượng hạng từ chiếc hộp quà lưu niệm Disneyland trên bàn lên nhai với vẻ mặt vô cùng thâm sâu.
 
-*Chà, không phải dịp nghỉ lễ lớn gì mà lại có hộp quà lưu niệm Disneyland xịn thế này để mang đi tặng nhỉ?*
+*Chà chà, đâu phải vào dịp nghỉ lễ lớn gì mà lại có sẵn cả một hộp quà lưu niệm Disneyland đắt đỏ thế này để mang đến lớp phát cho mọi người ăn chơi nhỉ?*
 
-“Sakura, cậu thử khéo léo hỏi bạn Ayase xem cậu ấy có thể tự chuẩn bị trang phục riêng được không nhé.”
+“Sakura-san, cậu thử khéo léo dò hỏi Ayase-san xem cậu ấy có nhã ý muốn tự chuẩn bị trang phục quản gia riêng cho mình không nhé.”
 
-“Ừm, đúng vậy thật. Nếu là Reina thì chắc chắn cậu ấy sẽ muốn có một bộ trang phục của riêng mình.”
+“Ừm, đúng là như vậy thật. Nếu là tính cách của Reina thì chắc chắn cậu ấy sẽ muốn khoác lên mình một bộ trang phục độc nhất vô nhị của riêng mình cho xem.”
 
-Tốt lắm, mọi chuyện diễn ra đúng như kế hoạch. Phải để cho người giàu tiêu tiền của họ chứ.
+Tốt lắm, mọi chuyện đang diễn ra đúng y như kế hoạch tôi đã vạch sẵn. Phải tạo cơ hội cho giới nhà giàu tiêu xài bớt tiền của họ chứ.
 
-Nhờ vậy mà lớp sẽ tiết kiệm được khoản tiền thuê đồ cho một người. Biết đâu chừng mấy món phụ kiện nhỏ còn có thể dùng chung được nữa.
+Nhờ nước đi này mà cả lớp sẽ tiết kiệm được trọn vẹn một khoản tiền thuê đồ đắt đỏ cho một người. Biết đâu chừng mấy món phụ kiện trang sức đi kèm còn có thể tận dụng để dùng chung được nữa cơ.
 
-Chỉ vì lý do xem trên tivi thấy thích mà đòi đi Disneyland là sáng hôm sau gia đình Ayase lập tức cho đi ngay. Một cô con gái rượu cưng như trứng mỏng như thế mà lại muốn làm quản gia trong ngày lễ hội trường lớn, gia đình cậu ấy chắc chắn sẽ chuẩn bị cho một bộ trang phục cosplay cực kỳ chất lượng cho xem.
+Chỉ vì lý do xem trên tivi thấy thích mà nổi hứng đòi đi chơi Disneyland là sáng sớm hôm sau gia đình Ayase lập tức duyệt chi cho đi ngay không cần nghĩ ngợi. Một cô tiểu thư con gái rượu được cưng chiều như trứng mỏng như thế mà lại hào hứng muốn làm quản gia trong ngày lễ hội trường lớn, gia đình cậu ấy chắc chắn sẽ đặt may riêng cho một bộ âu phục cosplay đạt đẳng cấp thượng lưu cho xem.
 
-“Trong nhóm quản gia, rõ ràng chỉ có mỗi bạn Ayase là có vóc dáng nhỏ nhắn nhất. Nếu tự chuẩn bị được thì chúng ta sẽ giảm được số lượng trang phục đi thuê có kích cỡ đặc biệt khó mặc chung.”
+“Trong nhóm quản gia nữ, rõ ràng chỉ có mỗi Ayase-san là sở hữu vóc dáng nhỏ nhắn hạt tiêu nhất. Nếu cậu ấy tự chuẩn bị được đồ riêng thì chúng ta sẽ giảm bớt được việc phải đi thuê những bộ trang phục có kích cỡ đặc biệt rất khó để mặc chung.”
 
-“Vấn đề kích cỡ thì trước đây chúng ta cũng đã thảo luận rồi. Nếu vậy thì chỉ cần chuẩn bị hai cỡ trang phục cho tớ, nhóm Juri-Mari, Asuna và bạn Kizaki là đủ rồi.”
+“Vấn đề kích cỡ trang phục thì trước đây chúng ta cũng đã ngồi lại thảo luận kỹ rồi. Nếu gạch tên cậu ấy ra thì chỉ cần chuẩn bị hai cỡ trang phục tiêu chuẩn cho tớ, nhóm Juri-Mari, Asuna-chan và Kizaki-san là quá đủ rồi.”
 
-“Nếu có vẻ không ổn thì nhờ cậu Yuuto nói giúp một tiếng nhé.”
+“Nếu thấy có vẻ khó mở lời thì nhờ Souma-kun nói giúp một tiếng nhé.”
 
-“Như vậy thì câu chuyện sẽ nhanh hơn đấy. Chứ cứ nói vòng vo bóng gió thì cậu ấy lại dỗi mất.”
+“Nhờ Yuu-kun thì câu chuyện sẽ được giải quyết nhanh gọn hơn nhiều đấy. Chứ nếu chúng ta cứ nói bóng gió vòng vo thì cậu ấy lại dỗi hờn cho mà xem.”
 
-*Trời ạ, thật luôn đấy à? Bạn Ayase phiền phức quá đi mất. Đầu óc thì như trẻ mẫu giáo mà những lúc thế này lại nhạy cảm ghê gớm, đúng là đang ở tuổi nổi loạn.*
+*Trời ạ, thật luôn đấy à? Cái bạn Ayase này phiền phức quá đi mất thôi. Đầu óc thì ngây ngô chẳng khác nào trẻ mẫu giáo mà những lúc đụng chạm thế này lại nhạy cảm ghê gớm, đúng là cái tính nết của tuổi dậy thì nổi loạn.*
 
-“Không sao đâu Momokawa. Bọn tớ tuyệt đối sẽ không để cậu phải đi thuyết phục bạn Ayase đâu.”
+“Không sao đâu, Momokawa. Bọn tớ tuyệt đối sẽ không để cậu phải đích thân đi thuyết phục Ayase-san đâu mà lo.”
 
-“Yama-Jun, mặt tớ lúc nãy trông chán ghét đến thế cơ à?”
+“Yama-Jun này, nét mặt của tớ lúc nãy trông chán ghét và kỳ thị đến mức lộ liễu thế cơ à?”
 
-“May mà không để bạn Souma nhìn thấy đấy.”
+“May mà không để cho Souma-san nhìn thấy đấy nhé.”
 
-Nguy hiểm thật. May mà nhờ khả năng quan sát siêu phàm của Lớp trưởng mà ý đồ của tôi đã được truyền đạt thành công.
+Nguy hiểm thật đấy. May mà nhờ vào khả năng quan sát nhạy bén siêu phàm của Lớp trưởng mà ý đồ đen tối của tôi đã được truyền đạt trót lọt mà không bị bại lộ.
 
-Nếu để bạn Souma, người vừa mới chê việc dùng hành lang là “gian lận”, biết được ý đồ lợi dụng tiền bạc của Reina của tôi, chắc chắn cô ấy không chỉ dỗi đâu mà sẽ nổi trận lôi đình, mắng tôi là kẻ lợi dụng người khác rồi tặng cho một cái tát trời giáng mất.
+Nếu để cho Souma-san, người vừa mới chê bai việc trưng dụng hành lang là hành vi “gian lận”, đánh hơi được mưu đồ muốn bòn rút tiền bạc của Reina từ phía tôi, chắc chắn cô ấy không chỉ dỗi đâu mà sẽ nổi trận lôi đình, mắng xối xả vào mặt tôi là kẻ cơ hội bẩn thỉu rồi tặng kèm cho một cái tát trời giáng mất thôi.
 
-“Momokawa, biểu cảm kìa!”
+“Momokawa, biểu cảm trên mặt cậu lại bắt đầu biến dạng rồi kìa!”
 
-“À, khoan đã, đừng nhìn mặt tớ. Tớ có cảm giác lớp trang điểm bị mốc rồi.”
+“À, khoan đã, mọi người đừng nhìn chằm chằm vào mặt tớ như thế chứ. Tớ có cảm giác lớp phấn trang điểm đang bị mốc meo hết cả rồi này.”
 
-“Cậu Momokawa trang điểm á?! Tớ hoàn toàn không nhận ra luôn đấy!”
+“Momokawa-kun cũng trang điểm á?! Tớ hoàn toàn không nhận ra chút nào luôn đấy!”
 
-Xin lỗi nhé bạn Futaba, đó chỉ là cái cớ thôi nên đừng tin sái cổ thế chứ. Nhưng mà, cậu cứ giữ sự ngây thơ đó đi nhé.
+Xin lỗi nhé, Futaba-san, đó chỉ là cái cớ tớ bịa ra để chữa ngượng thôi nên cậu đừng có tin sái cổ như thế chứ. Nhưng mà thôi, cậu cứ tiếp tục giữ nét ngây thơ trong sáng đó đi nhé.
 
-“Vậy thì, về phần trang phục, ngày mai chúng ta sẽ thảo luận chi tiết trong buổi sinh hoạt lớp chung giữa cả tổ hầu gái và tổ quản gia nhé. Cũng đến lúc phải chốt phương hướng rồi.”
+“Vậy thì, về phần trang phục, ngày mai chúng ta sẽ thảo luận chi tiết trong buổi sinh hoạt lớp chung giữa cả tổ hầu gái và tổ quản gia nhé. Cũng đã đến lúc phải chốt hạ phương hướng dứt điểm rồi.”
 
 “Rõ rồi.”
 
-“Ừm, tớ biết rồi, Ryouko.”
+“Ừm, tớ biết rồi, Ryouko-san.”
 
-Tôi và bạn Souma gật đầu, Lớp trưởng liền chuyển sang chủ đề tiếp theo.
+Tôi và Souma-san đồng loạt gật đầu, Lớp trưởng liền lập tức chuyển sang chủ đề tiếp theo của buổi họp.
 
-“Nhân tiện, cậu Momokawa. Đi cà phê hầu gái thực tế về thì cậu có học hỏi được gì cho việc tiếp khách không?”
+“Nhân tiện đây, Momokawa-kun. Sau khi cất công đi thực tế ở quán cà phê hầu gái về thì cậu đã học hỏi được điều gì phục vụ cho khâu tiếp khách chưa?”
 
-“Tất nhiên rồi. Ở 『Prim Heart』 họ đào tạo nhân viên kỹ lắm, tớ cảm giác mọi cử chỉ của họ đều rất tinh tế.”
+“Tất nhiên là có rồi. Ở 『Prim Heart』 người ta đào tạo nhân viên bài bản lắm, tớ cảm giác mọi cử chỉ, hành động của họ đều toát lên sự tinh tế chuyên nghiệp.”
 
-Cô nàng hầu gái tóc bạc át chủ bài bên đó, chỉ cần bưng tách cà phê ra thôi trông cũng đẹp như một bức tranh rồi.
+Cô nàng hầu gái tóc bạc đóng vai trò át chủ bài bên đó, chỉ cần nhẹ nhàng bưng tách cà phê đặt xuống bàn thôi trông cũng đẹp đẽ và thanh thoát như một bức tranh nghệ thuật rồi.
 
-Cơ mà đạt đến trình độ đó thì quá tầm với của chúng tôi rồi, chẳng tham khảo được gì cả.
+Cơ mà để đạt đến cảnh giới thượng thừa đó thì hoàn toàn vượt quá tầm với của một lũ nghiệp dư như chúng tôi, cơ bản là chẳng thể áp dụng hay học lỏm được gì nhiều.
 
-“Vậy thì, cậu thử nói lại câu đó một lần nữa xem nào?”
+“Vậy thì, cậu thử làm mẫu nói lại câu khẩu hiệu đó một lần nữa cho mọi người xem nào?”
 
-“Hả, ngay bây giờ á?”
+“Hả, bắt tớ làm ngay tại đây luôn á?”
 
-“Đúng vậy.”
+“Đúng vậy đấy.”
 
 “...”
 
-Dưới những ánh mắt đổ dồn của mọi người, tôi chậm rãi đứng dậy, hạ quyết tâm.
+Dưới những ánh mắt tò mò đang đồng loạt đổ dồn về phía mình, tôi chậm rãi đứng dậy khỏi ghế, hít một hơi thật sâu rồi hạ quyết tâm.
 
-“Mừng cậu chủ đã về nhà.”
+“Mừng cậu chủ đã về nhà ạ.”
 
-“Vẫn còn ngượng ngùng lắm, nụ cười thì gượng gạo. 45 điểm.”
+“Động tác vẫn còn ngượng ngùng lắm, nụ cười thì gượng gạo mất tự nhiên. Cho 45 điểm.”
 
-Chết tiệt, so với lần trước chỉ tăng được có 5 điểm thôi sao. Tớ đã cố gắng lắm rồi đấy chứ?
+Chết tiệt thật, so với lần chấm điểm trước thì lần này chỉ tăng vớt vát được có đúng 5 điểm thôi sao trời? Tôi đã cố gắng hết sức bình sinh rồi đấy chứ bộ?
 
-“Như mọi người thấy đấy, việc tiếp khách không phải cứ muốn là làm được ngay đâu. Đặc biệt là với cà phê hầu gái, sự niềm nở là cực kỳ quan trọng. Cái này bắt buộc phải luyện tập.”
+“Như mọi người vừa tận mắt chứng kiến đấy, kỹ năng tiếp khách không phải là thứ cứ muốn là làm được ngay đâu. Đặc biệt là đối với mô hình cà phê hầu gái, sự niềm nở và tự nhiên là yếu tố sống còn. Cái này bắt buộc chúng ta phải bỏ thời gian ra rèn luyện nghiêm túc.”
 
-“Ừm, đúng là cần thiết thật.”
+“Ừm, đúng là việc này vô cùng cần thiết thật.”
 
-Bản thân tôi cũng chẳng biết tí gì về quy tắc tiếp khách cả. Tất cả những gì tôi biết chỉ là hình ảnh mơ hồ trong đầu và những gì mắt thấy tai nghe ở quán 『Prim Heart』 mà thôi.
+Bản thân tôi thực chất cũng chẳng biết tí quy tắc tiếp khách chuẩn chỉ nào cả. Tất cả những gì tôi có trong đầu chỉ là vài hình ảnh mơ hồ góp nhặt từ manga anime và những gì mắt thấy tai nghe ở quán 『Prim Heart』 hôm nọ mà thôi.
 
-“Thế nên, bắt đầu từ giờ nghỉ trưa ngày mai, các thành viên của tổ hầu gái và tổ quản gia sẽ lần lượt luyện tập phục vụ nhé.”
+“Thế nên, bắt đầu từ giờ nghỉ trưa ngày mai, tất cả các thành viên của cả tổ hầu gái lẫn tổ quản gia sẽ lần lượt tiến hành luyện tập kỹ năng phục vụ bàn nhé.”
 
-“Hả... T-Tớ cũng phải làm sao?”
+“Hả... T-Tớ cũng bắt buộc phải tham gia luyện tập sao?”
 
-“Chứ sao nữa, Sakura. Nếu cậu tự tin thì có muốn thử làm luôn như cậu Momokawa không?”
+“Chứ sao nữa hả Sakura-san. Nếu cậu cảm thấy tự tin vào bản thân thì có muốn đứng lên làm thử một lần ngay bây giờ giống như Momokawa-kun không nào?”
 
-“...Không, tớ xin kiếu.”
+“...Không, tớ xin kiếu việc đó.”
 
-“Nếu không thể nở nụ cười và nói ngay lập tức thì chứng tỏ Sakura cũng cần phải luyện tập rồi.”
+“Nếu không thể nở một nụ cười tươi tắn và cất lời chào ngọt ngào ngay lập tức thì chứng tỏ bản thân Sakura-san cũng đang rất cần phải luyện tập đấy.”
 
-Ồ, Lớp trưởng thật không khoan nhượng chút nào. Bạn Souma cứng họng luôn kìa.
+Ồ hô, Lớp trưởng đúng là người làm việc vô cùng nghiêm khắc và không hề biết khoan nhượng chút nào. Souma-san lập tức cứng họng, chẳng thể thốt ra thêm được lời nào để phản bác nữa kìa.
 
-“Chúng ta đã quyết định sẽ dốc toàn lực rồi. Thế nên khâu tiếp khách cũng không được phép thỏa hiệp. Đặc biệt là những át chủ bài như hai cậu, phải cố gắng lên đấy.”
+“Cả lớp chúng ta đã thống nhất là sẽ dốc toàn lực cho lễ hội lần này rồi. Thế nên riêng khâu tiếp khách tuyệt đối không được phép có bất kỳ sự thỏa hiệp hay làm qua loa nào hết. Đặc biệt là những nhân tố át chủ bài nắm giữ linh hồn của gian hàng như hai cậu, nhất định phải nỗ lực hết mình đấy nhé.”
 
-“Rõ, thưa sếp.”
+“Rõ rồi, thưa sếp.”
 
-“Hầy... Tớ biết rồi. Vì tập thể lớp, tớ sẽ cố gắng hết sức trong khả năng.”
+“Hầy... Tớ biết rồi mà. Vì thành tích chung của tập thể lớp, tớ sẽ cố gắng hết sức trong khả năng của mình.”
 
-Và thế là, khóa huấn luyện hầu gái của tôi sẽ bắt đầu từ ngày mai.
+Và thế là, khóa huấn luyện cung cách hầu gái đầy gian nan của tôi sẽ chính thức bắt đầu kể từ trưa ngày mai.

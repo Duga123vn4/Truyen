@@ -2,250 +2,256 @@
 
 “Ồ, tập hợp đông đủ phết nhỉ.”
 
-Tôi ý chí hừng hực dẫn theo Riza bước ra khỏi cabin nô lệ. Ở bên ngoài, khoảng ba mươi người Diana đã xếp hàng ngay ngắn để nghênh đón tôi.
+Tôi hừng hực khí thế dẫn theo Riza sải bước ra khỏi lán trại nô lệ. Bên ngoài, chừng ba mươi người đàn ông tộc Diana đã tề tựu chỉnh tề, đứng thành hàng ngũ nghiêm trang để nghênh đón tôi.
 
-“Tất cả chúng thần đều là cựu chiến sĩ. Chúng thần nguyện dâng chút sức mọn này để phò tá ngài, thưa Đứa con của thần.”
+“Toàn bộ chúng thần đều là cựu 『Chiến sĩ』. Chúng thần nguyện dốc cạn chút sức tàn này để phò tá Ngài, thưa Thần tử!”
 
-“Cảm ơn nhé, có những người dày dạn kinh nghiệm thế này thì tốt quá.”
+“Cảm ơn nhé. Có những chiến binh dày dạn phong sương như các bạn thì còn gì bằng.”
 
-Tại khu vực cabin nô lệ, toàn bộ nô lệ người Diana trong đồn điền đã được tập hợp lại. Nô lệ người Astoria được phân chia ở một khu vực khác, có sự phân biệt chủng tộc rõ rệt. Tất nhiên, điều kiện bên phía người Diana tồi tệ hơn nhiều. Ngay cả trong giới nô lệ, sự phân biệt đối xử giữa người Astoria và người Diana vẫn diễn ra vô cùng khắc nghiệt.
+Tại phân khu lán trại này, toàn bộ nô lệ mang dòng máu Diana trong đồn điền đã được triệu tập đầy đủ. Nô lệ người bản xứ Astoria bị giam giữ ở một phân khu riêng biệt, phân định giai cấp và sắc tộc vô cùng rạch ròi. Lẽ dĩ nhiên, điều kiện sinh hoạt bên phía người Diana tồi tàn và kham khổ hơn gấp bội. Ngay cả trong thế giới tăm tối của kiếp nô dịch, bức tường kỳ thị chủng tộc giữa người Astoria và người Diana vẫn bị khoét sâu hoắm.
 
-Trong lúc giải thích cho nhóm Riza, tôi cũng đồng thời điều động các phân thân đã dọn dẹp xong lính gác ở các khu vực khác đến để truyền đạt nội dung tương tự tại các cabin nô lệ còn lại.
+Trong lúc cắt cử phân thân truyền đạt kế hoạch cho nhóm của Riza, tôi cũng đồng thời điều động những phân thân khác — sau khi đã âm thầm dọn dẹp sạch sẽ lính gác ở các chòi canh — tỏa đi khắp các lán trại còn lại để truyền đạt cùng một mệnh lệnh khởi nghĩa.
 
-Và giờ đây, những người đồng ý tham gia vào cuộc nổi dậy của tôi đã tập hợp lại như thế này.
+Và giờ đây, những tráng đinh đồng lòng hưởng ứng cuộc nổi dậy của tôi đã quy tụ đông đủ như thế này.
 
-“Trước mắt, để Togo làm đội trưởng đội chiến sĩ nhé?”
+“Trước mắt, tôi giao cho Togo làm đội trưởng đội 『Chiến sĩ』 nhé?”
 
-“Thần xin cung kính tuân lệnh.”
+“Thần xin cung kính tuân mệnh!”
 
-Dù sao thì Tinh Linh Chiến Sĩ cũng là tầng lớp tinh anh. Ở đồn điền này chỉ có mỗi Riza, còn tại bản quốc Diana thì đại đa số binh lực cũng chỉ là chiến sĩ thông thường.
+Dẫu sao thì danh hiệu 『Tinh Linh Chiến Sĩ』 cũng thuộc về tầng lớp tinh hoa thượng đẳng. Tại cái đồn điền New Hope hẻo lánh này chỉ có mỗi Riza là người duy nhất nắm giữ danh hiệu ấy, còn ngay tại chính quốc Diana, đại đa số lực lượng cũng chỉ là những 『Chiến sĩ』 thông thường.
 
-Togo không phải Tinh Linh Chiến Sĩ và cũng không có thiên chức, chỉ là một chiến sĩ bình thường, nhưng ông ấy có lẽ là người lớn tuổi và giàu kinh nghiệm nhất ở đây. Ông ấy cũng đứng ở vị trí đầu tiên trong hàng ngũ, và nhìn vào tác phong làm việc thường ngày của ông ấy, mọi người chắc chắn sẽ tâm phục khẩu phục khi ông ấy làm đội trưởng.
+Togo không phải 『Tinh Linh Chiến Sĩ』 và cũng chẳng sở hữu bất kỳ 『Thiên Chức』 đặc biệt nào, ông ấy chỉ là một cựu chiến binh bình thường. Thế nhưng, đây lại là người đàn ông lớn tuổi, dạn dày kinh nghiệm trận mạc nhất trong số những người có mặt. Ông ấy đứng ở vị trí tiên phong nơi hàng ngũ, và nhìn vào uy tín cùng tác phong chuẩn mực thường nhật của ông, chắc chắn toàn thể anh em sẽ tâm phục khẩu phục dưới sự dẫn dắt của vị đội trưởng này.
 
-“Hãy hành động bí mật cho đến khi chúng ta chiếm được ký túc xá nhé.”
+“Hãy hành động tuyệt đối bí mật cho tới khi chúng ta đánh chiếm hoàn toàn doanh trại lính gác nhé.”
 
-“Tuân mệnh.”
+“Tuân mệnh!”
 
-Đây là lần đầu tiên tôi được người khác trả lời bằng từ “Tuân mệnh” đấy. Không phải họ đang cố tỏ vẻ tôn kính đâu, mà cái cảm giác nói ra một cách tự nhiên như thói quen này khiến tôi thực sự cảm nhận được một xã hội phân chia giai cấp ngoài đời thực.
+Đây là lần đầu tiên trong đời tôi được người khác cúi đầu đáp lại bằng hai từ “Tuân mệnh” đấy. Họ không hề cố gượng gạo tỏ vẻ sùng kính giả tạo; chính cái phản xạ tự nhiên như một thói quen ăn sâu vào tiềm thức ấy khiến tôi thực sự cảm nhận được hơi thở trần trụi của một xã hội phân chia đẳng cấp nghiệt ngã ngoài đời thực.
 
-Dù vậy, tôi cũng chẳng có ý định tự xưng là “ta” hay “ngươi”, cũng chẳng ép họ phải gọi mình là “thưa ngài” sau mỗi câu nói.
+Dù vậy, tôi cũng chẳng có ý định lên gân tự xưng “bổn tọa” hay “ta - ngươi”, cũng chẳng ép họ phải khép nép dạ thưa sau mỗi câu nói.
 
-Nếu cứ cố tạo ra một tính cách kỳ dị rồi khiến việc truyền đạt thông tin trở nên khó khăn thì phiền phức lắm.
+Cứ cố nặn ra một nhân cách lập dị rồi biến việc giao tiếp và truyền đạt quân lệnh trở nên rối rắm thì chỉ tổ rước thêm phiền phức vào thân.
 
-“Đây, dao găm trang bị ban đầu của các bạn đây.”
+“Đây, vũ khí khởi đầu dành cho các bạn.”
 
-“Ồ, ngài đã chuẩn bị sẵn cả vũ khí rồi sao...”
+“Ồ... Thần tử đã chuẩn bị sẵn cả binh khí rồi sao...!”
 
-Dù thế nào thì ít nhất cũng phải có vũ khí sắc bén chứ.
+Dù thế nào đi nữa, muốn giết giặc thì trong tay tối thiểu cũng phải có tấc sắt sắc nhọn chứ.
 
-Đây là những món vũ khí tôi thu gom phế liệu kim loại từ thị trấn rồi mang vào trong núi dùng luyện kim chế tạo ra. Tất nhiên, chất lượng của chúng thì khỏi phải bàn, tệ đến mức đáng thương. Có thể gọi chúng là 『Dao Phế Liệu』, loại vũ khí khởi đầu có độ hiếm thấp nhất.
+Đây là số đoản đao tôi đã gom nhặt từ đống sắt vụn phế liệu khắp thị trấn, sau đó lén lút mang vào hang núi dùng thuật luyện kim đúc thành. Đương nhiên, phẩm cấp của chúng thì khỏi cần bàn cãi — tệ hại đến mức thảm thương. Có thể gọi đống này là 『Dao Phế Liệu』, loại vũ khí khởi đầu có độ hiếm bét bảng trong game.
 
-Nhưng dù là thứ rác rưởi này, có vẫn tốt hơn không, tâm lý con người sẽ thay đổi rất nhiều. Con người ta khi cầm vũ khí trong tay thì lòng tự tin cũng sẽ tăng lên mà.
+Thế nhưng, dẫu chỉ là thứ sắt vụn cùn rỉ, có trong tay vẫn hơn là tay không tấc sắt; tâm lý con người sẽ biến chuyển một trời một vực. Phàm là đàn ông, một khi bàn tay đã nắm chặt chuôi đao, dũng khí và lòng tự tin ắt sẽ tăng lên gấp bội.
 
-Được rồi, phân phát vũ khí xong rồi, xuất phát thôi.
+Được rồi, phân phát vũ khí xong xuôi, xuất trận thôi nào!
 
-“Được rồi, đi nào.”
+“Được rồi, lên đường thôi!”
 
-Dưới sự dẫn dắt của tôi, đội chiến sĩ ba mươi người di chuyển một cách nhanh chóng và lặng lẽ bám theo sau.
+Dưới sự dẫn dắt của tôi, ba mươi chiến binh Diana thoăn thoắt di chuyển, lướt đi trong màn đêm tĩnh lặng như những chiếc bóng vô hình bám sát phía sau.
 
-Tôi đã nắm rõ lộ trình tuần tra của đồn điền, sứ ma cũng đã được rải khắp nơi. Ngay cả trong đêm nay, khi chúng thiết lập chế độ cảnh giới biến động để đối phó với Thiết Giáp Hùng, tôi vẫn có thể xử lý mà không gặp vấn đề gì.
+Lộ trình tuần tra của đám cảnh vệ đồn điền tôi đã nắm rõ như lòng bàn tay, 『Sứ ma』 của tôi cũng đã rải kín khắp mọi ngóc ngách. Ngay cả trong đêm nay, khi chúng thiết lập chế độ cảnh giới cơ động đặc biệt nhằm đối phó với mối hiểm họa 『Thiết Giáp Hùng』, tôi vẫn dư sức điều phối lộ trình mà chẳng gặp chút trở ngại nào.
 
-Và cũng thật may mắn làm sao. Có lẽ để có thể nhanh chóng dập tắt các cuộc nổi dậy của nô lệ khi cần thiết, khoảng cách từ cabin nô lệ đến ký túc xá lính gác là khá gần.
+Và cũng thật may mắn làm sao. Có lẽ để kịp thời trấn áp chớp nhoáng những cuộc nổi loạn của đám nô lệ mỗi khi có biến, khoảng cách từ lán trại nô dịch tới doanh trại của lực lượng cảnh vệ được bố trí khá gần.
 
-Nhưng việc chúng tự tin rằng mình sẽ luôn là bên phát hiện trước thì quả là nực cười nhỉ.
+Thế nhưng, việc lũ cai ngục tự tin thái quá rằng bản thân luôn là kẻ nắm thế chủ động phát hiện mục tiêu trước quả là một sự ngạo mạn nực cười.
 
-Mà thôi, đối với chủ nhân sống trong dinh thự thì cách bố trí này sẽ mang lại cảm giác an tâm hơn. Nhờ vậy mà khi chúng tôi trở thành bên thực hiện cuộc tập kích, mọi chuyện lại dễ dàng hơn nhiều.
+Mà thôi, đối với lão chủ đồn điền sống an nhàn trong dinh thự xa hoa kia thì cách bố trí kẹp sát này ắt hẳn mang lại cảm giác an tâm hơn nhiều. Nhờ sự chủ quan chết người ấy, khi chúng tôi chuyển từ thế phòng ngự bị động sang làm kẻ chủ mưu tập kích, mọi việc bỗng chốc trở nên dễ dàng tựa trở bàn tay.
 
-Cứ thế, chúng tôi tiếp cận ký túc xá một cách vô cùng thuận lợi.
+Cứ thế, chúng tôi áp sát mục tiêu doanh trại một cách êm thấm đến kinh ngạc.
 
-Tòa nhà được xây dựng theo kiểu nhà cấp bốn rộng rãi. Không có tầng hai cũng không có tầng hầm. Bên trong chỉ có kho vũ khí là được khóa lại, nhưng cũng chỉ có một tên gác kho túc trực giữ chìa khóa để quản lý việc xuất nhập vũ khí.
+Khu nhà cảnh vệ được xây dựng theo lối nhà cấp bốn kiên cố, trải rộng thênh thang. Không có lầu hai, cũng chẳng có tầng hầm. Bên trong chỉ có duy nhất gian kho vũ khí là được then cài khóa chặt, nhưng nơi đó cũng chỉ cắt cử độc một tên lính gác túc trực giữ chìa khóa để kiểm soát việc xuất nhập quân nhu.
 
-Vì đây là địa điểm đầu tiên chúng tôi tập kích nên tôi đã ghi nhớ kỹ sơ đồ cấu trúc của nó trong đầu.
+Bởi đây là cứ điểm đầu tiên trong chiến dịch tập kích đêm nay, tôi đã in sâu sơ đồ cấu trúc của nó vào từng ngóc ngách trong đại não.
 
-“Có sáu tên đang ngủ trong phòng ngủ. Bốn tên ở phòng khách.”
+“Sáu tên đang ngủ say trong phòng ngủ. Bốn tên đang tụ tập ở phòng khách.”
 
-Tổng cộng mười tên. Chiếm khoảng một phần ba lực lượng cảnh vệ. Nếu chia ca trực hai mươi tư giờ thì đây là số lượng hợp lý.
+Tổng cộng mười tên. Chiếm chừng một phần ba tổng quân số của lực lượng cảnh vệ đồn điền. Nếu chia ca kíp luân phiên túc trực suốt hai mươi tư giờ thì đây là con số hoàn toàn chuẩn xác.
 
-Bình thường số lượng trực chỉ bằng một nửa thế này, nhưng vì hôm nay chúng đang ở trạng thái cảnh giác cao độ với Thiết Giáp Hùng nên toàn bộ lực lượng cảnh vệ đều được huy động túc trực tại đồn điền.
+Bình thường quân số trực ca chỉ bằng một nửa chừng này, song do đêm nay chúng đang ban bố tình trạng báo động đỏ đối phó với 『Thiết Giáp Hùng』, nên toàn bộ lực lượng cảnh vệ đều bị tổng động viên, túc trực cấm trại một trăm phần trăm tại đồn điền.
 
-Nhưng đối với tôi, nếu chúng không tập trung đầy đủ ở đây thì mới là rắc rối đấy.
+Nhưng đối với tôi, nếu chúng không tụ tập đông đủ một chỗ thế này thì mới là điều đáng đau đầu đấy.
 
-“Nhờ các bạn xử lý những kẻ đang ngủ nhé. Nếu lũ ở phòng khách phát hiện, tôi sẽ xông vào dọn dẹp.”
+“Nhờ các bạn xử lý gọn gàng lũ đang ngủ say nhé. Nếu đám ở phòng khách đánh hơi thấy biến, tôi sẽ lập tức xông vào dọn dẹp sạch sẽ.”
 
-Họ đều là những chiến sĩ thực thụ. Việc dùng dao đâm một nhát kết liễu những kẻ đang ngủ say sưa thế kia quả là một công việc quá đỗi dễ dàng.
+Họ đều là những chiến binh dày dạn phong trần. Việc cầm dao bịt miệng rồi đâm phập một nhát đoạt mạng những kẻ đang ngáy như sấm kia quả thực là nhiệm vụ nhẹ tựa lông hồng.
 
-Nhận chỉ thị của tôi, Togo dẫn theo chín người đi chân trần, lặng lẽ bước vào phòng ngủ để không phát ra tiếng động.
+Nhận mệnh lệnh dứt khoát từ tôi, Togo vẫy tay dẫn theo chín tráng đinh cởi phăng giày, bước chân trần lướt đi nhẹ tênh, lặng lẽ luồn vào phòng ngủ mà không phát ra dẫu chỉ một tiếng động cỏn con.
 
-Tất nhiên, phân thân của tôi cũng bám theo sau. Như vậy thì việc phối hợp thời điểm ra tay sẽ không gặp vấn đề gì.
+Dĩ nhiên, một phân thân của tôi cũng bám sát phía sau. Nhờ vậy, việc bắt nhịp thời khắc hành động đồng loạt giữa hai mũi giáp công sẽ diễn ra chuẩn xác từng tích tắc.
 
-Bản thể của tôi cùng Riza đứng chờ ở cửa chính. Nếu phá cửa xông vào từ đây, chúng tôi sẽ lập tức chạm mặt bốn tên đang tụ tập ở phòng khách.
+Bản thể của tôi cùng Riza nín thở đứng ép sát cửa chính. Nếu phá cửa xông vào từ hướng này, chúng tôi sẽ lập tức đối mặt trực diện với bốn tên đang quây quần tán gẫu ở phòng khách.
 
-Nếu có thể thuận lợi xử lý sáu tên đang ngủ, chúng tôi sẽ đồng loạt ra tay từ cả phía phòng ngủ lẫn phía cửa chính để kết liễu bốn tên còn lại.
+Nếu mũi của Togo xử lý ngọt ngào sáu tên đang ngủ, chúng tôi sẽ đồng loạt ép sân từ hai gọng kìm — một từ phía buồng ngủ tràn ra, một từ cửa chính ập vào — bẻ gãy mọi khả năng chống trả của bốn tên còn lại.
 
-Trong trường hợp xấu nhất, lũ ở phòng khách có thể phát hiện và làm ầm lên ngay lập tức, nhưng...
+Trường hợp xấu nhất, đám ở phòng khách có thể thính tai phát giác và gào thét báo động, thế nhưng...
 
-*Chúc ngủ ngon.*
+*Ngủ ngon nhé~*
 
-Mọi chuyện diễn ra dễ dàng đến mức hụt hẫng, tất cả đồng loạt đâm dao xuống, tiễn sáu tên đang ngủ vào giấc ngủ ngàn thu cùng một lúc.
+Phụt! Phụt! Phụt!
 
-Phía phòng khách, bốn tên kia vẫn đang lười biếng tán gẫu, hoàn toàn không nhận ra điều gì bất thường. Lũ này cảnh giác kém quá đấy chứ?
+Mọi việc diễn ra êm thấm đến mức hụt hẫng. Những mũi dao sắc lẹm đồng loạt cắm ngập vào cổ họng, tiễn cả sáu tên lính gác đang say giấc nồng thẳng tiến về cõi vĩnh hằng mà chúng chẳng kịp rên lên nửa tiếng.
 
-Mà thôi kệ đi, đếm đến ba là xông vào nhé. Ba, hai, một————
+Bên phía phòng khách, bốn tên kia vẫn nhàn nhã gác chân lên bàn, lười biếng tán gẫu rôm rả, hoàn toàn mù tịt trước màn tắm máu vừa diễn ra cách một bức vách. Lũ này lơ là cảnh giác đến mức đáng thương hại đấy chứ?
 
-“Ủa?”
+Mà thôi kệ xác chúng, đếm tới ba là tràn vào nhé. Ba, hai, một————
 
-Một tiếng kêu ngớ ngẩn vang lên, trước khi kịp nhận thức được sự hiện diện của các chiến sĩ Diana đột ngột lao ra trước mắt, cả bốn tên đều đã bỏ mạng một cách dễ dàng. Chúng vẫn ngồi trên ghế sofa, thậm chí không có thời gian để đứng dậy, bị Togo và những người khác đè nghiến xuống và đâm chết.
+“Ủa—?!”
 
-Tác phong nhanh gọn đấy. Nếu đây là kỹ năng cơ bản của một chiến sĩ Diana thì quả thực đáng sợ.
+Một tiếng thốt ngơ ngác vừa bật ra nơi khóe miệng. Chưa kịp định thần trước bóng dáng những chiến binh Diana vạm vỡ thình lình từ bóng tối lao vút ra, cả bốn tên lính gác đã lập tức bỏ mạng trong chớp mắt! Chúng vẫn ngồi dính chặt trên ghế sofa, thậm chí không kịp nhấc mông đứng dậy đã bị Togo cùng các chiến sĩ đè nghiến xuống sàn nhà, những nhát dao oan nghiệt liên tiếp cắm phập vào tim phổi, kết liễu sạch sẽ sinh mạng từng kẻ một.
 
-“À, tên đó là đứa trực ca nên giữ chìa khóa kho vũ khí đấy.”
+Hành động dứt khoát, gọn gàng và tàn nhẫn phi thường. Nếu đây chỉ là kỹ năng tác chiến cơ bản của một 『Chiến sĩ』 tộc Diana thì quả thực quá đỗi đáng sợ.
 
-“Tìm thấy rồi.”
+“À, cái tên đeo băng tay kia là lính trực ca, chìa khóa kho vũ khí nằm trong người hắn đấy.”
 
-Theo chỉ dẫn của tôi, Togo lập tức lục lọi túi áo của cái xác và lấy ra chiếc chìa khóa.
+“Tìm thấy rồi!”
 
-“Các bạn có biết dùng súng Blaster không?”
+Theo sự chỉ điểm của tôi, Togo lập tức thọc tay lục lọi túi áo ngực của cái xác đẫm máu, rút ra chùm chìa khóa sắt sáng loáng.
 
-“Không chỉ tôi mà tất cả những người ở đây đều biết sử dụng súng của Astoria.”
+“Các bạn có biết bắn 『Súng Blaster』 không?”
 
-“Tốt quá, vậy thì chúng ta xin cung kính nhận lấy thôi.”
+“Không riêng gì thần, mà tất cả anh em ở đây đều sử dụng thành thạo súng đạn của đế chế Astoria.”
 
-Có lẽ trước đây họ cũng từng tịch thu và sử dụng vũ khí của kẻ thù rồi chăng. Hay là các thương nhân vũ khí của Astoria đã tuồn súng sang cả Diana... Tôi nhớ ở thế giới cũ, người ta cũng từng bán vũ khí cho người da đỏ để họ tự tàn sát lẫn nhau nhằm giảm bớt số lượng. Với Astoria thì chắc chắn chúng cũng đang làm điều tương tự.
+“Tuyệt vời! Thế thì chúng ta xin cung kính đón nhận thôi!”
 
-Nhìn thấy họ sử dụng vũ khí của kẻ thù một cách tự nhiên như vậy, tôi lại vô tình nghĩ đến những mặt tối đầy khắc nghiệt của thế giới này.
+Có lẽ thuở còn ở chiến trường biên giới, họ đã từng nhiều lần tịch thu và sử dụng chiến lợi phẩm của kẻ thù. Hay là đám lái buôn vũ khí chợ đen của Astoria đã tuồn súng sang cả lãnh thổ Diana... Tôi chợt nhớ về những trang sử đen tối ở thế giới cũ, thực dân da trắng từng tuồn súng đạn cho các bộ lạc da đỏ để họ tự tàn sát lẫn nhau nhằm tiêu hao sinh lực. Với đế chế Astoria tàn bạo, ắt hẳn chúng cũng đang giở trò đê hèn tương tự.
 
-Nhưng hiện tại, việc họ biết dùng súng là một lợi thế lớn. Cầm vũ khí trong tay đã giúp họ tự tin hơn, nhưng nếu cầm súng thì sự tự tin đó sẽ còn tăng lên gấp bội.
+Nhìn những cựu chiến binh Diana cầm súng nạp ma lực một cách thuần thục tự nhiên, lòng tôi bất giác dấy lên chút chua chát khi nghĩ về góc khuất khốc liệt của thế giới này.
 
-Giống như trong game kinh dị, một khi đã nhặt được khẩu shotgun thì thay vì chạy trốn, bạn sẽ chỉ nghĩ đến việc bắn chết lũ quái vật như thế nào thôi đúng không.
+Thế nhưng vào lúc này, việc họ sử dụng thành thạo súng ống lại là lợi thế vô cùng to lớn. Nắm tấc sắt trong tay đã giúp dũng khí dâng trào, nhưng nếu được trang bị súng hỏa lực, nhuệ khí chiến đấu chắc chắn sẽ bùng nổ gấp trăm lần!
 
-“Ồ, tích trữ nhiều phết nhỉ.”
+Hệt như trong các tựa game kinh dị sinh tồn, một khi nhân vật đã nhặt được khẩu shotgun trong tay, thay vì cắm đầu tháo chạy trong hoảng loạn, trong đầu bạn sẽ chỉ còn rạo rực ý nghĩ: Làm sao để thổi bay đầu lũ quái vật một cách mãn nhãn nhất!
 
-Quả không hổ danh là chủ đồn điền lớn nhất Easthope, lão ta vung tiền ra để trang bị vũ khí cực kỳ đầy đủ.
+“Ồ, tích trữ cũng hào phóng phết nhỉ.”
 
-Xếp trên giá súng là những khẩu Blaster kiểu súng trường, loại vũ khí thịnh hành nhất ở Astoria.
+Mở toang cánh cửa sắt kho quân nhu, cảnh tượng bên trong khiến tôi không khỏi trầm trồ. Quả không hổ thùy danh đại điền chủ giàu nứt đố đổ vách xứ Easthope, lão Winston đã vung tiền trang bị vũ khí tận răng cho đội ngũ tay sai của mình.
 
-Hình dáng đơn giản với báng súng bằng gỗ trông rất giống với những khẩu súng trường lên đạn bằng khóa nòng (bolt-action) vẫn được dùng để săn bắn ở thế giới cũ. Có chăng, vì nó bắn ra đạn ánh sáng ma lực chứ không phải đạn chì nên không cần cơ chế đẩy vỏ đạn ra ngoài, phần hộp khóa nòng có cấu tạo hoàn toàn khác biệt.
+Xếp ngay ngắn trên từng giá gỗ là hàng loạt khẩu 『Súng trường Blaster』 bóng loáng — loại vũ khí bộ binh thịnh hành bậc nhất tại Astoria hiện nay.
 
-Tuy nhiên, so với những khẩu Blaster cổ đại mà Kotori từng mang ra để thủ tháp, mấy thứ này chẳng khác nào đồ chơi. Chỉ cần nhìn khẩu Blaster này là có thể hiểu rõ trình độ kỹ thuật ma pháp và công nghiệp của Astoria đang ở mức nào.
+Kiểu dáng thanh thoát với báng súng bằng gỗ sồi đánh vecni trông khá tương đồng với những khẩu súng trường khóa nòng bolt-action chuyên dùng đi săn ở thế giới cũ. Có chăng, bởi nó bắn ra những viên đạn ma lực thuần khiết chứ không dùng đạn chì nhồi thuốc súng, nên hoàn toàn loại bỏ cơ chế hất vỏ đạn tản nhiệt, khiến hộp khóa nòng mang một kết cấu ma pháp hoàn toàn dị biệt.
 
-“Thế này thì trang bị cũng đỡ hơn một chút rồi.”
+Tuy nhiên, nếu đem so với những khẩu Blaster cổ đại uy lực kinh thiên mà Kotori từng lôi ra để cố thủ trong tòa tháp ma thuật năm nào, mấy thứ vũ khí này chẳng khác nào đồ chơi con nít. Chỉ cần liếc qua kết cấu của khẩu Blaster này là đủ để nắm bắt trình độ công nghệ ma đạo và công nghiệp cơ khí của Astoria đang dậm chân ở tầng nấc nào.
 
-Vì lực lượng cảnh vệ ban đầu chỉ khoảng ba mươi người nên số lượng súng cũng chỉ tương đương với số người cộng thêm một chút dự phòng. Số lượng súng không đủ để phân phát cho tất cả mọi người ở đây, nhưng ở đây cũng có sẵn những cây thương kiểu cổ, nên vẫn tốt hơn là chỉ cầm một con dao phế liệu nhỏ nhoi.
+“Trang bị thế này thì quân ta cũng tươm tất hơn hẳn rồi.”
 
-Dù vậy, ngay cả khi họ có cơ hội ra trận thì cũng chỉ cần đứng bắn Blaster từ xa là đủ, chắc cũng chẳng có cơ hội để dùng đến vũ khí cận chiến đâu.
+Bởi quân số cảnh vệ đồn điền ban đầu chỉ ngót nghét ba mươi tên, nên số lượng súng ống trong kho cũng chỉ tương đương số người cộng thêm vài khẩu dự phòng. Số súng này không đủ để vũ trang toàn bộ cho ba mươi chiến binh ở đây, song kho vũ khí còn có sẵn hàng tá ngọn giáo dài kiểu cổ bọc thép sắc lẹm — dẫu sao vẫn uy lực hơn ngàn lần mấy con dao phế liệu gỉ sét ban đầu.
 
-“Vậy thì, cho Thiết Giáp Hùng đột kích từ phía chính diện nhỉ.”
+Dù vậy, một khi chiến sự bùng nổ, họ chỉ cần dàn hàng nã súng Blaster từ xa yểm trợ là đủ dọn dẹp chiến trường, e rằng chẳng có cơ hội cho cận chiến giáp lá cà.
 
-“Xin mạo muội hỏi... thưa Đứa con của thần, con Thiết Giáp Hùng đó là do ngài sai khiến sao?”
+“Vậy thì, cho 『Thiết Giáp Hùng』 xung phong tập kích từ cổng chính nhé.”
 
-Hả, giờ này mà ông còn hỏi câu đó à?
+“Xin mạo muội hỏi Thần tử... Con 『Thiết Giáp Hùng』 đó, là do Ngài đích thân sai khiến sao?!”
 
-Chẳng lẽ ông ấy nghĩ tôi đã tiên tri được điềm báo của thần linh về việc con Thiết Giáp Hùng sẽ tấn công, rồi từ đó vạch ra kế hoạch tác chiến sao?
+Hả? Đến nước này rồi mà ông còn ngơ ngác hỏi câu đó sao Togo?
 
-Cứ yên tâm đi, đó là ma vật do tôi hoàn toàn kiểm soát đấy.
+Chẳng lẽ ông ấy lại đinh ninh rằng tôi vừa nhận được một điềm báo tiên tri huyền bí nào đó từ thần linh về việc con gấu ma quái sẽ ghé thăm, rồi từ đó thuận nước đẩy thuyền lập nên kế hoạch tác chiến thần sầu quỷ khốc này chắc?
 
-“Tất nhiên rồi, con Thiết Giáp Hùng làm loạn Easthope dạo gần đây chính là sứ ma của tôi.”
+Cứ kê cao gối mà ngủ đi, con ma thú hung hãn đó hiện tại đang là con rối ngoan ngoãn nằm trọn dưới quyền kiểm soát của tôi đấy!
+
+“Tất nhiên rồi. Con 『Thiết Giáp Hùng』 đại náo Easthope suốt chuỗi ngày qua chính là 『Sứ ma』 trung thành của tôi.”
 
 ◇◇◇
 
-Thiết Giáp Hùng xuất hiện ở đồn điền và tấn công Junior. Khi Deyrick nhận được tin báo đó, ông đang tận hưởng buổi trà chiều thư thả cùng vợ tại nhà riêng trong ngày nghỉ hiếm hoi của mình.
+『Thiết Giáp Hùng』 đột kích vào tận đồn điền và bắt cóc Junior! Khi hung tin sét đánh ấy bay về dinh thự, Deyrick đang nhàn nhã thưởng thức tách trà chiều ấm cúng bên cạnh người vợ hiền tại tư gia, nhân ngày nghỉ phép hiếm hoi của mình.
 
-*Không thể nào, làm ơn hãy nói đó là lời nói dối đi.* Dù vô cùng dao động trước báo cáo tồi tệ nhất đó, nhưng với tư cách là một cựu binh dày dạn kinh nghiệm chiến trường, Deyrick lập tức chuẩn bị trang bị, lao đến đồn điền, tập hợp đội ngũ và đuổi theo con Thiết Giáp Hùng.
+*Không thể nào... Làm ơn, xin hãy nói với tôi đó chỉ là một trò đùa ác ý đi!*
 
-Ngay cả khi nó có chạy trốn vào sâu trong dãy núi Elemental, lần này ông cũng thề sẽ đuổi theo đến cùng. Với quyết tâm đó, ông cưỡi ngựa dẫn theo bầy chó săn trong trạng thái chuẩn bị kỹ lưỡng nhất để nghênh chiến, nhưng trước khi kịp tiếp cận chân núi, thứ đó đã nằm lăn lóc trong bụi cỏ.
+Dẫu tâm can rúng động tột cùng trước báo cáo tồi tệ nhất trần đời, nhưng bằng bản lĩnh thép của một cựu binh dạn dày trận mạc, Deyrick lập tức vớ lấy trang bị, phi ngựa như bay về đồn điền, cấp tốc tập hợp phân đội cảnh vệ thiện chiến nhất và mở cuộc lùng sục dấu vết 『Thiết Giáp Hùng』.
 
-“Ư...”
+Dẫu con quái thú có trốn chui trốn nhủi vào tận cùng hang cùng ngõ hẻm của dãy núi Elemental hùng vĩ, ông cũng thề sẽ đào xới từng tấc đất để lôi cổ nó ra đền mạng! Với ý chí căm hờn ngút trời, ông thúc ngựa dẫn đầu đàn chó săn hung dữ sục sạo khắp các ngả đường trong tư thế sẵn sàng nghênh chiến một mất một còn. Thế nhưng, còn chưa kịp tiến sát chân núi, thứ đó đã nằm lăn lóc giữa bụi cỏ gai ven đường.
 
-“Trời đất ơi, kinh khủng quá...”
+“Ư...!”
 
-“Ôi, lạy chúa tôi.”
+“Trời đất quỷ thần ơi... Kinh khủng quá...”
 
-Ngay cả những người đồng đội từng cùng ông vào sinh ra tử trên chiến trường cũng không khỏi thốt lên những tiếng rên rỉ kinh hoàng trước cảnh tượng cái chết thê thảm của Junior.
+“Chúa ơi... Lạy chúa lòng lành...”
 
-Tứ chi không bị đứt lìa, đầu vẫn còn nguyên. Thế nhưng, phần thân của cậu ta lại trống rỗng. Toàn bộ phần ngực và bụng phía trước bị khoét sâu hoắm, không còn lại một mảnh nội tạng nào. Những mẩu ruột vương vãi xung quanh cùng vũng máu khổng lồ đã nhuộm đen kịt mặt đất cho thấy rõ ràng cậu ta đã bị moi sạch và ăn tươi nuốt sống nội tạng ngay tại chỗ.
+Ngay cả những tay lính đánh thuê dạn dày sương gió, từng cùng Deyrick vào sinh ra tử qua trăm trận huyết chiến cũng không kìm nổi những tiếng nôn ọe kinh hoàng trước thảm cảnh cái chết thê thảm của Junior.
 
-Bị ăn thịt khi vẫn còn sống, nỗi sợ hãi và đau đớn đó kinh hoàng đến nhường nào chứ. Khuôn mặt đầy vết cào xước của cậu ta vẫn còn giữ nguyên biểu cảm vặn vẹo, ghê rợn như thể đang gào thét thảm thiết cho đến tận giây phút cuối cùng.
+Tứ chi không hề bị xé lìa, đầu lâu vẫn còn nguyên vẹn. Thế nhưng, toàn bộ phần thân trước của cậu thiếu niên lại trống rỗng đến rợn người! Khoang ngực cùng khoang bụng bị ngoạm toạc sâu hoắm, không còn sót lại dù chỉ một mảnh nội tạng. Những đoạn ruột đứt đoạn vương vãi khắp các bụi gai cùng một vũng máu khổng lồ đã đông cứng đen kịt mặt đất chứng minh một sự thật tàn khốc: Cậu ta đã bị con dã thú moi sạch lục phủ ngũ tạng và ngấu nghiến tươi sống ngay tại chỗ!
 
-“Đã tìm thấy mục tiêu số một. Cuộc tìm kiếm kết thúc tại đây, rút quân.”
+Bị ăn thịt trong khi từng tế bào thần kinh vẫn còn tỉnh táo — nỗi kinh hoàng và đau đớn tột cùng ấy khủng khiếp đến mức nào chứ?! Khuôn mặt chằng chịt những vết cào cấu của Junior vẫn còn đông cứng biểu cảm vặn vẹo, co giật méo mó như thể đang gào thét rách toạc thanh quản cho đến tận hơi thở cuối cùng.
 
-“Đội trưởng, chuyện đó... có ổn không ạ...?”
+“Đã tìm thấy mục tiêu số một... Chiến dịch tìm kiếm kết thúc tại đây. Toàn đội rút quân!”
 
-“Dĩ nhiên rồi. Ta phải đưa Junior... con trai ta, về nhà.”
+“Đội trưởng... Chuyện này... Như vậy có ổn không ạ...?”
+
+“Dĩ nhiên là ổn. Ta phải đưa Junior... Con trai ta, trở về nhà!”
 
 “Rõ!”
 
-Deyrick cố gắng giữ bình tĩnh bằng cách dùng sứ mệnh của một người lính để đè nén nỗi tuyệt vọng của một người cha. Ít nhất là trước mặt cấp dưới, ở bên ngoài.
+Deyrick cắn chặt môi đến bật máu, cố gắng duy trì vẻ lạnh lùng sắt đá bằng cách dùng kỷ luật thép của một quân nhân để đè nén nỗi tuyệt vọng xé ruột xé gan của một người cha mất con. Ít nhất là trước mặt đám thuộc cấp, ở ngoài chiến địa.
 
-Dù tốt hay xấu, ông đã quá quen thuộc với những cái xác bị tàn sát dã man. Ông từng tự tay tạo ra chúng, và cũng từng chứng kiến đồng đội bị kẻ thù sát hại.
+Dù muốn hay không, suốt những năm tháng binh nghiệp, ông đã quá quen thuộc với những thây ma bị tàn sát dã man. Ông từng tự tay tạo ra hàng trăm cái xác như thế, và cũng từng chứng kiến đồng đội bị kẻ thù xé nát thân xác.
 
-Nhờ vậy mà ông mới có thể chịu đựng được. Ngay sát giới hạn chịu đựng của mình. Giờ đây, dù có khóc lóc thảm thiết vì đau buồn, hay gào thét trong giận dữ và hối hận thì cũng chẳng giải quyết được gì. Hãy làm những gì cần làm, những gì phải làm. Ông tự nhủ với bản thân một cách mạnh mẽ.
+Chính sự chai sạn tàn nhẫn ấy đã giúp ông đứng vững trên đôi chân của mình, dẫu tâm trí đang cận kề bờ vực sụp đổ điên cuồng. Lúc này đây, dù có khóc lóc thảm thiết hay gào thét trong cuồng nộ và hối hận thì cũng chẳng thể hồi sinh được núm ruột của mình. Hãy làm những gì cần làm, những gì một người lính phải làm! Ông nghiến răng tự thề với linh hồn mình.
 
-Cứ thế, đội cảnh vệ do Deyrick dẫn đầu đã quay trở lại đồn điền trước khi hoàng hôn buông xuống. Mang theo thi thể của đứa con trai yêu dấu Junior.
+Cứ thế, toán cảnh vệ do Deyrick dẫn đầu lặng lẽ cáng thi thể của cậu quý tử Junior quay trở lại đồn điền New Hope ngay trước khi hoàng hôn kịp tắt.
 
-“Chủ tịch Winston, từ đêm nay chúng tôi sẽ thiết lập chế độ cảnh giới nghiêm ngặt tại đồn điền. Con Thiết Giáp Hùng đó cuối cùng đã nếm thử mùi vị thịt người rồi. Nó chắc chắn đã nhận thức được nơi này là một bãi săn dễ dàng với vô số con mồi. Rất có thể hôm nay hoặc ngày mai nó sẽ lại tấn công tiếp.”
+“Chủ tịch Winston, bắt đầu từ đêm nay, chúng tôi sẽ thiết lập chế độ giới nghiêm và cảnh giới cấp cao nhất trên toàn đồn điền. Con 『Thiết Giáp Hùng』 đó rốt cuộc đã nếm được mùi vị béo bở của thịt người. Chắc chắn nó đã coi nơi này là một bãi săn màu mỡ với vô số con mồi dễ xơi. Khả năng rất cao đêm nay hoặc rạng sáng mai, nó sẽ lại mò tới tấn công tiếp!”
 
-“À, ừm, chuyện đó thì ta không phản đối, nhưng...”
+“À, ừm, chuyện phòng thủ thì ta hoàn toàn nhất trí, nhưng...”
 
-Vừa trở về, Deyrick đã lập tức lên văn phòng báo cáo. Winston tiếp đón ông trong phòng làm việc, nhưng không khỏi bị áp chế bởi sát khí nồng nặc tỏa ra từ người Deyrick.
+Vừa đặt chân về cứ điểm, Deyrick lập tức xông thẳng lên phòng làm việc báo cáo. Winston tiếp đón ông, nhưng không khỏi lạnh gáy trước luồng sát khí đặc quánh, nồng nặc mùi tử khí đang cuồn cuộn tỏa ra từ người viên đội trưởng.
 
-Người đàn ông này bình thường luôn tỏ ra thong dong và tự tin. Ngay cả khi bị lũ băng đảng tấn công trong thị trấn, ông ta vẫn có thể vừa cười vừa bắn chết đối phương, vậy mà giờ đây khuôn mặt ông ta lại lạnh tanh như băng, toàn thân run lên bần bật vì căng thẳng.
+Người đàn ông này bình thường luôn nở nụ cười ngạo nghễ, tự tin. Ngay cả khi bị đám côn đồ phục kích ngoài thị trấn, ông ta vẫn có thể vừa cười cợt vừa thong thả bóp cò nã đạn đoạt mạng đối phương; vậy mà lúc này, gương mặt ông ta lại lạnh tanh như băng đá ngàn năm, toàn thân khẽ run lên bần bật vì căng thẳng tột độ.
 
-Dù biểu hiện đó không bình thường chút nào, nhưng hoàn cảnh hiện tại là như vậy. Winston nghĩ ngay cả một người đàn ông như Deyrick thì việc trở nên như thế này cũng là điều đương nhiên.
+Dù thần sắc ấy dị thường đến đáng sợ, nhưng đặt trong hoàn cảnh này, Winston thừa hiểu ngay cả một chiến binh thép như Deyrick phát điên lên cũng là lẽ tự nhiên.
 
-“Tôi xin lỗi, nhưng đêm nay tôi có thể để cái xác trong nhà kho được không? Giờ này mà đưa thằng bé về nhà thờ trong thị trấn thì không kịp nữa————”
+“Tôi vô cùng xin lỗi, nhưng đêm nay tôi có thể tạm đặt thi thể thằng bé trong nhà kho được không? Giờ này mà chuyển nó về thánh đường giáo xứ ngoài thị trấn thì không kịp nữa rồi————”
 
-“Cậu nói gì thế hả Deyrick? Ta sẽ cho mượn phòng khách, mau để thằng bé được yên nghỉ đi.”
+“Cậu nói mê sảng cái gì thế hả Deyrick?! Ta sẽ mở cửa phòng khách lớn, mau đưa thằng bé vào đó để nó được yên nghỉ trang trọng!”
 
-“...Cảm ơn... ngài nhiều lắm.”
+“...Đa tạ... Đa tạ Chủ tịch rất nhiều...”
 
-Xét về mặt tâm lý lẫn vệ sinh, không ai muốn đặt một cái xác bị ma vật tàn sát dã man ở gần mình, chứ đừng nói đến việc đưa vào trong nhà. Biết rõ điều đó nên Deyrick mới chủ động đề nghị để xác con trai ở bên ngoài, nhưng lời nói của Winston đã khiến nước mắt ông suýt chút nữa rơi xuống.
+Xét về cả mặt tâm lý lẫn vệ sinh dịch tễ, chẳng một ai muốn đặt một cái xác bị ma thú xé nát nội tạng ở gần mình, huống chi lại rước vào tận phòng khách dinh thự. Thấu hiểu lẽ đó nên Deyrick mới ngậm ngùi đề nghị để xác con trai nơi góc kho hoang phế, nhưng tấm thịnh tình của Winston đã khiến hốc mắt cay xè của viên đội trưởng suýt trào lệ.
 
-Nhưng bây giờ vẫn còn quá sớm để khóc.
+Thế nhưng, lúc này chưa phải là lúc để rơi những giọt nước mắt yếu đuối!
 
-Bằng mọi giá, ông phải tự tay báo thù cho con trai. Nếu không làm vậy, ông sẽ không còn mặt mũi nào để đối diện với thần linh trên trời và đứa con trai đã khuất của mình.
+Bằng mọi giá, ông phải tự tay băm vằm con ác thú ra làm trăm mảnh để tế linh hồn con trai! Nếu không trả được mối huyết hận này, ông sẽ vĩnh viễn không còn mặt mũi nào để diện kiến thần linh và đối diện với linh hồn oan khuất của Junior dưới suối vàng.
 
-“Nghe rõ đây, các cậu. Con quái vật đó chắc chắn sẽ quay lại đây tấn công. Cho đến lúc đó, tất cả phải cảnh giác cao độ.”
+“Nghe rõ đây, các anh em! Con thú dữ đó nhất định sẽ quay lại đây kiếm mồi. Cho tới lúc đó, toàn đội phải căng mắt cảnh giác cao độ!”
 
-“Nhưng đội trưởng, nếu chúng ta cứ lảng vảng xung quanh với vũ khí trang bị đầy đủ thế này, nó có thể sẽ cảnh giác mà không dám bén mảng tới đâu.”
+“Nhưng thưa đội trưởng, nếu chúng ta cứ vác súng lượn lờ tuần tra rầm rộ thế này, con thú săn mồi ranh mãnh có thể sẽ đánh hơi thấy bẫy mà không dám bén mảng tới đâu ạ.”
 
-“Dĩ nhiên rồi, chúng ta phải mai phục chứ. Từ ngày mai, ta sẽ bắt lũ nhóc nô lệ lảng vảng bên ngoài để làm mồi nhử.”
+“Dĩ nhiên là ta phải mai phục rồi! Kể từ sáng mai, ta sẽ lùa lũ nhóc nô lệ lảng vảng ngoài rìa đồn điền để làm mồi nhử sống!”
 
-Họ phải khiến con Thiết Giáp Hùng tiếp tục nghĩ rằng đồn điền này là một bãi săn dễ dàng.
+Họ phải tiếp tục ru ngủ con 『Thiết Giáp Hùng』, khiến nó đinh ninh rằng đồn điền này vẫn là một bãi săn mồi béo bở, không hề có phòng bị.
 
-Để đạt được mục đích đó, ông đã chuẩn bị sẵn tâm lý hy sinh một vài đứa trẻ nô lệ. Winston chắc chắn cũng muốn giải quyết triệt để tình trạng quái vật ăn thịt người xuất hiện trong dinh thự của mình càng sớm càng tốt.
+Để đạt được dã tâm đó, ông sẵn sàng nướng chín mạng sống của vài ba đứa trẻ nô lệ Diana. Lão Winston chắc chắn cũng nóng lòng muốn tiêu diệt con quái vật ăn thịt người đang lởn vởn quanh dinh thự càng sớm càng tốt.
 
-Nếu đặt mạng sống của bản thân và gia đình lên bàn cân, thì dù có bao nhiêu nô lệ đi chăng nữa cũng chẳng thể nào so sánh được.
+Đặt tính mạng của bản thân và gia đình lên bàn cân, thì dẫu có chôn vùi bao nhiêu sinh mạng nô lệ rẻ rách đi chăng nữa, đối với họ cũng chẳng đáng một xu bận tâm.
 
-“Ít nhất thì chúng cũng phải làm mồi nhử để bù đắp lại chứ...”
+“Ít nhất thì mạng sống của lũ chúng mày cũng phải làm mồi nhử để chuộc lại mạng cho con trai tao chứ...”
 
-Ông đã nghe kể về tình huống Junior bị Thiết Giáp Hùng tấn công.
+Deyrick đã nghe Wonta thuật lại tường tận hoàn cảnh Junior bị 『Thiết Giáp Hùng』 vồ lấy.
 
-Tại sao lại là Junior? Tại sao không phải là lũ nhóc nô lệ, mà lại chính là con trai ông bị ăn thịt chứ?
+Tại sao lại là Junior?! Tại sao không phải là hai đứa nhóc nô lệ rách rưới kia, mà kẻ bỏ mạng lại chính là con trai yêu dấu của ông?!
 
-Dù là do ma vật làm đi chăng nữa, chuyện này quả thực quá đỗi phi lý. Lũ nô lệ dùng xong rồi bỏ thì vẫn sống nhăn răng, trong khi đứa con trai có tương lai rộng mở của ông lại phải bỏ mạng.
+Dù là ma thú hành động theo bản năng hoang dã, bi kịch nghiệt ngã này quả thực quá đỗi bất công! Lũ súc vật nô lệ dùng một lần rồi vứt thì vẫn sống nhăn răng vô sự, trong khi đứa con trai rạng rỡ với tương lai sĩ quan thênh thang của ông lại phải phơi thây giữa đồng không mông quạnh!
 
-“Khốn kiếp...”
+“Khốn khiếp... Khốn kiếp!!”
 
-Nhờ sự quan tâm của Winston và cấp dưới, Deyrick được miễn nhiệm vụ tuần tra đêm nay để nghỉ ngơi, nhưng khi nằm trên giường, những làn sóng cảm xúc hỗn loạn cứ cuộn trào khiến ông không tài nào chợp mắt nổi.
+Nhờ sự chiếu cố của Winston cùng các thuộc cấp, Deyrick được đặc cách miễn phiên tuần tra đêm nay để tĩnh dưỡng hồi sức. Thế nhưng khi đặt lưng xuống chiếc đệm êm ấm, những đợt sóng phẫn uất và đau đớn cứ cuồn cuộn gầm rú trong lồng ngực khiến ông không tài nào chợp mắt nổi.
 
-Cảm giác này giống hệt như đêm đầu tiên ông cắm trại trên chiến trường vậy.
+Cảm giác ngột ngạt, bất an này giống hệt như đêm đầu tiên ông đặt chân tới doanh trại dã chiến nơi chiến trường năm xưa.
 
-Phải rồi, lúc đó chắc chắn là———— Khi đang hồi tưởng lại những ký ức xưa cũ, một cơn ớn lạnh đột ngột chạy dọc sống lưng Deyrick.
+Phải rồi, đêm định mệnh ấy chắc chắn là————
 
-Không, đó là một điềm báo.
+Đang miên man chìm vào dòng ký ức hoen ố, một luồng ớn lạnh buốt giá bất thần chạy dọc sống lưng Deyrick!
 
-“Không lẽ nào...!”
+Không! Đó là một điềm báo tử!
 
-Ông giật mình bật dậy, chộp lấy con dao găm đặt dưới gối.
+“Không lẽ nào...?!”
 
-Cảm giác vừa rồi chắc chắn là trực giác của một 『Đạo Tặc』. Nó hoàn toàn khác với kỹ năng 『Cảm Nhận Hiện Diện』, đây không phải là thứ luôn hoạt động hay có thể tự mình kiểm soát. Nó giống như tiếng thì thầm của vị thần 『Đạo Tặc』, cảnh báo cho ông biết về những mối nguy hiểm nằm ngoài tầm nhận thức của mình... đôi khi là vậy.
+Deyrick giật nảy mình bật dậy như một chiếc lò xo, cánh tay chộp phắt lấy con dao găm phòng thân giắt dưới gối nằm.
 
-Không phải lúc nào cũng chính xác. Nhưng nhờ tuân theo trực giác này mà ông đã từng thoát khỏi cuộc tập kích bất ngờ của những chiến sĩ Diana xảo quyệt.
+Cảm giác rợn tóc gáy vừa rồi đích thị là trực giác mách bảo của 『Thiên Chức』 『Đạo Tặc』! Nó hoàn toàn dị biệt với kỹ năng 『Cảm Nhận Hiện Diện』 thông thường — đây không phải thứ lúc nào cũng duy trì kích hoạt hay có thể tùy ý điều khiển theo ý muốn. Nó tựa như lời thì thầm cảnh báo từ cõi vô hình của vị thần bảo hộ nghề 『Đạo Tặc』, đánh động cho ông biết trước những mối họa sát thân đang lẩn khuất ngoài tầm nhận thức giác quan.
 
-Phải, cảm giác này chính là tín hiệu nguy hiểm. Điềm báo cho thấy một cuộc khủng hoảng đe dọa đến tính mạng đang cận kề.
+Không phải lúc nào linh tính ấy cũng chuẩn xác một trăm phần trăm. Nhưng chính nhờ tin theo trực giác mách bảo này mà năm xưa ông đã từng thoát chết trong gang tấc trước những đòn tập kích thần sầu quỷ khốc của các chiến binh Diana thiện chiến.
 
-Thế nhưng, đêm nay ông không thể chạy trốn.
+Phải rồi! Luồng tử khí này chính là hồi chuông báo động đỏ! Một cơn đại họa đe dọa trực tiếp tới tính mạng đang áp sát ngay ngưỡng cửa!
 
-*GÀOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!*
+Thế nhưng, trong đêm định mệnh này, ông tuyệt đối không thể bỏ chạy!
 
-Một tiếng gầm rú đinh tai nhức óc làm rung chuyển cả đồn điền vang lên, Deyrick lập tức lao ra ngoài không chút do dự.
+GÀOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO———!!!
+
+Một tiếng gầm xé toạc màn đêm, rung chuyển trời đất làm chao đảo cả đồn điền New Hope thình lình nổ tung! Không chút chần chừ, Deyrick đạp tung cánh cửa, lao vụt ra ngoài nghênh chiến!

@@ -2,27 +2,27 @@
 
 “— Souma-kun, như thế là không tốt đâu.”
 
-Vừa mới tập hợp đội hầu gái sau giờ học, người đầu tiên lên tiếng chỉ trích Souma Yuuto lại là một nhân vật không ai ngờ tới — Yama-Jun.
+Vừa mới tập hợp đội hầu gái sau giờ học, người đầu tiên lên tiếng phê bình Souma Yuuto lại là một nhân vật chẳng ai ngờ tới — Yama-Jun.
 
 “Tớ làm gì tệ đến thế sao?”
 
-Bị tấn công bất ngờ bởi một người vốn hiền lành, Souma không khỏi bối rối.
+Bị chỉ trích bất ngờ bởi một người vốn dĩ hiền lành, Souma không khỏi bối rối.
 
-Trong khi đó, cả đám bọn tôi chỉ biết nín thở dõi theo. Hiếm khi nào thấy Yama-Jun lại thẳng thừng đưa ra ý kiến phê bình gay gắt đến như vậy.
+Trong khi đó, cả đám bọn tôi chỉ biết nín thở dõi theo. Hiếm khi nào thấy Yama-Jun lại thẳng thừng đưa ra ý kiến gay gắt đến như vậy.
 
-“Khi muốn quyết định một việc gì đó, cậu không nên mời người khác đến một nơi mà ở đó chỉ toàn là thành viên thuộc phe phái hùng mạnh của riêng cậu.”
+“Khi muốn quyết định một việc gì đó, cậu không nên mời người khác đến một nơi mà ở đó chỉ toàn là thành viên thuộc phe phái thân cận của riêng cậu.”
 
 “Phe phái gì chứ, tớ chỉ ở cùng với những người bạn như mọi khi thôi mà.”
 
-Hóa ra vấn đề nằm ở giờ nghỉ trưa hôm nay. Đó là về bữa tiệc trưa mà tôi và Futaba được mời đến tham dự cùng dàn harem của Souma.
+Hóa ra vấn đề nằm ở giờ nghỉ trưa hôm nay. Đó là bữa tiệc trưa mà tôi và Futaba-san được mời đến tham dự cùng dàn harem của Souma.
 
-“Nhân cơ hội này tớ cũng muốn nói thẳng luôn. Các cậu ấy thiên vị cậu nhiều hơn cậu nghĩ rất nhiều. Tớ không bảo đó là điều xấu, nhưng nếu cậu không tự nhận thức được điều đó mà hành xử cho đúng mực, cậu sẽ vô tình làm tổn thương người khác đấy.”
+“Nhân cơ hội này tớ cũng muốn nói thẳng luôn. Các cậu ấy thiên vị cậu nhiều hơn mức cậu nghĩ rất nhiều. Tớ không bảo đó là điều xấu, nhưng nếu cậu không tự nhận thức được điều đó mà hành xử cho đúng mực, cậu sẽ vô tình làm tổn thương người khác đấy.”
 
 “Chuyện đó... thật sự là vậy sao?”
 
 Có lẽ đây là điều mà cậu ta không muốn thừa nhận. Hoặc trước đó, Souma thực sự chưa bao giờ nghĩ đến chuyện này.
 
-Cậu ta hướng ánh mắt dò hỏi về phía tôi, như muốn xác nhận xem liệu bản thân có thực sự gây phiền hà như lời Yama-Jun nói hay không. Được thôi, nếu đã vậy thì để tôi nói cho mà nghe. Giờ thì tôi chẳng còn hơi sức đâu mà kiêng dè cái dàn harem của cậu nữa.
+Cậu ta hướng ánh mắt dò hỏi về phía tôi, như muốn xác nhận xem liệu bản thân có thực sự gây phiền hà như lời Yama-Jun nói hay không. Được thôi, nếu đã vậy thì để tôi nói cho mà nghe. Giờ thì tôi chẳng còn hơi sức đâu mà kiêng nể cái dàn harem của cậu nữa.
 
 “Tớ và Futaba-san đã cực kỳ khó xử đấy. Ở một nơi như thế, bầu không khí nặng nề đến mức bọn tớ hoàn toàn không thể đưa ra ý kiến phản đối những gì Souma-kun nói.”
 
@@ -34,23 +34,23 @@ Cậu ta hướng ánh mắt dò hỏi về phía tôi, như muốn xác nhận 
 
 Chết tiệt, muốn khóc quá đi mất.
 
-Suốt giờ nghỉ trưa đó, tôi đã phải gồng mình lên tỏ ra cứng cỏi để không ai nhận ra sự bất an của bản thân. Vậy mà chỉ cần nghe kể lại sự tình, cậu ấy đã thấu hiểu tâm can tôi đến mức này. Đây đích thị là chuyên gia tư vấn tâm lý học đường chứ còn gì nữa.
+Suốt giờ nghỉ trưa đó, tôi đã phải gồng mình lên tỏ ra cứng cỏi để không ai nhận ra sự bất an của bản thân. Vậy mà chỉ cần nghe kể lại sự tình, cậu ấy đã thấu hiểu tâm can tôi đến mức này. Đây đích thị là chuyên gia tư vấn tâm lý học đường chứ còn gì nữa!
 
 “Cậu có nói quá lên không vậy? Tớ nghĩ mọi chuyện đâu có nghiêm trọng đến thế.”
 
-“Chuyện không trở nên nghiêm trọng là nhờ Momokawa-kun đã khéo léo nhẫn nhịn đấy. Tớ nói trước để cậu khỏi nghĩ ngờ, chuyện này không phải do Momokawa-kun mách lẻo với tớ đâu. Tớ chưa nghe cậu ấy nói lời nào cả. Chuyện giờ nghỉ trưa là tớ nghe kể lại từ Lớp trưởng và Futaba-san thôi.”
+“Chuyện không trở nên nghiêm trọng là nhờ Momokawa-kun đã khéo léo nhẫn nhịn đấy. Tớ nói trước để cậu khỏi nghi ngờ, chuyện này không phải do Momokawa-kun mách lẻo với tớ đâu. Tớ chưa nghe cậu ấy phàn nàn lời nào cả. Chuyện giờ nghỉ trưa là tớ nghe kể lại từ Lớp trưởng và Futaba-san thôi.”
 
 “T-Tớ đâu có nghĩ thế.”
 
 Nhưng rõ ràng là cậu vừa liếc xéo tớ với vẻ nghi ngờ còn gì?
 
-May mà Yama-Jun đã đi guốc trong bụng cậu ta và kịp thời dập tắt ý nghĩ đó trước khi cậu ta kịp thốt ra lời nghi ngờ, giúp tôi tránh được một bàn thua trông thấy.
+May mà Yama-Jun đã đi guốc trong bụng cậu ta và kịp thời dập tắt ý nghĩ đó trước khi cậu ta kịp thốt ra lời nghi vấn, giúp tôi tránh được một bàn thua trông thấy.
 
 Yama-Jun không muốn khơi mào một cuộc cãi vã. Thế nên cậu ấy không dồn Souma vào chân tường đến mức không thể rút lui.
 
 Không làm tổn thương lòng tự trọng của một kẻ khờ khạo như Souma, nhưng vẫn khiến cậu ta tự nhận thức và cảnh giác trước áp lực từ dàn harem của mình. Đúng là một màn thuyết phục như đi trên dây.
 
-Cho tôi tiền tôi cũng không dám tham gia vào một cuộc thương lượng đau dạ dày như thế này. Ở cái học viện Hakurei này, chắc chỉ có mỗi Yama-Jun mới làm được điều đó.
+Cho tôi tiền tôi cũng không dám tham gia vào một cuộc thương lượng đau dạ dày như thế này. Ở cái học viện Tư lập Hakurei này, chắc chỉ có mỗi Yama-Jun mới làm được điều đó.
 
 “Nghe này Souma-kun, tớ muốn cậu hiểu rõ điều này. Để cả lớp có thể đồng lòng hướng tới lễ hội trường sắp tới, đây là điều cậu bắt buộc phải tự ý thức được. Sakura-san, Ayase-san, Kenzaki-san, ba người họ đặc biệt trở nên cực kỳ cảm tính khi có chuyện liên quan đến cậu. Tớ nghĩ dù là cậu đi chăng nữa, cũng không thể nói là mình hoàn toàn không biết gì về chuyện đó chứ?”
 
@@ -76,9 +76,9 @@ Quả nhiên, ngay cả Yama-Jun cũng nhận thấy Souma Sakura, Reina Adelhei
 
 “Đúng vậy, Souma-kun sẽ không nổi giận vì chuyện nhỏ nhặt đó, và cậu cũng thừa hiểu đó chỉ là lời nói đùa. Thế nhưng, các cậu ấy thì không nghĩ thế đâu. Tệ nhất là Momokawa-kun có bị Kenzaki-san đấm cho một trận cũng chẳng có gì lạ.”
 
-À phải rồi, nếu là Kenzaki thì cô ta dám làm thế thật. Một đứa thuộc tầng lớp đáy xã hội như tôi mà dám mở miệng xúc phạm đến vị thần Souma Yuuto của cô ta, đời nào con mụ đó chịu để yên.
+À phải rồi, nếu là Kenzaki thì cô ta dám làm thế thật. Một đứa thuộc tầng lớp đáy xã hội như tôi mà dám mở miệng xúc phạm đến vị thần Souma Yuuto của cô ta, đời nào con nhỏ đó chịu để yên.
 
-Có thể họ sẽ can ngăn trước khi xảy ra bạo lực nghiêm trọng, nhưng việc tôi bị cô ta túm cổ áo cảnh cáo là điều chắc chắn 100%.
+Có thể họ sẽ can ngăn trước khi xảy ra bạo lực nghiêm trọng, nhưng việc tôi bị cô ta túm cổ áo cảnh cáo là điều chắc chắn một trăm phần trăm.
 
 “Souma-kun, cậu không phủ nhận ngay lập tức nhỉ.”
 
@@ -112,7 +112,7 @@ Tôi chỉ biết há hốc mồm kinh ngạc trước tài ăn nói khéo léo 
 
 Khi tôi bày tỏ lòng biết ơn chân thành từ tận đáy lòng, Yama-Jun đỏ mặt ngượng ngùng rồi quay đi chỗ khác. Cậu việc gì phải xấu hổ thế, cứ tự tin ngẩng cao đầu lên chứ.
 
-Dám đứng ra dạy dỗ Souma đến mức này ở cái lớp 2-7 này, cậu đích thị là một vị anh hùng đích thực rồi. Hay là từ giờ cậu lên làm lớp trưởng nam luôn đi cho rồi?
+Dám đứng ra dạy dỗ Souma đến mức này ở cái Lớp 2-7 này, cậu đích thị là một vị anh hùng rồi. Hay là từ giờ cậu lên làm lớp trưởng nam luôn đi cho rồi?
 
 “Chà, tớ cứ tưởng Yama-Jun nổi giận thì sẽ đáng sợ lắm chứ, làm hú vía một phen!”
 
@@ -142,7 +142,7 @@ Cả Sakurai và Ooyama cũng tỏ ra ngạc nhiên trước thái độ cứng 
 
 “Họp hầu gái...?”
 
-Để tránh việc câu chuyện lại rẽ sang hướng phức tạp khác, tôi quyết định tuyên bố vào thẳng chủ đề chính để đánh trống lảng, khiến Souma ngơ ngác hỏi lại. Thì họp hầu gái chứ sao, có gì lạ đâu.
+Để tránh việc câu chuyện lại rẽ sang hướng phức tạp khác, tôi quyết định vào thẳng chủ đề chính để đánh trống lảng, khiến Souma ngơ ngác hỏi lại. Thì họp hầu gái chứ sao, có gì lạ đâu.
 
 “E hèm, để chúng ta chuẩn bị làm hầu gái, cả nhóm cần phải chọn ra gương mặt đại diện.”
 
@@ -152,7 +152,7 @@ Cả Sakurai và Ooyama cũng tỏ ra ngạc nhiên trước thái độ cứng 
 
 “Cái gì cơ...”
 
-Nhìn phản ứng của Hayama là đủ hiểu, cái gọi là “Chiến dịch tập trung vào gương mặt đại diện” mà tôi đề xuất với Lớp trưởng trong cuộc họp cán bộ hôm trước hoàn toàn không phải là ý kiến đồng thuận của cả đội hầu gái, mà chỉ là ý đồ cá nhân của tôi tại thời điểm đó mà thôi.
+Nhìn phản ứng của Hayama là đủ hiểu, cái gọi là “Chiến dịch tập trung vào gương mặt đại diện” mà tôi đề xuất với Lớp trưởng trong cuộc họp cán sự hôm trước hoàn toàn không phải là ý kiến đồng thuận của cả đội hầu gái, mà chỉ là ý đồ cá nhân của tôi tại thời điểm đó mà thôi.
 
 Thế nên bây giờ tôi mới đem ra bàn bạc công khai đây.
 
@@ -160,7 +160,7 @@ Thế nên bây giờ tôi mới đem ra bàn bạc công khai đây.
 
 “Phải đó, ai cũng hiểu là không thể may đo riêng trang phục cho tất cả mọi người được.”
 
-Yama-Jun và Souma lập tức tỏ ra đồng tình. Chuyện ngân sách hạn hẹp và giá váy hầu gái đắt đỏ thì lần họp trước chúng tôi cũng đã đá qua rồi.
+Yama-Jun và Souma lập tức tỏ ra đồng tình. Chuyện ngân sách hạn hẹp và giá váy hầu gái đắt đỏ thì lần họp trước chúng tôi cũng đã bàn qua rồi.
 
 “Thế nghĩa là bọn tớ không được mặc váy hầu gái à?”
 
@@ -204,7 +204,7 @@ Souma sau khi hiểu ra mọi chuyện chỉ biết buông lời thở dài cam 
 
 ◇◇◇
 
-Cuối cùng, ngoài việc chính thức chốt tôi và Souma làm gương mặt đại diện, cuộc họp hầu gái kết thúc trong tiếng cười đùa ồn ào của cả nhóm với đầu têu là Hayama.
+Cuối cùng, ngoài việc chính thức chốt tôi và Souma làm gương mặt đại diện, cuộc họp hầu gái kết thúc trong tiếng cười đùa ồn ào của cả nhóm với kẻ đầu têu là Hayama.
 
 Hôm nay xảy ra chuyện giờ nghỉ trưa khiến tôi khá mệt mỏi về mặt tinh thần, chỉ muốn nhanh chóng về nhà nghỉ ngơi, thế nhưng...
 

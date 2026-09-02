@@ -1,347 +1,347 @@
-# Tập 425: Kẻ Bất Hảo
+# Tập 427: Kẻ Bất Hảo
 
-“Được rồi, mọi người bắt tay vào việc của mình đi nào.”
+“Được rồi, các tổ mau chóng bắt tay vào phần việc của mình đi nào.”
 
-*Chậc, việc cái khỉ gì chứ, nhảm nhí thật sự...* — Dù trong lòng vô cùng chán ghét, nhưng cũng không thể cứ mặt dày ngồi lì một chỗ để tỏ thái độ chống đối, Yokomichi Hajime đành uể oải đứng dậy.
+*Chậc, việc với chả chõ, rặt một lũ dở hơi...* — Dù trong lòng chán ghét tột cùng, song cũng chẳng thể mặt dày ngồi lì một chỗ để giương mắt thách thức, Yokomichi Hajime đành uể oải nhấc người đứng dậy.
 
-Với những phát ngôn và tính cách của mình, cậu ta vốn là một học sinh cá biệt bị cả lớp coi như “quả bom nổ chậm”. Lẽ tất nhiên, Yokomichi không có cái tâm lý hào hứng muốn cùng mọi người tận hưởng lễ hội trường. Trong suy nghĩ của cậu ta, tình cảnh hiện tại cũng giống hệt như Momokawa năm ngoái: lũ bề trên tự ý quyết định rồi tự ý phấn khích với nhau, còn bản thân cậu ta chỉ là kẻ bị cuốn vào vòng xoáy đó một cách vô lý và bị đùn đẩy cho đống việc vặt vãnh.
+Với những phát ngôn quái gở cùng tính khí dị hợm, cậu ta vốn là nhân vật cá biệt bị cả lớp xem như “quả bom nổ chậm” cần tránh xa. Lẽ dĩ nhiên, Yokomichi chẳng đời nào có chút hào hứng muốn hòa mình cùng mọi người tận hưởng không khí lễ hội trường. Trong mớ suy nghĩ u tối của cậu ta, cảnh ngộ hiện tại chẳng khác nào thảm cảnh của Momokawa năm ngoái: lũ đầu sỏ tự ý quyết định rồi tự biên tự diễn sướng với nhau, còn bản thân cậu ta chỉ là nạn nhân vô cớ bị cuốn vào mớ bòng bong rồi phải è cổ gánh đống việc vặt vãnh.
 
-Tuy nhiên, nếu như ở lễ hội trường năm ngoái, Momokawa đã cùng Saitou cắn răng chịu đựng để hoàn thành toàn bộ việc dựng gian hàng vốn bị đổ hết trách nhiệm lên đầu, thì năm nay, Yokomichi của lớp 2-7 lại chẳng bị giao cho công việc gì to tát.
+Tuy nhiên, nếu như ở lễ hội năm ngoái, Momokawa đã cùng Saitou cắn răng chịu đựng để cáng đáng trọn gói việc dựng gian hàng vốn bị cả lớp đùn đẩy trách nhiệm, thì năm nay, Yokomichi của lớp 2-7 lại chẳng phải gánh vác bất kỳ việc gì đao to búa lớn.
 
-Đó là sự sắp xếp đầy khôn ngoan của Sugino, người đã cố tình giao cho cậu ta một công việc vô thưởng vô phạt để tránh gây ra sóng gió không đáng có.
+Đó là sự sắp xếp đầy tinh tế và khôn khéo của Sugino, người đã chủ ý giao cho cậu ta một chân việc vô thưởng vô phạt để tránh gây ra những làn sóng ngầm không đáng có.
 
-Chỉ tiếc là, người duy nhất không nhận ra điều đó lại chính là bản thân Yokomichi. Có lẽ trong lớp chỉ có một số rất ít học sinh như Ryouko, Momokawa và Yama-Jun là thực sự hiểu được Sugino đã phải tốn bao nhiêu tâm tư để phân chia công việc cho từng người, cũng như hiểu được những nỗ lực và thành quả của cậu ấy.
+Ngặt nỗi, kẻ duy nhất không nhận ra tấm thịnh tình đó lại chính là bản thân Yokomichi. Có lẽ khắp cả lớp chỉ có một vài nhân vật nhạy bén như Ryouko, Momokawa và Yama-Jun là thực sự thấu suốt Sugino đã phải vắt kiệt tâm tư nhường nào để cân đối công việc cho từng cá nhân, cũng như trân trọng những nỗ lực thầm lặng của cậu ấy.
 
-“Cậu Kousaka, bạn Hinagiku, việc ở lớp giao lại cho hai người nhé.”
+“Kousaka-kun, Hinagiku-san, công việc trong phòng học giao trọn lại cho hai người nhé.”
 
-“Ồ, rõ rồi!”
+“Ồ, cứ tin ở bọn tớ!”
 
 “Vâng.”
 
-“Có chuyện gì thì liên lạc ngay cho tớ.”
+“Có bất trắc gì thì liên lạc ngay cho tớ đấy.”
 
-Đội hậu cần được chia làm ba ngả. Ban nội thất làm việc trong lớp, ban tiểu cụ, và ban đại cụ phụ trách những công trình quy mô lớn ngoài trời.
+Đội hậu cần chia làm ba mũi giáp công. Ban nội thất thi công trong lớp, ban tiểu cụ chuyên lo đạo cụ chi tiết, và ban đại cụ phụ trách những công trình kết cấu đồ sộ ngoài trời.
 
-Sugino giao công việc trong lớp cho Kousaka Hiroki dẫn đầu ban nội thất và Hinagiku Haya dẫn đầu ban tiểu cụ (chủ yếu là nữ sinh), còn bản thân cậu thì dẫn dắt ban đại cụ di chuyển đến khu vực làm việc đã được đăng ký trước.
+Sugino tin tưởng phân công Kousaka Hiroki cầm đầu ban nội thất và Hinagiku Haya chỉ huy ban tiểu cụ (chủ yếu quy tụ các nữ sinh) quán xuyến công việc tại lớp, còn đích thân cậu dẫn dắt ban đại cụ di chuyển đến khu đất trống đã đăng ký trước ở sân trường.
 
-*Khốn kiếp, sao tao lại phải ở cùng một chỗ với lũ này chứ...*
+*Mẹ kiếp, sao tao lại phải đày đọa chôn chân cùng chỗ với lũ này chứ...*
 
-Vừa mới đến nơi, Yokomichi đã gào thét trong lòng những lời mà ngay cả việc thì thầm nhỏ tiếng cậu ta cũng không dám hé răng.
+Vừa đặt chân đến xưởng dã chiến, Yokomichi đã nghiến răng gào thét trong thâm tâm những lời độc địa mà đến cả gan thì thầm cậu ta cũng chẳng dám hé môi.
 
-Ánh mắt cậu ta găm chặt vào hai người đang đứng trước mặt Sugino.
+Ánh mắt hằn học của cậu ta găm chặt vào hai bóng người đang đứng sừng sững trước mặt Sugino.
 
-“Cảm ơn hai cậu đã đến giúp đỡ.”
+“Cảm ơn hai cậu đã bớt chút thời gian tới tiếp sức nhé.”
 
-“Hề hề, bị Sugino lườm cho một cái thì làm sao tớ dám trốn việc được chứ?”
+“Hề hề, ăn trọn cái lườm sắc lẹm của Sugino thì bố bảo tớ cũng chẳng dám chuồn việc!”
 
-Người đang nở nụ cười cợt nhả, lơ đãng kia là Higuchi Kyouya. Đối với Yokomichi, cậu ta chính là hiện thân của kiểu học sinh bất hảo mà cậu ta ghét cay ghét đắng nhất.
+Người đang nhăn nhở buông điệu cười cợt nhả, cà lơ phất phơ kia là Higuchi Kyouya. Đối với Yokomichi, gã này chính là hiện thân tiêu biểu của kiểu lưu manh du côn mà cậu ta căm ghét đến tận xương tủy.
 
-Thực ra hai người đã học chung lớp từ năm ngoái. Thỉnh thoảng Yokomichi lại bị Higuchi đối xử một cách thô lỗ, và điều đó vẫn không hề thay đổi khi lên năm hai. Ở lễ hội trường năm ngoái, trong khi Yokomichi phải còng lưng ra làm nô lệ cho lớp, thì Higuchi lại tỏ ra thờ ơ, lười biếng, dắt theo mấy đứa con gái ăn mặc lòe loẹt đi lượn lờ khắp nơi. Hành động ngứa mắt đó của Higuchi khiến Yokomichi nhớ rất rõ.
+Kỳ thực hai người đã học chung lớp từ năm ngoái. Higuchi thỉnh thoảng lại kiếm cớ gây sự bắt nạt Yokomichi, và thói bắt nạt ấy vẫn chứng nào tật nấy khi bước sang năm hai. Ở kỳ hội trường năm ngoái, trong khi Yokomichi phải còng lưng làm cửu vạn cho cả lớp, thì Higuchi lại vênh váo lười nhác, dắt díu mấy cô nàng ăn mặc hở hang lượn lờ khắp các dãy hành lang. Cái bản mặt ngứa đòn ấy của Higuchi in sâu như khắc vào tâm trí Yokomichi.
 
-Nhưng năm nay, nhìn thấy Higuchi ngoan ngoãn đến làm việc cho ban đại cụ, Yokomichi liền điên cuồng chửi rủa trong lòng rằng tên này chỉ là một kẻ hèn nhát, thấy đứa nào mạnh hơn là lập tức cụp đuôi nghe lời.
+Thế nhưng năm nay, trông thấy Higuchi ngoan ngoãn vác xác đến lao động cho ban đại cụ, Yokomichi liền điên cuồng rủa xả trong bụng rằng tên này chỉ là phường hèn hạ, thấy kẻ nào mạnh hơn là lập tức cụp đuôi phục tùng.
 
-“Dù sao thì làm ba cái việc mộc này vẫn đỡ hơn là phải ngồi nghe mấy tiết học chán ngắt.”
+“Dù sao thì gõ đục mấy khúc gỗ này vẫn dễ thở chán so với việc phải ngồi nghe mấy bài giảng ru ngủ trong lớp.”
 
-Và người còn lại, chính là tên học sinh cá biệt mạnh nhất, vượt xa cả Higuchi — Tendou Ryuuichi.
+Và nhân vật còn lại, chính là kẻ bất hảo khét tiếng bậc nhất trường, kẻ nắm giữ sức mạnh cơ bắp vượt xa cả Higuchi — Tendou Ryuuichi.
 
-Những lời đồn đại về việc cậu ta một mình quét sạch “Tứ đại thiên vương” của trường Trung học Đen, hay việc bị xe máy tông trúng mà vẫn bình an vô sự... dù là thật hay giả thì chúng vẫn lọt vào tai một kẻ gần như không có mối quan hệ bạn bè nào trong lớp như Yokomichi. Ban đầu cậu ta chỉ nghĩ *Làm gì có chuyện đó, có phải truyện tranh đánh nhau đâu*, nhưng khi lên năm hai lớp 7 và lần đầu tiên đối mặt trực tiếp với Tendou, cậu ta đã hoàn toàn bị áp đảo bởi bầu không khí đáng sợ tỏa ra từ cậu ta.
+Những giai thoại rùng rợn về việc một mình cậu ta càn quét san phẳng “Tứ đại thiên vương” của trường Kuroko, hay vụ va chạm nảy lửa với cả xe máy mà vẫn lành lặn nguyên vẹn đứng dậy phủi bụi áo... Dẫu thực hư lẫn lộn ra sao, chúng vẫn thừa sức lọt tới tai một kẻ hầu như chẳng có lấy nửa người bạn như Yokomichi. Ban đầu cậu ta chỉ bĩu môi nghĩ thầm *Làm quái gì có chuyện hoang đường ấy, có phải manga giang hồ đâu*, nhưng khi bước chân vào lớp 2-7 và lần đầu tiên chạm trán Tendou ngoài đời thực, bầu không khí hung hiểm toát ra từ cậu ta đã hoàn toàn đè bẹp nhuệ khí của Yokomichi.
 
-Tendou chẳng hề lườm nguýt hay làm gì cậu ta cả. Có lẽ cậu ta còn chẳng thèm bận tâm đến sự tồn tại của Yokomichi. Thế nhưng cảm giác của Yokomichi lúc đó chẳng khác nào một con linh dương Thomson may mắn phát hiện ra sư tử từ đằng xa trên thảo nguyên Savannah.
+Tendou chẳng thèm lườm nguýt hay đụng chạm một ngón tay vào cậu ta. Thậm chí có lẽ cậu ta còn chẳng buồn lưu lại chút ấn tượng nào về sự tồn tại của một kẻ như Yokomichi. Thế nhưng cảm giác rợn gáy của Yokomichi khi ấy chẳng khác nào một con linh dương yếu ớt vừa ngửi thấy mùi tử thần của chúa sơn lâm từ xa trên thảo nguyên rực lửa.
 
-Việc phải tự thừa nhận sự chênh lệch về đẳng cấp ngay từ cái nhìn đầu tiên trước một tên bất hảo mà mình hận thù để che giấu nỗi sợ hãi, và luôn khinh bỉ là rác rưởi của xã hội, đã chạm mạnh vào lòng tự ái cũng như mặc cảm tự ti của Yokomichi, cả trong vô thức lẫn ý thức.
+Việc buộc phải tự thừa nhận sự thua kém về đẳng cấp ngay từ cái nhìn đầu tiên trước một tên du côn mà mình căm thù để khỏa lấp nỗi sợ hãi tột cùng, đã giáng một đòn chí mạng vào lòng tự ái cùng nỗi mặc cảm tự ti bệnh hoạn của Yokomichi, cả trong tiềm thức lẫn ngoài mặt.
 
 “Chậc...”
 
-Rốt cuộc, những gì Yokomichi có thể làm lúc này chỉ là tặc lưỡi một cái thật khẽ, rồi răm rắp làm theo những chỉ thị được giao.
+Sau rốt, tất cả những gì Yokomichi có thể làm lúc này chỉ là nuốt nghẹn cục tức vào trong, khẽ tặc lưỡi một cái rồi răm rắp tuân theo chỉ đạo.
 
-Chỉ riêng việc có giám sát viên Sugino ở đây đã khiến cậu ta không thể lười biếng, huống chi cả Higuchi và Tendou cũng có mặt.
+Chỉ riêng sự hiện diện của giám sát viên Sugino đã đủ khiến cậu ta không dám dở trò trốn việc, huống chi bên cạnh còn có cả hai quả bom nổ chậm Higuchi và Tendou.
 
-Nhìn hai người họ làm việc một cách vô cùng khéo léo và trơn tru, còn bản thân thì vừa mới bắt đầu đã bị dao rọc giấy cứa vào tay, Yokomichi không thể ngăn nổi cơn bực bội và cảm giác thua kém đang trào dâng.
+Nhìn hai gã bất hảo thao tác dụng cụ thoăn thoắt, lành nghề một cách đáng ghét, trong khi bản thân vừa mó tay vào đã bị lưỡi dao rọc giấy cứa toét một đường vào ngón tay, ngọn lửa đố kỵ và cảm giác nhục nhã trong lòng Yokomichi lại càng bùng cháy dữ dội.
 
-*Khốn kiếp, lũ rác rưởi tụi mày bày đặt lên mặt cái gì chứ... Dù sao thì nếu có bị triệu hồi sang dị giới, tụi mày cũng chỉ là lũ tép riu bị tao trả thù rồi chết thảm thôi...*
+*Khốn nạn, lũ rác rưởi chúng mày bày đặt lên mặt dạy đời ai chứ... Đợi đấy, nếu một ngày cả cái lớp này bị triệu hồi sang dị giới, lũ chúng mày sẽ chỉ là đám tép riu nằm dưới chân tao van xin tha mạng trước khi bị tao nghiền nát thôi...*
 
-Vừa làm công việc không quen tay, cậu ta vừa đắm chìm vào ảo tưởng rằng cả lớp bị triệu hồi sang dị giới, và chỉ có một mình cậu ta nhận được năng lực gian lận rồi trở nên vô địch. Ít nhất thì cũng phải ở trong thế giới tưởng tượng, cậu ta mới có thể chịu đựng được thực tại khi bản thân là kẻ đứng đầu.
+Vừa vụng về cưa đục, cậu ta vừa thả hồn đắm chìm vào ảo tưởng điên rồ: cả lớp bị dịch chuyển đến thế giới fantasy, và duy nhất một mình cậu ta thức tỉnh kỹ năng gian lận vô song để trở thành bá chủ. Ít nhất thì chỉ khi trốn chạy vào cõi mộng tưởng ấy, cậu ta mới tìm thấy chút an ủi méo mó để chịu đựng thực tại tàn khốc nơi bản thân là một kẻ thất bại thảm hại.
 
-Và thế là, ngay khi cậu ta vừa tưởng tượng đến đoạn mình dùng kỹ năng gian lận 『Kẻ Nuốt Chửng Kỹ Năng』 cướp sạch kỹ năng của quái vật để có được mọi thuộc tính tấn công và kháng tính, tiếng chuông trường vang lên.
+Và rồi, ngay thời điểm cậu ta đang mải mê tưởng tượng đến cảnh dùng thiên phú 『Kẻ Nuốt Chửng Kỹ Năng』 tước đoạt toàn bộ năng lực của ma vật để sở hữu trọn vẹn mọi thuộc tính kháng đòn cùng sát thương tối thượng, hồi chuông trường giòn giã ngân vang.
 
-“Được rồi, nghỉ giải lao chút đi.”
+“Được rồi mọi người, tạm dừng tay nghỉ giải lao chút nào!”
 
-Tiếng chuông báo hiệu tiết học thứ hai vừa kết thúc. Sugino nghĩ rằng cứ cắm đầu vào làm việc cho đến tận trưa cũng không tốt, nên đã ra lệnh cho cả đội nghỉ ngơi vào thời điểm thích hợp. Ngay khi mọi người vừa đặt dụng cụ xuống và thả lỏng cơ thể, một giọng nói vang lên.
+Hồi chuông báo hiệu tiết học thứ hai vừa khép lại. Sugino hiểu rõ cắm đầu cắm cổ làm thục mạng tới trưa chỉ tổ phản tác dụng, nên đã chủ động phát lệnh xả hơi đúng lúc. Giữa khoảnh khắc mọi người vừa buông đồ nghề, thả lỏng gân cốt, một thanh âm trong trẻo chợt cất lên từ phía sau.
 
-“Mọi người vất vả rồi nhaaa~”
+“Mọi người vất vả quá rồiii nhaaa~”
 
-Một giọng nói vô cùng đáng yêu, vừa quen thuộc nhưng lại như lần đầu tiên được nghe thấy vang lên.
+Một giọng nói ngọt ngào êm ái, nghe vừa quen thuộc đến lạ kỳ nhưng lại ngỡ như lần đầu tiên được nghe thấy trong đời.
 
-*Chắc lại là mấy đứa con gái lẳng lơ đến để ve vãn tên đẹp trai thứ hai sau Souma Yuuto là Tendou chứ gì...* — Yokomichi vừa nghĩ thầm vừa quay đầu lại, và rồi...
+*Chắc lại mấy ả lẳng lơ mò tới để ve vãn thằng công tử đẹp trai Tendou chứ gì...* — Yokomichi hậm hực nghĩ thầm rồi quay ngoắt đầu lại, và rồi...
 
-“Chà chà, tớ cứ tưởng tiểu thư nhà ai ghé thăm chứ... Cậu thay đổi chóng mặt thật đấy, cậu Momokawa.”
+“Chà chà, tớ cứ ngỡ tiểu thư đài các phương nào hạ giá ghé thăm chứ... Cậu lột xác ngoạn mục thật đấy nhé, Momokawa-kun.”
 
-“Uống nước đi ạaa, chúc mọi người một ngày tốt lành.”
+“Mời quý khách dùng chút nước ạaa, kính chúc mọi người một ngày tràn đầy năng lượng.”
 
-Thiếu nữ xinh đẹp đang mỉm cười dịu dàng kia trông không khác gì một nàng tiểu thư khuê các bước ra từ những câu chuyện tình cảm.
+Thiếu nữ diễm lệ đang nở nụ cười dịu dàng tựa sương mai kia trông chẳng khác nào một nàng tiểu thư khuê các bước ra từ những trang tiểu thuyết ngôn tình lãng mạn.
 
-Cậu mặc một chiếc váy liền thân màu trắng tinh khôi, bên ngoài khoác chiếc tạp dề có viền bèo nhún đơn giản. Chính sự đơn giản đó lại càng làm nổi bật lên làn da trắng ngần như phát sáng và vóc dáng nhỏ nhắn, mong manh của cậu.
+Trên người khoác chiếc váy liền thân màu tuyết trắng muốt, bên ngoài khoác hờ chiếc tạp dề điểm xuyết những đường bèo nhún thanh tao. Chính sự giản dị mộc mạc ấy lại càng tôn lên làn da trắng nõn nà như phát sáng cùng vóc dáng mảnh mai, thanh thoát như cành liễu trước gió.
 
-Nhưng như Sugino đã nói ra đáp án, thân phận thực sự của người đó không ai khác ngoài Momokawa Kotarou. Nói cách khác, đó là một thằng con trai.
+Thế nhưng, như chính lời Sugino vừa phá vỡ ảo mộng, thân phận thực sự của mỹ nhân ấy không ai khác ngoài Momokawa Kotarou. Nói trắng ra, đó là một thằng đực rựa trăm phần trăm.
 
-“...”
+“......”
 
-Dù thừa biết điều đó, nhưng Yokomichi vẫn không thể rời mắt. Cậu ta hoàn toàn bị hớp hồn.
+Dẫu lý trí thấu suốt điều đó, song đôi mắt Yokomichi vẫn dán chặt không rời. Cậu ta hoàn toàn chết lặng, tâm trí bị hớp hồn lúc nào không hay.
 
-Dù trong đầu có điên cuồng gào thét bao nhiêu lần rằng *Nhưng nó là con trai*, cậu ta vẫn không thể chuyển dời ánh mắt đi nơi khác.
+Dù trong đầu có điên cuồng gào thét bao nhiêu bận rằng *Nó là con trai, nó là giống đực*, nhãn cầu cậu ta vẫn trơ tráo từ chối chuyển dời hướng nhìn sang chỗ khác.
 
-“Ê ê, đỉnh thật đấy, nhìn y như con gái thật luôn. Cỡ này là tớ duyệt được luôn đấy nhé.”
+“Ê này này, đỉnh của chóp luôn đấy, trông nuột nà chẳng khác gì gái xịn. Cỡ này là tớ duyệt cái rụp luôn nhé!”
 
-“Nếu bạn Randou đã ra tay nghiêm túc thì phải cỡ này chứ lị~ Ô kìa, cậu Higuchi, nếu cậu dám giở trò nghịch ngợm tốc váy là tớ sẽ báo cáo với cô bạn gái yêu dấu của cậu ngay đấy nhé.”
+“Một khi Randou-san đã đích thân ra tay thì phải đẳng cấp cỡ này chứ lị~ Ô kìa, Higuchi-kun, nếu cậu dám ngứa tay giở trò tốc váy là tớ lập tức mách tội với cô bạn gái yêu dấu của cậu ngay tắp lự đấy nhé.”
 
-“Hề hề, tớ đùa chút thôi mà. Này, nghiêm túc đấy, đừng có nói năng lung tung nhé, tuyệt đối không được nói đấy!”
+“Hề hề, trêu tí làm gì căng thế. Này, nói nghiêm túc đấy, đừng có bép xép lung tung nhé, tuyệt đối cấm tiệt đấy!”
 
-Cách cậu từ chối Higuchi — kẻ đang định giở trò trêu chọc theo thói quen — bằng một nụ cười như chú mèo Xiêm được nuôi trong biệt thự sang trọng, trông thật tao nhã làm sao.
+Cái cách cậu ta khéo léo gạt phăng tên quấy rối Higuchi bằng một nụ cười kiêu kỳ tựa nàng mèo quý tộc được cưng chiều trong dinh thự, sao mà thanh tao và quyến rũ đến nhường ấy.
 
-“Vậy thì, nàng hầu gái trưởng của chúng ta đến đây có việc gì thế?”
+“Vậy, nàng 『Maid Trưởng』 quyền uy cất công vi hành tới chốn này có chỉ thị gì chăng?”
 
-“Hửm, như mọi người thấy đấy, tớ mang đồ tiếp tế đến đây.”
+“Hì hì, như mọi người thấy đấy, tớ đem đồ tiếp tế đến bồi dưỡng cho ban đại cụ đây.”
 
-Trên chiếc khay tròn màu bạc mà Kotarou đang bê là một bình thủy tinh chứa đầy cà phê sữa và những chiếc cốc giấy chịu nhiệt. Bên cạnh đó là một chiếc đĩa lớn xếp đầy những chiếc bánh quy mới nướng được phủ một lớp giấy nến.
+Ngự trên chiếc khay tròn mạ bạc lấp lánh mà Kotarou đang nâng niu là một bình thủy tinh đầy ắp cà phê sữa bốc khói nghi ngút cùng xấp ly giấy chịu nhiệt. Đặt bên cạnh là chiếc đĩa sứ lớn chất đầy những chiếc bánh quy bơ vừa ra lò, được lót cẩn thận bằng một lớp giấy nến thơm phức.
 
-“Đây là thành quả luyện tập của đội nấu ăn đấy, mọi người cứ tự nhiên dùng nhé.”
+“Đây là thành phẩm tươi rói từ lò luyện của tổ ẩm thực, mọi người cứ tự nhiên thưởng thức nhé.”
 
-“Cảm ơn cậu. Đúng lúc tớ đang thèm chút đồ ngọt đây.”
+“Tuyệt vời quá, cảm ơn cậu nhiều. Vừa vặn lúc tớ đang tụt đường huyết thèm ngọt đây.”
 
-Sugino cười hào phóng, đón lấy chiếc đĩa lớn rồi cầm một chiếc bánh quy vẫn còn ấm đưa lên miệng ăn ngon lành.
+Sugino cười sảng khoái, đón lấy chiếc đĩa rồi nhón một chiếc bánh quy hãy còn ấm nóng bỏ tọt vào miệng nhai giòn rụm.
 
-Kotarou đặt chiếc khay lên chiếc quầy vừa mới thành hình, rồi bằng những động tác vô cùng uyển chuyển — thành quả của việc chăm chỉ luyện tập làm hầu gái mỗi ngày suốt tuần qua — cậu bắt đầu rót cà phê sữa cho từng người.
+Kotarou nhẹ nhàng đặt chiếc khay lên mặt quầy gỗ vừa mới đóng dở, rồi bằng những động tác uyển chuyển, thanh thoát — kết tinh từ chuỗi ngày miệt mài luyện tập tác phong hầu gái suốt cả tuần qua — cậu bắt đầu rót dòng sữa nâu ấm áp vào từng chiếc ly cho mọi người.
 
-“Ai cần thêm đường thì bảo tớ nhé~”
+“Ai hảo ngọt cần châm thêm đường thì cứ ới tớ nhé~”
 
-“Tớ uống không đường được rồi.”
+“Cho tớ một ly nguyên chất là được rồi.”
 
-“Cho tớ xin ít đường.”
+“Châm cho tớ chút đường với nào!”
 
-Lũ con trai trong ban đại cụ lục đục kéo đến vây quanh Kotarou.
+Đám con trai trong ban đại cụ lập tức nhốn nháo kéo ùa tới vây kín lấy Kotarou.
 
-Sau khi đưa cốc cho những người uống không đường trước, Kotarou xé một gói đường que, cầm chiếc que khuấy bằng nhựa lên và bắt đầu “niệm chú”.
+Sau khi trao tận tay ly cho những người uống đắng, Kotarou điệu đà xé gói đường que, cầm chiếc que khuấy bằng nhựa xoay tròn từng nhịp và bắt đầu màn “niệm chú” ma thuật.
 
-“Ngon lên nào~”
+“Biến thành ngọt ngào nào~ Moe moe kyun~”
 
-“N-Này Momokawa, cái đó...”
+“N-Này Momokawa, cái trò đó...”
 
-“Cậu có cả dịch vụ đó nữa hả! Ăn gian quá đấy!”
+“Cậu ém cả dịch vụ bùa chú đó nữa cơ á! Chơi ăn gian trắng trợn quá đấy!”
 
-Trước hành động ngoài dự kiến của Kotarou, Yamada ngớ người ra, còn Takashima — người đang húp cà phê sữa bên cạnh — thì lên tiếng cằn nhằn đầy ghen tị.
+Trước hành động ngoài kịch bản đầy tinh quái của Kotarou, Yamada đứng hình ngơ ngác, còn Takashima — kẻ đang kề miệng húp cà phê bên cạnh — thì ghen tị cằn nhằn ầm ĩ.
 
-Nhìn phản ứng của bộ đôi câu lạc bộ bóng chày lớp 2-7, Kotarou nở một nụ cười tinh quái.
+Chiêm ngưỡng vẻ mặt xao xuyến của bộ đôi câu lạc bộ bóng chày, Kotarou khẽ nhếch môi nở một nụ cười ma mãnh.
 
-“Vậy thì tiếp theo cho tớ xin ít đường đi!”
+“Thế thì ly tiếp theo nhớ cho tớ thêm đường niệm chú nhé!”
 
-“Từ cốc thứ hai là phải trả phí đấy nhé~”
+“Bắt đầu từ ly thứ hai là tính phí dịch vụ đấy nha quý khách~”
 
-“Lại còn lấy tiền nữa hả!?”
+“Ủa cái gì, thu cả tiền thật á!?”
 
-“Ba trăm yên.”
+“Ba trăm yên tròn trĩnh.”
 
-“Đắt hơn cả cà phê ở cửa hàng tiện lợi nữa!”
+“Cắt cổ còn đắt hơn cả cà phê siêu thị tiện lợi nữa trời!”
 
-Trong bầu không khí ồn ào náo nhiệt đó, lẽ dĩ nhiên là Yokomichi không thể chen chân vào.
+Giữa bầu không khí rộn rã tràn ngập tiếng cười đùa ấy, một kẻ như Yokomichi dĩ nhiên chẳng tài nào chen chân nổi nửa bước.
 
-Nếu cậu ta là kiểu người có thể chủ động bắt chuyện với người khác, thì đã không bị đối xử như thế này.
+Nếu cậu ta là mẫu người biết chủ động mở lời hòa nhập, thì đời nào đã rơi vào thảm cảnh bị người đời xa lánh đến nông nỗi này.
 
-Và trên hết, cũng chẳng có ai thèm bận tâm đến một kẻ như cậu ta. Chẳng có kẻ ngốc tốt bụng nào lại đi quan tâm đến một kẻ không bao giờ có ý định đáp lại lòng tốt hay sự thiện chí của người khác, đó cũng là lẽ thường tình.
+Và trên hết thảy, cũng chẳng một ai rỗi hơi bận tâm tới một kẻ lập dị như cậu ta. Chẳng có kẻ dại khờ nào lại đi ban phát lòng tốt cho một kẻ vĩnh viễn không bao giờ biết trân trọng hay đáp lại thiện chí của đồng loại, âu cũng là quy luật đào thải nghiệt ngã của cuộc đời.
 
-Đối với một kẻ như Yokomichi, việc không bị bắt nạt, cũng không bị cô lập hoàn toàn mà vẫn được sắp xếp để tham gia vào các hoạt động tập thể tối thiểu của lớp, đã là một sự ưu ái lớn rồi.
+Đối với một kẻ bên lề xã hội như Yokomichi, việc không ai bắt nạt, cũng chẳng bị cô lập đến mức cùng cực mà vẫn có một chân trong các hoạt động tập thể của lớp, đã là một ân huệ quá đỗi bao dung rồi.
 
-Thế nhưng ngay lúc này, không phải vì những tiêu chuẩn giá trị thường ngày như hợp hay không hợp tính, mà chỉ đơn giản là cậu ta cảm thấy người kia thật khó tiếp cận.
+Thế nhưng ngay trong khoảnh khắc này, gạt phăng mọi định kiến giai tầng hay tính khí thường nhật, lý do duy nhất khiến cậu ta chùn bước chỉ đơn giản là: con người trước mắt quá đỗi rực rỡ và xa vời vợi.
 
-Dù biết rõ đối phương là con trai, nhưng cậu ta vẫn không thể ngăn mình bị thu hút bởi vẻ đẹp của “cô gái” ấy, và cậu ta cảm thấy bản thân không đủ dũng khí để chủ động bước tới gần.
+Dù biết tỏng đối phương là giống đực, cậu ta vẫn không thể cưỡng lại sức hút từ dung mạo ma mị của “nàng hầu gái” ấy, và tự ti nhận ra bản thân chẳng đủ tư cách để bước tới gần làn hương đó.
 
-“— Này, phần của Yokomichi đây.”
+“Này, phần của Yokomichi đây nhé.”
 
-“Hớ!?”
+“Hớ...?!”
 
-Đang ngồi bó gối cúi gằm mặt xuống đất, Yokomichi giật nảy mình khi đột nhiên nghe thấy tiếng gọi bên tai và thốt lên một âm thanh ngớ ngẩn.
+Đang ngồi thu lu bó gối cúi gằm mặt nhìn mũi giày, Yokomichi giật bắn người khi tiếng gọi thanh thoát bất ngờ vang lên bên tai, khiến cậu ta vô thức bật ra một âm thanh ngớ ngẩn.
 
-Ngay trước mắt cậu ta là nàng hầu gái trưởng đang chìa ra một cốc cà phê sữa nóng hổi nghi ngút khói.
+Ngay trước tầm mắt cậu ta, nàng 『Maid Trưởng』 kiều diễm đang tươi cười chìa ra một ly cà phê sữa nóng hổi tỏa khói thơm lừng.
 
-“Có bỏ đường không cậu?”
+“Cậu có dùng thêm đường không?”
 
-“C-Có... bỏ.”
+“C... Có... Cho tớ xin.”
 
-“Ngon lên nào~”
+“Biến thành ngọt ngào nào~”
 
-Đối với bản thân Kotarou, có lẽ đây chỉ là một trò đùa vui vẻ để luyện tập tiếp khách mà thôi.
+Đối với bản thân Kotarou, đây có lẽ thuần túy chỉ là một trò đùa tinh nghịch nhằm luyện tập kỹ năng tiếp khách mà thôi.
 
-Thế nhưng, cái dáng vẻ khẽ cụp mi, chậm rãi dùng chiếc que khuấy đều cốc cà phê của cậu lại mang đến một cảm giác thanh khiết, tựa như một nữ tu đang thành kính dâng lời cầu nguyện trong một thánh đường xa xôi ở ngoại quốc.
+Thế nhưng, dáng vẻ hàng mi khẽ rủ xuống, đôi tay búp măng nhẹ nhàng khuấy đều ly nước của cậu lại toát lên một vẻ thanh khiết thoát tục, tựa như một thánh nữ đang thành tâm dâng lời nguyện cầu nơi giáo đường cổ kính xa xôi.
 
-“Không có đĩa riêng để đựng bánh quy đâu, cậu tự cầm lấy nhé.”
+“Ở đây không có sẵn đĩa con, cậu chịu khó cầm tạm bằng tay nhé.”
 
-Và rồi, những chiếc bánh quy được cậu tùy ý bốc từ chiếc đĩa lớn đặt vào lòng bàn tay Yokomichi, liệu có phải là thánh thể? Những chiếc bánh quy hơi cháy cạnh được trao cho cậu ta bỗng trở nên vô cùng cao quý.
+Và rồi, những chiếc bánh quy được cậu tiện tay bốc từ đĩa lớn đặt ghé vào lòng bàn tay chai sạn của Yokomichi, liệu có phải là thánh thể ban phước? Mấy mẩu bánh hơi sém cạnh được trao đi bỗng chốc trở nên cao quý và thiêng liêng đến lạ kỳ.
 
-Một cốc cà phê sữa và bốn chiếc bánh quy. Đó là tất cả những gì Yokomichi được nhận.
+Một ly cà phê sữa ngạt ngào và bốn mẩu bánh quy. Đó là tất cả những gì Yokomichi đón nhận.
 
-Yokomichi chỉ nhận ra người kia đã phát xong đồ tiếp tế khi cậu quay gót bước đi, tà váy liền thân khẽ tung bay, mang theo một làn hương thơm dịu dàng, thoang thoảng xộc thẳng vào mũi cậu ta.
+Cậu ta chỉ sực tỉnh khi bóng hình ấy đã xoay gót toan bước đi, tà váy xòe bồng bềnh khẽ lay động trong gió, mang theo một làn hương thơm dịu nhẹ, thanh khiết xộc thẳng vào khứu giác tê dại của cậu ta.
 
-“M-Momokawa!”
+“M-Momokawa...!”
 
 “Hửm?”
 
-Cú quay đầu lại của cậu đẹp tựa như một bức tranh “Mỹ nhân ngoảnh đầu”. Dù đã gọi giật giọng đối phương lại, nhưng Yokomichi bỗng chốc á khẩu, không biết phải nói gì tiếp theo.
+Cú ngoảnh đầu lại của cậu đẹp tựa như tuyệt tác tranh sơn dầu “Mỹ nhân ngoái nhìn”. Dù đã lỡ buột miệng gọi giật giọng người ta lại, song cổ họng Yokomichi bỗng nghẹn đắng, lúng túng chẳng biết phải thốt ra lời gì tiếp theo.
 
-“À, ừm...”
+“À... ừm...”
 
-Giọng cậu ta nghẹn lại.
+Âm thanh nghẹn ứ nơi cuống họng.
 
-Thế nhưng, cậu ta nghĩ mình phải nói ra điều đó. Đó là một cảm xúc giống như sứ mệnh mà bản thân Yokomichi đã từ lâu lãng quên.
+Thế nhưng, một thôi thúc mãnh liệt mách bảo cậu ta nhất định phải thốt ra điều đó. Một cảm xúc tựa như sứ mệnh thiêng liêng mà bản thân Yokomichi đã vùi lấp dưới lớp bụi thời gian từ quá lâu rồi.
 
-“C... Cảm ơn cậu...”
+“C... Cảm ơn cậu nhiều...”
 
-Đã bao nhiêu năm rồi cậu ta chưa mở miệng nói lời cảm ơn với ai đó?
+Đã bao nhiêu năm tháng trôi qua kể từ lần cuối cùng cậu ta mở miệng nói lời cảm ơn với một đồng loại?
 
-Bao lâu nay, mỗi khi mở miệng nói chuyện với người khác, cậu ta chỉ biết nói những lời khách sáo hoặc cằn nhằn, chửi bới. Từ lúc nào mà cậu ta không thể trò chuyện nếu không hạ thấp hay gièm pha một ai đó?
+Suốt ngần ấy năm trời, hễ mở miệng là cậu ta chỉ biết phun ra những lời mỉa mai cay nghiệt hoặc chửi đổng bất mãn. Từ thuở nào mà cậu ta đã đánh mất khả năng giao tiếp nếu không hạ bệ hay gièm pha người khác?
 
-Xuất phát từ bản tính vặn vẹo và mặc cảm tự ti u uất, lời cảm ơn sau một thời gian dài mới thốt ra của cậu ta trông thật vụng về và khó coi làm sao.
+Bắt nguồn từ bản tính méo mó cùng nỗi tự ti thâm căn cố đế, lời tri ân ngượng ngùng sau bao năm chôn giấu thốt ra nghe sao mà vụng về, thô kệch đến tội nghiệp.
 
-Nhưng Kotarou chỉ mỉm cười trước điều đó.
+Thế nhưng, Kotarou chỉ dịu dàng mỉm cười trước điều đó.
 
-“Tớ khuyến mãi cho cậu một nụ cười miễn phí nhé.”
+“Tớ khuyến mãi thêm cho cậu một nụ cười miễn phí nhé.”
 
-Một nụ cười rạng rỡ như một đóa hoa lớn đang nở rộ.
+Một nụ cười rạng rỡ bừng sáng tựa như đóa hoa hướng dương bung nở giữa trời đông.
 
-Nhìn theo bóng lưng cậu nhanh nhẹn rời đi, Yokomichi khẽ húp một ngụm cà phê sữa từ chiếc cốc giấy, cảm nhận một giọt nước mắt ấm nóng đang chực trào ra mà không rõ lý do.
+Dõi theo bóng lưng mảnh mai thoăn thoắt rời đi, Yokomichi run rẩy nâng ly cà phê lên húp một ngụm ấm nồng, bàng hoàng nhận ra nơi khóe mi mình một giọt nước mắt nóng hổi đang chực trào rơi xuống mà không sao ngăn lại được.
 
-Không hề hay biết về những biến động cảm xúc của Yokomichi, Kotarou tiến về phía kẻ ngoài lề cuối cùng đang ngồi một góc.
+Hoàn toàn mù tịt về những cơn sóng ngầm đang cuộn trào trong tâm hồn Yokomichi, Kotarou thong thả sải bước tiến về phía nhân vật ngoài lề cuối cùng đang thu mình nơi góc xưởng.
 
-“Cậu Tendou cũng làm một cốc chứ?”
+“Tendou-kun cũng làm một ly cho ấm bụng chứ?”
 
 “À, cảm ơn mày.”
 
-Kotarou đi đến chỗ Ryuuichi, người đang ngồi bệ vệ ở một góc xưởng làm việc và thản nhiên rít một hơi thuốc.
+Kotarou bước tới cạnh Ryuuichi, người đang ngồi vắt chân bệ vệ trên một kiện gỗ, thản nhiên rít một hơi thuốc lá thơm nồng.
 
-“Có bỏ đường không?”
+“Có cần thêm chút đường không?”
 
-“Tao đang hút thuốc, ngọt quá nuốt không trôi đâu.”
+“Tao đang phì phèo thuốc, ngọt quá nuốt không trôi.”
 
-“Vậy là uống đen đá hả?”
+“Vậy là gu cà phê đen đá đậm đặc hả?”
 
-“Kiểu vậy.”
+“Đại loại thế.”
 
-“Oa, đúng như tớ tưởng tượng luôn.”
+“Oa, chuẩn y xì đúc như những gì tớ tưởng tượng luôn.”
 
 “Thế còn mày thì sao?”
 
-“Tớ cực kỳ thích sữa cà phê luôn~”
+“Tớ cực kỳ chuộng món cà phê sữa béo ngậy ngọt ngào luôn nha~”
 
-“Cũng đúng như tao tưởng tượng đấy.”
+“Cũng đúng y như tao mường tượng về mày đấy.”
 
-Đây gần như là lần đầu tiên hai người trò chuyện với nhau, nhưng nhờ có hiệu ứng trang phục nữ và danh nghĩa hầu gái trưởng, Kotarou có thể thoải mái trò chuyện với Ryuuichi mà không hề e ngại. Nếu là bình thường, chắc chắn cậu sẽ không dám hé răng nửa lời trước một Tendou luôn tỏa ra áp lực đáng sợ vượt tuổi học sinh.
+Đây gần như là lần đầu tiên hai người trực tiếp đối thoại mặt đối mặt, song nhờ vào hiệu ứng ma thuật của bộ xiêm y thiếu nữ cùng danh phận 『Maid Trưởng』, Kotarou có thể chuyện trò thoải mái với Ryuuichi mà chẳng mảy may e dè. Chứ đặt vào ngày thường, bảo đảm cậu sẽ chẳng dám bén mảng lại gần một Tendou luôn tỏa ra khí trường hung bạo vượt xa tầm vóc của một học sinh trung học.
 
-Khi Kotarou vừa pha xong cà phê sữa và chìa cốc ra, điếu thuốc trên tay Tendou đã biến mất từ lúc nào.
+Khi Kotarou vừa châm xong ly cà phê đưa sang, đốm lửa trên điếu thuốc của Tendou đã biến mất từ thuở nào.
 
-Rõ ràng cậu ta mới chỉ vừa châm thuốc chưa được bao lâu, nhưng nhìn việc điếu thuốc đã biến mất, có vẻ như cậu ta không muốn để làn khói thuốc bay gần vào người Kotarou trong bộ dạng hiện tại.
+Rõ ràng cậu ta chỉ vừa mới châm thuốc chưa được nửa phút, nhưng nhìn hành động dập thuốc dứt khoát ấy, có vẻ như cậu ta không nỡ để làn khói thuốc độc hại bay tạt vào người Kotarou trong bộ dạng mong manh này.
 
-Nhận ra sự quan tâm ngầm đầy tinh tế của tên học sinh cá biệt mạnh nhất lớp, Kotarou không hề cảm thấy rung động hay gì cả, mà chỉ thầm đánh giá cao: *Hóa ra cậu ta cũng biết để ý đến mấy chi tiết nhỏ nhặt đấy chứ*.
+Nhận ra sự tinh tế và ga-lăng ngầm của gã đầu gấu mạnh nhất trường, Kotarou chẳng hề rung động hay xao xuyến gì cả, mà chỉ thầm gật gù đánh giá cao: *Hóa ra gã này cũng có óc quan sát tinh tế phết đấy chứ*.
 
-Và rồi cậu thầm nghĩ, nếu cậu ta thực sự chỉ là một tên côn đồ thô lỗ, thì làm sao có thể giữ mối quan hệ tốt đẹp với hai anh em nhà Souma được.
+Và rồi cậu chợt nghiệm ra, nếu tên này thực sự chỉ là một tên côn đồ não ngắn thuần túy cơ bắp, thì làm sao có thể giữ vững mối thâm giao keo sơn với hai anh em nhà Souma suốt bao năm qua được.
 
-“Thế nào? Cho tớ xin chút cảm nhận đi.”
+“Thấy thế nào? Cho tớ xin chút feedback chân thực đi.”
 
-“Thì, chắc là ngon đấy.”
+“Thì... chắc là ngon đấy.”
 
-“Không, tớ đang hỏi về tớ cơ.”
+“Không hề, tớ đang hỏi về diện mạo của tớ cơ mà.”
 
-“Nhìn tự nhiên đến mức đáng sợ đấy.”
+“Nhìn tự nhiên đến mức rợn cả người đấy.”
 
-Đó không chỉ đơn thuần là việc giả gái trông có hợp hay không.
+Đó không đơn thuần là lời nhận xét xem giả gái trông có hợp mắt hay không.
 
-Bản thân Ryuuichi tuy chỉ tự học võ thuật đường phố, nhưng từ nhỏ đã được chứng kiến những chuyển động võ thuật vô cùng tinh tế của Souma Yuuto. Nhãn quang quan sát nhạy bén của cậu ta đã nhận ra rằng Kotarou không chỉ đơn thuần là khoác lên mình bộ đồ con gái, mà từng bước đi, từng cử chỉ bưng bê phục vụ của cậu đều mang những nét chuyển động vô cùng nữ tính.
+Bản thân Ryuuichi dẫu chỉ là kẻ tự mày mò võ thuật đường phố, nhưng từ tấm bé đã được tận mắt chứng kiến những chuyển động quyền cước đạt tới cảnh giới tuyệt mỹ của Souma Yuuto. Cặp mắt sắc sảo của loài thú săn mồi đã giúp cậu ta lập tức nhìn thấu rằng Kotarou không chỉ đơn thuần là tròng bộ váy lên người, mà từng bước chân, từng động tác bưng bê cúi chào của cậu đều toát ra vẻ uyển chuyển, mềm mại đậm đặc nữ tính.
 
-Có lẽ lũ con trai trong lớp chỉ bị hớp hồn bởi vẻ ngoài giả gái quá đỗi xinh đẹp của cậu, chứ không hề nhận ra cái bẫy tạo nên sức hút kỳ lạ đó. Người có thể ngay lập tức nhận ra cội nguồn của sức hấp dẫn đó chính là những cử chỉ hầu gái được Kotarou cố tình diễn xuất, ngoài Ryuuichi ra, chắc chỉ có anh em nhà Souma và Kenzaki — những người có hiểu biết về võ thuật.
+Có lẽ đám con trai ngờ nghệch trong lớp chỉ bị hớp hồn bởi vẻ ngoài lộng lẫy như thiên thần của cậu, chứ tuyệt đối không nhận ra cạm bẫy tinh vi ẩn sau sức hút kỳ lạ đó. Kẻ có thể lập tức phát giác ra cội nguồn ma mị ấy bắt nguồn từ những cử chỉ hầu gái được Kotarou khổ luyện và cố tình dàn dựng, ngoài Ryuuichi ra, chắc chỉ có anh em nhà Souma và Kenzaki — những cao thủ thực thụ có nền tảng võ học thâm sâu.
 
-“Hì hì, dễ thương thế này thì mới đáng công bảo vệ chứ đúng không?”
+“Hì hì, dễ thương đến nhường này thì mới bõ công các đấng nam nhi bảo vệ chứ, đúng không nè?”
 
-“Đừng có tự tiện biến tao thành vệ sĩ của mày.”
+“Bớt xàm đi, đừng có tự tiện biến tao thành vệ sĩ riêng của mày.”
 
-“Cậu Tendou có hai lựa chọn: một là làm bảo vệ mặc đồ đen, hai là bưng bê đồ ăn đến lớp. Cậu chọn cái nào? Gợi ý của tớ là làm bảo vệ mặc đồ đen, chỉ cần đứng im một chỗ là được.”
+“Tendou-kun có hai sự lựa chọn: một là gia nhập đội 『Hắc phục』 bảo kê lớp, hai là tròng váy bưng bê đồ ăn tiếp khách. Cậu chọn phương án nào? Lời khuyên chân thành của tớ là chân bảo kê 『Hắc phục』, chỉ việc đứng khoanh tay làm mặt ngầu là xong việc.”
 
-“Biết rồi, biết rồi, tao làm là được chứ gì. Mà chắc mày cũng nghe Ryouko nói rồi đúng không?”
+“Biết rồi, biết rồi, tao nhận lời làm là được chứ gì. Mà chắc mày cũng nghe Ryouko phổ biến rồi đúng không?”
 
 “Thì thế.”
 
-*“Vì cậu gây sự đánh nhau nên lũ ngu trường Trung học Đen có thể sẽ kéo đến gây sự đấy”* — có thể thẳng thắn nói ra những lời vô cùng khó nghe như vậy, quả không hổ danh là Lớp trưởng. Khi nghe tin cô ấy đã nhanh chóng thuyết phục được Ryuuichi nhận vai trò bảo vệ mặc đồ đen, Kotarou đã thực sự nghĩ như vậy từ tận đáy lòng.
+*“Chính vì cái thói thích gây gổ của cậu nên lũ óc bã đậu trường Kuroko mới chực chờ mò tới trả thù đấy”* — dám dõng dạc tạt thẳng vào mặt kẻ nguy hiểm nhất trường những lời lẽ chát chúa nhường ấy, quả không hổ danh là Lớp trưởng uy quyền. Khi hay tin cô ấy đã chốt hạ thuyết phục được Ryuuichi gật đầu nhận chân 『Hắc phục』 chỉ sau một nốt nhạc, Kotarou đã thực sự ngả mũ bái phục cô bạn từ tận đáy lòng.
 
-Nhưng ngay cả khi không có sự dàn xếp đó, Kotarou tin chắc sau khi trò chuyện trực tiếp rằng Ryuuichi vẫn sẽ âm thầm bảo vệ lớp học. Và chắc chắn, chính những điểm đó đã tạo nên sức hút của cậu ta, điều mà Yuuto và Lớp trưởng đều đã nhận ra.
+Nhưng ngay cả khi thiếu vắng màn dàn xếp ngoại giao ấy, sau khi trực tiếp trò chuyện, Kotarou tin chắc rằng Ryuuichi vẫn sẽ âm thầm đứng ra che chắn cho lớp học khi có biến. Và chắc chắn, chính nét trượng nghĩa ngầm ấy đã tạo nên sức hút khó cưỡng của cậu ta, điều mà cả Yuuto lẫn Lớp trưởng đều đã nhìn thấu từ lâu.
 
-“Đến lúc quyết định, trông cậy vào cậu nhé.”
+“Tới giờ G, trăm sự nhờ cậy cả vào cậu đấy nhé.”
 
 “Ừ.”
 
-“Nếu cậu cho tớ thấy dáng vẻ ngầu lòi của cậu, biết đâu tớ sẽ thưởng cho cậu dịch vụ đặc biệt đấy~”
+“Nếu cậu thể hiện được phong độ ngầu lòi bảo vệ gian hàng, biết đâu chừng tớ sẽ thưởng nóng cho một vé phục vụ đặc biệt đấy nhé~”
 
-Nói rồi, Kotarou khẽ vén tà váy liền thân lên, để lộ ra cặp đùi trắng ngần, thon thả sát tận gốc đùi. Ryuuichi lập tức nhăn mặt như thể vừa bị một cơn đau đầu đột ngột tấn công.
+Dứt lời, Kotarou khẽ vén nhẹ tà váy dài lên, để lộ ra cặp đùi trắng muốt nõn nà thon thả tới tận gốc đùi. Ryuuichi tức thì nhăn nhó mặt mày như thể vừa bị cơn đau nửa đầu hành hạ.
 
-“Mày ấy, trong bộ dạng hiện tại thì dù có là đùa cũng đừng có làm mấy trò đó.”
+“Mày ấy, trong cái bộ dạng ma quỷ này thì dù có là đùa giỡn cũng cấm tiệt mấy cái trò khiêu khích đó nghe chưa.”
 
-“Tại sao chứ?”
+“Ủa, sao lại cấm chứ?”
 
-Nhìn khuôn mặt ngơ ngác như thực sự không hiểu của Kotarou — kẻ vốn có cái đầu vô cùng nhạy bén và ranh ma — Ryuuichi chỉ biết thở dài ngao ngán.
+Nhìn vẻ mặt ngơ ngác ngây thơ như thể thực sự chẳng hiểu mô tê gì của Kotarou — kẻ vốn sở hữu bộ óc cáo già ranh ma bậc nhất — Ryuuichi chỉ biết ôm trán thở dài bất lực.
 
-“Sơ sẩy một cái là làm lệch lạc xu hướng tính dục của người khác đấy.”
+“Sơ sẩy một cái là bẻ cong xu hướng tính dục của người ta như chơi đấy thằng quỷ.”
 
-“Á ha ha, làm gì có chuyện vô lý thế chứ. Dù sao tớ cũng chỉ là một thằng giả gái thôi mà. Con trai làm sao mà thắng nổi sức hấp dẫn của một cơ thể con gái thực thụ được.”
+“Á ha ha, làm quái gì có chuyện hoang đường thế được! Dù sao tớ cũng chỉ là một thằng đực rựa giả gái thôi mà. Đàn ông con trai đời nào lại thắng nổi sức quyến rũ chết người của một cơ thể phụ nữ bằng xương bằng thịt chứ.”
 
-“Thì với một đứa cuồng ngực bự chính hiệu như mày thì đúng là thế thật.”
+“Thì với một thằng bệnh hoạn cuồng ngực bự chính hiệu như mày thì đúng là thế thật.”
 
-“Khoan đã, sao cậu lại biết chuyện đó? Nguồn tin từ đâu thế? Này, nguồn tin từ đâu ra vậy hả?”
+“Khoan đã nào, sao cậu lại nắm thấu bí mật thầm kín đó?! Nguồn tin từ đâu rò rỉ ra thế hả?! Này, ai mật báo cho cậu biết vậy hả?!”
 
-Trước một Kotarou đột nhiên nghiêm mặt và dấn tới hỏi dồn dập, Ryuuichi vừa bảo “Mày cũng thôi cái trò đó đi” vừa lấp liếm nguồn tin một cách đại khái.
+Trước một Kotarou đột nhiên biến sắc nghiêm nghị rồi sấn tới tra khảo dồn dập, Ryuuichi chỉ gạt tay xua đuổi “Mày dẹp cái trò tra vấn đó đi” rồi lấp liếm qua chuyện khác.
 
-Tuy nhiên, những gì cậu ta nói là hoàn toàn chính xác.
+Dẫu vậy, từng lời gã thốt ra đều trúng tim đen không trượt phát nào.
 
-Việc thích những cô nàng ngực khủng, đầy đặn như Kotarou có thể coi là một sự sùng bái mãnh liệt đối với cơ thể phụ nữ, một thứ chỉ có thể tồn tại ở vóc dáng của phái nữ.
+Cái thú đam mê những đường cong phồn thực đẫy đà như Kotarou chính là sự tôn sùng tuyệt đối trước cơ thể giống cái, một kỳ quan tạo hóa độc quyền chỉ tồn tại ở phái nữ.
 
-Không có người đàn ông nào ghét ngực cả — nhưng trên hết, số người coi trọng khuôn mặt vẫn chiếm đa số.
+Trên đời này làm gì có gã đàn ông đích thực nào lại ghét bỏ vòng một đẫy đà — nhưng xét tới cùng, số kẻ coi trọng gương mặt xinh đẹp vẫn chiếm thế thượng phong áp đảo.
 
-Nếu làm một cuộc khảo sát trung thực không chút dối trá về những gì đàn ông tìm kiếm ở phụ nữ, thì “khuôn mặt” chắc chắn sẽ giữ vững vị trí số một không thể lay chuyển. Tất nhiên, với Kotarou thì vị trí số một là “ngực”, số hai là “mông”, và số ba là “đùi”.
+Nếu tổ chức một cuộc khảo sát bỏ phiếu kín trung thực nhất về tiêu chí chọn bạn đời của phái mạnh, thì “gương mặt” chắc chắn sẽ ngự trị vững chắc ở ngôi vương không gì lay chuyển nổi. Dĩ nhiên, với riêng Kotarou thì bảng xếp hạng bất di bất dịch luôn là: số một “ngực”, số hai “mông”, và số ba là “đùi non”.
 
-“Tớ bị lộ sạch xu hướng tính dục thế này thì đúng là nỗi nhục nhã ê chề mà. Để đền bù, cậu Tendou cũng phải khai báo xu hướng tính dục của mình đi chứ.”
+“Sở thích thầm kín bị lột trần trần trụi thế này thì đúng là quốc nhục ê chề mà. Để bù đắp tổn thất tinh thần, Tendou-kun cũng phải thành khẩn khai báo gu phụ nữ của mình đi chứ!”
 
-“Nghe này Momokawa, hãy tránh xa mấy đứa con gái chỉ được mỗi cái mặt đẹp với dáng chuẩn ra.”
+“Nghe cho kỹ đây Momokawa, tốt nhất là mày nên tránh thật xa mấy đứa con gái chỉ có mỗi cái mã đẹp với ba vòng bốc lửa ra.”
 
-“Ý cậu là phải là một người phụ nữ chín chắn, nghiêm túc như Lớp trưởng mới được hả?”
+“Ý cậu là phải kiếm một người phụ nữ chín chắn, nghiêm nghị chuẩn mực như Lớp trưởng mới là chân ái hả?”
 
-“Tóm lại là, khuôn mặt hiện tại của mày có sức sát thương cỡ đó đấy. Nếu xuất hiện mấy thằng ngu hiểu lầm tai hại thì phiền phức lắm.”
+“Tóm lại là, cái bản mặt giả gái hiện tại của mày sở hữu lực sát thương cực kỳ nguy hiểm. Để xuất hiện mấy thằng dở hơi hiểu lầm rồi sinh chuyện thì rước họa vào thân.”
 
-“Chỉ có mỗi cậu Tendou là lo lắng cho tớ như vậy thôi đấy.”
+“Chỉ có mỗi Tendou-kun là thật lòng lo lắng cho an nguy của tớ đến thế thôi đấy nhé.”
 
-Kotarou khẽ ngước nhìn Ryuuichi bằng ánh mắt nũng nịu đầy tính toán, như muốn nói “Cậu thật dịu dàng, thật tuyệt vời”. Ryuuichi liền lườm cậu một cái cháy mặt.
+Kotarou khẽ chớp chớp mắt ngước nhìn Ryuuichi bằng ánh mắt nũng nịu đầy toan tính, như muốn rót mật vào tai: “Cậu thật dịu dàng, thật tuyệt vời làm sao”. Tendou tức thì lườm cậu một phát cháy da mặt.
 
-“Thế nên tao mới bảo mày thôi ngay cái trò đó đi. Hãy tự ý thức rằng bây giờ mày là Momoko đi.”
+“Thế nên tao mới bảo mày dẹp ngay cái điệu bộ õng ẹo đó đi. Hãy tự giác ý thức rằng ngay lúc này mày là 『Momoko』 giùm cái.”
 
-“Momoko á... Nghe đơn giản quá đi mất, phụt, ha ha.”
+“『Momoko』 á... Nghe sến sẩm quê mùa quá đi mất, phụt, ha ha ha!”
 
-“Im đi.”
+“Câm họng ngay.”
 
-“Vâng~ Momoko xin phép giữ im lặng ạ~”
+“Tuân lệnh~ Em 『Momoko』 xin phép câm nín liền ạ~”
 
-Trước thái độ cợt nhả, đắc ý của Kotarou, Ryuuichi khẽ thở dài một tiếng như thể không thể chịu đựng thêm được nữa, rồi đưa tay với lấy chiếc bánh quy mà ban đầu cậu ta vốn không có ý định ăn. Đó cũng là khoảnh khắc cậu ta hiểu được ý nghĩa của câu nói: vì cai thuốc lá nên miệng thấy trống trải, đành phải ăn vặt để khỏa lấp.
+Chứng kiến thái độ cợt nhả đắc thắng của Kotarou, Ryuuichi thở dài sườn sượt như thể đã cạn kiệt kiên nhẫn, đoạn đưa tay với lấy chiếc bánh quy bơ mà ban đầu vốn chẳng hề có ý định đụng vào. Đó cũng là khoảnh khắc gã ngộ ra chân lý: những kẻ cai thuốc lá vì thấy mồm miệng nhạt nhẽo trống trải nên buộc phải ăn vặt để khỏa lấp.
 
-“Này, cậu nghĩ tớ có nên đặt một nghệ danh không?”
+“Này, cậu có nghĩ tớ nên đặt một nghệ danh kêu như chuông không?”
 
-“Thế thì nghe giống hầu gái hơn đấy chứ.”
+“Thế thì nghe mới giống tác phong hầu gái chuyên nghiệp chứ.”
 
-“Vậy nghệ danh của cậu Souma nên là gì đây?”
+“Vậy nghệ danh cho Souma-kun nên là gì đây ta?”
 
-“Sakurako.”
+“『Sakurako』.”
 
-“Quyết định thế nhé.”
+“Chốt đơn, quyết định thế nhé!”
 
-Nếu đó là cái tên do chính người bạn thân nhất đặt cho, chắc chắn cậu ta sẽ không thể từ chối.
+Một khi cái tên ấy được đích thân thằng bạn thân chí cốt đặt cho, dám chắc Souma-kun có mọc cánh cũng chẳng từ chối nổi.
 
-“Vậy còn Lớp trưởng thì sao?”
+“Vậy còn nghệ danh của Lớp trưởng thì sao?”
 
-“Kính cận quỷ súc.”
+“『Kính Cận Quỷ Súc』.”
 
-“... Tớ sẽ coi như vừa rồi mình chưa nghe thấy gì nhé.”
+“...Tớ sẽ tự động xóa sạch cuộn băng ký ức coi như vừa rồi mình chưa nghe thấy gì nhé.”
 
-“Cứ làm thế đi.”
+“Liệu hồn mà làm thế đi.”
 
-Kotarou trò chuyện rôm rả với Ryuuichi một cách vô cùng tự nhiên — thế nhưng, ngay cả một người nhạy bén như Ryuuichi cũng không thể nhận ra rằng, từ đằng xa, có một nam sinh với ánh mắt đã hoàn toàn bị vặn vẹo đang đăm đăm dõi theo bóng dáng của hai người bọn họ.
+Kotarou rôm rả bông đùa với Ryuuichi một cách vô cùng tự nhiên và thân thiết — thế nhưng, ngay cả một dã thú nhạy bén như Ryuuichi cũng chẳng thể nào phát giác ra được rằng, từ tít đằng xa, một nam sinh với cặp mắt đã hoàn toàn vặn vẹo méo mó đang âm thầm găm chặt ánh nhìn quỷ dị vào từng cử chỉ của hai người bọn họ.

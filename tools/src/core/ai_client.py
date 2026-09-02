@@ -132,7 +132,7 @@ class AIClient:
 
         t0 = time.time()
         async with httpx.AsyncClient(timeout=120.0) as client:
-            for attempt in range(3):
+            for attempt in range(5):
                 try:
                     res = await client.post(url, json=payload)
                     if res.status_code == 200:
@@ -152,14 +152,14 @@ class AIClient:
                                 return text.strip()
                         return ""
                     elif res.status_code in (429, 503):
-                        await asyncio.sleep(2.0 * (attempt + 1))
+                        await asyncio.sleep(5.0 * (attempt + 1))
                     else:
                         raise RuntimeError(f"Lỗi Gemini API ({res.status_code}): {res.text}")
                 except httpx.TimeoutException:
-                    if attempt == 2:
+                    if attempt == 4:
                         raise
-                    await asyncio.sleep(2.0)
-        raise RuntimeError("Không nhận được phản hồi từ Gemini API sau 3 lần thử.")
+                    await asyncio.sleep(3.0)
+        raise RuntimeError("Không nhận được phản hồi từ Gemini API sau 5 lần thử.")
 
     async def _call_llmgate(
         self,

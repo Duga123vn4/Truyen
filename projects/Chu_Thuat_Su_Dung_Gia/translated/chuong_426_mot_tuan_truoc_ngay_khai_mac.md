@@ -1,269 +1,269 @@
-# Tập 423: Một tuần trước ngày khai mạc
+# Tập 426: Một tuần trước ngày khai mạc
 
-Một tuần trước ngày khai mạc.
+Chỉ còn đúng một tuần trước ngày khai mạc.
 
 Ngày 11 tháng 10, thứ Ba.
 
-Sau ngày nghỉ bù thứ Hai, tôi uể oải kéo lê thân xác mệt mỏi của mình để lết đến trường.
+Sau ngày nghỉ bù thứ Hai, tôi uể oải kéo lê thân xác rệu rã của mình để lết tới trường.
 
-“Chào buổi sáng nhé, cậu Momokawa.”
+“Chào buổi sáng nhé, Momokawa-kun.”
 
-“...Chào buổi sáng, bạn Himeno.”
+“...Chào buổi sáng, Himeno-san.”
 
-Người tôi tình cờ chạm mặt trước cổng trường là Himeno, người mà tôi đã có thể nói chuyện thoải mái hơn nhiều sau buổi thử món hôm trước.
+Người tôi tình cờ chạm mặt trước cổng trường là Himeno-san, cô bạn mà tôi đã có thể trò chuyện cởi mở và thoải mái hơn hẳn sau buổi nếm thử món ăn hôm trước.
 
-Nhìn vẻ mặt ủ rũ của tôi, cô ấy tủm tỉm cười trêu chọc:
+Trông thấy bộ dạng ỉu xìu như bánh đa nhúng nước của tôi, khóe môi cô ấy khẽ cong lên tủm tỉm trêu chọc:
 
-“Hôm qua chắc cậu đã mơ một giấc mơ đẹp lắm nhỉ?”
+“Tối qua chắc hẳn cậu đã mơ một giấc mơ ngọt ngào lắm nhỉ?”
 
-“Đẹp đến mức tớ phải chật vật lắm mới quay lại được với hiện thực đấy.”
+“Ngọt ngào đến mức sáng nay tớ phải chật vật trầy trật mãi mới kéo nổi hồn về với thực tại đấy.”
 
-Đó hoàn toàn không phải là lời nói đùa, mà là cảm xúc thật lòng của tôi.
+Đó hoàn toàn không phải câu bông đùa cửa miệng, mà là nỗi niềm gan ruột xuất phát từ tận đáy lòng tôi.
 
-Cú va chạm ngực chấn động xảy ra trong buổi thử món vốn dĩ nên kết thúc một cách êm đềm ấy.
+Cú va chạm ngực chấn động địa tầng xảy ra trong buổi thử món vốn dĩ nên khép lại trong êm đềm ấy.
 
-Thú thật, sau khi bạn Futaba hét lên, tôi không còn nhớ rõ làm thế nào mà tình hình lúc đó được dẹp yên nữa. Trong đầu tôi chỉ còn sót lại ấn tượng mơ hồ về một bầu không khí ồn ào náo nhiệt, và ký ức về việc bạn Futaba dù hét toáng lên như thế nhưng tuyệt đối không hề làm rơi chiếc khay đựng trà trên tay. Đúng là siêu thật.
+Thú thật, sau khi Futaba-san thét lên một tiếng kinh thiên động địa, tôi chẳng còn nhớ nổi làm cách nào mà hiện trường hỗn loạn lúc đó được dẹp yên nữa. Trong đầu tôi giờ chỉ còn sót lại ấn tượng mơ hồ về một bầu không khí nháo nhào ầm ĩ, cùng ký ức sống động về việc Futaba-san dẫu thất thanh thét gào như thế nhưng hai tay tuyệt đối không hề buông rơi chiếc khay trà. Đúng là kỳ tích của dân chuyên nghiệp.
 
-Nhờ vậy, trong suốt mấy chục giây từ lúc cô ấy hét xong cho đến khi đặt chiếc khay xuống, tôi đã được chiêm ngưỡng trọn vẹn "đôi gò bồng đảo" của vị nữ thần trắng ngần. Cảnh tượng kỳ diệu đó chắc chắn sẽ khắc sâu vào bộ nhớ não bộ của tôi suốt đời và không bao giờ phai nhạt.
+Nhờ vậy, suốt mấy chục giây quý báu từ lúc cô ấy hét toáng lên cho tới khi hoàn hồn đặt chiếc khay xuống bàn, mắt tôi đã được no nê chiêm ngưỡng trọn vẹn đôi gò bồng đảo trắng ngần của nàng nữ thần tuyết. Cảnh tượng kỳ vĩ tuyệt mỹ ấy chắc chắn sẽ khắc sâu vĩnh viễn vào bộ nhớ não bộ của tôi suốt cả cuộc đời này, không bao giờ phai nhạt.
 
-Sự xúc động lớn lao ấy thậm chí còn làm lu mờ cả tựa game 18+ giả tưởng mà tôi hằng mong đợi. Đúng là hàng thật lúc nào cũng ăn đứt thế giới ảo mà...
+Cơn chấn động cảm xúc mãnh liệt ấy thậm chí còn đè bẹp cả sự hào hứng đối với tựa game 18+ du hành vũ trụ mà tôi hằng đêm mong ngóng. Đúng là đồ thật bằng xương bằng thịt lúc nào cũng ăn đứt thế giới ảo diệu hư vô...
 
-“Mắt cậu thâm quầng lên rồi kìa. Có cần tớ cho mượn kem che khuyết điểm không?”
+“Kìa, mắt cậu thâm quầng như gấu trúc rồi kìa. Cần tớ cho mượn kem che khuyết điểm không?”
 
-“Tớ có mang theo đồ của mình rồi, nên không sao đâu.”
+“Tớ có thủ sẵn đồ nghề trong cặp rồi, nên không sao đâu.”
 
-Vừa cười trừ trước lời trêu chọc của Himeno, chúng tôi vừa bước vào lớp học.
+Vừa cười trừ trước lời trêu ghẹo của Himeno-san, chúng tôi vừa rảo bước tiến vào lớp học.
 
-“— Vậy thì, từ tuần này chúng ta sẽ chính thức bước vào giai đoạn chuẩn bị cao điểm.”
+“Vậy thì, bắt đầu từ tuần này, cả lớp chúng ta sẽ chính thức bước vào giai đoạn tổng lực chuẩn bị cao điểm!”
 
-Tiếng chuông vừa reo, Lớp trưởng đã nhanh chóng cướp lấy bục giảng từ tay giáo viên chủ nhiệm vốn có sự hiện diện mờ nhạt đến cực hạn để bắt đầu buổi sinh hoạt đầu giờ.
+Tiếng chuông vừa dứt hồi, Lớp trưởng đã thoăn thoắt tiến lên chiếm lĩnh bục giảng từ tay thầy giáo chủ nhiệm vốn có độ tồn tại mờ nhạt đến mức cực hạn, mở màn cho buổi sinh hoạt đầu giờ.
 
-Cuối cùng thì Lễ hội văn hóa của Học viện Hakurei cũng chỉ còn cách một tuần nữa. Trong vòng một tuần tới, toàn bộ các tiết học sẽ được tạm hoãn để nhường chỗ cho thời gian chuẩn bị lễ hội.
+Cuối cùng thì đại lễ hội văn hóa của Học viện Hakurei chỉ còn cách đúng một tuần lễ. Trong suốt một tuần tới, toàn bộ lịch học chính khóa sẽ được tạm gác lại để nhường trọn vẹn thời gian cho công tác chuẩn bị gian hàng.
 
-Có lẽ vài phụ huynh kỹ tính sẽ lo lắng liệu dành nhiều thời gian như vậy có ổn không, nhưng theo truyền thống của Học viện Hakurei, việc chuẩn bị cho lễ hội trường được xem là một phần giáo dục quý giá nhằm thúc đẩy tính tự chủ của học sinh. Đúng là trường tư thục có khác, không phải chỉ để làm cảnh.
+Có lẽ vài vị phụ huynh kỹ tính sẽ băn khoăn liệu dành ngần ấy thời gian chỉ để chơi bời có thỏa đáng không, song theo truyền thống lâu đời của Học viện Hakurei, chuẩn bị cho lễ hội trường được xem là một mắt xích giáo dục quý báu nhằm trui rèn tinh thần tự chủ và năng lực làm việc nhóm của học sinh. Trường tư thục danh giá có khác, làm gì cũng có bài bản chứ đâu phải chỉ vẽ ra cho có lệ.
 
-“Đầu tiên là cậu Sugino.”
+“Trước hết, xin mời Sugino-kun báo cáo.”
 
-“Ừm, từ hôm nay chúng tớ sẽ bắt tay vào dựng gian hàng ngay. Bản thiết kế hoàn thiện thì tớ đã cho mọi người xem trước đó rồi. Nguyên liệu đã đủ, những thứ cần làm cũng đã chốt xong. Giờ chỉ còn là cuộc đua với thời gian thôi, nên hãy tập trung làm việc nhé.”
+“Ừm, ngay từ hôm nay đội hậu cần sẽ bắt tay vào dựng gian hàng. Bản vẽ thiết kế 3D hoàn chỉnh tớ đã phổ biến cho mọi người từ trước. Vật tư nguyên liệu đã tập kết đầy đủ, danh mục việc cần làm cũng đã chốt hạ. Từ giờ chỉ còn là cuộc chạy đua với thời gian, mong mọi người tập trung cao độ nhé.”
 
-Đội hậu cần cũng sẽ chính thức bắt đầu công đoạn chế tạo từ hôm nay.
+Đội hậu cần cũng sẽ chính thức bấm nút khởi động các công đoạn thi công thực tế từ hôm nay.
 
-Dù có vài lớp đã rục rịch làm đạo cụ lớn nhỏ từ sớm, nhưng hầu hết những nơi đó đều làm việc kiểu hấp tấp chưa chuẩn bị kỹ, hoặc là những lớp làm nhà ma với quy mô dựng cảnh quá đồ sộ mà thôi.
+Dù có vài lớp đã rục rịch cưa đục làm đạo cụ lớn nhỏ từ sớm, song phần đa những nơi đó toàn làm theo cảm tính thiếu kế hoạch, hoặc là mấy lớp dựng nhà ma quy mô cảnh dựng quá cồng kềnh mà thôi.
 
-Chứ khi vẫn còn đang học mà đã lo làm mấy bức tường lớn hay đồ nội thất thì chỉ tổ chật chỗ và gây vướng víu. Mà thường thì mấy thứ làm sớm kiểu đó lại hay bị hỏng ngay trước ngày khai mạc.
+Chứ lớp vẫn đang học hành bình thường mà đã vội tha lôi mấy vách ngăn đồ sộ hay bàn ghế cồng kềnh vào thì chỉ tổ chật chội và vướng chân vướng cẳng. Đã thế, mấy thứ gia công vội vã kiểu đó lại rất hay lăn đùng ra hư hỏng ngay trước giờ G.
 
-Sugino dường như rất hiểu rõ điều đó, nên trong suốt thời gian qua, cậu ấy đã dồn lực vào công tác chuẩn bị trước: từ việc thống nhất bản thiết kế với toàn bộ đội hậu cần, cho đến thu mua nguyên liệu và lên quy trình làm việc.
+Sugino-kun dường như thấu suốt quy luật ấy, nên suốt thời gian qua, cậu ấy đã dồn toàn lực vào công tác chuẩn bị trước: từ việc thống nhất bản thiết kế chi tiết với toàn thể đội hậu cần, cho tới khâu lùng mua vật liệu và chuẩn hóa quy trình thi công.
 
-Đó là một kế hoạch vô cùng hiệu quả. Dù ai cũng muốn nhanh chóng bắt tay vào làm ngay, nhưng Sugino đã kìm hãm sự nôn nóng đó lại, thống nhất cả đội và bắt họ chỉ tập trung vào khâu chuẩn bị. Năng lực lãnh đạo của cậu ấy thật đáng nể. Nếu năm ngoái lớp tôi có một người như cậu ấy, thì tiến độ đã không bị trì trệ và hỗn loạn đến mức thảm hại như vậy.
+Một chiến lược điều phối vô cùng bài bản và hiệu quả. Dù ai nấy đều hừng hực sốt ruột muốn bắt tay vào việc ngay, nhưng Sugino-kun đã kìm nén được ngọn lửa nôn nóng ấy lại, siết chặt kỷ luật toàn đội và định hướng họ dồn sức cho khâu chuẩn bị nền tảng. Năng lực lãnh đạo của cậu ấy thực sự đáng nể. Nếu năm ngoái tập thể lớp tôi sở hữu một vị chỉ huy đắc lực nhường này, tiến độ chuẩn bị đã chẳng rơi vào thảm cảnh bê trễ và nháo nhào như một bãi rác.
 
-“Đội hậu cần từ giờ sẽ là những người bận rộn nhất đấy. Ban cán sự tụi tớ cũng sẽ qua hỗ trợ, nên có gì cứ bảo nhé.”
+“Đội hậu cần từ giờ sẽ là những người vất vả nhất đấy. Ban cán sự tụi tớ cũng sẽ túc trực hỗ trợ, nên có khúc mắc gì cứ ới một tiếng nhé.”
 
-“Cảm ơn cậu, thế thì tốt quá.”
+“Cảm ơn cậu, có Lớp trưởng chống lưng thì tốt quá rồi.”
 
-Nhìn Lớp trưởng và Sugino nói chuyện với nhau thế này, trông họ chẳng khác nào những người đã đi làm. Cứ như những elite trẻ tuổi đang thăng tiến vùn vụt vậy.
+Nhìn Lớp trưởng cùng Sugino-kun trao đổi công việc đâu ra đấy, trông hai người họ chẳng khác nào những nhân sự mẫn cán ngoài xã hội. Hệt như những hạt giống tinh anh trẻ tuổi đang trên đà thăng tiến vùn vụt nơi công sở.
 
-Còn tôi thì chỉ muốn làm việc một cách thong thả nhất có thể thôi. Bởi vì sở thích cá nhân mới là ưu tiên hàng đầu của tôi mà. Ai chà, ước gì cuốn light novel tôi viết bừa nào đó bỗng dưng nổi đình nổi đám, giúp tôi kiếm một phát đủ luôn mức thu nhập trung bình cả đời là hai trăm triệu yên thì tốt biết mấy.
+Còn tôi thì chỉ mong mỏi công việc trôi qua êm ả, thong thả nhất có thể. Bởi lẽ đam mê cá nhân cùng sự hưởng thụ mới là ưu tiên số một trong đời tôi cơ mà. Ôi chao, ước gì cuốn light novel nào đó tôi tiện tay viết chơi bỗng chốc nổi đình nổi đám, giúp tôi ẵm trọn khoản thu nhập bình quân cả đời chừng hai trăm triệu yên thì đời này coi như viên mãn.
 
-“Tiếp theo là bạn Futaba, xin mời cậu.”
+“Tiếp theo, xin mời Futaba-san.”
 
-“Vâng. Trong ngày hôm nay tớ sẽ chốt toàn bộ thực đơn, sau đó ưu tiên hàng đầu cho việc đặt mua nguyên liệu.”
+“Vâng! Ngay trong hôm nay tớ sẽ chốt hạ toàn bộ danh mục thực đơn, sau đó dành ưu tiên hàng đầu cho việc đặt mua nguồn nguyên liệu tươi.”
 
-Khi lễ hội trường đã cận kề, bạn Futaba trông cũng đã ra dáng một bếp trưởng rồi đấy. Cậu ấy trả lời Lớp trưởng với phong thái vô cùng tự tin.
+Ngày hội trường cận kề, Futaba-san trông cũng đã toát lên phong thái đĩnh đạc của một bếp trưởng thực thụ. Cô ấy tự tin dõng dạc báo cáo trước Lớp trưởng.
 
-Thế nhưng, đối với một kẻ ngồi ngay bên cạnh như tôi, thứ thực sự cướp đi ánh mắt của tôi lại là "sự tự tin căng tràn" đầy đặn kia.
+Thế nhưng, với một thằng đực rựa ngồi ngay cự ly gần như tôi, thứ thực sự hớp hồn và cướp trọn ánh mắt của tôi lại là “sự tự tin căng tràn nảy nở” sau lớp áo kia.
 
-“Đúng vậy, vì hôm nay chúng ta mới bắt đầu được phép đặt nguyên liệu, nên giải quyết việc này trước là hoàn toàn chính xác.”
+“Chuẩn xác. Vì hôm nay nhà trường mới chính thức mở cổng cho phép đặt nguyên liệu, nên xử lý dứt điểm khâu này trước là hoàn toàn đúng đắn.”
 
-“Bởi vì tùy vào loại nguyên liệu, có những thứ nếu không đặt sớm thì sát ngày sẽ không kịp mất.”
+“Bởi vì tùy theo từng loại nguyên phụ liệu, có những mặt hàng nếu không liên hệ sớm thì sát ngày hội sẽ chẳng tài nào gom kịp.”
 
-“Dù chỉ là đặt hàng nhưng đây là công việc khá phiền phức mà chúng ta ít khi làm, đôi khi người ta hay quên khuấy đi cho đến sát nút mới cuống cuồng lên. Nhưng giao cho bạn Futaba thì tớ hoàn toàn yên tâm rồi.”
+“Tuy chỉ là đặt hàng nhưng đây lại là công việc khá lỉnh kỉnh mà học sinh ít khi đụng tay tới, rất nhiều người hay đãng trí bỏ quên cho tới sát nút mới tá hỏa cuống cuồng. Nhưng giao trọng trách này cho Futaba-san thì tớ hoàn toàn yên tâm kê cao gối ngủ.”
 
-“Mấy việc thế này tớ cũng không phải lần đầu làm, nên tớ nghĩ mình sẽ lo liệu ổn thỏa thôi.”
+“Mấy quy trình thế này tớ cũng chẳng phải dân tay ngang lần đầu thử sức, nên tớ tin mình sẽ quán xuyến ổn thỏa thôi.”
 
-Sực nhớ lại, hồi ở buổi thử món tôi cũng có nghe loáng thoáng về việc chuẩn bị nguyên liệu.
+Chợt nhớ lại, hôm diễn ra buổi nếm thử tôi cũng có nghe loáng thoáng về kế hoạch thu mua nguyên liệu của cô ấy.
 
-Với tư cách là đầu bếp hàng đầu của câu lạc bộ nấu ăn, bạn Futaba thường tự mình đặt mua những nguyên liệu đặc biệt được tuyển chọn kỹ lưỡng cho các hoạt động của câu lạc bộ. Hơn nữa, ngoài đời thường cô ấy cũng là một người cực kỳ nghiêm túc với việc nấu nướng, nên trình độ của cô ấy từ lâu đã vượt xa cái mức có thể thỏa mãn với những nguyên liệu tầm thường bày bán ở mấy siêu thị thông thường rồi.
+Với tư cách át chủ bài số một của câu lạc bộ nấu ăn, Futaba-san thường tự tay lùng sục đặt mua những nguyên liệu tươi ngon độc lạ được tuyển chọn gắt gao phục vụ cho các sự kiện của câu lạc bộ. Huống chi ngoài đời thực cô ấy cũng là người đặt trọn đam mê vào nghệ thuật ẩm thực, nên tầm mắt và khẩu vị từ lâu đã vượt xa cái ngưỡng thỏa mãn với những mớ rau miếng thịt công nghiệp bày bán nhan nhản ở mấy siêu thị bình dân.
 
-Cô ấy không bao giờ bỏ qua việc nghiên cứu để tìm kiếm nguyên liệu mình muốn, và dù chỉ là học sinh cấp ba nhưng nghe đâu cô ấy còn có cả những mối quan hệ làm ăn với các nhà cung cấp nữa cơ.
+Cô ấy không bao giờ ngần ngại lặn lội tìm tòi nguồn hàng ưng ý, và dẫu mới chỉ là nữ sinh cấp ba, nghe đâu cô ấy đã xây dựng được mạng lưới quan hệ làm ăn thân thiết với không ít chủ vựa cung cấp thực phẩm uy tín.
 
-“Đáng tin cậy quá. Nếu có gì không hiểu hay gặp khó khăn gì thì cứ bảo tớ ngay nhé.”
+“Thật là đáng tin cậy quá. Nếu gặp bất kỳ trở ngại hay vướng mắc nào, cậu cứ báo ngay cho tớ nhé.”
 
-“Lúc đó nhờ cậu giúp đỡ nhé, Lớp trưởng.”
+“Lúc đó trăm sự nhờ cậu ra tay giúp đỡ nhé, Lớp trưởng.”
 
-Ừm, đội ẩm thực xem ra cũng không có vấn đề gì đáng lo. Cứ nghe theo chỉ thị của bạn Futaba là chuẩn không cần chỉnh. Có một người lãnh đạo với thực lực áp đảo thế này đúng là mang lại cảm giác an tâm thật. Tôi cũng muốn được làm việc dưới trướng một người như vậy để tha hồ trốn tránh trách nhiệm quá đi mất.
+Ừm, bộ phận ẩm thực xem chừng trơn tru không có gì phải bận tâm. Cứ răm rắp tuân theo chỉ đạo của bếp trưởng Futaba-san là chuẩn không cần chỉnh. Có được một người thủ lĩnh nắm giữ chuyên môn áp đảo nhường này thực sự mang lại cảm giác an tâm tuyệt đối. Bản thân tôi cũng tha thiết muốn được nấp dưới bóng một đại thụ như thế để mặc sức đùn đẩy trách nhiệm quá đi mất.
 
-“Vậy thì, tiếp theo là cậu Momokawa.”
+“Vậy thì, người tiếp theo, Momokawa-kun.”
 
-Sau màn thể hiện khả năng lãnh đạo mạnh mẽ của Sugino và sự tự tin tuyệt đối của bạn Futaba, việc đến lượt tôi phát biểu quả thực mang lại không ít áp lực.
+Sau màn thị uy tài năng điều phối sắc bén của Sugino-kun và sự đĩnh đạc ngút ngàn của Futaba-san, áp lực đè nặng lên vai khi đến lượt tôi bước lên trình bày quả thực không hề nhỏ.
 
-Suốt những ngày nghỉ vừa qua, tôi vẫn còn ngơ ngẩn vì dư chấn của vụ va chạm ngực kia... Nhưng mà, thật may là tôi đã chuẩn bị sẵn mọi thứ từ hôm thứ Sáu tuần trước.
+Suốt mấy ngày nghỉ vừa qua, đầu óc tôi vẫn còn bay bổng đờ đẫn bởi dư chấn ngọt ngào của vụ va chạm ngực hôm nọ... Nhưng may phước thay, toàn bộ phương án tác chiến đều đã được tôi vạch sẵn từ chiều thứ Sáu tuần trước.
 
-“Đầu tiên là về phần việc quan trọng nhất, trang phục phục vụ—Cậu Randou.”
+“Trước tiên là về phần việc then chốt nhất, trang phục phục vụ của quán—Xin mời Randou-san.”
 
-“Hế lô, tớ mang tới rồi đây nè~”
+“Hế lô cả lớp, tớ vác chiến lợi phẩm tới rồi đây nè~”
 
-Đáp lại lời gọi của tôi bằng giọng điệu thong thả thường ngày, cậu ấy đặt một chiếc vali kéo lấp lánh đầy phong cách lên bàn cái rầm.
+Đáp lại lời xướng tên của tôi bằng chất giọng lười biếng tưng tửng quen thuộc, Randou-san đặt chiếc vali kéo thời thượng bóng bẩy lên mặt bàn nghe một cái rầm giòn giã.
 
-Tiếp sau Randou, cặp đôi Juri-Mari đóng vai trò quản gia kiêm stylist cũng đặt những chiếc túi tương tự lên bàn.
+Nối gót sau Randou-san, bộ đôi Juri-Mari sắm vai quản gia kiêm chuyên viên stylist cũng thoăn thoắt đặt những chiếc túi xách to sụ tương tự lên bàn.
 
-“Trong ba ngày nghỉ lễ vừa qua, đội ngũ stylist đã giúp chúng ta thu thập mỹ phẩm cho toàn bộ đội hầu gái, cùng với tóc giả và các phụ kiện đi kèm trong phạm vi khả năng.”
+“Trong ba ngày nghỉ lễ vừa qua, tổ stylist đã lăn xả gom góp đủ lượng mỹ phẩm cần thiết cho toàn bộ đội hầu gái, kèm theo tóc giả và các phụ kiện hóa trang trong phạm vi ngân sách cho phép.”
 
-“Trời đất ơi, cậu có biết gom đống này mà không được tiêu tốn quá nhiều tiền là cực khổ thế nào không hả~”
+“Trời đất ơi, cậu có thấu gom cho đủ đống của nợ này mà không được vung tay quá trán là trầy da tróc vảy thế nào không hả~”
 
-“Thực sự cảm ơn cậu nhiều lắm, Randou-san. Cả bạn Nonomiya và bạn Yoshizaki nữa, cảm ơn hai cậu.”
+“Thực sự đội ơn cậu nhiều lắm, Randou-san. Cả Nonomiya-san và Yoshizaki-san nữa, cảm ơn hai cậu vô cùng.”
 
-“Đúng thế đấy, thực sự là mệt muốn xỉu luôn.”
+“Chuẩn cơm mẹ nấu luôn, mệt bở cả hơi tai ra đấy.”
 
-“Thành quả này là nhờ vào mạng lưới quan hệ rộng khắp của tụi này đấy nhé.”
+“Thành quả này là nhờ cả vào mạng lưới quan hệ rộng khắp giới gyaru của tụi này đấy nhé.”
 
-“Hôm nào tớ sẽ bao các cậu một bữa trưa nhé.”
+“Hôm nào tớ nhất định sẽ bao các cậu một chầu trưa thịnh soạn.”
 
-Tôi thực sự vô cùng biết ơn nỗ lực của ba người họ. Nếu chỉ là những nữ sinh cấp ba bình thường thì chắc chắn không thể thu hoạch được nhiều đến thế này. Việc nói "chỉ có họ mới làm được" hoàn toàn không phải là phóng đại.
+Tôi thực sự khắc cốt ghi tâm công sức lăn lộn của bộ ba bọn họ. Nếu chỉ là những nữ sinh trung học bình thường, chắc chắn không tài nào xoay xở gom được ngần ấy đồ nghề chất lượng trong thời gian ngắn ngủi. Bảo rằng “phi vụ này chỉ có ba người họ mới gánh nổi” tuyệt đối không phải lời tâng bốc suông.
 
-“Nếu không gom đủ mỹ phẩm thì tớ định cho mấy cậu hầu gái làm nền để mặt mộc cũng được, nhưng với chừng này đồ thì chúng ta có thể kỳ vọng vào một diện mạo cực kỳ chất lượng đấy. Nào các chiến hữu, các cậu đã chuẩn bị sẵn tinh thần để giả gái chưa?”
+“Nếu không gom đủ mỹ phẩm thì tớ định bấm bụng cho mấy cậu hầu gái làm nền để mặt mộc luôn cũng được, nhưng với ngần này vũ khí trang bị, chúng ta hoàn toàn có quyền kỳ vọng vào những màn lột xác kinh diễm nhất. Nào các chiến hữu, đã sẵn sàng tâm lý tròng váy lên người chưa?”
 
-“Ồ ồ ồ! Tớ chơi tới bến luôn, Momokawa!”
+“Ồ ồ ồ! Chơi tới bến luôn, Momokawa!”
 
-Người lên tiếng hưởng ứng đầy nhiệt huyết không ai khác chính là Hayama.
+Người đầu tiên cất tiếng gầm rú hưởng ứng đầy nhuệ khí không ai khác ngoài Hayama-kun.
 
-Những người còn lại thì thành thật mà nói, phản ứng có phần e dè và gượng gạo. Hừ, lúc trước tụi mày trêu chọc chuyện tao giả gái hăng hái lắm mà. Giờ thì chuẩn bị nhận quả báo đi nhé.
+Những nam nhân còn lại thì thú thật, biểu cảm trên mặt ai nấy đều nửa cười nửa mếu, ngượng ngùng ra mặt. Hừ, đợt trước tụi mày xúm vào trêu chọc vụ tao giả gái hăng hái lắm cơ mà. Giờ thì chuẩn bị nếm mùi quả báo đi nhé các con giời.
 
-“À, đây là hóa đơn nhé. Cậu cứ yên tâm, chi phí hoàn toàn nằm trong ngân sách của đội hầu gái.”
+“À đây, xấp hóa đơn đây nhé. Cậu cứ yên tâm kiểm tra, tổng chi phí nằm gọn gàng trong hạn mức ngân sách của đội hầu gái.”
 
-Hóa đơn tôi thu lại từ nhóm Randou trước giờ sinh hoạt lớp và số tiền trả lại cho khoản họ đã ứng trước đều đã được thanh toán xong xuôi. Dù đằng nào cũng sẽ được thanh toán lại từ quỹ lớp và việc này hơi tốn công hai lần, nhưng tôi không muốn những cô gái đã làm việc xuất sắc như họ phải chịu thêm bất kỳ sự phiền hà nào.
+Toàn bộ hóa đơn thu mua tôi đã đối chiếu kỹ lưỡng với nhóm Randou-san từ trước giờ sinh hoạt, đồng thời hoàn trả sòng phẳng số tiền túi mà các cô nàng đã ứng trước. Dẫu đằng nào khoản này cũng sẽ được quỹ lớp giải ngân hoàn lại và quy trình này hơi tốn công làm hai bước, song tôi tuyệt đối không muốn những bóng hồng đã tận tụy cống hiến cho lớp phải chịu thêm bất kỳ sự phiền hà nào về tiền bạc.
 
-Nhân tiện, tôi cũng làm tròn số tiền lên một chút để gửi cho họ, như vậy sẽ tốt hơn là nhận tiền lẻ chính xác đến từng yên một cách máy móc.
+Nhân tiện, tôi cũng chủ động làm tròn số tiền lẻ lên một chút khi thanh toán cho họ. Hành xử phóng khoáng như thế bao giờ cũng ghi điểm hơn là săm soi đòi thối lại từng đồng yên lẻ một cách cứng nhắc.
 
-“Tớ không ngờ các cậu lại chuẩn bị chu đáo đến mức này đấy, bất ngờ thật. Chi phí cũng được tiết kiệm đáng kể nữa, thực sự cảm ơn các cậu nhiều nhé.”
+“Tớ không ngờ các cậu lại chuẩn bị chu toàn đến mức này đấy, bất ngờ thật sự. Ngân sách lớp nhờ thế mà tiết kiệm được một khoản kha khá, chân thành cảm ơn các cậu nhiều nhé.”
 
-Tốt lắm, Lớp trưởng sau khi kiểm tra hóa đơn cũng tỏ vẻ rất hài lòng.
+Tuyệt vời, Lớp trưởng sau khi lướt qua xấp chứng từ cũng lộ rõ vẻ mặt hài lòng tán thưởng.
 
-Tiếp đó, đống hóa đơn được chuyển giao mượt mà cho Azuma, người đảm nhận vai trò thủ quỹ. Cậu ta cũng không tìm ra điểm gì để phàn nàn, chỉ lẳng lặng ghi chép vào sổ sách.
+Tiếp đó, xấp hóa đơn được chuyển giao mượt mà sang tay Azuma-kun, thủ quỹ mẫn cán của lớp. Cậu ta cũng chẳng tìm ra nổi một tì vết để bắt bẻ, chỉ lẳng lặng gật đầu rồi cắm cúi ghi chép vào sổ thu chi.
 
-Việc tiêu xài ngân sách vô tội vạ vì nghĩ là "tốt cho lớp" rồi chuốc lấy sự bất bình của mọi người là một sai lầm cực kỳ phổ biến trong các dịp lễ hội trường. Dù quan niệm tiền bạc của mỗi người là khác nhau, nhưng vẫn cần phải giữ vững một ranh giới hợp lý.
+Việc vung tay quá trán xài xối xả quỹ chung vì lý do ngây thơ “muốn tốt cho tập thể” rồi chuốc lấy làn sóng bất bình tẩy chay vốn là vết xe đổ kinh điển trong các kỳ lễ hội trường. Dẫu quan niệm về tiền nong của mỗi người một khác, song người cầm trịch luôn phải giữ vững cái đầu lạnh cùng ranh giới thu chi minh bạch.
 
-“Đội hầu gái từ giờ sẽ cùng nhau tập trang điểm nhỉ? Xem ra mọi chuyện sẽ ồn ào—à không, bận rộn hơn tớ tưởng đấy.”
+“Đội hầu gái từ giờ sẽ tụ tập lại để tập tành trang điểm nhỉ? Xem chừng phòng học sẽ náo loạn—à không, bận rộn hơn tớ tưởng nhiều đấy.”
 
-“Khoan đã Lớp trưởng, lượt của tớ vẫn chưa kết thúc đâu.”
+“Khoan đã nào Lớp trưởng, phần trình bày của tớ vẫn chưa hết đâu.”
 
-Dù công việc trong thời gian chuẩn bị chỉ cần lo liệu xong phần trang phục và trang điểm cho mọi người là đã quá đủ, nhưng tôi cũng đã suy nghĩ về rất nhiều kế hoạch khác. Nếu không nỗ lực làm việc để đền đáp lại việc được diện kiến "tòa thiên nhiên" vĩ đại của bạn Futaba thì chắc chắn tôi sẽ bị trời phạt mất.
+Dẫu công tác chuẩn bị chỉ cần lo chu tất phần trang phục và tút tát dung nhan cho mọi người là đã hoàn thành xuất sắc nhiệm vụ, song đầu óc tôi vẫn ấp ủ thêm hàng loạt mưu đồ tác chiến khác. Nếu không dốc lòng dốc sức làm việc để tạ lỗi trước diễm phúc được diện kiến “tòa thiên nhiên” vĩ đại của Futaba-san hôm nọ, e rằng tôi sẽ bị thiên lôi dòm ngó mất.
 
-“Hửm, vẫn còn việc gì nữa sao?”
+“Hửm, cậu vẫn còn quân bài nào giấu trong tay áo sao?”
 
-Tất nhiên là có chứ. Đối mặt với ánh mắt mang theo chút kỳ vọng của Lớp trưởng, tôi nở một nụ cười đầy tự tin đáp lại.
+Đương nhiên là phải có chứ. Đối diện với ánh mắt lấp lánh tia tò mò đầy kỳ vọng của Lớp trưởng, tôi nhoẻn miệng cười tự tin đáp lễ.
 
-“Trong ngày hôm nay và ngày mai, chúng ta sẽ hoàn thành biển hiệu và tờ rơi—tớ gọi đây là 『Chiến dịch Quảng cáo Đi trước một bước』.”
+“Ngay trong hôm nay và ngày mai, chúng ta sẽ hoàn tất toàn bộ bảng hiệu và ấn phẩm tờ rơi—Tớ tạm gọi đây là 『Chiến dịch Quảng cáo Đi trước một bước』.”
 
-Điểm mạnh lớn nhất của quán cà phê hầu gái và quản gia đảo ngược lớp 2-7 chính là sức hút từ dàn nhân sự toàn trai xinh gái đẹp.
+Vũ khí sát thương hạng nặng nhất của quán cà phê hầu gái và quản gia hoán đổi lớp 2-7 chính là sức hút ma mị từ dàn nhân sự toàn mỹ nam mỹ nữ cực phẩm.
 
-Với những gương mặt nổi bật dẫn đầu như anh em nhà Souma, vốn dĩ đã có danh tiếng và diện mạo được cả trường biết đến, chỉ cần tung ra thông tin họ sẽ làm hầu gái và quản gia là đã đủ để thu hút một lượng khách khổng lồ rồi.
+Với những thỏi nam châm hút khách sừng sững như anh em nhà Souma, vốn sở hữu danh tiếng lẫy lừng cùng dung mạo khuynh đảo cả trường, chỉ cần bắn tin hai người họ sẽ khoác lên mình bộ cánh hầu gái và quản gia là đã đủ tạo nên một cơn sốt vé kinh hoàng.
 
-Thế nhưng, liệu chỉ dựa vào bấy nhiêu thôi đã đủ chưa? Chắc chắn vẫn có những học sinh không hề biết đến sự tồn tại của anh em nhà Souma. Điển hình là học sinh năm nhất, nếu không phải là hậu bối cùng câu lạc bộ thì họ hoàn toàn không có điểm giao thiệp nào, và số người chỉ nghe danh chứ chưa từng thấy mặt cũng không hề ít.
+Thế nhưng, liệu chỉ vin vào chừng ấy đã đủ để quét sạch mọi tiềm năng chưa? Chắc chắn vẫn còn những góc khuất học sinh chưa từng nghe danh anh em nhà Souma. Điển hình là đám đàn em năm nhất mới chân ướt chân ráo vào trường, nếu không sinh hoạt chung câu lạc bộ thì lấy đâu ra cơ hội cọ xát, số người chỉ nghe phong thanh danh tiếng chứ chưa từng thấy mặt mũi họ ngoài đời thực cũng đâu phải là hiếm.
 
-Chính vì vậy, tôi nghĩ rằng một chiến dịch quảng cáo đi trước một bước—công bố trước hình ảnh lộng lẫy của các hầu gái và quản gia át chủ bài cho toàn thể học sinh để khơi dậy sự tò mò và mong đợi—sẽ cực kỳ hiệu quả.
+Chính vì lẽ đó, tôi nhận định rằng một chiến dịch quảng cáo đi trước đón đầu—tung ra trước những shoot hình lung linh rực rỡ của dàn hầu gái và quản gia át chủ bài nhằm kích thích sự tò mò và thèm khát của toàn thể bàn dân thiên hạ—sẽ mang lại hiệu ứng bùng nổ khủng khiếp.
 
-Dù sao thì đến lúc diễn ra lễ hội, họ cũng sẽ bị chụp ảnh dịch vụ thôi. Việc rò rỉ trước tạo hình giả gái giả trai này cũng chẳng có gì to tát cả.
+Đằng nào tới ngày hội chính thức, họ cũng sẽ bị khách chụp ảnh dịch vụ tính tiền thôi. Việc rò rỉ trước tạo hình giả trang lộng lẫy này chẳng gây tổn hại đến ai cả.
 
-“Nhưng liệu có thể hoàn thành nhanh như vậy được không?”
+“Nhưng liệu thời gian có quá gấp rút để kịp tiến độ không?”
 
-“Tất nhiên rồi, vì lớp mình sở hữu một tay máy cực kỳ xuất sắc mà—Katsu, chuẩn bị đến đâu rồi?”
+“Tất nhiên là kịp, vì lớp mình đang sở hữu một tay máy thượng thừa cơ mà—Katsu, súng đạn chuẩn bị tới đâu rồi?”
 
-“Rõ! Báo cáo là có thể bắt đầu bấm máy bất cứ lúc nào ạ!”
+“Rõ! Báo cáo chỉ huy, nòng súng đã lên đạn sẵn sàng khai hỏa bất cứ lúc nào ạ!”
 
-Katsu, người đã đeo sẵn chiếc máy ảnh DSLR chuyên nghiệp trên cổ, trả lời với một sự phấn khích khó hiểu. "Báo cáo" cái khỉ gì chứ. Nói năng bình thường đi xem nào, ngại giùm luôn đấy.
+Katsu, người đã đeo tòng teng chiếc máy ảnh DSLR chuyên nghiệp nặng trịch trên cổ, hào hứng đáp lời bằng vẻ mặt phấn khích tột độ. “Báo cáo” cái con khỉ khô. Ăn nói bình thường lại giùm cái coi, tao ngượng chín mặt thay mày luôn rồi đấy.
 
-Tuy nhiên, rõ ràng là cậu ta đang tràn đầy nhiệt huyết khi được giao một công việc chuyên môn thực sự chứ không phải mấy việc vặt vãnh ai làm cũng được. Và tôi biết thừa rằng, những lúc thế này, cậu ta chắc chắn sẽ cho ra lò những tác phẩm cực kỳ chất lượng.
+Dẫu vậy, rõ ràng ngọn lửa nhiệt huyết trong mắt cậu ta đang bùng cháy dữ dội khi được giao phó một trọng trách mang tính chuyên môn thực thụ, chứ không phải mấy chân sai vặt tầm thường ai làm cũng được. Và tôi thừa hiểu tính thằng bạn nối khố, một khi đã vào guồng hứng khởi, những tác phẩm cậu ta bấm máy chắc chắn sẽ đạt độ hoàn mỹ đỉnh cao.
 
-“Tớ đã xác nhận với Sugino-kun là phông nền xanh lá dùng để chụp ảnh đã chuẩn bị xong. Việc còn lại chỉ là mượn mấy tấm vách ngăn từ phòng câu lạc bộ văn học về dựng lên thôi. Trong lúc chúng ta trang điểm thì một studio chụp ảnh dã chiến sẽ được hoàn thành.”
+“Tớ đã kiểm tra với Sugino-kun, phông nền xanh lá chuyên dụng để tách nền đã sẵn sàng. Việc còn lại chỉ là sang mượn vài tấm vách ngăn từ phòng câu lạc bộ văn học về dựng tạm. Trong lúc chúng ta hóa trang thì một studio dã chiến chuẩn chỉ sẽ được dựng xong xuôi.”
 
-“Tớ sẽ phụ trách bấm máy, và tớ cũng đã mượn được hai cậu Sato và Ito làm trợ lý rồi.”
+“Tớ sẽ đích thân cầm máy, và tớ cũng đã kéo thêm hai tay Sato-kun với Ito-kun làm phụ tá ánh sáng rồi.”
 
-Katsu là người đã chủ động rủ rê hai cậu trợ lý Sato Yuuya và Ito Seiji. Cả hai đều là những otaku bán chuyên giống như chúng tôi nên cũng có chút quen biết. Dù sao thì so với những người hoàn toàn mù tịt, việc chọn những nhân sự có chút hiểu biết về chụp ảnh cosplay vẫn tốt hơn, vả lại trong lớp cũng chẳng còn ai thích hợp hơn nữa.
+Katsu chính là người đã chủ động lôi kéo hai cậu bạn Sato Yuuya và Ito Seiji vào cuộc. Cả hai đều là những otaku bán chuyên cùng hội cùng thuyền với bọn tôi nên rất ăn rơ. Dù sao thì so với việc nhờ vả những người mù tịt, chọn lựa những nhân sự có chút am hiểu về nhiếp ảnh cosplay bao giờ cũng an tâm hơn, vả lại trong lớp này cũng chẳng đào đâu ra ứng viên nào thích hợp hơn nữa.
 
-“Ngay khi chụp xong, dữ liệu sẽ được truyền vào máy tính để bắt đầu thiết kế tờ rơi. Về phần thiết kế, Katsu sẽ làm trưởng nhóm, phối hợp cùng cậu Nakajima bên câu lạc bộ mỹ thuật và bạn Shinohara bên câu lạc bộ minh họa.”
+“Chụp xong shoot nào, dữ liệu sẽ được đẩy thẳng vào máy tính để bắt tay vào khâu thiết kế đồ họa tờ rơi. Đội ngũ thiết kế do Katsu làm nhóm trưởng, phối hợp cùng Nakajima-kun bên câu lạc bộ mỹ thuật và Shinohara-san bên câu lạc bộ minh họa.”
 
-Đây là những người mà tôi đã đích thân liên hệ trước.
+Đó là những nhân tố nòng cốt mà tôi đã đích thân đánh tiếng liên hệ từ trước.
 
-Quy trình sẽ là nhập dữ liệu vào máy tính, thiết kế tờ rơi kỹ thuật số, rồi mang thẳng lên phòng hội đồng giáo viên để in ấn. Khi tôi thử liên hệ với họ dựa trên suy đoán rằng họ sẽ có những kỹ năng chuyên môn từ câu lạc bộ của mình, cả hai đều vui vẻ đồng ý ngay lập tức.
+Quy trình tác chiến sẽ là: kết xuất ảnh vào máy tính, thiết kế market kỹ thuật số trên phần mềm chuyên dụng, rồi vác thẳng file lên phòng hội đồng giáo viên nhờ in màu công suất lớn. Khi tôi ướm lời nhờ cậy dựa trên dự đoán về kỹ năng đồ họa sẵn có của họ ở câu lạc bộ, cả hai đều hào hứng gật đầu cái rụp.
 
-Hơn nữa, trong ba ngày nghỉ vừa qua, hai người họ cũng đã thiết kế sẵn vài mẫu tờ rơi thô. Giờ chỉ cần chỉnh sửa ảnh một chút rồi chèn vào là xong xuôi.
+Chưa kể, trong ba ngày nghỉ vừa rồi, hai người họ cũng đã phác thảo sẵn vài khung mẫu tờ rơi cực kỳ bắt mắt. Giờ chỉ việc tút tát ảnh chụp rồi thả vào khung là hoàn tất khâu chế bản.
 
-“Vì vậy, tớ muốn tổ chức buổi chụp hình ngay trong buổi sáng nay, cậu thấy thế nào hả Lớp trưởng?”
+“Vì vậy, tớ đề xuất triển khai buổi chụp hình ngay trong sáng nay, ý Lớp trưởng thế nào?”
 
-“Nếu cậu đã lên kế hoạch chi tiết đến mức này rồi thì tớ chẳng có lý do gì để phản đối cả. Hãy chụp cho thật đẹp vào nhé.”
+“Nếu cậu đã lên kế hoạch chi tiết tới tận chân tơ kẽ tóc như thế thì tớ làm gì có lý do nào để lắc đầu. Hãy chụp cho thật lung linh vào nhé.”
 
-“Chờ chút đã. Dù bảo là chụp ảnh, nhưng trang phục của chúng ta vẫn chưa có đủ mà? Không lẽ lại chụp với mấy bộ đồ giả gái tạm bợ như tuần trước sao?”
+“Khoan đã nào. Bảo là chụp ảnh, nhưng trang phục chính thức của chúng ta đã về đâu? Chẳng lẽ lại khoác lên mình mấy bộ đồ giả trang chắp vá tạm bợ như tuần trước sao?”
 
-Nhận ra mình đột nhiên bị đẩy vào vai trò người mẫu ảnh quan trọng, Souma lên tiếng với vẻ hơi cuống quýt.
+Bỗng dưng thấy mình bị đẩy lên làm gương mặt đại diện trang bìa, Souma-kun luống cuống lên tiếng thắc mắc.
 
-Nhưng sự lo lắng của cậu ta cũng hoàn toàn hợp lý. Đã cất công làm tờ rơi thì hình ảnh phải thật lung linh và chỉn chu mới có sức hút được.
+Cơ mà nỗi băn khoăn của cậu ta hoàn toàn có cơ sở. Đã cất công làm ấn phẩm truyền thông thì hình ảnh visual phải đạt độ hoàn mỹ không tì vết mới mong hớp hồn thiên hạ được chứ.
 
-“Đúng là trang phục chính thức của lớp vẫn chưa về... nhưng riêng Souma-kun thì sao nhỉ?”
+“Đúng là đồng phục của cả lớp vẫn đang trên đường về... Nhưng riêng với cá nhân Souma-kun thì lại là ngoại lệ đấy nhé?”
 
-“Ý, ý cậu là sao hả Momokawa?”
+“Ý... Ý cậu là sao hả Momokawa?”
 
-Khi tôi hướng ánh mắt đầy ẩn ý về phía cậu ta, Souma không hiểu sao lại lộ vẻ mặt đầy cảnh giác.
+Bắt gặp ánh mắt đầy ẩn ý của tôi lia tới, Souma-kun bất giác co rúm người lại, mặt mày lộ rõ vẻ cảnh giác cao độ.
 
-Ấy khoan, cậu có nhìn tớ đăm đăm thế nào thì cũng không tìm ra câu trả lời đâu.
+Ấy dà, cậu có căng mắt dòm tớ chằm chằm như thế thì cũng chẳng moi ra được đáp án đâu.
 
-“Tớ nghĩ cậu nên thử hỏi bạn Ayase xem sao.”
+“Tớ nghĩ cậu nên quay sang thỉnh giáo Ayase-san thì hơn.”
 
-“Reina á? Thế này là sao?”
+“Reina á? Rốt cuộc là có chuyện gì?”
 
-“...Haiz, xem ra cậu Momokawa đã nhìn thấu hết rồi kìa, Reina.”
+“...Haiz, xem chừng Momokawa-kun đã nhìn thấu tim đen của cậu từ lâu rồi kìa, Reina.”
 
-“Trời ơi~ Tớ đã cố tình giấu kín rồi mà, sao cậu lại phát hiện ra được chứ hả!?”
+“Trời đất ơi~ Người ta đã cất công giữ bí mật tới phút chót rồi mà, sao cậu lại đánh hơi ra được tài tình thế hả!?!”
 
-Khi Sakura đoán được ý đồ của tôi và nói với Reina, cô nàng lai Tây liền phụng phịu kêu lên đầy tiếc nuối.
+Nghe Sakura-chan đoán trúng phóc ý đồ của tôi rồi quay sang mắng yêu, cô nàng tiểu thư lai Tây liền phồng má chu môi tiếc nuối.
 
-“Sakura, Reina, rốt cuộc hai người đang nói về chuyện gì thế?”
+“Sakura, Reina, rốt cuộc hai người đang giấu anh chuyện gì mờ ám thế?”
 
-“Thực ra thì, trang phục của anh đã có sẵn rồi ạ.”
+“Thực ra thì, trang phục dự hội của anh đã được chuẩn bị xong xuôi từ lâu rồi ạ.”
 
-“Tèn ten! Reina đã chuẩn bị sẵn cho Yuu-kun rồi nè~!”
+“Tèn ten! Đích thân Reina đã đặt may riêng cho Yuu-kun rồi nè~!”
 
-Đúng vậy, bằng sức mạnh của đồng tiền.
+Đúng vậy, bằng quyền năng tối thượng của đồng tiền.
 
-Tôi đã thông qua Lớp trưởng để ngầm dẫn dắt Reina tự bỏ tiền túi ra mua trang phục cho Souma Yuuto.
+Tôi đã thông qua Lớp trưởng để ngấm ngầm dẫn dụ Reina tự nguyện móc hầu bao mua sắm trang phục hàng hiệu cho Souma Yuuto.
 
-Nếu muốn chuẩn bị trang phục riêng cho cậu ta thì chỉ có thể tận dụng ba ngày nghỉ lễ vừa qua. Bởi vì một khi bước vào tuần chuẩn bị cao điểm, công việc thu mua trang phục của lớp sẽ được ưu tiên hàng đầu, lúc đó Reina sẽ không còn cơ hội để tự ý dùng tiền túi can thiệp nữa. Lớp trưởng đã giúp tôi rỉ tai cô ấy thông điệp "Muốn mua thì phải mua ngay bây giờ!".
+Muốn may đo trang phục riêng cho cậu ta thì chỉ có thể tận dụng triệt để ba ngày nghỉ lễ vừa qua. Bởi lẽ một khi đã bước vào tuần tổng lực, guồng quay mua sắm tập thể của lớp sẽ được kích hoạt, lúc đó Reina sẽ chẳng còn cơ hội dùng tiền túi can thiệp một cách hợp lệ nữa. Lớp trưởng đã khéo léo rót vào tai cô nàng thông điệp: “Muốn tạo dấu ấn cho chàng thì phải ra tay ngay lúc này!”.
 
-So với dự đoán, Reina đã cắn câu ngay lập tức. Cô nàng không tiếc tiền để đặt mua một bộ trang phục hầu gái cao cấp nhất cho người thương.
+Và kết quả vượt ngoài mong đợi, Reina đã cắn câu ngay tắp lự. Cô nàng si tình không tiếc tiền vung tay đặt mua bộ xiêm y hầu gái cao cấp thượng hạng nhất dành tặng người thương.
 
-“Thảo nào mấy ngày nghỉ tớ thấy hai người cứ lén lút đi riêng với nhau, hóa ra là để làm chuyện này à...”
+“Thảo nào suốt mấy ngày nghỉ cứ thấy hai người lấm la lấm lét đi riêng với nhau, hóa ra là âm mưu vụ này à...”
 
-Nhận ra việc em gái và cô bạn thanh mai trúc mã hiếm khi bỏ rơi mình trong những ngày nghỉ vừa qua, Souma khẽ lẩm bẩm.
+Vỡ lẽ ra nguyên do vì sao cô em gái cưng và nhỏ bạn thanh mai trúc mã đột nhiên bỏ rơi mình suốt mấy ngày qua, Souma-kun chỉ biết ngửa mặt than trời.
 
 “Nhân tiện thì, em cũng có trang phục riêng của mình rồi ạ.”
 
-“Của Reina cũng có nữa nè!”
+“Của Reina cũng có nguyên một set xịn sò nữa nè!”
 
-Tốt lắm, làm tốt lắm Reina. Cô nàng đã chuẩn bị chu đáo trang phục cho cả hai anh em nhà Souma lẫn bản thân mình.
+Tốt lắm, làm tốt lắm Reina. Cô nàng chu đáo tới mức sắm luôn trang phục cho cả hai anh em nhà Souma lẫn bản thân mình.
 
-Những bộ trang phục này hoàn toàn là tài sản cá nhân của Reina Adelheid Ayase. Chúng không bị tính vào giới hạn đóng góp 5.000 yên của mỗi học sinh, và tất nhiên cũng không thâm hụt một cắc nào từ quỹ lớp.
+Toàn bộ những bộ cánh xa hoa lộng lẫy này đều là tài sản sở hữu cá nhân của Reina Adelheid Ayase. Chúng hoàn toàn nằm ngoài hạn mức đóng góp 5.000 yên theo quy định của nhà trường, và dĩ nhiên chẳng thèm đụng tới một cắc bạc nào từ quỹ chung của lớp.
 
-“Trông cậu đắc ý như thể mọi chuyện đều nằm trong kế hoạch vậy nhỉ, cậu Momokawa.”
+“Trông bộ mặt đắc thắng của cậu cứ như thể mọi quân cờ đều ngoan ngoãn đi đúng theo tính toán vậy nhỉ, Momokawa-kun.”
 
-“Lớp trưởng cũng thừa biết điều đó còn gì.”
+“Lớp trưởng cũng thừa thông minh để nhận ra điều đó cơ mà.”
 
-Nếu bắt một người có hoàn cảnh bình thường như bạn Natsukawa phải bỏ ra số tiền tiêu vặt ít ỏi của mình thì tôi sẽ thấy cắn rứt lương tâm lắm. Nhưng đối với một tiểu thư đài các có thể tùy hứng đi chơi Destinyland bất cứ lúc nào như Ayase thì chút tiền này chẳng thấm tháp vào đâu. Thực tế, chắc chắn cô ấy còn chẳng thèm mảy may bận tâm đến khoản chi tiêu lần này.
+Nếu bắt ép một nữ sinh có hoàn cảnh bình thường như Natsukawa-san phải trích số tiền tiêu vặt ít ỏi ra đóng góp thì lương tâm tôi sẽ cắn rứt khôn nguôi. Song đối với một vị tiểu thư đài các ngậm thìa vàng có thể tùy hứng bay sang Destinyland xả stress bất cứ lúc nào như Ayase-san thì chút tiền lẻ này chỉ như hạt cát sa mạc. Thực tế, dám chắc cô nàng còn chẳng buồn bận tâm nhìn tới dãy số không trên hóa đơn.
 
-Tôi không biết tổng chi phí cho ba bộ trang phục đó lên tới bao nhiêu con số không, nhưng người giàu thì phải tiêu tiền thật phóng khoáng chứ. Hãy góp phần thúc đẩy nền kinh tế quay vòng nào!
+Tôi chẳng rõ tổng thiệt hại cho ba bộ trang phục ấy lên tới bao nhiêu con số, nhưng người giàu thì cứ việc tiêu tiền cho kích cầu kinh tế thôi. Hãy nhiệt liệt đóng góp cho sự luân chuyển tiền tệ của nước nhà nào!
 
-“Ngay sau khi sinh hoạt lớp kết thúc, tớ muốn bắt đầu chuẩn bị chụp ảnh ngay. Đội quản gia của Lớp trưởng có vướng mắc gì không?”
+“Ngay sau khi tiết sinh hoạt lớp khép lại, tớ muốn triển khai buổi chụp hình ngay tức khắc. Bên phía đội quản gia của Lớp trưởng có vướng bận gì không?”
 
-“Không có gì đâu. Nhờ có cậu Momokawa mà bên tớ đã tiết kiệm được chi phí trang phục cho hai người rồi. Giờ chỉ cần quyết định trang phục cho những người còn lại thôi.”
+“Bên tớ hoàn toàn sẵn sàng. Nhờ có Momokawa-kun mà ngân sách lớp đã dôi dư ra một khoản lớn chi phí trang phục cho hai nhân sự rồi. Giờ chỉ việc duyệt nốt trang phục cho những người còn lại là xong.”
 
-Mà vốn dĩ tôi cũng không nghĩ một người chu toàn như Lớp trưởng lại để sót việc gì quan trọng đến tận lúc này mới cuống cuồng giải quyết. Cô ấy chắc chắn sẽ lẳng lặng hoàn thành mọi thứ cần thiết một cách tuần tự mà thôi.
+Mà vốn dĩ tôi chưa từng nghĩ một người kín kẽ chu toàn như Lớp trưởng lại để sót bất kỳ lỗ hổng nào tới tận phút chót mới cuống cuồng vá víu. Cô ấy chắc chắn sẽ âm thầm giải quyết mọi việc cần thiết một cách tuần tự và chuẩn xác.
 
-Chính vì sự chu đáo đó của cô ấy mới tạo ra khoảng trống dư dả để tôi có thể triển khai những ý tưởng bộc phát của mình. Chứ nếu là ở tập thể lớp năm ngoái, chắc chắn tôi đã bị gạt phắt đi bằng một câu "đừng có làm chuyện bao đồng" rồi.
+Chính nhờ sự vững chãi đáng tin cậy ấy của cô ấy mới tạo ra một khoảng không gian dư dả để tôi thỏa sức vùng vẫy với những ý tưởng bộc phát có phần điên rồ của mình. Chứ nếu rơi vào tập thể lớp năm ngoái, bảo đảm mấy sáng kiến kiểu này đã bị gạt phăng đi kèm theo một gáo nước lạnh “bớt lo chuyện bao đồng lại” rồi.
 
-“Được rồi, mọi người bắt tay vào việc của mình đi nhé.”
+“Được rồi, các tổ mau chóng bắt tay vào phần việc của mình đi nhé!”
 
-Theo khẩu lệnh của Lớp trưởng, cả lớp đồng loạt đứng dậy và bắt đầu di chuyển.
+Dưới hiệu lệnh dứt khoát của Lớp trưởng, cả lớp đồng loạt đứng dậy tản ra các vị trí tác chiến.
 
-Sắp tới, với tư cách là hầu gái át chủ bài kiêm Maid Trưởng, tôi sẽ phải thực hiện một lớp trang điểm kỹ lưỡng nhất từ trước đến nay để phục vụ cho buổi chụp ảnh quảng cáo. Và công đoạn tiếp theo sẽ hoàn toàn thuộc về trách nhiệm của stylist riêng của tôi.
+Lát nữa đây, với tư cách hầu gái át chủ bài kiêm 『Maid Trưởng』, tôi sẽ phải đắp lên mặt một lớp trang điểm công phu nhất từ trước tới nay để chuẩn bị cho buổi chụp hình quảng bá. Và công đoạn biến hóa tiếp theo sẽ hoàn toàn phó thác vào đôi bàn tay vàng của stylist riêng của tôi.
 
-“Tớ đã đánh xong lớp kem lót rồi. Phần còn lại nhờ cậu cả đấy, Randou-san.”
+“Tớ đã dặm xong lớp kem lót rồi. Mọi sự nhờ cậy cả vào cậu đấy nhé, Randou-san.”
 
-“Cứ giao cho tớ. Tớ sẽ biến cậu thành một mỹ nhân không thua kém gì Souma đâu.”
+“Cứ kê cao gối mà tin tưởng ở tớ. Tớ sẽ phù phép biến cậu thành một tuyệt sắc giai nhân chẳng thua kém gì Souma đâu!”

@@ -2,298 +2,298 @@
 
 “C-Chuyện này rốt cuộc là sao... Đã có chuyện gì xảy ra thế này...?”
 
-Sáng sớm, Malcolm đến đồn điền New Hope làm việc.
+Sáng sớm, Malcolm đến đồn điền New Hope để bắt đầu ngày làm việc.
 
-Lối vào hoang tàn kỳ lạ cùng bầu không khí im ắng đến đáng sợ khiến anh ta cảm thấy có gì đó bất thường. Ngay khi đứng trước dinh thự, anh ta lập tức nhìn thấy một cảnh tượng dị thường rõ mồn một.
+Cảnh tượng cổng vào hoang tàn kỳ lạ cùng bầu không khí tĩnh mịch đến rợn người khiến anh ta lập tức cảm thấy có điều chẳng lành. Ngay khi bước đến trước dinh thự, đập vào mắt anh ta là một cảnh tượng dị thường không thể chối cãi.
 
-Cánh cửa chính của dinh thự đã bị phá hủy hoàn toàn.
+Cánh cửa chính kiên cố của dinh thự đã bị phá hủy tan tành.
 
-Ý nghĩ đầu tiên lóe lên trong đầu anh ta là một vụ tai nạn. Chẳng hạn như ai đó vô tình làm nổ chất nổ...
+Ý nghĩ đầu tiên lóe lên trong đầu anh ta là một vụ tai nạn. Chẳng hạn như ai đó đã bất cẩn làm nổ kho thuốc súng ma pháp...
 
-Khi đối mặt với sự bất thường, con người ta thường có xu hướng tìm kiếm một nguyên nhân hợp lý để tự trấn an bản thân. Đặc biệt là với một trí thức chưa từng va chạm với bạo lực như Malcolm, điều đó lại càng rõ rệt.
+Khi đối mặt với những biến cố vượt ngoài tầm hiểu biết, con người ta thường có xu hướng bấu víu vào một lý do hợp lý nào đó để tự trấn an bản thân. Đặc biệt là với một học giả trí thức chưa từng chạm trán với bạo lực đẫm máu như Malcolm, phản xạ tâm lý ấy lại càng rõ nét hơn bao giờ hết.
 
-Tuy nhiên, những suy đoán vô căn cứ nhằm tự xoa dịu bản thân của anh ta lập tức bị dập tắt. Bởi lẽ, kẻ nắm giữ toàn bộ sự thật của sự dị thường này đã xuất hiện.
+Thế nhưng, những phỏng đoán vô căn cứ nhằm tự xoa dịu nỗi sợ của anh ta lập tức bị dập tắt không thương tiếc. Bởi lẽ, kẻ nắm giữ toàn bộ sự thật đằng sau cảnh tượng hoang tàn này đã ung dung xuất hiện.
 
-“Chào buổi sáng, cậu Malcolm. Cậu đi làm sớm thật đấy.”
+“Chào buổi sáng, cậu Malcolm. Hôm nay cậu đi làm sớm thật đấy.”
 
-Một giọng nói cởi mở vang lên như thể của một đồng nghiệp thân thiết. Từ sau cánh cửa chính đổ nát, một bóng người nhỏ bé bước ra.
+Một giọng nói trong trẻo, cởi mở vang lên như thể lời chào hỏi giữa những đồng nghiệp thân thiết lâu năm. Từ sau đống đổ nát của cánh cửa chính, một bóng người nhỏ nhắn chậm rãi bước ra.
 
-Trong một khoảnh khắc, Malcolm không thể nhận ra đó là ai.
+Trong khoảnh khắc đầu tiên, Malcolm hoàn toàn không thể nhận ra đó là ai.
 
-Mái tóc đen nhánh, đôi mắt mang sắc tím thẫm huyền bí như mắt mèo. Gương mặt ngây thơ mang nét trung tính của một đứa trẻ, cùng vóc dáng nhỏ nhắn, mảnh khảnh.
+Mái tóc đen nhánh, đôi mắt mang sắc tím thẫm huyền bí tựa như mắt mèo. Gương mặt ngây thơ mang nét đẹp phi giới tính của một đứa trẻ, cùng vóc dáng nhỏ bé, mảnh khảnh.
 
-Dù đường nét ấy vô cùng quen thuộc, nhưng cách nói chuyện rõ ràng, và trên hết là bộ trang phục cậu ta đang mặc lại mang đến một ấn tượng hoàn toàn khác biệt so với kẻ mà anh ta từng biết.
+Dù từng đường nét trên khuôn mặt ấy vô cùng quen thuộc, nhưng phong thái đĩnh đạc, cách phát âm gãy gọn, và trên hết là bộ trang phục cậu ta đang khoác trên người lại mang đến một cảm giác hoàn toàn khác biệt so với kẻ mà anh ta từng biết.
 
-Cậu ta đang khoác trên mình một chiếc áo khoác blazer màu xanh navy đậm.
+Cậu ta đang mặc một chiếc áo khoác blazer màu xanh navy đậm tinh tươm.
 
-Đó là đồng phục của ngôi trường mà Wonta dự định sẽ theo học. Bộ đồng phục được chuẩn bị từ sớm này chính tay Malcolm đã sắp xếp, nên anh ta nhận ra ngay lập tức.
+Đó chính là bộ đồng phục của ngôi trường danh giá mà thiếu gia Wonta dự định sẽ theo học. Bộ lễ phục được đặt may riêng và chuẩn bị từ rất sớm này do chính tay Malcolm sắp xếp, nên anh ta nhận ra ngay trong tích tắc.
 
-Thế nhưng, kẻ đang mặc bộ đồng phục mới toanh đó lại là...
+Thế nhưng, kẻ đang mặc bộ đồng phục mới toanh không một nếp nhăn đó lại là...
 
 “Đứa trẻ bị nguyền rủa, Momoka... T-Tại sao cậu lại ở đây...?”
 
-“Để tôi giới thiệu lại nhé. Tôi là Momokawa Kotarou, Đứa con của Chú thần Ruinhilde. Nhưng có vẻ người Astoria khó phát âm cái tên này quá, nên cứ gọi tôi là Momoka cũng được.”
+“Để tôi tự giới thiệu lại một cách đàng hoàng nhé. Tôi là Momokawa Kotarou, Đứa con của Chú thần Ruinhilde. Nhưng có vẻ như người Astoria các cậu thấy cái tên này hơi khó phát âm thì phải, nên cứ gọi tôi là Momoka như trước cũng chẳng sao đâu.”
 
-Cho đến ngày hôm qua, cậu ta vẫn mặc bộ đồ bao tải thô sơ rách rưới đúng nghĩa của một nô lệ.
+Mới chỉ ngày hôm qua thôi, cậu ta vẫn còn mặc chiếc áo bao tải thô ráp, rách rưới đúng chuẩn của một nô lệ thấp hèn.
 
-Nhưng giờ đây, ý nghĩa của việc Momoka — không, Kotarou — xuất hiện trong dáng vẻ này khiến Malcolm lập tức hiểu ra vấn đề.
+Thế nhưng giờ đây, ý nghĩa đằng sau việc Momoka — không, phải là Momokawa Kotarou — xuất hiện đàng hoàng trong dáng vẻ này khiến đầu óc thông minh của Malcolm lập tức xâu chuỗi và hiểu ra toàn bộ vấn đề.
 
-*Làm ơn, xin đừng như những gì tôi đang nghĩ...* Anh ta thầm cầu nguyện với thần linh, nhưng lời cầu xin đó đã tan thành mây khói.
+*Làm ơn, xin thần linh rủ lòng thương, đừng giống như những gì tôi đang nghĩ...* Anh ta thầm cầu nguyện trong tuyệt vọng, nhưng lời khẩn cầu ấy đã tan thành mây khói ngay lập tức.
 
-“Tôi đang đợi cậu đấy. Nào, vào đi chứ. Đừng khách sáo, giờ đây là dinh thự của tôi rồi.”
+“Tôi đã đợi cậu từ nãy đến giờ đấy. Nào, vào trong đi chứ. Đừng khách sáo, từ giờ nơi này đã là dinh thự của tôi rồi.”
 
-Bên cạnh Kotarou đang mỉm cười chào đón là một người phụ nữ Diana cao lớn, tỏa ra áp lực vô hình.
+Bên cạnh một Kotarou đang mỉm cười đón khách là một người phụ nữ Diana vạm vỡ, cao lớn, tỏa ra áp lực vô hình bức người.
 
-Khoác trên mình bộ hầu gái với chiếc tạp dề trắng tinh khiết là Riza, nữ chiến sĩ Diana da nâu. Dù có bị quất roi bao nhiêu đi chăng nữa, cô ta vẫn luôn giữ khuôn mặt vô cảm như đeo mặt nạ sắt, và là nô lệ chiến sĩ mạnh nhất đồn điền này.
+Khoác trên mình bộ trang phục hầu gái với chiếc tạp dề trắng muốt tinh khiết là Riza, nữ chiến sĩ Diana da nâu. Dù có bị tra tấn hay quất roi tàn nhẫn đến mức nào đi chăng nữa, cô ta vẫn luôn giữ vẻ mặt lạnh lùng như đeo mặt nạ sắt, và cũng chính là nô lệ chiến sĩ thiện chiến nhất đồn điền này.
 
-Hơn thế nữa, từ lúc nào không hay, phía sau lưng Malcolm đã xuất hiện những người đàn ông Diana mặc trang phục của lính gác, vác súng trường và được vũ trang đầy đủ, lặng lẽ đứng dàn hàng. Trái ngược với nụ cười ngây thơ của Kotarou, sự im lặng tuyệt đối của họ toát lên một ý chí đanh thép: Quyết không để anh ta chạy thoát.
+Chưa dừng lại ở đó, từ lúc nào không hay, phía sau lưng Malcolm đã xuất hiện một hàng dài những gã đàn ông Diana vạm vỡ trong quân phục lính gác. Họ vác súng trường ma pháp, trang bị vũ trang tận răng và lặng lẽ phong tỏa toàn bộ lối thoái. Trái ngược hoàn toàn với nụ cười ngây thơ của Kotarou, sự im lặng tuyệt đối đầy sát khí của họ toát lên một ý chí đanh thép: Tuyệt đối không để anh ta có cơ hội chạy thoát.
 
 “T-Tôi hiểu rồi...”
 
-Malcolm không còn lựa chọn nào khác.
+Malcolm biết mình không còn bất kỳ lựa chọn nào khác.
 
-Cảm nhận được nỗi sợ hãi tột cùng khi mạng sống của mình đã nằm trong tay kẻ khác, Malcolm được dẫn vào phòng làm việc quen thuộc.
+Cảm nhận rõ rệt nỗi kinh hoàng tột độ khi tính mạng ngàn cân treo sợi tóc nằm trọn trong tay kẻ khác, Malcolm ngoan ngoãn để bọn họ dẫn bước vào căn phòng làm việc quen thuộc.
 
-“Cứ ngồi đi.”
+“Cứ tự nhiên ngồi đi.”
 
-“...Cảm ơn.”
+“...Cảm ơn cậu.”
 
-Anh ta ngồi xuống ghế sofa theo lời mời.
+Anh ta run rẩy ngồi xuống chiếc ghế sofa theo lời mời.
 
-Riza lập tức dâng trà với phong thái của một người phục vụ, nhưng đầu óc Malcolm chỉ tràn ngập những suy nghĩ tiêu cực, tự hỏi liệu trong tách trà này có độc hay không.
+Riza lập tức tiến lại dâng trà với phong thái chuẩn mực của một hầu gái phục vụ, nhưng trong đầu Malcolm lúc này chỉ tràn ngập những suy nghĩ tiêu cực và hoảng loạn, tự hỏi liệu trong tách trà thơm ngát kia có bị tẩm kịch độc hay không.
 
-Anh ta không thể bình tĩnh nổi. Làm sao có thể bình tĩnh được chứ? Trong suốt cuộc đời của mình, Malcolm chưa từng phải ngồi vào bàn đàm phán khi tính mạng bị đe dọa như thế này.
+Anh ta làm sao có thể giữ bình tĩnh nổi cơ chứ? Suốt cả cuộc đời mình, một trí thức như Malcolm chưa từng phải ngồi vào bàn đàm phán khi mà chỉ một cái phẩy tay của đối phương cũng đủ tước đoạt mạng sống của anh ta như thế này.
 
-“Trước tiên, tôi muốn cậu yên tâm. Tôi không có ý định làm hại cậu. Lát nữa tôi sẽ đưa ra một yêu cầu, nhưng ngay cả khi cậu từ chối, tôi hứa cậu vẫn sẽ được rời khỏi đây một cách an toàn.”
+“Trước tiên, tôi muốn cậu cứ thả lỏng và yên tâm đi đã. Tôi hoàn toàn không có ý định làm hại cậu đâu. Lát nữa tôi sẽ đưa ra một vài đề nghị, nhưng kể cả khi cậu thẳng thừng từ chối, tôi vẫn cam đoan sẽ để cậu rời khỏi đây một cách an toàn lành lặn.”
 
-“Tôi rất biết ơn sự chu đáo của cậu... Vậy thì, trước hết cậu có thể giải thích tình hình hiện tại cho tôi được không? Như vậy sẽ giúp ích cho tôi rất nhiều.”
+“Tôi rất biết ơn lòng tốt và sự chu đáo của cậu... Vậy thì, trước hết cậu có thể giải thích rõ tình hình thực tế hiện tại cho tôi được không? Điều đó sẽ giúp ích cho tôi rất nhiều đấy.”
 
-“Như cậu đã đoán đấy, đêm qua chúng tôi đã khởi nghĩa.”
+“Đúng như những gì cậu đã đoán rồi đấy, đêm qua chúng tôi đã tiến hành khởi nghĩa.”
 
 “Không thể nào... Vậy còn Đội trưởng Deyrick...?”
 
-“Với thực lực chỉ đủ để đánh một trận ngang ngửa với Thiết Giáp Hùng thì ông ta làm sao đấu lại 『Tinh Linh Chiến Sĩ』 của tôi được.”
+“Một kẻ với thực lực chỉ đủ để đánh một trận ngang cơ với 『Thiết Giáp Hùng』 như ông ta thì làm sao có cửa đấu lại 『Tinh Linh Chiến Sĩ』 của tôi được chứ.”
 
-Kotarou chỉ liếc nhìn về phía Riza một cái, Malcolm lập tức hiểu ra.
+Kotarou chỉ khẽ liếc mắt về phía Riza, Malcolm lập tức hiểu ra tất cả.
 
-Anh ta từng nghe đồn Riza vốn là một cựu 『Tinh Linh Chiến Sĩ』. Và các 『Tinh Linh Chiến Sĩ』 có thể mượn sức mạnh từ những kẻ được gọi là Đứa con của thần để bộc phát năng lực chiến đấu mạnh mẽ tương đương với 『Thiên chức』.
+Anh ta từng nghe phong phanh rằng Riza vốn là một cựu 『Tinh Linh Chiến Sĩ』 lẫy lừng. Và các 『Tinh Linh Chiến Sĩ』 một khi nhận được sự chúc phúc từ những kẻ được gọi là Đứa con của thần, họ có thể giải phóng năng lực chiến đấu kinh hoàng tương đương với một 『Thiên chức』 bậc cao.
 
-Tất nhiên, ngay cả khi Kotarou và Riza không phải là mối quan hệ giữa Thần tử và 『Tinh Linh Chiến Sĩ』, thì chỉ cần bị những nô lệ cầm súng lườm thôi, Malcolm cũng chẳng có gan kháng cự.
+Dĩ nhiên, ngay cả khi giữa Kotarou và Riza không tồn tại mối liên kết huyền bí giữa Thần tử và 『Tinh Linh Chiến Sĩ』, thì chỉ cần nhìn họng súng của đám nô lệ Diana đang chĩa thẳng vào mình, Malcolm cũng chẳng dại dột gì mà chống cự.
 
-“Tuy nhiên, chúng tôi không có ý định bỏ trốn, cũng không muốn chiếm đóng đồn điền rồi cố thủ ở đây.”
+“Tuy nhiên, chúng tôi không có ý định dắt díu nhau bỏ trốn vào rừng sâu, cũng chẳng hề muốn biến đồn điền này thành pháo đài cố thủ làm bia đỡ đạn.”
 
-“Chẳng lẽ... các cậu muốn che giấu cuộc khởi nghĩa để chiếm đoạt đồn điền này sao?!”
+“Chẳng lẽ... các cậu muốn che đậy toàn bộ cuộc khởi nghĩa để âm thầm chiếm đoạt đồn điền này sao?!”
 
-“Cậu hiểu nhanh đấy, đỡ tốn công tôi giải thích.”
+“Cậu tiếp thu nhanh thật đấy, đỡ tốn công tôi phải dông dài giải thích.”
 
-Kotarou bắt đầu trình bày kế hoạch chiếm đoạt.
+Kotarou thản nhiên trình bày chi tiết kế hoạch chiếm đoạt quyền kiểm soát.
 
-Đội lính gác đã bị tiêu diệt hoàn toàn do cuộc tấn công của Thiết Giáp Hùng, và các nô lệ đã đứng lên chiến đấu chống lại nó. Cảm động trước hành động đó, Chủ tịch đã giải phóng các nô lệ Diana và chuyển họ thành nhân viên chính thức của đồn điền.
+Toàn bộ đội lính gác đồn điền đã anh dũng hy sinh do cuộc tập kích bất ngờ của ma thú hoang dã 『Thiết Giáp Hùng』, và chính các nô lệ Diana đã dũng cảm đứng lên chiến đấu tiêu diệt ma thú để bảo vệ trang điền. Quá xúc động trước nghĩa cử xả thân đó, Chủ tịch Winston đã quyết định giải phóng toàn bộ nô lệ Diana và ký hợp đồng chuyển họ thành nhân viên chính thức của đồn điền New Hope.
 
-Những người thiệt mạng và bị thương hoàn toàn là do ma vật hoang dã Thiết Giáp Hùng gây ra. Các nô lệ Diana không phải là kẻ nổi loạn, mà là những công thần cứu mạng đồn điền. Bằng cách này, sự thật về cuộc khởi nghĩa sẽ bị bịt kín, và quân đội Astoria sẽ không có lý do gì để can thiệp.
+Tất cả những người thiệt mạng và bị thương đêm qua đều là do nanh vuốt của 『Thiết Giáp Hùng』 gây ra. Các nô lệ Diana không phải là quân phản loạn, mà là những ân nhân cứu mạng của đồn điền. Bằng cách dựng lên bức màn kịch hoàn hảo này, chân tướng cuộc khởi nghĩa sẽ bị bịt kín hoàn toàn, và quân đội Hoàng gia Astoria sẽ chẳng có bất kỳ lý do hay cơ sở pháp lý nào để can thiệp.
 
-“Vì vậy, tôi muốn cậu trở thành chủ đồn điền mới.”
+“Chính vì vậy, tôi muốn cậu đứng ra trở thành chủ đồn điền mới.”
 
-“Tại sao lại là tôi? Nếu các cậu đã bắt giữ Chủ tịch Winston, sao không cứ để ông ta tiếp tục đứng tên?”
+“Tại sao lại là tôi? Nếu các cậu đã khống chế được Chủ tịch Winston, sao không ép ông ta tiếp tục đứng tên trên danh nghĩa?”
 
-“Bởi vì ông ta được cho là đã bị Thiết Giáp Hùng tấn công và trọng thương, buộc phải lui về hậu trường. Để giao lại sản nghiệp này, ngoài cậu ra thì còn ai xứng đáng hơn chứ?”
+“Bởi vì trên giấy tờ, ông ta được ghi nhận là đã bị 『Thiết Giáp Hùng』 cắn trọng thương tàn phế, buộc phải lui về hậu trường tĩnh dưỡng. Để tiếp quản lại cơ ngơi đồ sộ này, ngoài một cánh tay đắc lực như cậu ra thì còn ai xứng đáng và hợp lý hơn nữa chứ?”
 
-Malcolm chắc chắn rằng Kotarou hiểu rất rõ: Để đồn điền New Hope tiếp tục tồn tại như trước, sự hiện diện của một nhà quản lý là điều tối quan trọng.
+Malcolm hiểu rõ Kotarou nhìn nhận cục diện sắc bén đến mức nào: Muốn đồn điền New Hope tiếp tục vận hành trơn tru như trước, sự hiện diện của một nhà quản lý am tường sổ sách và luật pháp là điều tối quan trọng.
 
-Đối với những nô lệ này, có lẽ chẳng có sự khác biệt nào giữa anh ta và Winston. Chỉ là kẻ đứng đầu hay kẻ đứng thứ hai mà thôi. Nếu anh ta có mặt tại hiện trường cuộc khởi nghĩa, đương nhiên anh ta cũng sẽ bị nhắm vào.
+Đối với đám nô lệ nổi dậy, có lẽ chẳng có sự khác biệt nào giữa anh ta và Winston. Tất cả đều là giai cấp bóc lột, một kẻ đứng đầu và một kẻ đứng thứ hai mà thôi. Nếu đêm qua anh ta có mặt tại dinh thự, chắc chắn anh ta cũng đã bị thanh trừng cùng một giuộc.
 
-“Chúng tôi không thể để một kẻ bị đe dọa lộ liễu đứng ra điều hành mọi việc được. Nếu đã là đồng nghiệp cùng làm việc, tôi muốn cậu hợp tác trên tinh thần tự nguyện.”
+“Chúng tôi không thể để một kẻ mang tâm lý bị đe dọa lộ liễu đứng ra đại diện điều hành mọi việc ngoài sáng được. Nếu đã xác định là đối tác làm việc cùng nhau, tôi muốn cậu hợp tác trên tinh thần hoàn toàn tự nguyện.”
 
-Hiện tại, việc nắm giữ mạng sống của cả gia đình Winston đang giúp họ chiếm ưu thế. Nhưng nếu cho ông ta một chút tự do để hành động, không ai biết ông ta sẽ lật lọng lúc nào.
+Ở thời điểm hiện tại, việc nắm giữ sinh mạng của cả gia đình Winston đang giúp phe khởi nghĩa chiếm thế thượng phong. Nhưng nếu để cho lão ta có một chút không gian tự do để tiếp xúc với thế giới bên ngoài, chẳng ai dám chắc lão sẽ lật lọng vào lúc nào.
 
-Dù có dùng tính mạng gia đình để đe dọa, tinh thần của ông ta rồi cũng sẽ đến giới hạn. Biết đâu trong một phút bốc đồng, ông ta sẽ chạy thẳng đến căn cứ quân đội Astoria để cầu cứu mà không màng hậu quả? Hoặc giả, ông ta có thể âm thầm gửi tín hiệu SOS cho ai đó.
+Dù có dùng mạng sống vợ con ra uy hiếp, thần kinh của một kẻ quý tộc sa cơ rồi cũng sẽ chạm đáy giới hạn. Biết đâu trong một phút quẫn trí bốc đồng, lão ta sẽ lao thẳng vào đồn lính Astoria để tố cáo mà bất chấp hậu quả? Hoặc tinh vi hơn, lão ta có thể âm thầm gửi tín hiệu cầu cứu SOS cho những thương hội quý tộc khác.
 
-Đứng từ góc độ rủi ro, việc tiếp tục lợi dụng Winston làm Chủ tịch là điều bất khả thi.
+Xét dưới góc độ rủi ro quản trị, việc tiếp tục để Winston nắm quyền Chủ tịch là một nước cờ quá mạo hiểm.
 
-*Ra là vậy.* Quả thực, nếu Malcolm hoàn toàn hợp tác với Kotarou, kế hoạch của cậu ta sẽ lập tức trở nên vô cùng khả thi.
+*Ra là vậy.* Quả thực, nếu Malcolm toàn tâm toàn ý bắt tay với Kotarou, kế hoạch điên rồ này sẽ lập tức trở thành một phương án hoàn hảo không tì vết.
 
-Việc kinh doanh của đồn điền vẫn tiếp diễn suôn sẻ, và việc anh ta đứng ra làm chủ đồn điền mới sẽ giúp che đậy cuộc khởi nghĩa. Bản thân Winston vẫn còn sống cũng sẽ giúp họ dễ dàng tránh được sự nghi ngờ từ bên ngoài.
+Hoạt động kinh doanh của đồn điền vẫn diễn ra bình thường, và việc một quản lý kỳ cựu như anh ta đứng ra tiếp quản chức chủ đồn điền sẽ dập tắt mọi nghi ngờ về một cuộc nổi dậy. Việc Winston vẫn còn sống dưỡng bệnh cũng là bình phong vững chắc nhất để qua mắt chính quyền.
 
-“Nhưng, ngay cả khi tôi trở thành chủ đồn điền, kẻ thực sự chi phối nơi này vẫn là...”
+“Thế nhưng, kể cả khi tôi đứng tên làm chủ đồn điền, kẻ thực sự nắm quyền sinh sát tối cao tại nơi này vẫn là...”
 
-“Đúng vậy. Thế nên tôi đã chuẩn bị sẵn một phần thưởng xứng đáng dành cho cậu.”
+“Đúng thế. Chính vì vậy, tôi đã chuẩn bị sẵn một phần thưởng vô cùng xứng đáng dành riêng cho cậu rồi.”
 
-Malcolm vừa kinh ngạc vừa sợ hãi khi nhận ra đối phương thậm chí đã chuẩn bị sẵn mồi nhử để kéo mình về phe.
+Malcolm vừa kinh ngạc vừa lạnh sống lưng khi nhận ra đối phương thậm chí đã tính toán và chuẩn bị sẵn một miếng mồi béo bở để kéo mình về cùng chiến tuyến.
 
-Thông thường, kẻ chiến thắng sẽ chỉ nói: “Tao đã cho mày cả cái đồn điền này rồi, thế còn chưa đủ à?” và kết thúc câu chuyện. Dù là trong một cuộc thương lượng mang tính đe dọa của kẻ nổi loạn hay một giao dịch thương mại thông thường, điều đó vẫn luôn đúng.
+Thông thường, những kẻ thắng cuộc tàn bạo sẽ chỉ gằn giọng đe dọa: “Tao tha mạng và cho mày đứng tên cả cái đồn điền này rồi, còn chưa biết điều mà phục tùng à?” rồi kết thúc cuộc đàm phán. Dù là trong một cuộc uy hiếp chính trị hay một thương vụ buôn bán trên thương trường, quy luật kẻ mạnh vẫn luôn là như vậy.
 
-Ban đầu, vì nỗi sợ hãi, Malcolm đã nghĩ rằng mình sẽ không hợp tác với Kotarou, dù có phải rời bỏ thị trấn này đi chăng nữa. Thế nhưng, sự chu đáo đến mức chuẩn bị sẵn phần thưởng này khiến anh ta nhận ra tâm tư của mình đã bị đối phương đọc thấu.
+Ban đầu, vì nỗi sợ hãi xâm chiếm, Malcolm đã toan tính rằng mình sẽ kiên quyết từ chối hợp tác với Kotarou, dù có phải bỏ trốn khỏi thị trấn này với hai bàn tay trắng đi chăng nữa. Thế nhưng, sự chu đáo đến mức sắp đặt sẵn phần thưởng đánh trúng tim đen này khiến anh ta bàng hoàng nhận ra toàn bộ tâm tư, khát vọng thầm kín của mình đã bị đứa trẻ trước mặt đọc thấu như một cuốn sách mở.
 
-Đáng sợ thật đấy, nhưng Malcolm cũng không khỏi tò mò muốn biết Kotarou sẽ đưa ra phần thưởng gì.
+Đáng sợ đến rợn người, nhưng Malcolm cũng không kìm nén nổi sự tò mò muốn biết Kotarou sẽ đưa ra phần thưởng gì để mua chuộc mình.
 
 “Được rồi, vào đi—”
 
 “Tôi xin phép.”
 
-Theo tiếng gọi của Kotarou, một nữ hầu bước vào phòng.
+Theo tiếng gọi nhẹ nhàng của Kotarou, cánh cửa phòng làm việc khẽ mở và một cô hầu gái bước vào.
 
 “Cô... Elise...”
 
-Nữ hầu đó là một trong những người làm việc và sinh sống tại dinh thự này. Cô ấy không phải người Diana, mà là một phụ nữ Astoria.
+Nữ hầu vừa bước vào là một trong những gia nhân sinh sống và phục vụ tại dinh thự này. Cô ấy không phải người Diana bản địa, mà là một thiếu nữ mang dòng máu Astoria thuần túy.
 
-“Những gia nhân sống ở đây đêm qua đều sẽ được sắp xếp để trở thành nạn nhân của Thiết Giáp Hùng. Huống chi cô ta không chỉ đơn thuần là một người hầu. Cô ta là nhân tình của Winston.”
+“Toàn bộ những gia nhân sống trong dinh thự đêm qua đều sẽ được ghi nhận là nạn nhân xấu số của 『Thiết Giáp Hùng』. Huống hồ chi, cô ta đâu chỉ đơn thuần là một người hầu gái quét dọn. Cô ta chính là nhân tình bí mật của lão Winston mà, đúng chứ?”
 
-“K-Khoan đã... cô ấy...”
+“K-Khoan đã... cô ấy không có tội...”
 
-“À, tất nhiên là tôi sẽ khoan dung rồi. Bởi vì đối với cậu, cô ấy là người mà cậu thầm thương trộm nhớ bấy lâu nay, đúng không?”
+“À, tất nhiên là tôi sẽ mở lượng khoan hồng tuyệt đối rồi. Bởi vì đối với cậu, người phụ nữ này chính là bóng hồng mà cậu đã thầm thương trộm nhớ bấy lâu nay, có phải không nào?”
 
-*Cậu ta biết hết rồi. Mọi thứ.*
+*Cậu ta biết hết rồi. Không sót một chút manh mối nào cả.*
 
-Việc Elise là nhân tình của Winston là một sự thật mà ai cũng ngầm hiểu. Ngay cả vợ của Winston cũng nhắm mắt làm ngơ.
+Việc Elise là tình nhân không chính thức của Winston là một bí mật công khai mà ai trong dinh thự cũng ngầm hiểu. Thậm chí ngay cả bà vợ chính thất của Winston cũng nhắm mắt làm ngơ cho qua chuyện.
 
-Mối quan hệ này hoàn toàn trái ngược với giáo lý vợ chồng của Pandora Thánh Giáo, nhưng ít nhất vợ chồng Winston vẫn sống hòa thuận nhờ nó. Chồng nuôi nhân tình trẻ trong dinh thự, vợ thỉnh thoảng ra ngoài ngoại tình để giải khuây. Thay vì gò bó bản thân để duy trì một mối quan hệ thanh khiết giả tạo, việc tạo ra một môi trường để cả hai cùng giải tỏa áp lực lại chính là bí quyết giữ gìn hạnh phúc gia đình của họ.
+Mối quan hệ ngoài luồng này hoàn toàn đi ngược lại giáo lý hôn nhân một vợ một chồng thanh khiết của Pandora Thánh Giáo, nhưng kỳ lạ thay, gia đình Winston lại duy trì được sự êm ấm nhờ chính sự phóng túng đó. Chồng nuôi nhân tình trẻ đẹp trong dinh thự để thỏa mãn thú vui, vợ thỉnh thoảng ra ngoài tiệc tùng lăng nhăng để giải tỏa ức chế. Thay vì ép buộc nhau trong một khuôn khổ đạo đức giả tạo, việc ngầm cho phép đối phương giải tỏa dục vọng lại trở thành bí quyết giữ gìn hòa khí gia đình của bọn họ.
 
-Elise cũng chẳng phải tự dưng làm nhân tình, cô ta nhận được những khoản chu cấp xứng đáng. Chuyện của ba người họ, người ngoài không có tư cách can thiệp.
+Elise cũng chẳng phải chịu thiệt thòi gì, cô nhận được những khoản chu cấp tiền bạc hậu hĩnh. Chuyện riêng tư của ba người bọn họ, người ngoài chẳng có tư cách gì để phán xét hay can thiệp.
 
-Thế nhưng, đối với Malcolm, người thầm yêu Elise, tình cảnh này quả thực vô cùng đau lòng.
+Thế nhưng, đối với một kẻ mang mối tình đơn phương sâu sắc dành cho Elise như Malcolm, cảnh tượng người mình yêu nằm trong tay lão già dâm dục Winston thực sự là một nỗi dày vò đau đớn đến xé ruột xé gan.
 
-“Sao cậu lại biết chuyện đó?”
+“Làm sao... làm sao cậu có thể biết được chuyện đó?”
 
-“Ngược lại thì, sao cậu lại nghĩ chuyện đó không ai biết?”
+“Ngược lại thì, điều gì khiến cậu ngây thơ nghĩ rằng chuyện đó không ai hay biết chứ?”
 
-Malcolm cảm thấy sốc. Hóa ra thái độ của mình lại dễ bị lộ đến thế sao?
+Malcolm cảm thấy choáng váng như vừa bị tát một gáo nước lạnh. Hóa ra những ánh mắt vụng trộm và sự quan tâm của anh ta bấy lâu nay lại lộ liễu đến mức độ ấy sao?
 
-Anh ta bất giác nhớ lại những lần tiếp xúc ít ỏi với cô, nhưng giọng nói của Kotarou đã kéo anh ta về với thực tại.
+Anh ta bất giác nhớ lại những lần chạm mặt ngắn ngủi đầy ngượng ngùng với cô, nhưng chất giọng ma mị của Kotarou đã kéo phăng tâm trí anh ta trở về với thực tại nghiệt ngã.
 
-“Tôi sẽ giao cô gái này cho cậu.”
+“Tôi sẽ trao quyền sở hữu người phụ nữ này lại cho cậu.”
 
-“...Cậu có thể thôi cái kiểu nói chuyện coi cô ấy như một món hàng được không?”
+“...Cậu có thể làm ơn dẹp cái kiểu nói chuyện coi cô ấy như một món hàng hóa đi được không?”
 
-“Hiện tại thì cô ta đang là món hàng của tôi đấy thôi.”
+“Thực tế phũ phàng là lúc này đây, cô ta đích thị là món hàng nằm trong tay tôi đấy thôi.”
 
-Việc người phụ nữ này sẽ bị biến thành nô lệ hay bị giết hoàn toàn phụ thuộc vào quyết định của Kotarou. Quyền lực và vị thế đó của cậu ta được thể hiện rõ ràng qua thái độ phục tùng tuyệt đối của những người Diana đang lặng lẽ đứng sau, dẫn đầu là Riza.
+Số phận của người phụ nữ này — bị đày ải làm nô lệ thấp hèn, bị xử tử hay được sống trong nhung lụa — hoàn toàn phụ thuộc vào một cái gật đầu của Kotarou. Quyền lực thống trị tuyệt đối ấy được thể hiện rõ ràng qua ánh mắt phục tùng vô điều kiện của những chiến sĩ Diana đang bồng súng đứng phía sau, mà dẫn đầu là Riza.
 
-Malcolm khẽ liếc nhìn sang và nhận ra Elise đang đứng cạnh Kotarou khẽ run rẩy. Anh ta cảm nhận được nỗi sợ hãi tột cùng mà cô đang phải chịu đựng.
+Malcolm khẽ liếc nhìn sang và nhận thấy bờ vai gầy guộc của Elise đang khẽ run rẩy bần bật bên cạnh Kotarou. Anh ta cảm nhận được sự sợ hãi tột cùng và nỗi tuyệt vọng mà người con gái mình yêu đang phải gánh chịu.
 
-Đồng thời, trong lòng anh ta dâng lên một niềm phẫn nộ chính nghĩa muốn bảo vệ cô. Không, đây chính là tình yêu.
+Đồng thời, tận sâu trong đáy lòng anh ta bùng cháy lên một ngọn lửa phẫn nộ đầy tính trượng phu muốn đứng ra che chở cho cô. Không, đó chính là tình yêu đích thực mà bấy lâu nay anh ta chôn giấu.
 
-“Đúng vậy đấy, người duy nhất có thể cứu Elise lúc này chỉ có cậu mà thôi.”
+“Đúng như cậu đang nghĩ đấy, người duy nhất trên cõi đời này có thể cứu vớt Elise lúc này chỉ có mình cậu mà thôi.”
 
-Như thể nhìn thấu tâm can của Malcolm, Kotarou nở một nụ cười thích thú và nói.
+Như thể nhìn thấu từng ngóc ngách tâm can đang giằng xé của Malcolm, Kotarou nhếch mép nở một nụ cười thích thú.
 
-“Liệu cô ấy sẽ phải chịu một kết cục bi thảm của một nô lệ, hay sẽ trở thành phu nhân hạnh phúc của một trong những chủ đồn điền lớn nhất Astoria? Thời khắc này chính là bước ngoặt. Và người quyết định điều đó chính là cậu, Malcolm.”
+“Liệu cô ấy sẽ phải chịu một kết cục bi thảm, bị vùi dập thân xác như một nô lệ mạt hạng, hay sẽ bước lên đỉnh cao trở thành phu nhân quyền quý, hạnh phúc của một trong những chủ đồn điền thế lực nhất Astoria? Thời khắc định mệnh này chính là bước ngoặt. Và người nắm quyền định đoạt tương lai đó không ai khác ngoài cậu, Malcolm.”
 
-Đây có phải là lời thì thầm của ác quỷ?
+Đây có phải là lời thì thầm cám dỗ đầy ma lực của loài ác quỷ?
 
-Khi Winston mời anh ta đến đồn điền làm việc. Khi anh ta lần đầu gặp gỡ và trò chuyện với Elise. Cả hai khoảnh khắc đó đều là những ký ức không thể nào quên trong cuộc đời anh ta.
+Khoảnh khắc khi Winston đích thân mời anh ta về làm quản lý cho đồn điền. Khoảnh khắc khi anh ta lần đầu tiên chạm mặt và rung động trước nụ cười của Elise. Cả hai dấu mốc ấy đều là những ký ức không thể nào phai mờ trong cuộc đời anh ta.
 
-Thế nhưng, từ nay về sau, câu hỏi này của Kotarou chắc chắn sẽ là thứ khắc sâu vào tâm trí anh ta một cách mãnh liệt nhất.
+Thế nhưng, kể từ ngày hôm nay trở đi, câu hỏi đầy toan tính này của Momokawa Kotarou chắc chắn sẽ là thứ khắc sâu vào tâm khảm anh ta một cách mãnh liệt và ám ảnh nhất.
 
-Lựa chọn nằm ở anh ta — và Malcolm đã đưa ra quyết định. Cho cuộc đời của chính mình, và của người phụ nữ anh ta yêu.
+Lựa chọn nằm trong tay anh ta — và Malcolm đã đưa ra quyết định cuối cùng. Vì tương lai của chính bản thân mình, và vì người phụ nữ mà anh ta yêu sâu sắc.
 
 ◇◇◇
 
-“Chào mừng quý khách cạaa, cậu Malcolm! Tôi đã đợi cậu mãi nhaaa!”
+“Chào mừng quý khách cạaa, cậu Malcolm! Tôi đã mòn mỏi đợi cậu mãi nhaaa!”
 
 “Chào ông, đã lâu không gặp, Chủ tịch Pringlut.”
 
-Ngày hôm đó, Malcolm đã đến ghé thăm ‘Velvet Slave Merchant Guild’, hội buôn nô lệ lớn nhất Easthope.
+Vào ngày hôm đó, Malcolm đã đích thân đến ghé thăm 『Dịch Vụ Nô Lệ Velvet』, tổ chức buôn bán nô lệ có quy mô bành trướng lớn nhất thị trấn Easthope.
 
-“Nhân dịp cậu nhậm chức Chủ tịch của New Hope, tôi xin gửi lời chúc mừng nồng nhiệt nhất đến cậu nhaaa!”
+“Nhân dịp cậu chính thức đăng quang nhậm chức tân Chủ tịch của đồn điền New Hope, tôi xin được gửi lời chúc mừng nồng nhiệt và chân thành nhất đến cậu nhaaa!”
 
-“Cảm ơn ông. Tôi vẫn còn non nớt lắm, mong được ông giúp đỡ nhiều hơn.”
+“Cảm ơn ông. Tôi tuổi đời còn trẻ lại thiếu kinh nghiệm, sau này còn phải trông cậy vào sự chỉ giáo của ông nhiều lắm.”
 
-“Tình hình sức khỏe của ông Winston thế nào rồi ạaa?”
+“Thế tình hình sức khỏe của ngài Winston dạo này đã tiến triển thế nào rồi ạaa?”
 
-“Ông ấy vẫn cần phải tĩnh dưỡng thêm một thời gian nữa, nhưng ý thức đã hoàn toàn tỉnh táo. Ông ấy có dặn tôi phải gửi lời cảm ơn chân thành nhất đến Chủ tịch Pringlut vì khoản tiền thăm hỏi chu đáo lần trước.”
+“Ông ấy vẫn đang trong giai đoạn cần phải tĩnh dưỡng lâu dài, nhưng tinh thần và ý thức đã hoàn toàn minh mẫn trở lại rồi. Trước khi tôi đi, ông ấy còn đặc biệt dặn dò tôi phải chuyển lời cảm tạ chân thành nhất đến Chủ tịch Pringlut vì món quà cùng khoản tiền thăm hỏi vô cùng chu đáo lần trước.”
 
-Tin tức về vụ Thiết Giáp Hùng hung tợn tấn công đồn điền New Hope đã làm chấn động cả thị trấn Easthope.
+Tin tức chấn động về việc một con ma thú 『Thiết Giáp Hùng』 hung tợn xé rào tấn công đồn điền New Hope đã làm rúng động toàn bộ thị trấn Easthope suốt những ngày qua.
 
-May mắn thay, con Thiết Giáp Hùng đó đã bị tiêu diệt ngay tại hiện trường, nhưng lực lượng cảnh vệ của đồn điền đã bị xóa sổ hoàn toàn, bản thân chủ đồn điền Winston cũng bị cắn đứt một chân. Đây là thảm kịch lớn nhất kể từ khi thị trấn này được khai hoang.
+Dù con 『Thiết Giáp Hùng』 khát máu đó đã bị tiêu diệt ngay tại trận, nhưng toàn bộ lực lượng cảnh vệ tinh nhuệ của đồn điền đã bị xóa sổ không còn một mống, bản thân chủ đồn điền Winston cũng bị cắn đứt lìa một chân tàn phế. Đây được xem là thảm kịch kinh hoàng và đẫm máu nhất kể từ khi vùng đất hoang sơ này được khai phá.
 
-Dù biết con ma vật đã bị hạ, nhưng nỗi sợ hãi về Thiết Giáp Hùng vẫn khiến hoạt động mua bán vũ khí và thuê lính đánh thuê trở nên nhộn nhịp hơn bao giờ hết. Thậm chí quân đội Astoria cũng đã tăng cường tuần tra xung quanh thị trấn.
+Dẫu biết con quái vật đầu sỏ đã đền mạng, nhưng nỗi kinh hoàng về ma thú vẫn khiến cho thị trường vũ khí và dịch vụ thuê lính đánh thuê tại địa phương trở nên sôi động hơn bao giờ hết. Thậm chí các đơn vị quân đội Hoàng gia Astoria đóng quân gần đó cũng đã phải tăng cường tần suất tuần tra xung quanh các trục đường chính của thị trấn.
 
-Malcolm và Pringlut đã có một cuộc trò chuyện vui vẻ về tình hình sức khỏe của Winston và những chuyện phiếm vô thưởng vô phạt khác.
+Malcolm và Pringlut tiếp tục cuộc trò chuyện xã giao vô thưởng vô phạt đầy rôm rả xung quanh bệnh tình của Winston và tình hình an ninh khu vực.
 
-“Mà này cạaa, có một chuyện vô cùng quan trọng tôi phải hỏi cậu Malcolm đây nhaaa—”
+“Mà này cạaa, có một chuyện hệ trọng mang tính sống còn mà tôi buộc phải thắc mắc với cậu Malcolm đây nhaaa—”
 
-“—À, về chuyện giải phóng nô lệ đúng không?”
+“—À, có phải ông muốn hỏi về việc đồn điền chúng tôi tuyên bố giải phóng toàn bộ nô lệ không?”
 
-Nhận thấy Pringlut cuối cùng cũng chủ động đi vào chủ đề chính sau khi căn chỉnh thời gian, Malcolm nở một nụ cười lịch thiệp đáp lại.
+Nhận thấy Pringlut sau một hồi vòng vo thăm dò cuối cùng cũng không nhịn được mà đi thẳng vào trọng tâm, Malcolm khẽ mỉm cười lịch thiệp đáp lời.
 
-“Trước hết, mong ông đừng hiểu lầm rằng ông Winston đột nhiên gia nhập ‘phe giải phóng’ hay gì cả. Tuyên bố giải phóng đó thực chất chỉ là sự thay đổi về hình thức sử dụng lao động trong phạm vi đồn điền của chúng tôi mà thôi.”
+“Trước hết, tôi mong Chủ tịch Pringlut đừng vội hiểu lầm rằng ngài Winston đột nhiên giác ngộ rồi gia nhập 『Phe Giải Phóng』 hay bất kỳ tổ chức nhân đạo nào nhé. Tuyên bố giải phóng đó thực chất chỉ là một sự điều chỉnh mang tính chiến lược về hình thức quản lý và sử dụng nhân lực trong nội bộ đồn điền của chúng tôi mà thôi.”
 
-“Ồoo, ra là vậy sao cạaa... Trời đất ơi, tôi cứ tưởng các người đã thức tỉnh tinh thần phản đối nô lệ rồi chứ, làm tôi lo lắng muốn chết đi được nhaaa?”
+“Ồoo, hóa ra sự tình là như thế cạaa... Trời đất quỷ thần ơi, tôi cứ ngỡ đồn điền các người bỗng dưng thức tỉnh lương tri phản đối chế độ nô lệ cơ đấy, làm tôi lo lắng đến mất ăn mất ngủ nhaaa?”
 
-“Haha, sự lo ngại của ông Pringlut là hoàn toàn dễ hiểu. Những tổ chức mang tư tưởng đó thường có xu hướng hành động khá cực đoan mà.”
+“Haha, sự quan ngại của ông Pringlut là hoàn toàn có cơ sở mà. Những tổ chức mang tư tưởng cực đoan đó khi hành động thường gây ra không ít phiền toái cho việc làm ăn của giới thương nhân chúng ta.”
 
-Ở Astoria, việc mua bán nô lệ là điều hiển nhiên. Phổ biến nhất vẫn là người Diana được thu mua tại chỗ. Tiếp theo là những nô lệ người Astoria do phạm tội hoặc nợ nần.
+Tại vương quốc Astoria, chế độ mua bán và bóc lột nô lệ được xem là một lẽ dĩ nhiên của xã hội. Nguồn cung phổ biến nhất vẫn là những thổ dân Diana bản địa bị bắt giữ và thuần hóa tại chỗ. Kế đến là những nô lệ mang quốc tịch Astoria bị tước quyền công dân do phạm trọng tội hoặc ngập đầu trong nợ nần không thể chi trả.
 
-Ngoài ra, còn có những nô lệ thuộc nhiều chủng tộc khác nhau được nhập khẩu từ bên kia đại dương.
+Ngoài ra, còn có vô số những nô lệ thuộc các chủng tộc ngoại lai kỳ lạ được các đoàn tàu buôn nhập khẩu xuyên đại dương chở về.
 
-Chế độ nô lệ đã tồn tại từ khi vương quốc Astoria lập quốc. Vương cung, thủ đô, hay các đại đô thị, tất cả nền móng của chúng đều được xây dựng trên xương máu của biết bao nô lệ.
+Hệ thống nô lệ đã ăn sâu bám rễ kể từ những ngày đầu lập quốc của vương quốc Astoria. Từ cung điện nguy nga, thủ đô tráng lệ cho đến những đại đô thị sầm uất, tất cả nền móng phồn vinh của đế chế này đều được xây dựng và bồi đắp bằng mồ hôi, nước mắt cùng xương máu của hàng triệu nô lệ.
 
-Dù văn hóa nô lệ được coi là điều hiển nhiên ở Astoria, nhưng trong khoảng mười năm trở lại đây, các tổ chức phản đối chế độ nô lệ và kêu gọi giải phóng nô lệ đã bắt đầu xuất hiện.
+Dù văn hóa nô lệ được coi là quy chuẩn hiển nhiên ở Astoria, nhưng trong vòng một thập kỷ trở lại đây, các tổ chức bài trừ chế độ nô lệ và vận động giải phóng nhân quyền đã bắt đầu nhen nhóm xuất hiện.
 
-Trong số đó, tổ chức được gọi là 『Phe Giải Phóng』 đã phát triển thế lực mạnh mẽ trong những năm gần đây, thậm chí còn gây ảnh hưởng đến cả Pandora Thánh Giáo.
+Trong số đó, tổ chức mang tên 『Phe Giải Phóng』 đã phát triển mạng lưới thế lực ngầm một cách chóng mặt trong những năm gần đây, thậm chí vòi bạch tuộc của chúng còn can thiệp và gây ảnh hưởng không nhỏ lên cả các quyết sách của Pandora Thánh Giáo.
 
-Bất kể họ có chủ nghĩa hay tư tưởng tôn giáo nào, đối với một thương nhân nô lệ như Pringlut, việc những kẻ đó bành trướng thế lực sẽ làm hỏng việc làm ăn của ông ta. Huống chi đồn điền New Hope vốn là một khách hàng lớn và cực kỳ tiềm năng, nếu họ chuyển sang lập trường phản đối nô lệ, thì tệ nhất là chi nhánh Easthope sẽ phải tính đến chuyện rút lui.
+Bất kể tôn chỉ hay giáo lý tôn giáo của bọn họ cao đẹp đến đâu, đối với một tay buôn người lão luyện như Pringlut, sự bành trướng của những kẻ đó chính là mối hiểm họa đe dọa trực tiếp đến bát cơm của ông ta. Huống chi đồn điền New Hope xưa nay vốn là một trong những bạn hàng lớn và tiềm năng bậc nhất vùng, nếu họ đột ngột quay xe chuyển sang lập trường chống đối nô lệ, thì kịch bản tồi tệ nhất là chi nhánh Velvet tại Easthope sẽ phải cuốn gói rút lui.
 
-“Trước đây, chúng tôi luôn nghĩ rằng việc bóc lột người Diana trong môi trường tồi tệ, tức là vận hành với chi phí tối thiểu, sẽ mang lại nhiều lợi nhuận nhất. Thế nhưng, thực tế đã chứng minh rằng chỉ cần đầu tư một chút vào cơ sở vật chất và cải thiện động lực làm việc của người Diana bằng cách không đối xử với họ như nô lệ, chúng ta sẽ đạt được hiệu quả kinh doanh vượt trội hơn hẳn so với lao động cưỡng bức.”
+“Trước đây, ban quản lý chúng tôi luôn mang định kiến rằng việc vắt kiệt sức lao động của người Diana trong điều kiện sống tồi tàn nhất, tức là tối thiểu hóa chi phí duy trì, sẽ mang lại tỷ suất lợi nhuận cao nhất. Thế nhưng, các số liệu thực nghiệm gần đây đã chứng minh điều ngược lại: Chỉ cần đầu tư một khoản nhỏ cải thiện điều kiện ăn ở và kích thích động lực làm việc của người Diana bằng cách đối xử tôn trọng như những người làm thuê, năng suất lao động thu về sẽ vượt trội hơn hẳn so với việc dùng roi vọt cưỡng bức.”
 
-“Ra là thế cạaa. Nếu bãi bỏ lực lượng cảnh vệ và giám thị thì sẽ cắt giảm được một khoản chi phí khổng lồ nhaaa.”
+“Ra là thế cạaa. Nếu bãi bỏ hoàn toàn đội ngũ cảnh vệ vũ trang và đám giám thị hung hãn thì đồn điền sẽ cắt giảm được một khoản ngân sách khổng lồ nhaaa.”
 
-“Quả không hổ danh là Chủ tịch Pringlut, tin tức thật nhạy bén. Ông đã biết chuyện đó rồi sao.”
+“Quả không hổ danh là Chủ tịch Pringlut danh bất hư truyền, tin tức của ông quả thực vô cùng nhạy bén. Ông đã sớm nắm bắt được việc chúng tôi tinh giản bộ máy rồi sao.”
 
-Vì luôn lo sợ nô lệ nổi loạn, lực lượng trấn áp và sự giám sát thường nhật là điều bắt buộc. Thế nhưng, nếu không còn nguy cơ nổi loạn, cảnh vệ và giám thị sẽ trở nên thừa thãi.
+Bởi vì luôn nơm nớp lo sợ nô lệ sẽ nổi loạn khởi nghĩa, các đồn điền bắt buộc phải duy trì một lực lượng trấn áp tốn kém cùng mạng lưới giám sát gắt gao từng ngày. Thế nhưng, một khi nguy cơ nổi loạn đã được triệt tiêu tận gốc bằng lợi ích, thì cảnh vệ và giám thị sẽ lập tức trở thành những kẻ ăn bám thừa thãi.
 
-Dù có bao nhiêu lính gác hay giám thị đi chăng nữa, sản lượng thu hoạch cũng chẳng thể tăng lên. Việc cắt giảm được tiền lương của họ đã là một nguồn lợi lớn, và nếu chuyển số nhân lực đó thành công nhân sản xuất, năng suất sẽ còn tăng cao hơn nữa.
+Dù có nuôi bao nhiêu lính gác hay giám sát viên đi chăng nữa, sản lượng nông sản thu hoạch trên cánh đồng cũng chẳng thể tự tăng thêm một hạt nào. Việc cắt giảm toàn bộ tiền lương, vũ khí của bọn họ đã là một món hời lớn, và nếu chuyển đổi toàn bộ số nhân lực nhàn rỗi đó thành lao động sản xuất trực tiếp, hiệu quả kinh tế sẽ còn tăng vọt theo cấp số nhân.
 
-Một lý lẽ vô cùng đơn giản, nhưng ở một Astoria nơi văn hóa nô lệ đã ăn sâu bám rễ, chưa từng có ai áp dụng điều đó với người Diana.
+Một bài toán kinh tế đơn giản đến mức hiển nhiên, thế nhưng tại một vùng đất mà tư duy nô dịch đã ăn sâu vào máu như Astoria, chưa từng có một quý tộc hay chủ nô nào đủ can đảm để áp dụng điều đó lên người Diana.
 
-“Điều quan trọng nhất chính là lòng tin và lợi ích.”
+“Quy tắc cốt lõi để vận hành bộ máy này, suy cho cùng chỉ gói gọn trong hai chữ: Lòng tin và Lợi ích.”
 
 “Ồoo.”
 
-“Chỉ cần được liên kết bởi hai yếu tố này, ngay cả người Diana cũng sẽ trung thành đi theo. Và tôi tin rằng, giữa tôi và ông cũng vậy, chỉ cần có lòng tin và lợi ích, chúng ta sẽ luôn vui vẻ hợp tác.”
+“Chỉ cần được gắn kết chặt chẽ bởi hai yếu tố này, ngay cả những người Diana hoang dã cũng sẽ trung thành cống hiến hết mình. Và tôi tin tưởng tuyệt đối rằng, mối quan hệ hợp tác chiến lược giữa tôi và quý hội buôn Velvet cũng vậy, chừng nào đôi bên còn duy trì được lòng tin và cùng chia sẻ lợi ích, chúng ta sẽ luôn là những đối tác tuyệt vời nhất của nhau.”
 
-“Cậu Malcolm cạaa, vậy là từ nay về sau, cậu vẫn sẽ tiếp tục mua nô lệ từ ‘Velvet Slave Merchant Guild’ của tôi chứ cạaa?”
+“Cậu Malcolm cạaa, nói như vậy có nghĩa là từ nay về sau, đồn điền New Hope vẫn sẽ tiếp tục tin tưởng nhập nguồn hàng từ 『Dịch Vụ Nô Lệ Velvet』 của tôi chứ cạaa?”
 
-“Thậm chí chúng tôi sẽ cần nhiều hơn trước đây đấy. Tôi rất mong từ giờ trở đi, ông Pringlut có thể cung cấp cho chúng tôi càng nhiều nô lệ Diana càng tốt.”
+“Thậm chí nhu cầu của chúng tôi trong tương lai gần sẽ còn tăng gấp bội so với trước đây. Tôi rất kỳ vọng từ nay trở đi, Chủ tịch Pringlut có thể gom và cung cấp cho chúng tôi số lượng nô lệ Diana càng nhiều càng tốt.”
 
-Nghe những lời của Malcolm, Pringlut bật cười đầy mãn nguyện.
+Lắng nghe những lời cam kết chắc như đinh đóng cột của Malcolm, Pringlut khoái chí vuốt cằm, bật cười đầy vẻ mãn nguyện.
 
-“Vậy thì cạaa, tôi sẽ đi lùng sục những món hàng ngon nghẻ, đang độ sung sức nhất về cho cậu nhaaa.”
+“Nếu đã như vậy cạaa, đích thân tôi sẽ cho người lùng sục khắp các ngóc ngách để tuyển chọn những món hàng tươi ngon, vạm vỡ và đang ở độ tuổi sung mãn nhất về phục vụ cho cậu nhaaa.”
 
-“Không cần đâu, ông không cần phải tuyển chọn kỹ lưỡng thế đâu.”
+“Không cần đâu, ông không nhất thiết phải mất công tuyển lựa khắt khe như thế.”
 
 “Hửmm?”
 
-“Chỉ cần là người Diana, dù là nô lệ tàn tật, đau ốm, già yếu hay trẻ nhỏ, tôi đều sẵn lòng thu mua hết.”
+“Bất kể là ai, chỉ cần mang dòng máu người Diana — dù là nô lệ tàn tật, ốm đau bệnh tật, già yếu gần đất xa trời hay trẻ con miệng còn hôi sữa — đồn điền New Hope chúng tôi đều sẵn lòng thu mua trọn gói không chừa một ai.”
 
-Lời tuyên bố đầy tự tin của Malcolm khiến ngay cả một kẻ lão luyện như Pringlut cũng phải trợn tròn mắt ngạc nhiên.
+Lời tuyên bố đanh thép và đầy tự tin của Malcolm khiến ngay cả một con cáo già lọc lõi trên thương trường như Pringlut cũng phải sững sờ, trợn tròn hai mắt kinh ngạc.
 
-Những nô lệ bị bệnh tật, thương tích, già yếu hoặc quá nhỏ tuổi thường bị mất giá trị. Một khi cơ thể không thể đáp ứng được công việc mà chủ nhân yêu cầu, đó là điều hiển nhiên.
+Trong giới buôn người, những nô lệ dính phải bệnh tật, thương tật vĩnh viễn, già cả suy kiệt hoặc quá nhỏ tuổi luôn bị xếp vào hạng 'phế phẩm' không có giá trị thặng dư. Một khi cơ thể không còn khả năng đáp ứng các công việc nặng nhọc mà chủ nhân yêu cầu, việc bị đào thải là quy luật tất yếu.
 
-Nếu bị nhẹ thì còn có thể bán giảm giá, nhưng nếu bị nặng thì thường bị bán tống bán tháo với giá rẻ mạt. Khi chi phí nuôi dưỡng vượt quá giá trị lao động, họ sẽ bị coi là những khoản nợ xấu và bị thanh lý.
+Nếu bệnh nhẹ thì còn có thể bán tháo giảm giá thu hồi vốn, nhưng nếu tàn phế nặng thì thường bị vứt bỏ hoặc bán tống bán tháo với giá rẻ như cho không. Một khi chi phí cơm ăn nước uống hàng ngày vượt quá giá trị sức lao động tạo ra, họ sẽ lập tức bị liệt vào danh sách 'nợ xấu' và bị các chủ nô thanh lý không thương tiếc.
 
-“Chà chà cạaa... Cậu định dùng việc này để làm chiến dịch từ thiện nhằm đánh bóng tên tuổi đấy phỏng cạaa?”
+“Chà chà chà cạaa... Lẽ nào cậu Malcolm đây đang muốn nhân cơ hội này để mở một chiến dịch từ thiện cứu tế nhằm đánh bóng tên tuổi cho bản thân đấy phỏng cạaa?”
 
-“Tôi chỉ có thể nói rằng, ngay cả những nô lệ như vậy cũng có công việc phù hợp với họ.”
+“Tôi chỉ có thể khẳng định với ông một điều rằng: Ngay cả những nô lệ bị xã hội này coi là phế liệu, tại đồn điền New Hope, chúng tôi vẫn luôn có những công việc đặc thù phù hợp để khai thác tối đa giá trị của họ.”
 
-Có vẻ như đây không phải là một màn kịch để phô trương thanh thế, mà Malcolm thực sự tự tin rằng việc này sẽ mang lại lợi nhuận. Nhìn vào biểu cảm của Malcolm, Pringlut không hề thấy có dấu hiệu nào của sự dối trá hay khoác lác.
+Nhìn sâu vào ánh mắt kiên định không chút dao động của Malcolm, Pringlut thừa hiểu đây tuyệt đối không phải là một màn kịch phô trương thanh thế nông cạn, mà vị tân Chủ tịch này thực sự nắm giữ một bí quyết kinh doanh nào đó có thể biến những 'khoản nợ xấu' thành mỏ vàng sinh lời. Trên gương mặt điềm tĩnh ấy, không hề có lấy một tia dối trá hay khoác lác.
 
-“Nếu đó là yêu cầu của cậu cạaa, tôi sẽ tập trung vào số lượng để chuẩn bị cho cậu nhaaa.”
+“Đã là yêu cầu tha thiết của khách súng sính tiền bạc như cậu cạaa, vậy thì tôi sẽ dốc toàn lực gom đủ số lượng số lượng lớn cho cậu nhaaa.”
 
-“Trông cậy cả vào ông.”
+“Trăm sự trông cậy vào uy tín của ông đấy.”
 
-Cuộc thương thảo thành công tốt đẹp, cả hai bắt tay nhau với nụ cười rạng rỡ trên môi.
+Cuộc thương thảo chiến lược kết thúc đại thành công, hai người đàn ông bắt tay nhau thật chặt với những nụ cười rạng rỡ đầy toan tính trên môi.
 
-Sau khi những mối lo ngại của đôi bên được giải tỏa, bầu không khí lại trở nên vô cùng hòa nhã.
+Sau khi những mối băn khoăn nghi ngại lớn nhất của đôi bên đều đã được tháo gỡ mỹ mãn, bầu không khí trong phòng khách lại trở nên vô cùng hòa nhã, thân mật.
 
-Trong lúc đó, Pringlut buột miệng hỏi một câu bâng quơ.
+Trong lúc chuẩn bị tiễn khách, Pringlut như sực nhớ ra điều gì, bèn buột miệng hỏi một câu bâng quơ bằng chất giọng the thé quen thuộc.
 
-“Mà này cạaa, bé Momo dạo này vẫn khỏe chứ cạaa?”
+“Mà này cạaa, cái con bé nô lệ bị nguyền rủa Momo dạo này ở đồn điền vẫn khỏe mạnh chứ cạaa?”
 
-Ngay khi cái tên đó được xướng lên, biểu cảm của Malcolm... không hề thay đổi.
+Ngay khi cái tên nhạy cảm ấy vừa được xướng lên giữa căn phòng, nét mặt của Malcolm... tuyệt nhiên không hề có lấy một chút biến chuyển hay gợn sóng nào.
 
-Anh ta chỉ nở một nụ cười điềm đạm và trả lời.
+Anh ta chỉ khẽ nâng khóe môi, nở một nụ cười điềm đạm, bí hiểm và từ tốn đáp lại.
 
-“Vâng, thằng bé đã khỏe mạnh hơn rất nhiều rồi. Lần tới tôi sẽ dẫn nó theo. Khi gặp lại, chắc chắn ông sẽ phải kinh ngạc đấy.”
+“Vâng, đứa trẻ đó hiện tại đã khỏe mạnh và hoạt bát hơn trước rất nhiều rồi. Lần tới có dịp ghé qua, tôi nhất định sẽ dắt nó theo cùng. Khi gặp lại con bé, chắc chắn Chủ tịch Pringlut sẽ phải kinh ngạc đến mức không thốt nên lời đấy.”
 
-“Hô hô cạaa, vậy thì đáng mong chờ lắm đây nhaaa...”
+“Hô hô cạaa, nghe cậu nói thế thì tôi thực sự đáng mong chờ lắm đây nhaaa...”

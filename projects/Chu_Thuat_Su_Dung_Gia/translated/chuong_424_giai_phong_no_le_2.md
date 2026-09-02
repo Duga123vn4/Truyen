@@ -2,278 +2,278 @@
 
 “Aaaaaaaa—!”
 
-Tiếng hét thảm thiết như xé lụa cất lên. Đó là phu nhân của Winston, người đang bị hai bộ xương áp giải, lôi tuột ra khỏi dinh thự.
+Tiếng thét thê lương như xé lụa vang vọng khắp không gian. Đó là phu nhân của Winston, người đang bị hai con Skeleton áp giải, lôi tuột ra khỏi dinh thự.
 
-Ôi trời, gào khóc giãy giũa dữ dội thế kia thì kiểu tóc dày công chải chuốt chẳng phải sẽ rối tung lên hết sao? Cái tổ quạ phồng rộp đó là mốt thịnh hành dạo này à? Tiếc là không hợp gu của tôi lắm.
+Ôi trời, gào khóc giãy giụa dữ dội thế kia thì kiểu tóc dày công chải chuốt chẳng phải sẽ rối tung lên hết sao? Cái tổ quạ xù phồng đó là mốt thịnh hành dạo này à? Tiếc là chẳng hợp gu của tôi chút nào.
 
 “Tôi xin cậu, xin đừng làm hại gia đình tôi... Tôi sẽ hợp tác hết sức có thể với những yêu cầu của cậu, thế nên...”
 
-Trước cảnh tượng người vợ đang gào khóc thảm thiết và đứa con trai duy nhất Wonta đang cứng đờ vì sợ hãi lẫn tuyệt vọng, gương mặt Winston cắt không còn giọt máu, ông ta run rẩy cầu xin tôi.
+Trước cảnh tượng người vợ đang gào khóc thảm thiết cùng đứa con trai duy nhất Wonta đang cứng đờ vì sợ hãi lẫn tuyệt vọng, gương mặt Winston cắt không còn một giọt máu, run rẩy van xin tôi.
 
-Hửm, nước đến chân rồi mà lời thốt ra vẫn là “xin” với lại “hợp tác hết sức có thể” cơ đấy. Xem ra ông ta vẫn chưa nhận thức được vị thế của mình lúc này. Thật tình, con người ta một khi đã leo lên vị trí cao sang, cảm giác khi bị dìm xuống bùn đen liền trở nên cùn mòn đi hẳn.
+Hửm, nước đã dâng đến tận mũi rồi mà mở miệng ra vẫn là “xin” với lại “hợp tác hết sức có thể” cơ đấy. Xem ra ông ta vẫn chưa nhận thức được vị thế thực sự của mình lúc này. Thật tình, con người ta một khi đã quen ngồi ở vị trí cao sang, cảm giác khi bị dìm xuống bùn đen liền trở nên cùn mòn đi hẳn.
 
-Nhưng mà, giai đoạn để tôi chỉ ra điều đó đã qua lâu rồi.
+Thế nhưng, giai đoạn để tôi đứng đây uốn nắn điều đó đã qua lâu rồi.
 
-“Người ông cần cầu xin không phải là tôi đâu.”
+“Người ông cần van xin đâu phải là tôi.”
 
-Tôi ra lệnh áp giải gia đình Winston ra ngoài. Vừa bước qua cánh cửa chính bị Riza phá tan hoang, đập vào mắt là Togo cùng các chiến sĩ Diana, và phía sau họ là toàn bộ những nô lệ Diana đang đứng xếp hàng chỉnh tề.
+Tôi ra lệnh áp giải cả gia đình Winston ra ngoài. Vừa bước qua cánh cửa chính bị Riza đập tan hoang, đập vào mắt tôi là Togo cùng các chiến sĩ Diana, và phía sau họ là toàn thể nô lệ Diana đang đứng xếp hàng chỉnh tề.
 
 “Vạn tuế ngài Đứa con của thần!”
 
 “Chúng ta thắng rồi—!”
 
-“Ôi, đây chính là sự ban phước của thần linh...”
+“Ôi, đây chính là ân điển ban phước của thần linh...”
 
 “Ngài Đứa con của thần!”
 
-“Ngài Đứa con của thần Momoka!”
+“Ngài Đứa con của thần Momoka vạn tuế!”
 
-Oa, thắng rồi, vạn tuế! Tôi cùng mọi người ăn mừng chiến thắng một lúc.
+Oa, thắng rồi, vạn tuế! Tôi cùng mọi người hòa chung niềm vui chiến thắng trong chốc lát.
 
-Không ngờ bầu không khí lại cuồng nhiệt đến thế. Thú thật, ban đầu tôi chỉ định âm thầm thanh trừng rồi dọn dẹp hậu quả thôi... nhưng bầu không khí chung vẫn là quan trọng nhất. Một khi đã trói gô gia đình Winston lôi ra ngoài thì trông nó chẳng khác nào một màn khải hoàn rõ ràng và dễ hiểu.
+Không ngờ bầu không khí lại cuồng nhiệt đến nhường này. Thú thật, ban đầu tôi chỉ định âm thầm thanh trừng rồi dọn dẹp hậu trường thôi... nhưng cảm xúc chung của số đông vẫn là thứ quan trọng nhất. Một khi đã trói gô cả gia đình Winston lôi ra trước bàn dân thiên hạ, trông nó chẳng khác nào một màn khải hoàn rực rỡ, hiển hiện rõ ràng trước mắt.
 
-Vì vậy, tôi để mọi người tận hưởng niềm vui chiến thắng vừa đủ rồi ra hiệu giữ trật tự. Phải mất hơn mười lăm phút đám đông mới hoàn toàn im lặng. Sự cuồng nhiệt này chẳng khác nào bầu không khí ăn mừng chức vô địch World Cup, thật mừng là họ vẫn chịu nghe lời tôi.
+Vì vậy, tôi để mọi người tận hưởng niềm hân hoan vừa đủ rồi mới giơ tay ra hiệu giữ trật tự. Phải mất hơn mười lăm phút đám đông mới hoàn toàn lắng xuống. Sự cuồng nhiệt này chẳng khác nào bầu không khí ăn mừng chức vô địch World Cup, thật may là họ vẫn chịu lắng nghe lời tôi.
 
-“Cảm ơn mọi người. Nhờ sự hợp tác của tất cả, chúng ta đã giành chiến thắng. Toàn bộ các bạn đã được giải phóng khỏi kiếp nô lệ. Chúng ta đã tự do— Thế nhưng, đừng chỉ dừng lại ở niềm vui. Đừng chỉ dừng lại ở việc ăn mừng. Trong tim mỗi người chắc chắn vẫn còn đọng lại nỗi tức giận, đau đớn và căm thù từ những chuỗi ngày bị chà đạp trước đây.”
+“Cảm ơn tất cả mọi người. Nhờ có sự đồng lòng của tất cả, chúng ta đã giành được thắng lợi. Toàn bộ các bạn đã được giải thoát khỏi kiếp nô lệ. Chúng ta đã tự do— Thế nhưng, đừng chỉ dừng lại ở niềm vui. Đừng chỉ thỏa mãn với việc ăn mừng. Trong tim mỗi người chắc chắn vẫn còn đọng lại nỗi căm phẫn, đớn đau và uất hận từ những chuỗi ngày tăm tối bị chà đạp trước đây.”
 
-Nghe tôi nói, mọi người đồng loạt lắng nghe với vẻ mặt nghiêm túc. Những ánh mắt chứa đựng ý chí mãnh liệt đổ dồn về phía tôi, đến mức dường như không một ai dám chớp mắt, khiến tôi cũng có chút căng thẳng.
+Nghe tôi cất lời, đám đông đồng loạt lắng nghe với vẻ mặt trang nghiêm. Những ánh mắt chứa đựng ý chí mãnh liệt đổ dồn về phía tôi, chăm chú đến mức dường như không một ai dám chớp mắt, khiến tôi cũng dấy lên chút căng thẳng.
 
-So với việc bị kẻ thù lườm nguýt bằng sát khí, thì việc được đồng minh nhìn bằng ánh mắt tràn đầy kỳ vọng thế này còn làm tôi hồi hộp hơn nhiều.
+So với việc bị kẻ thù lườm nguýt bằng sát khí đặc quánh, thì việc được đồng minh nhìn bằng ánh mắt tràn ngập niềm tin và kỳ vọng thế này còn làm tim tôi đập thình thịch hơn nhiều.
 
-Việc tôi sắp làm tiếp theo đây là một màn trình diễn.
+Việc tôi sắp sửa tiến hành tiếp theo đây là một màn kịch trình diễn.
 
-Cuộc phản loạn đã thành công, nếu từ đây người Diana nghĩ mình đã tự do rồi bắt đầu làm loạn vô pháp vô thiên, tôi sẽ không thể ngăn cản nổi.
+Cuộc nổi dậy đã thành công mỹ mãn, nếu từ giây phút này người Diana nghĩ mình đã tự do rồi bắt đầu hành xử vô pháp vô thiên, tôi sẽ chẳng tài nào kiểm soát nổi.
 
-Với tư cách là Đứa con của thần đã giải phóng họ, lời nói của tôi hiện tại có trọng lượng rất lớn. Hầu hết mọi chuyện, chỉ cần tôi mở lời là họ sẽ ngoan ngoãn tuân theo. Nhưng điều đó không phải là tuyệt đối.
+Với tư cách là Đứa con của thần đã giải phóng họ, tiếng nói của tôi hiện tại sở hữu sức nặng ngàn cân. Hầu hết mọi chuyện, chỉ cần tôi mở lời là họ sẽ ngoan ngoãn tuân phục. Thế nhưng, điều đó không bao giờ là tuyệt đối.
 
-Những nô lệ bị đàn áp đúng là những kẻ đáng thương cần được cứu rỗi. Tuy nhiên, điều đó không có nghĩa là toàn bộ bọn họ đều sở hữu một tâm hồn thanh cao và thiện lương.
+Những nô lệ bị áp bức đúng là những số phận đáng thương cần được cứu rỗi. Tuy nhiên, điều đó không đồng nghĩa với việc toàn bộ bọn họ đều sở hữu một tâm hồn thanh cao và thuần thiện.
 
-Ai cũng là con người cả. Mỗi người đều có những dục vọng riêng.
+Ai nấy đều là con người bằng xương bằng thịt. Mỗi người đều ôm ấp những dục vọng và toan tính riêng.
 
-Tôi không coi họ là bầy cừu mù quáng đi theo mình.
+Tôi không bao giờ xem họ là bầy cừu mù quáng chỉ biết răm rắp đi theo mình.
 
 *Niềm tin và lợi ích.*
 
-Chỉ khi có đủ cả hai, con người ta mới có thể yên tâm quy phục dưới trướng kẻ khác. Cho dù là một Dũng Giả tràn đầy mị lực như Souma Yuuto, một khi đánh mất niềm tin và không mang lại lợi ích, cũng sẽ chẳng còn ai đi theo.
+Chỉ khi nắm trọn cả hai yếu tố ấy trong tay, người ta mới có thể an tâm quy phục dưới trướng kẻ khác. Dẫu có là một Dũng Giả tràn đầy mị lực tỏa sáng như Souma Yuuto, một khi đánh mất niềm tin và không thể mang lại lợi ích thiết thực, cũng sẽ chẳng còn ai nguyện ý đi theo.
 
-Tôi đã chứng kiến quá đủ tấm gương phản diện mang tên Dũng Giả rồi. Tôi tuyệt đối không muốn ỷ lại vào cái danh hiệu “Đứa con của thần” này.
+Tôi đã chứng kiến quá đủ tấm gương phản diện mang danh xưng Dũng Giả rồi. Tôi tuyệt đối không bao giờ ỷ lại vào cái danh vị “Đứa con của thần” hão huyền này.
 
-“Kẻ đang đứng đây chính là kẻ chủ mưu đã bắt các bạn lao dịch khổ sai cho đến tận ngày hôm nay. Hắn là đại tội nhân đã mua rẻ các bạn khi bị bắt giữ bất hợp pháp, tự xưng quyền sở hữu, rồi bắt các bạn làm việc kiệt quệ và quất những trận roi tàn nhẫn.”
+“Kẻ đang quỳ gối trước mặt các bạn chính là kẻ chủ mưu đã bắt các bạn phải lao dịch khổ sai cho đến tận ngày hôm nay. Hắn là đại tội nhân đã mua rẻ các bạn khi bị bắt giữ phi pháp, tự nhận quyền sở hữu, rồi vắt kiệt sức lao động và giáng xuống lưng các bạn những lằn roi tàn nhẫn.”
 
-“Ta không có tội gì cả! Ta chỉ đang thực hiện quyền lợi hợp pháp được thừa nhận của một công dân Astoria—”
+“Ta không có tội gì cả! Ta chỉ đang thực thi quyền lợi hợp pháp được công nhận của một công dân Astoria—”
 
-“À, giờ thì ông im lặng giùm một chút được không?”
+“À, giờ thì ông làm ơn ngậm miệng lại giùm một chút được không?”
 
-Tôi đang cố gắng nói chuyện cơ mà! Đây là thời điểm quyết định xem có thể thuyết phục được tất cả mọi người hay không, tôi không rảnh để dây dưa với ông đâu.
+Tôi đang cố gắng dàn xếp cơ mà! Đây là thời điểm then chốt quyết định xem có thể thuyết phục được lòng người hay không, tôi đâu rảnh rỗi để đôi co với ông.
 
-Hiểu ý tôi ngay lập tức, Riza dùng dây thừng làm giẻ bịt miệng Winston lại. Nhân tiện, bà vợ ồn ào của ông ta đã bị bịt miệng từ trước đó rồi.
+Thấu hiểu ý tôi trong tích tắc, Riza liền dùng sợi dây thừng vo tròn nhét chặt vào miệng Winston. Nhân tiện nói luôn, bà vợ ồn ào của ông ta đã bị bịt miệng từ trước đó rồi.
 
-“Tóm lại là mọi người có oán hận đúng không? Oán hận đến mức muốn giết chết bọn họ.”
+“Tóm lại là trong lòng mọi người đều ôm mối hận thù sâu sắc, đúng chứ? Hận đến mức chỉ muốn phanh thây xé xác bọn chúng ngay tại chỗ.”
 
-Đúng vậy, nếu tôi không bắt giữ họ thế này, Winston lúc này chắc đã bị treo cổ, bị đánh cho đến chết, hoặc bị giết bằng một phương pháp dã man hơn nhiều.
+Đúng vậy, nếu tôi không đứng ra can thiệp và áp giải họ thế này, Winston lúc này ắt hẳn đã bị treo cổ, bị đấm đá cho đến chết, hoặc bị tước đoạt mạng sống bằng những phương thức man rợ hơn nhiều.
 
-Nhưng đối với tôi, việc Winston chết ngay lúc này do sự kích động của đám đông sẽ rất phiền phức.
+Thế nhưng đối với tôi, việc Winston mất mạng ngay lúc này chỉ vì sự kích động bộc phát của đám đông sẽ kéo theo muôn vàn rắc rối.
 
-Lời đề nghị tôi đưa ra cho ông ta không phải là giả. Việc Winston tự nguyện hợp tác là kết cục tốt nhất cho những kế hoạch sau này.
+Lời đề nghị tôi đưa ra cho ông ta hoàn toàn không phải là bánh vẽ. Việc Winston tự nguyện hợp tác chính là kết cục tối ưu nhất cho toàn bộ kế hoạch hậu cần sau này.
 
-Thế nhưng, nếu tôi và Winston cười nói bắt tay nhau trước mặt họ, hẳn là các bạn Diana sẽ không thấy dễ chịu chút nào đúng không?
+Tuy vậy, nếu tôi và Winston cứ thế tay bắt mặt mừng, tươi cười hòa thuận trước mặt họ, hẳn là những người bạn Diana sẽ chẳng tài nào nuốt trôi cục tức này, đúng không?
 
-Vì vậy, tôi phải thành tâm cầu xin họ. Xin hãy kiềm chế cơn giận dữ này lại và đừng giết Winston.
+Bởi thế, tôi phải chân thành thỉnh cầu họ. Cầu xin họ hãy kìm nén ngọn lửa thịnh nộ này lại và tha cho tính mạng của Winston.
 
-Dưới góc nhìn của ông ta, tôi có thể trông giống như một tử thần, nhưng không hề nhé. Ngay tại thời điểm này, tôi là vị cứu tinh duy nhất muốn ông ta sống sót đấy. Chỉ riêng lúc này thôi, ông gọi tôi là Dũng Giả cũng được.
+Dưới lăng kính của ông ta, tôi có thể mang dáng dấp của một tử thần tàn độc, nhưng thực tế đâu phải vậy. Ngay tại thời khắc ngàn cân treo sợi tóc này, tôi chính là vị cứu tinh duy nhất che chở cho mạng sống của ông ta đấy. Chỉ riêng lúc này thôi, ông gọi tôi là Dũng Giả cũng chẳng ngoa.
 
-Vì vậy, tôi có một thỉnh cầu dành cho mọi người.
+Vì lẽ đó, tôi có một lời thỉnh cầu gửi gắm đến tất cả mọi người.
 
-“Thế nhưng, tôi muốn mọi người hãy kìm nén cảm xúc đó lại lúc này. Tôi có một kế hoạch. Một kế hoạch để ngày mai chúng ta có thể tiếp tục sống tự do và an toàn.”
+“Thế nhưng, tôi tha thiết mong mọi người hãy tạm thời nén chặt cảm xúc ấy lại. Tôi đã vạch sẵn một kế hoạch. Một kế hoạch bảo đảm rằng kể từ ngày mai, tất cả chúng ta đều có thể tiếp tục sinh tồn tự do và an toàn.”
 
-Sakura hay Himeno đôi khi cứ nói tôi như thể một kẻ lừa đảo hay gì đó, thật là oan uổng quá đi mà. Tôi là người nói được làm được. Những kẻ tôi đã quyết tâm nguyền rủa thì đều đã bị nguyền chết, môi trường sống và điều kiện lao động tôi tạo ra cũng chưa từng lừa dối ai để biến nó thành tồi tệ, tôi luôn để họ sống một cuộc sống lành mạnh và có văn hóa đấy chứ.
+Sakura hay Himeno thi thoảng cứ nhìn tôi như thể nhìn một tên đại lừa đảo xảo quyệt, thật là oan ức hết sức. Tôi trước giờ luôn là người nói được làm được. Những kẻ tôi đã hạ quyết tâm nguyền rủa thì đều đã xanh cỏ, môi trường sống và điều kiện lao động tôi gầy dựng nên cũng chưa từng lừa gạt ai để đẩy họ vào chỗ khốn cùng; trái lại, tôi luôn tạo điều kiện để họ được tận hưởng một cuộc sống lành mạnh và văn minh đấy chứ.
 
-Thế nên, tôi sẽ không dùng những lời lẽ hoa mỹ để lấp liếm, hay mượn danh nghĩa thần linh để bắt họ tin vào những lời dối trá. Tôi có sự chân thành để đưa ra những nỗ lực và kết quả lớn nhất mà mình có thể làm được.
+Bởi vậy, tôi sẽ không dùng những lời lẽ sáo rỗng hoa mỹ để che đậy, càng không mượn danh nghĩa thần linh để ép buộc họ phải tin vào những lời dối trá. Tôi mang đến sự chân thành tuyệt đối thông qua những nỗ lực và thành quả lớn nhất mà mình có thể tạo ra.
 
-“Vì mục tiêu đó, tên Winston này vẫn chưa thể chết được. Tôi tin rằng việc giữ mạng sống của hắn để lợi dụng là cách tốt nhất để bảo đảm an toàn cho tất cả chúng ta.”
+“Vì mục tiêu sống còn đó, tên Winston này hiện tại vẫn chưa thể chết. Tôi tin rằng việc giữ lại mạng sống của hắn để tiếp tục khai thác lợi ích chính là phương án tối ưu nhất nhằm bảo vệ sự an toàn cho tất cả chúng ta.”
 
-Trước lời tuyên bố của tôi, những người Diana bắt đầu xôn xao.
+Trước lời tuyên bố đanh thép của tôi, đám đông người Diana bắt đầu xôn xao bàn tán.
 
-Nhưng ít ra không có những lời chửi bới phản đối ngay lập tức đã là tốt lắm rồi. Tôi có thể tiếp tục nói.
+Nhưng ít nhất, không có những tiếng la ó chửi bới phản đối kịch liệt nổ ra ngay lập tức đã là một tín hiệu đáng mừng. Tôi có thể tiếp tục dẫn dắt câu chuyện.
 
-“Này Riza, cô có biết ở Diana, hình phạt dành cho những kẻ như thế này là gì không?”
+“Này Riza, cô có biết ở quê hương Diana, hình phạt thích đáng nhất dành cho những kẻ tội đồ như thế này là gì không?”
 
-“Tôi nghĩ hình phạt 『Hỏa Hình Địa Ngục』 là thích đáng nhất ạ.”
+“Tôi nghĩ hình phạt 『Hỏa Hình Địa Ngục』 là đích đáng nhất ạ.”
 
-Cái gì thế? Phiên bản nâng cấp của hỏa hình à?
+Cái gì thế kia? Phiên bản nâng cấp tối thượng của giàn thiêu à?
 
-“Đó là hình thức thiêu sống bằng nghi lễ chứa đầy lời nguyền. Qua đó, linh hồn kẻ bị phạt sẽ trở thành vật tế dâng lên Thần Luyện Ngục, phải chịu nỗi đau đớn thiêu đốt vĩnh hằng ạ.”
+“Đó là nghi thức thiêu sống được gia trì bằng những lời nguyền rủa tột cùng. Qua đó, linh hồn của kẻ thụ hình sẽ trở thành vật tế dâng lên Thần Luyện Ngục, vĩnh viễn đọa đày trong nỗi đau đớn bị ngọn lửa thiêu đốt đến muôn đời muôn kiếp ạ.”
 
-“Thần Luyện Ngục sao... Thần đó có Đứa con của thần không?”
+“Thần Luyện Ngục sao... Liệu vị thần đó có tồn tại Đứa con của thần không?”
 
-“Dạ không có, nhưng từ xa xưa ở Diana đã lưu truyền như vậy. Để hành quyết kẻ thù truyền kiếp thì không có hình phạt nào hơn thế này.”
+“Dạ không có, nhưng truyền thuyết từ ngàn xưa ở Diana đã lưu truyền như vậy. Để hành quyết những kẻ thù truyền kiếp thì không một bản án nào sánh bằng.”
 
-Ra vậy, đây là hình phạt nặng nhất về mặt tôn giáo. Giống như việc hỏa táng là điều cấm kỵ trong văn hóa địa táng, họ quan niệm rằng việc hạ thấp tôn nghiêm sau cái chết sẽ làm tăng mức độ trừng phạt.
+Ra là vậy, đây chính là hình phạt nặng nề và tàn khốc nhất xét trên phương diện tín ngưỡng. Tương tự như việc hỏa táng bị xem là điều đại kỵ trong nền văn hóa địa táng, họ quan niệm rằng việc chà đạp và tước đoạt tôn nghiêm linh hồn sau cái chết sẽ đẩy mức độ trừng phạt lên cảnh giới cao nhất.
 
-“Vậy nghĩa là, việc bắt bọn họ chịu 『Hỏa Hình Địa Ngục』 là điều khiến mọi người thỏa lòng nhất đúng không?”
+“Vậy nghĩa là, việc bắt cả gia đình bọn chúng phải chịu hình phạt 『Hỏa Hình Địa Ngục』 chính là điều khiến mọi người cảm thấy thỏa lòng hả dạ nhất, đúng chứ?”
 
-“Vâng.”
+“Vâng, đúng vậy ạ.”
 
-“Nếu thi hành hình phạt đó, danh dự của chúng ta cũng sẽ được khôi phục.”
+“Nếu thi hành bản án đó, danh dự và phẩm giá của chúng tôi mới thực sự được gột rửa.”
 
-Trước câu hỏi của tôi, Togo cùng các chiến sĩ cũng đồng tình lên tiếng.
+Trước câu hỏi của tôi, Togo cùng các chiến sĩ cũng đồng thanh hưởng ứng.
 
-Hửm, nếu hình phạt họ mong muốn đã được xác định, thì điểm dừng cũng dễ thiết lập hơn.
+Hửm, một khi hình phạt tột cùng mà họ khao khát đã được định hình rõ ràng, thì điểm dừng thỏa hiệp cũng trở nên dễ dàng thiết lập hơn nhiều.
 
-“Tôi hiểu rõ cảm xúc của mọi người. Nếu việc thi hành hình phạt có thể làm nguôi ngoai nỗi lòng của tất cả, thì đó là điều tốt nhất. Thế nhưng, nếu chúng ta làm vậy ngay bây giờ, sự an toàn của mọi người từ ngày mai sẽ không được bảo đảm. Vì vậy, xin hãy trì hoãn việc thi hành 『Hỏa Hình Địa Ngục』 đối với gia đình Winston thêm một thời gian nữa.”
+“Tôi hoàn toàn thấu hiểu nỗi lòng và sự phẫn uất của mọi người. Nếu việc lập tức thi hành bản án có thể xoa dịu vết thương lòng của tất cả, thì đó hiển nhiên là điều trọn vẹn nhất. Thế nhưng, nếu chúng ta vội vã làm vậy ngay lúc này, sự an toàn và tính mạng của mọi người kể từ ngày mai sẽ không có gì bảo đảm. Vì lẽ đó, xin hãy tạm hoãn việc thi hành 『Hỏa Hình Địa Ngục』 đối với gia đình Winston thêm một khoảng thời gian nữa.”
 
-Được rồi, đây là điểm mấu chốt của ngày hôm nay.
+Được rồi, đây chính là nút thắt mấu chốt của ngày hôm nay.
 
-Phía Diana muốn thi hành hỏa hình ngay lập tức, ngược lại tôi muốn kéo dài thời gian hoãn thi hành án càng lâu càng tốt.
+Phía Diana khao khát thiêu sống kẻ thù ngay tức khắc, trong khi tôi lại cần kéo dài thời gian hoãn thi hành án càng lâu càng có lợi.
 
-“Tuy nhiên, tôi không nghĩ rằng chỉ bằng một lời cầu xin của tôi là mọi người có thể vui vẻ chấp nhận.”
+“Tuy nhiên, tôi không hề ngây thơ cho rằng chỉ bằng một lời thỉnh cầu suông của mình là mọi người có thể vui vẻ chấp thuận gác lại thù hận.”
 
-“Không, chuyện đó—”
+“Không, ngài Đứa con của thần, chuyện đó—”
 
-“Bởi vì tôi đã tận mắt chứng kiến! Dù chỉ là một khoảng thời gian ngắn, nhưng tôi biết các bạn đã bị đối xử tàn nhẫn và vô lý đến nhường nào!”
+“Bởi vì chính mắt tôi đã chứng kiến tất cả! Dù chỉ trải qua một khoảng thời gian ngắn ngủi, nhưng tôi biết rất rõ các bạn đã phải chịu đựng sự đối xử tàn bạo và phi lý đến nhường nào!”
 
-Lòng trung thành của Riza làm tôi rất vui, nhưng tôi không thể ép buộc mọi người như vậy.
+Lòng trung thành tuyệt đối của Riza khiến tôi rất ấm lòng, nhưng tôi không thể dùng quyền lực tối cao để áp đặt mọi người một cách thô bạo.
 
-Cho nên, nếu Riza nói rằng chỉ cần tôi ra lệnh là họ sẽ tuân theo thì sẽ rất phiền phức.
+Do đó, nếu Riza bảo rằng chỉ cần tôi ra lệnh là toàn bộ người Diana sẽ răm rắp tuân theo, điều đó sẽ chỉ gieo rắc mầm mống bất mãn ngầm.
 
-Tôi muốn những người Diana đang đứng ở phía sau kia, những người tôi còn chưa biết tên, cũng sẽ đồng thuận ở mức tối đa rồi mới đi theo tôi.
+Tôi muốn những người Diana đang đứng lặng lẽ phía sau kia, những con người mà tôi thậm chí còn chưa kịp nhớ mặt đặt tên, cũng phải đạt được sự đồng thuận cao nhất trong tâm can rồi mới toàn tâm toàn ý đi theo tôi.
 
-“Con người coi con người là nô lệ để sai khiến. Đó là một hành vi thật ghê tởm và xấu xa. Không thể tha thứ, không nên tha thứ. Tôi đã thấy các bạn bị quất roi, phải nén chặt tiếng khóc đau đớn để chịu đựng. Tôi đã thấy những gương mặt tuyệt vọng u ám khi bị ép buộc lao động kiệt sức, bị cướp đi cả tương lai lẫn hy vọng.”
+“Con người lại xem đồng loại như súc vật nô lệ để tùy ý bóc lột và hành hạ. Đó là một tội ác ghê tởm và đê tiện không thể dung thứ. Không thể tha thứ, và tuyệt đối không bao giờ được phép tha thứ! Tôi đã tận mắt thấy các bạn bị quất roi tơi tả, phải nghiến chặt răng nén từng tiếng khóc đau đớn đến rách ruột xé gan. Tôi đã nhìn thấy những ánh mắt tuyệt vọng, u ám khi bị vắt kiệt từng giọt mồ hôi nước mắt, bị tước đoạt sạch trơn cả tương lai lẫn chút hy vọng mong manh.”
 
-Tôi cảm nhận được một luồng oán hận âm ỉ đang dần lan tỏa.
+Tôi có thể cảm nhận rõ ràng một luồng oán niệm âm ỉ đang bắt đầu trỗi dậy và lan tỏa khắp không gian.
 
-Những người vừa say sưa trong chiến thắng, nay qua lời nói của tôi, những oán hận tích tụ bấy lâu lại bị kích thích.
+Những con người vừa mới đắm chìm trong men say chiến thắng, nay qua từng lời từng chữ bộc bạch của tôi, những nỗi uất ức dồn nén bấy lâu nơi đáy lòng lại một lần nữa bùng cháy dữ dội.
 
-Không phải ma lực, mà là tôi đang cảm nhận được chính những cảm xúc tiêu cực đó. À, cảm giác này chắc chắn cũng là một phần hiệu quả từ chú thuật mới mà ngài Ruinhilde—người đã tiễn tôi rời khỏi lớp học—ban cho.
+Không phải là ma lực, mà chính là tôi đang trực tiếp cảm nhận được những rung cảm tiêu cực đặc quánh ấy. À, năng lực cảm tri này ắt hẳn là một phần hiệu ứng từ chú thuật mới mà ngài Ruinhilde—người đã trao cho tôi nụ hôn từ biệt nơi lớp học—ban tặng.
 
-“Chính vì thế, tôi sẽ không cầu xin mọi người hãy chờ đợi cho đến ngày thi hành 『Hỏa Hình Địa Ngục』. Làm vậy thì lòng oán hận của các bạn vẫn sẽ trĩu nặng, không thể nào nguôi ngoai được. Điều đó là hiển nhiên, bởi vì các bạn sẽ phải tận mắt chứng kiến kẻ đại tội nhân đáng lẽ phải chịu đau đớn vĩnh hằng dưới tay Thần Luyện Ngục lại đang nhởn nhơ sống sót.”
+“Chính vì lẽ đó, tôi sẽ không mở lời cầu xin mọi người phải cắn răng nhẫn nhục chờ đợi cho đến ngày thi hành 『Hỏa Hình Địa Ngục』. Làm như vậy, gánh nặng thù hận trong tim các bạn sẽ chẳng thể nào nguôi ngoai. Đó là lẽ hiển nhiên, bởi vì các bạn sẽ phải ngày ngày tận mắt chứng kiến kẻ đại tội nhân đáng lẽ phải chịu nỗi đau đày ải vĩnh viễn dưới tay Thần Luyện Ngục lại đang nhởn nhơ hít thở khí trời.”
 
-Như thế thì làm sao chịu đựng nổi đúng không?
+Rơi vào hoàn cảnh đó thì làm sao ai có thể chịu đựng cho nổi, đúng không?
 
-Bản thân tôi cũng không chịu nổi. Nhìn thấy một tên tội phạm hung ác phạm tội tày trời nhưng lại nhởn nhơ ngoài vòng pháp luật nhờ được hoãn thi hành án, ai mà chẳng thấy khó chịu. Huống chi kẻ gây hại cho mình lại như vậy, việc muốn vượt qua luật pháp để giết hắn ngay lập tức là lẽ thường tình của con người.
+Đến ngay cả bản thân tôi cũng chẳng thể nào nuốt trôi. Nhìn thấy một tên tội đồ mang dã tâm tàn độc nhưng lại ung dung đứng ngoài vòng pháp luật nhờ vào cái cớ hoãn thi hành án, phàm là người bình thường ai mà chẳng tức sôi máu. Huống chi kẻ chịu tổn thương trực tiếp lại là chính mình, việc muốn đạp đổ mọi luật lệ để tự tay tước đoạt mạng sống của hắn là phản ứng tâm lý tự nhiên nhất của con người.
 
-And ngay tại nơi này, không có xã hội hay tổ chức nào đứng ra bảo đảm việc thực thi pháp luật. Nếu không có biện pháp tác động khéo léo vào cảm xúc của họ, mọi thứ sẽ bùng nổ.
+Hơn nữa, ngay tại nơi chốn hoang tàn này, chẳng hề tồn tại bất kỳ một thể chế xã hội hay cơ quan quyền lực nào đứng ra bảo đảm tính nghiêm minh của luật pháp. Nếu tôi không khéo léo tác động và giải tỏa những ẩn ức tâm lý của họ, mọi thứ chắc chắn sẽ nổ tung.
 
-“Mắt đền mắt, răng đền răng. Đó là bộ luật cổ xưa được lưu truyền ở quê hương tôi. Trả lại hình phạt tương đương với vết thương đã nhận, một sự báo thù đơn giản— Mọi người thấy sao, trong thời gian gia đình Winston còn sống, chúng ta sẽ bắt họ chịu sự đối xử y hệt như nô lệ, coi như đó là cái giá để hoãn thi hành hỏa hình?”
+“Mắt đền mắt, răng đền răng. Đó là bộ luật cổ xưa nhất được lưu truyền từ ngàn đời tại quê hương tôi. Trả lại hình phạt tương xứng với chính vết thương mà mình đã phải gánh chịu, một sự báo thù sòng phẳng và thuần túy— Mọi người thấy thế nào, trong suốt thời gian gia đình Winston còn được giữ lại mạng sống, chúng ta sẽ bắt bọn chúng phải chịu đựng sự đối xử và đày đọa y hệt như thân phận của một nô lệ, xem đó như cái giá phải trả để đổi lấy sự trì hoãn của ngọn lửa hỏa hình?”
 
-Tóm lại, họ thấy chướng mắt là vì hắn sống nhởn nhơ, chứ nếu ngày nào hắn cũng phải chịu khổ sở thì người ta sẽ nghĩ “thôi thế cũng được”.
+Tóm lại, thứ khiến họ gai mắt chính là việc hắn được sống một cách nhởn nhơ thoải mái; chứ nếu ngày nào hắn cũng phải nếm trải đắng cay khổ cực trăm bề, người ta tự khắc sẽ gật gù nghĩ thầm “thôi thì như vậy cũng tạm chấp nhận được”.
 
-Đây là điểm dừng mà tôi đã tính toán. Nếu họ không chấp nhận điều này, tôi không thể nhượng bộ thêm nữa... nên tôi sẽ đẩy nhanh tiến độ luôn.
+Đây chính là điểm dừng thỏa hiệp hoàn hảo mà tôi đã tính toán kỹ lưỡng. Nếu họ vẫn không chịu chấp nhận điều này, tôi cũng chẳng thể nhượng bộ thêm được nữa... Thế nên, tôi sẽ đẩy nhanh tiến độ hành động luôn.
 
 “Latina.”
 
 “Dạ... dạ!?”
 
-Bị gọi tên đột ngột, Latina giật nảy mình một cách rất dễ thương. Trong lúc cô bé còn đang ngơ ngác, Riza đã dắt tay cô bé đưa đến trước mặt tôi.
+Bất ngờ bị gọi tên, Latina giật nảy mình một cách vô cùng ngơ ngác và đáng yêu. Trong lúc cô bé còn đang lúng túng chưa hiểu chuyện gì, Riza đã ân cần dắt tay cô bé bước đến trước mặt tôi.
 
-“Em có thể quất roi hắn.”
+“Em có toàn quyền quất roi hắn.”
 
-“Dạ...!?”
+“Dạ... sao cơ ạ...!?”
 
-Nhìn cây roi tôi đưa ra, Latina đứng hình.
+Nhìn cây roi da tôi chìa ra trước mặt, Latina chết lặng.
 
-Đó là chấn thương tâm lý của cô bé. Chỉ nhìn thôi đã thấy đáng sợ rồi. Nhưng giờ đây, em có quyền tự mình vung cây roi đó.
+Đó chính là nỗi ám ảnh kinh hoàng in sâu vào tâm trí non nớt của cô bé. Chỉ cần nhìn thấy bóng dáng cây roi thôi cũng đủ khiến em run rẩy sợ hãi. Thế nhưng giờ đây, em đã nắm giữ quyền năng được tự tay vung cây roi trừng phạt đó.
 
-“Em có thể quất hắn đúng bằng số roi mà em đã phải nhận.”
+“Em có thể quất vào người hắn đúng bằng số lằn roi mà em đã từng phải nếm trải.”
 
-“Nhưng... nhưng em...”
+“Nhưng... nhưng mà em...”
 
 “Này, Wonta-kun.”
 
-Mặc kệ Latina đang bối rối rõ rệt, tôi gọi mục tiêu của mình. Vừa dứt lời, bộ xương đang giữ Wonta liền lạch cạch kéo cậu ta tới.
+Mặc kệ Latina đang bối rối lộ rõ trên gương mặt, tôi cất tiếng gọi mục tiêu của mình. Dứt lời, con Skeleton đang áp chế Wonta liền lạch cạch kéo lê cậu ta tiến lên phía trước.
 
-Cậu ta ra sức giãy giũa, nhưng dù bộ xương có là ma vật yếu nhất đi nữa thì sức lực của một đứa trẻ cũng không thể nào thoát ra được. Miệng bị bịt chặt bằng dây thừng, cậu ta cố gắng hét lên điều gì đó.
+Thằng nhóc ra sức giãy giụa điên cuồng, thế nhưng dẫu Skeleton có là chủng ma vật cấp thấp yếu ớt nhất đi chăng nữa, thì chút sức tàn của một đứa trẻ con cũng chẳng thể nào lay chuyển nổi gọng kìm xương xẩu. Miệng bị nhét chặt dây thừng, cậu ta chỉ có thể ú ớ phát ra những âm thanh nghẹn ngào tuyệt vọng.
 
 “Ưm...! Ưm—!”
 
-“Đúng rồi, cắn chặt dây thừng vào nhé. Roi da là dụng cụ tra tấn dùng để gây đau đớn đấy, đau lắm đấy nhé.”
+“Đúng rồi đấy, cắn chặt sợi dây thừng vào nhé. Roi da là công cụ tra tấn sinh ra để gieo rắc đau đớn mà, sẽ thấu xương lắm đấy.”
 
-Vừa vỗ vỗ vai Wonta đang khóc lóc giãy giụa, tôi vừa gửi lời động viên đến cậu ta.
+Vừa vỗ vỗ vai Wonta đang đầm đìa nước mắt nước mũi, tôi vừa cất giọng động viên đầy vẻ ân cần.
 
-“Nào, hãy cho bố mẹ thấy con đang đền tội một cách dũng cảm đi nào. Con vẫn chưa vị thành niên, biết đâu vẫn còn cơ hội cải tà quy chính đấy. Cố lên nhé—?”
+“Nào, hãy chứng minh cho cha mẹ thấy bản lĩnh đền tội đầy dũng cảm của mình đi chứ. Nhóc con vẫn chưa đến tuổi vị thành niên mà, biết đâu sau này vẫn còn cơ hội hoàn lương cải tà quy chính đấy. Cố gắng lên nhé—?”
 
 “Ưm ưm—!?”
 
-Thế rồi, lưng của Wonta bị phơi ra trước mặt Latina. Bộ xương giữ chặt cậu ta ở tư thế vô cùng thuận lợi để quất roi, như thể muốn nói “đến đây đi”.
+Dứt lời, tấm lưng trần của Wonta liền bị phơi bày trọn vẹn trước tầm mắt của Latina. Con Skeleton giữ chặt cậu ta ở một tư thế vô cùng thuận lợi cho việc hành hình, hệt như muốn gửi đi thông điệp “cứ việc ra tay đi”.
 
-“Nếu tất cả mọi người cùng quất thì hắn sẽ chết mất, nên xin hãy giới hạn mỗi người một roi một ngày thôi nhé. Nào, Latina, hãy giáng một đòn chứa đựng oán hận của em đi.”
+“Nếu tất cả mọi người cùng xúm lại quất thì thằng nhóc này sẽ mất mạng ngay mất, nên xin hãy quy định mỗi người chỉ được vung đúng một roi mỗi ngày thôi nhé. Nào, Latina, hãy giáng xuống một đòn chứa đựng toàn bộ nỗi uất hận bấy lâu của em đi.”
 
-Nghe tôi nói, cô bé như hạ quyết tâm, vung roi lên—
+Lắng nghe lời tôi thúc giục, cô bé như thể vừa hạ quyết tâm lớn lao, run rẩy giơ cao cây roi da lên—
 
-“...Em không làm được.”
+“...Em không làm được đâu ạ.”
 
-Hai hàng nước mắt lăn dài, cô bé đưa cây roi trả lại cho tôi.
+Hai hàng nước mắt lăn dài trên gò má, cô bé cúi đầu, run rẩy đưa trả cây roi lại cho tôi.
 
-“Em sợ à?”
+“Em sợ sao?”
 
-“Không phải ạ... Em chỉ muốn được cứu thoát thôi... Đau đớn, khổ sở, đáng sợ... Nhưng vì Momoka-chan, ngài Đứa con của thần đã cứu em rồi... Thế là đủ rồi ạ.”
+“Không phải đâu ạ... Em chỉ muốn được giải thoát thôi... Đau đớn lắm, khổ sở lắm, sợ hãi lắm... Nhưng vì Momoka-chan, vì ngài Đứa con của thần đã đến cứu vớt em rồi... Như vậy là quá đủ đối với em rồi ạ.”
 
-“Em không oán hận Wonta, kẻ đã quất roi em sao?”
+“Em không hề căm hận Wonta, kẻ đã nhẫn tâm quất roi em sao?”
 
-“Em có oán hận, và em rất ghét cậu ta... nhưng em không thể quất roi được... Em không muốn làm người khác phải đau khổ...”
+“Em có hận chứ, và em ghét cậu ta nhiều lắm... nhưng em không thể nào vung roi quất người khác được... Em không muốn biến mình thành kẻ gieo rắc đau khổ cho ai cả...”
 
-Vừa khóc vừa nói những lời đó, Latina quả nhiên đúng như tôi nghĩ. Tôi biết cô bé sẽ chọn như vậy.
+Vừa nức nở vừa thốt ra những lời gan ruột đó, phản ứng của Latina quả nhiên hoàn toàn trùng khớp với những gì tôi đã dự đoán. Tôi biết tỏng cô bé chắc chắn sẽ đưa ra lựa chọn như vậy.
 
-Đó là lý do tôi chọn cô bé làm người đầu tiên vung roi.
+Đó cũng chính là lý do vì sao tôi lại cố tình chọn cô bé làm người đầu tiên bước lên nhận lãnh cây roi.
 
-“Tuyệt vời! Latina, em quả là một cô bé nhân hậu!”
+“Tuyệt vời lắm! Latina, em quả thực là một cô bé vô cùng nhân hậu!”
 
-Tôi nhận lại cây roi, reo lên đầy vui mừng để tán dung hành động của Latina.
+Tôi đón lấy cây roi từ tay em, cất tiếng reo vui đầy hân hoan nhằm tán dương hành động cao đẹp của Latina.
 
-“Dù mang trong mình oán hận và đau khổ, nhưng em đã kìm nén tất cả để từ chối việc làm tổn thương kẻ khác.”
+“Dẫu trong lòng vẫn mang nặng nỗi đớn đau và uất hận, nhưng em đã kiềm chế tất cả để kiên quyết từ chối việc làm tổn thương người khác.”
 
-Không gọi đây là sự nhân hậu thì gọi là gì chứ. Đây không phải là sự giả tạo, tôi đang được tận mắt chứng kiến một thiện tính thuần khiết.
+Không gọi đây là sự nhân hậu thuần khiết thì còn có thể gọi bằng danh xưng nào khác được nữa. Đây tuyệt đối không phải là thứ đạo đức giả tạo, tôi đang được tận mắt chiêm ngưỡng một tia sáng lương tri đích thực.
 
-Ôi, đối với tôi lúc này, nó thật quá đỗi chói lòa.
+Ôi, đối với một kẻ mang tâm hồn vặn vẹo như tôi lúc này, tia sáng ấy thật quá đỗi chói lòa.
 
-“Latina, em có thể nói ra điều đó là nhờ tấm lòng nhân hậu và việc em đã thấu hiểu sự đáng sợ của bạo lực. Đó không phải là điều ai cũng làm được, đó là một lựa chọn vô cùng cao quý. Tôi chúc phúc cho lựa chọn của em.”
+“Latina, em có thể dũng cảm thốt ra những lời đó chính là nhờ vào trái tim nhân từ và sự thấu hiểu sâu sắc về sự tàn bạo của bạo lực. Đó tuyệt đối không phải là điều mà bất cứ ai cũng có thể dễ dàng làm được, đó là một sự lựa chọn vô cùng cao quý. Tôi thành tâm chúc phúc cho sự lựa chọn của em.”
 
-Tôi tự vỗ tay một mình.
+Tôi tự mình đưa tay vỗ từng nhịp giòn giã.
 
-Tôi hiểu, tôi hoàn toàn hiểu rõ. Tôi đã nói rõ ràng rằng “đó không phải là điều ai cũng làm được”.
+Tôi hiểu, tôi thấu suốt mọi điều. Tôi đã nhấn mạnh rất rõ ràng rằng “đó không phải là điều mà bất cứ ai cũng có thể làm được”.
 
-Tôi tuyệt đối không yêu cầu tất cả mọi người ở đây phải có lòng từ bi giống như Latina.
+Tôi tuyệt đối không bao giờ áp đặt hay đòi hỏi tất cả mọi người đang đứng ở đây đều phải sở hữu lòng từ bi bao dung tựa như Latina.
 
-“Chính vì thế, một đứa trẻ nhân hậu và tốt bụng như em cần phải được bảo vệ. Để em không bao giờ phải bị dìm xuống kiếp nô lệ một lần nữa!”
+“Chính vì lẽ đó, một đứa trẻ mang tâm hồn thánh thiện và nhân ái như em càng xứng đáng được bảo bọc chở che. Để em không bao giờ phải chịu cảnh đọa đày xuống vũng bùn nô lệ thêm một lần nào nữa!”
 
-Nếu không khéo, lựa chọn của Latina có thể sẽ vấp phải sự phản đối gay gắt từ những người khác.
+Nếu xử lý không khéo léo, hành động tha thứ của Latina rất có thể sẽ vấp phải làn sóng phản đối gay gắt từ những người mang nặng thù hận khác.
 
-Nếu tôi chỉ đơn thuần công nhận điều đó, những người tiếp theo sẽ ngần ngại không dám vung roi đúng không?
+Nếu tôi chỉ đơn thuần ca ngợi lòng vị tha đó một cách mù quáng, những người tiếp theo sẽ rơi vào thế ngập ngừng, e ngại không dám vung roi đòi lại công lý cho bản thân, đúng chứ?
 
-Vì vậy, tôi vừa phải thừa nhận hành động của Latina là cao quý, vừa phải bảo đảm quyền được báo thù của những người khác.
+Bởi vậy, tôi vừa phải tôn vinh sự cao thượng của Latina, lại vừa phải củng cố và bảo đảm quyền được thanh toán nợ máu một cách chính đáng cho những người còn lại.
 
-Cô bé nhân hậu cứ việc giữ sự nhân hậu đó. Thay vào đó, oán hận và căm thù của em sẽ được các đồng bạn giải quyết giúp.
+Cô bé nhân hậu cứ việc an lòng giữ trọn sự lương thiện của mình. Thay vào đó, toàn bộ nỗi oán hận và căm thù của em sẽ có những người đồng đội gánh vác và giải quyết giùm.
 
 “Karon.”
 
-“Dạ.”
+“Dạ có.”
 
-“Em muốn thế nào?”
+“Ý em thì thế nào?”
 
-“Em sẽ quất roi. Xin ngài hãy để em quất.”
+“Em sẽ quất roi. Xin ngài hãy trao cây roi đó cho em.”
 
-Karon nhìn thẳng vào tôi, chìa tay ra muốn nhận lấy cây roi.
+Karon nhìn thẳng vào mắt tôi, dứt khoát chìa bàn tay ra đón lấy vũ khí.
 
-Trong mắt cậu bé, ngọn lửa giận dữ thuần túy đang bùng cháy. Đó là một quyết tâm sắt đá rằng dù tôi có phản đối, cậu bé cũng sẽ tự tay rửa hận.
+Ẩn sâu trong đôi mắt của cậu bé, ngọn lửa phẫn nộ nguyên sơ và rực cháy đang cuộn trào mãnh liệt. Đó là một ý chí sắt đá mách bảo rằng dẫu tôi có mở lời can ngăn, cậu bé cũng sẽ bằng mọi giá tự tay rửa sạch mối hận này.
 
-“Tuyệt vời! Karon, em quả là một cậu bé dũng cảm!”
+“Tuyệt vời lắm! Karon, em quả thực là một chàng trai vô cùng dũng cảm!”
 
-Tất nhiên rồi, tôi tin chắc em sẽ nói như vậy.
+Tất nhiên rồi, tôi dám chắc một trăm phần trăm em sẽ đưa ra câu trả lời như vậy.
 
-Bởi vì em đã cùng Latina chịu những trận roi da. Thực chất, em đã muốn gánh chịu thay cô bé, nhưng kẻ đã cười nhạo và giẫm đạp lên tấm lòng đó chính là Wonta.
+Bởi lẽ chính em đã cùng Latina nếm trải những trận đòn roi tàn khốc. Trên thực tế, em đã từng muốn đứng ra nhận hết mọi đòn roi thay cho cô bé, thế nhưng kẻ đã nhẫn tâm cười cợt và chà đạp lên tấm lòng hy sinh cao cả đó không ai khác chính là Wonta.
 
-Nỗi tức giận và căm thù đó, làm sao có thể không rửa sạch cho được.
+Nỗi uất nghẹn và ngọn lửa căm hờn ngút trời ấy, làm sao có thể dễ dàng nguôi ngoai nếu không được rửa sạch bằng máu và nước mắt của kẻ thủ ác.
 
-“Tôi cho phép Karon quất roi thay cho cả phần của Latina.”
+“Tôi cho phép Karon được quyền quất roi trừng phạt thay cho cả phần của Latina.”
 
-“Em xin cảm ơn ngài Đứa con của thần.”
+“Em xin đội ơn ngài Đứa con của thần.”
 
-Hửm, ánh mắt của em đã giống như một chiến sĩ thực thụ rồi đấy, Karon. Người ta nói trẻ con lớn nhanh như thổi là thế này sao. Mà thực ra, chiều cao của Karon đã vượt qua tôi rồi.
+Hửm, ánh mắt và phong thái của em lúc này trông chẳng khác nào một chiến sĩ thực thụ rồi đấy, Karon. Người ta bảo trẻ con lớn nhanh như thổi quả không sai chút nào. Mà thực lòng mà nói, chiều cao hiện tại của Karon thậm chí đã vượt qua cả tôi rồi.
 
-“Những ai nhân hậu và từ bi có thể buông bỏ cây roi. Những ai muốn đòi lại danh dự và rửa hận có thể quất roi thay phần của họ. Người nhân hậu sẽ được kẻ dũng cảm bảo vệ.”
+“Những ai mang trong mình trái tim nhân hậu và lòng vị tha có quyền buông bỏ cây roi thù hận. Những ai khao khát đòi lại danh dự và rửa sạch mối hờn có thể vung roi thay cho phần của đồng đội mình. Kẻ nhân từ sẽ luôn được chở che bởi những người dũng cảm.”
 
-Nào, giờ thì cả hai lựa chọn đều tự do rồi.
+Nào, giờ thì cả hai ngả đường đều hoàn toàn tự do cho các bạn lựa chọn.
 
-Cứ việc chọn theo ý mình. Dù vung roi hay không vung roi, tôi cũng sẽ không để các bạn phải hối học. Từ nay về sau, tất cả chúng ta hãy cùng nhau chung sống hòa thuận nhé.
+Cứ việc quyết định theo đúng tiếng gọi nơi lồng ngực mình. Dẫu có vung roi trừng phạt hay buông tay thứ tha, tôi cũng tuyệt đối không bao giờ để các bạn phải hối hận vì quyết định ấy. Kể từ ngày hôm nay trở đi, tất cả chúng ta hãy cùng nhau chung sống thật hòa thuận nhé.
 
-“Wonta, tao sẽ không tha thứ cho mày. Hãy nhận lấy quả báo đi, thằng khốn.”
+“Wonta, tao tuyệt đối không bao giờ tha thứ cho mày. Hãy nếm trải quả báo đi, thằng khốn nạn!”

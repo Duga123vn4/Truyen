@@ -1,255 +1,261 @@
 # Tập 418: Chú thuật sư thức tỉnh
 
-“Đúng là đập tụi nhóc ranh lúc nào cũng vui hết sẩy!”
+“Đúng là đập tụi ranh con lúc nào cũng sướng cả người!”
 
 “Ha ha ha ha!”
 
-Khi tôi trưng ra vẻ mặt đắc ý phát biểu câu đó, Masaru lập tức bò ra cười.
+Thấy tôi khoanh tay trưng ra bộ mặt đắc thắng hất hàm tuyên bố câu đó, Masaru ôm bụng cười lăn cười bò.
 
-Vẫn là lớp học của năm 2 lớp 7 như mọi khi. Lớp học giờ đây đã vơi đi nhiều thành viên nên trông thật tĩnh lặng. Tự dưng chỉ có mỗi hai đứa mình làm ồn thế này, xin lỗi cả lớp nhé.
+Vẫn là phòng học quen thuộc của năm 2 lớp 7 trường 『Học viện Hakurei』. Phòng học giờ đây vắng bóng nhiều gương mặt quen thuộc nên trông tĩnh lặng đến nao lòng. Bỗng dưng chỉ có mỗi hai thằng tôi phá vỡ bầu không khí yên ắng, thật lòng xin lỗi cả lớp nhé.
 
-“Cậu cưng chiều hai đứa nhóc đó gớm nhỉ.”
+“Cậu cưng chiều hai đứa nhóc tì đó gớm nhỉ.”
 
 “Dĩ nhiên rồi, tớ nợ Caron và Latina nhiều lắm chứ.”
 
-Trong suốt khoảng thời gian tôi rơi vào trạng thái thiểu năng trí tuệ, chẳng phân biệt nổi đông tây nam bắc, thậm chí còn không nhận thức được bản thân mình là ai, hai đứa trẻ đó đã luôn ở bên cạnh tôi. Ngay cả khi tôi tự ý phân phát lương thực, chúng vẫn vui vẻ giúp đỡ, và dù tôi chẳng thể nói năng gì, chúng vẫn nhạy bén đoán được ý đồ của tôi để hành động.
+Suốt khoảng thời gian tôi rơi vào trạng thái thiểu năng trí tuệ, mất sạch ký ức, chẳng phân biệt nổi đông tây nam bắc, thậm chí còn không nhận thức nổi bản thân mình là ai, hai đứa trẻ ấy đã luôn kề cận chở che cho tôi. Ngay cả khi tôi tùy hứng phân phát lương thực, chúng vẫn vui vẻ xắn tay áo phụ giúp; và dù tôi chỉ ú ớ chẳng nói nên lời, chúng vẫn nhạy bén đoán biết ý đồ của tôi để xốc vác mọi việc.
 
-Cả hai đều là những đứa trẻ ngoan ngoãn và thông minh. Dù thực tế nhỏ tuổi hơn tôi rất nhiều, nhưng chúng vẫn luôn cố gắng bảo vệ tôi.
+Cả hai đều là những đứa trẻ ngoan ngoãn và lanh lợi. Dẫu tuổi đời kém tôi rất nhiều, nhưng chúng luôn dốc hết sức tàn để bảo bọc tôi trước nanh vuốt tàn bạo của lũ giám thị.
 
-“Người Diana ở đồn điền giờ đã là đồng minh của tớ rồi.”
+“Người Diana ở đồn điền giờ đã là đồng minh của tớ.”
 
-“Vậy người Astoria là kẻ thù à?”
+“Thế còn người Astoria là kẻ thù à?”
 
-“Cái đó còn tùy vào thái độ của họ thôi.”
+“Cái đó còn tùy thuộc vào thái độ của họ.”
 
-Astoria, Diana, và còn nhiều quốc gia khác, nhiều chủng tộc khác, cũng như những đức tin khác nữa. Không thể chỉ dựa vào xuất thân mà phân chia rạch ròi giữa bạn và thù được.
+Astoria, Diana, cùng biết bao quốc gia khác, những chủng tộc khác và những đức tin dị biệt. Không thể chỉ dựa vào nguồn gốc xuất thân mà rạch ròi phân định giữa bạn và thù.
 
-Dẫu sao thì tôi cũng chỉ là một kẻ ngoại lai đối với thế giới đó. Nhưng nếu họ sẵn sàng đứng về phía tôi, dù là vì tình hữu nghị hay vì lợi ích, tôi đều sẽ nhiệt liệt chào đón.
+Dẫu sao tôi cũng chỉ là một kẻ tha hương lạc lõng ở thế giới này. Nhưng nếu họ sẵn sàng đứng về phía tôi — dù xuất phát từ tình bằng hữu chân thành hay vì mưu cầu lợi ích đôi bên — tôi đều mở rộng vòng tay nhiệt liệt đón chào.
 
-“Nhưng tớ sẽ không bao giờ tha thứ cho tín đồ của Elshion. Lũ tà giáo đã hãm hại chúng ta, tớ nhất định phải tống cổ tất cả bọn chúng xuống địa ngục.”
+“Song, tớ tuyệt đối không bao giờ tha thứ cho tín đồ của Elshion. Lũ tà đạo đã hãm hại chúng ta, tớ thề sẽ tống cổ toàn bộ bọn chúng xuống tận đáy địa ngục!”
 
-“Nói hay lắm, Momokawa! Phải thế chứ, đã là 『Chú thuật sư』 thì phải nguyền rủa cho kẻ thù chết không kịp ngáp!”
+“Nói hay lắm, Momokawa! Phải thế chứ lị! Đã mang danh 『Chú thuật sư』 thì phải nguyền rủa cho kẻ thù chết không kịp ngáp!”
 
-Higuchi đập bôm bốp vào vai tôi, lớn tiếng phụ họa đầy phấn khích.
+Higuchi vỗ bôm bốp vào vai tôi, hào sảng cất tiếng phụ họa đầy phấn khích.
 
 “Cảm ơn cậu vì lúc nào cũng cho tớ mượn dao nhé. Giờ tớ trả lại được chưa?”
 
-“Không cần, chừng nào mày chưa quên mối hận này thì tao vẫn cứ cho mày mượn đấy.”
+“Khỏi đi! Chừng nào mày chưa rửa sạch mối huyết hận này thì tao vẫn cứ cho mày mượn!”
 
-Thế thì tốt quá. Quả nhiên vào những giây phút quyết định nhất, thứ tôi có thể tin tưởng vẫn là cây dao bướm này.
+Thế thì quý hóa quá. Quả nhiên vào những thời khắc sinh tử ngàn cân treo sợi tóc, thứ duy nhất tôi có thể trao trọn niềm tin vẫn là con dao bướm sắc lẹm này.
 
-Mặc dù nó hoàn toàn vô dụng trước Nữ Dũng Giả Lilith.
+Dẫu rằng nó hoàn toàn vô dụng trước sức mạnh áp đảo của Nữ Dũng Giả Lilith.
 
 “Phải đấy, nếu là Momokawa thì chắc chắn cậu sẽ rửa hận cho tất cả chúng ta.”
 
-“Ừm. Bởi vì Momokawa-kun sử dụng trận pháp luyện thành giỏi hơn tớ nhiều mà.”
+“Ừm! Bởi vì Momokawa-kun vận dụng ma pháp trận luyện thành giỏi hơn tớ nhiều mà.”
 
-Sakurai và Hinagiku vừa nắm tay nhau vừa lên tiếng cổ vũ tôi.
+Sakurai và Hinagiku tay trong tay siết chặt, cùng cất giọng ấm áp cổ vũ tôi.
 
-“Trông cậy vào cậu lo cho Ueta và Shimokawa nhé. Hai thằng đó ngốc nghếch lắm, không có ai như Momokawa đi kèm thì thế nào cũng làm hỏng chuyện ở đâu đó cho xem.”
+“Trông cậy cả vào cậu chăm sóc cho Ueta và Shimokawa đấy nhé. Hai thằng ngốc đó lông bông lắm, không có người thâm sâu như Momokawa kèm cặp thì thế nào chúng nó cũng gây họa cho xem.”
 
 “Cũng phải cứu bằng được Mari đấy nhé! Còn nữa, phải chịu trách nhiệm đàng hoàng với Kyouko đi đấy, Momokawa!”
 
-Nakai và Nonomiya quả thực là những người bạn vô cùng nghĩa khí. Nếu hai người kia nghe được những lời này, chắc chắn họ sẽ khóc ròng cho mà xem.
+Nakai và Nonomiya quả thực là những người bạn chí cốt đầy nghĩa khí. Nếu hai người kia mà nghe được những lời gan ruột này, chắc chắn họ sẽ cảm động đến rơi nước mắt cho mà xem.
 
-“T-Tớ nữa! Tớ cũng... cũng sẽ trở thành sức mạnh của Momokawa!!”
+“T-Tớ nữa! Tớ cũng... nhất định sẽ trở thành sức mạnh của Momokawa!!”
 
-Uầy, tự dưng xuất hiện đột ngột thế Yokomichi. Làm tớ giật cả mình.
+Uầy, từ đâu thình lình nhảy bổ ra thế Yokomichi? Làm tớ giật thót cả tim.
 
-Nhưng tớ biết thực lực của cậu không chỉ dừng lại ở mức này đâu. Tớ cũng sẽ cố gắng để có thể điều khiển cậu tốt hơn nữa trong tương lai.
+Nhưng tớ thừa hiểu thực lực của cậu không chỉ dừng lại ở chừng này. Tớ sẽ cố gắng khổ luyện để có thể thao túng cậu nhịp nhàng hơn nữa trong tương lai.
 
-“Cảm ơn mọi người nhiều nhé.”
+“Cảm ơn mọi người nhiều lắm.”
 
-Từ lúc nào không hay, tất cả mọi người trong lớp đã vây quanh lấy tôi, trao cho tôi những lời chúc ấm áp.
+Từ lúc nào không hay, tất cả các thành viên trong lớp đã quây quần vây quanh tôi, trao cho tôi những ánh mắt tin cậy và những lời chúc phúc ấm áp nhất.
 
-À, phải rồi, đúng thế mà... ai cũng là những người tốt cả. Năm 2 lớp 7 đáng lẽ đã có thể trở thành một tập thể tuyệt vời đến thế.
+A... Phải rồi, đúng là như thế... Ai nấy đều là những người bạn tuyệt vời. Năm 2 lớp 7 đáng lẽ đã có thể trở thành một tập thể gắn kết, rực rỡ đến nhường này.
 
-“Này Takanashi, cậu cũng nói gì đi chứ?”
+“Này Takanashi, cậu cũng mở mồm nói câu gì đi chứ?”
 
 “Chíp! Chíp chíp! Píp chóa a a a a a a a a a!!”
 
-Hả? Cái quái gì thế, cô ta đang đùa đấy à, tôi hoàn toàn không hiểu cô ta đang lảm nhảm cái gì cả.
+Hả? Cái quái quỷ gì thế này? Con nhỏ này đang diễn hài đấy à, tôi hoàn toàn chịu chết chẳng hiểu nó đang lảm nhảm thứ mật mã gì.
 
-Nhìn Takanashi đang giận tím mặt và bắt đầu kêu chíp chíp như chim non, Kenzaki lặng lẽ ôm lấy cô ta rồi kéo lùi về phía sau.
+Nhìn Takanashi tức tối đỏ bừng mặt mày, miệng kêu chíp chíp loạn xạ hệt như một con chim non phát cuồng, Kenzaki lặng lẽ tiến tới ôm chặt lấy cô nàng rồi kéo giật lùi về phía sau.
 
-Kenzaki dạo này cũng ngoan ngoãn hơn hẳn rồi nhỉ. Nhờ có Mei mà cuối cùng cô ta cũng biết tự kiểm điểm bản thân một chút rồi sao? Mà thôi, Kenzaki của hiện tại dù có bị khích bác thế nào đi nữa chắc cũng chẳng thèm hé răng nửa lời đâu.
+Kenzaki dạo này cũng ngoan ngoãn, nền tính hơn hẳn rồi nhỉ. Nhờ có Mei uốn nắn mà cuối cùng cô ta cũng biết tự soi gương kiểm điểm bản thân đôi chút rồi chăng? Mà thôi, Kenzaki của hiện tại dù có bị khích bác mỉa mai đến đâu chắc cũng chẳng thèm hé răng nửa lời.
 
-“Cậu thực sự muốn thế này sao, Momokawa-kun?”
+“Cậu thực sự quyết định dấn bước sao, Momokawa-kun?”
 
 “Ừ, Yama-Jun.”
 
-“Không cần phải rửa hận gì đâu... Cậu không cần phải tự mình gánh vác những chuyện như thế.”
+“Không cần phải cưỡng cầu rửa hận đâu... Cậu không có nghĩa vụ phải một mình gánh vác tất cả những gánh nặng nghiệt ngã ấy trên vai.”
 
-“Tớ không có ý định gánh vác thay ai cả. Đây là mối hận của tớ, là lời nguyền của riêng tớ.”
+“Tớ chưa từng nghĩ mình gánh vác thay ai cả. Đây là mối hận của riêng tớ, là lời nguyền rủa của chính bản thân tớ.”
 
-“Dù cậu có buông bỏ để được thanh thản ngay lúc này cũng... À không, xin lỗi nhé, đó chỉ là sự ích kỷ của tớ khi muốn cậu ở lại đây thôi.”
+“Dù cậu có chọn buông bỏ tất cả để được thanh thản ngay lúc này thì... À không, xin lỗi cậu nhé, đó chỉ là sự ích kỷ hèn nhát của tớ vì muốn giữ cậu ở lại nơi này thôi.”
 
-“Cảm ơn cậu. Nhưng đừng lo lắng quá. Tớ còn có những người đồng đội đáng tin cậy—”
+“Cảm ơn cậu. Nhưng đừng quá bận lòng. Tớ vẫn còn những người đồng đội đáng tin cậy ngoài kia—”
 
-Cuối cùng, tôi đã nhớ ra mọi chuyện một cách rõ ràng.
+Cuối cùng, từng mảnh ký ức vụn vỡ đã kết tinh lại rõ mồn một trong tâm trí tôi.
 
-Tôi có những người đồng đội. Họ đang đợi tôi.
+Tôi có những người đồng đội sinh tử có nhau. Họ đang mòn mỏi ngóng chờ tôi trở về.
 
-Và cả người con gái quan trọng mà tôi đã trao lời hẹn ước yêu thương nữa.
+Và còn cả hình bóng người con gái quan trọng nhất cuộc đời mà tôi đã trao trọn lời thề ước yêu thương.
 
-“Chắc chắn mọi người đang đợi tớ. Thế nên, tớ phải đi đây.”
+“Nhất định mọi người đang đợi tớ. Thế nên, tớ phải lên đường thôi.”
 
-“—Quả nhiên, đó là lựa chọn của ngươi sao.”
+“—Quả nhiên, đó chính là sự lựa chọn kiên định của ngươi sao.”
 
-Như để chứng giám cho quyết định của tôi, ngài Ruinhilde xuất hiện trước bục giảng.
+Như để chứng giám cho lời tuyên thệ của tôi, ngài Ruinhilde lừng lững xuất hiện ngay trước bục giảng.
 
-Có lẽ để phù hợp với hoàn cảnh, ngài ấy đang mặc bộ đồng phục của Học viện Hakurei. Đây là lần đầu tiên tôi thấy có người mặc đồ thủy thủ hợp hơn cả Sakura đấy.
+Có lẽ để hòa nhập với bối cảnh lớp học, nữ thần đang khoác trên mình bộ đồng phục nữ sinh của 『Học viện Hakurei』. Đây là lần đầu tiên tôi thấy có một người diện trang phục thủy thủ toát lên vẻ ma mị, quyến rũ lấn lướt cả Sakura.
 
-“Cảm ơn ngài đã bảo vệ con suốt thời gian qua, ngài Ruinhilde.”
+“Đa tạ ngài đã luôn dang tay che chở cho con suốt chuỗi ngày tăm tối vừa qua, ngài Ruinhilde.”
 
-“Không có gì, chỉ là đối đầu với con ả Nữ Dũng Giả đó vào lúc này vẫn còn quá sớm đối với ngươi thôi.”
+“Chẳng có gì to tát. Chỉ là đối đầu trực diện với con ả Nữ Dũng Giả lúc này vẫn còn quá sớm đối với sức vóc non nớt của ngươi mà thôi.”
 
-Đó là một thất bại thảm hại đến mức tôi thậm chí không thể tìm nổi một lý do để bào chữa. Dù có dùng bất cứ cách nào đi chăng nữa, tôi chắc chắn cũng không thể chạm nổi vào một sợi tóc của Lilith.
+Đó là một thất bại nhục nhã, toàn diện đến mức tôi chẳng thể tìm nổi một lý do cỏn con nào để tự bào chữa. Dù có tung ra trăm mưu ngàn kế, tôi vẫn bất lực không sao chạm nổi vào một sợi tóc của Nữ Dũng Giả Lilith.
 
-Và rồi, giống như một sự kiện thất bại bắt buộc trong game RPG, tôi bị đánh bại một cách chóng vánh và bị bắt đi— bị phong ấn bản ngã, mất sạch trang bị, rồi bị bán đi làm nô lệ trong trạng thái ngớ ngẩn vô hại.
+Và rồi, hệt như một chuỗi sự kiện thất bại tất yếu được lập trình sẵn trong các tựa game RPG, tôi bị đánh bại tơi tả chỉ trong chớp mắt và bị áp giải đi — bị phong ấn toàn bộ bản ngã, bị tước đoạt sạch trơn trang bị, rồi bị tống sang chợ đen bán làm kiếp nô lệ trong tình trạng ngơ ngác, mất trí hoàn toàn.
 
-Thật sự, nếu không có ngài Ruinhilde bảo vệ, tôi đã sớm bỏ mạng nơi đầu đường xó chợ như một đứa trẻ nô lệ mất trí rồi.
+Thực sự, nếu không có sự che chở quyền năng của ngài Ruinhilde, tôi đã sớm phơi thây nơi đầu đường xó chợ như một đứa nhóc nô lệ điên dại vô danh.
 
-“Ta chẳng làm gì nhiều cả. Bản thân điều đó cũng là nhờ sức mạnh của chính ngươi rồi.”
+“Ta nào có nhúng tay quá nhiều. Vượt qua kiếp nạn này, căn bản đều nhờ vào ý chí sinh tồn tiềm tàng của chính bản thân ngươi.”
 
-“Là một chú thuật sư mà lại để kẻ khác thao túng đầu óc thì thật đáng xấu hổ, con sẽ không để chuyện đó xảy ra lần nữa đâu.”
+“Mang danh một 『Chú thuật sư』 mà lại để kẻ khác tùy tiện thao túng đại não thì thật nhục nhã ê chề. Con thề sẽ không bao giờ để bi kịch đó tái diễn lần thứ hai.”
 
-Bắt đầu từ `『Quy Tắc Ý Niệm』` của Takanashi, những kỹ năng và thuật thức thao túng tâm trí con người thực sự tồn tại ở thế giới này. Lần này tôi cũng đã bị Lilith phong ấn bản ngã, và việc Elshion có thể dễ dàng sử dụng các kỹ năng tẩy não là một điều vô cùng phiền phức.
+Bắt đầu từ 『Quy Tắc Ý Niệm』 của Takanashi, những kỹ năng cùng thuật thức bóp méo tâm trí con người thực sự nhan nhản ở thế giới dị giới này. Lần này tôi cũng đã nếm mùi phong ấn bản ngã dưới tay Lilith; việc giáo phái Elshion dễ dàng thi triển các bí thuật tẩy não quả thực là mối hiểm họa khôn lường.
 
-Chính vì thế, tôi cần phải có biện pháp đối phó, và trước hết bản thân tôi phải tự mình ngăn chặn được chúng.
+Chính vì lẽ đó, tôi bắt buộc phải dựng lên phòng tuyến phòng thủ tinh thần tuyệt đối, và tiên quyết bản thân tôi phải tự mình bẻ gãy mọi xiềng xích thao túng ấy.
 
-Nhờ việc trực tiếp nếm trải, tôi đã hoàn tất việc phân tích thuật thức đó.
+Nhờ việc trực tiếp bị xâm nhập và phong ấn, tôi đã hoàn tất việc bóc tách, giải mã tường tận cấu trúc của loại thuật thức quái ác đó.
 
-Tôi cũng đã học được cách phòng ngự tinh thần để bảo vệ trí óc và linh hồn sau khi quan sát phương pháp của ngài Ruinhilde. Lần tới, ngay cả đòn tấn công tinh thần tôi cũng có thể phản lại bằng `『Phản Phục Thống Khổ』`.
+Tôi cũng đã thấu suốt cách thức phòng ngự tinh thần để phong tỏa tâm trí và linh hồn sau khi quan sát tường tận phương pháp thần thánh của ngài Ruinhilde. Lần tới, ngay cả những đòn công kích tâm linh quỷ quyệt nhất, tôi cũng có thể nghiền nát và phản hồi lại trọn vẹn thông qua 『Phản Phục Thống Khổ』!
 
-Nhắc mới nhớ, uy lực phản đòn của `『Phản Phục Thống Khổ』` dường như đã tăng lên gấp bội. Đặc biệt là khi những kẻ yếu ớt không có bất kỳ kháng tính nào chạm vào tôi, đòn phản phệ dội lại sẽ mang một sức tàn phá vô cùng khủng khiếp.
+Nhắc tới mới nhớ, dạo gần đây uy lực phản phệ của 『Phản Phục Thống Khổ』 dường như đã nhân lên gấp bội. Đặc biệt là khi những kẻ phàm trần yếu ớt, không sở hữu chút kháng tính nào dám đụng chạm vào tôi, phản lực dội ngược lại sẽ mang sức tàn phá vô cùng kinh hoàng.
 
-Đây không đơn thuần là việc cấp độ kỹ năng tăng lên, mà có khả năng là do ngài Ruinhilde đã chỉ dẫn cho tôi.
+Đây tuyệt đối không đơn thuần là việc cấp độ kỹ năng tăng lên theo lẽ tự nhiên, mà rất có thể bắt nguồn từ sự khai sáng ngầm của ngài Ruinhilde.
 
-Thật xấu hổ khi trước đây tôi cứ đinh ninh rằng mình chỉ có thể phản lại lượng sát thương tương đương, từ đó vô tình kìm hãm sự phát triển của `『Phản Phục Thống Khổ』`. Là một chú thuật sư, tôi vừa được dạy một bài học rằng trong bất kỳ hoàn cảnh nào cũng phải trả lại mối hận gấp mười, gấp trăm lần.
+Thật đáng xấu hổ khi trước đây tôi cứ bảo thủ đinh ninh rằng mình chỉ có thể hoàn trả lại đúng lượng sát thương tương đương, để rồi vô tình tự bóp nghẹt tiềm năng vô hạn của 『Phản Phục Thống Khổ』. Là một 『Chú thuật sư』 ngụp lặn trong hận thù, bài học xương máu vừa qua đã khắc sâu vào xương tủy tôi một chân lý: Trong bất kỳ hoàn cảnh nào, mối oán thù phải được hoàn trả lại gấp mười, gấp trăm lần!
 
-“Nơi Nữ Dũng Giả bảo vệ là Thánh vực của Elshion. Astoria vừa là pháo đài bao quanh nơi đó, vừa là bệ tế để tiếp nhận sức mạnh to lớn hơn. Nếu muốn khiêu chiến, hãy cẩn trọng.”
+“Nơi Nữ Dũng Giả canh giữ chính là Thánh vực bất khả xâm phạm của Elshion. Astoria vừa là pháo đài thép bao bọc lấy nơi ấy, vừa là bàn tế khổng lồ để tiếp nhận nguồn thần lực tối cao. Nếu quyết tâm khiêu chiến, hãy khắc ghi điều đó trong tâm can.”
 
-“Vâng.”
+“Vâng, thưa ngài.”
 
-Tôi đã đánh mất bản ngã, mất đi sức mạnh, và bị chia cắt khỏi đồng đội.
+Tôi đã từng đánh mất chính mình, từng bị tước đoạt toàn bộ sức mạnh, và bị cắt đứt hoàn toàn khỏi những người đồng đội thân yêu.
 
-Nhưng thì đã sao chứ. Tôi vẫn còn sống.
+Thế nhưng thì đã sao chứ? Tôi vẫn còn sống sờ sờ ở đây!
 
-Lần này, tôi sẽ cướp đoạt. Tôi sẽ cướp sạch tất cả, từ vương quốc Astoria cho đến hào quang của Elshion, không chừa một thứ gì.
+Lần này, đến lượt tôi đi cướp đoạt. Tôi sẽ cướp sạch sành sanh tất cả, từ ngai vàng của vương quốc Astoria cho tới vầng hào quang giả tạo của Elshion, tuyệt đối không chừa lại dù chỉ một mảnh tàn tro!
 
-“Đứa con của ta, Momokawa Kotarou. Ta sẽ ban cho ngươi một chú thuật mới.”
+“Đứa con của ta, Momokawa Kotarou. Ta sẽ ban tặng cho ngươi một chú thuật tối thượng mới.”
 
-“Con xin cảm ơn ngài— Ưm!”
+“Con xin đa tạ ngài— Ưm!”
 
-Thứ dội xuống tôi là một nụ hôn nồng cháy từ nữ thần.
+Rơi xuống đôi môi tôi là một nụ hôn nồng cháy, cuồng nhiệt từ nữ thần.
 
-Trái ngược hoàn toàn với những lần ban phát đau đớn trước đây, cách thức lần này như muốn rót đầy sự khoái lạc vào tận sâu trong đại não khiến tôi vô cùng kinh ngạc.
+Trái ngược hoàn toàn với những nghi thức ban phát chan chát đau đớn đến xé thịt nát xương trước đây, phương thức khai mở lần này lại tựa như một dòng thác khoái lạc đê mê rót thẳng vào tận cùng tế bào não bộ, khiến tôi choáng váng đến nghẹt thở.
 
-Một nụ hôn nóng bỏng, ngọt ngào và như muốn tan chảy, nhưng bị cả lớp nhìn chằm chằm thế này làm tôi ngượng chín cả mặt.
+Một nụ hôn rực lửa, ngọt lịm như mật ngọt tan chảy. Chỉ có điều... bị cả lớp tròn mắt trơ trơ dòm ngó thế này khiến mặt tôi nóng ran, ngượng chín như quả gấc.
 
-“Lời của Thần là chân lý. Nếu là ngụy thần, tất cả chỉ là lời dối trá. Song, phàm nhân làm sao phân biệt được thật giả. Vậy thì, ngươi cứ việc tha hồ dối lừa và mạo nhận đi.”
+“Lời của Thần linh chính là chân lý tối thượng. Nếu là ngụy thần, thảy đều là dối trá điêu ngoa. Song phàm nhân mắt trần thịt đầu làm sao phân định nổi thực hư. Vậy thì, ngươi cứ việc thỏa sức dối lừa và tiếm quyền mạo nhận đi!”
 
-Chẳng lẽ ngài ấy vừa ban cho tôi một chú thuật kiểu như `『Thần Thánh Ngôn Ngữ』` sao?
+Chẳng lẽ ngài ấy vừa ban cho tôi một bí thuật tương tự như 『Thần Thánh Ngôn Ngữ』 sao?
 
-Nhưng mà nghĩ lại thì, phong cách của ngài Ruinhilde đời nào lại cho tôi một năng lực tiện lợi và dễ dùng như thế, chắc chắn hiệu ứng của nó cũng sẽ có điểm quái gở cho xem.
+Nhưng ngẫm kỹ lại, phong cách ma mị của ngài Ruinhilde đời nào lại hào phóng ban tặng cho tôi một năng lực bình dị, dễ xài đến thế. Chắc chắn hiệu ứng ẩn giấu bên trong nó sẽ chứa đựng vô vàn điều quái gở và nguy hiểm khôn lường.
 
-Dù sao thì đó cũng là một chú thuật mới. Tôi sẽ cố gắng vận dụng nó thật tốt trong kế hoạch chinh phục vương quốc Astoria sắp tới.
+Dù sao đi nữa, đây cũng là một chú thuật hoàn toàn mới. Tôi sẽ tìm cách nghiền ngẫm và vận dụng nó thật triệt để trong kế hoạch lật nhào vương quốc Astoria sắp tới.
 
-“Đi đi. Con đường đã mở ra rồi.”
+“Đi đi. Cánh cổng định mệnh đã mở rộng rồi.”
 
-Cánh cửa lớp học tự động mở toang ra giống như lần đó.
+Cọt kẹt...
 
-Phía sau cánh cửa không phải là hành lang quen thuộc, mà là một khoảng không gian tối tăm như vũ trụ dẫn lối đến dị giới.
+Cánh cửa lớp học tự động trượt mở toang hoác, hệt như ngày định mệnh năm nào.
 
-Không ngờ tôi lại có cơ hội lao vào đây một lần nữa.
+Phía sau cánh cửa gỗ không còn là dãy hành lang trường học thân thương, mà là một hố đen thăm thẳm ngút ngàn như cõi vũ trụ vô tận dẫn lối tới dị giới tàn khốc.
 
-Lần trước tôi bị Mei đẩy mông nên mới là đứa rơi xuống đầu tiên một cách thảm hại... nhưng giờ đây, tôi sẽ tự mình bước vào đó bằng chính đôi chân này.
+Không ngờ tôi lại có cơ hội một lần nữa lao mình vào vực thẳm này.
 
-“Tớ đi đây.”
+Lần trước, tôi bị Mei tinh nghịch đạp vào mông nên mới thảm hại là đứa đầu tiên rơi tự do xuống hố sâu... Nhưng giờ đây, tôi sẽ hiên ngang sải bước tiến vào đó bằng chính đôi chân kiên định của mình!
 
-Tôi quay lại nhìn cả lớp lần cuối cùng, nói lời chào tạm biệt rồi bước ra ngoài lớp học.
+“Tớ đi đây!”
+
+Tôi ngoái đầu nhìn lại cả lớp lần cuối cùng, khẽ mỉm cười nói lời từ biệt rồi dứt khoát bước qua ngưỡng cửa định mệnh.
 
 ◇◇◇
 
-“Cô có thấy ngài Đứa con của thần đâu không?”
+“Cô có thấy Thần tử ở đâu không?”
 
-“Tôi thấy cậu bé lảng vảng quanh khu giặt giũ đấy.”
+“Tôi vừa thoáng thấy cậu bé thơ thẩn quanh khu giặt giũ đằng kia đấy.”
 
-“Cảm ơn cô.”
+“Cảm ơn cô nhiều.”
 
-Riza đang đi tìm Momoka.
+Riza đang tất tả ngược xuôi tìm kiếm Momoka.
 
-Sau buổi ăn trưa như thường lệ, cô hoàn toàn không thấy bóng dáng cậu đâu. Giờ đây ai cũng biết Momoka là một Đứa con của thần thần xuất quỷ nhập thần.
+Sau bữa trưa như thường lệ, cô hoàn toàn mất dấu bóng dáng của cậu. Giờ đây khắp đồn điền New Hope, ai nấy đều biết Thần tử là bậc thần xuất quỷ nhập thần.
 
-Vì cậu chỉ là một đứa trẻ, nên dù có biến mất một chút cũng không ai quá lo lắng. Việc cậu tùy hứng biến mất là chuyện cơm bữa, đến mức cả nhóm của Riza lẫn những kẻ giám thị đều đã bỏ cuộc trong việc nắm bắt hành tung của cậu.
+Vì bề ngoài cậu chỉ là một đứa trẻ, nên việc thoắt ẩn thoắt hiện trong chốc lát không khiến ai quá đỗi hoang mang. Cậu thích thì đi, muốn thì về, chuyện cơm bữa đến mức cả nhóm Riza lẫn đám cai ngục giám thị đều đã hoàn toàn bất lực trong việc lần theo hành tung ma quái của cậu.
 
-Tuy nhiên, đáng lẽ khi trời sập tối cậu phải quay về, nhưng hôm nay lại trễ hơn mọi khi.
+Thế nhưng, thường lệ cứ hễ chạng vạng tối là cậu sẽ quay trở về lán trại, vậy mà hôm nay bóng trăng đã ngấp nghé mà cậu vẫn bặt vô âm tín.
 
-Mặt trời đã bắt đầu khuất dạng nơi đường chân trời của đồn điền rộng lớn, nhuộm đỏ rực cả thị trấn Easthope. Chẳng mấy chốc bóng tối sẽ hoàn toàn bao trùm lấy nơi này.
+Mặt trời đã chìm hẳn xuống đường chân trời bao la của đồn điền, nhuộm một màu đỏ quạch như máu lên thị trấn Easthope. Chẳng mấy chốc nữa, bóng đêm dày đặc sẽ nuốt chửng cả không gian.
 
-Nếu đêm xuống mà cậu vẫn chưa về thì Riza thực sự sẽ lo lắng... May mắn thay, sau khi có được manh mối đáng tin cậy, cô vội vã hướng về phía khu giặt giũ.
+Nếu màn đêm buông xuống hẳn mà cậu vẫn chưa lộ diện, Riza thực sự sẽ phát điên vì lo lắng... May mắn thay, vừa nắm được manh mối chắc chắn, cô vội vã rảo bước hướng thẳng về phía khu giặt giũ.
 
-Khu giặt giũ giờ đã là chuyện của quá khứ. Dưới bàn tay của Momoka, nơi này đã được cải tạo hoàn toàn thành một phòng tắm công cộng.
+Khu giặt giũ tồi tàn ngày trước giờ đây đã lùi vào dĩ vãng. Dưới bàn tay phù phép của Momoka, nơi này đã hoàn toàn lột xác thành một nhà tắm công cộng khang trang.
 
-Bồn tắm lớn giờ đã chuyển sang màu đen kịt như chiếc vạc ma thuật, được yểm ma pháp tự động đun nước nóng mỗi khi dẫn nước từ đường ống vào. Nếu chia giờ tắm ra, tất cả mọi người đều có thể được ngâm mình trong làn nước ấm áp và sạch sẽ.
+Chiếc bồn tắm khổng lồ đen tuyền bóng loáng như một vạc ma thuật huyền bí, được ếm sẵn ma pháp tự động đun sôi sùng sục mỗi khi dòng nước từ đường dẫn chảy vào. Nếu phân chia khung giờ tắm hợp lý, toàn bộ nô lệ trong nông trường đều có thể ngâm mình thư thái trong làn nước nóng ấm áp và tinh khiết.
 
-Bên cạnh bồn tắm đen đó là vô số chậu gỗ và xà phòng luôn được chuẩn bị sẵn.
+Bên cạnh chiếc bồn tắm đen bóng kỳ diệu ấy là vô số chậu gỗ cùng những bánh xà phòng thơm phức luôn được xếp chồng ngăn nắp, sẵn sàng phục vụ.
 
-Đối với người Diana vốn có văn hóa tắm rửa, đây là sự thay đổi đáng mừng nhất chỉ sau đồ ăn.
+Đối với những người Diana vốn coi văn hóa tắm rửa là nghi thức thiêng liêng, đây là sự đổi thay vĩ đại và đáng mừng nhất, chỉ xếp sau những bữa ăn no đủ.
 
-Việc chỉ lau người bằng nước lạnh dễ khiến họ cảm thấy mình không còn là con người nữa, mà chỉ là những công cụ bẩn thỉu không hơn không kém.
+Việc ngày qua ngày chỉ được dùng chút nước lạnh lau qua loa thân xác nhớp nhúa bùn đất dễ khiến họ dần bị tha hóa, tự ti mặc cảm rằng bản thân không còn là một con người, mà chỉ là thứ công cụ lao dịch bẩn thỉu rẻ mạt.
 
-Chính những điều nhỏ nhặt tích tụ lại như thế sẽ cướp đi tôn nghiêm và ý chí của những người nô lệ, biến họ thành những công cụ chỉ biết phục tùng chủ nhân.
+Chính những tổn thương âm ỉ tích tụ qua từng ngày tháng ấy sẽ dần gặm nhấm, tước đoạt sạch trơn tôn nghiêm cùng ý chí quật khởi của người nô lệ, biến họ thành những cái xác ươn chỉ biết cúi đầu tuân lệnh chủ nhân.
 
-Nhưng phòng tắm này đã giúp những người nô lệ Diana tìm lại phần người của mình. Họ được ăn những bữa ăn đủ để hồi phục sức lực, và được gột rửa thân thể sạch sẽ tại đây.
+Thế nhưng, gian phòng tắm ấm áp này đã cứu rỗi linh hồn họ, giúp những người Diana tìm lại được nhân phẩm cùng bản ngã con người. Họ được nạp năng lượng từ những bữa ăn đủ chất để hồi phục cơ bắp, và được tẩy trần sạch bong mọi nhơ nhuốc tại chốn này.
 
-Đối với Riza, nơi này giống như một bệ tế thần thánh giúp cô tìm lại niềm kiêu hãnh của một Tinh Linh Chiến Sĩ— chính vì vậy, cảnh tượng trước mắt cô lúc này mang một vẻ huyền bí đến lạ kỳ.
+Đối với Riza, gian phòng tắm này tựa như một thánh đường thiêng liêng giúp cô khơi dậy niềm kiêu hãnh bất khuất của một 『Tinh Linh Chiến Sĩ』— chính vì vậy, cảnh tượng mở ra trước mắt cô lúc này mang một phong thái huyền bí và thoát tục đến ngạt thở.
 
-“Ngài Đứa con của thần...”
+“Thần tử...”
 
 Momoka thực sự đang ở đó.
 
-Ở chính giữa bồn tắm đen, cơ thể trần trụi trắng ngần ướt đẫm nước của cậu đứng đón nhận ánh hoàng hôn nhuộm đỏ rực. Dáng vẻ đó khiến cô không thể không liên tưởng đến bức tranh tường vẽ cảnh nữ thần giáng sinh trong thần điện năm xưa.
+Đứng sừng sững ngay giữa lòng bồn tắm đen tuyền, tấm thân trần trụi trắng ngần lấp lánh những giọt nước đọng của cậu đang tắm mình dưới ánh hoàng hôn đỏ rực buông qua ô cửa sổ. Dáng vẻ thanh thoát, kiêu hãnh ấy khiến tâm trí Riza bất giác liên tưởng đến bức bích họa huyền thoại miêu tả khoảnh khắc giáng trần của một vị thần hộ mệnh trong cổ thần điện năm nào.
 
-Tim Riza đập liên hồi.
+Thình thịch! Thình thịch!
 
-Sự căng thẳng này là do áp lực khi đứng trước thần linh, hay là do tấm lưng ướt át đầy quyến rũ kia?
+Trái tim Riza đập liên hồi như trống trận.
 
-Trong khoảng không gian như ngưng đọng khiến người ta quên cả thở, Momoka từ từ quay đầu lại.
+Nỗi run rẩy ngập tràn trong lồng ngực này là do uy áp nghẹt thở khi diện kiến thần linh, hay bắt nguồn từ bờ lưng ướt át tỏa ra sức hút ma mị khó cưỡng kia?
+
+Giữa khoảng không gian tĩnh mịch cô đọng đến mức người ta quên cả việc hít thở, Momoka thong thả quay đầu lại.
 
 “Chào buổi sáng, Riza.”
 
-Giọng nói và phát âm vô cùng rõ ràng. Và trên hết, ánh mắt cậu đang nhìn thẳng vào Riza.
+Giọng nói cất lên trầm ấm, ngữ điệu dứt khoát và phát âm rõ ràng rành mạch đến kinh ngạc! Và trên hết, đôi mắt đen láy sâu thẳm của cậu đang nhìn thẳng vào sâu thẳm tâm hồn Riza.
 
-Ánh mắt lờ đờ, mơ màng như đang chìm trong giấc mộng thường ngày đã hoàn toàn biến mất.
+Ánh mắt đờ đẫn, mơ màng như kẻ mộng du thường ngày đã hoàn toàn biến mất không còn một dấu vết.
 
-Một ý thức rõ ràng. Một ý chí kiên định đang ngự trị nơi đó.
+Một luồng ý thức sắc lạnh. Một ý chí kiên định ngút trời đang ngự trị trong con ngươi ấy!
 
-“...Ngài Đứa con của thần, ngài đã tỉnh lại rồi sao.”
+“...Thần tử, Ngài... Ngài đã thức tỉnh rồi sao?!”
 
-“Ừ, cuối cùng ta cũng tỉnh rồi. Ta vừa trải qua một giấc mơ rất dài.”
+“Ừ, cuối cùng ta cũng đã tỉnh giấc. Ta vừa trải qua một giấc mộng dài.”
 
-Riza tự nhiên quỳ sụp xuống đất.
+Bịch!
 
-Đó là một phép màu. Cô hiểu rằng ngay lúc này, trước mặt cô, một phép màu của thần linh đang hiển hiện.
+Đầu gối Riza tự động quỳ sụp xuống sàn gỗ ẩm ướt.
 
-“Tên của ta là Momokawa Kotarou. Thiên chức là 『Chú thuật sư』. Và là đứa con của Chú thần Ruinhilde.”
+Đây chính là phép màu! Cô thấu suốt sâu sắc rằng ngay vào giây phút này, ngay trước mắt mình, một điều kỳ diệu vĩ đại của thần linh đang hiển hiện bằng xương bằng thịt!
 
-“Tôi là Riza Titania. Quyến thuộc của 『Đại Cự Thần』, một 『Tinh Linh Chiến Sĩ』.”
+“Tên của ta là Momokawa Kotarou. Thiên chức là 『Chú thuật sư』. Và là đứa con của 『Chú thần Ruinhilde』.”
 
-“Ừ, ta biết.”
+“Tôi là Riza Titania. Quyến thuộc của 『Cự Thần Vĩ Đại』, một 『Tinh Linh Chiến Sĩ』!”
 
-Nhìn nụ cười của Momoka, không, của Kotarou lúc này, Riza gần như phải quay mặt đi vì sự thần thánh của cậu. Quá đỗi chói lòa. Vẻ đẹp và sự đáng yêu đó khiến cô chỉ có thể nghĩ cậu là một thiên sứ được thần linh phái xuống.
+“Ừ, ta biết rõ điều đó.”
 
-Dù chói mắt, nhưng cô không thể rời mắt được.
+Chiêm ngưỡng nụ cười kiêu sa của Momoka — không, của Kotarou lúc này, Riza suýt chút nữa phải nghiêng đầu né tránh vì hào quang thần thánh tỏa ra từ cậu. Quá đỗi rực rỡ và lộng lẫy! Vẻ đẹp ma mị và phong thái uy nghiêm tuyệt đối ấy khiến cô chỉ có thể phủ phục tin rằng cậu chính là sứ giả tối cao được chư thần phái xuống cứu rỗi tộc người của mình.
 
-“Ta có một thỉnh cầu nhỏ dành cho Riza, không biết có được không?”
+Dẫu chói lòa đến hoa mắt, nhưng đôi mắt cô tuyệt đối không thể rời khỏi hình bóng ấy.
 
-“Vâng, thưa ngài. Bất cứ điều gì ngài muốn.”
+“Ta có một thỉnh cầu nhỏ dành cho Riza, không biết cô có bằng lòng?”
 
-Đây là thần mệnh. Và Riza tin chắc rằng đó cũng chính là vận mệnh của mình.
+“Vâng, thưa Thần tử! Bất cứ điều gì Ngài truyền dạy, tôi đều xin tuân mệnh!”
 
-Dù là mệnh lệnh gì, cô cũng sẽ hoàn thành. Lần này, dù có phải đánh đổi cả mạng sống.
+Đây chính là thần mệnh tối thượng! Và Riza tin chắc như đinh đóng cột rằng đây cũng chính là sứ mệnh duy nhất của cuộc đời mình.
 
-“Hãy lập khế ước với ta, và trở thành Tinh Linh Chiến Sĩ của ta nhé!”
+Dẫu là bất kỳ mệnh lệnh sinh tử nào, cô cũng sẽ dốc trọn sinh lực để hoàn thành. Lần này, dẫu có phải lấy máu nhuộm đỏ đất trời hay đánh đổi cả tính mạng, cô cũng quyết không lùi bước!
+
+“Hãy lập khế ước với ta, và trở thành 『Tinh Linh Chiến Sĩ』 của ta nhé!”

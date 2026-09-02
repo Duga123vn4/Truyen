@@ -1,385 +1,389 @@
 # Tập 415: Không nô lệ, không sinh tồn (2)
 
-“Chào buổi sáng~”
+“Chào buổi sáng ạ~”
 
-Buổi sáng, nhìn nụ cười của Momoka đang ngước lên nhìn mình từ khe ngực, Riza nghĩ rằng đã lâu lắm rồi cô mới có một giấc thức dậy dễ chịu đến thế.
+Sáng sớm, nhìn nụ cười ngây thơ của Momoka đang ngước lên từ hõm ngực mình, Riza cảm thấy đã lâu lắm rồi cô mới có một buổi sớm mai thức giấc êm ái đến nhường này.
 
-“Vâng, chào buổi sáng, thưa Đức ngài.”
+“Vâng, kính chào Đức ngài.”
 
-Riza ngồi dậy khỏi giường khi trên người chỉ mặc độc đồ lót, và ngay khoảnh khắc đó, cô chợt nhận ra.
+Riza ngồi dậy khỏi giường khi trên người chỉ độc bộ đồ lót mỏng manh, và ngay khoảnh khắc ấy, cô chợt nhận ra điều bất thường.
 
-Không chỉ đơn thuần là cảm giác sảng khoái khi thức giấc. Mà thể trạng của cô đã thay đổi một cách rõ rệt.
+Đó không chỉ đơn thuần là cảm giác sảng khoái sau một giấc ngủ ngon. Thể trạng của cô đã biến chuyển một cách rõ rệt.
 
-*Ma lực đang tràn trề...*
+*Ma lực bên trong mình... đang dâng tràn cuồn cuộn...*
 
-Là một 『Tinh Linh Chiến Sĩ』, nhưng sức mạnh của Riza chỉ có thể phát huy khi mượn từ Đức ngài.
+Là một 『Tinh Linh Chiến Sĩ』, sức mạnh của Riza chỉ có thể phát huy trọn vẹn khi nhận được ân huệ từ Đức ngài.
 
-Bản thân cô vốn không có tố chất ma lực quá cao, và sau khi mất đi Đức ngài, cô chỉ mạnh hơn chiến sĩ thông thường một chút. Nếu là một Tinh Linh Chiến Sĩ cấp cao, họ có thể tự mình thi triển sức mạnh cường đại, nhưng Riza lại không được ban cho tài năng đến mức đó.
+Bản thân cô vốn không sở hữu tố chất ma lực xuất chúng, nên sau khi mất đi Đức ngài tiền nhiệm, sức chiến đấu của cô cũng chỉ nhỉnh hơn chiến sĩ thông thường đôi chút. Nếu là một Tinh Linh Chiến Sĩ cấp cao, họ có thể tự mình điều động nguồn sức mạnh cường đại, nhưng Riza lại không được trời phú cho tài năng vượt bậc đến thế.
 
-Dù vậy, cô vẫn nhạy cảm nắm bắt được tình trạng cơ thể mình. Đặc biệt là lượng ma lực và sự tuần hoàn của nó trong cơ thể, vốn là phần cốt lõi của một Tinh Linh Chiến Sĩ.
+Dẫu vậy, cô vẫn nhạy bén cảm nhận được từng biến chuyển nhỏ nhất trong cơ thể mình. Đặc biệt là dung lượng ma lực và dòng chảy tuần hoàn của nó — cội nguồn sinh mệnh của một Tinh Linh Chiến Sĩ.
 
-Do lao động nô lệ cực nhọc, phần lớn ma lực của cô đã phải tiêu hao chỉ để duy trì một cơ thể khỏe mạnh. Ngay cả những võ kỹ tay không dùng trong chiến đấu, cô cũng chỉ có thể thi triển những chiêu cơ bản nhất, và giới hạn tối đa cũng chỉ vài lần một ngày.
+Suốt chuỗi ngày lao dịch khổ sai nơi đồn điền, phần lớn ma lực của cô đã phải tiêu hao chỉ để chống chọi lại sự kiệt quệ thể xác. Ngay cả những võ kỹ tay không căn bản nhất, cô cũng chỉ có thể gắng gượng thi triển đôi ba lần mỗi ngày.
 
-Thế nhưng hôm nay, ma lực của cô lại tràn đầy như thuở trước.
+Thế nhưng lúc này, nguồn ma lực dồi dào thuở trước đã hoàn toàn quay trở lại.
 
-Nguyên nhân chắc chắn không ai khác ngoài Đức ngài Momoka, người đã ngủ cùng cô đêm qua.
+Nguyên nhân chắc chắn không ai khác ngoài Đức ngài Momoka, người đã ngủ vùi trong lòng cô suốt đêm qua.
 
-“Đức ngài, con xin cảm ơn Người. Nhờ vậy, hôm nay con lại có thể tiếp tục chiến đấu đến cùng.”
+“Đức ngài, con xin tạ ơn Người. Nhờ ân điển này, hôm nay con lại có thể tiếp tục chiến đấu bảo vệ mọi người rồi.”
 
-Với tư cách là một Tinh Linh Chiến Sĩ, Riza là át chủ bài không thể thay thế trong việc thu hoạch từ 『Coffee Trent』. Suốt ba năm qua, nhờ có cô, số người chết khi thu hoạch từ Trent chỉ đếm trên đầu ngón tay.
+Với tư cách là một Tinh Linh Chiến Sĩ, Riza chính là át chủ bài không thể thay thế trong các đợt thu hoạch từ 『Coffee Trent』. Suốt ba năm ròng rã, nhờ có cô xả thân nơi tiền tuyến, số nô lệ bỏ mạng dưới tay lũ quái thụ chỉ đếm trên đầu ngón tay.
 
-Thế nhưng, cô cũng đã bắt đầu lo lắng không biết mình có thể duy trì được bao lâu dưới sự bào mòn của những chuỗi ngày khắc nghiệt này... Hôm nay, dù chỉ là một sự tình cờ, việc ma lực được hồi phục hoàn toàn đã thắp lên trong cô một tia hy vọng mới.
+Dẫu vậy, cô vẫn luôn nơm nớp âu lo không biết bản thân còn có thể cầm cự được bao lâu dưới sự bào mòn khắc nghiệt của năm tháng... Nhưng hôm nay, việc ma lực được phục hồi trọn vẹn đã thắp lên trong lòng cô một tia hy vọng mới.
 
 ◇◇◇
 
-Một ngày lao động không nghỉ ngơi, lặp đi lặp lại như mọi khi lại bắt đầu.
+Một ngày lao động khổ ải, lặp đi lặp lại như thường lệ lại bắt đầu.
 
-Việc có thêm một nô lệ mới gia nhập cũng chẳng thể làm thay đổi guồng quay đó, thế nhưng—
+Sự xuất hiện của một nô lệ mới nhỏ tuổi chẳng thể làm thay đổi guồng quay tàn nhẫn ấy, thế nhưng—
 
-“Này, nhóc Momoka đâu mất rồi?!”
+“Này, nhóc Momoka chạy đâu mất rồi?!”
 
-“Ơ, vừa nãy hình như vẫn ở kia mà...”
+“Ơ, vừa nãy em vẫn thấy cậu ấy ở đằng kia mà...”
 
-Tiếp tục hôm qua, Riza đã giao Momoka cho những đứa trẻ nô lệ cùng lứa tuổi trông nom.
+Tiếp nối ngày hôm qua, Riza tiếp tục giao Momoka cho những đứa trẻ nô lệ trạc tuổi trông nom.
 
-Cậu bé vẫn giữ được sự hiếu động và bướng bỉnh tên là Karon. Còn cô bé ngây thơ, dịu dàng là Latina.
+Cậu nhóc hiếu động và bướng bỉnh tên là Karon, còn cô bé ngây thơ, hiền lành bên cạnh là Latina.
 
-Cả hai đều bị gã buôn nô lệ Velvet bán tống bán tháo theo lô đến nơi này.
+Cả hai đều là những đứa trẻ người Diana bị thương đoàn nô lệ Velvet bán tống bán tháo theo lô đến nơi này.
 
-Thấy hôm qua Momoka nhặt củi rất ngoan ngoãn không xảy ra chuyện gì, hai đứa nghĩ hôm nay cũng sẽ ổn thôi nên đã quá tập trung vào công việc của mình. Kết quả là sau khi trận chiến với Trent kết thúc trước giờ trưa, bọn chúng hoàn toàn mất dấu Momoka.
+Thấy hôm qua Momoka chỉ ngoan ngoãn đi nhặt củi khô mà không gây ra rắc rối nào, hai đứa trẻ đinh ninh hôm nay cũng sẽ êm xuôi nên đã quá chú tâm vào phần việc của mình. Nào ngờ sau khi trận chiến với lũ Trent kết thúc trước giờ trưa, bọn chúng hoàn toàn mất dấu cậu nhóc.
 
-“Giờ tính sao đây...”
+“Giờ tính sao đây anh...”
 
-“Ừm... sắp đến giờ trưa rồi, có khi cậu ấy đã về nhà bếp rồi cũng nên.”
+“Ừm... sắp đến giờ ăn trưa rồi, khéo nhóc đó tự mò về nhà bếp trước rồi cũng nên.”
 
-Karon cũng nghĩ khả năng cao là do đói bụng nên nhóc đó tự ý mò về trước, thế là cả hai quyết định hướng về phía nhà bếp.
+Karon thầm đoán có lẽ vì đói bụng nên cậu nhóc đã lén chạy về trước, thế là cả hai vội vã rảo bước hướng về phía nhà bếp dã chiến.
 
-Đúng ra thì bọn chúng phải lùng sục khắp các cánh đồng để tìm, nhưng nếu đi lang thang lung tung thì rất dễ lọt vào mắt của đám giám sát. Bọn chúng không muốn vì lo chuyện bao đồng mà bản thân phải ăn roi da.
+Lẽ ra bọn chúng phải lùng sục khắp các cánh đồng để tìm, nhưng nếu đi lại lung tung rất dễ lọt vào tầm mắt của đám giám thị. Cả hai đều không muốn vì lo chuyện bao đồng mà phải lãnh trọn những lằn roi da bỏng rát.
 
-Khi hai đứa trẻ lo lắng quay về,
+Khi hai đứa trẻ nơm nớp lo sợ chạy về đến nơi—
 
-“A, cậu ấy kia rồi!”
+“A, cậu ấy đằng kia kìa!”
 
-“May quá.”
+“May quá đi mất.”
 
-Ở đó, Momoka đang ôm một chiếc bao tải gai giống hệt trang phục của mình, đi lẩn quẩn quanh khu vực nhà bếp.
+Trước mắt chúng, Momoka đang ôm một chiếc bao tải gai rách rưới giống hệt bộ quần áo trên người, thong thả đi đi lại lại quanh khu vực bếp nấu.
 
-“Này Momoka! Cậu tự ý đi đâu thế hả, đang làm cái gì vậy!”
+“Này Momoka! Cậu tự ý chạy đi đâu thế hả, đang làm cái trò gì đấy!”
 
 “Cho hai cậu cái này nè~”
 
-Karon vốn định lên giọng dạy dỗ một trận ra trò, nhưng khi nhìn thấy thứ trong bàn tay đang chìa ra cùng nụ cười toe toét đầy tự hào của Momoka, cậu ta liền nghẹn họng, không thể thốt thêm lời trách móc nào nữa.
+Karon vốn định lớn tiếng mắng cho một trận ra trò, nhưng khi nhìn thấy thứ nằm gọn trong lòng bàn tay đang chìa ra cùng nụ cười tươi rói đầy tự hào của Momoka, cậu bé liền nghẹn họng, không thốt thêm được lời trách móc nào nữa.
 
-“Oa, cái này không lẽ là...”
+“Oa, cái này chẳng lẽ là...”
 
-“Trời đất, là 『Red Berry』 kìa!”
+“Trời đất ơi, là 『Red Berry』 kìa!”
 
-Nằm trên lòng bàn tay nhỏ nhắn trắng trẻo của Momoka là những quả mọng màu đỏ. Đó là một loại quả thuộc họ mâm xôi, ở Diana người ta gọi là Red Berry, một loại quả rừng phổ biến mà ai cũng từng ăn.
+Nằm gọn trên bàn tay nhỏ nhắn, trắng trẻo của Momoka là những quả mọng màu đỏ tươi mọng nước. Đó là một loại quả rừng thuộc họ mâm xôi mà người Diana vẫn thường gọi là Red Berry, món quà vặt quen thuộc gắn liền với tuổi thơ của bất kỳ ai sinh ra trên mảnh đất ấy.
 
-Tất nhiên, Karon và Latina ngày trước cũng thường cùng bạn bè hái những quả Red Berry mọc hoang quanh làng để ăn thay quà vặt.
+Tất nhiên, Karon và Latina ngày trước cũng từng cùng đám bạn đồng trang lứa hái những chùm Red Berry mọc dại quanh làng để ăn lót dạ.
 
-Thế nhưng, ở trang trại này, những ký ức tuổi thơ như thế đã trở thành điều xa xỉ. Bởi vì thứ duy nhất bọn họ được phép đưa vào miệng ở đây chỉ có nước lã và cháo loãng.
+Thế nhưng, tại đồn điền địa ngục này, những ký ức tuổi thơ tươi đẹp đó đã trở thành thứ xa xỉ tột cùng. Bởi lẽ thứ duy nhất bọn họ được phép đưa vào miệng nơi đây chỉ là nước lã và những bát cháo ngũ cốc loãng toẹt.
 
 “Ngon quá...”
 
-“Ngon thật đấy... Ngon quá đi mất...”
+“Ngon thật đấy... Ngon quá đi mất thôi...”
 
-Dưới sự mời mọc của Momoka đang mỉm cười, hai đứa trẻ bỏ quả Red Berry vào miệng, thứ quả mà đã bao lâu rồi chúng không được nếm thử.
+Trước lời mời mọc của Momoka, hai đứa trẻ run rẩy đón lấy quả mọng rồi bỏ vào miệng. Thứ hương vị rừng núi đã bao lâu rồi chúng không được nếm trải.
 
-Và rồi, nước mắt cứ thế tự nhiên trào ra.
+Và rồi, những giọt nước mắt cứ thế lăn dài trên đôi gò má lấm lem.
 
-Vị chua ngọt quen thuộc lan tỏa trong khoang miệng, đánh thức những ký ức tưởng chừng đã bị chôn vùi và phai nhạt theo năm tháng.
+Vị chua ngọt thanh mát lan tỏa khắp khoang miệng, đánh thức những ký ức ngỡ như đã bị chôn vùi và vỡ vụn dưới gót giày nô dịch.
 
-Khi dư vị đầy xúc động qua đi, Karon vội vàng lau nước mắt rồi hỏi Momoka:
+Sau khi cơn xúc động lắng xuống, Karon vội vàng lấy mu bàn tay quệt nước mắt rồi gặng hỏi Momoka:
 
-“Cậu hái cái này ở đâu ra thế?”
+“Cậu hái thứ này ở đâu ra thế?”
 
-“Tuyệt thật, nhiều quá chừng luôn.”
+“Tuyệt thật đấy, nhiều quá chừng luôn.”
 
-Chiếc bao tải gai mà Momoka đang ôm chứa đầy ắp Red Berry.
+Chiếc bao tải gai mà Momoka đang ôm trên tay chứa đầy ắp những quả Red Berry đỏ mọng.
 
-Vốn dĩ đây là loài thực vật mọc hoang khắp nơi, nhưng để gom được một lượng lớn thế này là cực kỳ khó. Ít nhất là trong trang trại không hề có bụi Red Berry nào, mà nếu có thì cũng đã bị phát hiện từ lâu rồi.
+Dẫu biết đây là loài thực vật mọc hoang dã, nhưng để gom được một lượng lớn đến nhường này là điều gần như bất khả thi. Ít nhất là trong khuôn viên đồn điền tuyệt đối không có bụi cây nào, mà dẫu có mọc lên thì cũng đã bị đám giám thị phát hiện và triệt phá từ lâu.
 
-Chưa kể, dù có may mắn tìm thấy, đám giám sát cũng đời nào để yên cho bọn họ hái.
+Chưa kể, dẫu có may mắn tìm thấy, lũ cai ngục tàn độc kia đời nào để yên cho đám nô lệ tự do hái lượm.
 
-Ngay cả những đứa trẻ như Karon và Latina cũng phải nghi ngờ về nguồn gốc của số quả mọng khổng lồ này, thế nhưng—
+Ngay cả những đứa trẻ như Karon và Latina cũng nhận ra sự bất thường đằng sau số quả mọng khổng lồ này, thế nhưng—
 
 “Tớ đi chia cho mọi người đây~”
 
-Nhìn Momoka vừa nói vừa ôm bao tải chạy biến đi, cả hai không hề có ý định ngăn cậu lại.
+Nhìn Momoka vừa cười híp mắt vừa ôm bao tải chạy biến đi, cả hai đứa trẻ đều không nỡ cất lời ngăn cản.
 
 ◇◇◇
 
-Kể từ khi đứa trẻ bị nguyền rủa Momoka đến đây, thấm thoát đã trôi qua một tuần.
+Kể từ ngày đứa trẻ bị nguyền rủa Momoka đặt chân đến đây, thấm thoát đã trôi qua một tuần lễ.
 
-Nhờ chỉ thị nghiêm ngặt yêu cầu đám giám sát hạn chế tiếp xúc tối đa, đồng thời phó mặc việc chăm sóc cho các nô lệ người Diana, không một ai bị dính phải lời nguyền. Những ngày tháng ở trang trại cứ thế trôi qua trong yên bình... hoặc ít nhất là tưởng như vậy.
+Nhờ mệnh lệnh nghiêm ngặt yêu cầu đám cai ngục hạn chế tối đa việc tiếp xúc, đồng thời phó mặc việc chăm sóc cho các nô lệ người Diana, không một ai bị dính phải tai ương nguyền rủa. Những ngày tháng ở đồn điền cứ thế trôi qua trong bình lặng... hoặc ít nhất là vẻ ngoài trông có vẻ như vậy.
 
-“C-Cái gì thế này...?”
+“C-Cái quái gì thế này...?”
 
-Là một đại chủ trang trại kiêm chủ sở hữu thương hiệu cà phê nổi tiếng, Winston luôn bận rộn, nhưng hôm nay ông ta có chút thời gian rảnh nên quyết định tự mình đi thị sát trang trại.
+Là một đại chủ đồn điền kiêm thương gia sở hữu thương hiệu cà phê danh tiếng, Winston luôn bận trăm công nghìn việc. Nhưng hôm nay, nhân lúc rảnh rỗi hiếm hoi, ông ta quyết định đích thân đi thị sát một vòng trang trại.
 
-Đặc biệt là khi đọc những báo cáo gửi lên hàng ngày từ Malcolm, ông ta cũng rất tò mò về động thái của đứa trẻ bị nguyền rủa. Vì vậy, vào khoảng thời gian trước giờ trưa, Winston đã tìm đến khu vực làm việc của Momoka.
+Đặc biệt là sau khi đọc những bản báo cáo kỳ lạ gửi lên hàng ngày từ quản lý Malcolm, sự tò mò về động tĩnh của đứa trẻ bị nguyền rủa càng thôi thúc ông ta. Vì vậy, vào khoảng thời gian trước giờ cơm trưa, Winston đã tìm đến khu vực làm việc của Momoka.
 
-Và rồi, ông ta trợn tròn mắt trước cảnh tượng kỳ dị đang diễn ra trước mắt.
+Và rồi, đôi mắt trố lồi của gã chủ nô trợn trừng trước cảnh tượng hoang đường đang diễn ra ngay trước mắt.
 
-“Đức ngài, cảm ơn Người vì đã ban cho chúng con lương thực ngày hôm nay.”
+“Kính lạy Đức ngài, cảm tạ Người đã ban phát lương thực cứu rỗi chúng con ngày hôm nay.”
 
-“Hỡi các vị thần của Diana, xin hãy bảo vệ chúng con từ nơi tinh tú xa xôi.”
+“Hỡi các vị thần linh Diana, xin hãy soi sáng và bảo bọc chúng con từ cõi trời xa thẳm.”
 
-Tại nhà bếp, hầu như toàn bộ nô lệ người Diana được giao quản lý các cánh đồng quanh đây đều đang tập trung và ngồi bệt dưới đất.
+Tại khoảng sân trước nhà bếp, hầu như toàn bộ nô lệ người Diana phụ trách các cánh đồng lân cận đều đang quỳ mọp và ngồi thành từng hàng ngay ngắn trên nền đất.
 
-Đứng trước mặt họ là Momoka, với tấm lưng quay về phía chiếc vạc cháo lớn đang bốc khói nghi ngút.
+Đứng sừng sững trước mặt họ chính là Momoka, tấm lưng nhỏ nhắn quay về phía chiếc vạc cháo lớn đang nghi ngút khói sương.
 
-Dáng vẻ đó trông chẳng khác nào một vị vua của họ.
+Khí chất ngạo nghễ ấy trông chẳng khác nào một vị quân vương tối cao đang ngự trị trước thần dân của mình.
 
-Trong lúc Momoka đứng nhìn với nụ cười vu vơ, những nô lệ phụ trách chia phần ăn nhanh chóng chuyền tay nhau các bát thức ăn.
+Trong lúc Momoka đứng quan sát với nụ cười vu vơ quen thuộc, những nô lệ phụ trách chia khẩu phần nhanh thoăn thoắt chuyền tay nhau từng phần thức ăn nóng hổi.
 
-Đáng lẽ ra, khẩu phần ăn của nô lệ chỉ có một bát gỗ cháo loãng nấu từ ngũ cốc vụn và nước lã, thế nhưng—
+Đáng lẽ ra, khẩu phần ăn mỗi ngày của lũ nô lệ chỉ vỏn vẹn một bát gỗ cháo loãng nấu từ cám bã ngũ cốc vụn và nước lã, thế nhưng—
 
-“Ồ, hôm nay có cả thịt cá này...”
+“Ồ, hôm nay lại có cả thịt cá tươi này...”
 
-“Mùi thơm quá.”
+“Thơm quá chừng.”
 
-“Đúng là phải ăn cái món 『Fairy Walnut』 này thì mới có sức làm việc được.”
+“Quả nhiên là phải có món 『Fairy Walnut』 này thì cơ thể mới có sức mà cày cuốc chứ.”
 
-“Có cả trà nóng nữa, quý hóa quá...”
+“Lại còn có cả trà nóng thảo mộc nữa, đội ơn trời phật...”
 
-Bát cháo đầy ắp thịt cá xé nhỏ, tỏa hương thơm thảo mộc được múc đầy vào những chiếc tô lớn. Còn những chiếc bát gỗ nông ngày trước giờ đây lại chứa đầy các loại quả mọng màu đỏ và hạt óc chó.
+Những tô cháo đầy ắp thịt cá xé nhỏ, thơm lừng hương thảo mộc được múc tràn trề vào từng chiếc bát lớn. Còn những chiếc khay gỗ nông ngày trước giờ đây lại chất đầy các loại quả mọng đỏ tươi và hạt óc chó béo ngậy.
 
-Thậm chí, họ còn có cả những chiếc cốc đựng đầy nước trà màu xanh nhạt.
+Thậm chí, trên tay mỗi người còn có một chiếc cốc gỗ đựng đầy thứ nước trà màu xanh nhạt tỏa khói nghi ngút.
 
-Sau khi xác nhận tất cả mọi người đều đã nhận được phần ăn và trà, Momoka nâng chiếc cốc của mình lên và hô to:
+Sau khi xác nhận toàn bộ nô lệ đều đã nhận đủ phần ăn và trà nóng, Momoka giơ cao chiếc cốc của mình lên rồi cất giọng trong trẻo hô to:
 
-“Chúc mọi người ngon miệng~!”
+“Mời mọi người cùng ăn ngon miệng nha~!”
 
-Tiếng hô vang dội của đám nô lệ đồng thanh đáp lại, và tất cả bắt đầu dùng bữa cùng một lúc.
+“““ĐỘI ƠN ĐỨC NGÀI!!!”””
 
-“Thế này là thế nào hả?! Thứ bọn chúng đang ăn là cái gì vậy! Ở đâu ra thế!”
+Tiếng hô vang dội của đám nô lệ đồng thanh đáp lại, rúng động cả một góc trời, rồi tất cả bắt đầu thưởng thức bữa trưa một cách ngon lành.
 
-Ông ta không hề nhớ mình từng cho phép phân phát những thứ như vậy cho nô lệ.
+“Thế này rốt cuộc là thế nào hả?! Thứ bọn chúng đang nhét vào họng là cái gì vậy?! Ở đâu ra thế hả?!”
 
-Gần đây, có lẽ do nhu cầu ở khắp nơi tăng lên, ngay cả loại ngũ cốc vụn dùng làm thức ăn gia súc mà ông ta nhập với giá rẻ nhất cũng đang có xu hướng tăng giá dần. Ông ta không thể tốn thêm một cắc nào cho bữa ăn của lũ nô lệ rác rưởi này nữa.
+Winston gầm lên dữ dội. Ông ta tuyệt đối không nhớ mình từng chuẩn y việc phân phát những thứ sơn hào hải vị đó cho đám nô lệ hạ đẳng.
 
-Khẩu phần ăn có giảm đi thì còn nghe được, chứ tăng lên thế này thì thật là điên rồ.
+Dạo gần đây, do nhu cầu thị trường tăng vọt, ngay cả loại cám vụn ngũ cốc dùng làm thức ăn gia súc mà ông ta nhập với giá rẻ mạt nhất cũng đang leo thang từng ngày. Ông ta tuyệt đối không thể vung thêm một cắc bạc nào cho bữa ăn của lũ súc vật biết nói này nữa.
 
-Winston gầm lên giận dữ, nghi ngờ rằng một lượng lớn thực phẩm như vậy đã bị đánh cắp từ kho của mình.
+Khẩu phần ăn có bị cắt giảm bớt thì còn hợp lý, chứ đằng này lại ê hề thịt cá thế kia thì quả là điên rồ tột bực.
 
-“Chuyện đó, thực ra... chúng tôi cũng không biết nhóc đó kiếm đâu ra ngần ấy nguyên liệu nữa.”
+Winston gầm thét trong cơn thịnh nộ, nghi ngờ rằng một lượng lớn thực phẩm quý giá đã bị đánh cắp khỏi kho dự trữ của gia tộc.
 
-“Làm sao mà không biết được! Mắt của tụi bây để trưng cho đẹp à?!”
+“Chuyện đó, thực tình... bọn tôi cũng chẳng tài nào tra ra được thằng ranh đó kiếm đâu ra ngần ấy nguyên liệu nữa ạ.”
 
-“Tất nhiên là chúng tôi đã thắt chặt giám sát xung quanh Momoka rồi! Đã làm thế rồi, nhưng cứ hễ chớp mắt một cái là nhóc đó lại lôi từ đâu ra một bao tải đầy ắp thức ăn!”
+“Làm sao mà không biết được! Mắt của tụi bây mọc trên trán để làm cảnh à?!”
 
-“Làm gì có chuyện vô lý như thế!”
+“Oan cho chúng tôi quá, chúng tôi đã cử người thắt chặt giám sát xung quanh Momoka suốt ngày đêm rồi! Đã làm đến mức đó, nhưng cứ hễ chớp mắt một cái là thằng nhóc lại lôi từ đâu ra một bao tải căng tròn đầy ắp thức ăn!”
 
-“Chính vì có chuyện đó nên tôi mới phải báo cáo tình trạng bất thường này cho ngài chứ! Chúng tôi cũng đã cố ngăn lại rồi, nhưng chịu chết thôi, đồ đạc cứ tự dưng xuất hiện liên tục như phép thuật vậy!”
+“Làm quái gì có cái chuyện hoang đường như thế!”
 
-Nhìn vẻ mặt nghiêm túc và khẩn thiết của Malcolm, Winston cũng lờ mờ nhận ra rằng chuyện này không đơn thuần là do sự lơ là của đám giám sát.
+“Chính vì nó hoang đường đến mức ấy nên tôi mới phải cấp báo tình trạng dị thường này cho ngài chứ! Bọn tôi cũng đã cố tìm cách ngăn chặn rồi, nhưng chịu chết thôi, đồ đạc cứ tự dưng mọc ra liên tục như có phép thuật vậy!”
 
-Ông ta đánh giá cao năng lực làm việc của Malcolm. Gã quản lý này luôn hòa đồng với đám giám sát dưới quyền, và chỉ cần giao cho gã quản lý thì trang trại sẽ vận hành trơn tru mà không cần Winston phải can thiệp nhiều.
+Nhìn vẻ mặt tái mét, khẩn thiết không chút giả dối của Malcolm, cơn giận của Winston dần chuyển thành nỗi hoang mang sâu sắc.
 
-Thậm chí gã còn từng phát hiện ra dấu hiệu nổi loạn của nô lệ và ngăn chặn kịp thời. Winston tin tưởng gã không canh gác lỏng lẻo như mấy kẻ nghiệp dư.
+Ông ta vốn đánh giá rất cao năng lực quản lý của Malcolm. Gã này luôn biết cách thu phục đám giám thị dưới quyền, chỉ cần giao việc cho gã thì đồn điền sẽ vận hành trơn tru mà không cần Winston phải bận tâm nhiều.
 
-Vậy mà giờ đây, một bữa tiệc trưa thịnh soạn của lũ nô lệ lại đang diễn ra công khai. Lại còn bằng nguồn nhu yếu phẩm không rõ nguồn gốc.
+Thậm chí trước đây, gã còn từng đánh hơi và đập tan một âm mưu nổi loạn của đám nô lệ ngay từ trong trứng nước. Winston tin chắc gã không bao giờ làm việc lỏng lẻo như phường nghiệp dư.
 
-“Chắc chắn không phải đồ bị trộm từ kho của chúng ta chứ?”
+Vậy mà lúc này đây, một bữa đại tiệc thịnh soạn của lũ nô lệ lại đang diễn ra công khai ngay giữa thanh thiên bạch nhật. Lại còn bằng nguồn nhu yếu phẩm không rõ tông tích.
 
-“Vâng, lượng ngũ cốc tiêu thụ để nấu cháo vẫn không hề thay đổi. Hơn nữa, loại Red Berry hay thứ hạt mà bọn họ gọi là Fairy Walnut kia, kho của chúng ta vốn dĩ làm gì có trữ. Cả mấy lá trà xanh kia cũng vậy.”
+“Ngươi dám chắc số đồ này không phải bị tuồn ra từ nhà kho của chúng ta chứ?”
 
-“Ta nhớ mấy thứ đó là do người Diana tự hái, vốn mọc hoang quanh vùng này.”
+“Vâng, sổ sách kiểm kê lượng ngũ cốc dùng để nấu cháo vẫn khớp từng lạng ạ. Hơn nữa, loại quả Red Berry hay thứ hạt óc chó mà bọn chúng gọi là Fairy Walnut kia, kho của chúng ta vốn dĩ làm gì có hàng dự trữ. Cả mấy loại lá trà xanh kia cũng thế.”
 
-“Vậy nghĩa là bọn chúng đã qua mặt lính canh để lén lút đi hái sao?”
+“Ta nhớ mấy thứ đó vốn là đặc sản của người Diana, mọc hoang dã quanh vùng này.”
 
-“Có nô lệ nào tự ý rời khỏi ruộng vào ban ngày không?”
+“Vậy nghĩa là bọn chúng đã lén lút qua mặt lính gác để đi hái trộm sao?”
 
-“Đời nào, nếu có kẻ như thế thì lính canh đã thổi còi báo động ngay rồi.”
+“Ban ngày ban mặt có tên nô lệ nào tự ý rời khỏi phần đất canh tác không?”
 
-Chính vì thế, Winston đành phải chấp nhận rằng nguồn gốc của số thực phẩm kia vẫn là một bí ẩn.
+“Đời nào có chuyện đó, nếu có kẻ cả gan đào tẩu thì lính tuần tra đã thổi còi báo động ầm ĩ rồi ạ.”
 
-Đúng là nếu đi về phía dãy núi Elemental thì có thể hái được bao nhiêu quả rừng tùy thích. Nhưng xét về khoảng cách và số lượng, ông ta không tin bọn chúng có thể đi hái rồi quay về trong một khoảng thời gian ngắn mà không bị lính canh phát hiện.
+Chính vì những lẽ đó, Winston đành phải nghiến răng chấp nhận sự thật rằng nguồn gốc của số thực phẩm kia hoàn toàn là một ẩn số.
 
-Phải cần một lượng người đáng kể và tốn rất nhiều thời gian mới gom được ngần ấy quả rừng và lá trà. Tất nhiên, cả ở dinh thự lẫn trong thị trấn đều không hề có tin đồn nào về việc mất trộm lương thực.
+Đúng là nếu cất công đi sâu về phía rặng núi Elemental thì có thể thu hoạch được bao nhiêu quả rừng tùy thích. Nhưng xét về khoảng cách địa lý lẫn số lượng khổng lồ kia, ông ta tuyệt đối không tin bọn chúng có thể đi hái rồi quay về trong tích tắc mà không bị lính canh phát hiện.
 
-“Rốt cuộc là ai, và bằng cách nào đã tuồn đồ vào đây... Này, gọi Riza lại đây cho ta.”
+Phải cần đến một lực lượng đông đảo và tiêu tốn vô số thời gian mới gom đủ ngần ấy quả mọng và lá trà. Tất nhiên, cả ở dinh thự lẫn các thị trấn lân cận đều chẳng hề có phong thanh nào về việc kho lương bị trộm cắp.
 
-“C-Có ổn không ạ...?”
+“Rốt cuộc là kẻ nào, và bằng thủ đoạn quỷ quái nào đã tuồn đồ vào đây... Này, lôi con ả Riza lại đây cho ta.”
 
-“Chủ nhân gọi nô lệ thì có gì mà phải ngập ngừng! Mau dẫn nó lại đây!”
+“C-Có ổn không thưa ngài...?”
 
-Nếu canh gác không tìm ra manh mối, thì cứ việc hỏi thẳng đứa nô lệ.
+“Chủ nhân truyền lệnh triệu tập nô lệ thì có gì mà phải đắn đo! Mau lôi cổ nó lại đây!”
 
-Với quyết tâm không dung thứ cho bất kỳ lời nói dối nào, Winston khẽ vuốt ve cây roi da đeo bên hông.
+Nếu việc rình rập không mang lại kết quả, vậy thì cứ việc tra khảo thẳng mặt kẻ cầm đầu đám nô lệ.
+
+Với dã tâm không dung thứ cho bất kỳ lời dối trá nào, Winston khẽ luồn tay vuốt ve thân roi da gai góc đang đeo bên hông.
 
 ◇◇◇
 
-“Tôi đã dẫn Riza tới rồi.”
+“Tôi đã áp giải Riza tới rồi thưa ngài.”
 
 “...Ừm.”
 
-Nghe tiếng gọi của Malcolm, cô nhanh chóng bước tới. Thái độ của cô vẫn cung kính và phục tùng như mọi khi.
+Nghe tiếng gọi sắc lạnh của Malcolm, người phụ nữ nhanh chóng tiến lại gần. Dáng vẻ của cô vẫn toát lên sự cung kính và phục tùng như mọi khi.
 
 “......”
 
-Thế nhưng, khi cô đứng lặng im trước mặt ông ta, một áp lực vô hình không thể tả bằng lời đột ngột ập xuống đè nặng lên Winston.
+Thế nhưng, khi cô đứng sừng sững trước mặt gã chủ nô, một luồng áp lực vô hình nặng tựa nghìn cân đột ngột giáng xuống, đè nghẹn lồng ngực Winston.
 
-*Con ả này... vốn dĩ to lớn thế này sao...?*
+*Con ả này... vốn dĩ hộ pháp đến mức này sao...?*
 
-Ngay sau đó, một suy nghĩ xẹt qua tâm trí ông ta. Cảm giác này giống hệt như lúc ông ta còn nhỏ, bị hiệp sĩ tuần tra tóm cổ khi đang nghịch ngợm. Ông ta đã bị ảo giác rằng cơ thể cô khổng lồ đến mức đó.
+Một thoáng rùng mình xẹt qua tâm trí gã. Cảm giác này y hệt như thuở nhỏ, lúc gã bị tên hiệp sĩ tuần tra vạm vỡ tóm gáy khi đang giở trò nghịch ngợm. Gã bất giác nảy sinh ảo giác rằng người phụ nữ trước mặt là một bức tường thành khổng lồ không thể lay chuyển.
 
-Winston tuy đã có tuổi nên người hơi phát phì, nhưng chiều cao vẫn trên mức trung bình, có thể coi là đô con. Vốn dĩ Riza đã cao hơn ông ta, nhưng cảm giác áp bức này không đơn thuần chỉ là vấn đề chiều cao vật lý.
+Winston tuy đã luống tuổi nên thân hình có phần phát phì, nhưng vóc dáng vẫn thuộc hàng cao lớn hơn người thường. Vốn dĩ Riza đã cao hơn gã nửa cái đầu, nhưng cảm giác bức bách này tuyệt đối không đơn thuần chỉ là sự chênh lệch về chiều cao vật lý.
 
-Không phải ảo giác, vóc dáng của Riza rõ ràng đã trở nên săn chắc và đầy đặn hơn hẳn.
+Đó không phải ảo giác. Vóc dáng của Riza rõ ràng đã trở nên săn chắc, vạm vỡ và tràn trề sinh lực hơn hẳn.
 
-Cánh tay, bắp chân, bờ vai cho đến vòng eo, mới cách đây vài ngày trông vẫn còn khá gầy gò, thì giờ đây những thớ cơ bắp đã lộ rõ cuồn cuộn, không ngoa khi nói đó là cơ thể của một chiến binh thực thụ.
+Từ bắp tay, bắp chân, bờ vai cho đến vòng eo, mới chỉ cách đây vài ngày trông vẫn còn teo tóp, xanh xao vì đói khát, thì giờ đây từng thớ cơ bắp cuồn cuộn đã lộ rõ mồn một. Không ngoa khi khẳng định rằng đây chính là thân thể của một chiến binh dày dạn trận mạc.
 
-Đôi gò bồng đảo căng tròn trở lại, căng tràn như muốn chực rách toạc chiếc áo sơ mi thô sơ. Bờ vai và hông cũng vậy, những đường cong nữ tính được tôn lên rõ rệt nhưng kích thước lại tăng lên hơn một cỡ, khiến bộ quần áo chật ních như đang gào thét vì quá tải.
+Đôi gò bồng đảo căng tròn nảy nở trở lại, căng tràn như chực rách toạc lớp áo sơ mi thô ráp. Bờ vai rộng và khung xương chậu nở nang, những đường nét nữ tính đầy đặn được tôn lên rõ rệt nhưng kích thước dường như đã tăng lên hơn một cỡ, khiến bộ quần áo nô lệ chật ních như đang oằn mình gào thét vì quá tải.
 
-Chỉ trong vỏn vẹn một tuần mà lại có sự thay đổi kinh ngạc đến thế.
+Chỉ trong vỏn vẹn một tuần lễ ngắn ngủi mà lại có sự lột xác kinh ngạc đến nhường này ư?
 
-Cứ ngỡ mắt mình có vấn đề, ông ta dụi mắt nhìn đi nhìn lại từ đầu đến chân cô nhiều lần, nhưng cuối cùng vẫn phải thừa nhận rằng cơ thể khỏe khoắn, đẫy đà của Riza hoàn toàn không phải là ảo ảnh hay sự tưởng tượng.
+Cứ ngỡ mắt mình bị mờ, Winston dụi mắt nhìn đi nhìn lại từ đầu đến chân cô ả nhiều lần, nhưng cuối cùng vẫn phải cay đắng thừa nhận rằng cơ thể khỏe khoắn, tràn đầy nhựa sống của Riza hoàn toàn là sự thật hiển hiện.
 
-“Thứ đồ ăn bọn mày đang nuốt vào bụng là cái gì? Ai mang tới, từ đâu và bằng cách nào?”
+“Thứ thức ăn mà lũ chúng mày đang tọng vào họng là cái gì? Kẻ nào mang tới, từ đâu và bằng cách nào hả?!”
 
-“Tất cả đều là ân huệ của các vị thần Diana.”
+“Tất cả đều là ân huệ thiêng liêng từ các vị thần linh Diana ban phát.”
 
-“Bớt xằng bậy đi! Ý mày là các vị thần của tụi mày đã làm thức ăn rơi từ trên trời xuống chắc!”
+“Bớt ăn nói xằng bậy đi! Ý mày là thần linh của tụi mày rảnh rỗi đến mức làm thức ăn rơi từ trên trời xuống chắc?!”
 
-“Nếu không phải vậy, làm sao những kẻ nô lệ như chúng tôi lại có được lượng lương thực dồi dào đến thế.”
+“Nếu không phải nhờ thần tích của Người, làm sao những kẻ nô lệ khốn cùng như chúng tôi lại có được nguồn lương thực dồi dào đến thế.”
 
-Câu trả lời của Riza cũng chính là thắc mắc lớn nhất của bọn họ.
+Câu trả lời đanh thép của Riza cũng chính là nút thắt bí ẩn lớn nhất đang bóp nghẹt tâm trí bọn họ.
 
-Đối mặt với người chủ đang giận dữ, Riza vẫn giữ khuôn mặt hoàn toàn vô cảm. Không một chút sợ hãi, gương mặt cô lạnh lùng như một bức tượng đá.
+Đối mặt với gã chủ nô đang điên tiết gầm gừ, Riza vẫn giữ gương mặt lạnh tanh, không một gợn sóng cảm xúc. Không một tia sợ hãi hay nao núng, ánh mắt cô lạnh lùng tựa như một pho tượng đá ngàn năm.
 
-Rốt cuộc là ả đang nói dối, hay thực sự không biết gì? Winston không thể nào phân biệt được.
+Rốt cuộc là con ả đang giở trò lừa gạt, hay thực sự mụ mị tin vào điều đó? Winston hoàn toàn bất lực trong việc nhìn thấu tâm can cô.
 
-“Hừ, không chịu khai đúng không. Vậy thì ta sẽ tịch thu toàn bộ số thức ăn đó. Thứ duy nhất bọn mày được phép ăn chỉ là một bát cháo ngũ cốc vụn mà thôi.”
+“Hừ, ngoan cố không chịu khai đúng không. Vậy thì ta sẽ ra lệnh tịch thu toàn bộ số thức ăn đó. Thứ duy nhất lũ súc vật chúng mày được phép nuốt chỉ là một bát cháo cám mà thôi.”
 
-“Hiện tại ngài có thể tịch thu chúng, nhưng bàn tay con người không thể nào ngăn cản được ân huệ của các vị thần.”
+“Hiện tại ngài có thể dùng vũ lực để cướp đoạt, nhưng bàn tay phàm trần của con người vĩnh viễn không thể ngăn trở ân huệ của thần linh.”
 
-“Câm miệng! Mau đi thu hồi hết lại cho ta!”
+“Câm mồm! Mau đi tịch thu hết sạch lại cho ta!”
 
-“Thưa Chủ tịch, chẳng phải cứ để bọn họ ăn như vậy lại có lợi hơn sao? Sản lượng thu hoạch tuần này rõ ràng đã vượt trội so với tuần trước đấy.”
+“Kìa thưa Chủ tịch, chẳng phải cứ để mặc bọn họ ăn uống no đủ như vậy lại có lợi hơn cho chúng ta sao? Sản lượng thu hoạch 『Coffee Trent』 tuần này rõ ràng đã vượt trội gấp rưỡi so với tuần trước đấy ạ.”
 
-“Thằng ngu này, làm thế thì lũ nô lệ sẽ nhờn mặt—”
+“Cái thằng ngu này, dung túng như thế thì lũ nô lệ sẽ nhờn mặt—”
 
-“Hơn nữa, việc ăn uống này không chỉ diễn ra ở đây, mà các khu vực khác cũng tương tự.”
+“Hơn nữa, việc ăn uống này không chỉ diễn ra ở riêng khu đất này, mà tất cả các khu vực khác trong đồn điền cũng đều tương tự ạ.”
 
-Lời bổ sung muộn màng của Malcolm khiến Winston không khỏi kinh ngạc.
+Lời bổ sung kịp thời của Malcolm khiến Winston sững sờ, tròng mắt suýt rớt ra ngoài.
 
-Trang trại New Hope vô cùng rộng lớn. Nơi này chỉ là một góc nhỏ trong số rất nhiều khu đất canh tác.
+Đồn điền New Hope có quy mô vô cùng rộng lớn. Khu vực này chỉ là một góc nhỏ trong số hàng chục mảnh đất canh tác bạt ngàn.
 
-Chỉ riêng nô lệ người Diana đã có khoảng một trăm năm mươi người. Họ được chia thành các nhóm khoảng ba mươi người để canh tác trên các phần đất khác nhau.
+Chỉ tính riêng nô lệ người Diana đã lên tới con số một trăm năm mươi người. Bọn họ được chia thành các phân đội khoảng ba mươi người để làm việc rải rác trên khắp các sườn đồi.
 
-Nói cách khác, toàn bộ nô lệ người Diana rải rác khắp trang trại đều đang được thưởng thức bữa trưa thịnh soạn gồm cháo đầy ắp thịt, quả rừng và trà nóng.
+Nói cách khác, toàn bộ một trăm năm mươi nô lệ Diana phân bố khắp đồn điền lúc này đều đang được no nê thưởng thức bữa trưa thịnh soạn gồm cháo thịt cá đậm đà, quả mọng ngọt lịm và trà nóng thơm lừng.
 
-“Số thực phẩm đó cứ tự dưng xuất hiện từ hư không. Nếu bữa nào chúng ta cũng đi tịch thu hết sạch thì nhân lực của chúng ta không thể kham nổi. Tệ nhất là việc canh gác và an ninh sẽ bị sơ hở đấy.”
+“Số lương thực đó cứ tự động xuất hiện từ cõi vô hình. Nếu bữa nào chúng ta cũng điều động người đi lục soát tịch thu thì quân số giám sát hoàn toàn không thể kham nổi. Tệ hại hơn, việc lơ là an ninh sẽ tạo sơ hở cho lũ quái vật hay hiểm họa bên ngoài đấy ạ.”
 
 “Hự... ư...”
 
-Lời phân tích của Malcolm đã kéo Winston về thực tế, ông ta vẫn đủ lý trí để hiểu rằng việc tịch thu là bất khả thi.
+Những lý lẽ thực tế và sắc bén của Malcolm đã kéo Winston trở về với thực tại nghiệt ngã. Dù đang sôi máu, gã chủ nô vẫn đủ sự tỉnh táo của một thương nhân để nhận ra việc cưỡng chế tịch thu là điều bất khả thi.
 
-Nếu chỉ vì giận dữ mà cướp đi bữa ăn của lũ nô lệ trước mặt thì quá đơn giản. Bọn họ chắc chắn sẽ dâng nộp thức ăn mà không hề phản kháng.
+Nếu chỉ vì giận dữ nhất thời mà cướp đi bữa ăn của mấy chục nô lệ trước mắt thì quá dễ dàng. Bọn họ chắc chắn sẽ ngoan ngoãn giao nộp mà chẳng dám hé răng phản kháng.
 
-But người Diana tin rằng đây là món quà của thần linh. Nếu chỉ cướp đi một lần thì chẳng thể dập tắt được niềm tin của họ.
+Thế nhưng, toàn thể người Diana đều đinh ninh rằng đây là món quà cứu rỗi của thần linh. Việc cướp đi thức ăn một vài lần chẳng thể nào dập tắt được ngọn lửa đức tin đang bùng cháy trong lồng ngực họ.
 
-Không biết bằng cách nào, nhưng hệ thống cung cấp thêm lương thực cho một trăm năm mươi người đã được thiết lập hoàn chỉnh. Nếu hôm nay cướp đi, ngày mai bọn chúng sẽ lén lút ăn vụng mà thôi.
+Không rõ bằng thủ đoạn thần thánh nào, nhưng một đường dây tiếp tế lương thực nuôi sống một trăm năm mươi người đã được thiết lập vô cùng hoàn hảo. Hôm nay cướp đi, ngày mai bọn chúng lại tiếp tục lén lút ăn vụng sau lưng đám cai ngục mà thôi.
 
-“Riza, nếu cứ tiếp tục thế này, sản lượng thu hoạch sẽ tăng lên đúng không?”
+“Riza, nếu cứ tiếp tục duy trì thế này, sản lượng thu hoạch có đảm bảo sẽ tiếp tục tăng không?”
 
 “Chắc chắn rồi ạ.”
 
-“Được rồi, ta sẽ cho phép bọn mày nhận cái gọi là ân huệ của thần linh đó. Nhưng ta không có ý định bỏ qua việc bọn mày tự tiện ăn uống mà không xin phép. Phạt đánh mười roi!”
+“Được lắm, ta tạm thời cho phép lũ chúng mày nhận cái gọi là ân huệ thần linh đó. Nhưng ta tuyệt đối không tha thứ cho cái tội tự tiện ăn uống lén lút mà chưa có sự chuẩn y của chủ nhân. Phạt đánh mười roi!”
 
 ◇◇◇
 
-Trước lời tuyên án của Winston, Riza lẳng lặng quay lưng lại và cởi bỏ chiếc áo khoác ngoài.
+Trước lời tuyên án tàn nhẫn của Winston, Riza lẳng lặng quay lưng lại rồi dứt khoát cởi bỏ chiếc áo khoác thô sơ trên người.
 
-Động tác của cô không một chút ngập ngừng, như thể muốn nói rằng nếu chỉ cần chịu bấy nhiêu roi mà đổi lại được bữa ăn cho mọi người thì quá xứng đáng. Dù sao đi nữa, một khi chủ nhân đã ra lệnh phạt roi, quyết định đó sẽ không bao giờ thay đổi. Kẻ làm nô lệ vốn dĩ không có lựa chọn nào khác ngoài việc cắn răng chịu phạt.
+Động tác của cô không hề có lấy một tia do dự, tựa như muốn ngầm tuyên bố rằng nếu chỉ cần đổi lấy mười lằn roi da mà mang lại bữa ăn no đủ cho đồng bào của mình thì cái giá ấy vẫn còn quá rẻ mạt. Dù sao đi nữa, một khi chủ nô đã ban lệnh hành hình, bản án đó sẽ không bao giờ được rút lại. Thân phận nô lệ hèn mọn vốn dĩ chẳng có quyền lựa chọn nào khác ngoài việc cắn răng chịu đựng đòn roi.
 
-Riza hiên ngang để lộ tấm lưng trần của một chiến binh. Trước mặt cô, một tên giám sát được Winston gọi tới bước lên.
+Riza hiên ngang phơi bày tấm lưng trần vạm vỡ, rắn rỏi của một chiến binh kiêu dũng. Trước mặt cô, một gã giám thị lực lưỡng được Winston chỉ định lừng lững bước lên.
 
-Trên tay gã là một cây roi da. Đó là loại roi da dài dạng dây thừng, hay còn gọi là 『Bullwhip』.
+Trên tay gã lăm lăm một cây roi da bện dài ngoằng. Đó chính là loại roi da chuyên dụng dạng dây thừng, hay còn gọi là 『Bullwhip』.
 
-Thông thường, roi của đám giám sát là loại roi gậy dùng cho kỵ binh. Loại đó chỉ cần vung lên là đánh được nên rất dễ sử dụng.
+Thông thường, vũ khí của đám cai ngục chỉ là loại roi gậy ngắn dùng cho kỵ binh. Loại đó chỉ cần vung tay lên là quất được nên rất dễ thao tác.
 
-Ngược lại, roi Bullwhip tuy gây ra nỗi đau đớn kinh hoàng nhưng lại đòi hỏi kỹ năng sử dụng rất cao. Số người có thể vung roi chuẩn xác để quất vào lưng kẻ khác mà không bị tự làm thương mình là rất ít.
+Ngược lại, roi Bullwhip tuy mang lại sức tàn phá và nỗi đau đớn kinh hoàng đến tận xương tủy, nhưng lại đòi hỏi kỹ năng sử dụng cực kỳ điêu luyện. Số kẻ có thể vung ngọn roi dài chuẩn xác để xé toạc da thịt đối phương mà không tự quất trúng bản thân là vô cùng hiếm hoi.
 
-Và những lúc thi hành hình phạt roi thế này chính là lúc để những kẻ chuyên nghiệp như gã ra tay.
+Và những buổi thi hành án phạt công khai thế này chính là sân khấu để những kẻ đồ tể chuyên nghiệp như gã phô diễn ngón nghề.
 
-“Được rồi, đánh đi.”
+“Được rồi, ra tay đi.”
 
 “Một!”
 
-Cùng với tiếng đếm số roi vang lên dõng dạc, tiếng roi quất xé gió rền vang.
+Cùng với tiếng đếm số roi dõng dạc vang lên, ngọn roi da xé toạc không khí, rít lên một tiếng rợn người.
 
-Sức tàn phá khủng khiếp xứng danh là biểu tượng của sự tra tấn giáng xuống. Thế nhưng Riza không hề rên rỉ lấy một tiếng, cô đứng im như đá chịu đựng cơn đau.
+*CHÁTTTTTT!*
 
-Cơ thể cô hiện tại đã hồi phục gần như về trạng thái đỉnh cao. Việc lấy lại thể lực và sức mạnh cũng giúp ý chí của cô trở nên kiên cường hơn.
+Sức tàn phá khủng khiếp xứng danh là biểu tượng của sự tra tấn dã man giáng thẳng xuống da thịt. Thế nhưng Riza không hề rên rỉ lấy nửa lời, cô đứng sừng sững như một tảng đá ngàn cân cắn răng chịu đựng cơn đau rát buốt.
 
-Cô đã sớm chuẩn bị tâm lý để chịu đựng cơn đau buốt nhói như điện giật chạy dọc sống lưng, thế nhưng—
+Cơ thể cô lúc này đã hồi phục gần như về trạng thái hoàng kim thuở trước. Việc tìm lại được nguồn thể lực dồi dào và ma lực sung mãn cũng giúp ý chí chiến đấu của cô trở nên kiên định hơn bao giờ hết.
+
+Cô đã sớm chuẩn bị tâm thế để đón nhận cơn đau buốt nhói như luồng điện giật chạy dọc sống lưng, thế nhưng—
 
 “Hai!”
 
 “Đừng màaa!”
 
-Nghe thấy giọng nói lọt vào tai, Riza trợn tròn mắt.
+Nghe thấy tiếng thét trẻ con quen thuộc lọt vào tai, đôi mắt Riza trố lồi vì kinh hãi.
 
-Ở đó, Đức ngài Momoka đang dốc sức chạy về phía này.
+Phía bên kia sân, Đức ngài Momoka đang dốc toàn lực guồng chân lao thục mạng về phía này.
 
-*A!* Khi cô vừa kịp nhận ra thì mọi chuyện đã quá muộn.
+*Nguy rồi!* Khi cô vừa kịp nhận ra hiểm cảnh thì mọi chuyện đã quá muộn màng.
 
-Nhát roi thứ hai đã được vung lên.
+Ngọn roi thứ hai đã xé gió vung lên đến đỉnh điểm.
 
-Để bảo vệ tấm lưng của Riza, Momoka đã lao mình chắn trước đường roi—
+Để che chắn cho tấm lưng trần của Riza, Momoka đã liều mình lao thẳng vào quỹ đạo của lằn roi da hung bạo—
 
-*CHÁTTTTTTTTT!*
+*CHÁTTTTTTTTTTT!*
 
 “Áaaa!”
 
-Hét lên một tiếng thất thanh kỳ lạ, Momoka hứng trọn cú quất roi ngay trước ngực rồi bị đánh văng ra đất.
+Cất lên một tiếng thét thất thanh đau đớn, Momoka hứng trọn cú quất roi tàn nhẫn ngay trước ngực rồi bị hất văng ra xa, lăn lông lốc trên nền đất cát.
 
-And rồi, lực quất tàn nhẫn của nhát roi kia lập tức hóa thành lời nguyền, 『phản phệ』 ngược lại kẻ đã dám làm tổn thương Đức ngài tôn kính.
+Thế rồi, xung lực bạo tàn của nhát roi oan nghiệt kia lập tức kích hoạt chú thuật, 『phản phệ』 toàn bộ sát thương với uy lực gấp bội ngược trở lại kẻ dám to gan xúc phạm đến Đứa con của thần linh.
 
 “Hự—”
 
-Còn chưa kịp hét lên một tiếng đau đớn, tên giám sát vung roi đã lập tức bất tỉnh nhân sự.
+Còn chưa kịp rên lên một tiếng ú ớ, gã giám thị vừa vung roi đã lập tức trợn ngược mắt, bất tỉnh nhân sự ngay tại chỗ.
 
-Cơn đau đớn dữ dội chạy khắp cơ thể đã dễ dàng vượt quá giới hạn chịu đựng của đại não, việc gã ngất đi ngay lập tức có lẽ là một sự may mắn lớn.
+Cơn đau đớn tột cùng xé toạc lục phủ ngũ tạng đã dễ dàng vượt qua ngưỡng chịu đựng tối đa của não bộ, việc gã ngất lịm đi ngay tức khắc có lẽ là sự giải thoát may mắn nhất trong đời gã.
 
-Tuy nhiên, cơ thể gã không thể nào lành lặn được. Momoka chỉ bị roi sượt nhẹ qua phần vai trước ngực, thế nhưng—sát thương phản lại như thể được nhân lên gấp bội để rửa hận, khắc sâu lên người gã một vết chém chí mạng kéo dài từ vai xuống sườn như bị kiếm chém.
+Tuy nhiên, thể xác của gã thì không thể nào nguyên vẹn được nữa. Momoka chỉ bị ngọn roi sượt nhẹ qua phần vai trước ngực, thế nhưng—vết thương phản phệ lại như thể được khuếch đại lên gấp bội để trừng phạt kẻ báng bổ, khắc sâu lên ngực gã một vết chém chí mạng toạc hoác kéo dài từ vai xuống tận mạn sườn, sâu hoắm y như bị cự kiếm chém trúng.
 
-Máu tươi phun ra xối xả, những thớ thịt bị xé toạc bay ra ngoài. Thậm chí, khúc xương trắng lộ ra bên dưới vết thương cũng đã bị rạn nứt.
+Máu tươi từ lồng ngực gã phun ra xối xả như suối trào, những thớ thịt đỏ lòm bị xé toạc văng tung tóe ra nền đất. Thậm chí, khúc xương sườn trắng hếu lộ ra bên dưới vết thương cũng đã rạn nứt từng mảng lớn.
 
-“Đ-Đây chính là lời nguyền sao...”
+“Đ-Đây chính là sức mạnh của lời nguyền sao...”
 
-Tuy đã nghe kể từ trước, nhưng khi lần đầu tiên tận mắt chứng kiến uy lực của 『Lời nguyền』, Winston hoàn toàn chết lặng.
+Dù đã từng nghe kể qua các báo cáo, nhưng khi lần đầu tiên tận mắt chứng kiến uy lực khủng khiếp của 『Lời nguyền』, Winston hoàn toàn chết sững, toàn thân run rẩy như cầy sấy.
 
-Một năng lực thật kinh hoàng. Ông ta thầm cảm thấy may mắn từ tận đáy lòng vì đã không tự tay vung roi trong lúc nóng giận.
+Một thứ năng lực tà ác và quái đản đến rợn người. Gã chủ nô thầm cảm thấy may mắn tột cùng vì vừa rồi đã không tự tay vung roi trong lúc mất kiểm soát.
 
-“Mau lên! Mau khiêng gã đi cứu chữa!”
+“Mau lên! Mau khiêng gã vào trạm xá cứu chữa ngay lập tức!”
 
-Giọng nói hốt hoảng của Malcolm hét lên gọi người cứu chữa đã kéo Winston thoát khỏi cơn bàng hoàng.
+Tiếng thét thất thanh đầy hoảng loạn của Malcolm đã giật phắt Winston ra khỏi cơn kinh hoàng tột độ.
 
-“Riza! Mau đem cái đứa ranh con đó cút xéo ngay cho ta!”
+“Riza! Mau đem cái của nợ ranh con đó cút xéo khỏi mắt ta ngay lập tức!”
 
-“Đức ngài, sao Người lại làm thế...”
+“Đức ngài, sao Người lại dại dột làm thế chứ...”
 
-Riza thậm chí còn chẳng buồn mặc lại áo khoác, cô vội vàng chạy đến ôm chầm lấy Momoka đang nằm dưới đất.
+Riza thậm chí còn chẳng màng đến việc mặc lại áo khoác, cô hốt hoảng lao tới ôm chầm lấy thân hình nhỏ bé của Momoka đang nằm quằn quại dưới đất.
 
-Dù đang rên rỉ vì đau, nhưng nhờ nhát roi chỉ sượt qua chứ không trúng trực diện nên cậu chỉ bị thương nhẹ. Da thịt chỉ bị rách và rỉ chút máu, nhưng đối với Riza, việc để cơ thể ngọc ngà của Đức ngài bị trầy xước đã là một tội lỗi tày trời.
+Dù đang nhăn mặt rên rỉ vì đau, nhưng nhờ ngọn roi chỉ sượt qua chứ không trúng trực diện nên cậu chỉ bị thương ngoài da. Lớp da non nớt chỉ bị rách một vệt và rỉ chút máu tươi, nhưng đối với Riza, việc để ngọc thể của Đức ngài bị trầy xước dẫu chỉ một vết nhỏ xíu cũng đã là tội lỗi tày trời không thể tha thứ.
 
-“Ư... t-thuốc...”
+“Ư... t-thuốc mỡ nè...”
 
-Không màng đến nỗi lo lắng của Riza, Momoka lấy từ trong ngực áo ra một lọ thuốc mỡ và tự bôi lên vết thương của mình.
+Mặc kệ nỗi âu lo đến phát khóc của Riza, Momoka thò bàn tay nhỏ nhắn vào trong ngực áo, lôi ra một chiếc lọ thuốc mỡ rồi tự tay bôi đều lên vết rách trên vai mình.
 
-Đến nước này thì chẳng còn tâm trí đâu mà thắc mắc xem lọ thuốc mỡ kia từ đâu ra nữa, Riza ôm chặt Momoka vào lồng ngực đầy đặn của mình rồi nhanh chóng bế cậu rời khỏi nơi đó.
+Đến nước này thì chẳng còn tâm trí đâu để thắc mắc xem lọ thuốc trị thương kỳ diệu kia từ đâu chui ra nữa, Riza ôm chặt Momoka vào lồng ngực đẫy đà của mình rồi vội vã bế cậu rời khỏi hiện trường đẫm máu.
 
-Winston nhìn chằm chằm theo bóng lưng Riza đang chạy xa dần với ánh mắt hằn học.
+Winston đứng chôn chân tại chỗ, đôi mắt hằn học nhìn chằm chằm theo bóng lưng Riza đang khuất dần sau rặng cây.
 
-“Khốn kiếp, không ngờ lời nguyền lại đáng sợ đến mức này... Tên Pringles chết tiệt, dám đẩy cho ta một của nợ tai hại thế này.”
+“Khốn kiếp thật, không ngờ lời nguyền rủa của nó lại quái gở và nguy hiểm đến mức này... Tên Pringlut Velvet chết tiệt, dám gài bẫy đẩy cho ta một của nợ tai ương thế này.”
 
-Giờ đây Winston mới thực sự hiểu rằng gã thương nhân hám lợi kia chấp nhận bán rẻ một nửa giá chỉ vì muốn tống khứ một quả bom nổ chậm tai hại.
+Giờ đây Winston mới thực sự vỡ lẽ tại sao gã buôn nô lệ lọc lõi và hám tiền kia lại chấp nhận bán tháo đứa trẻ với giá rẻ mạt bằng một nửa giá thị trường. Hóa ra gã chỉ muốn tống khứ một quả bom nổ chậm có thể đoạt mạng mình bất cứ lúc nào.
 
-Nhưng lúc này có oán hận gã buôn nô lệ thì cũng đã muộn.
+Nhưng vào lúc này, có nghiến răng oán hận gã thương nhân xảo quyệt thì mọi chuyện cũng đã rồi.
 
-Momoka. Phải nhanh chóng tìm cách giải quyết đứa nô lệ bị nguyền rủa đó mới được. Winston bắt đầu nghiêm túc lo ngại rằng, nếu cứ để thế này, ngay cả sự tồn vong của trang trại New Hope cũng sẽ bị đe dọa.
+Momoka. Nhất định phải nhanh chóng tìm cách thủ tiêu hoặc tống khứ đứa nô lệ bị nguyền rủa đó đi bằng mọi giá. Winston bắt đầu nghiêm túc lo ngại rằng, nếu cứ tiếp tục chứa chấp mầm họa này, ngay cả sự tồn vong của cả cơ nghiệp đồn điền New Hope rồi cũng sẽ bị chôn vùi theo nó.

@@ -4,322 +4,328 @@
 
 “Vâng, thưa ngài.”
 
-Được ác quỷ Riza bế trên tay, chúng tôi hướng thẳng về phía cánh cửa đã bị phá vỡ.
+Ác quỷ Riza bế bổng tôi trên tay, chúng tôi tiến thẳng về phía cánh cửa sứt sẹo vỡ toang.
 
-Chứng kiến diện mạo đáng sợ cùng sức mạnh áp đảo này, nhuệ khí của đội cảnh vệ đã chạm đáy. Ngay cả vị đội trưởng đáng tin cậy của họ cũng bị hạ đo ván chỉ bằng một đòn, có vẻ như lũ thuộc hạ đã hoàn toàn mất đi ý chí kháng cự.
+Chứng kiến diện mạo đáng sợ cùng sức mạnh áp đảo ấy, nhuệ khí của đội cảnh vệ đã chạm đáy. Ngay cả gã đội trưởng đáng tin cậy nhất cũng gục ngã chỉ sau một đòn, xem chừng đám thuộc hạ đã hoàn toàn thui chột ý chí kháng cự.
 
-Bằng chứng là, nhìn xem, chẳng có một tia sáng blaster nào bay về phía này nữa.
+Bằng chứng là, nhìn xem, chẳng còn một tia sáng 『Blaster』 nào bắn về phía này nữa.
 
 “Xin phép đường đột ghé thăm nhé~”
 
-Không gặp phải bất kỳ sự cản trở nào, chúng tôi bước qua cánh cửa đã vỡ nát để tiến vào sảnh chính.
+Chẳng gặp chút cản trở nào, chúng tôi bước qua cánh cửa vỡ nát để tiến vào tiền sảnh.
 
-Xung quanh, hàng tá lính gác đang chĩa súng trường về phía chúng tôi, nhưng chẳng một ai có đủ can đảm để bóp cò.
+Xung quanh, hàng tá lính gác đang chĩa súng trường về phía chúng tôi, nhưng chẳng một ai đủ can đảm để bóp cò.
 
-Thế nhưng, nếu đã chấp nhận đầu hàng thì cũng phải thể hiện thái độ cho đàng hoàng chứ, cứ lấp lửng thế này thì tôi cũng khó xử lắm đấy.
+Thế nhưng, một khi đã chấp nhận đầu hàng thì cũng phải thể hiện thái độ cho đàng hoàng chứ. Cứ lấp la lấp lửng thế này chỉ khiến tôi thêm khó xử thôi.
 
-“Vậy, các người định dùng mấy khẩu súng đồ chơi đó để thách thức Riza sao?”
+“Sao nào, các người tính dùng mấy khẩu súng đồ chơi đó để thách thức Riza à?”
 
-Cùng với lời nói của tôi, *rầm* một tiếng, Riza giẫm mạnh lên cái xác cháy đen hóa than của Derrick. Cái xác nằm co quắp ngay giữa sảnh chính, nhìn qua là biết đã chết ngay lập tức mà không kịp đau đớn.
+*Rầm!* 
 
-Riza giẫm nát đầu hắn ta chỉ đơn giản là để thị uy.
+Dứt lời tôi, Riza nện gót thật mạnh lên cái xác cháy đen thành than của Derrick. Cái xác nằm co quắp ngay giữa đại sảnh, rõ ràng là chết tức tưởi trong chớp mắt mà chẳng kịp cảm nhận nỗi đau.
 
-“N-Nếu đầu hàng, mạng sống của chúng tôi có được...”
+Cú giẫm nát sọ hắn ta đơn thuần chỉ là một màn thị uy không hơn không kém.
 
-“Tất nhiên là được bảo đảm rồi. Chỉ cần nhanh chóng buông vũ khí đầu hàng, tôi sẽ không làm hại các người. Tôi có thể thề trước thần linh.”
+“N-Nếu đầu hàng, tính mạng của chúng tôi có được...”
 
-Đối mặt với họng súng đang run rẩy của tên lính gác, tôi nở một nụ cười rạng rỡ và trả lời.
+“Tất nhiên là được bảo đảm rồi. Chỉ cần ngoan ngoãn buông vũ khí, tôi cam đoan sẽ không làm hại các người. Tôi có thể thề danh dự trước thần linh.”
 
-“Được, chúng tôi đầu hàng ngay lập tức. Vì vậy, xin đừng...”
+Đối diện với họng súng đang run lẩy bẩy của tên lính gác, tôi nở một nụ cười rạng rỡ đáp lời.
 
-“Tôi chỉ đợi đúng ba phút thôi.”
+“Được, chúng tôi đầu hàng ngay! Vì vậy, xin đừng...”
 
-Nếu họ cố tình câu giờ thì phiền phức lắm. Chắc bên đó cũng hiểu rõ chúng tôi muốn giải quyết dứt điểm mọi chuyện ngay trong đêm nay mà, đúng không?
+“Tôi chỉ đợi đúng ba phút thôi đấy.”
 
-Thế nên, tôi sẽ không dung thứ cho bất kỳ thái độ lề mề, chậm chạp hay những lời ngụy biện nhằm chống đối ngầm đâu.
+Họ mà cố tình dây dưa câu giờ thì phiền toái lắm. Chắc hẳn bên đó cũng thừa hiểu chúng tôi muốn thanh toán dứt điểm mọi chuyện ngay trong đêm nay, đúng chứ?
 
-“Tôi đã nhớ kỹ mặt và tên của từng người trong các người rồi. Đứa nào không chịu ra đây trong vòng ba phút, cho dù có trốn trong nhà vệ sinh tôi cũng sẽ lôi cổ ra bằng được.”
+Thế nên, tôi sẽ không dung thứ cho bất kỳ thái độ lề mề, chậm chạp hay trò ngụy biện nào hòng ngấm ngầm chống đối.
+
+“Tôi đã ghi nhớ vanh vách mặt mũi lẫn họ tên từng người trong các người rồi. Kẻ nào không chịu thò mặt ra đây trong vòng ba phút, dẫu có chui rúc tận đáy nhà vệ sinh tôi cũng sẽ lôi cổ ra bằng được.”
 
 *Có ai muốn chơi trò trốn tìm sinh tử cược mạng với tôi không nào?*
 
-Bên trong dinh thự đã có mạng lưới giám sát của sứ ma, nên ngay từ đầu tôi đã đánh dấu toàn bộ những người có mặt ở đây. Kẻ nào có ý định bỏ trốn sẽ bị tóm gáy ngay lập tức.
+Khắp dinh thự đều nằm trong mạng lưới giám sát của đám sứ ma, nên ngay từ đầu tôi đã găm dấu vết lên toàn bộ những kẻ có mặt. Kẻ nào manh nha ý định đào tẩu đều sẽ bị tóm gáy ngay tắp lự.
 
-Lúc đó, tôi còn đang nghĩ xem có nên biến kẻ đó thành một món đồ chơi nhảy múa để làm gương hay không... nhưng quả không hổ danh là cựu binh Astoria. Một khi đã quyết định đầu hàng, chỉ cần một tiếng hô hào là cả đội cảnh vệ đã nhanh chóng tập hợp đông đủ. Họ thực sự đã có mặt trong vòng chưa đầy ba phút.
+Lúc ấy, tôi còn đang đắn đo xem có nên biến kẻ đó thành con rối nhảy múa để làm gương hay không... Nhưng quả không hổ danh cựu binh Astoria. Một khi đã hạ quyết tâm đầu hàng, chỉ cần một tiếng hô hoán là cả đội cảnh vệ đã nhanh chóng tề tựu đông đủ. Họ thực sự có mặt trong chưa đầy ba phút.
 
-Dưới ánh mắt giám sát đầy đe dọa của ác quỷ Riza, họ lần lượt vứt bỏ vũ khí ở sảnh chính, sau đó đi ra ngoài để nhóm của Togo trói lại.
+Dưới ánh mắt giám sát đầy uy áp của ác quỷ Riza, họ lần lượt buông bỏ vũ khí xuống sàn tiền sảnh, rồi lầm lũi bước ra ngoài để nhóm Togo trói chặt.
 
-Số lượng cảnh vệ sống sót cuối cùng chỉ còn khoảng một nửa. Trong số đó, những người hoàn toàn lành lặn chỉ có nhóm lính canh gác bên trong dinh thự ngay từ đầu. Số còn lại là nô lệ người Astoria được đưa vào để đủ quân số và gia nhân trong nhà.
+Số cảnh vệ sống sót cuối cùng chỉ còn chừng một nửa. Trong số đó, những kẻ hoàn toàn lành lặn chỉ có nhóm lính vốn canh gác sâu bên trong dinh thự. Phần còn lại là đám nô lệ người Astoria bị gom vào cho đủ quân số cùng lũ gia nhân.
 
-Giờ đây không còn kẻ nào sở hữu thiên chức chiến đấu nữa, một khi đã buông vũ khí thì họ chẳng còn là mối đe dọa lớn. Xét về quân số thuần túy, phía chúng tôi hoàn toàn áp đảo. Chỉ cần cắt cử vài con skeleton đứng canh gác là quá đủ.
+Giờ đây chẳng còn kẻ nào sở hữu 『Thiên Chức』 chiến đấu, một khi đã tước hết vũ khí thì họ chẳng còn là mối đe dọa. Xét về quân số thuần túy, phe chúng tôi hoàn toàn áp đảo. Chỉ cần cắt cử vài con 『Skeleton』 đứng canh chừng là quá đủ.
 
-“Phù~, khống chế thành công mà không gặp rắc rối nào là tốt rồi. Không có ai bị thương chứ?”
+“Phù~, khống chế êm đẹp mà không gặp rắc rối nào là tốt rồi. Không có ai bị thương chứ?”
 
 “Vâng, tất cả đều nhờ vào sự dẫn dắt tài tình của ngài.”
 
-“Bước khởi đầu luôn là quan trọng nhất mà. Tôi phải thể hiện một màn trình diễn thật tốt cho mọi người thấy chứ.”
+“Vạn sự khởi đầu nan mà lại. Tôi phải biểu diễn một màn thật mãn nhãn cho mọi người chiêm ngưỡng chứ.”
 
-Trong một trận chiến một chiều thế này mà còn để xảy ra thương vong thì uy tín của tôi sẽ giảm sút mất.
+Trong một trận chiến thế trận một chiều nhường này mà còn để xảy ra thương vong thì uy tín của tôi sụt giảm nghiêm trọng mất.
 
-Nhưng thực tế là chúng tôi đã kết thúc trận chiến một cách an toàn mà không tổn thất một ai, thế là tôi đã có thể thở phào nhẹ nhõm rồi.
+Nhưng thực tế là chúng tôi đã kết thúc màn giao tranh an toàn tuyệt đối mà không tổn thất lấy một sợi tóc, thế là tôi đã có thể trút được gánh nặng trong lòng rồi.
 
 Từ giờ cứ thong thả mà làm thôi.
 
-“Vậy thì, chúng ta đi trò chuyện hòa bình với ông chủ thôi nào.”
+“Vậy thì, chúng ta đi tâm sự hòa bình với ông chủ thôi nào.”
 
-Những người duy nhất còn lại là gia đình Winston đang cố thủ trong phòng làm việc.
+Những kẻ duy nhất còn sót lại là gia đình Winston đang co cụm cố thủ trong phòng làm việc.
 
-Kẻ giàu có nhất thị trấn Easthope, giờ đây khi lâm vào hoàn cảnh này cũng chỉ là một con cừu non vô lực chờ bị hiến tế mà thôi.
+Kẻ giàu nứt đố đổ vách nhất thị trấn Easthope, giờ đây rơi vào thảm cảnh này cũng chỉ như chú cừu non bất lực nằm chờ lên thớt.
 
-Tương lai của họ ra sao, hoàn toàn phụ thuộc vào diễn biến tiếp theo. Tôi đang rất mong chờ xem một chủ nô khi bị nô lệ nổi loạn áp sát sẽ dùng những lời lẽ gì để cầu xin tha mạng đây.
+Số phận của họ ra sao, hoàn toàn phụ thuộc vào hồi sau của vở kịch. Tôi đang cực kỳ trông đợi xem một gã chủ nô khi bị nô lệ nổi dậy áp sát chân tường sẽ dùng những lời lẽ hèn mọn nào để van xin tha mạng đây.
 
-Với tâm trạng háo hức đó, tôi nhẹ nhàng bước lên cầu thang và gõ cửa phòng làm việc cốc cốc.
+Lòng tràn trề háo hức, tôi rảo bước lên cầu thang rồi gõ nhẹ lên cánh cửa gỗ lim.
+
+*Cốc, cốc.*
 
 “Có ai ở trong không ta~?”
 
-Đáp lại lời gọi hỏi thân thiện của tôi chỉ là một khoảng không im lặng đến đáng sợ.
+Đáp lại lời gọi thăm hỏi ngọt ngào của tôi chỉ là một khoảng không im lìm đến nghẹt thở.
 
-Chắc hẳn họ đang nín thở trốn bên trong rồi.
+Chắc hẳn lũ người bên trong đang nín thở rụt cổ lại rồi.
 
-Mà, trong phòng làm việc cũng có sứ ma của tôi, nên tình hình bên trong thế nào tôi đều nắm rõ như lòng bàn tay.
+Mà, trong phòng làm việc vốn cũng có sẵn sứ ma của tôi, thành thử nhất cử nhất động bên trong tôi đều nắm rõ như lòng bàn tay.
 
 “Được rồi, có người ở trong nhé. Tôi vào đây.”
 
-*Cạch*, tôi dùng chìa khóa vạn năng để mở khóa.
+*Cạch.* Tôi tra chiếc chìa khóa vạn năng mở then.
 
-Vì gia nhân trong nhà cũng đã bị bắt rồi mà. Chỉ cần tôi nhỏ nhẹ xin mượn chìa khóa là họ liền tươi cười dâng hiến ngay.
+Đám gia nhân trong nhà đều đã sa lưới cả rồi. Tôi chỉ cần nhẹ nhàng mở lời mượn chìa, họ liền run rẩy dâng lên ngay tắp lự.
 
-Và khi cánh cửa vừa hé mở,
+Và khi cánh cửa vừa hé mở—
 
 *Đoàng! Đoàng! Đoàng! Đoàng!*
 
-Tiếng súng chói tai vang lên liên hồi.
+Tiếng súng chói tai xé toạc không gian liên hồi.
 
-Những tia sáng blaster bắn ra liên tiếp găm thẳng vào con High Zombie đang đứng chắn ngay cửa một cách không phòng bị.
+Những chùm tia sáng 『Blaster』 bắn ra tới tấp, găm thẳng vào thân hình đồ sộ của con 『High Zombie』 đứng sừng sững chắn trước cửa không chút phòng bị.
 
-Tất nhiên rồi, khi đã biết trước đối phương đang lăm lăm khẩu súng lục ổ quay chờ sẵn, tôi dại gì mà không cho bia đỡ đạn đi vào trước chứ.
+Tất nhiên rồi, khi đã thừa biết đối phương đang lăm lăm súng ngắn phục kích sẵn, tôi dại gì mà không đẩy bia đỡ đạn vào trước cơ chứ.
 
-“Hộc... hộc... Đ-Đừng có lại gần đây, lũ nô lệ bẩn thỉu kia...”
+“Hộc... hộc... Đ-Đừng có lại gần đây, lũ nô lệ bẩn thỉu kia...!”
 
-“Thôi nào, đừng nói những lời cạn tình thế chứ. Chúng ta hãy ngồi xuống và trò chuyện cởi mở với nhau đi.”
+“Thôi nào, đừng nói những lời cạn tình cạn nghĩa thế chứ. Chúng ta hãy ngồi xuống và chuyện trò cởi mở với nhau đi.”
 
 “Thằng nhóc nguyền rủa này, chết đi yyyyyyy!!!”
 
-Mặc dù tôi đã ló đầu ra và nở một nụ cười vô cùng thân thiện, Winston vẫn trợn trừng đôi mắt đỏ ngầu và điên cuồng nã đạn từ khẩu súng lục ổ quay.
+Mặc cho tôi thò đầu ra nở một nụ cười vô cùng thân thiện, Winston vẫn trợn trừng đôi mắt vằn tia máu đỏ ngầu, điên cuồng siết cò khẩu súng ngắn ổ quay.
 
-Này ông chú, súng lục ổ quay mà bắn hơn sáu phát là ăn gian rồi đấy nhé.
+Này ông chú, súng ổ quay mà nã quá sáu phát là phạm quy rồi đấy nhé.
 
-Dù biết đây là súng blaster sử dụng băng đạn dạng pin ma lực nên có thể bắn liên tục hàng chục phát, tôi vẫn cảm thấy thật vô lý.
+Dù biết rõ đây là súng 『Blaster』 vận hành bằng pin ma lực nên có thể bắn liên thanh hàng chục phát, tôi vẫn cảm thấy thật quá quắt.
 
-Tuy nhiên, dung lượng của súng blaster kiểu súng lục ổ quay luôn thấp hơn kiểu súng trường. Thế nên nếu cứ bắn vô tội vạ không suy nghĩ như thế, việc hết đạn — hay nói đúng hơn là cạn kiệt ma lực — là điều hiển nhiên.
+Tuy nhiên, sức chứa ma lực của khẩu 『Blaster』 dạng súng ngắn ổ quay luôn kém xa loại súng trường. Nã đạn vô tội vạ không thèm suy tính thế kia, cạn đạn — hay chính xác hơn là cạn kiệt ma lực — chỉ là chuyện trong tích tắc.
 
-*Cạch, cạch*, tiếng búa gõ vô vọng vào ổ đạn trống rỗng của Winston trông chẳng khác nào một nhân vật phụ sắp hết vai trong mấy bộ phim kinh dị hạng B.
+*Cạch, cạch.* 
 
-May cho ông chú là người đứng trước mặt không phải là một con quái vật khát máu, mà là một con người lý trí có thể thương lượng được đấy nhé.
+Tiếng kim hỏa đập vô vọng vào ổ đạn rỗng tuếch khiến Winston trông hệt như một nhân vật phụ sắp lĩnh cơm hộp trong mấy bộ phim kinh dị hạng B.
 
-“Ông chú đã bình tĩnh lại chưa?”
+May cho ông chú là kẻ đứng trước mặt không phải là một con quái vật khát máu, mà là một con người lý trí hoàn toàn có thể thương lượng được đấy nhé.
 
-“Đ-Đừng lại gần! Ta tuyệt đối không để ngươi đụng đến một sợi tóc của gia đình ta đâu!”
+“Ông chú đã bình tâm lại chưa?”
+
+“Đ-Đừng hòng bước qua! Ta tuyệt đối không để ngươi chạm đến một sợi tóc của người nhà ta đâu!”
 
 “Mình ơi!”
 
 “Cha ơi!”
 
-Ôi, tình cảm gia đình thật là cảm động làm sao. Winston tay cầm khẩu súng đã cạn đạn, vẫn dang rộng tấm lưng để che chở cho vợ và đứa con trai độc nhất của mình. Trông ông ta lúc này chẳng khác nào một người cha vĩ đại đang bảo vệ gia đình. Ừm, thật là một cảnh tượng đẫm nước mắt.
+Chao ôi, tình cảm gia đình mới thiêng liêng làm sao. Tay ghì chặt khẩu súng đã cạn sạch ma lực, Winston vẫn dang rộng tấm lưng che chở cho người vợ cùng cậu con trai độc nhất. Trông ông ta lúc này chẳng khác nào một người cha vĩ đại xả thân vì tổ ấm. Ừm, một cảnh tượng cảm động rơi nước mắt thật đấy.
 
-“Thôi, ngồi xuống đi. Tôi đã nói rồi mà, tôi đến đây là để trò chuyện hòa bình.”
+“Thôi nào, ngồi xuống đi. Tôi đã bảo rồi mà, tôi tới đây để đối thoại hòa bình.”
 
-Tôi thong thả duỗi chân, nằm ườn ra chiếc sofa bọc da đen bóng cỡ lớn trông vô cùng xa xỉ đặt ở giữa phòng làm việc. Với tư thế thư giãn như đang nằm xem phim ở phòng khách, tôi vẫy tay ra hiệu cho Winston ngồi xuống chiếc ghế đối diện.
+Tôi thong thả duỗi thẳng hai chân, ngả lưng nằm ườn ra chiếc ghế sofa bọc da đen bóng cỡ lớn vô cùng xa xỉ đặt giữa phòng làm việc. Với tư thế thư thái như đang nằm xem phim trong phòng khách nhà mình, tôi vẫy tay ra hiệu cho Winston ngồi xuống chiếc ghế bành đối diện.
 
-“Đúng rồi, làm chút rượu nhé? Gặp chuyện thế này mà không uống một ly thì sao chịu nổi.”
+“À phải rồi, làm chút men chứ? Gặp phải chuyện chấn động thế này mà không nhấp một ly thì sao chịu thấu.”
 
-Trong phòng làm việc có một chiếc kệ trưng bày những chai rượu trông cũng rất đắt tiền như một món đồ trang trí. Nhận được ánh mắt của tôi, một con skeleton bước tới phát ra những tiếng xương va chạm lách cách, cầm lấy một chai rượu ngẫu nhiên cùng chiếc ly rồi đặt xuống bàn trước sofa.
+Trên vách tường phòng làm việc có gắn chiếc kệ trưng bày những chai rượu ngoại đắt tiền hệt như món đồ decor sang chảnh. Bắt gặp ánh mắt của tôi, một con 『Skeleton』 bước tới, khớp xương va chạm lách cách, vớ lấy một chai rượu ngẫu nhiên cùng chiếc ly thủy tinh đặt xuống mặt bàn trước sofa.
 
-“Nào, mau lại đây đi chứ. Để tôi rót cho. Biết đâu đây lại là ly rượu cuối cùng của ông chú thì sao, nhỉ?”
+“Nào, mau lại đây đi chứ. Để tôi rót hầu ông chú một ly. Biết đâu chừng đây lại là giọt rượu cuối cùng của đời ông chú thì sao, nhỉ?”
 
 “...Ý ngươi là chúng ta vẫn có thể thương lượng, đúng không?”
 
-“Còn tùy vào thái độ của ông chú nữa.”
+“Còn tùy vào thái độ hợp tác của ông chú nữa.”
 
-Đứng bên cạnh tôi lúc này là Riza đã giải trừ trạng thái hóa quỷ, còn trong phòng là một con High Zombie cùng vài con skeleton trang bị vũ khí đầy đủ đang đứng im lặng để tạo áp lực.
+Đứng sừng sững bên cạnh tôi lúc này là Riza đã giải trừ trạng thái hóa quỷ, còn trong phòng là một con 『High Zombie』 cùng vài con 『Skeleton』 vũ trang tận răng lẳng lặng vây quanh tạo áp lực nghẹt thở.
 
-Chắc chắn Winston đã hiểu rằng con đường sống duy nhất của gia đình ông ta lúc này là phải nghe theo lời tôi. Mồ hôi hột chảy ròng ròng trên khuôn mặt đầy cay đắng, Winston cuối cùng cũng chịu ngồi xuống chiếc sofa đối diện.
+Hẳn Winston thừa hiểu lối thoát duy nhất của cả gia đình lúc này là ngoan ngoãn nghe theo lời tôi. Từng giọt mồ hôi hột túa ra ròng ròng trên gương mặt tràn trề cay đắng, Winston cuối cùng cũng lê từng bước nặng nề đến ngồi xuống chiếc sofa đối diện.
 
-“Vậy thì, mời ông chú một ly trước.”
+“Vậy thì, kính ông chú một ly trước.”
 
-Tôi mỉm cười rót rượu vào ly. Chẳng biết đây là rượu whisky, brandy hay một loại rượu dị giới nào khác, nhưng chất lỏng màu hổ phách tỏa ra hương thơm nồng nàn nhanh chóng lấp đầy chiếc ly thủy tinh.
+Tôi mỉm cười rót rượu vào ly. Chẳng rõ đây là rượu whisky, brandy hay thứ danh tửu dị giới nào khác, nhưng chất lỏng màu hổ phách sóng sánh tỏa hương thơm nồng nàn nhanh chóng lấp đầy đáy ly pha lê.
 
 “Rót cho tôi nữa chứ.”
 
 “...”
 
-Winston im lặng nhận lấy chai rượu từ tay tôi rồi rót vào chiếc ly đặt trước mặt tôi.
+Winston cắn răng nhận lấy chai rượu từ tay tôi rồi rót vào chiếc ly đặt trước mặt tôi.
 
-Dù được rót cho nhưng tôi phải thừa nhận rằng loại rượu mạnh thế này vẫn chưa hợp với khẩu vị của tôi cho lắm.
+Nhìn dòng rượu sóng sánh, tôi phải thú nhận rằng mấy thứ cay nồng xé họng thế này vẫn chưa hợp với khẩu vị của tôi chút nào.
 
-“Vậy thì, cạn ly nào!”
+“Vậy thì, cạn ly!”
 
-Trái ngược với sự hào hứng của tôi, Winston chỉ im lặng nâng ly chạm nhẹ một cách miễn cưỡng. Ôi dào, ông chú này thật là thiếu hợp tác quá đi mất.
+Trái ngược hẳn với vẻ hào hứng của tôi, Winston chỉ im lặng nâng ly chạm nhẹ một cách gượng gạo. Ôi chao, ông chú này đúng là thiếu tính hợp tác quá đi mất.
 
-Xem ra màn trò chuyện xã giao để tạo bầu không khí thân mật sẽ không có tác dụng rồi. Tôi quyết định đi thẳng vào vấn đề chính.
+Xem chừng trò chuyện phiếm để hâm nóng bầu không khí chẳng có tác dụng gì rồi. Tôi quyết định đi thẳng vào trọng tâm.
 
 “Ông chú mua tôi từ đâu?”
 
-“Từ 『Dịch Vụ Nô Lệ Velvet』. Thị trường nô lệ ở Easthope này gần như nằm dưới sự độc quyền của bọn họ.”
+“Từ 『Dịch Vụ Nô Lệ Velvet』. Toàn bộ thị trường buôn bán nô lệ ở Easthope này gần như nằm dưới quyền thao túng độc quyền của bọn họ.”
 
-“Thương hội nô lệ lớn nhất miền đông Astoria, đương nhiên là phải từ đó rồi.”
+“Thương hội nô lệ quyền lực nhất miền đông Astoria, đương nhiên là phải từ đó rồi.”
 
-Đây chỉ là một bước xác nhận thông tin cơ bản. Việc Winston nhập nô lệ từ Velvet là điều hiển nhiên. Ở vùng này chẳng có sự lựa chọn nào tốt hơn, và quan trọng nhất là mối quan hệ hợp tác lâu năm, uy tín và đầy tin cậy giữa hai bên.
+Đây thuần túy chỉ là bước xác nhận thông tin căn bản. Chuyện Winston nhập nô lệ từ Velvet là điều hiển nhiên. Ở vùng đất hẻo lánh này làm gì có sự lựa chọn nào tốt hơn, chưa kể mối quan hệ làm ăn lâu năm đầy gắn bó và tin cậy giữa đôi bên.
 
-Đối với Velvet, đồn điền New Hope là một khách hàng lớn và thân thiết, thường xuyên thu mua một lượng lớn nô lệ lao động. Mối quan hệ giữa họ chắc chắn có sự ưu ái và hỗ trợ lẫn nhau.
+Đối với Velvet, đồn điền New Hope là một khách hàng sộp, định kỳ luôn gom mua số lượng lớn nô lệ lao động khổ sai. Mối liên hệ ngầm giữa đôi bên chắc chắn có sự câu kết và ưu ái lẫn nhau.
 
 “Tại sao ông chú lại mua tôi?”
 
-“Họ nói đó là một nô lệ mang lời nguyền, có lai lịch bất hảo. Vì thế, họ đề nghị bán kèm ngươi với các nô lệ khác với giá rẻ mạt. Không ngờ, đây lại là sai lầm lớn nhất trong cuộc đời ta...”
+“Bọn chúng bảo đó là một đứa nô lệ mang lời nguyền, xuất xứ mờ ám bất hảo. Vì thế, chúng ngỏ ý bán kèm ngươi với lô nô lệ khác bằng cái giá rẻ như cho không. Chẳng ngờ nổi, đây lại là sai lầm chí mạng nhất cuộc đời ta...”
 
-Thật chia buồn với ông chú nhé. Ai bảo ông chú lại có ý định ngu ngốc là bắt đứa con của Chú thần Ruinhilde này làm nô lệ lao dịch chứ. Ngay từ khoảnh khắc dính dáng đến tôi, ông chú đã bị nguyền rủa rồi.
+Xin chia buồn sâu sắc với ông chú nhé. Ai bảo ông chú lại nổi lòng tham ngớ ngẩn muốn bắt đứa con của 『Chú thần Ruinhilde』 làm nô lệ cơ chứ. Ngay từ giây phút dính líu đến tôi, lời nguyền đã giáng thẳng xuống đầu ông chú rồi.
 
-“Velvet có nói họ nhập tôi từ đâu không?”
+“Velvet có tiết lộ họ thu gom tôi từ đâu không?”
 
 “...Không biết.”
 
-“Làm sao mà không biết được chứ. Khi quyết định mua một đứa trẻ bị nguyền rủa đầy kỳ lạ thế này, không đời nào ông chú lại không hỏi rõ ngọn ngành.”
+“Làm sao mà không biết cho được. Quyết định bỏ tiền rước về một đứa trẻ bị nguyền rủa kỳ quặc dường này, chẳng đời nào một con cáo già như ông chú lại không gặng hỏi ngọn ngành.”
 
-“Ta thực sự không biết gì nhiều cả... Tên Velvet đó chỉ nói rằng hắn nhập ngươi từ một người đồng nghiệp khác. Hắn thừa biết ngươi là kẻ có lai lịch bất hảo. Vì thế hắn không hỏi thêm gì nhiều mà chỉ nhanh chóng hoàn tất giao dịch.”
+“Ta thực sự không nắm được gì cả...! Gã Velvet đó chỉ ậm ừ bảo rằng nhập ngươi từ một tay đồng nghiệp lái buôn khác. Hắn thừa khôn ngoan để biết ngươi là thứ rắc rối có lai lịch bất hảo. Thế nên hắn chẳng buồn thọc sâu tìm hiểu mà chỉ muốn tống khứ cho rảnh nợ.”
 
-Ra vậy, họ đã ngầm hiểu ý nhau để giữ bí mật cho bên bán.
+Ra thế, một màn ngầm hiểu ý nhau để bảo mật danh tính cho kẻ tuồn hàng.
 
-Đối với Winston, dù tôi có là kẻ mang lời nguyền hay gì đi nữa, một khi đã bị ném vào đồn điền làm nô lệ, một thằng nhóc có vấn đề về đầu óc rồi cũng sẽ sớm bỏ mạng mà thôi.
+Đối với Winston, dù tôi có là kẻ mang lời nguyền hay tai họa gì đi nữa, một khi đã bị quẳng vào đồn điền làm nô lệ, một thằng nhóc có vấn đề về thần kinh rồi cũng sẽ nhanh chóng vùi xác nơi xó rừng góc ruộng mà thôi.
 
-Chỉ cần tôi âm thầm chết đi và bị chôn vùi ở một góc nào đó trong đồn điền, thì dù có lai lịch đáng sợ thế nào đi nữa, cũng sẽ chẳng ai hay biết và sự tồn tại của tôi sẽ nhanh chóng bị lãng quên.
+Chỉ cần tôi âm thầm tắt thở rồi bị chôn vùi dưới lớp bùn đất sâu trong đồn điền, thì dẫu cho lai lịch có kinh thiên động địa tới đâu, vĩnh viễn chẳng một ai hay biết, sự tồn tại của tôi sẽ tan biến vào thinh không.
 
-*Chắc là họ muốn cắt đứt nhân quả vì sợ lời nguyền chăng...*
+*Hẳn là họ muốn đoạn tuyệt nhân quả vì kiêng dè sức mạnh lời nguyền chăng...*
 
-Tôi phần nào đã hiểu được lý do tại sao mình lại bị bán làm nô lệ.
+Tôi đã phần nào xâu chuỗi được nguyên do tại sao mình lại bị bán tống bán tháo làm nô lệ.
 
-Họ đã thông qua nhiều thương nhân nô lệ trung gian để đưa tôi rời xa khỏi trung tâm của Pandora Thánh Giáo — nơi tôi bị bắt giữ. Và cuối cùng, để một chủ đồn điền không biết chút thông tin gì sử dụng tôi như một nô lệ bình thường cho đến chết.
+Bọn chúng đã luân chuyển qua nhiều tầng nấc thương nhân nô lệ trung gian hòng đưa tôi rời thật xa trung tâm đầu não của Pandora Thánh Giáo — nơi tôi từng bị bắt giữ. Và sau cùng, để mặc cho một gã chủ đồn điền mù tịt thông tin vắt kiệt sức tôi như một món công cụ lao dịch cho tới chết.
 
-Lời nguyền vốn dĩ rất coi trọng nhân quả. Nếu hiệu ứng phản phệ sát thương bị kích hoạt thông qua một cái bẫy hay tai nạn gián tiếp, để tránh việc đòn phản công dội ngược lại kẻ chủ mưu đứng sau, lời nguyền bắt buộc phải có một mối nhân duyên hay sợi dây nhân quả tương ứng kết nối giữa hai bên thì mới có thể chạm tới mục tiêu.
+Bản chất của lời nguyền vốn dĩ cực kỳ khắt khe về mặt nhân quả. Muốn hiệu ứng sát thương phản phệ không thể truy ngược về kẻ chủ mưu khi kích hoạt qua cạm bẫy hay tai nạn gián tiếp, lời nguyền bắt buộc phải có một mối nhân duyên hoặc sợi tơ nhân quả tương ứng kết nối đôi bên thì mới có thể giáng đòn trừng phạt.
 
-Lilith hiểu rõ điều đó, nên cô ta đã không trực tiếp ra tay hành quyết tôi mà chọn cách trục xuất tôi dưới thân phận nô lệ.
+Lilith thấu suốt chân lý đó, nên ả ta không trực tiếp vung đao hành quyết tôi mà lựa chọn lưu đày tôi dưới thân phận nô lệ hèn mọn.
 
-Nhưng cuối cùng, tôi vẫn được bảo vệ bởi lời nguyền của ngài Ruinhilde. Tôi thực sự phải cúi đầu kính phục vị nữ thần của mình.
+Nhưng sau cùng, che chở cho tôi vẫn là quyền năng nguyền rủa vô biên của ngài Ruinhilde. Tôi thực sự phải cúi đầu kính phục vị nữ thần tôn kính của mình.
 
-Tuy nhiên, lượng thông tin về những chuyện xảy ra sau khi tôi bị bắt mà tôi có thể khai thác được từ Winston có lẽ chỉ đến đây là cùng. Đúng như dự đoán, bản thân Winston hoàn toàn không có mối liên hệ nào với Lilith ở Sigrun hay tên Shitou cả.
+Dẫu vậy, lượng tin tức về những chuyển biến sau khi tôi sa cơ mà tôi có thể moi móc được từ Winston có lẽ cũng chỉ dừng lại ở đây. Đúng như phán đoán, bản thân Winston hoàn toàn chẳng có sợi dây liên kết nào với Lilith ở Sigrun hay tên Shitou cả.
 
-Để thu thập thông tin về bọn chúng, xem ra tôi vẫn phải tự mình đến vương đô một chuyến.
+Muốn lùng sục tung tích của lũ chúng nó, xem chừng tôi vẫn phải đích thân đặt chân đến vương đô một chuyến.
 
-“Ông chú cũng đen đủi thật đấy. Tự dưng lại bị người ta đẩy cho một quả bom nổ chậm như tôi.”
+“Ông chú đen đủi thật đấy chứ. Tự dưng lại bị người ta gí cho một quả bom nổ chậm như tôi.”
 
-Nhìn khuôn mặt tức giận đến mức như sắp sửa hét lên của Winston, tôi chỉ biết nhún vai.
+Trông thấy khóe môi run rẩy cùng gương mặt uất hận như muốn thét gầm lên của Winston, tôi chỉ điềm nhiên nhún vai.
 
-Nhưng biết sao được, số ông chú quá nhọ rồi. Cho dù tôi có bị bán đến bất kỳ đồn điền nào đi chăng nữa, thì kết cục cuối cùng ở nơi đó cũng sẽ giống như thế này mà thôi.
+Nhưng biết làm sao được, số mệnh ông chú quá hẩm hiu rồi. Cho dù tôi có bị tống khứ đến bất kỳ nông trang đồn điền nào khác, thì kết cục chung cuộc của nơi đó cũng sẽ y xì đúc thế này mà thôi.
 
-Dù bị tịch thu trang bị, bị phong ấn một vài chú thuật, và thậm chí là bị phá hủy cả bản ngã đi chăng nữa — một khi tôi đã khôi phục lại bình thường và có thể sử dụng hầu hết các chú thuật của mình.
+Dẫu cho bị tước đoạt toàn bộ trang bị, phong ấn hàng loạt chú thuật, thậm chí tan nát cả bản ngã đi chăng nữa — một khi tôi đã khôi phục lại lý trí và thi triển được phần lớn chú thuật trong tay...
 
-Thì ở một nơi mà lực lượng cảnh vệ chỉ có tối đa một kẻ sở hữu thiên chức chiến đấu thế này, làm sao có thể giam giữ một 『Chú thuật sư』 mãi mãi được chứ.
+Thì ở một cái xó xỉnh mà lực lượng cảnh vệ giỏi lắm chỉ có độc nhất một kẻ sở hữu 『Thiên Chức』 chiến đấu, làm sao có thể giam cầm một 『Chú thuật sư』 suốt đời suốt kiếp được chứ.
 
-“Đúng rồi, khế ước nô lệ của tôi, ông chú mau hủy bỏ nó ngay tại đây đi.”
+“À đúng rồi, tờ khế ước nô lệ của tôi, phiền ông chú hủy bỏ nó ngay tại đây đi nhé.”
 
-“Nó không có ở đây... Các loại khế ước đều được cất giữ ở một nơi khác.”
+“Nó không có ở đây... Mọi văn tự khế ước đều được niêm phong ở một nơi khác.”
 
-“Nói dối là không tốt đâu nhé.”
+“Nói dối là hư lắm đấy nha.”
 
-“Ta không nói dối, nó thực sự không có ở đây.”
+“Ta không hề nói dối, nó thực sự không nằm ở căn phòng này!”
 
-“Nó nằm ở cái kệ sách đằng kia kìa.”
+“Nó nằm ngay sau ngăn bí mật của cái giá sách đằng kia kìa.”
 
-“À phải rồi! Những khế ước mới mua gần đây vẫn còn được để ở đó!”
+“À... phải rồi! Mấy tờ khế ước mới hoàn tất gần đây vẫn còn lưu tạm ở đó!”
 
-Tôi đã giám sát phòng làm việc này suốt một tháng qua rồi. Vị trí của két sắt bí mật tôi còn lạ gì nữa.
+Căn phòng làm việc này đã nằm trọn dưới tầm mắt giám sát của tôi suốt cả tháng trời nay rồi. Vị trí cái két sắt âm tường tôi còn lạ lẫm gì nữa chứ.
 
-Thật là, đã đến nước này rồi mà còn muốn giở trò diễn kịch vụng chèo để chối cãi sao. Có lẽ đây chính là bản lĩnh của một người đàn ông đã tự tay gầy dựng nên một đồn điền lớn từ hai bàn tay trắng chăng.
+Thiệt tình, nước đã ngập tới cổ rồi mà vẫn còn cố giở trò diễn kịch vụng về để chối quanh. Có lẽ đây chính là cái gọi là bản lĩnh lì lợm của một kẻ từng tự tay gây dựng cơ đồ đồn điền bạc tỉ từ hai bàn tay trắng chăng.
 
-Nhưng một khi đã thất bại hoàn toàn trong cuộc chiến thông tin, thì dù có dùng đến tinh thần hay ý chí chiến đấu cũng không thể tránh khỏi việc phải đầu hàng vô điều kiện đâu.
+Nhưng một khi đã thảm bại toàn diện trên mặt trận tình báo, thì dẫu có vận dụng tới ý chí sắt đá hay tinh thần thép cũng đừng mơ tránh khỏi số phận phải quy hàng vô điều kiện.
 
-“Đây là khế ước của ngươi.”
+“Đây... khế ước của ngươi đây.”
 
-“A ha ha, trên này viết là Momoka này!”
+“A ha ha, trên này đề tên là Momoka này!”
 
-Tên giả thế này thì tờ khế ước này làm gì có hiệu lực pháp lý chứ.
+Dùng tên giả thế này thì mảnh giấy này làm quái gì có giá trị pháp lý ràng buộc.
 
-Dù bản thân tôi nghĩ vậy, nhưng mọi thủ tục trên giấy tờ vẫn rất quan trọng. Tôi tuyệt đối không thể chấp nhận sự tồn tại của một văn bản tuyên bố tôi là nô lệ của kẻ khác.
+Dẫu bụng nghĩ vậy, song mọi thủ tục giấy tờ vẫn cần phải rạch ròi. Tôi tuyệt đối không chấp nhận sự tồn tại của bất kỳ văn tự nào tuyên bố bản thân là vật sở hữu của kẻ khác.
 
-Nếu trên đời này có một thực thể có quyền sở hữu tôi dưới tư cách nô lệ, thì người đó chỉ có thể là ngài Ruinhilde mà thôi.
+Nếu trên thế gian này có một đấng tối cao nắm giữ quyền sinh sát và quyền sở hữu linh hồn tôi như một nô lệ, thì người đó chỉ có thể duy nhất là ngài Ruinhilde mà thôi.
 
-“Riza, đốt nó đi.”
+“Riza, thiêu rụi nó đi.”
 
-“Vâng, tôi sẽ không để lại dù chỉ một tàn tro.”
+“Vâng, thần sẽ biến nó thành cát bụi không còn lấy một mảnh tàn tro.”
 
-Ngay khi tôi giao tờ khế ước cho Riza, một ngọn lửa đen bùng lên trên lòng bàn tay cô ấy, và chỉ trong chớp mắt, mảnh giấy mỏng manh đã hóa thành tro bụi và biến mất hoàn toàn.
+Ngay khi tôi đưa tờ khế ước sang tay Riza, một ngọn lửa đen ngòm lập tức bùng cháy trên lòng bàn tay cô. Chỉ trong cái chớp mắt, mảnh da thuộc mỏng manh đã hóa thành tro bụi tản mác vào hư không.
 
-“Giờ thì tôi đã hoàn toàn là một người tự do rồi. Tất nhiên, tôi cũng sẽ hủy bỏ khế ước của tất cả những người khác nên ông chú cứ yên tâm nhé. Giải phóng nô lệ muôn năm!”
+“Giờ thì tôi đã là một người tự do hoàn toàn rồi. Tất nhiên, lát nữa tôi cũng sẽ tiện tay đốt sạch khế ước của toàn bộ những người còn lại, nên ông chú cứ việc yên tâm nhé. Giải phóng nô lệ muôn năm!”
 
-“Hừ, giải phóng nô lệ sao... Chỉ là một việc làm vô ích mà thôi...”
+“Hừ, giải phóng nô lệ ư... Lũ ngây thơ các ngươi chỉ đang làm một việc vô ích mà thôi...”
 
-Winston nhấp một ngụm rượu rồi lẩm bẩm.
+Winston run rẩy nhấp một ngụm rượu mạnh rồi chua chát lẩm bẩm.
 
-Mà, thấy tôi vui mừng vì đốt một mảnh giấy thế này, chắc ông ta cũng ngứa mắt nên muốn nói vài câu đây mà.
+Mà, thấy tôi hân hoan reo hò chỉ vì thiêu hủy một mẩu giấy da, chắc hẳn mắt ông ta ngứa ngáy không chịu nổi nên mới buông lời mỉa mai đây mà.
 
-“Cho dù các ngươi có làm loạn ở đây đến mức nào đi nữa, vương quốc này cũng sẽ không bao giờ dung thứ. Không có đường lui cho các ngươi đâu. Nô lệ phản loạn sẽ bị xử tử không sót một ai. Không có ngoại lệ!”
+“Bất kể lũ các ngươi có quậy phá tung trời ở đây ra sao, vương quốc tuyệt đối sẽ không bao giờ dung thứ! Không có con đường sống nào cho các ngươi đâu! Nô lệ tạo phản xưa nay đều bị tru diệt không sót một mống! Không hề có ngoại lệ!”
 
-“Ra vậy, đúng là nếu chúng tôi dùng vũ lực để nổi loạn, dù có thắng ở đây thì kẻ tiếp theo chúng tôi phải đối đầu sẽ là quân đội Astoria.”
+“Ra vậy, quả đúng là nếu chúng tôi chỉ biết dùng vũ lực thuần túy để làm phản, dẫu có đập nát nơi này thì đối thủ tiếp theo chờ đón chúng tôi sẽ là đại quân chính quy của vương quốc Astoria.”
 
-“Đương nhiên rồi. Với một vụ náo loạn lớn thế này, không đời nào có thể che giấu được. Lũ các ngươi đã giết quá nhiều người Astoria rồi.”
+“Rõ ràng là thế! Một vụ bạo loạn đẫm máu tầm cỡ này, đừng hòng có kẽ hở nào che giấu nổi. Bàn tay các ngươi đã nhuốm máu quá nhiều thần dân Astoria rồi.”
 
-“Vậy thì, chỉ cần biến vụ nổi loạn của nô lệ thành một chuyện chưa từng xảy ra là được chứ gì?”
+“Thế thì, chỉ cần biến vụ nổi dậy của nô lệ đêm nay thành một chuyện chưa từng tồn tại trên cõi đời này là xong, phải không?”
 
 “Hả...?”
 
-Bình thường thì mọi chuyện sẽ diễn ra đúng như những gì Winston nói. Hiện tại chúng tôi đang tạm thời khống chế đồn điền này, nhưng một khi trời sáng và tin tức truyền đến thị trấn, quân đội Astoria sẽ lập tức kéo đến.
+Về lý thuyết thông thường, diễn biến chắc chắn sẽ đi đúng theo kịch bản Winston vừa vạch ra. Hiện tại chúng tôi tạm thời áp chế được đồn điền, nhưng chỉ cần bình minh ló dạng và tin tức rò rỉ tới thị trấn, quân đội Astoria sẽ rầm rộ kéo đến nghiền nát tất cả.
 
-Và phía chúng tôi chắc chắn không có đủ chiến lực để đối đầu trực diện với quân đội của một quốc gia.
+Mà thực lực phía chúng tôi hiện tại rõ ràng chưa đủ lông đủ cánh để đối đầu trực diện với quân đội của cả một vương quốc.
 
-Chính vì thế, từ đây trở đi, chúng tôi cần một kế hoạch để tránh phải chiến đấu.
+Chính vì lẽ đó, kể từ thời khắc này, chúng tôi cần một kế hoạch hoàn hảo để né tránh giao tranh binh đao.
 
-“Đêm nay, một con Thiết Giáp Hùng ăn thịt người hung dữ đã tấn công đồn điền New Hope. Cuộc tập kích ban đêm bất ngờ khiến đội cảnh vệ vô dụng bị tiêu diệt sạch sẽ. Gia đình chủ đồn điền suýt chút nữa đã bị nhai xương nuốt thịt... Đúng lúc ngàn cân treo sợi tóc ấy, những nô lệ Diana chúng tôi đã dũng cảm đứng lên.”
+“Đêm nay, một con quái thú 『Thiết Giáp Hùng』 ăn thịt người hung hãn đã xé rào tập kích đồn điền New Hope. Đòn tấn công bất ngờ trong đêm tối đã biến toàn bộ đội cảnh vệ vô dụng thành mồi ngon cho dã thú. Cả gia đình chủ đồn điền suýt chút nữa đã tan xương nát thịt dưới nanh vuốt quái vật... Ngay trong thời khắc ngàn cân treo sợi tóc, toàn thể nô lệ tộc Diana chúng tôi đã anh dũng vùng lên.”
 
-“Ngươi... ngươi đang nói cái gì vậy...”
+“Ngươi... ngươi đang lảm nhảm cái quái quỷ gì thế...”
 
-“Không màng đến tính mạng để chiến đấu quả cảm, cuối cùng họ đã tiêu diệt được con Thiết Giáp Hùng hung tợn. Cảm động trước nghĩa cử cao đẹp đó, chủ đồn điền đã quyết định thay đổi tâm tính. Đúng vậy, ông ấy quyết định không coi họ là nô lệ nữa, mà đối xử và đón nhận họ như những người đồng bào bình đẳng.”
+“Không màng tới tính mạng bản thân, kiên cường chiến đấu tới cùng, cuối cùng họ đã hạ gục được con 『Thiết Giáp Hùng』 tàn bạo. Quá đỗi xúc động trước tấm lòng nghĩa hiệp cùng ân cứu mạng cao cả ấy, chủ đồn điền đã rớt nước mắt hồi tâm chuyển ý. Đúng vậy, ông quyết định cởi bỏ gông cùm nô lệ cho họ, bao bọc và đón nhận họ như những người đồng bào ruột thịt hoàn toàn bình đẳng.”
 
-“Không lẽ... lũ các ngươi định cứ thế ở lại đây như thể chưa từng có chuyện gì xảy ra sao?!”
+“Không lẽ nào... Lũ các ngươi định ngang nhiên chiếm đóng ở lại đây như thể chưa từng có chuyện gì xảy ra ư?!”
 
-Đương nhiên rồi, đồn điền này sẽ là căn cứ đầu tiên để tôi bắt đầu kế hoạch chinh phục Astoria mà.
+Đương nhiên rồi, khu đồn điền này sẽ là bàn đạp căn cứ địa đầu tiên để tôi đặt nền móng chinh phục Astoria cơ mà.
 
-Để đạt được mục tiêu đó, đồn điền New Hope vẫn phải tiếp tục vận hành một cách trơn tru như từ trước đến nay.
+Muốn hiện thực hóa tham vọng ấy, đồn điền New Hope bắt buộc phải tiếp tục vận hành trơn tru, hái ra tiền như trước đây.
 
-Chỉ cần nắm giữ nơi này, tôi sẽ lập tức sở hữu nguồn nhân lực, vật lực và tài lực đủ để tự xưng là một phú hộ nhỏ.
+Chỉ cần nắm trọn nơi này trong lòng bàn tay, tôi sẽ ngay lập tức sở hữu nguồn nhân lực, vật lực dồi dào cùng tiềm lực tài chính đủ để xưng hùng xưng bá như một địa chủ cỡ nhỏ.
 
-“Đây chính là cái giá để gia đình Winston các người được giữ lại mạng sống. Đồn điền này, cùng với năng lực, kinh nghiệm, các mối quan hệ của ông... hãy dâng hiến tất cả mọi thứ cho tôi.”
+“Đây chính là cái giá để gia đình Winston các người giữ lại được cái mạng quèn. Toàn bộ đồn điền này, cùng với kinh nghiệm, tài nghệ kinh doanh và mọi mối quan hệ xã giao của ông... hãy ngoan ngoãn dâng hiến tất thảy cho tôi.”
 
-“Đừng có nực cười! Làm sao ta có thể đồng ý chuyện đó được chứ!”
+“Nực cười! Đừng hòng ta gật đầu trước yêu sách điên rồ đó!”
 
-“Nếu không thể thì đành chịu vậy. Tôi sẽ điều khiển xác chết của các người để diễn vở kịch này.”
+“Nếu ông chú không chịu thì cũng đành chịu vậy. Tôi đành giật dây điều khiển xác chết của gia đình ông chú để tự biên tự diễn vở kịch này thôi.”
 
-Ông chú chắc cũng nghe Derrick kể rồi đúng không, việc tôi có thể điều khiển xác của con Thiết Giáp Hùng ấy. Và quan trọng nhất là, cảnh tôi dùng thằng nhóc Junior làm mồi nhử, ông chú cũng đã được chứng kiến tận mắt rồi mà.
+Hẳn ông chú đã nghe Derrick bẩm báo rồi nhỉ, về việc tôi có thể thao túng điều khiển thi thể của con 『Thiết Giáp Hùng』 ấy. Huống hồ chi, màn tôi dùng thằng nhóc Junior làm mồi câu dẫn dụ dã thú, ông chú cũng đã được thưởng thức tận mắt rồi còn gì.
 
-“Ư... làm trò đó làm sao mà không bị phát hiện được chứ...”
+“Ư... Làm cái trò ma quỷ đó, sớm muộn gì cũng lộ tẩy...”
 
-“Tất nhiên là có rủi ro bị lộ rồi, nhưng một khi đã trở thành xác chết thì ông chú đâu cần phải bận tâm đến chuyện đó nữa, đúng không?”
+“Tất nhiên là có nguy cơ bại lộ rồi, nhưng một khi đã trở thành cái xác vô hồn thì ông chú việc quái gì phải nhọc công bận tâm đến chuyện tương lai nữa, đúng không nào?”
 
-Winston không phải là một chiến binh, ông ta là một thương nhân.
+Winston không phải là hạng chiến binh liều mạng, bản chất ông ta là một con buôn lọc lõi.
 
-Thế nên ông ta sẽ không có đủ dũng khí để đánh cược mạng sống của bản thân và gia đình chỉ để hy vọng lũ chúng tôi — những kẻ mà ông ta căm ghét — sẽ bị hủy diệt trong tương lai.
+Một kẻ như thế sẽ không bao giờ dám đánh cược mạng sống của bản thân lẫn gia đình chỉ để ôm ấp hy vọng mong manh rằng lũ chúng tôi — những kẻ ông ta căm ghét tột cùng — sẽ bị trừng phạt trong tương lai xa vời nào đó.
 
-Cả gia đình đang đứng trước ranh giới giữa sự sống và cái chết đấy. Ông chú vẫn còn muốn mặc cả cái giá của mạng sống sao?
+Cả nhà đang đứng chênh vênh bên bờ vực sinh tử. Ông chú vẫn còn muốn mặc cả cái giá của mạng sống sao?
 
-“Nhưng ông chú không cần phải trả lời ngay lập tức đâu. Dù sao thì đề xuất này cũng chỉ là vì lợi ích của tôi mà thôi. Trước đó, chúng ta còn có một việc cần phải giải quyết... Ông chú có tự nhận thức được không đấy~?”
+“Cơ mà ông chú cũng chẳng cần vội vàng trả lời ngay đâu. Dù sao thì đề xuất vừa rồi cũng chỉ phục vụ lợi ích của riêng tôi mà thôi. Trước khi bàn tới tương lai, chúng ta vẫn còn một món nợ cũ cần phải thanh toán sòng phẳng... Bản thân ông chú có tự ý thức được không đấy~?”
 
-“Ngoài việc đe dọa thế này ra, ngươi còn muốn làm cái gì nữa chứ?”
+“Ngoài việc dùng bạo lực đe dọa ép uổng ra, ngươi còn muốn giở trò gì nữa hả?!”
 
-Ra là không tự nhận thức được à.
+Hóa ra là không tự nhận thức được chút nào à.
 
-Mà, cũng phải thôi. Đó chính là lối suy nghĩ thâm căn cố đế của người Astoria rồi.
+Mà thôi, âu cũng là lẽ thường tình. Đó vốn là lối mòn tư duy thâm căn cố đế đã ăn sâu vào tủy não của người dân Astoria rồi.
 
-Quả thực, việc thay đổi nhận thức của một con người là vô cùng khó khăn. Hay nên gọi đó là sự cải tạo nhỉ. Việc thay đổi tâm tính đâu có dễ dàng như vậy.
+Quả thực, muốn xoay chuyển nhận thức thâm căn của một con người là điều muôn vàn khó khăn. Hay ta nên gọi đó là công cuộc cải tạo nhỉ? Hoán cải tâm tính một kẻ cố chấp đâu có dễ dàng như trở bàn tay.
 
-Chính vì thế, tôi phải khắc ghi điều đó vào sâu trong cơ thể và tâm trí của ông ta.
+Chính vì thế, tôi phải dùng biện pháp mạnh để khắc sâu bài học ấy vào tận xương tủy và tâm can của ông ta.
 
-“Là để sám hối đấy.”
+“Để sám hối đấy.”
 
-Chỉ khi tự mình gánh chịu nỗi đau tương đương với những gì mà toàn bộ nô lệ Diana đã phải trải qua, chúng ta mới có thể xây dựng nên một mối quan hệ thực sự bình đẳng, không phải sao?
+Chỉ khi tự mình nếm trải nỗi thống khổ tột cùng tương đương với những gì toàn thể đồng bào nô lệ Diana đã phải cắn răng gánh chịu, chúng ta mới có thể ngồi lại và kiến tạo nên một mối quan hệ thực sự bình đẳng, chẳng phải vậy sao?

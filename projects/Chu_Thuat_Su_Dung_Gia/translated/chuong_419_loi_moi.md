@@ -1,26 +1,26 @@
-# Tập 416: Lời mời
+# Tập 419: Lời mời
 
-“Thế rồi nhé, hôm qua tao vừa về đến nhà là bị bố mẹ tra hỏi ngay.”
+“Thế là hôm qua, vừa mới bước chân về tới nhà là tao bị bố mẹ lôi ra tra hỏi ngay lập tức.”
 
 “Ha ha ha ha!”
 
-“Hỏi là sao tự dưng lại điệu đà thế, cơ mà có phải ý đó đâu chứ.”
+“Họ hỏi sao tự dưng tao lại ăn mặc điệu đà thế, cơ mà có phải ý tao muốn vậy đâu chứ.”
 
-“Không, bị nói thế là đúng rồi còn gì!”
+“Không, bị nói thế là phải rồi còn gì nữa!”
 
-Khi nghe tôi kể lại toàn bộ câu chuyện lúc vác nguyên gương mặt trang điểm giả gái về nhà, Katsu vẫn như mọi khi, lăn lộn ra cười một cách vô cùng thiếu tình bạn. Dẫu biết cậu ta nói đúng là đáng lẽ tôi phải tẩy trang rồi mới về, nhưng mà...
+Khi nghe tôi cay đắng kể lại chuyện vác nguyên gương mặt trang điểm giả gái về nhà vào ngày hôm qua, Katsu vẫn như mọi khi, bò lăn ra cười một cách vô cùng thiếu tình bạn. Dẫu biết cậu ta nói đúng, đáng lẽ tôi phải tẩy trang sạch sẽ rồi mới về, nhưng mà...
 
-“Hôm qua vui thế cơ mà. Mày có bị cuốn theo thì cũng là lẽ thường tình thôi.”
+“Hôm qua vui thế cơ mà. Mày có bị cuốn theo bầu không khí đó thì cũng là lẽ thường tình thôi.”
 
-“Chỉ là chưa kịp tẩy trang thì đã giải tán rồi thôi.”
+“Chỉ là chưa kịp tẩy trang thì đã đến lúc giải tán rồi.”
 
-Lớp trang điểm đáng yêu cuốn hút do chuyên gia Randou thực hiện cho tôi nhận được nhiều lời khen ngợi, nhưng tạo hình của Souma do cặp đôi Juri-Mari phụ trách cũng không hề kém cạnh. Thêm vào đó, đúng như dự đoán, hai người được bổ nhiệm làm quản gia át chủ bài là Souma Sakura và Kenzaki Asuna cũng đã mặc thử những bộ âu phục tự chuẩn bị để trình diễn diện mạo nam trang. Phía bên đội nữ thì không cần ai hướng dẫn trang điểm, họ tự mình làm lấy và kết quả trông cực kỳ ra gì và này nọ.
+Lớp trang điểm đáng yêu cuốn hút do 'chuyên gia' Randou thực hiện cho tôi nhận được không ít lời khen ngợi, nhưng tạo hình của Souma do cặp đôi Juri-Mari phụ trách cũng chẳng hề kém cạnh. Thêm vào đó, đúng như dự đoán, hai người được bổ nhiệm làm quản gia át chủ bài là Souma Sakura và Kenzaki Asuna cũng đã khoác lên mình những bộ âu phục tự chuẩn bị để trình diễn diện mạo nam trang. Phía bên đội nữ chẳng cần ai hướng dẫn, họ tự tay trang điểm cho nhau và kết quả cho ra thì thật sự 'rất gì và này nọ'.
 
-Kết quả là sự ra đời của những quản gia nam trang đẹp trai đến mức điên rồ, tận dụng triệt để những đường nét trời phú xuất sắc của họ.
+Nhờ tận dụng triệt để những đường nét trời phú xuất sắc, hai quản gia nam trang đẹp trai đến mức điên rồ đã ra đời.
 
-Souma Sakura thì miễn bàn rồi, nhưng ngay cả Kenzaki Asuna cũng vô cùng ấn tượng. Ngoại hình của họ ở cái tầm có thể tự nhiên thu hút một lượng lớn fan nữ. Nếu hai người họ chịu cắt phăng mái tóc dài để đổi sang kiểu tóc nam tính hơn, chắc chắn họ có thể lập tức xưng vương xưng bá tại các câu lạc bộ host ở Kabukicho, Shinjuku. Chắc chắn sẽ có hàng tá phụ nữ sẵn sàng cung phụng họ đến mức phá sản.
+Souma Sakura thì miễn bàn rồi, nhưng ngay cả Kenzaki Asuna cũng mang lại ấn tượng cực kỳ mạnh mẽ. Diện mạo của họ đạt đến cái tầm có thể tự nhiên thu hút một lượng lớn người hâm mộ nữ giới. Nếu hai người họ chịu cắt phăng mái tóc dài để đổi sang kiểu tóc nam tính hơn, chắc chắn họ có thể lập tức xưng vương xưng bá tại các câu lạc bộ host ở Kabukicho, Shinjuku. Khi đó, hẳn sẽ có hàng tá phụ nữ sẵn sàng cung phụng họ đến mức khuynh gia bại sản.
 
-Chính vì thế, ngày hôm qua, cả hai át chủ bài của phe hầu gái và quản gia đều đồng loạt xuất hiện. Các bạn cùng lớp chắc hẳn đã một lần nữa xác nhận được tiềm năng to lớn của quán 『Cà Phê Maid & Quản Gia Đảo Ngược』. Thành quả vượt ngoài mong đợi khiến cả lớp vô cùng phấn khích, và cũng vì thế mà tôi chẳng còn thời gian để tẩy trang. Khi tiếng chuông tan học vang lên... tôi đành phải ngậm ngùi trải nghiệm lần đầu tiên tẩy trang trong đời dưới sự trợ giúp của người mẹ đang nhìn mình đầy ngán ngẩm.
+Chính vì thế, ngày hôm qua, cả hai át chủ bài của phe hầu gái và quản gia đều đồng loạt xuất hiện. Các bạn cùng lớp chắc hẳn đã một lần nữa xác nhận được tiềm năng to lớn của quán 『Cà Phê Maid & Quản Gia Đảo Ngược』. Thành quả vượt ngoài mong đợi khiến không khí trong lớp bùng nổ vô cùng phấn khích, và cũng vì thế mà tôi chẳng còn thời gian đâu để tẩy trang. Rốt cuộc khi tiếng chuông tan học vang lên... tôi đành phải ngậm ngùi trải nghiệm lần đầu tiên tẩy trang trong đời dưới sự trợ giúp của mẹ tôi—người đang nhìn đứa con trai bằng ánh mắt đầy ngán ngẩm.
 
 “Mà thôi, thế cũng tốt mà. Như vậy thì hôm lễ hội chính thức chắc chắn sẽ ổn thôi. Từ giờ mày còn phải mặc váy hầu gái rồi đội tóc giả nữa đúng không?”
 
@@ -34,31 +34,31 @@ Chính vì thế, ngày hôm qua, cả hai át chủ bài của phe hầu gái v
 
 “Im đi.”
 
-Tôi tung một cú đấm mèo giận dữ vào cái bụng bự của Katsu. Cậu ta vừa rên rỉ “Hự... chết tao rồi...” vừa đứng dậy rời khỏi lớp học. Nếu định đi vệ sinh thì lo mà đi sớm đi chứ.
+Tôi tung một cú đấm mèo giận dữ vào cái bụng bự của Katsu. Cậu ta vừa ôm bụng rên rỉ “Hự... chết tao rồi...” vừa uể oải đứng dậy rời khỏi lớp học. Nếu định đi vệ sinh thì lo mà đi sớm đi chứ.
 
-Nhìn theo bóng lưng của cậu bạn dở hơi, tôi bỗng cảm nhận được có người ở phía sau.
+Nhìn theo bóng lưng của cậu bạn dở hơi, tôi bỗng cảm nhận được có người đang đứng phía sau mình.
 
 “Chào buổi sáng, Momokawa-kun. A, cậu không còn trang điểm nữa nhỉ.”
 
 “Chào buổi sáng, Futaba-san. Hôm qua vừa về đến nhà là tớ tẩy trang ngay lập tức rồi.”
 
-“Tớ bị mẹ cằn nhằn đủ điều luôn đấy.” Tôi nói thêm, khiến cô ấy khẽ cười trừ.
+“Tớ bị mẹ cằn nhằn đủ điều luôn đấy.” Tôi thở dài nói thêm, khiến cô ấy khẽ bật cười.
 
-“Nhưng mà trông cậu đáng yêu lắm. Hợp cực kỳ luôn.”
+“Nhưng mà trông cậu đáng yêu lắm đấy. Hợp cực kỳ luôn.”
 
-“Cảm ơn cậu nhé, dẫu tớ cũng chẳng biết có nên nhận lời khen này không nữa.”
+“Cảm ơn cậu nhé, dẫu tớ cũng chẳng biết có nên nhận lời khen này hay không nữa.”
 
 “Tớ nghĩ cậu cứ tự tin lên.”
 
 “Tự tin kiểu đó dễ làm lệch lạc xu hướng tính dục lắm đấy...”
 
-Thực sự đúng như lời Takanashi nói, lỡ tôi thức tỉnh sở thích giả gái thì biết làm sao đây. Những kẻ ít khi được khen ngợi như tôi, chỉ cần được tâng bốc một chút là rất dễ bay bổng rồi cứ thế dấn thân vào con đường đó đấy.
+Thực sự đúng như lời Takanashi đã cảnh báo, lỡ tôi thức tỉnh sở thích giả gái thì biết làm sao đây. Những kẻ ít khi được khen ngợi như tôi, chỉ cần được tâng bốc một chút là rất dễ bay bổng rồi cứ thế dấn thân vào con đường lệch lạc ấy.
 
 “Này nhé, tớ lại vừa làm thử món mới đấy... Nếu được thì Momokawa-kun ăn thử giúp tớ nhé?”
 
 “Ơ, được sao? Cảm ơn cậu nhé.”
 
-“Ừm, vì tớ muốn Momokawa-kun ăn thử mà. Nhưng vì chuyện lần trước xảy ra như vậy, tớ sợ cậu sẽ ghét...”
+“Ừm, vì tớ muốn Momokawa-kun ăn thử mà. Nhưng vì chuyện lần trước xảy ra như vậy, tớ sợ cậu sẽ thấy phiền...”
 
 “Chuyện đó đâu phải lỗi của Futaba-san, cậu đừng bận tâm làm gì. Hơn nữa, vụ đó Yama-Jun cũng đã giải quyết êm đẹp rồi.”
 
@@ -66,13 +66,13 @@ Thực sự đúng như lời Takanashi nói, lỡ tôi thức tỉnh sở thíc
 
 “Những lúc thế này cậu ấy đáng tin cậy thật đấy. Thế món ăn thử hôm nay là gì vậy?”
 
-“Vì buổi thảo luận hôm qua đã quyết định chọn cơm trứng cuộn sốt Hayashi làm món chính rồi, nên lần này tớ làm thử các món phụ khác, kiểu như bánh kẹo chẳng hạn.”
+“Vì buổi thảo luận hôm qua đã quyết định chọn cơm trứng cuộn sốt Hayashi làm món chính rồi, nên lần này tớ làm thử các món phụ khác, kiểu như bánh kẹo tráng miệng chẳng hạn.”
 
-“Ra vậy, kiểu như đồ ngọt dùng kèm trà nhỉ.”
+“Ra vậy, kiểu như đồ ngọt dùng kèm với trà nhỉ.”
 
 “Đúng thế, đúng thế.”
 
-Nhắc đến quán cà phê thì ngoài thực đơn chính là các món ăn nhẹ, những món bánh kẹo đi kèm với trà hoặc cà phê cũng là lựa chọn kinh điển. Đồ ngọt cũng là một phần không thể thiếu. Nếu chỉ xét riêng về đồ tráng miệng, những món như kem parfaits trông vừa đẹp mắt lại vừa dễ làm, rất phù hợp cho lễ hội trường.
+Nhắc đến quán cà phê thì ngoài thực đơn chính là các món ăn nhẹ, những món bánh kẹo đi kèm với trà hoặc cà phê cũng là lựa chọn kinh điển. Đồ ngọt là một phần không thể thiếu. Nếu chỉ xét riêng về đồ tráng miệng, những món như kem parfait trông vừa đẹp mắt lại vừa dễ làm, rất phù hợp cho lễ hội trường.
 
 “Thế thì có vẻ sẽ có nhiều ứng cử viên lắm đây, chọn lựa chắc đau đầu lắm nhỉ.”
 
@@ -92,21 +92,21 @@ Kẻ vừa thốt ra câu thoại như muốn chen ngang vào giữa một cặp
 
 Hayama xuất hiện với nụ cười rạng rỡ và tràn đầy năng lượng như mọi khi.
 
-“Nghe danh ở đây có đồ ăn thử.”
+“Nghe danh ở đây có đồ ăn thử nên tớ có mặt ngay!”
 
 “Cái đồ tham ăn này.”
 
-“But mà này, hôm qua các cậu được ăn bao nhiêu là cơm trứng cuộn còn gì!? Thế chẳng phải bất công quá sao!?”
+“Nhưng mà này, hôm qua các cậu được ăn bao nhiêu là cơm trứng cuộn còn gì!? Thế chẳng phải bất công quá sao!?”
 
 “Ơ, t-tớ xin lỗi nhé?”
 
-“Không, cậu không có lỗi. Futaba-san không hề sai.”
+“Không, cậu không có lỗi đâu. Futaba-san không hề sai.”
 
 “Đúng thế, kẻ sai ở đây là—”
 
 ““Souma Yuuto.””
 
-*Bép!* Tôi và Hayama đập tay nhau một cái thật kêu. Qua một tuần tiếp xúc, tôi đã dần bắt nhịp được với cái tính cách của cậu ta rồi.
+*Bốp!* Tôi và Hayama đập tay nhau một cái thật kêu. Qua một tuần tiếp xúc, tôi đã dần bắt nhịp được với cái tính cách tào lao của cậu ta rồi.
 
 “Vậy thì giờ nghỉ trưa tớ sẽ tổ chức buổi ăn thử ở trong lớp nhé. Hayama-kun nhớ tới lúc đó nha?”
 
@@ -114,15 +114,15 @@ Hayama xuất hiện với nụ cười rạng rỡ và tràn đầy năng lư�
 
 “Hayama-kun là cái kiểu người hễ được nuông chiều là sẽ lấn tới đấy.”
 
-“Cái thằng này, Momokawa, mặt mũi thì dễ thương mà mở miệng ra là độc địa thế hả!”
+“Cái thằng này, Momokawa! Mặt mũi thì dễ thương mà sao mở miệng ra là độc địa thế hả!”
 
 “Á, khoan đã—”
 
-Trong lúc tôi đang giãy giụa khi bị Hayama vò đầu bứt tai một cách thô bạo, một giọng nói vang lên:
+Trong lúc tôi đang giãy giụa vì bị Hayama vò đầu bứt tai một cách thô bạo, một giọng nói vang lên:
 
 “Làm cái trò gì thế hả Hayama, quấy rối tình dục đấy à?”
 
-“Sáng ngày ra đừng có nói lời xúc phạm thế chứ Randou.”
+“Sáng ngày ra đừng có nói lời xúc phạm người khác thế chứ Randou.”
 
 “A, chào buổi sáng, Randou-san.”
 
@@ -130,7 +130,7 @@ Trong lúc tôi đang giãy giụa khi bị Hayama vò đầu bứt tai một c�
 
 Người vừa bước tới với vẻ mặt uể oải chính là Randou.
 
-Nhưng mà, những gương mặt mà trước đây tôi chưa từng nghĩ sẽ tụ tập lại với nhau giờ lại đang quây quần từ sáng sớm thế này. Đây chính là sức mạnh thúc đẩy của lễ hội trường sao.
+Nhưng mà, những gương mặt mà trước đây tôi chưa từng nghĩ sẽ tụ tập lại với nhau giờ lại đang quây quần từ sáng sớm thế này. Đây chính là sức mạnh thúc đẩy của lễ hội trường sao?
 
 “Này Momokawa, mai cậu rảnh không?”
 
@@ -146,13 +146,13 @@ Không hiểu sao, Futaba cũng thốt lên kinh ngạc cùng lúc với tôi. M
 
 “Tất nhiên rồi.”
 
-Tôi và nơi đó chẳng có chút duyên nợ nào cả. Đó là địa điểm tôi chỉ thấy trên tivi hay trong phim truyền hình mà thôi. Salon tóc chẳng phải là nơi chỉ dành cho phụ nữ hoặc host thôi sao?
+Tôi và những nơi sang chảnh đó chẳng có chút duyên nợ nào cả. Đó là địa điểm tôi chỉ thấy trên tivi hay trong phim truyền hình mà thôi. Salon tóc chẳng phải là nơi chỉ dành cho phụ nữ hoặc host thôi sao?
 
 “Tớ biết một chỗ tốt nên sẽ giới thiệu cho cậu. Ý tớ là cậu nên sửa sang lại đầu tóc trước khi lễ hội chính thức diễn ra đấy.”
 
 “À... ra là vậy.”
 
-Cũng có lý. Nói đúng hơn là cô ấy suy nghĩ khá chu đáo, hoặc giả là đang cực kỳ nghiêm túc với việc này. Trái ngược với vẻ ngoài gyaru của mình... Có lẽ đây cũng là một kiểu sức hút từ sự đối lập (gap moe) chăng.
+Cũng có lý. Nói đúng hơn là cô ấy suy nghĩ khá chu đáo, hoặc giả là đang cực kỳ nghiêm túc với việc này. Trái ngược với vẻ ngoài gyaru của mình... Có lẽ đây cũng là một kiểu sức hút từ sự đối lập chăng.
 
 “Với lại có muốn đi thử quán cà phê hầu gái không? Kiểu như đi trải nghiệm thực tế ấy.”
 
@@ -162,13 +162,13 @@ Cũng có lý. Nói đúng hơn là cô ấy suy nghĩ khá chu đáo, hoặc gi
 
 Câu chào “Mừng người đã về, thưa chủ nhân” của tôi chỉ được vỏn vẹn 40 điểm. Có lẽ lúc này việc đi chiêm ngưỡng kỹ nghệ của dân chuyên nghiệp là điều cần thiết.
 
-Dẫu biết rằng nếu tìm kiếm thì trên mạng có vô số video hay tài liệu kiểu đó, nhưng suy cho cùng, không có gì vượt qua được trải nghiệm thực tế. Câu tục ngữ "Trăm nghe không bằng một thấy" quả thực càng ngày càng có giá trị trong thời đại Internet đầy rẫy những kẻ chỉ biết nói suông mà chưa từng tự mình trải nghiệm.
+Dẫu biết rằng nếu tìm kiếm thì trên mạng có vô số video hay tài liệu kiểu đó, nhưng suy cho cùng, không gì vượt qua được trải nghiệm thực tế. Câu tục ngữ "Trăm nghe không bằng một thấy" quả thực càng ngày càng có giá trị trong thời đại Internet đầy rẫy những kẻ chỉ biết nói suông mà chưa từng tự mình trải nghiệm.
 
 “Thế thì Hayama, cậu rủ mấy đứa có hứng thú với quán cà phê hầu gái đi cùng đi. Đằng nào thì một mình cậu cũng chẳng có gan bước vào đâu.”
 
 “Rõ rồi. Nhưng đừng có hiểu lầm nhé Randou, tớ là kiểu đàn ông nếu cần thiết thì một mình cũng chẳng ngần ngại gì đâu đấy nhé?”
 
-Tại sao cậu ta lại phải sĩ diện ở những chỗ không đâu thế nhỉ. Ít nhất thì đối với tôi, việc một mình đi chinh phục quán cà phê hầu gái là điều bất khả thi.
+Tại sao cậu ta lại phải sĩ diện ở những chỗ không đâu thế nhỉ. Ít nhất thì đối với tôi, việc một mình đi chinh phục quán cà phê hầu gái là điều hoàn toàn bất khả thi.
 
 “Đông người quá thì khó vào lắm, nên giới hạn khoảng bốn đến năm người thôi nhé.”
 
@@ -182,7 +182,7 @@ Dù tình huống được ở riêng với một cô gái tuyệt vời như Ra
 
 “Chà, đây là lần đầu tiên tớ đi quán cà phê hầu gái đấy nhé~”
 
-Tôi nhìn Hayama đang phấn khích reo hò một cách vô tư lự với một ánh mắt đầy ôn hòa.
+Tôi nhìn Hayama đang phấn khích reo hò một cách vô tư lự bằng ánh mắt đầy ôn hòa.
 
 ◇◇◇
 
@@ -230,9 +230,9 @@ Vì đây là thành phố nơi tọa lạc của Học viện Tư lập Hakurei
 
 Lẽ dĩ nhiên, các quán cà phê hầu gái cũng không ngoại lệ. Chỉ cần đi dạo quanh khu vực này, những tấm biển hiệu nổi bật kiểu đó sẽ đập vào mắt bạn dù muốn hay không. Dù không có hứng thú, tôi vẫn nhớ được vị trí của vài quán.
 
-Hiện tại, tôi là người đến sớm nhất tại địa điểm hẹn gặp kinh điển—một quảng trường có bức tượng Moai bí ẩn to lớn một cách vô lý.
+Hiện tại, tôi là người đến sớm nhất tại địa điểm hẹn gặp kinh điển—một quảng trường có bức tượng Moai bí ẩn khổng lồ một cách vô lý.
 
-Liếc nhìn bức tượng Moai đầy uy lực trông như thể sắp bắn ra những chùm tia sáng vòng tròn đến nơi, tôi—một kẻ đáng thương cho đến giờ vẫn dùng điện thoại nắp gập—đang định lôi cuốn light novel ra đọc để giết thời gian thì đúng lúc đó.
+Liếc nhìn bức tượng Moai đầy uy lực trông như thể sắp bắn ra những chùm tia sáng vòng tròn đến nơi, tôi—một kẻ đáng thương cho đến giờ vẫn dùng điện thoại nắp gập—đang định lôi cuốn light novel ra đọc để giết thời gian thì đúng lúc đó...
 
 *Reng reng reng!*
 

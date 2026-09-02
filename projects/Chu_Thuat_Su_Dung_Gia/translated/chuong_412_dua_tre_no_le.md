@@ -1,249 +1,249 @@
-# Tập 412: Đứa trẻ nô lệ
+# Tập 412: Đứa Trẻ Nô Lệ
 
 Easthope, một thị trấn biên thùy nằm ở rìa phía đông Vương quốc Astoria.
 
-Nằm dưới chân dãy núi Elemental hùng vĩ đóng vai trò như đường biên giới quốc gia, thị trấn này được bao quanh bởi những trang trại rộng lớn trải dài khắp nơi, mang lại một bầu không khí nhộn nhịp đến mức khó tin đây lại là một vùng biên viễn.
+Tọa lạc dưới chân dãy núi Elemental hùng vĩ đóng vai trò như ranh giới tự nhiên của quốc gia, thị trấn được bao bọc bởi những đồn điền bạt ngàn trải dài tít tắp, mang đến bầu không khí nhộn nhịp đến khó tin ở một vùng biên ải.
 
-Ngay tại trung tâm Easthope, bên trong chi nhánh duy nhất của thương hội nô lệ tại thị trấn này mang tên 『Dịch Vụ Nô Lệ Velvet - Chi Nhánh Easthope』, có hai người đàn ông đang đối mặt với nhau.
+Ngay tại trung tâm Easthope, bên trong chi nhánh thương hội nô lệ duy nhất mang tên 『Dịch Vụ Nô Lệ Velvet - Chi Nhánh Easthope』, hai người đàn ông đang ngồi đối diện nhau.
 
-“Mừnnggg quá, ngài đã hạ cố đến đây, ngài Winstonnn~”
+“Mừng quá chừnggg, ngài đã cất công ghé thăm tệ xá, ngài Winston nhaaa~”
 
 “Kìa, đã lâu không gặp, ngài Pringlut.”
 
-Người vừa cất giọng điệu kéo dài đầy đặc trưng kia là Pringlut Velvet. Không ai khác, gã chính là chủ hội của Velvet, thương hội nô lệ đại diện cho toàn bộ khu vực phía đông Astoria. Thân hình và khuôn mặt tròn trịa, thấp bé, cùng bộ trang phục gồm mũ hiên cao và áo đuôi tôm được mặc chỉnh tề đến kỳ lạ của gã tạo nên một ấn tượng sâu sắc khiến ai nhìn qua một lần cũng khó lòng quên được.
+Người vừa cất giọng điệu nhừa nhựa kéo dài đầy đặc trưng ấy là Pringlut Velvet. Không ai khác, gã chính là chủ hội Velvet — thương hội nô lệ thao túng toàn bộ khu vực phía đông Astoria. Thân hình cùng khuôn mặt tròn ủng, thấp bé, khoác trên mình bộ âu phục gồm mũ chóp cao và áo đuôi tôm chỉnh tề đến dị hợm, gã tạo nên một ấn tượng kỳ quái khiến ai nhìn qua một lần cũng khó lòng phai nhạt.
 
-Đối diện gã là Winston, người đang cười lớn sảng khoái lộ cả hàm răng trắng khi bắt tay gã. Ông ta là chủ trang trại có quy mô lớn nhất vùng Easthope này. Người đàn ông trung niên béo tốt mặc chiếc áo sơ mi giản dị phối cùng áo gile trông chẳng khác nào những người có thể bắt gặp ở bất kỳ đâu tại thị trấn biên thùy này, nhưng thực chất, bản thân ông ta lại là một trong ba người giàu có nhất Easthope.
+Đối diện gã là Winston, người đang cười lớn sảng khoái để lộ hàm răng trắng bóng khi bắt tay đối tác. Ông ta là chủ đồn điền có quy mô bề thế nhất vùng Easthope. Người đàn ông trung niên béo tốt trong chiếc sơ mi giản dị phối cùng áo gile trông chẳng khác nào những lão nông thường thấy ở bất kỳ xó xỉnh nào tại thị trấn này, song trên thực tế, ông ta lại là một trong ba kẻ giàu có nhất Easthope.
 
-Dù chỉ là một chủ trang trại vùng biên viễn, ông ta vẫn là một khách hàng sộp. Rất xứng đáng để đích thân chủ hội như Pringlut ra mặt giao dịch. Trên thực tế, ông ta đã nhiều lần thu mua một lượng lớn nô lệ từ thương hội để làm nhân công cho đồn điền khổng lồ của mình. Lần này cũng vậy, ông ta dự định nhập một số lượng lớn nô lệ để cung cấp cho trang trại đang trên đà phát triển mạnh mẽ của mình, thế nhưng...
+Dẫu chỉ là một chủ trang trại vùng biên viễn, ông ta vẫn là khách sộp bậc nhất. Rất xứng đáng để đích thân chủ hội như Pringlut đích thân ra mặt tiếp đón. Thực tế, Winston từng nhiều lần vung tiền gom lượng lớn nô lệ từ thương hội về làm nhân công cho nông trường ngút ngàn của mình. Lần này cũng chẳng ngoại lệ, ông ta dự tính nhập thêm một đợt nhân công hùng hậu cho trang trại đang trên đà phát triển vũ bão, thế nhưng...
 
-“Chà, quả không hổ danh là ngài Pringlut, toàn là những nhân công khỏe mạnh và tràn đầy sức sống! Ngài gom được ngần này người thật xuất sắc!”
+“Chà, quả không hổ danh ngài Pringlut, toàn là những nhân công vạm vỡ và tràn đầy sinh lực! Ngài gom được ngần này người quả thực quá xuất sắc!”
 
-“Ôi dàoôô, tất nhiên rồi ạaa. Dù sao thì, điểm nổi bậttt của bên tôi chính là chất lượng nô lệ màaa.”
+“Ôi dào ôi, tất nhiên rồi màaa. Điểm sáng chói lọi nhấttt của bên tôi chính là chất lượng nô lệ cơ màaa.”
 
-Winston vô cùng phấn khởi khi tận mắt xác nhận rằng dàn nô lệ lần này đều là những người khỏe mạnh, tràn đầy sinh lực hơn hẳn mọi khi.
+Winston vô cùng hài lòng khi tận mắt kiểm chứng dàn nô lệ đợt này đều là những kẻ vạm vỡ, khỏe khoắn hơn hẳn lệ thường.
 
-“Được, tôi mua hết! Giá bao nhiêu?”
+“Được, tôi bao trọn hết! Giá cả thế nào?”
 
-“Dạ vânggg, lần này đặc biệt... tôi xin phép được phụcc vụuu ngài với mức giá này ạaa.”
+“Dạ vânggg, lần này là ngoại lệ đặc biệttt... tôi xin mạn phép phụcc vụuu ngài với mức giá này nhaaa.”
 
-“Hửm... Khoan đã, cái này... Dù thế nào đi nữa, chẳng phải có nhầm lẫn gì sao?”
+“Hửm... Khoan đã, con số này... Dù thế nào đi nữa, chẳng lẽ có nhầm lẫn gì chăng?”
 
-Nhìn Pringlut tự tin chìa ra bản hợp đồng ghi rõ số tiền bằng những con số khổng lồ, nụ cười trên môi Winston lập tức tắt ngấm vì kinh ngạc.
+Nhìn Pringlut tự tin chìa ra bản khế ước ghi con số thanh toán, nụ cười trên môi Winston lập tức tắt ngấm vì sững sờ.
 
-“Dạ khônnggg, hoàn toàn không có nhầm lẫn gì đâu ạaa.”
+“Dạ khônnggg, hoàn toàn chuẩn xác từng đồng từng cắc đấy ạaa.”
 
-“Nhưng mức giá này chưa bằng một nửa lần trước. Rốt cuộc ngài đang tính toán điều gì vậy?”
+“Nhưng cái giá này còn chưa bằng một nửa đợt trước. Rốt cuộc ngài đang toan tính điều gì?”
 
-“Hắc hắc hắc, nhận ra ngayy thì đúng là người sành sỏi có khác nhaaa~”
+“Hắc hắc hắc, vừa liếc qua đã nhận ra ngayyy thì đúng là bậc lão làng sành sỏi có khác nhaaa~”
 
-Dù có là kẻ ngốc đi chăng nữa, trong giới làm ăn cũng chẳng có ai lại vui vẻ đâm đầu vào một món hàng được chào bán với giá chưa đầy một nửa thị trường. Winston thừa hiểu đằng sau mức chiết khấu bất thường này chắc chắn phải có uẩn khúc... nhưng ít nhất, ông ta vẫn chưa nghĩ ra được lý do nào hợp lý.
+Trong giới thương trường, dẫu có ngây ngô đến đâu cũng chẳng kẻ nào dại dột đâm đầu vào một món hàng đại hạ giá chưa đầy nửa giá thị trường. Winston thừa hiểu đằng sau mức chiết khấu hoang đường này ắt hẳn phải có uẩn khúc... song nhất thời ông ta vẫn chưa mường tượng ra nguyên cớ.
 
-“Thực ra là... trong số nô lệ lần này, có một đứa trẻ mang lai lịch khá ‘phức tạp’ đấy ạaa.”
+“Thực lòng mà nói thì... trong đám nô lệ chuyến này, có một đứa nhóc mang lai lịch khá ‘phức tạp’ đấy ạaa.”
 
 “Lai lịch phức tạp?”
 
-“Xin ngài trướccc hết đừng dò hỏi sâu xa gì nhaaa~”
+“Xin ngài trướccc hết đừng đào sâu tra hỏi làm chi nhaaa~”
 
-Dù thế nào đi nữa, chuyện này vẫn quá sức nghi ngờ.
+Càng nghe, chuyện lại càng đáng ngờ.
 
-Những nô lệ mà ông ta vừa xem qua đều là những gương mặt bình thường, không có gì kỳ lạ để xuất hiện trên thị trường. Dường như không có ai sở hữu ngoại hình dị thường đến mức bị gọi là "có uẩn khúc".
+Những nô lệ ông ta vừa điểm qua đều là những gương mặt phổ thông, chẳng có nét gì kỳ dị trên thị trường. Tuyệt nhiên không thấy ai sở hữu dị trạng đến mức bị gán mác "có uẩn khúc".
 
-“Về phía tôi, số lượng khách hàng có thể thực hiện giao dịch này không nhiều. Trong số đó, không ai có được sự tin cậy, uy tín, và trên hết là nhu cầu mua số lượng lớn như ngài Winston cả... Vì vậy, tôi rất muốn giới thiệu ‘đứa trẻ đó’ cho ngài!”
+“Về phần tôi, số lượng khách hàng đủ tầm cán đáng mối làm ăn này chẳng có mấy ai. Trong số đó, không một ai đạt được độ tin cẩn, uy tín, và trên hết là sức mua khủng khiếp như ngài Winston cả... Thế nên, tôi mới tha thiết muốn giới thiệu ‘đứa trẻ đó’ cho ngài!”
 
-“Hừm, được rồi. Nếu một người như ngài đã nói thế, tôi sẽ xem qua trước.”
+“Hừm, được rồi. Nếu một người lọc lõi như ngài đã mở lời, tôi sẽ xem mặt trước.”
 
-“Quảảả nhiên là gan dạ! Vậy thì, mang ‘đứa bé đó’ vào đây ngay.”
+“Quảảả nhiên là bậc đại trượng phu gan dạ! Mau, dẫn ‘đứa bé đó’ vào đây ngay!”
 
-Nở một nụ cười đầy gian manh, Pringlut vỗ tay bôm bốp, ra lệnh cho thuộc hạ dẫn đứa trẻ "phức tạp" kia vào.
+Nở nụ cười gian giảo, Pringlut vỗ tay đôm đốp, hạ lệnh cho thuộc hạ áp giải đứa trẻ "phức tạp" kia vào.
 
-Chắc hẳn đứa trẻ đã được cho đợi sẵn ở gần đó. Ngay sau tiếng gõ cửa báo hiệu, người nô lệ đó bước vào.
+Ắt hẳn đứa bé đã được chuẩn bị sẵn ở phòng bên. Sau tiếng gõ cửa cộc lốc, người nô lệ ấy bước vào phòng.
 
-Thứ gã thuộc hạ đang nắm trong tay là một sợi xích thép. Nối với đầu sợi xích là một chiếc vòng cổ bằng da màu đen.
+Thứ tên thuộc hạ nắm chặt trong tay là một sợi xích sắt lạnh ngắt. Nối liền đầu dây xích là chiếc vòng cổ bằng da thuộc màu đen.
 
-Dù là nô lệ đi chăng nữa, kiểu giam giữ cổ hủ này vào thời buổi này quả là hiếm thấy. Bộ quần áo bao tải rách nát, bạc màu trên người đứa trẻ cũng mang lại cảm giác cũ kỹ như thể nó được rao bán từ cả trăm năm trước.
+Dẫu là phận nô lệ, kiểu giam cầm cổ lỗ sĩ này vào thời buổi hiện nay quả thực hiếm thấy. Bộ quần áo bao tải rách rưới, bạc thếch khoác trên thân thể đứa nhỏ cũng toát lên phong thái xưa cũ ngỡ như vết tích sót lại từ cả trăm năm trước.
 
-“Nàooo, đây là chủ nhân mới của ngươi đấy. Tự giới thiệu bản thân đi xem nào.”
+“Nàooo, đây chính là chủ nhân mới của ngươi đấy. Tự mở miệng chào hỏi đàng hoàng xem nào.”
 
 “Muuu... a... ưm ưm...”
 
 “Ôi chàaa, Momo-channn, hôm nay ngoan ngoãn giỏi quá taaa!”
 
-*Đứa nhỏ này bị điên sao...*
+*Đứa nhỏ này bị mất trí sao...*
 
-Winston thở dài một tiếng thườn thượt, nhìn chằm chằm vào đứa trẻ có biểu hiện bất thường kia.
+Winston thở dài sườn sượt, nheo mắt đánh giá đứa trẻ có biểu hiện kỳ quặc trước mặt.
 
-Tóc đen, mắt đen. Những đặc điểm giống như người ngoại quốc trong lời đồn quả thực rất hiếm thấy.
+Tóc đen, mắt đen. Dáng dấp tựa như người ngoại quốc trong những câu chuyện truyền khẩu quả thực vô cùng hiếm gặp.
 
-Bọc trong lớp vải bao tải thô sơ là làn da non nớt, trắng ngần của một đứa trẻ. Đường nét khuôn mặt mang nét ngoại bang, gợi liên tưởng đến một chú mèo. Nhìn chung, ngoại hình của nó có thể đánh giá là khá thanh tú, thế nhưng...
+Bọc sau lớp vải gai thô ráp là làn da non nớt, trắng ngần của một đứa trẻ. Đường nét khuôn mặt thanh thoát mang phong vị dị tộc, thoáng nét tinh nghịch tựa một chú mèo con. Xét toàn diện, ngoại hình của nó có thể liệt vào hàng thanh tú khôi ngô, thế nhưng...
 
 “Mơơơ...”
 
-Ánh mắt của nó lờ đờ, vô hồn và không hề có tiêu cự. Từ khuôn miệng nhỏ chỉ phát ra những tiếng rên rỉ vô nghĩa.
+Ánh mắt nó lờ đờ, đục ngầu và hoàn toàn mất tiêu cự. Từ khóe miệng nhỏ nhắn chỉ phát ra những tiếng ậm ừ vô nghĩa.
 
-Chỉ cần nhìn qua một cái là có thể nhận ra ngay đứa trẻ này không đơn thuần là hiếu động hay nghịch ngợm.
+Chỉ cần liếc qua là nhận ra ngay đứa trẻ này không đơn thuần là bướng bỉnh hay nghịch ngợm.
 
-“Ra vậy... Nghĩa là nếu tôi im lặng nhận đứa trẻ này, giao dịch sẽ được thiết lập với mức giá kia?”
+“Ra vậy... Nghĩa là nếu tôi nhắm mắt nhận đứa nhỏ này, bản giao kèo sẽ chốt ở mức giá kia?”
 
-“Dạ vânggg, chính xác là như vậy đấy ạaa.”
+“Dạ vânggg, đúng boong như thế đấy ạaa.”
 
-Winston thầm suy tính. Đứa trẻ này nhìn kiểu gì cũng thấy bị thiểu năng trí tuệ nghiêm trọng, không những vô giá trị mà còn là một gánh nặng tiêu tốn tiền của.
+Winston thầm tính toán trong đầu. Nhìn góc nào đứa nhóc này cũng thuộc dạng thiểu năng trí tuệ nặng nề, nuôi chỉ tổ tốn cơm tốn gạo, chẳng làm nên trò trống gì.
 
-Tuy nhiên, nhìn vẻ ngoài sạch sẽ của nó, đây chắc chắn không phải con cái của một phụ nữ nông thôn bình thường. Rất có thể nó được sinh ra trong một gia đình quyền quý. Sự ra đời của một đứa trẻ như thế này sẽ mang lại tai tiếng cho gia tộc. Nhưng có lẽ nhờ tình thương của cha mẹ, nó đã được nuôi nấng cẩn thận cho đến độ tuổi này.
+Tuy nhiên, nhìn làn da trắng nõn sạch sẽ kia, đây tuyệt đối không thể là con cái của một phụ nữ nông thôn bần hàn. Rất có khả năng nó sinh ra từ một gia tộc quyền quý danh gia vọng tộc. Sự chào đời của một phế phẩm như thế này ắt mang lại nỗi nhục nhã cho thanh danh gia đình. Song có lẽ nhờ chút tình mẫu tử sót lại, nó mới được chăm bẵm cẩn thận đến ngần này tuổi.
 
-Thế rồi biến cố xảy ra. Vì vậy, nó bị đẩy xuống thân phận nô lệ để bí mật thủ tiêu. Ông ta đoán là như vậy.
+Rồi biến cố ập đến. Nó bị tước bỏ thân phận, đẩy xuống hàng nô lệ để bí mật thủ tiêu không dấu vết. Ông ta đoán chừng là vậy.
 
-“Đứa trẻ này là do ngài Pringlut trực tiếp thu mua sao?”
+“Đứa trẻ này do đích thân ngài Pringlut thu mua sao?”
 
-“Dạ khônnggg, tôi nhận lại từ một ‘đồng nghiệp’ thân thiết. Người đó đã khẩn khoản cầu xin tôi giúp đỡ nên tôi mới nhận thầu lại đấy ạaa.”
+“Dạ khônnggg, tôi nhận lại từ một ‘chi bằng hữu’ chí cốt. Người ta tha thiết van nài giúp đỡ nên tôi mới nể mặt ôm thầu lại đấy ạaa.”
 
-Xem ra đứa trẻ này đã được chuyển qua tay rất nhiều trung gian. Thật là một sự sắp xếp cẩn trọng.
+Xem chừng đứa trẻ đã qua tay rất nhiều tầng trung gian. Một nước đi xóa dấu vết đầy cẩn trọng.
 
-Và rồi, đứa trẻ mang lai lịch phức tạp này đã trôi dạt đến tận vùng biên viễn phía đông, rơi vào tay một người sở hữu lượng lớn nô lệ như ông ta.
+Để rồi cuối cùng, đứa trẻ mang lai lịch mờ ám này trôi dạt tới tận vùng biên viễn miền đông, rơi vào tay một đại chủ nô như ông ta.
 
-“Hửm, dù sao thì... mối quan hệ giữa tôi và ngài Pringlut cũng không phải ngày một ngày hai. Tôi nghĩ mình có thể thực hiện giao dịch này.”
+“Hừm, dù sao thì... mối giao hảo giữa tôi và ngài Pringlut cũng đâu phải chuyện ngày một ngày hai. Mối làm ăn này, tôi nhận.”
 
-Nhìn thái độ của Pringlut và đứa trẻ điên khùng đang ngơ ngác nhìn vào khoảng không, Winston đưa ra quyết định "mua".
+Quan sát thái độ của Pringlut cùng bộ dạng ngơ ngác nhìn vào cõi hư vô của đứa trẻ điên khùng, Winston dứt khoát gật đầu chốt đơn.
 
-Chỉ cần gánh thêm một miệng ăn vô dụng của một đứa trẻ mà đổi lại được một lượng lớn nô lệ chất lượng cao với giá chưa đầy một nửa. Số tiền tiết kiệm được lớn đến mức ngay cả Winston cũng không thể ngó lơ.
+Chỉ cần gánh thêm một miệng ăn vô dụng của một đứa con nít mà đổi lại cả một lô nô lệ thượng hạng với giá chưa đầy phân nửa. Món hời khổng lồ cỡ này, đến một đại phú hào như Winston cũng chẳng dại gì chối từ.
 
-“Ôi chàaa, thế thì tốt quáaa, xin chân thành cảm ơn ngài rất nhiềuuu!”
+“Ôi chàaa, tuyệt vời ông mặt trờiii, xin đội ơn tấm lòng đại lượng của ngài Winston rất nhiềuuu!”
 
-“Về việc chăm sóc đứa trẻ này, có điểm gì cần lưu ý không?”
+“Về việc nuôi giữ đứa nhỏ này, có điều gì cần kiêng kị không?”
 
-“Chỉ một điều duy nhất thôi... Đứa trẻ này là một ‘đứa trẻ bị nguyền rủa’ đấy ạaa.”
+“Chỉ một chuyện duy nhấttt thôi... Đứa trẻ này là một ‘đứa trẻ bị nguyền rủa’ đấy ạaa.”
 
-Như thể đang kể một câu chuyện ma ở nghĩa trang, Pringlut không hề giấu diếm mà tiết lộ thẳng thắn về ‘lời nguyền’ bám theo đứa trẻ này. Thế nhưng...
+Tựa như đang kể một câu chuyện ma rùng rợn lúc nửa đêm, Pringlut chẳng thèm giấu giếm mà nói thẳng toẹt về ‘lời nguyền’ bám riết lấy đứa nhỏ. Thế nhưng...
 
-“Vậy thì, giao dịch thành công.”
+“Vậy thì, khế ước hoàn tất.”
 
-“Xin cảm ơn ngài đã mua hànggg!!”
+“Xin đa tạ ngài đã chiếu cố mua hànggg!!”
 
-Cứ như thế, đứa trẻ bị nguyền rủa tóc đen đã trở thành một nô lệ đồn điền, tầng lớp thấp kém nhất tại Astoria.
+Cứ thế, đứa trẻ tóc đen mang theo lời nguyền đã chính thức trở thành một nô lệ đồn điền — tầng lớp mạt hạng dưới đáy xã hội Astoria.
 
-◇◇◇
+***
 
 Đồn điền New Hope.
 
-Winston đến đây từ những ngày đầu khi Easthope mới chỉ là một thị trấn sơ khai. Chỉ dựa vào số tài sản cuỗm được từ gia đình, ông ta đã một mình dấn thân vào vùng đất khai hoang mới... Giờ đây, ông ta đã trở thành một đại chủ trang trại vô cùng thành công, nhà sản xuất thương hiệu cà phê 『Elemental Mountain』 lừng danh khắp vương quốc.
+Winston đặt chân tới mảnh đất này từ những ngày đầu Easthope còn là một bãi đất hoang sơ. Chỉ với số vốn liếng lận lưng bòn rút từ gia tộc, ông ta đã một thân một mình dấn thân vào công cuộc khai khẩn miền biên viễn... Giờ đây, ông ta đã vươn mình thành một đại điền chủ lừng lẫy, ông chủ của thương hiệu cà phê 『Elemental Mountain』 trứ danh khắp vương quốc.
 
-Tại trang trại rộng lớn này, những người đảm nhận việc sản xuất hạt cà phê chính là nô lệ.
+Tại nông trang bạt ngàn này, lực lượng trực tiếp đổ mồ hôi gieo trồng hạt cà phê chính là bầy nô lệ.
 
-Từ những nông nô người Astoria ký hợp đồng bán thân vì nợ nần, cho đến những nô lệ tội phạm thực sự và trẻ mồ côi. Với số lượng nhân công khổng lồ, nơi đây quy tụ đủ mọi tầng lớp dưới đáy xã hội, nhưng đại đa số những người lao động tại đồn điền New Hope này lại là nô lệ người Diana.
+Từ những nông nô người Astoria ký giấy bán mình trừ nợ, cho tới những phạm nhân lưu đày và trẻ mồ côi cơ nhỡ. Với quy mô nhân công đồ sộ, nơi đây dung nạp đủ mọi tầng lớp dưới đáy xã hội, song chiếm tuyệt đại đa số lao động tại đồn điền New Hope lại là nô lệ thuộc tộc Diana.
 
 Liên minh Tinh linh Diana.
 
-Họ là tộc người bản địa đã sinh sống trên đại lục Noah này từ trước khi vương quốc Astoria được thành lập.
+Họ là tộc người bản địa sinh sống trên đại lục Noah này từ thuở vương quốc Astoria còn chưa dựng lập.
 
-Đó là một chủng tộc nhân loại sở hữu làn da nâu bánh mật cùng mái tóc và màu mắt nhạt màu, chủ yếu là màu trắng.
+Đó là một chủng tộc mang làn da nâu bánh mật khỏe khoắn cùng mái tóc và màu mắt sáng màu, chủ yếu là sắc trắng thuần khiết.
 
-Phía bên kia dãy núi Elemental hùng vĩ chia cắt trung tâm đại lục chính là lãnh thổ gốc của họ. Hiện tại, giữa họ và Astoria đang tồn tại một số hoạt động giao thương nhỏ.
+Phía bên kia dãy núi Elemental hùng vĩ chắn ngang tâm đại lục chính là lãnh địa cội nguồn của họ. Hiện nay, giữa họ và Astoria vẫn duy trì một vài tuyến giao thương nhỏ lẻ.
 
-Vì người Diana không có văn hóa uống cà phê nên ngay cả một thương nhân như Winston cũng hoàn toàn không có giao dịch gì với họ. Tuy nhiên, để có nô lệ làm việc trong trang trại, ông ta có rất nhiều mối liên hệ với người Diana và cũng sở hữu những hiểu biết nhất định về họ.
+Do người Diana không có thói quen thưởng thức cà phê nên một thương nhân như Winston hầu như không có giao dịch thương mại với họ. Song để thu mua nô lệ làm việc trong nông trang, ông ta nắm rất nhiều đầu mối liên hệ và có hiểu biết sâu sắc về tộc người này.
 
-Mặc dù vậy, điều quan trọng nhất đối với ông ta chính là sự ngu ngốc của tộc người này. Bất chấp việc lãnh thổ của mình liên tục bị người Astoria gặm nhấm, cấu trúc xã hội bộ lạc lạc hậu đã khiến họ không thể đoàn kết lại với nhau, mà chỉ chăm chăm tìm cách hạ bệ các bộ tộc đối thủ.
+Mặc dù vậy, điều khiến ông ta tâm đắc nhất chính là sự chia rẽ của chủng tộc ấy. Bất chấp việc bờ cõi liên tục bị người Astoria gặm nhấm, cơ chế bộ lạc cổ hủ khiến họ không thể kết thành một khối thống nhất, mà chỉ mải miết đấu đá, tìm cách triệt hạ các bộ tộc kình địch.
 
-Dù những cuộc xung đột đẫm máu với người Diana do sự bành trướng nhanh chóng của vương quốc như thời kỳ đầu xây dựng Easthope giờ đã không còn, nhưng những cuộc đụng độ nhỏ ở phía đông nam vẫn diễn ra không ngừng. Những kẻ thuộc các bộ tộc yếu thế bị bắt giữ hoặc bị chính đồng tộc bán đi làm nô lệ.
+Dù những cuộc xung đột đẫm máu thời kỳ đầu khai hoang Easthope nay đã lùi vào dĩ vãng, nhưng các cuộc chạm trán cục bộ ở mạn đông nam vẫn âm ỉ diễn ra từng ngày. Những kẻ thuộc bộ tộc bại trận nếu không bị bắt sống thì cũng bị chính đồng bào đem bán làm nô dịch.
 
-Những nô lệ đó sẽ được các thương nhân như Pringlut thu gom, và các nhà tư bản như Winston sẽ mua lại. Đây chính là dòng chảy điển hình của thị trường nô lệ ở khu vực phía đông hiện nay.
+Những nô lệ ấy được lái buôn như Pringlut thu gom, rồi các chủ điền trang như Winston vung tiền thâu tóm. Đó chính là chuỗi mắt xích vận hành điển hình của thị trường nô lệ miền đông hiện thời.
 
-Astoria hiện tại vẫn chưa có ý định vượt qua dãy núi Elemental để tấn công vào lãnh thổ chính của Diana. Nhờ không có chiến tranh quy mô lớn, số lượng người Diana ở bên kia núi đang có xu hướng gia tăng, kéo theo đó là số lượng kẻ bại trận bị đào thải cũng tăng lên. Winston dự đoán rằng trong vòng mười năm tới, nguồn cung nô lệ người Diana sẽ không bao giờ thiếu hụt.
+Astoria trước mắt chưa có ý định vượt rặng Elemental để khai chiến toàn diện với lãnh địa chính của Diana. Nhờ không có chiến tranh quy mô lớn, dân số người Diana bên kia rặng núi ngày càng đông đúc, kéo theo lượng kẻ bại trận bị đào thải cũng tăng theo cấp số nhân. Winston dự liệu trong vòng mười năm tới, nguồn cung nô lệ Diana sẽ chẳng bao giờ cạn kiệt.
 
-Hôm nay, đồn điền New Hope lại đón nhận thêm một đợt nô lệ mới.
+Hôm nay, đồn điền New Hope lại tiếp nhận thêm một đợt nô dịch mới.
 
-“Tiếc cho tụi mày quá nhỉ, thành viên mới của nhóm tụi mày chỉ có mỗi đứa nhóc điên khùng này thôi.”
+“Tiếc cho tụi mày quá nhỉ, thành viên mới gia nhập nhóm tụi mày chỉ có độc mỗi thằng nhóc ngớ ngẩn này thôi.”
 
-Những nô lệ được mua về đã được phân bổ đến các khu vực khác nhau trong đồn điền và phải bắt đầu lao động khổ sai ngay trong ngày. Lần này đặc biệt có nhiều nam giới trẻ tuổi, khỏe mạnh nên đại đa số họ được phân công vào công việc khai hoang để mở rộng diện tích đất canh tác. Thế nhưng...
+Số nô lệ mới mua về được điều phối tới các phân khu trong đồn điền và lập tức bước vào guồng quay lao dịch khổ sai ngay trong ngày. Đợt này quy tụ nhiều thanh niên trai tráng nên phần lớn bị đẩy đi phá đá khai hoang mở rộng diện tích canh tác. Thế nhưng...
 
 “Nnaaa~”
 
-Vừa đi lảo đảo vừa phát ra tiếng kêu như mèo là một đứa trẻ đơn thuần. Đối với người Diana, ngoại hình của nó trông giống như một đứa bé chưa đầy mười tuổi.
+Vừa xiêu vẹo cất bước vừa phát ra tiếng kêu nũng nịu tựa mèo con lại là một đứa trẻ đơn thuần. Trong mắt người Diana, vóc dáng của nó trông chẳng khác nào đứa bé chưa đầy mười tuổi.
 
-Nhóm đang tập hợp ở đây là nhóm nhỏ tuổi nhất, bao gồm cả trẻ em trong số các nô lệ người Diana tại đồn điền.
+Nhóm tập trung nơi đây là phân đội nhỏ tuổi nhất, tập hợp toàn thiếu niên và trẻ con trong số nô lệ Diana tại đồn điền.
 
-Việc đưa một đứa trẻ nô lệ mới vào nhóm này là điều hiển nhiên, nhưng đây là lần đầu tiên một đứa trẻ có biểu hiện bất thường như vậy xuất hiện, dù cho nó có nhỏ tuổi đến thế nào đi nữa.
+Xếp một đứa trẻ mới đến vào nhóm này là điều đương nhiên, song đây là lần đầu tiên một đứa nhóc với cử chỉ kỳ dị đến thế xuất hiện, bất kể tuổi tác non nớt ra sao.
 
-Đứa trẻ toát ra bầu không khí như thể chính nó cũng không biết mình là ai, khiến những nô lệ xung quanh nhìn nó bằng ánh mắt đầy kỳ dị.
+Đứa bé toát ra vẻ ngơ ngác như thể chính nó cũng chẳng biết mình là ai, khiến đám nô lệ xung quanh nhìn trân trân bằng ánh mắt đầy ngờ vực.
 
-“Này Riza, trông nom nó đi.”
+“Này Riza, để mắt tới nó đi.”
 
 “Vâng, thưa giám thị.”
 
-Người quản lý nhóm này là một cô gái lớn tuổi hơn tên là Riza.
+Người quản lý phân đội này là một cô gái lớn tuổi hơn tên là Riza.
 
-Ngay cả giữa đám nô lệ thiếu niên gầy gò ốm yếu, cô vẫn nổi bật với chiều cao và vóc dáng vượt trội. Đó không phải là nhờ cô được ưu ái về chế độ ăn uống.
+Dẫu đứng giữa đám nô lệ thiếu niên còi cọc ốm yếu, cô vẫn nổi bật với chiều cao và vóc dáng săn chắc vượt trội. Sự vượt trội ấy tuyệt nhiên không đến từ chế độ biệt đãi ăn uống.
 
-Cô vốn xuất thân từ giai cấp chiến sĩ của Diana, sở hữu võ kỹ điêu luyện và đã được giáo dục, rèn luyện từ nhỏ. Có thể nói cô là một kẻ thuộc tầng lớp tinh anh trong số người Diana.
+Cô vốn xuất thân từ tầng lớp chiến sĩ của Diana, sở hữu thân thủ điêu luyện và được rèn giũa bài bản từ thuở ấu thơ. Có thể nói, cô từng là thành phần tinh anh cốt cán trong tộc Diana.
 
-Tuy nhiên, đối với tên giám thị quản lý lao động, gã chỉ cần biết Riza có thể chất và đầu óc vượt trội, có thể dẫn dắt các nô lệ khác làm việc hiệu quả là đủ. Việc cô từng là chiến sĩ thế nào hay tại sao lại bị sa cơ lỡ vận thành nô lệ, gã hoàn toàn không quan tâm.
+Song đối với tên giám thị nông trường, gã chỉ cần biết Riza có thể lực dẻo dai cùng cái đầu sắc sảo đủ sức thúc ép đám nô lệ làm việc năng suất là đủ. Việc cô từng là chiến sĩ oai hùng ra sao hay vì cớ gì sa cơ lỡ vận thành nô lệ, gã chẳng buồn bận tâm.
 
-Chẳng ai lại đi bận tâm xem con ngựa hay con lừa mình mua về từng sống ở vùng đất nào cả.
+Chẳng ai rỗi hơi đi tìm hiểu xem con lừa, con ngựa mình tậu về từng tung vó ở thảo nguyên nào.
 
-“Này này, giám thị ơi, chuyện thằng nhóc này bị nguyền rủa là thật hả?”
+“Này này giám thị, cái vụ thằng nhóc này dính lời nguyền là thật đấy à?”
 
-“Phiền phức thật, lúc nào mày cũng nghe ngóng mấy cái tin đồn nhảm nhí đó ở đâu ra vậy.”
+“Rách việc, lúc nào mày cũng hóng hớt mấy cái tin vịt nhảm nhí ấy ở đâu thế hả?”
 
-Người vừa bắt chuyện với tên giám thị là một gã cấp dưới người Astoria. Gã không phải nô lệ, mà là nhân viên được thuê để quản lý nô lệ. Nói cách khác, gã thuộc phe cầm roi.
+Kẻ vừa bắt chuyện với tên giám thị là một gã thuộc hạ người Astoria. Gã không phải nô lệ, mà là lính cai được thuê để quản thúc đám nô dịch. Nói trắng ra, gã thuộc phe nắm roi.
 
-“Chủ tịch dặn rồi, cứ vứt nó cho đám nô lệ tự lo, chúng ta đừng có can thiệp vào.”
+“Chủ tịch dặn rồi, cứ ném nó cho lũ nô lệ tự chăm sóc, chúng ta cấm có nhúng tay vào.”
 
-“Hể, không được can thiệp á? Có phải vì sợ bị nguyền rủa thật không?”
+“Hể, cấm nhúng tay á? Không lẽ vì sợ bị nguyền rủa thật sao?”
 
-“Tao biết thế quái nào được. Chắc là do thân thế của thằng nhóc này có vấn đề gì đó thôi.”
+“Tao biết thế quái nào được. Chắc thân thế thằng nhóc này có uẩn khúc gì đó thôi.”
 
-“Vậy thì chỉ cần không tọc mạch vào chuyện đó là được chứ gì.”
+“Thế thì cứ mặc xác không tọc mạch là xong chứ gì.”
 
-Một khi đã bị đày xuống làm nô lệ và trôi dạt đến tận trang trại này, thì có tọc mạch hay không cũng chẳng còn ý nghĩa gì nữa. Chưa kể bản thân đứa trẻ còn không thể nói năng tử tế, đầu óc thì điên khùng. Ngay cả việc tra hỏi sự tình cũng là bất khả thi.
+Một khi đã bị lưu đày làm nô lệ trôi dạt tới tận xó rừng này, tọc mạch hay không cũng chẳng còn nghĩa lý gì. Huống hồ đứa trẻ ngay cả nói năng cũng không trọn vành rõ chữ, thần trí thì ngơ ngơ ngác ngác. Có muốn tra hỏi sự tình cũng là chuyện hoang đường.
 
-“Này, đừng có làm trò gì thừa thãi đấy.”
+“Này, liệu hồn đừng có làm trò thừa thãi đấy.”
 
-“Gì vậy giám thị, không lẽ anh cũng là kiểu người sợ ba cái lời nguyền nhảm nhí đó sao?”
+“Sao thế giám thị, chẳng lẽ anh cũng sợ ba cái lời nguyền ma quỷ vớ vẩn ấy à?”
 
-Tên giám thị chỉ gõ nhẹ vào đầu gã cấp dưới đang cợt nhả một cái “Im đi”, chứ không hề có ý định ngăn cản gã một cách nghiêm túc.
+Tên giám thị chỉ cốc nhẹ vào đầu gã thuộc hạ đang cợt nhả một cái kèm tiếng mắng “Im mồm”, chứ chẳng hề có ý định can ngăn quyết liệt.
 
-Hoặc có lẽ, chính tên giám thị cũng muốn xem thử gã cấp dưới kiếm chuyện thì sẽ xảy ra chuyện gì.
+Hay đúng hơn, chính tên giám thị cũng tò mò muốn xem nếu gã thuộc hạ kiếm chuyện thì sẽ xảy ra trò trống gì.
 
-“Tôi thì chẳng sợ mấy cái thứ đó đâu. Mà nhìn cái thằng nhóc sạch sẽ này ngứa mắt thật đấy.”
+“Tôi thì chẳng ngán mấy thứ mê tín đó đâu. Cơ mà nhìn cái bản mặt sạch sẽ trắng trẻo của thằng ranh này thấy ngứa mắt thật đấy.”
 
-“Đố kỵ của kẻ nghèo hèn à?”
+“Thói ghen ăn tức ở của ngữ bần hàn à?”
 
-Tên giám thị không phải là không hiểu cảm giác đó. Dù cổ đeo vòng xích, người mặc bộ đồ bao tải cũ kỹ, nhưng làn da trắng ngần không một tì vết của đứa trẻ vẫn tỏa sáng như một minh chứng cho dòng dõi cao quý.
+Tên giám thị không phải không thấu cảm giác đó. Dù cổ đeo xích sắt, thân khoác manh áo bao tải xơ xác, nhưng làn da trắng nõn không tì vết của đứa trẻ vẫn nổi bật như minh chứng rành rành cho dòng dõi quyền quý.
 
-Con nhà vương tôn quý tộc hay đại phú hào, dù thế nào đi nữa, chỉ cần nhìn vẻ ngoài là có thể nhận ra ngay đứa trẻ này từ nhỏ chưa từng phải chịu một chút khổ cực nào.
+Huyết thống vương công quý tộc hay con nhà cự phú, dù là gì đi nữa, chỉ cần liếc qua là biết đứa nhỏ từ bé tới giờ chưa từng phải nếm nửa giọt đắng cay khổ cực.
 
-Đứa trẻ vốn được bảo vệ nghiêm ngặt khỏi mọi ác ý trên đời này, giờ đây sắp phải nhận bài học vỡ lòng khi bị đẩy xuống tầng lớp đáy cùng của vương quốc.
+Một đứa trẻ vốn được bọc trong nhung lụa che chắn khỏi mọi hiểm ác trần gian, giờ đây sắp sửa đón nhận bài học vỡ lòng tàn khốc khi bị dìm xuống tầng đáy xã hội của vương quốc.
 
-Đứng sau lưng đứa trẻ đang ngơ ngác nhìn Riza, gã đàn ông nở nụ cười ác ý, đôi mắt lóe lên sự tàn bạo.
+Đứng sau lưng đứa bé đang ngơ ngác ngước nhìn Riza, gã đàn ông nhếch mép cười ác độc, đáy mắt lóe lên tia sáng hung hãn.
 
-“Này, thử nguyền rủa tao xem nào thằng ranh, hự!”
+“Này, thử nguyền rủa tao xem nào thằng ranh con, hự!”
 
-Gã tung ra một cú đá nhẹ bằng chân trước.
+Gã vung chân tung ra một cú đá thẳng.
 
-Đế chiếc ủng da bám đầy bùn đất nện thẳng vào tấm lưng trần không chút phòng bị của đứa trẻ.
+Mũi ủng da bám đầy bùn đất nện thẳng vào tấm lưng trần không chút phòng bị của đứa nhỏ.
 
-Bị đá bay với một lực khá mạnh, đứa trẻ ngã nhào về phía trước, thế nhưng...
+Lãnh trọn cú đạp khá mạnh, đứa trẻ ngã dúi dụi về phía trước, thế nhưng—
 
-“ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ!?”
+“ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ?!”
 
-Một tiếng hét thất thanh vang dội.
+Một tiếng hét xé ruột xé gan vang dội khắp khoảng sân.
 
-Ngay khi đứa trẻ chống hai tay xuống đất để bảo vệ khuôn mặt và ngã xuống, gã đàn ông vừa đá nó bỗng rú lên như bị lửa thiêu, cơ thể uốn cong như tôm luộc rồi ngã gục ngay tại chỗ.
+Ngay khi đứa trẻ chống hai tay xuống đất giữ thăng bằng ngã nhoài, gã đàn ông vừa tung chân đá bỗng rú lên như bị hỏa thiêu. Cả người gã cong gập lại như con tôm luộc rồi ngã vật xuống đất co giật điên cuồng.
 
-“Cái...!?”
+“Cái... gì thế này?!”
 
-“N-Này, bị làm sao thế kia!?”
+“N-Này, bị làm sao thế kia?!”
 
-Hoàn toàn không phải là trò đùa. Nhìn gã đàn ông trợn ngược mắt, sùi bọt mép và co giật dữ dội, cả tên giám thị lẫn đám nô lệ xung quanh đều nhận ra tình hình vô cùng bất thường.
+Tuyệt đối không phải trò đùa cợt. Nhìn gã cai lệ trợn trừng mắt, bọt mép sùi ra trắng xóa, toàn thân run rẩy giật nảy từng cơn, cả tên giám thị lẫn đám nô lệ xung quanh đều lạnh toát sống lưng nhận ra sự tình bất thường tột độ.
 
-“Đ-Đau quá... Đau chết mất, l-lưng của tôi...”
+“Đ-Đau quá... Đau chết mất... L-Lưng của tôi...!”
 
-Gã đàn ông quằn quại trên mặt đất, liên tục phát ra những tiếng rên rỉ đau đớn tột cùng khiến không một ai dám cử động.
+Gã đàn ông quằn quại trên nền đất, liên tục thét gào rên xiết trong đau đớn tột cùng khiến không một ai dám cựa quậy nửa bước chân.
 
-Thế nhưng, như thể chỉ vừa mới vấp ngã nhẹ, đứa trẻ kia thản nhiên đứng phắt dậy và quay người lại.
+Thế nhưng, tựa hồ chỉ vừa vấp phải hòn sỏi nhỏ, đứa bé kia thản nhiên phủi tay đứng phắt dậy rồi quay người lại.
 
-Bàn tay nhỏ nhắn, hai đầu gối và phần bụng áo bao tải chỉ dính chút bùn đất, trông nó chẳng khác nào một đứa trẻ vừa đi chơi đùa ở ngoài về.
+Bàn tay nhỏ nhắn, hai đầu gối cùng vạt áo bao tải chỉ lấm chút bùn đất, trông nó chẳng khác nào một đứa trẻ vừa mải mê chơi đùa ngoài sân cát.
 
-Đứa trẻ dùng đôi mắt đen vô hồn nhìn xuống gã đàn ông đang quằn quại trong đau đớn, chỉ tay vào gã và...
+Đôi mắt đen láy vô hồn cúi xuống nhìn gã đàn ông đang oằn mình trong cơn thống khổ tột cùng, đứa nhỏ giơ ngón tay trỏ hướng về gã rồi...
 
-“Pugyaaa~”
+“Phư giaaa~”
 
 Nó cất tiếng cười khanh khách đầy thích thú.

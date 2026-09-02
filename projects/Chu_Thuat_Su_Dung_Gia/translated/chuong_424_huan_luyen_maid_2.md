@@ -1,301 +1,301 @@
-# Tập 422: Huấn luyện Maid (2)
+# Tập 424: Huấn luyện Maid (2)
 
-Con người là sinh vật dễ thích nghi. Hầu hết mọi việc chỉ cần duy trì trong vòng một tuần là sẽ quen ngay.
+Con người vốn là sinh vật có khả năng thích nghi đáng kinh ngạc. Hầu hết mọi chuyện, chỉ cần kiên trì lặp đi lặp lại chừng một tuần là sẽ đâu vào đấy ngay.
 
-“Mừng cậu đã về nhà, thưa chủ nhân.”
+“Mừng người đã về nhà, thưa chủ nhân.”
 
-“Ừm, trông ra dáng lắm rồi đấy, cậu Momokawa.”
+“Ừm, trông ra dáng lắm rồi đấy, Momokawa-kun.”
 
-Lớp trưởng nở nụ cười hài lòng, lên tiếng bảo chứng cho lời chào của tôi.
+Lớp trưởng nở nụ cười hài lòng, lên tiếng bảo chứng cho câu chào đón của tôi.
 
-Việc giả gái gây náo loạn cũng chỉ là lúc đầu. Làm việc này mỗi ngày thì đến tôi cũng phải quen thôi. Hơn nữa đây chỉ là phục vụ khách hàng cơ bản, cũng chẳng có gì to tát.
+Cái trò giả gái gây náo loạn cả lớp âu cũng chỉ rộn ràng được mấy ngày đầu. Ngày nào cũng bị bắt tròng bộ váy này vào người thì đến tôi cũng phải chai sạn thôi. Huống chi đây chỉ là mấy thao tác tiếp khách căn bản nhất, nào có gì to tát đâu.
 
 “Mừng cậu đã về... nhà, thưa chủ nhân—”
 
-“Quả nhiên là Yuuto vẫn còn hơi ngượng ngùng nhỉ.”
+“Quả nhiên Souma-kun vẫn còn gượng gạo quá nhỉ.”
 
-Mặt khác, có vẻ như vẫn chưa vứt bỏ được sự xấu hổ nên cử động của cậu Souma trông cứ là lạ.
+Ở góc bên kia, xem chừng vẫn chưa vứt bỏ được sự ngượng ngùng của đấng nam nhi nên cử động của Souma-kun trông cứ cứng đờ như rô-bốt.
 
-Hôm qua, vì bị bắt mặc chiếc váy ngắn hơn bình thường nên cậu ta cứ đứng ngồi không yên. Đã thế còn bị bộ ba Jou-Chuu-Ge trêu chọc, vừa hú hét “Ghê chưa!” vừa nhăm nhe tốc váy, khiến tình hình càng thêm hỗn loạn.
+Hôm qua, phải mặc chiếc váy ngắn hơn thường lệ khiến cậu ta cứ đứng ngồi không yên. Đã thế còn bị bộ ba Jou-Chuu-Ge vây quanh trêu chọc, vừa hú hét “Ghê chưa ghê chưa!” vừa nhăm nhe tốc váy, làm cả lớp nháo nhào một phen.
 
-Thật là, cậu Souma cứ bận tâm đến độ dài của váy làm gì không biết. Chỉ cần mặc quần bảo hộ bên trong đàng hoàng thì có gì phải xấu hổ đâu.
+Thiệt tình, Souma-kun cứ bận lòng chuyện vạt váy dài ngắn làm quái gì không biết. Chỉ cần bên trong mặc quần bảo hộ đàng hoàng thì có trời sập cũng chẳng sợ lộ hàng cơ mà.
 
-Nhìn tôi đây này, giờ đã mặc váy ngắn ngang cỡ bạn Randou như một lẽ hiển nhiên rồi. Cứ coi nó như một món phụ kiện xòe nhẹ quanh hông là được mà.
+Nhìn tôi đây này, giờ đã mặc váy ngắn cũn cỡn ngang tầm của Randou-san như một lẽ dĩ nhiên rồi đấy thôi. Cứ coi nó như một thứ phụ kiện xòe nhẹ quanh hông cho mát mẻ là xong chuyện.
 
-“Mo... Momokawa, chân! Cậu phải khép chân lại chứ!”
+“Mo... Momokawa-kun, chân! Cậu phải khép hai chân lại chứ!”
 
-“Hửm? À, xin lỗi cậu nhé, Yama-Jun.”
+“Hửm? À, xin lỗi nhé, Yama-Jun.”
 
-Chết thật, vì đã quá quen nên tôi cứ thế ngồi dạng chân rộng ngoác trên ghế. Dù sao cũng đang đóng vai hầu gái, tôi phải thùy mị che chắn váy lại chứ.
+Chết thật, vì đã quá quen mui nên tôi cứ thế ngồi dạng háng rộng hoác trên ghế. Dù sao mình cũng đang khoác lên mình bộ cánh hầu gái, chí ít cũng phải tỏ ra thùy mị mà khép nép che chắn tà váy lại chứ.
 
-Nhưng mà, dù biết rõ tôi là con trai, việc chiếc váy ngắn xòe ra vẫn khiến người ta vô thức muốn ngó vào, đó là bản năng chăng? Tôi cảm nhận được vài ánh mắt lén lút hướng về phía mình.
+Cơ mà, dù lý trí ai nấy đều biết rõ mười mươi tôi là giống đực, nhưng hễ thấy chiếc váy ngắn bồng bềnh xòe ra là người ta lại vô thức muốn dòm vào bên trong, âu cũng là bản năng nguyên thủy chăng? Tôi cảm nhận rõ mồn một vài ánh mắt lấm la lấm lét đang liếc trộm về phía mình.
 
-Tất nhiên tôi sẽ không trách móc họ. Bởi vì nếu là tôi thì cũng vậy thôi. Nếu bạn Randou mà ngồi kiểu đó, tôi chắc chắn sẽ nhìn chằm chằm bất chấp nguy cơ bị phát hiện.
+Dĩ nhiên tôi chẳng buồn trách móc họ làm gì. Đặt vào vị trí của tôi thì cũng vậy thôi. Nếu người ngồi kiểu đó là Randou-san, dẫu có liều mạng bị ăn tát tôi cũng quyết dán chặt mắt vào cho bằng được.
 
-Sau khi khép chân lại và ngồi ngay ngắn theo lời nhắc nhở của Yama-Jun, cũng đã đến lúc bắt đầu công việc.
+Sau khi khép đùi ngồi ngay ngắn lại theo lời nhắc nhở của Yama-Jun, giờ thực hành lại tiếp tục.
 
-“Tôi xin phép dọn đĩa trống ạ.”
+“Em xin phép được thu dọn đĩa trống ạ.”
 
-Tôi nhanh nhẹn thu dọn những chiếc tách đã uống cạn và đĩa nhỏ vào khay.
+Tôi thoăn thoắt dọn tách trà đã cạn cùng chiếc đĩa lót xếp gọn lên khay.
 
-Dù gọi là quán cà phê, nhưng đây suy cho cùng vẫn là gian hàng mô phỏng của lễ hội trường. Khách cứ ngồi buôn chuyện mãi thì rất phiền phức. Vì vậy, việc dọn đĩa là một ám hiệu ngầm mang thông điệp: “Dọn xong rồi thì đi giùm cái”.
+Dù gắn mác quán cà phê hầu gái, song chung quy đây vẫn chỉ là gian hàng mô phỏng cho lễ hội trường. Khách mà cứ ngồi ỳ ra buôn dưa lê mãi thì nghẽn chỗ chết mất. Vì lẽ đó, hành động thu dọn bàn ăn chính là một tín hiệu ngầm phát đi thông điệp: “Xong bữa rồi thì mời quý khách biến giùm cho”.
 
-Cơ mà dọn ngay khi khách vừa ăn xong thì hơi bất lịch sự, nên lịch sự nhất là đợi một chút rồi mới lên tiếng. Những chi tiết nhỏ nhặt này sẽ ảnh hưởng trực tiếp đến điểm bình chọn của lễ hội trường.
+Cơ mà khách vừa buông nĩa mà lao vào dọn ngay thì khiếm nhã quá, lịch sự nhất là phải nán lại chốc lát rồi mới nhã nhặn mở lời. Mấy chi tiết vụn vặt này lại ảnh hưởng mang tính sống còn tới phiếu bình chọn gian hàng xuất sắc của lễ hội trường đấy.
 
-Chính vì thế, tôi đã canh thời gian thích hợp để bước tới.
+Chính vì thế, tôi luôn canh chuẩn xác từng tích tắc trước khi nhẹ nhàng bước tới.
 
-“Này, hình như Momokawa quen việc thật rồi đấy.”
+“Này, trông Momokawa-kun thạo việc ra phết rồi đấy.”
 
-“Chỉ là công việc đơn giản trong bộ dạng giả gái thôi mà.”
+“Chỉ là công việc bưng bê vặt vãnh trong lốt gái thôi mà.”
 
-Vị khách hôm nay là cậu Hirano. Số thứ tự 18, ngay trước số của tôi nên hai đứa cũng có chút duyên nợ.
+Vị khách ngồi bàn hôm nay là Hirano-kun. Cậu ta mang số thứ tự 18, ngay sát số của tôi nên giữa hai đứa cũng có chút duyên nợ bạn bè.
 
-Cậu ta vừa chống cằm vừa nói với vẻ thực sự khâm phục.
+Hirano-kun một tay chống cằm, buông lời khen ngợi bằng vẻ mặt thực sự bái phục.
 
-“Cậu mặc bộ đồ đó mà vẫn tự nhiên được thì đỉnh thật. Đứng lẫn vào đám con gái cũng chẳng thấy lạc quẻ tí nào.”
+“Cậu mặc bộ cánh này mà vẫn tự nhiên như không thế kia thì đỉnh thật đấy. Đứng lọt thỏm giữa đám con gái khéo chẳng ai nhận ra sự lạc quẻ đâu.”
 
-“Xin cảm ơn quý khách.”
+“Đa tạ quý khách đã quá khen ạ.”
 
-Việc có thể lập tức nở một nụ cười công nghiệp khiến chính tôi cũng thấy mình đã thuần thục rồi.
+Việc có thể lập tức trưng ra nụ cười công nghiệp không chút gợn sóng khiến ngay cả bản thân tôi cũng thấy mình đã đạt tới cảnh giới thuần thục.
 
-“Ồ, đúng là phong thái của Maid Trưởng có khác.”
+“Ồ ồ, phong thái của 『Maid Trưởng』 có khác nha.”
 
-Cười trước phản ứng của tôi, cậu Hirano đứng dậy rời khỏi chỗ để hoàn thành vai trò làm khách thử nghiệm.
+Bật cười trước phản xạ chuyên nghiệp của tôi, Hirano-kun đứng dậy rời bàn, hoàn thành xuất sắc vai trò vị khách thử nghiệm.
 
-“Chúc chủ nhân lên đường bình an.”
+“Kính chúc chủ nhân một ngày bình an và may mắn.”
 
 Và tiễn khách.
 
-Quy trình này tôi đã quen thuộc đến mức có thể lặp lại hai, ba lượt trong suốt giờ nghỉ trưa.
+Quy trình chuẩn chỉ này tôi đã diễn đi diễn lại trơn tru đến hai, ba lượt trong suốt giờ nghỉ trưa.
 
-“Á, này! Đừng có tự tiện lấy bánh quy chứ!”
+“Á này! Đừng có thò tay bốc trộm bánh quy chứ!”
 
-“Vướng víu quá, tránh ra coi!”
+“Vướng cẳng quá, né ra coi!”
 
 “Ha ha ha ha!”
 
-Trong khi đó, mấy cậu nam sinh làm maid khác mỗi lần luyện tập tiếp khách lại bày trò nghịch ngợm ồn ào. Dù tiến độ chẳng mấy khả quan nhưng thôi kệ đi. Ít nhất vào lúc này, chỉ cần họ làm quen với việc mặc đồ giả gái là được rồi.
+Trái lại, mấy cậu nam sinh khác được phân công làm maid mỗi lần tập dượt tiếp khách lại bày đủ trò hề nhăng cuội náo loạn cả lên. Dù tiến độ tập luyện của họ chẳng mấy khả quan nhưng thôi kệ đi. Ít nhất vào lúc này, đám con trai chịu làm quen với việc tròng váy vào người đã là một kỳ tích rồi.
 
-Bỏ lại đám maid tép riu đó sau lưng, tôi chuẩn bị đón vị khách tiếp theo.
+Gạt phăng đám maid tép riu ồn ào ấy lại sau lưng, tôi chuẩn bị đón lượt khách tiếp theo.
 
-“Mừng cậu đã về nhà, thưa chủ nhân.”
+“Mừng người đã về nhà, thưa chủ nhân.”
 
-“Chào cưng. Đây là quán cà phê hầu gái trong truyền thuyết đấy à? Chà, trông cậu cũng dễ thương phết nhỉ~”
+“Chào em gái cưng. Đây là quán cà phê hầu gái trứ danh đấy à? Chà chà, trông em cũng mướt mát dễ thương phết nhỉ~”
 
-*Chậc, là Higuchi.*
+*Chậc, lại là Higuchi.*
 
-Higuchi tuôn ra một câu thoại đậm chất côn đồ với nụ cười nham nhở, có vẻ cậu ta rất hiểu rõ hình tượng của bản thân.
+Higuchi tuôn ra một câu thoại sặc mùi du côn bằng cái điệu cười nham nhở đểu cáng. Quả nhiên cậu ta rất có ý thức giữ vững hình tượng bất hảo của bản thân.
 
-Vừa khen dễ thương một cách giả tạo, cậu ta vừa thản nhiên đưa tay lên xoa đầu tôi.
+Miệng buông lời khen dễ thương giả tạo, tay cậu ta đã thản nhiên vươn tới xoa đầu tôi như nựng thú cưng.
 
-“Cửa hàng chúng tôi nghiêm cấm đụng chạm vào hiện vật ạ.”
+“Nội quy quán nghiêm cấm quý khách sờ mó vào hiện vật ạ.”
 
-“Thôi nào, một chút thì có sao đâu.”
+“Gớm, sờ tí thì mòn mất miếng thịt nào của em đâu.”
 
-Cười cợt xoa đầu tôi xong, Higuchi lập tức rụt tay lại.
+Cười cợt vò đầu tôi xong, Higuchi lập tức thu tay về.
 
-Việc biết rút tay về trước khi nhận lời cảnh cáo tiếp theo chứng tỏ tên này cực kỳ sành sỏi mấy trò này.
+Biết điểm dừng để rút tay lại ngay trước khi ăn trọn một lời cảnh cáo gay gắt hơn, chứng tỏ tên đầu gấu này cực kỳ sành sỏi mấy ngón nghề quấy rối.
 
-“Tôi xin phép dẫn đường tới bàn ạ.”
+“Em xin phép được dẫn đường tới bàn ạ.”
 
-Ngay khoảnh khắc tôi quay lưng lại để dẫn đường—
+Đúng khoảnh khắc tôi vừa xoay lưng lại để dẫn khách—
 
 *Xoạt!*
 
-Chiếc váy tung lên. Dù lập tức hiểu ra mình vừa bị tốc váy, nhưng việc không kịp đưa tay xuống giữ váy lại khiến tôi nhận ra bản thân vẫn là một thằng đàn ông đích thực.
+Tà váy bất ngờ bị hất tung lên. Dù não bộ lập tức phát tín hiệu cảnh báo mình vừa bị tốc váy, nhưng việc hai tay đờ đẫn không kịp phản xạ đưa xuống chụp giữ tà váy lại càng chứng minh bản thân tôi vẫn là một thằng đàn ông đích thực.
 
-Con gái mà giữ váy khi bị tốc thì đó hoàn toàn là phản xạ tự nhiên rồi.
+Gặp trường hợp bị tốc váy mà lập tức khép nép giữ váy thì chỉ có phản xạ tự nhiên ăn sâu vào máu của phái nữ mà thôi.
 
 “Higuchi...”
 
-Dù có đùa giỡn thì thế này cũng quá đà rồi đấy. Tôi lập tức xả vai hầu gái và lườm cậu ta cháy mặt, nhưng—
+Dù có là đùa cợt thì trò này cũng đi quá giới hạn rồi đấy. Tôi lập tức xả vai hầu gái, quay ngoắt lại lườm cậu ta cháy mặt. Thế nhưng—
 
-“Hề hề, cẩn thận đấy, Momokawa. Lũ khỉ trường Kuroko thường động thủ trước khi động não đấy.”
+“Hê hê, cẩn thận củi lửa đấy nhé, Momokawa. Lũ khỉ đột bên trường Kuroko toàn có thói quen động thủ trước khi động não thôi.”
 
-Vừa cười cợt không chút hối lỗi, Higuchi vừa vỗ nhẹ vào vai tôi.
+Vừa cười nhăn nhở không chút hối lỗi, Higuchi vừa vỗ bộp bộp lên vai tôi.
 
-“Với những kẻ như thế, đừng bao giờ đứng trong tầm tay của chúng.”
+“Với những loại người như thế, chớ bao giờ đứng trong tầm tay với của chúng.”
 
-“...Cảm ơn lời khuyên của cậu.”
+“...Cảm ơn lời khuyên bổ ích của cậu.”
 
-Dù nói bằng giọng cợt nhả, nhưng tôi phải thừa nhận lời cậu ta có lý.
+Dẫu giọng điệu cậu ta nghe ngứa tai vô cùng, song tôi buộc phải thừa nhận lời nhắc nhở đó hoàn toàn chí lý.
 
-Đúng là đứng trong tầm với của một kẻ sẵn sàng động tay động chân bất cứ lúc nào là cực kỳ nguy hiểm.
+Quả thật, đứng lơ là trong tầm với của một kẻ sẵn sàng manh động tay chân bất cứ lúc nào là hành vi cực kỳ khinh suất.
 
-Đặc biệt là khi gian hàng này mang danh nghĩa quán cà phê hầu gái giả gái. Với những kẻ nông cạn và bốc đồng nghĩ rằng tốc váy con trai thì chẳng sao, khi nhìn thấy chiếc váy ngắn cũn cỡn đập vào mắt, chúng chắc chắn sẽ làm trò này.
+Đặc biệt là khi gian hàng này lại trương biển quán cà phê hầu gái giả gái. Đối với những bộ óc bốc đồng nông cạn cho rằng tốc váy một thằng con trai thì chẳng việc gì phải ngại, đập vào mắt chúng là chiếc váy ngắn cũn cỡn lắc lư, chắc chắn chúng sẽ ngứa tay giở trò ngay.
 
-Ra vậy, lỗi là ở tôi khi đã biết đối phương là kẻ nguy hiểm mà vẫn đứng quá gần.
+Hóa ra sơ suất là ở tôi, biết tỏng đối phương là thành phần nguy hiểm mà vẫn chủ quan đứng quá gần.
 
-Thôi được rồi. Nể tình cậu ta từng tặng bao cao su, lần này tôi sẽ bỏ qua.
+Thôi được rồi. Nể tình đợt trước cậu ta từng hảo tâm tặng tôi chiếc bao cao su, món nợ tốc váy lần này tôi tạm tha.
 
-“Cho tao một ly cà phê.”
+“Cho tao một tách cà phê.”
 
-“Xin tuân lệnh.”
+“Tuân lệnh.”
 
-Nhận order từ Higuchi vừa ngồi phịch xuống ghế, tôi đi về phía bếp của đầu bếp Futaba để lấy set cà phê như thường lệ.
+Nhận order từ Higuchi vừa đặt mông ngồi phịch xuống ghế, tôi quay bước đi về phía khu vực bếp của bếp trưởng Futaba-san để lấy set cà phê như thường lệ.
 
-“Cậu Momokawa, cậu không sao chứ...?”
+“Momokawa-kun, cậu... cậu không sao chứ?”
 
-“Tớ không sao đâu. Giữa thanh thiên bạch nhật trong lớp học thế này, cậu ta chẳng dám làm gì quá đáng đâu.”
+“Tớ ổn mà. Giữa thanh thiên bạch nhật ngay trong lớp học thế này, cậu ta chẳng dám làm càn đâu.”
 
-Nhận chiếc khay từ bạn Futaba đang lo lắng, tôi mỉm cười trấn an cô ấy.
+Đón lấy chiếc khay từ tay Futaba-san đang bồn chồn lo lắng, tôi mỉm cười điềm tĩnh trấn an cô ấy.
 
-“Xin lỗi vì đã để quý khách phải đợi, đây là set cà phê của quý khách ạ.”
+“Thành thật xin lỗi vì để quý khách phải chờ lâu, set cà phê của quý khách đây ạ.”
 
-Việc bưng bê giờ đã thành phản xạ tự nhiên. Tôi định đặt xuống rồi nhanh chóng rút lui, nhưng—
+Kỹ năng bưng bê khay chén giờ đây đã nhuần nhuyễn thành phản xạ không điều kiện. Tôi toan đặt tách xuống rồi nhanh chân rút lui, nào ngờ—
 
-“Khoan đã.”
+“Khoan đã nào.”
 
-*Chậc, lại gì nữa đây.* Tôi nén tiếng thở dài chán nản, quay lại với nụ cười công nghiệp rạng rỡ nhất có thể.
+*Chậc, lại giở trò gì nữa đây.* Tôi nuốt ngược tiếng thở dài ngao ngán vào trong, quay người lại với nụ cười công nghiệp rạng ngời nhất có thể.
 
-“Vâng, có chuyện gì vậy ạ, thưa chủ nhân?”
+“Dạ, chủ nhân có điều chi phật ý ạ?”
 
-Nhìn nụ cười và câu trả lời của tôi, Higuchi cười đểu cáng rồi chỉ tay vào ly cà phê đang bốc khói nghi ngút.
+Chiêm ngưỡng nụ cười cùng thái độ nhũn nhặn của tôi, khóe môi Higuchi nhếch lên một nụ cười đểu giả, đoạn đưa ngón tay chỉ thẳng vào tách cà phê đang tỏa khói nghi ngút.
 
-Trong lúc tôi đang nhìn ly cà phê và thấy chẳng có gì bất thường, Higuchi thong thả đưa tay lên đầu mình.
+Giữa lúc tôi còn đang căng mắt nhìn vào tách cà phê mà chẳng thấy có gì bất thường, Higuchi thong thả đưa tay lên túm lấy chỏm tóc nhuộm vàng hoe của mình.
 
-Cậu ta nhổ một sợi tóc nhuộm vàng ra, rồi—
+Cậu ta thản nhiên bứt mạnh một sợi tóc vàng, rồi vứt tọt vào trong tách—
 
-“————Này thằng kia! Có tóc trong ly nước của tao này!!”
+“————Ê thằng phục vụ kia! Mắt mũi để đâu mà có sợi tóc thù lù trong tách của tao thế này hả?!”
 
-“Hả?! Cậu vừa tự bỏ vào còn gì?”
+“Hả?! Rõ ràng cậu vừa tự tay giật tóc ném vào còn gì?!”
 
-“Hả? Mày dám cãi à, khinh tao đấy phỏng?! Tính đền bù thế nào đây, dám mang cái thứ này ra cho tao uống hả!!”
+“Hả? Mày dám cãi tay đôi với khách à, khinh bố mày đấy phỏng?! Tính bồi thường thế nào đây, dám bưng cái thứ rác rưởi này ra cho khách uống hả?!”
 
-*Rầm!* Cậu ta gác chân lên bàn một cách thô bạo. Ly cà phê chao đảo, nước sóng sánh tràn ra ngoài một ít.
+*Rầm!* Cậu ta gác cả hai chân lên mặt bàn một cách thô bỉ. Tách cà phê chao đảo dữ dội, bọt nước đen ngòm sánh ra ngoài một vệt.
 
-“Này, Higuchi! Cậu quá đà rồi đấy!”
+“Này, Higuchi! Cậu làm trò gì quá trớn thế hả?!”
 
-Người lập tức lao vào can thiệp không ai khác chính là Lớp trưởng đáng kính của chúng tôi.
+Người lập tức sấn tới can thiệp với phong thái uy nghiêm không ai khác chính là Lớp trưởng kính mến của chúng tôi.
 
-Đối mặt với ánh mắt sắc lẹm của Lớp trưởng, vẻ mặt giận dữ của Higuchi lập tức biến mất. Cậu ta quay lại với nụ cười nham nhở lúc nãy rồi lên tiếng.
+Đối diện với ánh mắt sắc như dao cạo của Lớp trưởng, vẻ mặt hùng hổ hăm dọa của Higuchi lập tức bốc hơi không còn một dấu vết. Cậu ta thu chân về, nhăn nhở cười xòa.
 
-“Hì hì, xin lỗi, xin lỗi. Nhưng mà, chúng ta cũng nên lường trước những tình huống thế này chứ, Lớp trưởng?”
+“Hì hì, xin lỗi, xin lỗi nhé. Nhưng mà, chúng ta cũng phải diễn tập tình huống lường trước mấy vụ ăn vạ thế này chứ, Lớp trưởng?”
 
-“Dù vậy thì cũng phải có giới hạn chứ.”
+“Dù có diễn tập thì cũng phải có chừng mực thôi!”
 
-“Sợ đến thế cơ à? Tại tôi nhập vai hơi sâu thôi mà.”
+“Sợ co vòi đến thế cơ à? Tại tôi nhập vai hơi sâu tí thôi mà.”
 
-“Tớ chỉ sợ hãi trước việc cậu kiếm chuyện chuyên nghiệp quá thôi. Cậu từng làm thế thật rồi đúng không, Higuchi?”
+“Tớ chỉ thấy ớn lạnh trước ngón nghề ăn vạ chuyên nghiệp của cậu thôi đấy. Cậu từng đi quậy phá tống tiền quán người ta thật rồi đúng không, Higuchi?”
 
-“Ha ha ha, nói hay lắm, Momokawa.”
+“Ha ha ha, kháy đểu chuẩn lắm, Momokawa!”
 
-Nghe tôi mỉa mai, Higuchi chẳng những không giận mà còn cười khoái chí rồi cầm ly cà phê lên.
+Nghe tôi buông lời mỉa mai, Higuchi chẳng những không thèm tự ái mà còn cười khoái trá, đoạn vươn tay chộp lấy tách cà phê.
 
-Với dáng ngồi vô văn hóa khi vẫn gác chân lên bàn, cậu ta húp sùm sụp ly cà phê đen.
+Vẫn giữ nguyên cái tướng ngồi vô văn hóa gác chân rung đùi, cậu ta thản nhiên kề miệng húp sùm sụp từng ngụm cà phê đen đặc.
 
-Thật là, dù biết rõ sau lưng Lớp trưởng, cậu Souma và Kenzaki đang trừng mắt cảnh giác trong tư thế sẵn sàng chiến đấu, cậu ta vẫn giữ thái độ nghênh ngang không chút sợ hãi. Điểm này thì cậu ta gan lỳ hơn hẳn đám yankee nửa mùa như bộ ba Jou-Chuu-Ge.
+Thiệt tình, dù biết rõ ngay sau lưng Lớp trưởng, Souma-kun và Kenzaki đang trừng trừng đôi mắt hình viên đạn trong tư thế sẵn sàng lao vào tẩn nhau, gã này vẫn trơ tráo nghênh ngang không lộ chút nao núng. Về khoản lì lợm và bặm trợn thì cậu ta ăn đứt đám yankee nửa mùa tép riu như bộ ba Jou-Chuu-Ge.
 
-“Ồ, ngon thật đấy. Tiếc là bị đổ mất một ít.”
+“Ồ, vị ngon phết đấy chứ. Tiếc là rớt mất mấy giọt.”
 
-Uống cạn ly nước trong một hơi, Higuchi quay sang nhìn tôi và Lớp trưởng.
+Uống cạn sạch tách nước chỉ trong một hơi, Higuchi đặt cạch cái ly xuống, đảo mắt nhìn tôi và Lớp trưởng.
 
-“Thế, nếu gặp loại khách như vậy thì tụi mày tính xử lý thế nào?”
+“Thế, lỡ đâu ngày hội mà gặp phải loại khách chí phèo như vậy thật, tụi mày tính xoay xở thế nào?”
 
-“Tớ nghĩ lo lắng về loại khách ở mức độ này là hơi quá xa vời rồi.”
+“Tớ nghĩ cậu lo hão về loại khách ở mức độ đó là hơi thái quá rồi đấy.”
 
-“Không, không, Lớp trưởng ngây thơ quá.”
+“Không, không hề đâu nhé, Lớp trưởng ngây thơ quá rồi.”
 
-Dù lớn hay nhỏ, rắc rối luôn đi kèm với các sự kiện. Nhất là với một sự kiện quy mô lớn như lễ hội trường.
+Bất kể quy mô lớn hay nhỏ, rắc rối thị phi luôn là thứ phụ gia tất yếu bám theo các sự kiện đông người. Huống hồ đây lại là đại lễ hội trường náo nhiệt bậc nhất.
 
-Lễ hội trường năm ngoái tôi không gặp chuyện gì, nhưng cũng nghe loáng thoáng vài tin đồn kiểu như có xích mích chỗ này chỗ kia, hay đồ trang trí của gian hàng nào đó bị phá hoại.
+Lễ hội trường năm ngoái bản thân tôi may mắn không vướng phải chuyện gì, nhưng tai vẫn nghe loáng thoáng mấy tin đồn hành lang kiểu như góc này có ẩu đả xích mích, hay gian hàng đằng kia bị kẻ xấu đập phá đồ trang trí.
 
-Dù tôi chưa từng nghe vụ nào côn đồ đến kiếm chuyện rồi quậy phá tưng bừng ở quán cà phê cả.
+Dẫu rằng tôi chưa từng nghe vụ du côn nào dám ngang nhiên kéo đàn kéo lũ tới đập phá tưng bừng một quán cà phê cả.
 
-“Khách đến lễ hội trường đâu phải chỉ có học sinh Hakurei ngoan ngoãn.”
+“Khách khứa đổ về lễ hội trường đâu phải toàn học sinh Hakurei ngoan ngoãn mẫu mực.”
 
-“Đúng là có rất nhiều khách ngoài vào, nhưng...”
+“Đúng là có rất nhiều khách ngoài tràn vào, nhưng...”
 
-Lễ hội văn hóa của Học viện Hakurei kéo dài ba ngày, và vào ngày thứ hai sẽ mở cửa cho khách ngoài vào tự do.
+Lễ hội văn hóa của Học viện Hakurei kéo dài ròng rã suốt ba ngày, và bắt đầu từ ngày thứ hai sẽ chính thức mở cửa tự do đón khách vãng lai.
 
-Dù gọi là khách ngoài, nhưng về cơ bản đó là chế độ mời người thân, bạn bè của học sinh. Tuy nhiên lượng người đổ về vẫn rất đông, và khâu kiểm soát lỏng lẻo đến mức không có thư mời vẫn có thể lách vào được.
+Tuy danh nghĩa là mở cửa theo chế độ phát thiệp mời cho người thân, bạn bè của học sinh, song lượng người đổ về đông nghẹt như nêm cối, khâu soát vé ở cổng lại lỏng lẻo đến mức chẳng cần vé mời người ta vẫn thừa sức lách qua trót lọt.
 
 “Tớ không nghĩ sẽ có thành phần bất hảo cỡ đó trà trộn vào đâu.”
 
-“Nếu như mọi năm thì đúng thế... nhưng lớp mình chẳng phải có tên đó sao?”
+“Nếu như mọi năm thì đúng là thế thật... Nhưng năm nay lớp mình chẳng phải đang chứa chấp tên đó sao?”
 
-“Không lẽ là————”
+“Không lẽ ý cậu là————”
 
-“Chính xác. Tendou Ryuuichi. Không ai dám chắc sẽ không có mấy thằng ngu muốn đến quậy phá gian hàng của lớp có tên đó để trả đũa đâu nhỉ?”
+“Chính xác. Tendou Ryuuichi. Chẳng ma nào dám bảo đảm sẽ không có mấy thằng óc bã đậu kéo tới đập nát gian hàng của cái lớp có mặt tên quái vật đó để rửa hận đâu nhỉ?”
 
-Nghe đến đây, ngay cả Lớp trưởng cũng phải nhăn mặt. Trông cô ấy cứ như bị tống tiền vì lỡ để lộ bí mật gì đó vậy. Tôi từng đọc mấy cuốn doujinshi có mở đầu kiểu này rồi.
+Nghe tới cái tên ấy, ngay cả Lớp trưởng cũng phải biến sắc mà nhăn nhó mặt mày. Trông cô ấy hệt như nạn nhân bị tống tiền vì lỡ để lộ nhược điểm gì đó vậy. Tôi từng cày qua mấy bộ doujinshi có màn mở đầu y hệt thế này rồi.
 
-“Hầy... Tớ rất muốn nghĩ chuyện đó là không thể, nhưng...”
+“Hầy... Tớ rất muốn tin chuyện đó là hoang đường, nhưng...”
 
-“Ừm, không thể phủ nhận khả năng đó bằng không được.”
+“Ừm, không thể khẳng định xác suất xảy ra chuyện đó bằng không được.”
 
-“Thấy chưa?”
+“Thấy chưa, tôi nói có sai đâu?”
 
-Nhìn vẻ mặt đắc ý của Higuchi mà thấy ghét, nhưng ngặt nỗi những gì cậu ta chỉ ra lại hoàn toàn hợp lý.
+Nhìn cái bản mặt đắc thắng vênh váo của Higuchi mà ngứa cả mắt, nhưng ngặt nỗi lý lẽ cậu ta đưa ra lại chuẩn xác đến mức không thể cãi lại.
 
-“Chúng ta phải chuẩn bị phương án đối phó thôi.”
+“Phen này bắt buộc phải lên phương án tác chiến đối phó thôi.”
 
-Lớp trưởng ôm đầu với vẻ mặt nhăn nhó như thể chuẩn bị đóng quảng cáo thuốc giảm đau.
+Lớp trưởng vò đầu bứt tai với vẻ mặt đau khổ như thể chuẩn bị đi đóng quảng cáo cho thuốc hạ sốt giảm đau.
 
-But tôi nghĩ chuyện này cũng không cần phải phức tạp hóa lên làm gì.
+Nhưng tôi nghĩ chuyện cỏn con này cũng chẳng cần phải phức tạp hóa vấn đề làm gì cho mệt óc.
 
-“Vậy thì, chúng ta tuyển thêm ‘hắc phục’ nhé?”
+“Vậy thì, lớp mình tuyển thêm đội 『Hắc phục』 nhé?”
 
 ◇◇◇
 
-“Hắc phục” là từ dùng để chỉ những người mặc vest đen chuyên làm nhiệm vụ áp giải những vị khách gây rối vào phòng trong để “nói chuyện phải quấy” tại các tụ điểm ăn chơi của người lớn.
+『Hắc phục』 là tiếng lóng dùng để chỉ đám bảo kê mặc vest đen túc trực tại các tụ điểm ăn chơi của giới người lớn, chuyên đảm nhiệm việc áp giải mấy vị khách say xỉn quậy phá vào phòng kín phía sau để “nói chuyện đạo lý”.
 
-Tất nhiên, một học sinh cấp ba như tôi chưa từng thấy họ ngoài đời thực. Nhưng vì họ thường xuất hiện trong các bộ manga cờ bạc phi pháp sinh tử hay game thế giới mở về yakuza nên độ nhận diện là cực kỳ cao.
+Tất nhiên, một cậu học sinh cấp ba ngoan ngoãn như tôi đời nào đã được diện kiến họ ngoài đời thực. Song hình tượng ấy nhan nhản trong mấy bộ manga cờ bạc sinh tử phi pháp hay game thế giới mở đề tài yakuza, nên độ nhận diện trong giới trẻ là cực kỳ phổ biến.
 
-Đúng như Higuchi nói, nếu thực sự có kẻ mang ý đồ xấu đến quậy phá, việc chuẩn bị sẵn lực lượng phản ứng nhanh là giải pháp đơn giản nhất.
+Đúng như Higuchi đã cảnh báo, nếu thực sự có kẻ ôm dã tâm tới quậy phá phá đám, việc bố trí sẵn lực lượng phản ứng nhanh tại chỗ chính là giải pháp dứt khoát và hiệu quả nhất.
 
-Nếu có kẻ điên cuồng quậy phá xuất hiện, học sinh bình thường chỉ biết đi gọi giáo viên. Nhưng lớp chúng tôi lại sở hữu tận hai nhân vật bá đạo dư sức cân cả băng đảng yankee trường Kuroko.
+Gặp phải lũ điên cuồng làm loạn xông vào, học sinh bình thường chỉ biết luống cuống chạy đi cầu cứu thầy cô giám thị. Nhưng lớp chúng tôi lại may mắn sở hữu tận hai nhân vật bá đạo dư sức một mình cân trọn cả băng đảng yankee trường Kuroko.
 
-Ngay cả khi không tính cậu Souma và Tendou, lớp vẫn còn những người tự tin vào nắm đấm của mình. Chỉ cần thành lập một đội có khả năng can thiệp bằng vũ lực khi cần thiết là có thể yên tâm rồi.
+Ngay cả khi tạm gạt Souma-kun và Tendou-kun sang một bên, quân số lớp này vẫn thừa mứa những tay tự tin vào nắm đấm của mình. Chỉ cần quy tụ họ lại thành một tiểu đội sẵn sàng can thiệp bằng vũ lực khi có biến là có thể kê cao gối mà ngủ rồi.
 
 “Ừm...”
 
-Lớp trưởng nhíu mày trầm ngâm trước đề xuất của tôi, nhưng có lẽ cô ấy không còn lựa chọn nào tốt hơn việc thông qua phương án tuyển bảo kê. Việc còn lại là xem Lớp trưởng thuyết phục Tendou khéo léo đến mức nào thôi.
+Lớp trưởng nhíu chặt mày đắn đo trước đề xuất của tôi, nhưng xem chừng cô ấy cũng chẳng còn sự lựa chọn nào khả dĩ hơn ngoài việc gật đầu thông qua kế hoạch tuyển bảo kê. Phần việc còn lại chỉ là trông chờ vào tài ngoại giao khéo léo của Lớp trưởng xem có thuyết phục nổi Tendou-kun xuất chiêu hay không thôi.
 
-Nhờ có “lòng tốt” (?) của Higuchi mà vấn đề đã được phơi bày, giờ nghỉ trưa đầy ý nghĩa trôi qua.
+Nhờ có “thiện chí” (?) của Higuchi mà lỗ hổng an ninh đã được lôi ra ánh sáng, một giờ nghỉ trưa đầy bổ ích khép lại trong êm thấm.
 
-Hôm nay là thứ Sáu vui vẻ, chỉ cần tan học là sẽ được tận hưởng cảm giác tự do của ngày nghỉ. Tuần trước vì phải đi khảo sát quán cà phê hầu gái nên tôi chưa thực sự được nghỉ ngơi thoải mái.
+Hôm nay là thứ Sáu tuyệt vời, chỉ cần tiếng chuông tan trường vang lên là tôi sẽ được đắm mình vào cảm giác tự do vô bờ bến của ngày nghỉ. Tuần trước vì phải chạy đôn chạy đáo đi tiền trạm quán cà phê hầu gái nên tôi vẫn chưa được xả hơi trọn vẹn.
 
-Nhưng cuối tuần này có thêm ngày nghỉ bù của Ngày Thể Thao nên sẽ là một kỳ nghỉ dài ba ngày. Tôi sẽ tận dụng tối đa kỳ nghỉ này để cày cuốc tựa game 18+ thế giới mở khoa học viễn tưởng lấy bối cảnh vũ trụ bao la vừa mới ra mắt tuần trước————
+Bù lại, cuối tuần này lớp được nghỉ bù thêm một ngày cho Ngày Thể Thao, biến nó thành kỳ nghỉ lễ kéo dài ba ngày liên tiếp. Tôi nhất định sẽ tận dụng triệt để chuỗi ngày vàng ngọc này để cày nát tựa game 18+ thế giới mở thể loại khoa học viễn tưởng lấy bối cảnh du hành vũ trụ bao la vừa mới lên kệ tuần trước————
 
-“Này, cậu Momokawa!”
+“Này, Momokawa-kun!”
 
 “...Chậc!”
 
-Chết tiệt, vì tâm trí đã sớm bay bổng vào vũ trụ màu hồng nên tôi phản ứng hơi chậm.
+Chết tiệt, vì tâm trí mải bay bổng tít tận dải ngân hà màu hồng nên tôi phản xạ hơi chậm một nhịp.
 
-Vội vàng quay lại khi nghe tiếng gọi của cô ấy, tôi vô thức nhìn vào thân hình đầy đặn quyến rũ kia rồi tưởng tượng ra cảnh cô ấy mặc bộ đồ bó sát trong game 18+. Không được, phải tịnh tâm, ta là một hầu gái hoàn hảo không tì vết.
+Giật mình quay ngoắt lại khi nghe tiếng gọi quen thuộc, tôi vô thức dán mắt vào những đường cong nảy nở đầy đặn trên cơ thể người đối diện, rồi đầu óc bắt đầu vẽ ra viễn cảnh cô ấy khoác lên mình bộ giáp da bó sát nghẹt thở trong con game 18+. Bậy nào, tịnh tâm tịnh tâm, bản tọa hiện đang là một hầu gái thanh tao không tì vết.
 
-“Vâng, tiểu thư có điều chi sai bảo ạ?”
+“Dạ, tiểu thư có điều chi cần phân phó ạ?”
 
-“À, giờ không cần đóng vai hầu gái đâu.”
+“A ha ha, lúc này không cần phải nhập vai hầu gái đâu mà.”
 
-Dù đang trong giờ sinh hoạt lớp kéo dài và vẫn mặc đồ giả gái, tôi cảm giác mình đã có thể diễn vai hầu gái một cách tự nhiên. Thói quen thật đáng sợ.
+Dù đang trong giờ sinh hoạt lớp kéo dài và trên người vẫn tròng bộ váy xòe, tôi cảm giác bản thân đã có thể diễn tròn vai hầu gái một cách tự nhiên như hơi thở. Thói quen quả là thứ quyền năng đáng sợ.
 
-“Vậy, có chuyện gì thế cậu?”
+“Vậy, có chuyện gì thế Futaba-san?”
 
-“Ừm, chuyện là... Chủ nhật này tớ định tổ chức một buổi thử món ăn.”
+“Ừm, thật ra là thế này... Chủ nhật tuần này tớ định tổ chức một buổi nấu thử các món trong thực đơn.”
 
-Đúng là đầu bếp có khác, ngay cả ngày nghỉ cũng không ngừng trau dồi tay nghề.
+Đúng là bếp trưởng có tâm, ngay cả ngày nghỉ cũng không ngừng dùi mài tay nghề.
 
-Mà kể cả không phải vậy thì cũng đã đến lúc chốt thực đơn cho quán rồi. Tôi không muốn nước đến chân mới nhảy đi tìm nguồn nguyên liệu đâu. Mấy việc này cứ làm sớm chừng nào tốt chừng nấy.
+Mà kể cả không vì thế thì cũng đã tới lúc phải chốt hạ danh sách món ăn cho quán rồi. Tôi chẳng muốn lâm vào cảnh nước đến chân mới nhảy đi lùng sục tìm mua nguyên liệu đâu. Mấy khâu chuẩn bị này cứ làm càng sớm chừng nào càng an tâm chừng nấy.
 
-“Tớ cũng muốn mời cậu Momokawa đến... cậu đi được không?”
+“Tớ cũng muốn mời cả Momokawa-kun tới nữa... Cậu có rảnh ghé qua không?”
 
-“Ơ, tớ cũng được đi à? Cảm ơn cậu nhé.”
+“Ơ, tớ cũng được đi ké à? Cảm ơn cậu nhiều nhé.”
 
-Dù tôi không còn ở cái tuổi chỉ cần được ăn chực là sướng rơn, nhưng nếu đó là món ăn do chính tay bạn Futaba nấu thì lại là chuyện khác. Sự háo hức này còn vượt xa cả việc đi ăn ở một nhà hàng sang trọng ấy chứ.
+Dù tôi chẳng còn ở cái tuổi háu ăn hễ nghe được ăn chực là sướng rơn, nhưng nếu đó là bữa ăn do chính tay Futaba-san đứng bếp thì lại là một đẳng cấp hoàn toàn khác. Nỗi háo hức dâng trào trong lồng ngực này thậm chí còn vượt xa cả việc được mời vào ăn tại nhà hàng năm sao sang trọng ấy chứ.
 
-“Tất nhiên rồi. Cậu là Maid Trưởng mà.”
+“Đương nhiên rồi. Cậu là 『Maid Trưởng』 cơ mà.”
 
-“Đúng vậy, chính tôi là Maid Trưởng.”
+“Đúng vậy, chính tôi là 『Maid Trưởng』 quyền uy.”
 
-“Tốt quá. Vậy thì 12 giờ trưa chúng ta sẽ tập hợp tại nhà tớ nhé. Tớ sẽ đợi cậu đấy, cậu Momokawa.”
+“Tuyệt quá. Thế thì tầm 12 giờ trưa Chủ nhật chúng mình hẹn nhau ở nhà tớ nhé. Tớ sẽ đứng đợi cậu đấy, Momokawa-kun.”
 
-“Ừ... Hả?”
+“Ừ... Hở?!”
 
-*Nhà? Cậu ấy vừa bảo nhà cậu ấy sao?*
+*Nhà ư? Cậu ấy vừa bảo tới nhà cậu ấy sao?!*
 
-*Nghĩa là nhà riêng của bạn Futaba...*
+*Tức là... tư gia riêng của Futaba-san...*
 
-Tuần trước tôi vừa có buổi hẹn hò đầu tiên trong đời với bạn Randou, không ngờ tuần này lại chuẩn bị đến nhà một đứa con gái lần đầu tiên trong đời... Phen này tôi lại phải chuẩn bị tinh thần thật kỹ rồi đây.
+Tuần trước tôi vừa có buổi hẹn hò đầu đời với Randou-san, chẳng ngờ tuần này lại chuẩn bị đặt chân tới tận nhà một đứa con gái lần đầu tiên trong cuộc đời... Phen này tôi lại phải lên dây cót tinh thần thật kỹ lưỡng mới được rồi đây.
