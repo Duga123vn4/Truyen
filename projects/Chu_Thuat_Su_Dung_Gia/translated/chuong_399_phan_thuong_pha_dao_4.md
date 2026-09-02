@@ -1,64 +1,64 @@
 # Tập 399: Phần Thưởng Phá Đảo (4)
 
-Và rồi... cái kết cục của việc không thèm suy nghĩ sâu xa cuối cùng đã bày ra ngay trước mắt tôi một cách trần trụi nhất!
+Và rồi... cái giá của việc hành động thiếu suy nghĩ cuối cùng đã phơi bày ngay trước mắt tôi một cách trần trụi nhất!
 
 “Futaba.”
 
 “Randou-san.”
 
-Kẹp tôi đứng ở chính giữa, hai cô gái trừng mắt nhìn nhau bằng ánh nhìn tóe lửa! Bầu không khí căng thẳng nghẹt thở bao trùm chẳng khác nào một cuộc quyết đấu sinh tử một mất một còn!
+Bị kẹp ở chính giữa, tôi chỉ biết nín thở nhìn hai cô gái đang trừng mắt với nhau bằng ánh nhìn tóe lửa! Bầu không khí căng thẳng nghẹt thở bao trùm chẳng khác nào một cuộc quyết đấu sinh tử một mất một còn!
 
-Chỉ cần một ai đó hô vang hiệu lệnh bắt đầu, tôi dám cá rằng kẻ đứng ở giữa là tôi đây sẽ bị lưỡi đao của Cuồng Chiến Binh và phát đạn của Thổ Ma Thuật Sư bắn chết tươi ngay trong tích tắc!
+Chỉ cần có ai đó hô vang hiệu lệnh bắt đầu, tôi dám chắc kẻ đứng ở giữa là tôi đây sẽ bị lưỡi đao của Cuồng Chiến Binh và phát đạn của Thổ Ma Thuật Sư kết liễu ngay tắp lự!
 
 “...”
 
-Tâm trạng của tôi lúc này chẳng khác nào một võ sĩ đạo Samurai đang quỳ gối chờ lệnh mổ bụng tự sát (seppuku). Rõ ràng tôi chỉ mò ra đây để tắm bồn thôi mà, tại sao cơ sự lại thành ra nông nỗi này cơ chứ?
+Tâm trạng của tôi lúc này chẳng khác nào một võ sĩ đạo đang quỳ gối chờ lệnh mổ bụng tự sát. Rõ ràng tôi chỉ muốn mò ra đây ngâm bồn thư giãn thôi mà, cớ sao cơ sự lại thành ra nông nỗi này?
 
-Địa điểm diễn ra màn đối đầu là phòng thay đồ của khu đại dục trường. Vừa lúc tôi đặt chân tới thì như thể đã hẹn ước từ trước, cả Mei lẫn Kyouko đều đồng loạt xuất hiện cùng lúc, tạo nên cục diện tam giác chết chóc này.
+Địa điểm diễn ra màn đối đầu là phòng thay đồ của khu đại dục trường. Vừa lúc tôi đặt chân tới, như thể đã có hẹn từ trước, cả Mei-chan lẫn Kyouko đều đồng loạt xuất hiện, tạo nên cục diện tam giác chết chóc này.
 
 Chẳng lẽ nơi đây chính là nấm mồ chôn thân của tôi sao?
 
 “Tớ xin gửi lời chúc mừng tới cậu nhé, Randou-san.”
 
-“Hừ, bà nội mày dám nhanh chân 'húp trọn' trước mà giờ còn bày đặt giở giọng chúc mừng hả?”
+“Hừ, bà đây còn chưa tính sổ vụ mày nhanh chân 'húp trọn' trước mà giờ còn bày đặt giở giọng chúc mừng hả?”
 
-Mei cất lời bằng vẻ mặt điềm tĩnh, còn Kyouko liền bĩu môi đáp lại bằng một nét mặt khó chịu ra mặt.
+Mei-chan cất lời với vẻ mặt điềm tĩnh, còn Kyouko liền bĩu môi đáp lại bằng nét mặt khó chịu ra mặt.
 
-“Tớ xin lỗi. Tớ biết hành động của mình là xấu tính và chơi không đẹp... thế nhưng có những thứ tớ tuyệt đối KHÔNG THỂ NÀO NHƯỢNG BỘ ĐƯỢC!”
+“Tớ xin lỗi. Tớ biết hành động của mình là xấu tính và không đẹp đẽ gì... thế nhưng có những thứ tớ tuyệt đối KHÔNG THỂ NÀO NHƯỢNG BỘ ĐƯỢC!”
 
-“Đành chịu thôi, dù sao người tỉnh lại trước là Futaba cơ mà... Đổi lại nếu bà đây tỉnh trước, tao cũng sẽ làm y hệt như thế thôi.”
+“Đành chịu thôi, dù sao người tỉnh lại trước cũng là Futaba cơ mà... Đổi lại nếu bà đây tỉnh trước, tao cũng sẽ làm y hệt như thế.”
 
-À... ừm... cái câu chuyện tế nhị này... để một thằng đàn ông như tôi đứng đây nghe có thực sự ổn không vậy hai bạn nữ?
+À... ừm... câu chuyện tế nhị cỡ này... để một thằng con trai như tôi đứng nghe từ đầu đến cuối có thực sự ổn không vậy hai người đẹp?
 
-Muốn xử trảm thì làm ơn chém một phát chết luôn giùm cái đi cho nhẹ nợ!
+Nếu muốn xử trảm thì làm ơn chém một nhát cho xong giùm đi!
 
 “Đúng vậy, chuyện này là bất khả kháng rồi. Không còn cách nào khác đâu.”
 
-Tự lẩm bẩm khuyên nhủ bản thân như thế, nét mặt của Mei lúc này trông đáng sợ vô cùng! Bất khả kháng là sao, là tôi phải chết đấy à? Chẳng lẽ trong cái kịch bản này chỉ có duy nhất một cái Bad Ending là tôi phải bỏ mạng thôi sao?
+Tự lẩm bẩm khuyên nhủ bản thân như thế, nét mặt của Mei-chan lúc này trông đáng sợ vô cùng! Bất khả kháng là sao, tức là tôi phải chết đấy à? Chẳng lẽ trong cái kịch bản này chỉ có duy nhất một Bad Ending là tôi phải bỏ mạng thôi sao?
 
 “Bởi vì đối với Kotarou-kun... cậu ấy rất cần có Randou-san ở bên cạnh.”
 
-“Nói thế chứ bà cũng đời nào chịu buông tay rút lui đúng không?”
+“Nói thế chứ mày cũng đời nào chịu buông tay rút lui đúng không?”
 
 “Kotarou-kun cần có tớ, và tớ cũng không thể sống thiếu Kotarou-kun được!”
 
-“Haizz... Tao cũng biết thừa là đéo thể nào bắt bà Futaba rút lui được rồi...”
+“Haizz... Tao cũng biết thừa là chẳng đời nào bắt bà Futaba rút lui được rồi...”
 
 Kyouko thở dài một hơi nặng trĩu với nét mặt cay đắng bất lực.
 
-Sự im lặng ngột ngạt bao trùm... hay có lẽ chỉ có một mình tôi là cảm thấy ngột ngạt? Bởi vì cả Mei lẫn Kyouko đều không hề chớp mắt, kiên định nhìn thẳng vào đối phương như muốn khẳng định lập trường không thể lay chuyển của mình!
+Sự im lặng ngột ngạt bao trùm... hay có lẽ chỉ có một mình tôi là cảm thấy ngột ngạt? Bởi vì cả Mei-chan lẫn Kyouko đều không hề chớp mắt, kiên định nhìn thẳng vào đối phương như muốn khẳng định lập trường không thể lay chuyển của mình!
 
-“Đành chịu vậy thôi... Bà đây cũng cần có Futaba ở cạnh.”
+“Đành chịu vậy thôi... Tao cũng cần có Futaba ở cạnh.”
 
-“Tớ cũng vậy, Randou-san à! Ngọn giáo và Tấm khiên... bắt buộc phải luôn luôn song hành cùng nhau!”
+“Tớ cũng vậy, Randou-san! Ngọn giáo và Tấm khiên... bắt buộc phải luôn luôn song hành cùng nhau!”
 
-Khi Kyouko chịu nhún nhường cất lời, Mei liền nở một nụ cười rạng rỡ đáp lại.
+Khi Kyouko chịu nhún nhường cất lời, Mei-chan liền nở một nụ cười rạng rỡ đáp lại.
 
-Mâu thuẫn và thống nhất! Đúng vậy, nếu không có cả hai người họ cùng hợp sức thì con Đại Thủ Hộ Thiên Sứ kia đời nào có thể bị đánh bại!
+Mâu thuẫn và thống nhất! Phải rồi, nếu không có cả hai người họ cùng hợp sức thì làm sao có thể đánh bại con 『Đại Thủ Hộ Thiên Sứ』 kia chứ!
 
-“Kotarou-kun à, ba chúng mình hãy mãi mãi ở bên nhau nhé!”
+“Kotarou-kun, ba chúng mình hãy mãi mãi ở bên nhau nhé!”
 
-“Tốt số lắm rồi đấy thằng Kotarou, từ nay về sau bọn tao sẽ tiếp tục bảo bọc che chở cho mày!”
+“Tốt số lắm rồi đấy thằng Kotarou, từ nay về sau bọn tao sẽ tiếp tục bảo bọc mày!”
 
 “...Hai người... thực sự chấp nhận chuyện này sao?”
 
@@ -70,15 +70,15 @@ Bởi vì nếu bây giờ không nói ra, nếu khoảnh khắc này không h�
 
 “Mày bảo không thích thử xem tao có bắn nát gáo mày không?”
 
-“K-Không đời nào có chuyện tôi không thích cả... Có được cả hai người ở bên cạnh... một chuyện tốt đẹp như mơ nhường ấy, một kẻ như tôi làm sao xứng đáng được hưởng——”
+“K-Không đời nào có chuyện tôi không thích cả... Có được cả hai người ở bên cạnh... một điều tốt đẹp như mơ nhường ấy, một kẻ như tôi làm sao xứng đáng được hưởng——”
 
-“Kẻ nào dám bảo không xứng đáng? Đứa nào dám đứng ra cản trở hạnh phúc của chúng ta, tớ sẽ vung rìu chém chết tươi kẻ đó ngay, nên Kotarou-kun cứ yên tâm nhé!”
+“Kẻ nào dám bảo không xứng đáng? Đứa nào dám đứng ra cản trở hạnh phúc của chúng ta, tớ sẽ vung đao chém chết kẻ đó ngay, nên Kotarou-kun cứ yên tâm nhé!”
 
-“Này Kotarou, đến nước này rồi thì bớt lôi mấy cái quy chuẩn đạo đức thông thường ra giùm tao cái đi! Chúng ta từ lâu đã sống trong một thế giới vượt ngoài mọi quy chuẩn thông thường rồi còn gì!”
+“Này Kotarou, đến nước này rồi thì bớt lôi mấy cái quy chuẩn đạo đức thông thường ra giùm tao đi! Chúng ta từ lâu đã sống trong một thế giới vượt ngoài mọi quy chuẩn thông thường rồi còn gì!”
 
-A... Đúng vậy nhỉ! Chính bản thân tôi cũng thừa hiểu điều đó mà.
+A... Phải rồi! Chính bản thân tôi cũng thừa hiểu điều đó.
 
-Mei tuyệt đối không bao giờ đưa ra quyết định này bằng một sự bốc đồng nửa vời. Và Kyouko cũng đã suy tính thấu đáo giữa lý tưởng và thực tại nghiệt ngã để đưa ra lựa chọn này.
+Mei-chan tuyệt đối không bao giờ đưa ra quyết định này bằng một sự bốc đồng nửa vời. Và Kyouko cũng đã suy tính thấu đáo giữa lý tưởng và thực tại nghiệt ngã để đưa ra lựa chọn này.
 
 Chỉ có bản thân tôi là kẻ duy nhất thiếu tự tin và không dám dũng cảm bước tới mà thôi!
 
@@ -98,7 +98,7 @@ Tôi cũng yêu hai người! Và tôi cũng tin tưởng hai người bằng c�
 
 “Okee luôn bạn hiền~!”
 
-Thú thật, xét về mặt tình cảm tôi vẫn chưa thể tự tin 100% vào bản thân, nhưng tôi thề sẽ dốc trọn sinh mệnh để đáp lại tấm chân tình ấy! Vì những người phụ nữ mình yêu thương, tôi sẵn sàng làm bất cứ điều gì!
+Thú thật, xét về mặt tình cảm tôi vẫn chưa thể tự tin một trăm phần trăm vào bản thân, nhưng tôi thề sẽ dốc trọn sinh mệnh để đáp lại tấm chân tình ấy! Vì những người con gái mình yêu thương, tôi sẵn sàng làm bất cứ điều gì!
 
 “Vậy thì... chúng mình cùng vào tắm chung thôi nào!”
 
@@ -106,19 +106,19 @@ Thú thật, xét về mặt tình cảm tôi vẫn chưa thể tự tin 100% v�
 
 Nhân tiện nói luôn, cái màn đối thoại vô cùng cảm động và thiêng liêng vừa rồi... thực chất lại diễn ra trong tình trạng CẢ BA ĐỨA ĐỀU TRẦN NHƯ NHỘNG!
 
-Tôi khỏa thân, Mei khỏa thân, và Kyouko cũng hoàn toàn khỏa thân! Đúng nghĩa trút bỏ toàn bộ tâm can lẫn y phục, ba con người đứng đối diện nhau trong trạng thái không một mảnh vải che thân!
+Tôi khỏa thân, Mei-chan khỏa thân, và Kyouko cũng hoàn toàn khỏa thân! Đúng nghĩa trút bỏ toàn bộ tâm can lẫn y phục, ba con người đứng đối diện nhau trong trạng thái không một mảnh vải che thân!
 
 Và lúc này... ánh mắt của hai nàng mỹ nhân bỗng đồng loạt dán chặt vào 'vũ khí' của tôi!
 
 “Xem kìa, Kotarou-kun dường như cũng hết chịu nổi rồi kìa~”
 
-“Uồi, sung sức vãi chưởng! Cái đó cũng là nhờ tác dụng của Dâm Văn (Dâm Văn) đấy à?”
+“Uồi, sung sức dữ vậy! Cái đó cũng là nhờ tác dụng của 『Dâm Văn』 đấy à?”
 
 “...”
 
-Làm ơn đừng có nhìn tôi bằng cái ánh mắt tủm tỉm trêu ngươi đó nữa mà, ngượng chín cả mặt rồi đây này! Sao tự dưng có mỗi một mình tôi là cảm thấy xấu hổ thế này hả trời!?
+Làm ơn đừng có nhìn tôi bằng ánh mắt tủm tỉm trêu ngươi đó nữa mà, ngượng chín cả mặt rồi đây này! Sao tự dưng có mỗi một mình tôi là cảm thấy xấu hổ thế này hả trời!?
 
-Cơ mà bất đắc dĩ thôi chứ bộ, bảo không phản ứng thì có mà là thái giám! Chẳng liên quan gì tới Dâm Văn cả, hai cơ thể thiếu nữ tuyệt mỹ nõn nà phơi bày lồ lộ ngay trước mắt thế này, thằng đàn ông đích thực nào mà kiềm chế cho nổi cơ chứ!
+Cơ mà bất đắc dĩ thôi chứ bộ, bảo không phản ứng thì có mà là thái giám! Chẳng liên quan gì tới 『Dâm Văn』 cả, hai cơ thể thiếu nữ tuyệt mỹ nõn nà phơi bày lồ lộ ngay trước mắt thế này, thằng đàn ông đích thực nào mà kiềm chế cho nổi cơ chứ!
 
 “Tớ sẽ cho Kotarou-kun hiểu rõ cảm giác có cả hai người cùng phục vụ là tuyệt vời đến nhường nào nhé~ ♡”
 
@@ -130,9 +130,9 @@ Trong phút chốc, toàn bộ lý trí của tôi liền tan chảy thành nư�
 
 “——**ĐỒ ĐÊ TIỆN BỈ ỔI NHẤT TRẦN ĐỜI!**”
 
-Một ánh mắt lạnh ngắt như băng đăng âm độ tàn nhẫn giáng thẳng vào mặt tôi khi Souma Sakura buông lời phán xét!
+Một ánh mắt lạnh ngắt như băng đăng tàn nhẫn giáng thẳng vào mặt tôi khi Souma Sakura buông lời phán xét!
 
-Dĩ nhiên, nếu xét theo góc nhìn chuẩn mực đạo đức của xã hội hiện đại, hành vi của tôi đích thị là đỉnh cao của sự khốn nạn. Không chịu chọn một trong hai mà lại 'xơi tái' cả Mei lẫn Kyouko, tôi đích thị là một thằng cặn bã đáng bị ném đá tơi bời và bêu rếu ngập tràn trên khắp các trang mạng xã hội.
+Dĩ nhiên, nếu xét theo góc nhìn chuẩn mực đạo đức của xã hội hiện đại, hành vi của tôi đích thị là đỉnh cao của sự khốn nạn. Không chịu chọn một trong hai mà lại 'ôm trọn' cả Mei-chan lẫn Kyouko, tôi đích thị là một thằng cặn bã đáng bị ném đá tơi bời và bêu rếu ngập tràn trên khắp các trang mạng xã hội.
 
 Thế nhưng nơi đây là dị giới của kiếm và ma pháp! Đạo đức và luật pháp của Nhật Bản từ lâu đã chẳng còn giá trị ở cái chốn này!
 
@@ -150,7 +150,7 @@ Bị Sakura bắt quả tang tại trận rồi... Mẹ kiếp, cái con nhỏ n
 
 “DẠ VÂNG TÔI VÔ CÙNG XIN LỖI Ạ! TÔI XIN LỖI LẦN NỮA Ạ!”
 
-Lời thề 'Đào Viên Kết Nghĩa phiên bản bồn tắm' vừa diễn ra đêm qua, trong cơn đê mê ngút trời tôi đã được hai nàng mỹ nhân ban phát những dịch vụ ân ái ngập tràn hạnh phúc, làm sâu sắc thêm Dâm Văn... thế nhưng không ngờ lại bị Sakura dẫn Rem đi tắm bắt gặp sạch sành sanh.
+Lời thề 'kết nghĩa bồn tắm' vừa diễn ra đêm qua, trong cơn đê mê ngút trời tôi đã được hai nàng mỹ nhân ban phát những dịch vụ ân ái ngập tràn hạnh phúc, làm sâu sắc thêm 『Dâm Văn』... thế nhưng không ngờ lại bị Sakura dẫn Rem đi tắm bắt gặp sạch sành sanh.
 
 Tôi có thể tưởng tượng ra cảnh Sakura vừa he hé mắt nhìn trộm qua khe cửa vừa vội vàng lấy tay bịt chặt mắt bé Rem lại.
 
@@ -162,7 +162,7 @@ Tôi có thể tưởng tượng ra cảnh Sakura vừa he hé mắt nhìn trộ
 
 “DẠ KHÔNG CÓ GÌ ĐÂU Ạ! TÔI VÔ CÙNG XIN LỖI Ạ!”
 
-Tôi lập tức biến thành một con bot xin lỗi tự động.
+Tôi lập tức biến thành một cái máy xin lỗi tự động.
 
 Nhưng tôi đâu có cố tình khoe khoang cho cô nàng xem đâu chứ bộ. Tự dưng mang tiếng oan ức thế này, lỡ tôi mắc bệnh biến thái thích gửi clip nóng khiêu khích kiểu: *'Hế lô Sakura có đang xem không nè~?'* thì ai chịu trách nhiệm đây hả?!
 
@@ -178,41 +178,43 @@ Nhưng tôi đâu có cố tình khoe khoang cho cô nàng xem đâu chứ bộ.
 
 “Ủa ủa, cô vừa chĩa mũi dùi vào chuyện tình cảm của tôi trước cơ mà, giờ lại bảo không liên quan là sao?”
 
-Nếu là tôi ở vị thế ngược lại, chắc chắn tôi sẽ không đủ bản lĩnh để chấp nhận kiếp chung chồng như hai cô gái ấy. Nếu có một người đàn ông hoàn hảo vượt trội hơn tôi xuất hiện, chắc tôi sẽ khóc lóc ngậm ngùi rút lui để chúc phúc cho họ mất.
+Nếu là tôi ở vị thế ngược lại, chắc chắn tôi sẽ không đủ bản lĩnh để chấp nhận kiếp chung người yêu như hai cô gái ấy. Nếu có một người đàn ông hoàn hảo vượt trội hơn tôi xuất hiện, chắc tôi sẽ khóc lóc ngậm ngùi rút lui để chúc phúc cho họ mất.
 
 “Sakura-chan cũng nên chuẩn bị tâm lý dần đi là vừa đấy.”
 
 “Tâm lý cho cái chuyện gì cơ chứ?”
 
-“Biết đâu đến lúc cô tìm thấy Souma Yuuto, cậu ta đã kịp rước Natsukawa-san về dinh rồi cũng nên! Hoặc thậm chí ở Vương quốc Astria, ngài Dũng Giả đã kịp xây dựng thêm cả một dàn Harem gái bản địa mới toanh rồi đấy!”
+“Biết đâu đến lúc cô tìm thấy Souma Yuuto, cậu ta đã kịp rước Natsukawa-san về dinh rồi cũng nên! Hoặc thậm chí ở Vương quốc Astoria, ngài Dũng Giả đã kịp xây dựng thêm cả một dàn harem gái bản địa mới toanh rồi đấy!”
 
 “CÁI GÌ CƠ!?”
 
 Thật tình, làm gì mà phải giật mình thon thót thế? Đó là một dự đoán tương lai hiển nhiên như ban ngày rồi còn gì!
 
-Được dịch chuyển tới Astria an toàn, với cái hào quang nhân vật chính của mình, Souma chắc chắn sẽ sớm thu hút thêm hàng tá mỹ nhân ngoại quốc vây quanh. Cầu trời cho lần này cậu ta đừng có dại dột va phải mấy con nhỏ lòng dạ đen tối như con Takanashi Kotori nữa là phúc tổ bảy đời rồi.
+Được dịch chuyển tới Astoria an toàn, với cái hào quang nhân vật chính của mình, Souma chắc chắn sẽ sớm thu hút thêm hàng tá mỹ nhân ngoại quốc vây quanh. Cầu trời cho lần này cậu ta đừng có dại dột va phải mấy đứa lòng dạ đen tối như Takanashi Kotori nữa là phúc tổ bảy đời rồi.
 
 “T-Tôi tuyệt đối không bao giờ cho phép chuyện đó xảy ra...”
 
 “Không cho phép rồi cô tính làm gì? Tính học theo con nhỏ Kotori bày mưu tính kế ám sát hết tình địch à? Gái dị giới thì tôi không quan tâm, chứ nếu cô dám động tới một cọng tóc của Natsukawa-san thì tôi tuyệt đối không để yên đâu đấy nhé!”
 
-“Ai thèm làm mấy cái trò đê hèn như con Kotori cơ chứ!”
+“Ai thèm làm mấy cái trò đê hèn như Kotori cơ chứ!”
 
 “Thế thì cứ việc cạnh tranh sòng phẳng bằng sự quyến rũ của phụ nữ thôi, như thế cho nó hòa bình!”
 
-Cơ mà nếu cứ giữ cái tính cách tiểu thư khó chiều ấy thì nguy cơ ế chỏng chơ tới năm 30 tuổi rồi cuống cuồng đi xem mắt là hoàn toàn có thật nha Sakura...
+Cơ mà nếu cứ giữ cái tính cách tiểu thư khó chiều ấy thì nguy cơ ế chỏng chơ tới năm ba mươi tuổi rồi cuống cuồng đi xem mắt là hoàn toàn có thật nha Sakura...
 
-*CHÁT!* Một cái tát trời giáng nổ đom đóm mắt lập tức dập tắt viễn cảnh gái ế 30 tuổi của Sakura trong đầu tôi!
+*CHÁT!* Một cái tát trời giáng nổ đom đóm mắt lập tức dập tắt viễn cảnh gái ế ba mươi tuổi của Sakura trong đầu tôi!
 
 “Đau quá! Người ta có lòng tốt lo lắng cho tương lai của cô mà lại ra tay bạo lực thế à!”
 
 “Tại vì cái mồm của cậu vừa thốt ra mấy lời suy diễn vô cùng thất lễ đấy!”
 
-“Thôi được rồi, chuyện của tôi không cần cậu bận tâm! Và Momokawa này, cậu muốn lập Hậu cung hay Đại Áo (Ooku) gì thì tùy... nhưng TUYỆT ĐỐI CẤM KHÔNG ĐƯỢC LÀM CHO HAI NGƯỜI HỌ PHẢI KHÓC! Đó là trách nhiệm tối thiểu của một thằng đàn ông!”
+“...”
+
+“Thôi được rồi, chuyện của tôi không cần cậu bận tâm! Và Momokawa này, cậu muốn lập Hậu cung hay Đại Áo gì thì tùy... nhưng TUYỆT ĐỐI CẤM KHÔNG ĐƯỢC LÀM CHO HAI NGƯỜI HỌ PHẢI KHÓC! Đó là trách nhiệm tối thiểu của một thằng đàn ông!”
 
 “Hừm, chuyện đó chẳng cần cô phải nhắc!”
 
-“Tôi xin cậu đấy, làm ơn đừng để xảy ra cảnh huynh đệ tương tàn chém giết lẫn nhau!”
+“Tôi xin cậu đấy, làm ơn đừng để xảy ra cảnh tương tàn chém giết lẫn nhau!”
 
 “Chuyện đó tôi xin lấy cả tính mạng này ra để thề sẽ ngăn chặn tới cùng!”
 
@@ -224,7 +226,7 @@ Thế là tôi đã chính thức bước chân vào con đường Hậu Cung đ
 
 Vài ngày sau đó.
 
-Khi mọi vết thương và sự mệt mỏi của trận chiến đã hoàn toàn lành lặn, không khí chuẩn bị rời khỏi dungeon để đi tìm kiếm những bạn học còn lại bắt đầu lan tỏa khắp căn cứ.
+Khi mọi vết thương và sự mệt mỏi của trận chiến đã hoàn toàn lành lặn, không khí chuẩn bị rời khỏi mê cung để đi tìm kiếm những bạn học còn lại bắt đầu lan tỏa khắp căn cứ.
 
 Thế nhưng:
 
@@ -236,9 +238,9 @@ Thế nhưng:
 
 Trong cơn hưng phấn tột đỉnh, tôi cất tiếng cười ngạo nghễ vang vọng khắp Tháp Trung Tâm!
 
-Rời khỏi dungeon á? Đéo bao giờ có chuyện đó nhé! Tôi sẽ biến nơi đây thành Vương quốc riêng của mình — Đào Nguyên Hương của Momokawa! Cứ tin tưởng ở tôi, một game thủ kỳ cựu từng dẫn dắt hàng chục quốc gia xưng bá thế giới trong game SimCity!
+Rời khỏi mê cung á? Đời nào có chuyện đó! Tôi sẽ biến nơi đây thành Vương quốc riêng của mình — Đào Nguyên Hương của Momokawa! Cứ tin tưởng ở tôi, một game thủ kỳ cựu từng dẫn dắt hàng chục quốc gia xưng bá thế giới trong SimCity!
 
-“Cảm ơn cậu nhiều lắm nhé Tendou-kun! Quả nhiên có một đồng đội sở hữu quyền hạn quân sự Mã Mã Mã Mã General Code như cậu là điều tuyệt vời nhất trần đời!”
+“Cảm ơn cậu nhiều lắm nhé Tendou-kun! Quả nhiên có một đồng đội sở hữu quyền hạn quân sự 『General Code』 như cậu là điều tuyệt vời nhất trần đời!”
 
 Để tôi có thể thuận lợi kế nhiệm chức Tổng Đốc Albion thay thế Kotori, sự phối hợp của Tư Lệnh Căn Cứ Albion Tendou Ryuuichi là vô cùng quan trọng.
 
@@ -248,21 +250,21 @@ Và nhân tố then chốt thứ hai... chính là bảo vật tối thượng v
 
 “Éc... éc...”
 
-Tiếng rên rỉ thảm hại phát ra từ trong lòng bàn tay tôi — nơi đang ngự trị một chiếc hộp kim loại nhỏ màu đen tuyền mang tên **『TIỂU ĐIỂU TƯƠNG』 (Tiểu Điểu Tương)!**
+Tiếng rên rỉ thảm hại phát ra từ trong lòng bàn tay tôi — nơi đang ngự trị một chiếc hộp kim loại nhỏ màu đen tuyền mang tên **『Tiểu Điểu Tương』**!
 
 ---
 
-*『Tiểu Điểu Tương』 (Tiểu Điểu Tương): Trong lồng son tăm tối có một chú chim nhỏ đang cất tiếng khóc than ai oán. Bóng tối sâu thẳm tựa như tội ác ngút trời. Dẫu mang trí tuệ của 『Hiền Giả』 cũng chẳng thể nào soi sáng được đáy vực thẳm. Hãy tiếp tục cất tiếng khóc than nơi bóng tối không ánh mặt trời, cho tới ngày được phép đày xuống địa ngục, chú chim nhỏ vẫn sẽ mãi mãi nằm gọn trong chiếc lồng này.*
+*『Tiểu Điểu Tương』: Trong lồng son tăm tối có một chú chim nhỏ đang cất tiếng khóc than ai oán. Bóng tối sâu thẳm tựa như tội ác ngút trời. Dẫu mang trí tuệ của 『Hiền Giả』 cũng chẳng thể nào soi sáng được đáy vực thẳm. Hãy tiếp tục cất tiếng khóc than nơi bóng tối không ánh mặt trời, cho tới ngày bị đày xuống địa ngục, chú chim nhỏ vẫn sẽ mãi mãi nằm gọn trong chiếc lồng này.*
 
 ---
 
-Một bảo vật ma thuật hoàn mỹ ra đời từ 『Hắc Ma Nữ Chi Luyện Ngục Lô』 sau khi ném trọn thân xác và linh hồn của Takanashi Kotori vào luyện chế!
+Một bảo vật ma thuật hoàn mỹ ra đời từ 『Lò Luyện Ngục Của Hắc Ma Nữ』 sau khi ném trọn thân xác và linh hồn của Takanashi Kotori vào luyện chế!
 
 Chiếc hộp kim loại đen bóng khắc đầy những ma pháp trận và chú ấn cổ xưa. Toàn bộ thể xác, linh hồn và tri thức 『Hiền Giả』 của Kotori đã bị phong ấn vĩnh viễn bên trong chiếc hộp này, biến nó thành một thiết bị ma đạo tối thượng giúp Chú thuật sư như tôi thao túng và kiểm soát trọn vẹn quyền năng của Hiền Giả!
 
-Bằng chiếc hộp này, tôi đã dễ dàng qua mặt hệ thống bảo mật của Tháp Trung Tâm, xác nhận Kotori tự nguyện từ chức Tổng Đốc, và tổ chức một cuộc 'tổng tuyển cử' nội bộ. Ứng cử viên duy nhất là Momokawa Kotarou, nhận được 2 phiếu bầu tuyệt đối từ cựu Tổng Đốc Kotori (qua hộp) và Tư Lệnh Tendou, chính thức đắc cử chức vị **TỔNG ĐỐC ALBION!**
+Bằng chiếc hộp này, tôi đã dễ dàng qua mặt hệ thống bảo mật của Tháp Trung Tâm, xác nhận Kotori tự nguyện từ chức Tổng Đốc, và tổ chức một cuộc 'tổng tuyển cử' nội bộ. Ứng cử viên duy nhất là Momokawa Kotarou, nhận được hai phiếu bầu tuyệt đối từ cựu Tổng Đốc Kotori (qua hộp) và Tư Lệnh Tendou, chính thức đắc cử chức vị **TỔNG ĐỐC ALBION!**
 
-“Fufufu... Này Vua Oh-ma, ngày xưa khi mới dựng cờ khởi nghĩa cậu cũng có cảm giác hưng phấn tột cùng như thế này đúng không?”
+“Fufufu... Này Vua Oh-ma, ngày xưa khi mới dựng cờ khởi nghĩa ông cũng có cảm giác hưng phấn tột cùng như thế này đúng không?”
 
 Cảm giác toàn năng của một đấng quân vương chuẩn bị khai phá vương triều của riêng mình! Thật là phấn khích không sao tả xiết!
 

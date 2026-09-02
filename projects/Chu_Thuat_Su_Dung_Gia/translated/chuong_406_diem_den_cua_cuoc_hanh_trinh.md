@@ -4,7 +4,7 @@
 
 “Dạ vâng, thưa Chủ nhân.”
 
-Tỏa ra luồng ánh sáng trắng chói lòa của ma pháp dịch chuyển vốn đã quá đỗi quen thuộc, cánh cổng Thiên Tống Môn uy nghiêm sừng sững mở ra.
+Tỏa ra luồng bạch quang chói lòa của ma pháp chuyển dịch vốn dĩ đã quá đỗi quen thuộc, cánh cổng 『Thiên Tống Môn』 uy nghiêm sừng sững mở ra.
 
 Tay phải tôi nắm chặt lấy bàn tay ấm áp của Mei-chan, còn tay trái dắt lấy bàn tay nhỏ nhắn của bé Rem.
 
@@ -22,25 +22,25 @@ Quá trình dịch chuyển dường như đã hoàn tất suôn sẻ.
 
 “Kotarou-kun...”
 
-“Aiza... Toang rồi, vừa mở màn đã dính ngay sự cố tréo ngoe rồi đây này!”
+“Aiza... Toang rồi, vừa mở màn đã dính ngay sự cố tréo ngoe rồi đây!”
 
 Dường như Mei-chan cũng lập tức nhận thức được tình trạng dị thường đang diễn ra.
 
 Dĩ nhiên rồi! Bởi vì ĐỊA ĐIỂM DỊCH CHUYỂN HOÀN TOÀN KHÔNG GIỐNG VỚI DỰ TÍNH!
 
-Theo kế hoạch ban đầu, điểm đến phải là một khu phế tích phủ đầy tuyết trắng giữa rừng lá kim hoang vắng. Tôi đã dùng phân thân và bé Rem thử nghiệm cả trăm lần, lần nào cũng bay tới đúng vị trí đó chuẩn xác 100%, không hề có bất kỳ lỗi thiết lập tọa độ nào tại Albion.
+Theo kế hoạch ban đầu, điểm đến phải là một khu phế tích phủ đầy tuyết trắng giữa cánh rừng lá kim hoang vắng. Tôi đã dùng phân thân và bé Rem thử nghiệm cả trăm lần, lần nào cũng bay tới đúng vị trí đó chuẩn xác 100%, không hề có bất kỳ lỗi thiết lập tọa độ nào tại Albion.
 
 Thế nhưng khung cảnh trước mắt lúc này lại hoàn toàn xa lạ!
 
 Đó là một ĐẠI SẢNH ĐƯỜNG THẦN ĐIỆN NGUY NGA THÊNH THANG!
 
-Cấu trúc không gian nơi đây giống hệt như quảng trường Thiên Tống Môn ở tầng đáy sâu nhất của phế tích Albion, tựa như chúng tôi chưa hề dịch chuyển đi đâu mà chỉ đơn giản là bước qua cánh cổng sang bờ bên kia vậy.
+Cấu trúc không gian nơi đây giống hệt như quảng trường 『Thiên Tống Môn』 ở tầng đáy sâu nhất của phế tích Albion, tựa như chúng tôi chưa hề dịch chuyển đi đâu mà chỉ đơn giản là bước qua cánh cổng sang bờ bên kia vậy.
 
-Thế nhưng khác với vẻ u ám lạnh lẽo chỉ được soi rọi bằng đèn khẩn cấp ở Albion, nơi này ngập tràn trong một sắc trắng tinh khôi tráng lệ!
+Thế nhưng, khác với vẻ u ám lạnh lẽo chỉ được soi rọi bằng đèn khẩn cấp ở Albion, nơi này ngập tràn trong một sắc trắng tinh khôi tráng lệ!
 
 Mặt sàn lát bằng những phiến đá trắng muốt không một vết nứt. Những hàng cột trụ khổng lồ và các bức tường xung quanh đều sáng bóng lộng lẫy như một công trình mới tinh vừa khánh thành.
 
-Và điểm xuyết khắp không gian thánh đường tráng lệ ấy là vô số hoa văn, phù điêu chạm khắc các thiên sứ và Nữ Thần theo đúng phong cách của bức tượng con ả Nữ thần Elshion rác rưởi mà Nữ thần Ruinhilde từng chém toạc năm xưa!
+Và điểm xuyết khắp không gian thánh đường tráng lệ ấy là vô số hoa văn, phù điêu chạm khắc các thiên sứ và Nữ Thần theo đúng phong cách của bức tượng con ả Nữ thần Elshion rác rưởi mà Chú thần Ruinhilde từng chém toạc năm xưa!
 
 Được soi rọi bởi những chùm sáng huy hoàng, nơi đây đích thị là một ĐẠI THÁNH ĐƯỜNG dùng để xưng tụng Nữ thần Elshion!
 
@@ -52,7 +52,7 @@ Chẳng cần tôi phải cất lời nhắc nhở, Mei-chan đã rút vũ khí 
 
 Giao phó sự an nguy trước mắt cho hai nàng hộ vệ đáng tin cậy, tôi lập tức tiến hành thao tác kích hoạt đường rút lui:
 
-“Mở ra, Thiên Tống Môn!”
+“Mở ra, 『Thiên Tống Môn』!”
 
 『*Mã lỗi 403: Hiện tại, quyền truy cập vào Thiên Tống Môn Sigrun của Tổng Đốc Lâm Thời Albion ĐÃ BỊ TỪ CHỐI!*』
 
@@ -136,7 +136,7 @@ Sự tĩnh lặng ấy là câu trả lời quá đỗi rõ ràng để nụ cư
 
 Trong tích tắc, một tia chớp đen bùng nổ long trời lở đất!
 
-Mượn trọn lực cánh tay kinh hồn bạt vía của Cuồng Chiến Binh, thanh kích kiếm 『Hắc Lam Kiếm Phủ Gilastorm』 được ném đi với tốc độ của một tia sét giáng thẳng vào đầu Syd!
+Mượn trọn lực cánh tay kinh hồn bạt vía của 『Cuồng Chiến Binh』, thanh kích kiếm 『Hắc Lam Kiếm Phủ Gilastorm』 được ném đi với tốc độ của một tia sét giáng thẳng vào đầu Syd!
 
 *Kengggg——!*
 
@@ -202,11 +202,11 @@ Tôi đảo mắt nhìn quanh một lượt. Đám kỵ sĩ này đa phần là 
 
 Tỷ lệ nam nữ khá đồng đều nhờ có hệ thống Thiên Chức, xem chừng bình đẳng giới ở dị giới này còn tiến bộ hơn cả Nhật Bản cơ đấy.
 
-“Các ngươi đã bị bao vây hoàn toàn. Thiên Tống Môn cũng nằm dưới sự kiểm soát tuyệt đối của ta. Không có đường lui, và cũng chẳng có cơ hội chiến thắng nào đâu——Nhưng nể tình đồng hương, ta bảo đảm sẽ giữ an toàn tính mạng cho các ngươi. Hãy ngoan ngoãn tra tay vào còng đi, Momokawa-kun.”
+“Các ngươi đã bị bao vây hoàn toàn. 『Thiên Tống Môn』 cũng nằm dưới sự kiểm soát tuyệt đối của ta. Không có đường lui, và cũng chẳng có cơ hội chiến thắng nào đâu——Nhưng nể tình đồng hương, ta bảo đảm sẽ giữ an toàn tính mạng cho các ngươi. Hãy ngoan ngoãn tra tay vào còng đi, Momokawa-kun.”
 
 Bầu không khí sặc mùi thuốc súng và sát khí cuộn trào.
 
-Đường lui về Albion bị cắt đứt, chênh lệch quân số là tuyệt đối. Đúng là một thế cờ tàn... Đây hoàn toàn là sai lầm bất cẩn của tôi khi chưa lường hết cạm bẫy của Thiên Tống Môn.
+Đường lui về Albion bị cắt đứt, chênh lệch quân số là tuyệt đối. Đúng là một thế cờ tàn... Đây hoàn toàn là sai lầm bất cẩn của tôi khi chưa lường hết cạm bẫy của 『Thiên Tống Môn』.
 
 “Tôi hiểu rồi... Nhưng trước đó cho tôi hỏi một câu: Souma Yuuto, Kisaragi Ryouko, Natsukawa Minami — ba người họ hiện tại có bình an vô sự không?”
 
@@ -234,7 +234,7 @@ Biểu cảm ấy chứng tỏ gã không phải là loại cặn bã xem bạn 
 
 “Đại Tư Tế Syd! Ngài nói chuyện với tên dị giáo này hơi nhiều rồi đấy!”
 
-“Hắn là một Chú thuật sư tà đạo! Để hắn lảm nhảm sẽ làm ô uế thánh đường thiêng liêng này!”
+“Hắn là một 『Chú thuật sư』 tà đạo! Để hắn lảm nhảm sẽ làm ô uế thánh đường thiêng liêng này!”
 
 “Thằng ranh dị giới ngông cuồng kia! Ngươi muốn chết sớm đúng không hả!?”
 
@@ -274,7 +274,7 @@ Rút cây vương trượng 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 
 
 “C-CÁI GÌ THẾ NÀY... TẠI SAO LẠI CÓ NGƯỜI KHỔNG LỒ Ở ĐÂY——”
 
-Tên kỵ sĩ đi đầu vừa ngửa mặt lên ngơ ngác liền bị bàn chân khổng lồ của **CỰ NHÂN REM** giẫm bẹp dí xuống sàn đá, biến thành một vũng máu tươi nhuộm đỏ phiến đá trắng muốt!
+Tên kỵ sĩ đi đầu vừa ngửa mặt lên ngơ ngác liền bị bàn chân khổng lồ của Cự Nhân Rem giẫm bẹp dí xuống sàn đá, biến thành một vũng máu tươi nhuộm đỏ phiến đá trắng muốt!
 
 “TẢN RA MAU! TẢN RA KHÔNG LÀ BỊ GIẪM CHẾT HẾTTTT!!”
 
@@ -310,7 +310,7 @@ Khói đen tan biến, bên trong căn phòng điều khiển lộ ra hình ản
 
 Tôi nhanh tay rút smartphone ra căn góc chụp liên tiếp mấy tấm ảnh sắc nét: *Tách! Tách! Tách!*
 
-“Khuôn mặt của mấy lão già tà giáo các ngươi ta đã lưu lại trọn vẹn rồi nhé! Liệu hồn mà chuẩn bị tinh thần bị Chú thuật sư nguyền rủa tới chết đi!”
+“Khuôn mặt của mấy lão già tà giáo các ngươi ta đã lưu lại trọn vẹn rồi nhé! Liệu hồn mà chuẩn bị tinh thần bị 『Chú thuật sư』 nguyền rủa tới chết đi!”
 
 “Nhân tiện làm thêm một phát nữa cho mấy lão xuống lỗ luôn nhé——**HƠI THỞ RỒNG!**”
 
@@ -324,7 +324,7 @@ Lại thêm một con 『Thánh Nữ』 bản địa nữa sao! Năng lực kế
 
 “Ừm, để tớ mở đường máu!”
 
-Thu hồi lại cây kích kiếm 『Gilastorm』 và tấm đại khiên khổng lồ, Cuồng Chiến Binh Futaba Meiko sải bước lao thẳng về phía cánh cửa sắt đang bị đám kỵ sĩ chặn đường!
+Thu hồi lại cây kích kiếm 『Gilastorm』 và tấm đại khiên khổng lồ, 『Cuồng Chiến Binh』 Futaba Meiko sải bước lao thẳng về phía cánh cửa sắt đang bị đám kỵ sĩ chặn đường!
 
 “NGĂN CON NHỎ ĐÓ LẠI!”
 

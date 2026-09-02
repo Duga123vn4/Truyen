@@ -2,105 +2,105 @@
 
 “SOUMAAAAAAA!!”
 
-Bao phủ trong luồng ma khí bóng tối, Rerite giờ đây nhuộm một màu đen kịt cất tiếng gào thét đầy oán hận.
+Bao phủ trong luồng ma khí bóng tối, Rerite giờ đây nhuộm một màu đen kịt, cất tiếng gào thét ngập tràn oán hận.
 
-Như để phản hồi lại sự bộc phát từ lòng căm thù mãnh liệt, luồng ma khí tuôn trào từ khắp cơ thể cậu ta ngày càng trở nên đặc quánh, rồi ngưng tụ lại thành một, hai, ba vòng xoáy.
+Như để phản hồi lại sự bùng nổ từ cơn thịnh nộ tột cùng, luồng ma khí tuôn trào từ khắp cơ thể cậu ta ngày càng trở nên đặc quánh, rồi ngưng tụ lại thành một, hai, ba vòng xoáy dữ dội.
 
-Khi luồng ma khí bóng tối cuộn xoáy và nén chặt lại, những chiếc đầu lâu rực cháy ngọn lửa đen dần hình thành.
+Khi màn hắc khí cuộn trào và bị nén chặt đến cực hạn, những chiếc đầu lâu rực cháy ngọn lửa đen dần thành hình.
 
 “Oooo...”
 
 “Haaaa...”
 
-Dù không có thanh quản, những chiếc đầu lâu tạo ra từ sức mạnh bóng tối vẫn phát ra những âm thanh rên rỉ ghê rợn, lao vút đi kéo theo những vệt lửa đen dài phía sau.
+Dù không hề có thanh quản, những chiếc đầu lâu tạo tác từ sức mạnh bóng tối vẫn phát ra từng hồi rên rỉ rợn người, xé gió lao vút đi, kéo theo những vệt lửa đen dài ngoằng phía sau.
 
-Điểm đến của chúng đương nhiên là vị Dũng Giả đang tỏa ánh hào quang. Như thể có ý chí riêng, chúng nhắm thẳng vào Dũng Giả mà lao tới.
+Mục tiêu của chúng hiển nhiên là vị Dũng Giả đang tỏa ánh hào quang rực rỡ. Tựa như sở hữu ý chí độc lập, lũ đầu lâu hung hãn nhắm thẳng vào cậu mà phóng tới.
 
-“Cậu đang triệu hồi oán linh sao? Thật là một sức mạnh đáng ghê tởm.”
+“Cậu đang triệu hồi oán linh sao? Thật là một thứ sức mạnh đáng ghê tởm.”
 
-Dù phải đối mặt với cảnh tượng hàng loạt đầu lâu đen kịt rực lửa đang lao về phía mình, vị Dũng Giả vẫn nhìn đối phương bằng ánh mắt đượm vẻ thương hại, rồi vung thanh thánh kiếm sáng chói lên.
+Dù phải đối mặt với cảnh tượng hàng loạt đầu lâu đen ngòm rực lửa ập tới, vị Dũng Giả vẫn chỉ nhìn đối phương bằng ánh mắt đượm vẻ thương hại, đoạn vung thanh thánh kiếm sáng chói lên.
 
-Ngay khi cậu chém đôi chiếc đầu lâu dẫn đầu đang gầm rú oán hận — *Oành!* Một tiếng nổ chói tai vang lên, ngọn lửa đen bùng phát dữ dội.
+Khoảnh khắc nhát kiếm chém đôi chiếc đầu lâu dẫn đầu đang gầm rú căm hờn — *Oành!* Một tiếng nổ đinh tai nhức óc vang lên, ngọn hỏa diệm đen ngòm bùng phát dữ dội.
 
 “Chẳng khác nào những kẻ liều chết.”
 
-Dù hứng chịu vụ nổ lửa đen ở cự ly gần, Yuuto vẫn lầm bầm mà không hề dính một vết muội than nào nhờ có 『Thiên Tinh Thuẫn』 bảo vệ.
+Hứng trọn vụ nổ lửa đen ở cự ly sát sườn, Yuuto vẫn trầm giọng lầm bầm mà chẳng hề dính lấy một vết muội than nhờ có 『Thiên Tinh Thuẫn』 che chắn toàn diện.
 
-Trong lúc những chiếc đầu lâu tiếp theo đang dồn dập lao tới, cậu dùng đôi chân đã được cường hóa đạp mạnh xuống sàn để lùi lại, đồng thời giơ tay trái lên.
+Trong lúc những chiếc đầu lâu tiếp theo đang dồn dập ập đến, cậu dùng đôi chân đã được cường hóa ma lực đạp mạnh xuống sàn để lùi lại, đồng thời giơ tay trái lên.
 
 “Giải phóng 『Kho Kiếm』 — 『Thánh Hỏa Thương Lôi』!”
 
-Thứ cậu rút ra từ ma pháp không gian lưu trữ vũ khí là một thanh katana. Trên lưỡi kiếm tỏa ra ánh sáng xanh lam, các thuật thức để thi triển thuộc tính Hỏa và Lôi được khắc họa đan xen vô cùng phức tạp.
+Thứ cậu rút ra từ ma pháp không gian lưu trữ vũ khí là một thanh katana. Trên lưỡi kiếm tỏa ra ánh sáng xanh lam sắc lạnh, các thuật thức để thi triển thuộc tính Hỏa và Lôi được khắc họa đan xen vô cùng phức tạp.
 
-Vốn là hai thanh ma pháp kiếm 『Thương Viêm Kiếm』 và 『Thương Lôi Kiếm』, nhưng giờ đây khi không còn cần phải che giấu thân phận và sức mạnh nữa, Kotori đã dùng trang thiết bị của Tháp Trung Tâm cùng kỹ năng luyện kim của mình để hợp nhất chúng thành một thanh ma pháp kiếm mang song thuộc tính.
+Vốn là hai thanh ma pháp kiếm 『Thương Viêm Kiếm』 và 『Thương Lôi Kiếm』, nhưng giờ đây khi không còn cần phải che giấu thân phận và sức mạnh nữa, Kotori đã tận dụng trang thiết bị của Tháp Trung Tâm cùng kỹ năng luyện kim của mình để hợp nhất chúng thành một thanh ma pháp kiếm mang song thuộc tính hoàn hảo.
 
-Nó ẩn chứa sức mạnh to lớn có thể phóng ra ngọn lửa thánh và sấm sét màu xanh lam chỉ với một nhát chém, nhưng chúng không hề phun ra từ lưỡi kiếm. Thay vào đó, thuật thức được khắc trên kiếm tỏa sáng rực rỡ để thi triển ma pháp tận dụng sức mạnh của lửa và sét.
+Thanh kiếm ẩn chứa uy lực kinh hoàng, có thể phóng thích ngọn lửa thánh cùng sấm sét màu xanh lam chỉ sau một đường chém. Tuy nhiên, chúng không hề bộc phát trực tiếp từ lưỡi kiếm. Thay vào đó, thuật thức khắc trên thân kiếm phát sáng rực rỡ nhằm kích hoạt ma pháp tận dụng triệt để sức mạnh của lửa và sét.
 
 “『Đa Trùng Liên Tỏa Triệu Hoán Trận』 — Hãy xuất hiện, 『Hỏa Tinh Linh』, 『Lôi Tinh Linh』!”
 
-Như thể có vầng hào quang tỏa chiếu, vô số ma pháp trận hình tròn nhỏ nổi lên phía sau lưng Yuuto. Sau một nhịp nhấp nháy, những quả cầu lửa và sét tỏa ánh sáng xanh lam được triệu gọi ra. Trông chúng có vẻ giống như hỏa cầu và lôi cầu dùng để tấn công, nhưng thực chất lại mang đặc tính của tinh linh.
+Tựa như vầng hào quang chói lọi giáng thế, vô số ma pháp trận tròn trịa cỡ nhỏ đồng loạt hiển hiện sau lưng Yuuto. Sau một nhịp nhấp nháy, những quả cầu lửa và sấm sét ánh sắc lam biếc được triệu gọi ra. Trông chúng ngỡ như hỏa cầu và lôi cầu thông thường dùng để oanh tạc, song bản chất lại mang đặc tính thuần túy của tinh linh.
 
-Điều đó có nghĩa là chúng sở hữu khả năng tự vận hành, tự động di chuyển chỉ theo một mệnh lệnh của Yuuto.
+Điều đó đồng nghĩa với việc chúng sở hữu khả năng tự vận hành, tự động truy kích chỉ bằng một mệnh lệnh duy nhất từ Yuuto.
 
 “Đánh chặn đi.”
 
-Cậu đối phó với các oán linh của Rerite bằng đòn tấn công cũng có khả năng tự vận hành tương tự.
+Cậu đối phó với bầy oán linh của Rerite bằng một đòn tấn công tự định hướng tương tự.
 
-Những tinh linh bay lượn va chạm với số lượng oán linh tương ứng, khiến sức mạnh ẩn chứa trong cả hai bên bùng nổ.
+Những tinh linh bay lượn trên không trung va chạm trực diện với số lượng oán linh tương ứng, khiến nguồn năng lượng nén chặt bên trong cả hai bên lập tức phát nổ kinh hoàng.
 
-Trong lúc ánh sáng và bóng tối nuốt chửng lẫn nhau, tạo ra một quầng lửa nổ hỗn hợp lan rộng che kín tầm nhìn, thì—
+Ánh sáng và bóng tối điên cuồng cắn nuốt lẫn nhau, tạo thành một quầng lửa nổ hỗn mang cuồn cuộn che kín tầm nhìn. Ngay trong tích tắc hỗn loạn ấy—
 
 “Uồồồồồaaaaaaaaaaaaaa!”
 
-Rerite gầm lên một tiếng như dã thú hung tợn, lao thẳng tới không chút do dự.
+Rerite gầm thét như một con dã thú khát máu, lao thẳng tới không chút do dự.
 
-Cậu ta xuyên qua dư chấn của vụ nổ giữa oán linh và tinh linh mà không hề nao núng, áp sát Yuuto đang thủ thế song kiếm.
+Cậu ta xé toạc dư chấn của vụ nổ giữa oán linh và tinh linh mà chẳng hề nao núng, chớp mắt đã áp sát Yuuto đang thủ thế song kiếm.
 
 “『Bạch Ảnh Thương』!”
 
-Yuuto dùng thêm ma pháp để đối phó với sự tiếp cận của Rerite.
+Yuuto lập tức bồi thêm ma pháp để ứng phó với đòn đột kích của Rerite.
 
-Kỹ năng 『Bạch Ảnh Thương』 thu được sau khi tiêu diệt con Boss dạng ma cà rồng là ma pháp tấn công phóng ra những ngọn thương từ ánh sáng chiếu rọi. Nếu dùng nó để chống lại kẻ địch đang lao tới, cậu có thể cầm chân hoặc đâm xuyên qua đối phương.
+Kỹ năng 『Bạch Ảnh Thương』 thu được sau khi tiêu diệt con Boss ma cà rồng là ma pháp công kích có khả năng phóng ra vô vàn ngọn thương từ các luồng quang tuyến chiếu rọi. Nếu thi triển để chặn đứng kẻ địch đang lao tới, cậu hoàn toàn có thể cầm chân hoặc đâm nát đối phương.
 
-Dù không phải là một ma pháp sư thực thụ, nhưng nhờ lượng ma lực dồi dào cùng độ tương thích cao với thuộc tính Quang, Yuuto đã tạo ra hàng loạt ngọn thương mang ánh kim loại trắng xếp thành hàng như một đội hình phương trận, chĩa những mũi nhọn sắc bén về phía Rerite.
+Dù không phải một ma pháp sư chuyên nghiệp, nhưng nhờ lượng ma lực khổng lồ cùng độ tương thích tuyệt hảo với thuộc tính Quang, Yuuto đã tạo ra hàng loạt ngọn thương ánh kim loại trắng xóa xếp lớp như một phương trận chiến đấu, chĩa thẳng đầu mũi sắc lạnh về phía Rerite.
 
 “Haaaaaaaaaa!”
 
-Thế nhưng, Rerite vẫn không dừng lại. Cậu ta tiếp tục tăng tốc, lao đầu thẳng vào hàng ngũ thương trắng — *Keng!* Một tiếng kim loại vỡ vụn lanh lảnh vang lên, cậu ta đã đột phá trực diện thành công.
+Thế nhưng, Rerite chẳng hề có ý định dừng lại. Cậu ta tiếp tục đẩy tốc độ lên mức điên cuồng, đâm đầu thẳng vào rừng thương trắng — *Keng!* Tiếng kim loại vỡ vụn lanh lảnh vang dội không gian, cậu ta đã thành công đục thủng phòng tuyến từ chính diện.
 
 “Ra là vậy, cơ thể cậu cũng đã trở nên cứng cáp hơn rồi sao.”
 
-Nhìn Rerite đâm xuyên qua rừng thương từ chính diện và bước vào khoảng cách cận chiến trong tầm tay, vị Dũng Giả vung song kiếm lên.
+Nhìn Rerite xuyên phá rừng thương ngay trước mắt và bước vào tầm đánh cận chiến, vị Dũng Giả dứt khoát vung song kiếm lên.
 
 “Gừ...!?”
 
-Một khoảnh khắc giao chiêu ngắn ngủi. Hai đường kiếm lóe lên như chớp giật khiến Rerite rên rỉ một tiếng rồi ngã lăn ra đất.
+Khoảnh khắc giao chiêu diễn ra chớp nhoáng. Hai vệt kiếm quang lóe lên xé rách không khí khiến Rerite bật ra một tiếng rên rỉ đau đớn rồi ngã lăn ra sàn đá.
 
-Vết chém sáng rực cắt đôi luồng hắc khí, khắc sâu vào cơ thể đen kịt của cậu ta. Nhát kiếm thứ nhất chém vào cánh tay phải đang vươn ra tấn công. Nhát kiếm thứ hai chém chéo từ vai xuống sườn.
+Đường kiếm sáng lóa chém toạc luồng hắc khí, khắc sâu vào cơ thể đen kịt của cậu ta. Nhát kiếm thứ nhất chặt đứt hướng vung của cánh tay phải. Nhát kiếm thứ hai chém chéo một đường hiểm hóc từ vai thẳng xuống sườn.
 
-Dù hứng trọn đòn tấn công nhưng cậu ta không hề chảy máu. Vừa lăn lộn trên đất, Rerite đã mượn đà bật dậy nhanh nhẹn như một chú mèo, luồng hắc khí đậm đặc lập tức bao phủ quanh vết thương. Nó nhuộm đen lại những vệt chém đang phát sáng kia rồi xóa sạch chúng đi.
+Dù hứng trọn liên hoàn trảm, cậu ta lại chẳng hề rơi một giọt máu. Vừa lăn lộn trên đất, Rerite đã mượn đà bật dậy thoăn thoắt tựa loài mèo, luồng hắc khí đậm đặc lập tức tuôn ra cuồn cuộn bao bọc lấy vết thương. Nó nhanh chóng nhuộm đen lại những vệt chém đang phát sáng kia rồi xóa sạch chúng không một dấu vết.
 
-*Mình cứ ngỡ đã gạt phăng hoàn toàn rồi... thế mà sức mạnh đó vẫn chạm tới được sao. Đúng là thứ sức mạnh bóng tối phiền phức.*
+*Mình cứ ngỡ đã gạt phăng hoàn toàn rồi... thế mà sức mạnh đó vẫn chạm tới được sao. Đúng là thứ bóng tối phiền toái.*
 
-Với kiếm thuật phái Souma, Yuuto dễ dàng hóa giải đòn tấn công vụng về chỉ biết lao thẳng tới và vung cánh tay phải của Rerite.
+Bằng kiếm thuật thượng thừa của phái Souma, Yuuto dễ dàng hóa giải đòn tấn công thô kệch chỉ biết lao bừa và vung tay phải của Rerite.
 
-Đầu tiên, cậu dùng 『Thánh Kiếm Ánh Sáng』 gạt phăng cánh tay phải vốn là điểm bắt đầu đòn đánh của đối phương với lực mạnh đến mức suýt chặt đứt nó, rồi tiếp tục chém một đường bằng 『Thánh Hỏa Thương Lôi』 vào thân người cậu ta. Cả hai nhát kiếm đều mang lại cảm giác chém trúng đích rất rõ ràng, nhưng như đã thấy, Rerite không hề chịu sát thương chí mạng, và những tổn thương gây ra cũng đang được hồi phục ngay lập tức.
+Đầu tiên, cậu dùng 『Thánh Kiếm Ánh Sáng』 hất tung cánh tay phải vốn là khởi điểm đòn đánh của đối phương với lực đạo suýt chút nữa đã chặt đứt lìa nó, rồi lập tức bồi thêm một nhát 『Thánh Hỏa Thương Lôi』 thẳng vào thân người cậu ta. Cả hai nhát kiếm đều mang lại cảm giác chém trúng da thịt vô cùng chân thực, nhưng như đã thấy, Rerite không hề chịu sát thương chí mạng, và mọi tổn thương thể xác đều đang được tái tạo tức thì.
 
-Dù là người đơn phương tấn công, nhưng từ cánh tay phải lên đến vai của Yuuto lại bị luồng hắc khí cuồn cuộn như khói đen bám chặt lấy. Nó mang theo cơn đau nhói như kim châm chích vào da thịt, tạo ra một ảo giác rùng rợn như thể cơ thể cậu đang bị một thực thể tà ác xâm chiếm.
+Dù là kẻ nắm thế thượng phong và đơn phương ra đòn, nhưng từ cánh tay phải lan dần lên vai của Yuuto lại bị một luồng hắc khí cuồn cuộn như khói đen quấn chặt lấy. Nó mang theo cơn đau buốt nhức tựa ngàn mũi kim châm thẳng vào da thịt, tạo nên một ảo giác ghê rợn như thể cơ thể cậu đang bị một thực thể tà ác xâm lấn từng chút một.
 
-Cậu đã tránh được đòn đánh trực diện và thậm chí không hề bị sượt qua, nhưng luồng hắc khí cuộn xoáy trên cánh tay phải của Rerite vẫn chạm tới được Yuuto. Và chỉ bấy nhiêu thôi cũng đủ để nó phát huy hiệu quả như kịch độc, gặm nhấm cánh tay phải của cậu.
+Cậu rõ ràng đã hóa giải được đòn đánh trực diện và thậm chí không hề bị sượt qua, nhưng luồng hắc khí cuộn xoáy trên cánh tay phải của Rerite vẫn tìm cách lan tới người Yuuto. Và chỉ cần bấy nhiêu thôi cũng đủ để nó phát huy tác dụng như kịch độc, điên cuồng gặm nhấm cánh tay phải của cậu.
 
-Nếu chỉ đỡ đòn hay né tránh theo cách thông thường thì vẫn sẽ bị luồng hắc khí kia ảnh hưởng. Dù hành động của đối phương rất đơn giản — chỉ là lao thẳng vào như một con thú điên loạn — nhưng hiệu ứng này đã đẩy độ khó của việc đối phó lên gấp bội.
+Nếu chỉ đơn thuần đỡ gạt hay né tránh theo lẽ thường, bản thân vẫn sẽ bị luồng hắc khí kia ăn mòn. Dù hành động của đối phương cực kỳ giản đơn — chỉ là lao thẳng vào như một con thú điên mất trí — nhưng hiệu ứng nguyền rủa này đã đẩy độ khó của trận chiến lên gấp bội phần.
 
-“『Gia Tốc Hồi Phục』... Không, trường hợp này dùng 『Thương Công Ba Động』 có vẻ tốt hơn.”
+“『Gia Tốc Hồi Phục』... Không, trường hợp này dùng 『Thương Công Ba Động』 sẽ tối ưu hơn.”
 
 “Gừ ooooooaaaaaa!”
 
-Trong lúc Rerite vừa lấy lại thăng bằng lại tiếp tục lao tới, Yuuto nhảy bật ra xa để né tránh, đồng thời tập trung chữa trị cho cánh tay phải của mình.
+Trong lúc Rerite vừa lấy lại thăng bằng và tiếp tục điên cuồng lao tới, Yuuto lập tức nhảy bật lùi về sau để kéo giãn khoảng cách, đồng thời dồn sự tập trung để xử lý cánh tay phải của mình.
 
-Phương pháp hồi phục mà cậu chọn không phải là ma pháp trị liệu, mà là 『Thương Công Ba Động』, thứ vốn dùng để tạo ra luồng ma lực hộ thể nhằm tung ra những đòn tấn công mạnh mẽ hơn.
+Phương pháp hồi phục mà cậu lựa chọn không phải ma pháp trị liệu thông thường, mà là 『Thương Công Ba Động』, thứ vốn dùng để kích hoạt luồng ma lực hộ thể nhằm tung ra những đòn công phá dũng mãnh hơn.
 
-Khi luồng hào quang xanh lam pha trộn giữa sinh mệnh lực của Dũng Giả và sức mạnh ánh sáng thánh thiện bùng lên trên cánh tay phải, bóng tối tà ác lập tức tan biến như bị thanh tẩy. Điều này chứng minh rằng đối với sức mạnh bóng tối, việc tịnh hóa bằng sức mạnh ánh sáng sẽ hiệu quả hơn là chỉ đơn thuần chữa lành cơ thể.
+Khi luồng hào quang xanh lam pha trộn giữa sinh mệnh lực cuộn trào của Dũng Giả và sức mạnh ánh sáng thần thánh bùng lên quanh cánh tay phải, bóng tối tà ác lập tức tan biến như làn khói bị thanh tẩy. Điều này chứng minh rằng đối với quyền năng bóng tối, việc dùng uy lực ánh sáng để tịnh hóa sẽ mang lại hiệu quả vượt trội hơn hẳn so với việc chỉ chữa lành thể xác một cách đơn thuần.
 
 “Tới đây, Hayama. Tôi sẽ thanh tẩy toàn bộ bóng tối trong cậu.”
 
@@ -108,126 +108,126 @@ Khi luồng hào quang xanh lam pha trộn giữa sinh mệnh lực của Dũng 
 
 ***
 
-So với cuộc đụng độ ngày càng khốc liệt giữa ánh sáng và bóng tối ở đằng kia, kẻ giật dây đứng sau — 『Hiền Giả』 Takanashi Kotori cuối cùng cũng đáp xuống trước mặt nhóm Kotarou.
+Trái ngược với cuộc đụng độ long trời lở đất giữa ánh sáng và bóng tối ở đằng xa, kẻ giật dây đứng sau bức màn — 『Hiền Giả』 Takanashi Kotori cuối cùng cũng hạ cánh xuống trước mặt nhóm chúng tôi.
 
-*Vẫn là một con 『Hiền Giả』 ngu ngốc như mọi khi. Ngay khoảnh khắc mày lộ diện, cơ hội của tao đã đến rồi.*
+*Vẫn là cái điệu bộ của một con 『Hiền Giả』 ngu ngốc như mọi khi. Ngay khoảnh khắc mày chịu thò mặt ra, cơ hội của tao đã đến rồi.*
 
-Thú thật, điều đáng ngại nhất là việc Takanashi chui rúc trong một căn phòng chỉ huy nào đó.
+Thú thật, điều khiến tôi đau đầu nhất là nguy cơ Takanashi chui rúc cố thủ trong một căn phòng chỉ huy kín cổng cao tường nào đó.
 
-Dù đã chặn đường trốn thoát của cô ta bằng cách phong tỏa cổng dịch chuyển, nhưng chúng tôi hiện tại không có cách nào mở được những cánh cửa dày cộp được khóa chặt. Hơn nữa, không loại trừ khả năng nơi đó cũng được trang bị hệ thống phòng ngự hoàn hảo giống như Quảng Trường Tinh Linh kia.
+Dù chúng tôi đã triệt hạ đường trốn thoát của cô ta bằng cách phong tỏa hoàn toàn cổng dịch chuyển, nhưng hiện tại phe này vẫn chưa có cách nào phá tung những cánh cửa bọc thép dày cộp đang khóa chặt. Hơn nữa, chẳng loại trừ khả năng bên trong căn phòng đó cũng được trang bị một hệ thống phòng thủ tuyệt đối tương tự như Quảng Trường Tinh Linh ngoài kia.
 
-Nếu thế thì trận chiến sẽ rơi vào thế bế tắc vô hạn mất.
+Nếu kịch bản đó xảy ra, cuộc chiến chắc chắn sẽ bị kéo vào một thế bế tắc vô tận.
 
-Mà với tính cách của con nhỏ này, một khi mất đi 『Dũng Giả』 Souma Yuuto và phải trơ trọi một mình, cô ta chắc chắn không đủ bản lĩnh để cố thủ trong một tòa thành không lối thoát. Dù xét về mục đích hay lực lượng chiến đấu, Takanashi buộc phải tung Souma Yuuto ra trận. Chính vì đã nắm chắc phần thắng trong tay nên tôi mới quyết định tiến công... Tuy nhiên, việc cô ta chịu chui ra ngoài thay vì cố thủ vẫn là một kịch bản tốt nhất, nên việc cô ta tự mò mặt đến trước chúng tôi quả thực là một cơ hội ngàn năm có một.
+Tuy nhiên, với bản tính của con nhỏ này, một khi mất đi 『Dũng Giả』 Souma Yuuto và phải trơ trọi một mình, cô ta tuyệt đối chẳng đủ can đảm lẫn bản lĩnh để tử thủ trong một pháo đài không lối thoát. Dù xét về mưu đồ hay quân bài chiến đấu, Takanashi buộc lòng phải tung Souma Yuuto ra tiền tuyến. Chính vì đã nắm chắc phần thắng trong tay nên tôi mới quyết định tổng lực tiến công... Dẫu vậy, việc cô ta tự nguyện mò mặt ra ngoài thay vì trốn chui trốn lủi vẫn là diễn biến mỹ mãn nhất, biến đây thành cơ hội ngàn năm có một để dứt điểm tất cả.
 
-“Hả? Đâu phải chỉ có mình mày mới biết dùng phân thân. Mày quên chuyện ở Học Viện Tháp rồi sao?”
+“Hả? Đâu phải chỉ có mình mày mới biết dùng phân thân. Mày quên mất chuyện xảy ra ở Học Viện Tháp rồi à?”
 
-À, vụ mưu sát bằng độc bất thành đó chứ gì. Cái vụ mà cô ta đã ngu ngốc để sổng mất tôi, rồi tự mình khai ra bản thân là kẻ chủ mưu đứng sau ấy. Tất nhiên là tôi nhớ rõ như in rồi.
+À, cái vụ mưu sát bằng độc bất thành đó chứ gì. Cái vụ mà cô ta đã ngớ ngẩn để sổng mất tôi, rồi tự mồm bộc bạch bản thân chính là kẻ chủ mưu đứng sau ấy. Tất nhiên là tao nhớ rõ như in rồi.
 
-“Mày là bản thể thật mà. Không phải 『Tương Ảnh Thuật』 như lúc đó đâu.”
+“Mày là bản thể thật mà. Đâu phải trò 『Tương Ảnh Thuật』 rẻ tiền như lúc đó.”
 
-“Không cần dùng mấy cái xúc tu tởm lợm đó kiểm tra mà mày cũng biết à?”
+“Không cần dùng mấy cái xúc tu tởm lợm đó để kiểm tra mà mày cũng nhìn ra cơ à?”
 
-“Mày nghĩ tao không nhìn thấu được một chiêu trò đã dùng qua một lần sao?”
+“Mày nghĩ tao không bóc mẽ được một chiêu trò đã dùng qua một lần chắc?”
 
 “Chỉ giỏi bốc phét.”
 
-“Đối phó với loại như mày thì tao cần gì phải bốc phét.”
+“Đối phó với loại như mày thì tao cần quái gì phải bốc phét.”
 
-Rất tiếc cho mày đấy Takanashi, lần này tao không hề nói khoác mà là nhìn thấu thật sự.
+Rất tiếc cho mày đấy Takanashi, lần này tao chẳng hề nói khoác mà là đã nhìn thấu tận chân tơ kẽ tóc.
 
-Với tôi của ngày trước thì đúng là ngoài việc chạm trực tiếp vào, không còn cách nào khác để phân biệt một 『Tương Ảnh Thuật』 tinh vi chẳng khác gì ảnh ảo ba chiều. Thế nhưng, tôi của hiện tại đã sở hữu một chú thuật mới mà hồi đó chưa có.
+Với tôi của ngày trước thì đúng thật, ngoài việc chạm trực tiếp vào mục tiêu, chẳng có cách nào để phân biệt một ảo ảnh 『Tương Ảnh Thuật』 tinh vi hệt như ảnh chiếu ba chiều. Thế nhưng, tôi của hiện tại đã nắm trong tay một chú thuật hoàn toàn mới mà thuở ấy chưa từng sở hữu.
 
-Chú thuật giúp dễ dàng phân biệt đối phương là thật hay giả, tên của nó là:
+Chú thuật giúp dễ dàng bóc trần chân tướng đối phương là thật hay giả, danh xưng của nó chính là:
 
-『Hư Ảnh Tương Chiếu』: Nhãn thuật của sự hư vinh. Nếu con người chỉ muốn thấy những gì họ muốn thấy, thì cứ việc phơi bày những gì muốn cho họ thấy. Thế nhưng, thứ trang hoàng rỗng tuếch thiếu đi sự thật sẽ dễ dàng bị lay động và lộ ra sơ hở. Dù vậy, nếu vẫn muốn phô diễn một hình hài giả tạo, thì hãy trang hoàng nó sao cho lộng lẫy và tinh xảo hơn nữa. Bất kỳ ai cũng chỉ nhìn vào vẻ bề ngoài mà tự cho là đã thấu hiểu chân lý.
+『Hư Ảnh Tương Chiếu』: Nhãn thuật của sự hư vinh. Nếu con người chỉ khao khát được thấy những gì họ muốn thấy, thì cứ việc phơi bày những gì muốn cho họ thấy. Thế nhưng, thứ trang hoàng rỗng tuếch thiếu vắng đi chân lý sẽ dễ dàng bị lay chuyển và lộ ra sơ hở. Dù vậy, nếu vẫn muốn phô diễn một hình hài giả tạo, thì hãy trang hoàng nó sao cho lộng lẫy và tinh xảo hơn nữa. Bất kỳ ai cũng chỉ nhìn vào vẻ bề ngoài mà tự huyễn hoặc rằng mình đã thấu triệt chân tướng.
 
-Đây là nhãn thuật đã đóng góp công lao to lớn trong chiến dịch chinh phục Vương quốc Goma. Để đánh lừa thị giác kẻ địch, việc chuẩn bị một vật làm nền có ngoại hình tương xứng là điều tối quan trọng, biến nó thành một chú thuật đòi hỏi sự chuẩn bị khá tỉ mỉ... Nhưng thực chất, chú thuật này lại có một kẽ hở. Nói chính xác hơn thì là giới hạn về đối tượng tác dụng.
+Đây chính là nhãn thuật đã lập nên chiến công hiển hách trong chiến dịch bình định Vương quốc Goma. Để đánh lừa thị giác kẻ địch, việc chuẩn bị một vật làm nền có hình dáng tương xứng là điều tối quan trọng, biến nó thành một chú thuật đòi hỏi sự chuẩn bị vô cùng tỉ mỉ... Song trên thực tế, chú thuật này lại tồn tại một kẽ hở. Hay nói chính xác hơn, đó là giới hạn về đối tượng có thể tác động.
 
-Tóm lại, nó có một hạn chế là không thể thi triển lên những thứ không có thực thể.
+Nói một cách ngắn gọn, nó tuyệt đối không thể thi triển lên những thực thể không có thể xác vật lý.
 
-Lần đầu tiên tôi nhận ra điều này là khi đang ru rú trong phòng chỉ huy của pháo đài ẩn, dán mắt vào màn hình để thu thập thông tin. Trong lúc công việc trì trệ và bản thân đang mất tập trung, tôi vô tình nhìn thấy Mei trên màn hình giám sát.
+Lần đầu tiên tôi vỡ lẽ ra điều này là khi đang ru rú trong phòng điều hành của pháo đài ẩn, dán chặt mắt vào màn hình để thu thập tin tức. Giữa lúc công việc đình trệ và đầu óc bắt đầu lơ đễnh, tôi vô tình trông thấy Mei-chan xuất hiện trên màn hình giám sát.
 
-Chẳng có gì đặc biệt, chỉ là nhìn thấy cô ấy đang nấu ăn trong bếp như thường lệ, nhưng đầu óc tôi bỗng nảy ra một ý nghĩ táo bạo.
+Chẳng có gì to tát, chỉ là cảnh cô ấy đang cặm cụi nấu nướng trong bếp như mọi bận, nhưng trong đầu tôi bỗng nảy ra một ý tưởng vô cùng táo bạo.
 
-*Nếu mình dùng 『Hư Ảnh Tương Chiếu』 lên Mei trên màn hình này, liệu có nhìn thấy cô ấy khỏa thân không nhỉ?*
+*Nếu mình niệm 『Hư Ảnh Tương Chiếu』 lên Mei-chan qua cái màn hình này, liệu có thấy cô ấy khỏa thân không nhỉ?*
 
-Hoàn toàn là một ý nghĩ bộc phát đầy tội lỗi. Tôi đã làm thế vì nổi hứng. Và đến tận bây giờ tôi vẫn không hề hối hận.
+Hoàn toàn là một thôi thúc đầy tội lỗi bột phát từ bản năng. Tôi làm thế đơn thuần vì hứng khởi nhất thời. Và thú thật, đến tận giây phút này tôi vẫn chẳng hề cảm thấy hối hận chút nào.
 
-Giống như cách mạng Internet bùng nổ trên toàn cầu, ham muốn tình dục quả thực là một nguồn động lực và sức sáng tạo phi thường. Dù cho có thành công đi chăng nữa, đó cũng chỉ là hình ảnh phản chiếu từ trí tưởng tượng của tôi chứ không phải cơ thể thật của cô ấy. Nhưng thế là đủ rồi. Chỉ cần trông giống như thật là tôi đã mãn nguyện lắm rồi.
+Hệt như làn sóng cách mạng Internet từng bùng nổ khắp toàn cầu, dục vọng quả nhiên là cội nguồn của mọi động lực và sức sáng tạo phi thường. Cho dù có kích hoạt thành công đi chăng nữa, hình ảnh ấy cũng chỉ là ảo ảnh phản chiếu từ trí tưởng tượng của tôi chứ chẳng phải thân thể thực sự của cô ấy. Nhưng chừng đó là quá đủ rồi. Miễn là trông sống động như thật thì tôi đã mãn nguyện lắm rồi.
 
-Với dã tâm tràn trề đó, tôi đã tiến hành thử nghiệm... Thế nhưng, dù có dán mắt vào Mei trên màn hình bao lâu đi chăng nữa, cô ấy vẫn không hề khỏa thân. Nói cách khác, tôi nhận ra 『Hư Ảnh Tương Chiếu』 đã không thể kích hoạt.
+Với dã tâm hừng hực ấy, tôi đã lập tức tiến hành thử nghiệm... Thế nhưng, dẫu tôi có dán mắt nhìn chằm chằm vào Mei-chan trên màn hình bao lâu đi chăng nữa, trang phục trên người cô ấy vẫn chẳng hề biến mất. Nói cách khác, tôi nhận ra 『Hư Ảnh Tương Chiếu』 hoàn toàn không thể kích hoạt.
 
-Sau đó, tôi đã thử nghiệm thêm bằng cách sử dụng chức năng trình chiếu ảnh ảo ba chiều và rút ra kết luận: 『Hư Ảnh Tương Chiếu』 chỉ có thể tác dụng lên những thực thể tồn tại vật lý.
+Sau đó, tôi đã làm thêm vài phép thử bằng chức năng trình chiếu ảnh ảo ba chiều và đúc rút ra kết luận chuẩn xác: 『Hư Ảnh Tương Chiếu』 chỉ có thể tác động lên những thực thể tồn tại bằng xương bằng thịt trong thế giới thực.
 
-Nói cách khác, dù chỉ là trong một khoảnh khắc ngắn ngủi, việc hình ảnh Takanashi khỏa thân hiện lên trong mắt tôi đã chứng minh rằng kẻ đang bay lơ lửng trước mặt tôi chính là bản thể bằng xương bằng thịt. Với trí tưởng tượng phong phú cùng lượng thông tin khổng lồ tích lũy từ cõi mạng kiếp trước, việc ghép ảnh khỏa thân của mày chỉ là chuyện nhỏ đối với tao thôi.
+Nói cách khác, dù chỉ diễn ra trong một khoảnh khắc ngắn ngủi ngủi, việc hình ảnh Takanashi lõa thể hiện lên rõ mồn một trong mắt tôi đã đanh thép chứng minh rằng kẻ đang bay lơ lửng trước mặt tôi chính là bản thể thật sự. Với trí tưởng tượng phong phú cùng kho tàng dữ liệu khổng lồ tích lũy từ cõi mạng ở kiếp trước, việc tao ghép ảnh khỏa thân của mày chỉ là chuyện cỏn con trong lòng bàn tay thôi.
 
-“Mà suy cho cùng, mày đâu phải tự dưng chui ra đây chỉ để tán gẫu. Điều đó chứng tỏ mày đang rơi vào tình cảnh bắt buộc bản thân phải đích thân ra mặt rồi.”
+“Mà suy cho cùng, mày đâu rảnh rỗi chui ra đây chỉ để đấu võ mồm. Điều đó chứng tỏ tình thế đã bắt buộc mày phải đích thân lộ diện rồi.”
 
-“Hừ, chỉ vì thằng Hayama đang làm loạn một chút mà mày đã tinh tướng rồi hả Momokawa. Souma-kun của tao làm sao có thể bại dưới tay loại như thằng Hayama được chứ.”
+“Hừ, chỉ vì thằng Hayama quậy phá được chút đỉnh mà mày đã vội lên mặt rồi hả Momokawa? Souma-kun của tao làm sao có thể thảm bại dưới tay loại phế vật như thằng Hayama được chứ!”
 
-“Mới bị tao nhìn thấu có chút xíu mà đã xị mặt ra rồi à.”
+“Mới bị tao nhìn thấu tim đen có một chút mà mặt mày đã xị ra như bánh bao chiều rồi à.”
 
-*Đã bày đặt xuất hiện với vẻ ngoài ung dung tự tại, thế mà cảm xúc lại hiện rõ mồn một trên mặt, đúng là nông cạn. Nếu đã muốn đóng vai kẻ chủ mưu thao túng tất cả thì ít nhất cũng phải học cách giữ bộ mặt lạnh lùng đi chứ.*
+*Đã cất công xuất hiện với cái vẻ ung dung tự đắc, thế mà hỉ nộ ái ố lại phơi bày hết lên mặt, đúng là loại nông cạn. Nếu đã hạ quyết tâm đóng vai kẻ chủ mưu giật dây thì ít nhất cũng phải biết giữ cái mặt lạnh tanh chứ.*
 
-“Takanashi Kotori! Tội ác của cô đến đây là kết thúc rồi. Hãy mau trả lại anh trai cho tôi, nếu cô chịu đầu hàng, tôi sẽ tha mạng cho cô.”
+“Takanashi Kotori! Tội ác của cô đến đây là chấm dứt rồi. Mau trả lại anh trai cho tôi! Nếu cô chịu ngoan ngoãn đầu hàng, tôi sẽ nương tay tha cho cô một mạng!”
 
 “Hả, Sakura-chan à...”
 
-“Phụt... ha ha ha! Mày bị ngu à Souma Sakura? Mày đúng là một con ngốc thực sự!”
+“Phụt... ha ha ha! Mày bị đần à Souma Sakura? Mày đúng là một con ngốc hết thuốc chữa!”
 
-Lần này tôi hoàn toàn đồng ý với Takanashi. Dù thế nào đi nữa thì lời tuyên bố đó cũng quá ngây thơ rồi.
+Lần này thì tôi hoàn toàn đứng về phía Takanashi. Dù có nhìn nhận thế nào đi chăng nữa thì lời tuyên bố vừa rồi cũng ngây thơ đến mức nực cười.
 
-Thà cứ chửi thẳng mặt kiểu: “Con khốn này, dám dụ dỗ anh trai tao, tao sẽ băm vằm mày ra!” có khi còn là phản ứng bình thường và thực tế hơn nhiều đấy.
+Thà rằng cứ chửi thẳng vào mặt ả ta kiểu: “Con khốn nạn, dám quyến rũ anh trai tao, tao sẽ băm vằm mày ra làm trăm mảnh!” thì nghe chừng còn giống phản ứng bình thường và thực tế hơn nhiều đấy.
 
-“Mày vẫn chưa nhận ra sao? Khi không có Souma-kun bảo vệ, mày cũng chỉ là một con đàn bà có chút nhan sắc mà thôi. À, hay là vì không chịu nổi cuộc sống kham khổ nên mày đã dạng háng ra cho thằng Momokawa rồi? Để được nó cung phụng như công chúa chứ gì?”
+“Mày vẫn chưa sáng mắt ra sao? Một khi không có Souma-kun che chở, mày rốt cuộc cũng chỉ là một con đàn bà có chút nhan sắc mà thôi. À, hay là vì không chịu nổi cảnh sống chui rúc kham khổ nên mày đã vội dạng háng ra cho thằng Momokawa rồi? Để được nó hầu hạ, cung phụng như một con công chúa chứ gì?”
 
-“Thật là thất lễ quá đi. Trừ khi vòng một của Sakura-chan to lên gấp đôi, bằng không tôi sẽ chẳng bao giờ lung lay đâu nhé.”
+“Thật là thất lễ quá đấy nhé. Trừ phi vòng một của Sakura-chan tăng thêm gấp đôi, bằng không tôi sẽ chẳng bao giờ lung lay đâu.”
 
 “C... Cô dám sỉ nhục tôi đến mức đó sao... Xem ra cô thực sự chán sống rồi đấy, Takanashi Kotori.”
 
-Dù giận run người nhưng Sakura vẫn cố nói lời khuyên hàng, không biết là vì chút lòng từ bi sót lại, hay đơn giản là vì cô nàng vốn dĩ không muốn tự nhúng chàm tay mình, nên mới mong đợi đối phương đầu hàng một cách thuận lợi đây.
+Dù toàn thân run lên vì giận dữ tột cùng, Sakura vẫn cố buông lời khuyên giải đầu hàng. Chẳng rõ đó là vì chút lòng trắc ẩn còn sót lại, hay đơn giản là vì trong thâm tâm cô nàng vốn không muốn tự tay vấy máu bạn học, nên mới ôm hy vọng đối phương chịu quy phục trong hòa bình.
 
-Dù sao thì với câu trả lời không chút hối cải của Takanashi, Sakura cuối cùng cũng đã hạ quyết tâm tự tay tiễn cô ta lên đường.
+Dù sao đi nữa, trước thái độ ngông cuồng không chút ăn năn của Takanashi, Sakura cuối cùng cũng đã hạ quyết tâm tự tay tiễn ả ta xuống địa ngục.
 
-“Không lẽ Sakura-chan nghĩ rằng mày có thể đường đường chính chính quyết đấu với Kotori sao? Ghê quá đi, đúng là lũ học võ lúc nào cũng dã man như vậy.”
+“Bộ Sakura-chan tưởng rằng mày có đủ tư cách đường đường chính chính quyết đấu với Kotori này chắc? Gớm ghiếc thật đấy, đúng là cái lũ học võ lúc nào cũng chỉ biết dùng nắm đấm dã man.”
 
-“Một khi cô đã xuất hiện trước mặt tôi, cô không thể cứ mãi đóng vai kẻ đứng ngoài xem kịch được đâu.”
+“Một khi cô đã dám hiện nguyên hình trước mặt tôi, cô đừng hòng tiếp tục đóng vai kẻ đứng ngoài xem kịch!”
 
-Sakura chĩa mũi nhọn sắc bén của cây cung 『Anh Hoa Liêu Loạn』 đang cầm trên tay về phía Takanashi đang lơ lửng giữa không trung.
+Sakura lập tức giương mũi nhọn sắc bén của cây cung 『Anh Hoa Liêu Loạn』 trên tay, nhắm thẳng vào Takanashi đang lơ lửng giữa không trung.
 
-Đúng là với độ cao lơ lửng tầm trung của Takanashi, Sakura hoàn toàn sở hữu đòn tấn công có tầm bắn dư sức chạm tới cô ta... Thế nhưng, Takanashi chắc chắn không ngu ngốc đến mức chỉ dựa vào 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』 và 『Thánh Thiên Kết Giới』 rồi tự tin thái quá rằng mình bất khả xâm phạm.
+Quả thực, với độ cao tầm trung mà Takanashi đang duy trì, Sakura hoàn toàn sở hữu những phát bắn có tầm với dư sức xuyên thủng ả... Thế nhưng, Takanashi chắc chắn không ngu xuẩn tới mức chỉ ỷ lại vào 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』 và 『Thánh Thiên Kết Giới』 rồi tự mãn rằng bản thân là bất khả xâm phạm.
 
-“Kotori việc gì phải tự mình đối phó với loại đàn bà dã man chỉ có cơ bắp như mày chứ. Những việc như thế này đương nhiên phải để lũ nô dịch cấp dưới làm rồi — Nào, hãy bảo vệ Kotori, Yêu cầu Hộ vệ!”
+“Kotori việc quái gì phải tự mình bẩn tay đối phó với loại đàn bà thô bỉ chỉ có cơ bắp như mày chứ? Mấy cái việc vặt vãnh này đương nhiên phải để lũ nô dịch cấp dưới gánh vác rồi — Nào, hãy bảo vệ Kotori, Yêu cầu Hộ vệ!”
 
-*“Xác thực Sinclair Code thành công. Tiếp nhận yêu cầu hộ vệ của Ngài Tổng đốc Tạm thời Takanashi. Lập tức phái 『Thủ Hộ Thiên Sứ』 đến hỗ trợ. Thời gian hiển hiện còn 5, 4, 3...”*
+*“Xác thực Sinclair Code thành công. Tiếp nhận yêu cầu hộ vệ từ Ngài Tổng đốc Tạm thời Takanashi. Lập tức điều động 『Thủ Hộ Thiên Sứ』 đến chi viện. Thời gian hiển hiện còn 5, 4, 3...”*
 
-Giọng nói hệ thống máy móc của Tháp Trung Tâm vừa bắt đầu đếm ngược, vô số ma pháp trận màu trắng lập tức khai mở xung quanh Takanashi. Chỉ trong vòng 5 giây ngắn ngủi, quá trình triệu hồi đã hoàn tất.
+Thanh âm máy móc vô cảm của hệ thống Tháp Trung Tâm vừa bắt đầu đếm ngược, vô số ma pháp trận màu trắng xóa lập tức khai mở dày đặc xung quanh Takanashi. Chỉ trong vòng năm giây ngắn ngủi, quy trình triệu hồi đã hoàn tất mỹ mãn.
 
-Thứ xuất hiện quả thực vô cùng xứng đáng với cái tên 『Thủ Hộ Thiên Sứ』, đó là những kị sĩ khoác trên mình bộ giáp trụ nặng nề và mang đôi cánh thiên thần.
+Thứ vừa bước ra khỏi không gian quả thực vô cùng xứng đáng với danh xưng 『Thủ Hộ Thiên Sứ』 — đó là những kị sĩ khoác trên mình bộ giáp trụ nặng nề, sau lưng mang đôi cánh thiên thần lộng lẫy.
 
-Dù là giáp toàn thân màu trắng tinh, nhưng khác với Living Armor, chúng có thiết kế mang hơi hướng viễn tưởng với những đường dẫn ma lực phát sáng đặc trưng của nền văn minh cổ đại. Đôi cánh sau lưng chắc chắn cũng được yểm sẵn 『Thánh Thiên Kết Giới』. Sự kết hợp giữa lớp giáp dày cộp và lá chắn vạn năng tạo nên một hệ thống phòng ngự kép kiên cố đến mức chỉ nhìn thôi đã thấy ngán ngẩm.
+Dù được bao bọc bởi lớp giáp toàn thân trắng toát, nhưng khác xa với loài Living Armor thô kệch, chúng sở hữu thiết kế mang đậm hơi thở công nghệ tương lai với những đường dẫn truyền ma lực phát sáng rực rỡ đặc trưng của nền văn minh cổ đại. Đôi cánh sau lưng chắc chắn cũng đã được tích hợp sẵn 『Thánh Thiên Kết Giới』. Sự kết hợp giữa lớp giáp dày cộp cùng lá chắn phòng ngự tuyệt đối đã tạo nên một hệ thống phòng thủ kép kiên cố đến mức chỉ nhìn thôi cũng đủ thấy ngán ngẩm.
 
-Vũ khí mà lũ này cầm trên tay không phải là giáo và khiên của kị sĩ thông thường, mà là những món cổ binh khí trông giống như súng máy hạng nặng và súng phóng lựu cỡ lớn. Đúng là một lũ không thèm đếm xỉa gì đến tinh thần quyết đấu công bằng, trang bị của chúng rõ ràng là để dùng hỏa lực áp đảo tiêu diệt mục tiêu một cách đơn phương.
+Vũ khí mà lũ này nắm giữ trên tay chẳng phải gươm giáo hay khiên chắn của kị sĩ truyền thống, mà là những món cổ binh khí tối tân trông hệt như súng máy hạng nặng và súng phóng lựu cỡ đại. Đúng là một lũ chẳng thèm đoái hoài gì đến tinh thần thượng võ, toàn bộ trang bị của chúng sinh ra là để dùng hỏa lực áp đảo tuyệt đối nhằm tiêu diệt mục tiêu một cách đơn phương.
 
-“Lũ tụi mày liệu có bắn hạ nổi một con không đây?”
+“Lũ tụi mày liệu có bắn hạ nổi lấy một con không đây?”
 
-Được bao quanh bởi những Thủ Hộ Thiên Sứ trông như bước ra từ một tựa game bắn súng tương lai, Takanashi ưỡn ngực kiêu ngạo tuyên bố. Đương nhiên, số lượng thiên sứ xuất hiện không chỉ có một, mà có tới mười con đang dàn hàng ngang trước mắt chúng tôi. Và vẫn chưa biết liệu mười con này đã là giới hạn hay chưa. Nếu cô ta tiếp tục yêu cầu, hệ thống của Tháp Trung Tâm hoàn toàn có thể gửi thêm viện binh tương ứng.
+Được hộ vệ tầng tầng lớp lớp bởi những cỗ máy chiến tranh bước ra từ thế giới viễn tưởng, Takanashi ưỡn ngực, kiêu ngạo buông lời thách thức. Đương nhiên, số lượng thiên sứ xuất hiện không dừng lại ở con số một, mà có tới mười cỗ máy đang dàn hàng ngang phong tỏa toàn bộ tầm nhìn của chúng tôi. Và vẫn chưa thể biết liệu mười con này đã là giới hạn tối đa hay chưa. Chỉ cần ả ta tiếp tục phát lệnh, hệ thống của Tháp Trung Tâm hoàn toàn có thể trút xuống thêm một binh đoàn tiếp viện tương tự.
 
-“Ư... Tất cả bọn chúng đều được bảo vệ bởi 『Thánh Thiên Kết Giới』 sao...”
+“Ư... Toàn bộ bọn chúng đều được bao bọc bởi 『Thánh Thiên Kết Giới』 sao...”
 
-Đến cả Sakura cũng phải e dè trước độ cứng cáp của lũ Thủ Hộ Thiên Sứ kia. Ít nhất thì cô nàng sẽ không dại dột lao thẳng vào đội hình của chúng để cận chiến.
+Đến cả Sakura cũng phải biến sắc e dè trước độ lì đòn khủng khiếp của bầy Thủ Hộ Thiên Sứ kia. Ít nhất thì cô nàng sẽ không dại dột lao đầu vào làn đạn của chúng để cận chiến.
 
-“Chỉ với chút sức lực hèn mọn đó mà dám mò đến tận đây thì tụi mày tiêu đời rồi. Nếu biết điều mà đứng yên ở đó, tao sẽ cho phép tụi mày đứng xem Souma-kun của tao tiêu diệt tên tinh linh thuật sư tà ác kia.”
+“Chỉ với chút thực lực thảm hại đó mà cũng dám mò mặt tới tận đây thì tụi mày tận số rồi. Nếu biết điều mà ngoan ngoãn đứng yên tại chỗ, tao sẽ rủ lòng từ bi cho phép tụi mày đứng nhìn Souma-kun của tao nghiền nát tên tinh linh thuật sư tà ác đằng kia!”
 
-*Ra vậy, mục tiêu chính của cô ta khi xuất hiện ở đây là thế sao.*
+*Ra là vậy, mục đích tối thượng của ả khi đích thân xuất hiện ở đây là thế này sao.*
 
-Takanashi giơ cao tay phải, trong lòng bàn tay cô ta đang nắm chặt một cây đoản trượng.
+Takanashi giơ cao tay phải, bàn tay ả đang siết chặt một cây đoản trượng ma pháp.
 
 “Souma-kun, Kotori sẽ tiếp thêm sức mạnh cho cậu! Đi nào, 『Nữ Thần Đang Dõi Theo』!”
 
 “Cảm ơn cậu, Takanashi-san —”
 
-Cây trượng của Takanashi vung lên tỏa ra ánh sáng rực rỡ, cơ thể Souma Yuuto cũng lập tức phát sáng để phản hồi lại. Luồng ánh sáng xanh lam chói lọi tụ hội về phía cánh tay trái của cậu... và tại đó, một viên đá quý tỏa sắc xanh lam nhạt được kết nối bằng những sợi xích trắng xuất hiện.
+Đoản trượng của Takanashi vung lên tỏa ra ánh hào quang rực rỡ, cơ thể Souma Yuuto lập tức phát sáng dữ dội để cộng hưởng. Luồng quang tuyến xanh lam chói lòa cuồn cuộn tụ hội về phía cánh tay trái của cậu... và ngay tại đó, một viên bảo thạch tỏa ánh sắc lam thanh khiết, được liên kết bởi những sợi xích trắng muốt, chính thức hiển hiện.
 
 “— Giải phóng Kỹ năng Đặc hữu thứ ba, 『Bí Thạch Trắng』.”

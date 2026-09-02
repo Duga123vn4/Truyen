@@ -6,145 +6,145 @@
 
 “Xùy, phiền phức quá. Lũ nhân vật phụ tụi mày câm miệng lại đi. — Nào, 『Trục Xuất Hình』.”
 
-Và thế là, hai người Ueta Youhei và Yoshizaki Hiroe đã bị trục xuất khỏi hầm ngục.
+Và thế là, Ueta Youhei cùng Yoshizaki Hiroe đã bị trục xuất khỏi hầm ngục.
 
-May mắn hay bất hạnh, hay có lẽ là do cơ chế của kỹ năng. Mari, người đang giữ chặt vai Ueta để ngăn cậu ta rút kiếm, đã không bị lạc mất mà cùng bị dịch chuyển đi với cậu ta.
+Chẳng rõ là may mắn hay bất hạnh, hay do cơ chế vận hành của kỹ năng, Mari — người lúc đó đang giữ chặt vai Ueta để ngăn cậu ta rút kiếm — đã không bị tách rời mà cùng bị dịch chuyển đi với cậu.
 
 “Cái đồ... ngốc này!!”
 
 “Á á á, dừng tay đi! Tao sai rồi! Tao biết lỗi rồi mà!?”
 
-Nơi họ bị dịch chuyển đến là đâu? Mọi người có an toàn không? Tiếp theo nên làm gì?... Đáng lẽ có hàng tá chuyện phải suy nghĩ, nhưng trước mắt, Mari quyết định đập Ueta một trận lôi đình.
+Nơi họ bị dịch chuyển đến là đâu? Mọi người ở lại có an toàn không? Tiếp theo phải làm gì?... Đáng lẽ có hàng tá điều cấp bách cần suy tính, nhưng trước mắt, Mari quyết định đập cho Ueta một trận ra trò.
 
-Dù là ở Học Viện Tháp hay Pháo đài ẩn, hai người họ vốn là quân tiên phong chưa từng thực hiện nhiều trận đấu tập thực chiến như một phần của quá trình huấn luyện. Dẫu vậy, nhờ khả năng cảm nhận hiện diện sắc bén từ thiên chức 『Kiếm Sĩ』, Ueta vẫn cảm nhận rõ mồn một rằng đòn đánh mà Mari đang tung ra lúc này thực sự chứa đựng một sát ý vô cùng nghiêm túc.
+Dù ở Học Viện Tháp hay Pháo đài ẩn, hai người họ vốn thuộc đội ngũ tiên phong, chưa từng trải qua nhiều trận đấu tập thực chiến trong quá trình huấn luyện. Dẫu vậy, nhờ trực giác cảm nhận sắc bén từ thiên chức 『Kiếm Sĩ』, Ueta vẫn cảm nhận rõ mồn một rằng từng đòn đánh Mari tung ra lúc này đều ngập tràn sát ý thực sự.
 
 “Mày không thèm nghĩ đến hậu quả à, cái thằng điên này!”
 
 “Tao xin lỗi! Tao vô cùng xin lỗi mà!”
 
-Mari trút giận bằng cách vung rìu, còn Ueta chỉ biết rối rít xin lỗi và tập trung hoàn toàn vào việc phòng thủ và né tránh. Sau một hồi giằng co... có vẻ như cơn giận đã nguôi ngoai, cả hai cùng ngồi bệt xuống đất.
+Mari trút giận bằng cách vung rìu vun vút, còn Ueta chỉ biết rối rít xin lỗi, dồn toàn bộ sự tập trung vào việc phòng thủ và né tránh. Sau một hồi giằng co kịch liệt... dường như cơn thịnh nộ đã phần nào nguôi ngoai, cả hai cùng ngồi bệt xuống nền đất.
 
 “...Thế giờ tính sao đây?”
 
-“Tao thực sự xin lỗi mà... Tại con khốn Takanashi dám làm trò đó, tao nóng máu quá không kiềm chế được...”
+“Tao thực sự xin lỗi mà... Nhìn thấy con khốn Takanashi giở cái trò đó, máu trong người tao sôi lên, không tài nào kiềm chế nổi...”
 
-Dù Ueta ghét bị gọi gộp là "Bộ ba Jou-Chuu-Ge", nhưng Nakai và Shimokawa vẫn là những người bạn chí cốt vô cùng quan trọng của cậu.
+Dù Ueta cực kỳ ghét việc bị gộp chung vào cái danh "Bộ ba Jou-Chuu-Ge", nhưng Nakai và Shimokawa vẫn là những người bạn chí cốt quan trọng nhất của cậu.
 
-Khoảnh khắc nhìn thấy Takanashi thi triển ma pháp mang tên 『Trục Xuất Hình』, Ueta đã hiểu ra từ tận đáy lòng. Rằng Shimokawa cũng đã bị hại theo cách tương tự.
+Khoảnh khắc nhìn Takanashi thi triển ma pháp mang tên 『Trục Xuất Hình』, Ueta đã thấu suốt tận can tràng: Shimokawa cũng đã bị cô ta hãm hại theo cách tàn nhẫn này.
 
-And ngay ngày hôm sau khi cậu ấy biến mất, Nakai đã hy sinh dưới tay Zagan.
+Và ngay ngày hôm sau khi Shimokawa biến mất, Nakai đã hy sinh dưới tay Zagan.
 
-Dù là trực tiếp hay gián tiếp, Ueta đều nhận thức rõ ràng một sự thật cay đắng: cậu đã mất đi cả hai người bạn thân nhất vì âm mưu của Takanashi.
+Dù trực tiếp hay gián tiếp, Ueta đều nhận thức rõ ràng một sự thật cay đắng: cậu đã mất đi cả hai người bạn thân thiết nhất vì âm mưu độc địa của Takanashi.
 
-“Tao thì khác gì mày chứ. Rốt cuộc cũng tại con khốn đó mà...”
+“Tao thì khác gì mày chứ. Rốt cuộc cũng chỉ tại con khốn đó mà ra...”
 
-Mari cũng đã mất đi người bạn thân nhất của mình là Juri.
+Mari cũng đã vĩnh viễn mất đi người bạn thân nhất của mình là Juri.
 
-Thế nhưng, vào khoảnh khắc đó, cô đã không bốc đồng lao vào tấn công Takanashi mà không màng hậu quả như cậu ta.
+Thế nhưng, vào giây phút sinh tử đó, cô đã không để sự bốc đồng chi phối mà lao vào tấn công Takanashi bất chấp hậu quả như cậu ta.
 
-“Nếu mày chịu ngoan ngoãn thêm chút nữa, có khi thằng Momokawa đã nghĩ ra cách giải quyết rồi.”
+“Nếu mày chịu ngoan ngoãn nán lại thêm một chút, biết đâu thằng Momokawa đã nghĩ ra cách giải quyết rồi.”
 
 “Ừ, mày nói đúng...”
 
-“Hầy...” Ueta thở dài một hơi thườn thượt trước sai lầm không thể cứu vãn. Đúng là mất bò mới lo làm chuồng, hối hận thì đã muộn.
+“Hầy...” Ueta thở dài sườn sượt trước sai lầm không thể cứu vãn. Đúng là mất bò mới lo làm chuồng, có hối hận thì mọi chuyện cũng đã rồi.
 
 Tuy nhiên, Mari hoàn toàn không có ý định thốt ra những lời an ủi sáo rỗng kiểu "đừng bận tâm".
 
-Dù có hối tiếc cũng chẳng giải quyết được gì, nhưng tự kiểm điểm là điều bắt buộc phải làm.
+Dù nuối tiếc chẳng giải quyết được gì, nhưng tự kiểm điểm bản thân là điều bắt buộc phải làm.
 
-“...Thế đây là đâu?”
+“...Thế đây rốt cuộc là đâu?”
 
 “À, tao cũng đang tự hỏi câu đó đây.”
 
-“Làm màu cái gì hả!” Mari đá vào mông Ueta một cái.
+“Làm màu cái gì hả!” Mari vung chân đá thẳng vào mông Ueta một cú điếng người.
 
-Ueta rơm rớm nước mắt vì bị ăn đòn oan uổng dù chỉ đang cố tỏ ra nghiêm túc, rồi đưa mắt nhìn quanh.
+Ueta rơm rớm nước mắt vì bị ăn đòn oan uổng dù bản thân chỉ đang cố tỏ ra nghiêm túc, rồi đảo mắt nhìn quanh một lượt.
 
-“Trông không giống Quảng Trường Tinh Linh lắm nhỉ.”
+“Trông chẳng giống Quảng Trường Tinh Linh chút nào nhỉ.”
 
-“Nhưng chắc chắn phải có thứ gì đó liên quan đến dịch chuyển chứ.”
+“Nhưng chắc chắn nơi này phải có thứ gì đó liên quan đến thuật thức dịch chuyển chứ.”
 
-Lấy một vật thể hình tròn trông khá giống đài phun nước quen thuộc làm trung tâm, xung quanh là những tàn tích bằng đá nằm rải rác. Ngoài ra không có gì nổi bật, bao quanh họ chỉ là một khu rừng thưa vắng lặng.
+Lấy một cấu trúc hình tròn trông khá giống đài phun nước quen thuộc làm trung tâm, xung quanh là những tàn tích đá nằm rải rác. Ngoài ra không còn điểm gì nổi bật, bao bọc lấy họ chỉ là một khu rừng thưa vắng lặng đến rợn người.
 
-Cơn gió thổi qua kẽ lá mang theo một cảm giác lạnh lẽo đến kỳ lạ.
+Cơn gió lùa qua kẽ lá mang theo cái lạnh kỳ lạ, buốt giá đến tận da thịt.
 
-“Trước mắt, tao biết là cứ đứng đực ra đây cũng chẳng giải quyết được gì.”
+“Trước mắt, tao biết là cứ đứng đực mặt ra đây cũng chẳng giải quyết được chuyện gì.”
 
-“Nhưng làm sao mà về được chứ... Không biết nhóm Kyouko có bình an vô sự không nữa.”
+“Nhưng làm sao mà quay về được chứ... Không biết nhóm Kyouko có bình an vô sự không nữa.”
 
-“Lũ bị trục xuất như tụi mình có lo lắng cũng vô ích thôi. Chỉ biết cầu nguyện là thằng Momokawa sẽ xoay xở được.”
+“Lũ bị trục xuất như tụi mình có lo sốt vó lên cũng bằng thừa. Chỉ biết cầu nguyện thằng Momokawa sẽ xoay xở được thôi.”
 
-“...Dù cậu ta có giải quyết được đi nữa, nếu tụi mình không mò về được thì cũng bằng huề.”
+“...Dù cậu ta có giải quyết êm xuôi đi nữa, nếu tụi mình không biết đường mò về thì cũng huề cả làng.”
 
-“Đến cả việc đây có phải là hầm ngục hay không còn chưa biết, hướng đi lại càng mù tịt.”
+“Đến cả việc đây có phải bên trong hầm ngục hay không còn chưa rõ, phương hướng lại càng mù tịt.”
 
 “À.”
 
-Mari chợt nhớ ra một chuyện.
+Mari chợt nhớ ra một điều tối quan trọng.
 
-Vốn dĩ, khi còn mù tịt đường đi lối bước, họ đã dựa vào cái gì để tiến bước trong hầm ngục này? Kể từ khi cả lớp tập hợp tại Học Viện Tháp, họ không còn phải tự mình xác định phương hướng nữa nên đã hoàn toàn quên bẵng đi mất.
+Vốn dĩ, vào những ngày đầu khi còn lạc lối trong hầm ngục, họ đã dựa vào thứ gì để định hướng từng bước đi? Kể từ khi cả lớp hội quân tại Học Viện Tháp, họ không còn phải tự mình dò dẫm tìm đường nữa nên đã hoàn toàn quên bẵng đi mất.
 
-“Dùng cái này không phải là biết ngay sao!?”
+“Dùng cái này không phải sẽ biết ngay sao!?”
 
 “Ồ! Cuốn sổ ma pháp trận!”
 
-Ueta trầm trồ, cảm giác như vừa tìm lại được một món đồ cổ từ thuở nào.
+Ueta trầm trồ thán phục, cảm giác như vừa tìm lại được một cổ vật thất truyền từ thuở nào.
 
-Bởi lẽ suốt thời gian qua, Kotarou luôn là người chỉ đường dẫn lối, nên không còn ai mở cuốn sổ ma pháp trận chỉ hướng đến Thiên Tống Môn ra nữa.
+Bởi lẽ suốt thời gian qua, Momokawa luôn là người vạch đường chỉ lối, chẳng còn ai buồn mở cuốn sổ ma pháp trận chỉ hướng đến Thiên Tống Môn ra nữa.
 
-Nghĩ rằng ít nhất nó cũng giúp xác định được phương hướng cần đi, Mari lục lọi dưới đáy túi xách, lấy ra cuốn sổ đã lâu không đụng tới và mở ra.
+Tin rằng ít nhất nó cũng giúp xác định được phương vị cần hướng tới, Mari lục lọi dưới đáy ba lô, lôi cuốn sổ đã bám bụi từ lâu ra và lật mở.
 
 “Hả, đùa nhau à... phế thật sự...”
 
-Kết quả ngoài dự kiến: hoàn toàn không có phản ứng gì.
+Kết quả hoàn toàn ngoài dự tính: không có lấy một chút phản ứng.
 
-Ma pháp trận từng chứa đựng ma lực, luôn phát sáng để dẫn đường, giờ đây chỉ còn là những nét vẽ vô hồn bằng mực.
+Ma pháp trận từng ngập tràn ma lực, luôn tỏa sáng để dẫn đường chỉ lối, giờ đây chỉ còn là những nét vẽ nguệch ngoạc vô hồn bằng mực đen.
 
-“Khốn thật, của tao cũng tịt ngóm rồi.”
+“Khốn thật, cuốn của tao cũng tịt ngóm rồi.”
 
 “Xùy, làm người ta mừng hụt.”
 
-“Hay là vì tụi mình đã ra khỏi hầm ngục đó nên nó mới mất tác dụng?”
+“Hay là vì tụi mình đã thoát khỏi hầm ngục nên nó mới mất tác dụng?”
 
-“Hoặc ngay từ đầu, đây chỉ là món đồ chơi mà con khốn Takanashi bày ra để gài bẫy cả lớp thôi.”
+“Hoặc ngay từ đầu, đây chỉ là món đồ chơi mà con khốn Takanashi bày ra để gài bẫy cả lớp.”
 
-Nguyên nhân khiến ma pháp trận mất hiệu lực giờ đây không còn quan trọng nữa. Dùng được hay không, đó mới là điều cốt lõi. Một khi đã vô dụng, cuốn sổ này chẳng khác nào một xấp giấy nháp.
+Nguyên nhân khiến ma pháp trận mất hiệu lực giờ đây chẳng còn quan trọng. Dùng được hay không, đó mới là mấu chốt. Một khi đã mất đi công năng, cuốn sổ này chẳng khác nào một xấp giấy lộn.
 
 “May mà vẫn mang theo bộ dụng cụ sinh tồn thằng Momokawa nhét cho.”
 
-“Dù tao ghét cay ghét đắng việc phải dựa dẫm vào thứ này...”
+“Dù tao ghét cay ghét đắng việc phải dựa dẫm vào đồ của nó...”
 
-“Có còn hơn không. Tao thề là không muốn trải qua cái cảnh sống lang thang như hồi bị nhốt ngoài pháo đài đâu.”
+“Có còn hơn không. Tao thề là không bao giờ muốn nếm lại cái cảnh sống lang bạt như hồi bị nhốt ngoài pháo đài đâu.”
 
-Lần đầu tiên tìm thấy Pháo đài ẩn, do bị Takanashi nhốt ở ngoài, họ đã phải lang thang ở tầng sâu nhất — nơi quân truy kích của Vương quốc Goma lùng sục khắp nơi. Đó là khoảng thời gian tồi tệ nhất. Nỗi tuyệt vọng khi bắt phải những con mồi không thể ăn nổi như Lợn Ký Sinh Nấm hay Chim Tròn giả cho đến giờ cậu vẫn không thể nào quên.
+Lần đầu tiên tìm thấy Pháo đài ẩn, vì bị Takanashi nhốt bên ngoài, họ đã phải lưu lạc ở tầng sâu nhất — nơi quân truy kích của Vương quốc Goma lùng sục khắp hang cùng ngõ hẻm. Đó là chuỗi ngày tồi tệ nhất. Nỗi tuyệt vọng khi săn phải những thứ quái gở không thể nuốt nổi như Lợn Ký Sinh Nấm hay Chim Tròn giả cho đến tận bây giờ vẫn là cơn ác mộng đối với cậu.
 
 “Trước mắt phải tìm chỗ trú chân cho đêm nay đã.”
 
 “Đành vậy, đi thôi...”
 
-Ueta uể oải kiểm tra lại trang bị, rồi cả hai bắt đầu rời khỏi nơi đó.
+Ueta uể oải siết lại dây đai trang bị, rồi cả hai bắt đầu cất bước rời khỏi tàn tích.
 
-Luồng không khí se lạnh thổi qua khu rừng thưa, nhưng nhiệt độ này có lẽ không đến mức làm họ chết cóng nếu ngủ ngoài trời. Việc nơi này có môi trường đủ để sinh tồn tạm thời là một điểm cộng hiếm hoi, nhưng đó cũng là điều tích cực duy nhất vào lúc này.
+Luồng dưỡng khí se lạnh luồn qua những tán cây thưa thớt, nhưng mức nhiệt này có lẽ chưa đủ để làm họ chết cóng nếu buộc phải ngủ ngoài trời. Việc nơi đây sở hữu điều kiện tự nhiên đủ để sinh tồn tạm thời là một điểm cộng hiếm hoi, nhưng đó cũng là tia hy vọng le lói duy nhất vào lúc này.
 
-Liệu đây có còn là bên trong hầm ngục hay không? Nếu là một hầm ngục khác, liệu họ có bị giam cầm trong khu vực này không? Khi ngay cả hướng đi còn chưa xác định được, vô vàn mối lo ngại cứ thế đè nặng lên tâm trí họ.
+Liệu đây có còn là không gian bên trong hầm ngục? Nếu là một hầm ngục khác, liệu họ có bị giam cầm vĩnh viễn trong phân khu này? Khi ngay cả phương hướng cơ bản còn chưa xác định nổi, vô vàn mối âu lo cứ thế đè nặng lên tâm can hai người.
 
-Họ đi bộ như vậy được vài chục phút. Băng qua khu rừng yên ắng đến lạ thường, nơi không có lấy một bóng dáng ma vật hay thậm chí là thú nhỏ nào.
+Họ lầm lũi bước đi như thế chừng vài chục phút. Băng qua khu rừng tĩnh mịch đến rợn người, nơi không hề có lấy một bóng dáng ma thú hay thậm chí là sinh vật nhỏ nào chuyển động.
 
-“Này, đằng kia hình như là người phải không!?”
+“Này, đằng kia hình như có người phải không!?”
 
-Người đầu tiên nhận ra điều đó là Ueta, người sở hữu khả năng cảm nhận nhạy bén chỉ đứng sau thiên chức 『Đạo Tặc』.
+Người đầu tiên phát hiện ra bất thường là Ueta, người sở hữu giác quan nhạy bén chỉ xếp sau thiên chức 『Đạo Tặc』.
 
-Thấp thoáng phía sau những thân cây là một bóng người.
+Thấp thoáng phía sau những thân cây cổ thụ là bóng dáng một nhân ảnh.
 
-“Ồ, có cả một cái lán nữa kìa... Không lẽ tụi mình mò tới được một thị trấn nào đó rồi sao?”
+“Ồ, có cả một cái lán nữa kìa... Không lẽ tụi mình mò trúng một thị trấn nào đó rồi sao?”
 
-Vừa cảnh giác vừa tiến về hướng đó, đập vào mắt họ là những công trình kiến trúc.
+Vừa nâng cao cảnh giác vừa lần theo hướng đó, đập vào mắt họ là những công trình nhân tạo.
 
-Một căn lều gỗ và một ngôi nhà gạch. Dù là trong hầm ngục, tùy vào từng khu vực mà những công trình thế này xuất hiện cũng không có gì lạ, nhưng nếu đây là thế giới bên ngoài, thì đây chắc chắn là minh chứng cho việc có người sinh sống.
+Một căn lều gỗ dựng tạm và một ngôi nhà gạch kiên cố. Dù ở trong hầm ngục, tùy vào từng phân khu mà những kiến trúc thế này xuất hiện cũng không phải chuyện hiếm, nhưng nếu đây là thế giới bên ngoài, thì đây đích thực là dấu tích của sự sống con người.
 
-Trông chúng có vẻ đã nhuốm màu thời gian, nhưng không đến mức hoang tàn như một phế tích. Khung cảnh này hoàn toàn có thể khiến người ta tin rằng đây là một góc của một ngôi làng hẻo lánh nào đó.
+Chúng có vẻ đã nhuốm màu phong sương của thời gian, nhưng chưa đến mức sụp đổ hoang tàn như phế tích cổ đại. Khung cảnh này hoàn toàn đủ sức khiến người ta tin rằng đây là một góc của ngôi làng hẻo lánh nào đó.
 
-Thế nhưng, niềm hy vọng vừa mới nhen nhóm đã lập tức bị dập tắt ngay khoảnh khắc tiếp theo.
+Thế nhưng, niềm hy vọng vừa mới nhen nhóm đã lập tức bị dập tắt không thương tiếc ngay khoảnh khắc tiếp theo.
 
 “Ooo... aaa...”
 
@@ -154,29 +154,29 @@ Thế nhưng, niềm hy vọng vừa mới nhen nhóm đã lập tức bị dậ
 
 “Biết ngay vẫn là hầm ngục mà!”
 
-Từ bóng tối của ngôi nhà, một kẻ có làn da xám ngoét như đất sét, đôi mắt trợn ngược chỉ toàn lòng trắng lảo đảo bước ra. Đó chính là Zombie. Cùng với Goma và Skeleton, chúng là loài ma vật tép riu đại diện cho tầng lớp đáy cùng của hầm ngục.
+Từ góc tối của ngôi nhà gạch, một bóng hình với làn da xám ngoét như đất sét, đôi mắt trợn ngược chỉ toàn tròng trắng lảo đảo bước ra. Đó chính là Zombie. Cùng với Goma và Skeleton, chúng là loài ma vật tép riu đại diện cho tầng đáy của chuỗi thức ăn hầm ngục.
 
-“Đã vậy còn đông nữa chứ.”
+“Đã vậy còn đông nghìn nghịt nữa chứ.”
 
 “Hình như có cả mấy con hộ pháp trà trộn vào kìa.”
 
-Thở dài ngao ngán với vẻ thất vọng tràn trề, cả hai bước ra ngay trước mặt lũ xác sống đang lảng vảng xung quanh.
+Thở dài ngao ngán trong nỗi thất vọng tràn trề, cả hai thản nhiên bước ra ngay trước mặt lũ xác sống đang lảng vảng xung quanh.
 
 “Hiiiiiaaaaaaaaaaaaaaaa!!”
 
-Phát hiện ra hai con người bằng xương bằng thịt đang đứng sừng sững không chút che giấu, một con xác sống gầy trơ xương như cành củi khô rú lên một tiếng chói tai, có vẻ như đang gọi đồng bọn.
+Phát hiện ra hai con người bằng xương bằng thịt đang đứng sừng sững không chút che giấu, một con xác sống gầy trơ xương như cành củi khô rú lên một tiếng the thé chói tai, dường như đang phát tín hiệu triệu tập đồng bọn.
 
-Ngay lập tức, lũ xác sống từ đâu lũ lượt kéo đến.
+Ngay lập tức, bầy xác sống từ khắp các ngóc ngách lũ lượt ùa ra.
 
-Đa phần chỉ là xác sống thông thường. Chúng hoàn toàn không có vũ khí, chỉ khoác lên mình những bộ quần áo rách rưới bẩn thỉu, trông như những dân làng bị biến đổi thành xác sống. Trộn lẫn trong số đó là vài con có cơ bắp cuồn cuộn, cơ thể phình to vượt quá hai mét.
+Phần lớn chỉ là xác sống cấp thấp. Chúng hoàn toàn không có vũ khí, chỉ khoác trên mình những mảnh vải rách rưới bẩn thỉu, trông như những dân làng xấu số bị ma khí biến đổi. Trộn lẫn trong số đó là vài cá thể biến dị cơ bắp cuồn cuộn, thể hình phình to vượt quá hai mét.
 
-Không hề có một con nào được trang bị tận răng và sở hữu kỹ năng chiến đấu như Living Armor. Nói cách cách khác, đối với hai người họ lúc này, đây chỉ là một lũ tép riu không đáng để tâm.
+Tuyệt nhiên không có lấy một con nào được vũ trang tận răng hay sở hữu kỹ năng chiến đấu bài bản như Living Armor. Nói cách khác, đối với thực lực của hai người họ lúc này, đây chỉ là một lũ tép riu không đáng để bận tâm.
 
 “Mà này Yoshizaki — Thật ra tao mới nhận được thiên chức mới đấy.”
 
-“Ủa, Ueta cũng thế à? Tao cũng bị đổi thiên chức rồi.”
+“Ủa, mày cũng thế à? Tao cũng bị chuyển đổi thiên chức rồi.”
 
-Đối mặt với đàn xác sống đang gầm gừ lao tới, hai người vẫn thản nhiên trò chuyện như trong giờ ra chơi. Thế nhưng, nội dung cuộc đối thoại lại minh chứng cho sự đột phá vượt bậc của họ.
+Đối mặt với biển xác sống đang gầm gừ lao tới, hai người vẫn thản nhiên tán gẫu như trong giờ giải lao ở trường. Thế nhưng, nội dung cuộc đối thoại lại là minh chứng cho sự đột phá sức mạnh vượt bậc của họ.
 
 “Tao là 『Kiếm Hào』.”
 
@@ -184,21 +184,21 @@ Không hề có một con nào được trang bị tận răng và sở hữu k�
 
 “Phụt, Thánh Chiến Sĩ á? Nghe có vẻ 'thánh thiện' quá nhỉ, Yoshizaki~”
 
-“Hử cái gì cơ?”
+“Hử, mày vừa sủa cái gì cơ?”
 
-Ueta ôm mông rên rỉ vì cái tội ngứa mồm lại bị đá thêm phát nữa.
+Ueta ôm mông rên rỉ vì cái tội ngứa mồm lại bị ăn thêm một cú đá trời giáng.
 
-Định càm ràm xem đó có phải hành động của một chiến sĩ thánh thiện không, nhưng sau khi ăn thêm một cú đá bồi, cậu ta khôn hồn ngậm chặt cái miệng chuyên phun lời thừa thãi lại.
+Đang định càm ràm xem đó có phải hành vi của một chiến sĩ thánh thiện hay không, nhưng sau khi hứng thêm một ánh lườm sắc lẹm, cậu ta khôn hồn ngậm chặt cái miệng chuyên phát ngôn thừa thãi lại.
 
-“Mà thôi, lũ này làm bia thử kiếm cũng vừa xinh đấy chứ?”
+“Mà thôi, lũ này làm bia thử kiếm cũng vừa miếng đấy chứ?”
 
-“Đau chết đi được... Ừ, đúng thế.”
+“Đau chết đi được... Ừ, xử đẹp tụi nó thôi.”
 
-Dù lũ xác sống di chuyển chậm chạp, nhưng trong lúc hai người họ còn đang đùa giỡn, chúng đã rút ngắn khoảng cách đến mức chuẩn bị vồ lấy họ.
+Dù lũ xác sống di chuyển lóng ngóng chậm chạp, nhưng trong lúc hai người còn mải đùa cợt, khoảng cách đã bị thu hẹp đến mức chúng chỉ chực chồm lên vồ lấy họ.
 
-Xung quanh đã bị bao vây hoàn toàn, không còn kẽ hở nào để lách qua mà không chạm trán chúng.
+Không gian xung quanh đã bị phong tỏa hoàn toàn, chẳng còn lấy một kẽ hở nào để lách qua.
 
-“Tao vừa hay có mấy chiêu trông có vẻ khắc chế được lũ xác sống này đây —”
+“Tao vừa hay có mấy chiêu trông có vẻ khắc chế cứng lũ xác sống này đây —”
 
 『Thần Điện Kết Giới』: Hãy dâng lời cầu nguyện lên thần điện. Thu thập và liên kết những lời nguyện cầu gửi đến các vị thần, biến ước nguyện thành một pháo đài vững chắc bảo vệ vùng đất hứa.
 
@@ -206,226 +206,230 @@ Xung quanh đã bị bao vây hoàn toàn, không còn kẽ hở nào để lác
 
 『Hào Quang Dũng Cảm』: Hỡi chiến sĩ, hãy thắp lên ngọn lửa dũng khí trong tim. Hào quang rực cháy của lòng quả cảm sẽ ngụ vào thân thể và lưỡi kiếm để mang lại sức mạnh vô song. Hãy tiến lên, những chiến sĩ dũng cảm.
 
-Ba kỹ năng khởi đầu mới hiện lên trong tâm trí Mari.
+Ba kỹ năng khởi đầu mới tức thì hiện rõ trong tâm trí Mari.
 
-Có lẽ do ảnh hưởng từ việc thay đổi thiên chức, những dòng mô tả này nghe khá mơ hồ và bay bổng, nhưng cô vẫn có thể đoán được phần nào hiệu quả của chúng.
+Có lẽ do ảnh hưởng từ tính chất chuyển đổi thiên chức, những dòng mô tả này nghe khá trừu tượng và hoa mỹ, nhưng cô vẫn có thể nắm bắt được phần nào nguyên lý vận hành của chúng.
 
-Nghĩ nhiều không bằng làm thử, Mari lập tức giải phóng sức mạnh mới trước đàn xác sống đang ập đến.
+Nghĩ nhiều không bằng thực hành, Mari lập tức giải phóng nguồn sức mạnh mới trước làn sóng xác sống đang ập đến.
 
 “Trước hết là 『Hào Quang Dũng Cảm』, sau đó thì —”
 
-Ngay khi kích hoạt, một luồng sáng xanh lá dịu nhẹ tỏa ra từ khắp cơ thể Mari và thanh 『Hắc Kim Đại Phủ』 trên tay cô. Chỉ cần luồng sáng đó lóe lên, lũ xác sống ngay trước mặt đã vội lấy tay che mặt và chùn bước như thể vừa nhìn vào thứ ánh sáng chói lòa.
+Ngay khi được kích hoạt, một vầng hào quang xanh lục dịu nhẹ lập tức bùng nổ, bao phủ khắp cơ thể Mari và thanh 『Hắc Kim Đại Phủ』 trên tay cô. Chỉ cần luồng thánh quang đó lóe lên, lũ xác sống đi đầu đã hoảng loạn lấy tay che mặt, bước chân chùn lại như thể vừa nhìn thẳng vào ánh mặt trời chói lòa.
 
-Tuy nhiên, dù chúng có chùn bước hay lao tới thì kết quả cũng chẳng thay đổi. Bởi đòn đánh dồn hết bình sinh của Thánh Chiến Sĩ đã được giáng xuống.
+Tuy nhiên, dù chúng có thoái lui hay lao tới thì kết cục cũng đã được định đoạt. Bởi đòn trừng phạt dồn toàn lực của một Thánh Chiến Sĩ đã chính thức giáng xuống.
 
 “— 『Thánh Phá Đoạn』!”
 
 “Này, chiêu đó quét trúng cả tao đấy!!”
 
-Mặc kệ tiếng la hét của Ueta, Mari vẫn tung ra võ kỹ của mình. Vốn dĩ, đây là chiêu thức tấn công diện rộng mang tên 『Đại Phá Đoạn』, giải phóng một cú chém ngàn cân kèm theo sóng xung kích cực mạnh, nhưng nhờ được cường hóa bởi 『Hào Quang Dũng Cảm』, nó đã được tích hợp thêm thuộc tính Quang cực mạnh.
+Mặc kệ tiếng gào thét thất thanh của Ueta, Mari dứt khoát vung rìu. Vốn dĩ, đây là võ kỹ tấn công diện rộng mang tên 『Đại Phá Đoạn』, phóng thích một nhát chém ngàn cân kèm sóng xung kích cực mạnh, nhưng khi được dung hợp cùng 『Hào Quang Dũng Cảm』, nó đã được cường hóa thêm thuộc tính Quang vô cùng mãnh liệt.
 
-Hệ quả là, đòn đánh hóa thành một làn sóng xung kích rực cháy chói lòa như thể một ma pháp ánh sáng diện rộng vừa phát nổ, quét sạch mọi thứ xung quanh bằng một cơn bão ánh sáng rực rỡ.
+Hệ quả là, đòn đánh biến thành một làn sóng xung kích rực cháy chói lòa, tựa như một ma pháp ánh sáng hủy diệt vừa phát nổ, càn quét sạch sẽ mọi vật cản xung quanh bằng một cơn bão ánh sáng chói lọi.
 
-Ueta đứng ngay bên cạnh, dù không cần đến trực giác của Kiếm sĩ cũng thừa biết mình sẽ bị vạ lây, liền dùng hết sức bình sinh nhảy vọt ra xa để thoát thân. Nhưng lũ xác sống chậm chạp làm sao có thể né tránh được đòn này.
+Ueta đứng ngay sát bên, dù chẳng cần đến trực giác của Kiếm sĩ cũng thừa biết mình sẽ bị vạ lây, liền dùng hết bình sinh bật nhảy vọt ra xa để lánh nạn. Nhưng lũ xác sống chậm chạp làm sao có đủ tốc độ để đào thoát khỏi phạm vi hủy diệt.
 
-“Ồ, một phát đi sạch luôn kìa.”
+“Ồ, một phát đi sạch bóng luôn kìa.”
 
-Nhìn đàn xác sống bao vây mình bị quét sạch trong nháy mắt, Mari nở nụ cười mãn nguyện rồi vác rìu lên vai.
+Nhìn đàn xác sống vây quanh bị thổi bay trong nháy mắt, Mari nở nụ cười thỏa mãn rồi thản nhiên vác đại rìu lên vai.
 
 “Đừng có bất thình lình chơi lớn thế chứ Yoshizaki!”
 
-Ueta, người đã kịp nhảy lên mái của ngôi nhà gạch để lánh nạn, hét vọng xuống.
+Ueta, người đã kịp nhảy tót lên mái ngôi nhà gạch để bảo toàn tính mạng, hét vọng xuống đầy uất ức.
 
-“Ái chà, xin lỗi nhé. Tao hơi quá tay chút.”
+“Ái chà, xin lỗi nhé. Tao hơi quá tay một chút.”
 
-Mari cười xòa, rồi vung cây rìu vẫn còn vương vấn hào quang dũng cảm, chém một nhát dứt khoát vào con xác sống khổng lồ may mắn sống sót nhờ đứng ở rìa phạm vi vụ nổ. Chỉ với một nhát chém, thân xác ô uế khổng lồ của nó lập tức hóa thành tro bụi rơi lả tả.
+Mari cười xòa, rồi vung cây rìu vẫn còn lập lòe hào quang dũng cảm, chém một nhát dứt khoát vào con xác sống khổng lồ may mắn sống sót nhờ đứng ở rìa vụ nổ. Chỉ với một nhát chém chuẩn xác, thân xác ô uế đồ sộ của nó lập tức vỡ vụn, hóa thành tro bụi đen ngòm rơi lả tả.
 
-“Tao muốn thử thêm vài chiêu nữa, để tao dọn dẹp nốt chỗ này luôn nhé?”
+“Tao muốn thử thêm vài chiêu nữa, để tao dọn dẹp nốt chỗ tàn binh này nhé?”
 
-“Ừ, nhờ mày đấy. Còn tao thì —”
+“Ừ, nhờ cả vào mày đấy. Còn tao thì —”
 
-Bỏ lửng câu nói nửa chừng, Ueta biến mất khỏi mái nhà.
+Bỏ lửng câu nói giữa chừng, Ueta biến mất khỏi mái nhà trong tích tắc.
 
-Không, nói chính xác thì Mari với thiên chức Thánh Chiến Sĩ vẫn nhìn thấy rõ mồn một bóng dáng Ueta đang lao thẳng đi với tốc độ kinh hoàng chưa từng thấy.
+Không, nói chính xác thì Mari với thiên chức Thánh Chiến Sĩ vẫn bắt trọn được bóng dáng Ueta đang lao vút đi với một tốc độ kinh hoàng chưa từng thấy.
 
 『Súc Địa』: Bộ pháp của bậc thầy giúp rút ngắn khoảng cách như thể thu hẹp mặt đất. Nhanh hơn, êm ái hơn, ý chí kiên định không lay chuyển sẽ mang lại thần tốc.
 
-Nhờ có được phiên bản nâng cấp của võ kỹ tăng tốc di chuyển vốn có, tốc độ của Ueta đã tăng lên vượt bậc.
+Nhờ sở hữu phiên bản thăng cấp tối thượng từ kỹ thuật di chuyển vốn có, tốc độ xuất kích của Ueta đã tăng lên vượt bậc.
 
-Đối phó với lũ xác sống chậm chạp nhất trong số các ma vật thì tốc độ này quả là thừa thãi. Nhưng việc dọn dẹp chúng đã có Mari lo.
+Đối phó với lũ xác sống chậm chạp nhất trong số các loài ma vật thì tốc độ này quả thực là dư thừa. Nhưng nhiệm vụ dọn dẹp chúng đã có Mari lo liệu.
 
-Mục tiêu mà Ueta nhắm tới không phải là lũ xác sống.
+Mục tiêu duy nhất mà Ueta nhắm tới không phải là đám xác sống vô tri.
 
-“— Này thằng khốn kia, mày đang nhìn trộm từ đâu đấy?”
+“— Này thằng khốn kia, mày đang nhìn trộm từ xó nào đấy?”
 
-Một nhát chém nhanh như chớp, vô cùng chuẩn xác và xứng tầm với một 『Kiếm Hào』 được tung ra.
+*Xoẹt!*
 
-Thứ bị chém đứt làm đôi là những chiếc lông vũ màu đen. Đó là một sinh vật trông rất giống quạ, nhưng trên đầu nó lại có tới năm con mắt đỏ ngầu, trợn trừng đầy quái dị và gớm ghiếc.
+Một nhát chém nhanh như chớp giật, chuẩn xác đến từng milimét và hoàn toàn xứng tầm với đẳng cấp của một 『Kiếm Hào』 được tung ra.
 
-Ueta cảm nhận bằng trực giác rằng con quạ nhiều mắt này chính là một sứ ma giám sát.
+Thứ bị chém đứt làm đôi giữa không trung là những chiếc lông vũ màu đen tuyền. Đó là một sinh vật có hình dáng tương tự loài quạ, nhưng trên đầu nó lại mọc ra tới năm con mắt đỏ ngầu, trợn trừng đầy quái dị và ghê tởm.
 
-Sau khi thăng tiến thành 『Kiếm Hào』, cậu đã sở hữu khả năng cảm nhận vượt trội hơn cả 『Đạo Tặc』, giúp phát hiện ra sự hiện diện của sứ ma đang âm thầm quan sát từ đằng xa.
+Bằng trực giác chiến trận, Ueta nhận ra ngay con quạ nhiều mắt này chính là một sứ ma giám sát.
 
-“Chậc, có khi một con Boss kiểu như Oh-ma đang giật dây đàn xác sống này cũng nên.”
+Sau khi tiến hóa thành 『Kiếm Hào』, năng lực cảm nhận không gian của cậu đã vượt xa cả 『Đạo Tặc』, cho phép cậu bắt trọn sự hiện diện của sứ ma đang âm thầm quan sát từ khoảng cách cực xa.
 
-Sau khi chém con quạ nhiều mắt thành trăm mảnh mà không đợi câu trả lời, Ueta quay lại chỗ Mari lúc này đã dọn dẹp xong xuôi và lên tiếng.
+“Chậc, khéo lại có một con Boss kiểu như Oh-ma đang giật dây đàn xác sống này cũng nên.”
 
-“Có lẽ thế. Nếu thực sự có một con Boss như vậy thì khu vực này sẽ phiền phức lắm đây.”
+Sau khi chém nát con quạ thành trăm mảnh mà không cần đợi câu trả lời, Ueta quay lại chỗ Mari — lúc này đã quét sạch bãi chiến trường — và cất giọng trầm ngâm.
 
-Họ không muốn tin rằng nơi này lại có một thế lực hùng mạnh như Vương quốc Goma trấn giữ. Thế nhưng, những kẻ thích dùng sứ ma để rình mò thì chẳng có ai tốt đẹp cả. Oh-ma là một ví dụ, và Kotarou cũng thế.
+“Có lẽ thế. Nếu thực sự có một con Boss tầm cỡ đó trấn giữ thì phân khu này sẽ phiền phức to đây.”
 
-“Nếu không xử lý con Boss trước, có khi tụi mình sẽ bị tập kích lúc đang ngủ mất.”
+Họ không muốn tin rằng nơi này lại có một thế lực hùng mạnh như Vương quốc Goma ngự trị. Thế nhưng, những kẻ có thói quen dùng sứ ma rình mò từ trong bóng tối thì chẳng có tên nào tốt đẹp. Oh-ma là một ví dụ điển hình, và Momokawa cũng chẳng khác là bao.
 
-“Được rồi, mau đi đập chết ăn thịt tên khốn lén lút thích nhìn trộm đó thôi.”
+“Nếu không xử lý con Boss trước, có khi tụi mình sẽ bị úp sọt lúc đang ngủ say mất.”
 
-Dù đã có được sức mạnh mới, nhưng họ chỉ mới được nghỉ ngơi đôi chút sau trận chiến với Zagan, thể trạng vẫn chưa hoàn toàn hồi phục. Đáng lẽ đêm nay phải được đánh một giấc thật ngon, nhưng giờ đến cả việc đó cũng bị đe dọa khiến sát ý của Mari càng lúc càng dâng cao.
+“Được rồi, mau đi đập nát đầu tên khốn lén lút thích nhìn trộm đó thôi.”
 
-“Hy vọng là tìm thấy phòng Boss nhanh chóng... Khoan đã, có người đang đến!”
+Dù đã thức tỉnh sức mạnh mới, nhưng họ chỉ mới được nghỉ ngơi đôi chút sau trận huyết chiến với Zagan, thể lực và tinh thần vẫn chưa hoàn toàn hồi phục. Đáng lẽ đêm nay phải được đánh một giấc no say, nhưng giờ đến cả nhu cầu tối thiểu đó cũng bị đe dọa, khiến sát khí của Mari càng lúc càng bốc cao.
+
+“Hy vọng là tìm thấy phòng Boss nhanh chóng... Khoan đã, có kẻ đang tới!”
 
 “Hả? Lại là xác sống nữa à?”
 
-“Không, không phải, kẻ này là...”
+“Không, không phải, luồng khí tức này là...”
 
-Trực giác nhạy bén của Ueta đã phát hiện ra sự hiện diện của đối phương trước.
+Trực giác sắc bén của Ueta đã khóa chặt vị trí của đối phương trước.
 
-Nhưng cả hai không rời đi mà quyết định đứng yên tại chỗ để chờ đợi.
+Thay vì rút lui, cả hai quyết định ghìm chân tại chỗ để chờ đợi.
 
 “Ối, có người kìa!?”
 
-“Sao lại có mấy đứa nhóc ở cái nơi khỉ ho cò gáy này thế?”
+“Sao lại có mấy đứa ranh con ở cái nơi khỉ ho cò gáy này thế?”
 
 “Thằng ngu này, tụi nó có vũ khí kìa, không phải con nít bình thường đâu.”
 
 “Này, không lẽ là bọn chúng sao...?”
 
-Những kẻ vừa xuất hiện, không nghi ngờ gì nữa, chính là con người.
+Những kẻ vừa lộ diện từ sau rặng cây, không còn nghi ngờ gì nữa, chính là con người.
 
-Ngoại hình của họ hoàn toàn không giống người Nhật, với đủ loại màu tóc và màu mắt khác nhau. Đúng vậy, họ chính là những người bản địa của dị giới này.
+Ngoại hình của họ hoàn toàn khác biệt với người Nhật Bản, sở hữu đủ loại màu tóc và sắc tộc mắt đa dạng. Đúng vậy, họ chính là những cư dân bản địa của thế giới này.
 
-Tuy nhiên, lý do khiến hai người không thể thản nhiên cất lời chào “Rất vui được gặp mặt” là bởi tất cả bọn họ đều đang vũ trang đầy mình. Trên tay họ lăm lăm kiếm, thương, cung, và dù không mặc bộ giáp toàn thân đồ sộ như của Yamada, họ vẫn khoác trên mình những bộ giáp sắt hoặc giáp da.
+Tuy nhiên, lý do khiến hai người không thể thản nhiên cất lời chào xã giao là bởi tất cả bọn họ đều đang vũ trang đến tận răng. Trên tay họ lăm lăm kiếm dài, chiến thương, cung tên, và dù không mang những bộ trọng giáp đồ sộ như của Yamada, họ vẫn khoác trên mình những bộ giáp sắt hoặc giáp da dã chiến.
 
-And rõ ràng đây không phải là đồ hóa trang, bởi trang bị của họ đã bị vấy bẩn bởi những vết máu khô màu đỏ sẫm.
+Và rõ ràng đây không phải là đồ phục trang trình diễn, bởi từng mảnh giáp trụ của họ đều vấy đầy những vết máu khô sẫm màu.
 
 “Ờ... các chú là người của ngôi làng này à?”
 
-Trước nhóm đàn ông có vẻ ngoài và bầu không khí không mấy thân thiện, Mari là người cất tiếng hỏi trước.
+Trước toán đàn ông toát ra bầu không khí nồng nặc mùi đao kiếm, Mari là người cất tiếng phá vỡ sự im lặng.
 
-Phản ứng của họ sau khi nghe cô nói vô cùng dữ dội.
+Thế nhưng, phản ứng của họ sau khi nghe cô cất lời lại vô cùng kích động.
 
 “Chúng biết nói kìa! Đúng là bọn chúng rồi!”
 
 “Mau thủ thế!”
 
-“Đừng để chúng kịp dùng thuật pháp! Hãy hạ chúng trước khi chúng kịp ra tay!”
+“Đừng để chúng kịp dùng thuật pháp! Hạ sát chúng trước khi chúng kịp ra tay!”
 
 “Cái gì cơ!? Này này, khoan đã mấy ông anh!”
 
-Thấy đối phương đột ngột tỏa ra sát khí và chuẩn bị tổng tấn công, Ueta cuống cuồng hét lên.
+Nhận thấy đối phương đột ngột tỏa ra sát khí nồng nặc và chuẩn bị phát động tổng tấn công, Ueta cuống cuồng hét lên nhằm giải tỏa hiểu lầm.
 
-Nhưng nếu ngôn ngữ của họ có thể thông suốt ngay từ đầu thì mọi chuyện đã không căng thẳng thế này.
+Thế nhưng rào cản ngôn ngữ khiến mọi nỗ lực giao tiếp ban đầu đều rơi vào bế tắc.
 
-“Tính sao đây Ueta, lũ này định chiến thật kìa.”
+“Tính sao đây Ueta, lũ này định chơi tất tay thật kìa.”
 
-“Nh-Nhưng tự dưng giết người thì không ổn đâu...”
+“Nh-Nhưng tự dưng giết người thì không ổn chút nào...”
 
-Bầu không khí căng thẳng như dây đàn bao trùm lấy họ.
+Bầu không khí căng thẳng nghẹt thở bao trùm lấy không gian.
 
-Hai người đột nhiên bị chĩa sát khí vào mặt đã đành, nhưng vẻ mặt của những người dị giới kia còn lộ rõ vẻ căng thẳng và quyết tử hơn.
+Hai người họ đột nhiên bị chĩa mũi kiếm vào mặt đã đành, nhưng biểu cảm của những kẻ dị giới kia còn lộ rõ sự căng thẳng tột độ và quyết tâm liều chết.
 
-Đây rõ ràng là biểu cảm khi phải đối đầu với một con ma vật ở đẳng cấp hoàn toàn vượt trội. Họ buộc phải chiến đấu. Tuy nhiên, họ cũng không dám bừa bãi lao lên mà không suy tính. Để đảm bảo có thể hạ gục mục tiêu một cách chắc chắn nhất, họ đang canh chừng thời cơ để đồng loạt ra tay.
+Đây rõ ràng là vẻ mặt của những kẻ hiểu rõ mình đang phải đối đầu với một loài ma vật ở đẳng cấp hoàn toàn vượt trội. Họ bị dồn vào thế buộc phải chiến đấu. Tuy nhiên, họ cũng không dám manh động lao lên chịu chết. Để nắm chắc phần thắng trong tay, họ đang gắt gao canh chừng thời cơ để đồng loạt tập kích.
 
-Và ngay khi thời khắc quyết định đang cận kề, sự im lặng căng thẳng đã bị phá vỡ bởi:
+Và ngay khi giọt nước sắp tràn ly, bầu không khí ngột ngạt bỗng bị xé toạc bởi một tiếng quát lớn:
 
-“Khoan đã, khoan đã! Lũ ăn hại tụi mày đang làm cái trò gì thế hả!”
+“Khoan đã, dừng tay lại mau! Lũ ăn hại tụi mày đang làm cái trò ngu xuẩn gì thế hả!”
 
-Cùng với tiếng quát tháo vang lên từ phía sau, một gã đang lăm lăm tay kiếm đã bị đập thẳng vào chiếc mũ giáp trên đầu.
+*Bốp!*
+
+Cùng với tiếng quát tháo giận dữ vang lên từ phía sau, một gã lính đang lăm lăm tay kiếm đã bị nện thẳng một cú trời giáng vào chiếc mũ giáp trên đầu.
 
 “Hự!”
 
 “Đ-Đoàn trưởng!”
 
-Với danh xưng đó, gã vừa xuất hiện chắc chắn là thủ lĩnh của bọn họ.
+Với danh xưng đó, kẻ vừa xuất hiện chắc chắn là thủ lĩnh tối cao của bọn họ.
 
-Đó là một người đàn ông trung niên có vóc dáng cao ráo và gầy guộc. Gương mặt điểm xuyết vài nếp nhăn mờ cùng bộ râu quai nón được cắt tỉa khá nghệ thuật. Dù trang bị và vẻ ngoài phong trần trông giống như một thủ lĩnh băng cướp hay sơn tặc, nhưng những đường nét sâu hoắm trên khuôn mặt không giống người Nhật của gã lại toát lên vẻ lịch lãm, phong trần. Mari thầm nghĩ trông gã rất giống một nam diễn viên Hollywood nào đó mà cô từng thấy trên phim.
+Đó là một người đàn ông trung niên sở hữu vóc dáng cao ráo và phong trần. Gương mặt điểm xuyết vài nếp nhăn của sương gió cùng bộ râu quai nón được cắt tỉa vô cùng nghệ thuật. Dù trang bị dã chiến trông chẳng khác nào một thủ lĩnh băng cướp hay sơn tặc, nhưng những đường nét góc cạnh trên khuôn mặt đậm chất phương Tây của gã lại toát lên vẻ lịch lãm đầy sức hút. Mari thầm nghĩ gã trông chẳng khác nào một nam tài tử Hollywood mà cô từng thấy trên màn ảnh.
 
-“Mắt tụi mày bị mù hết rồi à? Nhìn thế nào mà bảo hai đứa nó là xác sống hả, rõ ràng là con người bằng xương bằng thịt kia kìa.”
+“Mắt tụi mày bị mù hết rồi à? Nhìn kiểu gì mà bảo hai đứa nó là xác sống hả, rõ ràng là con người bằng xương bằng thịt kia kìa.”
 
-“Nh-Nhưng đoàn trưởng ơi, nhìn kiểu gì thì hai đứa đó cũng không phải là lũ nhóc bình thường đâu ạ!”
+“Nh-Nhưng đoàn trưởng ơi, nhìn thế nào thì hai đứa đó cũng không thể là lũ nhóc bình thường được ạ!”
 
-“Tui nó là những người sở hữu thiên chức, chuyện đó là đương nhiên rồi.”
+“Tụi nó là những người sở hữu thiên chức, chuyện có thực lực vượt trội là đương nhiên.”
 
-Gã đoàn trưởng thản nhiên nói để xoa dịu đám cấp dưới đang kích động, nhưng chính câu nói đó đã khiến Ueta và Mari lập tức nâng cao cảnh giác lên mức tối đa.
+Gã đoàn trưởng thản nhiên buông lời xoa dịu đám thuộc hạ đang kích động, nhưng chính câu nói bâng quơ đó lại khiến Ueta và Mari lập tức nâng cao cảnh giác lên mức tối đa.
 
 “Lão già đó biết tụi mình có thiên chức kìa.”
 
 “Là kỹ năng giám định sao?”
 
-Cả hai đều hiểu rõ rằng, kẻ sở hữu kỹ năng có thể nhìn thấu năng lực của đối phương chỉ bằng một ánh nhìn còn phiền phức hơn nhiều so với kẻ chỉ biết dùng sứ ma để giám sát.
+Cả hai đều hiểu rõ hơn ai hết: một kẻ sở hữu kỹ năng có thể nhìn thấu năng lực cốt lõi của đối phương chỉ bằng một ánh mắt còn nguy hiểm và phiền toái hơn gấp bội so với kẻ chỉ biết dùng sứ ma để rình mò.
 
-Nếu gã cũng là một kẻ ấp ủ âm mưu đen tối nào đó giống như Takanashi Kotori thì...
+Nếu gã cũng là một kẻ ấp ủ những dã tâm đen tối tương tự như Takanashi Kotori thì...
 
-“Nào nào, đừng cảnh giác với ta như thế chứ. Chúng ta chỉ là những người lính đánh thuê bình thường thôi. Nhận ủy thác chính thức đến đây để săn xác sống thôi mà. Lũ đàn em của ta hấp tấp quá, xin lỗi hai đứa nhé, cậu em, cô em.”
+“Nào nào, đừng trừng mắt cảnh giác với ta như thế chứ. Bọn ta chỉ là những người lính đánh thuê bình thường thôi. Nhận ủy thác chính thức đến đây để dọn dẹp xác sống kiếm cơm thôi mà. Lũ đàn em của ta hấp tấp quá, thành thật xin lỗi hai đứa nhé, cậu em, cô em.”
 
-Dù chắc chắn đã nhận ra bầu không khí nồng nặc sát khí từ phía hai người, gã đoàn trưởng vẫn nở một nụ cười niềm nở như không có chuyện gì xảy ra và gửi lời xin lỗi.
+Dù chắc chắn đã bắt trọn luồng sát khí phòng thủ nồng nặc từ phía hai người, gã đoàn trưởng vẫn nở một nụ cười xởi lởi như không có chuyện gì xảy ra, chủ động buông lời xin lỗi.
 
-Gã ra hiệu cho thuộc hạ lùi lại, rồi vừa giơ hai tay lên vừa bước tới gần.
+Gã phẩy tay ra hiệu cho thuộc hạ lùi lại, rồi vừa giơ hai tay lên biểu thị sự vô hại, vừa chậm rãi tiến lại gần.
 
-Dù gã đang cố tỏ ra vô cùng thân thiện và nhấn mạnh rằng mình không có ý định chiến đấu, nhưng hai người họ — với thiên chức chuyên về cận chiến — lập tức nhận ra từng bước đi của gã đều vô cùng hoàn hảo và không hề để lộ một sơ hở nào.
+Dù gã đang cố tỏ ra vô cùng thân thiện và nhấn mạnh bản thân không có ý định giao tranh, nhưng hai người họ — với thiên chức chuyên về cận chiến đỉnh cao — lập tức nhận ra từng bước chân của gã đều vững chãi đến mức hoàn hảo, không hề để lộ ra dù chỉ là nửa điểm sơ hở.
 
 “Này Mari, tao có linh cảm chẳng lành chút nào.”
 
-“Tao cũng thế. Lão già đó mang lại cảm giác rất giống thằng Momokawa.”
+“Tao cũng thế. Lão già này mang lại cái cảm giác y hệt thằng Momokawa.”
 
-Nói cách khác, đó là kiểu người luôn nở nụ cười thân thiện trên môi nhưng sẵn sàng lợi dụng và vắt kiệt sức lao động của người khác.
+Nói cách khác, đó là dạng người luôn nở nụ cười niềm nở trên môi nhưng trong đầu đã tính toán xong xuôi cách lợi dụng và vắt kiệt giá trị của người khác.
 
-Tuy nhiên, nếu tin vào lời gã nói rằng mình là đoàn trưởng của một đoàn lính đánh thuê, thì việc gã ở vị trí lãnh đạo và điều khiển người khác là điều hiển nhiên. Và nếu là một thủ lĩnh xuất sắc, gã chắc chắn phải có tài năng sử dụng nhân sự đúng người đúng việc.
+Tuy nhiên, nếu đúng như lời gã tự nhận là thủ lĩnh của một đoàn lính đánh thuê, thì việc gã đứng ở vị trí chỉ huy và điều động nhân lực là lẽ đương nhiên. Và nếu là một thủ lĩnh lão luyện, gã ắt hẳn phải sở hữu nhãn quan dùng người vô cùng sắc sảo.
 
-Trực giác mách bảo họ rằng nếu tin vào nụ cười của gã thì sẽ bị lừa một vố đau, nhưng họ cũng không thể vô cớ ra tay sát hại gã.
+Trực giác mách bảo họ rằng nếu nhẹ dạ tin vào nụ cười của gã thì sẽ bị lừa cho một vố đau điếng, nhưng họ cũng không thể vô cớ vung kiếm hạ sát gã.
 
-Hai người nhìn nhau rồi gật đầu, quyết định tạm thời hợp tác thương lượng. Dù gã đàn ông kia có mưu đồ gì đi chăng nữa, việc thẳng tay chém giết để rồi mang danh kẻ sát nhân là điều mà hai người họ — những kẻ vẫn chưa hề vấy máu đồng loại — không thể lựa chọn.
+Hai người liếc nhìn nhau rồi khẽ gật đầu, quyết định tạm thời hợp tác đàm phán. Dù gã đàn ông kia có toan tính điều gì đi chăng nữa, việc thẳng tay tàn sát để rồi biến bản thân thành kẻ giết người vô tội là ranh giới mà hai người họ — những kẻ chưa từng vấy máu đồng loại — kiên quyết không bước qua.
 
-“À, hai đứa hiểu cho thì tốt quá. Bọn ta cũng vừa mới bị lũ xác sống tấn công xong.”
+“À, hai đứa hiểu chuyện cho thì tốt quá. Bọn ta cũng vừa mới thoát khỏi đợt càn quét của lũ xác sống xong.”
 
-“Chà, thật sự xin lỗi nhé. Lũ ngốc dưới trướng ta đã thất lễ rồi. Nhìn hai đứa thế này... là học viên học viện phải không?”
+“Chà, thật sự xin lỗi nhé. Lũ cấp dưới ngu ngốc của ta đã quá thất lễ rồi. Nhìn phong thái của hai đứa thế này... là học viên của học viện quý tộc nào đó phải không?”
 
-“...Thì đúng là tụi tôi là học sinh. Chỉ là đang bị lạc đường nên mới lảng vảng quanh đây thôi.”
+“...Thì đúng là tụi tôi là học sinh. Chỉ là đang bị lạc đường nên mới quanh quẩn ở đây thôi.”
 
-“Ồ, thế thì đúng là tai nạn rồi. Lạc đường đúng vào lúc lũ xác sống đang tràn ra thế này thì xui xẻo thật.”
+“Ồ, thế thì đúng là đại họa rồi. Lạc bước đúng vào thời điểm lũ xác sống đang bùng phát thế này thì quả là xui xẻo tột cùng.”
 
-Trước mắt, cuộc hội thoại vẫn đang diễn ra khá suôn sẻ.
+Trước mắt, cuộc đối thoại vẫn đang diễn ra tương đối thuận lợi.
 
-Thế nhưng, cả hai bên đều cảm nhận rõ mồn một bầu không khí dò xét, cố gắng khai thác thông tin từ đối phương qua từng kẽ hở của câu từ.
+Thế nhưng, cả hai bên đều cảm nhận rõ mồn một sự thăm dò gắt gao, cố gắng moi móc từng mảnh thông tin từ đối phương qua từng kẽ hở của câu chữ.
 
-Chỉ cần một lời lỡ miệng, cuộc chiến sinh tử có thể bùng nổ ngay lập tức. Cảm nhận được sự căng thẳng tột độ đó, Ueta và Mari cẩn trọng suy nghĩ và lựa chọn từ ngữ trước khi phát ngôn.
+Chỉ cần một lời lỡ miệng, một cuộc huyết chiến sinh tử hoàn toàn có thể bùng nổ trong chớp mắt. Ý thức được sự căng thẳng tột độ đó, Ueta và Mari cẩn trọng cân nhắc từng lời trước khi phát ngôn.
 
-“Vậy nghĩa là hai đứa vô tình đi lạc tới đây mà không biết chuyện gì đang xảy ra sao?”
+“Vậy nghĩa là hai đứa vô tình đi lạc tới đây mà hoàn toàn mù tịt về tình hình khu vực này sao?”
 
-“Tôi không nghĩ thế đâu, nhưng... không lẽ kẻ đang điều khiển lũ xác sống này chính là các người đấy chứ?”
+“Tôi không nghĩ mọi chuyện lại tệ đến thế, nhưng... không lẽ kẻ đang giật dây điều khiển lũ xác sống này chính là các người đấy chứ?”
 
-Họ muốn tránh việc xung đột với người bản địa. Tuy nhiên, nếu nhóm lính đánh thuê này chính là kẻ đứng sau giật dây, dùng sứ ma để giám sát và thả xác sống ra tấn công, thì trận chiến là điều không thể tránh khỏi.
+Họ muốn tránh xung đột đổ máu với cư dân bản địa bằng mọi giá. Tuy nhiên, nếu đoàn lính đánh thuê này thực chất là kẻ chủ mưu đứng sau, thả sứ ma giám sát và điều động xác sống tấn công, thì một trận sinh tử chiến là điều không thể tránh khỏi.
 
-Nếu họ đã phát hiện ra điều đó và định ra tay diệt khẩu, thì tốt nhất nên chủ động tấn công trước khi quá muộn.
+Nếu hành tung của họ đã bị lộ và đối phương định ra tay diệt khẩu, thì tốt nhất họ nên chủ động rút kiếm tiên hạ thủ vi cường.
 
-“Điều khiển? Xác sống á? Cậu em ơi, nhìn bọn ta giống lũ pháp sư gọi hồn phạm vào cấm kỵ lắm sao. Nhìn kiểu gì thì bọn ta cũng chỉ là một lũ lính đánh thuê quèn kiếm ăn qua ngày thôi mà. — À phải rồi, nếu hai đứa là học viên của học viện nhà giàu, hay là thuê bọn ta đi. Gặp nhau ở đây cũng là cái duyên, ta sẽ lấy giá hữu nghị cho.”
+“Điều khiển? Xác sống á? Cậu em ơi, nhìn bọn ta giống lũ tử linh pháp sư phạm vào đại cấm kỵ lắm sao. Nhìn kiểu gì thì bọn ta cũng chỉ là một lũ lính đánh thuê quèn bán mạng kiếm ăn qua ngày thôi mà. — À phải rồi, nếu hai đứa là học viên của trường quý tộc giàu có, hay là thuê bọn ta hộ tống đi. Gặp nhau ở chốn thâm sơn cùng cốc này cũng là cái duyên, ta sẽ tính giá hữu nghị đặc biệt cho.”
 
-“Không, tụi tôi không cần lính đánh thuê.”
+“Không, tụi tôi không có nhu cầu thuê lính đánh thuê.”
 
-“Thay vào đó, chỉ cho tụi tôi đường đến ngôi làng hoặc thị trấn gần nhất đi.”
+“Thay vào đó, chỉ cho tụi tôi con đường dẫn đến ngôi làng hoặc thị trấn gần nhất đi.”
 
-Dù có tiền đi chăng nữa, họ cũng chẳng dại gì thuê một lũ lính đánh thuê đầy hoài nghi này. Nhưng nếu họ không phải là kẻ giật dây mà thực sự chỉ là một đoàn lính đánh thuê đến đây để tiêu diệt xác sống, thì chắc chắn họ phải biết đường. Ít nhất là con đường dẫn đến nơi có người sinh sống mà họ đã đi qua.
+Dù trong túi có rủng rỉnh tiền bạc đi chăng nữa, họ cũng chẳng dại gì thuê một toán lính đánh thuê đầy hành tung khả nghi thế này. Nhưng nếu họ không phải kẻ giật dây mà thực sự chỉ là một đoàn lính đánh thuê đến đây làm nhiệm vụ thanh trừng, thì chắc chắn họ phải nắm rõ địa hình. Ít nhất là con đường dẫn về nơi có người sinh sống mà họ vừa đi qua.
 
 “Tất nhiên là được thôi, nhưng mà...”
 
-Gã đoàn trưởng khẽ rên lên một tiếng, ra vẻ đăm chiêu suy nghĩ đầy giả tạo. Gã không có nghĩa vụ phải chỉ đường miễn phí. Nghĩ rằng gã đang định vòi vĩnh tiền bạc, cả hai tự động đề phòng.
+Gã đoàn trưởng khẽ thở dài một tiếng, làm ra vẻ đăm chiêu suy nghĩ vô cùng giả tạo. Gã vốn chẳng có nghĩa vụ phải chỉ đường không công. Nghĩ rằng gã đang giở trò vòi vĩnh tiền bạc, cả hai lập tức dựng lên bức tường đề phòng.
 
-“Nếu không dọn dẹp sạch sẽ nơi này, các ngôi làng lân cận sẽ không thể nào yên ổn được.”
+“Nếu không dọn dẹp triệt để mối họa ở nơi này, các ngôi làng lân cận sẽ chẳng thể nào có được một ngày yên ổn.”
 
-“Thì đó là công việc của các người mà.”
+“Thì đó là trách nhiệm và công việc của các người mà.”
 
-“Chính xác là vậy. Bọn ta nhận ủy thác dọn dẹp lũ xác sống ở khu vực này với một khoản tiền còm cõi... Nhưng đúng như hai đứa đoán đấy, có một kẻ đứng đầu đang điều khiển lũ xác sống này.”
+“Chính xác là như vậy. Bọn ta nhận ủy thác thanh trừng lũ xác sống ở khu vực này chỉ với một khoản tiền thù lao còm cõi... Nhưng đúng như hai đứa đã nhạy bén đoán ra đấy, thực sự có một kẻ đầu sỏ đang âm thầm thao túng toàn bộ lũ xác sống này.”
 
-Đến đây thì họ đã phần nào hiểu được câu chuyện.
+Đến nước này thì họ đã phần nào nhìn thấu được toàn bộ câu chuyện.
 
-Bởi lẽ, ánh mắt gã đoàn trưởng nhìn hai người lúc này giống hệt như cái cách Kotarou hào hứng suy tính xem nên vắt kiệt sức lao động của một nguồn chiến lực mới như thế nào.
+Bởi lẽ, ánh mắt gã đoàn trưởng nhìn hai người lúc này giống hệt như cái cách Momokawa hào hứng toan tính xem nên vắt kiệt giá trị sử dụng của một nguồn nhân lực mới như thế nào.
 
-“Nhìn vào thực lực của hai đứa, ta có một đề nghị thế này. Liệu hai đứa có muốn cùng bọn ta đi săn ma cà rồng không?”
+“Tận mắt chứng kiến thực lực kinh người của hai đứa, ta có một đề nghị thế này. Liệu hai đứa có hứng thú cùng bọn ta đi săn ma cà rồng không?”

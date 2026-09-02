@@ -12,7 +12,7 @@ Cậu vẫn nghe thấy tiếng hét ngăn cản đầy sốt ruột — một s
 
 “Gư hự... Aaaaargh!?”
 
-Ánh sáng chói lòa cùng sức nóng thiêu đốt ập vào cơ thể cậu. Cảm giác như thể vừa bị một luồng điện cực mạnh giật trúng. Dù sở hữu khả năng phòng ngự của một 『Trọng Chiến Binh』, uy lực khủng khiếp chạy dọc khắp toàn thân vẫn khiến cậu phải hét lên đau đớn.
+Ánh sáng chói lòa cùng sức nóng thiêu đốt ập thẳng vào cơ thể cậu. Cảm giác như thể vừa bị một luồng điện cực mạnh giật trúng. Dù sở hữu khả năng phòng ngự của một 『Trọng Chiến Binh』, uy lực khủng khiếp chạy dọc khắp toàn thân vẫn khiến cậu phải hét lên đau đớn.
 
 Thế nhưng, Yamada không hề lùi bước. Cậu dồn thêm sức mạnh vào chiếc đại rìu, nhích từng chút một, cố gắng tiến lên dù chỉ là một bước chân.
 
@@ -74,7 +74,7 @@ Tất cả chúng chắc chắn đều ẩn chứa sức mạnh to lớn. Nhưng
 
 “Đừng có đùa giỡn với tôi... Một kẻ chẳng bảo vệ nổi một ai như tôi...”
 
-Bảo vệ đồng đội. Đối với Yamada, người đã mất ý nghĩa sống nếu không thể làm điều đó, kết cục này thật quá tàn nhẫn. Cậu thậm chí còn nghĩ rằng vị Thần Chiến Sĩ ban sức mạnh này chỉ để chế giễu sự bất lực của cậu.
+Bảo vệ đồng đội. Đối với Yamada, người đã mất đi ý nghĩa sống nếu không thể làm điều đó, kết cục này thật quá tàn nhẫn. Cậu thậm chí còn nghĩ rằng vị Thần Chiến Sĩ ban sức mạnh này chỉ để chế giễu sự bất lực của cậu.
 
 “Với sức mạnh này, rốt cuộc mình phải bảo vệ cái gì đây chứ...”
 
@@ -82,7 +82,7 @@ Bảo vệ đồng đội. Đối với Yamada, người đã mất ý nghĩa s�
 
 “...Chỉ còn cách đi tiếp thôi.”
 
-Bản thân thật thảm hại khi bị lạc mất các bạn học cần được bảo vệ. Dù vậy, cậu cũng không thể cứ ngồi yên một chỗ chờ chết.
+Bản thân thật thảm hại khi để lạc mất các bạn học cần được bảo vệ. Dù vậy, cậu cũng không thể cứ ngồi yên một chỗ chờ chết.
 
 Cậu không biết họ có an toàn hay không. Cậu cũng không biết đường quay lại hầm ngục đó.
 
@@ -92,7 +92,7 @@ Dù có mất bao nhiêu thời gian đi chăng nữa, ít nhất cậu cũng ph
 
 Bất chấp tinh thần đang suy sụp, cái bụng vẫn biểu tình đòi ăn. Bắt đầu hành động với một chiếc bụng đói là điều không nên.
 
-Yamada lấy ra một phần lương thực khẩn cấp từ chiếc ba lô và bắt đầu ăn. Chiếc ba lô chứa toàn bộ bộ dụng cụ sinh tồn khẩn cấp mà trước đây cậu từng nghĩ *liệu có cần thiết đến mức này không*, nhưng giờ đây nó lại là chiếc phao cứu sinh đáng tin cậy nhất.
+Yamada lấy ra một phần lương thực khẩn cấp từ chiếc ba lô và bắt đầu ăn. Chiếc ba lô chứa toàn bộ dụng cụ sinh tồn khẩn cấp mà trước đây cậu từng nghĩ *liệu có cần thiết đến mức này không*, nhưng giờ đây nó lại là chiếc phao cứu sinh đáng tin cậy nhất.
 
 Ít nhất, chừng nào còn những thứ này, cậu vẫn có thể tiếp tục di chuyển trong một thời gian dài ngay cả khi không tìm thấy thức ăn và nước uống dọc đường.
 
@@ -104,7 +104,7 @@ Tại tàn tích vòng tròn đá nơi Yamada tỉnh dậy, có một lối đi 
 
 Nếu là ở trong hầm ngục, đây có thể chỉ là một thiết kế có sẵn, nhưng nếu là thế giới bên ngoài, con đường này chắc chắn do con người tạo ra.
 
-And nếu đã có con đường do con người tạo ra, đi theo nó chắc chắn sẽ dẫn đến nơi có người sinh sống.
+Và nếu đã có con đường do con người tạo ra, đi theo nó chắc chắn sẽ dẫn đến nơi có người sinh sống.
 
 “Nghe nói ở đây có cái vương quốc gì đó. Chắc không đến mức chỉ toàn ma vật sinh sống đâu.”
 
@@ -136,7 +136,7 @@ Một tiếng gầm rú chói tai và bẩn thỉu vang lên từ phía bên kia
 
 Tiếng kêu chói tai đó chắc chắn là của tộc Goma. Dựa vào độ trầm của giọng, đó hẳn là một chiến binh Gove.
 
-Với thực lực và trang bị hiện tại của cậu, ngay cả khi đối đầu với một con GoGame Mastera dẫn đầu một tiểu đội Gove, cậu vẫn có thể giải quyết dễ dàng.
+Với thực lực và trang bị hiện tại của cậu, ngay cả khi đối đầu với một con 『Đại Chiến Sĩ Goma』 dẫn đầu một tiểu đội Gove, cậu vẫn có thể giải quyết dễ dàng.
 
 Tuy nhiên, hạ gục chúng lúc này cũng chẳng mang lại lợi ích gì. Cậu không có đồng đội nào bên cạnh để luyện thành trang bị hay vật phẩm từ nguyên liệu thu được. Nghĩ đến chặng đường dài phía trước, tốt nhất là nên tránh những trận chiến vô ích.
 
@@ -166,11 +166,11 @@ Con ngựa kéo chiếc xe có mui lớn đang bị trói chặt bởi những s
 
 Không rõ có bao nhiêu người bên trong xe ngựa, nhưng chỉ có hai người đang cầm kiếm và giáo thủ thế chiến đấu. Đối mặt với vài chục con Goma và vài con Gove, hai người họ rõ ràng đang run rẩy sợ hãi. Trông họ hoàn toàn không giống những người sở hữu thiên chức.
 
-Đây đúng là một cảnh tượng bị xe ngựa tập kích kinh điển như trong tranh vẽ.
+Đây đúng là một cảnh tượng đoàn xe ngựa bị tập kích kinh điển như trong tranh vẽ.
 
-Nếu là Kotarou, cậu ta hẳn sẽ thốt ra một câu nhận xét vô lo kiểu: “Không ngờ trong đời mình lại gặp được một tình huống dị giới rập khuôn thế này”. Nhưng Yamada thì hoàn toàn không có khiếu hài hước đó. Đối với một nam sinh trung học khỏe mạnh chỉ biết đến câu lạc bộ bóng chày và sở thích câu cá như Yamada, thay vì cảm nhận đây là một sự kiện trong truyện kể, cậu chỉ nhận thức nó như một vụ tập kích thực tế đầy nguy hiểm dựa trên những trải nghiệm xương máu về ma vật trong hầm ngục.
+Nếu là Kotarou, cậu ta hẳn sẽ thốt ra một câu nhận xét bâng quơ kiểu: “Không ngờ trong đời mình lại gặp được một tình huống dị giới rập khuôn thế này”. Nhưng Yamada thì hoàn toàn không có khiếu hài hước đó. Đối với một nam sinh trung học khỏe mạnh chỉ biết đến câu lạc bộ bóng chày và sở thích câu cá như Yamada, thay vì cảm nhận đây là một sự kiện trong truyện kể, cậu chỉ nhận thức nó như một vụ tập kích thực tế đầy nguy hiểm dựa trên những trải nghiệm xương máu về ma vật trong hầm ngục.
 
-And đúng như dự đoán, lũ chiến binh Gove bắt đầu tấn công những con người đang yếu thế rõ rệt kia với vẻ đầy thích thú.
+Và đúng như dự đoán, lũ chiến binh Gove bắt đầu tấn công những con người đang yếu thế rõ rệt kia với vẻ đầy thích thú.
 
 Nhờ sở hữu thiên chức mạnh mẽ 『Trọng Chiến Binh』 ngay từ đầu, Yamada chưa từng gặp khó khăn trước lũ Goma nên chưa bao giờ chứng kiến cảnh này. Tuy nhiên, cậu từng nghe Kotarou kể rằng lũ quái vật này có bản tính tàn bạo, thích hành hạ và đùa giỡn với những con mồi yếu thế. Một ví dụ điển hình cho điều đó đang diễn ra ngay trước mắt cậu.
 

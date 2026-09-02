@@ -1,32 +1,32 @@
 # Tập 370: Dark Rerite
 
-Hayama Ritsuki vốn là một cậu thiếu niên hạnh phúc. Tính cách lạc quan và vô tư của cậu có được là nhờ lớn lên trong một môi trường đầy ắp sự yêu thương.
+Hayama Ritsuki vốn là một thiếu niên may mắn và hạnh phúc. Tính cách lạc quan, vô tư của cậu được nuôi dưỡng từ một môi trường tràn ngập tình yêu thương.
 
-Cậu sinh ra trong một gia đình êm ấm, được ban tặng những người bạn tốt. Suốt những năm tháng đã qua, bất cứ ai cậu gặp gỡ cũng đều là những con người tuyệt vời.
+Cậu sinh ra trong một gia đình êm ấm, được vây quanh bởi những người bạn tốt. Suốt những năm tháng trưởng thành, bất cứ ai cậu từng gặp gỡ cũng đều là những con người tuyệt vời.
 
-Chính vì thế, Rerite mới có thể đối xử dịu dàng với mọi người đến vậy. Cậu sẵn lòng đặt trọn niềm tin vào người khác. Dẫu điều đó đôi khi đi kèm với nguy cơ bị tổn thương bởi những ác ý tàn nhẫn, nhưng bản chất tâm hồn cậu chắc chắn là một thứ gì đó vô cùng cao quý và thiện lương.
+Chính vì thế, Rerite mới có thể đối xử dịu dàng với mọi người đến vậy. Cậu sẵn lòng đặt trọn niềm tin vào người khác. Dẫu sự ngây thơ ấy đôi khi đi kèm nguy cơ bị tổn thương bởi những ác ý trần trụi, nhưng bản chất tâm hồn cậu chắc chắn là một thứ gì đó vô cùng cao quý và thuần khiết.
 
-Và rồi, ngay cả khi gặp phải vận rủi tột cùng là bị triệu hoán sang dị giới cùng cả lớp, Rerite vẫn kết nên những mối nhân duyên tốt đẹp.
+Ngay cả khi gặp phải vận rủi tột cùng là bị triệu hoán sang dị giới cùng cả lớp, Rerite vẫn kết nên những mối nhân duyên tốt đẹp.
 
-Đó chính là chú gấu hoang được cậu đặt tên là Kinako. Một chú gấu dễ thương hệt như thú nhồi bông với đôi tai thỏ, chẳng hiểu sao lại có thể thấu hiểu được tiếng người.
+Đó chính là chú gấu hoang được cậu đặt tên là Kinako. Một chú gấu sở hữu ngoại hình đáng yêu hệt như thú nhồi bông với đôi tai thỏ, chẳng hiểu sao lại có thể thấu hiểu trọn vẹn tiếng người.
 
-Con người và ma vật dạng gấu. Được gắn kết bởi một mối kỳ duyên, cả hai đã cùng nhau vượt qua muôn vàn hoạn nạn để trở thành tri kỷ sinh tử của nhau. Đó chính xác là 『Sợi dây liên kết vượt qua chủng tộc』.
+Con người và ma vật dạng gấu. Được gắn kết bởi một mối kỳ duyên, cả hai đã cùng nhau vượt qua muôn vàn sinh tử để trở thành tri kỷ độc nhất vô nhị. Đó chính là sợi dây liên kết vượt qua ranh giới chủng tộc.
 
-Chính vì lẽ đó, cuộc chia ly này mới trở thành một bi kịch đau đớn đến tột cùng.
+Chính vì lẽ đó, cuộc chia ly này mới trở thành một bi kịch đau đớn đến xé lòng.
 
-Nếu Kinako chỉ là một sứ ma thông thường, mọi chuyện đã chẳng đến nông nỗi này. Dẫu có ngã xuống trong trận chiến, cậu vẫn có thể tìm cách nuốt nước mắt chấp nhận thực tại ở một góc nào đó nơi đáy lòng.
+Nếu Kinako chỉ là một sứ ma thông thường, mọi chuyện đã chẳng bi thảm đến mức này. Dẫu có ngã xuống nơi chiến trường, cậu vẫn có thể tìm cách gạt nước mắt chấp nhận hiện thực ở một góc nào đó nơi đáy tim.
 
-Thế nhưng, Kinako lại là một sự tồn tại vô giá, độc nhất vô nhị, vĩnh viễn không gì trên đời có thể thay thế được.
+Thế nhưng, Kinako lại là một sự tồn tại vô giá, duy nhất trên đời, vĩnh viễn không gì có thể thay thế.
 
 “A... a... a...”
 
-Nhìn người bạn thân thiết nhất đang dần tan biến thành những đốm sáng nhạt nhòa, Rerite chỉ biết vươn hai tay ra một cách vô vọng.
+Nhìn người bạn thân thiết nhất đang dần rã thành những đốm sáng nhạt nhòa, Rerite chỉ biết vươn hai tay ra một cách tuyệt vọng.
 
-Cảm giác mềm mại ấm áp của lớp lông thú vừa chạm vào lòng bàn tay ban nãy, giờ đây đã hóa thành làn lân quang nhạt màu rồi phiêu tán vào hư không. Dẫu có điên cuồng níu giữ bằng cả hai bàn tay, cậu cũng chẳng thể nào chạm vào ánh sáng, chỉ biết trơ mắt nhìn từng hạt bụi quang trôi tuột qua kẽ tay một cách vô nghĩa lý.
+Cảm giác mềm mại, ấm áp của lớp lông thú vừa chạm vào lòng bàn tay ban nãy, giờ đây đã hóa thành làn lân quang nhạt màu rồi phiêu tán vào hư không. Dẫu có điên cuồng níu giữ bằng cả hai bàn tay, cậu cũng chẳng thể chạm vào ánh sáng, chỉ trơ mắt nhìn từng hạt bụi quang trôi tuột qua kẽ tay trong vô vọng.
 
-Cậu đã ngỡ mình cứu được rồi. Cậu đã ngỡ mình giữ được rồi. Cậu đã ngỡ cuối cùng mình cũng giành lại được người bạn ấy rồi.
+Cậu đã ngỡ mình đã cứu được rồi. Cậu đã ngỡ mình đã giữ được rồi. Cậu đã ngỡ cuối cùng mình cũng giành lại được người bạn ấy.
 
-Vậy mà giờ đây, bao công sức lẫn hy vọng đều đang tan thành mây khói. Ngay trước mắt cậu, người bạn ấy tan biến đi mà cậu lại bất lực chẳng thể làm gì để ngăn lại.
+Vậy mà giờ đây, bao công sức lẫn hy vọng đều đang tan thành bọt nước. Ngay trước mắt cậu, người bạn ấy tan biến đi mà cậu lại bất lực, chẳng thể làm gì để ngăn lại.
 
 “A... Kinako...”
 
@@ -34,29 +34,29 @@ Hayama Ritsuki từng là một thiếu niên vô cùng hạnh phúc.
 
 Vì quá đỗi hạnh phúc, cuộc đời cậu chưa từng phải nếm trải bất kỳ nỗi bất hạnh bi thảm nào.
 
-Không, thậm chí dẫu cho Rerite đã từng trải qua nỗi đau sinh ly tử biệt với đấng sinh thành, hay nếm mùi chia tay bạn bè, người yêu đi chăng nữa, cậu cũng chẳng thể nào chịu đựng nổi cú sốc này.
+Không, dẫu cho Rerite đã từng trải qua nỗi đau sinh ly tử biệt với đấng sinh thành, hay nếm mùi chia tay bạn bè, người yêu đi chăng nữa, cậu cũng chẳng thể nào chịu đựng nổi cú sốc này.
 
-Một cuộc chia ly tàn nhẫn và đột ngột đến nhường này, làm sao cậu có thể chịu đựng nổi? Một Rerite hiền lành và nhân hậu làm sao đủ sức gánh vác nổi nỗi đau xé lòng này?
+Một cuộc chia ly tàn nhẫn và đột ngột đến nhường này, làm sao cậu có thể chịu đựng nổi? Một Rerite hiền lành và nhân hậu làm sao đủ sức gánh vác nỗi đau xé toạc tâm can này?
 
-Cậu phải diễn tả cảm xúc này thế nào đây? Cậu phải bày ra nét mặt ra sao trước nỗi đau này?
+Cậu phải diễn tả cảm xúc này thế nào đây? Cậu phải bày ra nét mặt ra sao trước bi kịch này?
 
 Tuyệt vọng tột cùng. Hối hận khôn nguôi. Bi thương thấu tận tâm can. Dù có cố gắng dùng bất cứ từ ngữ nào để gọi tên, cậu cũng đều cảm thấy không đúng.
 
-Rerite thậm chí còn chẳng biết đầu óc mình nên suy nghĩ điều gì, chỉ biết ngơ ngác lặng lẽ tiễn đưa người bạn tri kỷ đang hóa thành ngàn vạn hạt sáng.
+Rerite thậm chí còn chẳng biết đầu óc mình nên suy nghĩ điều gì, chỉ biết ngơ ngác lặng lẽ tiễn đưa người bạn tri kỷ đang hóa thành ngàn vạn hạt sáng rực rỡ.
 
 Thân hình to lớn nhường ấy của Kinako cuối cùng đã biến mất hoàn toàn.
 
-“Nhìn đi, Hayama. Một viên lõi có độ tinh khiết cực cao. Có thứ này rồi, chúng ta có thể kích hoạt Thiên Tống Môn rồi đấy.”
+“Nhìn đi, Hayama. Một viên lõi có độ tinh khiết cực cao. Có thứ này rồi, chúng ta có thể kích hoạt 『Thiên Tống Môn』 rồi đấy.”
 
 Souma Yuuto cúi xuống nhặt viên lõi ma vật khổng lồ — tàn tích duy nhất còn sót lại của Kinako — lên tay.
 
-Rerite không nói một lời, thậm chí mi mắt cũng chẳng hề chớp lấy một lần, chỉ biết chết trân nhìn chằm chằm vào cảnh tượng ấy.
+Rerite không nói một lời, mi mắt chẳng hề chớp lấy một lần, chỉ biết chết trân nhìn chằm chằm vào cảnh tượng ấy.
 
-“A, được rồi, kích hoạt được rồi! Cuối cùng tớ cũng đã đi tới bước này — Nào, cánh cửa hy vọng của chúng ta, hãy mở ra đi, Thiên Tống Môn!”
+“A, được rồi, kích hoạt được rồi! Cuối cùng tớ cũng đã đi tới bước này — Nào, cánh cửa hy vọng của chúng ta, hãy mở ra đi, 『Thiên Tống Môn』!”
 
-Rerite nhìn Souma Yuuto đang hò reo vui sướng tột độ như thể đó là câu chuyện xa lạ của một ai khác. Cậu không hiểu tại sao viên lõi lại tan biến khỏi tay cậu ta, cũng chẳng rõ chuyện gì đang diễn ra tiếp theo. Cậu cũng chẳng còn chút tâm trí nào để bận tâm hay muốn hiểu nữa.
+Rerite nhìn Souma Yuuto đang hò reo vui sướng tột độ như thể đó là câu chuyện xa lạ của một ai khác. Cậu không hiểu tại sao viên lõi lại tan biến khỏi tay cậu ta, cũng chẳng rõ chuyện gì đang diễn ra tiếp theo. Cậu chẳng còn chút tâm trí nào để bận tâm hay muốn hiểu nữa.
 
-Cậu chỉ biết một điều duy nhất rằng, chút vết tích cuối cùng mà Kinako để lại trên thế gian này cũng đã hoàn toàn biến mất sạch sẽ. Thật nực cười làm sao, giữa lúc đầu óc trống rỗng, chỉ có duy nhất sự thật tàn khốc đó là cậu nhận thức rõ ràng nhất.
+Cậu chỉ biết một điều duy nhất: chút vết tích cuối cùng mà Kinako để lại trên thế gian này cũng đã hoàn toàn tan biến sạch sẽ. Thật nực cười làm sao, giữa lúc đầu óc trống rỗng, chỉ có duy nhất sự thật tàn khốc đó là cậu nhận thức rõ ràng nhất.
 
 “Nhưng mà, xin lỗi nhé Hayama, cậu đợi tớ một chút đã — Bước ra đây đi, Momokawa Kotarou. Hãy kết thúc toàn bộ mọi chuyện tại đây nào.”
 
@@ -84,7 +84,7 @@ Giữa bóng tối tưởng chừng như vô cảm và lạnh lẽo, cậu bỗn
 
 “Momo... kawa...?”
 
-Một gương mặt thanh tú trắng trẻo hiện lên giữa cõi hư không tăm tối. Diện mạo trẻ trung, trung tính đã quá đỗi quen thuộc ấy đang mỉm cười dịu dàng tựa như một người mẹ hiền từ và cất lời thủ thỉ.
+Một gương mặt thanh tú trắng trẻo hiện lên giữa cõi hư không tăm tối. Diện mạo trẻ trung, trung tính đã quá đỗi quen thuộc ấy đang mỉm cười dịu dàng tựa như một người mẹ hiền từ và cất lời thủ thỉ:
 
 “Tớ sẽ cho cậu mượn sức mạnh.”
 
@@ -128,7 +128,7 @@ Ngay tức khắc, thế giới tăm tối xung quanh vỡ vụn thành từng m
 
 “Hàaa... Souma...!”
 
-Cậu đã nhìn thấy rồi. Kẻ thù không đội trời chung mà cậu buộc phải nghiền nát để báo thù. Hình bóng tên Dũng Giả đang tỏa ra ánh sáng thánh thiện màu xanh lam nhạt kia đã hoàn toàn lọt vào tầm mắt.
+Cậu đã nhìn thấy rồi. Kẻ thù không đội trời chung mà cậu buộc phải nghiền nát để báo thù. Hình bóng tên 『Dũng Giả』 đang tỏa ra ánh sáng thánh thiện màu xanh lam nhạt kia đã hoàn toàn lọt vào tầm mắt.
 
 Ánh nhìn của cậu giờ đây chỉ còn khóa chặt vào kẻ thù truyền kiếp ấy, hoàn toàn chẳng thèm nhận ra hay bận tâm đến sự biến đổi dị thường đang diễn ra trên chính thân thể mình.
 
@@ -150,7 +150,7 @@ Trước sự biến đổi quá đỗi đột ngột và dị hợm ấy, Souma
 
 “OAAAAAAA...!!!”
 
-Xé tan không gian bằng một tiếng gầm rống điên dại đến thấu tận trời xanh, Rerite lao vút tới! Bộ dạng ấy còn hung hãn, khát máu và điên cuồng hơn cả một con cỗ máy đồ sát đói mồi. Một Rerite hắc ám — kẻ đã tự dìm mình vào biển sâu thù hận và sát ý tăm tối vô tận — đã thu hẹp toàn bộ khoảng cách chỉ trong một chớp mắt ngắn ngủi.
+Xé tan không gian bằng một tiếng gầm rống điên dại đến thấu tận trời xanh, Rerite lao vút tới! Bộ dạng ấy còn hung hãn, khát máu và điên cuồng hơn cả một cỗ máy đồ sát đói mồi. Một Rerite hắc ám — kẻ đã tự dìm mình vào biển sâu thù hận và sát ý tăm tối vô tận — đã thu hẹp toàn bộ khoảng cách chỉ trong một chớp mắt ngắn ngủi.
 
 Quá nhanh! Tốc độ khủng khiếp đó thậm chí còn vượt xa một 『Đạo tặc』 đang kích hoạt toàn bộ võ kỹ tăng tốc tối thượng. Đó chính xác là chuyển động phi nhân loại của một thực thể siêu phàm, dễ dàng xé toạc mọi giới hạn vật lý thông thường. Đối với một 『Tinh linh thuật sư』 vốn không hề sở hữu kỹ năng cường hóa thể chất cơ bản như Rerite, đây là ngưỡng tốc độ đáng lý ra vĩnh viễn không thể nào đạt tới.
 
@@ -186,7 +186,7 @@ Nơi đáy mắt cậu ta hoàn toàn không có lấy một chút do dự khi b
 
 Đối với Souma Yuuto vào lúc này, việc giải cứu Hayama Ritsuki và việc vung kiếm đả thương cậu ấy không hề mâu thuẫn với nhau một chút nào. Để cứu lấy một người bạn cùng lớp đang bị nuốt chửng bởi sức mạnh bóng tối tà ác, một Dũng Giả gánh vác sứ mệnh công lý như cậu ta buộc lòng phải vung kiếm chế ngự. Chắc chắn đối phương sẽ phải chịu thương tích đầy mình. Nhưng cậu ta nhất định sẽ giữ lại được mạng sống cho cậu ấy — ít nhất, Souma Yuuto hoàn toàn tin chắc vào điều đó, và tin rằng thiên chức của mình sinh ra là để thanh tẩy và cứu rỗi một Rerite đang rơi vào trạng thái bạo tẩu.
 
-“Kẻ đã ban cho cậu thứ sức mạnh bóng tối đầy tà niệm này chắc chắn không ai khác ngoài Momokawa. Nhưng dẫu cho tên Chú thuật sư đó có bày ra bao nhiêu cạm bẫy hay âm mưu xảo quyệt đi chăng nữa, tớ cũng sẽ dùng thanh kiếm này chém tan tất cả!”
+“Kẻ đã ban cho cậu thứ sức mạnh bóng tối đầy tà niệm này chắc chắn không ai khác ngoài Momokawa. Nhưng dẫu cho tên 『Chú thuật sư』 đó có bày ra bao nhiêu cạm bẫy hay âm mưu xảo quyệt đi chăng nữa, tớ cũng sẽ dùng thanh kiếm này chém tan tất cả!”
 
 Sự do dự chỉ làm cho đường kiếm trở nên cùn mòn. Và Souma Yuuto thì tuyệt đối không hề do dự.
 
@@ -230,7 +230,7 @@ Dù sự việc diễn biến nằm ngoài dự liệu, nhưng tôi buộc phả
 
 “Cậu còn đứng ngây như phỗng ở đó làm cái gì, mau trốn vào đây nhanh lên!”
 
-Ngay khi tôi vừa mới định thần để bình tĩnh quan sát trận thư hùng nảy lửa giữa Hayama và Souma Yuuto, Sakura đã thô bạo túm chặt lấy cổ áo tôi rồi dùng hết sức bình sinh lôi tuột tôi nấp vào sau bóng lưng sừng sững của Thiên Tống Môn. Ơ kìa, khoan đã nào, màn kịch hay đang bước vào hồi gay cấn nhất mà.
+Ngay khi tôi vừa mới định thần để bình tĩnh quan sát trận thư hùng nảy lửa giữa Hayama và Souma Yuuto, Sakura đã thô bạo túm chặt lấy cổ áo tôi rồi dùng hết sức bình sinh lôi tuột tôi nấp vào sau bóng lưng sừng sững của 『Thiên Tống Môn』. Ơ kìa, khoan đã nào, màn kịch hay đang bước vào hồi gay cấn nhất mà.
 
 “Lớp trưởng, Minami, cả Randou-san nữa, mau lại gần đây với tớ! Tớ sẽ bảo vệ mọi người bằng 『Thánh Thiên Kết Giới』!”
 
@@ -238,9 +238,9 @@ Ngay khi tôi vừa mới định thần để bình tĩnh quan sát trận thư
 
 “Đúng là cứu tinh của đời mình rồi, Sakura-chan ơi!”
 
-Sakura gấp gáp gọi với mọi người tập hợp lại, vừa khéo léo lấy cấu trúc bất hoại của Thiên Tống Môn làm tấm chắn kiên cố, vừa dồn ma lực mở rộng 『Thánh Thiên Kết Giới』, cấp tốc thiết lập thế trận phòng ngự đa tầng để chống đỡ các đợt công kích từ mọi hướng.
+Sakura gấp gáp gọi với mọi người tập hợp lại, vừa khéo léo lấy cấu trúc bất hoại của 『Thiên Tống Môn』 làm tấm chắn kiên cố, vừa dồn ma lực mở rộng 『Thánh Thiên Kết Giới』, cấp tốc thiết lập thế trận phòng ngự đa tầng để chống đỡ các đợt công kích từ mọi hướng.
 
-Nếu ngây thơ nghĩ rằng chỉ cần ẩn nấp sau bức tường Thiên Tống Môn không thể phá hủy là đã hoàn toàn kê cao gối ngủ thì quả thực là đỉnh cao của sự ấu trĩ. Quyết định lập tức chuyển sang thế thủ toàn diện của Sakura đã nhanh chóng được thực tế chiến trường chứng minh là hoàn toàn sáng suốt chỉ vài giây sau đó.
+Nếu ngây thơ nghĩ rằng chỉ cần ẩn nấp sau bức tường 『Thiên Tống Môn』 không thể phá hủy là đã hoàn toàn kê cao gối ngủ thì quả thực là đỉnh cao của sự ấu trĩ. Quyết định lập tức chuyển sang thế thủ toàn diện của Sakura đã nhanh chóng được thực tế chiến trường chứng minh là hoàn toàn sáng suốt chỉ vài giây sau đó.
 
 “Ư... Chỉ là dư chấn lan ra thôi mà uy lực đã khủng khiếp đến mức này rồi sao...”
 

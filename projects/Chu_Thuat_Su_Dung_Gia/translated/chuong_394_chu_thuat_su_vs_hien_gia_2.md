@@ -2,376 +2,376 @@
 
 “Bạn đồng hành cuối cùng của ta chính là ngươi, Oh-ma. Nào, cho ta mượn thứ gọi là sự bảo hộ của thần Goma xem nào.”
 
-Ma lực của tôi chẳng còn lại bao nhiêu. Chính vì thế, Oh-ma à, tôi mới cần đến sức mạnh của ngươi.
+Ma lực của tôi chẳng còn lại bao nhiêu. Chính vì thế, hỡi Oh-ma, tôi mới cần đến sức mạnh của ngươi.
 
-Cây trượng 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 được giơ cao, tràn ngập ma lực Goma tỏa ra ánh sáng tím đầy điềm gở. Bản thân tôi chẳng có lấy một mảnh đức tin, nhưng trên cây trượng này đang đóng đinh linh hồn của một Oh-ma thực sự.
+Cây trượng 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 được giơ cao, ma lực Goma cuồn cuộn trào dâng tỏa ra thứ ánh sáng tím đầy điềm gở. Bản thân tôi chẳng có lấy một mảnh đức tin, nhưng trên cây trượng này đang đóng đinh linh hồn của một Oh-ma thực thụ.
 
-Dù thân xác đã chết, linh hồn của vị vua kiêu hãnh vẫn còn nơi đây. Nào, hãy đáp lại đi, thần Goma, đứa con của ngài đang cầu nguyện đây!
+Dù thân xác đã chết, linh hồn của vị vua kiêu hãnh vẫn còn vất vưởng nơi đây. Nào, hãy đáp lại đi, hỡi thần Goma, đứa con của ngài đang cất lời cầu nguyện đây!
 
-“Hãy đến đi, hỡi mây giông, hỡi tia chớp thai nghén trong bóng tối, hãy giáng xuống bàn tay phán xét————”
+“Hãy giáng lâm, hỡi mây giông, hỡi tia chớp thai nghén trong bóng tối, hãy vung xuống bàn tay phán xét————”
 
-Kotori làm sao nhận ra được những đám mây đen đã bắt đầu cuộn xoáy trên trần nhà cao vút của đại sảnh này. Dù tầm nhìn có hơi mờ mịt, cô ta cũng chỉ nghĩ đó là làn khói còn sót lại từ quả bom khói mà thôi.
+Kotori làm sao nhận ra được những đám mây đen đã bắt đầu cuộn xoáy trên trần nhà cao vút của đại sảnh. Dù tầm nhìn có đôi phần mờ mịt, cô ta cũng chỉ đinh ninh đó là làn khói còn sót lại từ quả bom khói mà thôi.
 
-Thế nhưng, việc tạo ra đám mây đen này chính là một phần của thuật thức giải phóng Lôi ma thuật kiểu Goma mà Oh-ma vô cùng tự hào.
+Thế nhưng, việc ngưng tụ đám mây đen này chính là một mắt xích trong thuật thức giải phóng Lôi ma thuật kiểu Goma mà Oh-ma vô cùng tự hào.
 
-Dù đám mây đen này nhỏ hơn rất nhiều so với lúc Oh-ma sử dụng trong trận chiến cuối cùng của Vương quốc Goma, nhưng chỉ để nhắm bắn một mình cô ta thì đã quá đủ rồi.
+Dù đám mây đen này nhỏ hơn rất nhiều so với lúc Oh-ma thi triển trong trận chiến cuối cùng tại Vương quốc Goma, nhưng chỉ để nhắm bắn một mình cô ta thì đã quá thừa thãi rồi.
 
 “————『Hoang Thiên Lạc Lôi』!”
 
-Thay cho Oh-ma giờ đã không thể cất tiếng, tôi thét lên câu chú cùng tên ma pháp. Ngay lập tức, một tia sét khổng lồ giáng xuống kèm theo tiếng sấm rền vang trời.
+Thay cho Oh-ma giờ đã không thể cất tiếng, tôi thét lên câu chú cùng danh xưng ma pháp. Ngay lập tức, một tia sét khổng lồ xé toạc không gian giáng xuống kèm theo tiếng sấm rền vang trời long đất lở.
 
 *UỲNHHHHHHHHHHHHHHHH!*
 
 “Áaaa!?”
 
-Bị tia sét khổng lồ đột ngột giáng xuống ngay đỉnh đầu, Kotori rú lên một tiếng thảm hại, sợ đến mất mật.
+Bị tia lôi điện khổng lồ đột ngột giáng thẳng xuống đỉnh đầu, Kotori rú lên một tiếng thảm thiết, sợ đến mức hồn xiêu phách lạc.
 
-Đòn đánh tuy bộc phát uy lực tương đương ma pháp tấn công cấp cao, nhưng chỉ một phát thì vẫn chưa thể xuyên thủng 『Thánh Thiên Kết Giới』.
+Đòn đánh bộc phát uy lực tương đương ma pháp tấn công cấp cao, nhưng chỉ vỏn vẹn một kích thì vẫn chưa đủ để đục thủng 『Thánh Thiên Kết Giới』.
 
-Thế nhưng, cộng thêm đòn tấn công của nhóm tiên phong bốn người và cả ma pháp của tôi, lượng sát thương tích tụ để phá vỡ 『Thánh Thiên Kết Giới』 theo cách trực diện đang tăng lên một cách đều đặn.
+Thế nhưng, cộng dồn đòn công kích của nhóm tiên phong bốn người cùng ma pháp của tôi, lượng sát thương tích tụ để nghiền nát 『Thánh Thiên Kết Giới』 theo cách trực diện đang tăng lên không ngừng.
 
-Lá chắn phòng ngự cuối cùng của cô ta còn trụ được bao lâu nữa đây?
+Lá chắn phòng ngự cuối cùng của cô ta còn gắng gượng trụ được bao lâu nữa đây?
 
-“Hỡi những viên sỏi bay loạn, những tảng đá lơ lửng, tựa như mặt nước trôi xuôi, hãy nổi lên, chìm xuống và càn quét————『Nộ Đào Thổ Thạch』.”
+“Hỡi những viên sỏi cuộn trào, những tảng đá lơ lửng, tựa dòng nước cuốn trôi, hãy trỗi dậy, nhấn chìm và quét sạch mọi chướng ngại————『Nộ Đào Thổ Thạch』.”
 
-Tiếp tục dồn dập nào, tiếp theo là Thổ ma thuật.
+Tiếp tục dồn ép dập dồn nào, đòn kế tiếp là Thổ ma thuật.
 
-Dù uy lực của nó kém hơn Kyouko, nhưng ma pháp này có thể nhấc bổng những tảng đá lớn nhỏ khác nhau để làm đạn pháo, đồng thời bản thân những tảng đá lơ lửng đó cũng đóng vai trò như những tấm khiên che chắn tầm bắn của kẻ địch. Đây là một Thổ ma thuật công thủ toàn diện.
+Dù uy lực của nó không thể sánh bằng Kyouko, nhưng ma pháp này có thể nhấc bổng vô số tảng đá lớn nhỏ để làm đạn pháo càn quét, đồng thời chính những khối đá lơ lửng đó lại đóng vai trò như những tấm khiên che chắn tầm bắn của kẻ địch. Đây là một chiêu thức Thổ ma thuật công thủ toàn diện.
 
-Tôi cùng với Hồng Tarou cố tình điều khiển những tảng đá lớn lơ lửng xung quanh để chặn đứng những loạt đạn blaster bắn liên tục trong sự kháng cự tuyệt vọng của Kotori.
+Tôi cùng Hồng Tarou chủ động điều khiển những tảng đá lớn bay lượn xung quanh để bẻ gãy toàn bộ những loạt đạn blaster bắn loạn xạ trong sự kháng cự tuyệt vọng của Kotori.
 
-Dĩ nhiên, tôi phải điều khiển chúng một cách cực kỳ chuẩn xác theo thời gian thực để không gây cản trở cho các đòn tấn công. Các phân thân trắng và đỏ vốn dĩ do chính tôi thao túng nên nhịp độ tấn công không hề bị lệch, sự phối hợp với Rem thì hoàn hảo ngay từ đầu, và ngay cả Momoko cũng phối hợp rất ăn ý với các chuyển động của tôi.
+Dĩ nhiên, tôi phải thao túng chúng một cách cực kỳ chuẩn xác theo thời gian thực để không gây cản trở cho hướng công kích của đồng đội. Hai phân thân trắng và đỏ vốn do chính tôi điều khiển nên nhịp độ tấn công không hề có nửa phần sai lệch, sự phối hợp ăn ý với Rem thì đã hoàn hảo ngay từ đầu, và đến cả Momoko cũng bắt nhịp vô cùng nhịp nhàng theo từng cử động của tôi.
 
-Đòn tấn công liên hoàn mượt mà của bốn người cộng thêm ma pháp kiểu Goma của tôi, dồn toàn bộ hỏa lực của năm người tập trung vào một mình Kotori. Những phát đạn blaster phản công của cô ta hoặc là bị chặn lại bởi những khối thịt và đất đá, hoặc là bay vô định vào khoảng không vô nghĩa. Với đội hình này, ta đời nào để ngươi bắn trúng.
+Đòn tấn công liên hoàn trơn tru của bốn người cộng hưởng với ma pháp kiểu Goma của tôi, dồn ép toàn bộ hỏa lực của cả năm người tập trung oanh tạc vào một mình Kotori. Những phát đạn blaster phản kháng của cô ta hoặc là bị chặn đứng bởi những khối thịt và đất đá, hoặc là bay vô định vào khoảng không vô nghĩa. Trước trận thế này, ta đời nào để ngươi bắn trúng.
 
-Bị dội bom bởi đợt tổng tấn công dồn hết chút sức tàn cuối cùng————cuối cùng, thời khắc ấy cũng đến.
+Bị dội bom bởi đợt tổng tấn công dồn hết chút tàn lực cuối cùng————thời khắc định mệnh rốt cuộc cũng đã điểm.
 
 *Rắc...*
 
-Một vết nứt chạy dọc trên kết giới ánh sáng.
+Một vết nứt sắc nhọn chạy dọc trên bề mặt kết giới ánh sáng.
 
 “...!?”
 
-Nhìn thấy 『Thánh Thiên Kết Giới』 cuối cùng cũng chạm đến giới hạn chịu đựng, gương mặt Kotori co rúm lại.
+Nhìn thấy 『Thánh Thiên Kết Giới』 rốt cuộc cũng đã chạm đến giới hạn chịu đựng, gương mặt Kotori co rúm lại trong kinh hoàng.
 
-“Ôi chao, đã đến giới hạn rồi sao? Kiếm kỹ hoa mỹ của Momoko vẫn còn nhiều lắm đấy nhé————Bắt chước theo khuôn mẫu, song đao phái Futaba: 『Hắc Nại』!”
+“Ôi chao, đã đến giới hạn rồi sao? Kiếm kỹ hoa mỹ của Momoko vẫn còn nhiều lắm đấy nhé————Mô phỏng theo khuôn mẫu, song đao phái Futaba: 『Hắc Nại』!”
 
-Momoko ngưng tụ một 『Hắc Ảnh Nhẫn』 khổng lồ vượt trội, vung một nhát chém ngang. Dù chỉ là bắt chước cho giống vẻ bề ngoài chứ hoàn toàn không có công năng của 『Hắc Nại』 thực sự, nhưng uy lực từ cú đập của thanh đại kiếm bóng tối đó vẫn vô cùng đáng nể.
+Momoko ngưng tụ một lưỡi 『Hắc Ảnh Nhẫn』 khổng lồ vượt bậc, vung ra một nhát chém ngang trời. Dù chỉ là đòn sao chép vẻ bề ngoài chứ hoàn toàn không sở hữu công năng rạch nát kết giới của 『Hắc Nại』 thực thụ, nhưng uy lực từ cú va đập của thanh đại kiếm bóng tối đó vẫn vô cùng khủng khiếp.
 
-Một vết nứt mới lại hằn lên kết giới ánh sáng.
+Một vết nứt to tướng mới lại hằn sâu lên kết giới ánh sáng.
 
-“Này Kotori, có trăn trối gì thì lo mà nói đi————Tuyệt kỹ Phi Đao Phái Momokawa: 『Bạch Diện Chi Vũ - Cửu Vĩ』.”
+“Này Kotori, có trăn trối gì thì lo mà nói mau đi————Tuyệt kỹ Phi Đao Phái Momokawa: 『Bạch Diện Chi Vũ - Cửu Vĩ』!”
 
-Những sợi dây Orichalcum từ mái tóc 『Bạch Ngân Thần Nhạc』 của Shirotarou lập tức bện chặt vào nhau thành những sợi thừng. Có tổng cộng chín sợi thừng được bện ra. Chỉ cần lắc mạnh đầu một cái, chín sợi thừng, không, chín chiếc roi bện bằng Orichalcum đồng loạt quất xuống.
+Những sợi dây Orichalcum từ mái tóc 『Bạch Ngân Thần Nhạc』 của Bạch Tarou lập tức bện chặt vào nhau thành những sợi thừng cứng cáp. Tổng cộng chín sợi thừng được hình thành. Chỉ cần lắc mạnh đầu một cái, chín sợi thừng — không, chín chiếc roi bện bằng Orichalcum sắc bén — đồng loạt quất xuống như trời giáng.
 
-Chín cú quất liên hoàn từ loại kim loại mạnh nhất lao thẳng vào những vết nứt, khiến chúng vỡ ra răng rắc và lan rộng hơn nữa.
+Chín cú quất liên hoàn từ thứ kim loại cứng nhất lao thẳng vào những điểm nứt vỡ, khiến chúng rạn nứt răng rắc và lan rộng ra khắp bốn phía.
 
-“Làm một bài thơ tuyệt mệnh xem nào————Giải phóng 『Hệ Biến Thái Hoàn Toàn』: 『Cự Long Đại Ngạc』!”
+“Ngâm một bài thơ tuyệt mệnh xem nào————Giải phóng 『Hệ Biến Thái Hoàn Toàn』: 『Cự Long Đại Ngạc』!”
 
-Bằng cách dốc sạch đống nguyên liệu tích trữ trong 『Dạ Dày Không Đáy』 của Yokomichi, thứ được tạo ra là một hàm răng rồng khổng lồ. Vì thực tế họ chưa từng tiêu diệt con rồng nào có kích thước như thế này, nên đây chỉ là một sản phẩm chắp vá từ vô số nguyên liệu khác nhau.
+Bằng cách vét cạn sạch đống nguyên liệu tích trữ trong 『Dạ Dày Không Đáy』 của Yokomichi, thứ được tạo tác ra là một hàm răng rồng khổng lồ gớm ghiếc. Vì thực tế chưa từng săn lùng con rồng nào có kích thước đồ sộ đến nhường này, nên đây chỉ là một sản phẩm chắp vá từ vô số nguyên liệu ma thú tạp nham.
 
-Vô số vết khâu, diện mạo thô kệch, hàm răng khấp khểnh. Thế nhưng, lực cắn xé để nuốt chửng con mồi của nó là thật. Sự phàm ăn của Yokomichi, ngay cả kết giới ánh sáng này cũng sẽ bị nhai ngấu nghiến.
+Vô số vết khâu chằng chịt, diện mạo thô kệch, hàm răng khấp khểnh nham nhở. Thế nhưng, lực cắn xé để nuốt chửng con mồi của nó là hoàn toàn chân thực. Cơn đói khát phàm ăn của Yokomichi, ngay cả kết giới ánh sáng này cũng sẽ bị nó nghiền nát ngấu nghiến.
 
 “Ư... a, aaa...”
 
-Dưới cú ngoạm trọn của hàm răng khổng lồ, tiếng cọ xát ken két vang lên khi những vết nứt lan rộng khắp toàn bộ kết giới. Thời khắc nó vỡ vụn hoàn toàn chỉ còn tính bằng giây.
+Dưới cú ngoạm trọn nghiệt ngã của hàm răng khổng lồ, tiếng ma sát ken két chói tai vang lên khi những vết nứt chằng chịt lan rộng khắp toàn bộ kết giới. Thời khắc nó vỡ vụn hoàn toàn chỉ còn được tính bằng từng giây ngắn ngủi.
 
 “Tuyệt kỹ phái Souma————『Thương Nguyệt』.”
 
-Đòn kết liễu. Dáng vẻ Rem vung cao thanh kiếm trông giống hệt như Souma Yuuto khi giương cao 『Thánh Kiếm Ánh Sáng』. Ra là vậy, dù Yuuto không thét lên tên chiêu thức, nhưng mọi đường kiếm cậu ta vung ra đều dựa trên kiếm phái Souma. Việc trông giống nhau cũng là điều dễ hiểu.
+Đòn kết liễu tối hậu. Dáng vẻ Rem vung cao thanh kiếm trông giống hệt như Souma Yuuto khi giương cao thanh 『Thánh Kiếm Ánh Sáng』. Ra là vậy, dẫu cho Yuuto chưa từng thét to tên chiêu thức, nhưng từng đường kiếm cậu ta vung ra đều bắt nguồn từ kiếm phái Souma danh chấn. Việc chúng giống nhau như đúc cũng là lẽ đương nhiên.
 
-Thế nhưng, lưỡi kiếm chém xuống không phải là thanh kiếm ánh sáng nhận được sự bảo hộ của Nữ thần, mà là một nhát chém nguyền rủa chứa đựng sự căm thù thuần túy.
+Thế nhưng, lưỡi kiếm chém xuống lần này không phải là thanh thánh kiếm mang phước lành bảo hộ của Nữ thần, mà là một nhát chém nguyền rủa chứa chan sự căm thù thuần túy tột cùng.
 
 *Choang!*
 
-Tiếng vỡ giòn giã vang lên, 『Thánh Thiên Kết Giới』 cuối cùng đã tan tành mây khói.
+Âm thanh vỡ tan giòn giã vang lên, 『Thánh Thiên Kết Giới』 cuối cùng đã nổ tung thành trăm ngàn mảnh vụn rồi tan biến vào hư không.
 
-Cuối cùng đòn kết liễu cũng có thể chạm tới.
+Đòn kết liễu chí mạng đã hoàn toàn có thể chạm tới mục tiêu.
 
 “————『Hoang Thiên Lạc Lôi』.”
 
-“ĐỪNG CÓ MÀ COI THƯỜNG KOTORI, THẰNG MOMOKAWA KIAAAAAAAAAAAAAAAA!!”
+“ĐỪNG CÓ MÀ COI THƯỜNG KOTORI NÀY, THẰNG MOMOKAWA KIAAAAAAAAAAAAAAAA!!”
 
-Tia sét cực đại phát nổ cùng lúc với một luồng ánh sáng chói lòa lóe lên.
+Tia sét cực đại phát nổ dữ dội cùng lúc với một luồng sáng chói lòa bùng phát.
 
-Ánh sáng trắng xóa thiêu đốt nhãn quan, khiến tôi tạm thời mất đi phương hướng.
+Ánh sáng trắng xóa thiêu đốt nhãn quan, khiến tôi nhất thời mất đi phương hướng trong tích tắc.
 
-Nhưng tôi nhanh chóng lắc đầu rồi mở mắt ra, tầm nhìn lập tức được khôi phục.
+Nhưng tôi nhanh chóng lắc đầu rồi mở bừng mắt ra, tầm nhìn lập tức được khôi phục nguyên vẹn.
 
 “Hộc... hộc...”
 
-Ở đó, chỉ còn một mình Kotori đứng vững.
+Tại nơi đó, chỉ còn trơ trọi một mình Kotori vẫn đứng vững.
 
-“Ha, haha... Thấy sao hả, Kotori này... Kotori này nếu đã ra tay thì dù có một mình cũng làm được tất...”
+“Ha, haha... Thấy sao hả, Kotori này... Kotori này một khi đã ra tay thì dù có đơn độc một mình cũng quét sạch được tất cả...”
 
-Kotori đứng thở dốc. Dưới chân cô ta, bốn cơ thể bị chém đứt lìa làm đôi ở ngang hông đang nằm lăn lóc.
+Kotori đứng thở dốc hồng hộc. Dưới chân cô ta, bốn thi thể bị chém đứt lìa làm đôi ở ngang hông đang nằm lăn lóc ngổn ngang.
 
-Rem, Momoko, cùng hai phân thân. Tất cả những sứ ma được cấu thành từ ma lực này đang dần tan rã, những làn sương đen ngùn ngụt bốc lên từ vết chém.
+Rem, Momoko, cùng hai phân thân. Toàn bộ những sứ ma được đúc kết từ ma lực này đang dần tan rã, những làn khói đen kịt ngùn ngụt bốc lên từ vết chém ngọt xớt.
 
-Cô ta đã chém bay bốn người chỉ trong một tích tắc sao?
+Cô ta đã chém bay cả bốn người chỉ trong vỏn vẹn một chớp mắt sao?
 
-“Không phải võ kỹ... Ra vậy, đó cũng là vũ khí cổ đại à.”
+“Không phải võ kỹ... Ra vậy, đó cũng là một món vũ khí cổ đại à.”
 
-“Đương nhiên rồi... Kotori phải là người sở hữu trang bị tốt nhất chứ, chuyện đó là hiển nhiên mà!”
+“Đương nhiên rồi... Kotori phải là người sở hữu những trang bị tối tân nhất chứ, điều đó là hiển nhiên mà!”
 
-Bộ đồng phục học sinh của Kotori đã bị cú 『Hoang Thiên Lạc Lôi』 của tôi thổi bay không còn một mảnh. Thế nhưng, trên cơ thể cô ta không hề có lấy một vết thương hay một vệt cháy sém nào.
+Bộ đồng phục học sinh của Kotori đã bị cú đánh từ 『Hoang Thiên Lạc Lôi』 của tôi thổi bay không còn một mảnh vụn. Thế nhưng, trên da thịt cô ta lại chẳng hề vướng lấy một vết xước hay một vết cháy sém nào.
 
-Che phủ thân hình nhỏ nhắn của cô ta là bộ nội y màu trắng. Nhưng đó không phải là nội y thông thường. Những đường vân sáng màu xanh lam chạy dọc trên nền vải trắng bóng bẩy chính là minh chứng cho một sản phẩm cổ đại.
+Bao bọc lấy thân hình nhỏ nhắn của cô ta là một bộ nội y màu trắng muốt. Nhưng đó tuyệt nhiên không phải thứ nội y tầm thường. Những đường mạch sáng màu xanh lam rực rỡ chạy dọc trên nền vải trắng bóng bẩy chính là minh chứng thép cho một tạo tác công nghệ cổ đại.
 
-Nhóm chúng tôi cũng trang bị đồ lót cổ đại để gia tăng phòng ngự ở mức tối thiểu, nhưng bộ đồ Kotori đang mặc dường như sở hữu tính năng vượt trội hoàn toàn. Thứ đó có sức mạnh không khác gì một bộ giáp cường hóa.
+Nhóm chúng tôi cũng từng trang bị đồ lót cổ đại để gia tăng phòng ngự ở mức tối thiểu, nhưng bộ đồ Kotori đang khoác lên người dường như sở hữu tính năng vượt trội hoàn toàn. Thứ đó mang lại sức mạnh không khác gì một bộ giáp cường hóa đích thực.
 
-“Không ngờ đến nước này rồi mà cô vẫn tự mình vung kiếm đấy.”
+“Không ngờ đến nước này rồi mà cô vẫn tự mình vung kiếm cơ đấy.”
 
-Tay phải của Kotori vẫn cầm khẩu blaster, nhưng tay trái cô ta lại đang lăm lăm một món vũ khí khác.
+Tay phải của Kotori vẫn lăm lăm khẩu blaster, nhưng tay trái cô ta lại đang nắm chặt một món vũ khí phát quang khác biệt.
 
-“Thứ này gọi là 『Kiếm Lực Lượng』 đấy. Nhìn lũ các người dùng mấy thanh kiếm tự chế mà thấy nực cười trước uy lực của nó quá đi mất.”
+“Thứ này được gọi là 『Kiếm Lực Lượng』 đấy. Nhìn lũ các người dùng mấy thanh kiếm sắt vụn tự chế mà thấy nực cười trước uy lực áp đảo của nó quá đi mất.”
 
-Vừa cười khúc khích, Kotori vừa vung thanh kiếm cổ đại đang tỏa ra lưỡi kiếm ánh sáng bằng những động tác vô cùng uyển chuyển.
+Vừa cười khúc khích mỉa mai, Kotori vừa múa may thanh kiếm cổ đại đang phóng ra lưỡi kiếm ánh sáng bằng những đường nét vô cùng uyển chuyển.
 
-Đâu phải như Rem, một kẻ như Kotori đời nào tự mình luyện được kiếm kỹ ở thế giới thực. Có lẽ những chuyển động đó là nhờ bộ giáp cường hóa. Nói cách cách khác, đó là chức năng tự động hỗ trợ kiếm thuật, giúp cơ thể di chuyển theo những quỹ đạo tối ưu nhất.
+Không giống như Rem, một kẻ như Kotori đời nào chịu đổ mồ hôi tự mình rèn luyện kiếm kỹ ở thế giới thực. Rất có thể những chuyển động chuẩn xác đó đều nhờ vào bộ đồ cường hóa hỗ trợ. Nói cách khác, đó chính là chức năng tự động hỗ trợ kiếm thuật, ép buộc cơ thể chuyển động theo những quỹ đạo tối ưu và nguy hiểm nhất.
 
-“Thế rồi sao, cô định dùng thứ đó để chém ta rồi lưỡng bại câu thương à?”
+“Thế rồi sao, cô định dùng thứ đồ chơi đó để chém ta rồi lưỡng bại câu thương à?”
 
-“Ai thèm chết chung với loại như mày chứ————Momokawa, mày có nhớ thứ này là gì không?”
+“Ai thèm chết chung với loại rác rưởi như mày chứ————Momokawa, mày có nhớ thứ này là gì không?”
 
-Dù đã mất đi bộ đồng phục, đôi tất và giày lười cũng biến mất, nhưng trên cổ Kotori vẫn lấp lánh một sợi dây chuyền.
+Dù đã mất đi bộ đồng phục, đôi tất và giày da cũng biến mất, nhưng trên cổ Kotori vẫn lấp lánh một sợi dây chuyền tinh xảo.
 
-Nằm giữa khe ngực được o bế đầy khiêu khích kia là một viên đá quý hình giọt lệ đang tỏa sáng rực rỡ, làm sao tôi có thể quên được nó chứ.
+Nằm e ấp giữa khe ngực được o bế đầy khiêu khích kia là một viên đá quý hình giọt nước đang tỏa ra ánh hào quang rực rỡ, làm sao tôi có thể quên được nó cho đành.
 
 “『Giọt Lệ Sinh Mệnh』 sao...”
 
-Đó là vật phẩm cực hiếm có thể gánh chịu thay một lần sát thương chí mạng. Theo như tôi biết thì tổng cộng chỉ có ba cái.
+Đó là món bảo vật cực hiếm có khả năng gánh chịu thay một lần sát thương chí mạng. Theo như tôi biết thì trong toàn bộ hầm ngục chỉ tồn tại đúng ba viên.
 
-Cái thứ nhất đã được Sugino kích hoạt để bảo vệ mạng sống khi Mei phát động cuộc tập kích bất ngờ.
+Viên thứ nhất đã được Sugino kích hoạt để giữ lại mạng sống khi Mei phát động cuộc tập kích bất ngờ năm xưa.
 
-Cái thứ hai đã bị tôi tiêu thụ để thi triển 『Yêu Tinh Điệp Báo Tử』 khi kết liễu Yamata no Orochi.
+Viên thứ hai đã bị tôi tiêu hao để thi triển cấm thuật 『Yêu Tinh Điệp Báo Tử』 khi kết liễu Raid Boss Yamata no Orochi.
 
-Và cái cuối cùng vốn được trang bị cho Souma Yuuto trong chiến dịch tiêu diệt Yamata no Orochi————Không ngờ viên 『Giọt Lệ Sinh Mệnh』 cuối cùng còn sót lại này lại được cô ta giữ cho bản thân thay vì trao cho Dũng Giả. Dù là cô ta đi chăng nữa, tôi cứ nghĩ cô ta phải để Dũng Giả - chỗ dựa lớn nhất của mình - nắm giữ chứ.
+Và viên cuối cùng vốn dĩ được chuẩn bị trang bị cho Souma Yuuto trong chiến dịch tiêu diệt Yamata no Orochi————Không ngờ viên 『Giọt Lệ Sinh Mệnh』 độc nhất còn sót lại này lại được cô ta giấu nhẹm đi để giữ cho bản thân thay vì giao cho Dũng Giả. Dù là một kẻ vị kỷ như cô ta, tôi cứ ngỡ cô ta phải để Dũng Giả — chỗ dựa vững chắc nhất của mình — nắm giữ chứ.
 
-“Quả nhiên, Kotori giữ nó là quyết định chính xác. Nhờ vậy tao mới có thể giết được mày. Và Kotori sẽ là người sống sót.”
+“Quả nhiên, việc Kotori giữ nó cho riêng mình là một quyết định hoàn toàn sáng suốt. Nhờ vậy tao mới có thể nghiền nát được mày. Và Kotori sẽ là người duy nhất sống sót bước ra khỏi đây.”
 
-“Thôi đi mà, phí phạm quá. Đó là viên cuối cùng cực kỳ quý giá đấy.”
+“Thôi đi mà, thật là phí phạm. Đó là viên bảo vật cuối cùng cực kỳ quý giá đấy.”
 
-“Giờ này mà còn rảnh rỗi lo chuyện đó sao? Khư khư, quả nhiên người chiến thắng cuối cùng vẫn là Kotori... Đúng thế, Kotori đời nào lại thua cái thứ rác rưởi Momokawa như mày... Dù không có sự bảo hộ của Thần linh, Kotori vẫn sẽ bằng chính sức mình...”
+“Giờ này mà mày vẫn còn rảnh rỗi lo chuyện bao đồng đó sao? Khư khư, quả nhiên người chiến thắng sau cùng vẫn là Kotori này... Đúng thế, Kotori đời nào lại chịu thua một cái thứ cặn bã Momokawa như mày... Dù không có sự bảo hộ của Thần linh, Kotori vẫn sẽ tự mình bước lên đỉnh cao bằng chính sức mạnh này...”
 
-Không biết những lời đó cô ta đang nói với tôi hay là đang tự lẩm nhẩm với chính mình. Có lẽ vì đang phải tự tay cầm kiếm chiến đấu — một việc mà cô ta không hề quen thuộc — vào thời khắc sinh tử này, nên trông cô ta không còn vẻ gì là tỉnh táo nữa.
+Chẳng rõ những lời lảm nhảm đó cô ta đang nhắm vào tôi hay chỉ đang tự thôi miên chính bản thân mình. Có lẽ vì đang phải tự tay cầm kiếm lao vào tử địa — một việc mà cô ta chưa từng trải qua — trong thời khắc sinh tử nghẹt thở này, nên thần trí cô ta dường như đã không còn giữ nổi vẻ tỉnh táo thường ngày nữa.
 
-Đến cuối cùng, thứ đáng tin cậy nhất vẫn là sức mạnh của chính mình. Không ngờ đến tận bây giờ cô ta mới nhận ra điều đó.
+Đến phút cuối cùng, thứ duy nhất đáng tin cậy vẫn chỉ có thể là sức mạnh do chính bản thân nắm giữ. Không ngờ phải đến tận bờ vực cái chết cô ta mới ngộ ra chân lý ấy.
 
-Thật là, nếu ngay từ đầu cô ta không nhận lấy sức mạnh từ mụ Nữ thần rác rưởi kia, mà có được một thiên chức bình thường như chúng tôi rồi chiến đấu bằng chính thực lực và tài trí của mình... thì có lẽ mọi chuyện đã không dẫn đến kết cục này. Tất cả chỉ vì cô ta đã ôm mộng tưởng điên rồ rằng chỉ có mình mới là kẻ được Thần lựa chọn.
+Thật nực cười, nếu ngay từ đầu cô ta không nhận lấy thứ quyền năng giả tạo từ mụ Nữ thần rác rưởi kia, mà sở hữu một thiên chức bình thường như chúng tôi rồi chiến đấu bằng chính thực lực và mưu lược của bản thân... thì có lẽ mọi chuyện đã chẳng bao giờ trượt dài đến kết cục thảm khốc này. Tất cả chỉ vì cô ta đã tự huyễn hoặc bản thân vào một giấc mộng điên cuồng rằng chỉ có mình mới là kẻ được Thần thánh lựa chọn.
 
-Nhưng nói đi cũng phải nói lại, chuyện nào ra chuyện đó. Tôi sẽ không rủ lòng thương hại cô ta như một nạn nhân bị Elysion phỉnh phờ đâu.
+Nhưng nói đi cũng phải nói lại, chuyện nào ra chuyện đó. Tôi tuyệt đối sẽ không bao giờ rủ lòng thương hại hay xem cô ta như một nạn nhân đáng thương bị Elysion phỉnh phờ.
 
-“Kotori sẽ thắng! Mày phải thua, Momokawa!”
+“Kotori sẽ thắng! Mày phải chết dưới tay tao, Momokawa!”
 
-Trừng mắt nhìn tôi với vẻ căm hận tột cùng, Kotori giơ hai tay thủ thế với thanh 『Kiếm Lực Lượng』 đang tỏa ra lưỡi kiếm ánh sáng.
+Trừng trừng đôi mắt ngập tràn oán độc nhìn tôi, Kotori giơ cả hai tay vào thế thủ với thanh 『Kiếm Lực Lượng』 đang rực cháy lưỡi kiếm ánh sáng chết chóc.
 
-Chắc chắn trong khoảnh khắc tiếp theo, cô ta sẽ lao vào chém tôi bằng năng lực thể chất đã được bộ đồ cường hóa gia tăng đáng kể.
+Chắc chắn ngay trong khoảnh khắc tiếp theo, cô ta sẽ lao bổ tới chém xé tôi bằng năng lực thể chất đã được bộ đồ cường hóa gia tăng đến mức phi nhân loại.
 
-Dù tôi cũng đang mặc chiếc áo khoác học sinh cường hóa, nhưng hiệu năng chắc chắn không thể bằng bộ đồ của cô ta. Nếu đấu tay đôi trực diện, kẻ bị nghiền nát bởi sự chênh lệch chỉ số chắc chắn sẽ là tôi.
+Dù tôi cũng đang mặc chiếc áo khoác đồng phục cường hóa, nhưng hiệu năng chắc chắn không thể nào bì kịp bộ trang bị tối tân của cô ta. Nếu lao vào đấu tay đôi trực diện, kẻ bị băm vằn vện bởi sự chênh lệch chỉ số áp đảo chắc chắn sẽ là tôi.
 
-“Kotori không thể thua! Dù có bao nhiêu lần tao vẫn có thể làm lại từ đầu, bởi vì Kotori là————”
+“Kotori không bao giờ thua! Dù có bao nhiêu lần đi nữa tao vẫn có thể làm lại từ đầu, bởi vì Kotori chính là————”
 
-Và để tự tay kết liễu kẻ thù truyền kiếp là tôi, cô ta chuẩn bị bước lên một bước————nhưng tiếc là không bước nổi nữa rồi.
+Và để tự tay kết liễu kẻ thù truyền kiếp là tôi, cô ta dồn lực chuẩn bị bước lên một bước đoạt mạng————nhưng thật đáng tiếc, cô ta vĩnh viễn không thể bước nổi nữa rồi.
 
 “...!? Đứa nào đấy!?”
 
-Ngay khoảnh khắc chuẩn bị lao lên, vai của Kotori đã bị một bàn tay chộp lấy và giữ chặt lại.
+Ngay khoảnh khắc chuẩn bị lao vút lên, bả vai của Kotori đã bị một bàn tay lạnh ngắt chộp lấy và khóa chặt lại.
 
-Với sự nhạy cảm kém cỏi của mình, cô ta làm sao phát hiện ra có kẻ đang đứng ngay sau lưng.
+Với trực giác và giác quan yếu ớt của mình, cô ta làm sao có thể phát hiện ra có một kẻ đã âm thầm áp sát ngay sau lưng từ lúc nào.
 
-Chỉ đến khi bả vai bị siết chặt, cô ta mới hoảng hốt quay đầu lại.
+Chỉ đến khi khớp vai bị siết chặt đến phát đau, cô ta mới kinh hãi quay ngoắt đầu lại.
 
 “Ơ... Asuna... chan...?”
 
-Một cuộc hội ngộ đầy cảm động với cô bạn thân nhỉ.
+Một màn hội ngộ đầy xúc động với cô bạn thân chí cốt nhỉ.
 
-Đây là món quà bất ngờ cuối cùng mà ta dành tặng cho ngươi đấy. Tận hưởng đi nhé.
+Đây chính là món quà bất ngờ cuối cùng mà ta cất công chuẩn bị dành tặng riêng cho ngươi đấy. Tận hưởng cho trọn vẹn đi nhé.
 
 “Ko... tori...”
 
-Kẻ đang giữ chặt vai Kotori chính là Kenzaki Asuna.
+Kẻ đang giữ ghì lấy vai Kotori không ai khác chính là Kenzaki Asuna.
 
-Mái tóc đen dài buộc đuôi ngựa đặc trưng của một cô gái kiếm đạo, cùng gương mặt xinh đẹp đầy cương nghị. Vóc dáng thon gọn được rèn luyện kỹ lưỡng cùng đôi tay chân dài thanh thoát.
+Mái tóc đen dài buộc đuôi ngựa cao vút đặc trưng của một nữ kiếm đạo gia, cùng gương mặt thanh tú đầy nét cương nghị. Vóc dáng thon thả được trui rèn kỹ lưỡng qua bao năm tháng cùng đôi tay chân dài thanh thoát, dẻo dai.
 
-Hình bóng đó không phải là ảo ảnh giả tạo được tạo ra từ 『Hư Ảnh Tương Chiếu』 của tôi. Gương mặt đó, cơ thể đó, tất cả đều là thật————nói cách khác, đó chính là 『Thi Nhân Hình』 được chế tạo từ xác chết của Kenzaki Asuna.
+Hình bóng ấy tuyệt nhiên không phải là một ảo ảnh giả tạo được dựng lên từ 『Hư Ảnh Tương Chiếu』 của tôi. Gương mặt đó, cơ thể đó, từng thớ thịt đó, tất cả đều là thật————nói cách khác, đó chính là 『Thi Nhân Hình』 được tinh luyện từ xác chết của chính Kenzaki Asuna.
 
-“Tại sao... cậu lại phản bội tớ... Tớ chỉ muốn bảo vệ cậu thôi mà...”
+“Tại sao... cậu lại nhẫn tâm phản bội tớ... Tớ rõ ràng chỉ muốn dốc lòng bảo vệ cậu thôi mà...”
 
-“K-Không phải! Không phải thế đâu Asuna-chan!?”
+“K-Không phải! Tuyệt đối không phải như thế đâu Asuna-chan!?”
 
-Đối với cô bạn thân đã bị Mei tàn sát không thương tiếc kia, có lẽ trong lòng cô ta vẫn còn chút cảm xúc chăng. Trái ngược với dự đoán của tôi, Kotori gào lên với vẻ mặt vô cùng hoảng loạn.
+Đối với cô bạn thân duy nhất đã bị Mei tàn sát không chút nương tay kia, có lẽ sâu thẳm trong lòng cô ta vẫn còn sót lại đôi chút gợn sóng cảm xúc chăng. Trái ngược hẳn với dự đoán của tôi, Kotori gào thét lên với vẻ mặt vô cùng hoảng loạn, thống khổ.
 
-Hóa ra ngươi vẫn còn giữ được chút nhân tính đấy nhỉ. Ta nhẹ cả người.
+Hóa ra ngươi vẫn còn giữ lại được chút tàn dư nhân tính đấy nhỉ. Ta nhẹ cả người.
 
-Nếu đã vậy, thứ chú thuật cuối cùng mà tôi chuẩn bị chắc chắn sẽ phát huy tác dụng cực kỳ mỹ mãn.
+Nếu đã như vậy, thứ chú thuật tối hậu mà tôi đã dày công chuẩn bị chắc chắn sẽ phát huy tác dụng một cách mỹ mãn nhất.
 
-“Đau quá... Đau lắm, Kotori...”
+“Đau quá... Đau đớn lắm, Kotori ơi...”
 
-“Ư, a, aaa... Tớ xin lỗi, Asuna-chan, tớ xin lỗi...”
+“Ư, a, aaa... Tớ xin lỗi, Asuna-chan, tớ thực sự xin lỗi...”
 
-Nhìn Kenzaki rên rỉ trong đau đớn, Kotori vừa khóc vừa ôm chầm lấy cô ta.
+Nhìn Kenzaki quằn quại rên rỉ trong đau đớn cùng cực, Kotori vừa nức nở khóc lóc vừa run rẩy ôm chầm lấy cô ta.
 
-Chắc là đau đớn lắm nhỉ. Chắc là khổ sở lắm nhỉ. Nhưng mà, kẻ phải chịu đựng nỗi đau đớn và khổ sở đó đâu chỉ có riêng lũ các ngươi.
+Chắc là đau đớn lắm nhỉ. Chắc là thống khổ khôn cùng nhỉ. Thế nhưng, kẻ phải gánh chịu nỗi đau đớn và sự dày vò tột cùng đó đâu chỉ có riêng mỗi lũ các ngươi.
 
-“Aaa... Đau quá... Tại sao tôi lại phải chịu cảnh này...”
+“Aaa... Đau đớn quá... Tại sao tôi lại phải chịu đựng kết cục bi thảm này...”
 
-Từ dưới chân Kotori, một giọng nói đầy oán hận khác lại cất lên.
+Từ sâu dưới chân Kotori, một thanh âm u uất ngập tràn oán khí lại rên xiết cất lên.
 
-Ngay khi cô ta nhận ra sự hiện diện của kẻ đó, cổ chân cô ta đã bị chộp lấy và giữ chặt. Để đảm bảo cô ta tuyệt đối không thể chạy thoát.
+Ngay khi cô ta bàng hoàng nhận ra sự hiện diện của kẻ đó, hai bên cổ chân cô ta đã bị những ngón tay xương xẩu chộp lấy và khóa cứng. Để đảm bảo cô ta tuyệt đối không còn đường tháo chạy.
 
 “Nakajima!? T-Tại sao cậu lại ở đây————”
 
-“Takanashi... tao tuyệt đối không tha cho mày...”
+“Takanashi... tao tuyệt đối đời đời kiếp kiếp không tha cho mày...”
 
 “Shimokawa!”
 
-Xuất hiện dưới chân Kotori là hai người Nakajima và Shimokawa.
+Kẻ đang trồi lên dưới chân Kotori chính là hai người Nakajima và Shimokawa.
 
-Nakajima bị Kenzaki sát hại vẫn còn giữ được xác nên tôi đã biến cậu ta thành thi nhân hình, nhưng Shimokawa thì chỉ là giả. Cậu ta đã bị trục xuất bởi âm mưu của Kotori, làm sao tôi có thể có được xác của cậu ta chứ.
+Nakajima bị Kenzaki sát hại dã man vẫn còn giữ được nguyên vẹn thi thể nên tôi đã chế tác cậu ta thành thi nhân hình, nhưng Shimokawa thì chỉ là một sản phẩm ngụy tạo. Cậu ta đã bị tống khứ đi bởi ma pháp trục xuất của Kotori, làm sao tôi có thể nắm giữ được xác của cậu ta trong tay.
 
-Mà thật ra, tôi vẫn tin rằng Shimokawa đang sống sót ở một nơi nào đó. Cậu ta giờ đã là một Thủy Ma Thuật Sư thực thụ rồi. Dù có bị ném vào giữa sa mạc nóng bỏng đi chăng nữa, cậu ta vẫn thừa sức để sinh tồn.
+Mà thực lòng, tôi vẫn luôn có một niềm tin sắt đá rằng Shimokawa vẫn đang ngoan cường sinh tồn ở một góc trời nào đó ngoài kia. Cậu ta giờ đã là một Thủy Ma Thuật Sư thực thụ rồi. Dù có bị quẳng vào giữa biển cát sa mạc thiêu đốt đi chăng nữa, cậu ta vẫn thừa bản lĩnh để sống sót.
 
-But đối với Kotori, Shimokawa là kẻ đã bị cô ta giết chết.
+Thế nhưng đối với tâm thức của Kotori, Shimokawa chính là kẻ đã bị chính tay cô ta bức tử.
 
-Thế nên, trong bầy vong hồn đang kéo ngươi xuống địa ngục, có sự xuất hiện của gương mặt đó cũng là điều hoàn toàn hợp lý phải không?
+Vì lẽ đó, trong đoàn quân vong hồn đang lũ lượt kéo đến lôi ngươi xuống luyện ngục, sự hiện diện của gương mặt oán hận đó là điều hoàn toàn hợp tình hợp lý, chẳng phải thế sao?
 
-“Đến lúc phải trả giá rồi đấy, Kotori. Nhìn xem, mọi người đã đến để đón ngươi đi rồi kìa.”
+“Đến giờ phải đền tội rồi đấy, Kotori. Mở to mắt ra mà nhìn đi, tất cả mọi người đã tề tựu đông đủ để tiễn ngươi lên đường rồi kìa.”
 
 “Ư... ư...”
 
-“Takanashi... Có phải tại mày không...”
+“Takanashi... Có phải tất cả là do mày không...”
 
-“Tại mày mà chúng tao mới...”
+“Chính vì mày mà chúng tao mới phải chết thảm thế này...”
 
-“Tại sao... Tại sao mày lại làm chuyện tàn nhẫn như thế...”
+“Tại sao... Tại sao mày lại có thể làm ra cái trò tàn nhẫn mất nhân tính như thế...”
 
-Hết thi nhân hình này đến thi nhân hình khác của các bạn học xuất hiện, vây quanh Kotori cùng những lời oán hận ngút trời.
+Từng thi nhân hình, từng thi nhân hình của các bạn học lục tục xuất hiện, bao vây tầng tầng lớp lớp quanh Kotori cùng những tiếng ai oán rợn người ngút tận trời xanh.
 
-Dẫn đầu là Nakai và Nonomiya đã bị Zagan sát hại, các bạn học lần lượt trồi lên từ xung quanh rồi đứng thẳng dậy.
+Dẫn đầu chính là Nakai và Nonomiya — những người đã ngã xuống đầy oan khuất dưới lưỡi đao của Zagan, các bạn học lần lượt trồi lên từ nền đất lạnh lẽo xung quanh rồi đứng sừng sững vây kín.
 
-Này Kotori, ngươi chắc chắn không thể quên được họ đâu nhỉ. Tất cả những người ở đây đều là bạn học của Lớp 2-7. Ngay cả những kẻ chưa từng nói chuyện quá vài câu, ta vẫn có thể nhớ rõ gương mặt của họ. Mối quan hệ bạn học chính là như vậy đấy.
+Này Kotori, ngươi chắc chắn không tài nào quên nổi họ đâu nhỉ. Toàn bộ những người đang hiện diện ở đây đều là thành viên của Lớp 2-7 chúng ta. Ngay cả những người bình thường chưa từng mở miệng nói chuyện quá vài ba câu, ta vẫn có thể khắc sâu rõ mồn một từng đường nét trên gương mặt họ. Mối dây liên kết của những kẻ chung một lớp học chính là như vậy đấy.
 
-“Không phải! Tao không có lỗi... Kotori không có lỗi gì hết!!”
+“Không phải! Tao không có lỗi gì hết... Kotori này hoàn toàn không có lỗi!!”
 
-“Không sai đâu, tại mày mà tao mới chết... và khiến Kotarou phải đau khổ suốt bấy lâu nay...”
+“Mày đừng có chối cãi, chính vì mày mà tao mới phải chết thảm... và khiến Kotarou phải dằn vặt đau đớn suốt bấy lâu nay...”
 
-Saitou Masaru. Người từng là bạn thân nhất của tôi.
+Saitou Masaru. Người từng là người bạn thân thiết nhất của tôi.
 
-Khi cậu ấy bị hạ sát đầu tiên, tôi đã thực sự suy sụp đến mức tưởng như gục ngã. Xin lỗi nhé, chỉ vì lúc đó tôi quá yếu đuối nên mới để mất cậu, người mà đáng lẽ ra tôi đã có cơ hội cứu sống.
+Khi cậu ấy là người đầu tiên ngã xuống, tôi đã thực sự suy sụp đến mức ngỡ như toàn bộ thế giới của mình sụp đổ. Xin lỗi cậu nhiều lắm nhé, chỉ vì khi ấy tôi quá đỗi yếu hèn bất lực nên mới để vuột mất cậu, người mà đáng lý ra tôi đã có cơ hội cứu sống.
 
-Nhưng tôi sẽ không bao giờ quên việc cậu đã xả thân bảo vệ tôi vào những giây phút cuối cùng. Chính nhờ hành động của Masaru lúc đó mà cho đến tận bây giờ, tôi vẫn có thể tin tưởng vào con người, tin tưởng vào đồng đội.
+Nhưng tôi sẽ vĩnh viễn khắc cốt ghi tâm cái khoảnh khắc cậu đã liều mình xả thân che chắn cho tôi vào những giây phút cuối cùng của cuộc đời. Chính nhờ hành động cao đẹp của Masaru khi ấy mà cho đến tận ngày hôm nay, tôi vẫn có thể giữ trọn niềm tin vào con người, tin tưởng tuyệt đối vào những người đồng đội kề vai sát cánh.
 
-“Hộc... Mẹ kiếp... Chết đi, Takanashi... Tao tuyệt đối không bao giờ tha thứ cho mày...”
+“Hộc... Mẹ kiếp... Chết đi, Takanashi... Tao tuyệt đối sẽ không bao giờ tha thứ cho con khốn như mày...”
 
-Higuchi Kyouya. Kẻ thù truyền kiếp đã giết Masaru. Và cũng là người đầu tiên tôi tự tay sát hại.
+Higuchi Kyouya. Kẻ thù truyền kiếp đã nhẫn tâm hạ sát Masaru. Và cũng là sinh mạng đầu tiên tôi tự tay tước đoạt trên cõi đời này.
 
-Khi ngươi cầu xin tha mạng một cách thảm hại vào phút cuối, ngươi đã nói gì nhỉ? Rằng đừng có giết người, chắc chắn sẽ hối hận đấy. Ngươi có biết từ đó đến nay tôi đã giết bao nhiêu người rồi không?
+Khi ngươi quỳ rạp cầu xin tha mạng một cách thảm hại vào phút lâm chung, ngươi đã thốt ra điều gì nhỉ? Rằng đừng bao giờ giết người, chắc chắn sẽ phải ôm hận suốt đời đấy. Ngươi có hay biết kể từ cái ngày định mệnh đó đến nay, đôi bàn tay này của tôi đã nhuốm máu bao nhiêu mạng người rồi không?
 
-Thế nhưng, thật kỳ lạ, giờ đây tôi không còn mấy oán hận ngươi nữa. Những lời khuyên bảo đừng giết người vốn chỉ là lời nói dối để giữ mạng lúc đó, giờ đây khi đã nhuốm máu quá nhiều, tôi lại cảm thấy nó có chút gì đó thấm thía.
+Thế nhưng, thật kỳ lạ làm sao, giờ phút này đây tôi chẳng còn mấy phần oán hận ngươi nữa. Những lời khuyên can đừng dấn thân vào con đường giết chóc vốn chỉ là lời dối trá hèn mọn để giữ mạng lúc đó, giờ đây khi bản thân đã lún quá sâu vào vũng máu tanh nồng, tôi lại cảm thấy nó mang theo đôi phần thấm thía xót xa.
 
-Đúng là tôi đã có thể xuống tay giết người không chút do dự nếu cần thiết, nhưng không có nghĩa là tôi cảm thấy thanh thản như những gì đã tuyên bố với ngươi lúc đó. Chung quy lại, tôi cũng chỉ đang cố tỏ ra mạnh mẽ để không phải bận tâm mà thôi.
+Đúng là tôi đã có thể lạnh lùng vung đao đoạt mạng kẻ khác mà không hề chớp mắt khi hoàn cảnh ép buộc, nhưng điều đó tuyệt đối không đồng nghĩa với việc cõi lòng tôi được thanh thản nhẹ nhõm như những gì tôi từng ngạo nghễ tuyên bố trước mặt ngươi. Chung quy lại, tôi cũng chỉ đang cố gồng mình tỏ ra tàn nhẫn, cứng cỏi để bản thân không bị nỗi cắn rứt lương tâm quật ngã mà thôi.
 
-Nhưng Kotori thì tôi nhất định phải giết. Thế nên hãy giúp tôi một tay nhé. Cả thanh dao bướm này nữa, từ nay về sau mong được giúp đỡ nhiều hơn.
+Nhưng riêng ả đàn bà Kotori này, tôi thề nhất định phải tự tay nghiền nát cô ta thành tro bụi. Thế nên hãy cho tôi mượn thêm một cánh tay nhé. Cả thanh dao bướm sắc lẹm này nữa, từ nay về sau mong cậu tiếp tục tương trợ cho tôi.
 
-Bên cạnh Higuchi, kẻ thù truyền kiếp kiêm đối thủ đáng gờm đầy duyên nợ đó, là thi nhân hình của Nagae Yukiko đang nép mình bên cạnh cậu ta.
+Sóng bước bên cạnh Higuchi — kẻ thù truyền kiếp kiêm đối thủ đầy duyên nợ ấy — chính là thi nhân hình của Nagae Yukiko đang e ấp nép sát vào bờ vai cậu ta.
 
-Việc hai người này hẹn hò với nhau thực sự khiến tôi vô cùng kinh ngạc. Phải chăng những cô gái ngoan hiền, trầm tính lại dễ bị thu hút bởi những tên bất hảo như Higuchi?
+Việc hai con người ở hai thế giới hoàn toàn trái ngược này lại hẹn hò với nhau thực sự đã khiến tôi vô cùng sửng sốt. Phải chăng những cô gái ngoan hiền, trầm lặng lại luôn dễ dàng bị cuốn hút bởi những gã trai bất hảo ngang tàng như Higuchi?
 
-Dù là một tên rác rưởi như Higuchi, nhưng đến cuối cùng cậu ta vẫn thực lòng lo lắng cho cô, và khi nghe tôi báo tin cô đã chết, cậu ta đã hoàn toàn tuyệt vọng trước khi nhắm mắt. Chắc chắn cậu ta đã yêu cô thật lòng. Nagae, cô cũng yêu Higuchi chứ?
+Dẫu cho có là một gã tồi tệ như Higuchi, nhưng đến tận hơi thở cuối cùng, cậu ta vẫn một lòng lo lắng đến thắt ruột cho sự an nguy của cô, và khi nghe tôi báo tin cô đã trút hơi thở cuối cùng, cậu ta đã hoàn toàn buông xuôi tuyệt vọng trước khi nhắm mắt xuôi tay. Chắc chắn cậu ta đã yêu thương cô bằng cả trái tim chân thành nhất. Nagae à, cô cũng yêu Higuchi sâu đậm như thế, phải không?
 
-Nếu vậy thì hãy cứ oán hận đi. Bởi kẻ chủ mưu chia lìa hai người yêu nhau đang ở ngay trước mắt cô rồi.
+Nếu đã như vậy thì hãy cứ trút hết mọi phẫn uất hờn căm lên ả đi. Bởi vì kẻ chủ mưu tàn nhẫn chia cắt tình yêu của hai người đang đứng sờ sờ ngay trước mắt cô rồi đấy.
 
-“Tớ chỉ... muốn được ở bên cậu mãi mãi, chỉ cần thế thôi là đủ rồi...”
+“Tớ chỉ... khao khát được ở bên cạnh cậu mãi mãi, chỉ cần giản đơn như thế thôi là quá đủ rồi...”
 
-“Tại sao chứ, Takanashi-san... Tại sao chúng tôi lại phải chịu cảnh này...”
+“Tại sao lại làm thế chứ, Takanashi-san... Tại sao chúng tôi lại phải chịu đựng kết cục bi thảm này...”
 
-Nếu nói về cặp đôi sến sẩm yêu nhau nhất Lớp 2-7 thì chính là hai người này: Sakurai Touya và Hinagiku Haya.
+Nếu phải bình chọn cặp đôi thanh mai trúc mã thắm thiết và êm đềm nhất Lớp 2-7, thì đó chắc chắn phải là hai người này: Sakurai Touya và Hinagiku Haya.
 
-Họ nép sát vào nhau, nắm chặt tay nhau và đồng thanh cất tiếng oán hận Kotori.
+Họ nép sát vào nhau, những ngón tay đan chặt không rời, đồng thanh cất lên những lời ai oán hận thù nhắm thẳng vào Kotori.
 
-Xin lỗi nhé Sakurai, vì tôi đã không thể hội quân khi Hinagiku vẫn còn bình an sự. Nếu hai người có thể cùng nhau sống sót, chắc chắn hai người sẽ là những người đồng đội vô cùng đáng tin cậy.
+Xin lỗi cậu nhé Sakurai, vì tôi đã không thể hội quân kịp lúc khi Hinagiku vẫn còn bình an vô sự. Nếu cả hai người đều có thể cùng nhau vượt qua giông bão để sống sót, hai người chắc chắn sẽ là những người đồng đội đáng tin cậy nhất mà tôi từng có.
 
-Còn Hinagiku, tôi thực lòng biết ơn vì cô đã ban cho tôi năng lực chế tạo tối thượng là Luyện Kim. Nhờ có kỹ năng thiết yếu của một chú thuật sư mà ngài Ruinhilde mãi không chịu ban cho này, chúng tôi mới có thể đi được đến tận ngày hôm nay.
+Còn về phần Hinagiku, tôi thực lòng biết ơn cô vô hạn vì đã ban tặng cho tôi năng lực chế tác tối thượng mang tên Luyện Kim. Nhờ có nhánh kỹ năng sinh tử cốt lõi của một chú thuật sư mà ngài Ruinhilde mãi chẳng chịu ban phát này, chúng tôi mới có thể kiên cường bước tiếp đến tận ngày hôm nay.
 
-Thực sự cảm ơn cô rất nhiều. Sau khi kéo được Kotori xuống địa ngục, hai người hãy mãi mãi yên nghỉ bên nhau nhé.
+Thực sự đa tạ cô rất nhiều. Sau khi kéo được ả đàn bà độc ác Kotori này xuống chín tầng địa ngục, hai người hãy mãi mãi an nghỉ bên nhau nhé.
 
-“Ư... Tôi không muốn chết... Rõ ràng tôi không muốn chết mà...”
+“Ư... Tôi không muốn chết đâu... Rõ ràng tôi vẫn còn muốn sống mà...”
 
-“Chúng tôi phải chịu đựng đau khổ thế này... Tại sao cô vẫn còn được sống chứ...”
+“Chúng tôi phải chịu đựng trăm ngàn đọa đày thống khổ thế này... Tại sao một con khốn như cô vẫn còn được sống nhăn răng chứ...”
 
-“Takanashi, con khốn kia, mau cút xuống địa ngục đi...”
+“Takanashi, con khốn nạn kia, mau cút xuống địa ngục cùng chúng tao đi...”
 
-“Mày phải chết. Đừng hòng sống yên ổn sau khi đã chia rẽ chúng tao.”
+“Mày phải chết. Đừng hòng mong sống yên ổn một mình sau khi đã tàn nhẫn chia rẽ chúng tao!”
 
-Kitaouji Rurika và Kizaki Akane, cặp đôi từng bị đồn là đồng tính nữ. Và cặp đôi đồng tính nam thực sự là Ooyama Daisuke và Sugino Takashi.
+Kitaouji Rurika và Kizaki Akane, đôi bạn thân thiết từng gắn bó như hình với bóng. Cùng với cặp bài trùng đồng cam cộng khổ Ooyama Daisuke và Sugino Takashi.
 
-Oán hận của những kẻ bị ép buộc phải chia lìa người mình yêu thương sâu sắc hơn bất cứ thứ gì. Đặc biệt là cặp bài trùng Ooyama và Sugino mà tôi từng trực tiếp giao chiến, họ quả thực là những đối thủ vô cùng đáng gờm.
+Oán hận ngút trời của những con người bị tước đoạt mạng sống, bị ép buộc phải sinh ly tử biệt với người mình yêu thương sâu nặng hơn bất cứ thứ gì trên cõi đời này. Nhất là cặp đôi Ooyama và Sugino mà tôi từng có dịp trực tiếp giao đấu, họ quả thực là những chiến binh vô cùng kiên cường và dũng cảm.
 
-Cả họ nữa, nếu không có âm mưu rác rưởi của ngươi, họ đã có thể trở thành những người đồng đội đáng tin cậy giúp chúng ta vượt qua hầm ngục này một cách dễ dàng hơn nhiều. Sẽ không có ai phải tàn sát lẫn nhau. Và cũng chẳng ai phải mang theo quyết tâm đau lòng là phải giết chết người khác để bảo vệ người mình yêu thương.
+Cả họ nữa, nếu không có cái dã tâm bẩn thỉu của ngươi giật dây sau lưng, bọn họ đã có thể trở thành những người đồng đội đáng tin cậy nhất, cùng chung tay giúp cả lớp vượt qua hầm ngục này một cách dễ dàng hơn biết bao nhiêu. Sẽ chẳng có ai phải rơi vào cảnh huynh đệ tương tàn, tàn sát lẫn nhau một cách mù quáng. Và cũng chẳng có ai phải mang theo quyết tâm đau đớn đến xé lòng là phải đoạt mạng bạn học để bảo bọc cho người mình thương.
 
-“Ồn ào quá, câm miệng lại đi! Lũ tép riu các người sống chết ra sao thì liên quan gì đến Kotori chứ!”
+“Ồn ào quá, lũ súc sinh chúng mày câm hết miệng lại cho tao! Lũ tép riu các người sống chết ra sao thì có liên quan cái thá gì đến Kotori này chứ hả!”
 
-Kotori gào thét.
+Kotori gào thét đến lạc cả giọng.
 
-Hirano Kouhei và NThạch Tiễnma Minoru đang lồm cồm bò tới.
+Hirano Kouhei và Nishiyama Minoru đang kéo lê cơ thể đầy máu lồm cồm bò tới.
 
-Satou Aya đang sụt sùi khóc lóc vì đau đớn. Cả Iijima Mayumi và Shinohara Emi nữa.
+Satou Aya đang sụt sùi nức nở trong nỗi đau đớn tột cùng. Cả Iijima Mayumi và Shinohara Emi nữa.
 
-Kousaka Hiroki, bạn của Souma Yuuto, gầm lên trong giận dữ, và lũ nam sinh lập tức hưởng ứng. Từ Azuma Shin'ichi - cựu lớp trưởng nam, cho đến Itou Seiji, Satou Yuuya. Và cả Takashima Yuudai, nạn nhân đầu tiên bỏ mạng vì không có thiên chức thích ứng mà tôi từng chứng kiến.
+Kousaka Hiroki, người bạn thân chí cốt của Souma Yuuto, gầm thét lên trong cơn thịnh nộ cuồng bạo, và đám nam sinh lập tức đồng loạt hưởng ứng gầm vang. Từ Azuma Shin'ichi — cựu lớp trưởng nam mẫu mực, cho đến Itou Seiji, Satou Yuuya. Và cả Takashima Yuudai, nạn nhân xấu số đầu tiên bỏ mạng chỉ vì không có thiên chức thích ứng mà tôi từng tận mắt chứng kiến.
 
-Giờ đây, thi nhân hình của toàn bộ những bạn học đã khuất đều tập hợp đầy đủ tại nơi này. Kể cả những người mất tích không rõ sống chết mà tôi chưa từng giáp mặt trong hầm ngục này, tất cả đều có mặt.
+Giờ phút này, thi nhân hình của toàn bộ những bạn học đã khuất đều tề tựu đông đủ không thiếu một ai tại nơi đây. Kể cả những người mất tích không rõ tung tích mà tôi chưa từng một lần giáp mặt trong hầm ngục tăm tối này, tất cả đều đang hiện diện sừng sững.
 
-Thực tế họ còn sống hay đã chết cũng chẳng quan trọng. Chỉ cần là một thành viên của Lớp 2-7, họ đều có tư cách để oán hận Kotori.
+Thực tế bọn họ còn sống hay đã chết vào lúc này cũng chẳng còn quan trọng nữa rồi. Chỉ cần từng là một mảnh ghép của tập thể Lớp 2-7, họ đều có đầy đủ tư cách để trút toàn bộ oán hận lên đầu Kotori.
 
-Đúng vậy, Kotori, chính dã tâm của ngươi đã đẩy các bạn học đến con đường chết chóc này. Ngươi chỉ cần bản thân và người đàn ông mình yêu là đủ. Ngươi tự tiện coi tất cả những người khác là lũ tép riu thấp kém, rồi dâng hiến họ làm vật tế cho mụ Nữ thần rác rưởi kia.
+Đúng vậy đấy, hỡi Kotori, chính lòng tham không đáy và dã tâm thối nát của ngươi đã đẩy toàn bộ bạn học vào con đường vạn kiếp bất phục này. Ngươi chỉ biết màng đến bản thân và gã đàn ông mà ngươi thèm khát sở hữu. Ngươi tự cho mình cái quyền xem tất cả những người khác là lũ sâu bọ thấp hèn, rồi tàn nhẫn đem họ làm vật hiến tế dâng lên cho mụ Nữ thần rác rưởi của ngươi.
 
-“Không phải tại Kotori! Lũ các người không được chọn, người được chọn là Kotori này cơ mà! Thế nên tao không có lỗi, tất cả là tại lũ yếu đuối các người đáng đời!”
+“Không phải tại Kotori này! Lũ chúng mày là những kẻ không được Thần lựa chọn, người duy nhất được chọn là Kotori này cơ mà! Thế nên tao không có lỗi, tất cả là tại lũ yếu đuối đốn mạt các người đáng đời phải chết!”
 
-“Không, không phải thế đâu. Cậu sai rồi, Takanashi-san.”
+“Không, không phải như vậy đâu. Cậu hoàn toàn sai rồi, Takanashi-san.”
 
-Giữa lúc Kotori đang gào thét điên cuồng trong vòng vây của những vong hồn bạn học, chỉ có duy nhất một người cất tiếng trò chuyện với cô ta bằng giọng điệu ôn hòa, đó là Yamakawa Jun'ichirou. Điểm tựa lương tri của cả lớp, Yama-Jun.
+Giữa lúc Kotori đang gào thét trong cơn điên loạn tột cùng giữa vòng vây trùng điệp của những vong hồn bạn học, chỉ có duy nhất một người cất tiếng khuyên can cô ta bằng một thanh âm ôn hòa, trầm ấm quen thuộc. Đó chính là Yamakawa Jun'ichirou. Điểm tựa lương tri và là linh hồn của cả lớp chúng tôi, Yama-Jun.
 
-A, đúng vậy đấy, nếu là cậu thì dù đối phương có là Kotori đi chăng nữa, cậu vẫn sẽ cất tiếng gọi với gương mặt hiền hậu như mọi khi nhỉ.
+A, đúng là như vậy đấy, nếu là cậu ấy thì dẫu cho đối phương có là ả đàn bà hiểm độc Kotori đi chăng nữa, cậu ấy vẫn sẽ cất tiếng gọi bằng gương mặt hiền hậu, bao dung như mọi khi nhỉ.
 
-“Chúng ta đều như nhau, đều là bạn học cả mà. Làm gì có ai cao sang hay thấp hèn hơn ai. Thế nên, nếu cuộc chiến sinh tồn trong hầm ngục này là điều không thể tránh khỏi, đáng lẽ ra tất cả chúng ta phải cùng nhau đồng lòng hiệp lực.”
+“Tất cả chúng ta đều bình đẳng như nhau, đều là những người bạn học chung một mái trường cả mà. Làm gì có ai cao sang hay ai thấp hèn hơn ai. Thế nên, nếu như cuộc chiến sinh tồn khốc liệt trong hầm ngục này là định mệnh không thể nào né tránh, thì đáng lẽ ra tất cả chúng ta phải cùng nhau đồng lòng hiệp lực để vượt qua nó.”
 
-Đến nước này thì đó chỉ là một lý thuyết suông đã quá muộn màng. Dẫu vậy, tôi vẫn muốn Yama-Jun nói ra điều đó. Chính tôi đã ước ao cậu ấy sẽ tiếp tục nói như vậy.
+Đến nước này rồi thì những lời đó cũng chỉ là một mớ lý thuyết suông đã quá đỗi muộn màng. Dẫu vậy, tôi vẫn tha thiết muốn Yama-Jun nói ra những lời ấy. Chính thâm tâm tôi đã luôn khao khát cậu ấy sẽ tiếp tục cất tiếng như vậy.
 
-“Takanashi-san, tại sao cậu lại không tin tưởng chúng tôi, mà lại đi tin vào Thần linh chứ?”
+“Takanashi-san, tại sao cậu lại không chịu mở lòng tin tưởng chúng tôi, mà lại mù quáng đi đặt trọn niềm tin vào thứ Thần linh tàn nhẫn đó chứ?”
 
 “CÂM MIỆNG LẠIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!!”
 
-Trước lời chất vấn đượm buồn của Yama-Jun, Kotori dường như đã vượt quá giới hạn chịu đựng mà vung cánh tay lên. Cô ta định dùng thanh 『Kiếm Lực Lượng』 trong tay để chém bay vong hồn chướng mắt kia.
+Trước lời chất vấn đượm buồn đầy xót xa của Yama-Jun, Kotori dường như đã vượt quá mọi giới hạn chịu đựng của sự điên loạn mà vung mạnh cánh tay lên. Cô ta điên cuồng định dùng thanh 『Kiếm Lực Lượng』 trong tay để chém tan xác vong hồn chướng mắt kia.
 
-Thế nhưng, lưỡi kiếm ánh sáng đã không thể chém xuống.
+Thế nhưng, lưỡi kiếm ánh sáng hủy diệt đã vĩnh viễn không thể vung xuống được nữa.
 
-“Kotori... Hãy chết cùng tớ đi.”
+“Kotori... Hãy cùng chết với tớ đi.”
 
-Kenzaki Asuna đã giữ chặt cánh tay đó lại.
+Kenzaki Asuna đã siết chặt lấy cánh tay vung kiếm đó từ phía sau.
 
-Cô ta ôm ghì lấy Kotori từ phía sau, khóa chặt tư thế vung kiếm của cô ta.
+Cô ta ôm ghì lấy thân hình Kotori, dùng toàn bộ sức lực của một kiếm sĩ khóa chặt hoàn toàn tư thế vung kiếm của cô ta.
 
-Không chỉ có Kenzaki. Nakajima và Shimokawa đang lồm cồm dưới chân cũng bám chặt lấy hai chân cô ta, còn Masaru thì ghì chặt cánh tay trái đang cầm khẩu blaster để ngăn cô ta nổ súng thêm một phát nào nữa.
+Không chỉ có riêng Kenzaki. Cả Nakajima và Shimokawa đang lồm cồm dưới chân cũng bám chặt lấy hai bên đùi cô ta như gọng kìm, còn Masaru thì dùng cả thân mình ghì chặt cánh tay trái đang cầm khẩu blaster để ngăn ả bóp cò thêm một phát đạn nào nữa.
 
-Những bạn học khác cũng như đàn zombie bu quanh người sống, đồng loạt vươn tay ra chộp lấy Kotori.
+Vô số bạn học khác cũng như đàn thây ma khát máu bủa vây lấy người sống, đồng loạt vươn những cánh tay lạnh buốt ra chộp lấy từng tấc thịt trên người Kotori.
 
-“B-Buông ra! Buông tao ra, Asuna-chan!”
+“B-Buông ra! Mau buông tao ra, Asuna-chan!”
 
 “Đời nào tao buông hả, con điên.”
 
-Câu thoại đáng lẽ ra tôi phải nói, không hiểu sao lại được thốt ra từ miệng thi nhân hình của Higuchi.
+Câu thoại đáng lý ra phải do chính miệng tôi thốt lên, không hiểu sao lại được gằn ra từ đôi môi của thi nhân hình Higuchi.
 
-Higuchi vươn tay chộp lấy cổ áo Kotori, giật phăng viên 『Giọt Lệ Sinh Mệnh』 đang tỏa sáng ở đó.
+Higuchi vươn cánh tay gầy guộc chộp lấy cổ áo Kotori, giật phăng sợi dây chuyền đính viên 『Giọt Lệ Sinh Mệnh』 đang tỏa sáng rực rỡ ở rãnh ngực cô ta.
 
-Rồi cậu ta ném nó về phía tôi. Khi quay lại ném viên 『Giọt Lệ Sinh Mệnh』, gương mặt của Higuchi nở một nụ cười đểu cáng quen thuộc, dù tôi hoàn toàn không hề điều khiển cậu ta làm vậy.
+Rồi cậu ta dứt khoát ném mạnh nó về phía tôi. Khi quay đầu lại sau cú ném viên 『Giọt Lệ Sinh Mệnh』, khóe môi của Higuchi khẽ nhếch lên một nụ cười đểu cáng quen thuộc, dù cho tôi hoàn toàn không hề phát ra mệnh lệnh điều khiển cậu ta làm như vậy.
 
-“Mọi chuyện kết thúc ở đây rồi, Kotori. Đã đến lúc ngươi phải đền tội cho hành vi phản bội lớp học của mình rồi————”
+“Mọi chuyện chấm dứt tại đây rồi, Kotori. Đã đến lúc ngươi phải đền mạng cho toàn bộ tội ác phản bội lớp học của mình rồi————”
 
-Ngay từ khoảnh khắc 『Thánh Thiên Kết Giới』 của ngươi bị phá vỡ, mọi sự chuẩn bị của ta đã hoàn tất. Dù đòn kết liễu không trực tiếp chạm tới thân xác của ngươi thì cũng chẳng sao cả.
+Ngay từ giây phút 『Thánh Thiên Kết Giới』 của ngươi nổ tung thành từng mảnh, mọi sự chuẩn bị của ta đã hoàn tất chu toàn. Dẫu cho đòn kết liễu không trực tiếp giáng thẳng vào thể xác của ngươi thì cũng chẳng còn mảy may quan trọng nữa.
 
-Ngay cả việc làm thế nào tôi có thể liên tục triệu hồi thi nhân hình của các bạn học ra như vậy, một kẻ bị dồn vào đường cùng như ngươi cũng chẳng thể nhận ra nổi.
+Đến cả việc làm cách nào mà tôi có thể liên tục triệu hồi thi nhân hình của toàn bộ bạn học ra áp đảo như thế này, một kẻ đã bị dồn vào đường cùng tuyệt lộ như ngươi cũng chẳng còn đủ tỉnh táo để nhận ra nổi.
 
-Mà thôi kệ đi, ngươi cứ việc ôm lấy sự thắc mắc đó mà chìm sâu xuống đáy địa ngục đi.
+Mà thôi, việc đó cũng chẳng cần thiết nữa rồi, ngươi cứ việc ôm trọn lấy nỗi hoang mang tột cùng đó mà chìm sâu xuống đáy bùn lầy của luyện ngục đi.
 
-“Bằng chiếc 『Vạc Của Phù Thủy』 khổng lồ này, không————phải gọi là 『Lò Luyện Ngục Của Hắc Ma Nữ』, ta sẽ nguyền rủa và thiêu rụi linh hồn của ngươi.”
+“Bằng chiếc 『Vạc Của Phù Thủy』 khổng lồ này, không————phải gọi đích danh là 『Lò Luyện Ngục Của Hắc Ma Nữ』, ta sẽ nguyền rủa và thiêu rụi linh hồn dơ bẩn của ngươi đến muôn đời muôn kiếp!”

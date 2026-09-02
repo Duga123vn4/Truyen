@@ -18,17 +18,17 @@ Dẫu là Tendou Ryuuichi cũng cảm thấy có chút ngượng ngùng áy náy
 
 “Này con hầu gái kia, bố mày đối xử lịch sự với người giúp đỡ mình thì có gì sai hả!?”
 
-Momoko vừa lên tiếng trêu chọc liền bị Ryuuichi tặng ngay cho một cú búng trán đau điếng. Nhìn thấy cảnh tượng hai người chí choé nhau, Meiko chỉ khẽ mỉm cười ấm áp vì thấy họ thật gắn bó thân thiết.
+Momoko vừa lên tiếng trêu chọc liền bị Ryuuichi tặng ngay một cú búng trán đau điếng. Nhìn thấy cảnh tượng hai người chí choé nhau, Meiko chỉ khẽ mỉm cười ấm áp vì thấy họ thật gắn bó thân thiết.
 
 Cuộc trò chuyện ngắn ngủi trên lưng rồng nhanh chóng bị dập tắt bởi một tiếng gầm rống kinh thiên động địa vang dội khắp không gian.
 
 Màn khói đen đã tan biến hoàn toàn, và con quái vật Yamata no Orochi sau khi định vị lại con mồi liền hướng toàn bộ năm chiếc đầu rắn khổng lồ về phía họ trong tư thế nghênh chiến!
 
-“Lao thẳng vào một đòn quyết định! Bám chắc vào kẻo bị hất văng đấy——Đi thôi Liberta, tăng tốc toàn lực!”
+“Lao thẳng vào làm một đòn quyết định! Bám chắc vào kẻo bị hất văng đấy——Đi thôi Liberta, tăng tốc toàn lực!”
 
 “Fufun, tuân lệnh!”
 
-Đáp lại lời hiệu triệu đầy tự tin của Hắc Long Liberta, một tiếng nổ xé toạc không khí vang lên khi cỗ máy chiến đấu sinh học rẽ mây lao vút đi với vận tốc siêu thanh! Khoảng cách giữa họ và Yamata no Orochi bị thu hẹp trong nháy mắt, và họ lập tức tiến thẳng vào tầm bắn của những luồng hơi thở Breath hủy diệt!
+Đáp lại lời hiệu triệu đầy tự tin của Hắc Long Liberta, một tiếng nổ xé toạc không khí vang lên khi cỗ máy chiến đấu sinh học rẽ mây lao vút đi với vận tốc siêu thanh! Khoảng cách giữa họ và Yamata no Orochi bị thu hẹp trong nháy mắt, lập tức tiến thẳng vào tầm bắn của những luồng hơi thở hủy diệt!
 
 *GÀO THÉT RÚT TRỜI!*
 
@@ -46,15 +46,15 @@ Băng qua khe hở giữa ba luồng lốc xoáy ma lực khổng lồ đang xoa
 
 Với phong thái nhẹ nhàng như thể chuẩn bị bước chân đi dạo phố mua sắm, Futaba Meiko nhún chân nhảy vọt khỏi lưng rồng, lao mình vào khoảng không bao la!
 
-Hai bàn tay siết chặt thanh kích kiếm khổng lồ 『Hắc Lam Kiếm Phủ Giga Storm』. Thanh bảo khí được rèn đúc lại từ hai thanh kiếm sét của lão tướng Gira-GoGame Mastera bỗng nhiên bùng nổ những tia chớp màu đen đỏ cuộn trào dữ dội!
+Hai bàn tay siết chặt thanh kích kiếm khổng lồ 『Hắc Lam Kiếm Phủ Gilastorm』. Thanh bảo khí được rèn đúc lại từ hai thanh kiếm sét của lão tướng 『Đại Chiến Sĩ Gira-Goma』 bỗng nhiên bùng nổ những tia chớp màu đen đỏ cuộn trào dữ dội!
 
 Luồng sét đen đỏ ma mị càng rơi tự do lại càng tích tụ uy lực sấm sét cuồng bạo, biến thân ảnh của Meiko thành một ngọn lôi đình đỏ rực giáng thẳng từ trên chín tầng mây xuống đất——
 
-“——**『HỐI KÍCH CHẤN』 (Cương Kích-shin)ッ!!**”
+“——**『HỐI KÍCH CHẤN』ッ!!**”
 
 Một tiếng nổ kinh hoàng còn dữ dội hơn cả sấm sét giáng thẳng xuống điểm tiếp đất!
 
-Đó là võ kỹ tối thượng thăng cấp từ 『Kích Chấn』 của Cuồng Chiến Binh. Vì mới lĩnh ngộ và độ thuần thục chưa cao nên chiêu thức này đòi hỏi một tư thế chuẩn bị và thời gian tích lực khá lâu, rất khó áp dụng linh hoạt trong cận chiến tốc độ cao... Thế nhưng đối diện với một tấm bia đỡ đạn khổng lồ bất động như lớp vỏ của Orochi, việc thi triển hoàn toàn dễ như trở bàn tay!
+Đó là võ kỹ tối thượng thăng cấp từ 『Kích Chấn』 của Cuồng Chiến Binh. Vì mới lĩnh ngộ và độ thuần thục chưa cao nên chiêu thức này đòi hỏi tư thế chuẩn bị cùng thời gian tích lực khá lâu, rất khó áp dụng linh hoạt trong cận chiến tốc độ cao... Thế nhưng đối diện với một tấm bia đỡ đạn khổng lồ bất động như lớp vỏ của Orochi, việc thi triển hoàn toàn dễ như trở bàn tay!
 
 Mượn trọn gia tốc rơi tự do từ trên không trung kết hợp cùng lượng lôi ma lực khổng lồ bọc quanh thanh kích kiếm, tuyệt kỹ 『Hối Kích Chấn』 của Meiko nổ tung long trời lở đất!
 
@@ -86,11 +86,11 @@ Lượng nhiệt độ cực cao nung chảy cả một phần vỏ đá xung qu
 
 “Cảm ơn nhé Ryuuichi-kun!”
 
-Đang lúc Meiko phải dừng vận lực để né tránh đòn lửa, hàng loạt quả cầu hỏa cầu khổng lồ từ trên trời rơi xuống nã liên tiếp vào đầu con rắn, cưỡng chế bẻ gãy đòn tấn công của nó!
+Đang lúc Meiko phải dừng vận lực để né tránh đòn lửa, hàng loạt quả hỏa cầu khổng lồ từ trên trời rơi xuống nã liên tiếp vào đầu con rắn, cưỡng chế bẻ gãy đòn tấn công của nó!
 
 Bóng dáng của Hắc Long Liberta lướt qua trên đỉnh đầu, Ryuuichi đã liên tục dùng những màn cơ động trên không để thu hút toàn bộ hỏa lực của năm chiếc đầu còn lại, không để bất kỳ đòn đánh nào chạm tới Meiko.
 
-“Nhờ có cậu mà tiến độ nhanh hơn nhiều đấy——**『LIỆT PHÁ ĐOẠN』 (Reppadan)ッ!!**”
+“Nhờ có cậu mà tiến độ nhanh hơn nhiều đấy——**『LIỆT PHÁ ĐOẠN』ッ!!**”
 
 *KENG! ROANG! RẦM RẦM!* Tiếng va đập chát chúa vang lên không ngớt giữa ngọn núi vỏ đá. Cùng với những vụ nổ ma pháp rền vang, một khúc tráng ca kịch chiến đang diễn ra, và thực chất đó là một quá trình phá dỡ công sự vô cùng bền bỉ và chính xác!
 
@@ -126,7 +126,7 @@ Lao thẳng vào tầm bắn của sáu họng pháo đang chuẩn bị khai h�
 
 Khoang miệng của Hắc Long bùng cháy một luồng sáng màu TÍM ĐEN ma mị! Ánh sáng tím đen ấy lan tỏa từ cặp sừng, dọc theo sống lưng cho tới tận chóp đuôi, và trên đôi cánh khổng lồ bừng sáng những ma pháp trận cổ đại uy nghiêm!
 
-“HÃY NẾM TRẢI ĐI! ĐÂY MỚI CHÍNH LÀ ĐÒN HƠI THỞ CỦA RỒNG THỰC THỤ (DRAGON BREATH)!”
+“HÃY NẾM TRẢI ĐI! ĐÂY MỚI CHÍNH LÀ ĐÒN HƠI THỞ CỦA RỒNG THỰC THỤ!”
 
 Một chùm tia sáng màu tím đen hủy diệt bắn vọt ra từ miệng Liberta!
 
@@ -158,9 +158,9 @@ Nở một nụ cười rạng rỡ sau khi hoàn thành nhiệm vụ, Meiko đ�
 
 Nói đoạn, Momoko liền nhảy vọt khỏi lưng rồng lao thẳng xuống phía dưới!
 
-Trên lưng cô nàng hầu gái lúc này đang cõng một chiếc RƯƠNG KHO BÁU khổng lồ được niêm phong nghiêm ngặt bằng ma pháp trận và in biểu tượng cảnh báo nguy hiểm phóng xạ màu vàng đen rực rỡ!
+Trên lưng cô nàng hầu gái lúc này đang cõng một chiếc 『Rương Kho Báu』 khổng lồ được niêm phong nghiêm ngặt bằng ma pháp trận và in biểu tượng cảnh báo nguy hiểm phóng xạ màu vàng đen rực rỡ!
 
-“Chỉnh lại quỹ đạo rơi một chút nào... KHAI HỎA PHÁP TRẬN ĐẨY VÁY HẦU GÁI (BOOSTER PANNIER)!”
+“Chỉnh lại quỹ đạo rơi một chút nào... KHAI HỎA PHÁP TRẬN ĐẨY VÁY HẦU GÁI!”
 
 Những luồng gió ma pháp phụt ra từ bên dưới chiếc váy dài bồng bềnh giúp Momoko căn chỉnh góc rơi chuẩn xác, lao thẳng vào tâm chấn miệng hố nứt toác sâu hoắm bên trong thân xác Orochi!
 
@@ -168,15 +168,15 @@ Những luồng gió ma pháp phụt ra từ bên dưới chiếc váy dài bồ
 
 ---
 
-*『Requiem Heart - Smart Guy』: Quả bom Lõi Ma Vật siêu cấp do Kotarou chế tạo để đối phó các Siêu Boss. Sử dụng chiếc Rương Kho Báu cổ đại làm buồng chứa gia tốc ma lực, bên trong tích hợp lõi ma lực cực phẩm hệ Hỏa của Gira-GoGame Mastera (Gizagins), biến nó thành một khối bộc phá địa ngục có sức tàn phá kinh thiên động địa.*
+*『Requiem Heart - Smart Guy』: Quả bom Lõi Ma Vật siêu cấp do Kotarou chế tạo để đối phó các Siêu Boss. Sử dụng chiếc Rương Kho Báu cổ đại làm buồng chứa gia tốc ma lực, bên trong tích hợp lõi ma lực cực phẩm hệ Hỏa của 『Đại Chiến Sĩ Gira-Goma Gizaginzu』, biến nó thành một khối bộc phá địa ngục có sức tàn phá kinh thiên động địa.*
 
 ---
 
-“——**FOR EVER, Vương quốc Goma! (VƯƠNG QUỐC GOMA VẠN TUẾ!)**”
+“——**VƯƠNG QUỐC GOMA VẠN TUẾ!**”
 
 Kèm theo câu mật mã kích hoạt mà Kotarou đã cài đặt, luồng ma lực của Momoko rót vào kích nổ quả bom 『Requiem Heart』!
 
-Lõi ma lực khổng lồ của Gira-GoGame Mastera lập tức quá tải, năng lượng ma lực tuần hoàn với tốc độ ánh sáng rồi bùng nổ vượt giới hạn cực đại——ngay khoảnh khắc Momoko đâm thẳng vào trung tâm viên Lõi của Yamata no Orochi:
+Lõi ma lực khổng lồ của Đại Chiến Sĩ Gizaginzu lập tức quá tải, năng lượng ma lực tuần hoàn với tốc độ ánh sáng rồi bùng nổ vượt giới hạn cực đại——ngay khoảnh khắc Momoko đâm thẳng vào trung tâm viên Lõi của Yamata no Orochi:
 
 “BÙNG NỔ HOÀNG TRÁNG NÀOOOO☆ッ!!”
 

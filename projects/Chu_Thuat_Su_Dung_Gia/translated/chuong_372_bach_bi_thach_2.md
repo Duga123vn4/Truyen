@@ -1,178 +1,178 @@
 # Tập 372: Bạch Bí Thạch (2)
 
-“—Ăn trọn đòn này mà vẫn gượng dậy được sao?”
+“—Hứng trọn đòn đó mà vẫn gượng dậy được sao?”
 
-Dù bị đánh bay sau khi hứng trọn toàn bộ liên hoàn võ kỹ 『Vô Song Kiếm Vũ』, Rerite vẫn nhanh nhẹn nhỏm dậy, thủ thế với nắm đấm tràn ngập sát ý không hề suy giảm.
+Dù bị đánh văng sau khi lĩnh trọn toàn bộ liên hoàn kiếm kỹ 『Vô Song Kiếm Vũ』, Rerite vẫn nhanh chóng bật dậy, thủ thế bằng đôi nắm đấm ngập tràn sát ý không hề suy giảm.
 
-Yuuto dùng những ma pháp đã học được để hóa giải hàng loạt đòn tấn công tầm xa và diện rộng từ sức mạnh bóng tối của Rerite. Đồng thời, cậu vận dụng kiếm kỹ phái Souma đã được tôi luyện sắc bén để đón đỡ bản thể Rerite đang lao vào tấn công bằng tốc độ và sức mạnh kinh hoàng tuy đơn giản.
+Yuuto liên tục thi triển ma pháp đã học để hóa giải những đòn công kích tầm xa và diện rộng từ ma lực bóng tối của Rerite. Đồng thời, cậu vận dụng kiếm kỹ phái Souma đã được tôi luyện thuần thục để đỡ gạt bản thể Rerite đang lao tới tấn công bằng tốc độ cùng uy lực kinh hoàng, tuy đơn giản nhưng đầy hiểm hóc.
 
-Rerite liên tục tung ra những đợt tấn công dồn dập hòng dùng bóng tối nuốt chửng ánh sáng rực rỡ, nhưng người thực sự tung ra được những đòn đánh hiệu quả lại là Yuuto nhờ chiến thuật phản công nhanh. Nếu đây chỉ là một con ma vật Boss thông thường thì đã bị chém gục từ lâu, thế nhưng Rerite vẫn hết lần này đến lần khác đứng dậy cùng luồng ma khí bóng tối cuồn cuộn tỏa ra từ cơ thể.
+Rerite liên tục tung ra những đợt công kích dồn dập hòng dùng bóng tối nuốt chửng ánh hào quang rực rỡ, nhưng người thực sự tung ra được những đòn đánh chuẩn xác lại là Yuuto nhờ chiến thuật phản kích chớp nhoáng. Nếu đây chỉ là một con Boss thông thường thì ắt hẳn đã gục ngã từ lâu, thế nhưng Rerite vẫn hết lần này đến lần khác gượng dậy cùng luồng ma khí hắc ám cuộn trào ngùn ngụt từ khắp cơ thể.
 
-“Cứ thế này thì nguy hiểm quá.”
+“Cứ thế này thì nguy to.”
 
 Nguy hiểm cho cả cậu lẫn Rerite.
 
-Rerite không chỉ chịu đựng đòn đánh bằng thể lực vô hạn, mà rõ ràng cậu ta đang duy trì chiến đấu nhờ vào luồng ma khí bóng tối kia. Sức mạnh bóng tối ngự trị trong cơ thể cậu ta chắc chắn đã trở nên to lớn hơn, mạnh mẽ hơn và đậm đặc hơn rất nhiều so với lúc trận chiến mới bắt đầu.
+Rerite không chỉ chịu đòn bằng thể lực dẻo dai, mà rõ ràng cậu ta đang duy trì ý thức chiến đấu nhờ vào luồng ma khí bóng tối kia. Nguồn sức mạnh hắc ám ngự trị trong cơ thể cậu ta chắc chắn đã bành trướng, cường đại và đậm đặc hơn gấp bội so với thời điểm trận chiến mới bắt đầu.
 
-Thật khó tin một con người bằng xương bằng thịt như Rerite lại không phải chịu bất kỳ ảnh hưởng nào khi sử dụng thứ sức mạnh khủng khiếp đến nhường này. Nếu cứ tiếp tục, không khéo cậu ta sẽ hóa thành một ma nhân thuộc tính bóng tối và chẳng bao giờ có thể trở lại làm người được nữa. Rerite lúc này chiến đấu điên cuồng đến mức thoát ly khỏi ranh giới của nhân loại, khiến người ta phải rùng mình nghĩ đến viễn cảnh đó.
+Thật khó tin một con người bằng xương bằng thịt lại có thể bình an vô sự khi giải phóng thứ sức mạnh dị hợm đến nhường này. Cứ tiếp tục đà này, không chừng cậu ta sẽ tha hóa thành ma nhân thuộc tính bóng tối và vĩnh viễn không thể trở lại làm người được nữa. Nhìn Rerite điên cuồng chiến đấu vượt khỏi ranh giới nhân loại lúc này, bất kỳ ai cũng phải rùng mình nghĩ tới viễn cảnh tồi tệ ấy.
 
-Ngay cả Yuuto, người hiện đang chiếm thế thượng phong, cũng dấy lên mối lo ngại rằng nếu sức mạnh bóng tối của Rerite cứ tiếp tục tăng tiến, sẽ đến lúc cậu bị áp đảo hoàn toàn bởi sức mạnh thuần túy. Hoặc giả, ma lực ánh sáng của cậu sẽ cạn kiệt trước khi nguồn sức mạnh bóng tối vô tận kia dứt hẳn.
+Ngay cả Yuuto, người hiện đang chiếm thế thượng phong, cũng dấy lên nỗi âu lo rằng nếu ma lực bóng tối của Rerite cứ tiếp tục tăng tiến, sẽ đến lúc cậu bị sức mạnh thuần túy ấy nghiền nát hoàn toàn. Hoặc tệ hơn, ma lực ánh sáng của cậu sẽ cạn kiệt trước khi cái túi ma lực bóng tối vô tận kia vơi cạn.
 
-Trong khi Rerite đã mất đi lý trí và chiến đấu hoàn toàn theo bản năng của sức mạnh, thì Yuuto vẫn kiểm soát và nhận thức rõ giới hạn năng lực của bản thân.
+Trong khi Rerite đã mất đi lý trí và chiến đấu thuần túy theo bản năng khát máu, thì Yuuto vẫn giữ vững nhận thức và kiểm soát được giới hạn năng lực của bản thân.
 
-Ngay khi cảm nhận được dù chỉ là một chút nguy cơ bị Rerite vượt mặt về sức mạnh thuần túy, Yuuto đã nghĩ mình không nên tiếp tục kéo dài trận chiến dây dưa này nữa. Đúng lúc đó—
+Ngay khi linh cảm thấy nguy cơ bị Rerite vượt mặt về sức mạnh đơn thuần, Yuuto hiểu rằng mình không thể tiếp tục kéo dài cuộc chiến cù cưa này thêm nữa. Đúng lúc ấy—
 
-“Souma-kun, để Kotori giúp cậu một tay! Tới đây, 『Nữ Thần Đang Dõi Theo』!”
+“Souma-kun, để Kotori giúp cậu một tay! Hãy tiếp nhận, 『Nữ Thần Đang Dõi Theo』!”
 
-Giọng nói kiên cường của Takanashi Kotori, đồng minh cuối cùng còn sót lại, truyền vào tai Yuuto.
+Tiếng hô quả quyết của Takanashi Kotori, đồng minh duy nhất còn lại bên cạnh, truyền thẳng vào tai Yuuto.
 
-Cậu biết cô đã di chuyển để đối phó với Momokawa, và trong tình cảnh phải đối đầu với một cường địch ngoài dự tính như Rerite, cậu chỉ còn cách tin tưởng giao phó cho cô.
+Cậu biết cô đã di chuyển để kiềm tỏa Momokawa, và trong tình cảnh phải đương đầu với một cường địch nằm ngoài dự toán như Rerite, cậu chỉ còn biết đặt trọn niềm tin nơi cô.
 
-Và với sự thông tuệ xứng danh một 『Hiền Giả』, cô đã nhận ra tình thế khó khăn của cậu lúc này.
+Và với sự thông tuệ xứng danh một 『Hiền Giả』, cô đã lập tức nhìn thấu tình cảnh ngặt nghèo của cậu.
 
-Để đáp lại sự hỗ trợ đó, Yuuto cất thanh 『Thánh Hỏa Thương Lôi』 đang cầm ở tay trái vào không gian lưu trữ, rồi giơ bàn tay không lên.
+Để đáp lại đòn hỗ trợ ấy, Yuuto thu thanh 『Thánh Hỏa Thương Lôi』 đang cầm ở tay trái vào không gian lưu trữ, rồi giơ bàn tay không lên phía trước.
 
-“Cảm ơn cậu, Takanashi-san. —Kích hoạt Kỹ năng Đặc hữu thứ ba, 『Bạch Bí Thạch』.”
+“Cảm ơn cậu, Takanashi-san. —Kích hoạt Kỹ năng Đặc hữu thứ ba, 『Bạch Bí Thạch』!”
 
 Kỹ năng Đặc hữu thứ ba.
 
-『Bạch Bí Thạch』: Viên bảo ngọc thần bí ẩn chứa bí kỹ của Nữ thần Trắng.
+『Bạch Bí Thạch』: Viên bảo ngọc thần bí ẩn chứa bí thuật tối cao của Bạch Nữ Thần.
 
-Đây chính là sức mạnh mới của Dũng Giả mà cậu vừa đạt được. Kỹ năng đặc hữu thứ ba tiếp nối sau 『Thánh Kiếm Ánh Sáng』 và 『Thiên Tinh Thuẫn』.
+Đây chính là thần uy mới của Dũng Giả mà cậu vừa khai mở, kỹ năng đặc hữu thứ ba nối tiếp sau 『Thánh Kiếm Ánh Sáng』 và 『Thiên Tinh Thuẫn』.
 
-Nói một cách chính xác, cậu không tự mình hoàn toàn làm chủ được nó. Ban đầu, đây là kỹ năng mà cậu phải tự mình ngộ ra sau những trận tử chiến sinh tử, nhưng trong tình cảnh ngặt nghèo chỉ còn lại duy nhất cậu và Kotori, cậu không thể kén chọn phương pháp được nữa.
+Nói một cách chính xác, cậu vẫn chưa thể tự mình làm chủ nó một cách độc lập. Vốn dĩ đây là tuyệt kỹ mà cậu phải tự giác ngộ sau vô số lần chạm trán sinh tử, nhưng trong tình thế ngàn cân treo sợi tóc khi chiến trường chỉ còn lại hai người, cậu không còn quyền lựa chọn phương thức.
 
-Chỉ khi có sự hỗ trợ từ ma pháp cường hóa chuyên dụng 『Nữ Thần Đang Dõi Theo』 của Kotori—người sở hữu thiên chức 『Hiền Giả』 giúp nâng tầm sức mạnh của Dũng Giả—thì kỹ năng này mới có thể kích hoạt.
+Chỉ khi nhận được ma pháp gia trì chuyên dụng 『Nữ Thần Đang Dõi Theo』 của Kotori—người mang thiên chức 『Hiền Giả』 tối thượng phò trợ Dũng Giả—thì phong ấn của kỹ năng này mới được giải trừ.
 
-Đến nước này, cậu chỉ còn biết đặt cược vào sức mạnh của 『Dũng Giả』. Đè nén sự nôn nóng muốn đi cứu Sakura và mọi người càng sớm càng tốt, Yuuto đã cùng Kotori lao vào khóa huấn luyện khắc nghiệt... Có lẽ vì quá đỗi khắc nghiệt nên ký ức về khoảng thời gian đó cứ mờ ảo như bị sương mù che phủ, nhưng chắc chắn rằng bản thân cậu lúc này đang sở hữu một sức mạnh mới của Dũng Giả mà trước đây cậu chưa từng có.
+Tới nước này, cậu chỉ còn biết đặt cược tất cả vào thiên chức 『Dũng Giả』. Đè nén nỗi nôn nóng muốn lập tức đi giải cứu Sakura và mọi người, Yuuto đã cùng Kotori lao vào chuỗi huấn luyện địa ngục... Có lẽ vì quá đỗi khắc nghiệt nên ký ức về quãng thời gian ấy cứ mờ mịt như bị phủ một màn sương dày, nhưng điều chắc chắn là lúc này, cơ thể cậu đang cuộn trào một nguồn sức mạnh Dũng Giả hoàn toàn mới.
 
-Và để đạt được điều đó, tất cả là nhờ vào đức tin của chính cậu cùng sự tận hiến của Takanashi Kotori.
+Và để chạm tay tới cảnh giới này, tất cả đều nhờ vào đức tin kiên định của cậu cùng sự tận hiến của Takanashi Kotori.
 
-“Chậc, lại là trang bị gian lận với kỹ năng gian lận mới à...”
+“Chậc, lại vác thêm trang bị với kỹ năng gian lận mới ra à...”
 
-Trước sức mạnh rực rỡ đầy thần thánh của Dũng Giả, Momokawa tặc lưỡi lẩm bẩm đầy cay cú.
+Trước ánh hào quang thần thánh chói lọi của Dũng Giả, Momokawa đứng đằng xa tặc lưỡi đầy vẻ cay cú.
 
-Dù rất muốn dùng nguồn sức mạnh thánh khiết đang trào dâng này để tiêu diệt tên chú thuật sư tà ác kia ngay lập tức, nhưng Yuuto tự nhủ phải tập trung vào Rerite trước mắt và cố lờ hắn đi. Bởi lẽ Rerite, kẻ đang để cho sức mạnh bóng tối bạo tẩu dữ dội hơn, vẫn là một đối thủ cực kỳ đáng gờm mà cậu không thể lơ là ngay cả khi đã có sức mạnh mới này.
+Dù rất muốn vung thanh kiếm thánh khiết vừa thức tỉnh để trừ khử tên chú thuật sư tà ác kia ngay lập tức, nhưng Yuuto tự dặn lòng phải tập trung xử lý Rerite trước mắt. Bởi lẽ Rerite, kẻ đang để sức mạnh bóng tối bạo tẩu dữ dội, vẫn là một mối họa cực kỳ đáng sợ mà cậu không được phép lơ là dẫu đã nắm trong tay át chủ bài mới.
 
-“Hayama, kết thúc chuyện này ở đây thôi.”
+“Hayama, kết thúc tại đây thôi.”
 
 “SOUMAAA... YUUTOOOOOOOOOOOOOO!!”
 
-Với vô số oán linh lơ lửng sau lưng, Rerite ngưng tụ một quả cầu bóng tối khổng lồ xoáy sâu hun hút như hố đen trên hai bàn tay đang dang rộng, rồi lao vào tấn công không biết là lần thứ bao nhiêu. Cậu ta phóng đi cùng luồng ma lực bóng tối khổng lồ chưa từng thấy, mang theo lòng căm thù và sát ý sâu hoắm không đáy.
+Với hàng vạn oán linh rít gào sau lưng, Rerite ngưng tụ một khối cầu hắc ám khổng lồ xoáy sâu hun hút tựa hố đen giữa hai cánh tay giang rộng, rồi điên cuồng lao tới. Cậu ta bộc phát lượng ma lực bóng tối dày đặc chưa từng thấy, mang theo nỗi hận thù và sát khí ngút trời không đáy.
 
-Thế nhưng Yuuto không hề sợ hãi. Bởi lẽ trong tay cậu lúc này đã có được sức mạnh kỳ diệu đủ để thanh tẩy bóng tối của Rerite.
+Thế nhưng, Yuuto không hề nao núng. Bởi lẽ trong tay cậu lúc này đã có sức mạnh thần thánh đủ sức thanh tẩy màn đêm của Rerite.
 
 “—『Sát Na Nhất Thiểm』!”
 
-Thanh 『Thánh Kiếm Ánh Sáng』 vung cao đột ngột kéo dài lưỡi kiếm ánh sáng khổng lồ.
+Thanh 『Thánh Kiếm Ánh Sáng』 vung lên, lưỡi kiếm quang năng đột ngột duỗi dài kinh hoàng.
 
-Yuuto, người từ đầu đến giờ chỉ tập trung phòng ngự phản công, cuối cùng cũng chủ động ra đòn quyết định. Cậu không chút do dự chém thẳng lưỡi kiếm thánh đã hóa thành vệt sáng khổng lồ dài hơn mười mét xuống Rerite đang lao trực diện tới.
+Yuuto, người từ đầu trận chỉ thuần thục phòng ngự phản công, cuối cùng đã chủ động tung đòn dứt điểm. Không một khắc do dự, cậu giáng thẳng lưỡi kiếm thánh đã hóa thành vệt sáng khổng lồ dài hơn mười mét xuống đỉnh đầu Rerite đang lao tới trực diện.
 
-Đây là ma pháp kiếm kỹ mạnh nhất mà Yuuto vô cùng tự hào, sở hữu uy lực đủ để thổi bay không còn một hạt bụi bất kỳ con người nào, hay thậm chí là những ma vật trâu bò nhất nếu trúng trọn.
+Đây là kiếm kỹ ma pháp mạnh nhất mà Yuuto hằng tự hào, sở hữu uy lực dư sức xóa sổ không còn một hạt bụi bất kỳ nhân loại nào, thậm chí chém nát cả những ma thú phòng ngự kiên cố nhất nếu trúng trọn.
 
-Thế nhưng, đối với một Rerite đang dần hóa thành ma nhân bóng tối vượt qua cả ranh giới con người lẫn ma vật, đòn đánh này vẫn chưa đủ để kết liễu cậu ta trong một chiêu.
+Thế nhưng, trước một Rerite đang biến dị thành ma nhân bóng tối vượt ra ngoài ranh giới nhân loại lẫn ma vật, nhát chém này vẫn chưa đủ để kết liễu cậu ta trong một chiêu.
 
 “CHẾẾẾẾT ĐIIIIIIIIIIIIIIII!!”
 
-Dù đã mất đi lý trí, chắc hẳn cậu ta vẫn nhận ra lưỡi kiếm ánh sáng khổng lồ đang giáng xuống đầu mình. Thế nhưng, thay vì lo cho sự an nguy của bản thân, Rerite chỉ khao khát tiêu diệt kẻ thù truyền kiếp ngay trước mắt.
+Dù tâm trí đã vỡ vụn, bản năng hẳn vẫn mách bảo cậu ta về lưỡi kiếm ánh sáng đang bổ xuống đầu. Nhưng thay vì bận tâm đến tính mạng, Rerite chỉ cháy bỏng một dã tâm duy nhất: hủy diệt kẻ thù sinh tử trước mắt.
 
-Trong khoảnh khắc đó, cậu ta không hề phòng ngự hay né tránh, mà chỉ tập trung vào việc tấn công.
+Khoảnh khắc ấy, cậu ta hoàn toàn từ bỏ phòng ngự lẫn né tránh, dồn toàn bộ sự tồn tại vào đòn công kích tối hậu.
 
-Rerite phóng thẳng quả cầu đen khổng lồ được ngưng tụ từ toàn bộ sức mạnh bóng tối trên hai tay về phía Yuuto, người đang vung thánh kiếm xuống.
+Rerite phóng thẳng quả cầu hắc ám khổng lồ gom góp toàn bộ ma lực bóng tối trên tay về phía Yuuto, ngay khi thanh thánh kiếm chém xuống.
 
-Ngay sau đó, lưỡi kiếm ánh sáng khổng lồ chém thẳng vào người Rerite—thế nhưng, đòn tấn công mang theo lòng căm hận đã phóng ra vẫn không hề dừng lại.
+Lưỡi kiếm ánh sáng bổ ngập vào thân thể Rerite—thế nhưng, đòn đánh ngưng tụ từ oán niệm ngút trời vẫn lao đi không hề suy suyển.
 
-“Vô ích thôi. 『Bạch Bí Thạch』 này sẽ phong ấn mọi tà ác.”
+“Vô ích thôi. 『Bạch Bí Thạch』 này sẽ phong ấn mọi tà niệm.”
 
-Khi Yuuto giơ tay trái lên, viên bảo ngọc màu xanh nhạt được nối bằng những sợi xích trắng như một chiếc vòng cổ bỗng tỏa ra ánh sáng chói lòa.
+Khi Yuuto nâng tay trái lên, viên bảo ngọc màu xanh ngọc bích được nối bằng những sợi xích trắng bạc tựa chuỗi thánh giá bỗng bộc phát hào quang rực rỡ.
 
-Ngay trước khoảnh khắc quả cầu đen của Rerite áp sát và chực chờ giải phóng sức tàn phá khủng khiếp ẩn chứa bên trong, những tiếng ngân vang thanh khiết như tiếng chuông “Keng, keng” chợt vang lên.
+Ngay trước khoảnh khắc quả cầu đen của Rerite ập tới chuẩn bị kích nổ sức tàn phá hủy diệt, những âm thanh ngân vang thanh thoát tựa tiếng chuông thánh “Keng! Keng!” chợt vang vọng khắp không gian.
 
-Cùng với âm thanh trong trẻo đọng lại trong tâm trí, những dải lụa ánh sáng đột ngột phun trào ra từ viên bảo ngọc rực rỡ.
+Hòa cùng giai điệu trong trẻo gột rửa tâm hồn, những dải lụa ánh sáng đột ngột tuôn trào cuồn cuộn từ viên bảo ngọc.
 
-Đó không đơn thuần là ma pháp tấn công thuộc tính ánh sáng. Nó không phải là những tia sáng bắn thẳng, mà uốn lượn mềm mại như những dải lụa thực sự đang tung bay.
+Đó không đơn thuần là ma pháp công kích hệ Quang. Những dải sáng ấy không hề bắn thẳng, mà uốn lượn mềm mại, phiêu dật như những dải lụa tiên giới đang bay lượn giữa hư không.
 
-Trên dải lụa ánh sáng ấy không phải là những hoa văn lộng lẫy, mà là những thuật thức cổ đại—không, phải là thuật thức từ thời đại thần thoại xa xưa được khắc họa vô cùng tinh xảo.
+Khắc sâu trên dải lụa ánh sáng ấy không phải hoa văn trang trí, mà là những đồ trận cổ ngữ—không, chính xác là thần ngôn pháp trận từ kỷ nguyên thần thoại xa xưa được dệt nên vô cùng tinh xảo.
 
-Hai dải lụa phóng ra va chạm trực diện, đón đỡ quả cầu đen ngay trước khi nó kịp phát nổ, rồi quấn chặt lấy toàn bộ quả cầu.
+Hai dải lụa thần thánh đan chéo vào nhau, đón đỡ trọn vẹn quả cầu đen trước khi nó kịp phát nổ, rồi quấn chặt lấy toàn bộ khối hắc cầu hủy diệt.
 
-Quả cầu hủy diệt màu đen được tạo nên từ lòng căm thù sâu sắc và ma lực khổng lồ nhanh chóng bị bao phủ bởi ánh hào quang thánh khiết—và rồi, trong chớp mắt tiếp theo, nó bị hút thẳng vào viên bảo ngọc và biến mất không tăm tích. Cả ánh sáng lẫn bóng tối đều tan biến không còn một dấu vết.
+Khối cầu tàn sát tạo nên từ ma lực khổng lồ cùng nỗi hận thù thấu xương nhanh chóng bị vầng hào quang thánh khiết bao bọc—rồi chỉ trong chớp mắt, nó bị hút trọn vào viên bảo ngọc và biến mất không tăm tích. Cả ánh sáng chói lòa lẫn bóng tối mù mịt đều tan biến sạch ghẽ.
 
-Như thể chưa từng có chuyện gì xảy ra, 『Bạch Bí Thạch』 chỉ khẽ đung đưa lặng lẽ nơi đầu ngón tay trái của Yuuto.
+Tựa như chưa từng có bất kỳ vụ va chạm nào xảy ra, 『Bạch Bí Thạch』 chỉ khẽ đung đưa tĩnh lặng nơi đầu ngón tay trái của Yuuto.
 
-“Lượng ma lực thật kinh khủng. Nếu có phát thứ ba, có lẽ mình đã không thể ngăn chặn nổi.”
+“Lượng ma lực thật khủng khiếp. Nếu phải đón thêm phát thứ ba, e rằng mình cũng không chống đỡ nổi.”
 
-Ánh sáng của viên bảo ngọc trên tay trái Yuuto giờ đây trông xám xịt như bị bao phủ bởi một lớp sương mờ màu đen.
+Ánh quang của viên bảo ngọc trên tay trái Yuuto lúc này đã ngả sang màu xám xịt, bị bao phủ bởi một lớp sương mù đen kịt vẩn đục.
 
-Đó chính là phản phản động từ việc hấp thụ toàn bộ sức mạnh bóng tối. Việc chỉ qua hai đòn tấn công đã khiến 『Bạch Bí Thạch』 bị vẩn đục đến mức này khiến Yuuto một lần nữa cảm thấy rùng mình trước sức mạnh của đối thủ.
+Đó là dư chấn phản phệ từ việc phong ấn toàn bộ nguồn sức mạnh hắc ám. Việc chỉ sau hai lần hóa giải đã khiến 『Bạch Bí Thạch』 bị ô uế đến mức này làm Yuuto một lần nữa thầm kinh hãi trước thực lực của đối thủ.
 
-“Quả nhiên là phải dùng hết sao... Nhưng nếu là cậu, Hayama, tớ sẽ không tiếc nuối đâu.”
+“Quả nhiên là phải dốc cạn toàn lực... Nhưng nếu là vì cậu, Hayama, tớ tuyệt đối không hối tiếc.”
 
-“Ư... ư... ư...”
+“Ư... ư... a...”
 
-Rerite rên rỉ đau đớn, cuối cùng không thể gượng dậy nổi nữa.
+Rerite rên rỉ đau đớn, rốt cuộc không thể gượng dậy nổi nữa.
 
-Luồng ma khí bóng tối đậm đặc bao quanh cơ thể cậu ta đã bị thổi bay tận gốc, để lại một vết chém khổng lồ tỏa ra ánh sáng xanh trắng khắc sâu trên cơ thể nhuộm đen.
+Luồng ma khí hắc ám cuộn trào quanh người cậu ta đã bị đánh tan tác, để lại một vết chém khổng lồ phát ra ánh sáng xanh trắng khắc sâu trên cơ thể nhuộm đen.
 
-Có vẻ như việc trúng trọn chiêu 『Sát Na Nhất Thiểm』 đã gây ra vết thương cực kỳ nghiêm trọng. Ít nhất thì cậu ta không thể lập tức dùng ma khí để hồi phục và đứng dậy như trước được nữa.
+Việc trúng trọn nhát kiếm 『Sát Na Nhất Thiểm』 đã giáng một đòn chí mạng vào cơ thể cậu ta. Ít nhất thì lúc này, cậu ta không thể lập tức dùng ma lực hắc ám để tái tạo vết thương và đứng dậy như trước.
 
-Dù vậy, lòng căm thù của cậu ta vẫn không hề giảm đi dù chỉ một chút. Rerite hướng thẳng ánh mắt đỏ ngầu đã mất đi lý trí—nhưng lại thuần khiết đến đáng sợ bởi sát ý—về phía Yuuto, rồi bắt đầu bò tới.
+Dẫu vậy, ngọn lửa căm hờn trong mắt cậu ta vẫn không hề lụi tàn. Rerite hướng ánh nhìn đỏ ngầu đã mất đi nhân tính—nhưng lại sắc lạnh đến rợn người bởi sát niệm thuần túy—chằm chằm vào Yuuto, rồi bắt đầu trườn tới.
 
-Nếu không thể đứng dậy, cậu ta sẽ bò. Cậu ta nhất định phải tự tay giết chết Yuuto. Không một lời nói, Rerite chỉ dùng hành động để biểu đạt ý chí của mình.
+Chân không đứng vững thì cậu ta sẽ bò. Cậu ta phải tự tay nghiền nát Yuuto bằng mọi giá. Không cần thốt lên lời nào, Rerite dùng chính hành động tàn tạ của mình để khẳng định ý chí sắt đá ấy.
 
-Cứ như một con xác sống đang vồ lấy người sống, cậu ta vươn tay về phía Yuuto.
+Tựa như một thây ma khát máu đang vồ lấy người sống, cậu ta vươn cánh tay đầy máu về phía Yuuto.
 
-“Hỡi bảo ngọc của Nữ thần tối cao, xin hãy phong ấn bóng tối tà ác này—”
+“Hỡi bảo ngọc của Nữ thần tối cao, xin hãy phong tỏa màn đêm tội lỗi này—”
 
-Yuuto chủ động đưa tay ra đón lấy bàn tay đang vươn tới đầy sát ý của Rerite.
+Yuuto chủ động bước tới, đưa tay đón lấy bàn tay đang vươn ra đầy sát ý của Rerite.
 
-Sợi xích trắng quấn quanh đầu ngón tay trái của cậu tự động tháo rời—rồi lao thẳng về phía cánh tay của Rerite như một con rắn đang ngoạm lấy con mồi.
+Sợi xích trắng quấn quanh ngón tay trái của cậu lập tức bung ra—lao vút về phía cánh tay Rerite như mãng xà siết chặt con mồi.
 
 “GƯAAAAAAARGHHHHHHH!?”
 
-Một tiếng thét đau đớn chưa từng có vang dội khắp không gian.
+Một tiếng gào xé ruột xé gan vang dội khắp tầng sâu hầm ngục.
 
-『Bạch Bí Thạch』 truyền từ tay trái của Yuuto sang quấn chặt lấy cánh tay trái của Rerite, nhấp nháy dữ dội như đang giải phóng sức mạnh thánh khiết.
+『Bạch Bí Thạch』 truyền từ tay Yuuto sang quấn chặt lấy cổ tay trái của Rerite, tỏa sáng chớp nháy liên hồi như đang giải phóng toàn bộ năng lượng thánh tẩy.
 
-Không biết nỗi đau đớn khủng khiếp đến nhường nào đang giày xéo cơ thể, Rerite không còn tâm trí đâu để hướng sát ý về phía Yuuto nữa. Cậu ta quằn quại, lăn lộn dữ dội trên mặt đất như thể toàn thân đang bị thiêu đốt.
+Bị cơn đau đớn tột cùng xé toạc linh hồn và thể xác, Rerite không còn giữ nổi sát niệm nhắm vào Yuuto nữa. Cậu ta quằn quại, lăn lộn dữ dội trên nền đá như thể toàn thân đang bị thiêu rụi bởi thánh hỏa.
 
 “Ooooo... Gaaaaaa...”
 
-Cậu ta đã quằn quại trong đau đớn bao lâu rồi nhỉ? Khi ánh sáng từ viên bảo ngọc thánh khiết trên cánh tay trái dịu đi, Rerite cũng ngừng cử động.
+Tiếng gầm rên rỉ kéo dài trong bao lâu? Cho đến khi ánh sáng từ viên bảo ngọc trên cánh tay trái dịu dần rồi tắt hẳn, Rerite mới hoàn toàn ngừng cử động.
 
-“—Phong ấn thành công.”
+“—Phong ấn hoàn tất.”
 
-Yuuto mỉm cười nhìn xuống. Dưới chân cậu, cơ thể của Rerite đã trở lại bình thường.
+Yuuto mỉm cười cúi nhìn xuống. Dưới chân cậu, cơ thể Rerite đã dần thu hồi ma khí và trở lại bình thường.
 
-Cậu ta đã ngất đi, hay chỉ đang ngủ say như chết? Rerite nằm ngửa, chân tay dang rộng. Chỉ riêng cánh tay phải của cậu ta vẫn nhuộm một màu đen kịt, nhưng trên cánh tay trái, 『Bạch Bí Thạch』 đang tỏa ra ánh sáng dịu nhẹ.
+Cậu ta đã ngất lịm, hay chỉ đang chìm vào một giấc ngủ sâu? Rerite nằm ngửa, tứ chi buông thõng. Duy chỉ có cánh tay phải là vẫn vướng màu đen kịt, nhưng trên cổ tay trái, 『Bạch Bí Thạch』 đã tỏa ra ánh sáng ấm áp, êm dịu.
 
-“Thế này thì cậu sẽ không bị sức mạnh bóng tối làm cho điên loạn nữa rồi. Hãy yên giấc đi, Hayama.”
+“Thế này thì cậu sẽ không bị ma lực bóng tối thao túng nữa rồi. Hãy an nghỉ đi nhé, Hayama.”
 
-Vừa nói, Yuuto vừa đỡ cơ thể đổ gục của Rerite dậy rồi vác lên vai.
+Vừa dứt lời, Yuuto cúi người đỡ lấy thân thể mềm nhũn của Rerite rồi vác lên vai.
 
 “Cảm ơn cậu nhiều lắm, Takanashi-san. Nhờ có cậu mà tớ đã cứu được người đầu tiên rồi.”
 
-“Ừm, tuyệt quá rồi, Souma-kun!”
+“Ừm, tuyệt vời lắm, Souma-kun!”
 
-Trước giọng nói rạng rỡ của Kotori, Yuuto gật đầu đầy mãn nguyện.
+Trước tiếng đáp rạng rỡ của Kotori, Yuuto khẽ gật đầu đầy mãn nguyện.
 
-Vác Rerite đang bất tỉnh trên vai, cậu bước về phía Kotori—không, chính xác hơn là hướng về phía Thiên Tống Môn đang mở ra với ánh sáng trắng rực rỡ.
+Vác Rerite đang bất tỉnh trên vai, cậu cất bước tiến về phía Kotori—không, chính xác hơn là hướng thẳng tới Thiên Tống Môn đang tỏa ra luồng sáng trắng rực rỡ.
 
-“Nhưng không được lơ là đâu nhé. Dù đã bị dồn vào đường cùng, nhưng chắc chắn Momokawa vẫn chưa bỏ cuộc đâu.”
+“Nhưng tuyệt đối không được lơ là đâu nhé. Dù đã bị dồn vào chân tường, nhưng chắc chắn Momokawa vẫn chưa chịu từ bỏ đâu.”
 
-“Tớ biết chứ.”
+“Tớ hiểu mà.”
 
-Cậu biết rất rõ rằng trong lúc mình đối phó với Hayama, Kotori đã triệu hồi các triệu hoán thú Hộ Vệ Thiên Sứ để kiềm chế, không cho Kotarou xen vào phá bĩnh.
+Cậu biết rất rõ rằng trong lúc mình dốc sức đối phó với Hayama, Kotori đã triệu hồi các Thủ Hộ Thiên Sứ để phong tỏa, ngăn không cho Momokawa thừa cơ can thiệp.
 
-Trước mười Hộ Vệ Thiên Sứ được trang bị vũ khí cổ đại mạnh mẽ, nhóm Kotarou vốn đã kiệt sức dường như không thể làm gì được nữa. Hiện tại, tất cả những gì họ có thể làm chỉ là đứng nhìn Sakura triển khai 『Thánh Thiên Kết Giới』 để bảo vệ đồng đội trong thế giằng co.
+Trước mười Thủ Hộ Thiên Sứ trang bị vũ khí cổ đại uy lực, nhóm Momokawa vốn đã kiệt quệ dường như chẳng thể làm nên trò trống gì. Lúc này, tất cả những gì họ có thể làm chỉ là nép sau 『Thánh Thiên Kết Giới』 do Sakura căng ra để cố thủ trong thế giằng co.
 
-Nhìn cảnh đứa em gái yêu quý của mình bị tẩy não tàn nhẫn và đang liều mạng bảo vệ Kotarou khiến ruột gan cậu như sôi lên vì giận dữ, nhưng lúc này tính mạng của các bạn học vẫn là ưu tiên hàng đầu.
+Nhìn cảnh tượng người em gái yêu quý bị kẻ xấu tẩy não tàn độc, đang liều mạng bảo vệ tên đầu sỏ Momokawa khiến lồng ngực cậu như nghẹn lại vì phẫn nộ, nhưng lúc này an nguy tính mạng của các bạn học vẫn là ưu tiên số một.
 
-Bởi vì cậu chính là 『Dũng Giả』, người mang trên mình sứ mệnh phải cứu rỗi tất cả mọi người.
+Bởi vì cậu chính là 『Dũng Giả』, người gánh vác sứ mệnh cứu rỗi tất cả mọi người.
 
-“Trước tiên tớ sẽ gửi Hayama đi trước. Sau đó, tớ sẽ thuyết phục Sakura để giải phóng cho mọi người—”
+“Trước hết tớ sẽ đưa Hayama rời khỏi đây. Sau đó, tớ sẽ khuyên nhủ Sakura để giải thoát cho những người còn lại—”
 
-Giọng nói đang bàn kế hoạch cứu viện đồng đội dựa trên lợi thế hiện tại của Yuuto đột ngột bị cắt ngang bởi một tiếng gầm dữ tợn.
+Ý định giải cứu đồng đội dựa trên ưu thế áp đảo của Yuuto đột ngột bị cắt ngang bởi một tràng gầm rú dữ dội.
 
 “UWOOOOOOOOOOOOOOOON!”
 
@@ -180,52 +180,52 @@ Giọng nói đang bàn kế hoạch cứu viện đồng đội dựa trên l�
 
 “KYOWAAAAAAA!”
 
-Trước Thiên Tống Môn, một con sói đỏ đứng chặn đường. Từ kẽ răng nanh sắc nhọn đang gầm gừ của nó rỉ ra những tàn lửa đỏ, toàn thân bao bọc bởi luồng khí thế hừng hực như ngọn lửa đang bùng cháy.
+Ngay trước Thiên Tống Môn, một con sói đỏ rực đứng chặn đường. Từ kẽ nanh nhọn hoắt đang gầm gừ của nó phì ra những tia lửa đỏ rực, toàn thân tỏa ra luồng nhiệt lượng cuồn cuộn như ngọn đuốc sống.
 
-Tuy kích thước không quá lớn, nhưng nó lại tỏa ra áp lực và khí thế không khác gì một con ma vật Boss.
+Dù vóc dáng không quá đồ sộ, nhưng khí thế và áp lực nó tỏa ra chẳng khác nào một ma thú cấp Boss.
 
-Và ở bên cạnh nó, một chú mèo con với bộ lông trắng muốt vô cùng đáng yêu đang dựng ngược lông, nhe nanh vuốt. Ở phía đối diện, một chú rồng con vảy xanh đang dang rộng đôi cánh nhỏ hết cỡ, cất tiếng kêu lanh lảnh đầy đe dọa.
+Bên cạnh nó, một chú báo tuyết nhỏ với bộ lông trắng muốt đang dựng ngược lông, nhe nanh giương vuốt đầy cảnh giác. Ở phía đối diện, một chú rồng con vảy xanh biếc đang dang rộng đôi cánh nhỏ hết cỡ, cất tiếng thét lanh lảnh đầy tính thị uy.
 
-“Lũ ma vật này là sao... Sứ ma à?”
+“Lũ ma vật này từ đâu ra thế... Sứ ma sao?”
 
-Dù ba con vật thể hiện rõ địch ý, nhưng so với Rerite vừa rồi thì chúng hoàn toàn không phải là mối đe dọa. Chỉ có con sói đỏ là trông có vẻ chiến đấu được, còn mèo con và rồng con thì khỏi cần bận tâm.
+Dù cả ba sinh vật đều lộ rõ vẻ thù địch, nhưng so với một Rerite bạo tẩu lúc nãy thì chúng hoàn toàn không phải là đối thủ xứng tầm. Họa chăng chỉ có con sói đỏ là có chút khả năng tác chiến, còn chú mèo nhỏ cùng chú rồng con kia thì chẳng đáng bận tâm.
 
-Tuy nhiên, đề phòng trường hợp chúng sở hữu năng lực hung hãn trái ngược với vẻ ngoài, hoặc thứ độc dược chí mạng chuyên dùng để hạ gục kẻ địch ngay lần đầu chạm trán, Yuuto vẫn giữ cảnh giác ở mức nhất định... Nhưng có lẽ vì chúng là ma vật không biết nói tiếng người chăng? Yuuto nhanh chóng nhận ra ý đồ của ba con vật.
+Tuy nhiên, đề phòng việc chúng sở hữu dị năng nguy hiểm trái ngược với vẻ ngoài, hoặc nọc độc chuyên dùng để tập kích bất ngờ, Yuuto vẫn giữ vững cảnh giác ở mức cần thiết... Nhưng có lẽ vì chúng là ma thú không biết dùng lời nói chăng? Yuuto rất nhanh đã hiểu thấu tâm can của ba sinh linh nhỏ bé.
 
-“À, ra vậy. Các ngươi là sứ ma của Hayama sao.”
+“Thì ra là vậy. Các ngươi là sứ ma của Hayama.”
 
-Chúng không đơn thuần là hướng sát ý vào con người. Yuuto cảm nhận được rõ ràng ý chí cao cả của chúng khi đứng lên để bảo vệ và giành lại người quan trọng của mình.
+Chúng không đơn thuần chỉ là phát tiết sát ý với con người. Yuuto cảm nhận được rõ ràng ý chí kiên định của chúng khi liều mình xả thân để bảo vệ và đoạt lại người quan trọng nhất đối với mình.
 
-“Yên tâm đi, ta sẽ đưa các ngươi đi cùng cậu ấy. Thế nên bây giờ, hãy ngoan ngoãn một chút đi.—『Thương Lôi』.”
+“Cứ yên tâm, ta sẽ đưa các ngươi đi cùng cậu ấy. Thế nên bây giờ, hãy ngoan ngoãn một chút nhé. —『Thương Lôi』.”
 
-Ngay khi cậu chĩa mũi kiếm 『Thánh Hỏa Thương Lôi』 vừa rút ra về phía ba con vật đang đe dọa, một luồng lôi quang màu xanh lam lóe lên.
+Ngay khi cậu rút thanh 『Thánh Hỏa Thương Lôi』 và chĩa mũi kiếm về phía ba con thú, một luồng lôi quang xanh biếc lập tức bùng nổ.
 
 “Nna!?”
 
 “Kyuuuuuuuun!”
 
-Tia sét màu xanh phóng ra từ lưỡi kiếm lan tỏa rộng về phía trước, đánh thẳng vào mèo con và rồng con không chút nương tay. Luồng điện giật mạnh khiến cơ thể nhỏ bé của chúng lập tức tê cứng; chú mèo con đổ gục ngay tại chỗ, còn chú rồng con cũng rơi bịch xuống sàn nhà.
+Tia sét xanh phóng ra từ lưỡi kiếm quét ngang một vùng rộng lớn, đánh thẳng vào chú mèo nhỏ và chú rồng con không chút nương tay. Dòng điện áp cao khiến cơ thể bé nhỏ của chúng lập tức tê liệt; chú báo tuyết ngã quỵ ngay tại chỗ, còn chú rồng con cũng rớt bịch xuống mặt sàn.
 
 “UWOOOOOOOOOOOOOON!”
 
-Thế nhưng, riêng con sói đỏ đã nhanh nhẹn nhảy vọt lên để né tránh tia sét. Nó mượn đà nhảy qua luồng điện, lao thẳng tới hòng cắn đứt cổ họng của Yuuto.
+Thế nhưng, riêng con sói đỏ đã nhanh nhẹn bật nhảy lên không trung để né tránh tia sét. Nó mượn đà phóng qua màn điện giật, lao thẳng tới hòng ngoạm đứt cổ họng Yuuto.
 
-Nhưng đó là một nước đi sai lầm. Đối với Yuuto, dù là chú mèo con nằm im không thể kháng cự hay con sói dũng cảm lao vào tấn công, việc đối phó với chúng cũng chẳng có gì khác biệt.
+Một quyết định dũng cảm nhưng sai lầm. Đối với Yuuto, dù là con thú nằm bất động hay con sói liều mạng lao vào tấn công, kết quả đối phó cũng chẳng có gì khác biệt.
 
-“Đập bằng sống kiếm thôi. Chịu đau một chút nhé.”
+“Đập bằng sống kiếm thôi nhé. Chịu đau một chút vậy.”
 
-Thanh 『Thánh Hỏa Thương Lôi』 vung lên với tốc độ nhanh hơn cả mắt thường có thể nhìn thấy, chém—không, đập thẳng vào con sói đỏ đang lơ lửng giữa không trung không thể né tránh, kèm theo một tiếng sấm rền vang dội.
+Thanh 『Thánh Hỏa Thương Lôi』 vung lên với tốc độ vượt xa tầm mắt trần có thể bắt kịp, kèm theo tiếng sấm rền vang đập thẳng vào thân hình con sói đỏ đang lơ lửng giữa không trung.
 
-Cậu đã dùng sống kiếm đúng nghĩa đen, phía ngược lại với lưỡi kiếm sắc bén mang sức mạnh của lửa và sấm sét.
+Cậu đã dùng sống kiếm theo đúng nghĩa đen, mặt phẳng ngược lại với lưỡi kiếm sắc bén mang song thuộc tính hỏa lôi.
 
-Dù không phải là một nhát chém sắc lẹm cắt da xẻ thịt, nhưng cú đập bằng sống kiếm trúng ngay gáy cùng với luồng điện tê liệt đã lập tức khiến con sói im bặt.
+Dù không phải nhát chém chí mạng rách da xé thịt, nhưng cú đập trời giáng bằng sống kiếm trúng ngay sau gáy kết hợp cùng dòng điện tê liệt đã lập tức khiến con sói tắt lịm tiếng gầm.
 
 “Gừ...”
 
-Bị đánh trúng giữa không trung, con sói văng ngược trở lại, lăn lộn vài vòng rồi đổ gục ngay bên cạnh chú mèo con và rồng con.
+Bị đánh bật giữa không trung, con sói văng ngược trở lại, lăn lông lốc vài vòng rồi đổ gục ngay cạnh hai người bạn nhỏ của mình.
 
-Khi mọi thứ cuối cùng đã yên ắng trở lại, Yuuto cất thanh 『Thánh Hỏa Thương Lôi』 vào không gian ma pháp rồi tiếp tục bước đi—
+Khi mọi sự kháng cự đã hoàn toàn lắng xuống, Yuuto thu thanh 『Thánh Hỏa Thương Lôi』 vào không gian ma pháp rồi tiếp tục bước tới—
 
-“Vậy thì, Hayama. Hãy cùng các sứ ma của cậu rời khỏi hầm ngục này trước đi.”
+“Đi nào, Hayama. Cậu và các sứ ma của mình hãy rời khỏi hầm ngục này trước đi.”
 
-Cơ thể của Rerite dần bị nuốt chửng bởi ánh sáng trắng của Thiên Tống Môn rồi biến mất.
+Thân thể của Rerite cùng các sứ ma dần dần chìm ngập trong luồng ánh sáng trắng xóa của Thiên Tống Môn rồi biến mất hoàn toàn.

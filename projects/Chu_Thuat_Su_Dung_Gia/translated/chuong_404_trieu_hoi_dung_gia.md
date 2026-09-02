@@ -2,23 +2,23 @@
 
 “——Ôi, cuối cùng ngài cũng tỉnh lại rồi, ngài Dũng Giả.”
 
-Ngay khi vừa mở mắt, Souma Yuuto đã nghe thấy một giọng thiếu nữ dịu dàng như rót mật vào tai.
+Ngay khi vừa mở mắt, Souma Yuuto đã nghe thấy một giọng thiếu nữ êm ái tựa như rót mật vào tai.
 
-Tầm nhìn mờ ảo của cậu dần dần hồi phục, và dung mạo của chủ nhân giọng nói ấy bắt đầu hiện lên rõ nét.
+Tầm nhìn mờ ảo dần trở nên rõ nét, và dung mạo của chủ nhân giọng nói ấy bắt đầu hiện lên trước mắt cậu.
 
-Đó là một thiếu nữ tuyệt mỹ.
+Đó là một thiếu nữ mang vẻ đẹp nghiêng nước nghiêng thành.
 
-Mái tóc vàng kim ánh bạch kim suôn mượt như dòng thác, đôi mắt ngọc lục bảo tỏa sáng tĩnh lặng. Nàng sở hữu một gương mặt trắng ngần, tinh xảo tựa bức tượng búp bê sứ.
+Mái tóc bạch kim ánh vàng suôn mượt tựa dòng thác, đôi mắt màu ngọc lục bảo tỏa ra ánh nhìn tĩnh lặng, thuần khiết. Nàng sở hữu gương mặt trắng ngần, tinh xảo tựa như một bức tượng búp bê sứ hoàn mỹ.
 
-Khoác trên mình bộ pháp y trắng tinh khôi, toàn thân nàng tỏa ra vầng hào quang xanh nhạt dịu nhẹ.
+Khoác trên mình bộ thánh y trắng muốt tinh khôi, toàn thân nàng toát ra vầng hào quang xanh nhạt dịu nhẹ.
 
-Vẻ đẹp thoát tục cùng vầng sáng bao quanh ấy khiến nàng hoàn toàn xứng danh với hai chữ 『Thánh Nữ』.
+Nhan sắc thoát tục cùng khí chất thánh thiện bao bọc quanh người khiến nàng hoàn toàn xứng danh với hai chữ 『Thánh Nữ』.
 
 “C-Cô là...?”
 
-Giọng khản đặc, nhưng Yuuto vẫn cố gắng thốt lên câu hỏi.
+Bằng chất giọng khàn đặc, Yuuto cố gắng thốt lên từng lời.
 
-Nghe thấy lời cậu, thiếu nữ mỉm cười rạng rỡ, khẽ chỉnh lại tư thế rồi cất lời giới thiệu:
+Nghe thấy câu hỏi của cậu, thiếu nữ khẽ mỉm cười rạng rỡ, đoan trang chỉnh lại tư thế rồi cất lời giới thiệu:
 
 “Tên ta là Saristiane Godland Astoria. Ta là Nhị công chúa của Vương quốc Astoria, đồng thời cũng là 『Thánh Nữ』 của Pandora Thánh Giáo.”
 
@@ -26,49 +26,49 @@ Nghe thấy lời cậu, thiếu nữ mỉm cười rạng rỡ, khẽ chỉnh l
 
 “Vâng, ngài cứ gọi ta là Saris, thưa ngài Dũng Giả.”
 
-Cổ họng Yuuto nghẹn ứ khiến cậu không thể phát âm trọn vẹn cái tên dài dòng kia, nhưng Saris không hề bận tâm mà ân cần nói tiếp:
+Cổ họng Yuuto khô khốc nghẹn ứ khiến cậu không thể phát âm trọn vẹn cái tên dài dòng ấy, nhưng Saris không hề bận tâm mà ân cần tiếp lời:
 
 “Thưa ngài Dũng Giả, cơ thể ngài vẫn chưa hồi phục hoàn toàn đâu. Lúc này, xin ngài hãy nghỉ ngơi thêm một chút đi ạ.”
 
-Giọng nói ngọt ngào ấy êm dịu tựa khúc hát ru, như muốn kéo cậu chìm trở lại giấc nồng.
+Thanh âm ngọt ngào êm dịu tựa khúc hát ru, tựa hồ muốn dỗ dành ý thức cậu chìm trở lại vào giấc nồng.
 
-Yuuto thừa biết tình trạng cơ thể mình lúc này. Việc cậu tỉnh lại lúc này chỉ là một sự tình cờ; từng thớ thịt trên người cậu vẫn đang gào thét đòi hỏi được nghỉ ngơi.
+Yuuto thừa hiểu tình trạng cơ thể mình lúc này. Việc cậu có thể tỉnh lại chỉ là một sự gượng gạo tình cờ; từng thớ thịt, từng khớp xương trên người vẫn đang gào thét đòi hỏi được nghỉ ngơi.
 
-Thế nhưng cậu kiên quyết chống lại bản năng muốn buông xuôi ý thức, chậm rãi hít sâu một hơi.
+Thế nhưng, cậu kiên quyết cưỡng lại bản năng muốn buông xuôi, chậm rãi hít sâu một hơi.
 
 “——『Thương Công Ba Động』.”
 
-Cậu kích hoạt kỹ năng cường hóa, bao phủ lấy cơ thể bằng vầng hào quang ánh sáng.
+Cậu lập tức kích hoạt kỹ năng cường hóa, bao phủ lấy cơ thể bằng một vầng hào quang rực rỡ.
 
-Dù cơ thể kiệt quệ, nhưng có lẽ nhờ đã trải qua một giấc ngủ dài, ma lực của cậu đã hồi phục được phần nào. Chỉ cần có ý chí, cậu vẫn có thể vận dụng kỹ năng của Dũng Giả.
+Dù thể xác đã kiệt quệ, nhưng nhờ vừa trải qua một giấc ngủ dài nên ma lực của cậu đã hồi phục được đôi phần. Chỉ cần ý chí chưa lụi tàn, cậu vẫn có thể tự do vận dụng kỹ năng của Dũng Giả.
 
-Như thể vừa được ban phát ma pháp trị liệu, một luồng hào quang xanh trắng từ từ bao bọc lấy toàn thân Yuuto.
+Như thể vừa được ban phát ma pháp trị liệu cao cấp, luồng ánh sáng xanh trắng ấm áp từ từ bao bọc lấy toàn thân Yuuto.
 
 “Phùuu... Haaa...”
 
-Cậu vừa dùng hào quang để đánh thức cơ thể, vừa cố ý lặp lại phương pháp điều tức cơ bản của phái Souma một cách nhịp nhàng nhằm ổn định lại trạng thái.
+Cậu vừa dùng hào quang để đánh thức từng tế bào đang tê liệt, vừa nhịp nhàng lặp lại phương pháp điều tức cơ bản của phái kiếm Souma nhằm ổn định lại trạng thái tinh thần.
 
-Một khi đã tỉnh lại, cậu không thể tiếp tục ngủ vùi một cách vô tư lự thế này được nữa.
+Một khi đã mở mắt, cậu tuyệt đối không cho phép bản thân tiếp tục ngủ vùi một cách vô tư lự thế này nữa.
 
-Yuuto sực nhớ ra rằng mình có việc phải xác nhận ngay lập tức.
+Yuuto sực nhớ ra rằng mình có một việc vô cùng hệ trọng cần phải xác nhận ngay lập tức.
 
 “Ôi, ngài Dũng Giả, ngài không được gượng ép bản thân như vậy đâu.”
 
 “...Không sao. Tôi ổn mà, Saris.”
 
-Yuuto ngồi dậy bằng chút sức lực vừa tìm lại được, khẽ giơ tay ra hiệu cho Saris — người đang lộ vẻ bối rối — rằng mình không sao.
+Yuuto gượng ngồi dậy bằng chút thể lực vừa tìm lại được, khẽ giơ tay ra hiệu cho Saris — người đang lộ rõ vẻ bối rối — rằng mình không sao.
 
-Cậu đưa mắt nhìn quanh và nhận ra mình đang ở trong một gian phòng lộng lẫy tựa ngôi đền trắng uy nghiêm. Có lẽ để cậu dễ tĩnh dưỡng nên ánh sáng khá mờ ảo, song cậu vẫn có thể nhận ra những thức cột khổng lồ cùng các họa tiết trang trí tinh xảo kéo dài từ tường lên tận vòm trần.
+Cậu đưa mắt quan sát xung quanh và nhận ra mình đang ở trong một gian phòng lộng lẫy tựa như ngôi đền thánh uy nghiêm. Có lẽ để cậu tiện tĩnh dưỡng nên ánh sáng trong phòng khá mờ ảo, song cậu vẫn có thể nhận ra những thức cột khổng lồ cùng vô số hoa văn chạm trổ tinh xảo kéo dài từ vách tường lên tận vòm trần cao vút.
 
-Nơi này tạo cho cậu ảo giác như một góc nào đó của hầm ngục, nhưng bầu không khí xung quanh rõ ràng mang hơi thở sinh hoạt của con người. Nó khác hẳn với những phế tích cổ đại lạnh lẽo vốn chỉ được giữ gìn sạch sẽ.
+Khung cảnh nơi này tạo cho cậu ảo giác như đang lạc vào một góc nào đó của hầm ngục, nhưng bầu không khí bao quanh lại mang đậm hơi thở sinh hoạt thường nhật của con người. Nó khác hoàn toàn với những tàn tích cổ đại lạnh lẽo vốn chỉ được dọn dẹp sơ sài.
 
-Đối với một kẻ vừa tỉnh dậy ở nơi đất khách quê người như Yuuto, có hàng tá câu hỏi muốn dành cho thiếu nữ trước mặt. Thế nhưng, cậu quyết định gác lại tất cả để ưu tiên cho câu hỏi quan trọng nhất.
+Đối với một kẻ vừa tỉnh dậy ở nơi đất khách quê người như Yuuto, có hàng tá câu hỏi muốn dành cho thiếu nữ trước mặt. Thế nhưng, cậu quyết định gác lại tất cả để ưu tiên cho mối bận tâm lớn nhất trong lòng.
 
 “Đáng lẽ phải có hai cô gái đi cùng tôi. Họ có bình an vô sự không?”
 
-Yuuto nhìn thẳng vào mắt Saris, ánh mắt nghiêm nghị như muốn nói rằng cậu sẽ không chấp nhận bất kỳ lời dối trá hay lấp liếm nào.
+Yuuto nhìn thẳng vào mắt Saris, ánh mắt sắc lạnh và nghiêm nghị như muốn khẳng định rằng cậu sẽ không chấp nhận bất kỳ lời dối trá hay lấp liếm nào.
 
-Ký ức cuối cùng đọng lại trong tâm trí cậu là hình ảnh Natsukawa Minami đâm xuyên lưng cậu từ phía sau, và Lớp trưởng Kisaragi Ryouko ôm chặt lấy cậu từ phía trước để cùng kích hoạt ma pháp phong ấn băng.
+Ký ức cuối cùng đọng lại trong tâm trí cậu là khoảnh khắc Natsukawa Minami đâm xuyên lưng cậu từ phía sau, và Lớp trưởng Kisaragi Ryouko ôm chặt lấy cậu từ phía trước để cùng kích hoạt ma pháp phong ấn băng giá.
 
 Đó là giới hạn tột cùng của cậu, chính cậu cũng tự hiểu rõ điều đó. Một thất bại thảm hại không thể chối cãi.
 
@@ -78,7 +78,7 @@ Dù sở hữu sức mạnh Dũng Giả to lớn đến nhường ấy... cậu 
 
 “Vậy sao, tốt quá rồi... Họ là những người đồng đội không thể thay thế của tôi.”
 
-Nghe tin họ cũng được cứu sống như mình, Yuuto trút được gánh nặng trong lòng, thở phào nhẹ nhõm.
+Nghe tin hai người họ cũng được cứu sống như mình, Yuuto trút được tảng đá đè nặng trong lòng, thở phào nhẹ nhõm.
 
 Việc cô ấy đọc rõ ràng cả họ lẫn tên của hai người chứng tỏ không hề có sự nhầm lẫn nào ở đây.
 
@@ -118,7 +118,7 @@ Bởi lẽ nơi này có thực sự không có kẻ thù hay không, cậu ph�
 
 “Vâng, chính xác ạ. Đây là vương thành Astoria. Ngài Dũng Giả được đưa đến Y Tế Cung này để chữa trị, còn hai vị kia hiện đang nghỉ ngơi ở sảnh đón khách.”
 
-Xem ra bọn họ thực sự đã thoát ra ngoài bằng Thiên Tống Môn, linh cảm của cậu hoàn toàn chuẩn xác.
+Xem ra bọn họ thực sự đã thoát ra ngoài bằng 『Thiên Tống Môn』, linh cảm của cậu hoàn toàn chuẩn xác.
 
 Sau khi bị Lớp trưởng phong ấn vào khối băng vĩnh cửu, cậu đương nhiên không thể cảm nhận được thế giới bên ngoài nữa. Lúc đó cậu gần như đã chìm vào cõi hôn mê, nhưng cậu vẫn lờ mờ đoán được những diễn biến sau đó.
 
@@ -194,13 +194,13 @@ Khoảng thời gian ngắn ngủi trước khi lớp học hoàn toàn sụp đ
 
 Sau thời điểm đó, họ chỉ có thể gửi thông tin qua ma pháp trận tương tự như cách gửi thư điện tử, nhưng phía gửi hoàn toàn không thể kiểm soát được liệu người nhận trong hầm ngục có thể tiếp nhận được bao nhiêu phần trăm nội dung. Đó chính là lý do vì sao lượng thông tin về ma vật lại có sự chênh lệch rõ rệt giữa các cá nhân với nhau.
 
-“Việc có nên báo trước giới hạn số lượng người có thể thoát ra qua Thiên Tống Môn ngay từ đầu hay không vẫn luôn là một chủ đề gây tranh cãi gay gắt trong nội bộ chúng tôi suốt bấy lâu nay...”
+“Việc có nên báo trước giới hạn số lượng người có thể thoát ra qua 『Thiên Tống Môn』 ngay từ đầu hay không vẫn luôn là một chủ đề gây tranh cãi gay gắt trong nội bộ chúng tôi suốt bấy lâu nay...”
 
-Saris buồn bã giải thích rằng trong quá khứ, chính vì không thông báo giới hạn này từ sớm nên đã từng dẫn đến những thảm kịch tàn sát đẫm máu ngay trước thềm Thiên Tống Môn vào phút chót.
+Saris buồn bã giải thích rằng trong quá khứ, chính vì không thông báo giới hạn này từ sớm nên đã từng dẫn đến những thảm kịch tàn sát đẫm máu ngay trước thềm 『Thiên Tống Môn』 vào phút chót.
 
 “Quả nhiên ngoài chúng tôi ra, từ trước tới nay đã từng có những lớp học khác bị cuốn vào bi kịch này...”
 
-“Xét trên thực tế, cơ hội sống sót của họ là vô cùng mong manh. Chỉ cần có dẫu chỉ một người còn sống trở về đã là một kỳ tích may mắn tột cùng rồi. Con đường dẫn tới Thiên Tống Môn khắc nghiệt và tàn khốc đến nhường ấy đấy ạ.”
+“Xét trên thực tế, cơ hội sống sót của họ là vô cùng mong manh. Chỉ cần có dẫu chỉ một người còn sống trở về đã là một kỳ tích may mắn tột cùng rồi. Con đường dẫn tới 『Thiên Tống Môn』 khắc nghiệt và tàn khốc đến nhường ấy đấy ạ.”
 
 Điều đó chẳng cần cô ta phải nói thì chính cậu cũng đã nếm trải đến tận xương tủy.
 
@@ -268,7 +268,7 @@ Dứt lời nguyện cầu, nàng khẽ mở đôi mắt ngọc lục bảo lấ
 
 Sau khi bóng dáng của Saris khuất sau cánh cửa phòng, tôi lại buông mình nằm xuống chiếc giường để tiếp tục tịnh dưỡng.
 
-Nằm trên chiếc giường rộng lớn xa hoa tựa như một bệ tế thần đặt ngay giữa đại sảnh ngôi đền nguy nga này khiến tôi cảm thấy bức bối và không thoải mái chút nào. Nằm ngủ vùi trên thảm cỏ xanh mướt ở Quảng trường Tinh Linh năm nào tính ra còn dễ chịu hơn gấp bội phần.
+Nằm trên chiếc giường rộng lớn xa hoa tựa như một bệ tế thần đặt ngay giữa đại sảnh ngôi đền nguy nga này khiến tôi cảm thấy vô cùng bức bối. Nằm ngủ vùi trên thảm cỏ xanh mướt ở Quảng trường Tinh Linh năm nào tính ra còn dễ chịu hơn gấp bội phần.
 
 Dẫu vậy, khi ngửa mặt nhìn lên vòm trần cao vút, tôi không kìm được mà nở một nụ cười cay đắng đến thắt lòng.
 
@@ -278,7 +278,7 @@ Tôi vẫn chưa thể biết chắc liệu những lời Saris vừa nói có b
 
 Người đời vẫn thường bảo, một lời nói dối hoàn hảo nhất luôn được nhào nặn khéo léo cùng những sự thật trần trụi. Trên thực tế, có quá nhiều chi tiết nghe vô cùng hợp lý.
 
-Việc hầm ngục là phế tích cổ đại là sự thật, việc chúng tôi tiếp nhận thiên chức theo lời chỉ dẫn nơi ma pháp trận là sự thật, và sự tồn tại của Thiên Tống Môn để thoát thân ra ngoài cũng là sự thật hiển nhiên.
+Việc hầm ngục là phế tích cổ đại là sự thật, việc chúng tôi tiếp nhận thiên chức theo lời chỉ dẫn nơi ma pháp trận là sự thật, và sự tồn tại của 『Thiên Tống Môn』 để thoát thân ra ngoài cũng là sự thật hiển nhiên.
 
 Thế nhưng, liệu điều đó có đồng nghĩa với việc Pandora Thánh Giáo hay Vương quốc Astoria thực lòng xem chúng tôi là những nạn nhân đáng thương của một tai nạn bất hạnh, và đã dang rộng vòng tay cứu giúp hết mình hay không?
 

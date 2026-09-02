@@ -1,281 +1,283 @@
 # Tập 400: Thánh Giả Nước
 
-『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi hầm ngục bởi âm mưu của Takanashi.
+『Thủy Ma Thuật Sư』 Shimokawa Junnosuke đã bị trục xuất khỏi hầm ngục bởi mưu đồ của Takanashi.
 
-Nơi cậu bị ném tới là sa mạc lớn Avdran nóng bỏng. Tại tàn tích của một cổ đại đô thị ở đó, cậu đã gặp gỡ một thiếu nữ.
+Nơi cậu bị ném tới là đại sa mạc Avdran nóng bỏng như thiêu như đốt. Tại tàn tích của một cổ đại đô thị nơi đây, cậu đã tình cờ gặp gỡ một thiếu nữ.
 
-Latifa Saladina. Cô là một thiếu nữ mang số mệnh phải diệt vong nơi tận cùng của cát nóng này, sau khi thất bại trong cuộc chiến giữa các bộ tộc và phải dẫn theo 300 tộc nhân ít ỏi còn sống sót.
+Latifa Saladina. Cô là một thiếu nữ mang trên vai số mệnh diệt vong nơi tận cùng của biển cát bỏng rát này, sau khi thất bại trong cuộc chiến giữa các bộ tộc và buộc phải dẫn theo 300 tộc nhân ít ỏi còn sống sót lưu vong.
 
-Không biết do nhân duyên gì, cuộc gặp gỡ của hai người đã kết nối tương lai cho một bộ tộc tưởng chừng như sẽ biến mất. Và đối với Shimokawa, người chắc chắn không thể tự mình sinh tồn đơn độc giữa sa mạc này, đây cũng là một cuộc gặp gỡ kỳ diệu cứu mạng cậu.
+Không rõ do nhân duyên hay số phận đưa đẩy, cuộc tương ngộ giữa hai người đã mở ra tương lai cho một bộ tộc tưởng chừng như sắp sửa bị xóa sổ. Và đối với Shimokawa—kẻ cầm chắc cái chết nếu phải đơn độc sinh tồn giữa sa mạc hoang vu này, đây cũng là một cơ duyên kỳ diệu cứu lấy mạng sống của cậu.
 
-Không chỉ cung cấp đủ nước uống cho 300 người, Shimokawa, một 『Thủy Ma Thuật Sư』 có thể tạo ra lượng nước khổng lồ đủ để tắm rửa, đã được bộ tộc Saladina đón nhận như một đấng cứu thế và đồng hành cùng họ trong cuộc hành trình xa xôi.
+Không chỉ chu cấp đủ nước uống cho 300 con người, Shimokawa—một 『Thủy Ma Thuật Sư』 có thể tạo ra lượng nước khổng lồ đủ cho mọi người tắm rửa thỏa thích—đã được toàn thể bộ tộc Saladina tôn sùng như một đấng cứu thế, cùng họ đồng hành trên chặng hành trình xa xôi vạn dặm.
 
-“— Nguy rồi, nó đang lao tới kìa! Cẩn thận đấy, Lati!”
+“—Nguy rồi, nó đang lao tới kìa! Cẩn thận đấy, Lati!”
 
-Giữa bầu trời trong xanh không một gợn mây vang vọng tiếng gầm rú của mãnh thú, Shimokawa cũng hét lên không chịu thua kém.
+Giữa vòm trời xanh ngắt không một gợn mây vang vọng tiếng gầm rống của mãnh thú, Shimokawa cũng hét toáng lên chẳng chịu kém cạnh.
 
-Kẻ đang điên cuồng lao tới cùng tiếng gầm giận dữ chói tai và cát bụi mù mịt là một con bò tót khổng lồ.
+Kẻ đang điên cuồng lao tới cùng tiếng gầm xé tai và bụi cát mịt mù là một con bò tót khổng lồ.
 
-Shimokawa đã biết đó là Dandram, một quái vật dạng bò rừng bizon được bao bọc bởi lớp giáp đá, tuy là loài ăn cỏ nhưng tính khí vô cùng hung dữ.
+Shimokawa đã biết rõ danh tính của nó: Dandram. Loài ma vật dạng bò rừng bison được bao bọc bởi lớp giáp đá kiên cố, tuy bản tính là động vật ăn cỏ nhưng lại vô cùng hung hãn.
 
-Trong môi trường sa mạc khắc nghiệt này, chúng là nguồn thực phẩm quý giá có thể ăn được mà không gặp vấn đề gì. Bộ tộc Saladina vốn dĩ phải uống máu tươi của ma vật để bổ sung nước.
+Trong môi trường sa mạc khắc nghiệt này, chúng là nguồn thực phẩm vô cùng quý giá, có thể ăn được mà chẳng lo độc hại. Bộ tộc Saladina vốn dĩ từng phải uống máu tươi của ma vật chỉ để bổ sung lượng nước cho cơ thể.
 
-Dù Dandram là một con mồi quan trọng như vậy, nhưng con đang điên cuồng phá phách ở đây lại là một cá thể hung dữ và khổng lồ hiếm thấy.
+Dù Dandram là một con mồi trọng yếu như thế, nhưng cá thể đang lồng lộn điên cuồng ở đây lại to lớn và hung tợn đến mức hiếm thấy.
 
-Cơ thể bọc lớp giáp đá thô ráp đen kịt của nó gợi liên tưởng đến một chiếc xe bọc thép, hay một chiếc xe tải độ theo phong cách hậu tận thế. Đối mặt với con Dandram cỡ lớn đang điên cuồng lao đi trên con đường chết chóc, người đang lặng lẽ thủ thế kiếm chính là vị tộc trưởng trẻ tuổi của bộ tộc, Latifa.
+Thân hình đồ sộ bọc lớp giáp đá đen kịt thô ráp của nó khiến người ta liên tưởng tới một chiếc xe bọc thép, hay một cỗ xe tải hầm hố được độ lại theo phong cách hậu tận thế. Đối mặt với con Dandram khổng lồ đang điên cuồng càn quét trên con đường chết chóc, người đang lặng lẽ thủ thế rút kiếm chính là vị tộc trưởng trẻ tuổi của bộ tộc, Latifa.
 
-“— 『Xích Nhiệt Nhất Thiểm』.”
+“—『Xích Nhiệt Nhất Thiểm』.”
 
-Tên võ kỹ được thốt ra một cách lặng lẽ. Nhưng thanh kiếm vung lên lại vô cùng mãnh liệt.
+Tên chiêu thức được thốt lên thật khẽ khàng. Thế nhưng, đường kiếm vung ra lại mãnh liệt vô song.
 
-Từ lưỡi kiếm đột ngột nung đỏ rực, ngọn lửa bùng lên dữ dội, và Latifa lao đi với tốc độ cực nhanh như thể được bắn ra nhờ phản lực của ngọn lửa đó.
+Từ lưỡi kiếm đột ngột nung đỏ rực, ngọn lửa bùng phát dữ dội, và Latifa lao vút đi với tốc độ kinh hoàng như thể được phản lực của hỏa diễm bắn thẳng về phía trước.
 
-Mãnh thú điên cuồng và kiếm sĩ rực lửa lướt qua nhau chỉ trong một khoảnh khắc.
+Mãnh thú điên loạn và kiếm sĩ rực lửa lướt qua nhau chỉ trong một tích tắc.
 
-*UỲYYYYYYYYYYYYYYYYYYYNH —*
+*UỲYYYYYYYYYYYYYNH!*
 
-Phun ra luồng bộc phát lửa dữ dội từ bên hông, thân hình khổng lồ của Dandram đổ sụp xuống nền cát bụi.
+Phun ra một luồng bộc hỏa kinh hoàng từ bên mạn sườn, thân hình hộ pháp của con Dandram đổ rạp xuống nền cát bụi.
 
-Latifa không thèm ngoảnh lại, cô lặng lẽ tra lưỡi kiếm đã tắt lửa và nguội lạnh vào bao. Cô biết rõ rằng công việc của mình đã hoàn thành.
+Latifa thậm chí chẳng buồn ngoảnh đầu lại. Cô lặng lẽ tra lưỡi kiếm đã tắt lửa và nguội dần vào bao. Cô biết chắc rằng nhát chém của mình đã định đoạt tất cả.
 
 “Ngay bây giờ! Kết liễu nó đi!”
 
-“Húuuuuuu, con này to xác thật đấy!”
+“Húuuuuuu, con hàng này to xác thật đấy!”
 
-Dù phải chịu một đòn chém và đòn tấn công thuộc tính Hỏa cực mạnh vào hông, con quái vật với sức sống dẻo dai vẫn tiếp tục giãy giụa. Tuy nhiên, như để quyết không cho nó cơ hội gượng dậy lấy lại thăng bằng, các chiến sĩ trong bộ tộc liên tục đâm những ngọn thương xuống, hoàn toàn kết liễu con mồi.
+Dù đã hứng trọn một nhát chém cùng đòn hỏa kích cực mạnh vào sườn, con quái vật với sức sống dẻo dai vẫn không ngừng giãy giụa. Tuy nhiên, quyết không cho nó cơ hội ngóc đầu dậy, các chiến sĩ trong bộ tộc lập tức ùa tới, đồng loạt phóng những ngọn giáo dài xuống, hoàn toàn kết liễu con mồi.
 
-Cứ giao cho họ là ổn rồi. Thở phào nhẹ nhõm khi trận chiến đã ngã ngũ, Shimokawa tiến về phía Latifa.
+Cứ giao phần còn lại cho họ là ổn. Thở phào nhẹ nhõm khi cục diện đã an bài, Shimokawa cất bước tiến về phía Latifa.
 
-“Chà, kiếm thuật của Lati vẫn đỉnh thật đấy.”
+“Chà, kiếm thuật của Lati lúc nào cũng đỉnh thật đấy.”
 
-“Không có chi, kiếm thuật của ta vẫn còn non kém lắm... Với tư cách là một 『Viêm Kiếm Thuật Sĩ』, ta vẫn còn thua xa cha mình.”
+“Đâu có, kiếm thuật của ta vẫn còn non nớt lắm... Với tư cách là một 『Viêm Kiếm Thuật Sĩ』, ta vẫn còn thua xa phụ thân nhiều.”
 
-Khi Shimokawa nói với đôi mắt lấp lánh không giấu nổi sự ngưỡng mộ trước những chiêu kiếm lửa hoành tráng bọc trong lửa đỏ phát nổ đùng đoàng — thứ lãng mạn của đàn ông, Latifa cố gắng tỏ ra bình thản và đưa ra một câu trả lời khiêm tốn. May mắn thay, Shimokawa đã không nhận ra khóe môi cô đang khẽ mấp máy như muốn nở một nụ cười.
+Trước lời khen ngợi của Shimokawa với đôi mắt lấp lánh chẳng giấu nổi sự ngưỡng mộ dành cho những chiêu kiếm lửa rực rỡ, phát nổ đì đùng—thứ lãng mạn thuần túy của cánh đàn ông—Latifa cố giữ vẻ mặt điềm nhiên, buông ra lời đáp khiêm tốn. May mắn thay, Shimokawa đã không nhận ra khóe môi cô gái đang khẽ cong lên một nụ cười thẹn thùng.
 
-“Cô có bị thương không?”
+“Cô có bị thương ở đâu không?”
 
-“À, không sao, chỉ là vết xước nhẹ thôi.”
+“À, không sao đâu, chỉ là vết xước nhỏ thôi.”
 
-“Dù là vết xước thì vẫn là vết thương chứ.”
+“Dù là vết xước thì vẫn là vết thương mà.”
 
-Có lẽ do bị vướng vào gai trên lớp giáp đá khi lướt qua Dandram, trên cánh tay của Latifa có một vết trầy xước nhẹ.
+Có lẽ do va quẹt vào đám gai nhọn trên lớp giáp đá lúc lướt qua con Dandram, trên cẳng tay của Latifa xuất hiện một vệt rách da rớm máu.
 
-Shimokawa không ngần ngại nắm lấy cánh tay hơi ửng đỏ đó.
+Shimokawa chẳng mảy may ngần ngại, lập tức nắm lấy cánh tay hơi ửng đỏ ấy.
 
 “Á...”
 
-“Thật là, nếu để lại sẹo trên làn da đẹp đẽ này thì tính sao đây.”
+“Thật là, lỡ để lại sẹo trên làn da mịn màng thế này thì tính sao đây chứ.”
 
-Shimokawa, người thực sự nghĩ rằng việc để một mỹ nữ da nâu bị sẹo là điều không thể chấp nhận được, lập tức thi triển Thủy ma thuật của mình mà không chút do dự.
+Shimokawa—người thực lòng nghĩ rằng việc để một mỹ nhân da nâu mang sẹo là tội ác không thể tha thứ—lập tức thi triển Thủy ma thuật của mình mà chẳng chút chần chừ.
 
-“— 『Dược Hiệu Thánh Thủy』.”
+“—『Dược Hiệu Thánh Thủy』.”
 
-Khi Shimokawa đưa tay lên vết thương, một vệt sáng màu xanh lam nhạt lóe lên, và một chất lỏng sền sệt như chất nhầy nhỏ xuống. Nó uốn éo như một con slime rồi bao bọc lấy cánh tay của Latifa.
+Khi Shimokawa đưa bàn tay áp lên miệng vết thương, một quầng sáng màu lam nhạt lóe lên, chất lỏng sánh mịn tựa dịch nhầy bắt đầu rỉ ra. Nó uốn lượn như một khối slime mềm mại rồi nhanh chóng bao bọc lấy cẳng tay của Latifa.
 
-`『Dược Hiệu Thánh Thủy』`: Phép trị liệu thuộc tính Thủy mà Shimokawa đã học được trong cuộc hành trình gian khổ trên sa mạc. Ban đầu, cậu định chế tạo Re-potion, nhưng do quá thiếu thốn nguyên liệu, trong lúc chật vật tìm cách tạo ra thuốc hồi phục có khả năng chữa trị tốt nhất từ những nguyên liệu ít ỏi, cậu nhận ra rằng mình có thể hồi phục chỉ bằng nước của bản thân, và đã hoàn thiện nó thành một ma pháp trị liệu thực thụ. Khả năng chữa trị của nó tương đương với Re-potion được chế tạo tại Học Viện Tháp. Mặc dù kém hơn potion về tính tức thời và khả năng hồi phục, nhưng nó lại sở hữu hiệu quả vạn năng đối với mọi loại vết thương.
+『Dược Hiệu Thánh Thủy』: Ma pháp trị liệu thuộc tính Thủy mà Shimokawa đã tự mình lĩnh hội được trong chuỗi ngày bôn ba gian khổ giữa sa mạc. Ban đầu, cậu định điều chế Re-potion, nhưng vì quá thiếu thốn dược liệu, trong lúc chật vật tìm cách tạo ra thứ thuốc hồi phục tốt nhất từ những nguyên liệu ít ỏi còn lại, cậu chợt nhận ra mình hoàn toàn có thể chữa lành chỉ bằng chính dòng nước ma lực của bản thân, từ đó hoàn thiện nó thành một ma pháp trị thương thực thụ. Khả năng phục hồi của nó tương đương với Re-potion từng được chế tạo tại Học Viện Tháp. Dù kém hơn dược phẩm về tính tức thời và lượng hồi phục, nhưng nó lại mang lại hiệu quả vạn năng đối với hầu hết mọi loại thương tật.
 
-“Dù là vết thương nhỏ đến đâu tôi cũng nhất định sẽ chữa lành cho cô, nên có gì thì phải nói ngay đấy nhé.”
+“Dù là vết thương nhỏ đến đâu tôi cũng nhất định sẽ chữa lành cho cô, nên có đau ở đâu thì phải bảo ngay đấy nhé.”
 
-“V-Vâng... Cảm ơn ngài, thưa Thánh giả...”
+“V-Vâng... Tạ ơn ngài, thưa Thánh Giả...”
 
-Bị nhìn thẳng với vẻ mặt nghiêm túc và nghe những lời như vậy, Latifa lần này không thể giữ nổi vẻ bình tĩnh nữa, cô chỉ biết quay khuôn mặt đỏ bừng đi chỗ khác để che giấu sự ngượng ngùng.
+Bị nhìn thẳng thừng bằng ánh mắt nghiêm túc kèm theo những lời lẽ quan tâm dồn dập như vậy, Latifa lần này không thể giữ nổi sự bình tĩnh được nữa. Cô vội vã quay khuôn mặt đỏ bừng sang hướng khác để che giấu nỗi ngượng ngùng đang trào dâng.
 
-“Này, tôi cũng muốn cô đừng gọi tôi là Thánh giả nữa được không.”
+“Này, tôi đã bảo cô đừng gọi tôi là Thánh Giả nữa mà.”
 
-“Ư... Nhưng mà, chuyện đó... Trên thực tế, ngài không chỉ ban nước cho mọi người, mà còn thi triển cả thần kỹ trị liệu nữa.”
+“Ư... Nhưng mà, chuyện đó... Sự thật rành rành là ngài không chỉ ban phát nguồn nước cho muôn dân, mà còn thi triển cả thần kỹ trị liệu nữa cơ mà.”
 
-Ngay cả khi chưa có phép trị liệu, sự hiện diện của Shimokawa, người có thể tạo ra nước vô tận giữa lòng sa mạc, đã được tôn sùng như sứ giả do Thần Nước phái đến rồi. Đã vậy, hình ảnh cậu dùng ma pháp trị liệu mới học được để chữa trị vết thương cho mọi người không phân biệt đối xử lại càng khiến tộc nhân cảm nhận được một phép màu vĩ đại.
+Ngay cả khi chưa thức tỉnh phép trị thương, sự hiện diện của Shimokawa—kẻ có thể tạo ra nguồn nước vô tận giữa lòng sa mạc khô khốc—đã đủ để toàn thể bộ tộc tôn sùng như một sứ giả do Thần Nước phái xuống trần gian. Huống chi, cảnh tượng cậu dùng ma pháp trị liệu mới học được để tận tình cứu chữa cho từng người bất kể sang hèn lại càng khiến các tộc nhân tin chắc rằng đây là một phép màu vĩ đại.
 
-Vài thế là, danh xưng 『Thánh Giả Nước』 ra đời.
+Và thế là, danh xưng 『Thánh Giả Nước』 cứ thế ra đời.
 
-Tuy nhiên, đối với Shimokawa, vì các chiến sĩ sở hữu thiên chức cận chiến xuất sắc dẫn đầu bởi Latifa đã thừa sức giải quyết các ma vật sa mạc, cậu chỉ đang cố gắng hết sức làm những việc mình có thể để chứng minh giá trị của bản thân mà thôi.
+Thế nhưng với bản thân Shimokawa, giữa bối cảnh các chiến sĩ sở hữu thiên chức cận chiến ưu tú dưới sự dẫn dắt của Latifa đã dư sức thanh trừng ma vật sa mạc, cậu chỉ đang dốc hết sức làm những gì trong tầm tay để chứng minh giá trị sinh tồn của mình mà thôi.
 
-*Chỉ tạo nước và hồi phục thì có khác gì con Himeno chuyên đun nước tắm đâu chứ. Nếu có thằng Kotarou ở đây, chắc chắn nó sẽ giao cho mình những công việc không tưởng và bóc lột mình đến kiệt quệ cho mà xem.*
+*(Chỉ tạo nước với hồi phục vết thương thì khác quái gì con nhỏ Himeno chuyên đun nước tắm đâu cơ chứ. Nếu thằng Kotarou mà ở đây, thể nào nó cũng tống vào đầu mình cả đống nhiệm vụ trời ơi đất hỡi rồi vắt kiệt sức lao động cho mà xem.)*
 
-“Nhưng mà, tôi muốn Lati gọi tôi bằng tên cơ.”
+“Nhưng mà, tôi vẫn muốn Lati gọi tôi bằng tên cơ.”
 
 “!?”
 
-Trước phản ứng quay ngoắt cả người đi như bị điện giật của Lati, Shimokawa lập tức hối hận, tự hỏi phải chăng mình đã nói lời quá suồng sã.
+Trước phản ứng giật thót cả người như bị điện giật của Lati, Shimokawa lập tức cảm thấy hối hận, tự hỏi liệu mình có lỡ lời nói điều gì quá đỗi suồng sã hay không.
 
-Cậu nghĩ rằng có lẽ mình đã quá tham lam khi đòi hỏi điều đó từ Lati, người vốn luôn đối xử với cậu một cách cung kính như thể cậu là một vị hoàng tử phương nào, chỉ vì năng lực của cậu tình cờ lại là thứ họ cần nhất.
+Cậu tự nhủ có lẽ bản thân đã quá trớn khi đòi hỏi điều đó ở Lati—người từ trước tới nay luôn đối đãi với cậu cung kính chẳng khác nào một đấng vương tử cao quý, âu cũng chỉ vì cái năng lực của cậu tình cờ lại là thứ họ khao khát nhất.
 
 “V-Vậy thì... ta gọi ngài là... Juno... có được không...?”
 
-*Juno là ai thế nhỉ?* Shimokawa chợt nghĩ, nhưng rồi cậu nhận ra rằng yêu cầu một người dị giới phát âm chính xác cái tên "Shimokawa Junnosuke" là một đòi hỏi quá xa xỉ.
+*(Juno là ai thế nhỉ?)* Shimokawa thầm thắc mắc, nhưng rồi cậu nhanh chóng hiểu ra rằng việc bắt một cư dân dị giới phát âm tròn vành rõ chữ cái tên "Shimokawa Junnosuke" là một đòi hỏi quá đỗi xa xỉ.
 
-Hoặc có lẽ cô ấy đang cố phát âm chính xác là "Junnosuke", nhưng qua sự chuyển ngữ tiện lợi của kỹ năng thấu hiểu ngôn ngữ dị giới, nó lại lọt vào tai cậu thành "Juno".
+Hoặc có khi cô ấy đang cố phát âm đúng từ "Junnosuke", nhưng qua bộ lọc chuyển ngữ tiện lợi của kỹ năng thấu hiểu ngôn ngữ, âm thanh lọt vào tai cậu lại biến thành "Juno".
 
-Dù nguyên nhân là gì thì cách gọi này cũng không tệ. Thật lòng mà nói, Shimokawa không mấy mặn mà với cái tên của chính mình. Cậu thậm chí còn thấy nó có phần lỗi thời.
+Dù lý do là gì thì cái tên này nghe cũng chẳng tệ chút nào. Nói thật lòng, Shimokawa vốn chẳng mấy mặn mà với cái tên thật của mình. Cậu thậm chí còn thấy nó có phần già nua, cổ lỗ sĩ.
 
-Xét về điểm đó, biệt danh Juno nghe vừa giống một cái tên dị giới, lại vừa có âm điệu hay dựa trên tên gốc của cậu.
+Xét về khía cạnh đó, biệt danh "Juno" vừa mang âm hưởng của một cái tên dị giới, lại vừa có ngữ điệu êm tai bắt nguồn từ chính tên gốc của cậu.
 
 “Ừm, vậy từ giờ cứ gọi tôi là Juno nhé!”
 
-Vị Thánh Giả Nước mỉm cười rạng rỡ, và thiếu nữ trẻ tuổi e thẹn với biểu cảm của một cô gái đang yêu. Nhìn bóng dáng hai người, các chiến sĩ vừa kết liễu con Dandram dõi theo với vẻ mặt vô cùng nghiêm túc, rồi nhìn nhau gật đầu.
+Vị Thánh Giả Nước nở nụ cười rạng rỡ, còn thiếu nữ trẻ tuổi thì e thẹn ngập ngừng với biểu cảm chẳng khác nào một cô gái đang đắm chìm trong tình yêu.
 
-— “A, tốt quá rồi. Có vẻ như Thánh giả đã phải lòng tiểu thư Latifa.”
+Chứng kiến bóng lưng hai người, các chiến sĩ vừa hạ sát xong con Dandram dõi mắt nhìn theo với vẻ mặt vô cùng nghiêm túc, rồi nhìn nhau gật đầu tâm đắc.
 
-— “Tuyệt vời, vậy là bộ tộc Saladina chúng ta sẽ có được sự bảo hộ của Thần Nước.”
+— “A, tốt quá rồi. Xem chừng ngài Thánh Giả đã phải lòng tiểu thư Latifa rồi đấy.”
 
-— “Phải cử hành hôn lễ ngay lập tức thôi.”
+— “Tuyệt diệu, vậy là bộ tộc Saladina chúng ta từ nay sẽ có được sự che chở vĩnh viễn của Thần Nước.”
 
-— “Khoan đã, đó là hôn lễ với Thánh giả đấy. Trong tình trạng thiếu thốn đủ thứ thế này thì làm sao tổ chức một bữa tiệc tươm trước được.”
+— “Phải chuẩn bị cử hành hôn lễ ngay lập tức thôi!”
 
-— “Ừm, chúng ta phải nhanh chóng tìm được một nơi định cư an toàn.”
+— “Khoan đã, đó là hôn lễ với bậc Thánh Giả đấy nhé. Trong cảnh thiếu trước hụt sau thế này thì làm sao tổ chức một buổi yến tiệc cho ra hồn được.”
 
-— “Cũng chỉ cần kiên nhẫn thêm một chút nữa thôi. Xin cảm tạ các vị thần của Avdran và sự dẫn dắt của tổ tiên—”
+— “Ừ, chí phải. Chúng ta phải nhanh chóng tìm được một nơi định cư an toàn đã.”
 
-Chỉ có Shimokawa là vẫn chưa hề hay biết rằng các chướng ngại vật xung quanh mình đang dần bị dọn sạch để chuẩn bị cho một đám cưới.
+— “Cũng chỉ cần nhẫn nại thêm một chút nữa thôi. Xin đội ơn các vị thần linh của Avdran và sự dẫn lối của tiên tổ—”
 
-Họ đã tiếp tục bước đi suốt một tháng qua, giữa một nơi dễ khiến người ta lầm tưởng rằng những cồn cát thoai thoải kia sẽ kéo dài vô tận.
+Duy chỉ có Shimokawa là vẫn hoàn toàn mù tịt về việc mọi chướng ngại vật xung quanh mình đang dần bị dọn sạch để lót đường cho một lễ cưới trọng đại.
 
-Vừa săn bắn ma vật, vừa nhận lấy ân huệ từ những ốc đảo rải rác để làm lương thực qua ngày, hành trình của bộ tộc Saladina mà không để mất một mạng người nào cuối cùng cũng chuẩn bị đi đến hồi kết.
+Họ đã miệt mài lê bước suốt một tháng ròng rã, băng qua cái nơi dễ khiến người ta ngộ nhận rằng những cồn cát nhấp nhô kia sẽ trải dài bất tận đến vô cùng.
 
-“— Ồ, kia chính là 『Thung Lũng Tận Cùng』 sao!”
+Vừa đi săn ma vật, vừa đón nhận ân huệ từ những ốc đảo rải rác làm lương thực cầm hơi qua ngày, cuộc trường chinh của bộ tộc Saladina mà không để mất đi dù chỉ một mạng người cuối cùng cũng chuẩn bị chạm tới đích đến.
 
-Vừa vượt qua trận bão cát dữ dội, tầm nhìn đột ngột mở rộng và thứ đó hiện ra trước mắt họ.
+“—Ồ, kia chính là 『Thung Lũng Tận Cùng』 sao!”
 
-Phía bên kia cồn cát là những vách đá dựng đứng hiểm trở và bóng dáng của một ngọn núi hình tam giác khổng lồ cao vút xuyên qua những tầng mây.
+Vừa vượt qua được cơn bão cát cuồng nộ, tầm nhìn bỗng chốc mở toang, và khung cảnh hùng vĩ ấy đập thẳng vào mắt họ.
 
-Dù địa hình phía trước trông như thể con người không thể đặt chân tới, nhưng trên vách đá dựng đứng kia lại có một thung lũng được mở ra như thể đã được sắp đặt từ trước.
+Phía bên kia cồn cát là những vách đá dựng đứng cheo leo và bóng hình của một ngọn núi hình tam giác khổng lồ cao vút, đâm toạc cả những tầng mây.
 
-“Không sai được, đây chính là 『Thung Lũng Tận Cùng』... Cuối cùng chúng ta cũng đã tới được tận cùng của thế giới rồi sao.”
+Dẫu cho địa hình trước mặt trông hiểm trở như thể con người vĩnh viễn không thể đặt chân tới, nhưng xẻ dọc vách đá sừng sững kia lại là một thung lũng mở rộng ra như thể đã được an bài từ thuở hồng hoang.
 
-Bên cạnh Shimokawa đang reo hò phấn khích như một du khách đi tham quan, Latifa lặng lẽ ngắm nhìn điểm cuối của hành trình với vẻ mặt nghiêm nghị.
+“Không sai vào đâu được, đây chính là 『Thung Lũng Tận Cùng』... Cuối cùng chúng ta cũng đã chạm tới tận cùng của thế giới rồi sao.”
 
-“Đừng lộ vẻ lo lắng thế chứ. Hãy tin vào sức mạnh của chúng ta, những người đã đi được tới tận đây.”
+Bên cạnh một Shimokawa đang trầm trồ reo hò phấn khích chẳng khác nào du khách đi vãng cảnh, Latifa lặng lẽ phóng tầm mắt ngắm nhìn điểm dừng chân của cuộc hành trình bằng nét mặt trang nghiêm.
 
-Một lời lạc quan không có chút căn cứ nào. Dù vậy, Shimokawa vẫn nói ra vì cảm thấy không thể làm ngơ khi nhìn thấy vẻ mặt của Latifa.
+“Đừng mang vẻ mặt lo lắng thế chứ. Hãy tin vào sức mạnh của chúng ta, những người đã kiên cường vượt qua muôn trùng gian nan để đi tới tận đây.”
 
-Tuy nhiên, đó cũng không hẳn là những lời động viên sáo rỗng. Thời gian trôi qua chỉ vỏn vẹn một tháng. Thế nhưng, họ đã cùng nhau trải qua một cuộc hành trình khắc nghiệt, giao phó mạng sống cho nhau, một trải nghiệm đậm đặc không hề thua kém cuộc sinh tồn trong hầm ngục trước đây.
+Một lời lạc quan chẳng hề có lấy nửa phần căn cứ. Dẫu vậy, Shimokawa vẫn cất lời, bởi cậu cảm thấy bản thân không thể khoanh tay đứng nhìn dáng vẻ trĩu nặng âu lo của Latifa.
 
-Cậu đã nhớ hết mặt và tên của mọi người. Cậu cũng biết họ mạnh mẽ và đáng tin cậy đến nhường nào. Và bản thân cậu, với tư cách là một Thủy Ma Thuật Sư, cũng đã đạt được sự trưởng thành rõ rệt trong suốt chuyến đi.
+Thế nhưng, đó cũng không hẳn là những lời cổ vũ sáo rỗng. Thời gian trôi qua tuy chỉ vỏn vẹn một tháng ngắn ngủi. Ấy vậy mà, họ đã cùng nhau chia ngọt sẻ bùi, kinh qua một cuộc hành trình khắc nghiệt, phó thác tính mạng cho nhau—một trải nghiệm đậm đặc và gian khổ chẳng hề thua kém chuỗi ngày sinh tồn dưới đáy hầm ngục trước kia.
 
-Shimokawa đã tích lũy đủ kinh nghiệm để tự tin rằng dù có gặp phải khó khăn gì đi chăng nữa, họ vẫn có thể vượt qua.
+Cậu đã ghi nhớ tường tận gương mặt lẫn tên tuổi của từng tộc nhân. Cậu thấu hiểu họ dũng mãnh và đáng tin cậy đến nhường nào. Và bản thân cậu, với tư cách là một Thủy Ma Thuật Sư, cũng đã có được sự tiến bộ vượt bậc xuyên suốt chuyến đi.
 
-“Ừm, phải rồi... Đi thôi, đây chính là vùng đất hy vọng của chúng ta.”
+Shimokawa đã tích lũy đủ dày dạn kinh nghiệm để có thể tự tin rằng dù giông bão phía trước có trắc trở ra sao, họ vẫn sẽ đồng lòng vượt qua tất cả.
 
-`『Thung Lũng Tận Cùng』`. Đối với các bộ tộc sinh sống tại sa mạc lớn Avdran, nơi đó đồng nghĩa với tận cùng của thế giới.
+“Ừm, phải rồi... Đi thôi, đây chính là mảnh đất hy vọng của chúng ta.”
 
-Về mặt địa lý, nó thực sự nằm ở rìa phía Tây của sa mạc lớn, nhưng vốn dĩ một góc sa mạc không ai đặt chân tới thì lẽ ra chỉ là một vùng đất hoang sơ không có nổi một cái tên. Sở dĩ từ thời cổ đại, địa danh này đã được truyền tai nhau qua mọi bộ tộc với cái tên 『Thung Lũng Tận Cùng』 là bởi vì nơi đây từng tồn tại một vương đô huyền thoại phồn vinh nhất.
+『Thung Lũng Tận Cùng』. Đối với các bộ tộc sinh tồn tại đại sa mạc Avdran, địa danh ấy đồng nghĩa với điểm tận cùng của thế giới.
 
-Từ "tận cùng" ở đây không chỉ ám chỉ vị trí địa lý nằm ở rìa sa mạc. Nó mang ý nghĩa là điểm kết thúc, theo nghĩa vương đô đó giờ đây đã là một nơi hoang tàn đổ nát, không còn một bóng người sinh sống.
+Xét về mặt địa lý, nó thực sự tọa lạc ở rìa viễn tây của sa mạc mênh mông, nhưng vốn dĩ một góc hoang mạc hoang vu không người lui tới thì lẽ ra chỉ là một dải đất cằn cỗi chẳng đáng có lấy một cái tên. Sở dĩ từ thuở cổ xưa, địa danh này đã được truyền miệng qua bao thế hệ của mọi bộ tộc với cái danh 『Thung Lũng Tận Cùng』 là bởi nơi đây từng hiện diện một vương đô huyền thoại phồn thịnh bậc nhất.
 
-“Ra là vậy, quy mô của cổ đại đô thị này quả thực ngoài sức tưởng tượng...”
+Từ "tận cùng" ở đây không đơn thuần ám chỉ vị trí địa lý nơi ven rìa sa mạc. Nó mang hàm nghĩa về một điểm kết thúc, theo cái nghĩa rằng vương đô tráng lệ năm xưa giờ chỉ còn là một phế tích hoang tàn đổ nát, vắng bóng bóng người qua lại.
 
-Đã được nghe kể về nguồn gốc của 『Thung Lũng Tận Cùng』 từ trước, nên khi thực sự bước chân vào thung lũng, Shimokawa đã bị choáng ngợp bởi quy mô khổng lồ của cánh cổng cao ngút tầm mắt và hai bức tượng đá khổng lồ đang đổ nát ngự trị hai bên như những hộ vệ.
+“Ra là thế, quy mô của cổ đại đô thị này quả thực nằm ngoài sức tưởng tượng...”
 
-*Hình như mình từng thấy những tàn tích kiểu này ở các ngôi đền Ai Cập cổ đại thì phải...* Cậu nghĩ thầm, nhưng nhìn kỹ thì kiến trúc hoàn toàn khác biệt.
+Vốn đã được nghe kể về cội nguồn của 『Thung Lũng Tận Cùng』 từ trước, nên khi thực sự đặt chân vào lòng thung lũng, Shimokawa vẫn không khỏi bàng hoàng trước tầm vóc vĩ đại của cánh cổng cao ngút ngàn tầm mắt, cùng hai bức cự tượng bằng đá đang đổ nát nhưng vẫn sừng sững ngự trị hai bên tựa như những hộ vệ hộ pháp trung kiên.
 
-Những cây cột có thiết kế đường cong độc đáo, uốn lượn mềm mại dựng đứng lên, và cả hai bức tượng đá khổng lồ đều có hình dáng giống như những kị sĩ mặc giáp trụ đầy đủ.
+*(Hình như mình từng thấy mấy kiểu di tích thế này ở các ngôi đền Ai Cập cổ đại thì phải...)* Cậu thầm nhủ, nhưng nhìn kỹ lại thì đường nét kiến trúc hoàn toàn khác biệt.
 
-“Cảm giác có chút khác biệt so với hầm ngục kia nhỉ.”
+Những thức cột với thiết kế uốn lượn mềm mại độc đáo dựng đứng hiên ngang, và cả hai bức tượng đá khổng lồ đều mang dáng dấp của những kị sĩ khoác trên mình bộ trọng giáp uy nghiêm.
 
-Cậu nhớ kiến trúc trong hầm ngục mang phong cách phương Tây hoặc đền thờ Hy Lạp hơn. Tuy nhiên, vì ở một số khu vực cũng có những tòa nhà mang phong cách văn hóa hoàn toàn khác biệt, nên cậu không thể khẳng định chắc chắn đâu mới là kiến trúc gốc của nền văn minh cổ đại.
+“Cảm giác có chút khác biệt so với cái hầm ngục kia nhỉ.”
 
-“Với một tàn tích cổ đại khổng lồ thế này thì chắc chắn phải có thứ đó rồi—”
+Cậu nhớ kiến trúc bên trong hầm ngục mang hơi hướng phong cách phương Tây hoặc đền đài Hy Lạp cổ kính hơn. Dẫu vậy, vì ở một số phân khu cũng từng xuất hiện những công trình mang dấu ấn văn hóa dị biệt hoàn toàn, nên cậu chẳng dám đoan chắc đâu mới là phong cách gốc của nền văn minh cổ đại kia.
 
-Dù đã nói những lời vô căn cứ để động viên Latifa, nhưng khi thực sự tiến sâu vào thung lũng, Shimokawa cũng không khỏi thầm cầu nguyện lên vị thần của Thủy Ma Thuật Sư.
+“Với một phế tích cổ đại quy mô khổng lồ nhường này thì chắc chắn phải có thứ đó rồi—”
 
-Tại sao nhóm của Latifa lại nhắm tới 『Thung Lũng Tận Cùng』, nơi chỉ còn là tàn tích của một vương đô đã diệt vong?
+Dẫu vừa mới buông những lời vô căn cứ để xốc lại tinh thần cho Latifa, nhưng khi thực sự dấn sâu vào lòng thung lũng, đáy lòng Shimokawa cũng không nén nổi việc thầm cầu khấn lên vị thần hộ mệnh của Thủy Ma Thuật Sư.
 
-Tất nhiên, họ tuyệt đối không phải đang tìm kiếm một nơi để chôn thây, kiểu như muốn gửi gắm xương cốt ở cùng một nơi với những người cổ đại từng sở hữu vinh quang tột đỉnh.
+Rốt cuộc tại sao đoàn người của Latifa lại nhắm tới 『Thung Lũng Tận Cùng』—nơi vốn dĩ chỉ còn là đống gạch vụn của một vương triều đã lụi tàn?
 
-Tại đây có chứa đựng hy vọng duy nhất để một bộ tộc bị trục xuất có thể sinh tồn.
+Lẽ đương nhiên, họ tuyệt đối không phải lặn lội tìm tới đây để kiếm một nơi chôn thây, kiểu như muốn gửi gắm nắm xương tàn chung một chỗ với những cổ nhân từng nắm giữ vinh quang tột đỉnh.
 
-Và thứ đó chính là—
+Nơi đây đang cất giấu tia hy vọng duy nhất để một bộ tộc lưu vong bị trục xuất có thể tiếp tục sinh tồn.
 
-“A, có rồi... Thực sự có...”
+Và thứ đó, chính là—
 
-Khoảnh khắc nhìn thấy nó, Latifa kinh ngạc mở to mắt.
+“A, có rồi... Thực sự có rồi...”
 
-And Shimokawa, khi nhìn thấy ánh sáng trắng quen thuộc mà giờ đây mang lại cảm giác vô cùng hoài niệm, đã thầm đấm tay vào không trung ăn mừng vì lời cầu nguyện đã được hồi đáp.
+Khoảnh khắc thu trọn cảnh tượng ấy vào mắt, Latifa kinh ngạc mở to đôi mắt biếc.
 
-“Húuuuuuuu, tuyệt quá, là hầm ngục kìa!”
+Còn Shimokawa, khi nhìn thấy luồng quang mang sắc trắng thân quen mà giờ đây lại dâng lên một cảm giác hoài niệm khôn nguôi, cậu đã thầm siết chặt nắm đấm vung mạnh vào không trung để ăn mừng lời thỉnh cầu được hồi đáp.
 
-Thật mỉa mai làm sao khi cậu lại vui mừng đến thế khi tìm thấy hầm ngục, thứ mà trước đây cậu luôn khao khát được thoát ra bằng mọi giá.
+“Húuuuuuu, tuyệt đỉnh! Là hầm ngục kìa!”
 
-Tại một góc của tàn tích đô thị gần như đã bị san phẳng, một ma pháp trận dịch chuyển khổng lồ — lối vào của hầm ngục — vẫn đang tiếp tục tỏa ra ánh sáng trắng rực rỡ.
+Thật mỉa mai làm sao khi bản thân cậu lại có thể vui sướng đến phát cuồng lúc nhìn thấy lối vào hầm ngục—thứ mà trước đây cậu từng liều mạng tìm đủ mọi cách để trốn chạy bằng mọi giá.
 
-“— Chúng ta làm được rồi, thưa tiểu thư Latifa.”
+Tại một góc của phế tích đô thị gần như đã bị san phẳng hoàn toàn, một ma pháp trận dịch chuyển khổng lồ—cổng vào dẫn tới hầm ngục—vẫn đang không ngừng tỏa ra những vầng sáng trắng lung linh rực rỡ.
 
-“Bên trong hầm ngục là một khu rừng xanh tươi trù phú đúng như truyền thuyết đã ghi lại.”
+“—Chúng ta thành công rồi, thưa tiểu thư Latifa!”
 
-“Trước mắt, chúng tôi đã săn được một vài con mồi vừa tầm rồi đây!”
+“Bên trong hầm ngục quả thực là một khu rừng xanh tươi trù phú y hệt như những gì truyền thuyết cổ xưa ghi chép!”
 
-“Vậy sao, chuyến trinh sát nguy hiểm vừa rồi vất vả cho các ngươi rồi. Làm tốt lắm.”
+“Trước mắt, phân đội trinh sát chúng tôi đã săn được vài con mồi béo tốt mang về đây rồi!”
 
-Đội trinh sát đầu tiên đã trở về an toàn và báo cáo rằng tình hình bên trong hầm ngục hoàn toàn khớp với những gì được truyền lại.
+“Thế sao, chuyến trinh sát đầy rủi ro vừa rồi vất vả cho các ngươi quá. Làm tốt lắm.”
 
-Dù nơi tận cùng thế giới này chỉ toàn cát và đá, nhưng bên trong hầm ngục lại mở ra một vùng đất xanh tươi trù phú.
+Phân đội tiền trạm đầu tiên đã bình an trở về, hào hứng báo cáo rằng cục diện bên trong hầm ngục hoàn toàn trùng khớp với lời đồn đại ngàn đời.
 
-Nói cách khác, chỉ riêng bên trong hầm ngục mới có vô số con mồi và tài nguyên mà ngoài sa mạc không bao giờ có thể tìm thấy. Tất nhiên, vì đây là một hầm ngục tàn tích cổ đại, nên cũng sẽ có cả những kho báu là các di vật cổ đại cấp độ truyền thuyết.
+Dẫu nơi tận cùng bờ cõi này chỉ có cát bụi cùng sỏi đá khô cằn, nhưng ẩn sâu bên trong cánh cổng hầm ngục lại mở ra một mảnh đất màu mỡ bạt ngàn sắc xanh.
 
-Nếu có thể độc chiếm những thứ này, họ sẽ gầy dựng được một khối tài sản khổng lồ đến nhường nào.
+Nói cách khác, chỉ bên trong hầm ngục mới tồn tại vô số sản vật và nguồn tài nguyên phong phú mà chốn sa mạc khô khốc vĩnh viễn chẳng thể nào tìm thấy. Lẽ dĩ nhiên, bởi đây là tàn tích hầm ngục của nền văn minh cổ xưa, nên chắc chắn sẽ chôn giấu cả những kho báu cùng di vật cổ đại mang cấp bậc truyền thuyết.
 
-Trong quá khứ, một số bộ tộc lớn từng tin vào truyền thuyết và đã cử một lượng lớn người đến nhằm khai hoang và chiếm đoạt hầm ngục ở 『Thung Lũng Tận Cùng』. Không chỉ một hay hai lần, mà trong suốt lịch sử đã có rất nhiều lần như vậy.
+Nếu có thể độc chiếm được nơi này, sản nghiệp khổng lồ mà họ gầy dựng được sẽ lớn đến nhường nào.
 
-Tuy nhiên, chưa một lần nào họ thành công. Chắc hẳn cũng có một số người đã tới được đây. Ghi chép về những người trở về cũng vẫn còn tồn tại.
+Trong quá khứ, từng có không ít đại bộ tộc tin vào truyền thuyết mà phái đi lực lượng hùng hậu hòng khai khẩn và chiếm cứ hầm ngục nơi 『Thung Lũng Tận Cùng』. Không chỉ một hay hai lần, mà xuyên suốt dòng chảy lịch sử đã từng có vô số đợt xuất chinh như thế.
 
-Thế nhưng cuối cùng, việc khai hoang 『Thung Lũng Tận Cùng』 hoàn toàn không tiến triển và đều kết thúc trong thất bại ê chề.
+Thế nhưng, chưa một ai gặt hái được thành công. Hẳn là cũng có vài kẻ may mắn chạm chân tới đích. Những ghi chép về những kẻ sống sót trở về vẫn còn lưu lại rải rác.
 
-Điều đó cũng là lẽ đương nhiên, bởi nơi này nằm quá xa so với vùng đất sinh sống của các bộ tộc.
+Tuy nhiên, chung quy lại, công cuộc khai hoang 『Thung Lũng Tận Cùng』 hoàn toàn không thể tiến triển và đều kết thúc trong thất bại ê chề.
 
-Hơn nữa, dù bên trong hầm ngục có chôn giấu bao nhiêu tài nguyên trù phú và kho báu đi chăng nữa, thì đó vẫn là vùng đất nguy hiểm nơi ma vật hoành hành. Không có gì đảm bảo rằng họ luôn có thể thu hoạch một cách an toàn và ổn định.
+Âu đó cũng là lẽ tất nhiên, bởi địa điểm này nằm quá xa xôi so với lãnh địa sinh sống của các bộ tộc nơi đại sa mạc.
 
-Việc liên tục thực hiện các chuyến chinh phục hầm ngục ở một nơi xa xôi hẻo lánh như vậy sớm muộn gì cũng sẽ dẫn đến những tổn thất không thể cứu vãn, và việc thám hiểm hay chinh phục rơi vào bế tắc là kết cục tất yếu.
+Hơn thế nữa, dù bên trong hầm ngục có chứa chấp bao nhiêu tài nguyên trù phú cùng kho báu vô tận đi chăng nữa, thì nơi đó vẫn là chốn tử địa ngập tràn ma vật hung hãn hoành hành. Chẳng có gì bảo đảm rằng họ luôn có thể thu hoạch tài nguyên một cách bình yên và ổn định.
 
-“Hới các tộc nhân, cảm ơn mọi người vì đã tin tưởng và đi theo một vị tộc trưởng non trẻ như ta cho đến ngày hôm nay — Từ giờ trở đi, nơi này, chính địa điểm này sẽ là quê hương mới của chúng ta!”
+Việc liên tục phát động các chiến dịch chinh phục hầm ngục tại một nơi xa xôi cách trở muôn trùng như thế sớm muộn cũng sẽ dẫn tới những tổn thất không thể bù đắp, và việc thám hiểm hay đóng quân rơi vào ngõ cụt bế tắc là kết cục hiển nhiên phải tới.
 
-Dù vậy, đối với bộ tộc Saladina đã thất bại trong cuộc chiến và bị trục xuất, họ không còn hy vọng nào khác ngoài nơi này. Nơi duy nhất có đủ tài nguyên để họ sinh tồn, đồng thời giúp họ trốn thoát khỏi sự truy đuổi tàn khốc của bộ tộc thù địch, chỉ có thể là 『Thung Lũng Tận Cùng』.
+“Hỡi các tộc nhân! Tạ ơn mọi người vì đã luôn đặt trọn niềm tin và dõi theo một vị tộc trưởng non nớt như ta cho tới tận ngày hôm nay! Kể từ giây phút này, chính mảnh đất này, nơi này sẽ trở thành quê hương mới của chúng ta!”
 
-Họ cũng có thể sẽ phải gánh chịu số phận tương tự như những người đi trước liều lĩnh. Thậm chí, khả năng đó còn cao hơn rất nhiều.
+Dẫu vậy, đối với bộ tộc Saladina đã thảm bại trong cuộc chiến vương quyền và bị trục xuất lưu đày, họ làm gì còn tia hy vọng nào khác ngoài chốn này. Nơi duy nhất có đủ tài nguyên giúp họ duy trì sự sống, đồng thời giũ sạch sự truy lùng tàn bạo của bộ tộc kẻ thù, chỉ có thể là 『Thung Lũng Tận Cùng』 mà thôi.
 
-Dù vậy, họ vẫn không từ bỏ. Họ không thể dập tắt ngọn lửa hy vọng.
+Họ hoàn toàn có thể sẽ phải dẫm vào vết xe đổ, gánh chịu bi kịch tương tự như bao kẻ liều lĩnh đi trước. Thậm chí, xác suất đó còn cao hơn gấp bội phần.
 
-Ngọn lửa hy vọng mà họ hằng gìn giữ giờ đây đã hóa thành một đám cháy lớn đỏ rực, bùng cháy dữ dội.
+Nhưng dẫu vậy, họ vẫn quyết không từ bỏ. Ngọn lửa hy vọng trong tim họ không thể nào bị dập tắt.
 
-“Phép màu đã xảy ra. Trước mắt chúng ta, Thánh Giả Nước, ngài Juno đã xuất hiện!”
+Ngọn lửa hy vọng âm ỉ mà họ hằng nâng niu bấy lâu nay, giờ đây đã bùng lên thành một đám cháy rực lửa đỏ thắm, thiêu đốt cuồn cuộn.
+
+“Phép màu đã thực sự giáng thế! Ngay trước mắt chúng ta, bậc Thánh Giả Nước—ngài Juno tôn kính đã xuất hiện!”
 
 “...”
 
-*Làm ơn đừng có tâng bốc tôi lên như kiệu thần thế chứ,* dù nghĩ vậy, nhưng Shimokawa không thể phá hỏng bài phát biểu dũng cảm của Latifa trước những tộc nhân cuối cùng cũng đã đến được đích và đang khóc nức nở vì vui sướng xen lẫn cảm giác thành tựu.
+*(Làm ơn đừng có nâng tôi lên tận chín tầng mây như kiệu thần thế chứ...)* Dù trong bụng thầm than vãn, nhưng Shimokawa làm sao nỡ phá hỏng bài diễn thuyết đầy hào hùng của Latifa trước những tộc nhân cuối cùng cũng đã đặt chân tới đích đến, những con người đang bật khóc nức nở vì nỗi hân hoan tột cùng xen lẫn niềm tự hào khôn xiết.
 
-Công việc của Shimokawa lúc này chỉ là đứng nghiêm chỉnh bên cạnh cô, cố gắng hết sức giữ vẻ mặt nghiêm nghị để tăng thêm phần uy nghiêm cho bản thân.
+Nhiệm vụ duy nhất của Shimokawa lúc này là đứng thẳng lưng bên cạnh cô, cố gắng hết sức giữ vẻ mặt trang nghiêm để tăng thêm đôi phần uy phong lẫm liệt cho chính mình.
 
-“Và đúng như truyền thuyết, tại đây có một hầm ngục thực sự! Một vùng đất rộng lớn, xanh tươi trù phú chưa từng có ai nhìn thấy đang mở ra phía sau cánh cổng!”
+“Và đúng như truyền thuyết cổ truyền lại, nơi đây thực sự tồn tại một hầm ngục! Một vùng đất bạt ngàn, xanh tươi trù phú mà chưa từng một ai được diện kiến đang mở rộng ra phía sau cánh cổng!”
 
-*Ồ, hóa ra họ gọi ma pháp trận dịch chuyển ở lối vào hầm ngục là cổng à,* trong khi nghĩ ngợi vẩn vơ như chuyện của ai khác, Shimokawa vẫn tập trung vào nhiệm vụ của mình. Cậu gật đầu phụ họa theo những lời của Latifa với vẻ mặt nghiêm trang.
+*(Ồ, hóa ra bọn họ gọi ma pháp trận dịch chuyển ở lối vào hầm ngục là cổng à...)* Trong khi đầu óc vẫn lơ lửng nghĩ ngợi những chuyện bao đồng chẳng liên quan, Shimokawa vẫn chăm chú hoàn thành vai trò của mình. Cậu khẽ gật đầu phụ họa theo từng lời hùng hồn của Latifa bằng nét mặt nghiêm nghị nhất có thể.
 
-“Hãy tin tưởng đi, bộ tộc Saladina của chúng ta sẽ hồi sinh. Không, mọi chuyện giờ mới thực sự bắt đầu!”
+“Hãy vững tin! Bộ tộc Saladina của chúng ta nhất định sẽ hồi sinh mạnh mẽ! Không, tất cả giờ mới chỉ là sự khởi đầu!”
 
-Latifa giơ cao tay hét lớn, trông cô vô cùng oai nghiêm và xinh đẹp.
+Latifa vung cao cánh tay hét lớn, phong thái của cô toát lên vẻ uy nghiêm và diễm lệ đến nghẹt thở.
 
-*Đây chính là thứ gọi là khí chất thủ lĩnh (charisma) nhỉ,* Shimokawa thong thả so sánh Latifa với Kotarou trong đầu để suy ngẫm về hình mẫu nhà lãnh đạo lý tưởng.
+*(Đây chính là thứ mà người ta gọi là khí chất lãnh tụ—charisma nhỉ...)* Shimokawa nhàn nhã so sánh Latifa với Kotarou trong tâm trí để chiêm nghiệm về hình mẫu của một người dẫn đầu lý tưởng.
 
-Quả nhiên, người đứng đầu thiên hạ nếu không sở hữu sức hút lôi cuốn bẩm sinh, thì cũng phải là một kẻ tâm thần (psycho) sẵn sàng coi người khác như công cụ để lợi dụng triệt để. Cậu một lần nữa nhận ra rằng một kẻ tầm thường như mình — ngoại hình lẫn năng lực đều bình thường, dù học trường chuyên nhưng lại thích tỏ vẻ làm loạn — hoàn toàn không thể đảm nhận nổi vị trí đó.
+Quả nhiên, kẻ đứng trên đỉnh cao quyền lực nếu không sở hữu mị lực lôi cuốn bẩm sinh thì ắt hẳn phải là một tên biến thái bệnh hoạn (psycho), sẵn sàng xem người khác như những quân cờ công cụ để bóc lột triệt để. Cậu một lần nữa thấm thía sâu sắc rằng một kẻ tầm thường như mình—từ diện mạo tới năng lực đều chẳng có gì nổi trội, tuy học trường chuyên lớp chọn nhưng lại thích đú đởn làm loạn—vĩnh viễn không tài nào gánh vác nổi trọng trách ấy.
 
-“Chúng ta có sự bảo hộ của Thần Nước! Nhất định Saladina sẽ tiêu diệt lũ Zeal đáng ghét kia, và ngự trị với tư cách là những kẻ thống trị chính thống của Avdran!!”
+“Chúng ta có được sự bảo hộ linh thiêng của Thần Nước! Nhất định Saladina sẽ nghiền nát lũ Zeal đê tiện kia, hiên ngang ngự trị với tư cách là những kẻ thống trị tối cao và chính thống của Avdran này!!”
 
 “Hả?”
 
 *ỒOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!*
 
-Tiếng kêu thốt ra từ miệng Shimokawa lập tức bị nuốt chửng bởi tiếng reo hò vang dội thấu tận trời xanh.
+Tiếng thốt ngỡ ngàng vừa bật ra khỏi cổ họng Shimokawa đã lập tức bị nhấn chìm hoàn toàn bởi tiếng hò reo cuồng nhiệt vang rền chấn động cả mây xanh.
 
-“Hãy cứ tận hưởng chút vinh quang ngắn ngủi lúc này đi, hỡi lũ Zeal. Các ngươi tuyệt đối không thể trốn thoát khỏi sự báo thù của chúng ta đâu. Hỡi các tộc nhân, quyết không được quên đi nỗi sỉ nhục này. Cho đến thời khắc phục hận, hãy tiếp tục thổi bùng ngọn lửa giận dữ, mài sắc lưỡi kiếm căm thù!”
+“Hãy cứ tận hưởng chút vinh quang ngắn ngủi lúc này đi, hỡi lũ Zeal khốn kiếp! Lũ các ngươi tuyệt đối không thể trốn thoát khỏi lưỡi đao báo thù của chúng ta đâu! Hỡi toàn thể tộc nhân, quyết không bao giờ được phép lãng quên mối nhục nhã khắc cốt ghi tâm này! Cho tới thời khắc rửa hận, hãy tiếp tục thổi bùng ngọn lửa căm phẫn, mài sắc lưỡi gươm thù hận trong tim!!”
 
 “...”
 
-*Khoan đã nào, hình như có gì đó sai sai so với những gì mình nghĩ.*
+*(Khoan đã nào, hình như... mọi chuyện đang đi theo cái hướng quái đản nào đó lệch hẳn so với những gì mình tưởng tượng thì phải?!)*
 
-Cậu cứ ngỡ cả nhóm sẽ chỉ sống một cuộc đời giản dị tại đây, thỉnh thoảng vào hầm ngục thu hoạch tài nguyên là đủ. Nếu được thì cưới thêm một cô vợ da nâu xinh đẹp, cậu vốn chỉ nghĩ ngợi một cách thong thả như thế, vậy mà...
+Cậu cứ đinh ninh rằng cả đám sẽ chỉ an cư lạc nghiệp, sống một cuộc đời êm đềm giản dị tại nơi này, thỉnh thoảng tạt vào hầm ngục kiếm chút tài nguyên cải thiện bữa ăn là đủ mãn nguyện. Nếu được thì cưới thêm một cô vợ da nâu bốc lửa xinh đẹp, cuộc đời thế là viên mãn. Cậu vốn chỉ thong thả mơ mộng như thế thôi, vậy mà...
 
-“Quyết không tha thứ cho lũ Zeal đã phạm phải đại tội phá vỡ luật lệ! Hãy tự tay thực hiện cuộc báo thù! Hãy giành lại vinh quang của Avdran về tay chúng ta!!”
+“Quyết không dung thứ cho lũ Zeal đã phạm phải đại tội xé bỏ minh ước! Hãy tự tay chúng ta thực thi cuộc báo thù đẫm máu này! Hãy đoạt lại vinh quang tối thượng của Avdran về tay Saladina!!”
 
-Giữa bầu không khí nóng hừng hực và cuồng nhiệt tột độ, Shimokawa bắt đầu cảm thấy hối hận vì có vẻ như mình đã gia nhập vào một băng nhóm cực kỳ nguy hiểm, thế nhưng...
+Giữa bầu không khí sôi sục như muốn nung chảy da thịt và cuồng loạn đến đỉnh điểm, Shimokawa bắt đầu cảm thấy rùng mình hối hận vì xem chừng mình đã lỡ bước chân vào một băng đảng hiếu chiến cực kỳ nguy hiểm, thế nhưng...
 
-“M-Mà thôi, chuyện đâu rồi cũng có đó thôi.”
+“M-Mà thôi kệ đi, thuyền đến đầu cầu tự nhiên thẳng, chuyện đâu rồi cũng có đó thôi.”
 
-Shimokawa đã không nhận ra rằng việc dừng suy nghĩ và phó mặc cho sự lạc quan chính là điểm khác biệt chí mạng giữa cậu và Kotarou, người luôn chuẩn bị cho những tình huống quản trị rủi ro tồi tệ nhất.
+Shimokawa hoàn toàn chẳng nhận thức được rằng, chính cái thói quen ngừng tư duy và phó mặc cho sự lạc quan tếu táo này mới là điểm khác biệt chí mạng giữa cậu và Kotarou—kẻ luôn tính toán trước mọi đường đi nước bước cho những kịch bản tồi tệ nhất trần đời.

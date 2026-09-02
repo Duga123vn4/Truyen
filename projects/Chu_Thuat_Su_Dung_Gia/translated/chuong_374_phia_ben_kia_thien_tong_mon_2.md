@@ -2,17 +2,17 @@
 
 “Momokawa.”
 
-“HỰ!?”
+“Hự!?”
 
 Trước tiên, mũi kiếm của Yuuto khẽ lướt qua một đường ngọt sớt, rạch một vết cắt nông trên gò má mang nét phi giới tính của Kotarou.
 
-Kotarou vốn sở hữu chú thuật 『Song Ảnh』 tạo ra phân thân giống hệt người thật, và đồng thời sở hữu 『Phản Hồi Sát Thương』 giúp phản trả 100% mọi vết thương của bản thể lên người kẻ tấn công. Để nhanh chóng phân biệt thật giả, Yuuto không hề quên phương pháp thử nghiệm đơn giản bằng một vết chém nhỏ này.
+Kotarou vốn sở hữu chú thuật 『Song Ảnh』 có thể tạo ra phân thân giống hệt người thật, đồng thời sở hữu 『Phản Phục Thống Khổ』 giúp phản trả 100% mọi thương tổn của bản thể lên người kẻ tấn công. Để nhanh chóng phân biệt thật giả, Yuuto không hề quên phương pháp thử nghiệm đơn giản bằng một vết chém nhỏ này.
 
-Kết quả phán định lập tức xuất hiện ngay tức thì. Trên gò má của chính bản thân Yuuto chỉ xuất hiện một vết xước nông do cô em gái vừa rạch lúc nãy, câu trả lời đã rõ như ban ngày:
+Kết quả phán định lập tức xuất hiện ngay tức thì. Trên gò má của bản thân Yuuto chỉ có vết xước nông do cô em gái vừa rạch lúc nãy, câu trả lời đã rõ như ban ngày:
 
 “Quả nhiên... chỉ là phân thân thôi sao.”
 
-Một luồng ma lực hắc ám đồng chất với khí tức mà Rerite từng phát ra khi bạo tẩu liền bùng nổ, hóa thành những hạt bụi ma lực màu đen tuyền bắn tung tóe như máu tươi, thân xác phân thân của Kotarou ngã gục xuống sàn rồi nhanh chóng tan biến không để lại một dấu vết.
+Một luồng ma lực hắc ám đồng chất với khí tức mà Rerite từng phát ra khi bạo tẩu bùng nổ, hóa thành những hạt bụi ma lực đen tuyền bắn tung tóe như máu tươi. Thân xác phân thân của Kotarou ngã gục xuống sàn rồi nhanh chóng tan biến không để lại một dấu vết.
 
 “Và xem chừng... bản thể thực sự cũng không hề có ý định bước ra nghênh chiến nhỉ.”
 
@@ -22,21 +22,21 @@ Dẫu biết chắc bản thể của Kotarou vẫn còn sống sót ở một n
 
 “Lớp trưởng, Natsukawa-san, Randou-san... Mau lên, nhân lúc này hãy nhanh chóng rời khỏi đây đi!”
 
-“...Nếu tôi bảo 'TỪ CHỐI'... thì Yuuto-kun định làm gì?”
+“...Nếu tôi bảo ‘TỪ CHỐI’... thì Yuuto-kun định làm gì?”
 
-“Chuyện đó còn phải hỏi sao! Giống hệt như Hayama lúc nãy, dẫu có phải đánh ngất các cậu, tôi cũng sẽ tống toàn bộ qua Thiên Tống Môn!”
+“Chuyện đó còn phải hỏi sao! Giống hệt như Hayama lúc nãy, dẫu có phải đánh ngất các cậu, tôi cũng sẽ tống toàn bộ qua 『Thiên Tống Môn』!”
 
 Một khi Sakura đã ngã gục bất tỉnh, những người còn lại chỉ là một Ryouko và Kyouko đã cạn kiệt ma lực, cùng một Minami tuy còn chút thể lực nhưng phong cách chiến đấu hoàn toàn không phù hợp để bảo bọc người khác.
 
-Dẫu họ có liều mạng phản kháng thì việc khống chế và bắt giữ cũng dễ như trở bàn tay — Yuuto hoàn toàn nắm chắc điều đó. Thanh kiếm 『Thánh Kiếm Ánh Sáng』 vừa chém tan Kotarou đã được cậu ta thu hồi khỏi tay.
+Dẫu họ có liều mạng phản kháng thì việc khống chế và bắt giữ cũng dễ như trở bàn tay — Yuuto hoàn toàn nắm chắc điều đó. Cậu thu hồi thanh 『Thánh Kiếm Ánh Sáng』 vừa chém tan Kotarou về lại trong tay.
 
 “Thật là đáng sợ làm sao... Yuuto-kun không nghe những lời Sakura vừa nói sao? Cậu đang chuẩn bị tống toàn bộ chúng tôi tới một nơi vô danh tăm tối để mặc cho chúng tôi chết bờ chết bụi đấy!”
 
-“Dùng lời lẽ xảo ngôn để lung lạc lòng người... điều đó chẳng giống phong cách của Lớp trưởng chút nào cả. Những gì tôi cần làm thì vẫn không hề thay đổi: Trước hết tôi sẽ dịch chuyển toàn bộ mọi người tới một nơi an toàn tuyệt đối, và sau đó sẽ tìm cách giải trừ thuật tẩy não cho các cậu!”
+“Dùng lời lẽ xảo biện để lung lạc lòng người... điều đó chẳng giống phong cách của Lớp trưởng chút nào cả. Những gì tôi cần làm vẫn không hề thay đổi: Trước hết tôi sẽ dịch chuyển toàn bộ mọi người tới một nơi an toàn tuyệt đối, và sau đó sẽ tìm cách giải trừ thuật tẩy não cho các cậu!”
 
 “Dẫu tôi có bảo rằng người đang bị tẩy não ở đây chính là Yuuto-kun... thì chắc cậu cũng chẳng thèm tin đâu nhỉ...”
 
-Nhìn thấy Ryouko cúi gầm mặt xuống với vẻ mặt buông xuôi tuyệt vọng, Yuuto thở phào nhẹ nhõm khi ngỡ rằng cô ấy đã không còn lý lẽ nào để cãi lại. Dẫu biết rõ họ đang bị tà thuật thao túng tâm trí, nhưng việc phải hứng chịu những lời lẽ cay độc từ chính những người bạn học quan trọng vẫn là một đòn giáng vô cùng đau đớn.
+Nhìn thấy Ryouko cúi gầm mặt với vẻ buông xuôi tuyệt vọng, Yuuto thở phào nhẹ nhõm khi ngỡ rằng cô ấy đã không còn lý lẽ nào để cãi lại. Dẫu biết rõ họ đang bị tà thuật thao túng tâm trí, nhưng việc phải hứng chịu những lời lẽ cay độc từ chính những người bạn học quan trọng vẫn là một đòn giáng vô cùng đau đớn.
 
 Chưa kể việc chính tay mình đánh ngất cô em gái yêu quý nhất cũng khiến trái tim cậu ta dao động dữ dội hơn tưởng tượng.
 
@@ -56,9 +56,9 @@ Bởi vì một lưỡi dao găm sắc bén lóe lên ánh thép lạnh ngắt l
 
 “——TÔI SẼ TỰ KẾT LIỄU ĐỜI MÌNH NGAY TẠI CHỖ NÀY!”
 
-Bàn tay đang nắm chặt cán dao... chính là đôi bàn tay run rẩy của chính Ryouko! Cô ấy tự dí dao vào yết hầu của chính mình!
+Bàn tay đang nắm chặt cán dao... chính là đôi bàn tay run rẩy của Ryouko! Cô tự dí dao vào yết hầu của chính mình!
 
-Ryouko đã biến chính bản thân mình thành CON TIN để phong tỏa hoàn toàn mọi hành động của Dũng Giả Souma!
+Ryouko đã biến bản thân thành CON TIN để phong tỏa hoàn toàn mọi hành động của Dũng Giả Souma!
 
 “Minami, Randou-san, mau chĩa vũ khí vào người tôi mau!”
 
@@ -68,7 +68,7 @@ Ryouko đã biến chính bản thân mình thành CON TIN để phong tỏa ho�
 
 “Nếu chỉ có một mình tôi, với tốc độ của Yuuto-kun, cậu ấy thừa sức chớp sơ hở để đánh văng con dao trên tay tôi. Thế nhưng nếu có thêm hai người cùng chĩa vũ khí sát thương vào điểm yếu của tôi, dẫu có là Dũng Giả cũng tuyệt đối không thể tùy tiện lao vào!”
 
-Trước hành vi điên rồ liều mạng bất ngờ của Ryouko, hai cô bạn dẫu bàng hoàng tột độ nhưng rơi vào bước đường cùng này rồi, họ không còn quyền được do dự!
+Trước hành vi điên rồ liều mạng bất ngờ của Ryouko, hai cô bạn dẫu bàng hoàng tột độ nhưng khi đã rơi vào bước đường cùng này, họ không còn quyền do dự!
 
 Quan trọng hơn cả: Hành động của Yuuto thực sự đã bị khựng lại hoàn toàn! Sự do dự của cậu ta chứng minh lời đe dọa của Ryouko đang phát huy tác dụng tối đa!
 
@@ -78,9 +78,9 @@ Kyouko chĩa nòng súng lục hoàng kim, còn Minami kề thanh đại đao �
 
 “Lớp trưởng! Mau dừng cái trò điên rồ ấy lại ngay! Sơ sẩy một chút là cậu sẽ mất mạng thật đấy có biết không hả!?”
 
-“Đúng vậy đấy! Chỉ cần Yuuto-kun manh động di chuyển dù chỉ một chút, tôi có thể sẽ 'lỡ tay' đâm chết chính mình đấy! Dù là tôi, Minami hay Randou-san, chỉ cần một người trượt tay là mọi chuyện sẽ chấm dứt ngay!”
+“Đúng vậy đấy! Chỉ cần Yuuto-kun manh động di chuyển dù chỉ một chút, tôi có thể sẽ ‘lỡ tay’ đâm chết chính mình đấy! Dù là tôi, Minami hay Randou-san, chỉ cần một người trượt tay là mọi chuyện sẽ chấm dứt ngay!”
 
-Dĩ nhiên họ đời nào có ý định tự sát thật, và Minami cùng Kyouko cũng tuyệt đối không bao giờ làm tổn thương Ryouko. Thế nhưng dẫu biết là đóng kịch, nhìn thấy ba lưỡi hung khí sắc bén kề sát vào tử huyệt như thế, không một ai có thể giữ nổi sự bình tĩnh!
+Dĩ nhiên họ đời nào có ý định tự sát thật, và Minami cùng Kyouko cũng tuyệt đối không bao giờ làm tổn thương Ryouko. Thế nhưng dẫu biết là đóng kịch, nhìn thấy ba lưỡi hung khí sắc bén kề sát vào tử huyệt như thế, không một ai có thể giữ nổi bình tĩnh!
 
 Chỉ cần một sự cố ngoài ý muốn, Ryouko sẽ phải gánh chịu vết thương chí mạng ngay lập tức! Chính cái rủi ro mong manh nghìn cân treo sợi tóc ấy đã trói chặt đôi chân của Dũng Giả Souma, khiến cậu ta không dám manh động dùng vũ lực cưỡng chế!
 
@@ -102,17 +102,17 @@ Thế nhưng phương án cứu cánh tối thượng ấy đã bị chính tay 
 
 “Cậu có ý thức được mình đang làm cái gì không hả!? Cậu đang bị tên Momokawa thao túng nên mới làm ra những hành vi mất trí này đấy! Làm ơn hãy tỉnh lại đi!”
 
-“Đồ ngu xuẩn! Nếu Momokawa-kun mà thao túng được tôi, cậu ấy đã sớm bắt tôi tự sát để thị uy trước mặt cậu từ đời nào rồi! Chính Yuuto-kun mới là kẻ cần phải tỉnh ngộ khi đang rắp tâm dùng Thiên Tống Môn để lưu đày toàn bộ bạn học vào chỗ chết đấy!”
+“Đồ ngu xuẩn! Nếu Momokawa-kun mà thao túng được tôi, cậu ấy đã sớm bắt tôi tự sát để thị uy trước mặt cậu từ đời nào rồi! Chính Yuuto-kun mới là kẻ cần phải tỉnh ngộ khi đang rắp tâm dùng 『Thiên Tống Môn』 để lưu đày toàn bộ bạn học vào chỗ chết đấy!”
 
 “Đã bảo chuyện đó là vì——”
 
 Một cuộc đấu khẩu bế tắc và căng thẳng cứ thế tiếp diễn.
 
-Dĩ nhiên Yuuto đời nào chịu buông bỏ vũ khí lùi bước, cậu ta chỉ đứng chôn chân tại chỗ liên tục cất tiếng khuyên can. Ngược lại Ryouko cũng tuyệt đối không chịu nhượng bộ, dùng cả lý lẽ đanh thép lẫn những ngụy biện sắc bén để bẻ gãy từng lời thuyết phục của đối phương.
+Dĩ nhiên Yuuto đời nào chịu buông bỏ vũ khí lùi bước, cậu chỉ đứng chôn chân tại chỗ liên tục cất tiếng khuyên can. Ngược lại Ryouko cũng tuyệt đối không chịu nhượng bộ, dùng cả lý lẽ đanh thép lẫn những ngụy biện sắc bén để bẻ gãy từng lời thuyết phục của đối phương.
 
 Một khi cả hai bên đều đinh ninh rằng đối phương đang bị tà thuật tẩy não, thì việc giải quyết bằng tranh luận là điều hoàn toàn bất khả thi. Thế nhưng trong khi Yuuto dốc hết tâm can để khuyên can, thì Ryouko lại chẳng hề có ý định thuyết phục cậu ta.
 
-Thứ duy nhất cô ấy cần lúc này chính là: **THỜI GIAN!**
+Thứ duy nhất cô cần lúc này chính là: **THỜI GIAN!**
 
 Nếu chỉ bằng mồm mép mà làm Yuuto tỉnh ngộ được thì những lời khóc lóc của Sakura lúc nãy đã phát huy tác dụng rồi.
 
@@ -128,7 +128,7 @@ Thế nhưng, sự kiên nhẫn giả tạo ấy cuối cùng cũng chạm tới
 
 Người bất thần cất tiếng xen ngang chính là Takanashi Kotori!
 
-*Không phải Yuuto mà là con nhỏ Kotori tự mình ra tay sao!?* — Trực giác mách bảo nguy hiểm, Ryouko liền lập tức nâng cao cảnh giác tột độ dồn toàn bộ sự chú ý về phía cô ta.
+*Không phải Yuuto mà là con nhỏ Kotori tự mình ra tay sao!?* — Trực giác mách bảo nguy hiểm, Ryouko liền lập tức nâng cao cảnh giác tột độ, dồn toàn bộ sự chú ý về phía cô ta.
 
 “Không sao đâu, bình tĩnh lại nào Souma-kun. Tớ có cách để cứu Lớp trưởng một cách an toàn tuyệt đối mà, nhé?”
 
@@ -148,7 +148,7 @@ Giọng điệu nũng nịu tỏ vẻ dễ thương giả tạo ấy khiến Ryo
 
 Thế nhưng trước mặt Souma, việc cô ta tiếp tục đóng vai một thiếu nữ nhỏ nhắn, nhút nhát nhưng kiên cường là điều đương nhiên.
 
-Màn kịch giả nai dẫu đạt điểm 10 trơ trẽn, nhưng uy lực của **『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』 (Kyozetsu no Kotoba)** lại là sức mạnh tuyệt đối có thật!
+Màn kịch giả nai dẫu đạt điểm mười trơ trẽn, nhưng uy lực của **『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』 (Kyozetsu no Kotoba)** lại là sức mạnh tuyệt đối có thật!
 
 Một luồng áp lực vô hình kinh hoàng lập tức khóa chặt toàn bộ cơ bắp và khớp xương, giam cầm ba người trong trạng thái bất động như tượng đá!
 
@@ -278,7 +278,7 @@ Bạch Tật Phong đã lao thẳng tới ngay trước mặt Kotori!
 
 Không hề có đau đớn, bởi vì Bạch Tật Phong không thể phá vỡ 『Thánh Thiên Kết Giới』. Thế nhưng thứ mà nó phóng ra không phải là sát thương vật lý, mà chính là **『THIỂM QUANG』 (Flash)!**
 
-Một màn pháo sáng chói lòa phát nổ liên hoàn như máy bay chiến đấu thả mồi bẫy nhiệt (flare), nhuộm trắng xóa toàn bộ không gian xung quanh!
+Một màn pháo sáng chói lòa phát nổ liên hoàn như máy bay chiến đấu thả mồi bẫy nhiệt, nhuộm trắng xóa toàn bộ không gian xung quanh!
 
 “Khốn kiếp... Ả-Ả... Sakura đâu rồi...!?”
 

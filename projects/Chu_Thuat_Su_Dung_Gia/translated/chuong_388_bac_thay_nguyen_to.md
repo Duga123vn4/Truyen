@@ -2,15 +2,15 @@
 
 “Uầy, đùa nhau à, chết tiệt... Cô ta dịch chuyển thật rồi.”
 
-Một hành động nông nổi đến mức khó tin.
+Một hành động nông nổi đến mức không thể tin nổi.
 
-Làm lại từ đầu á? Chuyện hoang đường đó mà cũng được chấp nhận sao? Làm quái gì có chuyện mụ nữ thần chết tiệt kia lại nhân từ đến thế chứ.
+Làm lại từ đầu sao? Chuyện hoang đường nhường ấy mà cũng dám mơ tưởng ư? Làm quái gì có chuyện mụ nữ thần chết tiệt kia lại nhân từ đến mức độ đó chứ.
 
-Đã dọn sẵn đường đi nước bước, ban cho cả cheat lẫn tri thức mà vẫn làm hỏng bét sứ mệnh nuôi dưỡng Dũng Giả, thì kẻ vô dụng đó làm sao có cửa được trao thêm cơ hội thứ hai. Dù nghĩ thế nào thì việc chuẩn bị một Hiền Giả mới thay thế vẫn tối ưu hơn nhiều.
+Đã dọn sẵn đường đi nước bước, ban cho cả cheat lẫn tri thức tối thượng mà vẫn làm hỏng bét sứ mệnh nuôi dưỡng Dũng Giả, thì kẻ bất tài vô dụng đó làm sao có cửa được trao thêm cơ hội thứ hai. Dù nghĩ theo bất kỳ hướng nào, việc triệu hồi một Hiền Giả mới thay thế vẫn tối ưu và đỡ phiền phức hơn nhiều.
 
-Thế nhưng, phải, thế nhưng... kẻ ngu xuẩn thực sự chính là kẻ vẫn đâm đầu vào làm dù biết rõ là bất khả thi. Sự thật hay mưu đồ thực sự ra sao chẳng còn quan trọng. Chúng chỉ biết bám víu lấy cái ảo tưởng ngọt ngào mang tên hy vọng—thứ có lợi nhất cho bản thân—cho đến tận lúc chết mà thôi.
+Thế nhưng, phải rồi... kẻ ngu xuẩn thực sự chính là kẻ vẫn cứ đâm đầu vào làm dù biết rõ mười mươi là điều bất khả. Sự thật hiển nhiên hay mưu đồ thực sự của thần linh ra sao chẳng còn quan trọng nữa. Chúng chỉ biết bám víu lấy cái ảo tưởng ngọt ngào mang tên hy vọng—thứ phù hợp và có lợi nhất cho bản thân—cho đến tận giây phút lìa đời mà thôi.
 
-Và sự lựa chọn mù quáng của Takanashi, thật trớ trêu thay, lại đang mang lại hiệu quả đe dọa cực kỳ khủng khiếp nhắm thẳng vào chúng tôi ngay lúc này.
+Và sự lựa chọn mù quáng của Takanashi, thật trớ trêu thay, lại đang tạo ra hiệu quả đe dọa cực kỳ khủng khiếp nhắm thẳng vào chúng tôi ngay lúc này.
 
 “B-Bỏ cuộc đi, Kotori! Làm sao có chuyện làm lại từ đầu được chứ!”
 
@@ -18,29 +18,29 @@ Và sự lựa chọn mù quáng của Takanashi, thật trớ trêu thay, lại
 
 Trước lời khuyên can vô cùng chí lý của Sakura, Takanashi gào thét điên cuồng như một đứa con nít đang lên cơn tam bành.
 
-Có lẽ chính bản thân cô ta cũng tự ý thức được rằng mình đã phạm phải một sai lầm không thể cứu vãn và mọi chuyện đã quá muộn màng.
+Có lẽ chính bản thân cô ta cũng tự ý thức được rằng mình vừa phạm phải một sai lầm không thể nào cứu vãn, và mọi chuyện đã trôi qua điểm có thể quay đầu.
 
-Dẫu vậy, vì không thể chịu đựng nổi tình cảnh bị dồn vào chân tường, cô ta chỉ đang trốn tránh thực tại bằng cách trút sạch cơn thịnh nộ lên những kẻ thù trước mắt là chúng tôi.
+Dẫu vậy, vì không thể chịu đựng nổi tình cảnh bị dồn vào chân tường, cô ta chỉ đang trốn tránh thực tại bằng cách trút sạch cơn thịnh nộ cuồng loạn lên những kẻ thù trước mắt là chúng tôi.
 
-Đừng có đùa. Bị cuốn vào trò giận cá chém thớt trẻ con của cô ta rồi chết chùm á? Còn lâu tôi mới chịu nhé.
+Đừng có đùa chứ. Bị cuốn vào trò giận cá chém thớt trẻ con của cô ta rồi chết chùm ở cái xó này ư? Còn lâu tôi mới chịu nhé.
 
 “Kotarou, tình hình đằng kia tệ lắm đấy.”
 
 “Ừ, tớ biết rồi.”
 
-*Biết thì biết thế, nhưng gay go thật rồi, phải làm sao đây.*
+*Biết thì biết thế, nhưng gay go thực sự rồi, phải làm sao đây.*
 
 Phía chúng tôi đã mất đi con tin duy nhất, còn Takanashi thì chuẩn bị phát động con robot khổng lồ—thứ vũ khí cổ đại tối thượng—nổi điên càn quét.
 
-Trong khi đó, lực lượng chiến đấu còn lại của tôi lúc này chỉ có Mei-chan và Sakura. Himeno thì hoàn toàn nằm ngoài vòng chiến.
+Trong khi đó, lực lượng chiến đấu còn lại bên cạnh tôi lúc này chỉ có Mei-chan và Sakura. Airi thì hoàn toàn nằm ngoài vòng chiến.
 
 “Bom khói!”
 
-Vừa hét lớn, tôi vừa vung tay ném ra hàng loạt quả cầu khói mù.
+Vừa hét lớn, tôi vừa vung tay ném ra hàng loạt quả cầu khói mù mịt.
 
 Trước mắt chỉ còn cách rút lui. Ít nhất, nếu không thoát khỏi tầm ngắm của con robot khổng lồ—Đại Thủ Hộ Thiên Sứ 『Giga Michaela』—kẻ đang chực chờ phóng thích chùm tia hủy diệt kia, thì chúng tôi chẳng thể làm ăn được gì.
 
-Không sao, chắc chắn vẫn còn lối thoát. Takanashi đang mất kiểm soát trong cơn hoảng loạn tột cùng, đầu óc cô ta không còn tỉnh táo. Đại Thủ Hộ Thiên Sứ trông cũng đã tàn tạ phân nửa, chỉ đang gượng ép vận hành. Nếu có thể đánh trúng linh kiện trung khu bên trong nó, việc vô hiệu hóa cỗ máy này không phải là điều bất khả thi.
+Không sao, chắc chắn vẫn còn lối thoát. Takanashi đang mất kiểm soát trong cơn hoảng loạn tột cùng, đầu óc cô ta không còn tỉnh táo. Đại Thủ Hộ Thiên Sứ trông cũng đã tàn tạ phân nửa, chỉ đang gượng ép vận hành. Nếu có thể đánh trúng linh kiện trung khu bên trong nó, việc vô hiệu hóa cỗ máy này hoàn toàn không phải là điều bất khả thi.
 
 Nhưng trước hết, chúng tôi phải thoát khỏi tử địa này và tìm nơi ẩn nấp đã—
 
@@ -52,7 +52,7 @@ Phía sau màn khói mịt mù đang cuộn trào, một luồng sáng chói lò
 
 “Kotarou!”
 
-Ngay khoảnh khắc tôi vừa kịp nhận thức được hiểm họa, cơ thể tôi đã được bao bọc trọn vẹn bởi thân hình cao lớn và mềm mại của Mei-chan.
+Ngay khoảnh khắc tôi vừa kịp nhận thức được hiểm họa, cơ thể tôi đã được bao bọc trọn vẹn bởi thân hình cao lớn và vững chãi của Mei-chan.
 
 “————『Thánh Thiên Kết Giới』, toàn lực!!”
 
@@ -60,7 +60,7 @@ Tiếng hét thất thanh của Sakura vang lên cùng lúc với luồng quang 
 
 *Keng————!*
 
-Một thanh âm trong trẻo chói tai vang lên, và ngay sau đó, một cơn chấn động kinh hoàng cùng luồng nhiệt lượng thiêu đốt khủng khiếp ập thẳng xuống đầu chúng tôi.
+Một thanh âm trong trẻo đến chói tai vang lên, và ngay sau đó, một cơn chấn động kinh hoàng cùng luồng nhiệt lượng thiêu đốt khủng khiếp ập thẳng xuống đầu chúng tôi.
 
 “A... ư...”
 
@@ -92,7 +92,7 @@ Cơ thể Sakura đang tỏa ra một mức nhiệt khủng khiếp khiến tôi
 
 Có lẽ chỉ riêng 『Thánh Thiên Kết Giới』 không thể triệt tiêu hoàn toàn nhiệt lượng khủng khiếp từ đòn công kích. Dẫu vậy, việc cô nàng không bị bỏng rát ngoài da đã chứng minh kết giới ngăn chặn thành công sát thương trực tiếp lên cơ thể sinh học.
 
-“Quả nhiên là cạn sạch ma lực rồi. Cơ thể cô ấy cũng đã chạm tới giới hạn chịu đựng.”
+“Quả nhiên là cạn sạch ma lực rồi. Cơ thể cậu ấy cũng đã chạm tới giới hạn chịu đựng.”
 
 Tôi vội vàng lấy Re-potion tưới lên người cô nàng, rồi nhanh chóng bắt mạch và kiểm tra nhịp thở. Sakura trông như đang chìm vào một giấc ngủ sâu, nhưng dù có lay gọi thế nào cô cũng không thể tỉnh lại vào lúc này.
 
@@ -100,13 +100,13 @@ Việc cố ép 『Thánh Thiên Kết Giới』 duy trì vượt ngưỡng đã
 
 Dù đã xuất sắc chặn đứng đòn đánh hủy diệt vừa rồi... nhưng Sakura đã hoàn toàn mất khả năng chiến đấu.
 
-“May quá, Kotarou... cậu không sao chứ?”
+“May quá, Kotarou-kun... cậu không sao chứ?”
 
 “Oái, Mei-chan mới là người có sao đấy chứ?!”
 
 Ngoảnh đầu lại, tôi thấy Mei-chan cũng đang bốc hơi nghi ngút chẳng khác nào Sakura.
 
-Cô tì mũi thanh 『Zagan's Pride』 xuống mặt đất như một cây chống, lồng ngực phập phồng với từng nhịp thở dốc dồn dập. Dùng thanh đại kiếm của người khổng lồ và chính tấm thân mình làm lá chắn che chắn cho tôi thì đáng tin cậy thật đấy, nhưng...
+Cô tì mũi thanh 『Zagan's Pride』 xuống mặt đất như một cây chống, lồng ngực phập phồng với từng nhịp thở dốc dồn dập. Dùng thanh đại kiếm của người khổng lồ và chính tấm thân mình làm lá chắn che chở cho tôi thì đáng tin cậy thật đấy, nhưng...
 
 “Hảaaa? Sao tụi mày vẫn còn sống trơ trơ ra thế? Đừng có dai như đỉa đói nữa, biến thành tro bụi nhanh nhanh giùm tao đi chứ!”
 
@@ -136,7 +136,7 @@ Mà thực chất, dù bản thân tôi gần như còn lành lặn vô sự, nh
 
 “————『Nham Sơn Cự Thuẫn』!”
 
-Giữa lúc cảm giác tuyệt vọng đen tối chuẩn bị nuốt chửng tầm nhìn của tôi, một bức tường đá đồ sộ đột ngột trồi lên sừng sững ngay trước mặt. Kẻ có thể thi triển Thổ ma thuật xuất sắc đến mức độ này trong lớp 2-7 chỉ có duy nhất một người.
+Giữa lúc cảm giác tuyệt vọng đen tối chuẩn bị nuốt chửng tầm nhìn của tôi, một bức tường đá đồ sộ đột ngột trồi lên sừng sững ngay trước mặt. Kẻ có thể thi triển Thổ ma thuật xuất sắc đến mức độ này trong Lớp 2-7 chỉ có duy nhất một người.
 
 “Kyouko!”
 

@@ -1,6 +1,6 @@
 # Tập 403: Tinh Linh Thuật Sư Của Ánh Sáng Và Bóng Tối
 
-“——Này cậu ơi.”
+“——Này, cậu ơi.”
 
 Có tiếng ai đó đang gọi.
 
@@ -10,19 +10,19 @@ Từ nơi xa xăm, một thanh âm quen thuộc khẽ cất tiếng gọi tên t
 
 “Hự!?”
 
-Tôi giật mình muốn bật dậy ngay tức khắc, thế nhưng toàn bộ cơ thể lại cứng đờ, không thể cử động nổi. Cảm giác lạnh ngắt và nặng trĩu tựa như bị hàng ngàn sợi xích sắt trói chặt lấy tứ chi.
+Tôi giật mình muốn bật dậy ngay tức khắc, thế nhưng toàn thân lại cứng đờ, không sao cử động nổi. Cảm giác lạnh ngắt và nặng trĩu tựa hồ như có hàng ngàn sợi xích sắt đang trói chặt lấy tứ chi.
 
-Thế nhưng trên người tôi làm gì có sợi xích nào. Đơn giản là vì cơ thể tôi đã cạn kiệt đến mức chẳng còn lấy một chút sức lực để gượng dậy mà thôi.
+Thế nhưng trên người tôi làm gì có sợi xích nào. Đơn giản là vì cơ thể tôi đã kiệt quệ đến mức chẳng còn lấy một chút sức lực để gượng dậy mà thôi.
 
 “M-Momokawa... đấy à...?”
 
 “Chào buổi sáng nhé, Hayama-kun.”
 
-Khi tầm nhìn dần hé mở, khuôn mặt của Momokawa hiện ra lộn ngược ngay trước mắt tôi. Ủa, bộ tôi đang được cậu ấy cho gối đầu lên đùi đấy à?
+Khi tầm nhìn dần hé mở, gương mặt của Momokawa hiện ra lộn ngược ngay trước mắt tôi. Ủa, chẳng lẽ tôi đang được cậu ấy cho gối đầu lên đùi đấy à?
 
 Đôi mắt tròn xoe như mèo con đang chăm chú cúi xuống nhìn tôi từ phía trên mang lại một cảm giác vừa an tâm, nhưng cũng vừa khiến tim tôi bất giác đập thình thịch một nhịp... Này này, mình đang suy nghĩ cái quái quỷ gì thế này!?
 
-“Ủa mà khoan... lúc nãy... mình...”
+“Ủa mà khoan... vừa rồi... mình...”
 
 Rốt cuộc tôi đã làm cái gì ấy nhỉ?
 
@@ -66,7 +66,7 @@ Kỳ tích đã xảy ra — đúng vậy, ngay khoảnh khắc chìa miếng g�
 
 “Tớ xin lỗi cậu nhiều lắm Kinako ơi... Tớ đã không thể bảo vệ được cho cậu...”
 
-Như một con đập bị vỡ bờ, những giọt nước mắt cứ thế tuôn trào không thể nào kìm nén nổi.
+Như một con đập vỡ bờ, những giọt nước mắt cứ thế tuôn trào không thể nào kìm nén nổi.
 
 Bởi vì tôi không thể tự lừa dối bản thân mình được nữa. Cơn giận dữ điên cuồng, lòng căm thù ngút trời, kẻ thù để tôi lao vào chém giết quên đi thực tại giờ đây chẳng còn ở trước mắt nữa rồi. Đến sức lực để đứng dậy cũng chẳng còn, tôi không thể tiếp tục giận cá chém thớt để trốn chạy hiện thực được nữa.
 
@@ -80,7 +80,7 @@ Tôi òa khóc nức nở như một đứa trẻ con.
 
 Chẳng cần bận tâm việc Momokawa đang nhìn thấy sự yếu đuối của mình, tôi cứ thế gào khóc thảm thiết. Bởi vì tôi chẳng thể làm được gì khác, một kẻ bất lực không thể cứu nổi người bạn thân nhất thì làm gì còn tư cách để làm điều gì khác cơ chứ.
 
-Đau đớn, xót xa đến mức ngực nghẹn đắng muốn nổ tung.
+Đau đớn, xót xa đến mức lồng ngực nghẹn đắng muốn nổ tung.
 
 “Không sao đâu. Mọi chuyện ổn rồi, Hayama-kun à. Mọi chuyện đã kết thúc rồi.”
 
@@ -116,7 +116,7 @@ Bất thình lình có tiếng thì thầm ngay sát vành tai, tôi giật bắ
 
 Chết tiệt, mấy lời độc thoại ngượng ngùng vừa rồi bị cậu ấy nghe sạch sành sanh rồi sao!? Thế nhưng khi tôi đảo mắt nhìn quanh trái phải, bóng dáng nhỏ thó quen thuộc ấy lại chẳng thấy đâu.
 
-Chẳng lẽ... mình bắt đầu bị ảo giác thính giác rồi sao... Mình thèm khát sự hiện diện của cậu ấy tới mức độ này rồi ư...
+Chẳng lẽ... mình bắt đầu bị ảo thính rồi sao... Mình thèm khát sự hiện diện của cậu ấy tới mức độ này rồi ư...
 
 “Tớ ở đây nèee~”
 
@@ -212,9 +212,9 @@ Dù đúng là sinh ra từ cánh tay ghép của Momokawa trên người tôi..
 
 Nhìn kỹ lại bé Ám tinh linh đang ngồi trên vai phải: Khuôn mặt và kiểu tóc y hệt Momokawa, nhưng đôi mắt lại mang màu đỏ rực như đá Ruby, khoác trên mình chiếc áo choàng đen tuyền trùm kín người như một vị Tử thần nhỏ tuổi.
 
-“Được rồi! Tên của cậu từ nay về sau sẽ là **『Đào Ảnh』**!”
+“Được rồi! Tên của cậu từ nay về sau sẽ là 『Đào Ảnh』!”
 
-“Cảm ơn cậu nhé, tên của tớ là **『Đào Ảnh』**!”
+“Cảm ơn cậu nhé, tên của tớ là 『Đào Ảnh』!”
 
 “Vậy... bây giờ chúng ta tính sao đây Đào Ảnh?”
 
@@ -230,7 +230,7 @@ Cúi đầu nhìn xuống bàn tay trái sinh học bình thường của mình,
 
 Trên mu bàn tay trái của tôi lúc này đang tỏa sáng những hoa văn màu trắng tinh khôi hình sợi xích... và ở chính giữa là một VIÊN TINH THỂ MÀU TRẮNG SÁNG LẤP LÁNH NHƯ KIM CƯƠNG!
 
-“Kỹ năng cố hữu thứ ba của Dũng Giả: **『Bạch Chi Bí Thạch』**!”
+“Kỹ năng đặc hữu thứ ba của Dũng Giả: 『Bạch Bí Thạch』!”
 
 “A... Đúng rồi, lúc đó Souma đã dùng kỹ năng này để phong ấn sức mạnh bóng tối của tớ...”
 

@@ -6,264 +6,266 @@ Tôi tỉnh dậy với một tiếng rên ngơ ngác.
 
 “Hả?!”
 
-Ngay khoảnh khắc tiếp theo, tôi lập tức nhớ lại bản thân đang ở trong tình cảnh nào.
+Ngay khoảnh khắc tiếp theo, tôi lập tức sực nhớ bản thân đang ở trong tình cảnh nào.
 
-Khoan đã, rõ ràng mình đã vung dao hướng về phía Takanashi để tung đòn kết liễu... Không, đó là chuyện xảy ra ngay trước khi mũi dao kịp cắm xuống.
+Khoan đã, rõ ràng vừa rồi mình đã vung dao nhắm thẳng về phía Takanashi để tung đòn kết liễu... Không, chính xác là chuyện xảy ra ngay trước khi mũi dao kịp cắm xuống.
 
-Một tiếng chuông ngân vang *boong... boong...* như tiếng chuông nhà thờ vang lên, rồi đột nhiên tầm nhìn của tôi trắng xóa, và cứ thế ngất đi. Ký ức và cảm giác bị đứt đoạn đột ngột thế này, chỉ có thể giải thích như vậy.
+Một hồi chuông *boong... boong...* trầm đục như tiếng chuông nhà thờ đột ngột ngân vang, rồi tầm nhìn của tôi bỗng chốc trắng xóa, cứ thế mất đi ý thức. Ký ức và tri giác bị cắt đứt đột ngột đến mức chỉ có thể giải thích như vậy.
 
-“C-Cái gì... Chuyện gì đang xảy ra thế này?”
+“C-Cái quái gì... Chuyện gì đang xảy ra thế này?”
 
-Trong tay tôi vẫn đang siết chặt con dao bướm của Higuchi. Lưỡi dao sáng loáng của nó không hề dính một vệt máu nào, sạch sẽ tinh tươm.
+Trong tay tôi vẫn siết chặt con dao bướm của Higuchi. Lưỡi dao sắc lạnh sáng loáng, không hề dính lấy một vệt máu, sạch sẽ tinh tươm.
 
-Và trước mắt tôi, bóng dáng của Takanashi Kotori đã biến mất.
+Và ngay trước mắt tôi, bóng dáng của Takanashi Kotori đã hoàn toàn biến mất.
 
-Cảm giác giống như vừa bị dịch chuyển tức thời đi nơi khác, nhưng có vẻ sự thật không phải như vậy.
+Cảm giác hệt như vừa bị dịch chuyển tức thời đi nơi khác, nhưng thực tế dường như không phải vậy.
 
 “Trước mắt, mọi người vẫn bình an vô sự là tốt rồi...”
 
-Liếc nhanh ra phía sau, tôi thấy Mei và Kyouko đang nằm gục, bên cạnh là Himeno cũng đang bất tỉnh nhân sự vì đã cạn kiệt sức lực. Nhìn việc Mei và Kyouko đã được đưa về tận tuyến sau nơi Himeno giữ vị trí, có vẻ Momoko đã hoàn thành việc di tản hai người họ, nhưng bản thân cô ta thì chẳng thấy đâu.
+Liếc nhanh ra phía sau, tôi thấy Mei-chan và Kyouko đang nằm gục, bên cạnh là Himeno cũng đã ngất lịm vì cạn kiệt ma lực. Nhìn việc Mei-chan và Kyouko đã được đưa về tận tuyến sau nơi Himeno trấn giữ, có vẻ Momoko đã kịp thời hoàn thành việc di tản hai người họ. Tuy nhiên, tung tích của cô ta lúc này lại chẳng thấy đâu.
 
-Đang cảnh giác ẩn nấp ở đâu đó chăng? Khác với Rem, cô ta không phải sứ ma của tôi nên tôi không thể trực tiếp liên lạc được—
+Đang cảnh giác ẩn nấp ở góc nào đó chăng? Khác với Rem, cô ta không phải sứ ma của tôi nên tôi không thể trực tiếp liên lạc bằng tâm linh được—
 
-*— Mối liên kết với Rem cũng bị cắt đứt rồi!*
+*— Khoan, mối liên kết với Rem cũng bị cắt đứt rồi!*
 
-Khi đang điều khiển Rem, tôi luôn có một sợi dây liên kết cảm giác để nắm bắt tình hình theo thời gian thực. Đến tận bây giờ tôi mới nhận ra cảm giác đó đã biến mất, và khoảng trống hoác trước mắt cũng cho thấy cơ thể khổng lồ của Rem Gigas đã biến mất không một dấu vết.
+Khi điều khiển Rem, tôi luôn duy trì một sợi dây liên kết cảm giác để nắm bắt tình hình theo thời gian thực. Đến tận lúc này tôi mới bàng hoàng nhận ra sợi dây đó đã đứt đoạn, và khoảng trống hoác trước mắt cũng chứng minh cơ thể khổng lồ của Rem Gigas đã biến mất không một dấu tích.
 
-Có lẽ trong khoảnh khắc tôi ngất đi, thuật thức đã bị cưỡng chế giải trừ.
+Có lẽ trong khoảnh khắc tôi bất tỉnh, thuật thức duy trì đã bị cưỡng chế giải trừ.
 
-“Khốn kiếp, chẳng hiểu chuyện gì nữa, nhưng Takanashi đang ở đâu—”
+“Khốn kiếp, rốt cuộc là chuyện gì chứ... mà Takanashi đang ở đâu—”
 
 “— Hì hì, tớ ở đây nè.”
 
-Như để đáp lại lời lẩm bẩm của tôi, giọng nói lanh lảnh chói tai của Takanashi vang lên.
+Như để đáp lại lời lẩm bẩm của tôi, chất giọng lanh lảnh chói tai của Takanashi vang lên.
 
-Đó không phải là chất giọng hoảng loạn, vỡ vụn khi bị dồn vào đường cùng vừa rồi. Mà là một giọng điệu hớn hở, tràn đầy sự khinh miệt và tự tin tuyệt đối vào vị thế áp đảo của mình, hệt như lúc cô ta gài bẫy tôi ở Học Viện Tháp.
+Đó tuyệt nhiên không phải là giọng điệu hoảng loạn, vỡ vụn khi bị dồn vào chân tường lúc nãy. Mà là một ngữ điệu hớn hở, tràn ngập sự khinh miệt cùng tự tin tuyệt đối vào vị thế áp đảo của bản thân, hệt như cái cách cô ta từng gài bẫy tôi tại Học Viện Tháp.
 
-“Khốn kiếp, định chạy trốn sao, Takanashi!”
+“Khốn khiếp, định giở trò bỏ chạy sao, Takanashi!”
 
-Quay đầu về phía phát ra âm thanh, Takanashi quả thực đang đứng đó.
+Quay phắt đầu về phía phát ra âm thanh, Takanashi quả thực đang đứng sừng sững ở đó.
 
-Ngay trước 『Thiên Tống Môn』. Trước cánh cổng cao sừng sững vẫn đang tỏa ra thứ ánh sáng trắng mờ ảo, Takanashi đứng đó một cách hiên ngang.
+Ngay trước 『Thiên Tống Môn』. Dưới vòm cổng đá đồ sộ đang tỏa ra thứ ánh sáng trắng mờ ảo, Takanashi đứng đó với dáng vẻ ngạo nghễ, hiên ngang.
 
-“Chạy trốn? A ha ha, tớ đâu cần phải chạy trốn nữa.”
+“Bỏ chạy á? A ha ha, tớ việc gì phải bỏ chạy nữa chứ.”
 
-Đôi cánh thiên thần sau lưng cô ta đã biến mất, và lớp phòng ngự của 『Thánh Thiên Kết Giới』 cũng không còn. Dù đang để lộ cơ thể người trần mắt thịt không chút phòng bị, Takanashi vẫn nở một nụ cười thong thả.
+Đôi cánh thiên sứ sau lưng cô ta đã biến mất, và bức tường phòng ngự của 『Thánh Thiên Kết Giới』 cũng không còn. Dù đang phơi bày cơ thể người trần mắt thịt không chút phòng bị, Takanashi vẫn nở nụ cười thong thả đến rợn người.
 
-Ngay khoảnh khắc đó, một luồng ớn lạnh chạy dọc sống lưng tôi, một cảm giác nguy hiểm khôn lường— không, phải gọi là nỗi sợ hãi tột cùng ập đến.
+Ngay khoảnh khắc ấy, một luồng ớn lạnh chạy dọc sống lưng tôi. Một dự cảm nguy hiểm khôn lường— không, chuẩn xác hơn là một nỗi kinh hoàng tột độ ập đến bóp nghẹt buồng phổi.
 
-“Bởi vì, Thần linh đã cứu tớ rồi.”
+“Bởi vì, Thần linh đã dang tay cứu rỗi tớ rồi.”
 
 “... Hả?”
 
 Có thứ gì đó vừa cử động.
 
-Không phải Takanashi. Mà là bức tượng nữ thần khổng lồ sừng sững phía trên đầu cô ta, đôi cánh sau lưng bức tượng đó vừa động đậy. Phải, vị thần vốn chỉ là một bức tượng đá vô tri, giờ đây đang chuyển động.
+Không phải Takanashi. Mà là bức tượng nữ thần khổng lồ ngự trị ngay phía trên đỉnh đầu cô ta, đôi cánh đá sau lưng bức tượng ấy vừa khẽ lay chuyển. Phải, bức tượng vốn chỉ là một khối đá vô tri vô giác, giờ đây đang thực sự sống dậy.
 
-“N-Nói đùa à...”
+“N-Nói đùa đấy à...”
 
-Đôi cánh trắng khổng lồ từ từ dang rộng, tỏa ra một vầng hào quang màu xanh trắng đầy thần thánh.
+Đôi cánh trắng muốt khổng lồ từ từ giương rộng, tỏa ra vầng hào quang mang sắc xanh trắng thiêng liêng tột bậc.
 
-Thứ ánh sáng đó chắc chắn không sai vào đâu được, hoàn toàn trùng khớp với thứ ánh sáng mà 『Dũng Giả』 từng phát ra. Hay nói đúng hơn, đây mới chính là cội nguồn nguyên bản của nó.
+Thứ ánh sáng đó chắc chắn không thể lẫn vào đâu được, hoàn toàn trùng khớp với luồng hào quang mà 『Dũng Giả』 từng phóng thích. Hay nói đúng hơn, đây mới chính là cội nguồn nguyên bản, thuần khiết nhất của thứ sức mạnh ấy.
 
-Hào quang thần thánh tăng tiến theo cấp số nhân, trong nháy mắt đã rọi sáng rực rỡ khắp đại sảnh âm u, như muốn phô diễn uy nghiêm tối cao của Thần.
+Hào quang thần thánh bùng nổ theo cấp số nhân, trong nháy mắt đã rọi sáng rực rỡ khắp gian đại sảnh âm u tăm tối, tựa như đang phô diễn uy nghiêm tối cao bất khả xâm phạm của Thần.
 
-Vã rồi, đôi mắt nhắm nghiền của bức tượng mở ra.
+Và rồi, đôi mắt nhắm nghiền ngàn năm của bức tượng từ từ hé mở.
 
 “... Nữ thần Elshion.”
 
-Thần linh đã giáng lâm bên cạnh thiếu nữ dâng lời cầu nguyện cứu rỗi.
+Thần linh thực sự đã giáng lâm bên cạnh thiếu nữ vừa cất lời cầu nguyện.
 
-Đ-Đùa nhau à... Cái quái gì thế này. Đến nước đường cùng lại đi cầu thần, rồi thần giáng lâm thật thì ai mà chơi lại được hả?!
+Đ-Đùa nhau chắc... Cái quái gì thế này?! Đến bước đường cùng lại chơi bài gọi Thần, rồi Thần giáng lâm thật thì ai mà đấu lại cho nổi hả?!
 
-Trong khi cơn giận dữ vì sự bất công vô lý này sắp làm tôi nổ tung lồng ngực, thì bản năng và lý trí của tôi lại bình tĩnh lên tiếng cảnh báo.
+Trong khi cơn thịnh nộ trước sự bất công đến mức phi lý này muốn nổ tung lồng ngực tôi, thì bản năng cùng lý trí lại lạnh lùng cất tiếng cảnh báo.
 
-Đó không phải là bản thể thực sự của Nữ thần Elshion. Nó chỉ là một dạng hóa thân mượn bức tượng nữ thần khổng lồ của Thiên Tống Môn làm vật chứa để hiện hình ở nhân giới mà thôi.
+Đó không phải là chân thân tối thượng của Nữ thần Elshion. Nó chỉ là một dạng hóa thân mượn bức tượng nữ thần trên 『Thiên Tống Môn』 làm vật chứa để hiện hình nơi nhân giới mà thôi.
 
-Thế nhưng, đó vẫn là một thực thể được chính Thần linh trực tiếp thao túng bằng quyền năng của mình. Nó ở một đẳng cấp hoàn toàn khác so với lũ Boss ma vật thông thường. Ngay cả Yamata no Orochi khi đặt cạnh hóa thân của Thần cũng chỉ là hạng tép riu.
+Thế nhưng, đó vẫn là một thực thể được chính Thần linh trực tiếp thao túng bằng quyền năng tuyệt đối. Nó thuộc về một đẳng cấp hoàn toàn tách biệt so với lũ Boss ma vật thông thường. Ngay cả Yamata no Orochi khi đặt cạnh hóa thân của Thần cũng chỉ là một loài sâu bọ hạ đẳng.
 
-Dù tôi không có giác quan thứ sáu nhạy bén để lập tức nhận biết danh tính kẻ thù hay nguy hiểm như Mei hay Tendou, nhưng tôi vẫn có thể hiểu ngay lập tức sức mạnh tuyệt đối mà thứ này đang sở hữu.
+Dù tôi không sở hữu giác quan thứ sáu nhạy bén để lập tức nhận biết mức độ nguy hiểm như Mei-chan hay Tendou, nhưng tôi vẫn thấu hiểu rõ ràng thứ sức mạnh áp đảo tuyệt đối mà thực thể này đang nắm giữ.
 
-Không thể thắng nổi. Không phải chỉ riêng tôi, mà bất kỳ con người nào, dù là vị anh hùng mạnh mẽ đến đâu, cũng không có lấy một phần vạn cơ hội chiến thắng. Bản năng mách bảo tôi điều đó, và trong tâm trí tôi, bằng chứng sống động cho điều đó cũng được khắc ghi rõ ràng.
+Không thể thắng. Không phải chỉ riêng tôi, mà bất kỳ con người trần mắt thịt nào, dẫu cho là bậc anh hùng cái thế đi chăng nữa, cũng chẳng có nổi một phần vạn cơ hội chiến thắng. Bản năng đanh thép mách bảo tôi điều đó, và ngay trong tâm trí tôi, một bằng chứng sống động cũng đang hiện rõ mồn một.
 
 『Hóa thân của Nữ thần Elshion』: ょうあhlらlrフあ。クshdふぁえいあをあlんじゃぅh、づ案sxjぁhdク青土hf乱bkじぇあbhy。ィkrbh馬fkbらkbrはf、は、hdふぁkぁか。アkは、bd、fhだmｆっばｋじゃ————
 
-Kỹ năng 『Mai Táng Thần Học』 vốn dĩ phải phản hồi thì nay đã bị lỗi hiển thị nghiêm trọng.
+Kỹ năng 『Mai Táng Thần Học』 vốn luôn phân tích vạn vật chuẩn xác nay đã bị lỗi hiển thị nghiêm trọng.
 
-Dù phần mô tả của kỹ năng này lúc nào cũng mơ hồ mang tính ẩn dụ, nhưng chưa bao giờ phần chữ hiển thị bị lỗi font hay loạn ký tự như thế này. Việc kỹ năng giám định vốn luôn hoạt động chuẩn xác giờ đây bị lỗi, chứng tỏ đối phương là một tồn tại quá đỗi vượt trội và cách biệt. Hoặc giả, con người vốn dĩ không thể nào thực sự thấu hiểu được bản chất của Thần.
+Dù phần mô tả của kỹ năng này lúc nào cũng mang tính ẩn dụ mơ hồ, nhưng chưa từng có tiền lệ phần văn tự lại bị xáo trộn, vỡ nát thành những ký tự vô nghĩa như thế này. Việc kỹ năng giám định bị vô hiệu hóa hoàn toàn chứng tỏ đối phương là một thực thể vượt quá giới hạn nhận thức. Hoặc giả, phàm nhân vốn dĩ không có tư cách để thấu hiểu được bản chất của Thần linh.
 
-“Đúng vậy, đây chính là Thần linh. Nữ thần Elshion tôn kính, người đã lựa chọn Kotori.”
+“Đúng vậy, đây chính là Thần linh. Nữ thần Elshion tôn kính, người đã lựa chọn Kotori này.”
 
-Phía trên đầu Takanashi, kẻ đang đan hai tay vào nhau như đang cầu nguyện, hóa thân của Thần dang rộng đôi cánh và bắt đầu chuyển động.
+Ngay phía trên đỉnh đầu Takanashi, kẻ đang chắp hai tay lại với vẻ sùng kính giả tạo, hóa thân của Thần giương rộng đôi cánh và bắt đầu chuyển động.
 
-Cùng lúc đó, những chiếc lông vũ ánh sáng lấp lánh sắc trắng rơi rụng như tuyết. Căn phòng được chiếu sáng rực rỡ hơn nữa, như thể không cho phép bất kỳ bóng tối nào được phép tồn tại.
+Cùng lúc đó, những chiếc lông vũ ánh sáng lấp lánh sắc trắng rơi lả tả tựa như tuyết rơi. Căn phòng càng lúc càng rực sáng chói lòa, tựa hồ không dung thứ cho bất kỳ ngóc ngách bóng tối nào được phép tồn tại.
 
 “Ngươi ngạo mạn quá đấy, Momokawa... Quỳ xuống!”
 
 “Hự...?!”
 
-Ngay khoảnh khắc câu nói đó lọt vào tai, tôi liền bị đè bẹp dí xuống đất.
+Ngay khoảnh khắc câu lệnh đó lọt vào màng nhĩ, toàn thân tôi liền bị đè bẹp dí xuống nền đá lạnh ngắt.
 
-Cứ như thể trọng lực đột ngột tăng lên gấp nhiều lần, hoặc có vô số cánh tay vô hình đang ghì chặt lấy tôi. Tôi ngã sấp mặt xuống sàn, hoàn toàn không thể nhúc nhích nổi một ngón tay. Đây chắc chắn là hiệu lực của 『Thần Thánh Ngôn Ngữ』.
+Cứ như thể trọng lực xung quanh đột ngột tăng vọt lên gấp hàng chục lần, hoặc có vô số cánh tay vô hình đang ghì chặt lấy tôi. Tôi ngã sấp mặt xuống sàn, hoàn toàn không thể nhúc nhích nổi dù chỉ là một đầu ngón tay. Đây đích thị là uy áp của 『Thần Thánh Ngôn Ngữ』.
 
 “Ư... 『Tinh Linh Khôi Lỗi』...!”
 
-Tôi vội vàng kích hoạt lại kỹ năng đối phó là 『Tinh Linh Khôi Lỗi』, nhưng—
+Tôi cắn răng vội vã kích hoạt quân bài đối phó là 『Tinh Linh Khôi Lỗi』, nhưng—
 
-“K-Không cử động được... Thế này là sao, rõ ràng các tinh linh bóng tối vẫn đang trú ngụ trong cơ thể mình mà.”
+“K-Không thể cử động được... Thế này là sao chứ, rõ ràng các tinh linh bóng tối vẫn đang ngụ trong cơ thể mình cơ mà?!”
 
-Kỹ năng đã kích hoạt thành công, tôi thậm chí còn cảm nhận rõ ràng sự hiện diện của các tinh linh bóng tối đang lan tỏa khắp các ngóc ngách trong cơ thể.
+Kỹ năng đã kích hoạt thành công, tôi thậm chí còn cảm nhận rất rõ luồng ma lực của các tinh linh bóng tối đang lan tỏa khắp các ngóc ngách trong từng mạch máu.
 
-Thế nhưng, dù tôi có cố gắng điều khiển thế nào, cơ thể vẫn bất động.
+Thế nhưng, dù tôi có gồng mình điều khiển ra sao, cơ thể vẫn trơ ra như tượng đá.
 
-“Vô ích thôi Momokawa. Trước mặt Thần linh, lũ tinh linh chỉ là hạng sinh vật ma pháp hạ đẳng, làm sao có thể tự do hành động được chứ.”
+“Vô ích thôi Momokawa. Trước mặt Thần linh tôn quý, lũ tinh linh các ngươi chỉ là hạng sinh vật ma pháp hạ đẳng, làm sao có cửa tự do vùng vẫy được chứ.”
 
-“Thế mà vừa nãy cậu suýt chết dưới tay lũ sinh vật hạ đẳng đó còn gì.”
+“Thế mà vừa nãy... có kẻ suýt bị lũ sinh vật hạ đẳng đó xé xác thành trăm mảnh đấy thôi.”
 
 “Câm miệng!”
 
-*Uỳnh!* Áp lực đè lên người tôi lại tăng thêm một tầng. Khốn kiếp thật, Takanashi, dám gài bẫy tôi bằng những lời lẽ khiến tôi không thể không cà khịa lại.
+*Uỳnh!* 
 
-Tuy nhiên, nếu chỉ với 『Thần Thánh Ngôn Ngữ』 của Takanashi thì không thể ngăn chặn được tinh linh, nhưng khi có sự hiện diện của hóa thân của Thần thì lại chặn được, điều này đồng nghĩa với việc hiệu lực của nó đã được cường hóa vượt bậc.
+Áp lực đè nặng lên tấm lưng tôi lại tăng thêm một tầng khủng khiếp. Khốn kiếp thật, Takanashi, dám dùng những lời lẽ khiêu khích khiến tôi không thể không móc mỉa lại.
 
-Nói một cách cụ thể, phạm vi các loại ma lực mà nó có thể can thiệp đã tăng lên. Ngay cả các tinh linh bóng tối vốn khắc chế thuộc tính ánh sáng cũng rơi vào tình cảnh thảm hại này, thì có lẽ trên đời này thực sự không còn loại ma lực nào mà thứ quyền năng kia không thể chi phối được nữa. Đúng nghĩa là một sức mạnh vạn năng của Thần. Ôi trời, dẹp mẹ cái trò hack game chính chủ này đi.
+Tuy nhiên, nếu như 『Thần Thánh Ngôn Ngữ』 của riêng Takanashi không thể khống chế được tinh linh, mà giờ đây có sự gia trì của hóa thân Thần linh lại phong tỏa dễ như trở bàn tay, điều đó đồng nghĩa với việc uy lực của nó đã được cường hóa lên một tầm mức không tưởng.
 
-“Hự... ư... Đúng là... game rác...”
+Nói một cách chính xác, phạm vi can thiệp ma lực của nó đã đạt đến mức tuyệt đối. Ngay cả các tinh linh bóng tối vốn dĩ tương khắc với thuộc tính ánh sáng cũng phải chịu chung số phận thảm hại này, thì e rằng trên cõi đời này chẳng còn bất kỳ loại ma lực nào thoát khỏi sự chi phối của thứ quyền năng kia. Đúng nghĩa là một sức mạnh vạn năng của đấng tối cao. Ôi trời ạ, dẹp mẹ cái trò hack game lộ liễu của Admin này đi cho rồi!
 
-“Ha ha ha! Quả nhiên, cuối cùng thì Kotori, người được Thần linh yêu thương, mới là kẻ chiến thắng! Cả cậu, Momokawa, lẫn lũ trong lớp, tất cả chỉ là lũ tôm tép, là bàn đạp, là vật tế thần mà thôi! Lũ hạ đẳng kém cỏi các người mà đòi thắng được Kotori sao, bớt ảo tưởng đi!!”
+“Hự... ư... Đúng là... cái thứ game rác rưởi...”
 
-Cái loại Thần linh có mắt như mù đi chọn một đứa như thế này, tôi đây thèm vào nhé.
+“Ha ha ha! Quả nhiên, người sau cùng mỉm cười chiến thắng chỉ có thể là Kotori, kẻ được Thần linh hết mực yêu thương! Cả cậu, Momokawa, lẫn lũ bạn học vô dụng trong lớp, tất cả chỉ là lũ tôm tép, là bàn đạp, là vật tế thần không hơn không kém! Lũ hạ đẳng kém cỏi các người mà cũng mơ mộng thắng được Kotori sao? Bớt ảo tưởng lại đi!!”
 
-Khốn kiếp thật, sau khi đã buff bẩn cho Dũng Giả và Hiền Giả chán chê, đến lúc sắp thua cuộc thì đích thân Thần lại nhảy ra can thiệp, đúng là cái loại game rác rưởi không hơn không kém. Cái loại game này có đem ra tiệm thanh lý vào ngày hôm sau chắc người ta cũng từ chối mua lại, hoặc có mua thì cũng chỉ trả giá mười yên là cùng.
+Cái loại Thần linh mù quáng đi dung túng cho một ả tiện nhân như thế này, tôi đây thèm vào nhé.
 
-Tệ thật, trong đầu tôi lúc này chỉ toàn là những lời chửi rủa như thế, chẳng thể nghĩ ra nổi một phương án nào để phá vỡ cục diện bế tắc này.
+Mẹ kiếp, sau khi đã buff bẩn đủ đường cho Dũng Giả và Hiền Giả chán chê, đến lúc sắp thua trắng mắt thì đích thân Thần lại nhảy xổ ra can thiệp, đúng là cái kịch bản rác rưởi của một con game tồi tàn. Cái thứ game này nếu đem thanh lý chắc tiệm đồ cũ người ta cũng xua đuổi, hoặc có rủ lòng thương thì trả mười yên là cùng.
 
-Bởi vì đối thủ là một vị Thần thực sự. Sự hiện diện và sức mạnh của nó không hề có bất kỳ kẽ hở nào.
+Tệ thật, trong đầu tôi lúc này chỉ ngập tràn những lời nguyền rủa cay độc, hoàn toàn không thể nghĩ ra nổi một phương án khả thi nào để lật ngược tình thế bế tắc này.
 
-Ngay cả khi ở thời điểm bắt đầu chinh phục Tháp, khi cả lớp còn đông đủ và ở trạng thái sung mãn nhất, chỉ cần một mình thực thể này xuất hiện là đủ để chúng tôi hoàn toàn bế tắc.
+Bởi vì đối thủ trước mắt là một vị Thần thực sự. Uy áp và sức mạnh của nó không để lộ bất kỳ một kẽ hở nào.
 
-Ấy thế mà lúc này, trong tay tôi chỉ còn lại những quân bài ít ỏi, vốn chỉ đủ để chật vật kết liễu một Takanashi bằng xương thịt. Làm sao một mình tôi có thể tìm ra cách tiêu diệt hóa thân của Thần từ tình cảnh này chứ?
+Ngay cả ở thời điểm mới bắt đầu chinh phạt Tháp, khi toàn bộ lớp 2-7 còn đông đủ và sung mãn nhất, chỉ cần một mình thực thể này xuất hiện cũng đủ để đẩy tất cả vào ngõ cụt tuyệt vọng.
 
-“Chẳng phải ngay từ khi mất đi Dũng Giả, các người đã thua rồi sao?”
+Ấy vậy mà vào lúc này, trong tay tôi chỉ còn sót lại những quân bài tàn tạ, vốn chỉ vừa đủ để chật vật kết liễu một Takanashi bằng xương bằng thịt. Làm sao một mình tôi có thể tìm ra cách tiêu diệt hóa thân của Thần linh trong nghịch cảnh này chứ?
 
-“Này Momokawa, cẩn thận cái miệng của cậu đấy.”
+“Chẳng phải ngay từ giây phút đánh mất Dũng Giả, các người đã hoàn toàn thất bại rồi sao?”
 
-“Con mụ Nữ thần rác rưởi đó rảnh hơi đâu mà đi giúp đỡ loại người như cậu chứ. Mụ ta xuất hiện chắc chắn là vì thấy con nhỏ Hiền Giả ngu ngốc thua cuộc nên cay cú, muốn đến đây để xóa sổ bọn tôi cho bõ ghét thôi.”
+“Này Momokawa, liệu hồn mà cẩn thận cái mồm của cậu đấy.”
 
-Ồ, nụ cười nham nhở đáng ghét trên mặt cô ta biến mất rồi kìa?
+“Bà cô Nữ thần rác rưởi đó rảnh rỗi đâu mà đi bảo bọc loại người như cậu. Mụ ta thò mặt ra đây chắc chắn chỉ vì thấy con nhỏ Hiền Giả bù nhìn này thất bại thảm hại nên cay cú, muốn xuống tay xóa sổ bọn tôi cho bõ tức thôi chứ gì?”
 
-Thực ra chính bản thân cô ta cũng đã nghĩ đến khả năng đó rồi đúng không? Nếu có thể dùng cái trò buff bẩn của Thần để cứu nguy bất cứ lúc nào, thì đáng lẽ mụ ta đã phải can thiệp trước khi Dũng Giả bại trận rồi.
+Ồ, nụ cười nham nhở đáng ghét trên khuôn mặt cô ta tắt ngấm rồi kìa?
 
-Việc mụ ta chỉ xuất hiện sau khi kế hoạch nuôi dưỡng Dũng Giả—vốn là mục tiêu tối thượng của Nữ thần—đã hoàn toàn đổ bể, chứng tỏ mụ ta chẳng còn thiết tha gì việc cứu vãn nó nữa.
+Thực chất chính bản thân cô ta cũng đã tự nhận thức được điều đó rồi, đúng chứ? Nếu như có thể tùy tiện dùng cái trò buff bẩn của Thần linh để can thiệp bất cứ lúc nào, thì đáng lẽ mụ ta đã phải ra tay trước khi Dũng Giả bị đánh bại hoàn toàn rồi.
 
-“Kìa, sao thế, cười lên đi chứ Takanashi.”
+Việc mụ ta chỉ xuất đầu lộ diện sau khi kế hoạch bồi dưỡng Dũng Giả—vốn là mục tiêu tối thượng của Nữ thần—đã hoàn toàn sụp đổ, chứng minh rằng mụ ta chẳng còn mảy may tha thiết gì việc cứu vãn ván cờ này nữa.
 
-“... Đến nước này rồi mà cậu vẫn còn cố khiêu khích vô ích sao Momokawa. Chỉ cần có sự bảo hộ của Nữ thần, Kotori sẽ luôn được an toàn. Và việc cậu cố kéo dài thời gian cũng chẳng có ý nghĩa gì đâu. Nữ thần Elshion chắc chắn sẽ chứng kiến cái chết của cậu cho đến tận giây phút cuối cùng.”
+“Kìa, sao thế hả? Cười tiếp đi chứ, Takanashi.”
 
-Mẹ kiếp, lại còn không có giới hạn thời gian nữa à.
+“... Đến nước này rồi mà cậu vẫn còn cố khiêu khích vô ích sao Momokawa? Chỉ cần có sự bảo hộ của Nữ thần, Kotori sẽ luôn đứng ở vị thế bất khả xâm phạm. Và việc cậu cố tình kéo dài thời gian cũng chẳng mang lại chút ý nghĩa nào đâu. Nữ thần Elshion chắc chắn sẽ dõi theo cái chết thảm khốc của cậu cho đến tận giây phút cuối cùng.”
 
-Trong khi thứ duy nhất tôi có thể làm lúc này chỉ là dùng ba tấc lưỡi để câu giờ. Tại sao một thực thể khủng khiếp như hóa thân của Thần lại có thể duy trì sự hiện diện ở nhân giới lâu đến thế chứ? Cứ ở lỳ đây thì sự linh thiêng cũng giảm đi đấy biết không.
+Mẹ kiếp, hóa ra lại còn không có giới hạn thời gian nữa à.
 
-Tôi đã ôm một tia hy vọng mong manh rằng thứ này chỉ có thể tồn tại trong vài phút... nhưng trên mặt Takanashi không hề có một chút biểu cảm nôn nóng nào. Bầu không khí cho thấy cô ta hoàn toàn có thể thong thả đứng đó nói lời đao to búa lớn để áp chế tôi bao lâu tùy thích.
+Trong khi thứ vũ khí duy nhất tôi có thể bấu víu lúc này chỉ là cái lưỡi không xương để câu kéo thêm vài giây. Tại sao một thực thể khủng khiếp như hóa thân của Thần lại có thể duy trì sự tồn tại nơi nhân giới lâu đến thế chứ? Cứ chường mặt ra mãi ở đây thì cái sự linh thiêng cũng hao mòn đi đấy, có biết không hả?
 
-“Đúng vậy, thế nên tớ có thừa thời gian để từ từ trút hết mối hận thù chất chứa bấy lâu nay lên đầu cậu— đấy!”
+Tôi từng le lói một tia hy vọng mong manh rằng thứ này chỉ có thể giáng lâm trong vòng vài phút ngắn ngủi... nhưng trên gương mặt Takanashi lại chẳng hề gợn lên một nét sốt ruột nào. Bầu không khí ung dung cho thấy cô ta hoàn toàn có thừa thời gian đứng đó buông lời đao to búa lớn để hành hạ tôi bao lâu tùy thích.
+
+“Đúng thế đấy, cho nên tớ có dư dả thời gian để từ từ trút sạch mọi nỗi căm hận chất chứa bấy lâu nay lên đầu cậu— nếm thử đi!”
 
 “Á!”
 
-Một tia sáng lóe lên từ tay Takanashi, kéo theo một cơn đau nhói truyền đến từ bả vai tôi.
+Một lùm tia sáng lóe lên từ họng súng trên tay Takanashi, kéo theo một cơn đau nhức nhối truyền đến từ bả vai tôi.
 
-Bị bắn rồi. Khốn kiếp, cô ta vẫn đang cầm khẩu súng blaster.
+Bị bắn trúng rồi. Khốn khiếp, trên tay ả vẫn còn lăm lăm khẩu súng blaster.
 
-“Ồ... Tuyệt quá! Quả nhiên sự bảo hộ của Nữ thần thật là vĩ đại! Sao hả Momokawa, Kotori không hề thấy đau, chẳng đau một chút nào luôn nhé?”
+“Ồ... Tuyệt vời quá! Quả nhiên sự che chở của Nữ thần thật là vĩ đại! Sao hả Momokawa, Kotori chẳng hề thấy đau chút nào, không đau một tí tẹo nào luôn nhé?”
 
-Takanashi cười lớn một cách khoái trá, vừa vung vẩy khẩu súng blaster như để trêu ngươi.
+Takanashi cất tiếng cười the thé đầy khoái trá, vừa nói vừa vung vẩy khẩu blaster như một cử chỉ trêu ngươi.
 
-“Cái chú thuật 『Phản Phục Thống Khổ』 mà cậu luôn tự hào đâu rồi nhỉ? Nào nào, sao thế, thử trả lại cơn đau này cho tớ xem nào!!”
+“Cái chú thuật 『Phản Phục Thống Khổ』 mà cậu luôn tự hào giấu như mèo giấu cứt đâu rồi nhỉ? Nào nào, làm sao thế, thử phản hồi lại cơn đau này cho tớ xem nào!!”
 
 “A a a a a a a a a a a!”
 
-Lại thêm một phát bắn nữa. Một luồng nhiệt nóng bỏng thiêu đốt chạy dọc khắp cơ thể tôi.
+Lại thêm một phát bắn nữa găm thẳng vào người. Một luồng nhiệt lượng bỏng rát như thiêu như đốt điên cuồng cắn xé da thịt tôi.
 
-Nóng quá. Đau quá.
+Nóng quá. Đau đớn đến thấu xương tủy.
 
-Nhưng nhờ có lớp phòng ngự của chiếc áo gakuran cường hóa, tôi mới chỉ dừng lại ở mức gào thét đau đớn thế này. Nếu lớp bảo vệ này bị phá vỡ, chỉ cần trúng thêm một phát nữa thôi là tôi sẽ mất mạng ngay lập tức.
+Nhưng nhờ có lớp bảo vệ kiên cố của chiếc áo gakuran đã qua gia trì chú thuật, tôi mới chỉ dừng lại ở mức gào thét vì đau đớn thế này. Nếu như lớp phòng ngự này sụp đổ, chỉ cần dính thêm một phát bắn chuẩn xác nữa thôi, tính mạng của tôi sẽ lập tức chấm dứt.
 
-“Hự... ư... Đến cả việc kéo theo cô chết chung... cũng không làm được sao, khốn kiếp...”
+“Hự... ư... Đến cả việc kéo theo ả chết chùm... cũng không làm nổi sao... khốn kiếp thật...”
 
-Ngay cả quân bài tẩy cuối cùng—chú thuật ban đầu 『Phản Phục Thống Khổ』, thứ vốn luôn phản lại 100% sát thương tôi phải chịu lên đối thủ không chút sai lệch—giờ đây cũng hoàn toàn mất đi tác dụng trước sự hiện diện của Nữ thần Elshion.
+Ngay cả quân át chủ bài phòng thân cuối cùng—chú thuật khởi nguyên 『Phản Phục Thống Khổ』, thứ vốn luôn dội ngược 100% mọi sát thương tôi phải gánh chịu lên kẻ địch không hề sai lệch—giờ đây cũng hoàn toàn bị vô hiệu hóa trước sự hiện diện tối thượng của Nữ thần Elshion.
 
-À, ra là vậy. Có lẽ chú thuật 『Phản Phục Thống Khổ』 của tôi cũng hoạt động dựa trên nguyên lý can thiệp trực tiếp vào ma lực của đối phương, tương tự như 『Thần Thánh Ngôn Ngữ』.
+À, hóa ra là vậy. Bản chất chú thuật 『Phản Phục Thống Khổ』 của tôi vốn hoạt động dựa trên cơ chế cưỡng chế liên kết và can thiệp trực tiếp vào dòng chảy ma lực của đối phương, tương tự như nguyên lý của 『Thần Thánh Ngôn Ngữ』.
 
-Khi hóa thân của Thần xuất hiện, ngay cả khả năng can thiệp đó cũng bị phong tỏa hoàn toàn. Thế nên, ngay cả lời nguyền dùng để đồng quy vu tận với bất kỳ kẻ thù nào trong tình cảnh tuyệt vọng nhất này cũng không thể chạm tới cô ta.
+Một khi hóa thân của Thần linh xuất hiện, ngay cả khả năng can thiệp nhân quả đó cũng bị phong tỏa triệt để. Bởi vậy, ngay cả lời nguyền đồng quy vu tận dùng để kéo kẻ thù xuống địa ngục trong bước đường cùng này cũng không thể chạm tới vạt áo của ả.
 
-“Ha ha, chỉ bắn thôi thì chán chết đi được. Khó khăn lắm mới mượn được quyền năng của Nữ thần, tớ phải thử nghiệm hết tất cả những gì có thể làm mới được.”
+“Ha ha, chỉ nã súng thế này thì chán ngắt đi được. Khó khăn lắm mới mượn được quyền năng của Nữ thần, tớ phải thử nghiệm cho bằng hết tất cả những gì có thể làm mới bõ công chứ.”
 
-Cất khẩu súng blaster đi, Takanashi vờ vịt trầm ngâm “Ừm...” rồi cúi xuống nhìn tôi đang quằn quại trong đau đớn với một nụ cười nham hiểm.
+Gác khẩu súng blaster sang một bên, Takanashi vờ vịt trầm ngâm “Ừm...” rồi cúi xuống nhìn tôi đang quằn quại trên vũng máu với một nụ cười tàn độc, méo mó.
 
-“A, yên tâm đi nhé. Để một kẻ yếu ớt như Momokawa không chết quá nhanh, tớ sẽ nương tay thật cẩn thận mà— Đừng hòng mong được chết một cách dễ dàng.”
+“A, cứ yên tâm đi nhé. Để một kẻ yếu ớt thảm hại như Momokawa không chết quá nhanh, tớ sẽ nương tay thật chu đáo mà— Đừng có mơ sẽ được chết một cách thanh thản.”
 
-*“Thang máy đi xuống đây~”*
+*“Thang máy đi xuống đây ạ~”*
 
-Ngay khoảnh khắc quyền năng đáng sợ của Nữ thần chuẩn bị giáng xuống người tôi, một giọng nói vang lên. Đó là một giọng điệu vô cùng thong thả, hoàn toàn không phù hợp với tình thế ngàn cân treo sợi tóc lúc này.
+Ngay khoảnh khắc quyền năng hủy diệt của Nữ thần chuẩn bị giáng thẳng xuống cơ thể tôi, một giọng nói bất ngờ vang vọng khắp không gian. Đó là một tông giọng thong thả, trong trẻo đến ngây ngô, hoàn toàn không ăn nhập gì với bầu không khí ngàn cân treo sợi tóc lúc này.
 
 Giọng của một bé gái.
 
-Tôi chưa từng nghe thấy giọng nói này bao giờ. Một giọng nói hoàn toàn xa lạ.
+Tôi chưa từng nghe thấy âm thanh này bao giờ. Một giọng nói hoàn toàn xa lạ.
 
-*“Thang máy đi xuống đây~”*
+*“Thang máy đi xuống đây ạ~”*
 
-Đó là thông báo phát thanh của Tháp Trung Tâm chăng? Khi lời thông báo ngây thơ ấy một lần nữa vang vọng khắp đại sảnh, một ma pháp trận màu xanh lam nhạt đột ngột hiện lên ngay trước mặt tôi.
+Đó là thông báo phát thanh của Tháp Trung Tâm chăng? Khi lời thông báo hồn nhiên ấy một lần nữa ngân nga khắp đại sảnh, một ma pháp trận mang sắc xanh lam nhạt đột ngột bừng sáng rực rỡ ngay trước mặt tôi.
 
-“C-Cái gì... Sao lại có dịch chuyển trực tiếp ở đây?! Rõ ràng mình đã phong tỏa hoàn toàn rồi mà, kẻ nào có thể bay đến tận đây chứ?!”
+“C-Cái gì... Sao lại có cổng dịch chuyển trực tiếp ở chỗ này?! Rõ ràng mình đã phong tỏa toàn bộ quyền hạn rồi cơ mà, kẻ nào có thể bay đến tận đây chứ?!”
 
-Takanashi hét lên đầy kinh ngạc, rõ ràng đây là tình huống nằm ngoài dự tính của cô ta.
+Takanashi thét lên kinh hãi, rõ ràng đây là một biến số nằm hoàn toàn ngoài dự liệu của ả.
 
-Dịch chuyển trực tiếp... Nơi này vốn là một công trình được rất nhiều người cổ đại sử dụng từ trước. Việc tồn tại một ma pháp dịch chuyển dẫn thẳng tới đây giống như một chuyến thang máy đi thẳng cũng là điều dễ hiểu. Thế nhưng, chính tôi cũng biết rõ việc Takanashi đã phong tỏa hoàn toàn quyền sử dụng nó.
+Dịch chuyển trực tiếp... Nơi này vốn là một công trình quy mô được nền văn minh cổ đại vận hành từ xa xưa. Việc tồn tại một hệ thống ma pháp dịch chuyển dẫn thẳng tới đây hệt như một trục thang máy đi thẳng cũng là điều dễ hiểu. Thế nhưng, chính tôi cũng hiểu rất rõ việc Takanashi đã nắm giữ quyền quản trị và phong tỏa toàn bộ quyền truy cập.
 
-Dù tôi đã cố gắng tìm kiếm khắp nơi nhưng tất nhiên là không thấy gì. Có lẽ, nơi duy nhất có khả năng đó chính là Quảng Trường Tinh Linh còn hoạt động—nơi mà chúng tôi từng đánh giá là không thể chinh phục được. Nhưng làm sao có kẻ nào có thể đi qua một nơi như thế để đến đây chứ?
+Dù tôi đã lùng sục khắp nơi nhưng hiển nhiên là vô vọng. Có chăng, nơi duy nhất còn bảo lưu chức năng đó chính là Quảng Trường Tinh Linh nguyên bản—vùng đất mà chúng tôi từng đánh giá là bất khả xâm phạm. Nhưng làm sao có kẻ nào có khả năng băng qua một nơi như thế để đặt chân đến tận đây?
 
-Tất cả những người bạn học còn lại đều đã cùng tôi đến đây rồi. Lúc này không còn sót lại một ai ở ngoài kia cả. Không còn ai có thể ngăn cản kẻ chủ mưu Takanashi Kotori nữa.
+Tất cả những người bạn học còn sống sót đều đã theo chân tôi tập kết tại chiến trường này rồi. Lúc này ngoài kia tuyệt đối không còn sót lại một ai cả. Chẳng còn bất kỳ ai có thể đứng ra cản bước kẻ chủ mưu Takanashi Kotori nữa.
 
-Vậy thì rốt cuộc, kẻ đang đến là ai?
+Vậy thì rốt cuộc, kẻ đang giáng lâm là ai?
 
-*“Đã đến nơi~!”*
+*“Đã đến nơi rồi nhé~!”*
 
-Trong luồng sáng dịch chuyển rực rỡ, hai bóng người dần hiện ra.
+Giữa luồng quang mang dịch chuyển chói lòa, hai bóng hình dần dần lộ diện.
 
-Một trong số đó đúng như tôi dự đoán, chính là bức tượng yêu tinh ở Quảng Trường Tinh Linh.
+Một trong số đó đúng như suy đoán của tôi, chính là bức tượng yêu tinh tại Quảng Trường Tinh Linh.
 
-Bức tượng có kích thước của một bé gái thực thụ, sau lưng mọc hai cặp cánh đặc trưng của loài yêu tinh. Ngoại hình của nó rõ ràng là một bức tượng đá, nhưng nó lại cử động linh hoạt như thể có sự sống, và từ chiếc miệng nhỏ nhắn phát ra những âm thanh vô cùng đáng yêu.
+Bức tượng mang vóc dáng của một bé gái thực thụ, sau lưng vươn ra hai cặp cánh mỏng manh đặc trưng của loài fairy. Dáng vẻ của nó rõ ràng là một pho tượng đá vô tri, nhưng nó lại cử động vô cùng uyển chuyển như một sinh mệnh sống, và từ khuôn miệng nhỏ nhắn phát ra những âm thanh cực kỳ đáng yêu.
 
 *“Tạm biệt nha~!”*
 
-Vã rồi, như thể đã hoàn thành xong nhiệm vụ của mình, bức tượng yêu tinh biến mất cùng với luồng sáng dịch chuyển đang dần lịm đi. Có lẽ nó đã quay trở về Quảng Trường Tinh Linh ban đầu.
+Dứt lời, như thể đã hoàn thành trọn vẹn sứ mệnh của mình, bức tượng yêu tinh liền tan biến cùng luồng ánh sáng dịch chuyển đang dần lịm tắt. Có lẽ nó đã lập tức quay trở về vị trí Quảng Trường Tinh Linh ban đầu.
 
-Và tại nơi này, chỉ còn lại một bóng người duy nhất.
+Và ngay tại nơi này, chỉ còn lại một bóng hình duy nhất đứng sừng sững.
 
-“C-Cái... tại sao... sao ngươi lại ở đây...”
+“C-Cái... tại sao... sao ngươi lại có thể ở đây...”
 
-Nhìn thấy hình dáng vừa xuất hiện, cả Takanashi lẫn tôi đều chết lặng vì kinh ngạc.
+Nhìn thấy thực thể vừa xuất hiện, cả Takanashi lẫn tôi đều chết lặng trong nỗi bàng hoàng tột độ.
 
 *“Khòòò...”*
 
-Một tiếng thở sâu và nặng nề vang lên.
+Một tiếng thở sâu, nặng trĩu và u tối vang lên giữa không gian tĩnh mịch.
 
-Âm thanh đó phát ra từ một bộ giáp trụ đen tuyền, to lớn và đầy tà khí.
+Âm thanh ma quái đó phát ra từ bên dưới một bộ giáp trụ đen tuyền đồ sộ, ngập tràn tử khí và sát niệm kinh hoàng.
 
-Tôi biết thứ này. Chắc chắn không sai vào đâu được, thực thể này chính là—
+Tôi biết thứ này. Tuyệt đối không thể sai vào đâu được, thực thể này chính là—
 
-『Chiến Binh Cuồng Loạn Lang Thang』: Đó là hiện thân của ác mộng đen tối. Không được gọi tên kẻ đó. Không được viết tên kẻ đó. Không được nghe tên kẻ đó. Không được biết tên kẻ đó. Kẻ đó không hề sợ hãi ngay cả Thần linh— Dù chỉ là một bản sao mô phỏng thể hiện một phần nhỏ của sức mạnh cấm kỵ, nhưng bấy nhiêu đó cũng đã quá đủ để gieo rắc nỗi kinh hoàng cho nhân loại. Dù có khao khát sức mạnh đến đâu, lẽ ra cũng không nên chạm tay vào thứ đó. Sự hối hận đã nằm lại ở nơi xa xăm của thời gian. Kẻ cuồng chiến bị bỏ lại chỉ biết tiếp tục lang thang vô định— và giờ đây, một lần nữa đứng lên chắn đường trước mặt Thần.
+『Chiến Binh Cuồng Loạn Lang Thang』: Hiện thân của cơn ác mộng tăm tối nguyên thủy. Cấm gọi tên kẻ đó. Cấm ghi chép danh tính kẻ đó. Cấm lắng nghe về kẻ đó. Cấm thấu hiểu về kẻ đó. Kẻ đó mang trong mình sự ngạo nghễ không hề cúi đầu trước bất kỳ vị Thần nào— Dù đây chỉ là một bản sao mô phỏng lưu giữ một phần nhỏ sức mạnh cấm kỵ, nhưng bấy nhiêu đó cũng đã quá đủ để gieo rắc nỗi kinh hoàng tột cùng cho toàn thể nhân loại. Dẫu có khát khao sức mạnh đến đâu, con người lẽ ra tuyệt đối không bao giờ được phép chạm tay vào thứ đó. Sự hối hận muộn màng đã bị vùi chôn nơi vực sâu của dòng thời gian. Kẻ cuồng chiến bị bỏ lại chỉ biết tiếp tục lang thang vô định qua ngàn năm— và giờ đây, một lần nữa đứng lên chắn ngang trước mặt Thần.
 
-Kết quả giám định của 『Mai Táng Thần Học』 một lần nữa hiện lên trong tâm trí tôi.
+Dòng thông tin giám định của 『Mai Táng Thần Học』 một lần nữa cuộn trào trong tâm trí tôi.
 
-Nhưng chẳng cần phải đọc lại những dòng đó, chỉ cần nhìn lướt qua là tôi đã nhận ra ngay. Tôi không thể nào nhìn nhầm, cũng không thể nào quên được thực thể này.
+Nhưng chẳng cần phải đọc lại những dòng chú giải rùng rợn đó, chỉ cần một cái liếc mắt thoáng qua là tôi đã nhận diện được ngay. Tôi không bao giờ có thể nhìn nhầm, càng không thể nào quên đi bóng hình của thực thể này.
 
-Sự tồn tại bí ẩn được cho là nguyên nhân dẫn đến sự diệt vong của cổ đô Albion này—
+Tồn tại bí ẩn tối thượng từng được tương truyền là nguyên nhân trực tiếp dẫn tới sự diệt vong hoàn toàn của cổ đại đô thị Albion—
 
 *Xoạt!*
 
-Nó từ từ quay đầu về phía tôi, kẻ đang nằm bẹp dưới đất.
+Nó từ từ chuyển dịch chiếc đầu bọc thép về phía tôi, kẻ đang nằm bẹp dí dưới mặt sàn.
 
-Và rồi, chiếc mũ giáp hình đầu lâu hung tợn như một vị vua quỷ cúi xuống nhìn tôi, cất giọng nói:
+Và rồi, chiếc mũ giáp mang hình thù đầu lâu hung tợn tựa như một vị ma vương viễn cổ khẽ cúi xuống nhìn tôi, cất lên thanh âm trầm đục tựa sấm truyền:
 
 “— Đứa con của ta, Momokawa Kotarou.”

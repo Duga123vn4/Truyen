@@ -1,311 +1,319 @@
 # Tập 381: Linh Trang Hào Quang
 
-“Dũng Giả sẽ không thua... 『Linh Trang Hào Quang』!”
+“Dũng Giả sẽ không bao giờ gục ngã... 『Linh Trang Hào Quang』!”
 
-Ngay khoảnh khắc hai đòn đánh chí mạng chuẩn bị xé toạc cơ thể Yuuto, một luồng sáng chói lòa đột ngột bùng lên từ người cậu ta. Đó không đơn thuần là ánh sáng. Luồng sáng ấy hiện hữu với một khối lượng vật lý rõ rệt.
+Ngay khoảnh khắc hai đòn đánh chí mạng sắp sửa xé toạc cơ thể Yuuto, một luồng sáng chói lòa đột ngột bùng nổ từ sâu bên trong cậu ta. Đó không đơn thuần là ánh sáng vô hình, mà là một thực thể hiện hữu với sức nặng và khối lượng vật lý rõ rệt.
 
-Đó là một bộ giáp thần thánh, lớp giáp bạc lấp lánh được điểm xuyết bằng những hoa văn trang trí màu xanh lam và vàng kim rực rỡ. Lớp giáp mỹ lệ bao bọc lấy thân người, hộ thủ và hộ giáp bó sát vào tay chân, trên đầu xuất hiện một chiếc vương miện đính bảy viên bảo ngọc tỏa sáng. Và chiếc áo choàng xanh lam tung bay phía sau lưng, mang theo luồng hào quang xanh thẳm cuồn cuộn.
+Một bộ giáp thánh thần lộng lẫy hiện ra. Lớp giáp bạc lấp lánh được điểm xuyết những hoa văn trang trí màu xanh lam và ánh kim rực rỡ, ôm khít lấy thân mình. Giáp tay và giáp chân bó sát từng thớ cơ, trên đầu ngự trị chiếc vương miện đính bảy viên ngọc bích tỏa sáng rạng ngời. Phía sau lưng, chiếc áo choàng màu lam tung bay phần phật, kéo theo luồng hào quang xanh thẳm cuộn trào như sóng nước.
 
-Ngay sau khi bộ giáp thánh do Nữ thần ban tặng được trang bị hoàn tất, lưỡi đao của Vương và Cuồng chiến binh cuối cùng cũng chém tới—
+Ngay khi bộ thánh giáp do Nữ thần ban tặng vừa hoàn tất trang bị, lưỡi đao của Vương và Cuồng Chiến Binh cũng đồng thời giáng xuống—
 
 “Hự!”
 
 “Ối!”
 
-*Keng!* Một tiếng động thanh tao vang lên cùng ánh chớp dữ dội, bộ giáp của Dũng Giả đã hất văng cả hai vũ khí ra ngoài.
+*Keng!* 
 
-Dù kinh ngạc trước việc tình thế mười mươi bị lật ngược, Ryuuichi và Meiko vẫn không hề lơ là mà lập tức xoay chuyển thế công.
+Một âm thanh thanh thúy vang lên kèm theo ánh chớp chói lòa. Bộ giáp của Dũng Giả đã hất văng cả hai mũi vũ khí ra ngoài trong gang tấc.
 
-Bị bật ra thì chém nhát khác. Cả hai lập tức xoay người, giáng xuống nhát chém thứ hai.
+Dù kinh ngạc trước việc tình thế nắm chắc phần thắng bị lật ngược chớp nhoáng, Ryuuichi và Meiko vẫn không hề phân tâm mà lập tức biến hóa thế công.
+
+Bị bật ra thì chém nhát khác. Cả hai xoay người tức thì, giáng xuống nhát chém thứ hai sắc lẹm.
 
 “Vô ích thôi. Kiếm của các cậu không còn tác dụng với tớ nữa đâu.”
 
-Nhưng kiếm và khiên của Dũng Giả còn nhanh hơn. Đối mặt với đòn truy kích, cậu ta không chỉ dựa vào giáp phòng ngự mà tự dùng kỹ năng của mình để nghênh chiến.
+Nhưng kiếm và khiên của Dũng Giả còn nhanh hơn một bậc. Đối mặt với đòn truy kích, Yuuto không hề ỷ lại vào lớp giáp bị động mà lập tức vung kỹ năng nghênh chiến.
 
-『Thánh Kiếm Ánh Sáng』 rực sáng hơn bao giờ hết, đánh bật Vương kiếm, trong khi 『Thiên Tinh Thuẫn』 đẩy lùi cây kích.
+『Thánh Kiếm Ánh Sáng』 bùng lên vầng sáng chói lọi đánh bật Vương Kiếm, trong khi 『Thiên Tinh Thuẫn』 gầm thét đẩy lùi lưỡi đại đao.
 
 “...Thứ này không chỉ cứng thôi đâu.”
 
-“Sức mạnh của nó tăng lên rồi. Cả cơ thể cũng được cường hóa.”
+“Sức mạnh của nó đã tăng vọt. Toàn bộ cơ thể cũng được cường hóa rồi.”
 
-Nhận thấy việc áp sát Yuuto lúc này là quá nguy hiểm, cả hai đồng loạt lùi lại giữ khoảng cách.
+Nhận thấy việc tiếp tục áp sát Yuuto lúc này là hạ sách, cả hai đồng loạt đạp đất lùi lại giữ khoảng cách an toàn.
 
-Họ nhìn chằm chằm vào Yuuto trong bộ giáp bạc sáng chói, cảm nhận rõ rệt nguồn sức mạnh mới này.
+Họ trừng mắt nhìn Yuuto trong bộ giáp bạc lấp lánh, cảm nhận rõ rệt áp lực ngột ngạt tỏa ra từ nguồn sức mạnh mới.
 
-“Phải. 『Linh Trang Hào Quang』 không đơn thuần là một món phòng cụ. Chỉ khi khoác nó lên người, tớ mới thực sự hiểu được.”
+“Phải rồi. 『Linh Trang Hào Quang』 không đơn thuần là một món trang bị phòng thủ. Chỉ khi khoác nó lên người, tớ mới thực sự thấu hiểu.”
 
 Yuuto chậm rãi, ung dung thủ thế kiếm khiên, tà áo choàng bay phần phật khi cậu ta cất lời:
 
-“Kiếm, khiên và giáp. Phải hội tụ đủ cả ba thứ này, sức mạnh thực sự của Dũng Giả mới được giải phóng.”
+“Kiếm, khiên và giáp. Phải hội tụ đủ cả ba mảnh ghép này, sức mạnh thực sự của Dũng Giả mới được giải phóng trọn vẹn.”
 
-Thánh kiếm của Dũng Giả, 『Thánh Kiếm Ánh Sáng』. Lưỡi kiếm thánh thiện rực rỡ có thể chém đôi mọi kẻ thù.
+Thánh kiếm của Dũng Giả — 『Thánh Kiếm Ánh Sáng』. Lưỡi kiếm thánh thiện rực rỡ chém đôi mọi tà ma ngoại đạo.
 
-Khiên của Dũng Giả, 『Thiên Tinh Thuẫn』. Tấm khiên ánh sáng xanh thẳm là lá chắn tối thượng chặn đứng mọi đòn tấn công.
+Khiên của Dũng Giả — 『Thiên Tinh Thuẫn』. Tấm khiên lam ngọc tối thượng chặn đứng vạn đòn công kích.
 
-Cả hai đều là những kỹ năng đặc hữu vô song của Dũng Giả. Tuy nhiên, dù mạnh mẽ, chúng vẫn chưa phải là toàn bộ sức mạnh.
+Cả hai đều là những kỹ năng đặc hữu vô song. Tuy nhiên, dù uy lực đến đâu, chúng vẫn chưa phải là toàn bộ sức mạnh tối thượng.
 
-Giáp của Dũng Giả, 『Linh Trang Hào Quang』. Về mặt phòng ngự, nó tương đương với khiên. Nhưng năng lực thực sự của bộ giáp này là cường hóa tối đa cho các vũ khí mà Dũng Giả sử dụng.
+Và đây, giáp của Dũng Giả — 『Linh Trang Hào Quang』. Về mặt phòng ngự, nó kiên cố ngang ngửa tấm khiên ánh sáng. Nhưng bản chất thực sự của bộ giáp này chính là cường hóa toàn diện, nâng tầm uy lực của mọi vũ khí mà Dũng Giả nắm giữ lên mức cực hạn.
 
-“Sức mạnh đang cuộn trào... Khi khoác lên bộ giáp này, tớ cảm giác như cả kiếm và khiên cuối cùng đã hòa làm một với cơ thể mình.”
+“Sức mạnh đang cuộn trào không ngừng... Khi khoác lên bộ giáp này, tớ cảm giác như cả kiếm và khiên cuối cùng đã hòa làm một thể với da thịt mình.”
 
-Đó chắc chắn không phải là ảo giác, bởi luồng hào quang bao quanh kiếm và khiên của cậu ta đang đậm đặc lên trông thấy. Sức mạnh dễ dàng đẩy lui Ryuuichi và Meiko chính là minh chứng rõ ràng nhất.
+Đó tuyệt đối không phải là ảo giác. Luồng hào quang bao bọc quanh kiếm và khiên của cậu ta đang đậm đặc dần lên thấy rõ. Việc dễ dàng hất văng Ryuuichi và Meiko vừa rồi chính là minh chứng đanh thép nhất.
 
-“Thứ này chính là cái 'cheat' mà thằng Momokawa hay nói đây mà.”
+“Cái thứ này chính là trò ‘gian lận’ mà thằng Momokawa đã cảnh báo đây mà.”
 
-“Đúng là khi bị dồn vào đường cùng, sức mạnh mới của Dũng Giả lại thức tỉnh.”
+“Đúng là cứ hễ bị dồn vào đường cùng thì sức mạnh mới của Dũng Giả lại thức tỉnh.”
 
-Cả Ryuuichi và Meiko đều nghĩ thầm: Quả đúng như những gì Kotarou đã dự đoán.
+Cả Ryuuichi và Meiko đều thầm nghĩ: Tình thế này không nằm ngoài dự liệu của Kotarou.
 
-Khi tung hai át chủ bài này đối đầu với Souma Yuuto, đây là tình huống đầu tiên họ tính đến. Sự kết hợp giữa Vương và Cuồng chiến binh thừa sức khóa chặt Dũng Giả. Nhưng một Dũng Giả bị dồn vào chân tường khó mà chịu thua một cách thảm hại như vậy. Vốn dĩ, trò chơi sinh tồn trong Dungeon này được thiết kế để thức tỉnh Dũng Giả. Thần linh sẽ không bao giờ chấp nhận thất bại của Dũng Giả.
+Khi điều động hai át chủ bài mạnh nhất đối đầu với Souma Yuuto, đây là kịch bản đầu tiên được tính đến. Sự phối hợp ăn ý giữa Vương và Cuồng Chiến Binh thừa sức phong tỏa Dũng Giả. Thế nhưng, một Dũng Giả bị dồn vào chân tường sẽ không bao giờ chịu thua một cách chóng vánh như vậy. Bản chất của cuộc chơi sinh tồn trong Dungeon này vốn dĩ được dựng lên để làm bàn đạp thức tỉnh Dũng Giả. Thần linh tuyệt đối không chấp nhận để Dũng Giả thất bại.
 
-Vì vậy, chắc chắn sẽ có sự 'can thiệp' vào những thời khắc quyết định.
+Bởi vậy, những thời khắc ngàn cân treo sợi tóc chắc chắn sẽ có sự ‘can thiệp’ của thần thánh.
 
-And lần này, sự can thiệp đó chính là 『Linh Trang Hào Quang』.
+Và lần này, sự can thiệp ấy mang tên 『Linh Trang Hào Quang』.
 
-“...Tớ dùng cái đó nhé?”
+“...Tớ dùng ‘thứ đó’ nhé?”
 
 “Khoan đã, chưa phải lúc.”
 
-Ryuuichi ngăn Meiko lại.
+Ryuuichi giơ tay cản Meiko lại.
 
-Ở phía đối diện, Yuuto có vẻ không có ý định chủ động tấn công. Cậu ta chỉ đứng yên thủ thế kiếm khiên, như muốn nói rằng nếu đối phương ngần ngại chiến đấu thì càng tốt.
+Ở phía đối diện, Yuuto dường như không có ý định chủ động lao lên tấn công. Cậu ta chỉ điềm tĩnh thủ thế kiếm khiên, tựa như ngầm ra hiệu rằng nếu đối phương ngần ngại giao chiến thì càng tốt.
 
-Nhờ vậy, họ có chút thời gian để đánh giá tình hình và trao đổi nhanh.
+Nhờ thế, hai người có chút khoảng lặng để đánh giá lại cục diện và trao đổi nhanh.
 
-“Nhìn kìa, phía Momokawa đang chiếm ưu thế.”
+“Nhìn kìa, phía Momokawa đang hoàn toàn chiếm thế thượng phong.”
 
-“Kotarou-kun trông có vẻ vui gớm.”
+“Kotarou-kun trông có vẻ phấn khích gớm.”
 
-Từ đây, họ có thể thấy rõ Kotarou trong bộ thi hài giáp, hóa thành một con quái vật dũng mãnh đang điên cuồng càn quét. Cậu ta đang gào thét gì đó, nhưng chắc chắn lại là những lời khiêu khích quen thuộc. Với những kẻ thù có ân oán, không chọc điên chúng thì cậu ta không chịu nổi. Đó là phong cách của tên Chú thuật sư kia.
+Từ đằng xa, họ có thể nhìn rõ Kotarou trong bộ 『Thi Hài Giáp』, biến thành một quái thú khổng lồ dũng mãnh đang điên cuồng càn quét chiến trường. Cậu ta đang gào thét điều gì đó, nhưng chắc chắn lại là những lời lẽ khiêu khích độc địa quen thuộc. Đối với những kẻ thù có huyết hải thâm thù, không chọc cho chúng phát điên thì cậu ta không chịu nổi. Đó là phong cách tác chiến cố hữu của tên Chú thuật sư hiểm độc kia.
 
 “Vậy thì bên mình chưa cần phải liều mạng.”
 
-“Nghĩa là chỉ cần giết chết Takanashi trước là được đúng không?”
+“Nghĩa là chỉ cần xử lý xong con ả Takanashi trước là được đúng không?”
 
-Điểm mấu chốt của trận chiến này là chia rẽ Dũng Giả và Hiền Giả. Lý tưởng nhất là nhanh chóng hạ gục một bên rồi hội quân, nhưng không ai nghĩ mọi chuyện lại suôn sẻ đến thế.
+Chìa khóa then chốt của trận chiến này là chia cắt Dũng Giả và Hiền Giả. Lý tưởng nhất là hạ gục chớp nhoáng một bên rồi hợp lực tổng tấn công, nhưng không ai ngây thơ nghĩ mọi chuyện sẽ diễn ra êm đẹp như sách giáo khoa.
 
-Việc Yuuto thức tỉnh kỹ năng đặc hữu thứ tư đã khiến tình thế bên này trở nên bất lợi. Tuy nhiên, chỉ cần Kotarou vẫn giữ vững ưu thế, họ chỉ cần duy trì thế trận hiện tại là được. Dù hai người họ không thể hạ gục Dũng Giả, nhưng việc kiềm chân cậu ta là hoàn toàn khả thi. Chỉ cần không để Yuuto rảnh tay can thiệp vào phía Kotarou, lợi thế tổng thể vẫn thuộc về họ.
+Việc Yuuto thức tỉnh kỹ năng đặc hữu thứ tư đã khiến cán cân bên này nghiêng hẳn về thế bất lợi. Dẫu vậy, chỉ cần Kotarou vẫn duy trì thế áp đảo, họ chỉ cần làm tròn nhiệm vụ cầm chân Dũng Giả. Dù không thể hạ sát Dũng Giả ngay lập tức, nhưng việc kiềm tỏa bước chân cậu ta là điều nằm trong tầm tay. Miễn là không để Yuuto rảnh tay can thiệp sang phía Kotarou, thắng lợi chung cuộc vẫn sẽ thuộc về họ.
 
-“Cứ đà này, không khéo cậu ta lại thức tỉnh thêm một hai kỹ năng đặc hữu nữa mất.”
+“Cứ đà này, khéo cậu ta lại thức tỉnh thêm dăm ba kỹ năng đặc hữu nữa cho xem.”
 
-“Đúng vậy. Chúng ta phải giữ bài tẩy, nếu không sẽ không còn đường lui.”
+“Đúng vậy. Chúng ta phải giữ lại con át chủ bài cuối cùng, nếu không sẽ tự đẩy mình vào ngõ cụt.”
 
-“—Bàn bạc xong chưa? Thế nào, nếu các cậu chịu đầu hàng, tớ sẽ vui vẻ chấp nhận.”
+“—Bàn bạc xong xuôi chưa? Sao nào, nếu các cậu chịu buông vũ khí đầu hàng, tớ sẽ vui vẻ tiếp nhận.”
 
-“Mày vẫn ngây thơ như ngày nào nhỉ. Hồi đó chẳng phải mày từng suýt bị một thằng ngu giả vờ đầu hàng đâm sau lưng sao?”
+“Mày vẫn cứ ngây thơ như ngày nào nhỉ. Hồi cấp hai chẳng phải mày từng suýt bị một thằng ranh giả vờ đầu hàng đâm lén sau lưng sao?”
 
-“Ừ, lúc đó chính Ryuuichi đã đá bay hắn đi mà.”
+“Ừ, lúc đó chính Ryuuichi đã tung cước đá bay hắn đi mà.”
 
-Đó là chuyện về một tên bất hảo ngu ngốc, kẻ đã cầm dao gào thét lao vào lưng Yuuto trong cơn tuyệt vọng, nhưng trước khi lưỡi dao chạm tới, hắn đã bị cú đá bay người cực mạnh của Ryuuichi đá văng. Kết quả là thay vì đầu hàng để được yên ổn, tên đó phải nhập viện ba tháng với chấn thương nghiêm trọng.
+Đó là chuyện về một tên du côn liều mạng, kẻ đã gào thét cầm dao lao vào lưng Yuuto trong cơn cùng quẫn. Nhưng trước khi lưỡi dao kịp chạm vào áo Yuuto, một cú đá song phi uy lực kinh hoàng của Ryuuichi đã tống khứ hắn bay thẳng vào tường. Hậu quả là thay vì đầu hàng để êm chuyện, tên đó phải nằm viện ba tháng ròng rã với chấn thương gãy xương nghiêm trọng.
 
-Giữa Yuuto và Ryuuichi có vô số kỷ niệm như thế. Những ký ức bình dị nhưng giờ đây đã trở thành vô giá.
+Giữa Yuuto và Ryuuichi có cả một trời ký ức như thế. Những kỷ niệm học trò bình dị nhưng giờ đây lại trở nên xa vời và cay đắng.
 
-“Phải, tao là người đã bảo vệ lưng cho mày—Liệu con khốn Takanashi có làm được điều tương tự không?”
+“Phải, tao là người đã bảo bọc tấm lưng cho mày—Liệu con khốn Takanashi có làm được điều tương tự không?”
 
-Nhưng giờ đây, hai người bạn thân đã ở hai đầu chiến tuyến.
+Nhưng giờ đây, hai người bạn chí cốt đã đứng ở hai đầu chiến tuyến sinh tử.
 
-Ryuuichi sẽ không bao giờ bảo vệ tấm lưng của một kẻ đưa ra quyết định ngây thơ nữa.
+Ryuuichi sẽ không bao giờ bọc lót cho tấm lưng của một kẻ đưa ra những phán đoán ngây thơ mù quáng nữa.
 
-Đồng hành của Yuuto hiện tại là Takanashi Kotori. Ryuuichi cười khẩy khi nghĩ đến việc Yuuto lại giao phó tấm lưng của mình cho một con nhóc nham hiểm như thế.
+Người đồng hành của Yuuto lúc này là Takanashi Kotori. Ryuuichi cười khẩy đầy cay đắng khi nghĩ đến cảnh Yuuto lại dại dột giao phó mạng sống cho một con ả tâm xà hiểm độc như thế.
 
-“Không cần đâu. Vì tớ là 『Dũng Giả』. Dù chỉ có một mình, tớ cũng sẽ cứu tất cả mọi người. Ryuuichi, tớ nhất định cũng sẽ cứu cậu.”
+“Không cần đâu. Bởi vì tớ là 『Dũng Giả』. Dù chỉ còn lại một mình, tớ cũng sẽ dang tay cứu rỗi tất cả mọi người. Ryuuichi, tớ nhất định sẽ cứu cả cậu.”
 
-“Mẹ kiếp, nếm mùi bao nhiêu lần rồi mà vẫn không khôn ra à. Cái đó người ta gọi là lo chuyện bao đồng đấy!”
+“Mẹ kiếp, nếm mùi đau đớn bao nhiêu lần rồi mà cái đầu vẫn không khôn ra được à! Cái đó người ta gọi là thói lo chuyện bao đồng đấy!”
 
-Như muốn chấm dứt cuộc trò chuyện, Ryuuichi và Meiko lại thủ thế vũ khí.
+Như muốn chấm dứt chuỗi đối thoại vô nghĩa, Ryuuichi và Meiko đồng loạt nâng cao vũ khí.
 
-Ý chí chiến đấu bùng lên, ánh mắt Yuuto cũng trở nên sắc lạnh. Quả nhiên hai người này sẽ không dễ dàng bỏ cuộc.
+Chiến ý rực cháy, ánh mắt của Yuuto cũng lập tức trở nên sắc lạnh. Quả nhiên hai người này sẽ không bao giờ chịu khuất phục một cách dễ dàng.
 
-“Tiếc thật đấy. Cuối cùng tớ vẫn phải làm hai cậu bị thương sao.”
+“Tiếc thật đấy. Cuối cùng tớ vẫn buộc phải làm hai cậu bị thương sao.”
 
-“Ngon thì nhào vô, để tao xem cái sức mạnh Dũng Giả tự hào của mày ra sao—『Sóng U Minh』!”
+“Ngon thì nhào vô, để tao mở mắt xem cái thứ sức mạnh Dũng Giả mà mày tự hào rốt cuộc ra làm sao—『Sóng U Minh』!”
 
-Ryuuichi vung mạnh thanh 『Minh Kiếm Zamd』 từ trên cao xuống, giải phóng ma lực bóng tối bao quanh lưỡi kiếm thành một luồng sóng kích hắc ám cuồn cuộn.
+Ryuuichi vung mạnh thanh 『Vương Kiếm Zamd』 từ trên cao bổ xuống, giải phóng toàn bộ ma lực bóng tối bao quanh lưỡi kiếm thành một luồng sóng xung kích hắc ám cuộn trào dữ dội.
 
 “Tỏa sáng hơn nữa đi, 『Thiên Tinh Thuẫn』!”
 
-Khi chiếc khiên của Dũng Giả được nâng lên, bộ giáp cũng phát ra ánh sáng cộng hưởng. Luồng hào quang xanh thẳm trên bề mặt khiên phình to chưa từng thấy.
+Khi tấm khiên của Dũng Giả được giơ cao, bộ thánh giáp cũng phát ra ánh sáng cộng hưởng chói lòa. Vầng hào quang xanh thẳm trên bề mặt khiên phình to chưa từng thấy.
 
-Một làn sóng ánh sáng rực rỡ được phóng ra để đối đầu với luồng sóng kích hắc ám đang lao tới.
+Một luồng sóng ánh sáng rực rỡ phóng ra nghênh chiến trực diện với làn sóng xung kích hắc ám đang ập tới.
 
-Đen và trắng. Hai nguồn sức mạnh tương khắc hòa vào nhau như muốn nuốt chửng đối phương, rồi cùng tan biến không để lại dấu vết.
+Đen và trắng. Hai nguồn sức mạnh xung khắc điên cuồng cắn xé như muốn nuốt chửng đối phương, rồi cùng nhau triệt tiêu, tan biến vào hư không không để lại một dấu vết.
 
-Tấm khiên của Dũng Giả đã triệt tiêu hoàn toàn 『Sóng U Minh』.
+Tấm khiên của Dũng Giả đã hóa giải hoàn toàn uy lực của 『Sóng U Minh』.
 
 “Hàaaaaaa!”
 
-Ngay lập tức, một luồng lôi điện phóng ra từ thanh 『Hắc Lam Kiếm Rìu Gillstorm』 của Meiko lao thẳng tới.
+Ngay lập tức, một luồng lôi điện cuồng bạo phóng ra từ thanh 『Hắc Lam Kiếm Phủ Gilastorm』 của Meiko xé gió lao thẳng tới.
 
-Không phải võ kỹ cũng chẳng phải ma pháp. Cô chỉ dùng ma lực của bản thân để kích hoạt và giải phóng nguồn lôi điện mạnh mẽ ẩn chứa trong vũ khí.
+Không phải võ kỹ, cũng chẳng phải ma pháp. Cô chỉ đơn thuần dùng chính lượng ma lực dồi dào của bản thân để kích hoạt và giải phóng toàn bộ nguồn điện tích cuồng nộ ẩn chứa bên trong vũ khí.
 
-Luồng sét sắc lẹm hơn cả đòn tấn công trước đó lao thẳng vào mạn sườn của Yuuto khi cậu ta đang thủ khiên.
+Luồng sét sắc lẹm, mang sức công phá vượt trội hơn hẳn đòn tấn công trước đó, đánh thẳng vào mạn sườn sơ hở của Yuuto khi cậu ta đang bận giương khiên.
 
-“Tia sét cỡ này thì không cần dùng đến khiên.”
+“Tia sét cỡ này thì chưa cần dùng đến khiên.”
 
-Chiếc áo choàng xanh lam dài quét đất tung bay. Tấm vải mỏng manh ấy phất lên trước luồng lôi điện—*Xoẹt!* Luồng điện tím nổ tung dữ dội rồi tiêu tán.
+Tà áo choàng xanh lam dài quét đất tung bay trong gió. Tấm vải mỏng manh ấy khẽ phất lên đón đầu luồng lôi điện—*Xoẹt!* 
 
-Tà áo choàng nhẹ nhàng lay động không một vết cháy sém, và Yuuto thậm chí còn không hề cảm nhận được dù chỉ là một tia điện nhỏ.
+Tia sét tím nổ tung dữ dội rồi vụt tắt ngấm.
 
-Chỉ với một cái phất áo choàng đã chặn đứng đòn đánh. Không, phải là hất văng mới đúng.
+Tà áo choàng chỉ nhẹ nhàng lay động, không để lại lấy một vết cháy xém, và Yuuto thậm chí còn không hề cảm nhận được dù chỉ là một gợn tê dại nhỏ nhất.
+
+Chỉ bằng một cái phất áo choàng nhẹ bẫng đã hóa giải hoàn toàn đòn đánh. Không, chuẩn xác hơn là hất văng nó đi.
 
 “Đó là... 『Thánh Thiên Kết Giới』 dạng áo choàng.”
 
-Dựa vào phản ứng khi chặn đòn lôi điện, Meiko khẳng định chắc nịch.
+Dựa vào phản ứng va chạm vừa rồi, Meiko gằn giọng khẳng định chắc nịch.
 
-Cô vốn biết chiếc áo choàng phía sau không chỉ để làm cảnh, nhưng không ngờ nó lại sở hữu phòng ngự mạnh mẽ ngang ngửa 『Thánh Thiên Kết Giới』.
+Cô vốn thừa biết chiếc áo choàng phía sau lưng cậu ta không phải sinh ra chỉ để làm cảnh, nhưng không ngờ nó lại sở hữu năng lực phòng ngự kinh người ngang ngửa với 『Thánh Thiên Kết Giới』.
 
-Chỉ riêng lớp giáp phòng ngự của Yuuto đã đủ phiền phức, giờ lại thêm cả lớp bảo vệ của áo choàng. Bộ giáp bao bọc toàn thân, phía trước có khiên, phía sau có áo choàng, tạo thành một hệ thống phòng thủ hai lớp kiên cố.
+Chỉ riêng lớp giáp trụ kiên cố của Yuuto đã đủ khiến người ta đau đầu, giờ đây lại cộng thêm tầng phòng vệ tuyệt đối của chiếc áo choàng. Thân thể được bọc kín bởi thánh giáp, phía trước có khiên thánh nghênh đón, phía sau có áo choàng bảo hộ, tạo thành một hệ thống phòng thủ hai lớp bất khả xâm phạm.
 
-Hơn nữa, việc phòng ngự bằng áo choàng không hề cản trở chuyển động của Yuuto. Nghĩa là cậu ta đã sẵn sàng phản công.
+Hơn thế nữa, việc dùng áo choàng phòng ngự hoàn toàn không hề cản trở biên độ cử động của Yuuto. Đồng nghĩa với việc, cậu ta đã vào tư thế sẵn sàng phản công.
 
-“Tránh cho kỹ nhé, Futaba-san. Tớ không muốn giết cậu đâu.”
+“Né cho kỹ nhé, Futaba-san. Tớ không muốn tước đoạt mạng sống của cậu đâu.”
 
-『Thánh Kiếm Ánh Sáng』 vung lên cùng vầng hào quang chói lọi. Ba vệt sáng lóe lên trong tích tắc. Những lưỡi kiếm ánh sáng xanh thẳm xé toạc không trung.
+『Thánh Kiếm Ánh Sáng』 vung lên kèm theo vầng hào quang rực rỡ đến lóa mắt. Ba vệt sáng lóe lên trong chớp mắt. Những lưỡi kiếm ánh sáng xanh thẳm xé toạc không gian lao vút đi.
 
-Meiko không có thời gian để truy kích. Cô né nhát chém dọc bằng cách lướt sang trái, rồi nhảy lên tránh đường kiếm chém ngang tiếp theo.
+Meiko không có lấy một giây để truy kích. Cô né nhát chém dọc đầu tiên bằng cú lướt người sang trái, rồi lập tức bật nhảy lên không trung để tránh đường kiếm quét ngang tiếp theo.
 
 “Hự!”
 
-Nhát chém thứ ba là một cú chém ngược từ dưới lên. Như đã tính toán từ trước, lưỡi kiếm lao thẳng vào Meiko khi cô đang lơ lửng trên không.
+Nhát kiếm thứ ba lại là một cú chém ngược hiểm hóc từ dưới lên. Như đã tính toán chuẩn xác từ trước, lưỡi kiếm nhắm thẳng vào Meiko ngay khoảnh khắc cô đang lơ lửng giữa không trung, không còn điểm tựa.
 
-Trong tình thế cấp bách, cô lập tức phóng to thanh 『Zagan's Pride』 ở tay trái làm khiên đỡ. *Keng keng!* Nhát chém rực lửa đập mạnh vào lưỡi đao.
+Trong tình thế ngàn cân treo sợi tóc, cô lập tức phóng to thanh 『Zagan's Pride』 bên tay trái biến thành tấm khiên chắn. 
 
-Dù bị lực đánh bật lùi trên không, Meiko vẫn tiếp đất vững vàng. Sở dĩ nhát chém thứ tư không lao tới là vì Ryuuichi đã kịp thời tấn công yểm trợ.
+*Keng! Keng!* 
 
-“Cuốn phăng đi—『Hơi Thở Lửa』!”
+Nhát chém rực lửa dội thẳng vào thân đao nặng nề.
 
-Ryuuichi giơ cao bàn tay trái rực đỏ, tạo ra bốn quả cầu lửa khổng lồ. Những quả cầu lửa rực cháy này không phải là ma pháp tấn công hệ Hỏa cấp cao thông thường. Đó là hơi thở của rồng—long tức rực cháy mà cậu có được sau khi nuốt chửng Hỏa long Salamander.
+Dù bị phản lực cực mạnh hất văng ngược lại, Meiko vẫn giữ vững thăng bằng tiếp đất an toàn. Sở dĩ nhát kiếm thứ tư không thể tung ra là bởi Ryuuichi đã kịp thời lao tới yểm trợ.
 
-Bốn quả cầu lửa bay theo các quỹ đạo khác nhau lao thẳng về phía Yuuto.
+“Cuốn phăng hết đi—『Hơi Thở Lửa』!”
 
-“Đi đi, 『Đại Hỏa Tinh Linh』.”
+Ryuuichi giơ cao bàn tay trái rực đỏ, ngưng tụ bốn quả cầu lửa khổng lồ. Những khối cầu lửa bùng cháy dữ dội này không phải ma pháp hệ Hỏa cấp cao thông thường. Đó chính là hơi thở của loài rồng—long tức hủy diệt mà cậu đã đoạt được sau khi nuốt chửng Hỏa long Salamander.
 
-Lần này Yuuto không dùng khiên, cậu ta vung thanh 『Thánh Hỏa Thương Lôi』 ở tay trái.
+Bốn quả cầu lửa vạch nên những quỹ đạo chết chóc khác nhau, lao vùn vụt về phía Yuuto.
 
-Phản ứng lại đòn đánh là chiếc vương miện đính ngọc trên mái tóc đen của Yuuto.
+“Xuất trận đi, 『Đại Hỏa Tinh Linh』.”
 
-Chiếc vương miện đính bảy viên bảo ngọc trông giống như một món trang sức mỹ lệ hơn là đồ phòng ngự, nhưng nó thực sự ẩn chứa sức mạnh của Dũng Giả. Bảy viên bảo ngọc với màu sắc khác nhau đại diện cho bảy thuộc tính tương ứng.
+Lần này Yuuto không dùng khiên, cậu ta vung mạnh thanh 『Thánh Hỏa Thương Lôi』 bên tay trái.
 
-Lúc này, viên hồng ngọc đỏ rực như máu phát ra ánh sáng mạnh mẽ nhất. Bên trong ánh đỏ lấp lánh ấy, một ngọn lửa đang bùng cháy dữ dội.
+Đáp lại đòn đánh là chiếc vương miện đính ngọc ngự trị trên mái tóc đen của Yuuto.
 
-Viên ngọc đỏ chứa ma lực hệ Hỏa khổng lồ cộng hưởng với ngọn lửa thánh thiện phát ra từ thanh 『Thánh Hỏa Thương Lôi』, đẩy sức mạnh của tinh linh được triệu hồi lên một tầm cao mới.
+Chiếc vương miện đính bảy viên bảo ngọc trông giống như một món trang sức mỹ lệ hơn là trang bị phòng hộ, nhưng nó thực chất là nơi phong ấn sức mạnh nguyên tố của Dũng Giả. Bảy viên ngọc mang màu sắc riêng biệt tượng trưng cho bảy thuộc tính tự nhiên.
 
-Tinh linh được gọi ra hóa thành những quả cầu lửa khổng lồ không hề kém cạnh long tức của hỏa long. Số lượng là năm quả.
+Lúc này, viên hồng ngọc đỏ rực như máu phát ra vầng sáng rực rỡ nhất. Bên trong ánh đỏ lung linh ấy, một ngọn lửa nguyên sơ đang bùng cháy dữ dội.
 
-Năm quả cầu lửa đồng loạt phóng đi. Những quả cầu lửa xanh lam rực cháy này không chỉ là ma pháp tấn công thông thường mà còn mang ý chí của tinh linh. Tuân thủ tuyệt đối mệnh lệnh của Dũng Giả, các tinh linh lao thẳng vào bốn quả cầu lửa đang tới mà không hề lệch một phân.
+Viên ngọc chứa lượng ma lực hệ Hỏa khổng lồ cộng hưởng hoàn hảo với ngọn lửa thánh thiện phát ra từ thanh 『Thánh Hỏa Thương Lôi』, đẩy uy lực của tinh linh được triệu hồi lên một tầm cao mới.
 
-Ngọn lửa hồng liên của hỏa long và ngọn lửa xanh lam của tinh linh va chạm giữa không trung. Một vụ nổ kinh hoàng xảy ra, tạo nên cơn bão lửa thiêu rụi mọi thứ xung quanh.
+Tinh linh được gọi ra ngưng tụ thành những quả cầu lửa khổng lồ với uy áp không hề thua kém long tức của rồng lửa. Số lượng lên tới năm quả.
 
-Sức công phá ngang ngửa nhau khiến cả hai bên cùng nổ tung, nhưng 『Đại Hỏa Tinh Linh』 của Yuuto có tới năm quả.
+Năm khối cầu lửa đồng loạt xé gió phóng đi. Những ngọn lửa xanh lam rực cháy này không chỉ là đòn ma pháp tấn công đơn thuần mà còn mang theo ý chí sắt đá của tinh linh. Tuân thủ tuyệt đối mệnh lệnh của Dũng Giả, các tinh linh lao thẳng vào bốn quả cầu lửa đang ập tới mà không hề lệch một phân.
 
-Vượt qua làn khói lửa, quả cầu lửa xanh lam còn lại lao thẳng về phía Ryuuichi.
+Ngọn lửa hồng liên của hỏa long và ngọn lửa lam ngọc của tinh linh va chạm dữ dội giữa không trung. Một vụ nổ kinh thiên động địa bùng phát, tạo thành cơn bão lửa thiêu rụi toàn bộ mặt đất xung quanh.
 
-“Dám bắn thừa một phát để khinh thường tao à. Đừng có coi thường tao—『Vòng Xoáy U Minh』!”
+Sức công phá tương đương khiến cả hai bên cùng nổ tung, nhưng 『Đại Hỏa Tinh Linh』 của Yuuto vượt trội hơn một quả.
 
-Vung cao thanh Vương kiếm bao quanh bởi vòng xoáy đen kịt, Ryuuichi không hề e sợ mà lao thẳng về phía quả cầu lửa đang cận kề.
+Xuyên qua màn khói lửa mịt mù, quả cầu lửa xanh lam còn lại lao thẳng về phía Ryuuichi với tốc độ kinh hoàng.
 
-Ngay trước khi quả cầu lửa xanh lam chạm vào người, 『Vòng Xoáy U Minh』 giáng xuống nuốt chửng lấy nó, rồi tiếp tục lao về phía Yuuto.
+“Dám bắn dư một phát để sỉ nhục tao à. Đừng có coi thường tao quá mức—『Vòng Xoáy U Minh』!”
 
-“Tớ không hề coi thường cậu. Ryuuichi, nếu đối thủ là cậu, tớ luôn dốc toàn lực—『Sát Na Nhất Thiểm』!”
+Vung cao thanh Vương Kiếm ngập tràn xoáy đen u tối, Ryuuichi không hề chùn bước mà lao thẳng vào quả cầu lửa đang cận kề trước mặt.
 
-Đối mặt với đòn tấn công mang sức hủy diệt khổng lồ đang giáng xuống từ trên đầu, Dũng Giả tung ra võ kỹ tất sát của mình.
+Ngay trước khi quả cầu lửa xanh lam kịp chạm vào da thịt, 『Vòng Xoáy U Minh』 bổ xuống nuốt chửng lấy nó trong nháy mắt, rồi tiếp tục mang theo sát khí ngút trời chém thẳng về phía Yuuto.
 
-Tỏa ra ánh sáng chói lòa, 『Thánh Kiếm Ánh Sáng』 lập tức tạo thành một lưỡi kiếm ánh sáng khổng lồ. Cộng hưởng với luồng hào quang xanh trắng rực rỡ từ 『Linh Trang Hào Quang』, thanh kiếm càng thêm phần rực sáng.
+“Tớ chưa từng coi thường cậu. Ryuuichi, một khi đối thủ là cậu, tớ sẽ luôn dốc toàn bộ sức mạnh—『Sát Na Nhất Thiểm』!”
 
-Hai nguồn sức mạnh ánh sáng và bóng tối lớn nhất từ trước đến nay va chạm vào nhau.
+Đối mặt với đòn công kích mang sức hủy diệt khủng khiếp đang giáng xuống đỉnh đầu, Dũng Giả lập tức tung ra tuyệt kỹ tất sát của mình.
 
-Yuuto và Ryuuichi. Dũng Giả và Vương. Dù kết quả là hai bên triệt tiêu lẫn nhau, thể hiện mối quan hệ ngang tài ngang sức—nhưng lúc này, cán cân đã nghiêng về phía Dũng Giả Ánh Sáng.
+Tỏa ra luồng sáng chói lòa, 『Thánh Kiếm Ánh Sáng』 lập tức biến hóa thành một lưỡi kiếm ánh sáng khổng lồ. Cộng hưởng cùng vầng hào quang xanh trắng rực rỡ từ 『Linh Trang Hào Quang』, lưỡi kiếm càng thêm phần uy nghiêm và rực rỡ.
+
+Hai nguồn sức mạnh ánh sáng và bóng tối mạnh mẽ nhất từ trước đến nay va chạm nảy lửa.
+
+Yuuto và Ryuuichi. Dũng Giả và Vương. Dù kết quả là hai luồng sức mạnh triệt tiêu lẫn nhau, minh chứng cho thực lực ngang tài ngang sức—nhưng vào thời khắc này, cán cân đã nghiêng hẳn về phía Dũng Giả Ánh Sáng.
 
 “Hự... Ự... Ốôôôôôôô!”
 
-Cảnh tượng giống như bóng tối u minh đang bị ánh sáng thánh thiện thanh tẩy. Luồng ma lực bóng tối cuồn cuộn mang sức hủy diệt khủng khiếp bị ánh sáng của Thánh kiếm hóa giải và tan biến trong nháy mắt.
+Cảnh tượng diễn ra tựa như bóng tối u minh đang bị ánh sáng thần thánh thanh tẩy sạch sẽ. Luồng ma lực hắc ám cuộn trào mang sức hủy diệt kinh hoàng bị ánh hào quang của Thánh Kiếm hóa giải và tan biến trong tích tắc.
 
-Ngay cả khi bóng tối đã tan sạch, lưỡi kiếm rực lửa vẫn tiếp tục tỏa sáng.
+Ngay cả khi bóng tối đã bị xóa sạch, lưỡi kiếm rực lửa vẫn tiếp tục bừng sáng không hề suy giảm uy thế.
 
-Chiêu 『Sát Na Nhất Thiểm』 của Yuuto vẫn giữ nguyên uy lực, chém thẳng về phía Ryuuichi.
+Tuyệt chiêu 『Sát Na Nhất Thiểm』 của Yuuto vẫn giữ nguyên sức mạnh tàn phá, chém thẳng xuống người Ryuuichi.
 
 “—『Phi Lôi Thiểm』!”
 
-Ngay trước đó, một tiếng hô vang lên.
+Ngay khoảnh khắc ngàn cân treo sợi tóc, một tiếng thét đanh thép vang lên.
 
-Dù là một võ kỹ xa lạ, nhưng nhìn thanh kích mang theo lôi điện đang vung lên, hiệu quả của nó không khó để hình dung. Luồng ma lực tê tái kích thích da thịt cho thấy một đòn lôi điện sắc lẹm sắp sửa được phóng ra.
+Dù là một võ kỹ hoàn toàn xa lạ, nhưng nhìn thanh kích bọc lôi điện đang xé gió lao tới, hiệu quả của nó không khó để hình dung. Luồng ma lực tê rần kích thích da thịt báo hiệu một đòn sét sắc bén chuẩn bị giáng xuống.
 
-Nhưng với Yuuto hiện tại, một đòn lôi điện thông thường không có gì đáng ngại. Dù là đòn đánh được nâng tầm thành võ kỹ hay ma pháp, nó cũng không thể xuyên qua lớp áo choàng và giáp trụ này, thậm chí còn chẳng thể làm cậu ta lay chuyển.
+Thế nhưng đối với Yuuto ở thời điểm hiện tại, một đòn lôi điện thông thường không đủ để tạo nên mối đe dọa. Dù là đòn đánh được thăng hoa thành võ kỹ hay ma pháp, nó cũng không tài nào xuyên thủng lớp áo choàng và thánh giáp này, thậm chí chẳng thể khiến cậu ta lay chuyển nửa bước.
 
 “Hử—”
 
-Tuy nhiên, Yuuto đột ngột dừng chiêu 『Sát Na Nhất Thiểm』 vốn định chém thẳng vào Ryuuichi, lập tức xoay người né tránh. Trực giác Dũng Giả mách bảo cậu ta phải phòng thủ.
+Thế nhưng, Yuuto đột ngột triệt tiêu chiêu 『Sát Na Nhất Thiểm』 vốn đang chém thẳng vào Ryuuichi, lập tức xoay chuyển thân mình né tránh. Trực giác siêu phàm của Dũng Giả gầm thét cảnh báo cậu ta phải chuyển sang thế phòng thủ ngay lập tức.
 
-Và trực giác đó đã đúng.
+Và trực giác đó hoàn toàn chính xác.
 
 “Uốôôô!”
 
-Cùng với tiếng hét đầy khí thế, Yuuto vung thanh 『Thánh Kiếm Ánh Sáng』 vẫn đang duy trì lưỡi kiếm ánh sáng khổng lồ.
+Cùng với tiếng hét rực lửa chiến khí, Yuuto vung thanh 『Thánh Kiếm Ánh Sáng』 vẫn đang duy trì lưỡi kiếm ánh sáng khổng lồ lên đỡ đòn.
 
-Một cảm giác va chạm cực kỳ nặng nề. Nếu chỉ là chém đứt lôi điện thì không thể như thế này.
+Một cảm giác va chạm nặng nề truyền đến tay. Nếu chỉ là chém đứt một tia lôi điện thông thường thì tuyệt đối không thể có sức nặng kinh hoàng đến mức này.
 
-Thứ vừa lao tới với uy lực sắc bén muốn xuyên thủng cả lưỡi kiếm ánh sáng rực rỡ chính là cây kích đen kịt bọc lôi điện.
+Thứ vừa lao tới với uy lực sắc bén muốn đâm xuyên qua cả lưỡi kiếm ánh sáng chính là cây kích đen kịt bọc lôi điện cuồng bạo.
 
-Hóa ra, 『Phi Lôi Thiểm』 không phải là chiêu phóng sét. Đó là một võ kỹ ném vũ khí tầm xa với tốc độ và sự sắc bén như tia chớp.
+Thì ra, 『Phi Lôi Thiểm』 không phải là chiêu thức phóng sét tầm xa. Đó là một võ kỹ phi vũ khí với tốc độ và sự sắc nhọn tựa như tia chớp giáng xuống từ trời cao.
 
 “Yaaaaaa—”
 
-Và ngay sau khi ném thanh 『Hắc Lam Kiếm Rìu Gillstorm』, chính Meiko cũng lao tới với tốc độ kinh hoàng.
+Và ngay sau khi ném thanh 『Hắc Lam Kiếm Phủ Gilastorm』 đi, chính bản thân Meiko cũng đạp đất lao tới với tốc độ kinh hồn bạt vía.
 
-Bàn tay phải vừa buông vũ khí ném đi giờ đã nắm chặt một lưỡi đao mới. Đó là lưỡi đao nguyền rủa tỏa ra luồng oán khí đáng sợ, 『Bát Táp Ngưu Ma Đao』.
+Bàn tay phải vừa buông vũ khí giờ đây đã siết chặt một lưỡi đao mới. Đó là lưỡi đao nguyền rủa tỏa ra oán khí ngút trời đến lạnh gáy — 『Bát Táp Ngưu Ma Đao』.
 
-*Quả không hổ danh là Futaba.*
+*Quả không hổ danh là Futaba-san.*
 
-Nếu là bản thân của trước đó, có lẽ cậu ta đã bị áp đảo hoàn toàn. Việc dồn hết sức chặn đứng 『Phi Lôi Thiểm』 sẽ khiến cậu ta chậm một nhịp khi đối phó với Meiko lao tới ngay sau đó, và dễ dàng bị dồn vào thế bí.
+Nếu là bản thân của trước kia, có lẽ cậu ta đã bị dồn ép đến mức không kịp trở tay. Việc dồn toàn lực chặn đứng 『Phi Lôi Thiểm』 sẽ khiến cậu ta bị khựng lại một nhịp khi đối mặt với Meiko đang áp sát ngay sau đó, và rất dễ bị đẩy vào tử địa.
 
-Việc dám vứt bỏ một vũ khí ma pháp quý giá và mạnh mẽ như 『Hắc Lam Kiếm Rìu Gillstorm』 để làm mồi nhử cho đòn ném cho thấy óc phán đoán và sự quyết đoán phi thường, không giống một kẻ mới làm quen với chiến đấu chút nào.
+Việc dám vứt bỏ một món vũ khí ma pháp quý giá và hùng mạnh như 『Hắc Lam Kiếm Phủ Gilastorm』 chỉ để làm mồi nhử cho một đòn ném đã cho thấy nhãn quan chiến thuật và sự quyết đoán phi thường, hoàn toàn không giống một kẻ mới làm quen với chiến trận.
 
-*Futaba quả thực là một chiến binh mạnh mẽ, xứng đáng đứng chung chiến tuyến với Ryuuichi.*
+*Futaba-san thực sự là một chiến binh dũng mãnh, hoàn toàn xứng đáng đứng chung chiến tuyến với Ryuuichi.*
 
-Nhưng chính vì có sự ung dung của hiện tại, Yuuto mới có thể đưa ra nhận xét đó.
+Thế nhưng, chính vì đang nắm giữ sự ung dung tuyệt đối của kẻ mạnh, Yuuto mới có thể đưa ra những đánh giá thong thả như vậy.
 
-“Nhưng một mình lao lên thế này là sai lầm rồi—『Vô Song Kiếm Vũ』!”
+“Nhưng đơn thương độc mã lao lên thế này là sai lầm rồi—『Vô Song Kiếm Vũ』!”
 
-Võ kỹ liên hoàn được kích hoạt khiến Meiko không khỏi kinh ngạc.
+Võ kỹ liên hoàn được kích hoạt trong chớp mắt khiến Meiko không khỏi sững sờ.
 
 “Thời gian khựng sau chiêu thức—”
 
-“Bị bỏ qua rồi sao, tên khốn này!” Meiko chỉ muốn chửi thề thành tiếng.
+*Bị bỏ qua hoàn toàn rồi sao, tên quái vật này!* Meiko nghiến răng chửi thề trong lòng.
 
-Không chỉ thay đổi quỹ đạo của đại chiêu 『Sát Na Nhất Thiểm』 giữa chừng, cậu ta còn lập tức kích hoạt một võ kỹ mới ngay sau đó.
+Không chỉ bẻ gãy quỹ đạo của đại chiêu 『Sát Na Nhất Thiểm』 giữa chừng, cậu ta còn lập tức kích hoạt một võ kỹ cấp cao mới ngay sau đó mà không cần bất kỳ khoảng nghỉ nào.
 
-Điều này trước đây là bất khả thi. Nhưng bộ giáp của Dũng Giả sở hữu sức mạnh giúp triệt tiêu khoảng thời gian khựng bắt buộc đó. Dù cơ thể có bị khựng lại do kích hoạt võ kỹ, bản thân bộ giáp bao bọc bên ngoài sẽ tự động chuyển động kéo theo cơ thể di chuyển. Khoảng thời gian khựng đó chỉ là một tích tắc, nhưng trong trận cận chiến giữa những siêu nhân sở hữu thiên chức, một sơ hở nhỏ như vậy cũng đủ để đoạt mạng. Bộ giáp chuyển động đã giúp cậu ta thực hiện được hành động phá vỡ quy tắc này.
+Điều này vốn là bất khả thi theo mọi quy luật thông thường. Thế nhưng bộ giáp của Dũng Giả lại nắm giữ quyền năng xóa bỏ hoàn toàn khoảng thời gian khựng chết người đó. Dù cơ thể người sử dụng có bị đông cứng lại sau khi tung chiêu, bản thân bộ giáp bao bọc bên ngoài sẽ tự động chuyển động cưỡng chế, kéo theo thân thể di chuyển theo. Khoảng thời gian khựng đó chỉ diễn ra trong một tích tắc ngắn ngủi, nhưng trong những trận cận chiến sinh tử giữa các thực thể sở hữu thiên chức siêu phàm, một sơ hở nhỏ bằng sợi tóc cũng đủ để định đoạt mạng sống. Bộ thánh giáp tự động vận hành đã giúp cậu ta phá vỡ mọi quy tắc chiến đấu.
 
 “Aaaaaaaaaaaaaaa!!”
 
-Dù hiểu rõ điều đó, nàng Cuồng chiến binh dũng mãnh vẫn không dừng lại. Một nước đi ngoài dự tính. Dù biết mình đang ở thế bất lợi, cô vẫn không hề lùi bước. Để đáp lại lòng dũng cảm đó, chiêu 『Vô Song Kiếm Vũ』 của Yuuto giải phóng toàn bộ tốc độ và uy lực.
+Dù thấu hiểu rõ điều đó, nàng Cuồng Chiến Binh dũng mãnh vẫn không hề dừng bước. Một quyết định nằm ngoài mọi dự tính. Dù biết rõ mình đang rơi vào thế hạ phong tuyệt đối, cô vẫn không lùi nửa bước. Để đáp lại lòng dũng cảm bất khuất ấy, chiêu 『Vô Song Kiếm Vũ』 của Yuuto đã giải phóng trọn vẹn tốc độ và uy lực hủy diệt.
 
 “Hự, ư... Aaaa!”
 
-Chỉ vỏn vẹn ba giây. Nhưng trong ba giây ngắn ngủi đó, hàng chục đường kiếm đã lóe lên. Đó là những nhát chém siêu tốc vượt ngoài tầm mắt của người thường.
+Chỉ vỏn vẹn ba giây ngắn ngủi. Nhưng trong ba giây chớp nhoáng đó, hàng chục đường kiếm đã lóe lên xé toạc không gian. Đó là những nhát chém siêu thanh vượt xa tầm mắt trần của con người.
 
-Meiko dùng cả lưỡi đao nguyền rủa và thanh đại kiếm của khổng lồ, điên cuồng chống đỡ bằng hai món vũ khí trên tay... nhưng chỉ sau một giây cô đã bị đẩy lui, đến giây thứ hai thì không thể chống đỡ nổi nữa, và vào khoảnh khắc của giây cuối cùng, cô đã bị trúng đòn trực diện.
+Meiko dùng cả lưỡi đao nguyền rủa và thanh đại kiếm khổng lồ, điên cuồng vung hai tay chống đỡ trong tuyệt vọng... nhưng chỉ sau một giây cô đã bị đẩy lùi, sang giây thứ hai thì hoàn toàn mất đi thế thủ, và vào khoảnh khắc của giây cuối cùng, toàn bộ đòn đánh đã găm thẳng vào thân thể cô.
 
-Vô số vết chém hằn lên tay chân, và một nhát chém chéo chí mạng giáng thẳng vào thân người. Meiko phun ra một ngụm máu lớn rồi bị đánh văng đi. Nàng Cuồng chiến binh kiên cường cuối cùng cũng ngã gục xuống đất.
+Vô số vết chém sâu hoắm hằn lên tay chân, và một nhát chém chéo chí mạng giáng thẳng vào lồng ngực. Meiko phun ra một ngụm máu tươi rồi bị đánh văng ra xa. Nàng Cuồng Chiến Binh kiên cường cuối cùng cũng ngã gục xuống nền đất lạnh.
 
-“—Đến đây thì các cậu hiểu rồi chứ. Dù cả Ryuuichi và Futaba-san có hợp lực, cũng không thể thắng được tớ khi đã có được sức mạnh thực sự của Dũng Giả.”
+“—Đến nước này thì các cậu đã hiểu rồi chứ. Dù cả Ryuuichi và Futaba-san có hợp sức, cũng không thể nào đánh bại được tớ khi tớ đã nắm giữ sức mạnh thực sự của Dũng Giả.”
 
-Dù đã kịp dừng đòn chém giữa chừng, Ryuuichi vẫn phải quỳ gối sau khi trúng 『Sát Na Nhất Thiểm』. Nhát chém rực lửa cực mạnh khắc sâu vào người cậu ta một lượng nhiệt lớn đến mức hơi nước bốc lên nghi ngút từ cơ thể.
+Dù đã kịp gượng gạo dừng đòn chém giữa chừng, Ryuuichi vẫn phải quỵ gối sau khi trúng trọn dư chấn của 『Sát Na Nhất Thiểm』. Nhát kiếm rực lửa cực mạnh khắc sâu vào cơ thể cậu ta một lượng nhiệt khổng lồ đến mức hơi nước bốc lên nghi ngút từ da thịt.
 
-Và Meiko, người phải hứng chịu vô số vết thương cùng một đòn trực diện từ loạt liên kích bão táp, đang nằm bất động trên vũng máu. Dòng máu tươi không ngừng tuôn rơi nhuộm đỏ cả bộ đồng phục thủy thủ.
+Còn Meiko, người phải gánh chịu vô số vết thương sâu hoắm cùng đòn giáng trực diện từ cơn bão liên kích, lúc này đang nằm bất động trên vũng máu đỏ thẫm. Máu tươi không ngừng tuôn rơi, nhuộm đỏ cả bộ đồng phục thủy thủ rách nát.
 
-“Đầu hàng đi. Không cần thiết phải để hai cậu bị thương thêm nữa.”
+“Đầu hàng đi thôi. Không cần thiết phải để hai cậu phải chịu thêm thương tổn nữa.”
 
-Yuuto nhìn hai người bạn đã gục ngã với ánh mắt đầy thương cảm và từ bi.
+Yuuto nhìn hai người bạn cùng lớp đã gục ngã dưới chân mình với ánh mắt đong đầy sự xót xa và trắc ẩn.
 
-“Hừ, mày bị ngu à...”
+“Hừ, mày bị ngu bẩm sinh à...”
 
-“...Cậu nghĩ... chỉ thế này mà cản được bọn tớ sao?”
+“...Cậu nghĩ... chỉ ngần này... là đủ cản bước được bọn tớ sao?”
 
-Vị Vương gượng đứng dậy, nở nụ cười khẩy đầy ngạo nghễ trên khuôn mặt lấm lem bùn đất.
+Vị Vương cắn răng gượng đứng dậy, khóe môi nhếch lên một nụ cười khẩy đầy ngạo nghễ trên khuôn mặt lấm lem bùn đất và tro bụi.
 
-Nàng Cuồng chiến binh cũng gượng dậy, đôi mắt rực sáng ý chí chiến đấu bất khuất trên gương mặt bê bết máu.
+Nàng Cuồng Chiến Binh cũng run rẩy chống đao gượng dậy, đôi mắt rực cháy ý chí chiến đấu bất khuất trên gương mặt bê bết máu tươi.
 
-Nhìn dáng vẻ kiêu hãnh và bất khuất của hai người họ, Dũng Giả chỉ biết buồn bã nhắm mắt lại.
+Chứng kiến khí phách kiêu hãnh và kiên cường không chịu khuất phục của hai người họ, Dũng Giả chỉ biết buồn bã khép hờ đôi mi.
 
-“—Vậy sao. Thế thì tớ chỉ còn cách đánh cho đến khi các cậu không thể đứng dậy được nữa.”
+“—Vậy sao. Thế thì tớ chỉ còn cách tiếp tục vung kiếm, cho đến khi các cậu thực sự không thể gượng dậy được nữa.”

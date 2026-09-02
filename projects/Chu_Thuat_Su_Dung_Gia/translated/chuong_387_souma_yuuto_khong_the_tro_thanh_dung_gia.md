@@ -4,328 +4,328 @@
 
 “Xin lỗi nhé, Souma-kun.”
 
-Lời xin lỗi vừa dứt cũng là lúc lưỡi dao được vung lên, đâm xuyên qua lưng Dũng Giả mà không một chút khoan nhượng.
+Lời xin lỗi vừa dứt cũng là lúc lưỡi dao vung lên, đâm thẳng vào lưng Dũng Giả mà không một chút nương tay.
 
-Hai lưỡi dao cắm sâu vào da thịt, cả hai đều mang theo kịch độc tàn khốc.
+Hai lưỡi đoản kiếm cắm ngập sâu vào da thịt, cả hai đều mang theo kịch độc tàn khốc.
 
-『Death Crimson Stinger』: Phiên bản cường hóa của đoản kiếm kịch độc 『Death Stinger』, chế tác từ ngòi độc của bọ cạp khổng lồ 『Death Stalker』. Lưỡi kiếm đen kịt giờ đây đã chuyển sang màu đỏ thẫm như nhuốm máu, sở hữu độc tính đậm đặc tương đương nọc độc nguyên chất. Kẻ nào bị lưỡi dao đỏ này chém phải, trong lúc tầm nhìn dần nhuốm màu máu, sẽ bị dẫn dắt đến cái chết tàn khốc cùng nỗi đau đớn như bị thiêu rụi nơi luyện ngục.
+『Death Crimson Stinger』: Phiên bản cường hóa của đoản kiếm kịch độc 『Death Stinger』, được chế tác từ ngòi độc của bọ cạp khổng lồ 『Death Stalker』. Lưỡi kiếm đen tuyền thuở nào giờ đã chuyển sang sắc đỏ thẫm như nhuốm máu, chứa đựng độc tính đậm đặc tương đương nọc độc nguyên chất. Kẻ nào bị lưỡi dao đỏ này chém trúng, trong lúc tầm nhìn dần nhuốm một màu đỏ lòm của máu, sẽ bị dẫn dắt tới cái chết tàn khốc cùng nỗi đau đớn như bị thiêu đốt nơi luyện ngục.
 
-『Gamma Gold Paralyzer』: Phiên bản cường hóa của dao găm gây tê liệt 『Yellow Paralyzer』 mang độc tố của loài Ếch Nhện. Nó được tích hợp răng nanh và bộ phận điều chế độc hóa học cơ khí từ Boss 『Lizard Type Gamma Biến Dị Thử Nghiệm』 ở Khu Vực Cách Ly. Hai loại độc tê liệt là 『Độc tê liệt của Ếch Nhện』 và 『Độc tê liệt hóa học kiểu Gamma』 sẽ liên tục tiết ra từ lưỡi dao. Nếu cả hai loại độc tố này ngấm vào người, đối phương sẽ hoàn toàn bị vô hiệu hóa đến mức không thể cử động nổi dù chỉ một ngón tay.
+『Gamma Gold Paralyzer』: Phiên bản cường hóa của dao găm gây tê liệt 『Yellow Paralyzer』 mang độc tố của loài Ếch Nhện. Nó được tích hợp răng nanh cùng cơ quan điều chế độc hóa học cơ khí từ Boss 『Lizard Type Gamma Biến Dị Thử Nghiệm』 ở Khu Vực Cách Ly. Hai loại độc tê liệt gồm 『Độc tê liệt của Ếch Nhện』 và 『Độc tê liệt hóa học kiểu Gamma』 sẽ liên tục tiết ra từ lưỡi dao. Nếu cả hai ngấm vào cơ thể, đối phương sẽ bị vô hiệu hóa hoàn toàn, đến mức không thể cử động nổi dù chỉ một ngón tay.
 
-Đó chính là hai con dao độc mà cô ấy đã sử dụng để đối đầu với Thánh thú Kinako trước đó. Những thứ nguy hiểm sở hữu uy lực đủ để giết chết một người bình thường ngay lập tức. Ngay cả một thực thể cực kỳ kiên cường và khổng lồ như Kinako ở dạng Linh thú cũng phải chịu ảnh hưởng nếu bị chém liên tục.
+Đó chính là hai thanh độc kiếm mà cô ấy đã sử dụng để đối đầu với Thánh thú Kinako trước đó. Những món vũ khí chết người sở hữu uy lực đủ để đoạt mạng một người bình thường ngay tức khắc. Thậm chí ngay cả một thực thể khổng lồ với thể chất kiên cường phi phàm như Kinako ở dạng Linh thú cũng phải chịu khốn đốn nếu bị chém liên hồi.
 
-Dù là Dũng Giả đi chăng nữa, kích thước cơ thể của cậu ta vẫn chỉ là con người. Kháng tính tự nhiên của cậu ta không thể nào vượt qua được Kinako.
+Dù là Dũng Giả đi chăng nữa, thể tích cơ thể của cậu ta vẫn chỉ là một con người. Kháng tính tự nhiên của cậu ta tuyệt đối không thể nào vượt qua được Kinako.
 
-Nếu có khiên và giáp của Dũng Giả, cậu ta có thể dễ dàng ngăn chặn các trạng thái bất thường như trúng độc này — thế nhưng giáp thì đã không còn trên người, còn khiên thì đang phải dùng để chống đỡ mũi tên nguyền rủa.
+Nếu còn khiên và giáp của Dũng Giả, cậu ta có thể dễ dàng vô hiệu hóa các trạng thái bất thường như trúng độc này — thế nhưng giáp trụ trên người thì đã nát vụn, còn chiếc khiên thì đang phải căng ra chống đỡ mũi tên nguyền rủa.
 
-Chiêu 『Hắc Lưu Tinh』 của Sakura chỉ là đòn nghi binh nhằm ép cậu ta phải sử dụng kỹ năng phòng ngự tuyệt đối 『Thiên Tinh Thuẫn』. Nếu mũi tên đâm xuyên qua và trúng đích thì quá tốt. Còn nếu bị chặn lại, việc ép đối phương phải dùng đến lá chắn bảo vệ cũng sẽ tạo ra một sơ hở hoàn toàn không thể phòng thủ.
+Chiêu 『Hắc Lưu Tinh』 của Sakura vốn chỉ là đòn nghi binh nhằm ép cậu ta phải dựng lên kỹ năng phòng ngự tuyệt đối mang tên 『Thiên Tinh Thuẫn』. Nếu mũi tên bắn xuyên qua và trúng đích thì quá tốt. Còn nếu bị chặn đứng, việc ép đối phương phải dồn toàn lực vào chiếc khiên trước mặt cũng sẽ tạo ra một sơ hở chí mạng hoàn toàn không thể phòng bị từ phía sau.
 
-Và thế là, Souma Yuuto đã đinh ninh rằng đòn tấn công của em gái mình chính là quân bài tẩy cuối cùng, nên đã dồn toàn bộ sự tập trung vào việc phòng ngự nó.
+Và thế là, Souma Yuuto đã đinh ninh rằng đòn tấn công của em gái mình chính là quân bài tẩy cuối cùng, dồn toàn bộ sự chú ý vào việc đón đỡ nó.
 
-Với một thiên chức như 『Đạo Tặc』, việc đâm vào lưng một kẻ đang bị phân tâm và rơi vào trạng thái cứng người là điều dễ như trở bàn tay. Khi đã phơi bày tấm lưng hoàn toàn không phòng bị như thế này, thì dù là Goma hay Dũng Giả cũng chẳng có gì khác biệt.
+Với một thiên chức mang tên 『Đạo Tặc』, việc đâm sau lưng một kẻ đang bị phân tâm và rơi vào trạng thái khựng người cứng đờ chỉ là chuyện dễ như trở bàn tay. Một khi đã phơi bày tấm lưng hoàn toàn không chút phòng bị như thế này, thì dù là một con Goma tép riu hay là một Dũng Giả hùng mạnh cũng chẳng có gì khác biệt.
 
-Kết hợp với kỹ năng ám sát 『Tập Kích Ẩn Mình』, Natsukawa đã tung ra một đòn chí mạng hoàn hảo.
+Kết hợp cùng kỹ năng ám sát 『Tập Kích Ẩn Mình』, Natsukawa đã tung ra một đòn đoạt mệnh hoàn hảo.
 
 “Hự... ặc... hộc...”
 
-Chất độc thần kinh và độc tê liệt cực mạnh lập tức tấn công cơ thể Souma Yuuto. Cậu ta không thể thốt lên lời nào nữa, chỉ biết phát ra những tiếng rên rỉ đau đớn.
+Chất độc thần kinh cùng độc tê liệt cực mạnh lập tức xâm chiếm toàn bộ cơ thể Souma Yuuto. Cậu ta không thể thốt lên nổi một lời nào tròn vành rõ chữ, chỉ biết phát ra những tiếng rên rỉ nghẹn ứ đầy đau đớn.
 
-Trạng thái cứng người cuối cùng cũng đã được giải trừ, nhưng 『Thần Phán Chi Thủ』 đang tỏa ra ánh sáng xanh lam nhạt kia chỉ biết run rẩy bần bật, cào cấu vào khoảng không vô vọng. Có vẻ như cậu ta đã bị tước đi sự tự do của cơ thể đến mức không thể chuyển sang phản công được nữa.
+Thời gian khựng người cuối cùng cũng kết thúc, nhưng đôi 『Thần Phán Chi Thủ』 đang tỏa ra luồng sáng xanh lam nhạt kia chỉ biết run rẩy bần bật, cào cấu vào khoảng không một cách vô vọng. Có vẻ như cậu ta đã bị tước đoạt hoàn toàn quyền tự do của thể xác, đến mức chẳng thể nào chuyển sang thế phản công được nữa.
 
-Nhưng đối thủ là Souma Yuuto. Cho đến khi ngươi hoàn toàn kiệt sức và ngã xuống, bọn ta sẽ không nới lỏng tay đâu.
+Nhưng đối thủ trước mắt là Souma Yuuto. Chừng nào ngươi còn chưa hoàn toàn kiệt sức và ngã gục xuống, bọn ta tuyệt đối sẽ không nới lỏng tay dù chỉ một giây.
 
 “Sakura-chan.”
 
-“Vâng, tôi biết rồi...”
+“Vâng, tôi hiểu rồi...”
 
-Bằng bàn tay nhuốm máu, Sakura một lần nữa đặt mũi tên lên cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』. Đó là những mũi tên độc tê liệt được sơn màu vàng rất dễ nhận biết. Cô bé gộp nhiều mũi tên lại làm một rồi kéo căng dây cung.
+Bằng đôi bàn tay đã nhuốm đầy máu tươi, Sakura một lần nữa gác mũi tên lên cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』. Đó là những mũi tên tẩm độc tê liệt được sơn màu vàng vô cùng nổi bật. Cô bé gộp nhiều mũi tên lại cùng một lúc rồi kéo căng dây cung.
 
-Còn tôi thì giơ cây gậy 『Vô Đạo Nhất Thức』 lên, triệu hồi ra một khối thịt ngoằn ngoèo.
+Còn tôi thì giơ cây gậy 『Vô Đạo Nhất Thức』 lên, triệu hồi ra một khối thịt uốn éo ngoằn ngoèo.
 
-Khối thịt đỏ hỏn trượt đi như một chiếc lưỡi lớn, vừa ngọ nguậy gớm ghiếc vừa mọc ra chi chít những chiếc gai nhọn hoắt trên bề mặt.
+Khối thịt đỏ hỏn trượt dài ra như một chiếc lưỡi khổng lồ, vừa ngọ nguậy tởm lợm vừa mọc ra chi chít những chiếc gai nhọn hoắt trên bề mặt.
 
-Một chiếc lưỡi dài mang gai nhọn chứa độc tê liệt. Đây cũng là năng lực mà Yokomichi đã sử dụng khi tôi chiến đấu với hắn lần đầu tiên. Nhưng so với lúc hắn dùng, tôi đã pha trộn một loại độc tê liệt có hoạt tính mạnh hơn nhiều.
+Một chiếc lưỡi dài mang gai nhọn chứa đầy độc tê liệt. Đây chính là năng lực mà Yokomichi đã từng sử dụng khi tôi chạm trán hắn lần đầu tiên. Nhưng so với thời điểm đó, tôi đã pha chế thêm một loại độc tê liệt có hoạt tính mạnh mẽ hơn gấp bội.
 
-Nếm mùi lợi hại đi. Souma Yuuto, từ nay về sau ngươi có phải sống cả đời liệt giường liệt chiếu thì cũng chẳng liên quan gì đến ta.
+Nếm mùi lợi hại đi. Souma Yuuto, từ nay về sau ngươi có phải sống cả phần đời còn lại trong cảnh liệt giường liệt chiếu thì cũng chẳng liên quan gì đến ta.
 
-“Đây là kết cục của con đường ngươi tự chọn. Hãy nhận lấy quả báo đi, Souma Yuuto.”
+“Đây chính là kết cục của con đường do chính ngươi lựa chọn. Hãy nếm trải quả báo đi, Souma Yuuto.”
 
-“Trận chiến vô nghĩa này đến đây là kết thúc rồi, anh trai.”
+“Trận chiến vô nghĩa này kết thúc tại đây được rồi, anh trai.”
 
-Mũi tên của Sakura và những chiếc gai của tôi đồng loạt phóng ra.
+Mũi tên của Sakura cùng những chiếc gai nhọn của tôi đồng loạt phóng vút ra.
 
 “Hự... ự... á á á á á á á á!”
 
-Tiếng hét thảm thiết vang lên khi những mũi tên và gai nhọn găm thẳng vào khắp người cậu ta. Những tổn thương vật lý cộng thêm chất độc đang tàn phá cơ thể đã gây ra một lượng sát thương lớn đến mức dù cậu ta có ngất đi ngay lập tức cũng không có gì lạ.
+Tiếng thét thảm thiết vang dội khắp không gian khi những mũi tên và gai nhọn găm ngập vào da thịt khắp toàn thân cậu ta. Tổn thương vật lý kết hợp cùng kịch độc đang tàn phá dữ dội bên trong kinh mạch đã gây ra một lượng sát thương khổng lồ, đến mức dù cậu ta có bất tỉnh nhân sự ngay tại chỗ cũng là điều hoàn toàn dễ hiểu.
 
-Thế nhưng, Dũng Giả vẫn không ngã xuống.
+Thế nhưng, Dũng Giả vẫn ngoan cường không chịu ngã xuống.
 
 “Hự... ồ ồ ồ... S... 『Thương Công Ba Động』... Kh... 『Kháng Dịch』...”
 
-Dù máu tươi không ngừng trào ra từ khóe miệng, Souma Yuuto vẫn nghiến chặt răng để kích hoạt kỹ năng.
+Mặc cho máu tươi không ngừng trào ra nơi khóe miệng, Souma Yuuto vẫn nghiến chặt răng kích hoạt kỹ năng.
 
-『Thương Công Ba Động』 là kỹ năng cường hóa vạn năng, bao phủ cơ thể bằng một luồng hào quang ánh sáng mạnh mẽ hơn. Và 『Kháng Dịch』 là ma pháp trị liệu giúp giải trừ trạng thái bất thường và tăng cường khả năng kháng tính.
+『Thương Công Ba Động』 là kỹ năng cường hóa toàn diện, bao bọc cơ thể bằng một luồng hào quang ánh sáng rực rỡ hơn. Còn 『Kháng Dịch』 là ma pháp trị liệu giúp thanh tẩy mọi trạng thái bất thường và cường hóa khả năng miễn nhiễm của cơ thể.
 
-Thật may mắn khi hồi còn ở Học Viện Tháp, tôi đã dò hỏi kỹ lưỡng về các kỹ năng của cậu ta.
+Thật may mắn làm sao khi hồi còn ở Học Viện Tháp, tôi đã điều tra cặn kẽ mọi ngóc ngách về bộ kỹ năng của cậu ta.
 
 “Bỏ cuộc đi — 『Xích Nhiệt Bệnh』.”
 
-Chú thuật thứ nhất, kích hoạt. Hãy nếm trải giá trị thực sự của việc vô hiệu hóa buff đi.
+Chú thuật thứ nhất, kích hoạt. Hãy nếm trải giá trị thực sự của việc vô hiệu hóa toàn bộ buff đi.
 
-Luồng hào quang ánh sáng tạo ra bởi 『Thương Công Ba Động』 thì không thể ngăn chặn. Thế nhưng, ma pháp tác động lên chính cơ thể của bản thân như 『Kháng Dịch』 thì hoàn toàn có thể bị vô hiệu hóa bởi 『Xích Nhiệt Bệnh』.
+Luồng hào quang ánh sáng tạo ra từ 『Thương Công Ba Động』 thì không thể can thiệp. Thế nhưng, loại ma pháp tác động trực tiếp lên chính cơ thể bản thân như 『Kháng Dịch』 thì hoàn toàn có thể bị 『Xích Nhiệt Bệnh』 áp chế triệt để.
 
-Hiệu quả đạt được khả năng miễn dịch mạnh mẽ để chống lại bệnh tật nhờ sức mạnh của ma pháp trị liệu, giờ đây bị cưỡng chế quay trở về trạng thái triệu chứng chỉ là một cơn sốt nhẹ.
+Hiệu quả tạo ra khả năng miễn dịch hùng mạnh để chống lại bệnh tật nhờ ma pháp trị liệu, giờ đây bị cưỡng chế kéo giật lùi về trạng thái của một cơn sốt nhẹ đơn thuần.
 
-Khi rơi vào trạng thái sốt nhẹ, kẻ địch sẽ không thể bị ngăn chặn — ban đầu tôi đã nghĩ như vậy, nhưng... nếu cơ thể đã bị độc tố tàn phá nặng nề, thì sức chiến đấu cũng sẽ biến mất.
+Khi rơi vào trạng thái sốt nhẹ, kẻ địch sẽ không bị phong tỏa hoàn toàn — ban đầu tôi từng nghĩ như vậy, nhưng... một khi thể xác đã bị độc tố gặm nhấm tan nát, thì toàn bộ sức chiến đấu cũng sẽ theo đó mà tan biến thành mây khói.
 
 “Hự... a... a a...”
 
-Khả năng giải độc bị chặn đứng, máu tươi từ những vết thương trên khắp cơ thể không ngừng tuôn ra từng khắc.
+Khả năng giải độc bị chặn đứng hoàn toàn, máu tươi từ vô số vết rách trên khắp cơ thể không ngừng tuôn trào theo từng nhịp thở.
 
-Bị kịch độc gặm nhấm, cơ thể nhuốm máu của Dũng Giả chỉ còn được bao bọc bởi luồng sáng xanh lam nhạt yếu ớt từ kỹ năng duy nhất đang hoạt động là 『Thương Công Ba Động』.
+Bị kịch độc ăn mòn, cơ thể đẫm máu của Dũng Giả giờ đây chỉ còn được bao bọc bởi luồng sáng xanh lam nhạt yếu ớt phát ra từ kỹ năng duy nhất còn sót lại là 『Thương Công Ba Động』.
 
-Như thể chút sức tàn cuối cùng cũng đã cạn kiệt, 『Thần Phán Chi Thủ』 đang run rẩy kia cũng mất đi ánh sáng — và cuối cùng, vỡ tan rồi biến mất.
+Như thể chút sức tàn cuối cùng cũng đã cạn kiệt, đôi 『Thần Phán Chi Thủ』 đang run rẩy bần bật kia cũng dần lịm tắt ánh sáng — rồi cuối cùng, vỡ tan thành từng mảnh vụn rồi biến mất giữa không trung.
 
 “T... Ta... không thể... thua...”
 
-Như muốn chứng minh mình vẫn chưa bỏ cuộc, Souma Yuuto cố vươn cánh tay đã mất về phía tôi, nhưng—
+Như muốn chứng minh bản thân vẫn chưa hề bỏ cuộc, Souma Yuuto gắng gượng vươn cánh tay đã bị chém cụt về phía tôi, nhưng—
 
 “Đủ rồi. Đủ rồi đấy, Yuuto-kun.”
 
-Lớp trưởng bước lên phía trước.
+Lớp trưởng bước lên chắn phía trước.
 
-Cô nắm chặt cây gậy băng yêu thích 『Snow White Bloom』. Đầu gậy mô phỏng bông tuyết được chĩa thẳng vào lồng ngực đẫm máu của Souma Yuuto.
+Cô nắm chặt cây gậy băng quen thuộc 『Snow White Bloom』. Đầu gậy chạm khắc hình hoa tuyết chĩa thẳng vào lồng ngực đẫm máu của Souma Yuuto.
 
-Lớp trưởng quay lại nhìn chúng tôi một lần, rồi nói:
+Lớp trưởng quay đầu lại nhìn chúng tôi một lần cuối, rồi cất giọng:
 
 “Phần còn lại trông cậy vào hai người đấy, Sakura, Momokawa-kun — 『Băng Kết Phong Tinh』.”
 
-Ma pháp phong ấn băng giá được kích hoạt.
+Ma pháp phong ấn băng giá tối thượng được kích hoạt.
 
-Một luồng sáng màu xanh lam rực rỡ lóe lên, như muốn ghi đè lên luồng sáng xanh nhạt đang bao bọc Dũng Giả.
+Một luồng sáng xanh lam rực rỡ bùng nổ, ghi đè lên vầng sáng nhạt nhòa đang bao quanh Dũng Giả.
 
-Dưới chân họ vẽ nên một ma pháp trận hình tròn có bán kính khoảng hai mét. Tỏa ra những tia sáng lấp lánh như bụi kim cương — ngay khoảnh khắc tiếp theo, một khối băng khổng lồ, không, một cột tinh thể băng giá dựng đứng lên.
+Dưới chân họ, một ma pháp trận hình tròn với bán kính chừng hai mét lập tức hiện rõ. Vô số tia sáng lấp lánh như bụi kim cương tỏa ra — và ngay khoảnh khắc tiếp theo, một khối băng khổng lồ, không, một cột tinh thể băng giá sừng sững trỗi dậy.
 
-Bên trong khối tinh thể trong suốt ấy, Souma Yuuto, Natsukawa — người đã đâm cậu ta, và cả Lớp trưởng — người thi triển thuật pháp, đều bị phong ấn chung lại với nhau.
+Bên trong khối tinh thể trong suốt ấy, Souma Yuuto, Natsukawa — người vừa đâm cậu ta, và cả Lớp trưởng — người thi triển ma pháp, đều bị phong ấn chung lại với nhau.
 
-Và rồi, mọi âm thanh biến mất. Đại sảnh chìm vào một sự im lặng tĩnh mịch. Sự im lặng ấy báo hiệu cho kết thúc của trận chiến với Dũng Giả.
+Và rồi, mọi âm thanh hoàn toàn lịm tắt. Toàn bộ đại sảnh chìm vào một khoảng lặng tĩnh mịch. Sự im lặng ấy chính là hồi chuông báo hiệu cho sự kết thúc của trận chiến sinh tử với Dũng Giả.
 
-“Phù... Cuối cùng cũng xong rồi sao... Đến tận phút cuối cùng vẫn bắt người ta phải tốn bao nhiêu công sức.”
+“Phù... Cuối cùng cũng xong rồi sao... Đến tận giây phút cuối cùng vẫn bắt người khác phải tốn bao nhiêu tâm tư.”
 
 “Ư... ư ư... Anh trai, em xin lỗi...”
 
-Tôi thực sự đã kiệt sức. Tôi ngồi bệt xuống đất như thể rụng rời cả tay chân, trút ra một tiếng thở dài thườn thượt đầy nặng nề, thở phào nhẹ nhõm trước chiến thắng cuối cùng cũng giành được.
+Tôi thực sự đã kiệt quệ đến tận cùng. Tôi ngồi phịch xuống mặt đất như thể toàn bộ gân cốt rụng rời, trút ra một tiếng thở dài thườn thượt đầy trĩu nặng, thở phào nhẹ nhõm trước chiến thắng gian nan cuối cùng cũng nắm chắc trong tay.
 
-Ngay bên cạnh, Sakura cuối cùng cũng khóc nấc lên trước hình ảnh người anh trai tội nghiệp bị phong ấn trong tình trạng tả tơi vì trúng độc, nhưng lúc này tôi cũng chẳng còn hơi sức đâu mà trêu chọc cô bé.
+Ngay bên cạnh, Sakura cuối cùng cũng bật khóc nức nở trước hình ảnh người anh trai tội nghiệp bị phong ấn trong bộ dạng tơi tả vì trúng độc, nhưng lúc này tôi cũng chẳng còn chút hơi sức nào để buông lời trêu chọc cô bé nữa.
 
-“Cảm ơn cậu, Lớp trưởng, Natsukawa-san.”
+“Cảm ơn cậu nhé, Lớp trưởng, Natsukawa-san.”
 
-Nếu có thể, tôi đã không muốn dùng đến phương sách này. Thế nhưng, phòng trường hợp đòn tấn công của Tendou và Mei dùng Reina làm mồi nhử bị hóa giải, tôi đã chuẩn bị sẵn kế hoạch cuối cùng là sự phối hợp giữa Sakura để Natsukawa tung ra đòn tập kích ẩn mình, và Lớp trưởng thực hiện phong ấn.
+Nếu có thể, tôi vốn chẳng hề muốn dùng tới hạ sách này. Thế nhưng, để phòng ngừa trường hợp đòn tấn công của Tendou và Mei dùng Reina làm mồi nhử bị hóa giải, tôi đã chuẩn bị sẵn phương án dự phòng cuối cùng: Sakura yểm trợ để Natsukawa tung đòn tập kích ẩn mình, và Lớp trưởng tung đòn phong ấn dứt điểm.
 
-Đáng lẽ ra chỉ có một mình Souma Yuuto bị nhốt vào phong ấn tinh thể... nhưng trước sự giãy giụa đến cùng của Dũng Giả, Natsukawa đã không rời ra mà tiếp tục bồi thêm đòn tấn công bằng dao, còn Lớp trưởng khi đã cạn kiệt ma lực đã tự kéo mình vào trong phạm vi phong ấn để đảm bảo kích hoạt thành công 『Băng Kết Phong Tinh』.
+Vốn dĩ theo kế hoạch chỉ có một mình Souma Yuuto bị nhốt vào bên trong khối tinh thể... nhưng trước sự phản kháng điên cuồng tới cùng của Dũng Giả, Natsukawa đã không thể rút lui mà buộc phải tiếp tục bồi thêm dao độc, còn Lớp trưởng khi đã cạn sạch ma lực đã tự kéo chính mình vào phạm vi phong ấn để đảm bảo 『Băng Kết Phong Tinh』 được kích hoạt thành công tuyệt đối.
 
-Dù không nguy hiểm đến tính mạng, nhưng chúng tôi đã phải hy sinh thêm hai người nữa mới có thể phong ấn được Dũng Giả. Ôi trời, thực sự là một cái giá quá đắt đỏ. Việc đối đầu với một tên Dũng Giả hack game thế này, tôi xin kiếu, không bao giờ có lần thứ hai đâu.
+Dù không gây nguy hiểm tới tính mạng, nhưng chúng tôi đã phải hy sinh quyền tự do của thêm hai người nữa mới có thể phong ấn được tên quái vật Dũng Giả này. Ôi trời, đúng là một cái giá đắt đỏ ngoài dự tính. Việc đối đầu với một tên Dũng Giả hack game trắng trợn thế này, tôi xin kiếu, cả đời này tuyệt đối không bao giờ có lần thứ hai đâu.
 
 “Kotarou-kun, cậu không sao chứ?”
 
-“Mei-chan mới là người cần hỏi câu đó đấy.”
+“Mei-chan mới là người tớ phải hỏi câu đó đấy.”
 
-“Tớ không sao đâu. Vì đã có Tendou-kun che chở rồi.”
+“Tớ không sao đâu. Vì đã có Tendou-kun che chở cho rồi.”
 
-“Tốt nhất là cậu đừng nên nói lời cảm ơn cậu ta.”
+“Tốt nhất là cậu đừng nên nói lời cảm ơn tên đó làm gì.”
 
-“Ra vậy, chắc là thế rồi.”
+“Ra vậy, chắc là thế rồi nhỉ.”
 
-Mei, người vẫn chưa hết tác dụng của thuốc 『Berserk X』, vẫn còn dư thừa khả năng chiến đấu.
+Mei-chan, người vẫn chưa hết thời gian hiệu lực của liều thuốc 『Berserk X』, vẫn còn dồi dào sức chiến đấu.
 
-Mặt khác, Tendou, người đã đỡ trọn vẹn đòn tất sát của Dũng Giả và ngã xuống, đương nhiên vẫn đang bất tỉnh nhân sự.
+Mặt khác, Tendou, kẻ đã lãnh trọn toàn bộ đòn tất sát của Dũng Giả rồi đổ gục xuống, đương nhiên lúc này vẫn đang bất tỉnh nhân sự.
 
-Thế nhưng, Momoko đã nhanh chóng thu hồi cậu ta và đưa về phía sau. Thật tốt khi có một cô hầu gái thạo việc như vậy.
+Thế nhưng, Momoko đã nhanh chóng thu hồi cơ thể cậu ta và đưa về tuyến sau an toàn. Quả là may mắn khi sở hữu một cô hầu gái tháo vát và hiểu chuyện đến thế.
 
-Ngay cả khi chủ nhân làm chuyện liều lĩnh, quyết định im lặng đứng nhìn mà không can thiệp của Momoko là vô cùng thông minh. Quả không hổ danh là em gái tôi. Chắc hẳn Momoko cũng hiểu rằng, nếu khoảnh khắc đó Tendou không xả thân che chắn, chiến tuyến của chúng tôi đã hoàn toàn sụp đổ.
+Ngay cả khi chủ nhân làm ra hành động liều lĩnh, quyết định đứng im quan sát mà không can thiệp của Momoko là vô cùng chuẩn xác. Quả không hổ danh là đứa em gái do tôi tạo ra. Chắc hẳn Momoko cũng thừa hiểu rằng, nếu khoảnh khắc đó Tendou không xả thân lấy thân mình làm bia đỡ, toàn bộ tiền tuyến của chúng tôi đã sụp đổ hoàn toàn.
 
-Chỉ một mình Tendou ngã xuống, hay tất cả cùng ngã xuống. Sự khác biệt đó là quá lớn.
+Chỉ một mình Tendou ngã xuống, hay là tất cả cùng bị xóa sổ. Khoảng cách giữa hai kết cục đó là một trời một vực.
 
-Tất cả mọi người, chỉ cần một người đưa ra quyết định sai lầm là chúng tôi đã thua cuộc. Trước sức mạnh kỹ năng hack game áp đảo của Dũng Giả, nguy cơ bị quét sạch hoàn toàn vẫn luôn hiện hữu cho đến tận phút cuối cùng.
+Tất cả mọi người, chỉ cần một người đưa ra quyết định sai lầm trong tích tắc thôi là chúng tôi đã cầm chắc thất bại. Đứng trước sức mạnh gian lận đầy áp đảo của Dũng Giả, nguy cơ bị diệt sạch toàn đội vẫn luôn lơ lửng trên đầu cho đến tận những giây phút cuối cùng.
 
-Thế nhưng, chúng tôi đã vượt qua. Chúng tôi đã thắng.
+Thế nhưng, chúng tôi đã vượt qua tất cả. Chúng tôi đã giành chiến thắng.
 
-“Ngươi thấy chưa, Souma Yuuto. Đây chính là sức mạnh của đồng đội.”
+“Ngươi thấy rõ rồi chứ, Souma Yuuto. Đây chính là sức mạnh của đồng đội.”
 
-*Chỉ cần mình mạnh mẽ, chỉ cần mình bảo vệ được mọi người.* Trải qua cuộc sinh tồn trong hầm ngục này, rốt cuộc ngươi vẫn giữ khư khư cái suy nghĩ độc đoán đó.
+*Chỉ cần bản thân mình đủ mạnh mẽ, chỉ cần mình đứng ra bảo vệ tất cả mọi người.* Trải qua ngần ấy biến cố sinh tử trong hầm ngục này, rốt cuộc đầu óc ngươi vẫn chỉ chứa chấp duy nhất cái tư tưởng độc đoán, ngây thơ đó mà thôi.
 
-Đúng là sức mạnh của 『Dũng Giả』 rất to lớn. Thế nhưng, chỉ với sức mạnh vượt trội hơn người đó thì không thể nào bảo vệ được tất cả mọi thứ, điều đó đã quá rõ ràng ngay từ khi có nạn nhân đầu tiên nằm xuống rồi. Có lẽ, tận sâu trong thâm tâm, ngươi sợ hãi nhất là việc phải thừa nhận sự bất lực của bản thân, thừa nhận rằng có những việc mà chỉ với sức mạnh của một mình ngươi là không đủ.
+Đúng là sức mạnh của một 『Dũng Giả』 vô cùng to lớn. Thế nhưng, nếu chỉ dựa vào thứ sức mạnh cá nhân vượt trội hơn người đó thì tuyệt đối không thể nào bảo vệ được toàn bộ mọi thứ, chân lý hiển nhiên ấy đã được chứng minh ngay từ thời điểm nạn nhân đầu tiên ngã xuống rồi. Có lẽ, tận sâu thẳm trong đáy lòng, điều ngươi sợ hãi nhất chính là việc phải thừa nhận sự bất lực của bản thân, thừa nhận rằng có những nghịch cảnh mà chỉ một mình ngươi thì mãi mãi không thể gánh vác nổi.
 
-Mà thôi, giờ này thì tâm lý chiều sâu của ngươi thế nào cũng chẳng còn quan trọng nữa.
+Mà thôi, giờ này thì việc phân tích tâm lý sâu xa của ngươi ra sao cũng chẳng còn chút ý nghĩa nào nữa.
 
-Chỉ có một sự thật duy nhất, đó là chúng tôi đã thắng. Chúng tôi không cần đến sự hiện diện của một vị Dũng Giả cao cả gánh vác và bảo vệ tất cả mọi thứ, việc chúng tôi chứng minh được điều đó ở đây chính là tất cả.
+Chỉ có một sự thật duy nhất tồn tại: chúng tôi là kẻ chiến thắng. Chúng tôi không cần đến sự bảo bọc của một vị Dũng Giả cao cả sẵn sàng gánh vác tất cả trên vai, việc chúng tôi chứng minh được điều đó ngay tại nơi này đã là câu trả lời trọn vẹn nhất rồi.
 
-“Souma Yuuto không thể trở thành Dũng Giả... Mà cũng phải thôi, vì ngươi cũng chỉ là một con người bình thường mà thôi.”
+“Souma Yuuto không thể trở thành Dũng Giả... Mà âu cũng phải thôi, bởi vì suy cho cùng, ngươi cũng chỉ là một con người bằng xương bằng thịt mà thôi.”
 
-Cũng giống như chúng tôi, ngươi chỉ là một con người có giới hạn về sức mạnh mà thôi.
+Cũng giống như tất cả chúng tôi, ngươi chỉ là một con người bình thường với những giới hạn không thể vượt qua.
 
-Nếu ngươi chịu thừa nhận điều đó sớm hơn, thì mọi chuyện đã không—
+Nếu ngươi chịu thừa nhận điều đó sớm hơn một chút, thì mọi chuyện đã không đi tới bước đường—
 
 *Ầm ầm ầm ầm ầm...*
 
-Ngay lúc đó, một tiếng động đất dữ dội làm rung chuyển cả tầng lầu rộng lớn.
+Ngay khoảnh khắc ấy, một cơn chấn động dữ dội như động đất làm rung chuyển toàn bộ tầng hầm rộng lớn.
 
-Nguồn phát ra âm thanh đã quá rõ ràng. Nó đến từ ngay bên dưới gã khổng lồ đang nằm sấp trên mặt đất.
+Nguồn cơn phát ra tiếng động đã quá đỗi rõ ràng. Nó bắt nguồn từ ngay bên dưới gã khổng lồ đang nằm sấp trên nền đá.
 
-“Tặc, Takanashi... Quả nhiên ngươi cũng là một kẻ không chịu nhận thua dễ dàng.”
+“Tặc, Takanashi... Quả nhiên con ả như ngươi cũng chẳng bao giờ chịu chấp nhận thua cuộc một cách dễ dàng.”
 
 “— Triệu hoán 『Đại Thủ Hộ Thiên Sứ』!!”
 
-Cơ thể của gã khổng lồ đang đè lên Kotori bị nhấc bổng lên.
+Cơ thể của gã khổng lồ đang đè nghiến lên Kotori bỗng nhiên bị hất tung lên cao.
 
-Một ma pháp trận triệu hồi khổng lồ vượt quá mười mét tỏa ra ánh sáng chói lòa, từ đó, một cánh tay lớn đẩy ngược Rem khổng lồ từ dưới lên xuất hiện trước tiên.
+Một ma pháp trận triệu hồi khổng lồ có đường kính vượt quá mười mét tỏa ra ánh hào quang chói lòa, và từ bên trong đó, một cánh tay khổng lồ đẩy ngược Rem Gigas từ dưới lên bắt đầu lộ diện.
 
-Hai cánh tay với năm ngón tay đầy đủ. Quả nhiên, thứ có thể đối kháng lại sức mạnh của một gã khổng lồ chỉ có thể là một gã khổng lồ khác. Thế nhưng, chỉ cần nhìn thoáng qua cũng có thể thấy rõ sự khác biệt giữa nó và cơ thể bọc giáp của Rem khổng lồ.
+Đó là hai cánh tay hoàn chỉnh với đầy đủ năm ngón tay bằng kim loại. Quả nhiên, thứ duy nhất có thể đối chọi lại sức mạnh của một gã khổng lồ chỉ có thể là một gã khổng lồ khác. Thế nhưng, chỉ cần nhìn thoáng qua thôi cũng đủ thấy rõ sự khác biệt một trời một vực giữa nó và cơ thể bọc giáp của Rem Gigas.
 
-Đó là một gã khổng lồ bằng thép.
+Đó là một gã khổng lồ thuần túy bằng sắt thép.
 
-Không phải là nó đang mặc giáp trụ. Đây thuần túy là một cỗ máy.
+Không phải là một sinh vật sống đang khoác lên mình giáp trụ. Đây chính xác là một cỗ máy móc cơ khí hoàn toàn.
 
-Trên khung kim loại màu sắt tỏa ra ánh sáng mờ tối, những tấm giáp được trang trí bằng màu trắng và vàng kim bám vào một cách thưa thớt. Nó không mang một vẻ đẹp hoàn thiện, mà tạo ra một ấn tượng dở dang giống như một mô hình nhựa bị bỏ xó khi đang lắp ráp dở.
+Trên bộ khung kim loại mang sắc xám đen tỏa ra ánh sáng mờ đục, những phiến giáp trang trí màu trắng và vàng kim bám vào một cách rời rạc, thưa thớt. Nó hoàn toàn không mang một vẻ đẹp hoàn mỹ, mà tạo cho người nhìn cảm giác dang dở giống hệt như một mô hình nhựa bị vứt xó khi mới chỉ lắp ráp được một nửa.
 
-Lắp ráp dở, hoặc là, đang bị hư hại. Thế nhưng sức mạnh ẩn chứa trong đó không hề thua kém một gã khổng lồ thực sự.
+Lắp ráp dang dở, hoặc giả là, một cỗ máy đang trong tình trạng hư hỏng nặng nề. Thế nhưng uy áp cùng sức mạnh ẩn chứa bên trong nó tuyệt đối không hề thua kém một gã cự nhân thực thụ.
 
-“Mau cút ra khỏi người tao đi, cái thứ to xác kia!!”
+“Mau cút xéo khỏi người tao ngay, cái thứ to xác gớm ghiếc kia!!”
 
-Cùng với tiếng thét giận dữ của Kotori, cơ thể của Rem khổng lồ cuối cùng cũng bị lật nhào.
+Cùng với tiếng thét the thé đầy giận dữ của Kotori, cơ thể đồ sộ của Rem Gigas cuối cùng cũng bị hất văng lật nhào sang một bên.
 
-*Rầm!* Tiếng động lớn và chấn động từ cơ thể siêu nặng đổ sụp xuống đất truyền đi khắp nơi. Phía sau làn khói bụi mù mịt đang bốc lên, chỉ có thể nhìn thấy nửa thân trên của một thực thể khổng lồ dạng người.
+*Rầm!* Tiếng va đập đinh tai nhức óc cùng cơn chấn động dữ dội từ khối kim loại siêu nặng đổ sụp xuống sàn truyền đi khắp mọi ngóc ngách. Phía sau làn khói bụi mịt mù đang cuồn cuộn bốc lên, nửa thân trên của một thực thể khổng lồ dạng người sừng sững hiện ra.
 
-Hình dáng đó quả nhiên hoàn toàn là một robot khổng lồ dạng người.
+Hình dáng ấy đích thị là một robot khổng lồ hình nhân.
 
-Với khung xương bị lộ ra ngoài và lớp giáp chỉ được trang bị một phần, có lẽ không chỉ có cánh tay mà toàn bộ cơ thể của nó đều đang ở trong tình trạng dở dang như vậy. Qua lồng ngực đang mở rộng, có thể nhìn thấy khung kim loại hình xương sườn, và những đường ánh sáng xanh lam nhạt vẽ nên các họa tiết hình học biểu thị cho dòng chảy của ma lực.
+Với bộ khung xương cơ khí lộ trần ra ngoài cùng lớp giáp chỉ được gắn chắp vá ở một vài bộ phận, có lẽ không chỉ riêng đôi tay mà toàn bộ cơ thể của nó đều đang ở trong tình trạng dở dang như thế. Xuyên qua lồng ngực đang mở toang, có thể nhìn thấy rõ kết cấu khung kim loại mô phỏng xương sườn, cùng những đường mạch phát sáng xanh lam nhạt đan xen thành các họa tiết hình học biểu thị cho dòng chảy cuồn cuộn của ma lực.
 
-Ở phần hông và eo được trang bị lớp giáp màu trắng, nhìn tổng thể giống như một bộ xương khô đang mặc một bộ giáp bị hư hỏng.
+Ở phần hông và thắt lưng được ốp những tấm giáp màu trắng muốt, nhìn tổng thể chẳng khác nào một bộ xương khô khổng lồ đang khoác lên mình một bộ chiến giáp tàn tạ.
 
-Phần đầu cũng ở trong tình trạng như chỉ được đội mũ giáp một nửa. Nó là chiếc mũ giáp giống như của Thủ Hộ Thiên Sứ, nhưng phần mặt nạ có các khe hở che mặt lại mang lại cảm giác vô cơ của một robot.
+Phần đầu cũng ở trong trạng thái chỉ được đội mũ giáp một nửa. Đó là kiểu mũ giáp tương tự như của các Thủ Hộ Thiên Sứ, nhưng phần mặt nạ với các khe hở cơ khí che chắn lại toát lên vẻ lạnh lùng, vô cảm của một cỗ máy chiến tranh.
 
-Thế nhưng trên trán nó, giống như con mắt của Cyclops, có một luồng sáng khổng lồ đang tỏa sáng xanh rực rỡ. Tôi không nghĩ thứ đó chỉ là một chiếc đèn trang trí trên trán. Rõ ràng có những thứ giống như đường ống kết nối từ xung quanh dẫn vào đó, liên tục truyền đi luồng sáng ma lực xanh lam nhạt đang đập mạnh mẽ như mạch máu.
+Thế nhưng ngay giữa trán nó, tựa như con mắt độc nhất của loài Cyclops, có một khối cầu phát sáng khổng lồ đang tỏa ra ánh xanh rực rỡ. Tôi không nghĩ thứ đó chỉ đơn thuần là một chiếc đèn trang trí gắn trên trán. Rõ ràng có vô số đường ống dẫn nối từ xung quanh cắm thẳng vào đó, liên tục bơm vào luồng quang năng ma lực xanh lam nhạt đang đập thình thịch như mạch máu sống.
 
-“Ha ha, kết thúc rồi... Mọi chuyện kết thúc rồi, Momokawa. Một khi tao đã gọi 『Đại Thủ Hộ Thiên Sứ』 này ra, thì tất cả tụi mày—”
+“Ha ha, kết thúc rồi... Mọi chuyện chấm dứt rồi, Momokawa. Một khi tao đã gọi được 『Đại Thủ Hộ Thiên Sứ』 này ra, thì tất cả tụi mày—”
 
-“— Đứng im đó, Takanashi. Ngươi không quan tâm đến tính mạng của Dũng Giả nữa sao?”
+“— Đứng im ở đó, Takanashi. Ngươi không còn bận tâm đến tính mạng của Dũng Giả nữa rồi sao?”
 
-Tôi chĩa cây gậy 『Vô Đạo Nhất Thức』 về phía Dũng Giả đang bị phong ấn trong tinh thể.
+Tôi chĩa thẳng đầu cây gậy 『Vô Đạo Nhất Thức』 về phía Dũng Giả đang bị giam cầm trong khối tinh thể băng giá.
 
-Dựa vào phản ứng của Kotori và việc cô ta thực sự đã lật nhào được Rem khổng lồ, thứ vũ khí cổ đại robot khổng lồ dạng người gọi là 『Đại Thủ Hộ Thiên Sứ』 kia đã vượt quá khả năng đối phó của chúng tôi.
+Dựa vào phản ứng đắc thắng của Kotori và thực tế là cô ta đã thực sự lật nhào được Rem Gigas, thứ vũ khí cổ đại dạng robot khổng lồ mang tên 『Đại Thủ Hộ Thiên Sứ』 kia rõ ràng đã vượt quá ngưỡng sức mạnh mà chúng tôi có thể đối phó vào lúc này.
 
-Việc nó vẫn chưa lộ diện hoàn toàn mà chỉ có nửa thân trên nhô ra khỏi ma pháp trận triệu hồi, có lẽ là vì nó thực sự chỉ có nửa thân trên, còn nửa thân dưới thì không tồn tại.
+Việc nó vẫn chưa lộ diện toàn bộ mà chỉ có nửa thân trên trồi lên khỏi ma pháp trận triệu hồi, có lẽ là vì nó thực sự chỉ còn lại nửa thân trên, còn nửa thân dưới vốn dĩ không hề tồn tại.
 
-Nó không mang theo vũ khí, và dù được đặt tên là Đại Thủ Hộ Thiên Sứ, nhưng trên lưng nó cũng không thấy có trang bị nào giống như đôi cánh. Có lẽ những mấu lồi nhô ra từ phía sau vai với độ dài dở dang chỉ là để lắp đặt trang bị dạng cánh hoặc bộ đẩy phản lực.
+Nó không hề cầm theo bất kỳ vũ khí nào, và dù mang danh xưng Đại Thủ Hộ Thiên Sứ, nhưng phía sau lưng nó cũng chẳng thấy bóng dáng của đôi cánh nào cả. Có lẽ những mấu kim loại nhô ra từ sau vai với độ dài dang dở kia chỉ là khớp nối để gắn các trang bị dạng cánh hoặc bộ đẩy phản lực mà thôi.
 
-Thứ này chắc chắn không thể di chuyển khỏi ma pháp trận triệu hồi, và cũng không thể phát huy nổi một nửa sức mạnh vốn có của nó.
+Thứ quái vật này chắc chắn không thể rời khỏi ma pháp trận triệu hồi, và cũng không thể nào phát huy nổi lấy một nửa sức mạnh vốn có của nó.
 
-Thế nhưng để tiêu diệt những kẻ đã kiệt sức như chúng tôi, sức mạnh của nó là quá dư thừa. Không được phép để thứ này lộng hành theo cơn thịnh nộ của Kotori.
+Thế nhưng để nghiền nát những kẻ đã cạn kiệt sức lực như chúng tôi, uy lực của nó vẫn là quá dư thừa. Tuyệt đối không được phép để thứ này tự do lộng hành theo cơn điên loạn của Kotori.
 
 “...Hả?”
 
-Đến lúc này, có lẽ Kotori mới nhận thức được tình hình. Ánh mắt đang nhìn tôi đầy căm hận bỗng chuyển hướng sang khối tinh thể phong ấn được chĩa vào bởi đầu gậy phép, đôi mắt cô ta trợn tròn vì kinh ngạc.
+Đến tận lúc này, có lẽ Kotori mới thực sự nhận thức được tình hình thực tế. Ánh mắt ngập tràn sát khí đang nhìn tôi bỗng chốc khựng lại, dời sang khối tinh thể phong ấn đang bị đầu gậy phép chĩa thẳng vào, đôi mắt cô ta trợn tròn lên vì bàng hoàng.
 
-Một sự kinh ngạc vô cùng rõ ràng.
+Một sự kinh ngạc tột độ hiện rõ mồn một trên gương mặt.
 
-Gì thế hả Kotori, việc Dũng Giả bị đánh bại khiến ngươi sốc đến thế sao? Thật là ngu ngốc khi tin vào những lời của Souma Yuuto.
+Sao thế hả Kotori, việc Dũng Giả bị hạ gục khiến ngươi sốc đến mức đó sao? Thật là ngu xuẩn khi đặt trọn niềm tin mù quáng vào những lời lẽ của Souma Yuuto.
 
-“Hả, ơ, tại sao... Souma-kun lại thua...?”
+“Hả, ơ, tại sao... Souma-kun lại có thể thua được cơ chứ...?”
 
-“Phải, Souma Yuuto đã thua. Đúng như những gì ngươi thấy đấy.”
+“Phải, Souma Yuuto đã bại trận rồi. Đúng như những gì tận mắt ngươi đang nhìn thấy đấy.”
 
-“Nói dối... Nói dối, làm sao có thể... Dũng Giả lại thua...? Dũng Giả của Kotori lại thua lũ rác rưởi này sao?”
+“Nói dối... Mày nói dối, làm sao có thể như thế được... Dũng Giả mà lại thua sao...? Dũng Giả của Kotori mà lại đi thua cái lũ rác rưởi tụi mày ư?”
 
-“Hửm, thua lũ rác rưởi này thì chứng tỏ hắn ta chính là kẻ siêu cấp rác rưởi rồi còn gì.”
+“Hửm, thua một lũ rác rưởi thì chỉ càng chứng minh rằng hắn ta chính là một kẻ siêu cấp rác rưởi mà thôi.”
 
-“Câm miệng!!”
+“Câm mồm!!”
 
-*Rầm*, Kotori giậm chân xuống sàn. Oa, đây là lần đầu tiên tôi thấy có kẻ tức giận đến mức giậm chân đành đạch ngoài đời thực đấy.
+*Rầm!* Kotori giậm mạnh chân xuống nền đá. Oa, đây là lần đầu tiên trong đời tôi thấy có kẻ tức tối đến mức giậm chân đành đạch ngoài đời thực như thế này đấy.
 
-Mà thật sự đấy, không ngờ ngươi lại tin tưởng vào chiến thắng của Souma Yuuto đến thế. Kẻ bị gã đàn ông đó lừa gạt nhiều nhất, hóa ra lại chính là ngươi chăng.
+Mà nói thật lòng, không ngờ ngươi lại tin tưởng mù quáng vào chiến thắng của Souma Yuuto đến mức độ đó. Hóa ra kẻ bị gã đàn ông kia lừa gạt nhiều nhất, lại chính là bản thân ngươi chăng.
 
-“Hiểu chưa hả, Takanashi. Quyền sinh sát đối với ngài Dũng Giả của ngươi đang nằm trong tay ta.”
+“Hiểu rõ rồi chứ, Takanashi. Quyền sinh sát đối với ngài Dũng Giả tôn quý của ngươi hiện đang nằm trọn trong tay ta.”
 
-“...K... Không thể giết được. Đúng thế, mày không thể giết Souma-kun!”
+“...K... Mày không dám giết đâu. Đúng thế, mày tuyệt đối không thể giết Souma-kun!”
 
-“Đúng vậy thật. Rất khó để giết ngay lập tức qua lớp băng phong ấn, vả lại nếu làm thế thì tôi sẽ bị Sakura-chan giết mất.”
+“Đúng là như vậy thật. Rất khó để đoạt mạng hắn ngay lập tức xuyên qua lớp tinh thể phong ấn kiên cố này, vả lại nếu tôi ra tay, tôi sẽ bị Sakura-chan giết chết mất.”
 
-Có vẻ như cô ta đã bình tĩnh lại đôi chút. Đã ngừng la hét thảm hại và đang cố gắng vận dụng đầu óc.
+Có vẻ như cô ta đã dần lấy lại được chút bình tĩnh. Đã thôi không còn la hét thảm hại nữa mà bắt đầu vận dụng đầu óc để toan tính.
 
-Kotori chắc chắn muốn tin rằng lời đe dọa của tôi chỉ là một đòn bịp bợm. Như vậy, với sức mạnh vượt trội hiện tại, cô ta sẽ một lần nữa giành lại ưu thế tuyệt đối.
+Kotori chắc chắn đang cố bám víu vào suy nghĩ rằng lời đe dọa của tôi chỉ là một đòn bịp bợm rỗng tuếch. Bởi vì chỉ cần như thế, với thứ sức mạnh áp đảo đang sở hữu, cô ta sẽ một lần nữa đoạt lại thế thượng phong tuyệt đối.
 
-“Nhưng mà, nhìn xem, đằng kia có Thiên Tống Môn đúng không?”
+“Thế nhưng, nhìn xem, đằng kia chính là Thiên Tống Môn đúng không?”
 
-Cái Thiên Tống Môn đang tỏa ra ánh sáng trắng kia, rốt cuộc là nó đang kết nối với nơi nào ấy nhỉ?
+Cái Thiên Tống Môn đang tỏa ra ánh sáng trắng rực rỡ kia, rốt cuộc hiện tại nó đang kết nối tới nơi nào ấy nhỉ?
 
-Đền thờ ở vương đô Sigrun, nơi thoát hiểm sao? Không, không phải.
+Đại thánh đường ở vương đô Sigrun, cánh cổng thoát hiểm an toàn sao? Không, tuyệt đối không phải.
 
-Thiết lập hiện tại của Thiên Tống Môn là dịch chuyển ngẫu nhiên hoàn toàn dùng để trục xuất.
+Thiết lập hiện tại của Thiên Tống Môn là cổng dịch chuyển tọa độ ngẫu nhiên hoàn toàn, dùng cho mục đích trục xuất.
 
-“Nếu bị ném vào đó, không biết ngài Dũng Giả sẽ bị dịch chuyển đi đâu nhỉ?”
+“Nếu bị ném thẳng vào trong đó, không biết ngài Dũng Giả vĩ đại sẽ bị dịch chuyển trôi dạt tới xó xỉnh nào trên thế giới này nhỉ?”
 
-“M... Mày không dám đâu... Làm vậy thì Lớp trưởng và Natsukawa cũng sẽ bị vạ lây!”
+“M... Mày không dám làm thế đâu... Làm vậy thì cả Lớp trưởng lẫn Natsukawa cũng sẽ bị vạ lây theo!”
 
-“Nhưng nếu Dũng Giả bị dịch chuyển đi mất, ngươi sẽ là người gặp rắc rối nhất đúng không?”
+“Nhưng nếu Dũng Giả bị dịch chuyển biến mất, ngươi mới chính là kẻ gặp rắc rối to nhất đúng chứ?”
 
-Cái gì ấy nhỉ, sứ mệnh cao cả mà ngươi nhận được từ Nữ thần. Thúc đẩy sự thức tỉnh sức mạnh của Dũng Giả thông qua cuộc sinh tồn trong hầm ngục này sao?
+Cái gì ấy nhỉ, sứ mệnh cao cả mà ngươi đã tiếp nhận từ miệng Nữ thần ấy? Thúc đẩy sự thức tỉnh sức mạnh của Dũng Giả thông qua cuộc chiến sinh tồn đẫm máu trong hầm ngục này sao?
 
-Ngài Dũng Giả của ngươi sắp biến mất khỏi hầm ngục này rồi kìa?
+Ngài Dũng Giả của ngươi sắp sửa bốc hơi hoàn toàn khỏi hầm ngục này rồi kìa?
 
-“Này Takanashi, nếu không thể hoàn thành sứ mệnh thức tỉnh Dũng Giả thì ngươi sẽ thế nào? Ngươi có bị trừng phạt không? Có bị sét đánh chết vì thiên phạt không?”
+“Này Takanashi, nếu không thể hoàn thành sứ mệnh thức tỉnh Dũng Giả thì kết cục của ngươi sẽ ra sao? Ngươi có bị trừng phạt không? Có bị sét đánh vỡ đầu vì thiên phạt giáng xuống không?”
 
 “K... Khốn kiếp...”
 
-Chỉ biết thốt ra những lời chửi rủa non nớt thôi sao. Mồ hôi lạnh chảy ròng ròng trên mặt Kotori, ánh mắt cô ta rõ ràng đang dao động dữ dội.
+Rốt cuộc cũng chỉ biết thốt ra những lời chửi rủa bất lực, non nớt đó thôi sao. Mồ hôi lạnh túa ra ròng ròng trên trán Kotori, ánh mắt cô ta rõ ràng đang dao động dữ dội trong cơn hoảng loạn.
 
-Bản thân Kotori có lẽ cũng không biết chuyện gì sẽ xảy ra nếu thất bại trong việc thực hiện sứ mệnh. Thần linh làm sao có thể rảnh rỗi giải thích chi tiết những chuyện đó cho cô ta chứ.
+Bản thân Kotori có lẽ cũng chẳng thể biết được chuyện kinh khủng gì sẽ giáng xuống đầu mình nếu làm hỏng sứ mệnh thần thánh. Lũ thần linh trên cao làm sao có thể rảnh rỗi mà đi giải thích cặn kẽ từng đường đi nước bước cho một quân cờ như cô ta chứ.
 
-Ngươi thua rồi. Ngay từ khoảnh khắc mất đi Souma Yuuto, ngươi đã hoàn toàn thất bại rồi.
+Ngươi thua rồi. Ngay từ khoảnh khắc đánh mất Souma Yuuto, ngươi đã hoàn toàn đại bại rồi.
 
-“Bỏ cuộc đi, Takanashi. Thu hồi Đại Thủ Hộ Thiên Sứ lại và ngoan ngoãn đầu hàng đi. Ta sẽ tha mạng cho ngươi cùng với Souma Yuuto.”
+“Bỏ cuộc đi, Takanashi. Thu hồi Đại Thủ Hộ Thiên Sứ lại rồi ngoan ngoãn đầu hàng đi. Ta sẽ tha cho cái mạng rách của ngươi cùng với Souma Yuuto.”
 
-Đương nhiên, đó là lời nói dối. Ta sẽ giết ngươi. Chắc chắn sẽ giết ngươi.
+Đương nhiên, đó chỉ là một lời nói dối trắng trợn. Ta sẽ giết ngươi. Chắc chắn ta sẽ băm vằn ngươi ra thành trăm mảnh.
 
-Chuyện đó chắc ngươi cũng tự hiểu rõ, nhưng khi đã rơi vào đường cùng không lối thoát, nếu nghĩ rằng mình vẫn còn cơ hội sống sót, ngươi sẽ muốn bám víu vào nó thôi.
+Chuyện đó chắc hẳn trong thâm tâm ngươi cũng tự ý thức được, thế nhưng một khi đã bị dồn vào ngõ cụt không lối thoát, chỉ cần nhìn thấy một tia hy vọng sống sót mong manh, con người ta sẽ bất chấp tất cả mà bám víu lấy nó thôi.
 
-Nào, đầu hàng đi. Ngươi đã kết thúc rồi. Bởi vì Souma Yuuto, kẻ không thể trở thành Dũng Giả, tuyệt đối không thể cứu được ngươi nữa đâu.
+Nào, buông vũ khí đầu hàng đi. Màn kịch của ngươi hạ màn rồi. Bởi vì Souma Yuuto, kẻ vĩnh viễn không thể trở thành Dũng Giả, tuyệt đối không còn khả năng cứu vớt ngươi được nữa đâu.
 
 “— Mở ra, Thiên Tống Môn.”
 
 《Yêu cầu tái kích hoạt "Thiên Tống Môn" của Tổng đốc lâm thời Takanashi được tiếp nhận. Bác bỏ. Hiện tại, do sự ưu tiên áp dụng của Quân lệnh Emerodia, yêu cầu tái kích hoạt không được xét duyệt.》
 
-“Yêu cầu lại. Tình huống khẩn cấp, hãy vấn tin người sở hữu Mã General Code.”
+“Yêu cầu lại! Tình huống khẩn cấp cấp độ tối cao, lập tức chuyển tiếp vấn tin người sở hữu Mã General Code!”
 
-《Đang xác nhận nội dung yêu cầu với Chỉ huy trưởng lâm thời Tendou — Không phản hồi.》
+《Đang tiến hành xác nhận nội dung yêu cầu với Chỉ huy trưởng lâm thời Tendou — Không có phản hồi.》
 
-“Takanashi, ngươi định—”
+“Takanashi, con khốn kia, ngươi định—”
 
-Tendou đang bất tỉnh nhân sự. Dù có bất kỳ tín hiệu liên lạc nào truyền đến từ Tháp Trung Tâm, cậu ta cũng không ở trong tình trạng có thể phản hồi.
+Tendou lúc này đang hôn mê bất tỉnh nhân sự. Dù có bất kỳ tín hiệu liên lạc khẩn cấp nào truyền tới từ hệ thống Tháp Trung Tâm, cậu ta cũng tuyệt đối không ở trong trạng thái có thể đưa ra phản hồi.
 
-Biết rõ điều đó, Kotori vẫn đang cố gắng cưỡng chế thông qua quyền hạn của mình!
+Biết quá rõ điều đó, Kotori vẫn đang liều mạng dùng quyền hạn dự phòng để cưỡng chế thông qua lệnh kích hoạt!
 
-“Nếu Chỉ huy trưởng không phản hồi, mau chóng thông qua yêu cầu của Kotori đi! Tái kích hoạt Thiên Tống Môn mau lên!!”
+“Nếu Chỉ huy trưởng không phản hồi trong thời gian quy định, mau chóng thông qua toàn bộ yêu cầu của Kotori đi! Tái kích hoạt Thiên Tống Môn ngay lập tức!!”
 
-《Yêu cầu tái kích hoạt được chấp nhận. Thiên Tống Môn chuyển sang tiến trình khởi động. Thời gian mở cổng: 10, 9, 8...》
+《Yêu cầu tái kích hoạt khẩn cấp được chấp thuận. Thiên Tống Môn chuyển sang tiến trình khởi động toàn phần. Thời gian mở cổng: 10, 9, 8...》
 
-Ánh sáng trắng của Thiên Tống Môn bỗng chốc rực rỡ hơn. Trên cánh cổng, những hoa văn ánh sáng xanh lam nhạt ngọ nguậy, hiển thị rõ ràng trạng thái đang hoạt động.
+Hào quang màu trắng của Thiên Tống Môn bỗng chốc bùng lên rực rỡ chói lòa. Trên bề mặt cánh cổng không gian, những hoa văn ma pháp màu xanh lam nhạt bắt đầu uốn lượn ngọ nguậy, hiển thị rõ ràng trạng thái vận hành tối đa.
 
 “Ngươi... định bỏ trốn sao?!”
 
-“Bỏ trốn? Không phải, Kotori chỉ là làm lại từ đầu thôi.”
+“Bỏ trốn? Không phải đâu, Kotori chỉ là làm lại mọi thứ từ đầu mà thôi!”
 
-Một luồng sáng chói lòa phóng ra từ Thiên Tống Môn — bên trong cánh cổng đó, một ma pháp trận hình tròn bằng ánh sáng trắng được phản chiếu một cách rõ nét.
+Một cột sáng chói lòa phóng vút ra từ miệng Thiên Tống Môn — sâu bên trong cánh cổng ấy, một ma pháp trận hình tròn rực rỡ ánh sáng trắng bắt đầu xoay chuyển đồng tâm một cách rõ nét.
 
-Thiên Tống Môn đã hoàn toàn được kích hoạt. Chỉ cần đi qua đây, họ sẽ thoát khỏi hầm ngục này và đến được điểm đích là vương đô Sigrun.
+Thiên Tống Môn đã hoàn toàn được kích hoạt. Chỉ cần bước qua cánh cửa này, họ sẽ thoát ly khỏi hầm ngục tăm tối và tiến thẳng tới điểm đích là vương đô Sigrun.
 
-“Souma-kun, đi trước nhé — Bắt đầu dịch chuyển.”
+“Souma-kun, đi trước một bước nhé — Bắt đầu tiến trình dịch chuyển!”
 
-Cùng với nụ cười dịu dàng của Kotori, một dải sáng trắng phóng ra từ Thiên Tống Môn, bao bọc lấy khối tinh thể phong ấn — ngay khoảnh khắc tiếp theo, tất cả đã biến mất.
+Cùng với nụ cười dịu dàng đến rợn người của Kotori, một dải lụa ánh sáng trắng tinh khiết phóng thẳng ra từ Thiên Tống Môn, bao bọc trọn vẹn lấy khối tinh thể phong ấn khổng lồ — và ngay khoảnh khắc tiếp theo, toàn bộ khối băng đã biến mất không để lại một dấu vết.
 
-Bên trong khối tinh thể chứa Souma Yuuto, cùng với Lớp trưởng và Natsukawa, cả ba người đã bị Thiên Tống Môn dịch chuyển đi mất.
+Bên trong khối tinh thể chứa Souma Yuuto, cùng với Lớp trưởng và Natsukawa, cả ba người bọn họ đã bị Thiên Tống Môn dịch chuyển cuốn phăng đi mất.
 
-Đây chính là kết thúc của cuộc sinh tồn trong hầm ngục.
+Đây chính là hồi kết của cuộc chiến sinh tồn đẫm máu bên trong hầm ngục.
 
-Hạn ngạch thoát hiểm đã được định sẵn. Ba người đó đã được chọn để đi qua.
+Hạn ngạch thoát hiểm vốn dĩ đã được định sẵn từ trước. Ba con người đó đã được lựa chọn để rời khỏi nơi này.
 
-“A ha ha, chỉ cần giết sạch tụi mày rồi làm lại từ đầu là được chứ gì!”
+“A ha ha, a ha ha ha! Chỉ cần giết sạch sành sanh cái lũ tụi mày rồi bắt đầu lại từ đầu là xong hết chứ gì!!”

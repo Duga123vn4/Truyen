@@ -2,7 +2,7 @@
 
 “Pugwaaa!?”
 
-Cất lên tiếng kêu đầy kinh ngạc, Kinako ngã nhào về phía trước theo quán tính lao tới. Thân hình đồ sộ ngang ngửa một cự nhân của nó khi đổ sụp xuống đã tạo nên một chấn động rung chuyển mặt đất.
+Cất lên tiếng kêu đầy kinh ngạc, Kinako ngã nhào về phía trước theo quán tính lao tới. Thân hình đồ sộ ngang ngửa một cự nhân khi đổ sụp xuống đã tạo nên một chấn động rung chuyển mặt đất.
 
 Thế nhưng, 『Hắc Xích Chú Phát』—thứ vừa chặn đứng cú bứt tốc dũng mãnh của con cự thú—quyết không chịu buông lơi dù chỉ một tấc.
 
@@ -10,7 +10,7 @@ Thế nhưng, 『Hắc Xích Chú Phát』—thứ vừa chặn đứng cú bứ
 
 *Nguy hiểm thật, suýt chút nữa là không kịp.* Con đại xà tóc đen bằng cách nào đó đã đuổi kịp tấm lưng đang lao đi của Kinako, và việc đầu tiên nó làm là ngoạm chặt lấy chân sau đối phương.
 
-Dù sở hữu thân hình dài ngoằng và cường tráng, phần đầu của con rắn cũng được chế tác vô cùng tinh vi. Dù mang ngoại hình như một cái đầu xà không mắt, khuôn hàm của nó lại có thể há rộng một cách kinh hoàng ngoài sức tưởng tượng. Những chiếc răng nanh mọc lởm chởm bên trong tuy so le nhưng chiếc nào chiếc nấy đều to lớn và sắc nhọn, một khi đã cắm sâu vào da thịt thì tuyệt đối không dễ gì rút ra. Hàm răng hung tợn quái dị ấy xếp thành ba hàng san sát, nhìn vào chiếc miệng khổng lồ đang há hốc quả thực khiến người ta phải rợn tóc gáy.
+Dù sở hữu thân hình dài ngoẵng và cường tráng, phần đầu của con rắn cũng được chế tác vô cùng tinh vi. Dù mang ngoại hình như một cái đầu xà không mắt, khuôn hàm của nó lại có thể há rộng một cách kinh hoàng ngoài sức tưởng tượng. Những chiếc răng nanh mọc lởm chởm bên trong tuy so le nhưng chiếc nào chiếc nấy đều to lớn và sắc nhọn, một khi đã cắm sâu vào da thịt thì tuyệt đối không dễ gì rút ra. Hàm răng hung tợn quái dị ấy xếp thành ba hàng san sát, nhìn vào chiếc miệng khổng lồ đang há hốc quả thực khiến người ta phải rợn tóc gáy.
 
 Cú đớp từ cái đầu rắn đáng sợ găm thẳng vào cổ chân đang đạp đất của Kinako, khiến máu tươi tuôn xối xả và làm nó hoàn toàn mất đà ngã quỵ.
 

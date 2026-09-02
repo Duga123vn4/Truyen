@@ -2,7 +2,7 @@
 
 Bầu trời xanh thẳm không một gợn mây, làn gió sớm mai mát rượi khẽ thổi qua.
 
-Nơi đây là Quảng trường Tinh Linh đổ nát, bao quanh bởi những rặng cây xanh mướt của khu rừng rậm rạp, xa xa sừng sững bóng dáng của một ngọn núi khổng lồ... nhưng chốn này đã là thế giới bên ngoài hầm ngục.
+Nơi đây là một Quảng trường Tinh Linh đổ nát, bao quanh bởi những rặng cây xanh mướt của khu rừng rậm rạp, phía xa sừng sững bóng dáng của một ngọn núi khổng lồ... Thế nhưng, chốn này đã là thế giới bên ngoài hầm ngục.
 
 Cả thời tiết lẫn địa điểm đều vô cùng hoàn hảo cho một chuyến khởi hành.
 
@@ -10,7 +10,7 @@ Cả thời tiết lẫn địa điểm đều vô cùng hoàn hảo cho một c
 
 “Ừm, Tendou-kun cũng cẩn thận nhé.”
 
-Đã một tháng trôi qua kể từ khi chúng tôi chinh phục hầm ngục 『Albion』. Mọi khâu chuẩn bị đều diễn ra êm đẹp, và cuối cùng ngày lên đường cũng đã tới.
+Đã một tháng trôi qua kể từ ngày chúng tôi chinh phục hầm ngục 『Albion』. Mọi khâu chuẩn bị đều diễn ra êm đẹp, và cuối cùng ngày lên đường cũng đã tới.
 
 “Được ngươi chiếu cố nhiều rồi, hỡi Chú thuật sư.”
 
@@ -20,7 +20,7 @@ Cả thời tiết lẫn địa điểm đều vô cùng hoàn hảo cho một c
 
 “Lần sau lại nhờ cậy tiếp nha!”
 
-Tôi đáp lại bằng một nụ cười rạng rỡ trước ánh mắt oán hận từ Liberta đang đậu trên vai Tendou vì bị bắt làm việc quần quật nhiều hơn là được chăm sóc. Sức chiến đấu lẫn khả năng không vận của cô nàng đúng là đỉnh của chóp. Cô ấy đi rồi, tôi sẽ nhớ lắm đây. Dù biết khó lòng kiếm ra một sứ ma có hiệu năng khủng khiếp như Liberta, nhưng tôi vẫn phải sớm tìm kiếm một đơn vị không quân mới thay thế thôi.
+Tôi đáp lại bằng một nụ cười rạng rỡ trước ánh mắt hậm hực từ Liberta đang đậu trên vai Tendou vì bị bắt làm việc quần quật suốt thời gian qua. Phải công nhận sức chiến đấu lẫn khả năng không vận của cô nàng đúng là đỉnh của chóp. Giờ cô ấy đi rồi, tôi sẽ nhớ lắm đây. Dù biết khó lòng kiếm ra một sứ ma có hiệu năng khủng khiếp như Liberta, nhưng tôi vẫn phải sớm tìm kiếm một đơn vị không quân mới để thay thế thôi.
 
 “Oa oa oa! Bếp trưởng ơi~!”
 
@@ -58,7 +58,7 @@ Vì Himeno cũng nằm trong nhóm xuất phát cùng Tendou, nên nghĩ lại t
 
 Và người cuối cùng rời khỏi đây ngày hôm nay chính là Sakura.
 
-Bộ đồng phục từng bị xé rách tả tơi sau đòn tấn công của Đại Thủ Hộ Thiên Sứ giờ đã được phục hồi nguyên vẹn. Nhờ số nguyên liệu mượn tạm từ xưởng của Kotori, bộ trang phục đã được cường hóa thêm, kết hợp cùng Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện mặc bên trong, tạo nên một dáng vẻ vô cùng hiên ngang lẫm liệt, sẵn sàng đương đầu với thế giới bên ngoài.
+Bộ đồng phục từng bị xé rách tả tơi sau đòn tấn công của Đại Thủ Hộ Thiên Sứ giờ đã được phục hồi nguyên vẹn. Nhờ số nguyên liệu mượn tạm từ xưởng của Kotori, bộ trang phục đã được gia cố thêm, kết hợp cùng 『Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện』 mặc bên trong, tạo nên một dáng vẻ vô cùng hiên ngang lẫm liệt, sẵn sàng đương đầu với thế giới bên ngoài.
 
 “Cảm ơn cậu rất nhiều. Momokawa Kotarou, nhờ có cậu mà tôi mới có thể đón nhận ngày hôm nay. Từ tận đáy lòng, tôi xin gửi lời cảm ơn chân thành nhất đến cậu.”
 
@@ -90,7 +90,7 @@ Trước tiên, họ sẽ tiếp cận Vương quốc Astoria hoặc một quố
 
 Cho dù xã hội phong kiến trung cổ ở đó có thối nát và chịu sự áp bức nặng nề của tầng lớp quý tộc vương quyền đi chăng nữa, chỉ cần có Tendou thì mọi chuyện đều sẽ ổn thỏa thôi. Ngay cả Himeno giờ đây cũng đã là một chiến lực vô cùng đáng gờm rồi.
 
-Nhân cơ hội bước ra thế giới bên ngoài này, tôi rất mong đợi Himeno sẽ có màn ra mắt chính thức với tư cách là một Succubus thực thụ, tha hồ "hút tinh" đàn ông dị giới để ngày càng trở nên hùng mạnh hơn.
+Nhân cơ hội bước ra thế giới bên ngoài này, tôi rất mong đợi Himeno sẽ có màn ra mắt chính thức với tư cách là một 『Succubus』 thực thụ, tha hồ "hút tinh" đàn ông dị giới để ngày càng trở nên hùng mạnh hơn.
 
 Còn Sakura thì làm ơn đừng có tự tiện phát rồ rồi bạo tẩu đấy nhé.
 
@@ -146,7 +146,7 @@ Một tháng nữa lại trôi qua kể từ ngày nhóm của Tendou lên đư�
 
 Tôi nhìn quanh căn xưởng trống trơn và thẫn thờ lẩm bẩm.
 
-Nơi đây từng là xưởng chế tạo cuối cùng mà Kotori sử dụng, với trang thiết bị và kho nguyên liệu dự trữ phong phú vượt trội so với pháo đài ẩn. Căn xưởng mới này đáng lẽ phải là nơi tôi điên cuồng chế tạo trang bị viễn chinh cho đội tìm kiếm cũng như chuẩn bị cho chuyến hành trình mới... thế nhưng, kể từ ngày nhóm Tendou rời đi, nơi này hầu như chẳng có lấy một chút biến chuyển nào.
+Nơi đây từng là xưởng chế tạo cuối cùng mà Kotori sử dụng, với trang thiết bị và kho nguyên liệu dự trữ phong phú vượt trội so với pháo đài ẩn. Căn xưởng mới này đáng lẽ phải là nơi tôi điên cuồng chế tạo trang bị viễn chinh cho đội tìm kiếm cũng như chuẩn bị cho chuyến hành trình mới... Thế nhưng, kể từ ngày nhóm Tendou rời đi, nơi này hầu như chẳng có lấy một chút biến chuyển nào.
 
 Phải, suốt một tháng qua, tôi hoàn toàn không làm được một tích sự gì cả!
 
@@ -254,15 +254,15 @@ Trước mắt cứ phải chuồn lẹ đã, không thì lại bị hai ngườ
 
 Sau khi hạ quyết tâm quay lại lối sống lành mạnh tối thiểu, tôi đã dành thêm một tháng ròng rã để tiếp tục công tác chuẩn bị.
 
-Trong số đó, phần việc tôi dồn nhiều tâm huyết và công sức nhất chính là khôi phục Thiên Tống Môn.
+Trong số đó, phần việc tôi dồn nhiều tâm huyết và công sức nhất chính là khôi phục 『Thiên Tống Môn』.
 
 Thật là, cái con nhỏ Kotori chết tiệt đó, tự dưng lại cài cắm cái lớp khóa bảo mật phiền toái này làm gì không biết.
 
-Vốn dĩ Thiên Tống Môn này vẫn hoạt động hoàn toàn bình thường. Nghĩa là nó vẫn duy trì trọn vẹn chức năng dịch chuyển của mình.
+Vốn dĩ 『Thiên Tống Môn』 này vẫn hoạt động hoàn toàn bình thường. Nghĩa là nó vẫn duy trì trọn vẹn chức năng dịch chuyển của mình.
 
 Thế nhưng, việc nó bị giới hạn chỉ cho phép ba người thoát ra ngoài là sự thật.
 
-Tuy nhiên, ban đầu Thiên Tống Môn vốn là phương tiện giao thông công cộng lớn nhất, dùng để dịch chuyển tức thời cho một lượng lớn cư dân của nền văn minh Albion. Sự tồn tại của việc giới hạn quân số dịch chuyển ngay từ đầu đã là một nghịch lý nực cười.
+Tuy nhiên, ban đầu 『Thiên Tống Môn』 vốn là phương tiện giao thông công cộng lớn nhất, dùng để dịch chuyển tức thời cho một lượng lớn cư dân của nền văn minh Albion. Sự tồn tại của việc giới hạn quân số dịch chuyển ngay từ đầu đã là một nghịch lý nực cười.
 
 Nói cách khác, giới hạn ba người chỉ là một quy tắc cưỡng chế được áp đặt nhằm phục vụ cho Kế hoạch Nuôi dưỡng Dũng Giả mà thôi.
 
@@ -272,7 +272,7 @@ Nếu đã là như vậy, việc bẻ khóa gỡ bỏ nó chắc chắn là đi
 
 “Pigi...”
 
-Chiếc Tiểu Điểu Tương nằm gọn trong lòng bàn tay tôi chỉ biết run rẩy bần bật chứ không hề phát ra lời đáp nào.
+Chiếc 『Tiểu Điểu Tương』 nằm gọn trong lòng bàn tay tôi chỉ biết run rẩy bần bật chứ không hề phát ra lời đáp nào.
 
 Mà thôi, nếu oán niệm của Kotori thực sự cất tiếng lải nhải mấy lời nguyền rủa cay độc thì cũng chỉ tổ nhức đầu. Thứ này chỉ cần đóng vai trò là một vật phẩm độc nhất vô nhị giúp tôi khai phóng toàn bộ sức mạnh và tư cách 『Hiền Giả』 mà cô ta từng chiếm giữ là quá đủ rồi.
 
@@ -290,7 +290,7 @@ Dù không tính đến mục đích sinh tồn đi chăng nữa, trong tôi v�
 
 “— Vậy thì, xuất phát thôi nào.”
 
-Vài ngày sau khi khôi phục hoàn chỉnh chức năng của Thiên Tống Môn, sau khi đã tiến hành vô số cuộc thử nghiệm vận hành an toàn bằng phân thân và Rem, cuối cùng thời khắc dịch chuyển bằng bản thể thật cũng đã điểm.
+Vài ngày sau khi khôi phục hoàn chỉnh chức năng của 『Thiên Tống Môn』, sau khi đã tiến hành vô số cuộc thử nghiệm vận hành an toàn bằng phân thân và Rem, cuối cùng thời khắc dịch chuyển bằng bản thể thật cũng đã điểm.
 
 “Liệu có thực sự ổn thỏa không đấy?”
 
@@ -320,7 +320,7 @@ Nếu điều tra sơ bộ thấy nơi đó chỉ toàn thiên nhiên hoang vu c
 
 “Vâng, chủ nhân.”
 
-Ánh sáng trắng dịch chuyển quen thuộc bừng lên rực rỡ, mở toang cánh cổng Thiên Tống Môn sừng sững đầy uy nghiêm.
+Ánh sáng trắng dịch chuyển quen thuộc bừng lên rực rỡ, mở toang cánh cổng 『Thiên Tống Môn』 sừng sững đầy uy nghiêm.
 
 Tôi nắm chặt lấy bàn tay của Mei-chan bằng tay phải, và dắt tay bé Rem bằng tay trái.
 

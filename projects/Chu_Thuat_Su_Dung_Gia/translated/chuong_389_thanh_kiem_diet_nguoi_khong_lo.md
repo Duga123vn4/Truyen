@@ -1,40 +1,40 @@
 # Tập 389: Thanh Kiếm Diệt Người Khổng Lồ
 
-Dark Rerite — trạng thái bạo tẩu của Rerite mà Kotarou từng gọi tên — chính là trạng thái mà toàn bộ cơ thể bị một Ám tinh linh vô cùng hùng mạnh ký sinh và hòa làm một, điều đó Randou Kyouko chỉ cần liếc mắt là đã có thể thấu hiểu ngay tức khắc.
+Dark Rerite — trạng thái bạo tẩu của Rerite mà Kotarou từng gọi tên — chính là hiện tượng toàn bộ cơ thể bị một Ám tinh linh cực kỳ hùng mạnh ký sinh và dung hợp làm một. Điều đó Randou Kyouko chỉ cần liếc mắt là đã có thể thấu hiểu ngay tức khắc.
 
-Vượt xa cảnh giới của 『Tinh Linh Khôi Lỗi』, đây chính là sự hợp nhất tuyệt đối giữa con người và Tinh linh — một cảnh giới xứng danh gọi là MA NHÂN!
+Vượt xa cảnh giới của 『Tinh Linh Khôi Lỗi』, đây chính là sự hợp nhất tuyệt đối giữa con người và Tinh linh — một cảnh giới xứng danh Ma Nhân!
 
-Sức mạnh của một kẻ đã hóa thân thành Ma Nhân khủng khiếp đến nhường nào thì chính Rerite đã chứng minh bằng việc đơn thương độc mã đối đầu trực diện ngang ngửa với cả Dũng Giả Souma.
+Sức mạnh của một kẻ đã hóa thân thành Ma Nhân khủng khiếp đến nhường nào thì chính Rerite đã chứng minh khi một mình đối đầu trực diện ngang ngửa với cả Dũng Giả Souma Yuuto.
 
 Và thứ sức mạnh áp đảo ấy... chính là điều mà Kyouko đang khao khát nhất lúc này!
 
-“——**『MA NHÂN HÓA - THỔ TINH LINH』 (Ma Nhân Hóa - Thổ Tinh Linh)!**”
+“——『Ma Nhân Hóa - Thổ Tinh Linh』!!”
 
-Cái tên ấy tự nhiên tuôn trào từ khóe môi của Kyouko như một bản năng vô thức.
+Cái tên ấy tự nhiên tuôn trào từ khóe môi Kyouko như một bản năng vô thức.
 
-Bao phủ trong luồng hào quang màu cam rực rỡ chói lòa, những gì Kyouko có thể cảm nhận được lúc này là nguồn năng lượng vĩ đại của vô số Thổ tinh linh đang cuộn trào dữ dội xung quanh. Cô không biết chúng từ đâu kéo tới — là do nơi đây là một thánh địa đặc biệt, hay đơn giản vì đây là đáy sâu lòng đất nên sự hiện diện của Thổ tinh linh là điều tất yếu.
+Bao phủ trong luồng hào quang màu cam rực rỡ chói lòa, những gì Kyouko có thể cảm nhận được lúc này là nguồn năng lượng vĩ đại của vô số Thổ tinh linh đang cuộn trào dữ dội xung quanh. Cô không rõ chúng từ đâu kéo tới — là do nơi đây là một thánh địa đặc biệt, hay đơn giản vì đây là đáy sâu lòng đất nên sự hiện diện của Thổ tinh linh là điều tất yếu.
 
 Không cần bận tâm tới lý do hay nguyên tắc! Kyouko chỉ mở rộng tâm trí, đón nhận trọn vẹn nguồn ma lực Thổ tinh linh vô tận đang dâng trào như thác lũ.
 
 Vô số Thổ tinh linh xoáy tròn tụ hội quanh thân ảnh Kyouko. Khởi đầu từ những đốm sáng li ti của vi tinh linh, mật độ ma lực tăng tiến với tốc độ chóng mặt, bùng nổ thành một cơn lốc xoáy rực rỡ bao bọc lấy toàn thân cô——và ngay khoảnh khắc tiếp theo, ánh sáng chói lòa nổ tung!
 
-Và sừng sững bước ra từ luồng sáng ấy... chính là hình ảnh của Randou Kyouko đã hoàn toàn lột xác thành MA NHÂN THỔ TINH LINH!
+Sừng sững bước ra từ luồng sáng ấy... chính là hình ảnh Randou Kyouko đã hoàn toàn lột xác thành Ma Nhân Thổ Tinh Linh!
 
 “Đ-Đùa nhau à... Đến cả Kyouko cũng thức tỉnh Ma Nhân Hóa vào đúng thời khắc ngàn cân treo sợi tóc này sao!?”
 
-Chứng kiến diện mạo hoàn toàn mới và luồng áp lực ma lực kinh thiên động địa đang tỏa ra từ Kyouko, Kotarou không khỏi chết lặng bàng hoàng.
+Chứng kiến diện mạo hoàn toàn mới cùng luồng áp lực ma lực kinh thiên động địa đang tỏa ra từ Kyouko, Kotarou không khỏi chết lặng bàng hoàng.
 
 Tà áo vũ y trắng tinh khôi thướt tha tung bay. Những món trang sức vàng ròng lấp lánh nạm đầy bảo ngọc bảy màu rực rỡ. Một ma pháp trận khổng lồ được khắc họa bằng dòng nham thạch nóng bỏng sôi sùng sục ngay dưới chân.
 
-Sức nóng làm tan chảy cả mặt sàn đá của đại sảnh, khắc sâu một vòng tròn ma pháp bằng dung nham rực lửa — đó chính là dấu ấn kích hoạt của 『Ma Nhân Hóa - Thổ Tinh Linh』. Đồng thời ma pháp trận này đang liên tục bơm một lượng Thổ tinh linh khổng lồ vào cơ thể Kyouko.
+Sức nóng làm tan chảy cả mặt sàn đá của đại sảnh, khắc sâu một vòng tròn ma pháp bằng dung nham rực lửa — đó chính là dấu ấn kích hoạt của 『Ma Nhân Hóa - Thổ Tinh Linh』. Đồng thời, ma pháp trận này đang liên tục bơm một lượng Thổ tinh linh khổng lồ vào cơ thể Kyouko.
 
-Thế nhưng thứ hút hồn người nhất chính là thân ảnh Kyouko đang đứng sừng sững tại trung tâm vũ đài dung nham!
+Thế nhưng, thứ hút hồn người nhất chính là thân ảnh Kyouko đang đứng sừng sững tại trung tâm vũ đài dung nham!
 
 Bộ đồng phục học sinh quen thuộc đã biến mất không còn dấu vết, thay vào đó là một bộ pháp y trắng muốt mềm mại tựa như dải lụa tiên giáng trần. Những chuỗi trang sức hoàng kim tinh xảo cùng vô số viên ngọc quý lấp lánh điểm xuyết trên nền vải trắng.
 
-Thế nhưng cổ áo khoét sâu táo bạo để lộ bờ vai trần nõn nà và khuôn ngực đẫy đà ngoại cỡ, cùng tà áo xẻ cao khoe trọn đôi chân dài thon thả mang làn da bánh mật bốc lửa quyến rũ chết người!
+Cổ áo khoét sâu táo bạo để lộ bờ vai trần nõn nà cùng khuôn ngực đẫy đà ngoại cỡ, kết hợp với tà áo xẻ cao khoe trọn đôi chân dài thon thả mang làn da bánh mật bốc lửa quyến rũ chết người!
 
-Vừa mang nét thiêng liêng thanh khiết của một Thánh Nữ Vu Nữ, vừa kiêu sa lộng lẫy như một nàng Công chúa, lại vừa toát lên ma lực gợi tình đầy ma mị của một nữ chúa Dâm Ma!
+Vừa mang nét thiêng liêng thanh khiết của một Thánh Nữ Vu Nữ, vừa kiêu sa lộng lẫy như một nàng Công chúa, lại vừa toát lên vẻ gợi cảm đầy ma mị của một nữ chúa Dâm Ma!
 
 ---
 
@@ -42,23 +42,23 @@ Vừa mang nét thiêng liêng thanh khiết của một Thánh Nữ Vu Nữ, v�
 
 ---
 
-Thông tin ma pháp thần thánh được Thần linh của Thiên Chức 『Thổ Ma Thuật Sư』 ban tặng liền khắc sâu vào tâm trí Kyouko.
+Thông tin ma pháp thần thánh do Thần linh của Thiên Chức 『Thổ Ma Thuật Sư』 ban tặng lập tức khắc sâu vào tâm trí Kyouko.
 
 Thế nhưng cô không có thời gian để đọc hiểu những dòng thông tin ấy.
 
 Bằng một ý niệm mãnh liệt duy nhất, Kyouko tập trung toàn bộ tinh thần để kiểm soát nguồn sức mạnh Tinh linh cuồng bạo đang dâng trào trong cơ thể:
 
-*“Xin người... hãy bảo vệ mọi người...!”*
+*(Xin người... hãy bảo vệ mọi người...!)*
 
 Cầu nguyện và khát khao — đó là tất cả những gì Kyouko có thể làm lúc này.
 
 Chứng kiến sự bạo tẩu của Rerite, Kyouko đã sớm nhận ra: Sở dĩ Rerite chỉ nhắm vào một mình Souma Yuuto là bởi vì CĂM THÙ. Lòng căm thù tột cùng đã định hình mục tiêu cho bầy Ám tinh linh. Tinh linh không có bản ngã rõ ràng, chúng chỉ tự do vận động theo bản năng, và người thi triển bắt buộc phải dùng một Ý CHÍ ĐANH THÉP để dẫn dắt chúng.
 
-Thế nhưng cảm xúc dữ dội của Rerite xuất phát từ bi kịch cái chết của gấu Kinako, còn Kyouko không thể nào tạo ra lòng thù hận khủng khiếp nhường ấy.
+Thế nhưng cảm xúc dữ dội của Rerite xuất phát từ bi kịch cái chết của Kinako, còn Kyouko không thể nào tạo ra lòng thù hận khủng khiếp nhường ấy.
 
 Bởi vậy, cô chọn con đường ngược lại: **CẦU NGUYỆN BẰNG TÌNH YÊU THƯƠNG VÀ KHÁT VỌNG BẢO VỆ NHỮNG NGƯỜI QUAN TRỌNG NHẤT!**
 
-Những câu thần chú cổ xưa tự động tuôn trào từ khóe môi Kyouko. Sức mạnh của Thổ tinh linh khiến ý thức của cô dần trở nên mơ màng, ranh giới giữa bản ngã và Tinh linh bắt đầu hòa tan vào nhau như muốn tan biến vào hư vô. Thế nhưng bằng sức mạnh của tình yêu, Kyouko cắn răng giữ vững lý trí!
+Những câu thần chú cổ xưa tự động tuôn trào từ khóe môi Kyouko. Sức mạnh của Thổ tinh linh khiến ý thức của cô dần trở nên mơ màng, ranh giới giữa bản ngã và Tinh linh bắt đầu hòa tan vào nhau như muốn tan biến vào hư vô. Thế nhưng bằng sức mạnh của tình cảm ấy, Kyouko cắn răng giữ vững lý trí!
 
 “VÔ ÍCH THÔI CON KHỐN KIA! BÂY GIỜ CÓ LÀM CÁI TRÒ GÌ CŨNG ĐỀU VÔ ÍCH HẾT! LẦN NÀY TOÀN BỘ LŨ CHÚNG MÀY HÃY BIẾN THÀNH TRO BỤI ĐI CHO TAO——!!”
 
@@ -72,7 +72,7 @@ Một thanh âm trong trẻo thanh khiết vang vọng khắp không gian, đố
 
 Chùm tia sáng đủ sức làm mù mắt bất kỳ ai vừa lao tới liền bị chặn đứng hoàn toàn bởi một luồng hào quang BẢY MÀU rực rỡ!
 
-“——**『THẤT THIÊN BẢO KÍNH』 (Thất Thiên Bảo Kính)!**”
+“——『Thất Thiên Bảo Kính』!!”
 
 Tấm khiên đá 『Nham Sơn Cự Thuẫn』 vừa dựng lên đã lập tức bị chùm tia photon nung chảy và nổ tung trong chưa đầy một giây. Thế nhưng hiện ra từ bên trong đống đá vụn nổ tung ấy... chính là một KHỐI BẢO NGỌC KHỔNG LỒ VĨ ĐẠI!
 
@@ -80,13 +80,13 @@ Tấm khiên đá 『Nham Sơn Cự Thuẫn』 vừa dựng lên đã lập tứ
 
 Kotarou thốt lên kinh ngạc. Khối bảo ngọc hình quả trứng khổng lồ phát ra ánh sáng bảy màu lộng lẫy, được viền xung quanh bằng khung vàng ròng chạm khắc những hoa văn thần thánh vô cùng tinh xảo — một báu vật tựa như chiếc gương soi của Nữ Thần!
 
-“C-Cái quái gì thế này... Đừng có đùa chứ! Bắn vỡ nát nó cho tao mau lên con cỗ máy phế vật này!!”
+“C-Cái quái gì thế này... Đừng có đùa chứ! Bắn vỡ nát nó cho tao mau lên, con cỗ máy phế vật này!!”
 
 Thấy đòn tất sát bị chặn đứng bởi một ma pháp phòng ngự chưa từng thấy, Kotori điên cuồng gào thét.
 
 Tuyệt kỹ 『Thất Thiên Bảo Kính』 của Kyouko đã trực tiếp hứng trọn chùm tia năng lượng hủy diệt, tán xạ chùm sáng thành vô số tia nhỏ bắn tóe ra bốn phương tám hướng!
 
-Dẫu vậy, ánh sáng bảy màu của chiếc gương bảo ngọc đang mờ dần đi và bắt đầu xuất hiện những vết nứt rạn nát... thế nhưng nó vẫn kiên cường đứng vững!
+Dẫu vậy, ánh sáng bảy màu của chiếc gương bảo ngọc đang mờ dần đi và bắt đầu xuất hiện những vết rạn nứt... thế nhưng nó vẫn kiên cường đứng vững!
 
 “Cảm ơn cậu nhiều lắm nhé, Randou-san!”
 
@@ -96,25 +96,25 @@ Kyouko đã dùng cả tính mạng để mua trọn khoảnh khắc sinh tử n
 
 8 giây... 9 giây... và tròn 10 GIÂY PHÒNG NGỰ HOÀN TẤT!
 
-“**『ZAGAN'S PRIDE』, GIẢI PHÓNG TOÀN BỘ THÂN KIẾM CỰC ĐẠI!**”
+“『Zagan's Pride』, GIẢI PHÓNG TOÀN BỘ THÂN KIẾM CỰC ĐẠI!”
 
 Giương cao thanh cự kiếm của người khổng lồ bằng cả hai tay, Meiko kéo dài lưỡi kiếm ra kích thước tối đa!
 
-Thanh kiếm thẳng hai lưỡi sáng loáng thép lạnh bỗng nhiên bùng nổ những tia lôi đình màu ĐEN ĐỎ ma mị cuộn trào như bão táp!
+Thanh kiếm thẳng hai lưỡi sáng loáng ánh thép lạnh bỗng nhiên bùng nổ những tia lôi đình màu ĐEN ĐỎ ma mị cuộn trào như bão táp!
 
 “Mei-chan... Chiêu thức đó chẳng lẽ là——”
 
 Kotarou sững sờ nhận ra!
 
-Trong trận chiến công phá Vương quốc Goma, Meiko đã một thân một mình chém chết Zagan — kẻ mạnh nhất của tộc Gira-GoGame Mastera. Một chiến tích thần thoại: Phàm nhân đồ sát Người Khổng Lồ!
+Trong trận chiến công phá Vương quốc Goma, Meiko đã một thân một mình chém chết Zagan — kẻ mạnh nhất của tộc Đại Chiến Sĩ Gira-Goma. Một chiến tích thần thoại: Phàm nhân đồ sát Người Khổng Lồ!
 
-Và phần thưởng mà Thần linh của Cuồng Chiến Binh ban tặng cho kỳ tích ấy chính là: **BÍ KỸ 『CỰ NHÂN SÁT』!**
+Và phần thưởng mà Thần linh của Cuồng Chiến Binh ban tặng cho kỳ tích ấy chính là: **BÍ KỸ 『Cự Nhân Sát』!**
 
 Chiêu thức đòi hỏi 10 giây tụ lực hoàn toàn bất động — một nhược điểm chí mạng trong thực chiến. Thế nhưng Kyouko đã dùng tấm thân mình để tạo nên 10 GIÂY KỲ TÍCH ĐÓ!
 
 Thanh cự kiếm bọc lôi đình đen đỏ vươn thẳng lên tận trần nhà cao vút, tựa như một lưỡi đao ánh sáng khổng lồ đủ sức chém toạc cả bầu trời!
 
-“——**『CỰ NHÂN SÁT』 (Cự Nhân Sát)ッ!!**”
+“——『Cự Nhân Sát』ッ!!”
 
 ---
 
@@ -122,9 +122,9 @@ Thanh cự kiếm bọc lôi đình đen đỏ vươn thẳng lên tận trần 
 
 ---
 
-*ROẸTTTTTTTTTTTTTTT!!*
+*XOẸTTTTTTTTTTTTTTT!!*
 
-Một nhát chém dọc mang vệt sáng đen tuyền xé toạc đại sảnh giáng thẳng xuống đầu con Đại Thủ Hộ Thiên Sứ!
+Một nhát chém dọc mang vệt sáng đen tuyền xé toạc đại sảnh, giáng thẳng xuống đầu con Đại Thủ Hộ Thiên Sứ!
 
 Một nhát chém phủ định hoàn toàn uy quang của Nữ Thần Ánh Sáng!
 
@@ -134,7 +134,7 @@ Thanh cự kiếm bổ thẳng xuống đập nát lớp giáp đầu của cỗ
 
 Đại Thủ Hộ Thiên Sứ — cỗ máy chiến tranh cổ đại tối thượng của Hiền Giả — bị chẻ làm đôi, nổ tung thành trăm mảnh trong tiếng kim loại gãy vụn kinh hoàng!
 
-“A A A! KHÔNG THỂ NÀO! ĐẠI THỦ HỘ THIÊN SỨ CỦA KOTORI ĐÃ BỊ——!!”
+“A A A! KHÔNG THỂ NÀO! ĐẠI THỦ HỘ THIÊN SỨ CỦA TAO ĐÃ BỊ——!!”
 
 Tiếng thét thất thanh của Kotori bị nuốt chửng bởi những vụ nổ liên hoàn và khói lửa mù mịt!
 
@@ -152,7 +152,7 @@ Nở một nụ cười mãn nguyện, Meiko nhẹ nhàng thiếp đi trong vòn
 
 Ở đằng kia, Kyouko đã giải trừ Ma Nhân Hóa, nằm bệt trên sàn đá thở dốc với bộ đồng phục rách tơi tả, giương đôi mắt liếc xéo Kotarou:
 
-“Bà đây đã liều mạng hết sức rồi đấy... Xong xuôi trận này... liệu hồn mà chuẩn bị tinh thần đền đáp cho tao đấy nhé...”
+“Bà đây đã liều mạng hết sức rồi đấy... Xong xuôi trận này... liệu hồn mà chuẩn bị tinh thần đền đáp cho bà đấy nhé...”
 
 Nói đoạn, cô nàng cũng cạn kiệt ma lực mà chìm sâu vào giấc ngủ say.
 

@@ -4,234 +4,234 @@
 
 Bởi Mei-chan đã ra tay, nên dĩ nhiên Tendou cũng sẽ phối hợp tấn công cùng lúc.
 
-Đối với Tendou, việc giáng một đòn vào Souma Yuuto—kẻ đang rơi vào trạng thái tầm nhìn hạn hẹp, chỉ chăm chăm vào kẻ thù trước mắt và tàn tích của Reina mà cậu ta vừa đánh mất một lần nữa—là điều quá đỗi dễ dàng.
+Đối với Tendou, việc giáng một đòn chí mạng vào Souma Yuuto—kẻ đang rơi vào trạng thái tầm nhìn hạn hẹp, chỉ chăm chăm vào kẻ thù trước mắt cùng ảo ảnh tàn tích của Reina mà cậu ta vừa đánh mất thêm một lần nữa—là điều quá đỗi dễ dàng.
 
-Thú thật, tôi cứ nghĩ ít nhất một trong hai đòn sẽ bị cản lại bởi 『Thiên Tinh Thuẫn』, không ngờ cả hai đòn tấn công của họ đều trúng đích trực diện. Xem ra quân bài Reina thực sự đã phát huy tác dụng.
+Thú thật, tôi cứ ngỡ ít nhất một trong hai đòn sẽ bị 『Thiên Tinh Thuẫn』 chặn lại, không ngờ cả hai mũi giáp công đều trúng đích trực diện. Xem ra quân bài Reina thực sự đã phát huy tác dụng tối đa.
 
 “Hự, a a a a a a a a a a a a!”
 
-Tiếng thét đau đớn cuối cùng cũng bật ra từ miệng của Dũng Giả.
+Tiếng thét xé ruột xé gan rốt cuộc cũng bật ra từ miệng Dũng Giả.
 
-Cả hai cánh tay của cậu ta đều bị chém đứt lìa một cách ngọt lịm từ bắp tay. Dù găng tay giáp của Dũng Giả có sở hữu khả năng phòng ngự đáng tự hào đến đâu, nhưng một khi đã để lộ sơ hở chí mạng và hứng trọn nhát chém toàn lực từ Vương Kiếm, việc bị cắt làm đôi là điều không thể tránh khỏi.
+Cả hai cánh tay của cậu ta bị chém đứt lìa một cách ngọt xớt ngay từ bắp tay. Dù găng tay giáp của Dũng Giả có sở hữu khả năng phòng ngự đáng tự hào đến đâu, một khi đã để lộ sơ hở chết người và hứng trọn nhát chém toàn lực từ Vương Kiếm, việc bị chia làm đôi là điều tất yếu.
 
-Hãy biết ơn tình bạn của Tendou đi. Bởi nếu không phải là người bạn thân thiết như cậu ấy ra tay, thì thứ bị chém bay đã là cái đầu của cậu rồi.
+Hãy biết ơn tình bạn của Tendou đi. Bởi nếu người ra tay không phải là bạn thân của cậu, thứ văng đi ban nãy đã là cái đầu rồi.
 
-Do hai cánh tay bị chém đứt ngay khi đang vung cao Thánh Kiếm, dòng máu tươi phun trào như suối nhuộm đỏ Dũng Giả từ đầu đến chân.
+Do hai cánh tay bị chặt đứt ngay giữa lúc đang vung cao Thánh Kiếm, những tia máu tươi phun trào xối xả, nhuộm đỏ Dũng Giả từ đầu đến chân.
 
-Có lẽ nhờ lưỡi kiếm ánh sáng khổng lồ đã thành hình, hai bàn tay bị chém đứt vẫn nắm chặt chuôi kiếm và lơ lửng giữa không trung chứ chưa rơi xuống ngay. Thế nhưng, vì đã đứt lìa khỏi cơ thể, quyền kiểm soát ma lực cũng theo đó mà biến mất.
+Có lẽ nhờ lưỡi kiếm ánh sáng khổng lồ đã thành hình, đôi bàn tay đứt lìa vẫn bám chặt chuôi kiếm và lơ lửng giữa không trung thêm một khoảnh khắc ngắn ngủi. Thế nhưng, một khi đã lìa khỏi bản thể, quyền năng điều khiển ma lực cũng theo đó tan biến.
 
-Thanh kiếm ánh sáng sừng sững như một cột trụ khổng lồ bắt đầu sụp đổ trong nháy mắt. Đó là một đại chiêu vốn chỉ có thể duy trì được nhờ lượng ma lực khổng lồ đổ vào liên tục, kết hợp với các chỉ số vượt trội của Dũng Giả và sự bổ trợ của kỹ năng. Một khi quyền kiểm soát bị rối loạn, ma pháp càng mạnh mẽ sẽ càng dễ dàng tan vỡ.
+Thanh kiếm ánh sáng sừng sững tựa cột trụ khổng lồ bắt đầu sụp đổ trong chớp mắt. Đó là một tuyệt kỹ vốn chỉ có thể duy trì nhờ lượng ma lực khổng lồ rót vào liên tục, kết hợp với các chỉ số áp đảo của Dũng Giả cùng sự gia trì từ kỹ năng. Một khi quyền kiểm soát bị xáo trộn, ma pháp càng mạnh mẽ bao nhiêu lại càng dễ dàng vỡ vụn bấy nhiêu.
 
-Những đốm lân quang màu xanh lam nhạt bắn tung tóe như mưa, và thanh kiếm ánh sáng khổng lồ co rút lại nhanh chóng trước mắt. Khi hơn một nửa thanh kiếm đã biến mất, hai cánh tay vẫn đang nắm chặt Thánh Kiếm cuối cùng cũng rơi bịch xuống đất.
+Từng đốm lân quang màu lam nhạt bắn tung tóe như mưa rào, và thanh cự kiếm ánh sáng co rút lại với tốc độ chóng mặt. Khi hơn một nửa lưỡi kiếm tan biến vào hư không, hai cánh tay vẫn ghì chặt Thánh Kiếm cuối cùng cũng rơi bịch xuống nền đất.
 
-『Thánh Kiếm Ánh Sáng』 hoàn toàn mất đi hào quang, trở lại hình dạng ban đầu là 『Thần Thiết Thánh Kiếm』 rồi lăn lóc trên sàn nhà với một tiếng động khô khốc, vô hồn.
+『Thánh Kiếm Ánh Sáng』 hoàn toàn mất đi ánh hào quang rực rỡ, quay trở lại hình dạng nguyên thủy là 『Thần Thiết Thánh Kiếm』 rồi lăn lóc trên mặt sàn với một âm thanh khô khốc, vô hồn.
 
 “—Khoan đã.”
 
-Tendou lên tiếng ngăn Mei-chan lại ngay khi cô định tung ra đòn kết liễu.
+Tendou lập tức lên tiếng ngăn cản ngay khi thấy Mei-chan định vung đao bồi thêm đòn kết liễu.
 
 “Đừng cản tớ. Không bồi thêm một đòn nữa thì nguy hiểm lắm.”
 
-“Bồi thêm phát nữa là nó chết chắc đấy.”
+“Bồi thêm phát nữa là nó mất mạng đấy.”
 
-Thực tế, có lẽ Mei-chan đã định chém bay đầu cậu ta. Về phần mình, tôi chẳng bận tâm nếu cậu ta có chết ngay tại chỗ, nhưng tôi vẫn còn lời hứa với Tendou và Sakura. Hiện tại vẫn chưa đến mức khẩn cấp bắt buộc phải giết cậu ta.
+Thực tế, có lẽ Mei-chan thực sự đã định chém bay đầu cậu ta. Về phần mình, tôi chẳng bận tâm việc cậu ta sống hay chết ngay tại chỗ, nhưng giữa tôi với Tendou và Sakura vẫn còn một thỏa ước ràng buộc. Hơn nữa, tình thế hiện tại vẫn chưa rơi vào mức hiểm nghèo đến độ bắt buộc phải hạ sát cậu ta.
 
-Với một vết thương chí mạng trên người và hai cánh tay đã bị chém đứt, dù có là 『Dũng Giả』 Souma Yuuto đi chăng nữa, kết cục trận đấu đã—
+Mang trên mình vết thương chí mạng cùng hai cánh tay đứt lìa, dù cho có là 『Dũng Giả』 Souma Yuuto đi chăng nữa, cục diện trận đấu đã—
 
 “—Vẫn chưa đâu.”
 
-Trận đấu vẫn chưa ngã ngũ.
+Trận chiến vẫn chưa hề ngã ngũ.
 
-Đôi mắt của Dũng Giả khi ngẩng lên không hề nhuốm màu tuyệt vọng. Ngự trị nơi đó là đôi đồng tử màu xanh lam đang rực cháy dữ dội, ngập tràn lòng căm thù và ý chí chiến đấu.
+Đôi mắt Dũng Giả ngẩng lên tuyệt nhiên không vướng một tia tuyệt vọng. Ngự trị nơi đó là đôi đồng tử xanh thẳm đang rực cháy ngùn ngụt, tràn ngập lòng căm thù cùng ý chí chiến đấu cuồng bạo.
 
 “Kết liễu cậu ta đi, Mei-chan!”
 
-Tôi vừa hét lên thì cô ấy, người đang ở cự ly gần nhất, dĩ nhiên cũng lập tức nhận ra mối nguy hiểm đó. Cả Mei-chan lẫn Tendou—người vừa can ngăn cô—đều đồng loạt hành động.
+Tiếng thét của tôi vừa dứt, cô ấy—người đang đứng ở khoảng cách gần nhất—dĩ nhiên cũng lập tức cảm nhận được mối hiểm họa khôn lường. Cả Mei-chan lẫn Tendou—người vừa mở miệng can ngăn—đều đồng loạt lao tới.
 
-Vương Kiếm và thanh kiếm nguyền rủa, hai lưỡi đao cùng vung lên nhắm thẳng vào gã Dũng Giả đang ngoan cố gượng dậy, thế nhưng—
+Vương Kiếm cùng thanh đại đao nguyền rủa, hai lưỡi đao bén ngọt đồng thời bổ xuống nhắm thẳng vào gã Dũng Giả đang ngoan cố gượng dậy, thế nhưng—
 
 “Hãy trao vào tay ta sức mạnh để chiến đấu một lần nữa. Hãy đáp lại ta, 『Hoàng Linh Trang』—”
 
-Bộ giáp của Dũng Giả phát ra vầng hào quang chói lọi, rồi hóa thành những hạt ánh sáng tan biến.
+Bộ giáp trên người Dũng Giả bùng phát vầng hào quang chói lòa, rồi hóa thành vô vàn hạt sáng tan biến.
 
-Lớp giáp bảo vệ toàn thân, chiếc áo choàng tung bay sau lưng, cả chiếc vương miện trên đầu. Tất cả đều biến mất trong nháy mắt... Thế nhưng, đây tuyệt đối không phải là giải trừ trang bị. Trái lại, đây là tái trang bị.
+Lớp giáp bảo hộ toàn thân, tà áo choàng tung bay sau lưng, cho đến chiếc vương miện trên đỉnh đầu. Tất cả biến mất chỉ trong tích tắc... Thế nhưng, đây tuyệt đối không phải là hành động giải trừ trang bị. Trái lại, đó là một lần tái trang bị toàn diện.
 
 “—『Thần Phán Chi Thủ』.”
 
-Hai cánh tay tưởng chừng đã mất nay lại mọc ra.
+Hai cánh tay tưởng chừng đã vĩnh viễn mất đi nay lại đột ngột mọc ra.
 
-Không, không phải vậy, đây không phải là sự tái sinh cơ thể. Đó là đôi cánh tay bằng ma lực được tạo ra từ kỹ năng.
+Không, không đúng, đây hoàn toàn không phải sự tái sinh của da thịt. Đó là đôi cánh tay bằng ma lực thuần khiết được kiến tạo từ kỹ năng.
 
-Đôi cánh tay tỏa ra ánh sáng trắng xanh có hình dáng như đang mang một đôi găng giáp khí động học. Vì chúng phát sáng quá rực rỡ, tôi không thể nhìn rõ chất liệu thực sự bên dưới.
+Đôi cánh tay rực sáng sắc trắng xanh lam mang hình hài tựa như một cặp găng giáp khí động học. Luồng sáng phát ra quá đỗi chói lòa khiến tôi không thể nào nhìn thấu cấu trúc thực sự bên dưới.
 
-Thế nhưng, nguồn sức mạnh khổng lồ ẩn chứa bên trong đó thì tôi có thể cảm nhận được một cách rõ mồn một đến mức đáng ghét.
+Thế nhưng, nguồn uy lực kinh hoàng ẩn tàng bên trong đó thì tôi có thể cảm nhận rõ mồn một đến mức gai người.
 
-Khốn kiếp thật, chuyện này chẳng khác nào việc tôi ghép cánh tay phải của 『Song Ảnh』 cho Hayama cả. Souma Yuuto đã dùng bộ giáp Dũng Giả 『Hoàng Linh Trang』 để bù đắp cho phần cơ thể bị khuyết thiếu. Hoặc giả, đây lại là một sức mạnh mới được thức tỉnh trong tình thế ngàn cân treo sợi tóc.
+Khốn kiếp thật, chuyện này có khác gì việc tôi cấy ghép cánh tay phải của 『Song Ảnh』 cho Hayama đâu chứ. Souma Yuuto đã dùng bộ giáp Dũng Giả 『Hoàng Linh Trang』 để bù đắp phần thân thể khuyết thiếu. Hoặc giả, đây lại là một thứ sức mạnh mới vừa được thức tỉnh ngay giữa lằn ranh sinh tử.
 
-Dù là trường hợp nào đi nữa, đôi cánh tay ánh sáng xanh mang tên 『Thần Phán Chi Thủ』 đó đã lập tức phô diễn sức mạnh của mình.
+Dù là trường hợp nào, đôi cánh tay ánh sáng mang tên 『Thần Phán Chi Thủ』 ấy đã lập tức phô diễn sức mạnh áp đảo.
 
 “Hự!”
 
 “Tch!”
 
-Dũng Giả dùng hai cánh tay trái phải đỡ lấy đòn tấn công của Vương và Cuồng Chiến Binh. Đây là kỹ năng chỉ có thể thực hiện được khi không phải là da thịt người thường.
+Dũng Giả dùng hai cánh tay trái phải đón đỡ chuẩn xác đòn tấn công phối hợp của Vương và Cuồng Chiến Binh. Đó là kỹ năng cận chiến tuyệt đối chỉ có thể thực hiện khi đôi tay không còn là máu thịt phàm trần.
 
-Cậu ta dùng lòng bàn tay phát sáng chặn đứng lưỡi kiếm trực diện.
+Cậu ta dùng chính lòng bàn tay rực sáng để chặn đứng lưỡi kiếm bổ thẳng diện rộng.
 
-Độ cứng thật kinh ngạc. Vốn dĩ sức mạnh của 『Hoàng Linh Trang』 đã vô cùng kiên cố, nay lại được tập trung toàn bộ vào hai cánh tay, nên việc cậu ta có thể chặn đứng đòn đánh toàn lực của hai người họ cũng là điều dễ hiểu.
+Độ cứng cáp thật đáng kinh ngạc. Vốn dĩ độ phòng ngự của 『Hoàng Linh Trang』 đã vô cùng kiên cố, nay lại được cô đọng toàn bộ vào đôi cánh tay, nên việc cậu ta có thể vô hiệu hóa đòn đánh toàn lực của hai người họ cũng là điều dễ hiểu.
 
-Thế nhưng, tôi không nghĩ cậu ta lại tạo ra đôi cánh tay chỉ để phòng thủ đơn thuần trong tình cảnh này.
+Tuy nhiên, tôi không nghĩ cậu ta tạo ra đôi cánh tay ấy chỉ đơn thuần để phòng thủ trong tình cảnh ngặt nghèo này.
 
-Đòn phản công của Dũng Giả sắp tới rồi—
+Đòn phản công hủy diệt của Dũng Giả sắp tới rồi—
 
 “『Thần Phán Chi Chưởng Trảo Thánh Thiên』.”
 
-“Lùi lại đi, Futaba! —『Vương Giáp - Phantom Mail Full Armored』!”
+“Lùi lại mau, Futaba! —『Vương Giáp - Phantom Mail Full Armored』!”
 
-Ngay khoảnh khắc luồng ma lực ánh sáng kinh hoàng bộc phát từ hai cánh tay của Dũng Giả, tôi thoáng thấy bóng dáng Tendou bọc trong lớp giáp và hào quang đen tuyền lao ra phía trước để che chắn cho Mei-chan—ngay sau đó, một luồng chớp sáng dữ dội quét qua, chói lòa đến mức tưởng chừng có thể làm mù mắt bất cứ ai.
+Ngay khoảnh khắc luồng ma lực ánh sáng cuồng bạo bộc phát từ đôi bàn tay của Dũng Giả, tôi thoáng thấy bóng hình Tendou khoác lên lớp giáp cùng luồng hào quang đen tuyền lao vụt lên che chắn trước mặt Mei-chan—ngay sau đó, một cột chớp sáng dữ dội quét qua, chói lòa tới mức tưởng chừng có thể thiêu mù võng mạc bất kỳ ai.
 
-Không chỉ đơn thuần là chói mắt. Tiếng gầm rú và chấn động dữ dội vang lên. Và trên hết, một luồng ma lực mạnh mẽ đến rợn người thiêu đốt da thịt tôi.
+Không chỉ đơn thuần là ánh sáng. Tiếng gầm rú đinh tai nhức óc cùng những đợt sóng xung kích dữ dội ập tới. Và trên hết, một luồng ma lực cuồng nộ đến rợn gáy đang thiêu đốt da thịt tôi.
 
-Rốt cuộc sức tàn phá của nó khủng khiếp đến mức nào chứ... Gạt nỗi sợ hãi sang một bên, ngay khi ánh sáng vừa dịu đi, tôi lập tức mở mắt ra để kiểm tra tình hình.
+Rốt cuộc sức tàn phá của chiêu thức đó kinh khủng tới nhường nào... Gạt phăng nỗi khiếp đảm sang một bên, ngay khi luồng sáng vừa dịu đi, tôi lập tức mở mắt để nắm bắt tình hình chiến sự.
 
 “Tendou-kun!”
 
-Thứ đầu tiên đập vào mắt tôi là hình ảnh Dũng Giả vẫn đứng sừng sững với đôi tay phát sáng đưa về phía trước, và ngay dưới chân cậu ta là Tendou đang nằm ngửa bất động.
+Hình ảnh đầu tiên đập vào mắt tôi là Dũng Giả vẫn đứng sừng sững với đôi cánh tay phát sáng vươn về phía trước, và ngay dưới chân cậu ta là Tendou đang nằm ngửa bất động.
 
-Hóa ra hình ảnh bộ giáp đen lúc nãy không phải là tôi nhìn lầm. Trên cơ thể cậu ấy vẫn còn sót lại vài mảnh giáp đen vỡ vụn. Phần lớn đã bị đập tan tành, và tôi đoán những mảnh kim loại nóng đỏ vương vãi xung quanh chính là tàn tích của bộ giáp đó.
+Hóa ra bóng ma bộ giáp đen ban nãy không phải do tôi nhìn nhầm. Trên cơ thể cậu ấy vẫn còn vương lại vài mảnh giáp đen vỡ nát. Phần lớn đã bị đập nát vụn, và những mảnh kim loại đỏ rực vương vãi chung quanh chính là tàn tích còn sót lại của lớp giáp ấy.
 
-Tendou nằm đó, rũ rượi và không hề động đậy. Cậu ấy đã hứng trọn luồng nhiệt lượng và sức tàn phá từ ánh sáng của Dũng Giả. Cơ thể cậu ấy cháy đen, khói bốc lên nghi ngút khi nằm lăn lóc trên mặt đất.
+Tendou nằm sõng soài, bất động hoàn toàn. Cậu ấy đã hứng trọn toàn bộ nhiệt lượng và sức tàn phá khủng khiếp từ ánh sáng của Dũng Giả. Thân thể cậu ấy cháy đen, từng làn khói nghi ngút bốc lên từ da thịt khi nằm gục trên nền đá.
 
-Không lẽ cậu ấy đã chết—Không, lồng ngực cậu ấy vẫn đang phập phồng nhẹ. Đó là minh chứng cho thấy cậu ấy vẫn còn thở. Quả không hổ danh là Tendou, sức chịu đựng thật đáng kinh ngạc. Cậu ấy chắc chắn vẫn còn sống.
+Chẳng lẽ cậu ấy đã chết—Không, lồng ngực cậu ấy vẫn đang phập phồng rất nhẹ. Đó là minh chứng cho thấy hơi thở vẫn còn duy trì. Quả không hổ danh là Tendou, sức chịu đựng lì lợm đến mức khó tin. Cậu ấy chắc chắn vẫn còn sống.
 
-Tuy nhiên, cậu ấy đã hoàn toàn mất khả năng chiến đấu. Việc còn giữ được mạng sống đã là một phép màu, chứ đừng nói đến chuyện gượng dậy.
+Dẫu vậy, cậu ấy đã hoàn toàn mất đi khả năng chiến đấu. Việc giữ lại được mạng sống đã là một kỳ tích, chứ đừng nói đến chuyện gượng dậy cầm kiếm.
 
-Trong cái rủi có cái may, hoặc có lẽ đây là cái giá phải trả cho việc ngăn cản đòn kết liễu nhắm vào Souma Yuuto. Dù Mei-chan có bị thương, nhưng cô vẫn còn đủ thể lực để tiếp tục chiến đấu.
+Trong cái rủi có cái may, hoặc có lẽ đây chính là cái giá phải trả cho việc ngăn cản đòn kết liễu nhắm vào Souma Yuuto. Dù Mei-chan có dính chấn thương, cô vẫn còn đủ thể lực để tiếp tục tham chiến.
 
-Cô đang quỳ gối, bộ đồng phục trên người bị cháy xém nhiều chỗ. Dù đó là trang phục đặc chế được yểm nhiều ma pháp phòng ngự, nhưng nhìn tình trạng hiện tại thì có vẻ toàn bộ chức năng của nó đã bị vô hiệu hóa rồi.
+Cô đang quỳ một gối, bộ đồng phục trên người bị thiêu cháy xém nhiều mảng. Dù đó là trang phục đặc chế được khắc vô số ma pháp phòng ngự, nhìn vào tình trạng hiện tại thì toàn bộ công năng gia hộ của nó đã bị phá hủy hoàn toàn.
 
-Thế nhưng nhờ có Tendou che chắn nên cô mới chỉ bị thương đến mức này. Tuyệt kỹ mới kia của Dũng Giả có sức công phá vượt xa giới hạn chịu đựng của lớp phòng ngự từ bộ trang phục cường hóa.
+Thế nhưng, chính nhờ có Tendou liều mình che chắn nên cô mới chỉ chịu thương tổn bấy nhiêu. Tuyệt kỹ vừa rồi của Dũng Giả sở hữu sức công phá vượt xa ngưỡng chịu đựng tối đa của lớp phòng ngự từ trang phục cường hóa.
 
-Nếu phải hứng chịu đòn đó một lần nữa, chúng tôi sẽ tiêu đời.
+Nếu phải hứng chịu đòn đó thêm một lần nữa, tất cả chúng tôi sẽ tan thành tro bụi.
 
-Chính vì vậy, tôi phải ra tay trước.
+Chính vì thế, tôi bắt buộc phải ra tay trước một bước.
 
-“Trông cậy vào cậu đấy Sakura-chan, kế hoạch dự phòng.”
+“Trông cậy cả vào cậu đấy, Sakura-chan. Kế hoạch dự phòng!”
 
-“Không cần cậu nhắc, tôi đã chuẩn bị sẵn sàng rồi.”
+“Không cần cậu phải nhắc, tôi đã sẵn sàng từ lâu rồi.”
 
-Cây cung của Thánh Nữ đã được kéo căng từ trước.
+Cây cung của Thánh Nữ đã được kéo căng hết mức từ trước đó.
 
-Thế nhưng, thứ cô đang cầm trên tay không phải là cây cung yêu thích 『Thánh Nữ Đại Hòa Cung』 vốn đã cùng cô chiến đấu và được nâng cấp nhiều lần trong suốt hành trình sinh tồn ở Dungeon.
+Thế nhưng, thứ cô đang nắm chặt trong tay tuyệt đối không phải là cây cung yêu thích 『Thánh Nữ Đại Hòa Cung』—món vũ khí đã đồng hành và được nâng cấp nhiều lần trong suốt chuỗi ngày sinh tồn nơi Mê cung.
 
-Đó là một cây đại cung đen tuyền. Cánh cung bằng sừng dài đen bóng uốn cong thoai thoải đòi hỏi một lực kéo cực lớn mới có thể căng dây. Dù 『Hắc Giác Cung』 là chiến lợi phẩm thu được từ Sakurai Touya—người sở hữu thiên chức 『Xạ Thủ』—nhưng thứ này rõ ràng không phải là 『Hắc Giác Cung』 đơn thuần. Sự khác biệt của nó đập ngay vào mắt người nhìn.
+Đó là một cây đại cung đen kịt. Cánh cung bằng sừng dài bóng loáng uốn cong thoai thoải đòi hỏi một lực kéo khủng khiếp mới có thể kéo căng dây. Dù 『Hắc Giác Cung』 vốn là chiến lợi phẩm thu được từ Sakurai Touya—người nắm giữ thiên chức 『Xạ Thủ』—thứ này rõ ràng không còn là 『Hắc Giác Cung』 thông thường. Sự dị biệt tột cùng của nó đập thẳng vào mắt người nhìn.
 
-Đó là một đầu lâu người. Ngay phần tay cầm của cây cung được gắn nguyên một chiếc sọ người.
+Đó là một đầu lâu người. Ngay tại vị trí tay cầm của cánh cung được gắn chặt nguyên một chiếc sọ người thật sự.
 
-Chiếc đầu lâu nhuộm một màu đen kịt trông như có hai chiếc sừng lớn mọc ra từ hai bên thái dương. Ngoại hình của nó không khác gì hộp sọ của một con ác quỷ mang đôi sừng khổng lồ.
+Chiếc đầu lâu nhuộm một màu đen kịt tà ác, trông tựa như có hai chiếc sừng lớn mọc ngược ra từ hai bên thái dương. Ngoại hình của nó chẳng khác nào hộp sọ của một loài ác quỷ mang cặp sừng cự đại.
 
-Cây cung cứng, nặng và trên hết là toát ra vẻ tà ác đen tối này hoàn toàn không tương xứng với một Thánh Nữ. Thế nhưng, đây chính là quân bài tẩy mà tôi đã trao cho Souma Sakura. Cây hắc cung bị nguyền rủa của bóng tối, thứ dùng để xuyên thủng hào quang của 『Thánh Thiên Kết Giới』.
+Cây cung nặng nề, thô cứng và toát ra tử khí hắc ám này hoàn toàn đối nghịch với phong thái của một Thánh Nữ. Thế nhưng, đây chính là quân bài tẩy tối thượng mà tôi đã trao vào tay Souma Sakura. Cây hắc cung nguyền rủa của bóng tối, thứ sinh ra để đâm xuyên qua vầng hào quang bất khả xâm phạm của 『Thánh Thiên Kết Giới』.
 
-『Đại Hắc Anh - Uy Thiên Xung Giác』: Cây cung nguyền rủa được dung hợp từ 『Hắc Giác Cung』 và 『Đầu Lâu Của Xạ Thủ』. Cây cung này quả thực đang mang theo nỗi oán hận của Sakurai Touya. Để lần này, cậu ta có thể bảo vệ được người mình yêu thương.
+『Đại Hắc Anh - Uy Thiên Xung Giác』: Cây cung nguyền rủa được tôi dung hợp từ 『Hắc Giác Cung』 và 『Đầu Lâu Của Xạ Thủ』. Vũ khí này thực sự đang mang theo oán niệm sâu nặng của Sakurai Touya. Để lần này, cậu ta có thể bảo vệ được người con gái mình hằng yêu thương.
 
-Tôi chỉ mới sử dụng 『Đầu Lâu Của Xạ Thủ』 đúng một lần để chế tạo 『Cây Gậy Ẩn Mật』 khi đột nhập vào Vương quốc Goma. Do các kỹ năng có thể sử dụng đều thuộc hệ ẩn mật và hoàn toàn không có hiệu ứng hỗ trợ tấn công bằng cung, nên việc đó cũng là bất khả kháng.
+Trước đây tôi chỉ mới sử dụng 『Đầu Lâu Của Xạ Thủ』 đúng một lần để chế tạo 『Cây Gậy Ẩn Mật』 phục vụ cho chuyến đột nhập Vương quốc Goma. Do toàn bộ kỹ năng kích hoạt đều thuộc hệ ẩn mật và tuyệt đối không có hiệu ứng gia tăng sát thương cung thuật, việc đó cũng chỉ là giải pháp tình thế.
 
-Dù bản thân 『Cây Gậy Ẩn Mật』 đã đủ giá trị để làm trang bị thâm nhập... nhưng tôi đã quyết định táo bạo luyện thành nó thành một cây cung mới.
+Dù bản thân 『Cây Gậy Ẩn Mật』 đã đủ giá trị sử dụng... tôi vẫn quyết định mạo hiểm dùng nó làm nguyên liệu để luyện thành một cây cung hoàn toàn mới.
 
-Thứ hiệu quả nhất để phá vỡ 『Thánh Thiên Kết Giới』 chính là sức mạnh bóng tối, vốn là thuộc tính khắc chế của nó. Hơn nữa, đó không phải là thuộc tính bóng tối thông thường, mà là loại ma lực mang tính chất nguy hiểm hơn nhiều, bắt nguồn từ một món vũ khí bị nguyền rủa.
+Thứ vũ khí hữu hiệu nhất để đập tan 『Thánh Thiên Kết Giới』 chính là sức mạnh bóng tối, thuộc tính tương khắc triệt để với ánh sáng. Hơn nữa, đó không thể là bóng tối tầm thường, mà phải là loại ma lực cực kỳ nguy hiểm bắt nguồn từ một món vũ khí bị nguyền rủa sâu sắc.
 
-Hiện tại, người duy nhất có thể sử dụng loại sức mạnh này một cách bình thường là Mei-chan với thanh 『Bát Táp Ngưu Ma Đao』 yêu thích của cô. Một khi đã biết được thuộc tính khắc chế hiệu quả, tôi đương nhiên muốn có thêm ít nhất một món vũ khí được ban sức mạnh nguyền rủa nữa.
+Hiện tại, người duy nhất có thể khống chế loại sức mạnh này một cách thuần thục là Mei-chan với thanh 『Bát Táp Ngưu Ma Đao』 yêu thích. Một khi đã nắm bắt được điểm yếu khắc chế của đối phương, tôi đương nhiên khao khát có thêm ít nhất một món trang bị mang sức mạnh nguyền rủa tương tự.
 
-Và thế là, dự án luyện thành vũ khí nguyền rủa được tiến hành trong điều kiện giới hạn về cả nguyên liệu lẫn thời gian—và thành công duy nhất của nó chính là cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』 này.
+Và thế là, kế hoạch luyện thành vũ khí nguyền rủa được xúc tiến gấp rút trong điều kiện ngặt nghèo về cả nguyên liệu lẫn thời gian—và thành quả duy nhất đạt được chính là cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』 này.
 
-Quả nhiên, việc sử dụng một hộp sọ thật như 『Đầu Lâu Của Xạ Thủ』 chính là bí quyết dẫn đến thành công. Hơn nữa, việc kết hợp nó với cây hắc giác cung mà Sakurai từng yêu thích cũng đóng vai trò quan trọng. Rõ ràng, để chế tạo vũ khí nguyền rủa thì việc tuyển chọn kỹ lưỡng nguyên liệu là điều tối quan trọng.
+Quả nhiên, việc sử dụng một chiếc đầu lâu thực sự như 『Đầu Lâu Của Xạ Thủ』 chính là chìa khóa dẫn đến thành công. Hơn thế, việc kết hợp nó cùng cây hắc giác cung mà Sakurai từng nâng niu lúc sinh thời cũng đóng vai trò then chốt. Rõ ràng, muốn chế tạo một món vũ khí nguyền rủa hoàn hảo thì khâu chọn lọc nguyên liệu gốc mang tính quyết định tuyệt đối.
 
-Cây hắc cung nguyền rủa được hoàn thành như thế, và dù là một 『Thánh Nữ』, hay có lẽ chính vì là 『Thánh Nữ』, Sakura đã có thể sử dụng nó một cách vô cùng điêu luyện.
+Cây hắc cung nguyền rủa đã được khai sinh như thế, và dù mang thiên chức 『Thánh Nữ』, hay có lẽ chính nhờ là một 『Thánh Nữ』, Sakura mới có thể vận dụng nó một cách xuất quỷ nhập thần.
 
-Vốn là thành viên CLB Cung đạo nên cô rất giỏi bắn cung, lại thêm sự bổ trợ của thiên chức giúp gia tăng kỹ năng cung thuật, Sakura vốn đã rất mạnh. Giờ đây, 『Đầu Lâu Của Xạ Thủ』 còn ban thêm sức mạnh vượt trội cho người sở hữu cây cung này.
+Vốn là thành viên chủ chốt của CLB Cung đạo nên cô vốn dĩ đã bắn cung rất cừ, lại thêm sự hỗ trợ từ thiên chức giúp khuếch đại kỹ năng cung thuật, thực lực của Sakura vốn đã vô cùng đáng gờm. Giờ đây, 『Đầu Lâu Của Xạ Thủ』 còn ban phát thêm uy lực vượt bậc cho người giương cung.
 
 “Xin hãy ban cho con sức mạnh bóng tối để xuyên thấu ánh sáng, chỉ ngay lúc này thôi—”
 
-Cùng với lời cầu nguyện, cây đại cung đen tuyền được Sakura kéo căng đột ngột tỏa ra một luồng hào quang đen ngòm đầy điềm gở.
+Cùng với lời khẩn cầu trầm đục, cây đại cung đen tuyền được Sakura kéo căng đột ngột bộc phát luồng hào quang đen ngòm đầy điềm gở.
 
-Mọi thứ đều đặt cược vào đòn đánh này. Hạ quyết tâm như vậy, Sakura đang dồn toàn bộ thể xác và tinh thần để kéo căng cây cung cứng cáp này.
+Toàn bộ hy vọng đều được đặt cược vào phát bắn duy nhất này. Đã hạ quyết tâm sắt đá, Sakura dồn hết thảy tinh lực và thể xác để kéo căng cánh cung cứng ngắc.
 
-Vốn dĩ việc kéo một cây cung làm từ sừng cứng đã đòi hỏi một lực tay vượt trội hơn người thường. Thế nhưng, cô với đôi cánh tay mảnh mai vẫn có thể kéo căng dây cung đến giới hạn cực đại.
+Vốn dĩ việc giương một cây cung chế tác từ sừng cứng đã đòi hỏi lực cánh tay vượt trội hơn người thường rất nhiều. Thế nhưng, cô gái với đôi cánh tay mảnh mai ấy vẫn kiên cường kéo căng dây cung tới tận giới hạn cực đại.
 
-Những giọt máu tươi đang rỉ ra từ những ngón tay thon thả như búp măng của cô khi kéo dây cung. Chắc hẳn một lực lượng khủng khiếp đang đè nặng lên đó, đến mức nếu ngón tay cô có bị đứt lìa ngay lập tức thì cũng không có gì lạ.
+Từng giọt máu tươi đỏ thắm rỉ ra từ những đầu ngón tay thon thả như búp măng của cô khi ghì chặt dây cung. Hẳn là một áp lực kinh hoàng đang đè nặng lên đó, đến mức nếu các ngón tay của cô có đứt lìa ngay tức khắc thì cũng chẳng có gì lạ.
 
-Dẫu vậy, Sakura không hề nhíu mày lấy một cái, cô vẫn đăm đăm nhìn vào mục tiêu với gương mặt tĩnh lặng như tờ.
+Dẫu vậy, Sakura không hề nhíu mày lấy một lần, ánh mắt cô vẫn đăm đăm khóa chặt mục tiêu với gương mặt tĩnh lặng không một gợn sóng.
 
-Mũi tên được lắp vào là loại làm bằng thép đen nguyên chất, được chế tác riêng cho đòn đánh này. Chú ấn bóng tối khắc trên thân mũi tên bắt đầu thu hút luồng hào quang nguyền rủa tỏa ra từ cây cung, tập trung toàn bộ vào đầu mũi tên.
+Mũi tên được tra vào dây cung là loại rèn từ thép đen nguyên chất, được chế tác chuyên biệt cho đòn đánh quyết định này. Chú ấn bóng tối khắc chìm dọc thân tên bắt đầu điên cuồng hấp thụ luồng tà khí nguyền rủa tỏa ra từ cánh cung, dồn nén toàn bộ về phía mũi nhọn.
 
-『Nhãn Quan Nhìn Vào Thâm Uyên』: Chú ấn tượng trưng cho viễn cảnh của bóng tối sâu thẳm không đáy. Có thứ gì đang nằm bên kia màn đêm vô tận đó? Hãy nhìn cho kỹ. Chắc chắn có kẻ nào đó đang ẩn nấp nơi ấy. Khi ngươi nhìn vào thâm uyên—
+『Nhãn Quan Nhìn Vào Thâm Uyên』: Chú ấn đại diện cho viễn cảnh của bóng tối sâu thẳm không đáy. Thứ gì đang ẩn mình phía sau màn đêm vô tận kia? Hãy nhìn cho thật kỹ. Chắc chắn có kẻ đang rình rập nơi ấy. Khi ngươi nhìn chăm chú vào vực thẳm—
 
-Để xuyên thủng lớp phòng ngự ánh sáng, luồng hào quang nguyền rủa đậm đặc tập trung vào một mũi tên duy nhất. Mũi tên thép đen được rèn thẳng tắp sắc lẹm, nay dưới sự bao phủ của luồng hào quang đó trông như đang lung linh dao động tựa ảo ảnh nhiệt.
+Để đục thủng bức tường phòng ngự ánh sáng kiên cố, luồng hào quang nguyền rủa đậm đặc được cô nén vào một mũi tên duy nhất. Mũi tên thép đen sắc lẹm, nay dưới sự bao phủ của làn sương đen kịt ấy trông như đang rung rinh dao động tựa ảo ảnh giữa sa mạc.
 
-Ngay khoảnh khắc sức mạnh được tích tụ đến giới hạn cực đại, dòng máu rỉ ra từ ngón tay của Sakura bắt đầu chảy dọc theo thân mũi tên. Không phải chảy một cách tự nhiên, mà như thể tự mình bị hút ngược lên, dòng máu của Thánh Nữ lan dần đến tận đầu mũi tên, khiến mũi nhọn của nó phát ra ánh sáng đỏ thẫm như hồng ngọc.
+Ngay khoảnh khắc uy lực được tích tụ đến đỉnh điểm, dòng máu rỉ ra từ ngón tay Sakura bắt đầu chảy dọc theo rãnh tên. Không phải dòng chảy tự nhiên, mà như thể bị một lực hút vô hình dẫn dắt, huyết dịch của Thánh Nữ lan dần đến tận đầu mũi tên, khiến mũi nhọn phát ra thứ ánh sáng đỏ thẫm ma mị như một viên hồng ngọc đẫm máu.
 
-Trong tích tắc, mũi tên cuối cùng cũng được bắn ra.
+Trong chớp mắt, mũi tên xé gió phóng đi.
 
 “—『Hắc Lưu Tinh』.”
 
-Đây là bí kỹ được nhuộm đen bởi hào quang nguyền rủa từ võ kỹ 『Lưu Tinh』 của Xạ Thủ.
+Đây chính là bí kỹ bị vấy bẩn bởi tà khí nguyền rủa dựa trên võ kỹ 『Lưu Tinh』 trứ danh của Xạ Thủ.
 
-Đây không phải là võ kỹ do bản thân Sakura tự học được, mà là kỹ năng chuyên dụng chỉ có thể triển khai thông qua cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』 này.
+Đây tuyệt đối không phải võ kỹ do bản thân Sakura tự lĩnh hội, mà là một kỹ năng độc bản chỉ có thể thi triển thông qua cây cung 『Đại Hắc Anh - Uy Thiên Xung Giác』.
 
-Phát ra một tiếng gầm rú kinh hoàng tưởng chừng như không phải là tiếng bắn cung, mũi tên đen tuyền lao đi mang theo một vệt chớp đen kịt.
+Bộc phát một tiếng rít kinh hoàng tựa như tiếng gầm của ma thú, mũi tên đen tuyền vút đi, kéo theo một vệt chớp đen ngòm xé toạc không gian.
 
-Tốc độ của nó nhanh đến mức không chỉ tôi, mà ngay cả những người sở hữu thiên chức cận chiến cũng khó lòng nhìn kịp. Chỉ còn lại chiếc đuôi lưu tinh nghi ngút khói đen đọng lại giữa không trung, minh chứng cho việc mũi tên nguyền rủa vừa được phóng đi.
+Tốc độ của nó kinh bạo đến mức không chỉ riêng tôi, mà ngay cả những người sở hữu thiên chức cận chiến chuyên biệt cũng khó lòng bắt kịp bằng mắt thường. Tất cả những gì còn sót lại chỉ là cái đuôi sao băng nghi ngút khói đen đọng lại giữa hư không, minh chứng cho uy lực hủy diệt của mũi tên nguyền rủa.
 
-Vượt qua khoảng cách vỏn vẹn vài chục mét trong chớp mắt, ngôi sao băng đen tuyền—
+Vượt qua khoảng cách vài chục mét chỉ trong một cái chớp mắt, ngôi sao băng đen kịt ấy—
 
 “—『Thiên Tinh Thuẫn』.”
 
-Bị chiếc khiên của Dũng Giả chặn lại.
+Bị chiếc khiên ánh sáng của Dũng Giả chặn đứng.
 
-Tch, quả nhiên vẫn kịp sao.
+Tch, quả nhiên vẫn kích hoạt kịp sao!
 
-Souma Yuuto đang bị khựng lại do phản lực sau khi tung ra chiêu thức 『Thần Phán Chi Chưởng Trảo Thánh Thiên』, cơ thể cậu ta bất động trong tư thế hai tay đưa về phía trước. Quả nhiên với những đại chiêu ở cấp độ này, người dùng không thể bỏ qua độ trễ sau khi ra chiêu để lập tức hành động.
+Souma Yuuto đang rơi vào trạng thái khựng do phản lực cực lớn sau khi tung ra đại chiêu 『Thần Phán Chi Chưởng Trảo Thánh Thiên』, thân thể cậu ta hoàn toàn bất động trong tư thế hai tay vươn về phía trước. Quả nhiên đối với những tuyệt kỹ hủy diệt ở cấp độ này, người thi triển không tài nào triệt tiêu hoàn toàn thời gian trễ sau đòn đánh để lập tức hành động.
 
-Chiêu 『Hắc Lưu Tinh』 của Sakura được bắn ra nhằm tận dụng hoàn hảo sơ hở này. Vì đang bị khựng, cậu ta dù biết đại chiêu đang lao tới cũng không thể né tránh.
+Chiêu 『Hắc Lưu Tinh』 của Sakura được tung ra chính là để khai thác triệt để khoảng trống chết người này. Vì đang bị khựng, cậu ta dù phát giác ra hiểm họa đang lao tới cũng không thể nào né tránh.
 
-Thế nhưng, việc kích hoạt kỹ năng của cậu ta vẫn kịp diễn ra.
+Thế nhưng, tốc độ phản xạ kích hoạt kỹ năng phòng ngự của cậu ta vẫn kịp diễn ra trong gang tấc.
 
-Chiếc khiên của Dũng Giả hiện ra cùng với vầng sáng chói lọi, chặn đứng đòn 『Hắc Lưu Tinh』 vốn dĩ sẽ xuyên thủng hông cậu ta từ phía bên cạnh.
+Chiếc khiên của Dũng Giả bừng sáng rực rỡ, chặn đứng đòn 『Hắc Lưu Tinh』 vốn dĩ sẽ đâm xuyên mạn sườn cậu ta từ góc chết.
 
-Dù là chiếc khiên mạnh nhất có thể cản phá cả hơi thở của Yamata no Orochi, nhưng mũi tên nguyền rủa nghi ngút khói đen vẫn xuyên thủng ngay chính giữa hồng tâm của nó.
+Dù là chiếc khiên phòng ngự tối thượng từng cản phá cả hơi thở hủy diệt của Yamata no Orochi, mũi tên nguyền rủa nghi ngút khói đen vẫn hung bạo đâm xuyên thủng ngay chính giữa tâm khiên.
 
-Tuy nhiên, nó đã bị chặn lại ở đó. Dù đầu mũi tên đã xuyên qua phía bên kia của chiếc khiên, nhưng toàn bộ uy lực của nó đã bị tiêu hao sạch sẽ. Mũi tên dừng lại hoàn toàn, găm chặt trên mặt khiên.
+Dẫu vậy, mũi tên đã bị ghìm lại tại đó. Dù mũi nhọn đã nhô sang phía bên kia của mặt khiên, toàn bộ động năng và uy lực của nó đã bị triệt tiêu sạch sẽ. Mũi tên hoàn toàn khựng lại, cắm chặt bất động trên bề mặt kết giới.
 
-“Momokawa, đây là quân bài tẩy của ngươi sao? Sao ngươi dám bắt Sakura phải sử dụng loại kỹ năng nguyền rủa thế này hả!”
+“Momokawa, đây là quân bài tẩy của ngươi sao? Sao ngươi dám ép Sakura phải nhúng tay vào loại kỹ năng nguyền rủa bẩn thỉu thế này hả!”
 
-Từ phía sau chiếc khiên Dũng Giả đang phát sáng, Souma Yuuto trừng mắt nhìn tôi đầy căm giận chứ không phải Sakura.
+Từ phía sau chiếc khiên Dũng Giả đang tỏa sáng, Souma Yuuto trừng trừng mắt nhìn tôi với sự phẫn nộ tột cùng, tuyệt nhiên không hề hướng mũi dùi về phía Sakura.
 
-Thật là, sự bảo bọc thái quá của cậu ta cũng đến mức này là cùng. Nếu nó có hiệu quả, thì dĩ nhiên tôi sẽ sử dụng bất kỳ kỹ năng nguyền rủa nguy hiểm nào để vượt ải rồi.
+Thật tình, thói bảo bọc quá đà của cậu ta đúng là hết thuốc chữa. Nếu nó thực sự mang lại hiệu quả, dĩ nhiên tôi sẵn sàng sử dụng bất kỳ thứ tà thuật nguyền rủa nguy hiểm nào để vượt ải sinh tử rồi.
 
-Thực tế là chiêu 『Hắc Lưu Tinh』 của Sakura đã hoàn thành xuất sắc vai trò của nó.
+Thực tế là chiêu 『Hắc Lưu Tinh』 của Sakura đã hoàn thành xuất sắc vai trò chiến thuật của nó.
 
-“Lần này thì kết thúc thực sự rồi, Momokawa—”
+“Lần này thì mọi chuyện kết thúc thật rồi, Momokawa—”
 
-Trạng thái khựng của Souma Yuuto cuối cùng cũng sắp kết thúc.
+Thời gian khựng của Souma Yuuto rốt cuộc cũng sắp trôi qua.
 
-Tendou đã gục ngã, Mei-chan cũng đang phải quỳ gối. Sức mạnh chiến đấu của Dũng Giả sở hữu đôi cánh tay tối thượng nhờ 『Thần Phán Chi Thủ』 vẫn không hề suy giảm chút nào.
+Tendou đã gục ngã, Mei-chan cũng đang phải quỵ gối gắng gượng. Sức mạnh chiến đấu của Dũng Giả—kẻ sở hữu đôi cánh tay hủy diệt nhờ 『Thần Phán Chi Thủ』—vẫn không hề suy suyển lấy một phần.
 
-Và đòn đánh quyết định 『Hắc Lưu Tinh』 của Sakura cũng đã bị cản lại. Dĩ nhiên, một đại chiêu như vậy không thể bắn liên tiếp được.
+Và đòn đánh quyết định 『Hắc Lưu Tinh』 của Sakura cũng đã bị chặn đứng. Dĩ nhiên, một đại chiêu tiêu hao đến mức đó không thể nào bắn liên tiếp hai lần.
 
-Mọi quân bài trong tay đều đã cạn sạch. Trong khi đó, Souma Yuuto vẫn còn thừa sức mạnh để tiêu diệt những người còn lại như chúng tôi.
+Mọi quân bài chiến lược trong tay chúng tôi đều đã cạn sạch. Trong khi đó, Souma Yuuto vẫn còn thừa sức mạnh để tàn sát toàn bộ những kẻ còn sót lại ở đây.
 
-Chưa đầy một giây nữa là trạng thái khựng của cậu ta sẽ biến mất. Trong khoảnh khắc ngắn ngủi đó, thắng bại giữa Dũng Giả và các bạn học sẽ hoàn toàn được định đoạt.
+Chưa đầy một giây nữa, trạng thái bất động của cậu ta sẽ hoàn toàn biến mất. Trong khoảnh khắc ngắn ngủi ngủi ngủi đó, thắng bại giữa Dũng Giả và tập thể lớp học sẽ được định đoạt dứt điểm.
 
-“Phải rồi, cuối cùng thì mọi chuyện cũng kết thúc rồi, Souma Yuuto.”
+“Phải rồi, cuối cùng thì mọi chuyện cũng kết thúc thật rồi, Souma Yuuto.”
 
-“...Cái gì?”
+“...Cái gì cơ?”
 
-Tiếng kêu ngơ ngác của Dũng Giả bật ra.
+Tiếng kêu ngơ ngác của Dũng Giả thốt ra.
 
-Bởi vì đòn đánh quyết định đã chạm tới. Ngay trước khi trạng thái khựng biến mất, trong kẽ hở thời gian vô cùng ngắn ngủi còn sót lại, đòn tấn công mang lại chiến thắng đã chạm tới mục tiêu.
+Bởi vì đòn kết liễu thực sự đã chạm tới đích. Ngay trước khi trạng thái khựng tan biến, trong kẽ hở thời gian ngắn ngủi ngủi ngủi còn sót lại, nhát chém mang lại chiến thắng tuyệt đối đã chạm vào da thịt cậu ta.
 
 “Na... Natsukawa-san...”
 
 “Tớ xin lỗi nhé, Souma-kun.”
 
-Lưỡi dao của 『Đạo Tặc』 âm thầm tiếp cận từ phía sau đã đâm xuyên qua lưng của Dũng Giả.
+Lưỡi đoản đao của 『Đạo Tặc』 âm thầm áp sát từ phía sau đã đâm xuyên qua lưng của Dũng Giả.

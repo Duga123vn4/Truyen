@@ -4,21 +4,21 @@
 
 Dốc toàn bộ sức mạnh của tinh linh bóng tối, tôi dùng cánh tay phải đen kịt nắm chặt lấy chiếc vòng tẩy não của Kinako.
 
-Sắc đen lan rộng từ vị trí tôi chạm vào, từ từ thấm đẫm chiếc vòng bạc tựa vết mực loang. Cả về thị giác lẫn cảm giác, rõ ràng tinh linh bóng tối đang can thiệp và áp chế nó.
+Sắc đen lan rộng từ vị trí tôi chạm vào, từ từ thấm đẫm chiếc vòng bạc tựa vết mực loang. Cả về thị giác lẫn xúc giác, rõ ràng các tinh linh bóng tối đang can thiệp và áp chế nó một cách áp đảo.
 
-“Lũ tinh linh giả tạo kia, biến mau đi!”
+“Lũ tinh linh giả tạo kia, cút xéo mau đi!”
 
-Ngay khi sức mạnh của tinh linh bóng tối triệt tiêu thực thể tinh linh nhân tạo ẩn bên trong, phần bị tôi bóp chặt lập tức vỡ vụn như thể bị phong hóa hàng ngàn năm.
+Ngay khi sức mạnh của tinh linh bóng tối triệt tiêu thực thể tinh linh nhân tạo ẩn bên trong, phần bị tôi bóp chặt lập tức nứt toác rồi vỡ vụn như thể đã bị phong hóa hàng ngàn năm.
 
-Hiệu lực của chiếc vòng có lẽ đã hoàn toàn biến mất. Ít nhất, vì hơn nửa thân vòng đã nát vụn, nó tự động tuột ra khỏi tai Kinako.
+Hiệu lực của chiếc vòng có lẽ đã hoàn toàn biến mất. Ít nhất, vì hơn nửa thân vòng đã nát vụn, nó liền tự động tuột ra khỏi tai Kinako.
 
 “Cứ đà này, tháo nốt chiếc còn lại nào!”
 
-Tôi lập tức chộp lấy chiếc vòng ở bên tai kia, tiếp tục mượn sức mạnh của tinh linh bóng tối.
+Tôi lập tức chộp lấy chiếc vòng ở bên tai kia, tiếp tục mượn sức mạnh của các tinh linh bóng tối.
 
-Liệu khi chiếc vòng thứ hai này rơi ra, Kinako có thực sự trở lại bình thường hay không, chính tôi cũng không dám chắc. Nhưng vào lúc này, đây là điều duy nhất tôi có thể làm.
+Liệu khi chiếc vòng thứ hai này rơi ra, Kinako có thực sự trở lại bình thường hay không, chính tôi cũng chẳng dám chắc. Nhưng vào lúc này, đây là điều duy nhất tôi có thể làm.
 
-Mọi chuyện đã thuận lợi đến mức này rồi. Giờ chỉ còn biết cầu nguyện cho sự thành công trọn vẹn ở phút chót.
+Mọi chuyện đã thuận lợi đến mức này rồi. Giờ chỉ còn biết cầu nguyện cho sự thành công trọn vẹn ở phút chót mà thôi.
 
 “Thế này thì... chịu nổi không hả!!”
 
@@ -28,7 +28,7 @@ Một tiếng gãy giòn vang lên, chiếc vòng nhuộm đen bị cưỡng ép
 
 “Này, sao rồi Kinako! Cậu có nhận ra tớ không——Oái?!”
 
-Ngay khi tiếng gầm trầm đục của Kinako vang lên, đầu óc tôi chao đảo. Đang đứng chông chênh trên đỉnh đầu nó, tôi không chịu nổi cú lắc bất ngờ này, lóng ngóng trượt ngã lăn nhào xuống khuôn mặt đầy lông của Kinako.
+Ngay khi tiếng gầm trầm đục của Kinako vang lên, đầu óc tôi bỗng chao đảo. Đang đứng chông chênh trên đỉnh đầu nó, tôi không chịu nổi cú lắc bất ngờ này, lóng ngóng trượt ngã lăn nhào xuống khuôn mặt đầy lông của Kinako.
 
 “Hự, ặc——Ái da!”
 
@@ -68,7 +68,7 @@ Nhìn kỹ lại, màu lông của Kinako đang bắt đầu chuyển từ vùng
 
 Tôi chẳng thèm bận tâm đến những giọt nước mắt đang chực trào nơi khóe mi, vội vàng đặt chiếc ba lô xộc xệch xuống và lôi hộp cơm nhiều tầng cất giấu bên trong ra.
 
-Dù không còn nóng hổi vừa mới vớt ra khỏi chảo, nhưng nếu đang đói cồn cào thì ăn vẫn sẽ tuyệt ngon.
+Dù không còn nóng hổi vừa mới vớt ra khỏi chảo, nhưng nếu đang đói cồn cào thì ăn vẫn sẽ ngon tuyệt.
 
 “Đây, tớ tự tay làm món gà rán Karaage cho cậu đấy. Cậu mê món này nhất đúng không?”
 
@@ -84,7 +84,7 @@ Tôi định đưa miếng gà rán vào cái miệng đang há sẵn của nó,
 
 “Chạy mau, Hayama-kun!!”
 
-Dù Momokawa, người phát giác đầu tiên, đã hét lớn cảnh báo. Nhưng khoảnh khắc tôi cảm nhận được luồng ánh sáng bạc đang bổ xuống từ đỉnh đầu, mọi chuyện đã quá muộn màng.
+Dù Momokawa-kun, người phát giác đầu tiên, đã hét lớn cảnh báo. Nhưng khoảnh khắc tôi cảm nhận được luồng ánh sáng bạc đang bổ xuống từ đỉnh đầu, mọi chuyện đã quá muộn màng.
 
 “——『Thánh Kiếm Ánh Sáng』.”
 
@@ -206,7 +206,7 @@ Tên Dũng Giả cúi xuống nhặt nó lên với động tác thản nhiên h
 
 Cô ta bắt Kinako đi hoàn toàn không phải để mượn tay nó tiêu diệt chúng tôi. Ngay từ đầu ả ta đã chẳng thèm xem nó là một đơn vị chiến đấu.
 
-Lý do duy nhất ả cần Kinako là để nuôi dưỡng và tinh luyện ra một viên lõi có độ tinh khiết tối thượng, đủ năng lượng để vận hành Thiên Tống Môn.
+Lý do duy nhất ả cần Kinako là để nuôi dưỡng và tinh luyện ra một viên lõi có độ tinh khiết tối thượng, đủ năng lượng để vận hành 『Thiên Tống Môn』.
 
 Nói cách khác, trong mắt Takanashi, Kinako chỉ là một con gia súc không hơn không kém. Nó đơn thuần là một khối nguyên liệu sống được vỗ béo để làm nhiên liệu cho chuyến dịch chuyển của bọn họ.
 
@@ -216,7 +216,7 @@ Chỉ có thế... Đúng vậy, tàn nhẫn và đơn giản chỉ có thế...
 
 “A, được rồi, thành công rồi! Cuối cùng tớ cũng đã chạm tới đích——Nào, cánh cửa hy vọng của chúng ta, hãy mở ra, Thiên Tống Môn!”
 
-Cậu ta giơ cao viên lõi của Kinako với gương mặt ngập tràn niềm hân hoan rạng rỡ, Thiên Tống Môn lập tức tỏa ra luồng sáng xanh lam nhạt đập thình thịch như một nhịp tim khổng lồ.
+Cậu ta giơ cao viên lõi của Kinako với gương mặt ngập tràn niềm hân hoan rạng rỡ, 『Thiên Tống Môn』 lập tức tỏa ra luồng sáng xanh lam nhạt đập thình thịch như một nhịp tim khổng lồ.
 
 Từ những đường rãnh ma thuật trên cánh cổng vốn chỉ le lói ánh xanh mờ nhạt, giờ đây liên tục bắn ra những luồng quang mang rực rỡ nhấp nháy liên hồi. Như để cộng hưởng, viên lõi trên tay Dũng Giả cũng bùng phát thứ ánh sáng chói lòa.
 
@@ -238,7 +238,7 @@ Tên Dũng Giả đanh giọng tuyên bố cùng với một luồng sát ý s�
 
 “...Souma Yuuto.”
 
-Chẳng còn lý do gì để tiếp tục ẩn nấp sau góc khuất của Thiên Tống Môn nữa. Tôi đường hoàng bước ra ngoài ánh sáng.
+Chẳng còn lý do gì để tiếp tục ẩn nấp sau góc khuất của 『Thiên Tống Môn』 nữa. Tôi đường hoàng bước ra ngoài ánh sáng.
 
 “Nói tôi nghe xem nào, Takanashi đã nhồi nhét những thứ rác rưởi gì vào đầu cậu thế?”
 

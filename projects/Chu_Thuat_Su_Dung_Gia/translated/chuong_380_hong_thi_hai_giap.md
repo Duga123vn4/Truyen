@@ -1,285 +1,287 @@
 # Tập 380: Hồng Thi Hài Giáp
 
-“Chuẩn bị xong chưa, tinh linh bóng tối của tôi. Chúng ta tăng ga lên một nấc nữa nào—”
+“Chuẩn bị xong chưa, hỡi các tinh linh bóng tối của tôi. Chúng ta tăng ga lên một nấc nữa nào—”
 
-Ngoài 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』, tôi còn cầm trên tay một món trang bị khác. Đó không phải là một cây gậy phép, mà là một chiếc mặt nạ. Chính là đầu lâu của Gira-GoGame Mastera Bazuzu.
+Bên cạnh 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』, tôi còn cầm trên tay một món trang bị khác. Đó không phải là một cây trượng phép, mà là một chiếc mặt nạ. Chính là chiếc đầu lâu của Đại Chiến Sĩ Bazuzu.
 
-Đại chiến sĩ mạnh nhất bảo vệ Oh-ma chắc chắn là Zagan. Thế nhưng, Bazuzu, kẻ sở hữu sức mạnh khổng lồ hóa tương tự, cũng là một trong những chiến lực mạnh nhất được tuyển chọn kỹ lưỡng của vương quốc Goma. Nói cách khác, hắn là thuộc hạ trung thành của Oh-ma, một đại chiến sĩ hộ vệ đức vua.
+Đại chiến sĩ mạnh nhất bảo vệ Oh-ma chắc chắn là Zagan. Thế nhưng, Bazuzu—kẻ sở hữu năng lực 『Khổng Lồ Hóa』 tương tự—cũng là một trong những chiến lực đỉnh phong được tuyển chọn kỹ lưỡng của Vương quốc Goma. Nói cách khác, hắn là thuộc hạ trung thành của Oh-ma, một Đại Chiến Sĩ hộ vệ nhà vua.
 
-Khi tiêu diệt vương quốc Goma, hắn đã hóa thành mặt nạ Bazuzu và đóng góp rất nhiều sức mạnh cho tôi... nhưng giờ đây, không chỉ có tôi là thuật giả, mà cả chủ nhân thực sự của hắn là Oh-ma cũng đang ở đây. Giống như ngươi, hắn giờ là món trang bị do chính tay tôi hoàn thiện.
+Khi công phá Vương quốc Goma, hắn đã hóa thành chiếc mặt nạ Bazuzu và cống hiến cho tôi rất nhiều sức mạnh... nhưng giờ đây, bên cạnh tôi không chỉ có bản thân là thuật giả, mà ngay cả chủ nhân thực sự của hắn là Oh-ma cũng đang hiện diện tại nơi này. Cũng giống như Bazuzu, Oh-ma giờ đây là món trang bị do chính tay tôi hoàn thiện.
 
-Giống như khi Rem 『Khổng Lồ Hóa』 sử dụng đồng thời 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 và 『Mũ Giáp Khổng Lồ』, tôi cũng sẽ dùng Bazuzu cùng với Oh-ma.
+Tương tự như lúc Rem 『Khổng Lồ Hóa』 sử dụng đồng thời 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 cùng 『Mũ Giáp Khổng Lồ』, tôi cũng sẽ kết hợp Bazuzu với Oh-ma.
 
-Làm vậy thì sẽ thế nào? Hắn sẽ nhận mệnh lệnh trực tiếp từ vị vua vĩ đại mà hắn hết lòng trung thành. Chắc chắn hắn sẽ dốc hết tâm can mà chiến đấu thôi.
+Làm vậy thì sẽ ra sao? Hắn sẽ nhận mệnh lệnh trực tiếp từ vị vua vĩ đại mà mình hết mực trung thành. Chắc chắn hắn sẽ dốc cạn tâm can mà chiến đấu.
 
-Nào, đi thôi, Bazuzu. Nhân danh Oh-ma, ta ra lệnh!
+Nào, lên đường thôi, Bazuzu. Nhân danh Oh-ma, ta ra lệnh!
 
-“—『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』”
+“—『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』!”
 
-Đeo mặt nạ lên, tôi vung gậy phép và niệm chú, đầm lầy hỗn độn đen kịt cuộn xoáy cùng trận pháp triệu hồi màu huyết dụ đầy điềm gở lập tức bùng nổ và mở rộng.
+Vừa đeo mặt nạ lên mặt, tôi vừa vung trượng niệm chú. Đầm lầy hỗn độn đen kịt cuộn xoáy kịch liệt, trận pháp triệu hồi màu huyết dụ đầy điềm gở lập tức bùng nổ rồi lan rộng ra xung quanh.
 
-Từ đầm lầy hỗn độn sền sệt, những khối thịt đỏ đen lao ra như xúc tu quấn chặt lấy cơ thể tôi, rồi trận pháp triệu hồi bằng máu sụp đổ, biến thành những đường vân đỏ tươi phát sáng kỳ dị khắc sâu vào khối thịt.
+Từ đầm lầy hỗn độn sền sệt, những khối thịt đỏ đen phóng vọt ra như đàn xúc tu quấn chặt lấy cơ thể tôi. Kế đó, pháp trận triệu hồi bằng máu sụp đổ, hóa thành những đường vân đỏ tươi phát sáng kỳ dị khắc sâu vào từng thớ thịt.
 
-Khối thịt mang những đường vân sáng đỏ nhanh chóng bao phủ toàn bộ cơ thể tôi, kéo dài tứ chi để tạo hình một chiến sĩ.
+Khối thịt mang theo những đường vân sáng rực nhanh chóng bao bọc toàn bộ cơ thể tôi, vươn dài tứ chi để tạo hình một chiến binh khổng lồ.
 
-Khối thịt nhầy nhụa rỉ máu tăng dần mật độ, nén chặt lại rồi biến thành một bộ giáp cơ bắp cường tráng. Cơ ngực và cơ lưng gồ lên cuồn cuộn, vượt xa từ "dày cộp". Đôi vai nhô cao vạm vỡ, hai cánh tay vươn ra từ đó to khỏe hơn cả khỉ đột, là đôi tay thép của một con quái vật. Đôi chân giẫm mạnh xuống đất ẩn chứa sức mạnh đủ để di chuyển thân hình khổng lồ bọc giáp cơ bắp một cách nhanh nhẹn.
+Khối huyết nhục nhầy nhụa tăng dần mật độ, nén chặt lại rồi hóa thành một bộ giáp cơ bắp cuồn cuộn. Cơ ngực và cơ lưng gồ lên vạm vỡ, vượt xa khái niệm "dày cộp" thông thường. Đôi vai nhô cao vững chãi, hai cánh tay vươn dài to khỏe hơn cả vượn đột khổng lồ—đôi tay thép của một con quái vật thực thụ. Đôi chân giẫm mạnh xuống nền đất, ẩn chứa nguồn sức mạnh bùng nổ đủ để điều khiển thân hình bọc giáp đồ sộ này di chuyển với tốc độ kinh người.
 
-Khi quá trình biến thân hoàn tất trong nháy mắt và tầm nhìn mở rộng trở lại, góc nhìn của tôi đã cao lên tương đương với một ngôi nhà hai tầng. Nhưng điều đó cũng dễ hiểu. Bởi vì bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này có kích thước lớn hơn nhiều so với lúc tôi sử dụng trong chiến dịch đánh chiếm vương quốc.
+Khi quá trình biến thân hoàn tất trong nháy mắt và tầm nhìn mở rộng trở lại, góc nhìn của tôi đã cao ngang ngửa một tòa nhà hai tầng. Nhưng điều đó cũng hoàn toàn dễ hiểu. Bởi lẽ, bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này có kích thước đồ sộ hơn rất nhiều so với lúc tôi sử dụng trong chiến dịch công phá vương quốc.
 
-Thân hình ấy to lớn đến mức gợi nhớ đến một con GoGame Mastera. Lớp lông đỏ và đôi sừng dê núi vĩ đại là những đặc điểm giống hệt với Bazuzu khi khổng lồ hóa. Tuy nhiên, lớp da bên ngoài đã biến đổi thành một chất liệu đen dày như lốp cao su, vừa dẻo dai vừa bền bỉ.
+Vóc dáng ấy khổng lồ đến mức gợi nhớ đến một Đại Chiến Sĩ Goma. Bộ lông đỏ rực cùng đôi sừng dê núi đồ sộ là những đặc điểm chuẩn xác của Bazuzu khi 『Khổng Lồ Hóa』. Tuy nhiên, lớp biểu bì bên ngoài đã biến đổi thành một lớp da màu đen dày cộm như lốp cao su, vừa dẻo dai lại vừa kiên cố.
 
-Và trên hết, những ấn ký đỏ thẫm hiện lên trên làn da đen đó. Các thuật thức được khắc ngang dọc khắp cơ thể như những hình xăm. Ánh sáng đỏ rực mạch đập, tôi cảm nhận rõ ràng ma lực và—sức mạnh của tinh linh bóng tối đang lan tỏa khắp cơ thể.
+Và nổi bật hơn cả, chính là những ấn ký đỏ thẫm rực cháy trên nền da đen đó. Từng thuật thức được khắc ngang dọc khắp cơ thể tựa như những hình xăm ma thuật. Ánh sáng đỏ rực phập phồng theo từng nhịp đập. Tôi cảm nhận rõ ràng từng luồng ma lực cuộn trào, cùng sức mạnh của các tinh linh bóng tối đang lan tỏa khắp toàn thân.
 
-“Cái... cái gì... Mày biến thành quái vật rồi à?”
+“Cái... cái quái gì thế kia... Mày biến thành quái vật rồi à?!”
 
-“Nghĩ lại thì, tôi chưa từng cho cậu thấy 『Thi Hài Giáp』 nhỉ.”
+“Nghĩ lại thì, tôi chưa từng cho cậu diện kiến 『Thi Hài Giáp』 bao giờ nhỉ.”
 
-Cả vụ nổ vương quốc lẫn trận quyết chiến với Oh-ma, Takanashi đều không có mặt, và cô ta cũng không có thời gian hay sự chuẩn bị để giám sát tình hình bên này. Lúc đó, Takanashi chỉ thong thả đi theo nhóm Dũng Giả đột kích vào vương cung Goma từ Bắc Môn mà thôi.
+Cả vụ nổ đánh sập vương quốc lẫn trận huyết chiến với Oh-ma, Takanashi đều không có mặt. Cô ta cũng chẳng có thời gian hay sự chuẩn bị để theo dõi tình hình bên phía tôi. Lúc đó, Takanashi chỉ thong thả bám đuôi theo nhóm Dũng Giả đột kích vào vương cung Goma từ hướng Bắc Môn mà thôi.
 
-Tuy nhiên, một kẻ hoàn toàn không có biện pháp đối phó với tinh linh như Takanashi, dù có thấy 『Thi Hài Giáp』 trước đó thì cũng chẳng làm được gì.
+Tuy nhiên, một kẻ hoàn toàn không có biện pháp khắc chế tinh linh như Takanashi, dù có thấy 『Thi Hài Giáp』 từ trước thì cũng chẳng làm nên trò trống gì.
 
-Suy cho cùng, đây chỉ là việc tiêu hao ma lực để đổi lấy sức mạnh quái vật tương đương với một class cận chiến. Nó hoàn toàn không thể đạt đến sức mạnh vượt trội như Mei hay Tendou. Khả năng chỉ đơn thuần là cận chiến này ngược lại còn dễ đối phó hơn.
+Suy cho cùng, đây chỉ là việc đốt cháy ma lực để đổi lấy sức mạnh quái vật tương đương với một chức nghiệp cận chiến. Nó hoàn toàn không thể chạm tới ngưỡng sức mạnh áp đảo tuyệt đối như Mei-chan hay Tendou. Cái năng lực chỉ thuần túy cận chiến này trên thực tế lại càng dễ đối phó hơn.
 
-Thế nhưng, bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này là một tác phẩm tôi đã dồn rất nhiều tâm huyết để hoàn thành.
+Thế nhưng, bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này là một kiệt tác mà tôi đã dồn hết tâm huyết để tạo ra.
 
-“Thứ này là trang bị độc nhất vô nhị được đúc từ những nguyên liệu siêu hiếm đấy—”
+“Thứ này là trang bị độc nhất vô nhị được rèn đúc từ những nguyên liệu siêu hiếm đấy—”
 
-Tôi truyền ý chí của mình vào các tinh linh bóng tối đang tràn ngập khắp cơ thể và bắt đầu di chuyển.
+Tôi truyền ý chí vào bầy tinh linh bóng tối đang tràn ngập khắp cơ thể rồi bắt đầu chuyển động.
 
-Hơi cúi người về phía trước, tôi dùng đôi chân mạnh mẽ đạp đất và lao đi. Tầm nhìn lướt qua nhanh chóng, mang lại cảm giác bay bổng nhẹ nhàng. Cùng với cảm giác lao đi của một ma thú tiến xa vài mét chỉ sau một bước chân, tôi dồn lực vung cánh tay khổng lồ xuống.
+Hơi cúi người về phía trước, tôi đạp mạnh đôi chân xuống đất và lao vút đi. Cảnh vật xung quanh lướt qua vun vút, mang lại cảm giác bay bổng nhẹ bẫng. Cùng với xung lực của một ma thú khổng lồ có thể sải bước xa cả chục mét chỉ sau một nhịp giẫm, tôi dồn toàn lực vung cánh tay khổng lồ giáng xuống.
 
-Mục tiêu phía trước là một trong những thủ hộ thiên sứ đang bị lũ skeleton nhập ác linh bám lấy làm khựng bước.
+Mục tiêu ngay trước mắt là một trong những thủ hộ thiên sứ đang bị lũ Skeleton bị ác linh chiếm xác bu bám làm khựng bước.
 
-“—Lũ hàng sản xuất hàng loạt như các ngươi, ta mà thèm thua sao!”
+“—Lũ hàng sản xuất hàng loạt như các ngươi, ta mà thèm thua sao?!”
 
-*Rầm!* Một tiếng động kim loại chói tai vang lên, nắm đấm của thi hài giáp va chạm với kết giới của thiên sứ.
+*Rầm!* 
 
-『Thánh Thiên Kết Giới』 của bọn chúng suy cho cùng chỉ là hàng nhái kém chất lượng. Đến cả võ kỹ của Sakura còn chém rách được, thì không lý nào sức mạnh của bộ giáp này lại không đập nát được nó.
+Một tiếng va chạm kim loại chói tai vang lên rúng động màng nhĩ. Nắm đấm bọc thép của thi hài giáp nện thẳng vào kết giới của thiên sứ.
 
-But có vẻ nó đã đỡ được đòn đầu tiên. Những mảnh vỡ ánh sáng vỡ vụn bay tứ tung, nhưng thiên sứ đứng bên trong vẫn chưa hề hấn gì.
+『Thánh Thiên Kết Giới』 của bọn chúng suy cho cùng cũng chỉ là thứ hàng nhái kém chất lượng. Đến cả kiếm kỹ của Sakura còn chém rách được, thì không có lý nào sức mạnh từ bộ giáp này lại không nghiền nát được nó.
 
-Vậy thì đấm thêm phát nữa là xong.
+Thế nhưng, có vẻ như nó đã chặn được đòn đầu tiên. Những mảnh vỡ ánh sáng bắn tung tóe như thủy tinh vỡ, nhưng tên thiên sứ bên trong vẫn chưa hề hấn gì.
+
+Vậy thì đấm thêm một phát nữa là xong.
 
 “Chết đi!”
 
-Trước khi kết giới kịp phục hồi, tôi tung cú đấm thứ hai, và lần này, tên thiên sứ bên trong đã bị nghiền nát bởi đòn tấn công vật lý thuần túy.
+Không để kết giới kịp phục hồi, tôi bồi tiếp cú đấm thứ hai. Lần này, tên thủ hộ thiên sứ bên trong đã bị đè bẹp dí bởi uy lực vật lý thuần túy.
 
-Hừm, bộ giáp mũ hoành tráng đó chỉ được cái mã ngoài. Làm bằng nhựa hay gì vậy?
+Hừ, bộ giáp trụ hoành tráng đó hóa ra chỉ được cái mã ngoài. Làm bằng nhựa hay sao vậy?
 
-“Ha ha ha ha! Nhìn đi Takanashi, đây chính là sức mạnh của bạo lực!”
+“Ha ha ha ha! Thấy chưa hả Takanashi, đây chính là uy lực của bạo lực thuần túy đấy!”
 
-“Á, thằng lùn yếu ớt kia, chỉ to xác lên một chút mà đã tinh tướng rồi à!”
+“A, thằng lùn tịt yếu ớt kia! Mới phình to xác ra một chút mà đã dám lên mặt tinh tướng à?!”
 
-Ngay khi tôi đấm bay tên thủ hộ thiên sứ, Takanashi cũng triệu hồi thêm viện binh từ trận pháp đang triển khai.
+Ngay khi tôi đấm bay tên thủ hộ thiên sứ, Takanashi liền kích hoạt thêm viện binh từ pháp trận đang triển khai.
 
-Hửm, có cả những kẻ mang trang bị và hình dáng khác nữa kìa.
+Hửm, có cả những kẻ mang trang bị và vóc dáng khác biệt kìa.
 
-Hai tên to con cầm khiên và hai tên mảnh khảnh dùng song kiếm. Hừm, thấy tôi tấn công dồn dập nên cô ta sợ hãi tung thêm bài tẩy rồi đây.
+Hai tên hộ pháp to con vác trọng thuẫn, cùng hai tên mảnh khảnh cầm song kiếm. Hừm, thấy tôi tấn công dồn dập nên cô ta sợ hãi phải tung thêm quân bài tẩy rồi đây.
 
-“Đừng bận tâm lũ tép riu, mau giết thằng Momokawa đi!”
+“Đừng bận tâm lũ tép riu đó! Mau xé xác thằng Momokawa ra cho tao!”
 
-“Ha ha ha, đúng rồi, nhào vô đi lũ tép riu! Thỉnh thoảng cũng phải để tôi thể hiện độ bá đạo của mình chứ!”
+“Ha ha ha! Phải thế chứ, nhào vô hết đây lũ tép riu! Thỉnh thoảng cũng phải để tôi phô diễn sự bá đạo của mình chứ!”
 
-Cảm giác vung vẩy sức mạnh áp đảo như một con boss thực thụ quả là phấn khích tột cùng. Đã thế, đối phương lại còn đi nước cờ sai lầm thế này thì tôi không nhịn được cười.
+Cảm giác được vung vẩy sức mạnh áp đảo tựa như một con Boss thực thụ quả là phấn khích tột cùng. Đã vậy, đối phương lại còn đi một nước cờ ngớ ngẩn đến mức này khiến tôi không nhịn được cười.
 
-Hiện tại, tôi là kẻ nổi bật nhất ở đây, và nhờ những lời khiêu khích đó, Takanashi đã hoàn toàn nhắm vào tôi làm mục tiêu duy nhất.
+Hiện tại, tôi là kẻ nổi bật nhất trên chiến trường. Nhờ những lời khiêu khích vừa rồi, Takanashi đã hoàn toàn ghim chặt tôi làm mục tiêu duy nhất.
 
-Thực tế, nếu giết được tôi thì quân đoàn undead cũng sẽ dừng lại, và các kế hoạch khác tôi chuẩn bị cũng vô dụng. Lấy được đầu của thủ lĩnh Momokawa Kotarou chắc chắn sẽ mang lại chiến thắng cho Takanashi.
+Thực tế thì nếu hạ gục được tôi, toàn bộ quân đoàn Undead cũng sẽ sụp đổ, và mọi kế hoạch tôi dày công chuẩn bị cũng hóa thành công cốc. Lấy được đầu của thủ lĩnh Momokawa Kotarou chắc chắn sẽ định đoạt chiến thắng cho Takanashi.
 
-Nhưng chính vì thế, tôi mới có thể đóng vai trò làm tanker thu hút toàn bộ thù hận.
+Nhưng chính vì thế, tôi mới có thể thoải mái đóng vai trò một Tanker thu hút toàn bộ hỏa lực và thù hận về mình.
 
-Kể từ khi các ác linh nhập vào biến thành quân đoàn evil undead, vai trò của tôi và Sakura đã hoán đổi. Sakura, người từng làm tiên phong với khả năng phòng ngự vạn năng của 『Thánh Thiên Kết Giới』 và cận chiến bằng trường đao, giờ đã lùi lại phía sau tôi và giương cây 『Thánh Nữ Hòa Cung』 lên.
+Kể từ khoảnh khắc các ác linh nhập vào biến thành quân đoàn tà linh Undead, vai trò của tôi và Sakura đã hoán đổi cho nhau. Sakura—người từng giữ vị trí tiên phong nhờ khả năng phòng thủ toàn năng của 『Thánh Thiên Kết Giới』 và cận chiến bằng trường đao—nay đã lùi sâu về phía sau tôi, giương cao cây 『Thánh Nữ Hòa Cung』.
 
-Khi ở trạng thái bị ác linh điều khiển, tôi không thể kiểm soát chúng một cách hoàn hảo. Nói cách khác, nếu sơ sẩy, sẽ có vài con quay sang tấn công cả Sakura.
+Khi ở trạng thái bị ác linh thao túng, tôi không thể kiểm soát chúng một cách hoàn hảo tuyệt đối. Nói cách khác, nếu sơ sẩy một chút, sẽ có vài con mất kiểm soát quay sang tấn công cả Sakura.
 
-Ôi trời, lần đầu tiên tôi thử nghiệm điều khiển ác linh, lũ skeleton đều bu lại quanh Sakura, gây ra một phen hỗn loạn. Kết quả là tôi đã ăn vài cái tát nảy lửa từ cô ấy.
+Nghĩ lại thì lần đầu tiên thử nghiệm năng lực ác linh nhập thể, lũ Skeleton cứ nhè Sakura mà lao vào bu bám, tạo nên một phen hỗn loạn dở khóc dở cười. Kết quả là tôi đã phải lĩnh trọn vài cái tát nảy lửa từ cô nàng.
 
-Dù sao thì, khi Sakura tập trung hỗ trợ từ phía sau và mục tiêu của thủ hộ thiên sứ chỉ dồn vào tôi, quân đoàn undead được triệu hồi sẽ hoàn toàn rảnh tay.
+Dù sao thì, khi Sakura lùi về tập trung yểm trợ tầm xa và toàn bộ mục tiêu của lũ thủ hộ thiên sứ chỉ dồn vào tôi, quân đoàn Undead được triệu hồi sẽ hoàn toàn rảnh tay hành động.
 
-Takanashi, mày chưa từng đấu với boss có cơ chế gọi đệ vô hạn à? Dù là game hành động hay RPG, đó chẳng phải là cơ chế kinh điển từ xưa đến nay sao.
+Này Takanashi, mày chưa từng chạm trán những con Boss có cơ chế gọi đệ vô hạn bao giờ à? Dù là game hành động hay RPG, đó chẳng phải là một cơ chế kinh điển từ xưa đến nay sao?
 
-Về cơ bản, các trận đấu boss trong game thường là một chọi một, hoặc một boss đấu với tổ đội của nhân vật chính. Tuy nhiên, cũng có những con boss đóng vai trò thủ lĩnh bầy đàn và triệu hồi tay sai.
+Về cơ bản, các màn đấu Boss trong game thường là đơn đấu một chọi một, hoặc một Boss đối đầu với cả tổ đội của người chơi. Tuy nhiên, cũng có không ít những con Boss đóng vai trò thủ lĩnh bầy đàn và liên tục triệu hồi lâu la tay sai.
 
-Có khi lũ tép riu xuất hiện ngay từ đầu, hoặc viện binh kéo đến giữa trận. Điều kiện xuất hiện của chúng cũng rất đa dạng: có thể là xuất hiện vô hạn sau một khoảng thời gian, hoặc có thể ngăn chặn bằng cách phá hủy cơ quan hay bộ phận của boss. Hoặc nếu số lượng quái nhỏ trong phòng boss giảm xuống dưới một mức nhất định, chúng sẽ lập tức được bổ sung. Tùy vào mỗi trò chơi mà có những thiết lập khác nhau, từ đó người chơi sẽ tìm ra cách khắc chế và lối di chuyển tối ưu nhất.
+Có khi lũ tay sai xuất hiện ngay từ đầu trận, hoặc viện binh kéo đến dồn dập ở giai đoạn giữa. Điều kiện xuất hiện của chúng cũng vô cùng phong phú: có thể tự động sinh ra vô hạn sau một khoảng thời gian, hoặc bị phong tỏa nếu người chơi phá hủy được một cơ quan hay bộ phận nào đó của Boss. Lại có những trận mà hễ số lượng quái nhỏ tụt xuống dưới một mức nhất định, chúng sẽ lập tức được hồi sinh bổ sung. Tùy từng tựa game mà thiết lập sẽ khác nhau, từ đó người chơi mới tìm ra cách khắc chế cùng lộ trình di chuyển tối ưu nhất.
 
-Vậy thì, tôi của hiện tại thế nào?
+Vậy thì, một con Boss là tôi của hiện tại sẽ như thế nào?
 
-“Hơ hơ hơ, tôi đâu có bảo là ở dạng này thì không gọi đệ được đâu.”
+“Hô hô hô, tôi đâu có nói là ở dạng này thì không thể gọi đệ được đâu chứ.”
 
-Vừa giẫm nát một tên thủ hộ thiên sứ gần đó, tôi vừa triển khai đầm lầy hỗn độn và trận pháp triệu hồi màu huyết dụ.
+Vừa giẫm nát bấy một tên thủ hộ thiên sứ dưới chân, tôi vừa búng tay triển khai đầm lầy hỗn độn cùng pháp trận triệu hồi màu huyết dụ.
 
-“Tặc, mày vẫn gọi thêm được lũ tép riu đó nữa à!”
+“Tặc! Mày vẫn có thể gọi thêm cái lũ rác rưởi đó ra nữa à?!”
 
-Đúng vậy đấy, Takanashi. Hơn nữa, tôi còn có thể vừa tấn công vừa triệu hồi cùng lúc.
+Chuẩn không cần chỉnh, Takanashi ạ. Hơn nữa, tôi còn có thể vừa tung đòn cận chiến, vừa thi triển triệu hồi cùng một lúc cơ.
 
-Trong khi tôi dùng đôi chân mạnh mẽ dồn trọng lượng hàng trăm cân giẫm nát giáp trụ của tên thủ hộ thiên sứ, những bộ xương mới lại tiếp tục mọc lên xung quanh tôi.
+Trong lúc tôi dùng đôi chân hộ pháp dồn trọng lượng hàng trăm cân nghiền nát giáp trụ của tên thủ hộ thiên sứ, những bộ xương trắng hếu mới lại tiếp tục trồi lên tua tủa xung quanh tôi.
 
-“—『Ác Linh Nhập』.”
+“—『Ác Linh Nhập』!”
 
-Và những bộ xương đã được cài đặt ác linh lập tức lao lên tiền tuyến trong cơn điên loạn.
+Và rồi, những bộ xương khô vừa được nạp ác linh lập tức gầm rú điên cuồng lao thẳng lên tiền tuyến.
 
-Nhưng mà phải công nhận, ác linh ở nơi này xuất hiện mượt mà đến lạ kỳ.
+Nhưng mà phải công nhận, nguồn ác linh ở khu vực này xuất hiện mượt mà đến lạ kỳ.
 
-Xem xét quy mô và mức độ văn minh của cổ đại đô thị Albion, nơi này chắc hẳn từng nhộn nhịp như ga Tokyo. Và khi một lượng lớn người tụ tập, lượng ý niệm tích tụ cũng sẽ khổng lồ tương ứng... Dù không có bi kịch nào xảy ra, thì những cảm xúc tiêu cực và oán hận tích tụ qua năm tháng cũng đủ để tạo nên một nguồn năng lượng khổng lồ.
+Xét theo quy mô và mức độ văn minh của Cổ Đại Đô Thị Albion, nơi này thuở xưa chắc hẳn từng nhộn nhịp sầm uất chẳng kém gì ga Tokyo. Khi một lượng lớn sinh mệnh tụ tập lại một chỗ, lượng ý niệm tích tụ theo năm tháng cũng sẽ khổng lồ tương ứng... Cho dù không có thảm kịch kinh hoàng nào xảy ra, thì những cảm xúc tiêu cực, oán hận và tiếc nuối tích tụ qua hàng nghìn năm cũng đủ để hóa thành một nguồn năng lượng bóng tối vô tận.
 
-Đây quả là một hiệu ứng môi trường có lợi ngoài mong đợi. Đã vậy thì tôi sẽ tận dụng triệt để. Lũ ác linh cổ đại không biết đã tồn tại bao nhiêu ngàn năm này chắc hẳn cũng đang rất phấn khích trước cơ hội ngàn năm có một để có được thể xác và quậy phá tưng bừng.
+Đây quả thực là một hiệu ứng môi trường đem lại lợi thế ngoài mong đợi. Đã vậy thì tôi tội gì không tận dụng triệt để? Lũ ác linh cổ đại ngủ vùi chẳng biết bao nhiêu ngàn năm này chắc hẳn cũng đang vô cùng phấn khích trước cơ hội ngàn năm có một để đoạt lấy thể xác và quậy phá tưng bừng.
 
-Vừa liên tục gọi ra lũ quái vật undead mới, tôi vừa lao vào đấm mục tiêu tiếp theo.
+Vừa liên tục đùn ra từng đợt Undead mới, tôi vừa lao bổ tới nện nắm đấm vào mục tiêu tiếp theo.
 
-*Tự mình nói ra thì hơi kỳ, nhưng tôi của hiện tại đúng là một con boss cực kỳ hãm.*
+*Tự mình thừa nhận thì có hơi kỳ cục, nhưng tôi của hiện tại đúng chuẩn là một con Boss cực kỳ bẩn bựa.*
 
-Bản thể boss vừa có sức mạnh cơ bắp vượt trội, lại vừa sở hữu tốc độ di chuyển nhanh nhẹn.
+Bản thể Boss vừa sở hữu sức mạnh cơ bắp nghiền nát tất cả, lại vừa có được tốc độ di chuyển nhanh nhẹn phi lý.
 
-And chỉ cần ma lực chưa cạn, tôi có thể liên tục gọi đệ ra với tốc độ triệu hồi của 『Cây Gậy Của Kẻ Ngốc』. Hơn nữa, cũng chẳng có cơ quan hay điểm yếu nào để người chơi phá hủy nhằm ngăn chặn việc triệu hồi này cả.
+Đã vậy, chỉ cần ma lực chưa cạn đáy, tôi có thể liên tục gọi đệ ra với tốc độ triệu hồi thần sầu của 『Cây Gậy Của Kẻ Ngốc』. Hơn thế nữa, hoàn toàn không có bất kỳ cơ quan hay điểm yếu nào để người chơi phá hủy nhằm ngắt quãng chuỗi triệu hồi này cả.
 
-Bởi vì kẻ đang thực hiện triệu hồi bằng 『Cây Gậy Của Kẻ Ngốc』 chính là bản thể tôi đang nằm bên trong 『Thi Hài Giáp』.
+Bởi lẽ, kẻ đang thực hiện nghi thức triệu hồi bằng 『Cây Gậy Của Kẻ Ngốc』 lại chính là bản thể thật của tôi đang an tọa bên trong 『Thi Hài Giáp』.
 
-Bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này được điều khiển thông qua tinh linh bóng tối. Chỉ cần tôi truyền đủ chỉ thị chiến đấu cho tinh linh bóng tối, hai tay của bản thể tôi sẽ hoàn toàn rảnh rang. Nhờ đó, tôi có thể tự tay cầm gậy phép và thi triển chú thuật.
+Bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 này được vận hành và điều khiển gián tiếp thông qua các tinh linh bóng tối. Chỉ cần tôi truyền đủ mệnh lệnh chiến đấu cho tinh linh bóng tối, hai cánh tay của bản thể tôi sẽ hoàn toàn rảnh rang. Nhờ đó, tôi có thể tự do cầm trượng phép và thi triển chú thuật tùy ý.
 
-Một cách cực kỳ an toàn ngay bên trong bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đang làm loạn bên ngoài.
+Một cách thức thi triển an toàn tuyệt đối ngay từ bên trong khoang lái của bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đang làm mưa làm gió bên ngoài!
 
-*Quả nhiên, thiết kế khoang chứa bên trong rộng rãi là quyết định sáng suốt.*
+*Quả nhiên, quyết định thiết kế khoang chứa bên trong thật rộng rãi là nước đi hoàn toàn sáng suốt.*
 
-Tầm nhìn của tôi hiện tại là sự kết hợp giữa hai màn hình: một bên là cảnh chiến đấu với lũ thủ hộ thiên sứ qua góc nhìn của 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』, và một bên là những gì mắt tôi nhìn thấy bên trong khoang chứa của thi hài giáp.
+Tầm nhìn của tôi hiện tại là sự hợp nhất giữa hai góc nhìn: một bên là chiến trường rực lửa với lũ thủ hộ thiên sứ qua giác quan của 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』, và một bên là những gì mắt thường của tôi nhìn thấy bên trong khoang chứa của thi hài giáp.
 
-Mà việc sử dụng hai màn hình khi dùng máy tính là chuyện bình thường, thậm chí có những hệ máy chơi game cầm tay cũng có hai màn hình đấy thôi. Hơn nữa, ngày thường tôi vẫn luôn vận hành 『Song Ảnh』 hết công suất để một mình điều khiển hành động của nhiều cơ thể cùng lúc.
+Thực tế thì việc sử dụng hai màn hình khi làm việc trên máy tính là chuyện quá đỗi bình thường, thậm chí các hệ máy chơi game cầm tay hai màn hình cũng có đầy rẫy đấy thôi. Huống chi, ngày thường tôi vẫn luôn vận hành 『Song Ảnh』 hết công suất, một mình điều khiển nhiều cơ thể cùng lúc.
 
-Tôi đã quá quen với việc hành động khi sở hữu nhiều tầm nhìn khác nhau. Khả năng đa nhiệm này chính là một thế mạnh ngầm của một chú thuật sư như tôi. Souma Yuuto cũng chỉ tạo ra được tàn ảnh, còn 『Tương Ảnh Thuật』 của Takanashi cùng lắm chỉ dùng để nói chuyện là cùng. Rõ ràng sở hữu một kỹ năng có tiềm năng đa nhiệm cao như 『Tương Ảnh Thuật』 nếu chịu khó nâng độ thuần thục, nhưng lại chẳng chịu rèn luyện đàng hoàng, đó hoàn toàn là lỗi tự chuốc lấy của Takanashi.
+Tôi đã quá quen với việc xử lý thông tin khi sở hữu nhiều trường nhìn khác nhau. Khả năng đa nhiệm này chính là một thế mạnh ngầm vô cùng đáng sợ của một chú thuật sư như tôi. Souma Yuuto cùng lắm cũng chỉ tạo ra được tàn ảnh, còn 『Tương Ảnh Thuật』 của Takanashi giỏi lắm cũng chỉ dùng để phát hình nói chuyện từ xa là cùng. Rõ ràng sở hữu một kỹ năng có tiềm năng đa nhiệm cực cao như 『Tương Ảnh Thuật』 nếu chịu khó cày độ thuần thục, nhưng lại lười biếng chẳng chịu rèn giũa đàng hoàng, đó hoàn toàn là quả báo do chính Takanashi tự chuốc lấy.
 
-Tóm lại, trong lúc điều khiển 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 càn quét bên ngoài, tôi ở bên trong giống như đang ngồi trong một buồng lái sinh học vậy.
+Tóm lại, trong lúc điều khiển 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 càn quét dữ dội bên ngoài, tôi ở bên trong chẳng khác nào đang ngồi trong một buồng lái sinh học tối tân.
 
-Ban đầu, cơ thể tôi bị bao bọc kín kẽ bởi các thớ thịt, tạo cảm giác như chính mình biến thành quái vật. Nhưng từ khi chuyển sang điều khiển qua tinh linh bóng tối, tôi không cần phải quá chú trọng vào việc điều khiển trực tiếp bằng trực giác nữa. Miễn là nó cử động được là được.
+Ban đầu, cơ thể tôi bị các thớ thịt bọc kín mít, tạo cảm giác như chính bản thân mình biến thành quái vật. Nhưng kể từ khi chuyển giao quyền điều khiển cho tinh linh bóng tối, tôi không cần phải quá gò bó vào việc điều khiển trực tiếp bằng cơ thể nữa. Miễn sao nó cử động trơn tru là được.
 
-Dù độ nhạy khi điều khiển có giảm đi một chút so với việc phản hồi ý chí tức thì, nhưng việc bản thể tôi ở bên trong có thể tự do thi triển chú thuật mang lại nhiều lợi ích hơn hẳn. Để làm được điều đó, điều kiện tối thiểu là phải có đủ không gian để tôi tự tay cầm và giương các cây gậy phép, tiêu biểu là 『Cây Gậy Của Kẻ Ngốc』.
+Dù độ nhạy phản xạ có giảm đi đôi chút so với việc điều khiển trực tiếp bằng ý chí tức thì, nhưng việc bản thể bên trong có thể tự do rảnh tay thi triển chú thuật lại đem đến lợi ích chiến thuật vượt trội hơn gấp bội. Để làm được điều đó, điều kiện tiên quyết là phải có đủ không gian để tôi tự tay cầm nắm và vung vẩy các cây trượng phép, tiêu biểu là 『Cây Gậy Của Kẻ Ngốc』.
 
-Để cố gắng chừa ra không gian buồng lái đó, bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đã được thiết kế to hơn hẳn so với hình dáng ban đầu. Nhưng việc phóng to nó cũng không hề đơn giản, quả là một quá trình điều chỉnh cân bằng đầy gian nan.
+Để chừa ra được khoảng không gian buồng lái đó, bộ 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đã được phóng đại to hơn hẳn so với kích thước gốc ban đầu. Nhưng việc tăng kích thước lên cũng không hề đơn giản, đó là cả một chuỗi tinh chỉnh và cân bằng thể trọng đầy gian nan.
 
-Sau nhiều lần thử nghiệm và thất bại, đây chính là buồng lái sinh học hoàn chỉnh của 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』.
+Sau vô số lần thử nghiệm và thất bại, đây chính là buồng lái sinh học hoàn chỉnh nhất của 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』.
 
-Bên trong khung xương sườn to và dày là một không gian ngập tràn máu thịt, được bao bọc bởi những bức tường cơ bắp đỏ hỏn đang phập phồng đập. Nửa thân dưới của tôi hoàn toàn lún sâu vào trong thịt, chỉ có nửa thân trên là lộ ra trong khoang chứa chật hẹp.
+Bên trong khung xương sườn to bè và dày cộp là một khoảng không gian ngập tràn máu thịt, được che chắn bởi những vách cơ bắp đỏ hỏn đang phập phồng co bóp. Nửa thân dưới của tôi cắm sâu vào trong khối thịt, chỉ có nửa thân trên là lộ ra trong khoang chứa chật hẹp.
 
-Ngay trước mặt tôi là 『Cây Gậy Của Kẻ Ngốc』 được cố định bằng các xúc tu thịt quấn quanh. Tôi nắm chặt cây gậy như một cần điều khiển và bắt đầu kích hoạt chú thuật.
+Ngay trước mắt tôi, 『Cây Gậy Của Kẻ Ngốc』 được cố định vững chắc bởi các sợi xúc tu thịt quấn chặt xung quanh. Tôi nắm chặt lấy thân gậy tựa như nắm lấy cần điều khiển của một cỗ chiến giáp rồi bắt đầu kích hoạt chú thuật.
 
-“Ối!”
+“Ối chà!”
 
-Ngay khi tôi vừa tiêu diệt tên thủ hộ thiên sứ thứ ba, một đòn tấn công bay tới găm thẳng vào người khiến thân hình khổng lồ của thi hài giáp chao đảo.
+Ngay khi tôi vừa đập nát tên thủ hộ thiên sứ thứ ba, một đòn công kích cực mạnh từ xa bay tới găm thẳng vào ngực khiến thân hình hộ pháp của thi hài giáp chao đảo dữ dội.
 
-Sức công phá và chấn động quả không hề nhỏ. Nó thiêu cháy lớp lông dày và khoét đi một mảng thịt nhỏ.
+Sức công phá và xung chấn quả thực không thể xem thường. Nó thiêu rụi lớp lông dày và khoét sâu một mảng thịt lớn.
 
-Tất nhiên tôi không ngu gì cài đặt cơ chế cảm nhận đau đớn cho bộ giáp này. Tuy nhiên, vì cần phải nắm rõ mức độ tổn hại, tôi đã điều chỉnh để bản thân có thể cảm nhận mơ hồ độ sâu của vết thương. Cụ thể thì nó giống như một cảm giác nóng rát âm ỉ.
+Tất nhiên, tôi chẳng dại gì cài đặt cơ chế cảm giác đau đớn cho bộ giáp này. Dẫu vậy, vì cần phải nắm bắt chính xác mức độ tổn hại của khung giáp, tôi đã điều chỉnh để bản thân cảm nhận được một cách mơ hồ độ sâu của vết thương. Cụ thể thì nó truyền đến một cảm giác nóng rát âm ỉ.
 
-*Ra vậy, một gã tanker vác pháo à.*
+*Ra là thế, một gã Tanker vác đại pháo à.*
 
-Kẻ vừa nổ súng là một tên thủ hộ thiên sứ to lớn đang dựng khiên chắn trước mặt Takanashi. Một loại quái nhỏ thuộc hệ tanker điển hình, hay còn gọi là "gã béo".
+Kẻ vừa bóp cò là một tên thủ hộ thiên sứ hộ pháp đang dựng khiên sắt chắn ngay trước mặt Takanashi. Một chủng quái vật phòng ngự điển hình thuộc hệ Tanker, hay nói cách khác là một "gã béo".
 
-Hắn dùng tay trái đỡ chiếc đại khiên hình chữ nhật, tay phải lăm lăm khẩu súng blaster hầm hố trông như súng liên thanh hạng nhẹ cỡ nòng lớn. Đúng vậy, nếu muốn làm lá chắn bảo vệ chủ nhân, việc trang bị một món vũ khí tầm xa có thể xả đạn tại chỗ mà không cần di chuyển là lựa chọn tối ưu nhất rồi.
+Hắn dùng tay trái ghì chặt chiếc đại thuẫn hình chữ nhật, tay phải lăm lăm khẩu súng Blaster hầm hố trông như súng máy liên thanh hạng nhẹ cỡ nòng lớn. Đúng vậy, nếu muốn làm bức tường sống bảo vệ chủ nhân, việc trang bị một khẩu hỏa lực tầm xa có thể xả đạn liên tục tại chỗ mà không cần di chuyển chính là lựa chọn tối ưu nhất.
 
-Đúng như vẻ ngoài của nó, khẩu LMG blaster liên tục gầm rú xả ra những viên đạn ánh sáng cỡ lớn có uy lực vượt trội so với dạng súng trường. Dù tôi có đang khoác trên mình 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đi chăng nữa, nếu bị hứng trọn làn mưa đạn đó thì cũng sẽ bị bắn nát như tổ ong.
+Đúng như vẻ ngoài hung hãn của nó, khẩu LMG Blaster liên tục gầm rú, xả ra một cơn mưa đạn ánh sáng cỡ lớn có uy lực vượt trội hoàn toàn so với loại súng trường thông thường. Cho dù tôi có đang khoác trên mình 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』 đi chăng nữa, nếu hứng trọn toàn bộ làn mưa đạn hủy diệt đó thì cũng sẽ bị bắn nát như tổ ong vò vẽ.
 
-But những lúc thế này mới là lúc tốc độ lên tiếng. Bazuzu của ta không giống lũ béo ú các ngươi đâu!
+Thế nhưng, những lúc thế này mới là thời điểm để tốc độ lên tiếng. Bazuzu của ta đâu có chậm chạp như lũ béo ú các ngươi!
 
-“Vì có lá chắn nên các ngươi không sợ bắn trúng đồng đội à? Nhưng chỉ cần làm vật cản là quá đủ rồi.”
+“Vì có lá chắn che chắn nên các ngươi không sợ bắn trúng đồng đội chứ gì? Nhưng chỉ cần làm bia chắn đường đạn là quá đủ cho ta rồi!”
 
-Tôi tận dụng sức bật của đôi chân để chạy vòng quanh né tránh đường đạn của khẩu LMG. Dù có di chuyển nhanh đến đâu thì với thân hình hiện tại, tôi vẫn là một tấm bia di động khổng lồ. Việc nhắm bắn tôi trong không gian rộng lớn này không phải là điều gì quá khó khăn.
+Tôi tận dụng sức bật khủng khiếp của đôi chân để chạy vòng tròn, liên tục đổi hướng nhằm né tránh tầm đạn quét của khẩu súng máy. Dù có di chuyển linh hoạt đến đâu thì với thể hình đồ sộ này, tôi vẫn là một tấm bia di động khổng lồ. Việc ngắm bắn tôi giữa khoảng sân rộng thênh thang này chẳng phải điều gì quá khó khăn.
 
-Nhưng phòng boss về cơ bản là phải như thế. Và trong tình huống này, việc lợi dụng kẻ địch xung quanh làm vật che chắn để né tránh các đòn tấn công tầm xa cũng là một lối di chuyển cơ bản.
+Thế nhưng, các căn phòng đấu Boss về cơ bản đều vận hành như thế. Và trong tình thế này, việc lợi dụng chính quân địch xung quanh làm vật che chắn để triệt tiêu các đòn tấn công tầm xa cũng là một kỹ năng né tránh cơ bản của game thủ.
 
-Lũ thủ hộ thiên sứ được bảo vệ bởi 『Thánh Thiên Kết Giới』, và phạm vi phòng ngự của nó rộng hơn vẻ bề ngoài rất nhiều. Độ rộng của kết giới đó chính là tấm khiên chắn đạn hoàn hảo cho tôi.
+Lũ thủ hộ thiên sứ được bảo bọc bởi 『Thánh Thiên Kết Giới』, và bán kính phòng ngự của kết giới đó rộng hơn nhiều so với kích thước cơ thể chúng. Độ rộng của khối cầu kết giới đó chính là những tấm khiên chắn đạn hoàn hảo dành cho tôi!
 
-Hơn nữa, lũ thủ hộ thiên sứ ở đây đều đang nhắm vào tôi theo mệnh lệnh của Takanashi. Những tên trang bị kiếm hay thương cận chiến thậm chí còn chủ động lao đến chỗ tôi. Khi có nhiều kẻ địch áp sát chiến đấu cận chiến, chúng vô tình tạo thành một bức tường sống che chắn mọi đường đạn cho tôi.
+Hơn nữa, toàn bộ lũ thủ hộ thiên sứ ở đây đều đang nhắm riết vào tôi theo mệnh lệnh của Takanashi. Những tên trang bị kiếm hay giáo mác cận chiến thậm chí còn điên cuồng áp sát về phía tôi. Khi có cả một đám đông kẻ thù bu quanh đánh xáp lá cà, chúng vô tình tạo thành một bức tường thịt che chắn mọi đường đạn giúp tôi.
 
-“Cảm ơn vì đã bảo vệ tôi nhé. Đây là quà đáp lễ, nhận lấy đi!”
+“Cảm ơn vì đã che chắn cho ta nhé! Đây là quà đáp lễ, nhận lấy đi!”
 
-Tôi đấm vỡ kết giới của tên gần nhất đang vung vẩy thanh kiếm có uy lực quá yếu để có thể đả thương được thi hài giáp. Sau đó, tôi chộp lấy đầu hắn và ném đi bằng sức mạnh kinh hoàng của mình.
+Tôi đấm vỡ toang kết giới của tên gần nhất đang vung vẩy thanh kiếm có uy lực quá muỗi đốt inox để có thể xuyên thủng thi hài giáp. Ngay sau đó, tôi chộp lấy đầu hắn, dùng sức mạnh kinh hoàng quăng mạnh đi như một quả đạn pháo!
 
-Tất nhiên, mục tiêu nhắm tới là vị trí của Takanashi. Chỉ bấy nhiêu đó cũng đủ khiến tên tanker phải ngừng bắn, vội vàng dựng khiên để phòng thủ. Rõ ràng đang sở hữu vũ khí đủ sức gây sát thương mà lại phải dừng tấn công để hộ vệ. Có một chủ nhân vô dụng đúng là khổ cực cho các ngươi quá nhỉ.
+Tất nhiên, đích đến của đường ném chính là vị trí của Takanashi! Chỉ riêng đòn ném đó cũng đủ ép tên Tanker phải ngừng xả đạn, vội vã đưa chiếc đại thuẫn ra đỡ đòn. Rõ ràng đang nắm trong tay vũ khí có hỏa lực gây sát thương cực lớn mà lại buộc phải dừng bắn để hộ giá. Có một con ả chủ nhân vô dụng đúng là làm khổ các ngươi quá nhỉ.
 
-Nhờ cơn mưa đạn ánh sáng đã giảm bớt, tôi có được chút thong thả, thì—
+Nhờ cơn mưa đạn ánh sáng tạm thời lắng xuống, tôi vừa có được một chút thong dong thì—
 
-“Ối chà! Quả nhiên các ngươi là những đấu sĩ tốc độ nhỉ!”
+“Ối chà! Quả nhiên các ngươi là những đấu sĩ chuyên về tốc độ nhỉ!”
 
-Những tên thủ hộ thiên sứ song kiếm lao thẳng về phía tôi với tốc độ cực nhanh. Không phải dưới đất, mà là bay trên không trung.
+Những tên thủ hộ thiên sứ song kiếm lao vút về phía tôi với vận tốc xé gió. Không phải lướt trên mặt đất, mà là bay lượn trên không trung!
 
-Đúng chuẩn thiên sứ, chúng bay lượn trên không trung và tung ra những đường kiếm hoa mỹ. Những thanh kiếm chúng trang bị rõ ràng là hàng cao cấp hơn hẳn so với lũ lính tốt thông thường.
+Đúng chuẩn phong thái thiên sứ, chúng tung cánh liệng trên trời và tung ra những đường kiếm vô cùng hoa mỹ. Những thanh kiếm chúng mang trên tay rõ ràng là hàng cao cấp hơn hẳn vũ khí của lũ lính tốt thông thường.
 
-Lưỡi kiếm phát ra ánh sáng xanh lam nhạt dễ dàng chém rách lớp lông của thi hài giáp. Hơn nữa, mỗi nhát vung kiếm còn phóng ra những lưỡi đao ánh sáng, cho phép chúng tấn công từ xa.
+Lưỡi kiếm phát ra ánh sáng xanh lam nhạt, sắc bén đến mức dễ dàng chém rách lớp lông dày của thi hài giáp. Đã vậy, mỗi đường kiếm vung ra còn phóng thích những lưỡi đao ánh sáng sắc lẹm, cho phép chúng tấn công cấu rỉa từ tầm xa.
 
-“Lại còn chơi trò hit and run nữa... Đúng là chiến thuật quấy rối kinh điển.”
+“Lại còn chơi trò đánh - chạy cấu rỉa nữa cơ đấy... Đúng là cái chiến thuật quấy rối kinh điển đến phát bực.”
 
-Đó là lối di chuyển tận dụng tối đa lợi thế sát thương cao và cơ động tốt. Vì sát thương đã lớn nên chúng không cần phải cố gắng gia tăng số lần tấn công làm gì. Chỉ cần tận dụng tốc độ, liên tục bay lượn để không bị đối phương bắt được, chúng có thể giảm thiểu sát thương nhận vào về con số không.
+Đó là phong cách chiến đấu tận dụng triệt để ưu thế sát thương cao cùng độ cơ động vượt trội. Vì lượng sát thương gây ra đã đủ lớn, chúng không cần phải mạo hiểm gia tăng tần suất tấn công làm gì. Chỉ cần phát huy tối đa tốc độ, liên tục lượn vòng trên không để đối phương không thể chạm tới, chúng có thể triệt tiêu hoàn toàn nguy cơ nhận sát thương phản công về con số không.
 
-Khả năng không chiến cơ động của tên này quả thực là một bất lợi lớn đối với một kẻ chỉ chạy trên mặt đất như Bazuzu. Chỉ với vài cú nhảy lên tấn công của tôi, hắn đã dễ dàng né tránh được.
+Khả năng không chiến cơ động của tên này thực sự là một bất lợi cực lớn đối với một kẻ chỉ biết chạy nhảy dưới mặt đất như Bazuzu. Vài cú bật nhảy vồ bắt của tôi đều bị hắn dễ dàng lộn nhào né tránh.
 
-Kẻ bị nhắm vào vừa giữ khoảng cách vừa liên tục phóng ra các nhát chém ánh sáng để rỉa máu tôi. Và rồi, loạt súng từ tên tanker cùng lũ thiên sứ thường lại tiếp tục nổ súng.
+Tên thiên sứ vừa duy trì cự ly an toàn, vừa liên tục phóng ra các nhát chém ánh sáng để rỉa từng mảng máu của tôi. Cùng lúc đó, làn mưa đạn từ tên Tanker cùng lũ thiên sứ tầm xa lại tiếp tục gầm rú nã tới tấp.
 
-Không ổn, lượng sát thương nhận vào quá nhiều. Cứ đà này thì tôi sẽ bị bào mòn đến chết mất.
+Không ổn chút nào, lượng sát thương dồn vào cơ thể đang tăng lên quá nhanh. Cứ duy trì thế trận này thì tôi sẽ bị bào mòn thể lực cho đến chết mất.
 
-“Nhưng tôi của hiện tại là một con boss hãm lờ, nên tôi cũng biết tự hồi máu đấy—Bùng cháy đi, 『Nhục Thể Hoạt Tính』!”
+“Nhưng ta của hiện tại là một con Boss cực kỳ khốn nạn, nên ta cũng biết tự hồi máu đấy nhé—Bùng cháy lên, 『Nhục Thể Hoạt Tính』!”
 
-Võ kỹ mà Bazuzu từng rèn luyện được kích hoạt.
+Võ kỹ mà Bazuzu từng dày công tôi luyện lập tức được kích hoạt!
 
-Toàn thân tôi được bao phủ bởi một luồng hào quang ma lực màu đỏ nhạt như đang bốc cháy, cơ bắp khắp người co bóp mạnh mẽ... và những vết thương vừa bị khoét sâu bắt đầu được lấp đầy bởi các thớ thịt đang uốn lượn như sóng.
+Toàn thân tôi bùng lên một làn hào quang ma lực màu đỏ nhạt hệt như ngọn lửa đang bốc cháy. Cơ bắp khắp cơ thể co bóp dữ dội... và rồi, những vết thương vừa bị khoét sâu hoắm bắt đầu được lấp đầy bởi các thớ thịt đang cuộn trào uốn lượn như sóng biển.
 
-Việc kỹ năng ẩn chứa trong đầu lâu không chỉ giới hạn ở những kẻ có thiên chức. Nếu chỉ là một con quái nhỏ thông thường thì chắc chắn sẽ chẳng có gì, nhưng Bazuzu là một con boss thực thụ, một trong những Gira-GoGame Mastera tinh nhuệ nhất của vương quốc Goma vinh quang.
+Năng lực ẩn chứa bên trong đầu lâu vốn không chỉ giới hạn ở những cá nhân sở hữu Thiên Chức. Nếu chỉ là một con quái vật hạ đẳng thông thường thì chắc chắn sẽ chẳng thu được gì, nhưng Bazuzu lại là một con Boss thực thụ, một trong những Đại Chiến Sĩ Goma tinh nhuệ nhất của Vương quốc Goma vinh quang thuở nào.
 
-Trong đầu lâu của Bazuzu ẩn chứa những võ kỹ đã được rèn giũa đến mức thấm sâu vào tận xương tủy của hắn.
+Trong hộp sọ của Bazuzu khắc ghi những võ kỹ đã được trui rèn đến mức ăn sâu vào từng tủy xương của hắn.
 
-Võ kỹ hồi phục sử dụng ma lực thuộc tính Hỏa để tái tạo cơ thể, 『Nhục Thể Hoạt Tính』, chính là một trong số đó.
+Và võ kỹ phục hồi sử dụng ma lực hệ Hỏa để tái sinh tế bào, 『Nhục Thể Hoạt Tính』, chính là một trong số những tuyệt kỹ ấy!
 
-Ôi trời, đấu với boss biết hồi máu đúng là nản lòng thực sự. Đã sở hữu lượng HP khổng lồ rồi mà còn tự hồi phục... đó đơn giản là một hành vi cực kỳ hãm, vứt bỏ mọi nỗ lực và thời gian của người chơi xuống sông xuống biển.
+Ôi trời, đối đầu với một con Boss biết tự hồi phục đúng là một trải nghiệm nản lòng tột độ. Đã sở hữu lượng máu dày cộp như bức tường thép rồi mà còn có thể tự hồi máu... đó đơn giản là một hành vi cực kỳ bẩn thựa, vứt bỏ toàn bộ mồ hôi công sức và thời gian của người chơi xuống sông xuống biển.
 
-Thế nào hả Takanashi, chiêu hồi máu của boss thấm thía chứ?
+Thế nào hả Takanashi, nếm trải chiêu tự hồi máu của Boss có thấy cay cú không?
 
-“Sức sống dai dẳng như gián vậy... Thế thì băm vằn mày ra cho đến chết mới thôi!”
+“Cái thứ dai dẳng như gián bọ nhà mày...! Thế thì tao sẽ băm vằn mày ra thành trăm mảnh cho đến chết mới thôi!”
 
-Ồ, Takanashi thấy chiến thuật đó có hiệu quả nên lại tung thêm lũ song kiếm ra nữa à.
+Ồ, Takanashi thấy chiến thuật đó đem lại hiệu quả nên lại xua thêm một toán song kiếm nữa xông lên à.
 
-Không biết cô ta có thể gọi ra bao nhiêu viện binh nữa đây. Nhưng chắc chắn không thể là vô hạn. Nó chỉ giới hạn trong số lượng thiên sứ đã chuẩn bị sẵn, hoặc phải tiêu tốn một nguồn tài nguyên nào đó như ma lực. Chắc chắn sẽ có giới hạn, và giới hạn đó cũng không quá cao đâu.
+Chẳng rõ cô ta còn có thể triệu hồi thêm bao nhiêu viện binh nữa đây. Nhưng chắc chắn con số đó không thể là vô hạn. Nó chỉ giới hạn trong lượng thiên sứ đã được chuẩn bị sẵn, hoặc phải tiêu tốn một nguồn tài nguyên khổng lồ nào đó như ma lực. Ranh giới chắc chắn phải tồn tại, và cái hạn mức đó cũng chẳng cao đến mức vô tận đâu.
 
-Nếu không thì cô ta đã chẳng cần dùng đến lũ rối ma pháp yếu ớt kia, mà cứ việc dùng toàn thiên sứ cho rồi.
+Bằng không thì cô ta đã chẳng cần phải dùng đến lũ búp bê ma pháp yếu ớt lúc nãy làm gì, mà cứ việc thả toàn bộ đám thiên sứ này ra càn quét cho xong chuyện.
 
-*Dùng hỏa lực để đè bẹp khả năng hồi phục à. Đúng là một câu trả lời đơn giản mang phong cách của cậu.*
+*Dùng hỏa lực áp đảo để đè bẹp khả năng hồi phục à. Đúng là một câu trả lời đơn giản mang đậm phong cách của cô ta.*
 
-Nhưng không tệ. Chính vì đơn giản nên nó mới dẫn đến kết quả trực tiếp nhất.
+Nhưng cũng không tồi chút nào. Chính vì nó đơn giản nên mới mang lại kết quả trực diện nhất.
 
-Thế nhưng, đó chỉ là trong trường hợp mọi chuyện diễn ra đúng như cô ta dự tính mà thôi.
+Thế nhưng, tính toán đó chỉ đúng trong trường hợp mọi diễn biến trên sân đều nằm trong tầm kiểm soát của cô ta mà thôi!
 
-“Lũ ruồi nhặng bắt chước phái Kenzaki chỉ biết bay vo ve kia, làm sao ta không bắn hạ được chứ!”
+“Lũ ruồi nhặng bắt chước kiếm phái Kenzaki chỉ biết vo ve trên trời kia, các ngươi nghĩ ta không có cách bắn hạ sao?!”
 
-Trước khi lũ song kiếm mới kịp hợp quân, tôi lại nhảy vọt lên không trung, áp sát tên gần nhất đang bay lượn.
+Trước khi đám song kiếm mới kịp hội quân với nhau, tôi lại một lần nữa dậm chân phóng vút lên không trung, áp sát tên thiên sứ đang bay lượn gần mình nhất.
 
-Tất nhiên, hắn nhận ra tôi đang tiếp cận nên nhanh chóng lộn người để thoát khỏi tầm đánh, nhưng—
+Tất nhiên, hắn lập tức nhận ra tôi đang lao tới nên vội vã lộn nhào hòng thoát khỏi tầm với của tôi, thế nhưng—
 
-“Nghĩ mà thoát được sao. Trói chặt lấy hắn đi, Yokomichi—『Bách Thủ Phược』!”
+“Tưởng thoát được mà dễ à?! Trói chặt hắn lại cho tao, Yokomichi—『Bách Thủ Phược』!”
 
-Bên trong thi hài giáp, cây gậy 『Vô Đạo Nhất Thức』 tôi đang nắm chặt giải phóng 『Hệ Biến Thái Hoàn Toàn』.
+Từ sâu bên trong thi hài giáp, cây trượng 『Vô Đạo Nhất Thức』 mà tôi đang siết chặt lập tức giải phóng năng lực 『Hệ Biến Thái Hoàn Toàn』!
 
-Nó xuyên qua thi hài giáp và hiện hình trên bề mặt cơ thể. Nhìn từ bên ngoài, trông giống như một chiếc xúc tu khổng lồ đột ngột lao ra từ trước ngực tôi vậy.
+Thuật thức xuyên thủng lớp giáp thịt, hiển hiện trồi lên bề mặt cơ thể. Nhìn từ bên ngoài, nó chẳng khác nào một chiếc xúc tu khổng lồ đột ngột phá lồng ngực tôi lao vụt ra ngoài.
 
-Kỹ năng khống chế đầu tiên tôi sáng tạo ra là 『Bách Thủ Phược』, giờ đây biến thành một chiếc xúc tu gớm ghiếc mọc chi chít các loại cánh tay như một con rết khổng lồ, lao đi săn đuổi tên thiên sứ đang bỏ chạy.
+Kỹ năng khống chế đầu tiên mà tôi tự tay sáng chế là 『Bách Thủ Phược』, nay đã biến tướng thành một chiếc xúc tu gớm ghiếc mọc chi chít hàng trăm cánh tay dị dạng tựa như một con rết khổng lồ, điên cuồng săn đuổi theo bóng dáng tên thiên sứ đang hốt hoảng tháo chạy!
 
-“Bắt được rồi.”
+“Tóm được mày rồi nhé!”
 
-『Bách Thủ Phược』 quấn chặt lấy cả 『Thánh Thiên Kết Giới』 đang triển khai của hắn, thô bạo kéo tuột hắn từ trên không xuống đất.
+『Bách Thủ Phược』 siết chặt lấy toàn bộ khối 『Thánh Thiên Kết Giới』 đang mở rộng của hắn, thô bạo lôi tuột hắn từ trên không trung nện thẳng xuống mặt đất.
 
-Dù cú đập xuống sàn chưa đủ để làm vỡ kết giới, tôi vẫn phớt lờ vài phát đạn bắn trúng mà áp sát. Một kẻ thuộc hệ cơ động cao mà bị giữ chân thì số phận coi như đã định đoạt bằng một chuỗi combo.
+Dù cú va đập kinh hoàng xuống sàn đá vẫn chưa đủ để làm vỡ toang kết giới, tôi vẫn mặc kệ vài phát đạn bắn rát trên người mà lập tức áp sát. Một mục tiêu thuộc hệ cơ động cao mà một khi đã bị khóa cứng chân, số phận coi như đã được định đoạt bằng một chuỗi combo tiễn vong.
 
-Ngay khi tôi vừa tung liên hoàn đòn kết liễu tên song kiếm đó, tên song kiếm còn lại nhận thấy sơ hở lớn liền lao thẳng tới.
+Ngay khi tôi vừa tung liên hoàn quyền đập nát bấy tên song kiếm đó, tên song kiếm còn lại phát hiện sơ hở sau cú đánh liền lập tức bổ nhào xuống tấn công.
 
-Tôi lại phóng 『Bách Thủ Phược』 ra một lần nữa, nhưng hắn như muốn nói "chiêu này đã thấy rồi thì không có tác dụng đâu", liền thực hiện một cú nhào lộn xoay vòng hoa mỹ để né tránh, thì—
+Tôi lại phóng 『Bách Thủ Phược』 ra thêm một lần nữa, nhưng hắn như muốn chế giễu "chiêu này đã thấy một lần thì đừng hòng có tác dụng", liền thực hiện một cú xoay người nhào lộn tuyệt mỹ trên không để né tránh, thế nhưng—
 
 “—『Thiểm Quang Bạch Thỉ』!”
 
-Ma pháp tấn công hệ Quang cấp cao do Sakura phóng ra đã bắn trúng đích.
+Ma pháp công kích hệ Quang cấp cao do Sakura phóng thích đã bắn trúng đích với độ chuẩn xác tuyệt đối!
 
-Khi cô ấy tập trung hỗ trợ từ phía sau, việc bắn tỉa cỡ này chỉ là chuyện nhỏ. Nếu không có năng lực đến mức đó, tôi đã chẳng ép cô ấy phải đứng ở tiền tuyến làm gì.
+Một khi cô ấy đã chuyên tâm lùi về sau để giữ vai trò xạ thủ yểm trợ, thì những pha bắn tỉa chuẩn xác cỡ này chỉ là chuyện trong lòng bàn tay. Nếu không có thực lực đến mức độ ấy, tôi đã chẳng ép cô ấy phải bước chân lên chiến trường sinh tử này làm gì.
 
-“Rồi, bắt được nhé.”
+“Rồi, thế là tóm gọn nhé.”
 
-Dù tên song kiếm đã dùng kết giới đỡ được đòn đánh của Sakura, nhưng cú va chạm khiến hắn mất thăng bằng và giảm tốc độ. Việc dùng 『Bách Thủ Phược』 tóm gọn hắn lúc này trở nên vô cùng dễ dàng.
+Cho dù tên song kiếm đã kịp dùng kết giới để cản lại mũi tên ánh sáng của Sakura, nhưng lực xung kích dữ dội vẫn khiến hắn mất thăng bằng và khựng lại trên không. Việc dùng 『Bách Thủ Phược』 tóm gọn lấy hắn vào lúc này trở nên dễ như trở bàn tay.
 
-Việc còn lại chỉ là xử lý tương tự. Có đủ sức mạnh để kết liễu kẻ địch đúng là nhàn nhã thật.
+Phần việc còn lại chỉ đơn giản là lặp lại quy trình hủy diệt vừa rồi. Có đủ sức mạnh vượt trội để nghiền nát kẻ thù quả thực nhàn hạ biết bao.
 
-“Nếu vẫn còn bài tẩy thì mau tung ra đi. Chỉ bấy nhiêu đây thì không ngăn nổi bọn tôi đâu, Takanashi—”
+“Nếu vẫn còn bài tẩy giấu kín thì mau lôi hết ra đây xem nào. Chỉ bằng chừng này trò mèo thì đừng hòng ngăn nổi bước chân của chúng tôi, hỡi Takanashi—”
 
-Bên đang nắm thế chủ động tấn công là chúng tôi. Nếu cô ta không còn chiêu trò gì khác, tôi sẽ dọn sạch lũ thiên sứ phiền phức này rồi tiến đến đập thẳng vào mặt cô ta.
+Bên đang nắm giữ quyền chủ động tấn công hoàn toàn là chúng tôi. Nếu cô ta không còn chiêu trò nào quái đản hơn nữa, tôi sẽ nhanh chóng dọn sạch đám thiên sứ vướng víu này, rồi tiến thẳng tới nện nắm đấm thẳng vào bản mặt giả tạo của cô ta!

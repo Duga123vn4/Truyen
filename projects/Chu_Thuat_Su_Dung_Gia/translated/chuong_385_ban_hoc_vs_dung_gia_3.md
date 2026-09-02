@@ -1,207 +1,207 @@
 # Tập 385: Bạn học VS Dũng Giả (3)
 
-“— Chúng ta sẽ dùng Reina A. Ayase làm mồi nhử.”
+“— Chúng ta sẽ dùng Reina Adelheid Ayase làm mồi nhử.”
 
-Tại pháo đài ẩn, trong cuộc họp của ban cố vấn gồm ba người là cậu Tendou, Lớp trưởng và Sakura để bàn về kế hoạch bắt giữ Dũng Giả, tôi đã mở lời như thế.
+Tại pháo đài ẩn, trong cuộc họp kín của ban tham mưu gồm bốn người — tôi, Tendou, Lớp trưởng và Sakura — nhằm vạch ra kế hoạch bắt sống Dũng Giả, tôi đã mở lời như thế.
 
-“Hiện tại, Rem đã có thể tạo ra một cơ thể mô phỏng con người một cách tinh xảo, thậm chí còn có thể nói năng lưu loát và diễn kịch nữa.”
+“Hiện tại, Rem đã có thể tạo ra một cơ thể mô phỏng con người vô cùng tinh xảo, thậm chí còn nói năng lưu loát và diễn kịch được nữa.”
 
-Phải, giống như lúc chúng tôi lừa tên Yokomichi vậy. Một khi Rem đã dốc toàn lực để bắt chước, việc nhìn thấu được chân tướng của nó là điều vô cùng nan giải.
+Phải, hệt như lúc chúng tôi gài bẫy tên Yokomichi. Một khi Rem đã dốc toàn lực để bắt chước, việc nhìn thấu chân tướng của con bé là điều vô cùng nan giải.
 
-“Dĩ nhiên, Reina đã chết rồi. Chính mắt cậu Souma đã chứng kiến cảnh tôi giết cô ta, thế nên cậu ta sẽ không bị lừa đâu. Cậu ta sẽ nhận ra đó là đồ giả ngay lập tức.”
+“Dĩ nhiên, Reina đã chết rồi. Chính mắt Souma đã chứng kiến cảnh tôi hạ sát cô ta, thế nên cậu ta sẽ không bị đánh lừa đâu. Cậu ta sẽ nhận ra đó là đồ giả ngay lập tức.”
 
-Điều đó thì tôi thừa hiểu. Dù Souma Yuuto là kẻ rất dễ tin vào những hy vọng viển vông có lợi cho mình, nhưng dù thế nào đi nữa, cậu ta cũng không ngốc đến mức nghĩ rằng Reina thực sự còn sống.
+Điều đó thì tôi thừa hiểu. Dù Souma Yuuto là kẻ rất dễ bấu víu vào những niềm hy vọng viển vông có lợi cho bản thân, nhưng cậu ta tuyệt đối không ngốc đến mức tin rằng Reina thực sự còn sống trên cõi đời này.
 
-Cậu ta sẽ lập tức nhận ra rằng thứ này chỉ là một con rối giả tạo do tên chú thuật sư đê tiện Momokawa Kotarou bày ra để làm lung lạc tâm trí mình.
+Cậu ta sẽ lập tức nhận ra đây chỉ là một con rối giả tạo do tên chú thuật sư đê tiện Momokawa Kotarou bày ra để làm lung lạc tâm trí mình.
 
-“Thế nhưng, ngay khoảnh khắc nhìn thấy Reina, chuyển động của cậu ta chắc chắn sẽ khựng lại. Cho dù đó là ngay trước lúc cậu ta định bộc phát một siêu tất sát kỹ khủng khiếp nào đó khi sức mạnh Dũng Giả thức tỉnh đi chăng nữa.”
+“Thế nhưng, ngay khoảnh khắc nhìn thấy Reina, hành động của cậu ta chắc chắn sẽ khựng lại. Dù đó có là ngay trước thời điểm cậu ta chuẩn bị tung ra một tuyệt kỹ hủy diệt khủng khiếp khi sức mạnh Dũng Giả thức tỉnh đi chăng nữa.”
 
-Sự chấn động trong một tích tắc khi Reina giống hệt bản gốc xuất hiện mới là điều quan trọng. Thế là đủ, chỉ cần thế là đủ rồi. Việc nắm giữ một phương án có thể chắc chắn khóa chặt hành động của Dũng Giả vào phút chót là một điều vô cùng có giá trị.
+Sự chấn động trong một tích tắc khi một Reina giống hệt bản gốc bằng xương bằng thịt xuất hiện mới là cốt lõi của vấn đề. Thế là đủ, chỉ cần chừng đó là quá đủ rồi. Việc nắm trong tay một con bài tẩy chắc chắn có thể phong tỏa hành động của Dũng Giả vào phút chót là một lợi thế vô giá.
 
-“Và trên hết, cậu Souma sẽ không thể xuống tay chém Reina. Dù cho cậu ta biết thừa đó là đồ giả.”
+“Và trên hết, Souma sẽ không bao giờ có thể xuống tay chém Reina. Cho dù cậu ta biết tỏng đó là đồ giả.”
 
-Bởi vì cậu ta là Dũng Giả. Hay phải nói là, chính vì là Dũng Giả nên mới thế.
+Bởi vì cậu ta là Dũng Giả. Hay đúng hơn, chính vì mang danh Dũng Giả nên mới thế.
 
-Souma Yuuto, cậu là một kẻ vô cùng cảm tính và nhạy cảm. Cậu rất ngây thơ. Những chuyện thế này, cậu chắc chắn sẽ bận tâm.
+Souma Yuuto, cậu là một kẻ sống quá thiên về cảm tính và cực kỳ nhạy cảm. Cậu quá đỗi ngây thơ. Những chuyện thế này, cậu nhất định sẽ bận lòng.
 
-Làm sao cậu có thể tự tay xát muối vào vết thương lòng từ việc mất đi cô bạn thanh mai trúc mã yêu quý của mình được chứ?
+Làm sao cậu có thể tự tay xát thêm muối vào vết thương lòng rỉ máu từ cái chết của cô bạn thanh mai trúc mã yêu quý được chứ?
 
 “— Ý kiến của mọi người thế nào?”
 
-Khi tôi trình bày một cách vô cùng dễ hiểu như vậy, đúng như dự đoán, chỉ có mỗi Sakura là nổi điên lên và kịch liệt phản đối... nhưng cuối cùng, tôi vẫn ép cô ta phải chấp nhận đề xuất này.
+Khi tôi trình bày mạch lạc từng luận điểm, đúng như dự đoán, chỉ có mỗi Sakura là giận dữ đến phát điên và kịch liệt phản đối... nhưng cuối cùng, tôi vẫn ép cô ta phải chấp thuận đề xuất này.
 
-Cậu Tendou và Lớp trưởng đã lập tức hiểu được tính hiệu quả của nó. Thực ra, ngay cả Sakura cũng chắc chắn tin rằng kế hoạch này sẽ thành công. Chỉ là lòng kiêu hãnh không cho phép cô ta thừa nhận điều đó một cách thẳng thắn mà thôi. Vẫn là sự bướng bỉnh như mọi khi nhỉ.
+Tendou và Lớp trưởng đã lập tức nhìn ra tính hiệu quả thực chiến của nó. Thực chất, ngay cả bản thân Sakura cũng tin chắc kế hoạch này sẽ thành công. Chỉ là lòng tự ái không cho phép cô ta thẳng thắn thừa nhận điều đó mà thôi. Vẫn là cái thói bướng bỉnh khó ưa như mọi khi.
 
-“Vậy thì, nhờ em trông nom Rem nhé, Sakura-chan.”
+“Vậy thì, nhờ cậu trông nom và rèn giũa Rem nhé, Sakura-chan.”
 
-“Hầy... đành chịu vậy. Em biết rồi.”
+“Hầy... đành chịu vậy. Tôi biết rồi.”
 
-Sau nhiều lần thuyết phục, tôi đã thành công trong việc giao Rem cho Sakura.
+Sau nhiều hồi thuyết phục, tôi đã thành công trong việc gửi gắm Rem cho Sakura.
 
-Tôi đã nhờ Sakura chỉ dẫn diễn xuất cho Rem để biến nó thành một Reina hoàn hảo.
+Tôi nhờ Sakura đích thân chỉ dẫn diễn xuất cho Rem để biến con bé thành một Reina hoàn hảo không tì vết.
 
-Dù sao cô ta cũng là thanh mai trúc mã của Reina. Nếu người anh trai Souma Yuuto là thanh mai trúc mã, thì cô em gái bám đuôi từ khi mới lọt lòng đương nhiên cũng có mối quan hệ tương tự. Mặc dù đối với cô ta, Reina có lẽ chỉ là một sự tồn tại ngứa mắt luôn quấn lấy người anh trai yêu quý.
+Dù sao cô ta cũng là thanh mai trúc mã lớn lên cùng Reina. Nếu người anh trai Souma Yuuto là thanh mai trúc mã, thì cô em gái bám đuôi từ thuở lọt lòng đương nhiên cũng có mối quan hệ sâu sắc chẳng kém. Mặc dù đối với cô ta, Reina có lẽ chỉ là một cái gai trong mắt luôn quấn lấy người anh trai yêu quý.
 
-Dù trong lòng có nghĩ thế nào đi nữa, thì trong số những người ở đây, không ai hiểu rõ về cô gái mang tên Reina A. Ayase hơn Sakura. Từ lời nói, cử chỉ cho đến bầu không khí của Reina. Khi gặp tình huống này thì cô ta sẽ làm vẻ mặt gì, có hành động ra sao.
+Dù trong thâm tâm có nghĩ thế nào đi nữa, thì trong số những kẻ ở đây, không ai hiểu rõ về cô gái mang tên Reina Adelheid Ayase hơn Sakura. Từ khẩu khí, cử chỉ cho đến khí chất toát ra từ Reina. Rằng khi rơi vào tình huống này thì cô ta sẽ làm ra vẻ mặt gì, phản ứng ra sao.
 
-Sakura luôn ở bên cạnh Souma Yuuto. Nếu vậy, hình ảnh Reina trong mắt Souma Yuuto và hình ảnh Reina trong ký ức của Sakura sẽ trùng khớp với nhau. Hình bóng Reina trong trí nhớ của Sakura sẽ trở thành hình bóng chân thực nhất của Reina đối với Souma Yuuto.
+Sakura luôn dõi theo Souma Yuuto. Nếu vậy, hình ảnh Reina trong mắt Souma Yuuto và hình ảnh Reina trong miền ký ức của Sakura sẽ hoàn toàn trùng khớp. Hình bóng Reina trong tâm trí Sakura sẽ trở thành bản thể chân thực nhất của Reina đối với Souma Yuuto.
 
-Trong kế hoạch tạo ra Reina giả để lừa Souma Yuuto, không ai thích hợp làm đạo diễn chỉ đạo diễn xuất hơn Sakura.
+Trong kế hoạch tạo ra một Reina ngụy trang để đánh lừa Souma Yuuto, không ai thích hợp ngồi vào chiếc ghế đạo diễn chỉ đạo diễn xuất hơn Sakura.
 
-Thế là tôi để bé gái Rem đi theo Sakura, để hai đứa ở bên nhau suốt ngày đêm. Dĩ nhiên, họ cũng dành ra những khoảng thời gian nghiêm túc để luyện tập và học lý thuyết về cách hóa thân thành Reina.
+Thế là tôi để bé gái Rem đi theo Sakura, để hai đứa kề cận nhau suốt ngày đêm. Dĩ nhiên, bọn họ cũng dành ra những khoảng thời gian nghiêm túc để huấn luyện thực hành lẫn lý thuyết về cách nhập vai thành Reina.
 
-Khi nhìn thấy những bức ảnh của Reina còn lưu lại trong điện thoại của Sakura, ngay cả tôi cũng cảm thấy có chút bùi ngùi. *Ồ, hóa ra chính tay mình đã giết chết cô gái đang nở nụ cười ngây thơ thuần khiết này sao.* Chính vì sự thuần khiết đó mà cô ta thậm chí còn không nhận ra ác ý của bản thân và dẫn dắt đồng đội đến chỗ diệt vong, con nhóc ranh đó đã bị tôi kết liễu.
+Khi nhìn những tấm ảnh của Reina còn lưu lại trong chiếc điện thoại nắp gập của Sakura, ngay cả tôi cũng dâng lên đôi chút bùi ngùi. *Ồ, hóa ra chính tay mình đã kết liễu cô gái đang nở nụ cười rạng rỡ, thuần khiết này sao.* Chính vì sự ngây thơ mù quáng đó mà cô ta thậm chí còn không nhận thức được ác ý của bản thân, gián tiếp đẩy đồng đội vào chỗ chết, và con nhóc ranh ấy đã bị tôi thanh trừng.
 
-Reina là một đối thủ đáng gờm. Đến tận phút cuối cùng, cô ta vẫn kịp gieo rắc một mối nhân duyên khiến Souma Yuuto phải căm ghét tôi đến muôn đời muôn kiếp... nhưng lần này, à không, lần này mới là lượt tôi lợi dụng cô đấy.
+Reina quả thực là một đối thủ đáng gờm. Đến tận hơi thở cuối cùng, cô ta vẫn kịp gieo rắc một mối nghiệt duyên khiến Souma Yuuto phải căm hận tôi thấu tận xương tủy... nhưng lần này, à không, lần này mới chính là lượt tôi biến cô thành bàn đạp đây.
 
 “— Yuu-kun.”
 
-Mái tóc song tuấn màu vàng kim rực rỡ đung đưa. Đôi mắt xanh tròn xoe lấp lánh như hai viên sapphire cỡ lớn, làm nổi bật vẻ đẹp ngây thơ đầy cuốn hút.
+Mái tóc buộc hai bên màu vàng kim rực rỡ đung đưa khẽ khàng. Đôi mắt tròn xoe biếc xanh lấp lánh như hai viên sapphire thượng hạng, tôn lên nét đẹp ngây thơ, trong sáng đầy mê hoặc.
 
-Một cơ thể nhỏ nhắn. Một thiếu nữ xinh đẹp, mảnh mai và nhỏ bé khiến người ta chỉ muốn chở che.
+Một vóc dáng nhỏ nhắn. Một thiếu nữ mong manh, xinh đẹp khiến bất cứ ai nhìn vào cũng dấy lên khát khao chở che.
 
-Ngay lúc này, Reina A. Ayase của những ngày xưa cũ đã xuất hiện với dáng vẻ hoàn hảo đúng như những gì còn lưu giữ trong ký ức của Souma Yuuto.
+Ngay lúc này, một Reina Adelheid Ayase của những năm tháng xưa cũ đã hiện diện với dáng vẻ hoàn mỹ hệt như những gì còn in đậm trong ký ức của Souma Yuuto.
 
 “Re... Reina...”
 
-Quả nhiên, hiệu quả vô cùng vượt trội.
+Quả nhiên, hiệu quả chuẩn xác đến từng milimét.
 
-Dù là ngay trong khoảnh khắc chuẩn bị bộc phát sức mạnh Dũng Giả để giáng xuống một siêu tất sát kỹ khủng khiếp, Souma Yuuto vẫn dừng tay lại.
+Dù đang trong tích tắc chuẩn bị bộc phát sức mạnh Dũng Giả để giáng xuống một siêu kiếm kỹ hủy diệt kinh hoàng, Souma Yuuto vẫn bất giác khựng tay lại.
 
-*Cắn câu rồi, đồ ngốc.*
+*Cắn câu rồi, đồ ngu.*
 
-Tôi suýt chút nữa đã thốt thành lời. Không ngờ cậu ta lại trúng kế thật.
+Suýt chút nữa tôi đã bật cười thành tiếng. Không ngờ cậu ta lại sập bẫy dễ dàng đến thế.
 
-Thế nhưng, việc kế hoạch này thành công không chỉ đơn giản là vì sự khờ khạo của Souma Yuuto. Dù đây là một kế hoạch không chắc chắn dựa trên việc lợi dụng những cảm xúc ủy mị rẻ tiền, nhưng tất cả mọi người đã dốc hết sức lực để biến nó thành hiện thực.
+Thế nhưng, việc kế hoạch này thành công mỹ mãn không chỉ đơn thuần bắt nguồn từ sự mềm lòng khờ khạo của Souma Yuuto. Dù đây là một canh bạc mạo hiểm dựa trên việc khai thác những cảm xúc ủy mị rẻ tiền, nhưng tất cả mọi người trong chúng tôi đã dốc cạn tâm can để biến nó thành một màn dàn dựng hoàn hảo.
 
-Giải nữ diễn viên chính xuất sắc nhất thuộc về Rem trong vai Reina. Giải đạo diễn xuất sắc nhất thuộc về Sakura với sự chỉ đạo diễn xuất nhiệt tình.
+Giải nữ diễn viên chính xuất sắc nhất thuộc về Rem trong vai Reina. Giải đạo diễn xuất sắc nhất thuộc về Sakura với sự chỉ đạo diễn xuất đầy tâm huyết.
 
-Thế nhưng, người đóng vai trò hậu cần không thể thiếu để tạo nên sân khấu tuyệt vời này chính là Lớp trưởng.
+Thế nhưng, người đóng vai trò hậu cần then chốt để kiến tạo nên sân khấu tuyệt vời này chính là Lớp trưởng.
 
-Sau khi giao Rem cho Sakura tại cuộc họp ban cố vấn, tôi đã nhờ Lớp trưởng một việc.
+Sau khi bàn giao Rem cho Sakura tại cuộc họp tham mưu, tôi đã nhờ Lớp trưởng một việc tối mật.
 
-“Tôi muốn cậu học kỹ năng `『Huyễn Ảnh Băng Tượng』`.”
+“Tôi muốn cậu học kỹ năng 『Huyễn Ảnh Băng Tượng』.”
 
-Đó là một loại ma pháp hệ Băng. Nó là ma pháp tạo ra ảo ảnh, được kích hoạt kết hợp với một ma pháp hạ cấp giống như màn sương băng giá gọi là `『Băng Vụ』`.
+Đó là một nhánh ma pháp hệ Băng cao cấp. Ma pháp tạo ảo ảnh thị giác này chỉ có thể được kích hoạt khi kết hợp cùng thuật thức che mắt mang tên 『Băng Vụ』.
 
-Dù chuyện đó giờ đây cảm giác như đã trôi qua từ rất lâu rồi... nhưng khi lần đầu tiên chạm trán Yokomichi trong hầm ngục này, tên đó đã tự phụ kể về năng lực của mình, và hắn đã học được `『Băng Vụ』` cùng `『Huyễn Ảnh Băng Tượng』` từ việc ăn thịt Nagae, thậm chí còn biểu diễn cho tôi xem.
+Dù chuyện đó giờ đây ngỡ như đã trôi qua từ thuở nào... nhưng khi lần đầu chạm trán Yokomichi dưới đáy mê cung, tên quái vật ấy đã huênh hoang khoe khoang về năng lực của mình. Hắn đã nuốt chửng Nagae để chiếm đoạt 『Băng Vụ』 cùng 『Huyễn Ảnh Băng Tượng』, thậm chí còn phô diễn ngay trước mắt tôi.
 
-Theo lời Yokomichi, Nagae đã dùng hai kỹ năng này để triệt để né tránh các trận chiến với ma vật mà tiến lên. Dựa vào tính cách của cô bạn mà tôi nhớ, điều đó chắc chắn là sự thật.
+Theo lời Yokomichi, Nagae đã tận dụng triệt để hai kỹ năng này để lẩn tránh giao tranh với ma vật trong suốt hành trình sinh tồn. Dựa vào tính cách khép kín của cô bạn cùng lớp mà tôi từng biết, điều đó hoàn toàn là sự thật.
 
-Nhưng đáng tiếc, hay phải nói là bất hạnh, Nagae Yukiko là nữ sinh duy nhất trong lớp tham gia CLB Văn học cùng tôi. Cô ấy là một cô gái trầm tính, mờ nhạt, nhưng thực chất lại là một mỹ nhân ngầm đúng gu của mấy đứa hướng nội. Thế nhưng, cô ấy lại hẹn hò với tên DQN rác rưởi nhất lớp là Higuchi, một sự tồn tại giống như quả mìn cực đại mang theo kỹ năng phá hủy tâm trí người khác.
+Nhưng trớ trêu thay, hay đúng hơn là bất hạnh thay, Nagae Yukiko lại là nữ sinh duy nhất tham gia CLB Văn học cùng tôi. Cô ấy là một cô gái ít nói, mờ nhạt, nhưng thực chất lại sở hữu nhan sắc ngầm đúng chuẩn gu của mấy gã hướng nội. Oái oăm ở chỗ, cô ấy lại đâm đầu vào hẹn hò với gã bất hảo cặn bã nhất lớp là Higuchi — một quả bom nổ chậm mang theo khả năng công phá tinh thần người khác.
 
-Có lẽ vì thế nên Yokomichi mới ăn thịt cô ấy. Tôi đoán đó chính là nguyên nhân khiến hắn thức tỉnh thành quyến thuộc tồi tệ nhất mang tên `『Thực Nhân Quỷ』`... nhưng thôi, cứ để sự thật đó bị chôn vùi trong bóng tối đi.
+Có lẽ chính vì vậy mà Yokomichi mới chọn ăn thịt cô ấy. Tôi đoán đó chính là mầm mống tội lỗi thúc đẩy hắn thức tỉnh thành quyến thuộc tồi tệ nhất mang tên 『Thực Nhân Quỷ』... nhưng thôi, cứ để tấn bi kịch ấy vĩnh viễn chìm sâu vào bóng tối đi.
 
-Điều quan trọng là sự tồn tại của ma pháp hệ Băng mang lại hiệu ứng ảo giác là `『Huyễn Ảnh Băng Tượng』` và kỹ năng che mắt `『Băng Vụ』`.
+Điều quan trọng nhất là sự tồn tại của ma pháp ảo giác hệ Băng mang tên 『Huyễn Ảnh Băng Tượng』 và thuật thức che mắt 『Băng Vụ』.
 
-Về ma pháp hệ ảo ảnh, tôi cũng sở hữu `『Hư Ảnh Tương Chiếu』`, nhưng nó không mấy hiệu quả trong tình huống giả định này.
+Về ma pháp hệ ảo ảnh, tôi cũng sở hữu 『Hư Ảnh Tương Chiếu』, nhưng nó không thể phát huy hiệu quả tối đa trong tình huống cận chiến ngặt nghèo này.
 
-Yếu tố dàn dựng không thể thiếu trong kế hoạch này là phải làm sao để Reina đột ngột đứng sừng sững trước mặt cậu ta vào thời khắc quyết định.
+Mấu chốt sống còn trong kế hoạch lần này là phải làm sao để Reina đột ngột sừng sững hiện ra trước mặt cậu ta ngay vào thời khắc định đoạt.
 
-Tôi tuyệt đối không thể để Souma Yuuto nhìn thấy cảnh mình đứng niệm chú thật dài rồi triệu hồi Rem giả dạng Reina từ ma pháp trận của đầm lầy độc. Dù có thế nào đi nữa, nếu nhìn thấy cảnh đó, cậu ta sẽ lập tức gạt bỏ cảm xúc để tiếp tục tấn công vì biết đó là đồ giả.
+Tôi tuyệt đối không thể để Souma Yuuto nhìn thấy cảnh mình đứng niệm chú dài dòng rồi kéo Rem đội lốt Reina bước ra từ đầm lầy chú thuật đen ngòm. Dù có mù quáng đến đâu, nếu tận mắt chứng kiến quá trình ấy, cậu ta sẽ lập tức vứt bỏ mọi do dự để vung kiếm chém nát tất cả vì thừa biết đó là đồ giả.
 
-Trái lại, cậu ta có thể sẽ nổi trận lôi đình vì dám đùa giỡn với Reina và lao đến giết tôi bất chấp hậu quả. Tôi phải tuyệt đối tránh kết cục lưỡng bại câu thương bằng `『Phản Phục Thống Khổ』`.
+Trái lại, cậu ta thậm chí sẽ nổi trận lôi đình vì dám báng bổ hình bóng Reina và điên cuồng lao đến lấy mạng tôi bất chấp hậu quả. Tôi buộc phải triệt tiêu mọi nguy cơ dẫn đến kết cục lưỡng bại câu thương bằng 『Phản Phục Thống Khổ』.
 
-Đúng vậy, để tạo ra một màn xuất hiện có sức tác động lớn đến mức khiến Dũng Giả phải dừng chiêu tất sát, chúng tôi bắt buộc phải dàn dựng sao cho cô ta đột ngột hiện ra ngay trước mắt cậu ta.
+Phải, để tạo nên một màn xuất hiện mang sức nặng chấn động đủ sức đóng băng đòn tất sát của Dũng Giả, chúng tôi bắt buộc phải dàn dựng sao cho cô ta bất thình lình giáng lâm ngay trước mắt cậu ta.
 
-Để cậu ta nhìn thấy quá trình triệu hồi là không được. Để cậu ta nhìn thấy cô ta lững thững đi từ xa lại cũng không xong. Những cảnh xuất hiện làm giảm đi sự chấn động ban đầu đều bị cấm.
+Để cậu ta nhìn thấy quá trình triệu hồi là thất bại. Để cậu ta thấy cô ta lững thững bước lại từ xa cũng là vứt đi. Bất kỳ chi tiết thừa thãi nào làm giảm đi cú sốc thị giác ban đầu đều bị cấm tiệt.
 
-Chính vì thế, `『Huyễn Ảnh Băng Tượng』` là thứ bắt buộc phải có. Nhờ hiệu ứng của nó, chúng tôi có thể che giấu và ngụy trang hình dáng của Reina trước mắt Souma Yuuto cho đến tận phút chót.
+Chính vì thế, 『Huyễn Ảnh Băng Tượng』 là mắt xích bắt buộc phải có. Nhờ thuật thức ấy, chúng tôi mới có thể che giấu và ngụy trang hoàn toàn tung tích của Reina trước tầm mắt Souma Yuuto cho đến tận giây phút cuối cùng.
 
-Lý do tại sao Lớp trưởng lại cố chấp liên tục bắn `『Băng Mỏng Tiễn』` không hề gây sát thương lên Dũng Giả là gì? Đó là để âm thầm triển khai `『Băng Vụ』` mà không bị phát hiện.
+Lý do vì sao Lớp trưởng lại chấp niệm liên tục bắn ra những mũi 『Băng Mỏng Tiễn』 vô hại lên người Dũng Giả là gì? Đó là để âm thầm gieo rắc các hạt tinh thể nhằm kích hoạt 『Băng Vụ』 mà không đánh động kẻ địch.
 
-Vốn dĩ, `『Băng Mỏng Tiễn』` là một ma pháp mang tính hỗ trợ hơn là tấn công, với mục đích phát tán các mảnh băng chứa ma lực của bản thân xung quanh mục tiêu để kích hoạt phong ấn đóng băng khống chế Kinako.
+Vốn dĩ, 『Băng Mỏng Tiễn』 là một ma pháp mang thiên hướng hỗ trợ hơn là sát thương, với mục đích phát tán những mảnh băng chứa ma lực xung quanh mục tiêu để kích hoạt trận pháp đóng băng khống chế Kinako.
 
-Nếu đóng băng bằng `『Tái Băng Kết』`, đối phương sẽ bị đông cứng, nhưng ngược lại, người dùng cũng có thể làm tan rã các mảnh băng thành những hạt nhỏ hơn để khuếch tán thành `『Băng Vụ』`.
+Nếu thi triển 『Tái Băng Kết』, đối phương sẽ bị đông cứng ngay lập tức. Nhưng ngược lại, người dùng hoàn toàn có thể chủ động nghiền nát các mảnh băng thành vô số hạt bụi li ti để khuếch tán thành một màn 『Băng Vụ』 dày đặc.
 
-Với lượng ma lực ít ỏi còn lại, cô ấy đang nỗ lực trong tuyệt vọng để đánh lạc hướng đối phương dù chỉ một chút... Souma Yuuto chắc chắn đã nghĩ rằng Lớp trưởng đang đứng trên chiến trường này với một sự cố gắng đáng thương như thế.
+*Với lượng ma lực cạn kiệt còn sót lại, cô ta chỉ đang nỗ lực trong tuyệt vọng để quấy nhiễu mình đôi chút...* Souma Yuuto chắc chắn đã đinh ninh rằng Lớp trưởng đang bám trụ trên chiến trường bằng một sự giãy giụa đáng thương hại như thế.
 
-Kết quả của việc coi thường đối thủ vì nghĩ rằng họ không thể gây sát thương cho mình là thế này đây. Cuối cùng, Dũng Giả đã để Lớp trưởng thoải mái bắn liên tiếp `『Băng Mỏng Tiễn』` mà không hề nhận ra ý đồ khuếch tán sương mù băng giá của cô ấy.
+Cái giá của việc coi thường đối thủ chỉ vì nghĩ rằng họ không thể xuyên thủng lớp phòng ngự của mình là đây. Rốt cuộc, Dũng Giả đã để mặc cho Lớp trưởng thỏa sức xả ra hàng loạt 『Băng Mỏng Tiễn』 mà chẳng hề mảy may nhận ra dã tâm giăng kết giới sương mù của cô ấy.
 
-Nhờ có Mei đã câu giờ bằng cách sử dụng cả `『Berserk X』`, sân khấu cuối cùng đã được chuẩn bị sẵn sàng. `『Băng Vụ』` đã lan tỏa đầy đủ.
+Nhờ có Mei đã xả thân câu giờ bằng cách kích hoạt cả 『Berserk X』, sân khấu kịch cuối cùng đã được chuẩn bị hoàn tất. 『Băng Vụ』 đã bành trướng đến mức độ hoàn hảo.
 
-Dù là sương mù được tạo ra bằng ma pháp, nhưng tỷ trọng của nó vẫn nặng hơn không khí, thế nên nó sẽ tích tụ đậm đặc từ dưới chân trở lên. Hiện tại, từ thắt lưng trở xuống đã ngập tràn trong làn sương mù dày đặc lạnh giá, và phía trên cũng bị bao phủ bởi một lớp sương mờ làm giảm tầm nhìn. Đây là một môi trường hoàn hảo để hiển thị ảo ảnh.
+Dù là màn sương sinh ra từ ma thuật, tỷ trọng của nó vẫn nặng hơn không khí thông thường, thế nên nó sẽ kết tụ đậm đặc nhất từ dưới mặt đất dâng lên. Hiện tại, từ thắt lưng trở xuống đã hoàn toàn chìm ngập trong biển sương giá buốt, và nửa thân trên cũng bị bao phủ bởi một màn sương mờ ảo che khuất tầm nhìn. Một môi trường tuyệt hảo để phóng chiếu ảo ảnh.
 
-Ngay khi tôi chọn đúng thời điểm để triệu hồi Rem trong hình dạng Reina, kỹ năng `『Huyễn Ảnh Băng Tượng』` của Lớp trưởng cũng được kích hoạt.
+Ngay khi tôi canh chuẩn thời khắc để triệu hồi Rem trong hình hài Reina, kỹ năng 『Huyễn Ảnh Băng Tượng』 của Lớp trưởng lập tức phát động.
 
-Dù số lượng đã giảm đi, nhưng Skeleton và High Zombie vẫn còn vây quanh rất nhiều. Lớp trưởng đã dùng ảo ảnh để biến Reina trông giống như một Skeleton trong mắt Yuuto, và để cô ta tiến lên dưới sự che chở của làn sương mù dày đặc làm suy giảm tầm nhìn.
+Dù quân số đã hao hụt đáng kể, Skeleton và High Zombie vẫn còn bao vây xung quanh tầng tầng lớp lớp. Lớp trưởng đã phủ ảo ảnh lên người Reina để biến cô ta trông hệt như một bộ xương Skeleton trong mắt Yuuto, mở đường cho cô ta âm thầm áp sát dưới sự bảo bọc của màn sương mờ mịt.
 
-Điều may mắn là khi Souma Yuuto kích hoạt siêu tất sát kỹ, cậu ta đã tạo ra một cơn bão lửa và sấm sét dữ dội xung quanh mình. Điều này giúp ngăn chặn các đòn tấn công tầm xa từ phía chúng tôi, nhưng đồng thời cũng khiến cậu ta khó lòng quan sát được động tĩnh bên này.
+Một điều may mắn là khi Souma Yuuto vận công chuẩn bị phóng thích siêu kiếm kỹ, cậu ta đã vô tình giải phóng một cơn bão sấm sét và lửa đỏ cuồng loạn cuộn trào quanh thân. Bức tường năng lượng đó vừa ngăn chặn các đòn bắn phá tầm xa của chúng tôi, nhưng đồng thời cũng tự bóp nghẹt tầm quan sát chiến trường của chính cậu ta.
 
-*Nếu biết thế này thì chẳng cần phải đợi sương mù phủ kín làm gì...* tôi đã nghĩ vậy, nhưng để đảm bảo vạn vô nhất thất, đây vẫn là một bước chuẩn bị cần thiết.
+*Biết thế này thì việc quái gì phải khổ sở đợi sương mù phủ kín cơ chứ...* Tôi thầm nghĩ bụng, nhưng để bảo đảm kế hoạch vạn vô nhất thất, đây vẫn là bước chuẩn bị sống còn.
 
-Và rồi, ngay khi ngọn lửa và sấm sét được tích tụ vào thánh kiếm ở một thời điểm hoàn hảo, gom góp toàn bộ sức mạnh—nào, hãy diện kiến Reina yêu quý của cậu đi.
+Và rồi, ngay khi sấm sét và cuồng hỏa được nén chặt vào lưỡi thánh kiếm đến độ hoàn mỹ nhất, tích tụ toàn bộ tinh hoa sức mạnh—nào, hãy diện kiến cô bạn thanh mai trúc mã yêu dấu của cậu đi.
 
 “Yuu-kun, dừng lại đi...”
 
-Với vẻ mặt đau buồn đến cực hạn như thể một nữ chính đang dùng cả thân mình để ngăn cản nam chính đang mất lý trí và bạo tẩu, Reina lao đến ôm chầm lấy Souma Yuuto.
+Với nét mặt đau đớn đến xé lòng tựa như một nữ chính đang đem cả tính mạng ra để thức tỉnh nam chính đang mất trí cuồng loạn, Reina lao vút đến ôm chầm lấy Souma Yuuto.
 
-Souma Yuuto, trong tư thế vẫn đang giương cao thanh thánh kiếm tích tụ sức mạnh tất sát, đã đón nhận cái ôm đó với một sơ hở không thể lớn hơn.
+Souma Yuuto, trong tư thế hai tay vẫn giương cao thanh thánh kiếm rực cháy sát chiêu tuyệt diệt, đã đón nhận trọn vẹn cái ôm ấy với một sơ hở to lớn chưa từng thấy.
 
-*Ể, đùa à, đến giờ này mà cậu vẫn chưa nhận ra đó là đồ giả sao?* Tôi cứ nghĩ vào khoảnh khắc này cậu ta phải gạt bỏ sự do dự để tiếp tục tấn công rồi chứ... Cậu thực sự là một kẻ ngây thơ đến mức không thể cứu vãn nổi mà.
+*Ể, đùa nhau đấy à, đến tận nước này mà cậu vẫn chưa nhận ra đó là đồ giả sao?* Tôi cứ ngỡ vào khoảnh khắc này cậu ta phải gạt bỏ bi lụy để tiếp tục vung kiếm rồi chứ... Cậu thực sự là một kẻ ngây thơ đến mức vô phương cứu chữa rồi đấy.
 
 “Reina, xin lỗi, tớ—”
 
-À, thôi đủ rồi. Những lời sám hối của cậu cũng vô nghĩa như mấy nét vẽ bậy trong nhà vệ sinh mà thôi.
+À, thôi câm họng đi. Những lời sám hối muộn màng của cậu cũng rẻ rúng và vô nghĩa như mấy nét vẽ bậy trong nhà vệ sinh công cộng mà thôi.
 
-Sơ hở để hạ gục Dũng Giả, chúng tôi đã tạo ra quá đủ rồi.
+Khoảng trống chí mạng để hạ sát Dũng Giả, chúng tôi đã dày công tạo ra quá đủ rồi.
 
-“—`『Hắc Nại』`.”
+“—『Hắc Nại』.”
 
-Một đòn chí mạng.
+Một nhát chém đoạt mạng.
 
-Như thể sát ý được mài giũa đến cực hạn đã được cụ thể hóa, một nhát chém đen kịt đã quét qua cơ thể Dũng Giả.
+Tựa như sát ý được mài giũa đến cảnh giới tột cùng đã ngưng tụ thành hình hài thực thể, một vệt đao đen kịt xé toạc không gian, quét phăng qua lồng ngực Dũng Giả.
 
 “...Ơ, á.”
 
-Cùng với tiếng kêu ngớ ngẩn, dòng máu tươi cuối cùng cũng phun trào từ cơ thể Dũng Giả.
+Cùng với tiếng rên rỉ ngơ ngác, một dòng huyết dịch đỏ thẫm cuối cùng cũng phun trào xối xả từ thân xác Dũng Giả.
 
-Kẻ đã tấn công cậu ta ngay khi cậu ta bị cô bạn thanh mai trúc mã giả ôm chặt và đứng hình chính là Mei, người nãy giờ vẫn phủ phục dưới làn sương mù dày đặc như một mãnh thú đang rình mồi.
+Kẻ đã tung ra đòn kết liễu ngay khi cậu ta bị cô bạn thanh mai trúc mã giả ghì chặt và chết lặng chính là Mei — người nãy giờ vẫn rạp mình dưới đáy màn sương dày đặc hệt như một con dã thú đang rình mồi.
 
-Một sơ hở nhỏ nhoi nhưng mang tính chí mạng được tạo ra từ sức mạnh của tất cả mọi người, đã bị cô nàng cuồng chiến binh đang bộc phát sức mạnh vượt giới hạn tận dụng một cách hoàn hảo.
+Một kẽ hở mỏng manh nhưng mang tính quyết định được dệt nên từ sự phối hợp của toàn bộ đội hình, đã được cô nàng cuồng chiến binh đang bộc phát sức mạnh vượt ngưỡng giới hạn nắm bắt một cách chuẩn xác đến từng tích tắc.
 
-Đối với một Dũng Giả ngu ngốc đang hoàn toàn bị giam cầm trong những ký ức xưa cũ, cậu ta không thể né tránh, cũng chẳng thể phòng ngự.
+Đối với một tên Dũng Giả ngu xuẩn đang hoàn toàn bị giam cầm trong những mảnh ký ức ảo mộng, cậu ta không thể né tránh, và càng chẳng thể giương khiên phòng ngự.
 
-Ôi, thật là ngu ngốc làm sao, Souma Yuuto. Cậu lại một lần nữa để Reina bị giết ngay trước mắt mình một cách bất lực.
+Ôi, thật là thảm hại làm sao, Souma Yuuto. Cậu lại một lần nữa trơ mắt nhìn Reina bị sát hại ngay trước mặt mình trong sự bất lực cùng cực.
 
 “Á... Rei... na...”
 
-Chiêu `『Hắc Nại』` của Mei được tung ra theo quỹ đạo chém ngược từ dưới lên. Vì cô ấy đang ở tư thế phủ phục trong sương mù, nên nhát chém sẽ đi từ dưới lên trên. Thanh `『Bát Táp Ngưu Ma Đao』` được nắm chặt trong tay đã chém rách lớp giáp ngực của `『Huy Quang Linh Trang』` đang bảo vệ Dũng Giả, để lưỡi đao nguyền rủa chạm vào da thịt cậu ta.
+Chiêu 『Hắc Nại』 của Mei được vung ra theo quỹ đạo chém thốc từ dưới lên. Vì cô ấy ẩn mình sát mặt đất trong màn sương, nên lưỡi đao sẽ xé gió đi từ dưới lên trên. Thanh 『Bát Táp Ngưu Ma Đao』 được nắm chặt trong hai bàn tay đầy gân guốc đã chém toạc lớp giáp ngực của 『Huy Quang Linh Trang』 đang bao bọc Dũng Giả, để lưỡi đại đao nguyền rủa rạch sâu vào da thịt cậu ta.
 
-Và ngay trước mặt Dũng Giả là cô bạn thanh mai trúc mã nhỏ nhắn đang ôm chặt lấy cậu ta. Cho dù vào khoảnh khắc này cậu ta có nhận ra mối đe dọa đang cận kề từ Mei đi chăng nữa thì cũng đã quá muộn.
+Và ngay trước ngực Dũng Giả, cô bạn thanh mai trúc mã nhỏ nhắn vẫn đang ôm chặt lấy cậu ta không rời. Cho dù vào tích tắc này cậu ta có nhận thức được lưỡi hái tử thần đang cận kề từ Mei đi chăng nữa thì mọi chuyện cũng đã an bài.
 
-Cậu tuyệt đối không thể buông bỏ Reina đang ôm lấy mình. Dù biết đó là đồ giả. Cậu cũng không thể buông tay khỏi cô gái được tạo tác tinh xảo đến thế này, với lời nói, biểu cảm và hành động chân thực y như trong ký ức.
+Cậu tuyệt đối không thể đẩy Reina đang ôm lấy mình ra. Dù biết tỏng đó là trò lừa bịp. Cậu cũng không thể nhẫn tâm hất văng một thiếu nữ được tạc nên quá đỗi tinh vi, với giọng nói, biểu cảm và hơi ấm chân thực hệt như trong miền ký ức.
 
-Sự xuất hiện của Reina trước mắt là để thu hút sự chú ý và ngăn chặn đòn tấn công của Dũng Giả.
+Sự xuất hiện của Reina là để phân tán triệt để sự chú ý và phong tỏa đòn tấn công của Dũng Giả.
 
-Và cái ôm của Reina chính là chiếc cùm khóa chặt Souma Yuuto, không cho phép cậu ta né tránh hay phòng thủ.
+Và cái ôm của Reina chính là chiếc gông cùm khóa cứng Souma Yuuto, tước đoạt hoàn toàn quyền né tránh lẫn phòng ngự của cậu ta.
 
-À, nhắc mới nhớ, Kenzaki, cô cũng từng làm một trò tương tự nhỉ. Khi bị dồn vào đường cùng, cô đã chém Mei một nhát đúng không? Nakajima Haruma đã trở thành một con mồi nhử vô cùng hiệu quả như thế đấy.
+À, nhắc mới nhớ, Kenzaki, cô cũng từng giở trò tương tự thế này nhỉ? Khi bị dồn vào bước đường cùng, cô đã chém lén Mei một nhát đúng không? Nakajima Haruma đã trở thành một con mồi nhử vô cùng đắc lực như thế đấy.
 
-Nhưng mà Kenzaki ơi, làm trò đó một cách bộc phát vào phút chót thì chỉ có nước nhận cờ tử mà thôi. Nghe này, khi muốn lợi dụng con tin thì phải lên kế hoạch một cách bài bản. Phải triệt để lợi dụng tâm lý của đối phương để tạo ra hiệu quả tối đa, tạo ra một sơ hở chí mạng. Và rồi tận dụng sơ hở đó để giáng xuống một đòn quyết định trận đấu.
+Nhưng mà Kenzaki à, hành động theo bản năng bộc phát vào phút chót thì chỉ có nước rước lấy án tử mà thôi. Nghe cho rõ đây, một khi đã muốn đem con tin ra làm mồi nhử thì phải lên kế hoạch bài bản đến từng chi tiết. Phải bóp nghẹt và thao túng triệt để tâm lý đối phương để tạo ra hiệu quả công phá cực đại, khoét sâu vào một sơ hở chí mạng. Để rồi từ sơ hở đó, giáng xuống một đòn đoạt mạng định đoạt cả cục diện.
 
-Nguyên nhân thất bại của Kenzaki là do cô ta không biết cách tận dụng triệt để quân bài lật kèo duy nhất là Nakajima mà lại lãng phí nó một cách vô ích.
+Nguyên nhân thất bại của Kenzaki là do ả không biết cách tận dụng triệt để quân bài lật kèo duy nhất là Nakajima mà lại lãng phí nó một cách ngu xuẩn.
 
-Nhưng chúng tôi thì khác. Từ đầu đến cuối, chúng tôi đã chuẩn bị chu đáo, luyện tập kỹ lưỡng và bước vào trận chiến thực tế với mục tiêu tận dụng triệt để điểm yếu mang tên Reina đối với Souma Yuuto. Chiến tranh đã phân thắng bại trước khi bắt đầu, chính là để chỉ việc này đây.
+Nhưng chúng tôi thì khác. Từ đầu chí cuối, chúng tôi đã chuẩn bị chu toàn, thao dượt kỹ càng và bước vào thực chiến với dã tâm nghiền nát điểm yếu chí tử mang tên Reina trong lòng Souma Yuuto. Chiến thắng được định đoạt trước khi trận đánh bắt đầu, câu nói đó chính là để miêu tả tình cảnh này đây.
 
-Và đúng như mọi kế hoạch đã vạch ra, Mei đã chém đứt cả Reina lẫn đối phương một cách ngoạn mục.
+Và đúng như kịch bản đã định sẵn, Mei đã chém đứt lìa cả Reina lẫn kẻ thù một cách tàn nhẫn và dứt khoát.
 
-“Không thể nào... mình lại... một lần nữa...”
+“Không thể nào... mình lại... thêm một lần nữa...”
 
-Lại không bảo vệ được nữa rồi nhỉ?
+Lại không bảo vệ được ai nữa rồi nhỉ?
 
-Nhưng cậu không cần phải bận tâm về điều đó đâu. Bởi vì chúng tôi, và ngay cả Sakura, đều không còn cần đến sự bảo hộ của cậu nữa rồi.
+Nhưng cậu chẳng cần phải nhọc lòng bận tâm về điều đó đâu. Bởi vì chúng tôi, và ngay cả Sakura, đều không còn cần đến sự che chở đạo đức giả của cậu nữa rồi.
 
-“Souma Yuuto, cậu không còn cần thiết nữa. Một Dũng Giả đã biến thành con rối của mụ nữ thần rác rưởi thì không có giá trị tồn tại.”
+“Souma Yuuto, cậu hết giá trị rồi. Một Dũng Giả đã thoái hóa thành con rối trong tay mụ nữ thần rác rưởi thì chẳng còn bất kỳ lý do gì để tồn tại trên cõi đời này nữa.”
 
-Nhìn Dũng Giả đang lảo đảo với dòng máu phun trào từ ngực, và hình bóng Reina đang vỡ vụn thành hai nửa rồi tan biến thành những hạt ma lực màu đen, tôi đã thì thầm như thế.
+Nhìn Dũng Giả đang lảo đảo quỳ sụp xuống với dòng máu xối xả tuôn trào từ lồng ngực, và ảo ảnh Reina đang vỡ vụn làm đôi rồi tan biến thành những đốm ma lực đen kịt, tôi lạnh lùng thì thầm vào khoảng không.
 
 “T-Tớ... Tớ... A A A A A A A A A A A A A A A A ! ! !”
 
-Nhưng vì tránh được việc bị chém làm đôi để chết ngay lập tức, Dũng Giả vẫn còn sót lại sức mạnh để chiến đấu, cậu ta định giải phóng siêu tất sát kỹ `『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』` vốn vẫn đang giương cao theo cảm xúc của mình.
+Nhưng nhờ né được nhát chém chí mạng chẻ đôi thân người, Dũng Giả vẫn còn sót lại chút tàn lực để giãy giụa. Cậu ta gầm thét điên cuồng, dồn hết hận thù định phóng thích siêu kiếm kỹ 『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』 vốn vẫn đang giương cao trên đỉnh đầu.
 
-Lưỡi kiếm ánh sáng khổng lồ chứa đựng sức tàn phá khủng khiếp như muốn đâm toạc bầu trời bắt đầu nghiêng xuống,
+Lưỡi kiếm ánh sáng khổng lồ cuồn cuộn sức mạnh hủy diệt như muốn xé toạc vòm trời bắt đầu chém bổ xuống—
 
 “Kết thúc rồi, Yuuto. Mày thua rồi.”
 
-Nhát chém vô tình của vị Vương đã chém bay cả hai cánh tay đang nắm giữ thanh kiếm của Dũng Giả.
+Nhát chém vô tình của bậc Đế Vương lóe lên trong chớp mắt, tiện tay chém bay đứt lìa cả hai cánh tay đang nắm chặt chuôi kiếm của Dũng Giả.

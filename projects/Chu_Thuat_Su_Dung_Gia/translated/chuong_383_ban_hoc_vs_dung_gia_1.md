@@ -2,31 +2,31 @@
 
 “Khốn kiếp! Thế này thì không trụ nổi nữa! Rút lui! Toàn quân, rút lui mauuu!!”
 
-Mệnh lệnh rút lui của Kotarou vang dội khắp không gian rộng lớn, khiến Yuuto không tự chủ được mà liếc mắt nhìn về hướng đó.
+Mệnh lệnh rút lui của Kotarou vang dội khắp không gian rộng lớn, khiến Yuuto không kìm được mà liếc mắt nhìn về hướng đó.
 
-Vì khoảng cách giữa hai bên khá xa nên cậu chỉ có thể nhìn từ đằng xa, nhưng cục diện chiến đấu ở đó có vẻ vẫn đang ở thế giằng co.
+Khoảng cách giữa hai bên khá xa nên cậu chỉ có thể quan sát từ đằng xa, song cục diện giao tranh bên ấy dường như vẫn đang ở thế giằng co.
 
-Kotori, người được bảo vệ bởi kết giới vô địch, còn có thêm một đội quân Thủ Hộ Thiên Sứ hùng mạnh hộ vệ. Nhưng ở phía đối diện, Kotarou cũng đã biến bản thân thành một ma vật cường tráng, liên tục triệu hồi ra lũ xác sống lù lù tiến tới, lại còn có thêm sự yểm trợ từ Sakura. Nhìn vào tình hình, thậm chí phía Kotarou còn có phần lấn lướt hơn.
+Kotori, người được bảo vệ bởi kết giới tuyệt đối, còn có thêm cả một đội quân Thủ Hộ Thiên Sứ hùng hậu hộ vệ. Nhưng ở phía đối diện, Kotarou cũng đã biến bản thân thành một ma vật cường tráng, liên tục triệu hồi lũ xác sống lù lù tiến tới, lại có thêm sự yểm trợ chuẩn xác từ Sakura. Nhìn tổng thể, thậm chí phía Kotarou còn có phần lấn lướt hơn.
 
 *Nhận định nhanh thật... Không, cậu ta đang cảnh giác với Đại Thủ Hộ Thiên Sứ sao?*
 
-Có lẽ, điều khiến Kotarou quyết định rút lui là vì cậu ta đã nhận ra Kotori đang chuẩn bị triệu hồi Đại Thủ Hộ Thiên Sứ mà cô ta đã tích trữ bấy lâu.
+Có lẽ, điều khiến Kotarou quyết định rút lui là vì cậu ta đã nhận ra Kotori đang chuẩn bị triệu hồi Đại Thủ Hộ Thiên Sứ — con bài tẩy mà cô ta đã tích trữ bấy lâu.
 
-Trước đó, để Yuuto có thể yên tâm chiến đấu, Kotori đã giải thích cho cậu về các Thủ Hộ Thiên Sứ hộ vệ của mình. Trong số đó, Đại Thủ Hộ Thiên Sứ — thực thể yêu cầu phải có sự phê duyệt đặc biệt — là một vũ khí cổ đại cực kỳ mạnh mẽ, đủ để khiến Yuuto tin tưởng giao phó sự an nguy của Kotori.
+Trước đó, để Yuuto có thể yên tâm chiến đấu, Kotori đã giải thích cho cậu về các Thủ Hộ Thiên Sứ của mình. Trong số đó, Đại Thủ Hộ Thiên Sứ — thực thể yêu cầu phải có quyền hạn phê duyệt đặc biệt — là một cỗ máy chiến tranh cổ đại cực kỳ khủng khiếp, đủ để khiến Yuuto hoàn toàn an tâm về sự an nguy của Kotori.
 
-Nếu là Kotarou, việc cậu ta dùng đủ mọi thủ đoạn để thu thập thông tin về quân bài tẩy này của phía bên này cũng không có gì lạ. Chính vì hiểu rõ sức mạnh của nó, cậu ta mới đưa ra quyết định hợp lý là rút lui ngay khi thấy thực thể đó sắp sửa được tung vào chiến trường để tránh việc cục diện bị lật ngược.
+Nếu là Kotarou, việc cậu ta dùng đủ mọi mưu mô thủ đoạn để thu thập thông tin về con át chủ bài này cũng chẳng có gì lạ. Chính vì thấu hiểu sức tàn phá của nó, cậu ta mới đưa ra quyết định hợp lý là rút lui ngay khi thấy cỗ máy ấy sắp sửa được tung vào chiến trường nhằm tránh để cục diện bị đảo ngược.
 
-“Nhưng ta sẽ không để ngươi chạy thoát đâu ——— Thổi bay tất cả đi, Đại Phong Tinh Linh!”
+“Nhưng ta sẽ không để ngươi chạy thoát đâu ——— Thổi bay tất cả đi, 『Đại Phong Tinh Linh』!”
 
-Một trong bảy viên bảo ngọc khảm trên chiếc vòng vương miện, viên ngọc lục bảo chi phối gió tỏa sáng rực rỡ, và một cơn bão lập tức nổi lên cuồng cuộn quanh Yuuto.
+Một trong bảy viên bảo ngọc khảm trên vương miện, viên ngọc lục bảo chi phối gió tỏa sáng rực rỡ, lập tức dấy lên một cơn bão cuồng phong cuộn xoáy quanh Yuuto.
 
-Ngay khi mệnh lệnh rút lui vang lên, Ryuuichi và Meiko cũng lập tức phản ứng, mỗi người ném ra một quả bom khói. Trong nháy mắt, làn khói dày đặc tỏa ra che khuất tầm nhìn, nhưng Dũng Giả không ngây thơ đến mức để họ dễ dàng trốn thoát như vậy.
+Ngay khi mệnh lệnh rút lui vừa dứt, Ryuuichi và Meiko cũng lập tức phản ứng, mỗi người ném ra một quả bom khói. Trong chớp mắt, màn khói dày đặc bung tỏa che khuất tầm nhìn, nhưng Dũng Giả không ngây thơ đến mức để họ dễ dàng trốn thoát như vậy.
 
-Bom khói là vật phẩm mà Kotarou đã sử dụng từ thời còn ở Học Viện Tháp. Gã chú thuật sư xảo quyệt đó cực kỳ giỏi tận dụng những thứ như thế này.
+Bom khói là công cụ Kotarou đã dùng nhẵn mặt từ thời còn ở Học Viện Tháp. Gã chú thuật sư xảo quyệt đó cực kỳ thành thạo việc tận dụng những món đồ như thế này.
 
-Cậu ta không chỉ dùng nó như một công cụ che mắt để tẩu thoát đơn thuần, mà rất có thể sẽ nhân lúc khói mù để tung ra một đòn tập kích bất ngờ trước khi đi. Chưa kể, đối thủ lại là Ryuuichi và Meiko. Ngay cả trong khoảnh khắc họ quay lưng bỏ chạy, cậu cũng tuyệt đối không được lơ là cảnh giác.
+Cậu ta không chỉ dùng nó như một tấm màn che mắt để tẩu thoát đơn thuần, mà rất có thể sẽ nhân lúc khói mù mịt để tung ra một đòn tập kích bất ngờ trước khi rút lui. Huống chi, đối thủ trước mắt lại là Ryuuichi và Meiko. Ngay cả trong khoảnh khắc họ quay lưng tháo chạy, cậu cũng tuyệt đối không được phép lơ là cảnh giác.
 
-Vì vậy, Yuuto trước tiên đã sai khiến Đại Phong Tinh Linh để thổi bay làn khói đang bao phủ xung quanh.
+Vì vậy, Yuuto trước tiên đã sai khiến 『Đại Phong Tinh Linh』 thổi bay làn khói đang bao phủ xung quanh.
 
 “Đừng hòng ——— 『Hắc Lam Thành Lũy』!”
 
@@ -38,53 +38,53 @@ Kỹ năng săn mồi:
 
 `『Phong Ma Pháp Tối Cao』`: Có thể thi triển toàn bộ ma pháp cấp cao thuộc tính Phong.
 
-Đối đầu với cơn gió màu xanh lục nhạt của Dũng Giả là một cơn gió đen kịt.
+Đối đầu với cơn gió màu xanh lục nhạt của Dũng Giả là một luồng bão tố đen kịt.
 
-Cơn bão `『Tử Phong Bộc Kích』` chỉ có thể nổi lên bằng ma lực bóng tối, nay được thi triển như một ma pháp cấp cao thông qua `『Phong Ma Pháp Tối Cao』`.
+Cơn bão 『Tử Phong Bộc Kích』 vốn chỉ có thể dấy lên bằng ma lực bóng tối, nay được thi triển dưới dạng ma pháp cấp cao thông qua 『Phong Ma Pháp Tối Cao』.
 
-Ngay khi Yuuto dùng Đại Phong Tinh Linh quét sạch làn khói xung quanh mình, một ma pháp phòng ngự diện rộng bằng gió đen cuộn xoáy dữ dội lập tức dựng lên chắn đường.
+Ngay khi Yuuto dùng 『Đại Phong Tinh Linh』 quét sạch làn khói quanh mình, một bức tường phòng ngự diện rộng bằng gió đen cuộn xoáy dữ dội lập tức dựng đứng lên chắn đường.
 
-Kết quả là, dù làn khói trong bán kính vài mét quanh Yuuto đã bị xua tan, nhưng ở phía ngoài, cơn lốc xoáy đen kịt từ 『Hắc Lam Thành Lũy』 của Ryuuichi đã chặn đứng cậu. Sức gió đen gầm rú dữ dội khiến cậu không thể nhìn thấu được những gì ở phía sau.
+Kết quả là, dù làn khói trong bán kính vài mét quanh Yuuto đã bị xua tan, nhưng ở phía ngoài, lốc xoáy đen kịt từ 『Hắc Lam Thành Lũy』 của Ryuuichi đã chặn đứng cậu. Sức gió gầm thét điên cuồng khiến cậu hoàn toàn không thể nhìn thấu được những gì đang diễn ra ở phía sau.
 
-Tầm nhìn của Dũng Giả vẫn bị phong tỏa như cũ.
+Tầm nhìn của Dũng Giả vẫn bị phong tỏa triệt để.
 
 “Nếu vậy, ta sẽ chém đôi cơn bão này!”
 
-Nhận thấy nếu cứ tiếp tục dùng Đại Phong Tinh Linh thì cũng không thể triệt tiêu được 『Hắc Lam Thành Lũy』, Yuuto quyết định dùng sức mạnh lớn hơn để đột phá.
+Nhận thấy nếu cứ tiếp tục giằng co bằng 『Đại Phong Tinh Linh』 thì không thể triệt tiêu được 『Hắc Lam Thành Lũy』, Yuuto quyết định dùng uy lực vượt trội hơn để cưỡng chế đột phá.
 
-Đứng ở vị trí như tâm của một cơn bão đen, Yuuto vung cao 『Thánh Kiếm Ánh Sáng』.
+Đứng sừng sững tại tâm của cơn bão đen, Yuuto vung cao 『Thánh Kiếm Ánh Sáng』.
 
 “Haaah!”
 
-Cùng với tiếng hét đanh thép, thanh quang kiếm khổng lồ chém xuống. Nó hóa thành một luồng sáng thần thánh xua tan bóng tối, chém đôi cơn bão đen đang cuộn xoáy dữ dội.
+Cùng tiếng thét đanh thép, thanh quang kiếm khổng lồ bổ xuống. Nó hóa thành một vệt sáng thần thánh xé toạc màn đêm, chém đôi cơn bão đen đang cuộn trào dữ dội.
 
-Ánh lân quang xanh trắng triệt tiêu và làm biến mất cơn gió đen đang che khuất tầm nhìn.
+Ánh lân quang xanh trắng rực rỡ triệt tiêu và xóa sổ hoàn toàn cơn gió đen đang che khuất tầm mắt.
 
 “Cái... cái gì thế kia ———”
 
-Và khi tầm nhìn được khôi phục, cảnh tượng đập vào mắt khiến Yuuto phải trợn tròn mắt kinh ngạc.
+Thế nhưng khi tầm nhìn vừa được khôi phục, cảnh tượng đập vào mắt khiến Yuuto phải trợn tròn kinh ngạc.
 
-ẦM ẦM ẦM ẦM ẦM!!!
+*ẦM ẦM ẦM ẦM ẦM!!!*
 
-Một cơ thể khổng lồ với trọng lượng khủng khiếp từ trên không rơi xuống đất, tạo ra một tiếng động chấn động và dư chấn kinh hoàng lan tỏa khắp nơi.
+Một khối cơ thể khổng lồ mang trọng lượng kinh hoàng từ trên không rơi thẳng xuống đất, tạo nên một tiếng nổ long trời lở đất cùng dư chấn dữ dội lan tỏa khắp bốn phương.
 
-Cảnh tượng Yuuto nhìn thấy chính là khoảnh khắc một gã khổng lồ giống như Zagan đang nằm sấp rơi xuống từ trên trời và đập mạnh xuống đất.
+Cảnh tượng Yuuto vừa chứng kiến chính là khoảnh khắc một cự nhân trông hệt như Zagan đang nằm sấp rơi từ trên trời xuống, nện thẳng vào mặt đất.
 
 “Cái... Takanashi-san thì sao?!”
 
-Chậm mất một nhịp, Yuuto chợt nhận ra nơi gã khổng lồ đó đập xuống chính là vị trí Kotori đang đứng, khiến cậu không khỏi rùng mình kinh hãi.
+Chậm mất một nhịp, Yuuto mới chợt bàng hoàng nhận ra nơi gã khổng lồ kia đè bẹp xuống chính là vị trí Kotori đang đứng, khiến sống lưng cậu lạnh toát.
 
-“Ai mà biết, cứ thế bị đè bẹp luôn thì đỡ việc.”
+“Ai mà biết, cứ thế bị nghiền nát luôn thì đỡ rác việc.”
 
 “Tránh ra, Ryuuichi!”
 
 “Kìa kìa, đừng vội vàng thế chứ Yuuto. Từ đây trở đi, mày mới là nhân vật chính đấy.”
 
-Ryuuichi, người đầy vết thương khắp cơ thể do thế yếu trước đó, nở một nụ cười ngạo nghễ.
+Ryuuichi, người chằng chịt vết thương sau đợt giao tranh bất lợi trước đó, vẫn nhếch môi nở một nụ cười ngạo nghễ.
 
-Và đứng ngay bên cạnh cậu ta, Cuồng Chiến Binh lặng lẽ đứng sừng sững.
+Và đứng ngay bên cạnh cậu ta, Cuồng Chiến Binh lặng lẽ đứng sừng sững như một ngọn núi đá.
 
-Cả hai tuy đều đầy thương tích, nhưng để dễ dàng đột phá qua hai người này là điều vô cùng khó khăn.
+Cả hai tuy đều đầy thương tích, nhưng muốn dễ dàng vượt qua bức tường phòng ngự của hai người này là điều gần như bất khả thi.
 
 Nên xoay xở thế nào đây? Trước khi Yuuto kịp tìm ra câu trả lời, dòng suy nghĩ của cậu đã bị cắt ngang.
 
@@ -92,224 +92,232 @@ Nên xoay xở thế nào đây? Trước khi Yuuto kịp tìm ra câu trả l�
 
 “Sakura!”
 
-Từ phía sau Vương và Cuồng Chiến Binh, Sakura xuất hiện trên lưng một con bạch mã trông giống như kỳ lân.
+Từ phía sau Vương và Cuồng Chiến Binh, Sakura xuất hiện trên lưng một con bạch mã trông giống hệt kỳ lân.
 
-“Không có thời gian để lo lắng cho Takanashi đâu, Souma Yuuto. Bọn tớ sẽ hạ gục cậu tại đây.”
+“Không có thời gian để lo lắng cho Takanashi đâu, Souma Yuuto. Bọn tớ sẽ hạ gục cậu ngay tại đây.”
 
 “Momokawa... Kotarou...”
 
-Nhìn thấy Kotarou thò đầu ra từ phía sau Sakura với vẻ mặt lạnh tanh, gương mặt Yuuto méo mó đi vì căm hận.
+Nhìn thấy Kotarou thò đầu ra từ sau lưng Sakura với vẻ mặt lạnh tanh, gương mặt Yuuto méo mó đi vì phẫn nộ tột cùng.
 
 “Tránh xa Sakura ra, đồ súc sinh!”
 
 “Oan uổng quá nha. Nói cứ như thể tôi tự nguyện bám lấy Sakura-chan không bằng ấy.”
 
-Kotarou nói rồi nhảy phóc từ trên lưng ngựa xuống đất. Sakura cũng uyển chuyển xoay người nhảy xuống yên ngựa, tiếp đất một cách hoàn hảo.
+Kotarou vừa nói vừa nhảy phóc từ trên lưng ngựa xuống đất. Sakura cũng uyển chuyển xoay người tiếp đất một cách hoàn hảo.
 
-Tay phải cô nắm chặt 『Thánh Nữ Hòa Cung』, bàn tay trái rảnh rỗi vuốt nhẹ lên mũi con ngựa. Như thể đã hoàn thành nhiệm vụ, con kỳ lân chìm dần vào cái bóng của chính nó rồi biến mất.
+Tay phải cô nắm chặt 『Thánh Nữ Hòa Cung』, bàn tay trái rảnh rỗi vuốt nhẹ lên mũi con chiến mã. Như đã hoàn thành xong sứ mệnh, con kỳ lân chìm dần vào cái bóng của chính nó rồi tan biến hoàn toàn.
 
-“Đến nước này rồi thì chẳng còn lời nào để thuyết phục nữa. Anh hai, chuẩn bị đi.”
+“Đến nước này rồi thì chẳng còn lời nào để nói nữa. Anh hai, chuẩn bị đi.”
 
-“Anh xin lỗi, Sakura. Lần này anh không thể nhẹ tay đánh ngất em như lúc nãy được nữa đâu.”
+“Anh xin lỗi, Sakura. Lần này anh không thể nương tay đánh ngất em như lúc nãy được nữa đâu.”
 
-“Nhưng cậu cũng không có ý định lấy mạng bọn tớ đúng không, Yuuto-kun?”
+“Nhưng cậu cũng đâu có ý định lấy mạng bọn tớ, đúng không hả Yuuto-kun?”
 
 “Xin lỗi nhé, Souma-kun. Tớ cũng tham gia đây.”
 
 “Cả Lớp trưởng và Natsukawa-san cũng đến rồi sao...”
 
-Có vẻ như ma lực đã hồi phục được phần nào. Dù sắc mặt vẫn còn hơi nhợt nhạt, nhưng với vẻ mặt kiên định đầy quyết tâm, Ryouko nắm chặt cây gậy băng đứng chặn ở phía sau Yuuto.
+Có vẻ ma lực đã hồi phục được đôi chút. Dù sắc mặt vẫn còn nhợt nhạt, nhưng với ánh mắt kiên định đầy quyết tâm, Ryouko siết chặt cây gậy băng đứng chặn ở phía sau Yuuto.
 
-Và ngay bên cạnh cô, người bạn thân Natsukawa Minami cũng vào tư thế sẵn sàng với hai con dao găm trên tay.
+Và ngay bên cạnh cô, người bạn thân Natsukawa Minami cũng đã vào tư thế sẵn sàng với hai lưỡi đoản kiếm sắc lạnh trên tay.
 
-“Bọn tớ muốn cả lớp cùng hợp lực để ngăn một kẻ điên khùng như cậu lại đấy. Món nợ này cậu sẽ phải trả cả đời, Souma Yuuto.”
+“Bọn tớ muốn cả lớp cùng hợp lực để ngăn một kẻ mất trí như cậu lại đấy. Món nợ này cậu sẽ phải trả cả đời, Souma Yuuto.”
 
 “Dám dùng cả lớp làm quân cờ... Không thể tha thứ. Momokawa Kotarou, chỉ riêng ngươi, ta tuyệt đối không tha thứ!”
 
-Cậu thừa biết lúc này người duy nhất còn tỉnh táo chỉ có cậu và Kotori. Thế nhưng, khi tận mắt chứng kiến Kotarou dẫn đầu các bạn học lao vào tấn công mình, thực tế tàn nhẫn đó vẫn khiến một cơn giận dữ tột độ bùng lên trong lòng Yuuto.
+Cậu thừa hiểu lúc này người duy nhất còn giữ được sự tỉnh táo chỉ có cậu và Kotori. Thế nhưng, khi tận mắt chứng kiến Kotarou giật dây các bạn học lao vào vây hãm mình, hiện thực tàn nhẫn ấy vẫn khiến một cơn thịnh nộ ngút trời bùng cháy dữ dội trong lòng Yuuto.
 
-Và như để phản hồi lại cơn thịnh nộ chính nghĩa đó, sức mạnh của Dũng Giả lại càng tăng cao hơn nữa.
+Và như để đáp lại cơn phẫn nộ chính nghĩa đó, uy áp của Dũng Giả lại càng bộc phát mạnh mẽ hơn.
 
-Dù đã tiêu tốn một lượng ma lực đáng kể khi chiến đấu với cặp bài trùng Ryuuichi và Meiko, nhưng cảm nhận được nguồn sức mạnh vô tận đang trào dâng từ tận đáy lòng, Yuuto trừng mắt nhìn gã chú thuật sư tà ác.
+Dù đã tiêu tốn một lượng ma lực đáng kể khi chiến đấu với bộ đôi Ryuuichi và Meiko, nhưng cảm nhận được nguồn sức mạnh vô tận đang cuộn trào từ tận đáy linh hồn, Yuuto trừng mắt nhìn gã chú thuật sư tà ác.
 
 “Vòng đấu cuối cùng rồi. Kết thúc thôi, Souma Yuuto ———”
 
-Ngay trước khoảnh khắc Kotarou vung gậy với ánh mắt lạnh lùng chĩa thẳng vào Yuuto, đòn tấn công phủ đầu đã được tung ra.
+Ngay trước khoảnh khắc Kotarou vung gậy với ánh mắt lạnh lẽo chĩa thẳng vào Yuuto, đòn tấn công phủ đầu lập tức giáng xuống.
 
 “——— 『Thiểm Quang Bạch Thỉ』!”
 
 “——— 『Băng Mỏng Tiễn』!”
 
-Mũi tên ánh sáng khổng lồ và những mũi tên băng bay tới trước.
+Mũi tên ánh sáng khổng lồ cùng loạt tiễn băng xé gió lao tới.
 
-Từ phía trước là 『Thiểm Quang Bạch Thỉ』 do Sakura bắn ra, còn từ phía sau là 『Băng Mỏng Tiễn』 của Ryouko, kẹp chặt Yuuto vào thế gọng kìm.
+Từ phía trước là 『Thiểm Quang Bạch Thỉ』 do Sakura bắn ra, còn từ phía sau là 『Băng Mỏng Tiễn』 của Ryouko, kẹp chặt Yuuto vào thế gọng kìm hiểm hóc.
 
-“Vô ích thôi, chừng này không đủ để cản ta lại đâu.”
+“Vô ích thôi, chừng này không đủ để cản ta lại đâu!”
 
-Dũng Giả chỉ cần vung nhẹ thanh 『Thánh Hỏa Thương Lôi』, một tia sét xanh trắng lập tức phóng ra, đồng thời một bức tường lửa ngùn ngụt dựng lên ở phía sau lưng cậu.
+Dũng Giả chỉ cần vung nhẹ thanh 『Thánh Hỏa Thương Lôi』, một tia sét xanh trắng lập tức phóng ra, đồng thời một bức tường lửa ngùn ngụt dựng đứng lên ở phía sau lưng cậu.
 
-Mũi tên ánh sáng khổng lồ 『Thiểm Quang Bạch Thỉ』 như bị hút vào đầu nhọn của tia sét và nổ tung. Ánh chớp và lôi quang bùng phát thành một vầng sáng chói lòa.
+Mũi đại tiễn ánh sáng 『Thiểm Quang Bạch Thỉ』 như bị hút thẳng vào đầu ngọn lôi thương rồi nổ tung. Ánh chớp và sấm sét bùng phát thành một vầng hào quang chói lòa.
 
-Bức tường lửa bùng cháy ở phía sau dễ dàng thiêu rụi bất kỳ mũi tên băng mỏng manh nào bay tới.
+Bức tường lửa bùng cháy phía sau dễ dàng nuốt chửng và thiêu rụi toàn bộ những mũi tên băng mỏng manh bay tới.
 
-Có vẻ như Ryouko thực sự đã cạn kiệt ma lực sau trận chiến trước đó. Dù có hồi phục thì cũng chỉ là hạt cát bỏ bể. Việc bắn ra những ma pháp tấn công cấp thấp thế này đã là giới hạn của cô ấy rồi.
+Có vẻ như Ryouko thực sự đã cạn kiệt ma lực sau trận chiến trước đó. Dù có hồi phục thì cũng chỉ như muối bỏ biển. Việc thi triển những ma pháp công kích sơ cấp thế này đã là giới hạn của cô ấy rồi.
 
-Hầu như cô ấy không thể đóng góp được gì cho chiến lực. Những mũi tên băng đó cùng lắm chỉ dùng để làm mồi nhử che mắt là tốt lắm rồi. Có lẽ cô ấy đang cố vắt kiệt chút sức lực cuối cùng để rình rập thời cơ tung ra một đòn cấp cao mà thôi.
+Hầu như cô ấy không thể tạo ra mối đe dọa trực tiếp. Những mũi tiễn băng đó cùng lắm chỉ dùng làm mồi nhử đánh lạc hướng. Rất có thể cô ấy đang cố chắt chiu chút sức tàn để rình rập thời cơ tung ra một đòn cấp cao mà thôi.
 
-Nhận thấy ma lực của Ryouko rõ ràng đang ở thế yếu, Yuuto quyết định bỏ qua các đòn tấn công của cô là phương án tối ưu nhất. Chỉ cần phân tâm dù chỉ một giây về phía Ryouko cũng sẽ cực kỳ nguy hiểm.
+Nhận thấy nguồn ma lực của Ryouko rõ ràng đã chạm đáy, Yuuto quyết định ngó lơ các đòn tấn công của cô là phương án tối ưu nhất. Chỉ cần phân tâm dù chỉ nửa giây về phía Ryouko lúc này cũng sẽ cực kỳ nguy hiểm.
 
 “Hừ, xem ra ngài Dũng Giả vẫn còn thong dong chán nhỉ!”
 
-Hai át chủ bài Ryuuichi và Meiko tuy có chịu chút thương tích nhẹ, nhưng năng lực chiến đấu của họ hoàn toàn không bị suy giảm.
+Hai quân át chủ bài Ryuuichi và Meiko tuy có chịu chút vết thương ngoài da, nhưng chiến lực của họ hoàn toàn không hề suy suyển.
 
-Dù có sự bảo vệ tuyệt đối từ bộ giáp Dũng Giả, việc để lộ sơ hở trước hai người này vẫn là quá nguy hiểm.
+Dù có sự bảo hộ tuyệt đối từ thánh giáp Dũng Giả, việc để lộ bất kỳ sơ hở nào trước hai con quái vật này vẫn là quá mạo hiểm.
 
-Và Yuuto hiểu rằng, mục đích của Kotarou là để các bạn học hỗ trợ tối đa nhằm tạo điều kiện cho hai kẻ có khả năng giết chết Dũng Giả kia ra tay.
+Và Yuuto hiểu rất rõ, mục đích của Kotarou là để các bạn học quấy rối tối đa nhằm tạo cơ hội cho hai kẻ có khả năng sát thương Dũng Giả kia ra tay kết liễu.
 
-Nhưng dù có biết trước đi chăng nữa, đối mặt với hai người này cũng không phải là chuyện dễ dàng đối phó.
+Nhưng dẫu có nhìn thấu từ trước, đối mặt trực diện với hai kẻ này cũng chẳng phải chuyện dễ dàng.
 
 “Lên đi, đội quân xác sống của ta. Hãy cho Dũng Giả thấy ý chí của lũ tép riu các ngươi đi!”
 
-Kotarou thong thả vung gậy, các ma pháp trận triệu hồi liên tục hiện ra.
+Kotarou thong thả vung gậy, hàng loạt ma pháp trận triệu hồi liên tiếp bừng sáng.
 
-Những bộ xương đen kịt xuất hiện. Cùng với High Zombie. Và cả những gã hộ pháp khổng lồ như GoGame Mastera — Tank. Nhưng không có Hắc Kị Sĩ.
+Những bộ xương đen kịt trồi lên. Cùng với High Zombie. Và cả những cỗ máy hộ pháp khổng lồ như 『Đại Chiến Sĩ Goma』 — Tank. Nhưng tuyệt nhiên không thấy bóng dáng Hắc Kị Sĩ.
 
-Con rối bóng tối. Thứ mà Kotarou gọi là Rem, sứ ma trung thành của cậu ta. Đó là một triệu hoán thú nguyền rủa đáng sợ có thể biến đổi thành nhiều hình dạng ma vật khác nhau, và thậm chí là cả con người.
+Con rối bóng tối. Thứ mà Kotarou gọi là Rem, sứ ma trung thành của cậu ta. Đó là một triệu hoán thú nguyền rủa đáng sợ có thể biến đổi thành nhiều hình dạng ma vật khác nhau, thậm chí là cả con người.
 
-Yuuto biết rõ năng lực phiền phức đó, nhưng cậu đoán rằng hiện tại Rem không thể tập trung ở chiến trường này được.
+Yuuto biết rõ sự phiền toái của năng lực đó, nhưng cậu đoán rằng hiện tại Rem không thể góp mặt ở chiến trường này.
 
-Có lẽ gã khổng lồ vừa rơi xuống chỗ Kotori chính là Rem. Nhìn kỹ thì bộ giáp của nó cực kỳ giống với Hắc Kị Sĩ. Nếu nó phải duy trì một hình dạng khổng lồ như thế, không khó để hình dung rằng nó đã phải tiêu tốn phần lớn sức mạnh.
+Có lẽ gã khổng lồ vừa rơi xuống đè bẹp Kotori chính là Rem. Nhìn kỹ thì bộ giáp của nó cực kỳ giống với Hắc Kị Sĩ. Nếu phải duy trì một kích thước đồ sộ đến nhường ấy, không khó để hình dung rằng nó đã phải tiêu tốn phần lớn ma lực.
 
-“Lũ tép riu này, dù có bao nhiêu đi chăng nữa thì ———”
+“Lũ tép riu này, dù có đông đảo đến đâu thì ———”
 
-Cậu dồn sức mạnh vào thanh 『Thánh Kiếm Ánh Sáng』 ở tay phải. Chỉ cần kéo dài lưỡi kiếm ánh sáng và vung một nhát chém ngang, cậu có thể quét sạch lũ ma vật xác sống yếu ớt này cùng một lúc.
+Cậu dồn sức mạnh vào 『Thánh Kiếm Ánh Sáng』 ở tay phải. Chỉ cần kéo dài lưỡi kiếm quang năng và quét một nhát chém ngang, cậu hoàn toàn có thể quét sạch bầy xác sống hạ đẳng này trong một nốt nhạc.
 
-Kotarou cũng không thể triệu hồi vô hạn được, và cậu ta chắc chắn đã tiêu hao một lượng lớn trong trận chiến với Kotori. Giống như thời ở Học Viện Tháp, Kotarou chắc chắn đã chuẩn bị kỹ lưỡng trong phạm vi thời gian cho phép để tích lũy tài nguyên. Thế nhưng, điều đó chắc chắn có giới hạn, và trực giác của cậu mách bảo rằng ngày tàn của cậu ta không còn xa nữa.
+Kotarou không thể triệu hồi vô hạn, và cậu ta chắc chắn đã tiêu hao một lượng tài nguyên khổng lồ trong trận chiến với Kotori. Giống như thời ở Học Viện Tháp, Kotarou luôn chuẩn bị kỹ lưỡng trong phạm vi thời gian cho phép để tích lũy quân số. Thế nhưng, mọi thứ chắc chắn đều có giới hạn, và trực giác mách bảo Yuuto rằng ngày tàn của đối phương đã cận kề.
 
-Trận chiến đã bước vào giai đoạn cuối. Kotarou cũng đã chạm tới giới hạn rồi. Chính vì vậy, chỉ cần quét sạch lũ Skeleton vô dụng này cũng đủ để ép cậu ta vào thế tiêu hao nghiêm trọng.
+Trận chiến đã bước vào hồi kết. Kotarou cũng đã chạm tới ngưỡng chịu đựng. Chính vì vậy, chỉ cần dọn sạch lũ Skeleton vô dụng này cũng đủ để ép cậu ta vào thế cạn kiệt hoàn toàn.
 
-Nghĩ vậy, ngay trước khoảnh khắc định vung kiếm chém bay toàn bộ đội quân xác sống vừa được gọi ra, Yuuto chợt nhận ra.
+Nghĩ vậy, ngay trước khoảnh khắc định vung kiếm chém bay toàn bộ đội quân xác sống vừa ùa ra, Yuuto chợt khựng lại.
 
-“——— Không thấy gì cả.”
+“——— Không thấy ai cả.”
 
-Từ bốn phương tám hướng, đội quân xác sống lù lù lao vào bao vây một mình Yuuto. Thế nhưng, đập vào mắt cậu lúc này chỉ toàn là những bộ xương đen kịt và lũ High Zombie lộ rõ thớ thịt đỏ hỏn. Xen lẫn trong đàn xác sống đó là vài cơ thể hộ pháp của Tank.
+Từ bốn phương tám hướng, đàn xác sống lù lù lao vào bủa vây một mình Yuuto. Thế nhưng, đập vào mắt cậu lúc này chỉ toàn là những bộ xương đen ngòm và lũ High Zombie lộ rõ thớ thịt đỏ lòm nhờn nhụa. Xen lẫn trong bức tường thịt đó là vài thân hình hộ pháp lực lưỡng của Tank.
 
-Cậu chỉ nhìn thấy có thế.
+Cậu chỉ nhìn thấy duy nhất có bấy nhiêu.
 
 Không một ai trong số các bạn học, bao gồm cả Kotarou, lọt vào tầm mắt cậu.
 
-Không thể có chuyện tất cả bọn họ biến mất ngay trong tích tắc này được. Trực giác nhạy bén đã được tôi luyện của Yuuto vẫn cảm nhận rõ ràng sự hiện diện của họ đang giăng lưới bao vây quanh mình.
+Không thể có chuyện tất cả bọn họ biến mất chỉ trong một tích tắc. Giác quan nhạy bén đã qua tôi luyện của Yuuto vẫn cảm nhận rõ mồn một sự hiện diện của họ đang giăng lưới bủa vây quanh mình.
 
-Trò hề không thấy một ai này thực chất vô cùng đơn giản. Lũ Skeleton, High Zombie và Tank — những vật tế thần vô dụng nhưng đông đảo kia — đang di chuyển liên tục để làm vật chắn, che khuất hoàn toàn tầm nhìn của Yuuto.
+Trò hề biến mất này thực chất vô cùng đơn giản. Lũ Skeleton, High Zombie và Tank — những quân cờ thí mạng vô dụng nhưng đông đúc kia — đang liên tục di chuyển đan xen để dựng thành những bức tường sống di động, che khuất hoàn toàn tầm nhìn của Yuuto.
 
 “Khốn... kiếp!”
 
-Yuuto nhanh chóng xoay ngược thanh 『Thánh Kiếm Ánh Sáng』 vốn định vung một nhát chém lớn, chuyển hướng lưỡi kiếm sang một góc khác.
+Yuuto nhanh chóng đổi hướng thanh 『Thánh Kiếm Ánh Sáng』 vốn định vung một đòn chém quét rộng, bẻ gập lưỡi kiếm sang một góc độ khác.
 
-Đồng thời, cậu vung một nhát chém phóng ra lửa và sấm sét từ 『Thánh Hỏa Thương Lôi』.
+Đồng thời, cậu vung một nhát chém phóng thích hỏa diễm và lôi đình từ 『Thánh Hỏa Thương Lôi』.
 
-Chưa hết, cậu triển khai 『Thiên Tinh Thuẫn』 ở mạn sườn và dùng chiếc áo choàng xoay lại để bảo vệ phía sau lưng.
+Chưa dừng lại ở đó, cậu lập tức triển khai 『Thiên Tinh Thuẫn』 ở mạn sườn và xoay chiếc áo choàng thánh giáp ra phía sau lưng để hộ thân.
 
 “——— 『Hắc Nại』!”
 
-Đòn tấn công đầu tiên ập đến chính là võ kỹ đen tối của Cuồng Chiến Binh.
+Đòn tập kích đầu tiên ập đến chính là võ kỹ hắc ám của Cuồng Chiến Binh.
 
-Nhát chém đen ngòm đầy điềm gở đó xé toạc một con High Zombie từ phía sau lưng và lao thẳng về phía Yuuto.
+Nhát chém đen ngòm sặc mùi chết chóc xé toạc thân xác một con High Zombie từ phía sau lưng, lao thẳng vào yếu huyệt của Yuuto.
 
-Nếu như vừa rồi cậu vẫn cố vung một nhát chém lớn để quét sạch lũ tép riu, cậu chắc chắn sẽ không kịp phòng thủ và phải hứng trọn đòn đánh đó.
+Nếu như vừa rồi cậu vẫn cố chấp vung đòn chém quét để dọn dẹp lũ tép riu, cậu chắc chắn sẽ không kịp trở tay và phải hứng trọn đòn sát thủ đó.
 
-Con High Zombie với thân hình vạm vỡ kia hoàn toàn đủ lớn để che giấu Meiko — người sở hữu chiều cao vượt trội so với các nữ sinh khác. Tầm nhìn của Yuuto hoàn toàn bị che khuất và không thể phát hiện ra Meiko đang bám ngay sau lưng con High Zombie, nhưng phản xạ xoay chuyển 『Thánh Kiếm Ánh Sáng』 kịp thời của cậu đã phát huy tác dụng.
+Con High Zombie với thân hình hộ pháp hoàn toàn đủ đồ sộ để che giấu Meiko — người sở hữu chiều cao vượt trội so với các nữ sinh khác. Tầm nhìn của Yuuto bị chắn hoàn toàn nên không thể phát hiện Meiko đang bám sát sau lưng nó, nhưng phản xạ xoay chuyển 『Thánh Kiếm Ánh Sáng』 kịp thời của cậu đã phát huy tác dụng.
 
-Lưỡi kiếm ánh sáng vừa thanh tẩy và làm biến mất cơ thể của con High Zombie, vừa va chạm trực diện với chiêu Hắc Nại.
+Lưỡi kiếm ánh sáng vừa thanh tẩy làm bốc hơi cái xác High Zombie, vừa va chạm trực diện với nhát chém 『Hắc Nại』.
 
-Sự giằng co chỉ diễn ra trong nháy mắt, nhát chém toàn lực của Meiko đã áp đảo hoàn toàn, đánh bật lưỡi kiếm ánh sáng của Yuuto ra.
+*KENGGG!*
+
+Sự giằng co chỉ diễn ra trong tích tắc, nhát chém toàn lực của Meiko đã áp đảo hoàn toàn, đánh bạt lưỡi kiếm ánh sáng của Yuuto sang một bên.
 
 “Chết đi!”
 
 “Hự, ưựự!”
 
-Ngay lúc đó, đòn tấn công của Ryuuichi — kẻ cũng ẩn nấp sau một con High Zombie khác để tiếp cận — ập đến.
+Ngay khoảnh khắc ấy, đòn truy kích của Ryuuichi — kẻ cũng ẩn mình sau một con High Zombie khác — lập tức ập tới.
 
-Thanh 『Thánh Hỏa Thương Lôi』 vung ra đồng thời với việc đối phó với Meiko tuy đã hóa thành một đòn tấn công diện rộng phát tán lửa và sấm sét, nhưng chừng đó vẫn không đủ để chặn đứng đà tiến công của Ryuuichi.
+Thanh 『Thánh Hỏa Thương Lôi』 vung ra đồng thời lúc đối phó với Meiko tuy đã tạo thành một vùng nổ lửa sét diện rộng, nhưng chừng đó vẫn chưa đủ để chặn đứng bước tiến vũ bão của Ryuuichi.
 
-Giẫm lên cái xác của con High Zombie đóng vai trò làm lá chắn vừa bị chém, đốt cháy và hóa thành tro bụi, Vương Kiếm của Ryuuichi lao thẳng về phía Dũng Giả.
+Đạp lên tàn tro của con High Zombie vừa bị chém cháy rụi, Vương Kiếm của Ryuuichi đâm thẳng tới ngực Dũng Giả.
 
-Nếu không có bộ giáp bảo vệ, cậu chắc chắn đã bị thương nặng.
+Nếu không có thánh giáp bảo vệ, cậu chắc chắn đã trúng trọng thương.
 
-Yuuto quyết định từ bỏ việc giữ thăng bằng, mượn đà lao đi để lăn lộn trên mặt đất nhằm né tránh đòn đánh.
+Yuuto dứt khoát từ bỏ việc giữ thăng bằng, mượn đà trượt đi để lăn lộn trên mặt đất nhằm triệt tiêu lực đánh và né tránh mũi kiếm tử thần.
 
-Ngay trong lúc đó, một mũi tên ánh sáng khổng lồ đập mạnh vào 『Thiên Tinh Thuẫn』 đang triển khai ở mạn sườn của cậu.
+Ngay lúc đó, một mũi tên ánh sáng khổng lồ đập mạnh vào 『Thiên Tinh Thuẫn』 đang mở ở mạn sườn của cậu.
 
-Ma pháp tấn công cấp cao do Sakura bắn ra — người được bảo vệ bởi cơ thể hộ pháp của Tank — đã xuyên thủng hai lớp lá chắn là Skeleton và High Zombie để lao thẳng về phía Yuuto.
+*OÀNGGG!*
 
-Như để bồi thêm đòn quyết định, từ ngay phía sau lưng cậu, những mũi tên băng của Ryouko và những con dao găm phát nổ của Minami liên tục nổ tung như một sự quấy rối đầy khó chịu.
+Ma pháp công kích cấp cao do Sakura bắn ra — dưới sự che chắn của thân hình hộ pháp Tank — đã bắn xuyên qua hai lớp lá chắn Skeleton và High Zombie để găm thẳng vào Yuuto.
 
-“Sự phối hợp kiểu gì thế này... Phiền phức thật đấy.”
+Như để bồi thêm đòn kết liễu, từ ngay sau lưng cậu, loạt tiễn băng của Ryouko cùng những con dao găm bẫy nổ của Minami liên tục phát nổ dồn dập, tạo nên một chuỗi quấy rối cực kỳ khó chịu.
 
-Tận dụng luồng dưỡng khí từ vụ nổ của dao găm để đẩy cơ thể đi, Yuuto nhanh chóng lộn một vòng rồi đứng bật dậy chạy điên cuồng.
+“Sự phối hợp kiểu quái gì thế này... Phiền phức thật đấy!”
 
-Yuuto — người vốn dĩ chỉ đứng im một chỗ để nghênh chiến với hai kẻ là Vương và Cuồng Chiến Binh — cuối cùng cũng phải chủ động di chuyển để né tránh đòn tấn công.
+Tận dụng luồng áp lực từ vụ nổ dao găm để đẩy văng cơ thể, Yuuto nhanh chóng lộn một vòng trên không rồi tiếp đất, lập tức bứt tốc chạy điên cuồng.
 
-Dù bộ giáp Dũng Giả giúp phòng ngự hoàn hảo, nhưng những đợt tấn công dồn dập không một kẽ hở của các bạn học vẫn là quá khắc nghiệt. Đó là một thế công vượt quá giới hạn mà cậu có thể đứng im chịu trận.
+Yuuto — người vốn chỉ đứng im một chỗ để nghênh chiến với bộ đôi Vương và Cuồng Chiến Binh — cuối cùng cũng bị ép phải liên tục di chuyển để né tránh các đợt công kích.
 
-“Nhưng kẻ giữ vai trò cốt lõi trong sự phối hợp này chính là ngươi, Momokawa!”
+Dù thánh giáp Dũng Giả mang lại khả năng phòng ngự tuyệt đối, nhưng những đợt tấn công dồn dập không một kẽ hở từ các bạn học vẫn là quá mức nghẹt thở. Đó là một thế trận vượt quá giới hạn chịu đựng nếu cậu cứ đứng chôn chân một chỗ.
 
-Là người kế thừa kiếm phái Souma, Yuuto hiểu rất rõ bí quyết chiến đấu khi một mình đối đầu với số đông. Kỹ năng đó đã được rèn giũa qua những trận ẩu đả thời còn đi cùng Ryuuichi, và giờ đây đã được thăng hoa qua những trận chiến sinh tử thực sự trong hầm ngục này.
+“Nhưng kẻ giữ vai trò đầu não trong sự phối hợp này chính là ngươi, Momokawa!”
 
-Khi đối thủ là một nhóm đông đảo có tổ chức, việc tiêu diệt kẻ cầm đầu là một trong những nguyên tắc cơ bản. Nếu tên đại tướng là kẻ mạnh nhất thì mọi chuyện sẽ khó khăn hơn... nhưng chú thuật sư vốn dĩ là một thiên chức thuần hậu phương. Yếu ớt, mảnh khảnh và cực kỳ dễ bị tổn thương.
+Là truyền nhân của kiếm phái Souma, Yuuto thấu hiểu sâu sắc bí quyết tác chiến khi một mình đối đầu với số đông. Kỹ năng đó từng được rèn giũa qua những trận ẩu đả thời còn đi cùng Ryuuichi, và giờ đây đã thăng hoa thành bản năng sinh tồn qua các trận huyết chiến trong mê cung tàn khốc này.
 
-Kotarou — kẻ sử dụng trí khôn xảo quyệt và những chú thuật dị biệt để quay cuồng đối thủ, đồng thời điều khiển thuộc hạ như những quân cờ một cách chuẩn xác — chính là kiểu đại tướng cần phải bị tiêu diệt đầu tiên.
+Khi đối phương là một tập thể tác chiến có tổ chức, hạ gục kẻ cầm đầu là nguyên tắc sống còn. Nếu chủ tướng là kẻ mạnh nhất thì mọi chuyện sẽ vô cùng nan giải... nhưng 『Chú thuật sư』 vốn dĩ là một thiên chức thuần hậu phương. Yếu ớt, mỏng manh và cực kỳ dễ tổn thương.
 
-*Hoặc là, nếu mình có thể giết chết cậu ta trong một đòn, biết đâu thuật tẩy não lên mọi người cũng sẽ được giải trừ...* -> Ý nghĩ đó vừa lóe lên trong đầu liền lập tức bị cậu gạt phăng đi vì đó chỉ là một mong muốn viển vông đầy tiện lợi.
+Kotarou — kẻ dùng mưu ma chước quỷ cùng những thuật nguyền rủa quái đản để xoay chuyển cục diện, điều khiển đồng đội như những quân cờ chuẩn xác — chính là mục tiêu tối thượng cần phải bị tiêu diệt đầu tiên.
 
-Yuuto không quên chiêu 『Phản Phục Thống Khổ』.
+*Hoặc là, nếu mình có thể hạ gục cậu ta trong một đòn, biết đâu thuật thao túng lên mọi người cũng sẽ tự động giải trừ...*
 
-Và Kotarou đang chiến đấu ở đây lúc này, rất có thể chính là bản thể thật. Nếu cậu không suy nghĩ kỹ mà chém chết cậu ta, chính cậu cũng sẽ phải nằm xuống trong vũng máu. Cậu hoàn toàn không muốn thử nghiệm xem bộ giáp Dũng Giả có thể ngăn chặn được lời nguyền quái dị đó hay không.
+Ý nghĩ đó vừa lóe lên đã lập tức bị cậu gạt phắt đi, bởi đó chỉ là một ảo tưởng viển vông và quá mức ngây thơ.
 
-“Ngươi dám xuất hiện trước mặt ta chính là sai lầm lớn nhất đấy.”
+Yuuto không bao giờ quên sự tồn tại của 『Phản Phục Thống Khổ』.
+
+Và Kotarou đang đứng trên chiến trường lúc này, rất có thể chính là bản thể thật. Nếu cậu thiếu suy nghĩ mà tung đòn đoạt mạng, chính cậu cũng sẽ phải gục ngã trong vũng máu. Cậu hoàn toàn không muốn đem sinh mạng ra đánh cược xem thánh giáp Dũng Giả có thể ngăn chặn được lời nguyền quái dị ấy hay không.
+
+“Ngươi dám xuất hiện trước mặt ta chính là sai lầm lớn nhất đời ngươi!”
 
 “Kotarou-kun!”
 
-Nhận ra hướng di chuyển của Yuuto — kẻ đang dùng toàn bộ võ kỹ tăng tốc để lao đi — Meiko lập tức hét lớn tên cậu ta.
+Nhận ra hướng di chuyển của Yuuto — kẻ đang dồn toàn bộ võ kỹ cường hóa tốc độ để lao tới — Meiko lập tức hét lớn cảnh báo.
 
-Dù xét về vị trí hay tốc độ, cô cũng không thể chen vào giữa để bảo vệ Kotarou kịp thời. Chặn đường Yuuto lúc này chỉ có lũ xác sống tép riu và cô em gái yêu quý của cậu.
+Dù xét về vị trí hay tốc độ, cô đều không thể can thiệp kịp thời để che chắn cho Kotarou. Vật cản duy nhất trên đường tiến của Yuuto lúc này chỉ là đàn xác sống tép riu và cô em gái yêu quý của cậu.
 
 “Em không cho anh qua đâu, anh hai!”
 
-“Không cần phải đi qua, ở đây là đủ rồi ——— Giam cầm hắn, 『Đại Thổ Tinh Linh』!”
+“Anh không cần phải đi qua, ở cự ly này là quá đủ rồi ——— Giam cầm hắn, 『Đại Thổ Tinh Linh』!”
 
-Né tránh mũi tên ma pháp cấp cao của Sakura bằng cách nhảy vọt lên không trung theo phương thẳng đứng, Yuuto chỉ thẳng mũi thánh kiếm xuống đất và ra lệnh.
+Lách mình né mũi tên ma pháp cấp cao của Sakura bằng một cú bật nhảy thẳng đứng lên không trung, Yuuto chỉ thẳng mũi thánh kiếm xuống mặt đất và gầm lên ra lệnh.
 
-Đó không phải là một đòn tấn công. Vì vậy nó sẽ không làm Kotarou bị thương.
+Đó không phải là một đòn tấn công sát thương. Vì vậy nó sẽ không khiến Kotarou bị thương.
 
-Thế nhưng, hiệu quả của nó là quá đủ để phong tỏa hoàn toàn cử động của cậu ta.
+Thế nhưng, uy lực khống chế của nó là quá thừa thãi để khóa chặt hoàn toàn mọi cử động của cậu ta.
 
 “Ua oa?!”
 
-Giọng nói hốt hoảng của Kotarou lập tức bị lấp đi bởi những cột tinh thể xanh trắng phát sáng đột ngột dựng lên từ dưới chân cậu ta.
+Tiếng la hốt hoảng của Kotarou lập tức bị nhấn chìm bởi những cột tinh thể xanh trắng rực sáng đột ngột trồi lên từ dưới lòng đất.
 
-Nhờ sức mạnh được cường hóa từ chiếc vòng vương miện, Thổ Tinh Linh đã tạo ra một ngục tù tinh thể để giam cầm gã chú thuật sư tà ác.
+Nhờ sức mạnh cường hóa từ vương miện, Thổ Tinh Linh đã tạo ra một ngục tù tinh thể giam cầm gã chú thuật sư tà ác.
 
-Gọi là ngục tù, nhưng ở đó thậm chí còn không có đủ không gian để ngồi xuống. Những cột tinh thể dựng lên sát sạt quanh người Kotarou, khóa chặt cậu ta khiến cậu ta không thể nhúc nhích dù chỉ một bước.
+Gọi là ngục tù, nhưng bên trong thậm chí còn không có đủ không gian để ngồi xuống. Những khối tinh thể mọc lên sát sàn sạt quanh người Kotarou, khóa cứng cậu ta khiến cậu ta không thể nhúc nhích dù chỉ nửa bước.
 
-Thế này thì đừng nói là vung gậy phép, ngay cả việc quan sát chiến cục cũng là bất khả thi. Yuuto biết rõ chú thuật của Kotarou về cơ bản yêu cầu phải xác định mục tiêu bằng thị giác. Việc cướp đi tầm nhìn của cậu ta mang lại lợi ích rất lớn.
+Thế này thì đừng nói tới việc vung gậy thi triển chú thuật, ngay cả việc quan sát diễn biến chiến trường cũng là bất khả thi. Yuuto biết rất rõ các chú thuật của Kotarou phần lớn đều yêu cầu phải khóa mục tiêu bằng tầm nhìn thị giác. Việc tước đoạt tầm mắt của cậu ta sẽ triệt tiêu hoàn toàn mối đe dọa.
 
-Hơn nữa, đòn này hoàn toàn không gây ra bất kỳ vết thương nào trên cơ thể cậu ta, chỉ đơn giản là tinh thể mọc lên cản trở cử động, vì vậy 『Phản Phục Thống Khổ』 cũng hoàn toàn không phản ứng.
+Hơn nữa, đòn khống chế này không gây ra bất kỳ thương tổn thể xác nào, chỉ đơn thuần là mượn tinh thể để cản trở cử động, vì vậy 『Phản Phục Thống Khổ』 hoàn toàn không bị kích hoạt.
 
-Đó là chiêu thức mà cậu tự nghĩ ra để vô hiệu hóa 『Chú thuật sư』 Momokawa Kotarou.
+Đó chính là đối sách hoàn hảo mà cậu đã dày công suy tính để vô hiệu hóa 『Chú thuật sư』 Momokawa Kotarou.
 
-“——— Cậu ngốc thật đấy, Souma Yuuto. Cậu quên mất tôi đã làm việc bằng sức của bao nhiêu người thời còn ở Học Viện Tháp rồi sao?”
+“——— Cậu ngốc thật đấy, Souma Yuuto. Cậu quên mất tôi đã gánh khối lượng công việc bằng sức của bao nhiêu người thời còn ở Học Viện Tháp rồi sao?”
 
-Từ kẽ hở của tinh thể, bàn tay cầm gậy phép của Kotarou lộ ra một chút bỗng chốc tan chảy. Nó hóa thành những hạt bụi đen kịt rồi biến mất hoàn toàn.
+Từ kẽ hở của khối tinh thể, cánh tay cầm gậy phép của Kotarou vừa lộ ra bỗng chốc tan chảy. Nó hóa thành những hạt bụi đen kịt rồi biến mất không một dấu vết.
 
-“Tôi chắc chắn đã phân thân từ trước rồi mà.”
+“Tôi đương nhiên là phải phân thân từ trước rồi chứ.”
 
-Quay đầu lại, ở phía bên kia nơi đội quân xác sống đang lúc nhúc di chuyển, bóng dáng của Kotarou với nụ cười xấc xược thường ngày hiện ra.
+Quay phắt đầu lại, ở phía bên kia nơi đội quân xác sống đang nhung nhúc chuyển động, bóng dáng của Kotarou với nụ cười xấc xược quen thuộc lại hiện ra.
 
-Số lượng là ba người. Cùng một khuôn mặt, cùng một dáng vẻ, cùng một trang bị.
+Số lượng là ba người. Cùng một khuôn mặt, cùng một thần thái, cùng một trang bị.
 
-*Ngay cả khi phân thân thì cả ba cơ thể vẫn có thể hoạt động cùng một lúc đấy.* Yuuto chợt nhớ lại lời khoe khoang đầy tự mãn của Kotarou thời còn ở Học Viện Tháp.
+*Ngay cả khi phân thân thì cả ba cơ thể vẫn có thể hoạt động độc lập cùng một lúc đấy.*
+
+Yuuto chợt nhớ lại lời tuyên bố đầy tự mãn của Kotarou thời còn ở Học Viện Tháp.
 
 “...”
 
-Dũng Giả bị xoay như chong chóng bởi ảo ảnh chỉ biết trừng mắt đầy sát khí nhìn về phía gã chú thuật sư mà cậu không thể phân biệt nổi đâu mới là bản thể thật.
+Dũng Giả, kẻ vừa bị xoay như chong chóng bởi một màn ảo ảnh, chỉ biết trừng trừng đôi mắt ngập tràn sát khí nhìn về phía gã chú thuật sư mà cậu hoàn toàn không thể phân biệt nổi đâu mới là bản thể thực sự.

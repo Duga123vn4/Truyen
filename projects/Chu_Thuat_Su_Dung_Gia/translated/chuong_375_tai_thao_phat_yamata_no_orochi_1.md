@@ -1,38 +1,38 @@
 # Tập 375: Tái Thảo Phạt Yamata no Orochi (1)
 
-“——Tsk, cái tốc độ tái sinh quái quỷ này đúng là không có hồi kết mà!”
+“Chậc, cái tốc độ tái sinh quái quỷ này đúng là không thấy điểm dừng mà!”
 
-Chiếc đầu rắn khổng lồ của Orochi vừa bị hơi thở rực lửa (Fire Breath) thiêu rụi thành một khối than đen vụn vỡ lúc nãy... giờ đây lại nhanh chóng mọc ra một cái đầu mới tinh bọc trong lớp vảy màu xanh trắng bóng loáng, bắt đầu ngọ nguậy gầm rú trở lại.
+Chiếc đầu rắn khổng lồ của Orochi vừa bị hơi thở rực lửa thiêu rụi thành một khối than đen vụn vỡ lúc nãy... giờ đây lại nhanh chóng đùn ra một cái đầu mới tinh bọc trong lớp vảy màu xanh trắng bóng loáng, bắt đầu ngọ nguậy gầm rú trở lại.
 
 Cuộc kịch chiến trên không trung giữa Tendou Ryuuichi cưỡi Hắc Long Liberta và con đại xà bốn đầu Yamata no Orochi vẫn đang rơi vào thế giằng co ăn miếng trả miếng vô cùng khốc liệt.
 
-Tự do bay lượn giữa bầu trời bao la và sở hữu hỏa lực kinh hoàng đủ sức giáng những đòn sấm sét lên thân hình đồ sộ của Orochi — Hắc Long Liberta vốn là một vũ khí sinh học cổ đại vô cùng thiện chiến. Ngồi trên lưng rồng, Ryuuichi với hàng loạt ma pháp cao cấp đã học được cũng liên tục tung đòn công thủ toàn diện để yểm trợ tối đa.
+Tự do sải cánh giữa bầu trời bao la và sở hữu hỏa lực kinh hoàng đủ sức giáng những đòn sấm sét lên thân hình đồ sộ của Orochi — Hắc Long Liberta vốn là một vũ khí sinh học cổ đại cực kỳ thiện chiến. Ngồi trên lưng rồng, Ryuuichi với hàng loạt ma pháp cao cấp đã học được cũng liên tục tung đòn công thủ toàn diện để yểm trợ tối đa.
 
 Một nam sinh cấp ba thời hiện đại đương nhiên làm gì có kinh nghiệm cưỡi rồng bay lượn bao giờ, thế nhưng bằng thiên phú chiến đấu bẩm sinh của 『Vương』, Ryuuichi đã điều khiển Hắc Long thuần thục như thể người và rồng hòa làm một, cống hiến một màn không chiến đỉnh cao mãn nhãn.
 
 Nếu đối thủ chỉ là những ma vật bay thông thường hay phi long Salamander, năng lực không chiến ấy thừa sức tiêu diệt đối phương trong nháy mắt. Thế nhưng kẻ thù trước mắt lại là một Siêu Boss đẳng cấp Raid Boss: Yamata no Orochi! Dẫu số lượng đầu đã bị giảm đi một nửa so với trước, nhưng để một thân một mình đơn thương độc mã hạ gục nó vẫn là một thử thách quá đỗi gian nan.
 
-“Cơ mà... Lõi (Core) then chốt của nó vẫn nằm sâu bên trong ngọn núi đá kia đúng không hả Ryuuichi?”
+“Cơ mà... chiếc Lõi then chốt của nó vẫn nằm sâu bên trong ngọn núi đá kia đúng không hả Ryuuichi?”
 
-“Ừ, lần này vỏ ngoài của nó lộ hẳn ra ngoài nên dễ tiếp cận hơn trước... nhưng độ cứng như núi đá thì vẫn đéo thay đổi chút nào cả.”
+“Ừ, lần này vỏ ngoài của nó lộ hẳn ra nên dễ tiếp cận hơn trước... nhưng độ cứng như núi đá thì vẫn đéo thay đổi chút nào cả.”
 
 Cùng với những cơn rung chấn long trời lở đất, không chỉ có những chiếc đầu rắn mà ngay cả phần thân trung tâm của Orochi cũng đã trồi lên bề mặt của khu vực này.
 
-Tuy không hình thành nên một ngọn núi đá khổng lồ làm tổ cho bầy Gargoyle như lần trước, nhưng một lớp vỏ xoắn ốc gai góc đồ sộ như vỏ ốc xà cừ (Sazae) đang sừng sững ngự trị ngay tại trung tâm. Những cột đá khổng lồ từng mọc tua tủa trên ngọn núi của Orochi năm xưa thực chất chính là những chiếc gai vỏ đã phát triển dài ra qua năm tháng.
+Tuy không hình thành nên một ngọn núi đá khổng lồ làm tổ cho bầy Gargoyle như lần trước, nhưng một lớp vỏ xoắn ốc gai góc đồ sộ như vỏ ốc xà cừ đang sừng sững ngự trị ngay tại trung tâm. Những cột đá khổng lồ từng mọc tua tủa trên ngọn núi của Orochi năm xưa thực chất chính là những chiếc gai vỏ đã phát triển dài ra qua năm tháng.
 
 So với lần trước thì lớp vỏ này có vẻ non nớt hơn đôi chút, nhưng bảo rằng nó giòn rụm dễ phá vỡ thì tuyệt đối là chuyện hoang đường!
 
 Để tiêu diệt triệt để một quái vật sở hữu năng lực tái sinh vô hạn như Yamata no Orochi, con đường duy nhất là phải đập vỡ nát viên Lõi khổng lồ nằm sâu bên trong trung tâm cơ thể của nó!
 
-Vừa phải né tránh những cơn mưa pháo kích Breath dồn dập từ bốn chiếc đầu, vừa phải tìm cách công phá lớp vỏ cứng như kim cương để chạm tới viên Lõi bên trong — sự khó khăn cùng cực ấy hằn rõ trên nét mặt căng thẳng của Ryuuichi.
+Vừa phải né tránh những cơn mưa pháo kích hơi thở dồn dập từ bốn chiếc đầu, vừa phải tìm cách công phá lớp vỏ cứng như kim cương để chạm tới viên Lõi bên trong — sự khó khăn cùng cực ấy hằn rõ trên nét mặt căng thẳng của Ryuuichi.
 
 “Nếu có thể tập trung toàn lực oanh tạc một điểm thì lớp vỏ kia không phải là không thể phá vỡ, nhưng mà...”
 
 “Đéo làm được trò đó thì tao mới phải trầy vi tróc vảy thế này đây!”
 
-Băng qua làn hỏa lực phòng không dày đặc của những luồng Breath, họ đã tung ra không ít đòn tấn công vào lớp vỏ ngoài. Những quả cầu lửa khổng lồ của Hắc Long dẫu đã khoét sâu vào lớp giáp đá, nhưng vết nứt vẫn còn quá nông.
+Băng qua làn hỏa lực phòng không dày đặc của những luồng hơi thở hủy diệt, họ đã tung ra không ít đòn tấn công vào lớp vỏ ngoài. Những quả cầu lửa khổng lồ của Hắc Long dẫu đã khoét sâu vào lớp giáp đá, nhưng vết nứt vẫn còn quá nông.
 
-Năm xưa khi Kotarou dùng chú thuật 『Đầm Lầy Thối Rữa』 (Kusari-numa) để ăn mòn đào hố, độ dày của lớp vỏ lên tới khoảng 5 mét. Dẫu có lạc quan dự đoán rằng số đầu giảm một nửa thì độ dày lớp vỏ cũng giảm một nửa đi chăng nữa, thì hỏa lực hiện tại vẫn chưa đủ sức để xuyên thủng.
+Năm xưa khi Kotarou dùng chú thuật 『Đầm Lầy Thối Rữa』 để ăn mòn đào hố, độ dày của lớp vỏ lên tới khoảng 5 mét. Dẫu có lạc quan dự đoán rằng số đầu giảm một nửa thì độ dày lớp vỏ cũng giảm một nửa đi chăng nữa, thì hỏa lực hiện tại vẫn chưa đủ sức để xuyên thủng.
 
 Cứ tiếp tục chiến đấu theo kiểu cù cưa tiêu hao này thì không biết phải mất bao nhiêu thời gian mới phá hủy được Lõi——
 
@@ -40,7 +40,9 @@ Cứ tiếp tục chiến đấu theo kiểu cù cưa tiêu hao này thì không
 
 “Vãi chưởng, tha cho bố mày cái đi!”
 
-*RẦM RẦM RẦM!* Mặt đất bỗng nhiên trồi lên dữ dội. Hất tung toàn bộ cây cối trong khu vườn cổ đại, một ngọn tháp trắng khổng lồ khác từ dưới lòng đất đâm toạc mặt đất vươn thẳng lên trời cao — đó chính là CHIẾC ĐẦU THỨ NĂM CỦA OROCHI!
+*RẦM RẦM RẦM!* 
+
+Mặt đất bỗng nhiên trồi lên dữ dội. Hất tung toàn bộ cây cối trong khu vườn cổ đại, một ngọn tháp trắng khổng lồ khác từ dưới lòng đất đâm toạc mặt đất vươn thẳng lên trời cao — đó chính là CHIẾC ĐẦU THỨ NĂM CỦA OROCHI!
 
 “Con hàng này mang thuộc tính Phong à!”
 
@@ -58,7 +60,7 @@ Thế nhưng sự xuất hiện của chiếc đầu thứ năm đã phá vỡ t
 
 “Lại cái gì nữa đây!? Đừng bảo là cái đầu thứ sáu cũng mọc ra luôn rồi đấy nhé!”
 
-“Bản thể gốc (Original) và Sakura đã tới rồi kìa! Chưa hết, đằng kia Bếp Trưởng (Mei-chan) cũng đang chạy tới nữa!”
+“Bản thể gốc và Sakura đã tới rồi kìa! Chưa hết, đằng kia Bếp Trưởng cũng đang chạy tới nữa!”
 
 “Momokawa và Futaba tới rồi sao!”
 
@@ -74,7 +76,7 @@ Cả hai nhóm dường như đã nắm bắt được vị trí của nhau, đa
 
 “Muốn bị hất văng xuống đất gãy xương không hả con ranh hầu gái kia!?”
 
-“Oái oái! Chủ nhân ơi giữ chặt Momoko với đừng buông tay mà hu hu!”
+“Oái oái! Chủ nhân ơi giữ chặt Momoko với, đừng buông tay mà hu hu!”
 
 “Im mồm hết đi, mau làm việc cho xong chuyện lẹ lên!”
 
@@ -84,7 +86,7 @@ Vừa tăng tốc lượn một vòng cung lớn trên không trung giữa nhữ
 
 “Đương nhiên rồi, cứ tin tưởng giao hết cho thiếp!”
 
-“LỰU ĐẠN KHÓI (SMOKE GRENADE), KHAI HỎA BẮN PHÁTTTTT!”
+“Lựu đạn khói, khai hỏa bắn phááát!”
 
 Ngay khoảnh khắc Ryuuichi nhảy vọt khỏi lưng rồng, Momoko liền nhanh như chớp rút ra hai khẩu súng phóng lựu từ bên dưới váy hầu gái, bắn xối xả những quả đạn khói mù mịt!
 
@@ -92,9 +94,9 @@ Màn khói đen dày đặc lập tức bùng nổ giữa không trung, bao ph�
 
 Để xua tan màn khói đen che mắt, chiếc đầu thứ năm hệ Phong liền há to miệng định phóng ra cơn lốc đao gió quét sạch chướng ngại.
 
-“NGẬM CÁI MỒM LẠI CHO TAO——**『VÒNG XOÁY U MINH』 (Vòng Xoáy U Minh)!**”
+“NGẬM CÁI MỒM LẠI CHO TAO——**『VÒNG XOÁY U MINH』!**”
 
-Vung cao thanh vương kiếm bóng tối 『Minh Kiếm Zamudo』, Ryuuichi mượn trọn gia tốc rơi tự do bổ thẳng một nhát chém kinh hoàng xuống đầu con xà quái!
+Vung cao thanh bảo kiếm hoàng kim bóng tối 『Vương Kiếm Zamd』, Ryuuichi mượn trọn gia tốc rơi tự do bổ thẳng một nhát chém kinh hoàng xuống đầu con xà quái!
 
 Vòng xoáy hủy diệt màu đen tuyền phát nổ long trời lở đất, nghiền nát và đục thủng một lỗ lớn xuyên qua chiếc đầu khổng lồ! Hứng trọn đòn sát thủ cực nặng, chiếc đầu thứ năm vỡ vụn một nửa rồi đổ gục bất động.
 
@@ -112,19 +114,19 @@ Thoát ly khỏi tầm ngắm của Orochi, nhóm của Ryuuichi liền bay th�
 
 ---
 
-“——HIMENO-SAN ĐANG LÀM CÁI TRÒ GÌ THẾ HẢ!? Mau tay mau chân lên một chút đi, không kịp giờ bây giờ!!”
+“——Himeno-san đang làm cái trò gì thế hả!? Mau tay mau chân lên một chút đi, không kịp giờ bây giờ!!”
 
 “Hức... hu hu hu... Tại sao lại có mỗi một mình tôi phải chịu khổ thế này cơ chứ...”
 
-Khi Ryuuichi đáp xuống điểm hẹn, nơi đây đã biến thành một công trường hỏa tốc đầy mùi thuốc súng và ma pháp cuộn trào.
+Khi Ryuuichi đáp xuống điểm hẹn, nơi đây đã biến thành một công trường hỏa tốc ngập tràn mùi thuốc súng và ma pháp cuộn trào.
 
-Địa điểm là một công trình kiến trúc cổ kính tựa như ngôi đền nằm ẩn mình giữa rừng rậm, nơi có bậc thang dẫn thẳng xuống tầng sâu nhất (tầng đáy). Nhờ có ma pháp bảo hộ cổ đại nên các bức tường đá hầu như không hề bị xói mòn hay hư hại. Ngay giữa đại sảnh rộng lớn được bao quanh bởi những hàng cột đá khổng lồ, một lối cầu thang đá dốc đứng dẫn xuống lòng đất hiện ra rõ mồn một.
+Địa điểm là một công trình kiến trúc cổ kính tựa như ngôi đền nằm ẩn mình giữa rừng rậm, nơi có bậc thang dẫn thẳng xuống tầng sâu nhất. Nhờ có ma pháp bảo hộ cổ đại nên các bức tường đá hầu như không hề bị xói mòn hay hư hại. Ngay giữa đại sảnh rộng lớn được bao quanh bởi những hàng cột đá khổng lồ, một lối cầu thang đá dốc đứng dẫn xuống lòng đất hiện ra rõ mồn một.
 
 Và ngay tại nơi đó, Kotarou đang bày la liệt đủ loại nguyên liệu hỗn tạp, vận hành hết công suất hàng loạt chiếc 『Vạc Của Phù Thủy』 vừa đắp vội để cắm đầu luyện kim chế tác trang bị!
 
-Rơi vào tình cảnh dầu sôi lửa bỏng này mà vẫn cắm cúi ngồi chế đồ — Ryuuichi dẫu ngán ngẩm nhưng nhìn thấy nét mặt nghiêm nghị căng thẳng tột độ của Kotarou, cậu ta thừa hiểu tên Chú thuật sư này tuyệt đối không hề làm mấy trò rảnh rỗi vô nghĩa.
+Rơi vào tình cảnh dầu sôi lửa bỏng này mà vẫn cắm cúi ngồi chế đồ — Ryuuichi dẫu ngán ngẩm nhưng nhìn thấy nét mặt nghiêm nghị căng thẳng tột độ của Kotarou, cậu thừa hiểu tên Chú thuật sư này tuyệt đối không hề làm mấy trò rảnh rỗi vô nghĩa.
 
-Và bị cuốn vào guồng quay làm việc điên cuồng của Kotarou, Airi đang vừa khóc lóc thảm thiết vừa liên tục rót ma lực vào các ma pháp trận.
+Bị cuốn vào guồng quay làm việc điên cuồng của Kotarou, Airi đang vừa khóc lóc thảm thiết vừa liên tục rót ma lực vào các ma pháp trận.
 
 “A, Ryuuichi!”
 
@@ -168,7 +170,7 @@ Chỉ liếc mắt một cái rồi cất tiếng hỏi ngắn gọn, Kotarou nh
 
 Nhìn Momoko hớn hở lục tung chiếc túi không đáy của Kotarou để trang bị tận răng, Ryuuichi liền rút một điếu thuốc lá từ trong túi áo ra châm lửa rít một hơi dài.
 
-Yamata no Orochi ở đằng xa đang điên cuồng tìm kiếm kẻ địch hay đang gầm thét giận dữ? Những tiếng nổ đinh tai nhức óc của các chùm tia Breath dội lại như tiếng sấm rền vang vọng khắp không gian.
+Yamata no Orochi ở đằng xa đang điên cuồng tìm kiếm kẻ địch hay đang gầm thét giận dữ? Những tiếng nổ đinh tai nhức óc của các luồng hơi thở dội lại như tiếng sấm rền vang vọng khắp không gian.
 
 Giữa những tiếng gầm rú rung chuyển đất trời, tựa lưng vào cột đá nhả ra một làn khói thuốc mờ ảo, Ryuuichi trầm giọng hỏi:
 
@@ -216,7 +218,7 @@ Và thế là, phân thân của Kotarou cùng Sakura lập tức lao xuống c�
 
 Sở dĩ Ryuuichi chấp nhận để nhóm Ryouko liều mình xuống tầng dưới trước là vì ở lại khu vực này còn nguy hiểm gấp vạn lần!
 
-Yamata no Orochi vẫn đang lồng lộn xả năm chùm tia Breath điên cuồng khắp nơi, chẳng khác nào việc dựng xưởng sản xuất giữa một khu công nghiệp đang bị máy bay rải thảm bom. Bất kỳ giây phút nào tiếp theo, một quả cầu Breath bay lạc bắn trúng ngôi đền này là mọi thứ sẽ nổ tung thành tro bụi ngay!
+Yamata no Orochi vẫn đang lồng lộn xả năm luồng hơi thở điên cuồng khắp nơi, chẳng khác nào việc dựng xưởng sản xuất giữa một khu công nghiệp đang bị máy bay rải thảm bom. Bất kỳ giây phút nào tiếp theo, một quả cầu hủy diệt bay lạc bắn trúng ngôi đền này là mọi thứ sẽ nổ tung thành tro bụi ngay!
 
 Dĩ nhiên Ryuuichi biết rõ bản thể của Kotarou và Airi đang ở đây nên sẽ cố hết sức để kéo hướng tấn công của Orochi ra xa, nhưng đó tuyệt đối không phải là một sự bảo đảm an toàn 100%!
 
@@ -234,7 +236,7 @@ Dẫu vừa nói chuyện vừa duy trì tốc độ luyện kim không ngừng 
 
 “Rốt cuộc... ở dưới đó đang xảy ra chuyện gì thế hả!?”
 
-“Con gấu Kinako bị tẩy não vừa xả một phát Breath hủy diệt suýt thổi bay tất cả, may mà Sakura-chan kịp lao tới dựng 『Thánh Thiên Kết Giới』 đỡ đòn trong gang tấc!”
+“Con gấu Kinako bị tẩy não vừa xả một phát hơi thở hủy diệt suýt thổi bay tất cả, may mà Sakura-chan kịp lao tới dựng 『Thánh Thiên Kết Giới』 đỡ đòn trong gang tấc!”
 
 “N-Nguy hiểm đến mức ngàn cân treo sợi tóc thế cơ à!?”
 
@@ -242,7 +244,7 @@ Nhờ phân thân kịp thời xuất hiện giải cứu đồng đội khỏi 
 
 Không chỉ có trận chiến ác liệt với Yamata no Orochi trên mặt đất, mà ngay tại tầng đáy sâu nhất, một cuộc tử chiến sinh tử cũng đang nổ ra dữ dội!
 
-“Con gấu Kinako đã bị con nhỏ Kotori cấy cánh và cải tạo thành Thánh Thú ánh sáng cực kỳ hung bạo, phân thân của tôi bắt buộc phải kích hoạt Chú thuật Khổng Lồ Hóa (Kyojinka) mới cầm cự nổi... Himeno-san à, mọi chuyện giờ trông cậy hết vào cô đấy!”
+“Con gấu Kinako đã bị con nhỏ Kotori cấy cánh và cải tạo thành Thánh Thú ánh sáng cực kỳ hung bạo, phân thân của tôi bắt buộc phải kích hoạt kỹ năng 『Khổng Lồ Hóa』 mới cầm cự nổi... Himeno-san à, mọi chuyện giờ trông cậy hết vào cô đấy!”
 
 “O-Oái... Đừng có đẩy hết gánh nặng sang cho tôi mà hu hu...”
 

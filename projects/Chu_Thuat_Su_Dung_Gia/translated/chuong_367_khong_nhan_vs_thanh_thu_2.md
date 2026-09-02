@@ -2,65 +2,65 @@
 
 Nhóm Kotarou cũng gia nhập vào trận quyết chiến dữ dội giữa hai thực thể khổng lồ Rem và Kinako.
 
-Để phá hủy đôi cánh được cho là nguồn năng lượng và động lực di chuyển của một Kinako đang điên cuồng bạo tẩu, mỗi người đều cầm trên tay vũ khí bù đắp lượng ma lực thiếu hụt và tiến vào vị trí.
+Để phá hủy đôi cánh vốn được xem là nguồn cung cấp năng lượng và động lực di chuyển của một Kinako đang cuồng loạn bạo tẩu, từng người đều cầm chắc vũ khí bù đắp lượng ma lực thiếu hụt rồi nhanh chóng tiến vào vị trí.
 
 “— Bắn!”
 
-Cùng với hiệu lệnh, một loạt đạn đồng loạt nổ súng. Những quả lựu đạn dạng bom lõi cỡ nhỏ phóng ra từ ống phóng lao đi với tốc độ như mũi tên bắn. Dù là loại lựu đạn có kích thước lớn hơn đạn thường, chúng không bay theo đường parabol mà lao thẳng tắp, găm thẳng vào đôi cánh đang dang rộng của Thánh Thú.
+Cùng với hiệu lệnh, loạt súng đồng thanh khai hỏa. Những quả lựu đạn bom lõi cỡ nhỏ phóng ra từ ống phóng xé gió lao đi với tốc độ như tên bắn. Dù có kích thước lớn hơn đạn thường, chúng không hề bay theo quỹ đạo cầu vồng mà lao thẳng tắp, găm chuẩn xác vào đôi cánh đang dang rộng của Thánh Thú.
 
-Cùng với ngọn lửa bùng nổ, thay vì những chiếc lông vũ bay lả tả, những luồng lân quang màu xanh lam nhạt phun trào dữ dội.
+Cùng với cột lửa bùng nổ dữ dội, thay vì lông vũ bay lả tả, những luồng lân quang màu lam nhạt lại phun trào cuồn cuộn.
 
 “Pư-gư-rư-aaaa!”
 
-Đôi cánh vẫn tỏa sáng như cũ, nhưng có vẻ đòn tấn công này đã đủ để gây ra sự kích thích mà Kinako không thể ngó lơ. Dù ban đầu nó chỉ tập trung vào gã khổng lồ trước mắt và chẳng thèm để mắt đến nhóm Kotarou đang di chuyển vào vị trí, nhưng giờ đây, nó đã hướng ánh mắt giận dữ sắc l lẹm về phía lũ con người dám cả gan quấy rối.
+Đôi cánh vẫn tỏa sáng rực rỡ như cũ, nhưng đòn tấn công vừa rồi rõ ràng đã đủ gây ra kích thích khiến Kinako không thể làm ngơ. Ban đầu nó chỉ tập trung vào gã khổng lồ trước mắt mà chẳng thèm đoái hoài đến nhóm Kotarou đang tản ra lập trận thế, nhưng giờ đây, nó đã quắc mắt giận dữ, trừng trừng nhìn lũ con người dám cả gan quấy rối.
 
 “Gư-ga-aaaaa!”
 
-Thế nhưng, Rem không cho phép nó làm gì thêm. Kinako vốn đang duy trì thế thượng phong nhờ tốc độ vượt trội, nhưng chỉ cần một chút lơ là, Rem sẽ lập tức chuyển sang thế công.
+Thế nhưng, Rem tuyệt đối không cho phép nó manh động. Kinako vốn duy trì được thế thượng phong là nhờ tốc độ vượt trội, chỉ cần một thoáng phân tâm, Rem sẽ lập tức chớp thời cơ chuyển sang thế công.
 
-Ngay khi Kinako có biểu hiện như muốn lao thẳng về phía Minami — người vừa nổ súng ở cự ly gần nhất, Rem đã gầm lên một tiếng, vung nắm đấm thép đen bọc trong giáp tay nện thẳng vào nó.
+Ngay khi Kinako có ý định lao thẳng về phía Minami — người vừa nổ súng ở cự ly gần nhất, Rem đã gầm lên một tiếng long trời lở đất, vung nắm đấm thép đen bọc trong giáp tay nện thẳng vào nó.
 
-“Minami, đứng ở vị trí đó nguy hiểm lắm đấy.”
+“Minami, đứng ở vị trí đó nguy hiểm lắm đấy!”
 
-“Không sao đâu, Sakura-chan. Trong số chúng ta, tớ là người di chuyển nhanh nhất mà!”
+“Không sao đâu, Sakura-chan! Trong số chúng ta, tớ là người chạy nhanh nhất mà!”
 
-Tận dụng sự nhanh nhẹn và khéo léo của một 『Đạo Tặc』, Minami chạy vòng quanh với tốc độ cao ở hướng ngược lại với Thiên Tống Môn — nơi nhóm Ryouko đang trấn giữ. Cô hiên ngang phơi bày thân hình nhỏ nhắn của mình làm mồi nhử, liên tục xả đạn từ khẩu súng phóng lựu cầm bằng cả hai tay.
+Tận dụng sự nhanh nhẹn và khéo léo của một 『Đạo Tặc』, Minami lướt đi với tốc độ cực cao theo hướng ngược lại với Thiên Tống Môn — nơi nhóm Ryouko đang trấn giữ. Cô hiên ngang phơi bày thân hình nhỏ nhắn làm mồi nhử, liên tục xả đạn từ khẩu súng phóng lựu cầm bằng cả hai tay.
 
-Dù đã có Thiên Tống Môn làm vật che chắn, nhưng những người gặp nguy hiểm nhất nếu bị nhắm tới chính là cặp đôi ma pháp sư thuần túy Ryouko và Kyouko, những người đã cạn kiệt ma lực và bị giảm sút chiến lực trầm trọng. Bằng mọi giá phải tránh việc Kinako tiếp cận họ. Kotarou cũng đã nghiêm lệnh cho Rem phải tuyệt đối ngăn chặn điều đó. Hoàn toàn không phải vì bản thân cậu ta cũng đang đứng cùng vị trí với họ đâu, tuyệt đối không phải.
+Dù đã có Thiên Tống Môn làm vật che chắn, nhưng những người gặp nguy hiểm nhất nếu bị nhắm tới lại chính là cặp đôi ma pháp sư thuần túy Ryouko và Kyouko — những người đã cạn kiệt ma lực và suy giảm chiến lực trầm trọng. Bằng mọi giá phải ngăn Kinako áp sát họ. Kotarou cũng đã hạ nghiêm lệnh cho Rem phải tuyệt đối cản đường nó. Hoàn toàn không phải vì bản thân cậu ta cũng đang núp cùng chỗ với họ đâu, tuyệt đối không phải.
 
-“Sakura-chan mới là người phải cẩn thận đấy. Phát bắn tiếp theo sẽ là đòn quyết định đúng không?”
+“Sakura-chan mới là người phải cẩn thận đấy! Phát bắn tiếp theo sẽ là đòn quyết định đúng không?”
 
 “Trong tình cảnh này thì không còn cách nào khác. Chỉ có thể dùng nó thôi...”
 
-Với vẻ mặt đầy miễn cưỡng, Sakura rút một mũi tên từ ống tên sau lưng, đặt lên dây cung đang tỏa sáng của 『Thánh Nữ Hòa Cung』.
+Với vẻ mặt đầy miễn cưỡng, Sakura rút một mũi tên từ bao tên sau lưng, đặt lên dây cung đang tỏa sáng của 『Thánh Nữ Hòa Cung』.
 
-『Xuyên Quán Hoàn』: Mũi tên ma pháp chuyên dụng cho khả năng xuyên thấu với phần đầu mũi tên dạng xoắn ốc. Khi Souma Sakura đặt nó lên 『Thánh Nữ Hòa Cung』, mũi tên sẽ được nạp đầy ma lực. Khi bắn ra, nó sẽ thoát khỏi đầu mũi tên và lông vũ để gia tốc mạnh mẽ hơn nữa, và ngay khi trúng mục tiêu, nó sẽ bùng nổ thành một ma pháp tấn công thuộc tính Quang cực kỳ sắc bén và nhỏ gọn. Vì việc đặt một cái tên quá ngầu cho trang bị chuyên dụng của Souma Sakura khiến Kotarou cảm thấy rất ấm ức (như trường hợp của 『Anh Hoa Liêu Loạn』), nên rút kinh nghiệm sâu sắc, quyền đặt tên lần này đã được nhường lại cho Hayama Ritsuki.
+『Xuyên Quán Hoàn』: Mũi tên ma pháp chuyên dụng cho khả năng đâm xuyên với phần đầu mũi tên dạng xoắn ốc. Khi Souma Sakura đặt nó lên 『Thánh Nữ Hòa Cung』, mũi tên sẽ được nạp đầy ma lực. Khi bắn ra, nó sẽ thoát khỏi đầu mũi tên và lông vũ để gia tốc mạnh mẽ hơn nữa, rồi ngay khoảnh khắc trúng mục tiêu, nó sẽ bùng nổ thành một ma pháp tấn công thuộc tính Quang cực kỳ sắc bén và cô đặc. Vì việc đặt một cái tên quá kêu cho trang bị chuyên dụng của Souma Sakura từng khiến Kotarou cảm thấy vô cùng ấm ức (như trường hợp của 『Anh Hoa Liêu Loạn』), nên sau khi rút kinh nghiệm sâu sắc, quyền đặt tên lần này đã được nhường lại cho Hayama Ritsuki.
 
-Trang bị chuyên dụng mà Kotarou chuẩn bị cho Sakura không chỉ có cây trường đao 『Anh Hoa Liêu Loạn』. Để phát huy tối đa hiệu quả của 『Thánh Nữ Hòa Cung』 vốn là vũ khí tầm xa chủ lực hiện tại của cô, cậu đã chế tạo ra những mũi tên mang các hiệu ứng khác nhau.
+Trang bị chuyên dụng mà Kotarou chuẩn bị cho Sakura không chỉ có cây trường đao 『Anh Hoa Liêu Loạn』. Để phát huy tối đa hiệu quả của 『Thánh Nữ Hòa Cung』 vốn là vũ khí tầm xa chủ lực hiện tại của cô, cậu đã chế tạo ra hàng loạt mũi tên mang nhiều hiệu ứng chuyên biệt khác nhau.
 
-Ý tưởng này thực chất đã có từ thời chiến dịch thảo phạt Yamata no Orochi, nhưng do hạn chế về nguồn nhu yếu phẩm và kỹ thuật ma pháp, nó đã không thể đưa vào thực tiễn trong thời kỳ ở Học Viện Tháp.
+Ý tưởng này thực chất đã nhen nhóm từ thời chiến dịch thảo phạt Yamata no Orochi, nhưng do hạn chế về nguồn nhu yếu phẩm cùng kỹ thuật ma pháp lúc bấy giờ, nó đã không thể đưa vào thực tiễn trong thời kỳ ở Học Viện Tháp.
 
-Tuy nhiên, nhờ vào kỹ nghệ luyện kim ngày càng tiến bộ cùng nguồn nguyên liệu dồi dào từ vũ khí cổ đại, cậu đã kịp thời hoàn thành chúng cho trận chiến lần này.
+Tuy nhiên, nhờ vào kỹ nghệ luyện kim ngày càng hoàn thiện cùng nguồn nguyên liệu dồi dào thu được từ vũ khí cổ đại, cậu đã kịp thời hoàn thành chúng cho trận quyết chiến lần này.
 
 *“Nói thật thì, uy lực Quang ma thuật của Sakura-chan có hơi nửa vời nhỉ. Đến cả cái lõi của Orochi còn chẳng phá nổi cơ mà.”*
 
-Nghĩ lại cảnh Kotarou nở nụ cười chế giễu từ tận đáy lòng rồi bảo: *“Ta đã cất công làm mũi tên ma pháp cho Sakura-chan rồi đây, mau biết ơn mà nhận lấy đi”* trong lúc cố tình đứng lên một chiếc hộp gỗ để nhìn xuống cô mà ban phát, Sakura lại thấy sôi cả máu. Thực tế lúc đó cô đã nổi điên và đẩy cậu ta ngã nhào khỏi hộp gỗ, nhưng giận thì giận, cô vẫn trang bị nó đàng hoàng. Chính là để dùng vào những lúc như thế này.
+Nghĩ lại cảnh Kotarou nở nụ cười mỉa mai từ tận đáy lòng rồi bảo: *“Ta đã cất công làm mũi tên ma pháp cho Sakura-chan rồi đây, mau biết ơn mà nhận lấy đi”* trong lúc cố tình đứng lên một chiếc hộp gỗ để nhìn xuống cô mà ban phát, Sakura lại thấy sôi máu. Thực tế lúc đó cô đã nổi điên và xô cậu ta ngã nhào khỏi hộp gỗ, nhưng giận thì giận, cô vẫn trang bị cẩn thận. Chính là để dùng vào những thời khắc then chốt như thế này.
 
-“Tớ sẽ cố hết sức dồn ma lực để gia tăng uy lực. Cậu giúp tớ thu hút sự chú ý của nó thêm một chút nữa nhé, Minami.”
+“Tớ sẽ dồn toàn bộ ma lực để gia tăng tối đa uy lực. Cậu giúp tớ thu hút sự chú ý của nó thêm một chút nữa nhé, Minami!”
 
-“Cứ giao cho tớ! — Nào Kinako, tớ ở đây này, lại đây đi!”
+“Cứ giao cho tớ! — Nào Kinako, tớ ở đây này, lại đây mau!”
 
-Minami nở nụ cười, cất tiếng gọi hoạt bát như những ngày xưa cũ, đồng thời hai khẩu súng phóng lựu trên tay cô liên tục khạc lửa.
+Minami nở nụ cười, cất tiếng gọi hoạt bát như những ngày xưa cũ, đồng thời hai khẩu súng phóng lựu trên tay cô liên tục khạc lửa rền vang.
 
-Về phần Sakura, dù cô không muốn phải dựa dẫm vào thứ đồ do cậu ta làm ra chút nào, nhưng qua đòn tấn công lúc trước, cô thừa hiểu nếu chỉ bắn Quang ma thuật thông thường bằng cung thì sẽ không thể tạo ra đòn đánh hiệu quả. Đến nước này rồi thì không còn chỗ cho sự kén chọn nữa, ngay cả một người như Sakura cũng tự ý thức được điều đó.
+Về phần Sakura, dù chẳng hề muốn dựa dẫm vào thứ đồ do tên chú thuật sư kia làm ra, nhưng qua đòn tấn công lúc trước, cô thừa hiểu nếu chỉ bắn Quang ma thuật thông thường bằng cung thì không thể tạo ra đòn đánh đủ sức nặng. Đến nước này rồi thì không còn chỗ cho sự kén chọn nữa, ngay cả một người cố chấp như Sakura cũng tự ý thức được điều đó.
 
-Điểm nộ khí của Kinako đang được Rem và Minami kiểm soát rất tốt. Giữa cơn bão chấn động từ những cú đấm của gã khổng lồ và những vụ nổ nhỏ liên tiếp, luồng dao động ma lực mà Sakura đang tập trung tích tụ dường như đã bị che lấp hoàn toàn. Kinako không hề để mắt đến Sakura — người đang tạm dừng tấn công, và vô tình phơi bày tấm lưng với đôi cánh trắng dang rộng ngay trước mũi tên đã lên dây.
+Điểm nộ khí của Kinako đang được Rem và Minami kiểm soát rất tốt. Giữa cơn bão chấn động từ những cú đấm thép của gã khổng lồ và những vụ nổ liên tiếp, luồng dao động ma lực mà Sakura đang tập trung tích tụ dường như đã bị che lấp hoàn toàn. Kinako không hề để mắt đến Sakura — người đang tạm dừng tấn công, và vô tình phơi bày tấm lưng với đôi cánh trắng dang rộng ngay trước mũi tên đã căng dây.
 
 “— Xuyên phá đi, 『Xuyên Quán Hoàn』!”
 
-Tin sái cổ lời nói dối trắng trợn của Kotarou rằng *“khi bắn phải hét thật to tên chiêu thức nhé”*, Sakura nghiêm túc hét lớn. Ngay lập tức, một luồng xoắn ốc ánh sáng xanh lam nhạt phóng ra từ cánh cung đang kéo căng của Thánh Nữ.
+Tin sái cổ lời nói dối trắng trợn của Kotarou rằng *“khi bắn bắt buộc phải hét thật to tên chiêu thức”*, Sakura nghiêm túc hét lớn. Ngay lập tức, một luồng xoắn ốc ánh sáng lam nhạt phóng ra từ cánh cung đang kéo căng của Thánh Nữ.
 
-*Đoàng!* Một tiếng nổ đanh tai như xé toạc bức tường không khí vang lên. Luồng xoắn ốc ánh sáng bỏ lại âm thanh phía sau, lao đi vun vút, tỏa ra vầng hào quang chói lọi và găm thẳng vào chính giữa cánh phải của mục tiêu.
+*Đoàng!* Một tiếng nổ đanh gọn như xé toạc bức tường không khí vang lên. Luồng xoắn ốc ánh sáng bỏ lại âm thanh phía sau, lao đi vun vút, tỏa ra vầng hào quang chói lọi và găm thẳng vào chính giữa cánh phải của mục tiêu.
 
 “Pư-gô-ooooooo?!”
 
@@ -76,39 +76,39 @@ Cùng với luồng lân quang bùng nổ theo hình tròn lớn, mũi tên đã
 
 “Vậy thì Sakura-chan, cứ giữ vững phong độ đó nhé!”
 
-Dù Sakura cuối cùng cũng nhận ra âm mưu của tên chú thuật sư xảo quyệt, nhưng Kinako không phải là kẻ sẽ bỏ qua cho kẻ thù vừa gây ra vết thương khiến nó phải gào lên đau đớn.
+Dù Sakura cuối cùng cũng nhận ra âm mưu trêu chọc của tên chú thuật sư xảo quyệt, nhưng Kinako không phải là kẻ sẽ bỏ qua cho kẻ thù vừa gây ra vết thương khiến nó phải gào thét đau đớn.
 
-Nó trợn trừng đôi mắt vằn tia máu nhìn chằm chằm vào Sakura — người đang hét lên chửi bới Kotarou bằng cả tông giọng. Ngay lập tức, Rem đã lao vào chắn ngang giữa hai bên.
+Nó trợn trừng đôi mắt vằn tia máu nhìn chằm chằm vào Sakura — người đang gào lên mắng mỏ Kotarou bằng cả thanh quản. Ngay lập tức, Rem đã lao vào chắn ngang giữa hai bên.
 
 “Ư... bây giờ không phải lúc để bận tâm đến cái thứ như Momokawa... Rem, cố gắng thêm một chút nữa nhé!”
 
-Nhìn bóng lưng to lớn — thậm chí là quá lớn của Rem đang xả thân bảo vệ mình, Sakura lấy lại ý chí chiến đấu, rút thêm một mũi 『Xuyên Quán Hoàn』 nữa từ ống tên.
+Nhìn tấm lưng to lớn — thậm chí là vĩ đại của Rem đang xả thân che chắn cho mình, Sakura lấy lại ý chí chiến đấu, rút thêm một mũi 『Xuyên Quán Hoàn』 nữa từ bao tên.
 
 *— Chỉ còn một chút nữa thôi.*
 
-Thế trận giằng co như đi trên dây vẫn tiếp diễn. Dù có thể coi là chúng tôi đang chiếm ưu thế nhờ liên tục đánh trúng mục tiêu, nhưng ngoại trừ Rem trong dạng khổng lồ hóa, bất kỳ ai trong chúng tôi chỉ cần dính một đòn của nó là cầm chắc cái chết.
+Thế trận giằng co như đi trên dây vẫn tiếp diễn. Dù có thể coi là phe ta đang chiếm ưu thế nhờ liên tục bắn trúng đích, nhưng ngoại trừ Rem trong dạng khổng lồ hóa, bất kỳ ai trong chúng tôi chỉ cần dính trọn một đòn của nó là cầm chắc cái chết.
 
-Thế nhưng, với vai trò là tanker chính, Rem liên tục bảo vệ chúng tôi, Natsukawa đóng vai trò là tanker né đòn, lũ Skeleton và Tank thỉnh thoảng cũng làm mồi nhử rất tốt, che chở hoàn hảo cho Sakura — người đang là sát thương chủ lực chịu trách nhiệm phá hủy đôi cánh. Nhờ sự bảo vệ đáng tin cậy của hai người họ, chúng tôi đã có thể tập trung hỏa lực và cuối cùng cũng kéo được thế trận đến mức chỉ cần một chút nữa là có thể phá hủy hoàn toàn đôi cánh của Kinako.
+Thế nhưng, với vai trò là tanker chính, Rem liên tục bảo bọc chúng tôi, Natsukawa đóng vai trò tanker né đòn thu hút sự chú ý, lũ Skeleton và Tank thỉnh thoảng cũng làm mồi nhử rất tốt, tạo thành bức tường che chở hoàn hảo cho Sakura — người đang giữ vai trò sát thương chủ lực chịu trách nhiệm phá hủy đôi cánh. Nhờ sự bảo vệ đáng tin cậy của họ, chúng tôi đã có thể tập trung toàn bộ hỏa lực và cuối cùng cũng kéo được thế trận đến mức chỉ cần một kích nữa là có thể phá hủy hoàn toàn đôi cánh của Kinako.
 
-Hào quang xanh lam nhạt của đôi cánh đã giảm độ sáng rõ rệt, và hình dáng của nó cũng đã biến dạng nghiêm trọng. Thay vì chảy máu, những luồng lân quang nhấp nháy yếu ớt liên tục rò rỉ ra ngoài. Hơn nữa, vì Sakura nhắm thẳng vào phần gốc cánh, nên cả hai bên cánh đều đã bị tàn phá đến mức như sắp đứt lìa.
+Hào quang lam nhạt của đôi cánh đã giảm độ sáng rõ rệt, kết cấu của nó cũng biến dạng nghiêm trọng. Thay vì chảy máu, những luồng lân quang nhấp nháy yếu ớt liên tục rò rỉ ra ngoài không gian. Hơn nữa, vì Sakura nhắm thẳng vào phần gốc cánh, nên cả hai bên cánh đều đã bị tàn phá đến mức như sắp đứt lìa.
 
-Đôi cánh ánh sáng sẽ sụp đổ trước, hay là bị chém đứt lìa trước đây? Tất cả phụ thuộc vào đòn tấn công tiếp theo.
+Đôi cánh ánh sáng sẽ tự sụp đổ trước, hay là bị bắn đứt lìa trước đây? Tất cả phụ thuộc vào đòn tấn công tiếp theo.
 
-*Nhưng mà, những lúc thế này mới là nguy hiểm nhất.*
+*Nhưng mà, những thời điểm thế này mới là lúc nguy hiểm nhất.*
 
-Thanh HP của Boss chỉ còn lại một lượng cực nhỏ. Chính vào những khoảnh khắc như vậy, việc bị phản công rồi chết lãng nhách, khiến mọi nỗ lực đổ sông đổ bể là chuyện quá đỗi quen thuộc trong game. Nếu là dòng game hardcore thì chuyện này xảy ra như cơm bữa.
+Thanh HP của Boss chỉ còn lại một lượng cực nhỏ. Chính vào những khoảnh khắc như vậy, việc bị phản công rồi chết lãng xẹt, khiến mọi công sức đổ sông đổ bể là chuyện quá đỗi quen thuộc trong game. Nếu là dòng game hardcore thì chuyện này xảy ra như cơm bữa.
 
 Tuy nhiên, ở thế giới thực tại này — nơi có độ khó ngang ngửa game hardcore nhưng lại tuyệt đối không có cơ hội làm lại dù chỉ một lần, chúng tôi lại càng phải cẩn trọng hơn gấp bội. Dù sao đi nữa, Kinako tuy đang bị tẩy não nhưng vẫn giữ được mức độ phán đoán nhất định trong chiến đấu.
 
-Nếu không, nó đã chỉ biết cắm đầu lao vào tấn công kẻ thù lớn nhất là Rem theo kiểu cơ bắp đần độn rồi. Việc nó biết tận dụng lợi thế về tính cơ động của đôi cánh để tấn công Rem đã chứng minh rõ ràng rằng nó đang chiến đấu có tính toán.
+Nếu không, nó đã chỉ biết cắm đầu lao vào tấn công kẻ thù lớn nhất là Rem theo kiểu cơ bắp đần độn rồi. Việc nó biết tận dụng lợi thế về tính cơ động của đôi cánh để quần thảo với Rem đã chứng minh rõ ràng rằng nó đang chiến đấu có tính toán.
 
-Chính vì thế, một khi bị dồn vào đường cùng đến mức sắp mất đi đôi cánh vốn là điểm mạnh của mình, nó chắc chắn sẽ...
+Chính vì thế, một khi bị dồn vào đường cùng đến mức sắp mất đi đôi cánh vốn là điểm tựa lớn nhất, nó chắc chắn sẽ...
 
-*Chấp nhận một chút rủi ro để tung ra đòn quyết định lật ngược thế cờ —*
+*Chấp nhận rủi ro để tung ra đòn quyết định lật ngược thế cờ —*
 
 “Pư-gô-aaaaaaa!”
 
-Cùng với tiếng gầm rú chói tai vang vọng, Kinako dang rộng đôi cánh đang tả tơi của mình như thể chuẩn bị vỗ cánh bay lên.
+Cùng với tiếng gầm rú chói tai vang vọng, Kinako dang rộng đôi cánh tơi tả như chuẩn bị vỗ cánh bay lên.
 
 “Lên đi, Rem! Nó sắp tung chiêu lớn đấy, mọi người lùi lại mau!”
 
@@ -118,7 +118,7 @@ Chẳng cần đợi tôi hét lên, mọi người khi cảm nhận được lu
 
 Chỉ vài giây sau, cơ thể khổng lồ nặng nề của Rem lao điên cuồng làm rung chuyển cả đại sảnh, tung ra cú húc thẳng vào Kinako.
 
-Ngay trước khi khối lượng khổng lồ bọc trong lớp giáp đen kịt va chạm, thứ bùng nổ trước lại là luồng ánh sáng chói lòa phát ra từ Kinako.
+Thế nhưng, ngay trước khi khối lượng khổng lồ bọc trong lớp giáp đen kịt va chạm, thứ bùng nổ trước lại là luồng ánh sáng chói lòa phát ra từ Kinako.
 
 “Gư-ga—”
 
@@ -140,7 +140,7 @@ Và Kinako đã nắm bắt thành công cơ hội chiến thắng đó.
 
 Tiếng động lớn vang vọng khắp nơi chính là âm thanh Rem bị đánh văng rơi xuống mặt đất. Cơ thể khổng lồ đổ rạp xuống, nằm ngửa ra. Kể từ khi trận chiến bắt đầu, đây là lần đầu tiên Rem để lộ ra sơ hở lớn và chí mạng đến vậy.
 
-And tất nhiên, Kinako không đời nào bỏ lỡ cơ hội ngàn vàng này.
+Và tất nhiên, Kinako không đời nào bỏ lỡ cơ hội ngàn vàng này.
 
 Vẫn mang theo luồng sáng ether rực rỡ trên hai cánh tay, Kinako lao thẳng về phía Rem đang nằm đo đất. Nó chẳng thèm liếc nhìn về phía chúng tôi lấy một cái. Cũng phải thôi, kẻ đang chống đỡ toàn bộ chiến tuyến của chúng tôi là gã khổng lồ Rem. Chỉ cần loại bỏ được Rem, chúng tôi — những kẻ mất đi sự bảo vệ của gã khổng lồ — sẽ chỉ là lũ tôm tép dễ dàng bị nghiền nát.
 
