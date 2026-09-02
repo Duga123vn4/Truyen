@@ -14,7 +14,7 @@ from typing import Tuple, Dict, Any, Optional, List
 from rich.console import Console
 from rich.prompt import Prompt, Confirm
 
-from tools.src.core.paths import MASTER_STYLE_GUIDE_FILE
+from tools.src.core.paths import MASTER_STYLE_GUIDE_FILE, DEEP_EDITOR_PROMPT_FILE
 from tools.src.core.ai_client import AIClient
 from tools.src.core.novel_context import NovelContext
 from tools.src.core.notifications import notify_completion
@@ -48,29 +48,25 @@ async def edit_single_chapter(
             )
 
             if glossary_mode == "full_cache":
-                full_canon = novel.get_full_canon_text()
+                canon_text = novel.get_full_canon_text()
+            else:
+                filtered_chars, filtered_terms = extract_relevant_glossary(original_text, characters_ctx, terms_ctx)
+                canon_text = f"--- TỪ ĐIỂN NHÂN VẬT & XƯNG HÔ ---\n{filtered_chars}\n\n--- TỪ ĐIỂN THUẬT NGỮ & KỸ NĂNG ---\n{filtered_terms}"
+
+            if DEEP_EDITOR_PROMPT_FILE.exists():
+                template = DEEP_EDITOR_PROMPT_FILE.read_text(encoding="utf-8")
+                system_prompt = template.replace("{{MASTER_RULES}}", master_rules)
+                system_prompt = system_prompt.replace("{{CANON_DATABASE}}", canon_text)
+                system_prompt = system_prompt.replace("{{STYLE_GUIDE}}", style_ctx)
+            else:
                 system_prompt = (
                     "Bạn là Chuyên gia Dịch thuật & Biên tập viên Cao cấp chuyên chuẩn hóa Light Novel tiếng Nhật sang tiếng Việt.\n\n"
                     f"{master_rules}\n\n"
                     "================================================================================\n"
                     "DƯỚI ĐÂY LÀ TOÀN BỘ CANON DATABASE V3.0 CỦA TÁC PHẨM NÀY:\n"
-                    "(Bao gồm: Mục lục Thực thể, Hồ sơ Nhân vật, Thuật ngữ, Phe phái, Thần linh,\n"
-                    " Động vật, Địa danh, Ma trận Xưng hô, Dòng thời gian Sự kiện)\n"
                     "================================================================================\n\n"
-                    f"{full_canon}\n\n"
+                    f"{canon_text}\n\n"
                     f"--- ĐỊNH HƯỚNG PHONG CÁCH RIÊNG CỦA BỘ TRUYỆN ---\n{style_ctx}\n"
-                )
-            else:
-                filtered_chars, filtered_terms = extract_relevant_glossary(original_text, characters_ctx, terms_ctx)
-                system_prompt = (
-                    "Bạn là Chuyên gia Dịch thuật & Biên tập viên Cao cấp chuyên chuẩn hóa Light Novel tiếng Nhật sang tiếng Việt.\n\n"
-                    f"{master_rules}\n\n"
-                    "================================================================================\n"
-                    "DƯỚI ĐÂY LÀ TỪ ĐIỂN GLOSSARY TINH GỌN CỦA CHƯƠNG NÀY:\n"
-                    "================================================================================\n\n"
-                    f"--- TỪ ĐIỂN NHÂN VẬT & XƯNG HÔ ---\n{filtered_chars}\n\n"
-                    f"--- TỪ ĐIỂN THUẬT NGỮ & KỸ NĂNG ---\n{filtered_terms}\n\n"
-                    f"--- PHONG CÁCH VĂN PHONG ---\n{style_ctx}\n"
                 )
 
             user_prompt = f"Dưới đây là nội dung chương {chapter_num} cần biên tập lại chuẩn chỉ 100%:\n\n{original_text}"

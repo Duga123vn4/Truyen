@@ -13,7 +13,7 @@ from pathlib import Path
 from typing import Tuple, Optional, Dict, Any, List
 from rich.console import Console
 
-from tools.src.core.paths import MASTER_STYLE_GUIDE_FILE
+from tools.src.core.paths import MASTER_STYLE_GUIDE_FILE, TRANSLATOR_PROMPT_FILE
 from tools.src.core.novel_context import NovelContext
 from tools.src.core.ai_client import AIClient
 from tools.src.services.smart_filter import extract_relevant_glossary
@@ -28,28 +28,27 @@ def build_translation_system_prompt(novel: NovelContext, raw_text: str, glossary
     style_ctx = novel.get_style_guide_text()
 
     if glossary_mode == "full_cache":
-        full_canon = novel.get_full_canon_text()
-        return (
-            "Bạn là Chuyên gia Dịch thuật Cao cấp chuyên chuyển ngữ Light Novel tiếng Nhật sang tiếng Việt.\n\n"
-            f"{master_rules}\n\n"
-            "================================================================================\n"
-            "DƯỚI ĐÂY LÀ TOÀN BỘ CANON DATABASE V3.0 CỦA TÁC PHẨM NÀY:\n"
-            "================================================================================\n\n"
-            f"{full_canon}\n\n"
-            f"--- ĐỊNH HƯỚNG PHONG CÁCH RIÊNG CỦA BỘ TRUYỆN ---\n{style_ctx}\n"
-        )
+        canon_text = novel.get_full_canon_text()
     else:
         filtered_chars, filtered_terms = extract_relevant_glossary(raw_text, novel.get_characters_text(), novel.get_terms_text())
-        return (
-            "Bạn là Chuyên gia Dịch thuật Cao cấp chuyên chuyển ngữ Light Novel tiếng Nhật sang tiếng Việt.\n\n"
-            f"{master_rules}\n\n"
-            "================================================================================\n"
-            "DƯỚI ĐÂY LÀ TỪ ĐIỂN GLOSSARY TINH GỌN CỦA CHƯƠNG NÀY:\n"
-            "================================================================================\n\n"
-            f"--- TỪ ĐIỂN NHÂN VẬT & XƯNG HÔ ---\n{filtered_chars}\n\n"
-            f"--- TỪ ĐIỂN THUẬT NGỮ & KỸ NĂNG ---\n{filtered_terms}\n\n"
-            f"--- PHONG CÁCH VĂN PHONG ---\n{style_ctx}\n"
-        )
+        canon_text = f"--- TỪ ĐIỂN NHÂN VẬT & XƯNG HÔ ---\n{filtered_chars}\n\n--- TỪ ĐIỂN THUẬT NGỮ & KỸ NĂNG ---\n{filtered_terms}"
+
+    if TRANSLATOR_PROMPT_FILE.exists():
+        template = TRANSLATOR_PROMPT_FILE.read_text(encoding="utf-8")
+        prompt = template.replace("{{MASTER_RULES}}", master_rules)
+        prompt = prompt.replace("{{CANON_DATABASE}}", canon_text)
+        prompt = prompt.replace("{{STYLE_GUIDE}}", style_ctx)
+        return prompt
+
+    return (
+        "Bạn là Chuyên gia Dịch thuật Cao cấp chuyên chuyển ngữ Light Novel tiếng Nhật sang tiếng Việt.\n\n"
+        f"{master_rules}\n\n"
+        "================================================================================\n"
+        "DƯỚI ĐÂY LÀ TOÀN BỘ CANON DATABASE V3.0 CỦA TÁC PHẨM NÀY:\n"
+        "================================================================================\n\n"
+        f"{canon_text}\n\n"
+        f"--- ĐỊNH HƯỚNG PHONG CÁCH RIÊNG CỦA BỘ TRUYỆN ---\n{style_ctx}\n"
+    )
 
 async def translate_chapter(
     raw_path: Path,

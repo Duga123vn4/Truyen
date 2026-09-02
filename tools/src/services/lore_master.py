@@ -14,7 +14,7 @@ from rich.console import Console
 from rich.prompt import Prompt
 from rich.panel import Panel
 
-from tools.src.core.paths import TOOLS_DIR
+from tools.src.core.paths import TOOLS_DIR, LORE_MASTER_PROMPT_FILE
 from tools.src.core.novel_context import NovelContext
 from tools.src.core.ai_client import AIClient
 
@@ -97,16 +97,20 @@ async def run_lore_master(novel: NovelContext, ai: AIClient):
 
         combined_evidence = f"{milestone_text}\n\n{scene_text}".strip()
 
-        system_instruction = (
-            "Bạn là AI Lore Master & Học Giả Cốt Truyện Tối Cao của bộ Light Novel này.\n"
-            "Nhiệm vụ của bạn là giải đáp câu hỏi của người dùng dựa TRÊN 2 TẦNG BẰNG CHỨNG XÁC THỰC CỐT TRUYỆN được cung cấp:\n"
-            "- Tầng 1: Các mốc biên niên sự kiện chính thức (Canon Milestones)\n"
-            "- Tầng 2: Các trích đoạn phân cảnh thực tế trong các chương truyện\n\n"
-            "QUY TẮC PHÂN TÍCH:\n"
-            "1. TÔN TRỌNG DÒNG THỜI GIAN: Phân biệt rõ sự phát triển tâm lý, quan hệ hoặc kế hoạch của nhân vật qua từng Arc (không nhầm lẫn trạng thái quá khứ với hiện tại).\n"
-            "2. TRÍCH DẪN RÕ RÀNG: Luôn ghi rõ thông tin dựa trên Tập số mấy làm bằng chứng cụ thể.\n"
-            "3. BẢO TOÀN SỰ THẬT NGUYÊN TÁC: Tuyệt đối không suy diễn vượt quá bằng chứng văn bản."
-        )
+        if LORE_MASTER_PROMPT_FILE.exists():
+            template = LORE_MASTER_PROMPT_FILE.read_text(encoding="utf-8")
+            system_instruction = template.replace("{{EVIDENCE}}", combined_evidence)
+        else:
+            system_instruction = (
+                "Bạn là AI Lore Master & Học Giả Cốt Truyện Tối Cao của bộ Light Novel này.\n"
+                "Nhiệm vụ của bạn là giải đáp câu hỏi của người dùng dựa TRÊN 2 TẦNG BẰNG CHỨNG XÁC THỰC CỐT TRUYỆN được cung cấp:\n"
+                "- Tầng 1: Các mốc biên niên sự kiện chính thức (Canon Milestones)\n"
+                "- Tầng 2: Các trích đoạn phân cảnh thực tế trong các chương truyện\n\n"
+                "QUY TẮC PHÂN TÍCH:\n"
+                "1. TÔN TRỌNG DÒNG THỜI GIAN: Phân biệt rõ sự phát triển tâm lý, quan hệ hoặc kế hoạch của nhân vật qua từng Arc (không nhầm lẫn trạng thái quá khứ với hiện tại).\n"
+                "2. TRÍCH DẪN RÕ RÀNG: Luôn ghi rõ thông tin dựa trên Tập số mấy làm bằng chứng cụ thể.\n"
+                "3. BẢO TOÀN SỰ THẬT NGUYÊN TÁC: Tuyệt đối không suy diễn vượt quá bằng chứng văn bản."
+            )
 
         user_prompt = (
             f"DƯỚI ĐÂY LÀ DỮ LIỆU TRUY VẾT BẰNG CHỨNG CỐT TRUYỆN:\n\n{combined_evidence}\n\n"
