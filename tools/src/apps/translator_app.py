@@ -23,6 +23,12 @@ from tools.src.services.translator import translate_chapter, generate_anime_illu
 
 console = Console()
 
+def clear_screen():
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        console.clear()
+
 async def run_syosetu_scraping(novel: NovelContext):
     """Cào chương raw từ Syosetu vào thư mục raw/."""
     code_or_url = Prompt.ask("\n[bold cyan]Nhập mã truyện Syosetu hoặc URL (Ví dụ: n1234xx hoặc https://ncode.syosetu.com/...)[/bold cyan]").strip()
@@ -92,11 +98,12 @@ async def run_batch_translation(novel: NovelContext, ai: AIClient):
     notify_completion(novel.name, "Dịch Raw AI", len(selected), elapsed)
 
 async def main():
+    from tools.src.apps.manager_app import configure_ai_menu
     cfg = load_config()
     ai = AIClient(cfg)
 
     while True:
-        console.clear()
+        clear_screen()
         console.print(Panel.fit(
             "[bold cyan]🌐 BỘ DỊCH THUẬT NOVEL AI THÔNG MINH ĐA NĂNG[/bold cyan] [bold magenta]— V3.0 MODULAR[/bold magenta]\n"
             "[bold green]🤖 AI Provider:[/bold green] [bold white]Gemini Free & LLMGate • FLUX Anime Generation • Syosetu Scraper[/bold white]",
@@ -120,11 +127,17 @@ async def main():
         console.print(table)
         console.print(f"\n[bold]Model dịch đang dùng:[/bold] [bold green]{ai.provider.upper()} ({ai.model})[/bold green]")
         console.print("\n  [bold yellow][1 - N][/bold yellow] Chọn bộ truyện để làm việc")
+        console.print("  [bold cyan]9.[/bold cyan] ⚙️  Cấu hình AI & API Keys (Gemini Free / LLMGate)")
         console.print("  [bold cyan]0.[/bold cyan] ❌ Thoát")
 
-        choice = Prompt.ask(f"\nNhập lựa chọn (0 - {len(novels)})", default="1")
+        choice = Prompt.ask(f"\nNhập lựa chọn (0 - {len(novels)} hoặc 9)", default="1")
         if choice == "0":
             break
+        elif choice == "9":
+            configure_ai_menu(cfg)
+            cfg = load_config()
+            ai = AIClient(cfg)
+            continue
 
         try:
             sel_idx = int(choice) - 1
@@ -135,7 +148,7 @@ async def main():
             continue
 
         while True:
-            console.clear()
+            clear_screen()
             console.print(Panel.fit(
                 f"[bold cyan]🎯 DỊCH THUẬT & SINH ẢNH — {selected_novel.name}[/bold cyan]\n"
                 f"[dim]Kênh AI: {ai.provider} ({ai.model})[/dim]",

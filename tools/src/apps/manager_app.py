@@ -27,10 +27,16 @@ from tools.src.services.lore_master import run_lore_master
 
 console = Console()
 
+def clear_screen():
+    if os.name == 'nt':
+        os.system('cls')
+    else:
+        console.clear()
+
 def configure_ai_menu(cfg: dict):
     """Menu tương tác cài đặt AI và API Keys."""
     while True:
-        console.clear()
+        clear_screen()
         active = cfg.get("active_provider", "llmgate")
         g_cfg = cfg.get("gemini_free", {})
         l_cfg = cfg.get("llmgate", {})
@@ -116,7 +122,7 @@ async def main():
     cfg = load_config()
 
     while True:
-        console.clear()
+        clear_screen()
         console.print(Panel.fit(
             "[bold cyan]📚 TRUNG TÂM QUẢN LÝ DỰ ÁN NOVEL & GLOSSARY STUDIO[/bold cyan] [bold magenta]— V3.0 MODULAR[/bold magenta]\n"
             "[bold green]🏛️ Kiến trúc:[/bold green] [bold white]Canon Database V3.0 • Atomic Claims • Anti-Hallucination Validator[/bold white]\n"
@@ -170,7 +176,7 @@ async def main():
             continue
 
         while True:
-            console.clear()
+            clear_screen()
             console.print(Panel.fit(
                 f"[bold cyan]🚀 TRUNG TÂM QUẢN TRỊ CANON & GLOSSARY STUDIO[/bold cyan]\n"
                 f"[bold green]📖 Đang làm việc với:[/bold green] [bold yellow]{selected_novel.name}[/bold yellow]\n"
