@@ -34,6 +34,7 @@ import json
 import time
 import asyncio
 import subprocess
+import webbrowser
 from pathlib import Path
 from typing import Dict, Any, List, Optional, Set
 
@@ -45,7 +46,7 @@ if str(WORKSPACE_DIR) not in sys.path:
     sys.path.insert(0, str(WORKSPACE_DIR))
 
 from tools.src.core.paths import PROJECTS_DIR, WEB_DIR, TOOLS_DIR
-from tools.src.core.config import load_config, save_config
+from tools.src.core.config import load_config, save_config, fetch_llmgate_models
 from tools.src.core.novel_context import NovelContext, discover_novels
 from tools.src.core.ai_client import AIClient
 from tools.src.services.syosetu_scraper import SyosetuNovel, extract_novel_code, clean_filename
@@ -178,18 +179,54 @@ async def get_config(request: web.Request) -> web.Response:
 
 async def update_config(request: web.Request) -> web.Response:
     data = await request.json()
-    save_config(data)
+    cur_cfg = load_config()
+    for k, v in data.items():
+        if isinstance(v, dict) and k in cur_cfg and isinstance(cur_cfg[k], dict):
+            cur_cfg[k].update(v)
+        else:
+            cur_cfg[k] = v
+    save_config(cur_cfg)
     state.cfg = load_config()
     state.ai = AIClient(state.cfg)
-    await state.log("Đã cập nhật cấu hình AI thành công!", "success")
+    await state.log(f"Đã cập nhật cấu hình AI thành công ({state.ai.provider} - {state.ai.model})!", "success")
     return web.json_response({"success": True, "config": state.cfg})
 
 async def test_config(request: web.Request) -> web.Response:
     try:
-        provider = state.ai.provider
-        model = state.ai.model
+        data = {}
+        if request.can_read_body:
+            try:
+                data = await request.json()
+            except Exception:
+                data = {}
+
+        if data and "provider" in data:
+            test_provider = data["provider"]
+            test_cfg = load_config()
+            test_cfg["active_provider"] = test_provider
+            if test_provider == "gemini_free":
+                if "api_key" in data and data["api_key"]:
+                    test_cfg["gemini_free"]["api_key"] = data["api_key"]
+                if "model" in data and data["model"]:
+                    test_cfg["gemini_free"]["model"] = data["model"]
+            elif test_provider == "llmgate":
+                if "api_key" in data and data["api_key"]:
+                    test_cfg["llmgate"]["api_key"] = data["api_key"]
+                if "base_url" in data and data["base_url"]:
+                    test_cfg["llmgate"]["base_url"] = data["base_url"]
+                if "model" in data and data["model"]:
+                    test_cfg["llmgate"]["model"] = data["model"]
+            client = AIClient(test_cfg)
+        else:
+            client = state.ai
+
+        provider = client.provider
+        model = client.model
         t0 = time.time()
-        res = await state.ai.generate("Xin chào! Hãy trả lời đúng 1 từ: 'OK'.", max_tokens=10)
+        res = await client.generate(
+            system_instruction="Bạn là trợ lý kiểm tra kết nối AI của NovelStudio.",
+            user_prompt="Xin chào! Hãy phản hồi đúng một từ duy nhất: 'OK'."
+        )
         elapsed = time.time() - t0
         return web.json_response({
             "success": True,
@@ -198,6 +235,18 @@ async def test_config(request: web.Request) -> web.Response:
             "response": res.strip(),
             "elapsed_seconds": round(elapsed, 2)
         })
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
+async def get_llmgate_models(request: web.Request) -> web.Response:
+    try:
+        cfg = load_config()
+        api_key = request.query.get("api_key", "").strip() or cfg.get("llmgate", {}).get("api_key", "")
+        base_url = request.query.get("base_url", "").strip() or cfg.get("llmgate", {}).get("base_url", "https://llmgate.app/v1")
+        if not api_key:
+            return web.json_response({"success": False, "error": "Chưa có LLMGate API Key"}, status=400)
+        models = await fetch_llmgate_models(api_key, base_url)
+        return web.json_response({"success": True, "models": models})
     except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
@@ -460,7 +509,7 @@ async def get_glossary(request: web.Request) -> web.Response:
     return web.json_response({
         "novel": novel.name,
         "total_terms": len(terms),
-        "terms": terms[:500]
+        "terms": terms[:2000]
     })
 
 async def auto_sync_glossary(request: web.Request) -> web.Response:
@@ -472,6 +521,54 @@ async def auto_sync_glossary(request: web.Request) -> web.Response:
         count = auto_sync_glossary_from_translated(novel)
         await state.log(f"🔍 Auto-Sync đã quét và bổ sung {count} thực thể mới vào Glossary!", "success")
         return web.json_response({"success": True, "count": count})
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
+async def add_glossary_term(request: web.Request) -> web.Response:
+    if not state.active_novel:
+        return web.json_response({"success": False, "error": "Chưa chọn truyện"}, status=400)
+
+    try:
+        data = await request.json()
+        tag = data.get("tag", "TERM").strip().upper()
+        vi_name = data.get("vi_name", "").strip()
+        raw_name = data.get("raw_name", "").strip()
+        note = data.get("note", "").strip()
+        if not vi_name:
+            return web.json_response({"success": False, "error": "Tên tiếng Việt không được để trống"}, status=400)
+
+        terms_file = state.active_novel.terms_file
+        entry = f"\n## [{tag}] 『{vi_name}』 ({raw_name})\n- {note or 'Thêm thủ công qua NovelStudio UI'}\n"
+        with open(terms_file, "a", encoding="utf-8") as f:
+            f.write(entry)
+
+        await state.log(f"✅ Đã thêm thuật ngữ mới: 『{vi_name}』 [{tag}]", "success")
+        return web.json_response({"success": True})
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
+# ----------------- EXTERNAL APPS / FOLDER OPENER -----------------
+async def open_external(request: web.Request) -> web.Response:
+    target = request.query.get("target", "")
+    novel_name = request.query.get("novel", "")
+
+    try:
+        if target == "web_reader":
+            webbrowser.open("http://localhost:8765/web/index.html")
+        elif target == "diff_studio":
+            webbrowser.open("http://localhost:8765/web/So_Sanh_Diff.html")
+        elif target == "folder":
+            if novel_name:
+                p = PROJECTS_DIR / novel_name
+            elif state.active_novel:
+                p = state.active_novel.folder
+            else:
+                p = WORKSPACE_DIR
+            if p.exists():
+                os.startfile(str(p))
+        elif target == "workspace":
+            os.startfile(str(WORKSPACE_DIR))
+        return web.json_response({"success": True})
     except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
@@ -570,6 +667,10 @@ def make_app() -> web.Application:
     app.router.add_get("/api/config", get_config)
     app.router.add_post("/api/config", update_config)
     app.router.add_post("/api/config/test", test_config)
+    app.router.add_get("/api/models/llmgate", get_llmgate_models)
+
+    app.router.add_post("/api/open/external", open_external)
+    app.router.add_get("/api/open/external", open_external)
 
     app.router.add_get("/api/syosetu/info", syosetu_info)
     app.router.add_post("/api/syosetu/scrape", syosetu_scrape)
@@ -580,6 +681,7 @@ def make_app() -> web.Application:
 
     app.router.add_get("/api/glossary", get_glossary)
     app.router.add_post("/api/glossary/auto-sync", auto_sync_glossary)
+    app.router.add_post("/api/glossary/term/add", add_glossary_term)
 
     app.router.add_post("/api/art/generate", generate_art)
     app.router.add_post("/api/git/sync", git_sync)

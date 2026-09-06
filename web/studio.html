@@ -37,6 +37,10 @@
 
     <!-- Window Quick Actions -->
     <div class="flex items-center space-x-2 text-xs">
+      <button onclick="openNovelFolder()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition" title="Mở thư mục bộ truyện trong Explorer">
+        <span>📂</span>
+        <span>Thư Mục</span>
+      </button>
       <button onclick="openWebReader()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition">
         <span>📖</span>
         <span>Web Đọc Truyện</span>
@@ -313,6 +317,14 @@
                 </div>
               </div>
 
+              <!-- Quick Selection Buttons -->
+              <div class="flex items-center space-x-2 text-xs flex-wrap gap-y-1">
+                <span class="text-slate-400 text-[11px]">Chọn nhanh:</span>
+                <button type="button" onclick="setQuickTransRange(5)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 5 tập kế tiếp</button>
+                <button type="button" onclick="setQuickTransRange(10)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 10 tập kế tiếp</button>
+                <button type="button" onclick="setQuickTransRange('all')" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ Toàn bộ raw chưa dịch</button>
+              </div>
+
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Số luồng xử lý song song</label>
                 <select id="trans-concurrency" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
@@ -361,6 +373,14 @@
               </div>
             </div>
 
+            <!-- Quick Selection Buttons -->
+            <div class="flex items-center space-x-2 text-xs flex-wrap gap-y-1">
+              <span class="text-slate-400 text-[11px]">Chọn nhanh:</span>
+              <button type="button" onclick="setQuickEditRange(5)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 5 tập mới nhất</button>
+              <button type="button" onclick="setQuickEditRange(10)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 10 tập mới nhất</button>
+              <button type="button" onclick="setQuickEditRange('all')" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ Toàn bộ đã dịch</button>
+            </div>
+
             <button onclick="startEditing()" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
               ✨ Bắt Đầu Đại Biên Tập V6.0
             </button>
@@ -387,6 +407,10 @@
               </div>
               <div class="flex items-center space-x-2">
                 <input type="text" id="glossary-search" oninput="filterGlossary()" placeholder="Tìm kiếm thuật ngữ..." class="px-3 py-1.5 text-xs border border-slate-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 w-48">
+                <button onclick="openAddTermModal()" class="px-3 py-1.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition flex items-center space-x-1">
+                  <span>➕</span>
+                  <span>Thêm Thuật Ngữ</span>
+                </button>
                 <button onclick="quickAutoSyncGlossary()" class="px-3 py-1.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 text-xs font-medium rounded-lg border border-indigo-200 transition flex items-center space-x-1">
                   <span>🔍</span>
                   <span>Quét Mới (Auto-Sync)</span>
@@ -468,50 +492,145 @@
           <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
             <div>
               <h2 class="text-base font-bold text-slate-800">⚙️ Cài Đặt AI & Mô Hình Dịch Thuật</h2>
-              <p class="text-xs text-slate-500">Quản lý API Key, chuyển đổi kênh AI và chế độ nạp Glossary</p>
+              <p class="text-xs text-slate-500">Quản lý API Key, chuyển đổi đa kênh (Gemini Free / LLMGate) và kiểm tra kết nối trực tiếp</p>
             </div>
 
-            <div class="space-y-3">
-              <div>
-                <label class="block text-xs font-medium text-slate-700 mb-1">Kênh AI Hoạt Động (Active Provider)</label>
-                <div class="flex space-x-4">
-                  <label class="flex items-center space-x-2 text-xs">
-                    <input type="radio" name="provider" value="gemini_free" id="cfg-prov-gemini" class="text-indigo-600">
-                    <span class="font-medium text-slate-800">Gemini Free (Miễn Phí)</span>
-                  </label>
-                  <label class="flex items-center space-x-2 text-xs">
-                    <input type="radio" name="provider" value="llmgate" id="cfg-prov-llmgate" class="text-indigo-600">
-                    <span class="font-medium text-slate-800">LLMGate API</span>
-                  </label>
-                </div>
+            <!-- Provider Selection Cards -->
+            <div class="space-y-1.5">
+              <label class="block text-xs font-semibold text-slate-700">Kênh AI Hoạt Động (Active Provider)</label>
+              <div class="grid grid-cols-2 gap-3">
+                <label id="card-prov-gemini" onclick="selectProvider('gemini_free')" class="cursor-pointer border-2 border-indigo-600 bg-indigo-50/50 rounded-xl p-3.5 flex items-start space-x-3 transition select-none">
+                  <input type="radio" name="provider" value="gemini_free" id="cfg-prov-gemini" class="mt-0.5 text-indigo-600">
+                  <div>
+                    <div class="font-semibold text-xs text-slate-900 flex items-center space-x-1.5">
+                      <span>Google Gemini Free</span>
+                      <span class="px-1.5 py-0.5 bg-emerald-100 text-emerald-700 text-[10px] rounded font-mono font-medium">Miễn phí</span>
+                    </div>
+                    <div class="text-[11px] text-slate-500 mt-0.5">Endpoint chính thức Google, tốc độ cao, hỗ trợ Gemini 3.5 Flash</div>
+                  </div>
+                </label>
+
+                <label id="card-prov-llmgate" onclick="selectProvider('llmgate')" class="cursor-pointer border-2 border-slate-200 hover:border-slate-300 rounded-xl p-3.5 flex items-start space-x-3 transition select-none">
+                  <input type="radio" name="provider" value="llmgate" id="cfg-prov-llmgate" class="mt-0.5 text-indigo-600">
+                  <div>
+                    <div class="font-semibold text-xs text-slate-900 flex items-center space-x-1.5">
+                      <span>LLMGate Gateway</span>
+                      <span class="px-1.5 py-0.5 bg-indigo-100 text-indigo-700 text-[10px] rounded font-mono font-medium">Multi-Model</span>
+                    </div>
+                    <div class="text-[11px] text-slate-500 mt-0.5">Gemini 3.7 Flash, Claude 3.7 Sonnet, GPT-4o...</div>
+                  </div>
+                </label>
+              </div>
+            </div>
+
+            <!-- PANEL 1: GEMINI FREE CONFIG -->
+            <div id="panel-gemini-free" class="space-y-3 p-4 bg-slate-50/80 rounded-xl border border-slate-200">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-slate-800 flex items-center space-x-1.5">
+                  <span>💎</span>
+                  <span>Cấu Hình Google Gemini Free API</span>
+                </span>
+                <span class="text-[11px] text-indigo-600 font-medium">15 RPM / 1M TPM</span>
               </div>
 
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Gemini Free API Key</label>
-                <input type="password" id="cfg-gemini-key" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono">
+                <div class="relative">
+                  <input type="password" id="cfg-gemini-key" placeholder="AQ.Ab8..." class="w-full pl-3 pr-10 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                  <button type="button" onclick="togglePasswordVisibility('cfg-gemini-key', 'eye-gemini-key')" class="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 text-xs">
+                    <span id="eye-gemini-key">👁️</span>
+                  </button>
+                </div>
               </div>
 
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Tên Model Gemini Free</label>
-                <input type="text" id="cfg-gemini-model" value="gemini-3.5-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono">
+                <input type="text" id="cfg-gemini-model" value="gemini-3.5-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                <div class="flex items-center space-x-2 mt-1.5 text-xs flex-wrap gap-y-1">
+                  <span class="text-slate-400 text-[11px]">Gợi ý nhanh:</span>
+                  <button type="button" onclick="setGeminiModel('gemini-3.5-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.5-flash (Khuyên dùng)</button>
+                  <button type="button" onclick="setGeminiModel('gemini-2.5-flash')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-flash</button>
+                  <button type="button" onclick="setGeminiModel('gemini-2.5-pro')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-pro</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- PANEL 2: LLMGATE CONFIG -->
+            <div id="panel-llmgate" class="hidden space-y-3 p-4 bg-slate-50/80 rounded-xl border border-slate-200">
+              <div class="flex items-center justify-between">
+                <span class="text-xs font-bold text-slate-800 flex items-center space-x-1.5">
+                  <span>⚡</span>
+                  <span>Cấu Hình LLMGate API Gateway</span>
+                </span>
+                <span class="text-[11px] text-indigo-600 font-medium">OpenAI Compatible</span>
               </div>
 
               <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">LLMGate API Key</label>
+                <div class="relative">
+                  <input type="password" id="cfg-llmgate-key" placeholder="sk-llmgate-..." class="w-full pl-3 pr-10 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                  <button type="button" onclick="togglePasswordVisibility('cfg-llmgate-key', 'eye-llmgate-key')" class="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 hover:text-slate-600 text-xs">
+                    <span id="eye-llmgate-key">👁️</span>
+                  </button>
+                </div>
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Base URL</label>
+                <input type="text" id="cfg-llmgate-base" value="https://llmgate.app/v1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+              </div>
+
+              <div>
+                <div class="flex items-center justify-between mb-1">
+                  <label class="block text-xs font-medium text-slate-700">Tên Model LLMGate</label>
+                  <button type="button" onclick="queryLLMGateModels()" class="text-[11px] text-indigo-600 hover:text-indigo-800 flex items-center space-x-1 font-medium">
+                    <span>🔄</span>
+                    <span>Tải danh sách model</span>
+                  </button>
+                </div>
+                <input type="text" id="cfg-llmgate-model" list="llmgate-models-datalist" value="gemini-3.7-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                <datalist id="llmgate-models-datalist"></datalist>
+                <div class="flex items-center space-x-2 mt-1.5 text-xs flex-wrap gap-y-1">
+                  <span class="text-slate-400 text-[11px]">Gợi ý nhanh:</span>
+                  <button type="button" onclick="setLLMGateModel('gemini-3.7-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.7-flash (Khuyên dùng)</button>
+                  <button type="button" onclick="setLLMGateModel('claude-3-7-sonnet-20250219')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">claude-3-7-sonnet</button>
+                  <button type="button" onclick="setLLMGateModel('gpt-4o')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gpt-4o</button>
+                  <button type="button" onclick="setLLMGateModel('gemini-2.5-pro')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-pro</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- SHARED SETTINGS: GLOSSARY MODE & DISCORD -->
+            <div class="space-y-3 pt-2 border-t border-slate-100">
+              <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Chế độ nạp Glossary (Glossary Mode)</label>
                 <select id="cfg-glossary-mode" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
-                  <option value="smart_filter">smart_filter (Trích xuất thông minh, tiết kiệm token, tránh dính 429)</option>
-                  <option value="full_cache">full_cache (Nạp toàn bộ 100% Canon Database)</option>
+                  <option value="smart_filter">smart_filter (Trích xuất thông minh theo từng chương, tiết kiệm token, tránh dính 429)</option>
+                  <option value="full_cache">full_cache (Nạp toàn bộ 100% cơ sở dữ liệu Canon vào Context Cache)</option>
                 </select>
               </div>
 
-              <div class="pt-2 flex space-x-2">
-                <button onclick="saveSettings()" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
-                  💾 Lưu Cài Đặt
-                </button>
-                <button onclick="testConnection()" class="px-4 py-2.5 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 text-xs font-medium rounded-lg transition">
-                  🔌 Kiểm Tra Kết Nối
-                </button>
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Discord Webhook URL (Nhận thông báo khi hoàn tất dịch)</label>
+                <input type="text" id="cfg-discord-webhook" placeholder="https://discord.com/api/webhooks/..." class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
               </div>
+            </div>
+
+            <!-- BUTTONS -->
+            <div class="pt-2 flex space-x-3">
+              <button type="button" onclick="saveSettings()" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-semibold rounded-lg shadow-sm transition flex items-center justify-center space-x-1.5">
+                <span>💾</span>
+                <span>Lưu Cài Đặt AI</span>
+              </button>
+              <button type="button" id="btn-test-connection" onclick="testConnection()" class="px-5 py-2.5 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 text-xs font-semibold rounded-lg transition flex items-center justify-center space-x-1.5">
+                <span>🔌</span>
+                <span>Kiểm Tra Kết Nối AI</span>
+              </button>
+            </div>
+
+            <!-- INLINE TEST CONNECTION RESULT BOX -->
+            <div id="test-result-box" class="hidden rounded-xl p-4 text-xs transition-all duration-200">
+              <!-- Rendered via JS -->
             </div>
           </div>
         </div>
@@ -570,6 +689,46 @@
       </div>
 
     </main>
+  <!-- ADD TERM MODAL -->
+  <div id="add-term-modal" class="hidden fixed inset-0 bg-black/40 backdrop-blur-xs flex items-center justify-center z-50 p-4">
+    <div class="bg-white rounded-xl shadow-2xl max-w-md w-full p-5 space-y-4 border border-slate-200">
+      <div class="flex items-center justify-between">
+        <div class="font-bold text-sm text-slate-800 flex items-center space-x-1.5">
+          <span>✨</span>
+          <span>Thêm Thuật Ngữ Mới Vào Glossary</span>
+        </div>
+        <button onclick="closeAddTermModal()" class="text-slate-400 hover:text-slate-600 text-sm font-bold">✕</button>
+      </div>
+      <div class="space-y-3 text-xs">
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Phân loại (Tag)</label>
+          <select id="modal-term-tag" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+            <option value="SKILL">Kỹ năng (SKILL)</option>
+            <option value="ITEM">Vật phẩm / Bảo vật (ITEM)</option>
+            <option value="MONSTER">Ma thú / Quái vật (MONSTER)</option>
+            <option value="CHAR">Nhân vật (CHAR)</option>
+            <option value="FACTION">Tổ chức / Quốc gia (FACTION)</option>
+            <option value="TERM">Thuật ngữ chung (TERM)</option>
+          </select>
+        </div>
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Tên tiếng Việt (Hiển thị trong 『...』)</label>
+          <input type="text" id="modal-term-vi" placeholder="Ví dụ: Ma Nhãn Tím" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+        </div>
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Từ gốc tiếng Nhật (Raw gốc)</label>
+          <input type="text" id="modal-term-raw" placeholder="Ví dụ: 紫の魔眼" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono">
+        </div>
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Ghi chú (Tùy chọn)</label>
+          <input type="text" id="modal-term-note" placeholder="Ví dụ: Kỹ năng độc quyền của nhân vật..." class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+        </div>
+      </div>
+      <div class="flex justify-end space-x-2 pt-2 border-t border-slate-100">
+        <button onclick="closeAddTermModal()" class="px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium transition">Hủy</button>
+        <button onclick="saveNewGlossaryTerm()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-medium shadow-sm transition">💾 Lưu Thuật Ngữ</button>
+      </div>
+    </div>
   </div>
 
   <!-- SCRIPT ENGINE -->
@@ -673,11 +832,19 @@
       }
     }
 
+    let novelStats = { untranslated: [], transMin: 1, transMax: 1 };
+
     async function loadNovelInfo() {
       try {
         const res = await fetch('/api/novel/info');
         const data = await res.json();
         if (data.error) return;
+
+        novelStats = {
+          untranslated: data.untranslated_episodes || [],
+          transMin: data.trans_min || 1,
+          transMax: data.trans_max || 1
+        };
 
         document.getElementById('topbar-novel-name').innerText = data.name;
         document.getElementById('active-novel-heading').innerText = data.name;
@@ -707,6 +874,33 @@
       }
     }
 
+    function setQuickTransRange(count) {
+      const untrans = novelStats.untranslated || [];
+      if (count === 'all') {
+        if (untrans.length > 0) {
+          document.getElementById('trans-start').value = untrans[0];
+          document.getElementById('trans-end').value = untrans[untrans.length - 1];
+        }
+      } else {
+        const start = untrans.length > 0 ? untrans[0] : (novelStats.transMax + 1);
+        document.getElementById('trans-start').value = start;
+        document.getElementById('trans-end').value = start + count - 1;
+      }
+    }
+
+    function setQuickEditRange(count) {
+      const maxEp = novelStats.transMax || 1;
+      const minEp = novelStats.transMin || 1;
+      if (count === 'all') {
+        document.getElementById('edit-start').value = minEp;
+        document.getElementById('edit-end').value = maxEp;
+      } else {
+        const start = Math.max(minEp, maxEp - count + 1);
+        document.getElementById('edit-start').value = start;
+        document.getElementById('edit-end').value = maxEp;
+      }
+    }
+
     function renderNovelsGrid() {
       const container = document.getElementById('novels-grid');
       container.innerHTML = '';
@@ -730,6 +924,9 @@
             <button onclick="selectNovel('${n.name}')" class="flex-1 py-1.5 ${isAct ? 'bg-slate-100 text-slate-400' : 'bg-indigo-600 text-white hover:bg-indigo-700'} text-xs font-medium rounded transition">
               ${isAct ? 'Đang Hoạt Động' : 'Chọn Bộ Này'}
             </button>
+            <button onclick="openNovelFolder('${n.name}')" class="px-3 py-1.5 bg-slate-50 hover:bg-slate-100 text-slate-700 text-xs font-medium rounded border border-slate-200 transition" title="Mở thư mục trong Explorer">
+              📂 Folder
+            </button>
           </div>
         `;
         container.appendChild(card);
@@ -747,22 +944,106 @@
       switchTab('agent');
     }
 
-    // Load Settings
+    function openNovelFolder(novelName) {
+      const n = novelName || activeNovel || '';
+      fetch(`/api/open/external?target=folder&novel=${encodeURIComponent(n)}`);
+    }
+
+    // ================= SETTINGS LOGIC =================
+    function selectProvider(prov) {
+      const geminiRadio = document.getElementById('cfg-prov-gemini');
+      const llmgateRadio = document.getElementById('cfg-prov-llmgate');
+      const geminiPanel = document.getElementById('panel-gemini-free');
+      const llmgatePanel = document.getElementById('panel-llmgate');
+      const cardGemini = document.getElementById('card-prov-gemini');
+      const cardLlmgate = document.getElementById('card-prov-llmgate');
+
+      if (prov === 'gemini_free') {
+        geminiRadio.checked = true;
+        geminiPanel.classList.remove('hidden');
+        llmgatePanel.classList.add('hidden');
+        cardGemini.className = "cursor-pointer border-2 border-indigo-600 bg-indigo-50/50 rounded-xl p-3.5 flex items-start space-x-3 transition select-none";
+        cardLlmgate.className = "cursor-pointer border-2 border-slate-200 hover:border-slate-300 rounded-xl p-3.5 flex items-start space-x-3 transition select-none";
+      } else {
+        llmgateRadio.checked = true;
+        geminiPanel.classList.add('hidden');
+        llmgatePanel.classList.remove('hidden');
+        cardGemini.className = "cursor-pointer border-2 border-slate-200 hover:border-slate-300 rounded-xl p-3.5 flex items-start space-x-3 transition select-none";
+        cardLlmgate.className = "cursor-pointer border-2 border-indigo-600 bg-indigo-50/50 rounded-xl p-3.5 flex items-start space-x-3 transition select-none";
+      }
+    }
+
+    function togglePasswordVisibility(inputId, iconId) {
+      const input = document.getElementById(inputId);
+      const icon = document.getElementById(iconId);
+      if (input.type === 'password') {
+        input.type = 'text';
+        icon.innerText = '🙈';
+      } else {
+        input.type = 'password';
+        icon.innerText = '👁️';
+      }
+    }
+
+    function setGeminiModel(m) {
+      document.getElementById('cfg-gemini-model').value = m;
+    }
+
+    function setLLMGateModel(m) {
+      document.getElementById('cfg-llmgate-model').value = m;
+    }
+
+    async function queryLLMGateModels() {
+      const key = document.getElementById('cfg-llmgate-key').value.trim();
+      const base = document.getElementById('cfg-llmgate-base').value.trim();
+      if (!key) return alert("Vui lòng nhập LLMGate API Key trước!");
+      appendLog("Đang truy vấn danh sách model từ LLMGate...", "info");
+      try {
+        const res = await fetch(`/api/models/llmgate?api_key=${encodeURIComponent(key)}&base_url=${encodeURIComponent(base)}`);
+        const data = await res.json();
+        if (data.success && data.models) {
+          const datalist = document.getElementById('llmgate-models-datalist');
+          datalist.innerHTML = '';
+          data.models.forEach(m => {
+            const opt = document.createElement('option');
+            opt.value = m;
+            datalist.appendChild(opt);
+          });
+          alert(`Đã tải thành công ${data.models.length} model từ LLMGate!`);
+        } else {
+          alert(`Không thể lấy model: ${data.error}`);
+        }
+      } catch (e) {
+        alert(`Lỗi kết nối tới server: ${e}`);
+      }
+    }
+
     async function loadSettings() {
       try {
         const res = await fetch('/api/config');
         const cfg = await res.json();
-        if (cfg.active_provider === 'gemini_free') {
-          document.getElementById('cfg-prov-gemini').checked = true;
-        } else {
-          document.getElementById('cfg-prov-llmgate').checked = true;
-        }
+
+        selectProvider(cfg.active_provider || 'gemini_free');
+
+        // Gemini Free
         document.getElementById('cfg-gemini-key').value = cfg.gemini_free?.api_key || '';
         document.getElementById('cfg-gemini-model').value = cfg.gemini_free?.model || 'gemini-3.5-flash';
-        document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'smart_filter';
 
-        document.getElementById('sidebar-model-badge').innerText = cfg.gemini_free?.model || 'Gemini 3.5 Flash';
-        document.getElementById('dock-model-badge').innerText = cfg.gemini_free?.model || 'Gemini 3.5 Flash';
+        // LLMGate
+        document.getElementById('cfg-llmgate-key').value = cfg.llmgate?.api_key || '';
+        document.getElementById('cfg-llmgate-base').value = cfg.llmgate?.base_url || 'https://llmgate.app/v1';
+        document.getElementById('cfg-llmgate-model').value = cfg.llmgate?.model || 'gemini-3.7-flash';
+
+        // Shared
+        document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'smart_filter';
+        document.getElementById('cfg-discord-webhook').value = cfg.discord_webhook_url || '';
+
+        // Badges
+        const isGemini = cfg.active_provider === 'gemini_free';
+        const activeModel = isGemini ? (cfg.gemini_free?.model || 'gemini-3.5-flash') : (cfg.llmgate?.model || 'gemini-3.7-flash');
+        const badgeText = (isGemini ? 'Gemini: ' : 'LLMGate: ') + activeModel;
+        document.getElementById('sidebar-model-badge').innerText = badgeText;
+        document.getElementById('dock-model-badge').innerText = badgeText;
       } catch (e) {
         console.error(e);
       }
@@ -770,14 +1051,22 @@
 
     async function saveSettings() {
       const prov = document.querySelector('input[name="provider"]:checked').value;
-      const key = document.getElementById('cfg-gemini-key').value;
-      const model = document.getElementById('cfg-gemini-model').value;
+      const geminiKey = document.getElementById('cfg-gemini-key').value.trim();
+      const geminiModel = document.getElementById('cfg-gemini-model').value.trim();
+
+      const llmKey = document.getElementById('cfg-llmgate-key').value.trim();
+      const llmBase = document.getElementById('cfg-llmgate-base').value.trim();
+      const llmModel = document.getElementById('cfg-llmgate-model').value.trim();
+
       const mode = document.getElementById('cfg-glossary-mode').value;
+      const discordWebhook = document.getElementById('cfg-discord-webhook').value.trim();
 
       const payload = {
         active_provider: prov,
-        gemini_free: { api_key: key, model: model },
-        glossary_mode: mode
+        gemini_free: { api_key: geminiKey, model: geminiModel },
+        llmgate: { api_key: llmKey, base_url: llmBase, model: llmModel },
+        glossary_mode: mode,
+        discord_webhook_url: discordWebhook
       };
 
       const res = await fetch('/api/config', {
@@ -786,19 +1075,89 @@
         body: JSON.stringify(payload)
       });
       if (res.ok) {
-        alert('Đã lưu cấu hình AI thành công!');
+        showInlineTestResult(true, `Đã lưu cài đặt AI (${prov.toUpperCase()} - ${prov === 'gemini_free' ? geminiModel : llmModel}) thành công!`);
         loadSettings();
+      } else {
+        const d = await res.json();
+        showInlineTestResult(false, `Lỗi lưu cài đặt: ${d.error}`);
       }
     }
 
     async function testConnection() {
-      appendLog("Đang kiểm tra kết nối AI...", "info");
-      const res = await fetch('/api/config/test', {method: 'POST'});
-      const data = await res.json();
-      if (data.success) {
-        alert(`Kết nối thành công!\nModel: ${data.model}\nPhản hồi: ${data.response} (${data.elapsed_seconds}s)`);
+      const resBox = document.getElementById('test-result-box');
+      resBox.classList.remove('hidden');
+      resBox.className = "rounded-xl p-4 text-xs border border-indigo-200 bg-indigo-50/70 text-indigo-900";
+      resBox.innerHTML = `
+        <div class="flex items-center space-x-2">
+          <span class="animate-spin text-sm">⏳</span>
+          <span class="font-semibold">Đang gửi ping kiểm tra kết nối tới mô hình AI... Vui lòng đợi trong giây lát.</span>
+        </div>
+      `;
+
+      const prov = document.querySelector('input[name="provider"]:checked').value;
+      const testPayload = {
+        provider: prov,
+        api_key: prov === 'gemini_free' ? document.getElementById('cfg-gemini-key').value.trim() : document.getElementById('cfg-llmgate-key').value.trim(),
+        model: prov === 'gemini_free' ? document.getElementById('cfg-gemini-model').value.trim() : document.getElementById('cfg-llmgate-model').value.trim(),
+        base_url: prov === 'llmgate' ? document.getElementById('cfg-llmgate-base').value.trim() : ''
+      };
+
+      try {
+        const res = await fetch('/api/config/test', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(testPayload)
+        });
+        const data = await res.json();
+
+        if (data.success) {
+          resBox.className = "rounded-xl p-4 text-xs border border-emerald-300 bg-emerald-50/90 text-emerald-950 space-y-2";
+          resBox.innerHTML = `
+            <div class="flex items-center justify-between">
+              <div class="font-bold text-emerald-800 flex items-center space-x-1.5">
+                <span>✅</span>
+                <span>Kết Nối Thành Công & Sẵn Sàng Hoạt Động!</span>
+              </div>
+              <span class="font-mono text-[11px] bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded border border-emerald-300">Độ trễ: ${data.elapsed_seconds}s</span>
+            </div>
+            <div class="grid grid-cols-3 gap-2 pt-1 font-mono text-[11px]">
+              <div class="bg-white/70 p-2 rounded border border-emerald-200"><span class="text-slate-500 font-sans">Kênh:</span> <span class="font-bold text-slate-800">${data.provider}</span></div>
+              <div class="bg-white/70 p-2 rounded border border-emerald-200"><span class="text-slate-500 font-sans">Mô hình:</span> <span class="font-bold text-indigo-700">${data.model}</span></div>
+              <div class="bg-white/70 p-2 rounded border border-emerald-200"><span class="text-slate-500 font-sans">AI Phản hồi:</span> <span class="font-bold text-emerald-700">${data.response}</span></div>
+            </div>
+          `;
+          appendLog(`Kiểm tra kết nối AI thành công (${data.provider} - ${data.model}) trong ${data.elapsed_seconds}s`, 'success');
+        } else {
+          resBox.className = "rounded-xl p-4 text-xs border border-rose-300 bg-rose-50/90 text-rose-950 space-y-1.5";
+          resBox.innerHTML = `
+            <div class="font-bold text-rose-800 flex items-center space-x-1.5">
+              <span>❌</span>
+              <span>Kiểm Tra Kết Nối Thất Bại</span>
+            </div>
+            <div class="font-mono text-[11px] bg-white/80 p-2 rounded border border-rose-200 text-rose-700 break-all">
+              ${data.error}
+            </div>
+            <div class="text-[11px] text-slate-600">
+              👉 <strong>Gợi ý khắc phục:</strong> Kiểm tra lại API Key, URL endpoint (đối với LLMGate), hoặc đổi mô hình khác (ví dụ: gemini-3.5-flash).
+            </div>
+          `;
+          appendLog(`Lỗi kiểm tra kết nối AI: ${data.error}`, 'error');
+        }
+      } catch (e) {
+        resBox.className = "rounded-xl p-4 text-xs border border-rose-300 bg-rose-50 text-rose-900";
+        resBox.innerHTML = `<div class="font-bold">❌ Không thể gửi yêu cầu tới server: ${e.message}</div>`;
+      }
+    }
+
+    function showInlineTestResult(success, message) {
+      const resBox = document.getElementById('test-result-box');
+      resBox.classList.remove('hidden');
+      if (success) {
+        resBox.className = "rounded-xl p-3 text-xs border border-emerald-200 bg-emerald-50 text-emerald-800 flex items-center space-x-2";
+        resBox.innerHTML = `<span>✅</span> <span>${message}</span>`;
       } else {
-        alert(`Lỗi kết nối: ${data.error}`);
+        resBox.className = "rounded-xl p-3 text-xs border border-rose-200 bg-rose-50 text-rose-800 flex items-center space-x-2";
+        resBox.innerHTML = `<span>❌</span> <span>${message}</span>`;
       }
     }
 
@@ -918,6 +1277,41 @@
       }
     }
 
+    function openAddTermModal() {
+      document.getElementById('add-term-modal').classList.remove('hidden');
+      document.getElementById('modal-term-vi').focus();
+    }
+
+    function closeAddTermModal() {
+      document.getElementById('add-term-modal').classList.add('hidden');
+      document.getElementById('modal-term-vi').value = '';
+      document.getElementById('modal-term-raw').value = '';
+      document.getElementById('modal-term-note').value = '';
+    }
+
+    async function saveNewGlossaryTerm() {
+      const tag = document.getElementById('modal-term-tag').value;
+      const vi_name = document.getElementById('modal-term-vi').value.trim();
+      const raw_name = document.getElementById('modal-term-raw').value.trim();
+      const note = document.getElementById('modal-term-note').value.trim();
+
+      if (!vi_name) return alert("Vui lòng nhập tên tiếng Việt!");
+
+      const res = await fetch('/api/glossary/term/add', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({tag, vi_name, raw_name, note})
+      });
+      const data = await res.json();
+      if (data.success) {
+        closeAddTermModal();
+        loadGlossary();
+        appendLog(`Đã thêm thuật ngữ 『${vi_name}』 [${tag}] vào Canon Glossary!`, "success");
+      } else {
+        alert(data.error);
+      }
+    }
+
     // Art Studio
     function setArtPreset(preset) {
       if (preset === 'dark_fantasy') document.getElementById('art-prompt').value = "Trận chiến hoành tráng trong đêm bão lôi điện, ma pháp hắc ám bùng nổ, ánh sáng ngọc lục bảo sắc lạnh";
@@ -964,8 +1358,14 @@
     }
 
     // Quick Web Reader Links
-    function openWebReader() { window.open('/web/index.html', '_blank'); }
-    function openDiffStudio() { window.open('/web/So_Sanh_Diff.html', '_blank'); }
+    function openWebReader() {
+      fetch('/api/open/external?target=web_reader');
+      window.open('/web/index.html', '_blank');
+    }
+    function openDiffStudio() {
+      fetch('/api/open/external?target=diff_studio');
+      window.open('/web/So_Sanh_Diff.html', '_blank');
+    }
 
     // Bottom Action Prompt Bar
     function handlePromptKey(e) {

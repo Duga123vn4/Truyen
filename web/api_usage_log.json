@@ -1,5 +1,71 @@
 [
   {
+    "timestamp": "2026-09-06 22:55:11",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 2.11,
+    "input_tokens": 30,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 1e-05
+  },
+  {
+    "timestamp": "2026-09-06 22:55:09",
+    "model": "gemini-3.5-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 7.22,
+    "input_tokens": 29,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 0.0
+  },
+  {
+    "timestamp": "2026-09-06 22:51:28",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 2.51,
+    "input_tokens": 19,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 0.0
+  },
+  {
+    "timestamp": "2026-09-06 22:51:23",
+    "model": "gemini-3.5-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 5.07,
+    "input_tokens": 18,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 0.0
+  },
+  {
+    "timestamp": "2026-09-06 22:49:45",
+    "model": "gemini-3.7-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 3.18,
+    "input_tokens": 18,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 0.0
+  },
+  {
+    "timestamp": "2026-09-06 22:49:35",
+    "model": "gemini-3.5-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 8.3,
+    "input_tokens": 17,
+    "output_tokens": 1,
+    "cache_tokens": 0,
+    "cost": 0.0
+  },
+  {
     "timestamp": "2026-09-03 02:51:18",
     "model": "gemini-3.6-flash",
     "chapter_title": "Tập 422",
