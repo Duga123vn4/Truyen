@@ -467,6 +467,18 @@ async def get_llmgate_models(request: web.Request) -> web.Response:
     except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
+async def get_gemini_models(request: web.Request) -> web.Response:
+    try:
+        cfg = load_config()
+        api_key = request.query.get("api_key", "").strip() or cfg.get("gemini_free", {}).get("api_key", "")
+        if not api_key:
+            return web.json_response({"success": False, "error": "Chưa có Gemini API Key"}, status=400)
+        from tools.src.core.config import fetch_gemini_models
+        models = await fetch_gemini_models(api_key)
+        return web.json_response({"success": True, "models": models})
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
 # ----------------- SYOSETU SCRAPER API -----------------
 async def syosetu_info(request: web.Request) -> web.Response:
     url_or_code = request.query.get("query", "").strip()
@@ -908,6 +920,7 @@ def make_app() -> web.Application:
     app.router.add_post("/api/config", update_config)
     app.router.add_post("/api/config/test", test_config)
     app.router.add_get("/api/models/llmgate", get_llmgate_models)
+    app.router.add_get("/api/models/gemini", get_gemini_models)
 
     app.router.add_post("/api/open/external", open_external)
     app.router.add_get("/api/open/external", open_external)

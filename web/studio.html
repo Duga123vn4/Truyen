@@ -614,11 +614,28 @@
               </div>
 
               <div>
-                <label class="block text-xs font-medium text-slate-700 mb-1">Tên Model Gemini Free</label>
-                <input type="text" id="cfg-gemini-model" value="gemini-3.5-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
-                <div class="flex items-center space-x-2 mt-1.5 text-xs flex-wrap gap-y-1">
-                  <span class="text-slate-400 text-[11px]">Gợi ý nhanh:</span>
-                  <button type="button" onclick="setGeminiModel('gemini-3.5-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.5-flash (Khuyên dùng)</button>
+                <div class="flex items-center justify-between mb-1">
+                  <label class="block text-xs font-medium text-slate-700">Tên Model Gemini Free</label>
+                  <span class="text-[10px] text-slate-400 font-mono">Google AI Studio</span>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-2 mb-1.5">
+                  <div>
+                    <label class="block text-[10px] text-slate-400 mb-0.5">Chọn nhanh mô hình:</label>
+                    <select id="cfg-gemini-model-select" onchange="onGeminiModelSelectChange()" class="w-full px-2.5 py-1.5 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white font-mono">
+                      <option value="gemini-3.5-flash">gemini-3.5-flash (⭐ Khuyên dùng cho Free)</option>
+                      <option value="gemini-2.5-flash">gemini-2.5-flash (Tốc độ ổn định)</option>
+                      <option value="gemini-2.5-pro">gemini-2.5-pro (Suy luận sâu)</option>
+                      <option value="gemini-2.0-flash">gemini-2.0-flash</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label class="block text-[10px] text-slate-400 mb-0.5">Tên model gửi API:</label>
+                    <input type="text" id="cfg-gemini-model" value="gemini-3.5-flash" class="w-full px-2.5 py-1.5 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                  </div>
+                </div>
+                <div class="flex items-center space-x-1.5 mt-1 text-xs flex-wrap gap-y-1">
+                  <span class="text-slate-400 text-[11px]">Gợi ý:</span>
+                  <button type="button" onclick="setGeminiModel('gemini-3.5-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-700 rounded text-[11px] border border-indigo-200 transition font-mono font-semibold">gemini-3.5-flash</button>
                   <button type="button" onclick="setGeminiModel('gemini-2.5-flash')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-flash</button>
                   <button type="button" onclick="setGeminiModel('gemini-2.5-pro')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-pro</button>
                 </div>
@@ -653,19 +670,62 @@
               <div>
                 <div class="flex items-center justify-between mb-1">
                   <label class="block text-xs font-medium text-slate-700">Tên Model LLMGate</label>
-                  <button type="button" onclick="queryLLMGateModels()" class="text-[11px] text-indigo-600 hover:text-indigo-800 flex items-center space-x-1 font-medium">
-                    <span>🔄</span>
-                    <span>Tải danh sách model</span>
-                  </button>
+                  <div class="flex items-center space-x-2">
+                    <span id="llmgate-models-badge" class="text-[10px] text-indigo-600 font-mono font-medium"></span>
+                    <button type="button" onclick="queryLLMGateModels()" id="btn-fetch-llmgate-models" class="text-[11px] text-indigo-600 hover:text-indigo-800 flex items-center space-x-1 font-medium transition">
+                      <span>🔄</span>
+                      <span>Tải danh sách model</span>
+                    </button>
+                  </div>
                 </div>
-                <input type="text" id="cfg-llmgate-model" list="llmgate-models-datalist" value="gemini-3.7-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
-                <datalist id="llmgate-models-datalist"></datalist>
-                <div class="flex items-center space-x-2 mt-1.5 text-xs flex-wrap gap-y-1">
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-2 mb-1.5">
+                  <div>
+                    <label class="block text-[10px] text-slate-400 mb-0.5">Chọn từ danh mục model:</label>
+                    <select id="cfg-llmgate-model-select" onchange="onLLMGateModelSelectChange()" class="w-full px-2.5 py-1.5 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white font-mono">
+                      <option value="">-- Chọn model từ danh mục --</option>
+                      <optgroup label="🌟 Google Gemini (Mới & Khuyên Dùng)">
+                        <option value="gemini-3.8-flash">gemini-3.8-flash (⚡ Mới nhất - Siêu mạnh)</option>
+                        <option value="gemini-3.7-flash" selected>gemini-3.7-flash (⭐ Chuẩn cân bằng)</option>
+                        <option value="gemini-3.6-flash">gemini-3.6-flash</option>
+                        <option value="gemini-3.5-flash">gemini-3.5-flash (⚡ Tốc độ cao)</option>
+                        <option value="gemini-3-flash">gemini-3-flash</option>
+                        <option value="gemini-3.1-pro">gemini-3.1-pro</option>
+                      </optgroup>
+                      <optgroup label="🎭 Anthropic Claude">
+                        <option value="claude-sonnet-4-5">claude-sonnet-4-5</option>
+                        <option value="claude-opus-4-7">claude-opus-4-7</option>
+                        <option value="claude-3-7-sonnet-20250219">claude-3-7-sonnet</option>
+                        <option value="claude-3-5-sonnet-20241022">claude-3-5-sonnet</option>
+                      </optgroup>
+                      <optgroup label="⚡ OpenAI GPT">
+                        <option value="gpt-4o">gpt-4o</option>
+                        <option value="gpt-5.4">gpt-5.4</option>
+                        <option value="gpt-5.5">gpt-5.5</option>
+                        <option value="gpt-6-astra">gpt-6-astra</option>
+                      </optgroup>
+                      <optgroup label="🧠 DeepSeek & Khác">
+                        <option value="deepseek-v4-pro">deepseek-v4-pro</option>
+                        <option value="deepseek-v4-flash">deepseek-v4-flash</option>
+                        <option value="glm-5.3">glm-5.3</option>
+                        <option value="qwen3.8-flash">qwen3.8-flash</option>
+                      </optgroup>
+                    </select>
+                  </div>
+                  <div>
+                    <label class="block text-[10px] text-slate-400 mb-0.5">Tên model gửi API (hoặc gõ tùy biến):</label>
+                    <input type="text" id="cfg-llmgate-model" value="gemini-3.8-flash" class="w-full px-2.5 py-1.5 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+                  </div>
+                </div>
+
+                <div class="flex items-center space-x-1.5 mt-1.5 text-xs flex-wrap gap-y-1">
                   <span class="text-slate-400 text-[11px]">Gợi ý nhanh:</span>
-                  <button type="button" onclick="setLLMGateModel('gemini-3.7-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.7-flash (Khuyên dùng)</button>
-                  <button type="button" onclick="setLLMGateModel('claude-3-7-sonnet-20250219')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">claude-3-7-sonnet</button>
-                  <button type="button" onclick="setLLMGateModel('gpt-4o')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gpt-4o</button>
-                  <button type="button" onclick="setLLMGateModel('gemini-2.5-pro')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-600 rounded text-[11px] border border-slate-200 transition font-mono">gemini-2.5-pro</button>
+                  <button type="button" onclick="setLLMGateModel('gemini-3.8-flash')" class="px-2 py-0.5 bg-white hover:bg-indigo-50 text-indigo-700 rounded text-[11px] border border-indigo-200 transition font-mono font-semibold">gemini-3.8-flash (Mới!)</button>
+                  <button type="button" onclick="setLLMGateModel('gemini-3.7-flash')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-700 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.7-flash</button>
+                  <button type="button" onclick="setLLMGateModel('gemini-3.5-flash')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-700 rounded text-[11px] border border-slate-200 transition font-mono">gemini-3.5-flash</button>
+                  <button type="button" onclick="setLLMGateModel('claude-sonnet-4-5')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-700 rounded text-[11px] border border-slate-200 transition font-mono">claude-sonnet-4-5</button>
+                  <button type="button" onclick="setLLMGateModel('gpt-4o')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-700 rounded text-[11px] border border-slate-200 transition font-mono">gpt-4o</button>
+                  <button type="button" onclick="setLLMGateModel('deepseek-v4-pro')" class="px-2 py-0.5 bg-white hover:bg-slate-100 text-slate-700 rounded text-[11px] border border-slate-200 transition font-mono">deepseek-v4-pro</button>
                 </div>
               </div>
             </div>
@@ -925,6 +985,7 @@
       if (tabId === 'glossary') loadGlossary();
       if (tabId === 'novels') renderNovelsGrid();
       if (tabId === 'scraper') loadRawFilesList();
+      if (tabId === 'settings') loadSettings();
     }
 
     // Initialize SSE (Server-Sent Events)
@@ -1532,35 +1593,133 @@
     }
 
     function setGeminiModel(m) {
-      document.getElementById('cfg-gemini-model').value = m;
+      const input = document.getElementById('cfg-gemini-model');
+      if (input) input.value = m;
+      const select = document.getElementById('cfg-gemini-model-select');
+      if (select) {
+        let found = false;
+        for (let opt of select.options) {
+          if (opt.value === m) {
+            select.value = m;
+            found = true;
+            break;
+          }
+        }
+        if (!found) select.value = "";
+      }
+    }
+
+    function onGeminiModelSelectChange() {
+      const select = document.getElementById('cfg-gemini-model-select');
+      if (select && select.value) {
+        document.getElementById('cfg-gemini-model').value = select.value;
+      }
     }
 
     function setLLMGateModel(m) {
-      document.getElementById('cfg-llmgate-model').value = m;
+      const input = document.getElementById('cfg-llmgate-model');
+      if (input) input.value = m;
+      const select = document.getElementById('cfg-llmgate-model-select');
+      if (select) {
+        let found = false;
+        for (let opt of select.options) {
+          if (opt.value === m) {
+            select.value = m;
+            found = true;
+            break;
+          }
+        }
+        if (!found) select.value = "";
+      }
     }
 
-    async function queryLLMGateModels() {
+    function onLLMGateModelSelectChange() {
+      const select = document.getElementById('cfg-llmgate-model-select');
+      if (select && select.value) {
+        document.getElementById('cfg-llmgate-model').value = select.value;
+      }
+    }
+
+    async function queryLLMGateModels(silent = false) {
       const key = document.getElementById('cfg-llmgate-key').value.trim();
       const base = document.getElementById('cfg-llmgate-base').value.trim();
-      if (!key) return alert("Vui lòng nhập LLMGate API Key trước!");
-      appendLog("Đang truy vấn danh sách model từ LLMGate...", "info");
+      const btn = document.getElementById('btn-fetch-llmgate-models');
+      const badge = document.getElementById('llmgate-models-badge');
+      if (!key) {
+        if (!silent) alert("Vui lòng nhập LLMGate API Key trước!");
+        return;
+      }
+      if (btn) btn.innerHTML = '<span>⏳</span><span>Đang tải...</span>';
       try {
         const res = await fetch(`/api/models/llmgate?api_key=${encodeURIComponent(key)}&base_url=${encodeURIComponent(base)}`);
         const data = await res.json();
-        if (data.success && data.models) {
-          const datalist = document.getElementById('llmgate-models-datalist');
-          datalist.innerHTML = '';
+        if (data.success && data.models && data.models.length > 0) {
+          const select = document.getElementById('cfg-llmgate-model-select');
+          const currentVal = document.getElementById('cfg-llmgate-model').value.trim();
+
+          // Categorize models
+          const groups = {
+            gemini: { label: "🌟 Dòng Google Gemini", models: [] },
+            claude: { label: "🎭 Dòng Anthropic Claude", models: [] },
+            openai: { label: "⚡ Dòng OpenAI GPT", models: [] },
+            deepseek: { label: "🧠 Dòng DeepSeek & Open Models", models: [] },
+            others: { label: "📦 Các Models Khác", models: [] }
+          };
+
           data.models.forEach(m => {
-            const opt = document.createElement('option');
-            opt.value = m;
-            datalist.appendChild(opt);
+            const ml = m.toLowerCase();
+            if (ml.includes('gemini')) {
+              groups.gemini.models.push(m);
+            } else if (ml.includes('claude')) {
+              groups.claude.models.push(m);
+            } else if (ml.includes('gpt') || ml.includes('chatgpt') || ml.startsWith('o1') || ml.startsWith('o3')) {
+              groups.openai.models.push(m);
+            } else if (ml.includes('deepseek') || ml.includes('qwen') || ml.includes('glm') || ml.includes('minimax') || ml.includes('moonshot') || ml.includes('kimi')) {
+              groups.deepseek.models.push(m);
+            } else {
+              groups.others.models.push(m);
+            }
           });
-          alert(`Đã tải thành công ${data.models.length} model từ LLMGate!`);
+
+          select.innerHTML = `<option value="">-- Chọn model (${data.models.length} model khả dụng) --</option>`;
+
+          for (const [_, grp] of Object.entries(groups)) {
+            if (grp.models.length > 0) {
+              const optGroup = document.createElement('optgroup');
+              optGroup.label = `${grp.label} (${grp.models.length})`;
+              grp.models.forEach(m => {
+                const opt = document.createElement('option');
+                opt.value = m;
+                let note = '';
+                if (m === 'gemini-3.8-flash') note = ' ⚡ (Mới nhất - Khuyên dùng)';
+                else if (m === 'gemini-3.7-flash') note = ' ⭐ (Chuẩn cân bằng)';
+                else if (m === 'gemini-3.5-flash') note = ' ⚡ (Tốc độ cao)';
+                else if (m.includes('claude-sonnet-4-5')) note = ' ⭐';
+                opt.textContent = m + note;
+                optGroup.appendChild(opt);
+              });
+              select.appendChild(optGroup);
+            }
+          }
+
+          if (badge) badge.innerText = `(${data.models.length} model)`;
+
+          // Sync selection
+          if (currentVal) {
+            select.value = currentVal;
+          }
+
+          if (!silent) {
+            appendLog(`Đã tải thành công ${data.models.length} model từ LLMGate!`, 'success');
+            alert(`Đã tải thành công ${data.models.length} model từ LLMGate! Đã thêm vào menu chọn model.`);
+          }
         } else {
-          alert(`Không thể lấy model: ${data.error}`);
+          if (!silent) alert(`Không thể lấy model: ${data.error || 'Không tìm thấy model'}`);
         }
       } catch (e) {
-        alert(`Lỗi kết nối tới server: ${e}`);
+        if (!silent) alert(`Lỗi kết nối tới server: ${e}`);
+      } finally {
+        if (btn) btn.innerHTML = '<span>🔄</span><span>Tải danh sách model</span>';
       }
     }
 
@@ -1572,13 +1731,19 @@
         selectProvider(cfg.active_provider || 'gemini_free');
 
         // Gemini Free
+        const geminiModel = cfg.gemini_free?.model || 'gemini-3.5-flash';
         document.getElementById('cfg-gemini-key').value = cfg.gemini_free?.api_key || '';
-        document.getElementById('cfg-gemini-model').value = cfg.gemini_free?.model || 'gemini-3.5-flash';
+        document.getElementById('cfg-gemini-model').value = geminiModel;
+        const geminiSelect = document.getElementById('cfg-gemini-model-select');
+        if (geminiSelect) geminiSelect.value = geminiModel;
 
         // LLMGate
+        const llmModel = cfg.llmgate?.model || 'gemini-3.8-flash';
         document.getElementById('cfg-llmgate-key').value = cfg.llmgate?.api_key || '';
         document.getElementById('cfg-llmgate-base').value = cfg.llmgate?.base_url || 'https://llmgate.app/v1';
-        document.getElementById('cfg-llmgate-model').value = cfg.llmgate?.model || 'gemini-3.7-flash';
+        document.getElementById('cfg-llmgate-model').value = llmModel;
+        const llmSelect = document.getElementById('cfg-llmgate-model-select');
+        if (llmSelect) llmSelect.value = llmModel;
 
         // Shared
         document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'smart_filter';
@@ -1586,10 +1751,15 @@
 
         // Badges
         const isGemini = cfg.active_provider === 'gemini_free';
-        const activeModel = isGemini ? (cfg.gemini_free?.model || 'gemini-3.5-flash') : (cfg.llmgate?.model || 'gemini-3.7-flash');
+        const activeModel = isGemini ? geminiModel : llmModel;
         const badgeText = (isGemini ? 'Gemini: ' : 'LLMGate: ') + activeModel;
         document.getElementById('sidebar-model-badge').innerText = badgeText;
         document.getElementById('dock-model-badge').innerText = badgeText;
+
+        // Auto fetch models if API key exists
+        if (cfg.llmgate?.api_key) {
+          queryLLMGateModels(true);
+        }
       } catch (e) {
         console.error(e);
       }

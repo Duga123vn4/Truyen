@@ -63,12 +63,18 @@ async def fetch_llmgate_models(api_key: str, base_url: str = "https://api.llmgat
                 # Ưu tiên các model phổ biến
                 def sort_key(name):
                     n = name.lower()
-                    if "gemini-3.7" in n: return 1
-                    if "claude-3-7" in n or "sonnet-3-7" in n: return 2
-                    if "gemini-2.5" in n or "flash" in n: return 3
-                    if "claude-3-5" in n: return 4
-                    if "gpt-4o" in n: return 5
-                    return 10
+                    if "gemini-3.8" in n: return 1
+                    if "gemini-3.7" in n: return 2
+                    if "gemini-3.6" in n: return 3
+                    if "gemini-3.5" in n: return 4
+                    if "gemini-3" in n: return 5
+                    if "gemini-2.5" in n: return 6
+                    if "claude-sonnet-4-5" in n or "claude-opus-4-7" in n: return 7
+                    if "claude-3-7" in n or "sonnet-3-7" in n: return 8
+                    if "claude" in n: return 9
+                    if "gpt-4o" in n or "gpt-5" in n: return 10
+                    if "deepseek" in n: return 11
+                    return 20
                 models.sort(key=sort_key)
                 return models
     except Exception as e:
