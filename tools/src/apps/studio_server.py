@@ -56,6 +56,7 @@ from tools.src.services.translator import translate_chapter, generate_anime_illu
 from tools.src.services.deep_editor import edit_single_chapter
 from tools.src.services.glossary_miner import auto_sync_glossary_from_translated
 from tools.src.services.diff_studio import generate_diff_data
+from tools.src.services.web_builder import build_web_chapters
 
 class StudioState:
     def __init__(self):
@@ -787,6 +788,14 @@ async def start_translation(request: web.Request) -> web.Response:
                 await asyncio.gather(*workers)
 
             await state.log(f"🎉 Hoàn tất dịch thuật {done_count}/{total} tập!", "success")
+            if done_count > 0:
+                try:
+                    act_name = novel.name if novel else None
+                    b_res = build_web_chapters(act_name)
+                    if b_res.get("success"):
+                        await state.log(f"📖 Tự động đóng gói Web Đọc: {b_res.get('active_chapters')} tập sẵn sàng!", "success")
+                except Exception as wb_err:
+                    await state.log(f"⚠️ Không thể đóng gói web tự động: {wb_err}", "warn")
         except Exception as e:
             await state.log(f"Lỗi trong quá trình dịch: {e}", "error")
         finally:
@@ -872,6 +881,14 @@ async def start_editing(request: web.Request) -> web.Response:
                 await asyncio.gather(*workers)
 
             await state.log(f"🎉 Hoàn tất biên tập {done_count}/{total} tập!", "success")
+            if done_count > 0:
+                try:
+                    act_name = novel.name if novel else None
+                    b_res = build_web_chapters(act_name)
+                    if b_res.get("success"):
+                        await state.log(f"📖 Tự động đóng gói Web Đọc: {b_res.get('active_chapters')} tập sẵn sàng!", "success")
+                except Exception as wb_err:
+                    await state.log(f"⚠️ Không thể đóng gói web tự động: {wb_err}", "warn")
         except Exception as e:
             await state.log(f"Lỗi trong quá trình biên tập: {e}", "error")
         finally:
@@ -1070,21 +1087,54 @@ async def generate_art(request: web.Request) -> web.Response:
         await state.log("❌ Không thể sinh ảnh lúc này. Vui lòng thử lại.", "error")
         return web.json_response({"success": False, "error": "Lỗi sinh ảnh FLUX"}, status=500)
 
+# ----------------- WEB READER SYNC API -----------------
+async def sync_web(request: web.Request) -> web.Response:
+    try:
+        active_name = state.active_novel.name if state.active_novel else None
+        await state.log("⚡ Đang quét và đóng gói toàn bộ chương mới vào Web Đọc Truyện...", "info")
+        res = build_web_chapters(active_name)
+        if res.get("success"):
+            msg = f"Đã đóng gói thành công {res.get('active_chapters')} chương của '{res.get('active_novel')}' vào Web Đọc Truyện!"
+            await state.log(f"✅ {msg}", "success")
+            return web.json_response({"success": True, "message": msg, "data": res})
+        else:
+            err = res.get("error", "Lỗi đóng gói Web")
+            await state.log(f"❌ {err}", "error")
+            return web.json_response({"success": False, "error": err}, status=500)
+    except Exception as e:
+        await state.log(f"❌ Lỗi đóng gói Web: {e}", "error")
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
 # ----------------- GIT SYNC API -----------------
 async def git_sync(request: web.Request) -> web.Response:
     try:
         await state.log("☁️ Đang đồng bộ toàn bộ lên GitHub...", "info")
         # Build chapters.js
-        ps_script = TOOLS_DIR / "build_chapters_js.ps1"
-        if ps_script.exists():
-            subprocess.run(["powershell", "-ExecutionPolicy", "Bypass", "-File", str(ps_script)], capture_output=True)
+        active_name = state.active_novel.name if state.active_novel else None
+        try:
+            build_web_chapters(active_name)
+        except Exception:
+            pass
 
         subprocess.run(["git", "add", "-A"], cwd=str(WORKSPACE_DIR), capture_output=True)
-        subprocess.run(["git", "commit", "-m", "Novel Studio: Auto-Sync changes to GitHub"], cwd=str(WORKSPACE_DIR), capture_output=True)
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        subprocess.run(["git", "commit", "-m", f"Novel Studio: Cập nhật chương mới & Web [{now_str}]"], cwd=str(WORKSPACE_DIR), capture_output=True)
         res = subprocess.run(["git", "push", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True, text=True)
 
-        await state.log("✅ Đã đồng bộ thành công lên GitHub!", "success")
-        return web.json_response({"success": True, "output": res.stdout})
+        if res.returncode == 0:
+            await state.log("✅ Đã đồng bộ thành công lên GitHub!", "success")
+            return web.json_response({"success": True, "output": res.stdout})
+        else:
+            await state.log("⚠️ Nhánh từ xa có dữ liệu mới. Đang thử pull rebase và đẩy lại...", "warn")
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True)
+            res2 = subprocess.run(["git", "push", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True, text=True)
+            if res2.returncode == 0:
+                await state.log("✅ Đã đồng bộ thành công lên GitHub sau khi rebase!", "success")
+                return web.json_response({"success": True, "output": res2.stdout})
+            else:
+                err_msg = res2.stderr or res.stderr or "Lỗi đẩy lên Git"
+                await state.log(f"❌ Lỗi Git Push: {err_msg}", "error")
+                return web.json_response({"success": False, "error": err_msg}, status=500)
     except Exception as e:
         await state.log(f"❌ Lỗi Git Sync: {e}", "error")
         return web.json_response({"success": False, "error": str(e)}, status=500)
@@ -1115,10 +1165,17 @@ async def on_startup(app: web.Application):
         import webbrowser
         webbrowser.open(url)
 
-    asyncio.create_task(_launch())
+@web.middleware
+async def no_cache_middleware(request: web.Request, handler):
+    response = await handler(request)
+    if request.path.startswith("/web/") or request.path in ["/", "/studio"]:
+        response.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+        response.headers["Pragma"] = "no-cache"
+        response.headers["Expires"] = "0"
+    return response
 
 def make_app() -> web.Application:
-    app = web.Application()
+    app = web.Application(middlewares=[no_cache_middleware])
     app.on_startup.append(on_startup)
     app.router.add_get("/", index_handler)
     app.router.add_get("/studio", index_handler)
@@ -1154,6 +1211,7 @@ def make_app() -> web.Application:
     app.router.add_post("/api/glossary/term/add", add_glossary_term)
 
     app.router.add_post("/api/art/generate", generate_art)
+    app.router.add_post("/api/web/sync", sync_web)
     app.router.add_post("/api/git/sync", git_sync)
 
     # Static routes

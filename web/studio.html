@@ -41,6 +41,10 @@
         <span>📂</span>
         <span>Thư Mục</span>
       </button>
+      <button onclick="syncWebReader()" id="btn-sync-web" class="px-2.5 py-1 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded border border-indigo-200 flex items-center space-x-1 transition font-medium text-xs cursor-pointer shadow-2xs" title="Quét toàn bộ chương đã dịch và đóng gói nạp vào Web Đọc Truyện">
+        <span>⚡</span>
+        <span id="btn-sync-web-text">Cập Nhật Web</span>
+      </button>
       <button onclick="openWebReader()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition">
         <span>📖</span>
         <span>Web Đọc Truyện</span>
@@ -2699,11 +2703,38 @@
       else alert(`Lỗi Git: ${data.error}`);
     }
 
-    // Quick Web Reader Links
-    function openWebReader() {
+    // Quick Web Reader Links & Sync
+    async function syncWebReader() {
+      const btnText = document.getElementById('btn-sync-web-text');
+      if (btnText) btnText.innerText = 'Đang Đóng Gói...';
+      appendLog("⚡ Đang quét và đóng gói các chương vào Web Đọc Truyện...", "info");
+      try {
+        const res = await fetch('/api/web/sync', {method: 'POST'});
+        const data = await res.json();
+        if (data.success) {
+          appendLog(`✅ ${data.message || 'Cập nhật Web thành công!'}`, "success");
+          alert(`✅ Cập Nhật Web Thành Công!\n\n${data.message || ''}\nTổng số tập trong Web: ${data.data?.total_chapters || 0} tập\nDung lượng: ${data.data?.size_mb || 0} MB`);
+        } else {
+          appendLog(`❌ Lỗi cập nhật Web: ${data.error}`, "error");
+          alert(`❌ Lỗi cập nhật Web: ${data.error}`);
+        }
+      } catch (e) {
+        appendLog(`❌ Lỗi kết nối: ${e.message}`, "error");
+        alert(`❌ Lỗi kết nối máy chủ: ${e.message}`);
+      } finally {
+        if (btnText) btnText.innerText = 'Cập Nhật Web';
+      }
+    }
+
+    async function openWebReader() {
+      // Auto-sync web before opening to ensure latest chapters are loaded
+      try {
+        await fetch('/api/web/sync', {method: 'POST'});
+      } catch (e) {}
       fetch('/api/open/external?target=web_reader');
       window.open('/web/index.html', '_blank');
     }
+
     function openDiffStudio() {
       fetch('/api/open/external?target=diff_studio');
       window.open('/web/So_Sanh_Diff.html', '_blank');
@@ -2752,6 +2783,8 @@
       } else if (text.includes('auto-sync') || text.includes('glossary') || text.includes('thuật ngữ')) {
         switchTab('glossary');
         quickAutoSyncGlossary();
+      } else if (text.includes('cập nhật web') || text.includes('cập nhật chap') || text.includes('update web') || text.includes('sync web')) {
+        syncWebReader();
       } else if (text.includes('git') || text.includes('push') || text.includes('đồng bộ')) {
         triggerGitSync();
       } else if (text.includes('cào') || text.includes('scrape') || text.startsWith('syosetu')) {
@@ -2771,7 +2804,7 @@
       } else if (text.includes('cài đặt') || text.includes('setting')) {
         switchTab('settings');
       } else {
-        appendLog(`[Prompt] Lệnh chưa nhận diện: "${text}". Hãy thử "dịch 441-450", "biên tập 440", "auto-sync", "mở folder", "sync git".`, "warn");
+        appendLog(`[Prompt] Lệnh chưa nhận diện: "${text}". Hãy thử "cập nhật web", "dịch 441-450", "biên tập 440", "auto-sync", "mở folder", "sync git".`, "warn");
       }
     }
 

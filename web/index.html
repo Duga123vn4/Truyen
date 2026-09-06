@@ -1,10 +1,10 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Light Novel Web Reader & Audio TTS</title>
-    <script src="chapters.js"></script>
+    <script src="chapters.js?v=1788723376"></script>
     <meta name="theme-color" content="#1e1b4b">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -1569,6 +1569,11 @@
                     <span style="font-size: 10px; opacity: 0.7;">▾</span>
                 </button>
                 <div class="studio-dropdown-content" id="studioDropdownContent">
+                    <div class="studio-dropdown-header">Đồng Bộ & Dữ Liệu</div>
+                    <a href="javascript:void(0)" class="studio-dropdown-item" onclick="syncChaptersFromStudio()">
+                        <span class="item-icon">⚡</span>
+                        <span class="item-text" style="color: #4db6ac; font-weight: 600;">Đồng Bộ Chương Mới Nhất</span>
+                    </a>
                     <div class="studio-dropdown-header">Kiểm Duyệt & Giám Sát AI</div>
                     <a href="So_Sanh_Diff.html" class="studio-dropdown-item" target="_blank">
                         <span class="item-icon">🔍</span>
@@ -4913,6 +4918,22 @@ Nhiệm vụ: Hãy trả lời câu hỏi của độc giả một cách sắc s
                 }
             }
         });
+
+        // Đồng bộ chương trực tiếp từ Novel Studio Backend
+        async function syncChaptersFromStudio() {
+            try {
+                const res = await fetch('/api/web/sync', {method: 'POST'});
+                const data = await res.json();
+                if (data.success) {
+                    alert(`✅ ${data.message || 'Đã đồng bộ chương mới thành công!'}\nTrang web sẽ tự động làm mới để đọc các tập mới.`);
+                    window.location.reload();
+                } else {
+                    alert(`❌ Không thể đồng bộ: ${data.error}`);
+                }
+            } catch (e) {
+                alert(`Không thể kết nối trực tiếp với Novel Studio (${e.message}).\nNếu bạn đang đọc offline hoặc trên GitHub, hãy chạy tools/1_Cap_Nhat_Web.bat trên máy tính.`);
+            }
+        }
     
     </script>
 </body>
