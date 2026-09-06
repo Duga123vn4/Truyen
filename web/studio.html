@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NovelStudio v1.0 — LinguaGacha Edition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    code, pre { font-family: 'JetBrains Mono', monospace; }
+    /* Custom scrollbars */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #f1f5f9; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+  </style>
+</head>
+<body class="bg-[#f8fafc] text-slate-800 h-screen flex flex-col overflow-hidden select-none">
+
+  <!-- TOPBAR WINDOW HEADER -->
+  <header class="h-10 bg-white border-b border-slate-200 flex items-center justify-between px-4 z-20 flex-shrink-0">
+    <div class="flex items-center space-x-2.5">
+      <div class="w-5 h-5 rounded-md bg-gradient-to-br from-indigo-500 to-cyan-500 flex items-center justify-center text-white text-xs font-bold shadow-sm">
+        N
+      </div>
+      <span class="font-semibold text-xs text-slate-700 tracking-tight">NovelStudio</span>
+      <span class="text-[10px] bg-slate-100 text-slate-500 font-mono px-1.5 py-0.5 rounded border border-slate-200">v1.0.0</span>
+      <span class="text-slate-300">|</span>
+      <div class="flex items-center space-x-1.5 text-xs text-slate-600">
+        <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+        <span id="topbar-novel-name" class="font-medium text-slate-800">Đang tải...</span>
+      </div>
+    </div>
+
+    <!-- Window Quick Actions -->
+    <div class="flex items-center space-x-2 text-xs">
+      <button onclick="openWebReader()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition">
+        <span>📖</span>
+        <span>Web Đọc Truyện</span>
+      </button>
+      <button onclick="openDiffStudio()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition">
+        <span>📊</span>
+        <span>Diff Studio</span>
+      </button>
+      <button onclick="triggerGitSync()" class="px-2.5 py-1 bg-slate-50 hover:bg-slate-100 text-slate-700 rounded border border-slate-200 flex items-center space-x-1 transition">
+        <span>☁️</span>
+        <span>Sync Git</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- MAIN APP WRAPPER -->
+  <div class="flex flex-1 overflow-hidden">
+
+    <!-- LEFT SIDEBAR (LINGUAGACHA STYLE) -->
+    <aside class="w-56 bg-[#f8fafc] border-r border-slate-200 flex flex-col justify-between p-2.5 flex-shrink-0">
+      <div class="space-y-4">
+        <!-- Group 1: Core Agent & Hub -->
+        <div class="space-y-0.5">
+          <div class="text-[10px] font-semibold tracking-wider text-slate-400 uppercase px-2 mb-1">Tác Vụ Chính</div>
+          <button onclick="switchTab('agent')" id="nav-agent" class="nav-btn active flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-700 hover:bg-slate-200/60 transition relative">
+            <span class="text-sm">🤖</span>
+            <span>Agent / Bàn Làm Việc</span>
+          </button>
+          <button onclick="switchTab('novels')" id="nav-novels" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">📚</span>
+            <span>Kho Truyện</span>
+          </button>
+        </div>
+
+        <!-- Group 2: AI Pipelines -->
+        <div class="space-y-0.5">
+          <div class="text-[10px] font-semibold tracking-wider text-slate-400 uppercase px-2 mb-1">Quy Trình Dịch</div>
+          <button onclick="switchTab('scraper')" id="nav-scraper" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">📥</span>
+            <span>Cào Raw Syosetu</span>
+          </button>
+          <button onclick="switchTab('translate')" id="nav-translate" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">🌐</span>
+            <span>Dịch Thuật AI</span>
+          </button>
+          <button onclick="switchTab('editor')" id="nav-editor" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">✍️</span>
+            <span>Biên Tập V6.0</span>
+          </button>
+          <button onclick="switchTab('art')" id="nav-art" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">🎨</span>
+            <span>Vẽ Ảnh FLUX</span>
+          </button>
+        </div>
+
+        <!-- Group 3: Lore & Glossary -->
+        <div class="space-y-0.5">
+          <div class="text-[10px] font-semibold tracking-wider text-slate-400 uppercase px-2 mb-1">Glossary & Canon</div>
+          <button onclick="switchTab('glossary')" id="nav-glossary" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">📋</span>
+            <span>Bảng Thuật Ngữ</span>
+          </button>
+        </div>
+
+        <!-- Group 4: Settings -->
+        <div class="space-y-0.5">
+          <div class="text-[10px] font-semibold tracking-wider text-slate-400 uppercase px-2 mb-1">Hệ Thống</div>
+          <button onclick="switchTab('settings')" id="nav-settings" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">⚙️</span>
+            <span>Cài Đặt & Model</span>
+          </button>
+          <button onclick="switchTab('logs')" id="nav-logs" class="nav-btn flex items-center space-x-2.5 w-full px-2.5 py-2 rounded-lg text-xs font-medium text-slate-600 hover:bg-slate-200/60 transition">
+            <span class="text-sm">📝</span>
+            <span>Nhật Ký (Logs)</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Bottom User/Status Tag -->
+      <div class="pt-3 border-t border-slate-200 flex items-center justify-between text-[11px] text-slate-500">
+        <div class="flex items-center space-x-1.5 truncate">
+          <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+          <span id="sidebar-model-badge" class="truncate font-mono">Gemini Free</span>
+        </div>
+        <span class="text-slate-400 text-xs">Ciallo～</span>
+      </div>
+    </aside>
+
+    <!-- RIGHT MAIN WORKSPACE -->
+    <main class="flex-1 bg-[#f8fafc] flex flex-col overflow-hidden relative">
+
+      <!-- CONTENT PANELS (Scrollable) -->
+      <div id="content-container" class="flex-1 overflow-y-auto p-5 pb-24">
+
+        <!-- ================= TAB 1: AGENT / WORKBENCH ================= -->
+        <div id="tab-agent" class="tab-panel space-y-4 max-w-5xl mx-auto">
+          <!-- Active Task Alert Banner -->
+          <div id="task-banner" class="hidden bg-white border border-indigo-200 rounded-xl p-4 shadow-sm">
+            <div class="flex items-center justify-between mb-2">
+              <div class="flex items-center space-x-2">
+                <span class="animate-spin text-indigo-600 text-sm">⏳</span>
+                <span id="task-name" class="font-semibold text-xs text-indigo-900">Đang thực thi tác vụ...</span>
+              </div>
+              <button onclick="stopCurrentTask()" class="text-xs text-rose-600 hover:text-rose-700 font-medium px-2 py-0.5 border border-rose-200 rounded bg-rose-50 transition">
+                ⏹️ Dừng Tác Vụ
+              </button>
+            </div>
+            <div class="w-full bg-slate-100 rounded-full h-2 overflow-hidden mb-1.5">
+              <div id="task-progress-bar" class="bg-indigo-600 h-full rounded-full transition-all duration-300" style="width: 0%"></div>
+            </div>
+            <div class="flex justify-between text-[11px] text-slate-500 font-mono">
+              <span id="task-desc">Chuẩn bị...</span>
+              <span id="task-pct">0%</span>
+            </div>
+          </div>
+
+          <!-- Hero Novel Overview Card -->
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
+            <div class="flex items-start justify-between">
+              <div>
+                <div class="flex items-center space-x-2 mb-1">
+                  <span class="text-xs uppercase tracking-wider font-semibold text-indigo-600 bg-indigo-50 px-2 py-0.5 rounded border border-indigo-100">Bộ Truyện Đang Làm Việc</span>
+                  <span id="active-novel-title-tag" class="text-xs text-slate-400 font-mono">Chu_Thuat_Su_Dung_Gia</span>
+                </div>
+                <h2 id="active-novel-heading" class="text-lg font-bold text-slate-800">Đang tải thông tin...</h2>
+                <p class="text-xs text-slate-500 mt-0.5" id="active-novel-folder">d:/Novel/projects/...</p>
+              </div>
+              <div class="flex items-center space-x-2">
+                <button onclick="switchTab('novels')" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-lg border border-slate-200 transition font-medium">
+                  Đổi Truyện Khác
+                </button>
+              </div>
+            </div>
+
+            <!-- Stats Bar -->
+            <div class="grid grid-cols-4 gap-3 mt-4 pt-4 border-t border-slate-100">
+              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3">
+                <div class="text-[11px] font-medium text-slate-500">Chương Raw Có Sẵn</div>
+                <div id="stat-raw-count" class="text-xl font-bold text-slate-800 font-mono mt-0.5">0</div>
+                <div id="stat-raw-range" class="text-[10px] text-slate-400 mt-0.5">Tập 0 - 0</div>
+              </div>
+              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3">
+                <div class="text-[11px] font-medium text-slate-500">Đã Dịch Tiếng Việt</div>
+                <div id="stat-trans-count" class="text-xl font-bold text-emerald-600 font-mono mt-0.5">0</div>
+                <div id="stat-trans-range" class="text-[10px] text-slate-400 mt-0.5">Tập 0 - 0</div>
+              </div>
+              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3">
+                <div class="text-[11px] font-medium text-slate-500">Chưa Dịch (Cần Dịch)</div>
+                <div id="stat-untrans-count" class="text-xl font-bold text-amber-600 font-mono mt-0.5">0</div>
+                <div class="text-[10px] text-slate-400 mt-0.5">Tập raw chưa có bản dịch</div>
+              </div>
+              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3">
+                <div class="text-[11px] font-medium text-slate-500">Glossary & Canon</div>
+                <div id="stat-glossary-status" class="text-xl font-bold text-indigo-600 font-mono mt-0.5">964+</div>
+                <div class="text-[10px] text-slate-400 mt-0.5">Thực thể đã chuẩn hóa</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quick Action Buttons -->
+          <div class="grid grid-cols-3 gap-3">
+            <button onclick="quickTranslateNext()" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
+              <div class="w-8 h-8 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center text-base mb-2 group-hover:bg-indigo-600 group-hover:text-white transition">
+                🚀
+              </div>
+              <div class="font-semibold text-xs text-slate-800">Dịch Tiếp Các Tập Mới</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Tự động chọn các tập raw chưa dịch</div>
+            </button>
+
+            <button onclick="quickAutoSyncGlossary()" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
+              <div class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center text-base mb-2 group-hover:bg-emerald-600 group-hover:text-white transition">
+                🔍
+              </div>
+              <div class="font-semibold text-xs text-slate-800">Auto-Sync Glossary 1-Click</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Quét thẻ 『...』 bổ sung vào từ điển</div>
+            </button>
+
+            <button onclick="switchTab('art')" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
+              <div class="w-8 h-8 rounded-lg bg-purple-50 text-purple-600 flex items-center justify-center text-base mb-2 group-hover:bg-purple-600 group-hover:text-white transition">
+                🎨
+              </div>
+              <div class="font-semibold text-xs text-slate-800">Vẽ Ảnh Anime FLUX</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Sinh ảnh minh họa độ nét cao miễn phí</div>
+            </button>
+          </div>
+
+          <!-- Live Activity Log Preview -->
+          <div class="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
+            <div class="flex items-center justify-between mb-2">
+              <div class="font-semibold text-xs text-slate-700 flex items-center space-x-1.5">
+                <span>📋</span>
+                <span>Nhật Ký Hoạt Động (Live Console)</span>
+              </div>
+              <button onclick="clearLogs()" class="text-[11px] text-slate-400 hover:text-slate-600">Xóa nhật ký</button>
+            </div>
+            <div id="live-console" class="bg-slate-900 text-slate-200 text-xs font-mono p-3 rounded-lg h-44 overflow-y-auto space-y-1">
+              <div class="text-slate-500">[System] NovelStudio v1.0 đã sẵn sàng.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 2: NOVELS HUB ================= -->
+        <div id="tab-novels" class="tab-panel hidden space-y-4 max-w-5xl mx-auto">
+          <div class="flex items-center justify-between">
+            <div>
+              <h2 class="text-base font-bold text-slate-800">📚 Quản Lý Kho Truyện</h2>
+              <p class="text-xs text-slate-500">Danh sách các bộ truyện đang lưu trữ trong máy</p>
+            </div>
+          </div>
+          <div id="novels-grid" class="grid grid-cols-2 gap-4">
+            <!-- Populated via JS -->
+          </div>
+        </div>
+
+        <!-- ================= TAB 3: SYOSETU SCRAPER ================= -->
+        <div id="tab-scraper" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
+            <div>
+              <h2 class="text-base font-bold text-slate-800">📥 Cào Chương Raw Từ Syosetu</h2>
+              <p class="text-xs text-slate-500">Tự động tải văn bản gốc từ Syosetu về thư mục raw/</p>
+            </div>
+
+            <div class="space-y-3">
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Mã Truyện Syosetu hoặc URL</label>
+                <div class="flex space-x-2">
+                  <input type="text" id="scrape-query" placeholder="Ví dụ: n1234xx hoặc https://ncode.syosetu.com/n1234xx/" class="flex-1 px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <button onclick="fetchSyosetuInfo()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg transition">Quét Thông Tin</button>
+                </div>
+              </div>
+
+              <!-- Syosetu Info Card -->
+              <div id="syosetu-info-card" class="hidden bg-slate-50 border border-slate-200 rounded-lg p-3 text-xs space-y-1.5">
+                <div class="font-bold text-slate-800" id="syosetu-title">Tên truyện: ...</div>
+                <div class="text-slate-600" id="syosetu-author">Tác giả: ...</div>
+                <div class="text-slate-600" id="syosetu-total">Tổng số tập: ...</div>
+              </div>
+
+              <div class="grid grid-cols-2 gap-3 pt-2">
+                <div>
+                  <label class="block text-xs font-medium text-slate-700 mb-1">Từ tập</label>
+                  <input type="number" id="scrape-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                </div>
+                <div>
+                  <label class="block text-xs font-medium text-slate-700 mb-1">Đến tập</label>
+                  <input type="number" id="scrape-end" value="10" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                </div>
+              </div>
+
+              <button onclick="startScraping()" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
+                🚀 Bắt Đầu Tải Raw Về Máy
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 4: TRANSLATOR ================= -->
+        <div id="tab-translate" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
+            <div>
+              <h2 class="text-base font-bold text-slate-800">🌐 Dịch Raw Sang Tiếng Việt Chuẩn Light Novel</h2>
+              <p class="text-xs text-slate-500">Dịch tự động kết hợp nạp Canon Database và bảo tồn thẻ 『...』</p>
+            </div>
+
+            <div class="space-y-3">
+              <div class="grid grid-cols-2 gap-3">
+                <div>
+                  <label class="block text-xs font-medium text-slate-700 mb-1">Từ tập</label>
+                  <input type="number" id="trans-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                </div>
+                <div>
+                  <label class="block text-xs font-medium text-slate-700 mb-1">Đến tập</label>
+                  <input type="number" id="trans-end" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                </div>
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Số luồng xử lý song song</label>
+                <select id="trans-concurrency" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+                  <option value="1">1 Luồng (An toàn, tránh dính 429 Rate Limit)</option>
+                  <option value="2">2 Luồng (Tốc độ cân bằng)</option>
+                </select>
+              </div>
+
+              <div class="pt-2 flex space-x-2">
+                <button onclick="startTranslation()" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
+                  🚀 Bắt Đầu Tiến Trình Dịch
+                </button>
+                <button onclick="stopCurrentTask()" class="px-4 py-2.5 bg-rose-50 text-rose-600 border border-rose-200 hover:bg-rose-100 text-xs font-medium rounded-lg transition">
+                  ⏹️ Dừng
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 5: DEEP EDITOR ================= -->
+        <div id="tab-editor" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
+            <div>
+              <h2 class="text-base font-bold text-slate-800">✍️ Đại Biên Tập Chuyên Sâu V6.0</h2>
+              <p class="text-xs text-slate-500">Trau chuốt văn phong Light Novel cao cấp, khử câu bị động, chuẩn hóa thoại “...”</p>
+            </div>
+
+            <!-- V6.0 Rules Checklist -->
+            <div class="bg-slate-50 border border-slate-200 rounded-lg p-3 text-xs space-y-1.5">
+              <div class="font-semibold text-slate-700">Các quy chuẩn V6.0 tự động áp dụng:</div>
+              <div class="text-slate-600 flex items-center space-x-1"><span>✓</span> <span>Chuẩn hóa dấu ngoặc kép thoại tiếng Việt “...”.</span></div>
+              <div class="text-slate-600 flex items-center space-x-1"><span>✓</span> <span>Bảo toàn 100% tên kỹ năng, bảo vật trong ngoặc 『...』.</span></div>
+              <div class="text-slate-600 flex items-center space-x-1"><span>✓</span> <span>Đẩy nhanh nhịp điệu chiến đấu sắc bén, dứt khoát.</span></div>
+              <div class="text-slate-600 flex items-center space-x-1"><span>✓</span> <span>Tự động sao lưu bản gốc vào backups/truoc_bien_tap/.</span></div>
+            </div>
+
+            <div class="grid grid-cols-2 gap-3">
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Từ tập</label>
+                <input type="number" id="edit-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+              </div>
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Đến tập</label>
+                <input type="number" id="edit-end" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+              </div>
+            </div>
+
+            <button onclick="startEditing()" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
+              ✨ Bắt Đầu Đại Biên Tập V6.0
+            </button>
+          </div>
+        </div>
+
+        <!-- ================= TAB 6: GLOSSARY STUDIO (LINGUAGACHA 1:1) ================= -->
+        <div id="tab-glossary" class="tab-panel hidden space-y-4 max-w-5xl mx-auto">
+          <!-- LinguaGacha Callout Banners -->
+          <div class="bg-amber-50/70 border border-amber-200/80 rounded-xl p-3.5 flex items-start space-x-3 text-xs text-amber-900">
+            <span class="text-base">💡</span>
+            <div>
+              <span class="font-semibold">Cơ chế Auto-Sync Glossary:</span>
+              Toàn bộ tên Thiên Chức, Kỹ năng, Ma thú và Bảo vật đều được tự động nhận diện và cập nhật vào terms.md dựa trên cặp ngoặc góc 『...』.
+            </div>
+          </div>
+
+          <div class="bg-white border border-slate-200 rounded-xl shadow-sm overflow-hidden">
+            <!-- Table Header Tools -->
+            <div class="p-4 border-b border-slate-100 flex items-center justify-between">
+              <div class="flex items-center space-x-2">
+                <span class="text-sm font-bold text-slate-800">🌟 Bảng Thuật Ngữ Canon (Terms Database)</span>
+                <span id="glossary-total-count" class="text-xs bg-slate-100 text-slate-600 px-2 py-0.5 rounded font-mono">0 mục</span>
+              </div>
+              <div class="flex items-center space-x-2">
+                <input type="text" id="glossary-search" oninput="filterGlossary()" placeholder="Tìm kiếm thuật ngữ..." class="px-3 py-1.5 text-xs border border-slate-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 w-48">
+                <button onclick="quickAutoSyncGlossary()" class="px-3 py-1.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 text-xs font-medium rounded-lg border border-indigo-200 transition flex items-center space-x-1">
+                  <span>🔍</span>
+                  <span>Quét Mới (Auto-Sync)</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- LinguaGacha Table -->
+            <div class="overflow-x-auto max-h-[500px]">
+              <table class="w-full text-left border-collapse text-xs">
+                <thead>
+                  <tr class="bg-slate-50/80 text-slate-500 font-semibold border-b border-slate-200">
+                    <th class="py-2.5 px-3 w-20">Mã ID</th>
+                    <th class="py-2.5 px-3">Tên Thực Thể</th>
+                    <th class="py-2.5 px-3">Phân Loại</th>
+                    <th class="py-2.5 px-3">Bản Dịch Hiện Tại</th>
+                    <th class="py-2.5 px-3">Đề Xuất Mới</th>
+                    <th class="py-2.5 px-3 w-24 text-center">Trạng Thái</th>
+                  </tr>
+                </thead>
+                <tbody id="glossary-tbody" class="divide-y divide-slate-100 font-sans">
+                  <!-- Populated via JS -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 7: FLUX ANIME ART ================= -->
+        <div id="tab-art" class="tab-panel hidden space-y-4 max-w-4xl mx-auto">
+          <div class="grid grid-cols-2 gap-5">
+            <!-- Input Form -->
+            <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-3">
+              <div>
+                <h2 class="text-base font-bold text-slate-800">🎨 Sinh Ảnh Anime FLUX (Miễn Phí)</h2>
+                <p class="text-xs text-slate-500">Tạo ảnh minh họa Light Novel độ nét cao cho từng chương</p>
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Gán vào tập số</label>
+                <input type="number" id="art-chapter" value="440" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Mô tả cảnh / nhân vật (Prompt)</label>
+                <textarea id="art-prompt" rows="4" placeholder="Ví dụ: Riza trong trang phục Cự Nhân Chiến Trang, mắt rực lửa tím, đứng giữa thần điện..." class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500"></textarea>
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Gợi ý phong cách 1-Click</label>
+                <div class="grid grid-cols-2 gap-1.5">
+                  <button type="button" onclick="setArtPreset('dark_fantasy')" class="px-2.5 py-1.5 bg-slate-50 hover:bg-slate-100 border border-slate-200 rounded text-[11px] text-slate-700 text-left">⚔️ Dark Fantasy Epic</button>
+                  <button type="button" onclick="setArtPreset('anime_cute')" class="px-2.5 py-1.5 bg-slate-50 hover:bg-slate-100 border border-slate-200 rounded text-[11px] text-slate-700 text-left">🌸 Anime Cute / LN</button>
+                  <button type="button" onclick="setArtPreset('action_battle')" class="px-2.5 py-1.5 bg-slate-50 hover:bg-slate-100 border border-slate-200 rounded text-[11px] text-slate-700 text-left">💥 Action Battle</button>
+                  <button type="button" onclick="setArtPreset('maid_school')" class="px-2.5 py-1.5 bg-slate-50 hover:bg-slate-100 border border-slate-200 rounded text-[11px] text-slate-700 text-left">☕ Maid Cafe / School</button>
+                </div>
+              </div>
+
+              <button onclick="generateArt()" class="w-full py-2.5 bg-purple-600 hover:bg-purple-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
+                🎨 Bắt Đầu Vẽ Tranh Anime FLUX
+              </button>
+            </div>
+
+            <!-- Image Preview Card -->
+            <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm flex flex-col justify-between">
+              <div class="text-xs font-semibold text-slate-700 mb-2">Khung Xem Trước Ảnh</div>
+              <div id="art-preview-box" class="flex-1 min-h-[300px] border border-dashed border-slate-300 rounded-lg flex items-center justify-center bg-slate-50 overflow-hidden">
+                <span class="text-xs text-slate-400">Chưa có ảnh nào được sinh</span>
+              </div>
+              <div id="art-actions" class="hidden mt-3 pt-3 border-t border-slate-100 flex justify-end space-x-2">
+                <button onclick="openGeneratedImage()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs rounded border border-slate-200">Xem Ảnh Gốc</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 8: SETTINGS ================= -->
+        <div id="tab-settings" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
+            <div>
+              <h2 class="text-base font-bold text-slate-800">⚙️ Cài Đặt AI & Mô Hình Dịch Thuật</h2>
+              <p class="text-xs text-slate-500">Quản lý API Key, chuyển đổi kênh AI và chế độ nạp Glossary</p>
+            </div>
+
+            <div class="space-y-3">
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Kênh AI Hoạt Động (Active Provider)</label>
+                <div class="flex space-x-4">
+                  <label class="flex items-center space-x-2 text-xs">
+                    <input type="radio" name="provider" value="gemini_free" id="cfg-prov-gemini" class="text-indigo-600">
+                    <span class="font-medium text-slate-800">Gemini Free (Miễn Phí)</span>
+                  </label>
+                  <label class="flex items-center space-x-2 text-xs">
+                    <input type="radio" name="provider" value="llmgate" id="cfg-prov-llmgate" class="text-indigo-600">
+                    <span class="font-medium text-slate-800">LLMGate API</span>
+                  </label>
+                </div>
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Gemini Free API Key</label>
+                <input type="password" id="cfg-gemini-key" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono">
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Tên Model Gemini Free</label>
+                <input type="text" id="cfg-gemini-model" value="gemini-3.5-flash" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono">
+              </div>
+
+              <div>
+                <label class="block text-xs font-medium text-slate-700 mb-1">Chế độ nạp Glossary (Glossary Mode)</label>
+                <select id="cfg-glossary-mode" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+                  <option value="smart_filter">smart_filter (Trích xuất thông minh, tiết kiệm token, tránh dính 429)</option>
+                  <option value="full_cache">full_cache (Nạp toàn bộ 100% Canon Database)</option>
+                </select>
+              </div>
+
+              <div class="pt-2 flex space-x-2">
+                <button onclick="saveSettings()" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
+                  💾 Lưu Cài Đặt
+                </button>
+                <button onclick="testConnection()" class="px-4 py-2.5 bg-slate-50 hover:bg-slate-100 text-slate-700 border border-slate-200 text-xs font-medium rounded-lg transition">
+                  🔌 Kiểm Tra Kết Nối
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ================= TAB 9: LOGS ================= -->
+        <div id="tab-logs" class="tab-panel hidden space-y-4 max-w-4xl mx-auto">
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-3">
+            <div class="flex items-center justify-between">
+              <div>
+                <h2 class="text-base font-bold text-slate-800">📝 Toàn Bộ Nhật Ký Hệ Thống</h2>
+                <p class="text-xs text-slate-500">Lịch sử sự kiện, tiến trình dịch và thông báo lỗi</p>
+              </div>
+              <button onclick="clearLogs()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs rounded border border-slate-200">Xóa Nhật Ký</button>
+            </div>
+            <div id="full-console" class="bg-slate-900 text-slate-200 text-xs font-mono p-4 rounded-lg h-[500px] overflow-y-auto space-y-1">
+              <div class="text-slate-500">[System] Khởi tạo nhật ký hệ thống...</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- BOTTOM ACTION DOCK (EXACT LINGUAGACHA DESIGN) -->
+      <div class="absolute bottom-3 left-6 right-6 z-30">
+        <div class="bg-white border border-slate-200/90 rounded-xl shadow-lg p-2.5 transition-all focus-within:border-indigo-400 focus-within:ring-2 focus-within:ring-indigo-100">
+          <div class="flex items-center space-x-2">
+            <input
+              type="text"
+              id="prompt-input"
+              onkeydown="handlePromptKey(event)"
+              placeholder="Mô tả nhiệm vụ, hoặc nhập lệnh nhanh (VD: dịch 441-450, cào raw n1234, auto-sync, sync git)..."
+              class="w-full text-xs text-slate-800 placeholder-slate-400 focus:outline-none bg-transparent px-2"
+            >
+            <button onclick="submitPrompt()" class="w-7 h-7 rounded-lg bg-indigo-600 hover:bg-indigo-700 text-white flex items-center justify-center text-xs flex-shrink-0 transition shadow-sm">
+              ↑
+            </button>
+          </div>
+
+          <!-- Sub Info Bar -->
+          <div class="flex items-center justify-between mt-1.5 pt-1.5 border-t border-slate-100 text-[10px] text-slate-400 px-2 font-sans">
+            <div class="flex items-center space-x-3">
+              <span class="flex items-center space-x-1 hover:text-slate-600 cursor-pointer" onclick="switchTab('agent')">
+                <span>📄</span>
+                <span>Nhiệm vụ mới</span>
+              </span>
+              <span class="text-slate-300">•</span>
+              <span id="dock-novel-badge" class="font-medium text-slate-600 truncate max-w-xs">Chu_Thuat_Su_Dung_Gia</span>
+              <span class="text-slate-300">•</span>
+              <span id="dock-model-badge" class="font-mono text-slate-500">Gemini 3.5 Flash</span>
+            </div>
+            <div>
+              <span>Enter gửi • Shift + Enter xuống dòng</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+
+  <!-- SCRIPT ENGINE -->
+  <script>
+    let activeNovel = null;
+    let allNovels = [];
+    let glossaryData = [];
+    let lastGeneratedImageUrl = "";
+
+    // Tab Switching
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-panel').forEach(el => el.classList.add('hidden'));
+      const activeEl = document.getElementById(`tab-${tabId}`);
+      if (activeEl) activeEl.classList.remove('hidden');
+
+      document.querySelectorAll('.nav-btn').forEach(btn => {
+        btn.classList.remove('active', 'bg-white', 'text-indigo-600', 'shadow-sm');
+        btn.classList.add('text-slate-600');
+      });
+      const activeBtn = document.getElementById(`nav-${tabId}`);
+      if (activeBtn) {
+        activeBtn.classList.add('active', 'bg-white', 'text-indigo-600', 'shadow-sm');
+        activeBtn.classList.remove('text-slate-600');
+      }
+
+      if (tabId === 'glossary') loadGlossary();
+      if (tabId === 'novels') renderNovelsGrid();
+    }
+
+    // Initialize SSE (Server-Sent Events)
+    function initSSE() {
+      const evtSource = new EventSource('/api/stream');
+      evtSource.onmessage = (e) => {
+        try {
+          const msg = JSON.parse(e.data);
+          if (msg.event === 'log') {
+            appendLog(msg.data.message, msg.data.level);
+          } else if (msg.event === 'progress') {
+            updateProgressBar(msg.data);
+          } else if (msg.event === 'task_finished') {
+            hideTaskBanner();
+            loadNovelInfo();
+          } else if (msg.event === 'novel_changed') {
+            loadNovelInfo();
+          }
+        } catch (err) {
+          console.error(err);
+        }
+      };
+    }
+
+    function appendLog(text, level) {
+      const live = document.getElementById('live-console');
+      const full = document.getElementById('full-console');
+      const now = new Date().toLocaleTimeString();
+
+      let color = 'text-slate-300';
+      if (level === 'success') color = 'text-emerald-400';
+      if (level === 'error') color = 'text-rose-400 font-semibold';
+      if (level === 'warn') color = 'text-amber-400';
+
+      const line = `<div class="${color}"><span class="text-slate-500">[${now}]</span> ${text}</div>`;
+      if (live) {
+        live.innerHTML += line;
+        live.scrollTop = live.scrollHeight;
+      }
+      if (full) {
+        full.innerHTML += line;
+        full.scrollTop = full.scrollHeight;
+      }
+    }
+
+    function clearLogs() {
+      document.getElementById('live-console').innerHTML = '';
+      document.getElementById('full-console').innerHTML = '';
+    }
+
+    function updateProgressBar(data) {
+      const banner = document.getElementById('task-banner');
+      banner.classList.remove('hidden');
+      document.getElementById('task-progress-bar').style.width = `${data.pct}%`;
+      document.getElementById('task-pct').innerText = `${data.pct}% (${data.current}/${data.total})`;
+      document.getElementById('task-desc').innerText = data.title || (data.ep ? `Tập ${data.ep}` : '');
+    }
+
+    function hideTaskBanner() {
+      document.getElementById('task-banner').classList.add('hidden');
+    }
+
+    // Load Novels
+    async function loadNovels() {
+      try {
+        const res = await fetch('/api/novels');
+        const data = await res.json();
+        allNovels = data.novels;
+        activeNovel = data.active;
+        loadNovelInfo();
+        renderNovelsGrid();
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    async function loadNovelInfo() {
+      try {
+        const res = await fetch('/api/novel/info');
+        const data = await res.json();
+        if (data.error) return;
+
+        document.getElementById('topbar-novel-name').innerText = data.name;
+        document.getElementById('active-novel-heading').innerText = data.name;
+        document.getElementById('active-novel-title-tag').innerText = data.name;
+        document.getElementById('active-novel-folder').innerText = data.folder;
+        document.getElementById('dock-novel-badge').innerText = data.name;
+
+        document.getElementById('stat-raw-count').innerText = data.raw_count;
+        document.getElementById('stat-raw-range').innerText = `Tập ${data.raw_min} - ${data.raw_max}`;
+        document.getElementById('stat-trans-count').innerText = data.translated_count;
+        document.getElementById('stat-trans-range').innerText = `Tập ${data.trans_min} - ${data.trans_max}`;
+        document.getElementById('stat-untrans-count').innerText = data.untranslated_count;
+
+        // Auto pre-fill inputs
+        if (data.untranslated_episodes && data.untranslated_episodes.length > 0) {
+          document.getElementById('trans-start').value = data.untranslated_episodes[0];
+          document.getElementById('trans-end').value = data.untranslated_episodes[data.untranslated_episodes.length - 1];
+        } else {
+          document.getElementById('trans-start').value = data.trans_max + 1;
+          document.getElementById('trans-end').value = data.trans_max + 10;
+        }
+
+        document.getElementById('edit-start').value = data.trans_min;
+        document.getElementById('edit-end').value = data.trans_max;
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    function renderNovelsGrid() {
+      const container = document.getElementById('novels-grid');
+      container.innerHTML = '';
+      allNovels.forEach(n => {
+        const isAct = n.name === activeNovel;
+        const card = document.createElement('div');
+        card.className = `bg-white border ${isAct ? 'border-indigo-500 ring-2 ring-indigo-100' : 'border-slate-200'} rounded-xl p-4 shadow-sm space-y-3 transition`;
+        card.innerHTML = `
+          <div class="flex items-start justify-between">
+            <div>
+              <div class="font-bold text-slate-800 text-sm">${n.name}</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Thư mục dự án cục bộ</div>
+            </div>
+            ${isAct ? '<span class="px-2 py-0.5 text-[10px] bg-indigo-50 text-indigo-700 font-semibold rounded border border-indigo-200">Đang chọn</span>' : ''}
+          </div>
+          <div class="grid grid-cols-2 gap-2 text-xs pt-2 border-t border-slate-100">
+            <div><span class="text-slate-400">Số Raw:</span> <span class="font-bold">${n.raw_count}</span></div>
+            <div><span class="text-slate-400">Đã Dịch:</span> <span class="font-bold text-emerald-600">${n.translated_count}</span></div>
+          </div>
+          <div class="flex space-x-2 pt-1">
+            <button onclick="selectNovel('${n.name}')" class="flex-1 py-1.5 ${isAct ? 'bg-slate-100 text-slate-400' : 'bg-indigo-600 text-white hover:bg-indigo-700'} text-xs font-medium rounded transition">
+              ${isAct ? 'Đang Hoạt Động' : 'Chọn Bộ Này'}
+            </button>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    async function selectNovel(name) {
+      await fetch('/api/novel/select', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({name})
+      });
+      activeNovel = name;
+      loadNovels();
+      switchTab('agent');
+    }
+
+    // Load Settings
+    async function loadSettings() {
+      try {
+        const res = await fetch('/api/config');
+        const cfg = await res.json();
+        if (cfg.active_provider === 'gemini_free') {
+          document.getElementById('cfg-prov-gemini').checked = true;
+        } else {
+          document.getElementById('cfg-prov-llmgate').checked = true;
+        }
+        document.getElementById('cfg-gemini-key').value = cfg.gemini_free?.api_key || '';
+        document.getElementById('cfg-gemini-model').value = cfg.gemini_free?.model || 'gemini-3.5-flash';
+        document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'smart_filter';
+
+        document.getElementById('sidebar-model-badge').innerText = cfg.gemini_free?.model || 'Gemini 3.5 Flash';
+        document.getElementById('dock-model-badge').innerText = cfg.gemini_free?.model || 'Gemini 3.5 Flash';
+      } catch (e) {
+        console.error(e);
+      }
+    }
+
+    async function saveSettings() {
+      const prov = document.querySelector('input[name="provider"]:checked').value;
+      const key = document.getElementById('cfg-gemini-key').value;
+      const model = document.getElementById('cfg-gemini-model').value;
+      const mode = document.getElementById('cfg-glossary-mode').value;
+
+      const payload = {
+        active_provider: prov,
+        gemini_free: { api_key: key, model: model },
+        glossary_mode: mode
+      };
+
+      const res = await fetch('/api/config', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(payload)
+      });
+      if (res.ok) {
+        alert('Đã lưu cấu hình AI thành công!');
+        loadSettings();
+      }
+    }
+
+    async function testConnection() {
+      appendLog("Đang kiểm tra kết nối AI...", "info");
+      const res = await fetch('/api/config/test', {method: 'POST'});
+      const data = await res.json();
+      if (data.success) {
+        alert(`Kết nối thành công!\nModel: ${data.model}\nPhản hồi: ${data.response} (${data.elapsed_seconds}s)`);
+      } else {
+        alert(`Lỗi kết nối: ${data.error}`);
+      }
+    }
+
+    // Scraper
+    async function fetchSyosetuInfo() {
+      const q = document.getElementById('scrape-query').value.trim();
+      if (!q) return;
+      const res = await fetch(`/api/syosetu/info?query=${encodeURIComponent(q)}`);
+      const data = await res.json();
+      if (data.success) {
+        document.getElementById('syosetu-info-card').classList.remove('hidden');
+        document.getElementById('syosetu-title').innerText = `Tên truyện: ${data.title}`;
+        document.getElementById('syosetu-author').innerText = `Tác giả: ${data.author}`;
+        document.getElementById('syosetu-total').innerText = `Tổng số tập: ${data.total_episodes}`;
+        document.getElementById('scrape-end').value = data.total_episodes;
+      } else {
+        alert(data.error);
+      }
+    }
+
+    async function startScraping() {
+      const code = document.getElementById('scrape-query').value.trim();
+      const start = document.getElementById('scrape-start').value;
+      const end = document.getElementById('scrape-end').value;
+      const res = await fetch('/api/syosetu/scrape', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({code, start, end})
+      });
+      const data = await res.json();
+      if (data.success) switchTab('agent');
+      else alert(data.error);
+    }
+
+    // Translation & Editing
+    async function startTranslation() {
+      const start = document.getElementById('trans-start').value;
+      const end = document.getElementById('trans-end').value;
+      const concurrency = document.getElementById('trans-concurrency').value;
+      const res = await fetch('/api/translate/start', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({start, end, concurrency})
+      });
+      const data = await res.json();
+      if (data.success) switchTab('agent');
+      else alert(data.error);
+    }
+
+    async function startEditing() {
+      const start = document.getElementById('edit-start').value;
+      const end = document.getElementById('edit-end').value;
+      const res = await fetch('/api/edit/start', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({start, end, concurrency: 1})
+      });
+      const data = await res.json();
+      if (data.success) switchTab('agent');
+      else alert(data.error);
+    }
+
+    async function stopCurrentTask() {
+      await fetch('/api/task/stop', {method: 'POST'});
+    }
+
+    // Glossary
+    async function loadGlossary() {
+      const res = await fetch('/api/glossary');
+      const data = await res.json();
+      glossaryData = data.terms || [];
+      document.getElementById('glossary-total-count').innerText = `${glossaryData.length} mục`;
+      renderGlossaryTable(glossaryData);
+    }
+
+    function renderGlossaryTable(terms) {
+      const tbody = document.getElementById('glossary-tbody');
+      tbody.innerHTML = '';
+      terms.forEach(t => {
+        const tr = document.createElement('tr');
+        tr.className = 'hover:bg-slate-50 transition text-slate-700';
+        tr.innerHTML = `
+          <td class="py-2.5 px-3 font-mono text-[11px] text-slate-400">${t.tag || 'TERM'}</td>
+          <td class="py-2.5 px-3 font-medium text-slate-900">${t.name}</td>
+          <td class="py-2.5 px-3 text-slate-500">${t.category}</td>
+          <td class="py-2.5 px-3 font-mono text-[11px] text-slate-600">${t.current}</td>
+          <td class="py-2.5 px-3 font-semibold text-indigo-600 font-mono">${t.proposed}</td>
+          <td class="py-2.5 px-3 text-center">
+            <span class="px-2 py-0.5 rounded text-[10px] font-medium bg-emerald-50 text-emerald-700 border border-emerald-200">
+              Đã Chuẩn
+            </span>
+          </td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function filterGlossary() {
+      const q = document.getElementById('glossary-search').value.toLowerCase();
+      const filtered = glossaryData.filter(t =>
+        t.name.toLowerCase().includes(q) ||
+        t.category.toLowerCase().includes(q) ||
+        t.current.toLowerCase().includes(q)
+      );
+      renderGlossaryTable(filtered);
+    }
+
+    async function quickAutoSyncGlossary() {
+      appendLog("Đang chạy Auto-Sync Glossary...", "info");
+      const res = await fetch('/api/glossary/auto-sync', {method: 'POST'});
+      const data = await res.json();
+      if (data.success) {
+        alert(`Đã hoàn tất Auto-Sync! Phát hiện và bổ sung ${data.count} thực thể mới.`);
+        loadGlossary();
+      } else {
+        alert(`Lỗi Auto-Sync: ${data.error}`);
+      }
+    }
+
+    // Art Studio
+    function setArtPreset(preset) {
+      if (preset === 'dark_fantasy') document.getElementById('art-prompt').value = "Trận chiến hoành tráng trong đêm bão lôi điện, ma pháp hắc ám bùng nổ, ánh sáng ngọc lục bảo sắc lạnh";
+      if (preset === 'anime_cute') document.getElementById('art-prompt').value = "Nữ hiệp sĩ tóc vàng dễ thương, biểu cảm phụng phịu đáng yêu, trang phục hầu gái cách điệu";
+      if (preset === 'action_battle') document.getElementById('art-prompt').value = "Đòn chém song rìu chấn động sấm sét, luồng gió quét tan nát mặt đất, góc quay điện ảnh cực gắt";
+      if (preset === 'maid_school') document.getElementById('art-prompt').value = "Quán cà phê hầu gái học đường vui nhộn, lớp học 2-7 Hakurei rộn rã tiếng cười";
+    }
+
+    async function generateArt() {
+      const chapter = document.getElementById('art-chapter').value;
+      const prompt = document.getElementById('art-prompt').value.trim();
+      if (!prompt) return alert("Vui lòng nhập mô tả!");
+
+      const previewBox = document.getElementById('art-preview-box');
+      previewBox.innerHTML = '<span class="text-xs text-indigo-600 animate-pulse font-medium">⏳ Đang vẽ tranh Anime qua FLUX Engine...</span>';
+
+      const res = await fetch('/api/art/generate', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({chapter, prompt})
+      });
+      const data = await res.json();
+      if (data.success) {
+        lastGeneratedImageUrl = data.image_url;
+        previewBox.innerHTML = `<img src="${data.image_url}?t=${Date.now()}" class="w-full h-full object-contain rounded-lg">`;
+        document.getElementById('art-actions').classList.remove('hidden');
+      } else {
+        previewBox.innerHTML = `<span class="text-xs text-rose-500 font-medium">❌ ${data.error}</span>`;
+      }
+    }
+
+    function openGeneratedImage() {
+      if (lastGeneratedImageUrl) window.open(lastGeneratedImageUrl, '_blank');
+    }
+
+    // Git Sync
+    async function triggerGitSync() {
+      if (!confirm("Đồng bộ toàn bộ thay đổi lên GitHub?")) return;
+      appendLog("Đang đồng bộ GitHub...", "info");
+      const res = await fetch('/api/git/sync', {method: 'POST'});
+      const data = await res.json();
+      if (data.success) alert("Đã đồng bộ lên GitHub thành công!");
+      else alert(`Lỗi Git: ${data.error}`);
+    }
+
+    // Quick Web Reader Links
+    function openWebReader() { window.open('/web/index.html', '_blank'); }
+    function openDiffStudio() { window.open('/web/So_Sanh_Diff.html', '_blank'); }
+
+    // Bottom Action Prompt Bar
+    function handlePromptKey(e) {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        submitPrompt();
+      }
+    }
+
+    async function submitPrompt() {
+      const input = document.getElementById('prompt-input');
+      const text = input.value.trim().toLowerCase();
+      if (!text) return;
+      input.value = '';
+
+      // Smart command matcher
+      if (text.includes('dịch') || text.startsWith('trans')) {
+        const m = text.match(/(\d+)\s*[-đếnto]+\s*(\d+)/);
+        if (m) {
+          document.getElementById('trans-start').value = m[1];
+          document.getElementById('trans-end').value = m[2];
+        }
+        switchTab('translate');
+        startTranslation();
+      } else if (text.includes('biên tập') || text.includes('edit')) {
+        const m = text.match(/(\d+)\s*[-đếnto]+\s*(\d+)/);
+        if (m) {
+          document.getElementById('edit-start').value = m[1];
+          document.getElementById('edit-end').value = m[2];
+        }
+        switchTab('editor');
+        startEditing();
+      } else if (text.includes('auto-sync') || text.includes('glossary')) {
+        switchTab('glossary');
+        quickAutoSyncGlossary();
+      } else if (text.includes('git') || text.includes('push')) {
+        triggerGitSync();
+      } else if (text.includes('cào') || text.includes('scrape')) {
+        switchTab('scraper');
+      } else {
+        appendLog(`[Prompt] Lệnh chưa nhận diện: "${text}". Hãy thử "dịch 441-450", "auto-sync", "sync git".`, "warn");
+      }
+    }
+
+    function quickTranslateNext() {
+      switchTab('translate');
+      startTranslation();
+    }
+
+    // Boot
+    window.addEventListener('DOMContentLoaded', () => {
+      initSSE();
+      loadNovels();
+      loadSettings();
+    });
+  </script>
+</body>
+</html>
