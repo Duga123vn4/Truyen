@@ -126,12 +126,15 @@ class AIClient:
             ],
             "generationConfig": {
                 "temperature": temperature,
-                "maxOutputTokens": 8192
+                "maxOutputTokens": 65536,
+                "thinkingConfig": {
+                    "thinkingBudget": 0
+                }
             }
         }
 
         t0 = time.time()
-        async with httpx.AsyncClient(timeout=120.0) as client:
+        async with httpx.AsyncClient(timeout=180.0) as client:
             for attempt in range(5):
                 try:
                     res = await client.post(url, json=payload)
@@ -146,10 +149,12 @@ class AIClient:
 
                         candidates = data.get("candidates", [])
                         if candidates:
-                            parts = candidates[0].get("content", {}).get("parts", [])
-                            if parts:
-                                text = parts[0].get("text") or ""
-                                return text.strip()
+                            cand = candidates[0]
+                            parts = cand.get("content", {}).get("parts", [])
+                            texts = [p.get("text", "") for p in parts if not p.get("thought")]
+                            full_text = "".join(texts).strip()
+                            if full_text:
+                                return full_text
                         return ""
                     elif res.status_code in (429, 503):
                         await asyncio.sleep(5.0 * (attempt + 1))

@@ -50,6 +50,40 @@ def build_translation_system_prompt(novel: NovelContext, raw_text: str, glossary
         f"--- ĐỊNH HƯỚNG PHONG CÁCH RIÊNG CỦA BỘ TRUYỆN ---\n{style_ctx}\n"
     )
 
+def make_translated_filename(chapter_num: int, raw_path: Path, translated_text: str) -> str:
+    """Tạo tên file markdown dịch chuẩn theo số chương và tiêu đề tiếng Việt."""
+    first_line = ""
+    for line in translated_text.splitlines():
+        line = line.strip()
+        if line:
+            first_line = line
+            break
+
+    title = ""
+    if first_line.startswith("#"):
+        title = first_line.lstrip("#").strip()
+
+    def slugify(s: str) -> str:
+        s = s.lower().strip()
+        s = re.sub(r'[àáạảãâầấậẩẫăằắặẳẵ]', 'a', s)
+        s = re.sub(r'[èéẹẻẽêềếệểễ]', 'e', s)
+        s = re.sub(r'[ìíịỉĩ]', 'i', s)
+        s = re.sub(r'[òóọỏõôồốộổỗơờớợởỡ]', 'o', s)
+        s = re.sub(r'[ùúụủũưừứựửữ]', 'u', s)
+        s = re.sub(r'[ỳýỵỷỹ]', 'y', s)
+        s = re.sub(r'[đ]', 'd', s)
+        s = re.sub(r'[^a-z0-9\s_-]', '', s)
+        s = re.sub(r'[\s-]+', '_', s).strip('_')
+        return s
+
+    slug = slugify(title) if title else ""
+    if not slug:
+        raw_clean = re.sub(r'^chuong_\d+_?', '', raw_path.stem, flags=re.IGNORECASE)
+        raw_clean = re.sub(r'_raw$', '', raw_clean, flags=re.IGNORECASE)
+        slug = slugify(raw_clean)
+
+    return f"chuong_{chapter_num}_{slug}.md" if slug else f"chuong_{chapter_num}.md"
+
 async def translate_chapter(
     raw_path: Path,
     novel: NovelContext,
@@ -83,10 +117,17 @@ async def translate_chapter(
                 translated = translated.strip()
                 translated = re.sub(r'^(?:dưới đây là|đây là bản|bản dịch)[^\n]*\n+', '', translated, flags=re.IGNORECASE).strip()
                 
-                # Lưu file dịch
-                out_name = f"chuong_{chapter_num}_{raw_path.stem}.md" if not raw_path.name.startswith("chuong_") else raw_path.name
+                # Lưu file dịch chuẩn markdown với slug tiếng Việt
+                out_name = make_translated_filename(chapter_num, raw_path, translated)
                 out_path = novel.translated_dir / out_name
                 out_path.write_text(translated, encoding="utf-8")
+
+                # Dọn dẹp file .txt cũ nếu có
+                old_raw_txt = novel.translated_dir / f"chuong_{chapter_num}_raw.txt"
+                if old_raw_txt.exists():
+                    try: old_raw_txt.unlink()
+                    except Exception: pass
+
                 return (True, chapter_num, out_path, f"Dịch thành công ({len(translated)} ký tự)")
 
             return (False, chapter_num, raw_path, "Không nhận được bản dịch hợp lệ từ AI")
