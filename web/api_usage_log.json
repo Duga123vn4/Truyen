@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-09-07 03:09:26",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 493",
+    "chapter_ep": 493,
+    "elapsed_sec": 32.25,
+    "input_tokens": 242024,
+    "output_tokens": 5848,
+    "cache_tokens": 204257,
+    "cost": 0.01258
+  },
+  {
     "timestamp": "2026-09-07 03:08:46",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 492",
