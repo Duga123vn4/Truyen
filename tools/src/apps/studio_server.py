@@ -32,6 +32,7 @@ else:
 import re
 import json
 import time
+import shutil
 import asyncio
 import subprocess
 import webbrowser
@@ -128,6 +129,7 @@ async def get_novels(request: web.Request) -> web.Response:
         trans = n.list_translated_chapters()
         res.append({
             "name": n.name,
+            "title": n.get_display_title(),
             "raw_count": len(raws),
             "translated_count": len(trans),
             "has_characters": (n.glossary_dir / "characters.md").exists(),
@@ -301,6 +303,136 @@ async def create_novel(request: web.Request) -> web.Response:
     except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
+async def rename_novel(request: web.Request) -> web.Response:
+    try:
+        data = await request.json()
+        old_name = data.get("old_name", "").strip()
+        new_name = data.get("new_name", "").strip()
+
+        if not old_name:
+            return web.json_response({"success": False, "error": "Tên thư mục cũ không được để trống"}, status=400)
+        if not new_name:
+            return web.json_response({"success": False, "error": "Tên thư mục mới không được để trống"}, status=400)
+
+        # Sanitize new_name for Windows filesystem
+        clean_new_name = re.sub(r'[\\/*?:"<>|\r\n\t]', '_', new_name).strip().strip('._')
+        clean_new_name = re.sub(r'\s+', '_', clean_new_name)
+        if not clean_new_name:
+            return web.json_response({"success": False, "error": "Tên thư mục mới chứa ký tự không hợp lệ"}, status=400)
+
+        old_dir = PROJECTS_DIR / old_name
+        # Path traversal guard
+        try:
+            old_dir.resolve().relative_to(PROJECTS_DIR.resolve())
+        except ValueError:
+            return web.json_response({"success": False, "error": "Đường dẫn không hợp lệ"}, status=403)
+
+        if not old_dir.exists() or not old_dir.is_dir():
+            return web.json_response({"success": False, "error": f"Không tìm thấy thư mục dự án '{old_name}'"}, status=404)
+
+        if clean_new_name == old_name:
+            return web.json_response({"success": True, "old_name": old_name, "new_name": old_name, "message": "Tên không đổi"})
+
+        new_dir = PROJECTS_DIR / clean_new_name
+        try:
+            new_dir.resolve().relative_to(PROJECTS_DIR.resolve())
+        except ValueError:
+            return web.json_response({"success": False, "error": "Tên mới không hợp lệ"}, status=403)
+
+        if new_dir.exists() and new_dir.resolve() != old_dir.resolve():
+            return web.json_response({"success": False, "error": f"Thư mục '{clean_new_name}' đã tồn tại sẵn trong projects/!"}, status=400)
+
+        if state.is_task_running and state.active_novel and state.active_novel.name == old_name:
+            return web.json_response({"success": False, "error": "Dự án đang chạy tác vụ ngầm, vui lòng dừng tác vụ trước khi đổi tên!"}, status=400)
+
+        # Rename the directory
+        try:
+            shutil.move(str(old_dir), str(new_dir))
+        except PermissionError:
+            return web.json_response({
+                "success": False,
+                "error": f"Không thể đổi tên vì thư mục '{old_name}' đang được mở trong ứng dụng khác (Explorer, CMD, VS Code). Vui lòng đóng cửa sổ đó lại và thử lại."
+            }, status=409)
+
+        # Update README.md if present
+        readme_file = new_dir / "README.md"
+        if readme_file.exists():
+            try:
+                content = readme_file.read_text(encoding="utf-8")
+                new_content = content.replace(f"- **Tên thư mục dự án:** `{old_name}`", f"- **Tên thư mục dự án:** `{clean_new_name}`")
+                readme_file.write_text(new_content, encoding="utf-8")
+            except Exception:
+                pass
+
+        was_active = (state.active_novel and state.active_novel.name == old_name)
+        state.refresh_novels()
+        if was_active:
+            for n in state.novels:
+                if n.name == clean_new_name:
+                    state.active_novel = n
+                    break
+
+        await state.log(f"✏️ Đã đổi tên dự án từ '{old_name}' thành '{clean_new_name}' thành công!", "success")
+        await state.broadcast("novel_changed", {"name": state.active_novel.name if state.active_novel else clean_new_name})
+        await state.broadcast("raw_files_updated", {})
+
+        return web.json_response({
+            "success": True,
+            "old_name": old_name,
+            "new_name": clean_new_name,
+            "active": state.active_novel.name if state.active_novel else None
+        })
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
+async def delete_novel(request: web.Request) -> web.Response:
+    try:
+        data = await request.json()
+        name = data.get("name", "").strip()
+        confirm = data.get("confirm", False)
+
+        if not name:
+            return web.json_response({"success": False, "error": "Tên thư mục không được để trống"}, status=400)
+        if not confirm:
+            return web.json_response({"success": False, "error": "Cần xác nhận trước khi xóa dự án"}, status=400)
+
+        target_dir = PROJECTS_DIR / name
+        try:
+            target_dir.resolve().relative_to(PROJECTS_DIR.resolve())
+        except ValueError:
+            return web.json_response({"success": False, "error": "Đường dẫn không hợp lệ"}, status=403)
+
+        if not target_dir.exists() or not target_dir.is_dir():
+            return web.json_response({"success": False, "error": f"Không tìm thấy thư mục dự án '{name}'"}, status=404)
+
+        if state.is_task_running and state.active_novel and state.active_novel.name == name:
+            return web.json_response({"success": False, "error": "Dự án đang chạy tác vụ ngầm, vui lòng dừng tác vụ trước khi xóa!"}, status=400)
+
+        try:
+            shutil.rmtree(target_dir)
+        except PermissionError:
+            return web.json_response({
+                "success": False,
+                "error": f"Không thể xóa vì file/thư mục trong '{name}' đang được mở trong ứng dụng khác. Vui lòng đóng các cửa sổ đang mở rồi thử lại."
+            }, status=409)
+
+        was_active = (state.active_novel and state.active_novel.name == name)
+        state.refresh_novels()
+        if was_active:
+            state.active_novel = state.novels[0] if state.novels else None
+
+        await state.log(f"🗑️ Đã xóa vĩnh viễn dự án '{name}' khỏi hệ thống.", "warn")
+        await state.broadcast("novel_changed", {"name": state.active_novel.name if state.active_novel else None, "deleted": name})
+        await state.broadcast("raw_files_updated", {})
+
+        return web.json_response({
+            "success": True,
+            "deleted": name,
+            "active": state.active_novel.name if state.active_novel else None
+        })
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
 async def get_novel_info(request: web.Request) -> web.Response:
     if not state.active_novel:
         return web.json_response({"error": "Chưa chọn bộ truyện"}, status=400)
@@ -315,6 +447,7 @@ async def get_novel_info(request: web.Request) -> web.Response:
 
     return web.json_response({
         "name": n.name,
+        "title": n.get_display_title(),
         "folder": str(n.folder),
         "raw_dir": str(n.raw_dir),
         "translated_dir": str(n.translated_dir),
@@ -912,6 +1045,8 @@ def make_app() -> web.Application:
     app.router.add_get("/api/novels", get_novels)
     app.router.add_post("/api/novel/select", select_novel)
     app.router.add_post("/api/novel/create", create_novel)
+    app.router.add_post("/api/novel/rename", rename_novel)
+    app.router.add_post("/api/novel/delete", delete_novel)
     app.router.add_get("/api/novel/info", get_novel_info)
     app.router.add_get("/api/novel/raw-files", get_novel_raw_files)
     app.router.add_get("/api/file/read", read_file_preview)

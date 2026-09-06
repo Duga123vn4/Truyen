@@ -60,6 +60,27 @@ class NovelContext:
         f = self.glossary_dir / "terms.md"
         return f.read_text(encoding="utf-8") if f.exists() else ""
 
+    def get_display_title(self) -> str:
+        """Trích xuất tiêu đề hiển thị từ README.md hoặc style_guide.md."""
+        readme = self.folder / "README.md"
+        if readme.exists():
+            try:
+                for line in readme.read_text(encoding="utf-8").splitlines():
+                    if line.startswith("# 📖"):
+                        return line.replace("# 📖", "").strip()
+                    elif line.startswith("# "):
+                        return line.replace("# ", "").strip()
+            except Exception:
+                pass
+        if self.style_guide_file.exists():
+            try:
+                for line in self.style_guide_file.read_text(encoding="utf-8").splitlines():
+                    if "Bộ truyện:" in line:
+                        return line.split("Bộ truyện:")[1].strip().strip("*")
+            except Exception:
+                pass
+        return self.name
+
     def get_style_guide_text(self) -> str:
         parts = []
         if MASTER_STYLE_GUIDE_FILE.exists():
