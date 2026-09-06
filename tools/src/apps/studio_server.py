@@ -6,8 +6,29 @@ Hỗ trợ SSE (Server-Sent Events) đẩy tiến độ thời gian thực, log 
 """
 import sys
 import os
-sys.stdout.reconfigure(encoding='utf-8', errors='replace')
-sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+from pathlib import Path
+
+# Redirect stdout/stderr to log file if running under pythonw or windowless
+log_dir = Path(__file__).resolve().parent.parent.parent / "logs"
+log_dir.mkdir(parents=True, exist_ok=True)
+server_log_file = open(log_dir / "studio_server.log", "a", encoding="utf-8", buffering=1)
+
+if sys.stdout is None:
+    sys.stdout = server_log_file
+else:
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
+
+if sys.stderr is None:
+    sys.stderr = server_log_file
+else:
+    try:
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
+
 import re
 import json
 import time
@@ -514,8 +535,30 @@ async def index_handler(request: web.Request) -> web.Response:
         return web.FileResponse(studio_file)
     return web.Response(text="<h1>Novel Studio UI is loading...</h1>", content_type="text/html")
 
+async def on_startup(app: web.Application):
+    async def _launch():
+        await asyncio.sleep(1.0)
+        edge_1 = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+        edge_2 = r"C:\Program Files\Microsoft\Edge\Application\msedge.exe"
+        chrome_1 = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+        chrome_2 = os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe")
+        url = "http://localhost:8765/studio"
+
+        for b in [edge_1, edge_2, chrome_1, chrome_2]:
+            if os.path.exists(b):
+                try:
+                    subprocess.Popen([b, f"--app={url}", "--window-size=1280,840"])
+                    return
+                except Exception:
+                    pass
+        import webbrowser
+        webbrowser.open(url)
+
+    asyncio.create_task(_launch())
+
 def make_app() -> web.Application:
     app = web.Application()
+    app.on_startup.append(on_startup)
     app.router.add_get("/", index_handler)
     app.router.add_get("/studio", index_handler)
     app.router.add_get("/api/stream", sse_handler)
@@ -553,5 +596,7 @@ if __name__ == "__main__":
     print(f"\n=======================================================")
     print(f"🌟 NOVEL STUDIO SERVER (LinguaGacha Minimalist Engine)")
     print(f"🚀 Đang chạy tại: http://localhost:{port}/studio")
+    print(f"👉 Đang tự động mở cửa sổ giao diện Desktop...")
+    print(f"(Giữ cửa sổ này hoạt động, nhấn Ctrl+C để dừng khi thoát)")
     print(f"=======================================================\n")
     web.run_app(app, host="127.0.0.1", port=port)
