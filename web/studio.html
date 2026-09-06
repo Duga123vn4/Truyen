@@ -169,6 +169,10 @@
                 <p class="text-xs text-slate-500 mt-0.5" id="active-novel-folder">d:/Novel/projects/...</p>
               </div>
               <div class="flex items-center space-x-2">
+                <button onclick="openCreateNovelModal()" class="text-xs bg-indigo-600 hover:bg-indigo-700 text-white px-3 py-1.5 rounded-lg shadow-sm transition font-medium flex items-center space-x-1">
+                  <span>➕</span>
+                  <span>Tạo Truyện Mới</span>
+                </button>
                 <button onclick="switchTab('novels')" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 px-3 py-1.5 rounded-lg border border-slate-200 transition font-medium">
                   Đổi Truyện Khác
                 </button>
@@ -247,8 +251,12 @@
           <div class="flex items-center justify-between">
             <div>
               <h2 class="text-base font-bold text-slate-800">📚 Quản Lý Kho Truyện</h2>
-              <p class="text-xs text-slate-500">Danh sách các bộ truyện đang lưu trữ trong máy</p>
+              <p class="text-xs text-slate-500">Danh sách các bộ truyện đang lưu trữ và dịch thuật trong hệ thống</p>
             </div>
+            <button onclick="openCreateNovelModal()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-semibold rounded-lg shadow-sm transition flex items-center space-x-1.5">
+              <span>➕</span>
+              <span>Tạo Bộ Truyện Mới</span>
+            </button>
           </div>
           <div id="novels-grid" class="grid grid-cols-2 gap-4">
             <!-- Populated via JS -->
@@ -729,6 +737,73 @@
         <button onclick="saveNewGlossaryTerm()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-medium shadow-sm transition">💾 Lưu Thuật Ngữ</button>
       </div>
     </div>
+  <!-- CREATE NOVEL MODAL -->
+  <div id="create-novel-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-xs flex items-center justify-center z-50 p-4">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-lg w-full p-6 space-y-4 border border-slate-200">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+        <div class="font-bold text-sm text-slate-800 flex items-center space-x-2">
+          <div class="w-7 h-7 rounded-lg bg-indigo-100 text-indigo-700 flex items-center justify-center text-xs font-bold">✨</div>
+          <span>Khởi Tạo Dự Án Bộ Truyện Mới</span>
+        </div>
+        <button onclick="closeCreateNovelModal()" class="text-slate-400 hover:text-slate-600 text-sm font-bold w-6 h-6 flex items-center justify-center rounded-md hover:bg-slate-100 transition">✕</button>
+      </div>
+
+      <div class="space-y-3 text-xs">
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Mã Syosetu hoặc URL (Tùy chọn - Tự động điền dữ liệu)</label>
+          <div class="flex space-x-2">
+            <input type="text" id="new-novel-syosetu" placeholder="Ví dụ: n4202ed hoặc https://ncode.syosetu.com/n4202ed/" class="flex-1 px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono text-xs bg-white">
+            <button type="button" onclick="autoFetchSyosetuForNewNovel()" id="btn-fetch-syosetu-new" class="px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium transition flex items-center space-x-1">
+              <span>🔍</span>
+              <span>Quét</span>
+            </button>
+          </div>
+          <p class="text-[10px] text-slate-400 mt-0.5">Nhập mã Syosetu để tự động tải Tiêu đề gốc và Tác giả từ mạng</p>
+        </div>
+
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Tên Hiển Thị Tiếng Việt <span class="text-rose-500">*</span></label>
+          <input type="text" id="new-novel-title" oninput="autoGenerateFolderName()" placeholder="Ví dụ: Chú Thuật Sư Đăng Giá" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+        </div>
+
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Tên Thư Mục Dự Án (ID) <span class="text-rose-500">*</span></label>
+          <input type="text" id="new-novel-name" oninput="markFolderManuallyEdited()" placeholder="Ví dụ: Chu_Thuat_Su_Dung_Gia" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+          <p class="text-[10px] text-slate-400 mt-0.5">Thư mục sẽ được tạo tại <code class="font-mono text-indigo-600 bg-indigo-50 px-1 py-0.5 rounded">d:\Novel\projects\&lt;tên_thư_mục&gt;</code></p>
+        </div>
+
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <label class="block font-medium text-slate-700 mb-1">Tác Giả</label>
+            <input type="text" id="new-novel-author" placeholder="Ví dụ: Rifu" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+          </div>
+          <div>
+            <label class="block font-medium text-slate-700 mb-1">Thể Loại / Tags</label>
+            <input type="text" id="new-novel-tags" placeholder="Ví dụ: Isekai, Dark Fantasy" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
+          </div>
+        </div>
+
+        <div>
+          <label class="block font-medium text-slate-700 mb-1">Mô Tả Truyện (Tùy chọn)</label>
+          <textarea id="new-novel-desc" rows="2" placeholder="Tóm tắt nội dung chính hoặc ghi chú..." class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white"></textarea>
+        </div>
+
+        <div class="pt-1">
+          <label class="flex items-center space-x-2 cursor-pointer select-none">
+            <input type="checkbox" id="new-novel-auto-scrape" class="rounded text-indigo-600 focus:ring-indigo-500" checked>
+            <span class="text-slate-700 font-medium">Chuyển ngay sang tab Cào Raw Syosetu sau khi tạo dự án</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="flex justify-end space-x-2 pt-3 border-t border-slate-100">
+        <button type="button" onclick="closeCreateNovelModal()" class="px-4 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium transition">Hủy</button>
+        <button type="button" onclick="submitCreateNovel()" id="btn-submit-create-novel" class="px-5 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-semibold shadow-sm transition flex items-center space-x-1.5">
+          <span>🚀</span>
+          <span>Khởi Tạo Dự Án</span>
+        </button>
+      </div>
+    </div>
   </div>
 
   <!-- SCRIPT ENGINE -->
@@ -931,6 +1006,19 @@
         `;
         container.appendChild(card);
       });
+
+      // Quick Create New Novel Card
+      const addCard = document.createElement('div');
+      addCard.onclick = () => openCreateNovelModal();
+      addCard.className = "border-2 border-dashed border-slate-300 hover:border-indigo-500 hover:bg-indigo-50/40 rounded-xl p-5 flex flex-col items-center justify-center cursor-pointer transition text-center group min-h-[140px]";
+      addCard.innerHTML = `
+        <div class="w-10 h-10 rounded-xl bg-indigo-50 group-hover:bg-indigo-600 text-indigo-600 group-hover:text-white flex items-center justify-center text-sm font-bold mb-2 transition shadow-xs">
+          ➕
+        </div>
+        <div class="text-xs font-bold text-slate-800 group-hover:text-indigo-600">Khởi Tạo Bộ Truyện Mới</div>
+        <div class="text-[11px] text-slate-400 mt-0.5">Tạo dự án truyện mới từ Syosetu hoặc nạp raw thủ công</div>
+      `;
+      container.appendChild(addCard);
     }
 
     async function selectNovel(name) {
@@ -947,6 +1035,143 @@
     function openNovelFolder(novelName) {
       const n = novelName || activeNovel || '';
       fetch(`/api/open/external?target=folder&novel=${encodeURIComponent(n)}`);
+    }
+
+    // ================= CREATE NOVEL MODAL LOGIC =================
+    function openCreateNovelModal(initialName = "") {
+      document.getElementById('create-novel-modal').classList.remove('hidden');
+      const nameInput = document.getElementById('new-novel-name');
+      const titleInput = document.getElementById('new-novel-title');
+      nameInput.dataset.manualEdited = "";
+      if (initialName) {
+        titleInput.value = initialName;
+        autoGenerateFolderName();
+      } else {
+        titleInput.value = '';
+        nameInput.value = '';
+      }
+      document.getElementById('new-novel-syosetu').value = '';
+      document.getElementById('new-novel-author').value = '';
+      document.getElementById('new-novel-tags').value = '';
+      document.getElementById('new-novel-desc').value = '';
+      titleInput.focus();
+    }
+
+    function closeCreateNovelModal() {
+      document.getElementById('create-novel-modal').classList.add('hidden');
+    }
+
+    function markFolderManuallyEdited() {
+      document.getElementById('new-novel-name').dataset.manualEdited = "true";
+    }
+
+    function removeVietnameseTones(str) {
+      str = str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g, "a");
+      str = str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g, "e");
+      str = str.replace(/ì|í|ị|ỉ|ĩ/g, "i");
+      str = str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g, "o");
+      str = str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g, "u");
+      str = str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g, "y");
+      str = str.replace(/đ/g, "d");
+      str = str.replace(/À|Á|Ạ|Ả|Ã|Â|Ầ|Ấ|Ậ|Ẩ|Ẫ|Ă|Ằ|Ắ|Ặ|Ẳ|Ẵ/g, "A");
+      str = str.replace(/È|É|Ẹ|Ẻ|Ẽ|Ê|Ề|Ế|Ệ|Ể|Ễ/g, "E");
+      str = str.replace(/Ì|Í|Ị|Ỉ|Ĩ/g, "I");
+      str = str.replace(/Ò|Ó|Ọ|Ỏ|Õ|Ô|Ồ|Ố|Ộ|Ổ|Ỗ|Ơ|Ờ|Ớ|Ợ|Ở|Ỡ/g, "O");
+      str = str.replace(/Ù|Ú|Ụ|Ủ|Ũ|Ư|Ừ|Ứ|Ự|Ử|Ữ/g, "U");
+      str = str.replace(/Ỳ|Ý|Ỵ|Ỷ|Ỹ/g, "Y");
+      str = str.replace(/Đ/g, "D");
+      return str;
+    }
+
+    function autoGenerateFolderName() {
+      const title = document.getElementById('new-novel-title').value.trim();
+      const folderInput = document.getElementById('new-novel-name');
+      if (!folderInput.dataset.manualEdited) {
+        const clean = removeVietnameseTones(title)
+          .replace(/[^a-zA-Z0-9_\s]/g, '')
+          .trim()
+          .replace(/\s+/g, '_');
+        folderInput.value = clean;
+      }
+    }
+
+    async function autoFetchSyosetuForNewNovel() {
+      const q = document.getElementById('new-novel-syosetu').value.trim();
+      if (!q) return alert("Vui lòng nhập mã Syosetu hoặc URL (VD: n4202ed)!");
+
+      const btn = document.getElementById('btn-fetch-syosetu-new');
+      const oldHtml = btn.innerHTML;
+      btn.innerHTML = '<span class="animate-spin text-xs">⏳</span>';
+      btn.disabled = true;
+
+      try {
+        const res = await fetch(`/api/syosetu/info?query=${encodeURIComponent(q)}`);
+        const data = await res.json();
+        if (data.success) {
+          if (!document.getElementById('new-novel-title').value) {
+            document.getElementById('new-novel-title').value = data.title;
+            autoGenerateFolderName();
+          }
+          if (!document.getElementById('new-novel-author').value) {
+            document.getElementById('new-novel-author').value = data.author;
+          }
+          alert(`Đã tìm thấy thông tin trên Syosetu:\n- Tiêu đề: ${data.title}\n- Tác giả: ${data.author}\n- Số tập: ${data.total_episodes}`);
+        } else {
+          alert(`Không thể lấy thông tin: ${data.error}`);
+        }
+      } catch (e) {
+        alert(`Lỗi kết nối: ${e.message}`);
+      } finally {
+        btn.innerHTML = oldHtml;
+        btn.disabled = false;
+      }
+    }
+
+    async function submitCreateNovel() {
+      const name = document.getElementById('new-novel-name').value.trim();
+      const title = document.getElementById('new-novel-title').value.trim();
+      const syosetu_code = document.getElementById('new-novel-syosetu').value.trim();
+      const author = document.getElementById('new-novel-author').value.trim();
+      const tags = document.getElementById('new-novel-tags').value.trim();
+      const description = document.getElementById('new-novel-desc').value.trim();
+      const autoScrape = document.getElementById('new-novel-auto-scrape').checked;
+
+      if (!name) return alert("Vui lòng nhập tên thư mục dự án!");
+      if (!title) return alert("Vui lòng nhập tên hiển thị tiếng Việt của bộ truyện!");
+
+      const btn = document.getElementById('btn-submit-create-novel');
+      btn.disabled = true;
+      btn.innerHTML = '<span class="animate-spin text-xs">⏳</span> Đang khởi tạo...';
+
+      try {
+        const res = await fetch('/api/novel/create', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify({name, title, syosetu_code, author, tags, description})
+        });
+        const data = await res.json();
+        if (data.success) {
+          closeCreateNovelModal();
+          activeNovel = data.novel;
+          await loadNovels();
+          appendLog(`🎉 Đã tạo thành công bộ truyện mới: ${data.title} (${data.novel})!`, 'success');
+
+          if (autoScrape && syosetu_code) {
+            document.getElementById('scrape-query').value = syosetu_code;
+            fetchSyosetuInfo();
+            switchTab('scraper');
+          } else {
+            switchTab('agent');
+          }
+        } else {
+          alert(`Lỗi tạo truyện: ${data.error}`);
+        }
+      } catch (e) {
+        alert(`Lỗi hệ thống: ${e.message}`);
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<span>🚀</span><span>Khởi Tạo Dự Án</span>';
+      }
     }
 
     // ================= SETTINGS LOGIC =================
@@ -1382,7 +1607,10 @@
       input.value = '';
 
       // Smart command matcher
-      if (text === 'dịch tiếp' || text === 'tiếp tục dịch') {
+      if (text.startsWith('tạo truyện') || text.startsWith('thêm truyện') || text.startsWith('new novel')) {
+        const titlePart = text.replace(/^(tạo truyện|thêm truyện|new novel)\s*/i, '').trim();
+        openCreateNovelModal(titlePart);
+      } else if (text === 'dịch tiếp' || text === 'tiếp tục dịch') {
         quickTranslateNext();
       } else if (text.includes('dịch') || text.startsWith('trans')) {
         const m = text.match(/(\d+)\s*[-đếnto]+\s*(\d+)/);

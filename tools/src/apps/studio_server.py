@@ -35,6 +35,7 @@ import time
 import asyncio
 import subprocess
 import webbrowser
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any, List, Optional, Set
 
@@ -145,6 +146,132 @@ async def select_novel(request: web.Request) -> web.Response:
             await state.broadcast("novel_changed", {"name": name})
             return web.json_response({"success": True, "active": name})
     return web.json_response({"success": False, "error": "Không tìm thấy truyện"}, status=404)
+
+async def create_novel(request: web.Request) -> web.Response:
+    try:
+        data = await request.json()
+        raw_name = data.get("name", "").strip()
+        title = data.get("title", "").strip() or raw_name
+        author = data.get("author", "").strip() or "Chưa rõ"
+        syosetu_code = extract_novel_code(data.get("syosetu_code", "").strip())
+        description = data.get("description", "").strip()
+        tags = data.get("tags", "").strip()
+
+        if not raw_name:
+            return web.json_response({"success": False, "error": "Vui lòng nhập tên bộ truyện / tên thư mục!"}, status=400)
+
+        # Sanitize folder name for Windows
+        clean_name = re.sub(r'[\\/*?:"<>|]', '_', raw_name).strip()
+        clean_name = re.sub(r'\s+', '_', clean_name)
+        if not clean_name:
+            return web.json_response({"success": False, "error": "Tên thư mục không hợp lệ trên Windows!"}, status=400)
+
+        target_dir = PROJECTS_DIR / clean_name
+        if target_dir.exists():
+            return web.json_response({"success": False, "error": f"Bộ truyện hoặc thư mục '{clean_name}' đã tồn tại!"}, status=400)
+
+        # Create standard directory tree
+        target_dir.mkdir(parents=True, exist_ok=True)
+        (target_dir / "raw").mkdir(parents=True, exist_ok=True)
+        (target_dir / "translated").mkdir(parents=True, exist_ok=True)
+        (target_dir / "images").mkdir(parents=True, exist_ok=True)
+        (target_dir / "glossary").mkdir(parents=True, exist_ok=True)
+        (target_dir / "backups" / "truoc_bien_tap").mkdir(parents=True, exist_ok=True)
+        (target_dir / "backups" / "truoc_chuan_hoa").mkdir(parents=True, exist_ok=True)
+        (target_dir / "backups" / "glossary").mkdir(parents=True, exist_ok=True)
+
+        # If syosetu_code provided, try to fetch info
+        if syosetu_code:
+            try:
+                import httpx
+                syosetu = SyosetuNovel(syosetu_code)
+                async with httpx.AsyncClient(timeout=8.0) as client:
+                    ok = await syosetu.fetch_novel_info_and_toc(client)
+                    if ok:
+                        if not title or title == raw_name:
+                            title = syosetu.title or title
+                        if not author or author == "Chưa rõ":
+                            author = syosetu.author or author
+            except Exception:
+                pass
+
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        # 1. README.md
+        readme_content = f"""# 📖 {title}
+- **Tên thư mục dự án:** `{clean_name}`
+- **Tác giả:** {author}
+- **Thể loại:** {tags or 'Light Novel, Chuyển sinh, Fantasy'}
+- **Nguồn raw Syosetu:** {f'https://ncode.syosetu.com/{syosetu_code}/' if syosetu_code else 'Nguồn thủ công'}
+- **Mô tả:** {description or 'Dự án dịch Light Novel chất lượng cao qua NovelStudio AI Suite.'}
+- **Ngày khởi tạo:** `{now_str}`
+"""
+        (target_dir / "README.md").write_text(readme_content, encoding="utf-8")
+
+        # 2. glossary/characters.md
+        chars_content = f"""# 👥 DANH SÁCH NHÂN VẬT & MA TRẬN XƯNG HÔ
+*Bộ truyện: {title}*
+
+## [CHAR] 『Nhân vật chính』
+- **Vai trò:** Nhân vật chính
+- **Xưng hô:** tôi - cậu / ta - ngươi
+- **Đặc điểm:** Khởi tạo mặc định
+"""
+        (target_dir / "glossary" / "characters.md").write_text(chars_content, encoding="utf-8")
+
+        # 3. glossary/terms.md
+        terms_content = f"""# 📖 TỪ ĐIỂN THUẬT NGỮ & CANON DATABASE
+*Bộ truyện: {title}*
+*Quy chuẩn: Giữ nguyên ngoặc góc 『...』 cho kỹ năng, bảo vật, thiên chức.*
+
+## [TERM] 『Thuật ngữ mẫu』 (Sample Term)
+- **Ý nghĩa:** Định nghĩa mẫu khởi tạo cho bộ truyện
+"""
+        (target_dir / "glossary" / "terms.md").write_text(terms_content, encoding="utf-8")
+
+        # 4. glossary/ENTITY_INDEX.md
+        entity_content = f"""# 📑 MỤC LỤC THỰC THỂ TOÀN BỘ (ENTITY INDEX)
+*Bộ truyện: {title}*
+*Tự động đồng bộ và nạp vào Context Cache*
+"""
+        (target_dir / "glossary" / "ENTITY_INDEX.md").write_text(entity_content, encoding="utf-8")
+
+        # 5. style_guide.md
+        style_content = f"""# 🎨 QUY CHUẨN PHONG CÁCH RIÊNG ({title})
+*Kế thừa toàn bộ từ Master Style Guide toàn cục*
+- Giọng điệu chủ đạo: Sắc bén, dứt khoát chuẩn Light Novel.
+- Đại từ xưng hô đặc thù:
+"""
+        (target_dir / "style_guide.md").write_text(style_content, encoding="utf-8")
+
+        # 6. CHANGELOG.md
+        changelog_content = f"""# 📜 NHẬT KÝ THAY ĐỔI & BIÊN TẬP DỰ ÁN
+
+| Thời gian | Danh mục | Nội dung chi tiết |
+| :--- | :--- | :--- |
+| `{now_str}` | **Khởi tạo** | Khởi tạo dự án truyện `{clean_name}` ({title}) qua NovelStudio UI |
+"""
+        (target_dir / "CHANGELOG.md").write_text(changelog_content, encoding="utf-8")
+
+        # Refresh state and activate the newly created novel
+        state.refresh_novels()
+        for n in state.novels:
+            if n.name == clean_name:
+                state.active_novel = n
+                break
+
+        await state.log(f"🎉 Đã khởi tạo thành công bộ truyện mới: {title} ({clean_name})!", "success")
+        await state.broadcast("novel_changed", {"name": clean_name})
+
+        return web.json_response({
+            "success": True,
+            "novel": clean_name,
+            "title": title,
+            "folder": str(target_dir),
+            "syosetu_code": syosetu_code
+        })
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
 
 async def get_novel_info(request: web.Request) -> web.Response:
     if not state.active_novel:
@@ -662,6 +789,7 @@ def make_app() -> web.Application:
 
     app.router.add_get("/api/novels", get_novels)
     app.router.add_post("/api/novel/select", select_novel)
+    app.router.add_post("/api/novel/create", create_novel)
     app.router.add_get("/api/novel/info", get_novel_info)
 
     app.router.add_get("/api/config", get_config)
