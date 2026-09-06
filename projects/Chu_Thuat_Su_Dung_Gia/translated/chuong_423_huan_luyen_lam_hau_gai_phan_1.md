@@ -1,4 +1,4 @@
-# Tập 420: Huấn luyện làm Hầu gái (Phần 1)
+# Huấn Luyện Làm Hầu Gái (Phần 1)
 
 “Chào mừng cậu chủ đã về nhà ạ.”
 

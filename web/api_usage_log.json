@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-09-07 02:59:19",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 435",
+    "chapter_ep": 435,
+    "elapsed_sec": 38.2,
+    "input_tokens": 241760,
+    "output_tokens": 5943,
+    "cache_tokens": 0,
+    "cost": 0.03983
+  },
+  {
     "timestamp": "2026-09-07 02:49:05",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 440",

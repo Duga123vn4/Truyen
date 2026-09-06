@@ -1,3 +1,5 @@
+# Khởi Đầu Của Thời Kỳ Chuẩn Bị
+
 “Kính coong các coong”, tiếng chuông báo hiệu kết thúc một ngày học vang lên. Đáng lẽ ra tôi phải đi thẳng về nhà, nhưng giờ này tôi vẫn đang ngồi im lìm tại chỗ của mình trong lớp học.
 
 “Vậy thì, chúng ta bắt đầu cuộc họp bàn thôi nhỉ.”

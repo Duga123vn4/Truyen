@@ -1,4 +1,4 @@
-# Tập 268.5: Maid Trưởng
+# Maid Trưởng
 
 “Chính vì vậy, tiết mục của lớp 2-7 chúng ta đã được quyết định là 『Cà Phê Maid & Quản Gia Đảo Ngược』.”
 
