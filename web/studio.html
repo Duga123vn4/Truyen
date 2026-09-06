@@ -357,13 +357,14 @@
                   <tr>
                     <th class="p-2.5 font-medium">Tên File / Tập</th>
                     <th class="p-2.5 font-medium w-24">Dung Lượng</th>
+                    <th class="p-2.5 font-medium w-28 text-center">Trạng Thái Dịch</th>
                     <th class="p-2.5 font-medium w-36">Thời Gian Lưu</th>
                     <th class="p-2.5 font-medium w-44 text-right">Thao Tác</th>
                   </tr>
                 </thead>
                 <tbody id="raw-files-tbody" class="divide-y divide-slate-100">
                   <tr>
-                    <td colspan="4" class="p-4 text-center text-slate-400">Đang tải danh sách file raw...</td>
+                    <td colspan="5" class="p-4 text-center text-slate-400">Đang tải danh sách file raw...</td>
                   </tr>
                 </tbody>
               </table>
@@ -372,22 +373,36 @@
         </div>
 
         <!-- ================= TAB 4: TRANSLATOR ================= -->
-        <div id="tab-translate" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+        <div id="tab-translate" class="tab-panel hidden space-y-4 max-w-4xl mx-auto">
           <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
-            <div>
-              <h2 class="text-base font-bold text-slate-800">🌐 Dịch Raw Sang Tiếng Việt Chuẩn Light Novel</h2>
-              <p class="text-xs text-slate-500">Dịch tự động kết hợp nạp Canon Database và bảo tồn thẻ 『...』</p>
+            <div class="flex items-center justify-between flex-wrap gap-2">
+              <div>
+                <h2 class="text-base font-bold text-slate-800 flex items-center space-x-2">
+                  <span>🌐</span>
+                  <span>Dịch Raw Sang Tiếng Việt Chuẩn Light Novel</span>
+                </h2>
+                <p class="text-xs text-slate-500 mt-0.5">Dịch tự động kết hợp nạp Canon Database và bảo tồn thẻ 『...』</p>
+              </div>
+              <div class="flex items-center space-x-1 bg-slate-100 p-1 rounded-lg text-xs">
+                <button type="button" id="btn-trans-mode-range" onclick="setTransSelectMode('range')" class="px-3 py-1.5 rounded-md font-semibold text-xs transition bg-white text-indigo-600 shadow-xs">
+                  🔢 Theo Khoảng Tập
+                </button>
+                <button type="button" id="btn-trans-mode-list" onclick="setTransSelectMode('list')" class="px-3 py-1.5 rounded-md font-medium text-xs transition text-slate-600 hover:text-slate-900">
+                  📋 Chọn Danh Sách Raw (<span id="trans-untrans-badge-count">0</span> chưa dịch)
+                </button>
+              </div>
             </div>
 
-            <div class="space-y-3">
+            <!-- MODE 1: RANGE SELECTION -->
+            <div id="trans-panel-range" class="space-y-3">
               <div class="grid grid-cols-2 gap-3">
                 <div>
                   <label class="block text-xs font-medium text-slate-700 mb-1">Từ tập</label>
-                  <input type="number" id="trans-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <input type="number" id="trans-start" value="1" oninput="onTransRangeChanged()" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
                 </div>
                 <div>
                   <label class="block text-xs font-medium text-slate-700 mb-1">Đến tập</label>
-                  <input type="number" id="trans-end" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <input type="number" id="trans-end" value="1" oninput="onTransRangeChanged()" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
                 </div>
               </div>
 
@@ -397,19 +412,90 @@
                 <button type="button" onclick="setQuickTransRange(5)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 5 tập kế tiếp</button>
                 <button type="button" onclick="setQuickTransRange(10)" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ 10 tập kế tiếp</button>
                 <button type="button" onclick="setQuickTransRange('all')" class="px-2 py-0.5 bg-slate-50 hover:bg-indigo-50 hover:text-indigo-600 text-slate-600 rounded text-[11px] border border-slate-200 transition">⚡ Toàn bộ raw chưa dịch</button>
+                <button type="button" onclick="setTransSelectMode('list')" class="ml-auto text-[11px] text-indigo-600 hover:text-indigo-800 font-medium underline cursor-pointer">
+                  👁️ Xem chi tiết từng tập trong bảng
+                </button>
+              </div>
+            </div>
+
+            <!-- MODE 2: CHECKBOX RAW LIST SELECTION -->
+            <div id="trans-panel-list" class="hidden space-y-3 pt-1 border-t border-slate-100">
+              <!-- Action Toolbar -->
+              <div class="flex items-center justify-between gap-2 flex-wrap text-xs">
+                <div class="flex items-center space-x-1.5 flex-wrap gap-y-1">
+                  <button type="button" onclick="selectOnlyUntranslated()" class="px-2.5 py-1 bg-emerald-600 hover:bg-emerald-700 text-white rounded-md text-xs font-semibold shadow-xs transition flex items-center space-x-1 cursor-pointer">
+                    <span>⚡</span>
+                    <span>Chỉ chọn các tập CHƯA dịch</span>
+                  </button>
+                  <button type="button" onclick="selectNextUntranslated(5)" class="px-2.5 py-1 bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 text-slate-700 rounded-md text-xs font-medium border border-slate-200 transition cursor-pointer">
+                    +5 tập chưa dịch
+                  </button>
+                  <button type="button" onclick="selectNextUntranslated(10)" class="px-2.5 py-1 bg-slate-100 hover:bg-indigo-50 hover:text-indigo-600 text-slate-700 rounded-md text-xs font-medium border border-slate-200 transition cursor-pointer">
+                    +10 tập chưa dịch
+                  </button>
+                  <button type="button" onclick="selectAllRaw(true)" class="px-2 py-1 text-slate-600 hover:text-slate-800 hover:bg-slate-100 rounded-md text-xs font-medium transition cursor-pointer">
+                    Chọn tất cả
+                  </button>
+                  <button type="button" onclick="selectAllRaw(false)" class="px-2 py-1 text-slate-600 hover:text-slate-800 hover:bg-slate-100 rounded-md text-xs font-medium transition cursor-pointer">
+                    Bỏ chọn
+                  </button>
+                </div>
+
+                <div class="flex items-center space-x-2">
+                  <input type="text" id="trans-raw-search" oninput="filterTransRawList()" placeholder="🔍 Lọc số tập..." class="px-2.5 py-1 text-xs border border-slate-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 w-36 bg-slate-50 focus:bg-white transition">
+                </div>
               </div>
 
+              <!-- Raw Chapters Checkbox Table -->
+              <div class="border border-slate-200 rounded-xl overflow-hidden shadow-2xs">
+                <div class="max-h-72 overflow-y-auto">
+                  <table class="w-full text-left text-xs border-collapse">
+                    <thead class="bg-slate-50 text-slate-600 text-[11px] sticky top-0 border-b border-slate-200 z-10 select-none">
+                      <tr>
+                        <th class="p-2.5 w-10 text-center">
+                          <input type="checkbox" id="chk-trans-select-all" onchange="toggleSelectAllRaw(this.checked)" class="rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer">
+                        </th>
+                        <th class="p-2.5 font-semibold w-24">Tập</th>
+                        <th class="p-2.5 font-semibold">Tên File Raw</th>
+                        <th class="p-2.5 font-semibold w-32 text-center">Trạng Thái Dịch</th>
+                        <th class="p-2.5 font-semibold w-24 text-right">Dung Lượng</th>
+                      </tr>
+                    </thead>
+                    <tbody id="trans-raw-tbody" class="divide-y divide-slate-100">
+                      <tr>
+                        <td colspan="5" class="p-4 text-center text-slate-400">Đang tải danh sách file raw...</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <!-- Selection Summary Bar -->
+              <div id="trans-selection-summary" class="flex items-center justify-between p-2.5 bg-indigo-50/70 border border-indigo-100 rounded-lg text-xs">
+                <div class="text-indigo-900 font-medium flex items-center space-x-1.5">
+                  <span>📌</span>
+                  <span id="trans-selection-text">Đã chọn: 0 tập</span>
+                </div>
+                <div id="trans-selection-detail" class="text-indigo-700 text-[11px]">
+                  (0 chưa dịch, 0 dịch lại)
+                </div>
+              </div>
+            </div>
+
+            <!-- SHARED CONCURRENCY & SUBMIT BUTTON -->
+            <div class="space-y-3 pt-2 border-t border-slate-100">
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Số luồng xử lý song song</label>
                 <select id="trans-concurrency" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
-                  <option value="1">1 Luồng (An toàn, tránh dính 429 Rate Limit)</option>
+                  <option value="1">1 Luồng (Khuyên dùng: Tối ưu 100% Prompt Cache, chống 429)</option>
                   <option value="2">2 Luồng (Tốc độ cân bằng)</option>
                 </select>
               </div>
 
-              <div class="pt-2 flex space-x-2">
-                <button onclick="startTranslation()" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
-                  🚀 Bắt Đầu Tiến Trình Dịch
+              <div class="pt-1 flex space-x-2">
+                <button onclick="startTranslation()" id="btn-start-trans" class="flex-1 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-semibold rounded-lg shadow-sm transition flex items-center justify-center space-x-1.5">
+                  <span>🚀</span>
+                  <span id="btn-start-trans-text">Bắt Đầu Tiến Trình Dịch</span>
                 </button>
                 <button onclick="stopCurrentTask()" class="px-4 py-2.5 bg-rose-50 text-rose-600 border border-rose-200 hover:bg-rose-100 text-xs font-medium rounded-lg transition">
                   ⏹️ Dừng
@@ -1053,6 +1139,9 @@
     let allNovels = [];
     let glossaryData = [];
     let lastGeneratedImageUrl = "";
+    let transSelectMode = 'range';
+    let selectedRawEps = new Set();
+    let transRawFiles = [];
 
     // Tab Switching
     function switchTab(tabId) {
@@ -1073,6 +1162,7 @@
       if (tabId === 'glossary') loadGlossary();
       if (tabId === 'novels') renderNovelsGrid();
       if (tabId === 'scraper') loadRawFilesList();
+      if (tabId === 'translate') loadTransRawList();
       if (tabId === 'settings') loadSettings();
     }
 
@@ -1090,11 +1180,14 @@
             hideTaskBanner();
             loadNovelInfo();
             loadRawFilesList();
+            loadTransRawList();
           } else if (msg.event === 'novel_changed') {
             loadNovelInfo();
             loadRawFilesList();
+            loadTransRawList();
           } else if (msg.event === 'raw_files_updated') {
             loadRawFilesList();
+            loadTransRawList();
             loadNovelInfo();
           }
         } catch (err) {
@@ -1183,6 +1276,7 @@
           document.getElementById('scraper-raw-path').innerText = data.raw_dir || `${data.folder}\\raw`;
         }
         loadRawFilesList();
+        loadTransRawList();
 
         document.getElementById('stat-raw-count').innerText = data.raw_count;
         document.getElementById('stat-raw-range').innerText = `Tập ${data.raw_min} - ${data.raw_max}`;
@@ -1198,6 +1292,7 @@
           document.getElementById('trans-start').value = data.trans_max + 1;
           document.getElementById('trans-end').value = data.trans_max + 10;
         }
+        updateTransSubmitBtnText();
 
         document.getElementById('edit-start').value = data.trans_min;
         document.getElementById('edit-end').value = data.trans_max;
@@ -1218,6 +1313,7 @@
         document.getElementById('trans-start').value = start;
         document.getElementById('trans-end').value = start + count - 1;
       }
+      updateTransSubmitBtnText();
     }
 
     function setQuickEditRange(count) {
@@ -1347,10 +1443,10 @@
           if (countBadge) countBadge.innerText = `${data.total || 0} tập`;
           renderRawFilesTable(currentRawFiles);
         } else {
-          tbody.innerHTML = `<tr><td colspan="4" class="p-4 text-center text-rose-500">${data.error || 'Lỗi tải danh sách file'}</td></tr>`;
+          tbody.innerHTML = `<tr><td colspan="5" class="p-4 text-center text-rose-500">${data.error || 'Lỗi tải danh sách file'}</td></tr>`;
         }
       } catch (e) {
-        tbody.innerHTML = `<tr><td colspan="4" class="p-4 text-center text-rose-500">Lỗi kết nối: ${e.message}</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="5" class="p-4 text-center text-rose-500">Lỗi kết nối: ${e.message}</td></tr>`;
       }
     }
 
@@ -1361,7 +1457,7 @@
       if (!files || files.length === 0) {
         tbody.innerHTML = `
           <tr>
-            <td colspan="4" class="p-6 text-center text-slate-400">
+            <td colspan="5" class="p-6 text-center text-slate-400">
               <div class="text-2xl mb-1">📭</div>
               <div>Chưa có file raw nào trong thư mục <code class="font-mono text-indigo-600 bg-indigo-50 px-1 py-0.5 rounded">raw/</code> của bộ truyện này.</div>
               <div class="text-[11px] text-slate-400 mt-1">Nhập mã Syosetu ở trên và bấm "Bắt Đầu Tải Raw Về Máy" để tải các chương.</div>
@@ -1371,13 +1467,19 @@
         return;
       }
 
-      tbody.innerHTML = files.map(f => `
+      tbody.innerHTML = files.map(f => {
+        const statusBadge = f.is_translated
+          ? `<span class="px-2 py-0.5 bg-emerald-50 text-emerald-700 border border-emerald-200 rounded text-[11px] font-medium inline-flex items-center space-x-1" title="Đã dịch thành: ${escapeHtml(f.translated_file || '')}"><span>🟢</span><span>Đã dịch</span></span>`
+          : `<span class="px-2 py-0.5 bg-slate-100 text-slate-500 border border-slate-200 rounded text-[11px] font-medium inline-flex items-center space-x-1"><span>⚪</span><span>Chưa dịch</span></span>`;
+
+        return `
         <tr class="hover:bg-slate-50/80 transition group">
           <td class="p-2.5 font-medium text-slate-800 flex items-center space-x-2">
             <span class="text-amber-500 text-sm">📄</span>
             <span class="font-mono text-xs break-all">${escapeHtml(f.filename)}</span>
           </td>
           <td class="p-2.5 text-slate-500 font-mono text-[11px]">${f.size_str}</td>
+          <td class="p-2.5 text-center whitespace-nowrap">${statusBadge}</td>
           <td class="p-2.5 text-slate-400 font-mono text-[10px]">${f.modified}</td>
           <td class="p-2.5 text-right space-x-1.5 whitespace-nowrap">
             <button onclick="previewRawFile('${escapeQuotes(f.full_path)}', '${escapeQuotes(f.filename)}')" class="px-2.5 py-1 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded text-[11px] font-medium transition" title="Xem trước nội dung văn bản">
@@ -1391,7 +1493,7 @@
             </button>
           </td>
         </tr>
-      `).join('');
+      `}).join('');
     }
 
     function filterRawFiles() {
@@ -2148,19 +2250,303 @@
       else alert(data.error);
     }
 
-    // Translation & Editing
+    // ================= TRANSLATION & BULK SELECTION =================
+    function setTransSelectMode(mode) {
+      transSelectMode = mode;
+      const btnRange = document.getElementById('btn-trans-mode-range');
+      const btnList = document.getElementById('btn-trans-mode-list');
+      const panelRange = document.getElementById('trans-panel-range');
+      const panelList = document.getElementById('trans-panel-list');
+
+      if (mode === 'list') {
+        btnList?.classList.add('bg-white', 'text-indigo-600', 'shadow-xs', 'font-semibold');
+        btnList?.classList.remove('text-slate-600');
+        btnRange?.classList.remove('bg-white', 'text-indigo-600', 'shadow-xs', 'font-semibold');
+        btnRange?.classList.add('text-slate-600');
+
+        panelRange?.classList.add('hidden');
+        panelList?.classList.remove('hidden');
+
+        if (!transRawFiles || transRawFiles.length === 0) {
+          loadTransRawList();
+        } else {
+          renderTransRawTable();
+          updateTransSelectionSummary();
+        }
+      } else {
+        btnRange?.classList.add('bg-white', 'text-indigo-600', 'shadow-xs', 'font-semibold');
+        btnRange?.classList.remove('text-slate-600');
+        btnList?.classList.remove('bg-white', 'text-indigo-600', 'shadow-xs', 'font-semibold');
+        btnList?.classList.add('text-slate-600');
+
+        panelList?.classList.add('hidden');
+        panelRange?.classList.remove('hidden');
+      }
+      updateTransSubmitBtnText();
+    }
+
+    async function loadTransRawList() {
+      const tbody = document.getElementById('trans-raw-tbody');
+      try {
+        const res = await fetch(`/api/novel/raw-files?novel=${encodeURIComponent(activeNovel || '')}`);
+        const data = await res.json();
+        if (data.success) {
+          transRawFiles = data.files || [];
+          const untrans = transRawFiles.filter(f => !f.is_translated);
+          const badge = document.getElementById('trans-untrans-badge-count');
+          if (badge) badge.innerText = `${untrans.length}`;
+
+          const validEps = new Set(transRawFiles.filter(f => f.ep !== null).map(f => f.ep));
+          for (const ep of Array.from(selectedRawEps)) {
+            if (!validEps.has(ep)) selectedRawEps.delete(ep);
+          }
+
+          renderTransRawTable();
+          updateTransSelectionSummary();
+        } else {
+          if (tbody) tbody.innerHTML = `<tr><td colspan="5" class="p-4 text-center text-rose-500">${data.error || 'Lỗi tải danh sách raw'}</td></tr>`;
+        }
+      } catch (e) {
+        if (tbody) tbody.innerHTML = `<tr><td colspan="5" class="p-4 text-center text-rose-500">Lỗi kết nối: ${e.message}</td></tr>`;
+      }
+    }
+
+    function getFilteredTransRawFiles() {
+      const q = (document.getElementById('trans-raw-search')?.value || '').toLowerCase().trim();
+      if (!q) return transRawFiles;
+      return transRawFiles.filter(f => {
+        const epStr = f.ep !== null ? String(f.ep) : '';
+        return epStr.includes(q) || f.filename.toLowerCase().includes(q);
+      });
+    }
+
+    function filterTransRawList() {
+      renderTransRawTable();
+    }
+
+    function renderTransRawTable() {
+      const tbody = document.getElementById('trans-raw-tbody');
+      if (!tbody) return;
+
+      const files = getFilteredTransRawFiles();
+
+      if (!files || files.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="5" class="p-6 text-center text-slate-400">
+              <div class="text-xl mb-1">📭</div>
+              <div>Không tìm thấy file raw nào phù hợp.</div>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      const allSelectable = files.filter(f => f.ep !== null);
+      const allSelected = allSelectable.length > 0 && allSelectable.every(f => selectedRawEps.has(f.ep));
+      const chkAll = document.getElementById('chk-trans-select-all');
+      if (chkAll) {
+        chkAll.checked = allSelected;
+        chkAll.indeterminate = !allSelected && allSelectable.some(f => selectedRawEps.has(f.ep));
+      }
+
+      tbody.innerHTML = files.map(f => {
+        const isChecked = f.ep !== null && selectedRawEps.has(f.ep);
+        const trBg = isChecked ? 'bg-indigo-50/70' : 'hover:bg-slate-50';
+        const statusBadge = f.is_translated
+          ? `<span class="px-2 py-0.5 bg-emerald-50 text-emerald-700 border border-emerald-200 rounded text-[11px] font-medium inline-flex items-center space-x-1" title="Đã dịch thành: ${escapeHtml(f.translated_file || '')}">
+               <span>🟢</span>
+               <span>Đã dịch</span>
+             </span>`
+          : `<span class="px-2 py-0.5 bg-amber-50 text-amber-700 border border-amber-200 rounded text-[11px] font-semibold inline-flex items-center space-x-1">
+               <span>⚪</span>
+               <span>Chưa dịch</span>
+             </span>`;
+
+        const epBadge = f.ep !== null
+          ? `<span class="font-mono font-semibold px-2 py-0.5 bg-slate-100 text-slate-700 rounded text-xs">Tập ${f.ep}</span>`
+          : `<span class="text-slate-400 text-[11px] italic">Không rõ</span>`;
+
+        return `
+          <tr class="${trBg} transition cursor-pointer select-none border-b border-slate-100 last:border-0" onclick="toggleRowCheckbox(event, ${f.ep})">
+            <td class="p-2.5 w-10 text-center" onclick="event.stopPropagation()">
+              <input type="checkbox"
+                     class="trans-raw-chk rounded text-indigo-600 focus:ring-indigo-500 cursor-pointer"
+                     data-ep="${f.ep !== null ? f.ep : ''}"
+                     ${isChecked ? 'checked' : ''}
+                     ${f.ep === null ? 'disabled' : ''}
+                     onchange="onTransCheckboxChange(${f.ep}, this.checked)">
+            </td>
+            <td class="p-2.5 whitespace-nowrap">${epBadge}</td>
+            <td class="p-2.5 font-medium text-slate-800">
+              <div class="flex items-center space-x-2">
+                <span class="text-amber-500 text-sm">📄</span>
+                <span class="font-mono text-xs text-slate-700 break-all">${escapeHtml(f.filename)}</span>
+              </div>
+            </td>
+            <td class="p-2.5 text-center whitespace-nowrap">${statusBadge}</td>
+            <td class="p-2.5 text-right font-mono text-slate-500 text-[11px] whitespace-nowrap">${f.size_str || ''}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function toggleRowCheckbox(event, ep) {
+      if (ep === null || ep === undefined) return;
+      if (event && event.target && event.target.tagName === 'INPUT') return;
+      if (selectedRawEps.has(ep)) {
+        selectedRawEps.delete(ep);
+      } else {
+        selectedRawEps.add(ep);
+      }
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function onTransCheckboxChange(ep, checked) {
+      if (ep === null || ep === undefined) return;
+      if (checked) {
+        selectedRawEps.add(ep);
+      } else {
+        selectedRawEps.delete(ep);
+      }
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function toggleSelectAllRaw(checked) {
+      const files = getFilteredTransRawFiles();
+      files.forEach(f => {
+        if (f.ep !== null) {
+          if (checked) selectedRawEps.add(f.ep);
+          else selectedRawEps.delete(f.ep);
+        }
+      });
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function selectAllRaw(select) {
+      if (select) {
+        transRawFiles.forEach(f => {
+          if (f.ep !== null) selectedRawEps.add(f.ep);
+        });
+      } else {
+        selectedRawEps.clear();
+      }
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function selectOnlyUntranslated() {
+      selectedRawEps.clear();
+      transRawFiles.forEach(f => {
+        if (f.ep !== null && !f.is_translated) {
+          selectedRawEps.add(f.ep);
+        }
+      });
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function selectNextUntranslated(count) {
+      selectedRawEps.clear();
+      let added = 0;
+      for (const f of transRawFiles) {
+        if (f.ep !== null && !f.is_translated) {
+          selectedRawEps.add(f.ep);
+          added++;
+          if (added >= count) break;
+        }
+      }
+      renderTransRawTable();
+      updateTransSelectionSummary();
+    }
+
+    function updateTransSelectionSummary() {
+      const summaryText = document.getElementById('trans-selection-text');
+      const summaryDetail = document.getElementById('trans-selection-detail');
+      const badgeCount = document.getElementById('trans-untrans-badge-count');
+
+      const untransTotal = transRawFiles.filter(f => !f.is_translated).length;
+      if (badgeCount) badgeCount.innerText = `${untransTotal}`;
+
+      const totalSelected = selectedRawEps.size;
+      let untransSelected = 0;
+      let transSelected = 0;
+
+      transRawFiles.forEach(f => {
+        if (f.ep !== null && selectedRawEps.has(f.ep)) {
+          if (f.is_translated) transSelected++;
+          else untransSelected++;
+        }
+      });
+
+      if (summaryText) summaryText.innerText = `Đã chọn: ${totalSelected} tập`;
+      if (summaryDetail) summaryDetail.innerText = `(${untransSelected} chưa dịch, ${transSelected} dịch lại)`;
+
+      updateTransSubmitBtnText();
+    }
+
+    function onTransRangeChanged() {
+      updateTransSubmitBtnText();
+    }
+
+    function updateTransSubmitBtnText() {
+      const btnText = document.getElementById('btn-start-trans-text');
+      if (!btnText) return;
+
+      if (transSelectMode === 'list') {
+        const count = selectedRawEps.size;
+        if (count === 0) {
+          btnText.innerText = `Bắt Đầu Tiến Trình Dịch (Chưa chọn tập nào)`;
+        } else {
+          const sorted = Array.from(selectedRawEps).sort((a, b) => a - b);
+          let preview = sorted.length <= 4 
+            ? sorted.join(', ') 
+            : `${sorted[0]}, ${sorted[1]}... ${sorted[sorted.length - 1]}`;
+          btnText.innerText = `Bắt Đầu Dịch ${count} Tập Đã Chọn [${preview}]`;
+        }
+      } else {
+        const start = parseInt(document.getElementById('trans-start')?.value) || 1;
+        const end = parseInt(document.getElementById('trans-end')?.value) || 1;
+        const total = Math.max(0, end - start + 1);
+        btnText.innerText = `Bắt Đầu Dịch Từ Tập ${start} Đến ${end} (${total} tập)`;
+      }
+    }
+
     async function startTranslation() {
-      const start = document.getElementById('trans-start').value;
-      const end = document.getElementById('trans-end').value;
       const concurrency = document.getElementById('trans-concurrency').value;
+      let payload = { concurrency };
+
+      if (transSelectMode === 'list') {
+        if (selectedRawEps.size === 0) {
+          alert('Vui lòng chọn ít nhất 1 tập raw trong danh sách để dịch!');
+          return;
+        }
+        const sortedChapters = Array.from(selectedRawEps).sort((a, b) => a - b);
+        payload.chapters = sortedChapters;
+        payload.start = sortedChapters[0];
+        payload.end = sortedChapters[sortedChapters.length - 1];
+      } else {
+        const start = parseInt(document.getElementById('trans-start').value) || 1;
+        const end = parseInt(document.getElementById('trans-end').value) || 1;
+        if (start > end) {
+          alert('Tập bắt đầu phải nhỏ hơn hoặc bằng tập kết thúc!');
+          return;
+        }
+        payload.start = start;
+        payload.end = end;
+      }
+
       const res = await fetch('/api/translate/start', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({start, end, concurrency})
+        body: JSON.stringify(payload)
       });
       const data = await res.json();
       if (data.success) switchTab('agent');
-      else alert(data.error);
+      else alert(data.error || 'Có lỗi xảy ra khi bắt đầu dịch');
     }
 
     async function startEditing() {

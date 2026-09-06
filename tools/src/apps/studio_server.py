@@ -477,12 +477,24 @@ async def get_novel_raw_files(request: web.Request) -> web.Response:
 
     raw_files = []
     if target_novel.raw_dir.exists():
-        files = sorted(target_novel.raw_dir.glob("*.txt"), key=lambda f: f.name)
+        trans_dict = {ep: p.name for ep, p in target_novel.list_translated_chapters()}
+        files = list(target_novel.raw_dir.glob("*.txt"))
+        def get_ep_num(f):
+            m = re.search(r"chuong_(\d+)", f.name)
+            return int(m.group(1)) if m else 999999
+        files = sorted(files, key=get_ep_num)
+
         for f in files:
+            m = re.search(r"chuong_(\d+)", f.name)
+            ep = int(m.group(1)) if m else None
+            is_translated = (ep in trans_dict) if ep is not None else False
             stat = f.stat()
             size_kb = round(stat.st_size / 1024, 1)
             raw_files.append({
                 "filename": f.name,
+                "ep": ep,
+                "is_translated": is_translated,
+                "translated_file": trans_dict.get(ep, ""),
                 "size_bytes": stat.st_size,
                 "size_str": f"{size_kb} KB" if size_kb > 0 else f"{stat.st_size} B",
                 "modified": datetime.fromtimestamp(stat.st_mtime).strftime("%Y-%m-%d %H:%M:%S"),
@@ -703,19 +715,25 @@ async def start_translation(request: web.Request) -> web.Response:
         return web.json_response({"success": False, "error": "Đang có tác vụ khác đang chạy"}, status=400)
 
     data = await request.json()
-    start_ep = int(data.get("start", 1))
-    end_ep = int(data.get("end", 1))
     concurrency = int(data.get("concurrency", 1))
+    chapters = data.get("chapters")
 
     if not state.active_novel:
         return web.json_response({"success": False, "error": "Chưa chọn bộ truyện"}, status=400)
 
     novel = state.active_novel
     raws = novel.list_raw_chapters()
-    selected = [(ep, p) for ep, p in raws if start_ep <= ep <= end_ep]
+
+    if chapters and isinstance(chapters, list) and len(chapters) > 0:
+        chapter_set = set(int(x) for x in chapters)
+        selected = [(ep, p) for ep, p in raws if ep in chapter_set]
+    else:
+        start_ep = int(data.get("start", 1))
+        end_ep = int(data.get("end", 1))
+        selected = [(ep, p) for ep, p in raws if start_ep <= ep <= end_ep]
 
     if not selected:
-        return web.json_response({"success": False, "error": "Không tìm thấy chương raw nào trong khoảng đã chọn"}, status=400)
+        return web.json_response({"success": False, "error": "Không tìm thấy chương raw nào phù hợp để dịch"}, status=400)
 
     async def run_trans():
         state.is_task_running = True
@@ -784,19 +802,25 @@ async def start_editing(request: web.Request) -> web.Response:
         return web.json_response({"success": False, "error": "Đang có tác vụ khác đang chạy"}, status=400)
 
     data = await request.json()
-    start_ep = int(data.get("start", 1))
-    end_ep = int(data.get("end", 1))
     concurrency = int(data.get("concurrency", 1))
+    chapters = data.get("chapters")
 
     if not state.active_novel:
         return web.json_response({"success": False, "error": "Chưa chọn bộ truyện"}, status=400)
 
     novel = state.active_novel
     trans = novel.list_translated_chapters()
-    selected = [(ep, p) for ep, p in trans if start_ep <= ep <= end_ep]
+
+    if chapters and isinstance(chapters, list) and len(chapters) > 0:
+        chapter_set = set(int(x) for x in chapters)
+        selected = [(ep, p) for ep, p in trans if ep in chapter_set]
+    else:
+        start_ep = int(data.get("start", 1))
+        end_ep = int(data.get("end", 1))
+        selected = [(ep, p) for ep, p in trans if start_ep <= ep <= end_ep]
 
     if not selected:
-        return web.json_response({"success": False, "error": "Không tìm thấy chương đã dịch nào trong khoảng đã chọn"}, status=400)
+        return web.json_response({"success": False, "error": "Không tìm thấy chương đã dịch nào phù hợp để biên tập"}, status=400)
 
     async def run_edit():
         state.is_task_running = True
