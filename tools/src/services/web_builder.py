@@ -51,6 +51,40 @@ def get_file_content(path: Path) -> str:
             return ""
 
 
+def format_chapter_title(ep_num: int, raw_title: str, stem: str) -> str:
+    """Chuẩn hóa tiêu đề chương đảm bảo luôn có 'Tập {ep_num}: ' và giữ số Hồi của tác giả nếu có."""
+    t = raw_title.strip()
+    t = re.sub(r"^#+\s*", "", t).strip()
+
+    if not t:
+        clean_name = re.sub(r"^chuong_\d+_?", "", stem)
+        clean_name = clean_name.replace("_", " ").strip().title()
+        t = clean_name
+
+    if ep_num <= 0:
+        return t or stem
+
+    m_tap = re.match(r"^Tập\s+(\d+)[:\s\-\.]*(.*)$", t, re.IGNORECASE)
+    if m_tap:
+        found_ep = int(m_tap.group(1))
+        sub_title = m_tap.group(2).lstrip(":- ").strip()
+        if found_ep == ep_num:
+            return f"Tập {ep_num}: {sub_title}" if sub_title else f"Tập {ep_num}"
+        else:
+            return f"Tập {ep_num}: [Hồi {found_ep}] {sub_title}" if sub_title else f"Tập {ep_num}: [Hồi {found_ep}]"
+
+    m_chuong = re.match(r"^(?:Chương|Hồi)\s+(\d+)[:\s\-\.]*(.*)$", t, re.IGNORECASE)
+    if m_chuong:
+        found_chap = int(m_chuong.group(1))
+        sub_title = m_chuong.group(2).lstrip(":- ").strip()
+        if found_chap == ep_num:
+            return f"Tập {ep_num}: {sub_title}" if sub_title else f"Tập {ep_num}"
+        else:
+            return f"Tập {ep_num}: [Hồi {found_chap}] {sub_title}" if sub_title else f"Tập {ep_num}: [Hồi {found_chap}]"
+
+    return f"Tập {ep_num}: {t}" if t else f"Tập {ep_num}"
+
+
 def build_web_chapters(active_novel_name: str = None) -> Dict[str, Any]:
     """
     Biên dịch toàn bộ tiểu thuyết trong projects/ thành web/chapters.js.
@@ -124,25 +158,19 @@ def build_web_chapters(active_novel_name: str = None) -> Dict[str, Any]:
                     continue
 
                 # Trích xuất tiêu đề từ dòng # đầu tiên
-                title = ""
+                extracted_title = ""
                 for line in raw_content.splitlines():
                     line_s = line.strip()
                     if line_s.startswith("# "):
-                        title = line_s[2:].strip()
+                        extracted_title = line_s[2:].strip()
                         break
 
-                if not title:
-                    clean_name = re.sub(r"^chuong_\d+_?", "", f.stem)
-                    clean_name = clean_name.replace("_", " ").strip().title()
-                    if ep_num > 0:
-                        title = f"Tập {ep_num}: {clean_name}" if clean_name else f"Tập {ep_num}"
-                    else:
-                        title = f.stem.replace("_", " ").title()
+                final_title = format_chapter_title(ep_num, extracted_title, f.stem)
 
                 chapters_list.append({
                     "id": f"ep_{ep_num}",
                     "ep": ep_num,
-                    "title": title,
+                    "title": final_title,
                     "content": raw_content
                 })
 
