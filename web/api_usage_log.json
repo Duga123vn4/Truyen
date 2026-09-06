@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-07 03:06:02",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 490",
+    "chapter_ep": 490,
+    "elapsed_sec": 40.43,
+    "input_tokens": 242712,
+    "output_tokens": 6852,
+    "cache_tokens": 204257,
+    "cost": 0.01321
+  },
+  {
+    "timestamp": "2026-09-07 03:05:12",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 474",
+    "chapter_ep": 474,
+    "elapsed_sec": 33.42,
+    "input_tokens": 241674,
+    "output_tokens": 5729,
+    "cache_tokens": 0,
+    "cost": 0.03969
+  },
+  {
     "timestamp": "2026-09-07 02:59:19",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 435",
