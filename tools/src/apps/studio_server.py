@@ -725,18 +725,48 @@ async def start_translation(request: web.Request) -> web.Response:
             await state.log(f"🚀 Khởi chạy dịch {total} tập qua {state.ai.provider} ({state.ai.model})...", "info")
 
             done_count = 0
-            tasks = [translate_chapter(p, novel, state.ai, ep, sem) for ep, p in selected]
-            for fut in asyncio.as_completed(tasks):
-                success, ep, fpath, msg = await fut
-                done_count += 1
-                pct = int((done_count / total) * 100)
-                if success:
-                    await state.log(f"✅ [Tập {ep}] Dịch thành công: {msg}", "success")
-                else:
-                    await state.log(f"❌ [Tập {ep}] Lỗi: {msg}", "error")
+            if concurrency <= 1:
+                # Chạy tuần tự tuyệt đối (Strict Sequential): Đảm bảo 100% đúng thứ tự tập và tối ưu Cache
+                for ep, p in selected:
+                    if not state.is_task_running:
+                        break
+                    success, ep_num, fpath, msg = await translate_chapter(p, novel, state.ai, ep, sem)
+                    done_count += 1
+                    pct = int((done_count / total) * 100)
+                    if success:
+                        await state.log(f"✅ [Tập {ep_num}] Dịch thành công: {msg}", "success")
+                    else:
+                        await state.log(f"❌ [Tập {ep_num}] Lỗi: {msg}", "error")
 
-                state.task_info = {"name": "Dịch Raw AI", "progress": done_count, "total": total, "status": "running"}
-                await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep})
+                    state.task_info = {"name": "Dịch Raw AI", "progress": done_count, "total": total, "status": "running"}
+                    await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep_num})
+            else:
+                # Chạy song song với hàng đợi FIFO: Luôn lấy tập nhỏ nhất đang chờ trước
+                queue = asyncio.Queue()
+                for item in selected:
+                    await queue.put(item)
+
+                async def worker():
+                    nonlocal done_count
+                    while not queue.empty() and state.is_task_running:
+                        try:
+                            ep, p = queue.get_nowait()
+                        except asyncio.QueueEmpty:
+                            break
+                        success, ep_num, fpath, msg = await translate_chapter(p, novel, state.ai, ep, sem)
+                        done_count += 1
+                        pct = int((done_count / total) * 100)
+                        if success:
+                            await state.log(f"✅ [Tập {ep_num}] Dịch thành công: {msg}", "success")
+                        else:
+                            await state.log(f"❌ [Tập {ep_num}] Lỗi: {msg}", "error")
+
+                        state.task_info = {"name": "Dịch Raw AI", "progress": done_count, "total": total, "status": "running"}
+                        await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep_num})
+                        queue.task_done()
+
+                workers = [asyncio.create_task(worker()) for _ in range(min(concurrency, total))]
+                await asyncio.gather(*workers)
 
             await state.log(f"🎉 Hoàn tất dịch thuật {done_count}/{total} tập!", "success")
         except Exception as e:
@@ -776,18 +806,46 @@ async def start_editing(request: web.Request) -> web.Response:
             await state.log(f"✍️ Khởi chạy Đại Biên Tập V6.0 cho {total} tập qua {state.ai.provider} ({state.ai.model})...", "info")
 
             done_count = 0
-            tasks = [edit_single_chapter(ep, p, novel, state.ai, sem) for ep, p in selected]
-            for fut in asyncio.as_completed(tasks):
-                success, ep, fpath, msg, diff = await fut
-                done_count += 1
-                pct = int((done_count / total) * 100)
-                if success:
-                    await state.log(f"✨ [Tập {ep}] Biên tập hoàn tất: {msg}", "success")
-                else:
-                    await state.log(f"⚠️ [Tập {ep}] {msg}", "error")
+            if concurrency <= 1:
+                for ep, p in selected:
+                    if not state.is_task_running:
+                        break
+                    success, ep_num, fpath, msg, diff = await edit_single_chapter(ep, p, novel, state.ai, sem)
+                    done_count += 1
+                    pct = int((done_count / total) * 100)
+                    if success:
+                        await state.log(f"✨ [Tập {ep_num}] Biên tập hoàn tất: {msg}", "success")
+                    else:
+                        await state.log(f"⚠️ [Tập {ep_num}] {msg}", "error")
 
-                state.task_info = {"name": "Biên Tập V6.0", "progress": done_count, "total": total, "status": "running"}
-                await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep})
+                    state.task_info = {"name": "Biên Tập V6.0", "progress": done_count, "total": total, "status": "running"}
+                    await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep_num})
+            else:
+                queue = asyncio.Queue()
+                for item in selected:
+                    await queue.put(item)
+
+                async def edit_worker():
+                    nonlocal done_count
+                    while not queue.empty() and state.is_task_running:
+                        try:
+                            ep, p = queue.get_nowait()
+                        except asyncio.QueueEmpty:
+                            break
+                        success, ep_num, fpath, msg, diff = await edit_single_chapter(ep, p, novel, state.ai, sem)
+                        done_count += 1
+                        pct = int((done_count / total) * 100)
+                        if success:
+                            await state.log(f"✨ [Tập {ep_num}] Biên tập hoàn tất: {msg}", "success")
+                        else:
+                            await state.log(f"⚠️ [Tập {ep_num}] {msg}", "error")
+
+                        state.task_info = {"name": "Biên Tập V6.0", "progress": done_count, "total": total, "status": "running"}
+                        await state.broadcast("progress", {"pct": pct, "current": done_count, "total": total, "ep": ep_num})
+                        queue.task_done()
+
+                workers = [asyncio.create_task(edit_worker()) for _ in range(min(concurrency, total))]
+                await asyncio.gather(*workers)
 
             await state.log(f"🎉 Hoàn tất biên tập {done_count}/{total} tập!", "success")
         except Exception as e:

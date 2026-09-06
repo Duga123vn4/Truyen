@@ -739,8 +739,8 @@
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Chế độ nạp Glossary (Glossary Mode)</label>
                 <select id="cfg-glossary-mode" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
-                  <option value="smart_filter">smart_filter (Trích xuất thông minh theo từng chương, tiết kiệm token, tránh dính 429)</option>
-                  <option value="full_cache">full_cache (Nạp toàn bộ 100% cơ sở dữ liệu Canon vào Context Cache)</option>
+                  <option value="full_cache">full_cache (Khuyên dùng: Cố định System Prompt để kích hoạt Prompt Cache, tiết kiệm 75-90% chi phí)</option>
+                  <option value="smart_filter">smart_filter (Không Cache: Tự động trích xuất từ điển theo từng chương, Prompt Cache = 0)</option>
                 </select>
               </div>
 
@@ -1986,7 +1986,7 @@
         if (llmSelect) llmSelect.value = llmModel;
 
         // Shared
-        document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'smart_filter';
+        document.getElementById('cfg-glossary-mode').value = cfg.glossary_mode || 'full_cache';
         document.getElementById('cfg-discord-webhook').value = cfg.discord_webhook_url || '';
 
         // Badges
