@@ -1382,7 +1382,9 @@
       input.value = '';
 
       // Smart command matcher
-      if (text.includes('dịch') || text.startsWith('trans')) {
+      if (text === 'dịch tiếp' || text === 'tiếp tục dịch') {
+        quickTranslateNext();
+      } else if (text.includes('dịch') || text.startsWith('trans')) {
         const m = text.match(/(\d+)\s*[-đếnto]+\s*(\d+)/);
         if (m) {
           document.getElementById('trans-start').value = m[1];
@@ -1398,15 +1400,33 @@
         }
         switchTab('editor');
         startEditing();
-      } else if (text.includes('auto-sync') || text.includes('glossary')) {
+      } else if (text.includes('vẽ') || text.startsWith('art')) {
+        const m = text.match(/\d+/);
+        if (m) document.getElementById('art-chapter').value = m[0];
+        switchTab('art');
+      } else if (text.includes('auto-sync') || text.includes('glossary') || text.includes('thuật ngữ')) {
         switchTab('glossary');
         quickAutoSyncGlossary();
-      } else if (text.includes('git') || text.includes('push')) {
+      } else if (text.includes('git') || text.includes('push') || text.includes('đồng bộ')) {
         triggerGitSync();
-      } else if (text.includes('cào') || text.includes('scrape')) {
+      } else if (text.includes('cào') || text.includes('scrape') || text.startsWith('syosetu')) {
+        const m = text.match(/n\d+[a-z]+/i);
+        if (m) {
+          document.getElementById('scrape-query').value = m[0];
+          fetchSyosetuInfo();
+        }
         switchTab('scraper');
+      } else if (text.includes('folder') || text.includes('thư mục')) {
+        openNovelFolder();
+        appendLog("Đã mở thư mục bộ truyện trong Windows Explorer.", "info");
+      } else if (text.includes('web') || text.includes('đọc')) {
+        openWebReader();
+      } else if (text.includes('diff') || text.includes('so sánh')) {
+        openDiffStudio();
+      } else if (text.includes('cài đặt') || text.includes('setting')) {
+        switchTab('settings');
       } else {
-        appendLog(`[Prompt] Lệnh chưa nhận diện: "${text}". Hãy thử "dịch 441-450", "auto-sync", "sync git".`, "warn");
+        appendLog(`[Prompt] Lệnh chưa nhận diện: "${text}". Hãy thử "dịch 441-450", "biên tập 440", "auto-sync", "mở folder", "sync git".`, "warn");
       }
     }
 
