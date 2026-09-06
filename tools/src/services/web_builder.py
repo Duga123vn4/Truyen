@@ -238,7 +238,16 @@ def build_web_chapters(active_novel_name: str = None) -> Dict[str, Any]:
     ]
 
     WEB_DIR.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text("\n".join(js_lines), encoding="utf-8")
+    content_to_write = "\n".join(js_lines)
+    for attempt in range(5):
+        try:
+            with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+                f.write(content_to_write)
+            break
+        except OSError:
+            if attempt == 4:
+                raise
+            time.sleep(0.5)
 
     timestamp = int(time.time())
     if INDEX_FILE.exists():
