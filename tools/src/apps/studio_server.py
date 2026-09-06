@@ -151,24 +151,67 @@ async def create_novel(request: web.Request) -> web.Response:
     try:
         data = await request.json()
         raw_name = data.get("name", "").strip()
-        title = data.get("title", "").strip() or raw_name
+        title = data.get("title", "").strip()
         author = data.get("author", "").strip() or "Chưa rõ"
         syosetu_code = extract_novel_code(data.get("syosetu_code", "").strip())
         description = data.get("description", "").strip()
         tags = data.get("tags", "").strip()
 
+        # Intelligent fallback for project folder name
         if not raw_name:
-            return web.json_response({"success": False, "error": "Vui lòng nhập tên bộ truyện / tên thư mục!"}, status=400)
+            if syosetu_code:
+                raw_name = syosetu_code
+            elif title:
+                raw_name = re.sub(r'[\\/*?:"<>|\r\n\t\s]+', '_', title).strip('_')
+            else:
+                raw_name = f"Novel_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+
+        if not title:
+            title = syosetu_code or raw_name
 
         # Sanitize folder name for Windows
-        clean_name = re.sub(r'[\\/*?:"<>|]', '_', raw_name).strip()
+        clean_name = re.sub(r'[\\/*?:"<>|\r\n\t]', '_', raw_name).strip()
         clean_name = re.sub(r'\s+', '_', clean_name)
+        if len(clean_name) > 60:
+            clean_name = clean_name[:60].rstrip('._')
         if not clean_name:
-            return web.json_response({"success": False, "error": "Tên thư mục không hợp lệ trên Windows!"}, status=400)
+            clean_name = syosetu_code or f"Novel_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
 
         target_dir = PROJECTS_DIR / clean_name
+
+        # If syosetu_code provided, try to fetch info from Syosetu first
+        if syosetu_code:
+            try:
+                import httpx
+                syosetu = SyosetuNovel(syosetu_code)
+                async with httpx.AsyncClient(timeout=10.0) as client:
+                    ok = await syosetu.fetch_novel_info_and_toc(client)
+                    if ok:
+                        if not title or title == raw_name or title == syosetu_code:
+                            title = syosetu.title or title
+                        if not author or author == "Chưa rõ":
+                            author = syosetu.author or author
+            except Exception:
+                pass
+
         if target_dir.exists():
-            return web.json_response({"success": False, "error": f"Bộ truyện hoặc thư mục '{clean_name}' đã tồn tại!"}, status=400)
+            # Already exists: refresh and activate instead of throwing error
+            state.refresh_novels()
+            for n in state.novels:
+                if n.name == clean_name:
+                    state.active_novel = n
+                    break
+            await state.log(f"📁 Thư mục dự án '{clean_name}' đã có sẵn, đã tự động kích hoạt bộ truyện này!", "info")
+            await state.broadcast("novel_changed", {"name": clean_name})
+            return web.json_response({
+                "success": True,
+                "novel": clean_name,
+                "title": title,
+                "folder": str(target_dir),
+                "raw_dir": str(target_dir / "raw"),
+                "already_existed": True,
+                "syosetu_code": syosetu_code
+            })
 
         # Create standard directory tree
         target_dir.mkdir(parents=True, exist_ok=True)
@@ -179,21 +222,6 @@ async def create_novel(request: web.Request) -> web.Response:
         (target_dir / "backups" / "truoc_bien_tap").mkdir(parents=True, exist_ok=True)
         (target_dir / "backups" / "truoc_chuan_hoa").mkdir(parents=True, exist_ok=True)
         (target_dir / "backups" / "glossary").mkdir(parents=True, exist_ok=True)
-
-        # If syosetu_code provided, try to fetch info
-        if syosetu_code:
-            try:
-                import httpx
-                syosetu = SyosetuNovel(syosetu_code)
-                async with httpx.AsyncClient(timeout=8.0) as client:
-                    ok = await syosetu.fetch_novel_info_and_toc(client)
-                    if ok:
-                        if not title or title == raw_name:
-                            title = syosetu.title or title
-                        if not author or author == "Chưa rõ":
-                            author = syosetu.author or author
-            except Exception:
-                pass
 
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -288,6 +316,8 @@ async def get_novel_info(request: web.Request) -> web.Response:
     return web.json_response({
         "name": n.name,
         "folder": str(n.folder),
+        "raw_dir": str(n.raw_dir),
+        "translated_dir": str(n.translated_dir),
         "raw_count": len(raws),
         "translated_count": len(trans),
         "raw_min": raws[0][0] if raws else 0,
@@ -297,6 +327,66 @@ async def get_novel_info(request: web.Request) -> web.Response:
         "untranslated_count": len(untranslated),
         "untranslated_episodes": untranslated[:50]
     })
+
+async def get_novel_raw_files(request: web.Request) -> web.Response:
+    novel_name = request.query.get("novel", "").strip()
+    target_novel = None
+    if novel_name:
+        for n in state.novels:
+            if n.name == novel_name:
+                target_novel = n
+                break
+    if not target_novel:
+        target_novel = state.active_novel
+
+    if not target_novel:
+        return web.json_response({"success": False, "error": "Chưa chọn bộ truyện"}, status=400)
+
+    raw_files = []
+    if target_novel.raw_dir.exists():
+        files = sorted(target_novel.raw_dir.glob("*.txt"), key=lambda f: f.name)
+        for f in files:
+            stat = f.stat()
+            size_kb = round(stat.st_size / 1024, 1)
+            raw_files.append({
+                "filename": f.name,
+                "size_bytes": stat.st_size,
+                "size_str": f"{size_kb} KB" if size_kb > 0 else f"{stat.st_size} B",
+                "modified": datetime.fromtimestamp(stat.st_mtime).strftime("%Y-%m-%d %H:%M:%S"),
+                "full_path": str(f)
+            })
+
+    return web.json_response({
+        "success": True,
+        "novel": target_novel.name,
+        "raw_dir": str(target_novel.raw_dir),
+        "total": len(raw_files),
+        "files": raw_files
+    })
+
+async def read_file_preview(request: web.Request) -> web.Response:
+    file_path = request.query.get("path", "").strip()
+    if not file_path:
+        return web.json_response({"success": False, "error": "Đường dẫn file trống"}, status=400)
+
+    p = Path(file_path)
+    try:
+        p = p.resolve()
+        if not str(p).lower().startswith(str(WORKSPACE_DIR.resolve()).lower()):
+            return web.json_response({"success": False, "error": "Đường dẫn ngoài thư mục dự án"}, status=403)
+        if not p.exists() or not p.is_file():
+            return web.json_response({"success": False, "error": "File không tồn tại"}, status=404)
+
+        content = p.read_text(encoding="utf-8", errors="replace")
+        return web.json_response({
+            "success": True,
+            "filename": p.name,
+            "path": str(p),
+            "size": len(content),
+            "content": content[:60000]
+        })
+    except Exception as e:
+        return web.json_response({"success": False, "error": str(e)}, status=500)
 
 # ----------------- CONFIG API -----------------
 async def get_config(request: web.Request) -> web.Response:
@@ -438,11 +528,11 @@ async def syosetu_scrape(request: web.Request) -> web.Response:
                         content = await syosetu.fetch_chapter_content(client, ep)
                         if content:
                             fpath.write_text(f"# {item['title']}\n\n{content}", encoding="utf-8")
-                            await state.log(f"✓ Đã tải Tập {ep}: {item['title']}", "success")
+                            await state.log(f"✓ Đã tải Tập {ep}: {item['title']} -> {fname}", "success")
                         else:
                             await state.log(f"⚠️ Không thể tải nội dung Tập {ep}", "warning")
                     else:
-                        await state.log(f"⏩ Tập {ep} đã tồn tại trong raw/, bỏ qua.", "info")
+                        await state.log(f"⏩ Tập {ep} đã có sẵn ({fname}), bỏ qua.", "info")
 
                     pct = int((idx / total) * 100)
                     state.task_info = {"name": "Cào Raw Syosetu", "progress": idx, "total": total, "status": "running"}
@@ -450,6 +540,8 @@ async def syosetu_scrape(request: web.Request) -> web.Response:
                     await asyncio.sleep(0.3)
 
             await state.log(f"🎉 Hoàn tất cào {total} chương về thư mục raw/!", "success")
+            await state.log(f"📁 Vị trí thư mục raw: {novel.raw_dir}", "info")
+            await state.broadcast("raw_files_updated", {"novel": novel.name})
         except Exception as e:
             await state.log(f"Lỗi khi cào raw: {e}", "error")
         finally:
@@ -680,6 +772,7 @@ async def add_glossary_term(request: web.Request) -> web.Response:
 async def open_external(request: web.Request) -> web.Response:
     target = request.query.get("target", "")
     novel_name = request.query.get("novel", "")
+    file_path = request.query.get("path", "").strip()
 
     try:
         if target == "web_reader":
@@ -695,6 +788,21 @@ async def open_external(request: web.Request) -> web.Response:
                 p = WORKSPACE_DIR
             if p.exists():
                 os.startfile(str(p))
+        elif target == "raw_folder":
+            if novel_name:
+                p = PROJECTS_DIR / novel_name / "raw"
+            elif state.active_novel:
+                p = state.active_novel.raw_dir
+            else:
+                p = PROJECTS_DIR
+            p.mkdir(parents=True, exist_ok=True)
+            os.startfile(str(p))
+        elif target == "file":
+            if file_path and Path(file_path).exists():
+                os.startfile(str(Path(file_path)))
+        elif target == "locate_file":
+            if file_path and Path(file_path).exists():
+                subprocess.Popen(["explorer.exe", f"/select,{Path(file_path)}"])
         elif target == "workspace":
             os.startfile(str(WORKSPACE_DIR))
         return web.json_response({"success": True})
@@ -793,6 +901,8 @@ def make_app() -> web.Application:
     app.router.add_post("/api/novel/select", select_novel)
     app.router.add_post("/api/novel/create", create_novel)
     app.router.add_get("/api/novel/info", get_novel_info)
+    app.router.add_get("/api/novel/raw-files", get_novel_raw_files)
+    app.router.add_get("/api/file/read", read_file_preview)
 
     app.router.add_get("/api/config", get_config)
     app.router.add_post("/api/config", update_config)

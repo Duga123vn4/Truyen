@@ -181,8 +181,13 @@
 
             <!-- Stats Bar -->
             <div class="grid grid-cols-4 gap-3 mt-4 pt-4 border-t border-slate-100">
-              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3">
-                <div class="text-[11px] font-medium text-slate-500">Chương Raw Có Sẵn</div>
+              <div class="bg-slate-50 border border-slate-200/80 rounded-lg p-3 relative group">
+                <div class="flex items-center justify-between">
+                  <div class="text-[11px] font-medium text-slate-500">Chương Raw Có Sẵn</div>
+                  <button onclick="openRawFolder()" class="text-[10px] text-indigo-600 hover:text-indigo-800 font-medium flex items-center space-x-0.5" title="Mở thư mục raw trong Windows Explorer">
+                    <span>📂 Mở</span>
+                  </button>
+                </div>
                 <div id="stat-raw-count" class="text-xl font-bold text-slate-800 font-mono mt-0.5">0</div>
                 <div id="stat-raw-range" class="text-[10px] text-slate-400 mt-0.5">Tập 0 - 0</div>
               </div>
@@ -264,11 +269,34 @@
         </div>
 
         <!-- ================= TAB 3: SYOSETU SCRAPER ================= -->
-        <div id="tab-scraper" class="tab-panel hidden space-y-4 max-w-3xl mx-auto">
+        <div id="tab-scraper" class="tab-panel hidden space-y-4 max-w-4xl mx-auto">
+          <!-- Active Novel & Storage Location Banner -->
+          <div class="bg-indigo-50/80 border border-indigo-200/90 rounded-xl p-4 text-xs flex items-center justify-between shadow-2xs">
+            <div class="space-y-1">
+              <div class="flex items-center space-x-2">
+                <span class="font-semibold text-slate-800">Dự án đang chọn:</span>
+                <span id="scraper-novel-name" class="font-bold text-indigo-700 bg-indigo-100/80 px-2 py-0.5 rounded">...</span>
+              </div>
+              <div class="flex items-center space-x-1.5 text-slate-500 font-mono text-[11px]">
+                <span class="text-slate-400">📁 Thư mục lưu file raw:</span>
+                <span id="scraper-raw-path" class="text-slate-800 font-semibold select-all">d:\Novel\projects\...</span>
+              </div>
+            </div>
+            <div class="flex items-center space-x-2">
+              <button onclick="openRawFolder()" class="px-3.5 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-xs font-semibold flex items-center space-x-1.5 shadow-xs transition" title="Mở thư mục raw trong Windows Explorer">
+                <span>📂</span>
+                <span>Mở Thư Mục raw/</span>
+              </button>
+              <button onclick="loadRawFilesList()" class="px-2.5 py-2 bg-white hover:bg-slate-100 text-slate-700 border border-slate-200 rounded-lg text-xs font-medium transition" title="Làm mới danh sách file">
+                <span>🔄</span>
+              </button>
+            </div>
+          </div>
+
           <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-4">
             <div>
               <h2 class="text-base font-bold text-slate-800">📥 Cào Chương Raw Từ Syosetu</h2>
-              <p class="text-xs text-slate-500">Tự động tải văn bản gốc từ Syosetu về thư mục raw/</p>
+              <p class="text-xs text-slate-500">Tự động tải văn bản gốc từ Syosetu về thư mục raw/ của bộ truyện đang chọn</p>
             </div>
 
             <div class="space-y-3">
@@ -301,6 +329,40 @@
               <button onclick="startScraping()" class="w-full py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg shadow-sm transition">
                 🚀 Bắt Đầu Tải Raw Về Máy
               </button>
+            </div>
+          </div>
+
+          <!-- Raw Files List Explorer Card -->
+          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-3">
+            <div class="flex items-center justify-between border-b border-slate-100 pb-3">
+              <div class="flex items-center space-x-2">
+                <h3 class="text-xs font-bold text-slate-800">📑 Danh Sách File Raw Đã Cào Về Máy</h3>
+                <span id="raw-files-count-badge" class="px-2 py-0.5 bg-indigo-50 text-indigo-700 text-[11px] font-mono rounded-full font-semibold">0 tập</span>
+              </div>
+              <div class="flex items-center space-x-2">
+                <input type="text" id="raw-search-input" oninput="filterRawFiles()" placeholder="🔍 Lọc số tập hoặc tên file..." class="px-2.5 py-1 text-xs border border-slate-200 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 w-48 bg-slate-50 focus:bg-white transition">
+                <button onclick="openRawFolder()" class="text-xs text-indigo-600 hover:text-indigo-800 font-medium flex items-center space-x-1">
+                  <span>📂 Xem trong Explorer</span>
+                </button>
+              </div>
+            </div>
+
+            <div class="overflow-x-auto max-h-96 overflow-y-auto">
+              <table class="w-full text-left text-xs border-collapse">
+                <thead class="bg-slate-50 text-slate-500 text-[11px] sticky top-0 border-b border-slate-200">
+                  <tr>
+                    <th class="p-2.5 font-medium">Tên File / Tập</th>
+                    <th class="p-2.5 font-medium w-24">Dung Lượng</th>
+                    <th class="p-2.5 font-medium w-36">Thời Gian Lưu</th>
+                    <th class="p-2.5 font-medium w-44 text-right">Thao Tác</th>
+                  </tr>
+                </thead>
+                <tbody id="raw-files-tbody" class="divide-y divide-slate-100">
+                  <tr>
+                    <td colspan="4" class="p-4 text-center text-slate-400">Đang tải danh sách file raw...</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
@@ -752,13 +814,13 @@
         <div>
           <label class="block font-medium text-slate-700 mb-1">Mã Syosetu hoặc URL (Tùy chọn - Tự động điền dữ liệu)</label>
           <div class="flex space-x-2">
-            <input type="text" id="new-novel-syosetu" placeholder="Ví dụ: n4202ed hoặc https://ncode.syosetu.com/n4202ed/" class="flex-1 px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono text-xs bg-white">
+            <input type="text" id="new-novel-syosetu" oninput="onSyosetuInputChanged()" placeholder="Ví dụ: n4202ed hoặc https://ncode.syosetu.com/n4202ed/" class="flex-1 px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono text-xs bg-white">
             <button type="button" onclick="autoFetchSyosetuForNewNovel()" id="btn-fetch-syosetu-new" class="px-3.5 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium transition flex items-center space-x-1">
               <span>🔍</span>
               <span>Quét</span>
             </button>
           </div>
-          <p class="text-[10px] text-slate-400 mt-0.5">Nhập mã Syosetu để tự động tải Tiêu đề gốc và Tác giả từ mạng</p>
+          <p class="text-[10px] text-slate-400 mt-0.5">Nhập mã Syosetu để tự động điền Tên thư mục, Tiêu đề gốc và Tác giả</p>
         </div>
 
         <div>
@@ -768,7 +830,7 @@
 
         <div>
           <label class="block font-medium text-slate-700 mb-1">Tên Thư Mục Dự Án (ID) <span class="text-rose-500">*</span></label>
-          <input type="text" id="new-novel-name" oninput="markFolderManuallyEdited()" placeholder="Ví dụ: Chu_Thuat_Su_Dung_Gia" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
+          <input type="text" id="new-novel-name" oninput="markFolderManuallyEdited()" placeholder="Ví dụ: Chu_Thuat_Su_Dung_Gia hoặc n9293ik" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 font-mono bg-white">
           <p class="text-[10px] text-slate-400 mt-0.5">Thư mục sẽ được tạo tại <code class="font-mono text-indigo-600 bg-indigo-50 px-1 py-0.5 rounded">d:\Novel\projects\&lt;tên_thư_mục&gt;</code></p>
         </div>
 
@@ -788,6 +850,9 @@
           <textarea id="new-novel-desc" rows="2" placeholder="Tóm tắt nội dung chính hoặc ghi chú..." class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white"></textarea>
         </div>
 
+        <!-- Inline Status & Error Message -->
+        <div id="create-novel-msg" class="hidden text-xs rounded-lg p-2.5"></div>
+
         <div class="pt-1">
           <label class="flex items-center space-x-2 cursor-pointer select-none">
             <input type="checkbox" id="new-novel-auto-scrape" class="rounded text-indigo-600 focus:ring-indigo-500" checked>
@@ -802,6 +867,34 @@
           <span>🚀</span>
           <span>Khởi Tạo Dự Án</span>
         </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- RAW FILE PREVIEW MODAL -->
+  <div id="raw-viewer-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-xs flex items-center justify-center z-50 p-4">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-3xl w-full p-6 space-y-4 border border-slate-200 flex flex-col max-h-[85vh]">
+      <div class="flex items-center justify-between border-b border-slate-100 pb-3 flex-shrink-0">
+        <div class="space-y-0.5">
+          <div class="font-bold text-sm text-slate-800 flex items-center space-x-2">
+            <span class="text-base">📄</span>
+            <span id="raw-viewer-filename">Tên File</span>
+          </div>
+          <div class="text-[10px] text-slate-400 font-mono select-all" id="raw-viewer-path">Đường dẫn...</div>
+        </div>
+        <div class="flex items-center space-x-2">
+          <button onclick="openCurrentViewingInNotepad()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium flex items-center space-x-1 transition" title="Mở file này bằng Notepad">
+            <span>📝 Mở Notepad</span>
+          </button>
+          <button onclick="closeRawViewerModal()" class="text-slate-400 hover:text-slate-600 text-sm font-bold w-6 h-6 flex items-center justify-center rounded-md hover:bg-slate-100 transition">✕</button>
+        </div>
+      </div>
+      <div class="flex-1 overflow-y-auto bg-slate-50 rounded-xl p-4 border border-slate-200 font-mono text-xs text-slate-800 leading-relaxed whitespace-pre-wrap select-text max-h-[60vh]" id="raw-viewer-content">
+        Đang tải nội dung...
+      </div>
+      <div class="flex items-center justify-between pt-2 border-t border-slate-100 text-xs text-slate-500 flex-shrink-0">
+        <span id="raw-viewer-size">0 ký tự</span>
+        <button onclick="closeRawViewerModal()" class="px-4 py-1.5 bg-slate-200 hover:bg-slate-300 text-slate-700 rounded-lg text-xs font-medium transition">Đóng</button>
       </div>
     </div>
   </div>
@@ -831,6 +924,7 @@
 
       if (tabId === 'glossary') loadGlossary();
       if (tabId === 'novels') renderNovelsGrid();
+      if (tabId === 'scraper') loadRawFilesList();
     }
 
     // Initialize SSE (Server-Sent Events)
@@ -846,7 +940,12 @@
           } else if (msg.event === 'task_finished') {
             hideTaskBanner();
             loadNovelInfo();
+            loadRawFilesList();
           } else if (msg.event === 'novel_changed') {
+            loadNovelInfo();
+            loadRawFilesList();
+          } else if (msg.event === 'raw_files_updated') {
+            loadRawFilesList();
             loadNovelInfo();
           }
         } catch (err) {
@@ -926,6 +1025,14 @@
         document.getElementById('active-novel-title-tag').innerText = data.name;
         document.getElementById('active-novel-folder').innerText = data.folder;
         document.getElementById('dock-novel-badge').innerText = data.name;
+
+        if (document.getElementById('scraper-novel-name')) {
+          document.getElementById('scraper-novel-name').innerText = data.name;
+        }
+        if (document.getElementById('scraper-raw-path')) {
+          document.getElementById('scraper-raw-path').innerText = data.raw_dir || `${data.folder}\\raw`;
+        }
+        loadRawFilesList();
 
         document.getElementById('stat-raw-count').innerText = data.raw_count;
         document.getElementById('stat-raw-range').innerText = `Tập ${data.raw_min} - ${data.raw_max}`;
@@ -1037,11 +1144,143 @@
       fetch(`/api/open/external?target=folder&novel=${encodeURIComponent(n)}`);
     }
 
+    function openRawFolder(novelName) {
+      const n = novelName || activeNovel || '';
+      fetch(`/api/open/external?target=raw_folder&novel=${encodeURIComponent(n)}`);
+    }
+
+    function openFileInEditor(filePath) {
+      if (!filePath) return;
+      fetch(`/api/open/external?target=file&path=${encodeURIComponent(filePath)}`);
+    }
+
+    function locateFileInExplorer(filePath) {
+      if (!filePath) return;
+      fetch(`/api/open/external?target=locate_file&path=${encodeURIComponent(filePath)}`);
+    }
+
+    function escapeHtml(str) {
+      return (str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function escapeQuotes(str) {
+      return (str || '').replace(/\\/g, '\\\\').replace(/'/g, "\\'");
+    }
+
+    // ================= RAW FILES EXPLORER LOGIC =================
+    let currentRawFiles = [];
+    let currentViewingPath = '';
+
+    async function loadRawFilesList() {
+      const tbody = document.getElementById('raw-files-tbody');
+      const countBadge = document.getElementById('raw-files-count-badge');
+      if (!tbody) return;
+
+      try {
+        const res = await fetch(`/api/novel/raw-files?novel=${encodeURIComponent(activeNovel || '')}`);
+        const data = await res.json();
+        if (data.success) {
+          currentRawFiles = data.files || [];
+          if (countBadge) countBadge.innerText = `${data.total || 0} tập`;
+          renderRawFilesTable(currentRawFiles);
+        } else {
+          tbody.innerHTML = `<tr><td colspan="4" class="p-4 text-center text-rose-500">${data.error || 'Lỗi tải danh sách file'}</td></tr>`;
+        }
+      } catch (e) {
+        tbody.innerHTML = `<tr><td colspan="4" class="p-4 text-center text-rose-500">Lỗi kết nối: ${e.message}</td></tr>`;
+      }
+    }
+
+    function renderRawFilesTable(files) {
+      const tbody = document.getElementById('raw-files-tbody');
+      if (!tbody) return;
+
+      if (!files || files.length === 0) {
+        tbody.innerHTML = `
+          <tr>
+            <td colspan="4" class="p-6 text-center text-slate-400">
+              <div class="text-2xl mb-1">📭</div>
+              <div>Chưa có file raw nào trong thư mục <code class="font-mono text-indigo-600 bg-indigo-50 px-1 py-0.5 rounded">raw/</code> của bộ truyện này.</div>
+              <div class="text-[11px] text-slate-400 mt-1">Nhập mã Syosetu ở trên và bấm "Bắt Đầu Tải Raw Về Máy" để tải các chương.</div>
+            </td>
+          </tr>
+        `;
+        return;
+      }
+
+      tbody.innerHTML = files.map(f => `
+        <tr class="hover:bg-slate-50/80 transition group">
+          <td class="p-2.5 font-medium text-slate-800 flex items-center space-x-2">
+            <span class="text-amber-500 text-sm">📄</span>
+            <span class="font-mono text-xs break-all">${escapeHtml(f.filename)}</span>
+          </td>
+          <td class="p-2.5 text-slate-500 font-mono text-[11px]">${f.size_str}</td>
+          <td class="p-2.5 text-slate-400 font-mono text-[10px]">${f.modified}</td>
+          <td class="p-2.5 text-right space-x-1.5 whitespace-nowrap">
+            <button onclick="previewRawFile('${escapeQuotes(f.full_path)}', '${escapeQuotes(f.filename)}')" class="px-2.5 py-1 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded text-[11px] font-medium transition" title="Xem trước nội dung văn bản">
+              👁️ Xem
+            </button>
+            <button onclick="openFileInEditor('${escapeQuotes(f.full_path)}')" class="px-2.5 py-1 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded text-[11px] font-medium transition" title="Mở bằng Notepad">
+              📝 Notepad
+            </button>
+            <button onclick="locateFileInExplorer('${escapeQuotes(f.full_path)}')" class="px-2.5 py-1 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded text-[11px] font-medium transition" title="Mở và định vị file trong Windows Explorer">
+              📂 Explorer
+            </button>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    function filterRawFiles() {
+      const q = (document.getElementById('raw-search-input')?.value || '').toLowerCase().trim();
+      if (!q) {
+        renderRawFilesTable(currentRawFiles);
+        return;
+      }
+      const filtered = currentRawFiles.filter(f => f.filename.toLowerCase().includes(q));
+      renderRawFilesTable(filtered);
+    }
+
+    async function previewRawFile(filePath, filename) {
+      document.getElementById('raw-viewer-modal').classList.remove('hidden');
+      document.getElementById('raw-viewer-filename').innerText = filename;
+      document.getElementById('raw-viewer-path').innerText = filePath;
+      document.getElementById('raw-viewer-content').innerText = '⏳ Đang đọc nội dung file raw...';
+      document.getElementById('raw-viewer-size').innerText = 'Đang đọc...';
+      currentViewingPath = filePath;
+
+      try {
+        const res = await fetch(`/api/file/read?path=${encodeURIComponent(filePath)}`);
+        const data = await res.json();
+        if (data.success) {
+          document.getElementById('raw-viewer-content').innerText = data.content;
+          document.getElementById('raw-viewer-size').innerText = `${data.size.toLocaleString()} ký tự`;
+        } else {
+          document.getElementById('raw-viewer-content').innerText = `❌ Lỗi đọc file: ${data.error}`;
+        }
+      } catch (e) {
+        document.getElementById('raw-viewer-content').innerText = `❌ Lỗi kết nối: ${e.message}`;
+      }
+    }
+
+    function closeRawViewerModal() {
+      document.getElementById('raw-viewer-modal').classList.add('hidden');
+    }
+
+    function openCurrentViewingInNotepad() {
+      if (currentViewingPath) {
+        openFileInEditor(currentViewingPath);
+      }
+    }
+
     // ================= CREATE NOVEL MODAL LOGIC =================
     function openCreateNovelModal(initialName = "") {
       document.getElementById('create-novel-modal').classList.remove('hidden');
       const nameInput = document.getElementById('new-novel-name');
       const titleInput = document.getElementById('new-novel-title');
+      const msgBox = document.getElementById('create-novel-msg');
+      if (msgBox) msgBox.className = "hidden";
+
       nameInput.dataset.manualEdited = "";
       if (initialName) {
         titleInput.value = initialName;
@@ -1083,21 +1322,54 @@
       return str;
     }
 
+    function onSyosetuInputChanged() {
+      const q = document.getElementById('new-novel-syosetu').value.trim();
+      const folderInput = document.getElementById('new-novel-name');
+      const msgBox = document.getElementById('create-novel-msg');
+      if (msgBox) msgBox.className = "hidden";
+
+      if (!q) return;
+      const match = q.match(/syosetu\.com\/([a-z0-9]+)/i) || q.match(/^[a-z0-9]+/i);
+      if (match) {
+        const code = match[1] || match[0];
+        if (!folderInput.dataset.manualEdited || !folderInput.value) {
+          folderInput.value = code;
+        }
+      }
+    }
+
     function autoGenerateFolderName() {
       const title = document.getElementById('new-novel-title').value.trim();
+      const syosetu = document.getElementById('new-novel-syosetu').value.trim();
       const folderInput = document.getElementById('new-novel-name');
       if (!folderInput.dataset.manualEdited) {
-        const clean = removeVietnameseTones(title)
+        let clean = removeVietnameseTones(title)
           .replace(/[^a-zA-Z0-9_\s]/g, '')
           .trim()
           .replace(/\s+/g, '_');
-        folderInput.value = clean;
+        if (!clean && syosetu) {
+          const match = syosetu.match(/syosetu\.com\/([a-z0-9]+)/i) || syosetu.match(/^[a-z0-9]+/i);
+          if (match) clean = match[1] || match[0];
+        }
+        if (clean) {
+          folderInput.value = clean;
+        }
       }
     }
 
     async function autoFetchSyosetuForNewNovel() {
       const q = document.getElementById('new-novel-syosetu').value.trim();
-      if (!q) return alert("Vui lòng nhập mã Syosetu hoặc URL (VD: n4202ed)!");
+      const msgBox = document.getElementById('create-novel-msg');
+
+      if (!q) {
+        if (msgBox) {
+          msgBox.className = "block bg-amber-50 border border-amber-200 text-amber-700 text-xs rounded-lg p-2.5";
+          msgBox.innerHTML = "⚠️ Vui lòng nhập mã Syosetu hoặc URL (VD: n9293ik hoặc n4202ed)!";
+        } else {
+          alert("Vui lòng nhập mã Syosetu hoặc URL (VD: n9293ik)!");
+        }
+        return;
+      }
 
       const btn = document.getElementById('btn-fetch-syosetu-new');
       const oldHtml = btn.innerHTML;
@@ -1108,19 +1380,38 @@
         const res = await fetch(`/api/syosetu/info?query=${encodeURIComponent(q)}`);
         const data = await res.json();
         if (data.success) {
-          if (!document.getElementById('new-novel-title').value) {
-            document.getElementById('new-novel-title').value = data.title;
-            autoGenerateFolderName();
+          const titleInput = document.getElementById('new-novel-title');
+          const folderInput = document.getElementById('new-novel-name');
+          const authorInput = document.getElementById('new-novel-author');
+
+          if (!titleInput.value || titleInput.value.length < 2) {
+            titleInput.value = data.title;
           }
-          if (!document.getElementById('new-novel-author').value) {
-            document.getElementById('new-novel-author').value = data.author;
+          if (!folderInput.value) {
+            folderInput.value = data.code || 'Novel_' + Date.now().toString().slice(-4);
           }
-          alert(`Đã tìm thấy thông tin trên Syosetu:\n- Tiêu đề: ${data.title}\n- Tác giả: ${data.author}\n- Số tập: ${data.total_episodes}`);
+          if (!authorInput.value) {
+            authorInput.value = data.author;
+          }
+          autoGenerateFolderName();
+
+          if (msgBox) {
+            msgBox.className = "block bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs rounded-lg p-2.5";
+            msgBox.innerHTML = `✓ <b>Đã tìm thấy trên Syosetu:</b> ${data.title} (${data.total_episodes} tập) - Tác giả: ${data.author}`;
+          }
         } else {
-          alert(`Không thể lấy thông tin: ${data.error}`);
+          if (msgBox) {
+            msgBox.className = "block bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-lg p-2.5";
+            msgBox.innerHTML = `❌ Không thể lấy thông tin: ${data.error}`;
+          } else {
+            alert(`Không thể lấy thông tin: ${data.error}`);
+          }
         }
       } catch (e) {
-        alert(`Lỗi kết nối: ${e.message}`);
+        if (msgBox) {
+          msgBox.className = "block bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-lg p-2.5";
+          msgBox.innerHTML = `❌ Lỗi kết nối: ${e.message}`;
+        }
       } finally {
         btn.innerHTML = oldHtml;
         btn.disabled = false;
@@ -1128,16 +1419,37 @@
     }
 
     async function submitCreateNovel() {
-      const name = document.getElementById('new-novel-name').value.trim();
-      const title = document.getElementById('new-novel-title').value.trim();
+      let name = document.getElementById('new-novel-name').value.trim();
+      let title = document.getElementById('new-novel-title').value.trim();
       const syosetu_code = document.getElementById('new-novel-syosetu').value.trim();
       const author = document.getElementById('new-novel-author').value.trim();
       const tags = document.getElementById('new-novel-tags').value.trim();
       const description = document.getElementById('new-novel-desc').value.trim();
       const autoScrape = document.getElementById('new-novel-auto-scrape').checked;
 
-      if (!name) return alert("Vui lòng nhập tên thư mục dự án!");
-      if (!title) return alert("Vui lòng nhập tên hiển thị tiếng Việt của bộ truyện!");
+      const msgBox = document.getElementById('create-novel-msg');
+      if (msgBox) msgBox.className = "hidden";
+
+      // Auto-fallback from Syosetu code if empty
+      if (!name && syosetu_code) {
+        const m = syosetu_code.match(/syosetu\.com\/([a-z0-9]+)/i) || syosetu_code.match(/^[a-z0-9]+/i);
+        name = m ? (m[1] || m[0]) : syosetu_code;
+        document.getElementById('new-novel-name').value = name;
+      }
+      if (!title) {
+        title = name || syosetu_code;
+        if (title) document.getElementById('new-novel-title').value = title;
+      }
+
+      if (!name && !title && !syosetu_code) {
+        if (msgBox) {
+          msgBox.className = "block bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-lg p-2.5";
+          msgBox.innerHTML = "⚠️ Vui lòng nhập Tên bộ truyện hoặc Mã Syosetu!";
+        } else {
+          alert("Vui lòng nhập Tên bộ truyện hoặc Mã Syosetu!");
+        }
+        return;
+      }
 
       const btn = document.getElementById('btn-submit-create-novel');
       btn.disabled = true;
@@ -1154,20 +1466,29 @@
           closeCreateNovelModal();
           activeNovel = data.novel;
           await loadNovels();
-          appendLog(`🎉 Đã tạo thành công bộ truyện mới: ${data.title} (${data.novel})!`, 'success');
+          appendLog(`🎉 Đã kích hoạt dự án bộ truyện: ${data.title} (${data.novel})!`, 'success');
 
-          if (autoScrape && syosetu_code) {
-            document.getElementById('scrape-query').value = syosetu_code;
-            fetchSyosetuInfo();
+          if (autoScrape && (syosetu_code || data.syosetu_code)) {
+            const code = syosetu_code || data.syosetu_code;
+            document.getElementById('scrape-query').value = code;
             switchTab('scraper');
+            fetchSyosetuInfo();
           } else {
             switchTab('agent');
           }
         } else {
-          alert(`Lỗi tạo truyện: ${data.error}`);
+          if (msgBox) {
+            msgBox.className = "block bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-lg p-2.5";
+            msgBox.innerHTML = `❌ Lỗi: ${data.error}`;
+          } else {
+            alert(`Lỗi tạo truyện: ${data.error}`);
+          }
         }
       } catch (e) {
-        alert(`Lỗi hệ thống: ${e.message}`);
+        if (msgBox) {
+          msgBox.className = "block bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-lg p-2.5";
+          msgBox.innerHTML = `❌ Lỗi hệ thống: ${e.message}`;
+        }
       } finally {
         btn.disabled = false;
         btn.innerHTML = '<span>🚀</span><span>Khởi Tạo Dự Án</span>';
