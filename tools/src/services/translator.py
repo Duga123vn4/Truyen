@@ -102,35 +102,64 @@ async def translate_chapter(
             sys_prompt = build_translation_system_prompt(novel, raw_text, glossary_mode)
             user_prompt = f"Dưới đây là nội dung chương {chapter_num} (raw) cần dịch sang tiếng Việt:\n\n{raw_text}"
 
-            for attempt in range(2):
-                translated = await ai.generate(
-                    sys_prompt,
-                    user_prompt,
-                    temperature=0.3,
-                    chapter_title=f"Tập {chapter_num}",
-                    chapter_ep=chapter_num
-                )
-                if not translated:
-                    await asyncio.sleep(1.5)
-                    continue
+            # 1. Thử dịch toàn bộ chương (chuẩn)
+            translated = await ai.generate(
+                sys_prompt,
+                user_prompt,
+                temperature=0.3,
+                chapter_title=f"Tập {chapter_num}",
+                chapter_ep=chapter_num
+            )
 
-                translated = translated.strip()
-                translated = re.sub(r'^(?:dưới đây là|đây là bản|bản dịch)[^\n]*\n+', '', translated, flags=re.IGNORECASE).strip()
-                
-                # Lưu file dịch chuẩn markdown với slug tiếng Việt
-                out_name = make_translated_filename(chapter_num, raw_path, translated)
-                out_path = novel.translated_dir / out_name
-                out_path.write_text(translated, encoding="utf-8")
+            # 2. Nếu AI chặn Safety Filter (như các cảnh tiệc tùng/nhạy cảm ở tập 447), kích hoạt Smart Chunking
+            if not translated or len(translated.strip()) < 100:
+                lines = raw_text.splitlines()
+                num_lines = len(lines)
+                if num_lines >= 20:
+                    for num_splits in [2, 3]:
+                        chunk_size = (num_lines + num_splits - 1) // num_splits
+                        parts = []
+                        all_ok = True
+                        for i in range(num_splits):
+                            chunk_lines = lines[i * chunk_size : (i + 1) * chunk_size]
+                            if not chunk_lines:
+                                continue
+                            chunk_text = "\n".join(chunk_lines)
+                            part_prompt = f"Dịch trích đoạn {i+1}/{num_splits} của chương {chapter_num} sang tiếng Việt:\n\n{chunk_text}"
+                            part_trans = await ai.generate(
+                                sys_prompt,
+                                part_prompt,
+                                temperature=0.3,
+                                chapter_title=f"Tập {chapter_num} (P{i+1})",
+                                chapter_ep=chapter_num
+                            )
+                            if not part_trans or len(part_trans.strip()) < 20:
+                                all_ok = False
+                                break
+                            parts.append(part_trans.strip())
+                        
+                        if all_ok and parts:
+                            translated = "\n\n".join(parts)
+                            break
 
-                # Dọn dẹp file .txt cũ nếu có
-                old_raw_txt = novel.translated_dir / f"chuong_{chapter_num}_raw.txt"
-                if old_raw_txt.exists():
-                    try: old_raw_txt.unlink()
-                    except Exception: pass
+            if not translated or len(translated.strip()) < 50:
+                return (False, chapter_num, raw_path, "Không nhận được bản dịch hợp lệ từ AI (Bị chặn bộ lọc an toàn)")
 
-                return (True, chapter_num, out_path, f"Dịch thành công ({len(translated)} ký tự)")
+            translated = translated.strip()
+            translated = re.sub(r'^(?:dưới đây là|đây là bản|bản dịch)[^\n]*\n+', '', translated, flags=re.IGNORECASE).strip()
+            
+            # Lưu file dịch chuẩn markdown với slug tiếng Việt
+            out_name = make_translated_filename(chapter_num, raw_path, translated)
+            out_path = novel.translated_dir / out_name
+            out_path.write_text(translated, encoding="utf-8")
 
-            return (False, chapter_num, raw_path, "Không nhận được bản dịch hợp lệ từ AI")
+            # Dọn dẹp file .txt cũ nếu có
+            old_raw_txt = novel.translated_dir / f"chuong_{chapter_num}_raw.txt"
+            if old_raw_txt.exists():
+                try: old_raw_txt.unlink()
+                except Exception: pass
+
+            return (True, chapter_num, out_path, f"Dịch thành công ({len(translated)} ký tự)")
         except Exception as e:
             return (False, chapter_num, raw_path, str(e))
 
