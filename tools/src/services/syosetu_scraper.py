@@ -23,8 +23,10 @@ SCRAPER_HEADERS = {
 
 def clean_filename(name: str) -> str:
     """Làm sạch tên file/thư mục hợp lệ trên Windows."""
-    name = re.sub(r'[\\/*?:"<>|]', '', name)
+    name = re.sub(r'[\\/*?:"<>|\r\n\t]', '', name)
     name = name.strip().replace(' ', '_')
+    if len(name) > 60:
+        name = name[:60].rstrip('._')
     return name or "Novel_Raw"
 
 def extract_novel_code(input_str: str) -> str:
@@ -66,30 +68,45 @@ class SyosetuNovel:
                         author_el = soup.select_one(".p-novel__author, .novel_writername")
                         if author_el:
                             self.author = author_el.get_text(strip=True)
-                        synopsis_el = soup.select_one("#novel_ex")
+                        synopsis_el = soup.select_one("#novel_ex, .p-novel__summary, .p-novel__description")
                         if synopsis_el:
                             self.synopsis = synopsis_el.get_text(strip=True)
 
-                    links = soup.select("a.p-novel__item-title, .subtitle a, dd.subtitle a")
-                    if not links:
-                        break
-
-                    for a in links:
-                        href = a.get("href", "")
+                    page_found = False
+                    # Extract episode links (supporting both new Syosetu layout: a.p-eplist__subtitle and legacy)
+                    for a in soup.find_all("a", href=True):
+                        href = a["href"]
                         m = re.search(rf'/{self.novel_code}/(\d+)/', href)
                         if m:
                             ep_num = int(m.group(1))
                             ep_title = a.get_text(strip=True)
-                            self.episodes.append({
-                                "ep": ep_num,
-                                "title": ep_title,
-                                "url": f"https://ncode.syosetu.com/{self.novel_code}/{ep_num}/"
-                            })
+                            if not any(e["ep"] == ep_num for e in self.episodes):
+                                self.episodes.append({
+                                    "ep": ep_num,
+                                    "title": ep_title or f"Tập {ep_num}",
+                                    "url": f"https://ncode.syosetu.com/{self.novel_code}/{ep_num}/"
+                                })
+                                page_found = True
 
-                    next_link = soup.select_one(".c-pager__item--next, a[rel='next']")
+                    # Fallback for short stories (短編) that have no episode list
+                    if page == 1 and not self.episodes:
+                        body_el = soup.select_one(".p-novel__body, #novel_honbun, .js-novel-text")
+                        if body_el:
+                            self.episodes.append({
+                                "ep": 1,
+                                "title": self.title or "Toàn văn",
+                                "url": self.base_url
+                            })
+                            break
+
+                    if not page_found:
+                        break
+
+                    next_link = soup.select_one(".c-pager__item--next, a[rel='next'], a.c-pager__next")
                     if not next_link:
                         break
                     page += 1
+                    await asyncio.sleep(0.2)
                 except Exception as e:
                     console.print(f"[yellow]⚠️ Lỗi khi tải trang {page}: {e}[/yellow]")
                     break
@@ -98,15 +115,27 @@ class SyosetuNovel:
 
     async def fetch_chapter_content(self, client: httpx.AsyncClient, ep_num: int) -> Optional[str]:
         """Tải toàn bộ nội dung thô của một chương."""
-        url = f"https://ncode.syosetu.com/{self.novel_code}/{ep_num}/"
+        url = None
+        for ep in self.episodes:
+            if ep.get("ep") == ep_num:
+                url = ep.get("url")
+                break
+        if not url:
+            url = f"https://ncode.syosetu.com/{self.novel_code}/{ep_num}/"
+
         try:
             res = await client.get(url, headers=SCRAPER_HEADERS, timeout=15.0)
             if res.status_code == 200:
                 soup = BeautifulSoup(res.text, "html.parser")
-                body = soup.select_one("#novel_honbun")
+                body = soup.select_one(".p-novel__body, #novel_honbun, .js-novel-text")
                 if body:
-                    # Chuyển thẻ p thành dòng text
-                    lines = [p.get_text() for p in body.find_all(["p", "div"])]
+                    p_tags = body.find_all("p")
+                    if p_tags:
+                        lines = [p.get_text() for p in p_tags]
+                    else:
+                        lines = [p.get_text() for p in body.find_all(["p", "div"])]
+                    if not lines:
+                        lines = body.get_text().splitlines()
                     return "\n".join(lines).strip()
         except Exception:
             pass

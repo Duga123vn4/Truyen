@@ -113,7 +113,7 @@ async def sse_handler(request: web.Request) -> web.StreamResponse:
         while True:
             data = await q.get()
             await response.write(f"data: {data}\n\n".encode('utf-8'))
-    except asyncio.CancelledError:
+    except (asyncio.CancelledError, ConnectionResetError, Exception):
         pass
     finally:
         state.sse_queues.discard(q)
@@ -439,6 +439,8 @@ async def syosetu_scrape(request: web.Request) -> web.Response:
                         if content:
                             fpath.write_text(f"# {item['title']}\n\n{content}", encoding="utf-8")
                             await state.log(f"✓ Đã tải Tập {ep}: {item['title']}", "success")
+                        else:
+                            await state.log(f"⚠️ Không thể tải nội dung Tập {ep}", "warning")
                     else:
                         await state.log(f"⏩ Tập {ep} đã tồn tại trong raw/, bỏ qua.", "info")
 
