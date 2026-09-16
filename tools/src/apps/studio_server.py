@@ -630,7 +630,7 @@ async def syosetu_info(request: web.Request) -> web.Response:
     url_or_code = request.query.get("query", "").strip()
     code = extract_novel_code(url_or_code)
     if not code:
-        return web.json_response({"success": False, "error": "Mã truyện hoặc URL không hợp lệ"}, status=400)
+        return web.json_response({"success": False, "error": "Mã truyện hoặc URL không hợp lệ. Ví dụ: n1132dk hoặc https://ncode.syosetu.com/n1132dk/"}, status=400)
 
     try:
         syosetu = SyosetuNovel(code)
@@ -638,17 +638,35 @@ async def syosetu_info(request: web.Request) -> web.Response:
         async with httpx.AsyncClient(timeout=15.0) as client:
             ok = await syosetu.fetch_novel_info_and_toc(client)
             if not ok:
-                return web.json_response({"success": False, "error": "Không thể lấy thông tin từ Syosetu"}, status=500)
+                return web.json_response({"success": False, "error": f"Không tìm thấy truyện với mã '{code}' trên Syosetu (Lỗi 404 hoặc mạng). Vui lòng kiểm tra lại URL!"}, status=404)
+
+            # Lấy danh sách số tập raw đang có trong máy của bộ truyện hiện tại
+            local_eps = set()
+            if state.active_novel:
+                raws = state.active_novel.list_raw_chapters()
+                local_eps = {ep for ep, _ in raws}
+
+            total_eps = len(syosetu.episodes)
+            all_syosetu_eps = [item["ep"] for item in syosetu.episodes]
+            missing_eps = [ep for ep in all_syosetu_eps if ep not in local_eps]
+
+            missing_start = missing_eps[0] if missing_eps else (total_eps + 1 if total_eps > 0 else 1)
+            missing_end = missing_eps[-1] if missing_eps else (total_eps if total_eps > 0 else 1)
 
             return web.json_response({
                 "success": True,
                 "code": code,
                 "title": syosetu.title,
                 "author": syosetu.author,
-                "total_episodes": len(syosetu.episodes)
+                "total_episodes": total_eps,
+                "local_count": len(local_eps),
+                "missing_count": len(missing_eps),
+                "missing_start": missing_start,
+                "missing_end": missing_end,
+                "missing_eps": missing_eps[:20]
             })
     except Exception as e:
-        return web.json_response({"success": False, "error": str(e)}, status=500)
+        return web.json_response({"success": False, "error": f"Lỗi truy vấn Syosetu: {str(e)}"}, status=500)
 
 async def syosetu_scrape(request: web.Request) -> web.Response:
     if state.is_task_running:
@@ -789,6 +807,16 @@ async def start_translation(request: web.Request) -> web.Response:
 
             await state.log(f"🎉 Hoàn tất dịch thuật {done_count}/{total} tập!", "success")
             if done_count > 0:
+                # 1. Tự động Auto-Sync Glossary trích xuất thực thể mới từ các chương vừa dịch
+                try:
+                    from tools.src.services.glossary_miner import auto_sync_glossary_from_translated
+                    synced_count = auto_sync_glossary_from_translated(novel)
+                    if synced_count > 0:
+                        await state.log(f"🔍 Tự động phát hiện và bổ sung {synced_count} thực thể Glossary mới vào từ điển terms.md!", "success")
+                except Exception as sync_err:
+                    await state.log(f"⚠️ Lỗi Auto-Sync Glossary tự động: {sync_err}", "warn")
+
+                # 2. Tự động đóng gói Web Đọc Truyện
                 try:
                     act_name = novel.name if novel else None
                     b_res = build_web_chapters(act_name)
@@ -1135,11 +1163,20 @@ async def upload_translated_chapters(request: web.Request) -> web.Response:
         if not saved_files:
             return web.json_response({"success": False, "error": "Không tìm thấy file .md, .txt hay .docx hợp lệ nào được tải lên"}, status=400)
 
-        # Trigger auto build web chapters
+        # Trigger auto build web chapters & push to GitHub Pages
         try:
             build_web_chapters(state.active_novel.name)
+            # Remove stale lock if present
+            lock_file = WORKSPACE_DIR / ".git" / "index.lock"
+            if lock_file.exists():
+                try: lock_file.unlink()
+                except Exception: pass
+            subprocess.run(["git", "add", "-A"], cwd=str(WORKSPACE_DIR), capture_output=True)
+            now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            subprocess.run(["git", "commit", "-m", f"Novel Studio: Upload {len(saved_files)} tập mới [{now_str}]"], cwd=str(WORKSPACE_DIR), capture_output=True)
+            subprocess.run(["git", "push", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True)
         except Exception as e:
-            await state.log(f"⚠️ Đã lưu file nhưng gặp lỗi đóng gói Web: {e}", "warn")
+            await state.log(f"⚠️ Đã lưu file nhưng gặp lỗi đồng bộ Git: {e}", "warn")
 
         await state.log(f"📥 Đã tải lên thành công {len(saved_files)} tập bản dịch vào '{state.active_novel.name}' và tự động đóng gói lên Web Đọc!", "success")
         await state.broadcast("raw_files_updated", {})
@@ -1161,7 +1198,28 @@ async def sync_web(request: web.Request) -> web.Response:
         await state.log("⚡ Đang quét và đóng gói toàn bộ chương mới vào Web Đọc Truyện...", "info")
         res = build_web_chapters(active_name)
         if res.get("success"):
-            msg = f"Đã đóng gói thành công {res.get('active_chapters')} chương của '{res.get('active_novel')}' vào Web Đọc Truyện!"
+            # Tự động đẩy Git lên GitHub Pages để web online (duga123vn4.github.io) cập nhật ngay
+            await state.log("☁️ Đang đồng bộ và đẩy chương mới lên GitHub Pages...", "info")
+            try:
+                lock_file = WORKSPACE_DIR / ".git" / "index.lock"
+                if lock_file.exists():
+                    try: lock_file.unlink()
+                    except Exception: pass
+
+                subprocess.run(["git", "add", "-A"], cwd=str(WORKSPACE_DIR), capture_output=True)
+                now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                subprocess.run(["git", "commit", "-m", f"Cập nhật chương mới & Web [{now_str}]"], cwd=str(WORKSPACE_DIR), capture_output=True)
+                push_res = subprocess.run(["git", "push", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True, text=True)
+                if push_res.returncode == 0:
+                    await state.log("✅ Đã đẩy thành công chương mới lên GitHub Pages (duga123vn4.github.io)!", "success")
+                else:
+                    subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True)
+                    subprocess.run(["git", "push", "origin", "main"], cwd=str(WORKSPACE_DIR), capture_output=True)
+                    await state.log("✅ Đã đồng bộ thành công lên GitHub Pages!", "success")
+            except Exception as e_git:
+                await state.log(f"⚠️ Lỗi đẩy Git tự động: {e_git}", "warn")
+
+            msg = f"Đã đóng gói thành công {res.get('active_chapters')} chương của '{res.get('active_novel')}' vào Web Đọc Truyện Online!"
             await state.log(f"✅ {msg}", "success")
             return web.json_response({"success": True, "message": msg, "data": res})
         else:
@@ -1204,6 +1262,79 @@ async def git_sync(request: web.Request) -> web.Response:
                 return web.json_response({"success": False, "error": err_msg}, status=500)
     except Exception as e:
         await state.log(f"❌ Lỗi Git Sync: {e}", "error")
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
+# ----------------- TELEMETRY LOGS API -----------------
+async def get_telemetry_logs(request: web.Request) -> web.Response:
+    """Trả về nhật ký sử dụng API, token count, chi phí và thuật ngữ mới theo từng chương."""
+    try:
+        log_file = WEB_DIR / "api_usage_log.json"
+        logs = []
+        if log_file.exists():
+            try:
+                with open(log_file, "r", encoding="utf-8") as f:
+                    logs = json.load(f)
+            except Exception:
+                logs = []
+
+        active_novel = state.active_novel
+        chapter_terms_map = {}
+
+        if active_novel and active_novel.translated_dir.exists():
+            for ep, fpath in active_novel.list_translated_chapters():
+                try:
+                    text = fpath.read_text(encoding="utf-8")
+                    matches = re.findall(r'『([^』]+)』', text)
+                    clean_matches = []
+                    for m in matches:
+                        m_str = m.strip()
+                        if 2 <= len(m_str) <= 40 and m_str not in clean_matches:
+                            clean_matches.append(f"『{m_str}』")
+                    if clean_matches:
+                        chapter_terms_map[ep] = clean_matches
+                except Exception:
+                    pass
+
+        enriched_logs = []
+        total_input = 0
+        total_output = 0
+        total_cache = 0
+        total_cost = 0.0
+        all_unique_terms = set()
+
+        for item in logs:
+            ep = item.get("chapter_ep", 0)
+            if not ep and item.get("chapter_title"):
+                m = re.search(r'\d+', str(item.get("chapter_title")))
+                if m:
+                    ep = int(m.group(0))
+
+            terms = chapter_terms_map.get(ep, [])
+            for t in terms:
+                all_unique_terms.add(t)
+
+            total_input += item.get("input_tokens", 0)
+            total_output += item.get("output_tokens", 0)
+            total_cache += item.get("cache_tokens", 0)
+            total_cost += item.get("cost", 0.0)
+
+            item_copy = dict(item)
+            item_copy["terms"] = terms
+            enriched_logs.append(item_copy)
+
+        return web.json_response({
+            "success": True,
+            "summary": {
+                "total_input": total_input,
+                "total_output": total_output,
+                "total_cache": total_cache,
+                "total_cost": round(total_cost, 5),
+                "total_requests": len(enriched_logs),
+                "total_terms": len(all_unique_terms),
+            },
+            "logs": enriched_logs
+        })
+    except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
 # ----------------- HTML APP ROUTE -----------------
@@ -1281,6 +1412,8 @@ def make_app() -> web.Application:
     app.router.add_post("/api/art/generate", generate_art)
     app.router.add_post("/api/web/sync", sync_web)
     app.router.add_post("/api/git/sync", git_sync)
+
+    app.router.add_get("/api/logs/telemetry", get_telemetry_logs)
 
     # Static routes
     app.router.add_static("/web", WEB_DIR, show_index=False)

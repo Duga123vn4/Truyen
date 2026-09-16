@@ -323,26 +323,45 @@
               <div>
                 <label class="block text-xs font-medium text-slate-700 mb-1">Mã Truyện Syosetu hoặc URL</label>
                 <div class="flex space-x-2">
-                  <input type="text" id="scrape-query" placeholder="Ví dụ: n1234xx hoặc https://ncode.syosetu.com/n1234xx/" class="flex-1 px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
-                  <button onclick="fetchSyosetuInfo()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg transition">Quét Thông Tin</button>
+                  <input type="text" id="scrape-query" placeholder="Ví dụ: n1132dk hoặc https://ncode.syosetu.com/n1132dk/" class="flex-1 px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <button id="btn-fetch-syosetu" onclick="fetchSyosetuInfo()" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-medium rounded-lg transition flex items-center space-x-1">
+                    <span>🔍</span>
+                    <span>Quét Thông Tin</span>
+                  </button>
                 </div>
               </div>
 
               <!-- Syosetu Info Card -->
-              <div id="syosetu-info-card" class="hidden bg-slate-50 border border-slate-200 rounded-lg p-3 text-xs space-y-1.5">
-                <div class="font-bold text-slate-800" id="syosetu-title">Tên truyện: ...</div>
+              <div id="syosetu-info-card" class="hidden bg-indigo-50/60 border border-indigo-200 rounded-xl p-3.5 text-xs space-y-2">
+                <div class="font-bold text-slate-800 text-sm flex items-center justify-between" id="syosetu-title">
+                  <span>Tên truyện: ...</span>
+                </div>
                 <div class="text-slate-600" id="syosetu-author">Tác giả: ...</div>
-                <div class="text-slate-600" id="syosetu-total">Tổng số tập: ...</div>
+                
+                <div class="grid grid-cols-3 gap-2 pt-1 font-mono text-[11px]">
+                  <div class="bg-white p-2 rounded-lg border border-slate-200"><span class="text-slate-500 font-sans">Tổng Syosetu:</span> <span id="syosetu-total-eps" class="font-bold text-slate-800">0 tập</span></div>
+                  <div class="bg-white p-2 rounded-lg border border-slate-200"><span class="text-slate-500 font-sans">Đã có trong máy:</span> <span id="syosetu-local-eps" class="font-bold text-emerald-600">0 tập</span></div>
+                  <div class="bg-white p-2 rounded-lg border border-amber-200 bg-amber-50/60"><span class="text-slate-500 font-sans">Chưa có (Cần cào):</span> <span id="syosetu-missing-eps" class="font-bold text-amber-600">0 tập</span></div>
+                </div>
+
+                <div id="syosetu-missing-banner" class="hidden pt-1">
+                  <button type="button" onclick="autoFillMissingRange()" class="w-full py-1.5 px-3 bg-amber-500 hover:bg-amber-600 text-white rounded-lg font-semibold text-xs transition flex items-center justify-center space-x-1.5 shadow-xs cursor-pointer">
+                    <span>⚡</span>
+                    <span id="syosetu-missing-btn-text">Chọn nhanh các tập chưa có</span>
+                  </button>
+                </div>
               </div>
 
-              <div class="grid grid-cols-2 gap-3 pt-2">
+              <div id="syosetu-error-msg" class="hidden bg-rose-50 border border-rose-200 text-rose-700 text-xs rounded-xl p-3"></div>
+
+              <div class="grid grid-cols-2 gap-3 pt-1">
                 <div>
                   <label class="block text-xs font-medium text-slate-700 mb-1">Từ tập</label>
-                  <input type="number" id="scrape-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <input type="number" id="scrape-start" value="1" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
                 </div>
                 <div>
                   <label class="block text-xs font-medium text-slate-700 mb-1">Đến tập</label>
-                  <input type="number" id="scrape-end" value="10" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500">
+                  <input type="number" id="scrape-end" value="10" class="w-full px-3 py-2 text-xs border border-slate-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-indigo-500 bg-white">
                 </div>
               </div>
 
@@ -871,18 +890,113 @@
           </div>
         </div>
 
-        <!-- ================= TAB 9: LOGS ================= -->
-        <div id="tab-logs" class="tab-panel hidden space-y-4 max-w-4xl mx-auto">
-          <div class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-3">
+        <!-- ================= TAB 9: LOGS & TELEMETRY ================= -->
+        <div id="tab-logs" class="tab-panel hidden space-y-4 max-w-5xl mx-auto">
+          <!-- Sub-Tab Header Navigation -->
+          <div class="flex items-center justify-between border-b border-slate-200 pb-2">
+            <div class="flex items-center space-x-2">
+              <button id="subtab-btn-console" onclick="switchLogSubTab('console')" class="log-subtab-btn active px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white shadow-sm transition">
+                🖥️ Nhật Ký Hệ Thống
+              </button>
+              <button id="subtab-btn-telemetry" onclick="switchLogSubTab('telemetry')" class="log-subtab-btn px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-600 hover:bg-slate-200 transition">
+                📊 Nhật Ký Token & Thuật Ngữ
+              </button>
+            </div>
+            <div class="flex items-center space-x-2">
+              <button id="btn-clear-console-log" onclick="clearLogs()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs rounded-lg border border-slate-200 font-medium transition">
+                🗑️ Xóa Console
+              </button>
+              <button id="btn-refresh-telemetry" onclick="loadTelemetryLogs()" class="hidden px-3 py-1.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 text-xs rounded-lg border border-indigo-200 font-medium transition flex items-center space-x-1">
+                <span>🔄</span> <span>Làm Mới Data</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- SUB-PANEL 1: CONSOLE LOG -->
+          <div id="log-subpanel-console" class="bg-white border border-slate-200 rounded-xl p-5 shadow-sm space-y-3">
             <div class="flex items-center justify-between">
               <div>
-                <h2 class="text-base font-bold text-slate-800">📝 Toàn Bộ Nhật Ký Hệ Thống</h2>
-                <p class="text-xs text-slate-500">Lịch sử sự kiện, tiến trình dịch và thông báo lỗi</p>
+                <h2 class="text-base font-bold text-slate-800">📝 Realtime Console Logs</h2>
+                <p class="text-xs text-slate-500">Lịch sử sự kiện, tiến trình dịch thuật và thông báo từ máy chủ</p>
               </div>
-              <button onclick="clearLogs()" class="px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 text-xs rounded border border-slate-200">Xóa Nhật Ký</button>
             </div>
             <div id="full-console" class="bg-slate-900 text-slate-200 text-xs font-mono p-4 rounded-lg h-[500px] overflow-y-auto space-y-1">
               <div class="text-slate-500">[System] Khởi tạo nhật ký hệ thống...</div>
+            </div>
+          </div>
+
+          <!-- SUB-PANEL 2: TELEMETRY & TOKEN LOG -->
+          <div id="log-subpanel-telemetry" class="hidden space-y-4">
+            <!-- Stats Cards Row -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+              <div class="bg-white border border-slate-200 rounded-xl p-3.5 shadow-sm flex items-center space-x-3">
+                <div class="w-9 h-9 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center text-lg flex-shrink-0">📥</div>
+                <div>
+                  <div class="text-[11px] font-medium text-slate-500">Input Tokens</div>
+                  <div id="stat-input-tokens" class="text-base font-bold text-slate-800 font-mono">0</div>
+                </div>
+              </div>
+
+              <div class="bg-white border border-slate-200 rounded-xl p-3.5 shadow-sm flex items-center space-x-3">
+                <div class="w-9 h-9 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center text-lg flex-shrink-0">📤</div>
+                <div>
+                  <div class="text-[11px] font-medium text-slate-500">Output Tokens</div>
+                  <div id="stat-output-tokens" class="text-base font-bold text-slate-800 font-mono">0</div>
+                </div>
+              </div>
+
+              <div class="bg-white border border-slate-200 rounded-xl p-3.5 shadow-sm flex items-center space-x-3">
+                <div class="w-9 h-9 rounded-lg bg-amber-50 text-amber-600 flex items-center justify-center text-lg flex-shrink-0">💰</div>
+                <div>
+                  <div class="text-[11px] font-medium text-slate-500">Chi Phí Ước Tính</div>
+                  <div id="stat-total-cost" class="text-base font-bold text-slate-800 font-mono">$0.00</div>
+                </div>
+              </div>
+
+              <div class="bg-white border border-slate-200 rounded-xl p-3.5 shadow-sm flex items-center space-x-3">
+                <div class="w-9 h-9 rounded-lg bg-purple-50 text-purple-600 flex items-center justify-center text-lg flex-shrink-0">🏷️</div>
+                <div>
+                  <div class="text-[11px] font-medium text-slate-500">Thuật Ngữ Mới</div>
+                  <div id="stat-total-terms" class="text-base font-bold text-slate-800 font-mono">0</div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Telemetry Table Card -->
+            <div class="bg-white border border-slate-200 rounded-xl p-4 shadow-sm space-y-3">
+              <div class="flex items-center justify-between flex-wrap gap-2">
+                <div>
+                  <h3 class="text-sm font-bold text-slate-800">📊 Chi Tiết Token & Thuật Ngữ Theo Chương</h3>
+                  <p class="text-[11px] text-slate-500">Danh sách các yêu cầu dịch thuật, thống kê token và thuật ngữ 『...』 tương ứng</p>
+                </div>
+                <div class="flex items-center space-x-2">
+                  <input type="text" id="telemetry-search" oninput="filterTelemetryLogs()" placeholder="🔍 Tìm chương, model, từ..." class="px-2.5 py-1 text-xs border border-slate-200 rounded-lg focus:outline-none focus:border-indigo-400 w-48">
+                </div>
+              </div>
+
+              <!-- Table Container -->
+              <div class="overflow-x-auto border border-slate-200 rounded-lg max-h-[460px] overflow-y-auto">
+                <table class="w-full text-left text-xs border-collapse">
+                  <thead class="bg-slate-50 text-slate-600 font-semibold sticky top-0 z-10 border-b border-slate-200">
+                    <tr>
+                      <th class="p-2.5">Thời Gian</th>
+                      <th class="p-2.5">Chương / Mục</th>
+                      <th class="p-2.5">Model AI</th>
+                      <th class="p-2.5 text-right">Input Token</th>
+                      <th class="p-2.5 text-right">Output Token</th>
+                      <th class="p-2.5 text-right">Cache</th>
+                      <th class="p-2.5 text-right">Chi Phí</th>
+                      <th class="p-2.5 text-right">Thời Gian</th>
+                      <th class="p-2.5">Thuật Ngữ Mới Phát Hiện</th>
+                    </tr>
+                  </thead>
+                  <tbody id="telemetry-table-body" class="divide-y divide-slate-100 text-slate-700">
+                    <tr>
+                      <td colspan="9" class="p-4 text-center text-slate-400">Đang tải nhật ký token...</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
             </div>
           </div>
         </div>
@@ -1180,6 +1294,7 @@
       if (tabId === 'scraper') loadRawFilesList();
       if (tabId === 'translate') loadTransRawList();
       if (tabId === 'settings') loadSettings();
+      if (tabId === 'logs') loadTelemetryLogs();
     }
 
     // Initialize SSE (Server-Sent Events)
@@ -1236,6 +1351,125 @@
     function clearLogs() {
       document.getElementById('live-console').innerHTML = '';
       document.getElementById('full-console').innerHTML = '';
+    }
+
+    // ----------------- LOGS SUB-TABS & TELEMETRY -----------------
+    let currentLogSubTab = 'console';
+    window.allTelemetryLogs = [];
+
+    function switchLogSubTab(sub) {
+      currentLogSubTab = sub;
+      const btnConsole = document.getElementById('subtab-btn-console');
+      const btnTelemetry = document.getElementById('subtab-btn-telemetry');
+      const panelConsole = document.getElementById('log-subpanel-console');
+      const panelTelemetry = document.getElementById('log-subpanel-telemetry');
+      const btnClearConsole = document.getElementById('btn-clear-console-log');
+      const btnRefreshTelemetry = document.getElementById('btn-refresh-telemetry');
+
+      if (sub === 'console') {
+        if (btnConsole) btnConsole.className = 'log-subtab-btn active px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white shadow-sm transition';
+        if (btnTelemetry) btnTelemetry.className = 'log-subtab-btn px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-600 hover:bg-slate-200 transition';
+        if (panelConsole) panelConsole.classList.remove('hidden');
+        if (panelTelemetry) panelTelemetry.classList.add('hidden');
+        if (btnClearConsole) btnClearConsole.classList.remove('hidden');
+        if (btnRefreshTelemetry) btnRefreshTelemetry.classList.add('hidden');
+      } else {
+        if (btnTelemetry) btnTelemetry.className = 'log-subtab-btn active px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-indigo-600 text-white shadow-sm transition';
+        if (btnConsole) btnConsole.className = 'log-subtab-btn px-3.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-600 hover:bg-slate-200 transition';
+        if (panelTelemetry) panelTelemetry.classList.remove('hidden');
+        if (panelConsole) panelConsole.classList.add('hidden');
+        if (btnClearConsole) btnClearConsole.classList.add('hidden');
+        if (btnRefreshTelemetry) btnRefreshTelemetry.classList.remove('hidden');
+        loadTelemetryLogs();
+      }
+    }
+
+    async function loadTelemetryLogs() {
+      const tbody = document.getElementById('telemetry-table-body');
+      if (!tbody) return;
+
+      try {
+        const res = await fetch('/api/logs/telemetry');
+        const data = await res.json();
+        if (data.success) {
+          window.allTelemetryLogs = data.logs || [];
+          const s = data.summary || {};
+
+          document.getElementById('stat-input-tokens').innerText = (s.total_input || 0).toLocaleString();
+          document.getElementById('stat-output-tokens').innerText = (s.total_output || 0).toLocaleString();
+          document.getElementById('stat-total-cost').innerText = `$${(s.total_cost || 0).toFixed(4)}`;
+          document.getElementById('stat-total-terms').innerText = (s.total_terms || 0).toLocaleString();
+
+          renderTelemetryTable(window.allTelemetryLogs);
+        } else {
+          tbody.innerHTML = `<tr><td colspan="9" class="p-4 text-center text-rose-500 font-medium">Lỗi nạp nhật ký token: ${data.error || 'Unknown error'}</td></tr>`;
+        }
+      } catch (err) {
+        tbody.innerHTML = `<tr><td colspan="9" class="p-4 text-center text-rose-500 font-medium">Không thể kết nối máy chủ backend.</td></tr>`;
+      }
+    }
+
+    function renderTelemetryTable(logs) {
+      const tbody = document.getElementById('telemetry-table-body');
+      if (!tbody) return;
+
+      if (!logs || logs.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="9" class="p-4 text-center text-slate-400">Chưa có nhật ký sử dụng token nào được ghi lại.</td></tr>`;
+        return;
+      }
+
+      let html = '';
+      logs.slice().reverse().forEach(item => {
+        const title = item.chapter_title || (item.chapter_ep ? `Tập ${item.chapter_ep}` : 'Nhiệm Vụ Khác');
+        const terms = item.terms || [];
+
+        let termsHtml = '';
+        if (terms.length > 0) {
+          termsHtml = terms.map(t => `<span class="inline-block px-1.5 py-0.5 bg-indigo-50 text-indigo-700 rounded border border-indigo-100 text-[10px] mr-1 mb-1 font-medium hover:bg-indigo-100 transition cursor-pointer" title="Thuật ngữ mới">${t}</span>`).join('');
+        } else {
+          termsHtml = `<span class="text-slate-400 italic text-[11px]">--</span>`;
+        }
+
+        const costStr = `$${(item.cost || 0).toFixed(5)}`;
+        const elapsedStr = item.elapsed_sec ? `${item.elapsed_sec.toFixed(1)}s` : '--';
+        const modelStr = item.model || 'Gemini';
+
+        html += `
+          <tr class="hover:bg-slate-50 transition border-b border-slate-100">
+            <td class="p-2.5 font-mono text-[11px] text-slate-500 whitespace-nowrap">${item.timestamp || '--'}</td>
+            <td class="p-2.5 font-semibold text-slate-800 whitespace-nowrap">
+              <span class="inline-flex items-center px-2 py-0.5 rounded text-[11px] font-medium bg-slate-100 text-slate-800">
+                ${title}
+              </span>
+            </td>
+            <td class="p-2.5 font-mono text-[11px] text-slate-600 whitespace-nowrap">${modelStr}</td>
+            <td class="p-2.5 font-mono text-right text-slate-700 font-medium">${(item.input_tokens || 0).toLocaleString()}</td>
+            <td class="p-2.5 font-mono text-right text-emerald-700 font-semibold">${(item.output_tokens || 0).toLocaleString()}</td>
+            <td class="p-2.5 font-mono text-right text-slate-500">${(item.cache_tokens || 0).toLocaleString()}</td>
+            <td class="p-2.5 font-mono text-right text-amber-700 font-semibold">${costStr}</td>
+            <td class="p-2.5 font-mono text-right text-slate-600">${elapsedStr}</td>
+            <td class="p-2.5 max-w-xs">${termsHtml}</td>
+          </tr>
+        `;
+      });
+
+      tbody.innerHTML = html;
+    }
+
+    function filterTelemetryLogs() {
+      const q = (document.getElementById('telemetry-search')?.value || '').toLowerCase().trim();
+      if (!q) {
+        renderTelemetryTable(window.allTelemetryLogs);
+        return;
+      }
+      const filtered = window.allTelemetryLogs.filter(item => {
+        const title = (item.chapter_title || '').toLowerCase();
+        const ep = (item.chapter_ep || '').toString();
+        const model = (item.model || '').toLowerCase();
+        const termsMatch = (item.terms || []).some(t => t.toLowerCase().includes(q));
+        return title.includes(q) || ep.includes(q) || model.includes(q) || termsMatch;
+      });
+      renderTelemetryTable(filtered);
     }
 
     function updateProgressBar(data) {
@@ -2236,19 +2470,99 @@
     }
 
     // Scraper
+    let lastSyosetuMissingInfo = null;
+
     async function fetchSyosetuInfo() {
       const q = document.getElementById('scrape-query').value.trim();
-      if (!q) return;
-      const res = await fetch(`/api/syosetu/info?query=${encodeURIComponent(q)}`);
-      const data = await res.json();
-      if (data.success) {
-        document.getElementById('syosetu-info-card').classList.remove('hidden');
-        document.getElementById('syosetu-title').innerText = `Tên truyện: ${data.title}`;
-        document.getElementById('syosetu-author').innerText = `Tác giả: ${data.author}`;
-        document.getElementById('syosetu-total').innerText = `Tổng số tập: ${data.total_episodes}`;
-        document.getElementById('scrape-end').value = data.total_episodes;
-      } else {
-        alert(data.error);
+      const errBox = document.getElementById('syosetu-error-msg');
+      const card = document.getElementById('syosetu-info-card');
+      const btn = document.getElementById('btn-fetch-syosetu');
+
+      if (errBox) errBox.classList.add('hidden');
+      if (!q) {
+        if (errBox) {
+          errBox.classList.remove('hidden');
+          errBox.innerText = '⚠️ Vui lòng nhập Mã truyện hoặc URL Syosetu (VD: n1132dk)';
+        }
+        return;
+      }
+
+      if (btn) {
+        btn.disabled = true;
+        btn.innerHTML = '<span class="animate-spin text-xs">⏳</span> <span>Đang quét...</span>';
+      }
+
+      try {
+        const res = await fetch(`/api/syosetu/info?query=${encodeURIComponent(q)}`);
+        const data = await res.json();
+        
+        if (data.success) {
+          if (card) card.classList.remove('hidden');
+
+          const localCount = (data.local_count !== undefined && data.local_count !== null) ? data.local_count : (currentRawFiles ? currentRawFiles.length : 0);
+          const missingCount = (data.missing_count !== undefined && data.missing_count !== null) ? data.missing_count : Math.max(0, data.total_episodes - localCount);
+          const missingStart = data.missing_start || (localCount + 1);
+          const missingEnd = data.missing_end || data.total_episodes;
+
+          document.getElementById('syosetu-title').innerHTML = `📖 <span>Tên truyện: ${data.title}</span>`;
+          document.getElementById('syosetu-author').innerText = `✍️ Tác giả: ${data.author || 'Chưa rõ'}`;
+          document.getElementById('syosetu-total-eps').innerText = `${data.total_episodes} tập`;
+          document.getElementById('syosetu-local-eps').innerText = `${localCount} tập`;
+          document.getElementById('syosetu-missing-eps').innerText = `${missingCount} tập`;
+
+          lastSyosetuMissingInfo = {
+            ...data,
+            local_count: localCount,
+            missing_count: missingCount,
+            missing_start: missingStart,
+            missing_end: missingEnd
+          };
+
+          const missingBanner = document.getElementById('syosetu-missing-banner');
+          const missingBtnText = document.getElementById('syosetu-missing-btn-text');
+
+          if (missingCount > 0) {
+            document.getElementById('scrape-start').value = missingStart;
+            document.getElementById('scrape-end').value = missingEnd;
+            if (missingBanner) missingBanner.classList.remove('hidden');
+            if (missingBtnText) missingBtnText.innerText = `⚡ Chọn nhanh ${missingCount} tập chưa có (Từ tập ${missingStart} đến ${missingEnd})`;
+            appendLog(`🔍 Quét Syosetu (${data.code}): Tìm thấy ${missingCount} tập chưa có trong máy (Từ tập ${missingStart} -> ${missingEnd}).`, 'info');
+          } else {
+            document.getElementById('scrape-start').value = 1;
+            document.getElementById('scrape-end').value = data.total_episodes;
+            if (missingBanner) missingBanner.classList.add('hidden');
+            appendLog(`🔍 Quét Syosetu (${data.code}): Đã tải đủ toàn bộ ${data.total_episodes} tập về máy!`, 'success');
+          }
+        } else {
+          if (card) card.classList.add('hidden');
+          if (errBox) {
+            errBox.classList.remove('hidden');
+            errBox.innerText = `❌ ${data.error || 'Lỗi quét thông tin Syosetu'}`;
+          } else {
+            alert(data.error);
+          }
+        }
+      } catch (e) {
+        if (card) card.classList.add('hidden');
+        if (errBox) {
+          errBox.classList.remove('hidden');
+          errBox.innerText = `❌ Lỗi kết nối máy chủ: ${e.message}`;
+        } else {
+          alert(`Lỗi kết nối: ${e.message}`);
+        }
+      } finally {
+        if (btn) {
+          btn.disabled = false;
+          btn.innerHTML = '<span>🔍</span> <span>Quét Thông Tin</span>';
+        }
+      }
+    }
+
+    function autoFillMissingRange() {
+      if (lastSyosetuMissingInfo && lastSyosetuMissingInfo.missing_count > 0) {
+        document.getElementById('scrape-start').value = lastSyosetuMissingInfo.missing_start;
+        document.getElementById('scrape-end').value = lastSyosetuMissingInfo.missing_end;
+        appendLog(`⚡ Đã chọn khoảng tập raw còn thiếu: Tập ${lastSyosetuMissingInfo.missing_start} -> ${lastSyosetuMissingInfo.missing_end}`, 'info');
       }
     }
 

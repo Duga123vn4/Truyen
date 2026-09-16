@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-17 01:39:36",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "",
+    "chapter_ep": 0,
+    "elapsed_sec": 26.27,
+    "input_tokens": 4930,
+    "output_tokens": 3425,
+    "cache_tokens": 0,
+    "cost": 0.00279
+  },
+  {
+    "timestamp": "2026-09-17 01:33:23",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 552",
+    "chapter_ep": 552,
+    "elapsed_sec": 62.08,
+    "input_tokens": 18905,
+    "output_tokens": 8438,
+    "cache_tokens": 0,
+    "cost": 0.0079
+  },
+  {
     "timestamp": "2026-09-17 01:05:19",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 551",
