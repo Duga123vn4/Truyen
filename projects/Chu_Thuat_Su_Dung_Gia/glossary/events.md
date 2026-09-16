@@ -458,7 +458,6 @@
 ### Tập 270:
 - Shimokawa Junnosuke bày tỏ sự nghi ngờ đối với Takanashi Kotori (Hiền Giả) là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp.
 - Shimokawa phân tích các điểm phi lý nếu Momokawa Kotarou là thủ phạm (Kotarou không thể thoát một mình mà bỏ lại Meiko, không cần đầu độc vẫn có thể thoát qua Thiên Tống Môn).
-- Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ và cảnh giác với Takanashi Kotori.
 - Shimokawa được Ueta và Nakai tôn làm thủ lĩnh mới của phe đối trọng thay thế cho Momokawa Kotarou.
 
 
@@ -1488,10 +1487,6 @@
 - Thánh thú Kinako đột phá phong ấn đá băng của nhóm Ryouko, thức tỉnh sức mạnh mới, mọc cánh ánh sáng xanh lam và khổng lồ hóa vượt quá 10 mét.
 - Souma Sakura và Momokawa Kotarou kịp thời xuất hiện cứu nhóm Ryouko khỏi luồng hơi thở hủy diệt của Kinako bằng 『Thánh Thiên Kết Giới』.
 - Kotarou chuẩn bị đối đầu với Kinako khổng lồ bằng cách triệu hồi Rem và sử dụng hai trang bị tối thượng mới: 『Mũ Giáp Khổng Lồ』 và 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』 để kích hoạt khổng lồ hóa cho Rem.
-| Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
-| Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
-| Tập 270 | Shimokawa Junnosuke phân tích các điểm phi lý trong lời vu khống Momokawa Kotarou và bày tỏ nghi ngờ Takanashi Kotori mới là kẻ chủ mưu thực sự đứng sau vụ đầu độc cả lớp. | XÁC NHẬN | 考えれば考えるほど、桃川がやったとは思えねぇんだべ。だからよ、あの証拠動画撮ったっていうガラケーもよ、マジだったんじゃねぇのかな |
-| Tập 270 | Bộ ba Jou-Chuu-Ge (Shimokawa, Ueta, Nakai) quyết định thành lập phe đối trọng ngoài phe Souma để tự bảo vệ, cảnh giác với Takanashi Kotori và tôn Shimokawa làm thủ lĩnh mới. | XÁC NHẬN | 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。 |
 
 ### Tập 342:
 - Momokawa Kotarou triệu tập cuộc họp cơ mật cùng Souma Sakura, Kisaragi Ryouko và Tendou Ryuuichi để triển khai kế hoạch bắt sống Dũng Giả Souma Yuuto.
@@ -1504,3 +1499,93 @@
 - Kotarou và Meiko dốc toàn lực liên hoàn công kích (Phân thân rối bóng, Tank, Cự Long Đại Ngạc, Hoang Thiên Lạc Lôi của Oh-ma, Hắc Nại của Meiko) nhưng toàn bộ ma pháp và tạo vật Undead bị 『Thánh Kiếm Ánh Sáng』 của Lilith thanh tẩy về hư vô chỉ bằng một câu "Ánh sáng ơi, hãy hiện hữu".
 - Lilith sử dụng 『Thần Thánh Ngôn Ngữ "Lời Thề"』 kích hoạt 『Hắc Thánh Hòm』, giáng cột sáng nuốt chửng Futaba Meiko vào không gian màu trắng vô tận để tiến hành quyết đấu 1vs1.
 - Meiko kích hoạt 『Zagan's Pride』 tụ lực 10 giây tung tuyệt kỹ 『Kẻ Diệt Khổng Lồ』 ngưng tụ lôi điện đỏ đen đâm toạc bầu trời, buộc Lilith phải chạm tay mở dải băng bịt mắt.
+
+### Tập 554:
+• Hai hoàng tử ngoại quốc Allen (Eldreich) và Ryback (Vulcania) bàn luận về Meiko và quầy ăn của cô; Ryback tiết lộ ý định muốn lấy Meiko làm chính thất vì tiêu chuẩn chọn vợ chuộng thể chất mạnh mẽ để sinh con nối dõi của xứ Vulcania.
+• Phân thân Momoko (Kotarou) làm việc tại quầy ăn, thưởng thức món cơm nắm (onigiri) do Meiko thử nghiệm làm thành công.
+• Ryback xuất hiện ném vàng đòi mua cơm nắm của Momoko nhưng bị từ chối khéo léo; gã ngỏ lời cầu hôn cả Meiko lẫn Momoko nhưng Meiko thẳng thừng từ chối.
+• Victoria Polaris — đại tiểu thư ngoại cỡ (cao gần 3m, thân hình phồn thực khổng lồ) xuất hiện khiến Kotarou bị sốc tâm lý cực độ trước kích thước phi thực tế; cô nàng bế bổng Momoko như búp bê.
+• Meiko hẹn gặp riêng Victoria để tâm sự chuyện thầm kín: cô bộc bạch tình cảm đồng giới và nỗi rung động ngày càng sâu sắc dành cho Momoko, muốn bảo vệ Momoko cả đời. Victoria cảm động và khuyên Meiko nên tách ra mở tiệm riêng để tránh việc Momoko bị những kẻ khác ve vãn dòm ngó.
+
+
+### Tập 555:
+• Ký ức về quá khứ của Ác Ma Long Wendisark được hé lộ: Nó tự nhận là sinh vật mạnh nhất, thông minh nhất ở tầng thứ năm của Đại Mê Cung Sigroon, từng chạm trán và buộc phải tháo chạy trước tổ đội Dũng Giả đời đầu của Lilith.
+• Hiện tại, Ác Ma Long đang âm thầm di chuyển lên các tầng trên (tầng 4, 3, 2), gây xáo trộn hệ sinh thái hầm ngục và tiêu diệt nhiều tổ đội mạo hiểm giả Rank 5.
+• Tại Clan House, Ryouko chia sẻ với Yuuto về thông tin Ác Ma Long từ tài liệu cổ của Tiến sĩ Hardine Wildart. Nhóm Yuuto quyết định không can thiệp vì sắp sửa viễn chinh 『Bạch Ngân Vương Thành』 và chờ Dũng Giả Lilith trở về giải quyết.
+• Ở một diễn biến khác, Kotarou thức giấc sau cơn ác mộng kinh hoàng về một đám cưới kỳ quặc, nơi Hapina hóa thành cô dâu đòi cậu chăm sóc cả đời.
+• Phân thân 『Phong Ma』 của Kotarou đến Cục Quản lý Mê cung và phải dẹp loạn trò hề nước phun xối xả do Hapina chúc phúc lỗi lên bình nước ma pháp mới mua của Uraga.
+
+
+### Tập 556:
+• Hé lộ quá khứ của Ác Ma Long Wendysark: Từng phục kích nhóm Dũng Giả Lilith tại Thiết Đại Thụ nhưng thảm bại trước chiêu 『Quang Chi Thánh Kiếm』, phải trốn chui trốn nhủi và thèm khát ăn thịt con người/Dũng Giả để mạnh lên. Sau khi phát hiện bức tường thế giới có lỗ hổng, nó đã mò lên các tầng trên của mê cung.
+• Bray và tổ đội 『Nguyệt Quang Chi Ngự Kiếm』 nhận lời tham gia liên minh săn Ác Ma Long do một đội trưởng Hạng 4 khởi xướng (nhờ đối phương đã gắn thiết bị định vị lên con rồng), nhằm tìm lại danh tiếng và chứng minh việc loại bỏ Sylva là đúng đắn.
+• Nhóm 『Jobless Oblige』 của Fuuma (Kotarou) chuẩn bị xuống Tầng thứ 4 để giúp Hapina lập công vào 『Dũng Tinh Thập Tự Đoàn』; John Doe được nâng cấp thành phân thân biến dị của Hắc Kỵ Sĩ Rem.
+• Khi đang đi qua Tầng thứ 2, nhóm Fuuma chứng kiến pháo hiệu cầu cứu đỏ rực bắn lên trời cùng tiếng gầm và ma lực kinh hoàng của Ác Ma Long Wendysark ở cự ly rất gần.
+
+
+### Tập 557:
+- Bly dẫn đầu tổ đội 『Nguyệt Quang Ngự Kiếm』 cùng các đội mạo hiểm giả cấp trung tham gia chiến dịch liên hợp tiêu diệt Ác Ma Long ở tầng 2 Đại Mê Cung Sigroon.
+- Nhờ máy phát tín hiệu ma lực của 『Lightning Armament』, đội thảo phạt định vị được mục tiêu và tung đòn tổng lực phủ đầu.
+- Tuy nhiên, mục tiêu bị tiêu diệt chỉ là xác lột; Ác Ma Long thực sự to lớn ngang tượng Nữ thần Elshion (thuộc hàng rồng cỡ lớn nguy hiểm nhất) đã tàng hình mai phục sẵn để phản sát.
+- Ác Ma Long tàn sát nhóm hậu phương, hạ sát và xé đôi thủ lĩnh đội thảo phạt, khiến toàn quân rơi vào hỗn loạn và tháo chạy.
+- Bly cùng đồng đội chạy ra cánh đồng cỏ nhưng bị Ác Ma Long chặn đầu và tóm gọn. Ngay trước khi bị nuốt chửng, Bly bất ngờ được cứu thoát.
+- Silva Crane xuất hiện, dùng một thanh kiếm chém tan bão trảm kích của Ác Ma Long rồi một mình lao lên nghênh chiến để câu giờ cho nhóm Bly rút lui.
+
+
+### Tập 558:
+- Đội thảo phạt Rồng Ác Ma Wendisark bị phản sát và bắn pháo tín hiệu đỏ cầu cứu; trong đội có nhóm cũ của Silva là 『Ánh Nguyệt Ngự Kiếm』.
+- Silva quyết định một mình đi cứu viện, nhưng Momokawa (Fuuma) quyết định cùng cả nhóm hỗ trợ cứu người rồi rút lui.
+- Fuuma triệu hồi 『Bảo Ngọc Địa Long · Tricelander』 do Kyouko chế tạo để làm phương tiện vận chuyển và cứu hộ, giao cho Tona lái xe.
+- Silva kịp thời lao tới cứu Bly trước móng vuốt của Rồng Ác Ma; Hapina dùng 『Lời Cầu Nguyện Của Mẹ Đất』 hồi phục tinh thần cho nhóm 『Ánh Nguyệt Ngự Kiếm』.
+- Fuuma chỉ đạo Uraga và Silva đưa những người sống sót lên toa xe rút lui; bản thân phân thân Fuuma cùng John Doe ở lại chặn chân Rồng Ác Ma.
+- Nhận thấy Rồng Ác Ma có trí thông minh và đang phân tích Thiên Chức, Fuuma điều khiển Rem từ xa kích hoạt 『Cự Nhân Đầu Khôi』 khổng lồ hóa thành chiến binh khổng lồ giáp đen để đối đầu trực diện với Rồng Ác Ma.
+
+
+### Tập 559:
+• Tin tức Ác Ma Long Wendisark càn quét tầng hai và người khổng lồ áo giáp đen xuất hiện lan truyền tới thủ đô Sigrun.
+• Reina bí mật truyền đạt chỉ thị của Momokawa cho Souma Yuuto, yêu cầu anh dẫn quân tinh nhuệ tới chi bộ South Baron làm phòng tuyến cuối cùng.
+• Tại buổi tập hợp của 『Dũng Tinh Thập Tự Đoàn』, Đệ nhị Vương nữ Saris hạ lệnh chia quân bảo vệ Vương thành và Đại thánh đường. Yuuto kịch liệt phản bác, tuyên bố tự mình đi diệt rồng để cứu dân chúng.
+• Lớp trưởng Kisaragi Ryouko, Natsukawa Minami, Freia, Allen, Ryback, Victoria và Reina đồng loạt bước ra ủng hộ và đi theo Yuuto, tạo thành Tổ Đội Dũng Giả thứ hai.
+• Tại Hắc Phát Giáo Hội, Momokawa (vừa bị chấn động tinh thần sau khi phân thân/Rem khổng lồ bị rồng bắn nổ) chỉ ra Ác Ma Long có sở thích tàn sát và ăn thịt những kẻ sở hữu Thiên Chức.
+• Momokawa cùng Riza, Gerald cưỡi các phiên bản cải tiến của 『Bảo Ngọc Địa Long - Lord Raptor』 lao vút đến South Baron, điều động lực lượng ngầm hỗ trợ sơ tán dân thường.
+• Momokawa gặp lại tổ đội của Silva, dùng 『Song Ảnh』 tái hiện lại phân thân Fuuma và chuẩn bị truyền dạy "bí kỹ" cho họ.
+• Không gian tại chi bộ Cục Quản lý Mê Cung South Baron vỡ vụn: Quân đội Astoria thất thủ hoàn toàn ở tầng một, Ác Ma Long Wendisark phá vỡ kết giới chuẩn bị trồi thẳng lên mặt đất, mở đầu trận Raid Battle sinh tử.
+
+
+### Tập 560:
+• Ác Ma Long Wendysark cảm thấy con người ở các tầng trên quá yếu ớt, chỉ coi Souma Yuuto là mối đe dọa duy nhất, xem Yuuto hiện tại là "ấu thể Dũng Giả".
+• Ác Ma Long phá tan kết giới tầng một, xông thẳng lên mặt đất ở South Baron thuộc thủ đô Sigroon, chuẩn bị gieo rắc thảm họa Long Tai.
+• Nhóm 『Dũng Tinh Thập Tự Đoàn』 (Tân Tổ Đội Dũng Giả) gồm 9 thành viên (Souma Yuuto, Kisaragi Ryouko, Natsukawa Minami, Freya, Allen, Raiback, Victoria, Hapina, Reynare) kịp thời có mặt nghênh chiến.
+• Momokawa Kotarou trong bộ đồng phục nam sinh (gakuran) xuất hiện với tư cách Thần tử Momoka của 『Hắc Phát Giáo Hội』, vừa hỗ trợ chiến thuật vừa chỉ đạo Hapina buff hỗ trợ cho tổ đội dũng giả.
+• Ác Ma Long thi triển kết giới Quang ma pháp để tàng hình hoàn hảo, nhưng Kotarou đã dùng nhãn thuật chú thuật 『Hư Ảnh Phản Chiếu』 chiếu đè ảo ảnh lên chân thân của nó, khiến toàn bộ người dân và tổ đội dũng giả nhìn thấy rõ mồn một vị trí của con rồng, phá giải hoàn toàn lợi thế ẩn thân của nó.
+
+
+### Tập 561:
+• Souma Yuuto dùng 『Thần Thiết Kiếm Thánh Hiệp Sĩ』 do Takanashi Kotori chế tác để đối đầu trực diện với Ác Ma Long Wendisark, phá vỡ khả năng ngụy trang tàng hình của nó.
+• Tiền tuyến phối hợp nhịp nhàng: Yuuto tung 『Sát Na Nhất Thiểm』, Hoàng tử Ryback dùng 『Vương Quyền - Kim Sư Tử』 áp sát uy mãnh, và tiểu thư Victoria Polaris (Thiên Chức 『Siêu Trọng Kỵ Sĩ』) phô diễn phòng ngự cùng sức mạnh tuyệt đối với búa 『Mega Meteora』.
+• Hậu tuyến yểm trợ hỏa lực: Lớp trưởng Kisaragi Ryouko dùng ma pháp băng, Reinare triệu hồi linh thú dung nham ba đầu Loptosius tấn công dồn dập.
+• Momokawa Kotarou quan sát trận chiến từ xa, phân tích cặn kẽ phong cách chiến đấu của Ryback và Victoria, đồng thời nhận định sức mạnh của Đội Dũng Giả Mới đã dồn ép được Ác Ma Long.
+• Bị áp đảo, Ác Ma Long Wendisark chuyển sang "chế độ tích điện" toàn thân để chuẩn bị tung đòn hủy diệt (hơi thở lôi nguyên tố hoặc phóng điện toàn phương vị). Kotarou lệnh cho Riza và Gerald chuẩn bị xuất trận chặn đứng đòn đánh này.
+
+
+### Tập 562:
+• Momokawa Kotarou hồi tưởng lại các thông tin quý giá do tiểu thư Victoria Polaris cung cấp về đại mê cung『Bạch Ngân Vương Thành』và con trùm tầng năm『Hắc Lôi Đọa Thiên Sứ』, giải thích lý do cậu đã chuẩn bị sẵn các trang bị chống lôi từ trước.
+• Liza và Gerald sử dụng trang bị mới kết hợp『Tị Lôi Nhẫn』và『Surge Shield』cùng lớp áo giáp cách điện để vô hiệu hóa các đòn phóng điện diện rộng của Ác Ma Long, bảo vệ an toàn cho nhóm tiên phong gồm Souma Yuuto và hoàng tử Ryback.
+• Tuyến giữa tham chiến hiệu quả:『Thánh Hiệp Sĩ』Freya tung ra『Crescent Scythe』và phòng ngự chuẩn mực bằng khiên; hoàng tử Allen (Chân Tổ) dùng đòn tấn công ma pháp huyết sắc cùng đàn dơi phòng hộ; Natsukawa Minami thoắt ẩn thoắt hiện khóa chặt chiếc đuôi nguy hiểm của con rồng.
+• Ác Ma Long bị dồn ép và quyết định tung đòn tất sát Plasma Breath cực mạnh. Toàn đội dốc toàn lực dồn kỹ năng phòng ngự yểm trợ cho đại thuẫn của tiểu thư Victoria, kết hợp với ma pháp phòng ngự thượng cấp『Thuần Hải Thành Trì』của Lớp trưởng (Kisaragi Ryouko).
+
+
+### Tập 563:
+• Momokawa Kotarou đưa đại trượng 『Pure Sea Glass』 cho Lớp trưởng (Kisaragi Ryouko). Vận dụng nguyên lý nước tinh khiết (cách điện) và nước biển (dẫn điện), Ryouko thi triển ma pháp phòng ngự hai tầng 『Thuần Hải Thành Lũy』 kết hợp với đại khiên của 『Siêu Trọng Kị Sĩ』 Victoria để triệt tiêu và chống đỡ thành công luồng hơi thở plasma cực mạnh của Ác Ma Long Wendisark.
+• Phe Dũng Giả (Souma Yuuto, Victoria, Ryouko, Raynarl, Hapina, Riza, Gerald...) lập tức phản công dữ dội khi Ác Ma Long vừa dứt đại chiêu, khiến con rồng bắt đầu bị thương và rơi vào thế bị dồn ép.
+• Chuyển sang góc nhìn của Ác Ma Long Wendisark: Nó nhận ra tổ đội này phối hợp bài bản hơn nhóm Dũng Giả Lilith 100 năm trước nhờ sự chỉ đạo của Momokawa (kẻ mà nó gọi là "nhân loại chỉ huy" / "cá thể chuyên hóa chỉ huy").
+• Tự nhận mình sở hữu trí tuệ siêu việt, Ác Ma Long nhận ra "tổ" của loài người (thành phố) chứa đầy những con non, giống cái và kẻ yếu ớt cần được bảo vệ. 
+• Thay vì nhắm vào tiền tuyến hay hậu tuyến của tổ đội Dũng Giả, Ác Ma Long bay thẳng lên trời cao và phóng luồng hơi thở plasma hủy diệt thẳng vào khu Sigrun kế bên — nơi tập trung đông đảo thị dân không có khả năng tự vệ.
+
+
+### Tập 564:
+• Momoko dẫn Meiko đi khảo sát mặt bằng mở quán ăn tại khu Queensberry (giáp ranh South Baron) và ưng ý một dinh thự cổ điển sang trọng.
+• Ác Ma Long bất ngờ bắn hơi thở rồng hủy diệt sang khu dân cư Queensberry; Momoko kịp kích hoạt 『Thánh Thiên Kết Giới』 che chở cho Meiko rồi phân thân tan biến, cả khu vực xung quanh bị san phẳng thành bình địa.
+• Meiko tỉnh lại, lầm tưởng Momoko đã hy sinh tính mạng bảo vệ mình, rơi vào trạng thái bùng nổ phẫn nộ tột cùng của 『Cuồng Chiến Sĩ』.
+• Tại chiến trường South Baron, Ác Ma Long dùng các khối lôi cầu nhắm vào dân thường để khống chế tâm lý nhóm Souma Yuuto, đồng thời tung chiêu mới "Lôi Quang Tiên" dồn ép phe Dũng Giả vào thế tan vỡ đội hình.
+• Kotarou đang tính toán kế sách rút lui bảo toàn lực lượng thì Meiko trong trạng thái cuồng nộ tột độ, quần áo rách tơi tả, gầm thét lao thẳng vào chiến trường để báo thù cho "Momoko".

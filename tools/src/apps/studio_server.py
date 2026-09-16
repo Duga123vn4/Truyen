@@ -1288,8 +1288,9 @@ async def get_telemetry_logs(request: web.Request) -> web.Response:
                     clean_matches = []
                     for m in matches:
                         m_str = m.strip()
-                        if 2 <= len(m_str) <= 40 and m_str not in clean_matches:
-                            clean_matches.append(f"『{m_str}』")
+                        term_badge = f"『{m_str}』"
+                        if 2 <= len(m_str) <= 40 and term_badge not in clean_matches:
+                            clean_matches.append(term_badge)
                     if clean_matches:
                         chapter_terms_map[ep] = clean_matches
                 except Exception:

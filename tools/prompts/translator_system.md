@@ -35,6 +35,12 @@ Nhiệm vụ của bạn là dịch trung thực, diễn đạt tự nhiên, gi�
 ---
 
 ## 📤 V. YÊU CẦU ĐẦU RA (OUTPUT FORMAT)
-* Chỉ xuất DUY NHẤT nội dung bản dịch tiếng Việt hoàn chỉnh.
+* Xuất nội dung bản dịch tiếng Việt hoàn chỉnh.
 * Bắt đầu bằng tiêu đề chương dạng `# Tiêu Đề Chương`.
 * KHÔNG thêm bất kỳ lời dẫn hay bình luận bên lề nào.
+* Ở CUỐI CÙNG BẢN DỊCH, BẮT BUỘC thêm khối tóm tắt các sự kiện đáng chú ý diễn ra trong chương theo cú pháp:
+```markdown
+[CHAPTER_SUMMARY]
+• Tóm tắt các sự kiện trọng tâm, diễn biến đáng chú ý, phát hiện mới, âm mưu hoặc chuyển biến cốt truyện quan trọng diễn ra trong chương này (gạch đầu dòng tự nhiên theo đúng diễn biến thực tế).
+[/CHAPTER_SUMMARY]
+```

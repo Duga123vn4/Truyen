@@ -1,5 +1,137 @@
 [
   {
+    "timestamp": "2026-09-17 02:37:11",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 564",
+    "chapter_ep": 564,
+    "elapsed_sec": 43.56,
+    "input_tokens": 19498,
+    "output_tokens": 9095,
+    "cache_tokens": 0,
+    "cost": 0.00838
+  },
+  {
+    "timestamp": "2026-09-17 02:36:28",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 563",
+    "chapter_ep": 563,
+    "elapsed_sec": 46.41,
+    "input_tokens": 18004,
+    "output_tokens": 7454,
+    "cache_tokens": 0,
+    "cost": 0.00717
+  },
+  {
+    "timestamp": "2026-09-17 02:35:41",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 562",
+    "chapter_ep": 562,
+    "elapsed_sec": 59.71,
+    "input_tokens": 19628,
+    "output_tokens": 9067,
+    "cache_tokens": 0,
+    "cost": 0.00838
+  },
+  {
+    "timestamp": "2026-09-17 02:34:42",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 561",
+    "chapter_ep": 561,
+    "elapsed_sec": 49.65,
+    "input_tokens": 17336,
+    "output_tokens": 6336,
+    "cache_tokens": 0,
+    "cost": 0.0064
+  },
+  {
+    "timestamp": "2026-09-17 02:33:52",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 560",
+    "chapter_ep": 560,
+    "elapsed_sec": 61.84,
+    "input_tokens": 20627,
+    "output_tokens": 11019,
+    "cache_tokens": 0,
+    "cost": 0.00971
+  },
+  {
+    "timestamp": "2026-09-17 02:32:50",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 559",
+    "chapter_ep": 559,
+    "elapsed_sec": 66.48,
+    "input_tokens": 19386,
+    "output_tokens": 9608,
+    "cache_tokens": 0,
+    "cost": 0.00867
+  },
+  {
+    "timestamp": "2026-09-17 02:31:44",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 558",
+    "chapter_ep": 558,
+    "elapsed_sec": 42.21,
+    "input_tokens": 17686,
+    "output_tokens": 6901,
+    "cache_tokens": 0,
+    "cost": 0.00679
+  },
+  {
+    "timestamp": "2026-09-17 02:31:01",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 557",
+    "chapter_ep": 557,
+    "elapsed_sec": 46.59,
+    "input_tokens": 19346,
+    "output_tokens": 8491,
+    "cache_tokens": 0,
+    "cost": 0.008
+  },
+  {
+    "timestamp": "2026-09-17 02:30:15",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 556",
+    "chapter_ep": 556,
+    "elapsed_sec": 69.45,
+    "input_tokens": 19316,
+    "output_tokens": 9943,
+    "cache_tokens": 0,
+    "cost": 0.00886
+  },
+  {
+    "timestamp": "2026-09-17 02:29:05",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 555",
+    "chapter_ep": 555,
+    "elapsed_sec": 61.51,
+    "input_tokens": 19634,
+    "output_tokens": 9758,
+    "cache_tokens": 0,
+    "cost": 0.0088
+  },
+  {
+    "timestamp": "2026-09-17 02:28:04",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 554",
+    "chapter_ep": 554,
+    "elapsed_sec": 55.99,
+    "input_tokens": 20427,
+    "output_tokens": 10930,
+    "cache_tokens": 0,
+    "cost": 0.00962
+  },
+  {
+    "timestamp": "2026-09-17 01:49:58",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 553",
+    "chapter_ep": 553,
+    "elapsed_sec": 55.84,
+    "input_tokens": 19535,
+    "output_tokens": 9118,
+    "cache_tokens": 0,
+    "cost": 0.0084
+  },
+  {
     "timestamp": "2026-09-17 01:39:36",
     "model": "gemini-3.8-flash",
     "chapter_title": "",

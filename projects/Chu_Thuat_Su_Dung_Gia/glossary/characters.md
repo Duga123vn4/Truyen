@@ -110,7 +110,7 @@
 - **canon:** CHÍNH THỨC
 - **độ_tin_cậy:** TUYỆT ĐỐI
 - **khóa_bảo_vệ:** CÓ
-- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **trạng_thái_nhân_vật:** ✝️ ĐÃ CHẾT (Hy sinh ở Tập 286)
 - **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
 - **thiên_chức:** 『Chiến Binh』 (Bộ ba Jou-Chuu-Ge, Red Axe)
 - **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
@@ -509,11 +509,11 @@
 - **canon:** CHÍNH THỨC
 - **độ_tin_cậy:** TUYỆT ĐỐI
 - **khóa_bảo_vệ:** CÓ
-- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **trạng_thái_nhân_vật:** ✝️ ĐÃ CHẾT (Tử trận trong cuộc chiến với Futaba Meiko)
 - **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
 - **thiên_chức:** 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao)
-- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205
-- **mô_tả:** CLB / Vị trí: CLB Kiếm đạo • Thiên chức: 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao) • Ghi chú: CÒN SỐNG
+- **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 360
+- **mô_tả:** CLB / Vị trí: CLB Kiếm đạo • Thiên chức: 『Song Kiếm Sĩ』 (Song kiếm tốc độ cao) • Ghi chú: ✝️ ĐÃ CHẾT (Tử trận)
 
 ---
 
@@ -803,3 +803,6 @@
 - **nguồn:** Tập 408 - Nữ Dũng Giả (1)
 - **mô_tả:** Nữ Dũng Giả ngực khủng, đeo dải băng bịt kín hai mắt nhưng sở hữu năng lực cảm nhận không gian và sinh mệnh siêu phàm. Mất 20 năm rèn luyện đạt đến cảnh giới tối cao. Có thể hóa giải toàn bộ ma pháp, tạo vật Undead và phân thân thành tro bụi chỉ bằng một vầng quang minh. Đặc biệt mang chấp niệm và ám ảnh bí ẩn nhắm vào Momokawa Kotarou.
 
+## [CHAR-043] 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
+- **tên_chuẩn:** 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
+- **loại:** NHÂN VẬT

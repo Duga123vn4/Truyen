@@ -1,18338 +1,3721 @@
-# ⚔️ THUẬT NGỮ, KỸ NĂNG, VẬT PHẨM & QUÁI VẬT (CANON V3.0)
-> **Bộ truyện:** Chú thuật sư không thể trở thành Dũng Giả
-> **Quy chuẩn:** Compact Entity Cards (Phân loại rành mạch: SKILL, ITEM, MONSTER, TERM)
+# ⚔️ THUẬT NGỮ, KỸ NĂNG, VẬT PHẨM & QUÁI VẬT (CANON V3.5)
+> **Bộ truyện:** Chu_Thuat_Su_Dung_Gia
+> **Quy chuẩn:** Compact Entity Cards (Tối ưu dung lượng, phân loại rành mạch)
 
 ---
 
-### 1. ⚔️ KỸ NĂNG & MA PHÁP (SKILLS & SPELLS)
+### 1. ⚔️ KỸ NĂNG & MA PHÁP (SKILLS)
 
 ## [SKILL-001] 『Ảo Ảnh Chú』 (Illusion Curse)
-
-- **id:** SKILL-001
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ảo Ảnh Chú』 (Illusion Curse)
-- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Ảo Ảnh Chú』
 - **mô_tả:** Tạo phân thân ảo ảnh đánh lừa thị giác và giác quan của kẻ địch trong bóng tối.
 
----
-
 ## [SKILL-002] 『Tật Tốc Chú』 (Speed Curse)
-
-- **id:** SKILL-002
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tật Tốc Chú』 (Speed Curse)
-- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Tật Tốc Chú』
 - **mô_tả:** Tăng tốc độ di chuyển và phản xạ lên mức siêu phàm trong tích tắc.
 
----
-
 ## [SKILL-003] 『Thao Khôi Lỗi Chú』 (Puppet Master)
-
-- **id:** SKILL-003
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thao Khôi Lỗi Chú』 (Puppet Master)
-- **tên_gốc:** Momokawa Kotarou (Ruinhilde)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Thao Khôi Lỗi Chú』
 - **mô_tả:** Điều khiển sứ ma con rối bùn và Hắc Kị Sĩ Rem bắn cung bách phát bách trúng.
 
----
-
 ## [SKILL-004] 『Độc Chú & Luyện Kim Chú』
-
-- **id:** SKILL-004
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Độc Chú & Luyện Kim Chú』
-- **tên_gốc:** Momokawa Kotarou (Đầu lâu Hinagiku)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
 - **mô_tả:** Chiết xuất độc dược từ quái vật (ong mật, bọ cạp) và tôi luyện dược liệu.
 
----
-
 ## [SKILL-005] 『Thánh Kiếm』 (Holy Sword)
-
-- **id:** SKILL-005
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thánh Kiếm』 (Holy Sword)
-- **tên_gốc:** Souma Yuuto (Dũng Giả)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Thánh Kiếm』
 - **mô_tả:** Phóng thích kiếm khí ánh sáng cực mạnh, gây sát thương chí mạng cho ma vật bóng tối.
 
----
-
 ## [SKILL-006] 『Súc Địa』 (Shukuchi)
-
-- **id:** SKILL-006
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Súc Địa』 (Shukuchi)
-- **tên_gốc:** Souma Yuuto (Dũng Giả)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Súc Địa』
 - **mô_tả:** Kỹ thuật di chuyển thu ngắn khoảng cách thần tốc trong nháy mắt.
 
----
-
 ## [SKILL-007] 『Bạch Ảnh Thương』 (White Shadow Spear)
-
-- **id:** SKILL-007
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Bạch Ảnh Thương』 (White Shadow Spear)
-- **tên_gốc:** Souma Yuuto (Dũng Giả)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Bạch Ảnh Thương』
 - **mô_tả:** Kỹ năng đâm thương ánh sáng tốc độ cao phá vỡ giáp trụ.
 
----
-
 ## [SKILL-008] 『Cuồng Hóa』 (Berserk Mode)
-
-- **id:** SKILL-008
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cuồng Hóa』 (Berserk Mode)
-- **tên_gốc:** Yamada Genki (Trọng Chiến Binh)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Cuồng Hóa』
 - **mô_tả:** Kích hoạt trạng thái cuồng nộ tăng gấp bội sức mạnh thể chất và độ lì đòn.
 
----
-
 ## [SKILL-009] 『Băng Kết Đại Thuẫn』 (Frozen Aegis)
-
-- **id:** SKILL-009
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Băng Kết Đại Thuẫn』 (Frozen Aegis)
-- **tên_gốc:** Kisaragi Ryouko (Băng Ma Thuật)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Băng Kết Đại Thuẫn』
 - **mô_tả:** Tạo lá chắn băng giá khổng lồ ngăn chặn mọi đòn tấn công vật lý và ma pháp.
 
----
-
 ## [SKILL-010] 『Địa Thành Lũy / Boongke Đất』
-
-- **id:** SKILL-010
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Địa Thành Lũy / Boongke Đất』
-- **tên_gốc:** Randou Kyouko (Thổ Ma Thuật)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
 - **mô_tả:** Thao túng đất đá dựng thành lũy phòng thủ kiên cố hoặc chiến hào trú ẩn.
 
----
-
 ## [SKILL-011] 『Giám Định Cổ Ngữ & Rèn Đúc Ma Pháp』
-
-- **id:** SKILL-011
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Giám Định Cổ Ngữ & Rèn Đúc Ma Pháp』
-- **tên_gốc:** Kouzuki Shiori (Hiền Giả)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
 - **mô_tả:** Giải mã văn tự cổ, phân tích cấu trúc ma thuật và gia trì thuộc tính cho trang bị.
 
----
-
 ## [SKILL-012] 『Kho Báu Hoàng Kim & Vương Kiếm Zamd』
-
-- **id:** SKILL-012
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Kho Báu Hoàng Kim & Vương Kiếm Zamd』
-- **tên_gốc:** Tendou Ryuuichi (Vương)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
 - **mô_tả:** Triệu hồi vũ khí từ kho báu không gian, thống lĩnh chiến trường bằng thanh kiếm tối thượng Zamd.
 
----
-
 ## [SKILL-013] 『Độc Thương Vĩ & Hấp Thụ Đồng Hóa』
-
-- **id:** SKILL-013
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Độc Thương Vĩ & Hấp Thụ Đồng Hóa』
-- **tên_gốc:** Yokomichi Hajime (Thực Nhân Quỷ)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
 - **mô_tả:** Đuôi bọ cạp kịch độc và năng lực nuốt chửng quái vật để đoạt lấy kỹ năng.
 
----
-
 ## [SKILL-014] 『Thánh Quang Trị Liệu』 (Holy Heal)
-
-- **id:** SKILL-014
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thánh Quang Trị Liệu』 (Holy Heal)
-- **tên_gốc:** Souma Sakura (Thánh Nữ)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
+- **tên_chuẩn:** 『Thánh Quang Trị Liệu』
 - **mô_tả:** Ma pháp trị thương cao cấp phục hồi vết thương và thanh tẩy nguyền rủa.
 
----
-
 ## [SKILL-015] 『Đại Sơn Thành Lũy』 (Taizan Jousai)
-
-- **id:** SKILL-015
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đại Sơn Thành Lũy』 (Taizan Jousai)
-- **tên_gốc:** 大山城塞 / Taizan Jousai
-- **người_thi_triển:** Randou Kyouko (Thổ Ma Thuật)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 309, 317
+- **tên_chuẩn:** 『Đại Sơn Thành Lũy』
 - **mô_tả:** Ma pháp Thổ cấp cao quy mô lớn, nâng mặt đất đùn lên tạo thành con dốc khổng lồ dài hơn 100m, cao gần 30m bắc thẳng lên đỉnh tường thành.
 
----
-
 ## [SKILL-016] 『Thi Hài Giáp』 (Corpse Armor)
-
-- **id:** SKILL-016
-- **loại:** KỸ NĂNG / CHÚ THUẬT
-- **tên_chuẩn:** 『Thi Hài Giáp』 (Corpse Armor)
-- **tên_gốc:** 死骸鎧 / Corpse Armor
-- **người_thi_triển:** Momokawa Kotarou (Ruinhilde / Hinagiku)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 311, 319
+- **tên_chuẩn:** 『Thi Hài Giáp』
 - **mô_tả:** Chú thuật độc môn cho phép Kotarou tự dung hợp cơ thể vào thi nhân hình của Đại Chiến Sĩ Bazuzu, biến thành cự nhân lông đỏ sở hữu sức mạnh cận chiến kinh hoàng.
 
----
-
 ## [SKILL-017] 『Bách Thủ Phược』 (Hundred Hands Binding)
-
-- **id:** SKILL-017
-- **loại:** KỸ NĂNG / CHÚ THUẬT
-- **tên_chuẩn:** 『Bách Thủ Phược』 (Hundred Hands Binding)
-- **tên_gốc:** 百手縛
-- **người_thi_triển:** Momokawa Kotarou (Gậy Vô Đạo Nhất Thức)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 310
+- **tên_chuẩn:** 『Bách Thủ Phược』
 - **mô_tả:** Phóng thích hàng trăm cánh tay hắc ám từ gậy Vô Đạo để tước đoạt vũ khí và khóa cứng mục tiêu.
 
----
-
 ## [SKILL-018] 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
-
-- **id:** SKILL-018
-- **loại:** KỸ NĂNG / MA PHÁP
 - **tên_chuẩn:** 『Hoang Thiên Lạc Lôi & Nhục Thể Tái Sinh』
-- **tên_gốc:** 荒天落雷 / 肉体再生
-- **người_thi_triển:** Vua Oh-ma (Vương quốc Goma)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 319, 321
 - **mô_tả:** Triệu hồi sấm sét hủy diệt từ bầu trời và ma pháp chữa lành tái sinh tức thì mọi tổn thương thể xác cho bản thân và đồng minh.
 
----
-
 ## [SKILL-019] 『Khổng Lồ Hóa』 (Gigantification)
-
-- **id:** SKILL-019
-- **loại:** KỸ NĂNG / BẨM SINH
-- **tên_chuẩn:** 『Khổng Lồ Hóa』 (Gigantification)
-- **tên_gốc:** 巨大化
-- **người_thi_triển:** Các Đại Chiến Sĩ Goma (Zagan, Bandon, Gizaginzu, Jiji-Gogo, Bon, Bazuzu)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn Arc Goma
+- **tên_chuẩn:** 『Khổng Lồ Hóa』
 - **mô_tả:** Năng lực đặc trưng của chủng tộc Đại Chiến Sĩ (Gira-Goma), biến đổi cơ thể thành cự nhân cao 5 - 10 mét với sức mạnh tàn phá khủng khiếp.
 
-## [SKILL-020] 『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』
+## [SKILL-020] 『Chiến dịch Quảng cáo Đi trước một bước』
+- **tên_chuẩn:** 『Chiến dịch Quảng cáo Đi trước một bước』
 
-- **id:** SKILL-020
-- **loại:** KỸ NĂNG / CHIẾN THUẬT TÂM LÝ
-- **tên_chuẩn:** 『Song Sinh Huyễn Thuật / Trò Lừa Song Sinh』
-- **tên_gốc:** 双子のトリック / Twin Trick
-- **người_thực_hiện:** Momokawa Kotarou + Souma Sakura + Tendou Ryuuichi
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 341, 342, 343
-- **mô_tả:** Kế sách phối hợp giữa mô hình bùn ngụy trang và giọng nói thật của Sakura để đánh lừa trực giác siêu phàm của Dũng Giả Souma Yuuto nhằm bắt sống cậu ta.
+## [SKILL-021] 『Chú Thuật Ngự Tử』
+- **tên_chuẩn:** 『Chú Thuật Ngự Tử』
 
+## [SKILL-022] 『Chú Đạo Khắc Ấn』
+- **tên_chuẩn:** 『Chú Đạo Khắc Ấn』
 
-### 2. 🛡️ VẬT PHẨM, TRANG BỊ & DƯỢC PHẨM (ITEMS & WEAPONS)
+## [SKILL-023] 『Chú Ấn』
+- **tên_chuẩn:** 『Chú Ấn』
 
-## [ITEM-001] Ngân Thiết Kiếm
+## [SKILL-024] 『Cuồng Hóa A』
+- **tên_chuẩn:** 『Cuồng Hóa A』
 
-- **id:** ITEM-001
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Ngân Thiết Kiếm
-- **tên_gốc:** 銀鉄の剣 / Gintetsu no Ken
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Kiếm tiêu chuẩn chế tác từ hợp kim ngân thiết, trang bị cho hàng tiền tuyến.
+## [SKILL-025] 『Cấm Chú Giải Pháp』
+- **tên_chuẩn:** 『Cấm Chú Giải Pháp』
+
+## [SKILL-026] 『Dịch chuyển ma pháp』
+- **tên_chuẩn:** 『Dịch chuyển ma pháp』
+
+## [SKILL-027] 『Giải Mã Ngoại Pháp』
+- **tên_chuẩn:** 『Giải Mã Ngoại Pháp』
+
+## [SKILL-028] 『Giải Mã Trận Pháp - Sơ Cấp』
+- **tên_chuẩn:** 『Giải Mã Trận Pháp - Sơ Cấp』
+
+## [SKILL-029] 『Giải Phóng Cấm Chú』
+- **tên_chuẩn:** 『Giải Phóng Cấm Chú』
+
+## [SKILL-030] 『Găng tay Chú thuật sư 「Cursed Hexa」』
+- **tên_chuẩn:** 『Găng tay Chú thuật sư 「Cursed Hexa」』
+
+## [SKILL-031] 『Gửi Tặng Chiến Sĩ Bước Vào Tử Địa』
+- **tên_chuẩn:** 『Gửi Tặng Chiến Sĩ Bước Vào Tử Địa』
+
+## [SKILL-032] 『Gửi Tặng Ma Thuật Sư Đối Mặt Thâm Uyên』
+- **tên_chuẩn:** 『Gửi Tặng Ma Thuật Sư Đối Mặt Thâm Uyên』
+
+## [SKILL-033] 『Hóa thân của Nữ thần Elshion』
+- **tên_chuẩn:** 『Hóa thân của Nữ thần Elshion』
+
+## [SKILL-034] 『Hóa thân của ác mộng đen』
+- **tên_chuẩn:** 『Hóa thân của ác mộng đen』
+
+## [SKILL-035] 『Hắc Hóa』
+- **tên_chuẩn:** 『Hắc Hóa』
+
+## [SKILL-036] 『Hắc Lam Kiếm Phủ Gilastorm』
+- **tên_chuẩn:** 『Hắc Lam Kiếm Phủ Gilastorm』
+
+## [SKILL-037] 『Hắc Xích Chú Phát』
+- **tên_chuẩn:** 『Hắc Xích Chú Phát』
+
+## [SKILL-038] 『Hỏa Long Kiếm - Salamandra』
+- **tên_chuẩn:** 『Hỏa Long Kiếm - Salamandra』
+
+## [SKILL-039] 『KIẾM THÁNH』
+- **tên_chuẩn:** 『KIẾM THÁNH』
+
+## [SKILL-040] 『Kho Kiếm』
+- **tên_chuẩn:** 『Kho Kiếm』
+
+## [SKILL-041] 『Khắc Ấn Thuật』
+- **tên_chuẩn:** 『Khắc Ấn Thuật』
+
+## [SKILL-042] 『Kiếm Hào』
+- **tên_chuẩn:** 『Kiếm Hào』
+
+## [SKILL-043] 『Kiếm Lực Lượng』
+- **tên_chuẩn:** 『Kiếm Lực Lượng』
+
+## [SKILL-044] 『Kiếm đạo tam bội đoạn』
+- **tên_chuẩn:** 『Kiếm đạo tam bội đoạn』
+
+## [SKILL-045] 『Kẻ Nuốt Chửng Kỹ Năng』
+- **tên_chuẩn:** 『Kẻ Nuốt Chửng Kỹ Năng』
+
+## [SKILL-046] 『Linh Thú Hóa』
+- **tên_chuẩn:** 『Linh Thú Hóa』
+
+## [SKILL-047] 『Loạn Trảm』
+- **tên_chuẩn:** 『Loạn Trảm』
+
+## [SKILL-048] 『Loạn Trảm - Diên Vĩ』
+- **tên_chuẩn:** 『Loạn Trảm - Diên Vĩ』
+
+## [SKILL-049] 『Loạn Trảm - Hoa Trà』
+- **tên_chuẩn:** 『Loạn Trảm - Hoa Trà』
+
+## [SKILL-050] 『Luyện Kim Cường Hóa』
+- **tên_chuẩn:** 『Luyện Kim Cường Hóa』
+
+## [SKILL-051] 『Ma Nhân Hóa』
+- **tên_chuẩn:** 『Ma Nhân Hóa』
+
+## [SKILL-052] 『Ma Nhân Hóa - Thổ Tinh Linh』
+- **tên_chuẩn:** 『Ma Nhân Hóa - Thổ Tinh Linh』
+
+## [SKILL-053] 『Minh Kiếm - Zamd』
+- **tên_chuẩn:** 『Minh Kiếm - Zamd』
+
+## [SKILL-054] 『Minh Thổ Lưu Ma Kiếm Thuật』
+- **tên_chuẩn:** 『Minh Thổ Lưu Ma Kiếm Thuật』
+
+## [SKILL-055] 『Minh Tướng Chi Đại Kiếm - Zamdringer』
+- **tên_chuẩn:** 『Minh Tướng Chi Đại Kiếm - Zamdringer』
+
+## [SKILL-056] 『Ngân Phát Trảm』
+- **tên_chuẩn:** 『Ngân Phát Trảm』
+
+## [SKILL-057] 『Ooyama Daisuke Chi Viêm Ma Pháp』
+- **tên_chuẩn:** 『Ooyama Daisuke Chi Viêm Ma Pháp』
+
+## [SKILL-058] 『Phong Kiếm』
+- **tên_chuẩn:** 『Phong Kiếm』
+
+## [SKILL-059] 『Phong Ma Pháp Tối Cao』
+- **tên_chuẩn:** 『Phong Ma Pháp Tối Cao』
+
+## [SKILL-060] 『Song Trảm』
+- **tên_chuẩn:** 『Song Trảm』
+
+## [SKILL-061] 『Sức Mạnh Phi Thường Để Vung Đại Kiếm』
+- **tên_chuẩn:** 『Sức Mạnh Phi Thường Để Vung Đại Kiếm』
+
+## [SKILL-062] 『Sức Mạnh Để Nắm Chặt Kiếm』
+- **tên_chuẩn:** 『Sức Mạnh Để Nắm Chặt Kiếm』
+
+## [SKILL-063] 『Sự chúc phúc của tám tinh linh』
+- **tên_chuẩn:** 『Sự chúc phúc của tám tinh linh』
+
+## [SKILL-064] 『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』
+- **tên_chuẩn:** 『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』
+
+## [SKILL-065] 『Thiên Mệnh Kiếm - Thánh Điểu Vũ Kích』
+- **tên_chuẩn:** 『Thiên Mệnh Kiếm - Thánh Điểu Vũ Kích』
+
+## [SKILL-066] 『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』
+- **tên_chuẩn:** 『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』
+
+## [SKILL-067] 『Thương Lôi Kiếm』
+- **tên_chuẩn:** 『Thương Lôi Kiếm』
+
+## [SKILL-068] 『Thương Viêm Kiếm』
+- **tên_chuẩn:** 『Thương Viêm Kiếm』
+
+## [SKILL-069] 『Thạch Hóa Kết Hợp Pháo Đạn』
+- **tên_chuẩn:** 『Thạch Hóa Kết Hợp Pháo Đạn』
+
+## [SKILL-070] 『Thần Thiết Thánh Kiếm』
+- **tên_chuẩn:** 『Thần Thiết Thánh Kiếm』
+
+## [SKILL-071] 『Trung Cấp Ma Pháp Kiếm Kỹ』
+- **tên_chuẩn:** 『Trung Cấp Ma Pháp Kiếm Kỹ』
+
+## [SKILL-072] 『Trận Pháp Luyện Kim Sơ Cấp』
+- **tên_chuẩn:** 『Trận Pháp Luyện Kim Sơ Cấp』
+
+## [SKILL-073] 『Trận Pháp Luyện Thành Giản Đơn』
+- **tên_chuẩn:** 『Trận Pháp Luyện Thành Giản Đơn』
+
+## [SKILL-074] 『Trận Pháp Triệu Hoán Tinh Linh』
+- **tên_chuẩn:** 『Trận Pháp Triệu Hoán Tinh Linh』
+
+## [SKILL-075] 『Trận pháp Luyện thành Băng kết』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Băng kết』
+
+## [SKILL-076] 『Trận pháp Luyện thành Chú đạo』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Chú đạo』
+
+## [SKILL-077] 『Trận pháp Luyện thành Cơ bản』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Cơ bản』
+
+## [SKILL-078] 『Trận pháp Luyện thành Nước』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Nước』
+
+## [SKILL-079] 『Trận pháp Luyện thành Thiết quặng』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Thiết quặng』
+
+## [SKILL-080] 『Trận pháp Luyện thành Ánh sáng』
+- **tên_chuẩn:** 『Trận pháp Luyện thành Ánh sáng』
+
+## [SKILL-081] 『Trận pháp dịch chuyển』
+- **tên_chuẩn:** 『Trận pháp dịch chuyển』
+
+## [SKILL-082] 『Tương Ảnh Thuật』
+- **tên_chuẩn:** 『Tương Ảnh Thuật』
+
+## [SKILL-083] 『Tối Đại Cuồng Hóa』
+- **tên_chuẩn:** 『Tối Đại Cuồng Hóa』
+
+## [SKILL-084] 『U Minh Vương Kiếm Zamd』
+- **tên_chuẩn:** 『U Minh Vương Kiếm Zamd』
+
+## [SKILL-085] 『Uyển Lực Cường Hóa』
+- **tên_chuẩn:** 『Uyển Lực Cường Hóa』
+
+## [SKILL-086] 『Viêm Kiếm Salamander』
+- **tên_chuẩn:** 『Viêm Kiếm Salamander』
+
+## [SKILL-087] 『Viêm Kiếm Thuật Sĩ』
+- **tên_chuẩn:** 『Viêm Kiếm Thuật Sĩ』
+
+## [SKILL-088] 『Viêm Ma Thuật Sư』
+- **tên_chuẩn:** 『Viêm Ma Thuật Sư』
+
+## [SKILL-089] 『Vô Song Kiếm Vũ』
+- **tên_chuẩn:** 『Vô Song Kiếm Vũ』
+
+## [SKILL-090] 『Vĩnh Cửu Hóa』
+- **tên_chuẩn:** 『Vĩnh Cửu Hóa』
+
+## [SKILL-091] 『Đoản Kiếm Kịch Độc Death Stinger』
+- **tên_chuẩn:** 『Đoản Kiếm Kịch Độc Death Stinger』
+
+## [SKILL-092] 『Đoản Kiếm Trì Hoãn』
+- **tên_chuẩn:** 『Đoản Kiếm Trì Hoãn』
+
+## [SKILL-093] 『Đại Sơn Lưu Viêm Quyền Thuật』
+- **tên_chuẩn:** 『Đại Sơn Lưu Viêm Quyền Thuật』
+
+## [SKILL-094] 『Đầu Lâu Của Chú Thuật Sư』
+- **tên_chuẩn:** 『Đầu Lâu Của Chú Thuật Sư』
+
+## [SKILL-095] 『Đầu Lâu Của Triệu Hoán Thuật Sư』
+- **tên_chuẩn:** 『Đầu Lâu Của Triệu Hoán Thuật Sư』
+
+## [SKILL-096] 『Đầu lâu Chú thuật sư』
+- **tên_chuẩn:** 『Đầu lâu Chú thuật sư』
+
+## [SKILL-097] 『Đầu lâu Triệu Hoán Thuật Sư』
+- **tên_chuẩn:** 『Đầu lâu Triệu Hoán Thuật Sư』
+
+## [SKILL-098] 『Độc tê liệt hóa học hệ Gamma』
+- **tên_chuẩn:** 『Độc tê liệt hóa học hệ Gamma』
+
+## [SKILL-099] 『Độc tê liệt hóa học kiểu Gamma』
+- **tên_chuẩn:** 『Độc tê liệt hóa học kiểu Gamma』
+
+## [SKILL-100] 『Đỡ Chồng Kiếm』
+- **tên_chuẩn:** 『Đỡ Chồng Kiếm』
+
+## [SKILL-101] 『Đứa con của Chú thần Ruinhilde』
+- **tên_chuẩn:** 『Đứa con của Chú thần Ruinhilde』
+
+## [SKILL-102] 『Đứa trẻ được chúc phúc』
+- **tên_chuẩn:** 『Đứa trẻ được chúc phúc』
+
+## [SKILL-103] 『Chú phát』
+- **tên_chuẩn:** 『Chú phát』
+
+## [SKILL-104] 『Hắc Hóa Salamander』
+- **tên_chuẩn:** 『Hắc Hóa Salamander』
+
+## [SKILL-105] 『Ma thuật sư hệ Băng』
+- **tên_chuẩn:** 『Ma thuật sư hệ Băng』
+
+## [SKILL-106] 『Chú Thuật Sư Tỉnh Giấc』
+- **tên_chuẩn:** 『Chú Thuật Sư Tỉnh Giấc』
+
+## [SKILL-107] 『Chúng Nghị Viện』
+- **tên_chuẩn:** 『Chúng Nghị Viện』
+
+## [SKILL-108] 『Cuồng Hóa Tối Đa』
+- **tên_chuẩn:** 『Cuồng Hóa Tối Đa』
+
+## [SKILL-109] 『Cường Hóa Cước Lực』
+- **tên_chuẩn:** 『Cường Hóa Cước Lực』
+
+## [SKILL-110] 『Cường Hóa Uy Lực』
+- **tên_chuẩn:** 『Cường Hóa Uy Lực』
+
+## [SKILL-111] 『Cự Đại Hóa』
+- **tên_chuẩn:** 『Cự Đại Hóa』
+
+## [SKILL-112] 『Cực Cuồng Hóa』
+- **tên_chuẩn:** 『Cực Cuồng Hóa』
+
+## [SKILL-113] 『Huyết Đấu Thuật』
+- **tên_chuẩn:** 『Huyết Đấu Thuật』
+
+## [SKILL-114] 『Khinh Kiếm Sĩ』
+- **tên_chuẩn:** 『Khinh Kiếm Sĩ』
+
+## [SKILL-115] 『Kho Chứa Kiếm』
+- **tên_chuẩn:** 『Kho Chứa Kiếm』
+
+## [SKILL-116] 『Kho Lưu Trữ Kiếm』
+- **tên_chuẩn:** 『Kho Lưu Trữ Kiếm』
+
+## [SKILL-117] 『Luyện Thành Thuật Sĩ』
+- **tên_chuẩn:** 『Luyện Thành Thuật Sĩ』
+
+## [SKILL-118] 『Lôi Kiếm Sĩ』
+- **tên_chuẩn:** 『Lôi Kiếm Sĩ』
+
+## [SKILL-119] 『Nguyệt Quang Chi Ngự Kiếm』
+- **tên_chuẩn:** 『Nguyệt Quang Chi Ngự Kiếm』
+
+## [SKILL-120] 『Ngụy Trang Thuật - Sơ Cấp』
+- **tên_chuẩn:** 『Ngụy Trang Thuật - Sơ Cấp』
+
+## [SKILL-121] 『Phá Niệm Chú』
+- **tên_chuẩn:** 『Phá Niệm Chú』
+
+## [SKILL-122] 『Quang Chi Thánh Kiếm』
+- **tên_chuẩn:** 『Quang Chi Thánh Kiếm』
+
+## [SKILL-123] 『Thi Linh Thuật』
+- **tên_chuẩn:** 『Thi Linh Thuật』
+
+## [SKILL-124] 『Thi Linh Thuật Sư』
+- **tên_chuẩn:** 『Thi Linh Thuật Sư』
+
+## [SKILL-125] 『Thiên Chú Khanh』
+- **tên_chuẩn:** 『Thiên Chú Khanh』
+
+## [SKILL-126] 『Thứ Nguyên Ma Pháp』
+- **tên_chuẩn:** 『Thứ Nguyên Ma Pháp』
+
+## [SKILL-127] 『Tinh Linh Thuật Sĩ』
+- **tên_chuẩn:** 『Tinh Linh Thuật Sĩ』
+
+## [SKILL-128] 『Trị Liệu Thuật Sĩ』
+- **tên_chuẩn:** 『Trị Liệu Thuật Sĩ』
+
+## [SKILL-129] 『Viêm Kiếm Sĩ』
+- **tên_chuẩn:** 『Viêm Kiếm Sĩ』
+
+## [SKILL-130] 『Ý Niệm Khóa』
+- **tên_chuẩn:** 『Ý Niệm Khóa』
 
 ---
 
-## [ITEM-002] Red Axe
+### 2. 🛡️ VẬT PHẨM & TRANG BỊ (ITEMS)
 
-- **id:** ITEM-002
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Red Axe
-- **tên_gốc:** レッドアックス / Red Axe
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Rìu chiến cường hóa thuộc tính hỏa, có khả năng chém vỡ giáp quái vật.
-
----
-
-## [ITEM-003] Cool Cutlass
-
-- **id:** ITEM-003
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Cool Cutlass
-- **tên_gốc:** クールカトラス / Cool Cutlass
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Kiếm ngắn lưỡi cong linh hoạt hỗ trợ tốc chiến.
-
----
-
-## [ITEM-004] Hắc Thiết Đại Phủ
-
-- **id:** ITEM-004
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Hắc Thiết Đại Phủ
-- **tên_gốc:** 黒鉄の大斧 / Kurogane no Oofu
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Đại rìu thép đen cực nặng, yêu cầu thể lực cao của Trọng Chiến Binh.
-
----
-
-## [ITEM-005] Vòng Tay Sức Mạnh
-
-- **id:** ITEM-005
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Vòng Tay Sức Mạnh
-- **tên_gốc:** 力の腕輪 / Bracelet of Strength
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Vật phẩm ma pháp tăng cường sức mạnh cơ bắp cho người đeo.
-
----
-
-## [ITEM-006] Cây Gậy Của Kẻ Ngốc
-
-- **id:** ITEM-006
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Cây Gậy Của Kẻ Ngốc
-- **tên_gốc:** 愚者の杖 / The Fool's Cane
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Gậy phép bí ẩn sở hữu khả năng khuếch đại chú thuật bóng tối.
-
----
-
-## [ITEM-007] Đại Rìu Đẫm Máu
-
-- **id:** ITEM-007
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Đại Rìu Đẫm Máu
-- **tên_gốc:** 血塗れた大斧 / Bloody Great Axe
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Vũ khí dropped từ Kị Sĩ Người Sói, mang sát khí hắc ám.
-
----
-
-## [ITEM-008] Trường Kiếm Hoen Rỉ
-
-- **id:** ITEM-008
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Trường Kiếm Hoen Rỉ
-- **tên_gốc:** 錆付いた長剣 / Rusty Longsword
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Thanh kiếm rỉ sét tìm thấy ở phế tích, có thể tôi luyện lại.
-
----
-
-## [ITEM-009] Quang Thạch (Ma Thạch)
-
-- **id:** ITEM-009
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Quang Thạch (Ma Thạch)
-- **tên_gốc:** 光石 / Light Stone
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Khoáng thạch phát quang dùng để thắp sáng và làm lõi năng lượng ma thuật.
-
----
-
-## [ITEM-010] Đường Kính Trắng
-
-- **id:** ITEM-010
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Đường Kính Trắng
-- **tên_gốc:** グラニュー糖 / Granulated Sugar
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Vật phẩm sinh hoạt Momokawa cất giấu để làm nguyên liệu chú thuật và trao đổi.
-
----
-
-## [ITEM-011] Potion Thoái Hóa
-
-- **id:** ITEM-011
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Potion Thoái Hóa
-- **tên_gốc:** 劣化したポーション / Degraded Potion
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Dược phẩm hồi phục bị suy giảm dược tính theo thời gian.
-
----
-
-## [ITEM-012] Lõi Ma Vật (Core)
-
-- **id:** ITEM-012
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Lõi Ma Vật (Core)
-- **tên_gốc:** コア / Monster Core
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Hạch tâm năng lượng thu hoạch từ cơ thể quái vật và ma thú.
-
----
-
-## [ITEM-013] Rương Kho Báu
-
-- **id:** ITEM-013
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Rương Kho Báu
-- **tên_gốc:** 宝箱 / Treasure Chest
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Hòm chứa trang bị, ma thạch quý giá phân bố rải rác trong Mê cung.
-
----
-
-## [ITEM-014] Vương Kiếm Zamd
-
-- **id:** ITEM-014
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** Vương Kiếm Zamd
-- **tên_gốc:** 王剣ザムド / Zamd
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Thanh bảo kiếm hoàng kim tối thượng thuộc quyền sở hữu của Tendou Ryuuichi.
-
----
-
-## [ITEM-015] 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
-
-- **id:** ITEM-015
-- **loại:** VẬT PHẨM / TRANG BỊ MA PHÁP
-- **tên_chuẩn:** 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
-- **tên_gốc:** 突貫工事 / 突貫工事くん (Tokkan Kouji-kun)
-- **biệt_danh:** Bé Thi Công Thần Tốc
-- **người_chế_tạo:** Randou Kyouko + Momokawa Kotarou + Hayama Ritsuki
-- **phân_loại_mẫu:**
-  - **Mẫu 1 (Tokkan Kouji Mẫu 1):** Cọc sắt dài cắm làm điểm neo dẫn truyền ma lực để Kyouko kích hoạt ma pháp 『Đại Sơn Thành Lũy』 tạo đường dốc vượt tường thành.
-  - **Mẫu 2 (Tokkan Kouji Mẫu 2):** Cọc chuyên dụng kích hoạt ma pháp Thổ tạo các bức tường kiên cố dựng pháo đài cố thủ.
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 309, 313, 317
+## [ITEM-001] 『Cọc Thi Công Thần Tốc』 (Tokkan Kouji)
+- **tên_chuẩn:** 『Cọc Thi Công Thần Tốc』
 - **mô_tả:** Cọc kim loại khắc thuật thức dẫn truyền ma lực tăng tốc độ thi triển Thổ ma thuật lên mức tức thì.
 
----
-
-## [ITEM-016] 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
-
-- **id:** ITEM-016
-- **loại:** VẬT PHẨM / PHƯƠNG TIỆN CHIẾN ĐẤU
-- **tên_chuẩn:** 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
-- **tên_gốc:** ロイロップス (Roiroppusu)
-- **phân_loại:**
-  - **Loyrops Số 1 (Bản Vận Tải Thiết Giáp):** Gắn cabin kim loại chống tên bắn, làm phòng phẫu thuật dã chiến của Himeno và kho tiếp tế lựu đạn cháy.
-  - **Loyrops Số 2 (Bản Đột Kích Trọng Trang):** Bọc giáp gai nhọn, trang bị súng phun lửa cỡ lớn do Trọng Chiến Binh Yamada điều khiển càn quét.
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 308, 309, 318
+## [ITEM-002] 『Loyrops Số 1 & Số 2』 (Xe Thiết Giáp)
+- **tên_chuẩn:** 『Loyrops Số 1 & Số 2』
 - **mô_tả:** Hai phương tiện chiến lược được cải tiến từ loài ma thú Loyrops bọc thép khổng lồ.
 
----
-
-## [ITEM-017] 『Bát Táp Ngưu Ma Đao & Berserk X』
-
-- **id:** ITEM-017
-- **loại:** VẬT PHẨM / VŨ KHÍ & DƯỢC PHẨM
+## [ITEM-003] 『Bát Táp Ngưu Ma Đao & Berserk X』
 - **tên_chuẩn:** 『Bát Táp Ngưu Ma Đao & Berserk X』
-- **tên_gốc:** 八颯牛魔刀 / Berserk X
-- **người_sở_hữu:** Futaba Meiko (Mei-chan)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 319, 321
 - **mô_tả:** Thanh đại đao nguyền rủa cực nặng kết hợp cùng thuốc cường hóa tối thượng Berserk X giúp Mei-chan chém bay đầu Đại Chiến Sĩ Trưởng Zagan.
 
----
-
-## [ITEM-018] 『Viêm Kiếm Salamandra』 (Salamander Sword)
-
-- **id:** ITEM-018
-- **loại:** VẬT PHẨM / VŨ KHÍ MA PHÁP
-- **tên_chuẩn:** 『Viêm Kiếm Salamandra』 (Salamander Sword)
-- **người_sở_hữu:** Nakajima Haruma (Ma Pháp Kiếm Sĩ)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 306, 310
+## [ITEM-004] 『Viêm Kiếm Salamandra』 (Salamander Sword)
+- **tên_chuẩn:** 『Viêm Kiếm Salamandra』
 - **mô_tả:** Thanh kiếm gia trì ma thuật lửa giúp Nakajima thi triển Hỏa Viêm Phòng Bích và các kiếm kỹ trung cấp hệ Hỏa.
 
----
-
-## [ITEM-019] 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
-
-- **id:** ITEM-019
-- **loại:** VẬT PHẨM / BỘT NỔ MA LỰC
-- **tên_chuẩn:** 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
-- **người_chế_tạo:** Momokawa Kotarou
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 311, 316
-- **mô_tả:** Bom lõi ma lực cực lớn được Kotarou bí mật đặt dưới các cột trụ nâng đỡ, kích nổ đánh sập toàn bộ thành trì Vương quốc Goma.
-
-## [ITEM-020] 『Mô Hình Ngụy Trang Dũng Giả』 (Yuuto Decoy)
-
-- **id:** ITEM-020
-- **loại:** VẬT PHẨM / ĐẠO CỤ CHIẾN THUẬT
-- **tên_chuẩn:** 『Mô Hình Ngụy Trang Dũng Giả』 (Yuuto Decoy)
-- **người_chế_tạo:** Momokawa Kotarou (Thao Khôi Lỗi) + Sakura (Thanh âm gia trì)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 341 - 343
-- **mô_tả:** Con rối ngụy trang đặc biệt được Kotarou tạo ra để mô phỏng hoàn hảo khí tức và hình dáng của mục tiêu.
-
----
-
-## [ITEM-021] 『Thánh Vật Cổ Đại Albion』 (Albion Holy Relic)
-
-- **id:** ITEM-021
-- **loại:** VẬT PHẨM / DI VẬT CỔ ĐẠI
-- **tên_chuẩn:** 『Thánh Vật Cổ Đại Albion』 (Albion Holy Relic)
-- **tên_gốc:** アルビオンの遺物 / Albion Relic
-- **vị_trí:** Tầng sâu nhất của Tháp Trung Tâm
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 344, 347
+## [ITEM-005] 『Thánh Vật Cổ Đại Albion』 (Albion Holy Relic)
+- **tên_chuẩn:** 『Thánh Vật Cổ Đại Albion』
 - **mô_tả:** Cổ vật ma pháp tối cao của nền văn minh cổ Albion, nắm giữ chìa khóa kích hoạt Thiên Tống Môn.
 
-
-### 3. 🐺 SINH VẬT, QUÁI VẬT & MA THÚ (MONSTERS & BEASTS)
-
-## [MONSTER-001] Christaur
-
-- **id:** MONSTER-001
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Christaur
-- **tên_gốc:** クリスタウルス / Christaur
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Quái thú kết tinh tinh thể đá quý sở hữu lớp giáp phản xạ ma pháp.
-
----
-
-## [MONSTER-002] Quang Thạch Chủng
-
-- **id:** MONSTER-002
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Quang Thạch Chủng
-- **tên_gốc:** 光石種 / Light Stone Species
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Chủng loại quái vật ký sinh ma thạch phát quang trong hang động.
-
----
-
-## [MONSTER-003] Người Sói (Werewolf)
-
-- **id:** MONSTER-003
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Người Sói (Werewolf)
-- **tên_gốc:** 狼男 / Werewolf
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Quái thú dạng người lai sói, di chuyển thần tốc và móng vuốt sắc bén.
-
----
-
-## [MONSTER-004] Kị Sĩ Người Sói
-
-- **id:** MONSTER-004
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Kị Sĩ Người Sói
-- **tên_gốc:** 狼男の騎士 / Werewolf Knight
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Thủ lĩnh bầy Người Sói trang bị giáp trụ và đại rìu chiến đấu.
-
----
-
-## [MONSTER-005] Goma (Yêu Tinh Nhỏ)
-
-- **id:** MONSTER-005
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Goma (Yêu Tinh Nhỏ)
-- **tên_gốc:** ゴーマ / Goma
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Chủng yêu tinh hạ cấp hung hãn, đông đúc, thường đi theo bầy đàn cướp bóc.
-
----
-
-## [MONSTER-006] Ếch Lợn
-
-- **id:** MONSTER-006
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Ếch Lợn
-- **tên_gốc:** 豚ガエル / Buta-kaeru
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Sinh vật đầm lầy lai giữa lợn rừng và ếch khổng lồ.
-
----
-
-## [MONSTER-007] Gà biển (Giant Chicken)
-
-- **id:** MONSTER-007
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Gà biển (Giant Chicken)
-- **tên_gốc:** 海鶏 / デカコッコ
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Loài chim khổng lồ phân bố ven biển và rừng rậm.
-
----
-
-## [MONSTER-008] Ong Mật Khổng Lồ
-
-- **id:** MONSTER-008
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Ong Mật Khổng Lồ
-- **tên_gốc:** Giant Honeybee
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Côn trùng săn mồi bay theo đàn, ngòi chích chứa nọc độc gây tê liệt.
-
----
-
-## [MONSTER-009] Mandragora
-
-- **id:** MONSTER-009
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Mandragora
-- **tên_gốc:** マンドラゴラ / Mandragora
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Thực vật ma quái có tiếng thét gây choáng váng và rối loạn tâm trí.
-
----
-
-## [MONSTER-010] Tinh Linh Thảo Mộc
-
-- **id:** MONSTER-010
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Tinh Linh Thảo Mộc
-- **tên_gốc:** 草の精霊 / Grass Spirit
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Sinh linh nguyên tố ngụ trong cây cỏ rừng sâu.
-
----
-
-## [MONSTER-011] Geela & Jazeera
-
-- **id:** MONSTER-011
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Geela & Jazeera
-- **tên_gốc:** ジーラ / ジャジーラ
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Quái điểu săn mồi sa mạc với sải cánh rộng và thị lực tầm xa.
-
----
-
-## [MONSTER-012] Minogorilla
-
-- **id:** MONSTER-012
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Minogorilla
-- **tên_gốc:** ミノゴリラ / Minogorilla
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Ma thú lai giữa bò rừng Minotaur và khỉ đột khổng lồ.
-
----
-
-## [MONSTER-013] Yamata no Orochi
-
-- **id:** MONSTER-013
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Yamata no Orochi
-- **tên_gốc:** ヤマタノオロチ / 8-Headed Snake
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Boss đại xà 8 đầu trấn giữ ngọn núi lửa thiêng trong Mê cung Tháp.
-
----
-
-## [MONSTER-014] Living Armor
-
-- **id:** MONSTER-014
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Living Armor
-- **tên_gốc:** リビングアーマー / Living Armor
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Giáp trụ rỗng được điều khiển bởi linh hồn ma thuật hắc ám.
-
----
-
-## [MONSTER-015] Gargoyle
-
-- **id:** MONSTER-015
-- **loại:** SINH VẬT / QUÁI VẬT
-- **tên_chuẩn:** Gargoyle
-- **tên_gốc:** ガーゴイル / Gargoyle
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Quái vật tượng đá biết bay canh giữ pháo đài và vách núi.
-
----
-
-## [MONSTER-016] Goma & Gira-Goma (Đại Chiến Sĩ)
-
-- **id:** MONSTER-016
-- **loại:** SINH VẬT / QUÁI VẬT & CHỦNG TỘC
-- **tên_chuẩn:** Goma & Gira-Goma (Đại Chiến Sĩ)
-- **tên_gốc:** ゴーマ (Goma) / ギラ・ゴーマ (Gira-Goma)
-- **phân_cấp:**
-  - **Goma thông thường:** Lính canh, công nhân, quái vật bốn tay canh gác thành trì.
-  - **Gira-Goma (Đại Chiến Sĩ):** Tầng lớp chiến binh tinh anh tối cao dưới trướng Vua Oh-ma (Zagan, Bazuzu, Bandon, Gizaginzu, Jiji-Gogo, Bon), sở hữu kỹ năng Khổng Lồ Hóa.
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn Arc Goma
-- **mô_tả:** Chủng tộc ma nhân hiếu chiến làm chủ Vương quốc Goma dưới lòng đất.
-
----
-
-## [MONSTER-017] Loyrops (Ma Thú Bọc Thép Khổng Lồ)
-
-- **id:** MONSTER-017
-- **loại:** SINH VẬT / MA THÚ THUẦN HÓA
-- **tên_chuẩn:** Loyrops (Ma Thú Bọc Thép)
-- **tên_gốc:** ロイロップス / Loyrops
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Ma thú ăn cỏ khổng lồ hình dáng tê giác bọc thép hai sừng, được thuần hóa làm phương tiện chuyên chở và xe bọc thép chiến đấu.
-
-
-### 4. 📜 THUẬT NGỮ & KHÁI NIỆM THẾ GIỚI (WORLD TERMS)
-
-## [TERM-001] Tam Đầu Lâu Chú Thuật
-
-- **id:** TERM-001
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** Tam Đầu Lâu Chú Thuật
-- **tên_gốc:** Three Cursed Skulls
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn truyện
-- **mô_tả:** Hệ thống chú thuật hắc ám thờ phụng 3 đầu lâu thần thánh (Hinagiku, Ruinhilde, Nerine).
-
----
-
-## [TERM-002] Cổ Đại Đô Thị Albion (Albion Ancient City)
-
-- **id:** TERM-002
-- **loại:** THUẬT NGỮ THẾ GIỚI / ĐỊA DANH
-- **tên_chuẩn:** Cổ Đại Đô Thị Albion
-- **tên_gốc:** 古代都市アルビオン / Albion
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 330 - 350
-- **mô_tả:** Tàn tích đô thị công nghệ ma pháp cổ đại nằm bên dưới Mê Cung Tháp, nơi chứa các cơ sở chỉ huy quân sự và Thiên Tống Môn.
-
----
-
-## [TERM-003] Thiên Tống Môn (Teleport Gate)
-
-- **id:** TERM-003
-- **loại:** THUẬT NGỮ THẾ GIỚI / THIẾT BỊ KHÔNG GIAN
-- **tên_chuẩn:** Thiên Tống Môn
-- **tên_gốc:** 転送門 / Teleport Gate
-- **vị_trí:** Phòng Thị trưởng Albion, tầng sâu nhất Tháp Trung Tâm
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 335, 347
-- **mô_tả:** Cổng không gian cổ đại cho phép di chuyển tức thời giữa các phân khu mê cung, từng bị Takanashi Kotori chiếm giữ quyền kiểm soát.
-
----
-
-## [TERM-004] Khu Rừng Tinh Linh (Fairy Forest)
-
-- **id:** TERM-004
-- **loại:** THUẬT NGỮ THẾ GIỚI / ĐỊA DANH MÊ CUNG
-- **tên_chuẩn:** Khu Rừng Tinh Linh
-- **tên_gốc:** 精霊の森 / Fairy Forest
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 354 - 357
-- **mô_tả:** Tầng mê cung sinh thái rậm rạp nơi trú ngụ của các tinh linh thiên nhiên và ma thực vật biến dị nguy hiểm.
-
----
-
-## [TERM-005] 『...Hãy tỉnh giấc đi』
-
-- **id:** TERM-005
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『...Hãy tỉnh giấc đi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-006] 『...này』
-
-- **id:** TERM-006
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『...này』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-007] 『A-xít Thuẫn』
-
-- **id:** TERM-007
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『A-xít Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-008] 『Alfa』
-
-- **id:** TERM-008
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Alfa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-009] 『Alpha』
-
-- **id:** TERM-009
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Alpha』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-010] 『Ancient Villains』
-
-- **id:** TERM-010
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ancient Villains』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-011] 『Anh Hoa Liêu Loạn』
-
-- **id:** TERM-011
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Anh Hoa Liêu Loạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-012] 『Arachne』
-
-- **id:** TERM-012
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Arachne』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-013] 『Assassin Suit』
-
-- **id:** TERM-013
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Assassin Suit』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-014] 『Avdran』
-
-- **id:** TERM-014
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Avdran』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-015] 『Balo Goma』
-
-- **id:** TERM-015
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Balo Goma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-016] 『Ban Kỷ Luật』
-
-- **id:** TERM-016
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ban Kỷ Luật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-017] 『Ban Tuyên Truyền』
-
-- **id:** TERM-017
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ban Tuyên Truyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-018] 『Ban Y Tế』
-
-- **id:** TERM-018
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ban Y Tế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-019] 『Binh lính Gove』
-
-- **id:** TERM-019
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Binh lính Gove』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-020] 『Biến Thái Hoàn Toàn』
-
-- **id:** TERM-020
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Biến Thái Hoàn Toàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-021] 『Blast Knuckle』
-
-- **id:** TERM-021
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Blast Knuckle』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-022] 『Bullwhip』
-
-- **id:** TERM-022
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bullwhip』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-023] 『Bách Liệt Tán Hoa』
-
-- **id:** TERM-023
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bách Liệt Tán Hoa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-022] 『Bát Tảo Ngưu Ma Đao』
-
-- **id:** ITEM-022
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-006] 『Bát Tảo Ngưu Ma Đao』
 - **tên_chuẩn:** 『Bát Tảo Ngưu Ma Đao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-024] 『Bão Tuyết Cuồng Phong』
-
-- **id:** TERM-024
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bão Tuyết Cuồng Phong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-025] 『Bí Thạch Trắng』
-
-- **id:** TERM-025
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bí Thạch Trắng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-026] 『Bích Hành』
-
-- **id:** TERM-026
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bích Hành』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-027] 『Búp Bê Bùn Dơ Bẩn』
-
-- **id:** TERM-027
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Búp Bê Bùn Dơ Bẩn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-028] 『Băng Hộ Phù』
-
-- **id:** TERM-028
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Hộ Phù』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-029] 『Băng Kết Phong Tinh』
-
-- **id:** TERM-029
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Kết Phong Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-023] 『Băng Kết Trường Thương』
-
-- **id:** ITEM-023
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-007] 『Băng Kết Trường Thương』
 - **tên_chuẩn:** 『Băng Kết Trường Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-021] 『Băng Ma Thuật Sư』
-
-- **id:** SKILL-021
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Băng Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-024] 『Băng Mỏng Thương』
-
-- **id:** ITEM-024
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-008] 『Băng Mỏng Thương』
 - **tên_chuẩn:** 『Băng Mỏng Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-030] 『Băng Mỏng Tiễn』
-
-- **id:** TERM-030
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Mỏng Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-031] 『Băng Pháo』
-
-- **id:** TERM-031
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-032] 『Băng Sơn Thành Lũy』
-
-- **id:** TERM-032
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Sơn Thành Lũy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-033] 『Băng Tinh Linh』
-
-- **id:** TERM-033
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-034] 『Băng Tinh Linh Cấp Cao』
-
-- **id:** TERM-034
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Tinh Linh Cấp Cao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-035] 『Băng Tinh Thể』
-
-- **id:** TERM-035
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Tinh Thể』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-036] 『Băng Tiễn』
-
-- **id:** TERM-036
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-037] 『Băng Tuyết Cự Thuẫn』
-
-- **id:** TERM-037
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Tuyết Cự Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-038] 『Băng Vụ』
-
-- **id:** TERM-038
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Vụ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-039] 『BẠCH CHI BÍ THẠCH』
-
-- **id:** TERM-039
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『BẠCH CHI BÍ THẠCH』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-040] 『BẠCH DIỆN CHI VŨ - CỬU VĨ』
-
-- **id:** TERM-040
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『BẠCH DIỆN CHI VŨ - CỬU VĨ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-041] 『Bạc Âm』
-
-- **id:** TERM-041
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạc Âm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-042] 『Bạc Đăng』
-
-- **id:** TERM-042
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạc Đăng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-043] 『Bạch Bí Thạch』
-
-- **id:** TERM-043
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Bí Thạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-044] 『Bạch Diện Chi Vũ - Cửu Vĩ』
-
-- **id:** TERM-044
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Diện Chi Vũ - Cửu Vĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-045] 『Bạch Giao』
-
-- **id:** TERM-045
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Giao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-025] 『Bạch Hùng Giáp Sắt』
-
-- **id:** ITEM-025
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-009] 『Bạch Hùng Giáp Sắt』
 - **tên_chuẩn:** 『Bạch Hùng Giáp Sắt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-046] 『Bạch Ngân Thần Nhạc』
-
-- **id:** TERM-046
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Ngân Thần Nhạc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-047] 『Bạch Quang Tiễn』
-
-- **id:** TERM-047
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Quang Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-048] 『Bạch Tật Phong』
-
-- **id:** TERM-048
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Tật Phong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-049] 『Bạo Long Đỏ』
-
-- **id:** TERM-049
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạo Long Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-050] 『BẢO VỆ』
-
-- **id:** TERM-050
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『BẢO VỆ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-051] 『BẤT THOÁI CHUYỂN CHI THỆ ƯỚC』
-
-- **id:** TERM-051
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『BẤT THOÁI CHUYỂN CHI THỆ ƯỚC』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-052] 『Bất Thối Chuyển Thệ Ước』
-
-- **id:** TERM-052
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bất Thối Chuyển Thệ Ước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-053] 『Bắt đầu』
-
-- **id:** TERM-053
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bắt đầu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-054] 『Bốn Dạ Dày Của Christaur』
-
-- **id:** TERM-054
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bốn Dạ Dày Của Christaur』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-055] 『Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện』
-
-- **id:** TERM-055
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-056] 『Bộc Nhiệt Cân Nhục』
-
-- **id:** TERM-056
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bộc Nhiệt Cân Nhục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-057] 『Bộc Phá』
-
-- **id:** TERM-057
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bộc Phá』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-058] 『CHIẾN BINH TRIỆU HỒI』
-
-- **id:** TERM-058
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CHIẾN BINH TRIỆU HỒI』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-059] 『Che Giấu Hiện Diện』
-
-- **id:** TERM-059
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Che Giấu Hiện Diện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-060] 『Che Giấu Khí Tức』
-
-- **id:** TERM-060
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Che Giấu Khí Tức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-061] 『Chiêu Lôi』
-
-- **id:** TERM-061
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiêu Lôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-062] 『Chiến Binh Cuồng Loạn Lang Thang』
-
-- **id:** TERM-062
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiến Binh Cuồng Loạn Lang Thang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-063] 『Chiến Khiếu』
-
-- **id:** TERM-063
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiến Khiếu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-026] 『Chiến Thú Giáp Tro Bạch』
-
-- **id:** ITEM-026
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-010] 『Chiến Thú Giáp Tro Bạch』
 - **tên_chuẩn:** 『Chiến Thú Giáp Tro Bạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-022] 『Chiến dịch Quảng cáo Đi trước một bước』
-
-- **id:** SKILL-022
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chiến dịch Quảng cáo Đi trước một bước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-064] 『Chronos』
-
-- **id:** TERM-064
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chronos』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-065] 『Chuyển Hồn (Đổi Thân Xác)』
-
-- **id:** TERM-065
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chuyển Hồn (Đổi Thân Xác)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-066] 『Chân Cơ Bắp』
-
-- **id:** TERM-066
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Cơ Bắp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-067] 『Chân Nhất Thiểm』
-
-- **id:** TERM-067
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Nhất Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-068] 『Chín Mươi Chín Linh Hồn』
-
-- **id:** TERM-068
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chín Mươi Chín Linh Hồn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-023] 『Chú Thuật Ngự Tử』
-
-- **id:** SKILL-023
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú Thuật Ngự Tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-024] 『Chú Thuật Sư』
-
-- **id:** SKILL-024
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-025] 『Chú Đạo Khắc Ấn』
-
-- **id:** SKILL-025
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú Đạo Khắc Ấn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-026] 『Chú Ấn』
-
-- **id:** SKILL-026
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú Ấn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-069] 『Clan Mạo Hiểm Giả』
-
-- **id:** TERM-069
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Clan Mạo Hiểm Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-070] 『Coffee Trent』
-
-- **id:** TERM-070
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Coffee Trent』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-071] 『Con Rối Bóng Tối Lệ Thuộc』
-
-- **id:** TERM-071
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Con Rối Bóng Tối Lệ Thuộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-072] 『Con Rối Bùn Ô Uế』
-
-- **id:** TERM-072
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Con Rối Bùn Ô Uế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-073] 『Cool Cutlass Cải tiến』
-
-- **id:** TERM-073
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cool Cutlass Cải tiến』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-074] 『Crimson Grilleen』
-
-- **id:** TERM-074
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Crimson Grilleen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-075] 『Crimson Rex』
-
-- **id:** TERM-075
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Crimson Rex』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-076] 『Cursed Hexa』
-
-- **id:** TERM-076
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cursed Hexa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-077] 『Cursed Soil』
-
-- **id:** TERM-077
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cursed Soil』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-078] 『Cuồng Chiến Binh』
-
-- **id:** TERM-078
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cuồng Chiến Binh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-027] 『Cuồng Hóa A』
-
-- **id:** SKILL-027
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cuồng Hóa A』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-079] 『Cà Phê Maid & Quản Gia Đảo Ngược』
-
-- **id:** TERM-079
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cà Phê Maid & Quản Gia Đảo Ngược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-080] 『Cánh Tay Cơ Bắp』
-
-- **id:** TERM-080
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cánh Tay Cơ Bắp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-081] 『Cánh Vệ Thần』
-
-- **id:** TERM-081
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cánh Vệ Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-082] 『Cánh Vỗ Trói Buộc』
-
-- **id:** TERM-082
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cánh Vỗ Trói Buộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-083] 『Cây Gậy Ẩn Mật』
-
-- **id:** TERM-083
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cây Gậy Ẩn Mật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-084] 『Cơ Quan Tăng Ma Lực』
-
-- **id:** TERM-084
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cơ Quan Tăng Ma Lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-085] 『Cơn Sốt Đỏ』
-
-- **id:** TERM-085
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cơn Sốt Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-086] 『CƯƠNG KÍCH』
-
-- **id:** TERM-086
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CƯƠNG KÍCH』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-087] 『CƯƠNG THÂN』
-
-- **id:** TERM-087
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CƯƠNG THÂN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-088] 『CƯƠNG THỂ』
-
-- **id:** TERM-088
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CƯƠNG THỂ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-089] 『Cương Kích』
-
-- **id:** TERM-089
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cương Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-090] 『Cương Lực』
-
-- **id:** TERM-090
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cương Lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-091] 『Cương Thân (Steel Body)』
-
-- **id:** TERM-091
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cương Thân (Steel Body)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-092] 『Cương Thể』
-
-- **id:** TERM-092
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cương Thể』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-093] 『Cương Đại Đả Kích』
-
-- **id:** TERM-093
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cương Đại Đả Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-094] 『Cường Đại Đả』
-
-- **id:** TERM-094
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cường Đại Đả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-095] 『Cảm Nhận Hiện Diện』
-
-- **id:** TERM-095
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cảm Nhận Hiện Diện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-096] 『Cảm Nhận Khí Biến』
-
-- **id:** TERM-096
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cảm Nhận Khí Biến』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-097] 『Cảm Nhận Khí Tức』
-
-- **id:** TERM-097
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cảm Nhận Khí Tức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-028] 『Cấm Chú Giải Pháp』
-
-- **id:** SKILL-028
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cấm Chú Giải Pháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-098] 『Cấm giết người』
-
-- **id:** TERM-098
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cấm giết người』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-099] 『Cấp Cứu Hồi Phục』
-
-- **id:** TERM-099
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cấp Cứu Hồi Phục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-100] 『Cần thiết』
-
-- **id:** TERM-100
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cần thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-101] 『Cầu Mưa Đại Tế』
-
-- **id:** TERM-101
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cầu Mưa Đại Tế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-102] 『Cặp học sinh』
-
-- **id:** TERM-102
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cặp học sinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-103] 『CỔNG KHÔNG GIAN』
-
-- **id:** TERM-103
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CỔNG KHÔNG GIAN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-104] 『Cổ Đại Ngữ Giải Độc - Tự (Cấp Nhập Môn)』
-
-- **id:** TERM-104
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cổ Đại Ngữ Giải Độc - Tự (Cấp Nhập Môn)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-105] 『Cổ Độc Chi Khí』
-
-- **id:** TERM-105
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cổ Độc Chi Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-106] 『Cộng Sự Đến Đây Capsule』
-
-- **id:** TERM-106
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cộng Sự Đến Đây Capsule』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-107] 『Cứng Cáp』
-
-- **id:** TERM-107
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cứng Cáp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-108] 『Cửu Thập Cửu Chi Ngự Linh』
-
-- **id:** TERM-108
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cửu Thập Cửu Chi Ngự Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-109] 『Cự Long Đại Ngạc』
-
-- **id:** TERM-109
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Long Đại Ngạc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-110] 『Cự Nhân Chiến Trang』
-
-- **id:** TERM-110
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Nhân Chiến Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-111] 『Cự Nhân Sát』
-
-- **id:** TERM-111
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Nhân Sát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-112] 『Cự Thần Vĩ Đại』
-
-- **id:** TERM-112
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Thần Vĩ Đại』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-113] 『Dao Phế Liệu』
-
-- **id:** TERM-113
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dao Phế Liệu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-114] 『Dao bướm của Higuchi』
-
-- **id:** TERM-114
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dao bướm của Higuchi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-115] 『Dao Đỏ』
-
-- **id:** TERM-115
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dao Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-116] 『Dark Tower Shield』
-
-- **id:** TERM-116
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dark Tower Shield』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-117] 『Death Crimson Stinger』
-
-- **id:** TERM-117
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Death Crimson Stinger』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-118] 『Death Stalker』
-
-- **id:** TERM-118
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Death Stalker』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-027] 『Death Stalker Chi Độc Thương Vĩ』
-
-- **id:** ITEM-027
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-011] 『Death Stalker Chi Độc Thương Vĩ』
 - **tên_chuẩn:** 『Death Stalker Chi Độc Thương Vĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-119] 『Death Stinger』
-
-- **id:** TERM-119
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Death Stinger』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-120] 『Decakokko』
-
-- **id:** TERM-120
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Decakokko』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-121] 『Deka-Kokko Đóng Băng』
-
-- **id:** TERM-121
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Deka-Kokko Đóng Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-122] 『Diamond Duster』
-
-- **id:** TERM-122
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Diamond Duster』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-123] 『Diên Vĩ』
-
-- **id:** TERM-123
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Diên Vĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-124] 『Dungeon Master』
-
-- **id:** TERM-124
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dungeon Master』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-125] 『Dâm Ma』
-
-- **id:** TERM-125
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dâm Ma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-126] 『Dâm Môn Hàng Ma Nghi Lễ』
-
-- **id:** TERM-126
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dâm Môn Hàng Ma Nghi Lễ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-127] 『Dâm Văn』
-
-- **id:** TERM-127
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dâm Văn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-128] 『DŨNG GIẢ』
-
-- **id:** TERM-128
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『DŨNG GIẢ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-129] 『DŨNG TINH THẬP TỰ ĐOÀN』
-
-- **id:** TERM-129
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『DŨNG TINH THẬP TỰ ĐOÀN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-130] 『Dược Hiệu Thánh Thủy』
-
-- **id:** TERM-130
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược Hiệu Thánh Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-131] 『Dược Học Trực Giác』
-
-- **id:** TERM-131
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược Học Trực Giác』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-132] 『Dược Sư』
-
-- **id:** TERM-132
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-133] 『Dược học Trực giác』
-
-- **id:** TERM-133
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược học Trực giác』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-134] 『Dược học Trực giác (Trực Giác Dược Học)』
-
-- **id:** TERM-134
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược học Trực giác (Trực Giác Dược Học)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-135] 『Dạ Dày Không Đáy』
-
-- **id:** TERM-135
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dạ Dày Không Đáy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-136] 『Dạng Sóng』
-
-- **id:** TERM-136
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dạng Sóng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-137] 『Dẫn Bạch Ba』
-
-- **id:** TERM-137
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dẫn Bạch Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-138] 『Dịch Vụ Nô Lệ Velvet』
-
-- **id:** TERM-138
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dịch Vụ Nô Lệ Velvet』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-029] 『Dịch chuyển ma pháp』
-
-- **id:** SKILL-029
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Dịch chuyển ma pháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-139] 『Dừng lại』
-
-- **id:** TERM-139
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dừng lại』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-140] 『Elemental Mountain』
-
-- **id:** TERM-140
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Elemental Mountain』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-141] 『Elysion』
-
-- **id:** TERM-141
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Elysion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-142] 『End Bolt』
-
-- **id:** TERM-142
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『End Bolt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-143] 『Fairy Walnut』
-
-- **id:** TERM-143
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Fairy Walnut』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-144] 『Fear Gaze』
-
-- **id:** TERM-144
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Fear Gaze』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-145] 『Fenrir Pride』
-
-- **id:** TERM-145
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Fenrir Pride』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-146] 『Full Boost』
-
-- **id:** TERM-146
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Full Boost』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-147] 『Full Helgar』
-
-- **id:** TERM-147
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Full Helgar』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-148] 『Gamma Gold Paralyzer』
-
-- **id:** TERM-148
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gamma Gold Paralyzer』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-149] 『General Code』
-
-- **id:** TERM-149
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『General Code』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-150] 『General Guard』
-
-- **id:** TERM-150
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『General Guard』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-151] 『Gia Tốc Hồi Phục』
-
-- **id:** TERM-151
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gia Tốc Hồi Phục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-152] 『Giao Thoa』
-
-- **id:** TERM-152
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giao Thoa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-153] 『Giga Michaela』
-
-- **id:** TERM-153
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giga Michaela』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-154] 『Gilastorm』
-
-- **id:** TERM-154
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gilastorm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-155] 『Gira-Gogma』
-
-- **id:** TERM-155
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gira-Gogma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-028] 『Giáp Cơ Bắp』
-
-- **id:** ITEM-028
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-012] 『Giáp Cơ Bắp』
 - **tên_chuẩn:** 『Giáp Cơ Bắp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-029] 『Giáp trụ Ngân Thiết』
-
-- **id:** ITEM-029
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-013] 『Giáp trụ Ngân Thiết』
 - **tên_chuẩn:** 『Giáp trụ Ngân Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-156] 『Giải Mã Cổ Ngữ』
-
-- **id:** TERM-156
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giải Mã Cổ Ngữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-157] 『Giải Mã Cổ Ngữ - Sơ Cấp』
-
-- **id:** TERM-157
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giải Mã Cổ Ngữ - Sơ Cấp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-030] 『Giải Mã Ngoại Pháp』
-
-- **id:** SKILL-030
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Giải Mã Ngoại Pháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-158] 『Giải Mã Ngôn Ngữ Tinh Linh』
-
-- **id:** TERM-158
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giải Mã Ngôn Ngữ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-159] 『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』
-
-- **id:** TERM-159
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-031] 『Giải Mã Trận Pháp - Sơ Cấp』
-
-- **id:** SKILL-031
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Giải Mã Trận Pháp - Sơ Cấp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-032] 『Giải Phóng Cấm Chú』
-
-- **id:** SKILL-032
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Giải Phóng Cấm Chú』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-160] 『Giản Dị Luyện Thành Trận』
-
-- **id:** TERM-160
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giản Dị Luyện Thành Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-161] 『Giản Dị Triệu Hoán Trận』
-
-- **id:** TERM-161
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giản Dị Triệu Hoán Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-162] 『Giọt Lệ Sinh Mệnh』
-
-- **id:** TERM-162
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giọt Lệ Sinh Mệnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-163] 『Giọt Nước Sinh Mệnh』
-
-- **id:** TERM-163
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giọt Nước Sinh Mệnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-164] 『Giọt Nước Tinh Khiết』
-
-- **id:** TERM-164
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giọt Nước Tinh Khiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-165] 『Goarex』
-
-- **id:** TERM-165
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Goarex』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-166] 『Gogma』
-
-- **id:** TERM-166
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gogma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-167] 『Grim Gore』
-
-- **id:** TERM-167
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Grim Gore』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-033] 『Găng tay Chú thuật sư 「Cursed Hexa」』
-
-- **id:** SKILL-033
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Găng tay Chú thuật sư 「Cursed Hexa」』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-168] 『Gậy Kelpie』
-
-- **id:** TERM-168
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gậy Kelpie』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-169] 『Gậy Kẻ Ngốc』
-
-- **id:** TERM-169
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gậy Kẻ Ngốc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-034] 『Gửi Tặng Chiến Sĩ Bước Vào Tử Địa』
-
-- **id:** SKILL-034
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Gửi Tặng Chiến Sĩ Bước Vào Tử Địa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-035] 『Gửi Tặng Ma Thuật Sư Đối Mặt Thâm Uyên』
-
-- **id:** SKILL-035
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Gửi Tặng Ma Thuật Sư Đối Mặt Thâm Uyên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-170] 『HOANG NGHỊCH BA』
-
-- **id:** TERM-170
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HOANG NGHỊCH BA』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-171] 『HOÀNG CHI LINH TRANG』
-
-- **id:** TERM-171
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HOÀNG CHI LINH TRANG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-172] 『Hang động ác mộng』
-
-- **id:** TERM-172
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hang động ác mộng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-173] 『Hard Counter』
-
-- **id:** TERM-173
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hard Counter』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-174] 『High Slash』
-
-- **id:** TERM-174
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『High Slash』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-175] 『High Zombie』
-
-- **id:** TERM-175
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『High Zombie』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-176] 『High Zombie (Cương Thi Cao Cấp)』
-
-- **id:** TERM-176
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『High Zombie (Cương Thi Cao Cấp)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-177] 『Highlander』
-
-- **id:** TERM-177
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Highlander』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-178] 『Hoa Trà』
-
-- **id:** TERM-178
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoa Trà』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-179] 『Hoang Nghịch Ba』
-
-- **id:** TERM-179
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoang Nghịch Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-180] 『Horror Break』
-
-- **id:** TERM-180
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Horror Break』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-181] 『Hoàng Chi Linh Trang』
-
-- **id:** TERM-181
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoàng Chi Linh Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-182] 『Hoàng Linh Trang』
-
-- **id:** TERM-182
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoàng Linh Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-183] 『Hoạt động』
-
-- **id:** TERM-183
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoạt động』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-184] 『Huy Chương Dũng Cảm』
-
-- **id:** TERM-184
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huy Chương Dũng Cảm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-185] 『Huy Quang Linh Trang』
-
-- **id:** TERM-185
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huy Quang Linh Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-186] 『Huy Quang Phòng Bích』
-
-- **id:** TERM-186
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huy Quang Phòng Bích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-187] 『Huyết Mạch Hắc Ám』
-
-- **id:** TERM-187
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huyết Mạch Hắc Ám』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-188] 『Huyễn Ảnh Băng Tượng』
-
-- **id:** TERM-188
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huyễn Ảnh Băng Tượng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-189] 『Huệ Thể』
-
-- **id:** TERM-189
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huệ Thể』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-190] 『Hài Trang Bazuzu』
-
-- **id:** TERM-190
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hài Trang Bazuzu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-191] 『Hào Quang Dũng Cảm』
-
-- **id:** TERM-191
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hào Quang Dũng Cảm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-192] 『Hào Quyền』
-
-- **id:** TERM-192
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hào Quyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-193] 『Hãy Giương Cao Quyền Trượng』
-
-- **id:** TERM-193
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hãy Giương Cao Quyền Trượng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-194] 『Hãy Ngâm Vịnh Chân Lý Giữa Trời Cao』
-
-- **id:** TERM-194
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hãy Ngâm Vịnh Chân Lý Giữa Trời Cao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-195] 『Hình Nhân Bùn Dơ Bẩn』
-
-- **id:** TERM-195
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hình Nhân Bùn Dơ Bẩn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-196] 『Hình Nhân Bùn Dơ Bẩn (Mud Golem)』
-
-- **id:** TERM-196
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hình Nhân Bùn Dơ Bẩn (Mud Golem)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-197] 『Hình Nhân Tử Thi Oán Hận』
-
-- **id:** TERM-197
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hình Nhân Tử Thi Oán Hận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-198] 『Hình Nhân Tử Thi Oán Hận (Corpse Doll)』
-
-- **id:** TERM-198
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hình Nhân Tử Thi Oán Hận (Corpse Doll)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-199] 『Hòm Thư Góp Ý』
-
-- **id:** TERM-199
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hòm Thư Góp Ý』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-200] 『Hòm thư góp ý』
-
-- **id:** TERM-200
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hòm thư góp ý』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-036] 『Hóa thân của Nữ thần Elshion』
-
-- **id:** SKILL-036
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hóa thân của Nữ thần Elshion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-037] 『Hóa thân của ác mộng đen』
-
-- **id:** SKILL-037
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hóa thân của ác mộng đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-201] 『Hũ Cổ Độc』
-
-- **id:** TERM-201
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hũ Cổ Độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-202] 『Hơi Thở Lửa』
-
-- **id:** TERM-202
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hơi Thở Lửa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-203] 『Hơi Thở Đỏ』
-
-- **id:** TERM-203
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hơi Thở Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-204] 『Hư Ảnh』
-
-- **id:** TERM-204
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hư Ảnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-205] 『Hư Ảnh Tương Chiếu』
-
-- **id:** TERM-205
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hư Ảnh Tương Chiếu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-206] 『Hầu Gái』
-
-- **id:** TERM-206
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hầu Gái』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-207] 『Hầu gái』
-
-- **id:** TERM-207
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hầu gái』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-208] 『HẮC CHI THÁNH QUỸ』
-
-- **id:** TERM-208
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HẮC CHI THÁNH QUỸ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-209] 『HẮC MA NỮ CHI LUYỆN NGỤC LÔ』
-
-- **id:** TERM-209
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HẮC MA NỮ CHI LUYỆN NGỤC LÔ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-210] 『HẮC PHÁT GIÁO HỘI』
-
-- **id:** TERM-210
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HẮC PHÁT GIÁO HỘI』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-211] 『HẮC PHÁT PHƯỢC』
-
-- **id:** TERM-211
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HẮC PHÁT PHƯỢC』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-212] 『Hắc Chi Huyết Mạch』
-
-- **id:** TERM-212
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Chi Huyết Mạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-213] 『Hắc Giác Cung』
-
-- **id:** TERM-213
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Giác Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-214] 『Hắc Huyết Mạch』
-
-- **id:** TERM-214
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Huyết Mạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-038] 『Hắc Hóa』
-
-- **id:** SKILL-038
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hắc Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-215] 『Hắc Kim Chi Phủ』
-
-- **id:** TERM-215
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Kim Chi Phủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-030] 『Hắc Kim Chi Thương』
-
-- **id:** ITEM-030
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-014] 『Hắc Kim Chi Thương』
 - **tên_chuẩn:** 『Hắc Kim Chi Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-216] 『Hắc Kim Đại Phủ』
-
-- **id:** TERM-216
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Kim Đại Phủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-039] 『Hắc Lam Kiếm Phủ Gilastorm』
-
-- **id:** SKILL-039
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hắc Lam Kiếm Phủ Gilastorm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-217] 『Hắc Lam Thành Lũy』
-
-- **id:** TERM-217
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Lam Thành Lũy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-218] 『Hắc Long』
-
-- **id:** TERM-218
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Long』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-219] 『Hắc Lưu Tinh』
-
-- **id:** TERM-219
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Lưu Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-220] 『Hắc Ma Nữ Chi Luyện Ngục Lô』
-
-- **id:** TERM-220
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ma Nữ Chi Luyện Ngục Lô』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-221] 『Hắc Nại』
-
-- **id:** TERM-221
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Nại』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-222] 『Hắc Phát Giáo Hội』
-
-- **id:** TERM-222
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Phát Giáo Hội』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-223] 『Hắc Thiết Hoàn』
-
-- **id:** TERM-223
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Thiết Hoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-224] 『Hắc Thiết Kích』
-
-- **id:** TERM-224
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Thiết Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-225] 『Hắc Thánh Hòm』
-
-- **id:** TERM-225
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Thánh Hòm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-226] 『Hắc Tiễn』
-
-- **id:** TERM-226
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-227] 『Hắc Tĩnh』
-
-- **id:** TERM-227
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Tĩnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-040] 『Hắc Xích Chú Phát』
-
-- **id:** SKILL-040
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hắc Xích Chú Phát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-228] 『Hắc Yên (Black Smoke)』
-
-- **id:** TERM-228
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Yên (Black Smoke)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-229] 『Hắc Yên (Smoke)』
-
-- **id:** TERM-229
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Yên (Smoke)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-230] 『Hắc Ám Ma Nhân』
-
-- **id:** TERM-230
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ám Ma Nhân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-231] 『Hắc Ảnh Châm』
-
-- **id:** TERM-231
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ảnh Châm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-232] 『Hắc Ảnh Hành Giả』
-
-- **id:** TERM-232
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ảnh Hành Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-233] 『Hắc Ảnh Nhẫn』
-
-- **id:** TERM-233
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ảnh Nhẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-031] 『Hắc Ảnh Thương』
-
-- **id:** ITEM-031
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-015] 『Hắc Ảnh Thương』
 - **tên_chuẩn:** 『Hắc Ảnh Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-234] 『Hệ Biến Thái Hoàn Toàn』
-
-- **id:** TERM-234
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hệ Biến Thái Hoàn Toàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-235] 『Học Viện Tháp』
-
-- **id:** TERM-235
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Học Viện Tháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-236] 『Hỏa Hình Địa Ngục』
-
-- **id:** TERM-236
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Hình Địa Ngục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-041] 『Hỏa Long Kiếm - Salamandra』
-
-- **id:** SKILL-041
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hỏa Long Kiếm - Salamandra』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-042] 『Hỏa Ma Thuật Sư』
-
-- **id:** SKILL-042
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hỏa Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-237] 『Hỏa Phong Luân』
-
-- **id:** TERM-237
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Phong Luân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-238] 『Hỏa Phủ』
-
-- **id:** TERM-238
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Phủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-239] 『Hỏa Sơn Thần Điện』
-
-- **id:** TERM-239
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Sơn Thần Điện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-032] 『Hỏa Thương』
-
-- **id:** ITEM-032
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-016] 『Hỏa Thương』
 - **tên_chuẩn:** 『Hỏa Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-240] 『Hỏa Tinh Linh』
-
-- **id:** TERM-240
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-241] 『Hỏa Tiễn』
-
-- **id:** TERM-241
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-242] 『Hỏa Tiễn (Fire Arrow)』
-
-- **id:** TERM-242
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Tiễn (Fire Arrow)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-243] 『Hỏa Viêm Pháo』
-
-- **id:** TERM-243
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Viêm Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-244] 『Hỏa Viêm Phòng Bích (Flame Wall)』
-
-- **id:** TERM-244
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Viêm Phòng Bích (Flame Wall)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-245] 『HỐI KÍCH CHẤN』
-
-- **id:** TERM-245
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『HỐI KÍCH CHẤN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-246] 『Hối Kích Chấn』
-
-- **id:** TERM-246
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hối Kích Chấn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-247] 『Hồi Thiên Song Liệt』
-
-- **id:** TERM-247
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hồi Thiên Song Liệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-033] 『Hồng Thương』
-
-- **id:** ITEM-033
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-017] 『Hồng Thương』
 - **tên_chuẩn:** 『Hồng Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-248] 『Hộ Vệ Ánh Sáng』
-
-- **id:** TERM-248
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hộ Vệ Ánh Sáng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-249] 『Hội Tụ』
-
-- **id:** TERM-249
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hội Tụ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-250] 『Hộp Kotori』
-
-- **id:** TERM-250
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hộp Kotori』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-251] 『Hợp Lưu』
-
-- **id:** TERM-251
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hợp Lưu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-252] 『Ice Golem』
-
-- **id:** TERM-252
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ice Golem』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-253] 『Ice Titan』
-
-- **id:** TERM-253
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ice Titan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-043] 『KIẾM THÁNH』
-
-- **id:** SKILL-043
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『KIẾM THÁNH』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-254] 『KIẾN TRIỆT』
-
-- **id:** TERM-254
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『KIẾN TRIỆT』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-044] 『Kho Kiếm』
-
-- **id:** SKILL-044
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kho Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-255] 『Khoai Bùn』
-
-- **id:** TERM-255
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khoai Bùn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-256] 『Khu Rừng Của Yêu Tinh』
-
-- **id:** TERM-256
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Rừng Của Yêu Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-257] 『Khu Vực Cách Ly』
-
-- **id:** TERM-257
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Vực Cách Ly』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-258] 『Khu Vực Phế Tích Cung Điện』
-
-- **id:** TERM-258
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Vực Phế Tích Cung Điện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-259] 『Khu Vực Phố Hắc Ám』
-
-- **id:** TERM-259
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Vực Phố Hắc Ám』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-260] 『Khu Vực Sa Mạc Cổ Đại』
-
-- **id:** TERM-260
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Vực Sa Mạc Cổ Đại』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-261] 『Khu Vực Đảo Hoang Ven Biển』
-
-- **id:** TERM-261
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Vực Đảo Hoang Ven Biển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-262] 『Kháng Dịch』
-
-- **id:** TERM-262
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kháng Dịch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-263] 『Kháng Độc』
-
-- **id:** TERM-263
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kháng Độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-264] 『Khí Tức Sát Tri (Sensor)』
-
-- **id:** TERM-264
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khí Tức Sát Tri (Sensor)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-265] 『Không Gian Mở Rộng』
-
-- **id:** TERM-265
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Không Gian Mở Rộng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-266] 『Không Gian Mở Rộng - Giai Đoạn Ba』
-
-- **id:** TERM-266
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Không Gian Mở Rộng - Giai Đoạn Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-267] 『Không Gian Mở Rộng - Giai Đoạn Hai』
-
-- **id:** TERM-267
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Không Gian Mở Rộng - Giai Đoạn Hai』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-268] 『Không có』
-
-- **id:** TERM-268
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Không có』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-269] 『Khải Triệt』
-
-- **id:** TERM-269
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khải Triệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-045] 『Khắc Ấn Thuật』
-
-- **id:** SKILL-045
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Khắc Ấn Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-270] 『Khế ước』
-
-- **id:** TERM-270
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khế ước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-046] 『Khổng lồ hóa』
-
-- **id:** SKILL-046
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Khổng lồ hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-271] 『Kiên Cường』
-
-- **id:** TERM-271
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kiên Cường』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-047] 『Kiếm Hào』
-
-- **id:** SKILL-047
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kiếm Hào』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-048] 『Kiếm Lực Lượng』
-
-- **id:** SKILL-048
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kiếm Lực Lượng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-049] 『Kiếm Thánh』
-
-- **id:** SKILL-049
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kiếm Thánh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-050] 『Kiếm sĩ』
-
-- **id:** SKILL-050
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kiếm sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-051] 『Kiếm đạo tam bội đoạn』
-
-- **id:** SKILL-051
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kiếm đạo tam bội đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-272] 『Knight Halberd』
-
-- **id:** TERM-272
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Knight Halberd』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-273] 『Kokko』
-
-- **id:** TERM-273
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kokko』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-274] 『KÍCH CHẤN』
-
-- **id:** TERM-274
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『KÍCH CHẤN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-275] 『Kích Chấn』
-
-- **id:** TERM-275
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kích Chấn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-276] 『Kích Lưu Pháo』
-
-- **id:** TERM-276
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kích Lưu Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-277] 『Kích Lưu Tiên (Torrent Whip)』
-
-- **id:** TERM-277
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kích Lưu Tiên (Torrent Whip)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-278] 『Kích hoạt cơ thể』
-
-- **id:** TERM-278
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kích hoạt cơ thể』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-279] 『Kẻ Cuồng Chiến Lang Thang』
-
-- **id:** TERM-279
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ Cuồng Chiến Lang Thang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-280] 『Kẻ Diệt Khổng Lồ』
-
-- **id:** TERM-280
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ Diệt Khổng Lồ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-052] 『Kẻ Nuốt Chửng Kỹ Năng』
-
-- **id:** SKILL-052
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kẻ Nuốt Chửng Kỹ Năng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-281] 『Kẻ diệt Khổng Lồ』
-
-- **id:** TERM-281
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ diệt Khổng Lồ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-282] 『Kẻ diệt Thiên Sứ』
-
-- **id:** TERM-282
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ diệt Thiên Sứ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-283] 『Kẻ lập khế ước với Hắc Long』
-
-- **id:** TERM-283
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ lập khế ước với Hắc Long』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-053] 『Kẻ nuốt chửng kỹ năng』
-
-- **id:** SKILL-053
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kẻ nuốt chửng kỹ năng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-284] 『Kẻ xảo quyệt』
-
-- **id:** TERM-284
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kẻ xảo quyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-285] 『Kết Giới Cơ Làm Mát』
-
-- **id:** TERM-285
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kết Giới Cơ Làm Mát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-286] 『Kết thúc』
-
-- **id:** TERM-286
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kết thúc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-287] 『Kịch Nghệ』
-
-- **id:** TERM-287
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kịch Nghệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-288] 『LINH CẢM GIẢI PHẪU HỌC』
-
-- **id:** TERM-288
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『LINH CẢM GIẢI PHẪU HỌC』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-289] 『LIỆT PHÁ ĐOẠN』
-
-- **id:** TERM-289
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『LIỆT PHÁ ĐOẠN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-290] 『LONG TAI』
-
-- **id:** TERM-290
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『LONG TAI』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-291] 『Large Skeleton』
-
-- **id:** TERM-291
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Large Skeleton』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-292] 『Lightning Armament』
-
-- **id:** TERM-292
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lightning Armament』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-293] 『Linh Cảm Giải Phẫu Học』
-
-- **id:** TERM-293
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Linh Cảm Giải Phẫu Học』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-054] 『Linh Thú Hóa』
-
-- **id:** SKILL-054
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Linh Thú Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-294] 『Linh Trang Hào Quang』
-
-- **id:** TERM-294
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Linh Trang Hào Quang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-055] 『Linh thú hóa』
-
-- **id:** SKILL-055
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Linh thú hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-295] 『Lizard Type Gamma Biến Dị Thử Nghiệm』
-
-- **id:** TERM-295
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lizard Type Gamma Biến Dị Thử Nghiệm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-296] 『Liệt Phong Đường Lang Hoàn』
-
-- **id:** TERM-296
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Liệt Phong Đường Lang Hoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-034] 『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』
-
-- **id:** ITEM-034
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-018] 『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』
 - **tên_chuẩn:** 『Loyrops Số 1 - Bản Vận Tải Thiết Giáp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-297] 『Loyrops Số 2 - Bản Đột Kích Trọng Trang』
-
-- **id:** TERM-297
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Loyrops Số 2 - Bản Đột Kích Trọng Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-056] 『Loạn Trảm』
-
-- **id:** SKILL-056
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Loạn Trảm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-057] 『Loạn Trảm - Diên Vĩ』
-
-- **id:** SKILL-057
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Loạn Trảm - Diên Vĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-058] 『Loạn Trảm - Hoa Trà』
-
-- **id:** SKILL-058
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Loạn Trảm - Hoa Trà』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-298] 『Loạn Vũ - Bát Kỳ Đại Xà』
-
-- **id:** TERM-298
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Loạn Vũ - Bát Kỳ Đại Xà』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-059] 『Luyện Kim Cường Hóa』
-
-- **id:** SKILL-059
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Luyện Kim Cường Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-299] 『Luyện Thành』
-
-- **id:** TERM-299
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Thành』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-300] 『Luyện Thành Trận Cơ Bản』
-
-- **id:** TERM-300
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Thành Trận Cơ Bản』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-301] 『Lãng Tai』
-
-- **id:** TERM-301
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lãng Tai』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-302] 『Lãnh địa của Yêu tinh』
-
-- **id:** TERM-302
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lãnh địa của Yêu tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-303] 『Lò Luyện Ngục Của Hắc Ma Nữ』
-
-- **id:** TERM-303
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lò Luyện Ngục Của Hắc Ma Nữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-304] 『Lôi Tinh Linh』
-
-- **id:** TERM-304
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lôi Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-305] 『Lông Vũ Tốc Hành』
-
-- **id:** TERM-305
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lông Vũ Tốc Hành』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-306] 『Lõi Death Stalker』
-
-- **id:** TERM-306
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lõi Death Stalker』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-307] 『Lưu Tinh』
-
-- **id:** TERM-307
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lưu Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-308] 『Lệnh Cấm Yêu Đương』
-
-- **id:** TERM-308
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lệnh Cấm Yêu Đương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-309] 『Lớp Trưởng』
-
-- **id:** TERM-309
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lớp Trưởng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-310] 『Lời Cự Tuyệt』
-
-- **id:** TERM-310
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời Cự Tuyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-311] 『Lời Nguyền』
-
-- **id:** TERM-311
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời Nguyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-312] 『Lời Từ Chối』
-
-- **id:** TERM-312
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời Từ Chối』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-313] 『Lời nguyền』
-
-- **id:** TERM-313
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời nguyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-314] 『Lựa chọn』
-
-- **id:** TERM-314
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lựa chọn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-315] 『Lựu Đạn Phóng Hỏa』
-
-- **id:** TERM-315
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lựu Đạn Phóng Hỏa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-316] 『Ma Lực Giải Tích』
-
-- **id:** TERM-316
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Lực Giải Tích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-317] 『Ma Lực Giải Tích (Mana Analysis)』
-
-- **id:** TERM-317
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Lực Giải Tích (Mana Analysis)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-060] 『Ma Nhân Hóa』
-
-- **id:** SKILL-060
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ma Nhân Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-061] 『Ma Nhân Hóa - Thổ Tinh Linh』
-
-- **id:** SKILL-061
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ma Nhân Hóa - Thổ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-318] 『Ma Nhãn Mê Hoặc』
-
-- **id:** TERM-318
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Nhãn Mê Hoặc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-319] 『Ma Tí (Paralyze)』
-
-- **id:** TERM-319
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Tí (Paralyze)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-320] 『Ma Tí Độc Tiễn』
-
-- **id:** TERM-320
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Tí Độc Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-321] 『Ma Vương』
-
-- **id:** TERM-321
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Vương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-322] 『Ma lực』
-
-- **id:** TERM-322
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-323] 『Ma Đạo Nhân Hình』
-
-- **id:** TERM-323
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Đạo Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-324] 『Mai Táng Thần Học』
-
-- **id:** TERM-324
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mai Táng Thần Học』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-325] 『Mandragora Các Vùng』
-
-- **id:** TERM-325
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mandragora Các Vùng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-062] 『Minh Kiếm - Zamd』
-
-- **id:** SKILL-062
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Minh Kiếm - Zamd』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-063] 『Minh Thổ Lưu Ma Kiếm Thuật』
-
-- **id:** SKILL-063
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Minh Thổ Lưu Ma Kiếm Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-035] 『Minh Tướng Chi Giáp Trụ - Zamdboug』
-
-- **id:** ITEM-035
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-019] 『Minh Tướng Chi Giáp Trụ - Zamdboug』
 - **tên_chuẩn:** 『Minh Tướng Chi Giáp Trụ - Zamdboug』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-064] 『Minh Tướng Chi Đại Kiếm - Zamdringer』
-
-- **id:** SKILL-064
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Minh Tướng Chi Đại Kiếm - Zamdringer』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-326] 『Minogorilla (Bò Rừng Gorilla)』
-
-- **id:** TERM-326
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Minogorilla (Bò Rừng Gorilla)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-327] 『Minogorilla Đóng Băng』
-
-- **id:** TERM-327
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Minogorilla Đóng Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-328] 『Miên Ngọc』
-
-- **id:** TERM-328
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Miên Ngọc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-329] 『Mukotsu』
-
-- **id:** TERM-329
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mukotsu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-330] 『Mukotsu (Vô Cốt)』
-
-- **id:** TERM-330
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mukotsu (Vô Cốt)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-331] 『MÃNH ĐỘC LONG PHÁO』
-
-- **id:** TERM-331
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『MÃNH ĐỘC LONG PHÁO』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-332] 『Mãnh Thú』
-
-- **id:** TERM-332
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãnh Thú』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-333] 『Mãnh Độc』
-
-- **id:** TERM-333
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãnh Độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-334] 『Mãnh Độc (Viola Poison)』
-
-- **id:** TERM-334
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãnh Độc (Viola Poison)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-335] 『Mãnh Độc Tiễn』
-
-- **id:** TERM-335
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãnh Độc Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-336] 『Mê Cung Quản Lý Cục』
-
-- **id:** TERM-336
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mê Cung Quản Lý Cục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-036] 『Móng Vuốt Đao』
-
-- **id:** ITEM-036
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-020] 『Móng Vuốt Đao』
 - **tên_chuẩn:** 『Móng Vuốt Đao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-337] 『Môi trường』
-
-- **id:** TERM-337
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Môi trường』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-037] 『Mũ Giáp Khổng Lồ』
-
-- **id:** ITEM-037
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-021] 『Mũ Giáp Khổng Lồ』
 - **tên_chuẩn:** 『Mũ Giáp Khổng Lồ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-338] 『Mũi tên độc』
-
-- **id:** TERM-338
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mũi tên độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-339] 『Mật Lâm Tháp』
-
-- **id:** TERM-339
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mật Lâm Tháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-340] 『Mắt』
-
-- **id:** TERM-340
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mắt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-341] 『Mặt nạ Goma』
-
-- **id:** TERM-341
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mặt nạ Goma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-342] 『Mối Gắn Kết Của Lửa』
-
-- **id:** TERM-342
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mối Gắn Kết Của Lửa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-343] 『NGỰ TỬ』
-
-- **id:** TERM-343
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『NGỰ TỬ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-344] 『Nega Wave』
-
-- **id:** TERM-344
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nega Wave』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-345] 『Nghịch Điệp Vũ』
-
-- **id:** TERM-345
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nghịch Điệp Vũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-346] 『Ngu Giả Chi Trượng』
-
-- **id:** TERM-346
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ngu Giả Chi Trượng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-347] 『Nguyền Chi Tử』
-
-- **id:** TERM-347
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nguyền Chi Tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-065] 『Ngân Phát Trảm』
-
-- **id:** SKILL-065
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ngân Phát Trảm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-348] 『Ngòi Độc Death Stalker』
-
-- **id:** TERM-348
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ngòi Độc Death Stalker』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-349] 『Ngươi, hãy trở thành 『Hiền Giả』
-
-- **id:** TERM-349
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ngươi, hãy trở thành 『Hiền Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-350] 『Ngự Ảnh Loạn Vũ』
-
-- **id:** TERM-350
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ngự Ảnh Loạn Vũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-351] 『Nham Khắc Trảo Vết』
-
-- **id:** TERM-351
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Khắc Trảo Vết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-352] 『Nham Lịch Băng』
-
-- **id:** TERM-352
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Lịch Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-353] 『Nham Pháo』
-
-- **id:** TERM-353
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-354] 『Nham Sơn Băng Lở』
-
-- **id:** TERM-354
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Sơn Băng Lở』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-355] 『Nham Sơn Cự Thuẫn』
-
-- **id:** TERM-355
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Sơn Cự Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-038] 『Nham Thương』
-
-- **id:** ITEM-038
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-022] 『Nham Thương』
 - **tên_chuẩn:** 『Nham Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-356] 『Nham Thạch Phòng Bích』
-
-- **id:** TERM-356
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Thạch Phòng Bích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-357] 『Nham Thạch Đại Khiên』
-
-- **id:** TERM-357
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Thạch Đại Khiên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-358] 『Nham Thạch Đại Thuẫn』
-
-- **id:** TERM-358
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nham Thạch Đại Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-359] 『Nhiệt Huyết Viêm Khí』
-
-- **id:** TERM-359
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhiệt Huyết Viêm Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-360] 『Nhân Tự Sát』
-
-- **id:** TERM-360
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhân Tự Sát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-361] 『Nhãn Lục Mang Tinh』
-
-- **id:** TERM-361
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhãn Lục Mang Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-362] 『Nhãn Quan』
-
-- **id:** TERM-362
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhãn Quan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-363] 『Nhãn Quan Nhìn Vào Thâm Uyên』
-
-- **id:** TERM-363
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhãn Quan Nhìn Vào Thâm Uyên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-364] 『Nhãn Thần Chân Giả』
-
-- **id:** TERM-364
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhãn Thần Chân Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-365] 『Nhất Kích Xuyên』
-
-- **id:** TERM-365
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhất Kích Xuyên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-366] 『Nhất Thiểm』
-
-- **id:** TERM-366
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhất Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-367] 『Nhẫn Phòng Ngự』
-
-- **id:** TERM-367
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhẫn Phòng Ngự』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-368] 『Nhục Thể Hoạt Tính』
-
-- **id:** TERM-368
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhục Thể Hoạt Tính』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-369] 『Nise-corn』
-
-- **id:** TERM-369
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nise-corn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-370] 『Nồng độ』
-
-- **id:** TERM-370
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nồng độ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-371] 『Nộ Đào Thổ Thạch』
-
-- **id:** TERM-371
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nộ Đào Thổ Thạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-372] 『Nụ Hôn Của Nữ Thần』
-
-- **id:** TERM-372
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nụ Hôn Của Nữ Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-373] 『Nữ Hoàng Yêu Tinh』
-
-- **id:** TERM-373
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nữ Hoàng Yêu Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-374] 『Nữ Thần Lời Nguyền』
-
-- **id:** TERM-374
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nữ Thần Lời Nguyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-375] 『Nữ Thần Đang Dõi Theo』
-
-- **id:** TERM-375
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nữ Thần Đang Dõi Theo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-066] 『Ooyama Daisuke Chi Viêm Ma Pháp』
-
-- **id:** SKILL-066
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ooyama Daisuke Chi Viêm Ma Pháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-376] 『Orfrost』
-
-- **id:** TERM-376
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Orfrost』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-377] 『Orthros』
-
-- **id:** TERM-377
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Orthros』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-378] 『Oán Sa Thi Nhân Hình』
-
-- **id:** TERM-378
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Oán Sa Thi Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-379] 『PHI LÔI THIỂM』
-
-- **id:** TERM-379
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『PHI LÔI THIỂM』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-380] 『PHI TƯỜNG THIỂM』
-
-- **id:** TERM-380
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『PHI TƯỜNG THIỂM』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-381] 『PHÁ ĐOẠN』
-
-- **id:** TERM-381
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『PHÁ ĐOẠN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-382] 『PHÂN THÂN DUNG HỢP』
-
-- **id:** TERM-382
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『PHÂN THÂN DUNG HỢP』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-039] 『PHẢN HỒI SÁT THƯƠNG』
-
-- **id:** ITEM-039
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-023] 『PHẢN HỒI SÁT THƯƠNG』
 - **tên_chuẩn:** 『PHẢN HỒI SÁT THƯƠNG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-383] 『Pandora Thánh Giáo』
-
-- **id:** TERM-383
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Pandora Thánh Giáo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-384] 『Phantom Mail』
-
-- **id:** TERM-384
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phantom Mail』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-385] 『Phe Giải Phóng』
-
-- **id:** TERM-385
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phe Giải Phóng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-386] 『Phi Lôi Thiểm』
-
-- **id:** TERM-386
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phi Lôi Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-040] 『Phi Đao Phái Momokawa』
-
-- **id:** ITEM-040
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-024] 『Phi Đao Phái Momokawa』
 - **tên_chuẩn:** 『Phi Đao Phái Momokawa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-067] 『Phong Kiếm』
-
-- **id:** SKILL-067
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Phong Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-041] 『Phong Lưu Yển Nguyệt Đao』
-
-- **id:** ITEM-041
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-025] 『Phong Lưu Yển Nguyệt Đao』
 - **tên_chuẩn:** 『Phong Lưu Yển Nguyệt Đao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-068] 『Phong Ma Pháp Tối Cao』
-
-- **id:** SKILL-068
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Phong Ma Pháp Tối Cao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-069] 『Phong Ma Thuật Sư』
-
-- **id:** SKILL-069
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Phong Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-387] 『Phong Nhẫn』
-
-- **id:** TERM-387
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Nhẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-388] 『Phong Nhẫn (Air Sagitta)』
-
-- **id:** TERM-388
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Nhẫn (Air Sagitta)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-389] 『Phong Nhận』
-
-- **id:** TERM-389
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Nhận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-390] 『Phong Thuẫn』
-
-- **id:** TERM-390
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-391] 『Phong Tiễn』
-
-- **id:** TERM-391
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-392] 『Phong Tiễn (Air Sagitta)』
-
-- **id:** TERM-392
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Tiễn (Air Sagitta)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-393] 『Phong Độc』
-
-- **id:** TERM-393
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phong Độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-042] 『Phong Ấn Thương - Băng Kết』
-
-- **id:** ITEM-042
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-026] 『Phong Ấn Thương - Băng Kết』
 - **tên_chuẩn:** 『Phong Ấn Thương - Băng Kết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-043] 『Phong Ấn Thương - Hắc Kim』
-
-- **id:** ITEM-043
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-027] 『Phong Ấn Thương - Hắc Kim』
 - **tên_chuẩn:** 『Phong Ấn Thương - Hắc Kim』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-044] 『Phá Nham Trường Thương』
-
-- **id:** ITEM-044
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-028] 『Phá Nham Trường Thương』
 - **tên_chuẩn:** 『Phá Nham Trường Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-394] 『Phá Tà Hiển Chính』
-
-- **id:** TERM-394
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phá Tà Hiển Chính』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-395] 『Phá Đoạn』
-
-- **id:** TERM-395
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phá Đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-396] 『Pháo đài ẩn』
-
-- **id:** TERM-396
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Pháo đài ẩn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-397] 『Phát Điện Khí Quan』
-
-- **id:** TERM-397
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phát Điện Khí Quan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-398] 『Phân Thân』
-
-- **id:** TERM-398
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phân Thân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-399] 『Phân Thân (Song Ảnh - Song Ảnh)』
-
-- **id:** TERM-399
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phân Thân (Song Ảnh - Song Ảnh)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-400] 『Phân Thân (Song Ảnh)』
-
-- **id:** TERM-400
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phân Thân (Song Ảnh)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-401] 『Phân Tán』
-
-- **id:** TERM-401
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phân Tán』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-402] 『Phó Gia』
-
-- **id:** TERM-402
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phó Gia』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-045] 『Phản Hồi Sát Thương』
-
-- **id:** ITEM-045
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** 『Phản Hồi Sát Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-403] 『Phản Phục Thống Khổ』
-
-- **id:** TERM-403
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phản Phục Thống Khổ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-404] 『Phản Đau Đớn』
-
-- **id:** TERM-404
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phản Đau Đớn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-405] 『Phố Hắc Ám』
-
-- **id:** TERM-405
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phố Hắc Ám』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-406] 『Phụ Gia (Enchant)』
-
-- **id:** TERM-406
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phụ Gia (Enchant)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-407] 『Phụ trách Cơm nước』
-
-- **id:** TERM-407
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phụ trách Cơm nước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-408] 『Phụ trách Giám sát Yamata no Orochi』
-
-- **id:** TERM-408
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phụ trách Giám sát Yamata no Orochi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-409] 『Phụ trách Trang Bị & Dịch Chuyển』
-
-- **id:** TERM-409
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phụ trách Trang Bị & Dịch Chuyển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-410] 『Player Summon Portable』
-
-- **id:** TERM-410
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Player Summon Portable』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-411] 『Portal』
-
-- **id:** TERM-411
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Portal』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-412] 『Power Inner』
-
-- **id:** TERM-412
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Power Inner』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-413] 『Power Seed』
-
-- **id:** TERM-413
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Power Seed』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-414] 『Prim Heart』
-
-- **id:** TERM-414
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Prim Heart』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-415] 『Prim Tact - Love & Double Peace』
-
-- **id:** TERM-415
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Prim Tact - Love & Double Peace』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-416] 『Primheart』
-
-- **id:** TERM-416
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Primheart』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-417] 『Pure Pink』
-
-- **id:** TERM-417
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Pure Pink』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-418] 『Quang Chi Tử』
-
-- **id:** TERM-418
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Chi Tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-419] 『Quang Pháo』
-
-- **id:** TERM-419
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-420] 『Quang Thiết』
-
-- **id:** TERM-420
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-421] 『Quang Thuẫn』
-
-- **id:** TERM-421
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-422] 『Quang Thạch hệ Băng』
-
-- **id:** TERM-422
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thạch hệ Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-423] 『Quang Thạch hệ Hỏa』
-
-- **id:** TERM-423
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thạch hệ Hỏa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-424] 『Quang Thạch hệ Thủy』
-
-- **id:** TERM-424
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thạch hệ Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-425] 『Quang Tiễn』
-
-- **id:** TERM-425
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-426] 『Quang Độ』
-
-- **id:** TERM-426
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Độ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-427] 『Quy Tắc Ý Niệm』
-
-- **id:** TERM-427
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quy Tắc Ý Niệm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-428] 『Quyến Thuộc』
-
-- **id:** TERM-428
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quyến Thuộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-429] 『Quyến Tộc』
-
-- **id:** TERM-429
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quyến Tộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-430] 『Quyến Tộc (Kin / Retainer)』
-
-- **id:** TERM-430
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quyến Tộc (Kin / Retainer)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-431] 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』
-
-- **id:** TERM-431
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-432] 『Quán cà phê hầu gái』
-
-- **id:** TERM-432
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quán cà phê hầu gái』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-433] 『Quả Xà Phòng』
-
-- **id:** TERM-433
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quả Xà Phòng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-434] 『Quả cầu khói』
-
-- **id:** TERM-434
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quả cầu khói』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-435] 『Quả cầu khói độc』
-
-- **id:** TERM-435
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quả cầu khói độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-436] 『Quả cầu ánh sáng』
-
-- **id:** TERM-436
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quả cầu ánh sáng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-437] 『Quảng Trường Tinh Linh』
-
-- **id:** TERM-437
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quảng Trường Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-438] 『REQUIEM HEART』
-
-- **id:** TERM-438
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『REQUIEM HEART』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-439] 『Re-potion』
-
-- **id:** TERM-439
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Re-potion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-440] 『Red Berry』
-
-- **id:** TERM-440
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Red Berry』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-441] 『Requiem Heart』
-
-- **id:** TERM-441
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Requiem Heart』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-442] 『Requiem Heart - Smart Guy』
-
-- **id:** TERM-442
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Requiem Heart - Smart Guy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-443] 『Rock Blaster E3』
-
-- **id:** TERM-443
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Rock Blaster E3』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-444] 『Rock Blaster Sawed-off』
-
-- **id:** TERM-444
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Rock Blaster Sawed-off』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-445] 『Rock Golem』
-
-- **id:** TERM-445
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Rock Golem』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-446] 『Rìu Rực Lửa』
-
-- **id:** TERM-446
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Rìu Rực Lửa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-070] 『SONG KIẾM SĨ』
-
-- **id:** SKILL-070
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『SONG KIẾM SĨ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-447] 『SOUMA YUUTO』
-
-- **id:** TERM-447
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『SOUMA YUUTO』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-448] 『Sa Khuyển』
-
-- **id:** TERM-448
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sa Khuyển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-449] 『Sai Khiến Tinh Linh Tí Hon』
-
-- **id:** TERM-449
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sai Khiến Tinh Linh Tí Hon』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-450] 『Saladina』
-
-- **id:** TERM-450
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Saladina』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-451] 『Salamand Mail MK I』
-
-- **id:** TERM-451
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Salamand Mail MK I』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-452] 『Seilam』
-
-- **id:** TERM-452
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Seilam』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-453] 『Shield Protector』
-
-- **id:** TERM-453
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Shield Protector』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-454] 『Sinclair Code』
-
-- **id:** TERM-454
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sinclair Code』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-455] 『Sinh Mệnh Chi Đích』
-
-- **id:** TERM-455
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sinh Mệnh Chi Đích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-456] 『Sinh Mệnh Chi Đích (Drop of Life)』
-
-- **id:** TERM-456
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sinh Mệnh Chi Đích (Drop of Life)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-457] 『Skeleton』
-
-- **id:** TERM-457
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Skeleton』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-458] 『Snow White Bloom』
-
-- **id:** TERM-458
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Snow White Bloom』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-071] 『Song Kiếm Sĩ』
-
-- **id:** SKILL-071
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Song Kiếm Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-459] 『Song Kích Liệt』
-
-- **id:** TERM-459
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Song Kích Liệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-460] 『Song Liệt』
-
-- **id:** TERM-460
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Song Liệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-461] 『Song Song』
-
-- **id:** TERM-461
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Song Song』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-072] 『Song Trảm』
-
-- **id:** SKILL-072
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Song Trảm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-462] 『Song Ảnh』
-
-- **id:** TERM-462
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Song Ảnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-463] 『Streamer』
-
-- **id:** TERM-463
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Streamer』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-464] 『Succubus』
-
-- **id:** TERM-464
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Succubus』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-465] 『Sách Địch』
-
-- **id:** TERM-465
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sách Địch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-466] 『Sát Na Nhất Thiểm』
-
-- **id:** TERM-466
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sát Na Nhất Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-467] 『Sòng Bạc』
-
-- **id:** TERM-467
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sòng Bạc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-468] 『Sóng U Minh』
-
-- **id:** TERM-468
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sóng U Minh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-469] 『Súng Phóng Khí』
-
-- **id:** TERM-469
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Súng Phóng Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-470] 『Sắc Bén』
-
-- **id:** TERM-470
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sắc Bén』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-471] 『Sốt nhẹ』
-
-- **id:** TERM-471
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sốt nhẹ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-472] 『Sợi dây liên kết vượt qua chủng tộc』
-
-- **id:** TERM-472
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sợi dây liên kết vượt qua chủng tộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-473] 『Sứ giả của Nữ thần Elysion』
-
-- **id:** TERM-473
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sứ giả của Nữ thần Elysion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-073] 『Sức Mạnh Phi Thường Để Vung Đại Kiếm』
-
-- **id:** SKILL-073
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Sức Mạnh Phi Thường Để Vung Đại Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-074] 『Sức Mạnh Để Nắm Chặt Kiếm』
-
-- **id:** SKILL-074
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Sức Mạnh Để Nắm Chặt Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-075] 『Sự chúc phúc của tám tinh linh』
-
-- **id:** SKILL-075
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Sự chúc phúc của tám tinh linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-474] 『THIẾT BÌ』
-
-- **id:** TERM-474
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THIẾT BÌ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-046] 『THIẾT GIÁP KHỐC HÀO』
-
-- **id:** ITEM-046
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-029] 『THIẾT GIÁP KHỐC HÀO』
 - **tên_chuẩn:** 『THIẾT GIÁP KHỐC HÀO』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-475] 『THIỂM QUANG』
-
-- **id:** TERM-475
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THIỂM QUANG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-476] 『THIỂM QUANG BẠCH THỈ』
-
-- **id:** TERM-476
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THIỂM QUANG BẠCH THỈ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-477] 『THÁC HỒ ĐỌA』
-
-- **id:** TERM-477
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THÁC HỒ ĐỌA』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-478] 『THÁC THĂNG』
-
-- **id:** TERM-478
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THÁC THĂNG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-076] 『THÁNH KIẾM ÁNH SÁNG』
-
-- **id:** SKILL-076
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『THÁNH KIẾM ÁNH SÁNG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-479] 『THÁNH THIÊN KẾT GIỚI』
-
-- **id:** TERM-479
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THÁNH THIÊN KẾT GIỚI』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-480] 『THỔI TUNG BẠCH TUYẾT』
-
-- **id:** TERM-480
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THỔI TUNG BẠCH TUYẾT』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-481] 『THỦ HỘ CHIẾN SĨ』
-
-- **id:** TERM-481
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『THỦ HỘ CHIẾN SĨ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-482] 『TRỌNG CƯƠNG ĐỘT TIẾN』
-
-- **id:** TERM-482
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『TRỌNG CƯƠNG ĐỘT TIẾN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-483] 『Tam Liệt Thiểm』
-
-- **id:** TERM-483
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tam Liệt Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-484] 『Tank』
-
-- **id:** TERM-484
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tank』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-485] 『Terra Fortis Sagitta』
-
-- **id:** TERM-485
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Terra Fortis Sagitta』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-486] 『Terror Break』
-
-- **id:** TERM-486
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Terror Break』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-047] 『Thanh Tịnh Cổ Đao』
-
-- **id:** ITEM-047
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-030] 『Thanh Tịnh Cổ Đao』
 - **tên_chuẩn:** 『Thanh Tịnh Cổ Đao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-048] 『Thi Hài Giáp Bazuzu』
-
-- **id:** ITEM-048
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-031] 『Thi Hài Giáp Bazuzu』
 - **tên_chuẩn:** 『Thi Hài Giáp Bazuzu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-049] 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』
-
-- **id:** ITEM-049
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-032] 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』
 - **tên_chuẩn:** 『Thi Hài Giáp「Nghiệp Ma Hồng Ma」』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-487] 『Thi Nhân Hình』
-
-- **id:** TERM-487
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thi Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-488] 『Thi Nhân Hình (Corpse Doll)』
-
-- **id:** TERM-488
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thi Nhân Hình (Corpse Doll)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-489] 『Thi Thể Nhân Hình』
-
-- **id:** TERM-489
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thi Thể Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-050] 『Thi hài giáp Bazuzu』
-
-- **id:** ITEM-050
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** 『Thi hài giáp Bazuzu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-490] 『Thi nhân hình』
-
-- **id:** TERM-490
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thi nhân hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-491] 『Thiên Chức』
-
-- **id:** TERM-491
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiên Chức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-492] 『Thiên Lý Tật Khu』
-
-- **id:** TERM-492
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiên Lý Tật Khu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-077] 『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』
-
-- **id:** SKILL-077
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thiên Mệnh Kiếm - Thánh Điểu Phách Vũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-078] 『Thiên Mệnh Kiếm - Thánh Điểu Vũ Kích』
-
-- **id:** SKILL-078
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thiên Mệnh Kiếm - Thánh Điểu Vũ Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-493] 『Thiên Sứ』
-
-- **id:** TERM-493
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiên Sứ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-494] 『Thiên Tinh Thuẫn』
-
-- **id:** TERM-494
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiên Tinh Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-495] 『Thiên chức』
-
-- **id:** TERM-495
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiên chức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-496] 『Thiết Bì (Iron Skin)』
-
-- **id:** TERM-496
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiết Bì (Iron Skin)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-497] 『Thiết Bích Bì (Iron Wall Skin)』
-
-- **id:** TERM-497
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiết Bích Bì (Iron Wall Skin)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-498] 『Thiết Bị Phun』
-
-- **id:** TERM-498
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiết Bị Phun』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-499] 『Thiết Cương Thể (Iron Steel Body)』
-
-- **id:** TERM-499
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiết Cương Thể (Iron Steel Body)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-051] 『Thiết Giáp Hùng』
-
-- **id:** ITEM-051
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-033] 『Thiết Giáp Hùng』
 - **tên_chuẩn:** 『Thiết Giáp Hùng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-052] 『Thiết Giáp Ngưu Xa "Raging Bull"』
-
-- **id:** ITEM-052
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-034] 『Thiết Giáp Ngưu Xa "Raging Bull"』
 - **tên_chuẩn:** 『Thiết Giáp Ngưu Xa "Raging Bull"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-500] 『Thiểm Quang Bạch Thỉ』
-
-- **id:** TERM-500
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thiểm Quang Bạch Thỉ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-501] 『Thung Lũng Tận Cùng』
-
-- **id:** TERM-501
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thung Lũng Tận Cùng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-053] 『Thuốc Giảm Đau』
-
-- **id:** ITEM-053
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-035] 『Thuốc Giảm Đau』
 - **tên_chuẩn:** 『Thuốc Giảm Đau』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-054] 『Thuốc Thử X』
-
-- **id:** ITEM-054
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-036] 『Thuốc Thử X』
 - **tên_chuẩn:** 『Thuốc Thử X』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-055] 『Thuốc Trị Thương A』
-
-- **id:** ITEM-055
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-037] 『Thuốc Trị Thương A』
 - **tên_chuẩn:** 『Thuốc Trị Thương A』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-502] 『Thành viên Đội Trinh Sát Rem - Quạ』
-
-- **id:** TERM-502
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thành viên Đội Trinh Sát Rem - Quạ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-503] 『Thánh Chiến Sĩ』
-
-- **id:** TERM-503
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-504] 『Thánh Giả Nước』
-
-- **id:** TERM-504
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Giả Nước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-056] 『Thánh Huyết Đao Thân』
-
-- **id:** ITEM-056
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-038] 『Thánh Huyết Đao Thân』
 - **tên_chuẩn:** 『Thánh Huyết Đao Thân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-057] 『Thánh Hỏa Thương Lôi』
-
-- **id:** ITEM-057
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-039] 『Thánh Hỏa Thương Lôi』
 - **tên_chuẩn:** 『Thánh Hỏa Thương Lôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-079] 『Thánh Kiếm Ánh Sáng』
-
-- **id:** SKILL-079
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thánh Kiếm Ánh Sáng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-505] 『Thánh Kỵ Sĩ』
-
-- **id:** TERM-505
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Kỵ Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-506] 『Thánh Nữ Chi Hòa Cung』
-
-- **id:** TERM-506
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Nữ Chi Hòa Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-507] 『Thánh Nữ Hòa Cung』
-
-- **id:** TERM-507
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Nữ Hòa Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-508] 『Thánh Nữ Đại Hòa Cung』
-
-- **id:** TERM-508
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Nữ Đại Hòa Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-509] 『Thánh Phá Đoạn』
-
-- **id:** TERM-509
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Phá Đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-510] 『Thánh Quang Giải Độc』
-
-- **id:** TERM-510
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Quang Giải Độc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-511] 『Thánh Thiên Cấp Binh Trang』
-
-- **id:** TERM-511
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Thiên Cấp Binh Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-080] 『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』
-
-- **id:** SKILL-080
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thánh Thiên Huy Hoàng Dũng Giả Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-512] 『Thánh Thiên Kết Giới』
-
-- **id:** TERM-512
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Thiên Kết Giới』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-513] 『Thánh Thiên cấp binh trang』
-
-- **id:** TERM-513
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Thiên cấp binh trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-514] 『Thánh Điểu Phách Vũ』
-
-- **id:** TERM-514
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Điểu Phách Vũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-515] 『Thánh Đường Kỵ Sĩ Đoàn』
-
-- **id:** TERM-515
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Đường Kỵ Sĩ Đoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-516] 『Thánh Ấn - Thanh Phong Ban Tặng』
-
-- **id:** TERM-516
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Ấn - Thanh Phong Ban Tặng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-517] 『Tháp Thử Thách』
-
-- **id:** TERM-517
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tháp Thử Thách』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-058] 『Thương Công Ba Động』
-
-- **id:** ITEM-058
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-040] 『Thương Công Ba Động』
 - **tên_chuẩn:** 『Thương Công Ba Động』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-059] 『Thương Lam Ba』
-
-- **id:** ITEM-059
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-041] 『Thương Lam Ba』
 - **tên_chuẩn:** 『Thương Lam Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-060] 『Thương Lam Cương Cầu』
-
-- **id:** ITEM-060
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-042] 『Thương Lam Cương Cầu』
 - **tên_chuẩn:** 『Thương Lam Cương Cầu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-061] 『Thương Lôi』
-
-- **id:** ITEM-061
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-043] 『Thương Lôi』
 - **tên_chuẩn:** 『Thương Lôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-081] 『Thương Lôi Kiếm』
-
-- **id:** SKILL-081
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thương Lôi Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-062] 『Thương Lôi Xung』
-
-- **id:** ITEM-062
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-044] 『Thương Lôi Xung』
 - **tên_chuẩn:** 『Thương Lôi Xung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-063] 『Thương Nguyệt』
-
-- **id:** ITEM-063
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-045] 『Thương Nguyệt』
 - **tên_chuẩn:** 『Thương Nguyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-064] 『Thương Phong Nhẫn』
-
-- **id:** ITEM-064
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-046] 『Thương Phong Nhẫn』
 - **tên_chuẩn:** 『Thương Phong Nhẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-065] 『Thương Sừng』
-
-- **id:** ITEM-065
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-047] 『Thương Sừng』
 - **tên_chuẩn:** 『Thương Sừng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-066] 『Thương Viêm Ba』
-
-- **id:** ITEM-066
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-048] 『Thương Viêm Ba』
 - **tên_chuẩn:** 『Thương Viêm Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-082] 『Thương Viêm Kiếm』
-
-- **id:** SKILL-082
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thương Viêm Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-518] 『Thạch Bích』
-
-- **id:** TERM-518
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thạch Bích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-083] 『Thạch Hóa Kết Hợp Pháo Đạn』
-
-- **id:** SKILL-083
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thạch Hóa Kết Hợp Pháo Đạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-519] 『Thạch Thuẫn』
-
-- **id:** TERM-519
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thạch Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-520] 『Thạch Tiễn』
-
-- **id:** TERM-520
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thạch Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-521] 『Thạch Tiễn (Stone Arrow)』
-
-- **id:** TERM-521
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thạch Tiễn (Stone Arrow)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-522] 『Thất Thiên Bảo Kính』
-
-- **id:** TERM-522
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thất Thiên Bảo Kính』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-523] 『Thần Phán Chi Chưởng Trảo Thánh Thiên』
-
-- **id:** TERM-523
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Phán Chi Chưởng Trảo Thánh Thiên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-524] 『Thần Phán Chi Thủ』
-
-- **id:** TERM-524
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Phán Chi Thủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-525] 『Thần Thiết』
-
-- **id:** TERM-525
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-084] 『Thần Thiết Thánh Kiếm』
-
-- **id:** SKILL-084
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thần Thiết Thánh Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-526] 『Thần Thánh Ngôn Ngữ』
-
-- **id:** TERM-526
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-527] 『Thần Thánh Ngôn Ngữ "Lời Thề"』
-
-- **id:** TERM-527
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-528] 『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』
-
-- **id:** TERM-528
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-529] 『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』
-
-- **id:** TERM-529
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-530] 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』
-
-- **id:** TERM-530
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-531] 『Thần Thánh Ngôn Ngữ「Lời Từ Chối」』
-
-- **id:** TERM-531
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ「Lời Từ Chối」』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-532] 『Thần Thụ Tháp』
-
-- **id:** TERM-532
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Thụ Tháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-533] 『Thần Tử』
-
-- **id:** TERM-533
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-534] 『Thần Uy Vạn Biệt』
-
-- **id:** TERM-534
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Uy Vạn Biệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-535] 『Thần Điện Kết Giới』
-
-- **id:** TERM-535
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Điện Kết Giới』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-536] 『Thề Nguyện Trinh Khiết Với Nữ Thần』
-
-- **id:** TERM-536
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thề Nguyện Trinh Khiết Với Nữ Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-537] 『Thể Băng』
-
-- **id:** TERM-537
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thể Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-538] 『Thể Băng (Body Collapse)』
-
-- **id:** TERM-538
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thể Băng (Body Collapse)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-539] 『Thệ Ước』
-
-- **id:** TERM-539
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thệ Ước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-540] 『Thỏa Thuận Đại Xá』
-
-- **id:** TERM-540
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thỏa Thuận Đại Xá』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-085] 『Thổ Ma Thuật Sư』
-
-- **id:** SKILL-085
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thổ Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-541] 『Thổ Tinh Pháo』
-
-- **id:** TERM-541
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thổ Tinh Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-542] 『Thổ Trư』
-
-- **id:** TERM-542
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thổ Trư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-543] 『Thổi Tung Bạch Tuyết』
-
-- **id:** TERM-543
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thổi Tung Bạch Tuyết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-544] 『Thợ Săn』
-
-- **id:** TERM-544
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thợ Săn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-545] 『Thụy Miên (Siesta)』
-
-- **id:** TERM-545
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thụy Miên (Siesta)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-546] 『Thủ Cấp Của Gove Thủ Lĩnh』
-
-- **id:** TERM-546
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủ Cấp Của Gove Thủ Lĩnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-547] 『Thủ Hộ Chiến Sĩ』
-
-- **id:** TERM-547
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủ Hộ Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-548] 『Thủ Hộ Thiên Sứ』
-
-- **id:** TERM-548
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủ Hộ Thiên Sứ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-086] 『Thủy Ma Thuật Sư』
-
-- **id:** SKILL-086
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thủy Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-549] 『Thủy Thuẫn』
-
-- **id:** TERM-549
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủy Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-550] 『Thủy Tiên』
-
-- **id:** TERM-550
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủy Tiên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-551] 『Thủy Tiên (Water Whip)』
-
-- **id:** TERM-551
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủy Tiên (Water Whip)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-552] 『Thủy Tiễn』
-
-- **id:** TERM-552
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủy Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-553] 『Thủy Vụ』
-
-- **id:** TERM-553
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thủy Vụ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-554] 『Thử nghiệm dược X』
-
-- **id:** TERM-554
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thử nghiệm dược X』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-555] 『Tinh Linh Chiến Sĩ』
-
-- **id:** TERM-555
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh Linh Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-556] 『Tinh Linh Dược Hiệu』
-
-- **id:** TERM-556
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh Linh Dược Hiệu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-557] 『Tinh Linh Khôi Lỗi』
-
-- **id:** TERM-557
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh Linh Khôi Lỗi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-558] 『Tinh Linh Lửa』
-
-- **id:** TERM-558
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh Linh Lửa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-087] 『Tinh Linh Thuật Sư』
-
-- **id:** SKILL-087
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tinh Linh Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-559] 『Tinh Linh Ánh Sáng Tí Hon』
-
-- **id:** TERM-559
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh Linh Ánh Sáng Tí Hon』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-088] 『Tinh linh thuật sư』
-
-- **id:** SKILL-088
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tinh linh thuật sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-560] 『Tiểu Hình Phục Chế Trận』
-
-- **id:** TERM-560
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tiểu Hình Phục Chế Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-561] 『Tiểu thuẫn Ngân Thiết』
-
-- **id:** TERM-561
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tiểu thuẫn Ngân Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-562] 『Tiểu Điểu Tương』
-
-- **id:** TERM-562
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tiểu Điểu Tương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-563] 『Tokkan Kouji-kun Mẫu 1』
-
-- **id:** TERM-563
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tokkan Kouji-kun Mẫu 1』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-564] 『Toàn Phong』
-
-- **id:** TERM-564
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Toàn Phong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-565] 『Trang phục Goma』
-
-- **id:** TERM-565
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trang phục Goma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-566] 『Triệu Hoán』
-
-- **id:** TERM-566
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-567] 『Triệu Hoán Băng Tinh Linh』
-
-- **id:** TERM-567
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Băng Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-568] 『Triệu Hoán Cao Cấp Băng Tinh Linh』
-
-- **id:** TERM-568
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Băng Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-569] 『Triệu Hoán Cao Cấp Thổ Tinh Linh』
-
-- **id:** TERM-569
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Thổ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-570] 『Triệu Hoán Cao Cấp Tinh Linh』
-
-- **id:** TERM-570
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-571] 『Triệu Hoán Linh Thú』
-
-- **id:** TERM-571
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Linh Thú』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-572] 『Triệu Hoán Quang Tinh Linh』
-
-- **id:** TERM-572
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Quang Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-089] 『Triệu Hoán Thuật Sư』
-
-- **id:** SKILL-089
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Triệu Hoán Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-573] 『Triệu Hoán Trung Cấp Băng Tinh Linh』
-
-- **id:** TERM-573
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Băng Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-574] 『Triệu Hoán Trung Cấp Thổ Tinh Linh』
-
-- **id:** TERM-574
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Thổ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-575] 『Triệu Hoán Trung Cấp Tinh Linh』
-
-- **id:** TERM-575
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-576] 『Triệu Hồi』
-
-- **id:** TERM-576
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hồi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-577] 『Triệu Hồi Skeleton』
-
-- **id:** TERM-577
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu Hồi Skeleton』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-578] 『Triệu hoán Golem』
-
-- **id:** TERM-578
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Triệu hoán Golem』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-090] 『Trung Cấp Ma Pháp Kiếm Kỹ』
-
-- **id:** SKILL-090
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trung Cấp Ma Pháp Kiếm Kỹ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-579] 『Trói Mạng Nhện』
-
-- **id:** TERM-579
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trói Mạng Nhện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-580] 『Trói Tóc Đen』
-
-- **id:** TERM-580
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trói Tóc Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-091] 『Trận Pháp Luyện Kim Sơ Cấp』
-
-- **id:** SKILL-091
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận Pháp Luyện Kim Sơ Cấp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-092] 『Trận Pháp Luyện Thành Giản Đơn』
-
-- **id:** SKILL-092
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận Pháp Luyện Thành Giản Đơn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-093] 『Trận Pháp Triệu Hoán Tinh Linh』
-
-- **id:** SKILL-093
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận Pháp Triệu Hoán Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-094] 『Trận pháp Luyện thành Băng kết』
-
-- **id:** SKILL-094
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Băng kết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-095] 『Trận pháp Luyện thành Chú đạo』
-
-- **id:** SKILL-095
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Chú đạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-096] 『Trận pháp Luyện thành Cơ bản』
-
-- **id:** SKILL-096
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Cơ bản』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-097] 『Trận pháp Luyện thành Giản đơn』
-
-- **id:** SKILL-097
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Giản đơn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-098] 『Trận pháp Luyện thành Nước』
-
-- **id:** SKILL-098
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Nước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-099] 『Trận pháp Luyện thành Thiết quặng』
-
-- **id:** SKILL-099
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Thiết quặng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-100] 『Trận pháp Luyện thành Ánh sáng』
-
-- **id:** SKILL-100
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp Luyện thành Ánh sáng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-101] 『Trận pháp dịch chuyển』
-
-- **id:** SKILL-101
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trận pháp dịch chuyển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-102] 『Trị Liệu Thuật Sư』
-
-- **id:** SKILL-102
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trị Liệu Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-581] 『Trọng Cương Đột Tiến』
-
-- **id:** TERM-581
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trọng Cương Đột Tiến』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-582] 『Trở Kháng』
-
-- **id:** TERM-582
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trở Kháng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-583] 『Trục Xuất Hình』
-
-- **id:** TERM-583
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trục Xuất Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-584] 『Trứng Salamander』
-
-- **id:** TERM-584
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trứng Salamander』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-585] 『Trực Giác』
-
-- **id:** TERM-585
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trực Giác』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-586] 『Trực Giác Dược Học』
-
-- **id:** TERM-586
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trực Giác Dược Học』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-587] 『Trực nhật Giặt giũ』
-
-- **id:** TERM-587
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trực nhật Giặt giũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-588] 『Trực nhật Quét dọn』
-
-- **id:** TERM-588
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trực nhật Quét dọn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-589] 『Tuyết Hôi Lang』
-
-- **id:** TERM-589
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tuyết Hôi Lang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-590] 『Tái Băng Kết』
-
-- **id:** TERM-590
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tái Băng Kết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-591] 『Tóc Đen Trói Buộc』
-
-- **id:** TERM-591
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tóc Đen Trói Buộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-592] 『Tóc Đỏ Trói Buộc』
-
-- **id:** TERM-592
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tóc Đỏ Trói Buộc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-593] 『Tùy Tùng』
-
-- **id:** TERM-593
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tùy Tùng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-594] 『Tùy Tùng - Hầu Gái』
-
-- **id:** TERM-594
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tùy Tùng - Hầu Gái』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-595] 『Tùy Tùng - Luyện Thành Sĩ』
-
-- **id:** TERM-595
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tùy Tùng - Luyện Thành Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-596] 『Tùy Tùng: Luyện Thành Sĩ』
-
-- **id:** TERM-596
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tùy Tùng: Luyện Thành Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-597] 『Túi sưởi tinh linh』
-
-- **id:** TERM-597
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Túi sưởi tinh linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-598] 『Túi Độc Lớn Của Ếch Vàng』
-
-- **id:** TERM-598
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Túi Độc Lớn Của Ếch Vàng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-599] 『Túi Ấm Áp』
-
-- **id:** TERM-599
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Túi Ấm Áp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-600] 『Tăng Huyết』
-
-- **id:** TERM-600
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tăng Huyết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-103] 『Tương Ảnh Thuật』
-
-- **id:** SKILL-103
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tương Ảnh Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-601] 『Tượng Nha Chi Tháp』
-
-- **id:** TERM-601
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tượng Nha Chi Tháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-602] 『Tượng Yêu Tinh』
-
-- **id:** TERM-602
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tượng Yêu Tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-603] 『Tượng yêu tinh』
-
-- **id:** TERM-603
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tượng yêu tinh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-604] 『Tấn Lôi』
-
-- **id:** TERM-604
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tấn Lôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-605] 『Tấu Giả』
-
-- **id:** TERM-605
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tấu Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-606] 『Tập Kích Ẩn Mình』
-
-- **id:** TERM-606
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tập Kích Ẩn Mình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-607] 『Tật Khu』
-
-- **id:** TERM-607
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tật Khu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-608] 『Tật Phong』
-
-- **id:** TERM-608
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tật Phong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-609] 『Tốc Hành』
-
-- **id:** TERM-609
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tốc Hành』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-104] 『Tối Đại Cuồng Hóa』
-
-- **id:** SKILL-104
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tối Đại Cuồng Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-610] 『Tử Phong Bộc Kích』
-
-- **id:** TERM-610
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tử Phong Bộc Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-105] 『U Minh Vương Kiếm Zamd』
-
-- **id:** SKILL-105
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『U Minh Vương Kiếm Zamd』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-106] 『Uyển Lực Cường Hóa』
-
-- **id:** SKILL-106
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Uyển Lực Cường Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-611] 『Vi Hồi Phục』
-
-- **id:** TERM-611
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vi Hồi Phục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-107] 『Viêm Kiếm Salamander』
-
-- **id:** SKILL-107
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Viêm Kiếm Salamander』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-108] 『Viêm Kiếm Thuật Sĩ』
-
-- **id:** SKILL-108
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Viêm Kiếm Thuật Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-109] 『Viêm Ma Thuật Sư』
-
-- **id:** SKILL-109
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Viêm Ma Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-612] 『Viêm Ngọc』
-
-- **id:** TERM-612
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Viêm Ngọc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-613] 『Viên thuẫn Ngân Thiết』
-
-- **id:** TERM-613
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Viên thuẫn Ngân Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-614] 『Voi Ma Mút Gai』
-
-- **id:** TERM-614
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Voi Ma Mút Gai』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-615] 『Voi ma mút gai』
-
-- **id:** TERM-615
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Voi ma mút gai』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-616] 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』
-
-- **id:** TERM-616
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-617] 『VÒNG XOÁY U MINH』
-
-- **id:** TERM-617
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『VÒNG XOÁY U MINH』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-618] 『VÔ HẠN LUYỆN NGỤC』
-
-- **id:** TERM-618
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『VÔ HẠN LUYỆN NGỤC』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-619] 『Vây Lớn Của Kelpie』
-
-- **id:** TERM-619
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vây Lớn Của Kelpie』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-620] 『Vòng Cổ Hồng Liên』
-
-- **id:** TERM-620
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vòng Cổ Hồng Liên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-621] 『Vòng Tay Sinh Lực』
-
-- **id:** TERM-621
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vòng Tay Sinh Lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-622] 『Vòng Tròn Xanh Lá』
-
-- **id:** TERM-622
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vòng Tròn Xanh Lá』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-623] 『Vòng Xoáy U Minh』
-
-- **id:** TERM-623
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vòng Xoáy U Minh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-624] 『Vô Hạn Luyện Ngục』
-
-- **id:** TERM-624
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vô Hạn Luyện Ngục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-625] 『Vô Mệnh Thủ Đoạn』
-
-- **id:** TERM-625
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vô Mệnh Thủ Đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-110] 『Vô Song Kiếm Vũ』
-
-- **id:** SKILL-110
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Vô Song Kiếm Vũ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-626] 『Võ』
-
-- **id:** TERM-626
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Võ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-627] 『Vĩnh Cửu』
-
-- **id:** TERM-627
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vĩnh Cửu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-111] 『Vĩnh Cửu Hóa』
-
-- **id:** SKILL-111
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Vĩnh Cửu Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-628] 『Vĩnh Hằng』
-
-- **id:** TERM-628
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vĩnh Hằng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-067] 『Vương Giáp』
-
-- **id:** ITEM-067
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-049] 『Vương Giáp』
 - **tên_chuẩn:** 『Vương Giáp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-068] 『Vương Giáp - Phantom Mail Full Armored』
-
-- **id:** ITEM-068
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-050] 『Vương Giáp - Phantom Mail Full Armored』
 - **tên_chuẩn:** 『Vương Giáp - Phantom Mail Full Armored』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-069] 『Vương quốc Bomber』
-
-- **id:** ITEM-069
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** 『Vương quốc Bomber』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-629] 『Vạc Của Phù Thủy』
-
-- **id:** TERM-629
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vạc Của Phù Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-630] 『Vật Phẩm Phục Chế』
-
-- **id:** TERM-630
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vật Phẩm Phục Chế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-631] 『VẾT CÀO KHẮC LÊN NHAM THẠCH』
-
-- **id:** TERM-631
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『VẾT CÀO KHẮC LÊN NHAM THẠCH』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-632] 『Vết Cào Khắc Lên Nham Thạch』
-
-- **id:** TERM-632
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vết Cào Khắc Lên Nham Thạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-070] 『Vỏ Giáp Cứng』
-
-- **id:** ITEM-070
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-051] 『Vỏ Giáp Cứng』
 - **tên_chuẩn:** 『Vỏ Giáp Cứng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-633] 『Vực Sâu Vô Tận』
-
-- **id:** TERM-633
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vực Sâu Vô Tận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-634] 『Wild 7』
-
-- **id:** TERM-634
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Wild 7』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-635] 『Worm Head』
-
-- **id:** TERM-635
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Worm Head』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-636] 『Xung Ba』
-
-- **id:** TERM-636
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xung Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-637] 『Xung Phá』
-
-- **id:** TERM-637
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xung Phá』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-638] 『Xuyên Kích』
-
-- **id:** TERM-638
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xuyên Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-639] 『Xuyên Quán Hoàn』
-
-- **id:** TERM-639
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xuyên Quán Hoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-640] 『XÍCH PHONG CHI NHẬN』
-
-- **id:** TERM-640
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『XÍCH PHONG CHI NHẬN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-071] 『Xà cạp và Giáp tay Hắc Thiết』
-
-- **id:** ITEM-071
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-052] 『Xà cạp và Giáp tay Hắc Thiết』
 - **tên_chuẩn:** 『Xà cạp và Giáp tay Hắc Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [ITEM-072] 『Xà cạp và Giáp tay Ngân Thiết』
-
-- **id:** ITEM-072
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-053] 『Xà cạp và Giáp tay Ngân Thiết』
 - **tên_chuẩn:** 『Xà cạp và Giáp tay Ngân Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-641] 『Xác Rối』
-
-- **id:** TERM-641
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xác Rối』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-642] 『Xác Rối - Nhện』
-
-- **id:** TERM-642
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xác Rối - Nhện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-643] 『Xác Rối - Rắn』
-
-- **id:** TERM-643
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xác Rối - Rắn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-644] 『Xích Lang』
-
-- **id:** TERM-644
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Lang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-645] 『Xích Long Ngạc』
-
-- **id:** TERM-645
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Long Ngạc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-646] 『Xích Nhiệt Bệnh』
-
-- **id:** TERM-646
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Nhiệt Bệnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-647] 『Xích Nhiệt Bệnh (Red Fever)』
-
-- **id:** TERM-647
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Nhiệt Bệnh (Red Fever)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-648] 『Xích Nhiệt Nhất Thiểm』
-
-- **id:** TERM-648
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Nhiệt Nhất Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-649] 『Xích Phát Phược』
-
-- **id:** TERM-649
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Phát Phược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-650] 『Xạ Thủ』
-
-- **id:** TERM-650
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xạ Thủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-651] 『Yellow Paralyzer』
-
-- **id:** TERM-651
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Yellow Paralyzer』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-652] 『Yên Ngọc』
-
-- **id:** TERM-652
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Yên Ngọc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-653] 『Yêu Tinh Điệp Báo Tử』
-
-- **id:** TERM-653
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Yêu Tinh Điệp Báo Tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-654] 『Zagan's Pride』
-
-- **id:** TERM-654
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Zagan's Pride』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-655] 『Zeal』
-
-- **id:** TERM-655
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Zeal』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-656] 『khu phế thải』
-
-- **id:** TERM-656
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『khu phế thải』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-657] 『phản phệ』
-
-- **id:** TERM-657
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『phản phệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-658] 『ÁC LINH NHẬP』
-
-- **id:** TERM-658
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『ÁC LINH NHẬP』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-659] 『Ác Linh Nhập』
-
-- **id:** TERM-659
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ác Linh Nhập』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-073] 『Ái Dạ Hắc Thương』
-
-- **id:** ITEM-073
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-054] 『Ái Dạ Hắc Thương』
 - **tên_chuẩn:** 『Ái Dạ Hắc Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-660] 『Áo Choàng Kháng Nhiệt Thử Nghiệm』
-
-- **id:** TERM-660
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo Choàng Kháng Nhiệt Thử Nghiệm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-661] 『Áo Choàng Tản Nhiệt』
-
-- **id:** TERM-661
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo Choàng Tản Nhiệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-662] 『Áo Khoác Tản Nhiệt』
-
-- **id:** TERM-662
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo Khoác Tản Nhiệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-663] 『Áo choàng Băng Mỏng』
-
-- **id:** TERM-663
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo choàng Băng Mỏng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-664] 『Áo khoác Da Bò』
-
-- **id:** TERM-664
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo khoác Da Bò』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-665] 『Áo khoác Sói』
-
-- **id:** TERM-665
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo khoác Sói』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-666] 『Áo khoác thỏ』
-
-- **id:** TERM-666
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo khoác thỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-667] 『Áo lót da mềm』
-
-- **id:** TERM-667
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo lót da mềm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-668] 『Áo măng tô Grand Boar』
-
-- **id:** TERM-668
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo măng tô Grand Boar』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-669] 『Áo phao Banded』
-
-- **id:** TERM-669
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo phao Banded』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-670] 『Áo thun Pha lê』
-
-- **id:** TERM-670
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo thun Pha lê』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-671] 『Áo vest Sói』
-
-- **id:** TERM-671
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Áo vest Sói』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-672] 『Ôn Phong Kết Giới - Diễm Nhật Hòa』
-
-- **id:** TERM-672
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ôn Phong Kết Giới - Diễm Nhật Hòa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-673] 『Ý Niệm Luật Lệnh』
-
-- **id:** TERM-673
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ý Niệm Luật Lệnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-674] 『Đa Trùng Liên Tỏa Triệu Hoán Trận』
-
-- **id:** TERM-674
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đa Trùng Liên Tỏa Triệu Hoán Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-675] 『Đa Trọng Liên Tỏa Triệu Hoán Trận』
-
-- **id:** TERM-675
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đa Trọng Liên Tỏa Triệu Hoán Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-676] 『Đai Lưng Terra』
-
-- **id:** TERM-676
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đai Lưng Terra』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-677] 『Đi săn』
-
-- **id:** TERM-677
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đi săn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-678] 『Điện Lưu Thủy Hoàn』
-
-- **id:** TERM-678
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Điện Lưu Thủy Hoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-679] 『Điệp Vũ Ngược』
-
-- **id:** TERM-679
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Điệp Vũ Ngược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-680] 『Điệu Nhảy Khâu Bóng』
-
-- **id:** TERM-680
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Điệu Nhảy Khâu Bóng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-112] 『Đoản Kiếm Kịch Độc Death Stinger』
-
-- **id:** SKILL-112
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đoản Kiếm Kịch Độc Death Stinger』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-113] 『Đoản Kiếm Trì Hoãn』
-
-- **id:** SKILL-113
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đoản Kiếm Trì Hoãn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-681] 『Đào Xoài (Đào xoài)』
-
-- **id:** TERM-681
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đào Xoài (Đào xoài)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-682] 『Đào Ảnh』
-
-- **id:** TERM-682
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đào Ảnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-683] 『Đã giải quyết xong』
-
-- **id:** TERM-683
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đã giải quyết xong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-074] 『Đóng Băng Trường Thương』
-
-- **id:** ITEM-074
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-055] 『Đóng Băng Trường Thương』
 - **tên_chuẩn:** 『Đóng Băng Trường Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-684] 『Đơn Giản Luyện Thành Trận』
-
-- **id:** TERM-684
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đơn Giản Luyện Thành Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-685] 『Đơn Giản Triệu Hoán Trận』
-
-- **id:** TERM-685
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đơn Giản Triệu Hoán Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-686] 『ĐẠI ĐOẠN KÍCH PHÁ』
-
-- **id:** TERM-686
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『ĐẠI ĐOẠN KÍCH PHÁ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-687] 『ĐẠN HỒI』
-
-- **id:** TERM-687
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『ĐẠN HỒI』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-688] 『Đại Chiến Sĩ Gira-Goma』
-
-- **id:** TERM-688
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Chiến Sĩ Gira-Goma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-689] 『Đại Chiến Sĩ Gira-Goma Gizaginzu』
-
-- **id:** TERM-689
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Chiến Sĩ Gira-Goma Gizaginzu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-690] 『Đại Chiến Sĩ Đoàn』
-
-- **id:** TERM-690
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Chiến Sĩ Đoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-691] 『Đại Cự Thần』
-
-- **id:** TERM-691
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Cự Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-692] 『Đại Hắc Anh - Uy Thiên Xung Giác』
-
-- **id:** TERM-692
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Hắc Anh - Uy Thiên Xung Giác』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-693] 『Đại Hỏa Tinh Linh』
-
-- **id:** TERM-693
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Hỏa Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-694] 『Đại Khẩu』
-
-- **id:** TERM-694
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Khẩu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-695] 『Đại Ma Đạo Sĩ』
-
-- **id:** TERM-695
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Ma Đạo Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-696] 『Đại Phong Tinh Linh』
-
-- **id:** TERM-696
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Phong Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-697] 『Đại Phá Đoạn』
-
-- **id:** TERM-697
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Phá Đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-114] 『Đại Sơn Lưu Viêm Quyền Thuật』
-
-- **id:** SKILL-114
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đại Sơn Lưu Viêm Quyền Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-698] 『Đại Thổ Tinh Linh』
-
-- **id:** TERM-698
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Thổ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-699] 『Đại Thủ Hộ Thiên Sứ』
-
-- **id:** TERM-699
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Thủ Hộ Thiên Sứ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-700] 『Đại Tế』
-
-- **id:** TERM-700
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Tế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-701] 『Đại thuẫn Ngân Thiết』
-
-- **id:** TERM-701
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại thuẫn Ngân Thiết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-702] 『Đại Đoạn Kích Phá』
-
-- **id:** TERM-702
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Đoạn Kích Phá』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-703] 『Đại Đả』
-
-- **id:** TERM-703
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Đả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-704] 『Đại Địa Ma Nhân』
-
-- **id:** TERM-704
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Địa Ma Nhân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-705] 『Đạn Cháy』
-
-- **id:** TERM-705
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đạn Cháy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-706] 『Đạo Tặc』
-
-- **id:** TERM-706
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đạo Tặc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-707] 『Đạo tặc』
-
-- **id:** TERM-707
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đạo tặc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-708] 『Đầm Lầy Thối Rữa』
-
-- **id:** TERM-708
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầm Lầy Thối Rữa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-709] 『Đầm Lầy Thối Rữa (Swamp of Decay)』
-
-- **id:** TERM-709
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầm Lầy Thối Rữa (Swamp of Decay)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-710] 『Đầm lầy thối rữa』
-
-- **id:** TERM-710
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầm lầy thối rữa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-115] 『Đầu Lâu Của Chú Thuật Sư』
-
-- **id:** SKILL-115
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu Lâu Của Chú Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-711] 『Đầu Lâu Của Thực Nhân Quỷ』
-
-- **id:** TERM-711
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầu Lâu Của Thực Nhân Quỷ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-712] 『Đầu Lâu Của Triệu Hoán Sư』
-
-- **id:** TERM-712
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầu Lâu Của Triệu Hoán Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-116] 『Đầu Lâu Của Triệu Hoán Thuật Sư』
-
-- **id:** SKILL-116
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu Lâu Của Triệu Hoán Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-713] 『Đầu Lâu Của Xạ Thủ』
-
-- **id:** TERM-713
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầu Lâu Của Xạ Thủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-714] 『Đầu hai ngả』
-
-- **id:** TERM-714
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầu hai ngả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-117] 『Đầu lâu Chú thuật sư』
-
-- **id:** SKILL-117
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu lâu Chú thuật sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-118] 『Đầu lâu Triệu Hoán Thuật Sư』
-
-- **id:** SKILL-118
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu lâu Triệu Hoán Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-119] 『Đầu lâu của Chú thuật sư』
-
-- **id:** SKILL-119
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu lâu của Chú thuật sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-120] 『Đầu lâu của Triệu Hoán Thuật Sư』
-
-- **id:** SKILL-120
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đầu lâu của Triệu Hoán Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-715] 『Đầu lâu của Xạ thủ』
-
-- **id:** TERM-715
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đầu lâu của Xạ thủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-716] 『Đậu Bùn』
-
-- **id:** TERM-716
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đậu Bùn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-717] 『Đặt Cược Vào Thiếu Nữ Ước Hẹn』
-
-- **id:** TERM-717
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đặt Cược Vào Thiếu Nữ Ước Hẹn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-718] 『Đệm Khí』
-
-- **id:** TERM-718
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đệm Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-719] 『Đồ bảo hộ tơ nhện』
-
-- **id:** TERM-719
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đồ bảo hộ tơ nhện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-720] 『Đồ ngụy trang Ghillie - Bản Sa mạc』
-
-- **id:** TERM-720
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đồ ngụy trang Ghillie - Bản Sa mạc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-721] 『Đồng phục thủy thủ giả』
-
-- **id:** TERM-721
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đồng phục thủy thủ giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-722] 『Đồng Điệu Ba Động』
-
-- **id:** TERM-722
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đồng Điệu Ba Động』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-723] 『Độc (Poison)』
-
-- **id:** TERM-723
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Độc (Poison)』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-724] 『Độc Tiễn』
-
-- **id:** TERM-724
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Độc Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-725] 『Độc Tê Liệt Nhện - Ếch』
-
-- **id:** TERM-725
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Độc Tê Liệt Nhện - Ếch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-726] 『Độc Yên Ngọc』
-
-- **id:** TERM-726
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Độc Yên Ngọc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-727] 『Độc tê liệt của Ếch Nhện』
-
-- **id:** TERM-727
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Độc tê liệt của Ếch Nhện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-121] 『Độc tê liệt hóa học hệ Gamma』
-
-- **id:** SKILL-121
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Độc tê liệt hóa học hệ Gamma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-122] 『Độc tê liệt hóa học kiểu Gamma』
-
-- **id:** SKILL-122
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Độc tê liệt hóa học kiểu Gamma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-728] 『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』
-
-- **id:** TERM-728
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-123] 『Đỡ Chồng Kiếm』
-
-- **id:** SKILL-123
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đỡ Chồng Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-124] 『Đứa con của Chú thần Ruinhilde』
-
-- **id:** SKILL-124
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đứa con của Chú thần Ruinhilde』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-729] 『Đứa con của Nữ thần Elysion』
-
-- **id:** TERM-729
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đứa con của Nữ thần Elysion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-730] 『Đứa con của thần』
-
-- **id:** TERM-730
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đứa con của thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-125] 『Đứa trẻ được chúc phúc』
-
-- **id:** SKILL-125
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Đứa trẻ được chúc phúc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-731] 『điều chỉnh』
-
-- **id:** TERM-731
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『điều chỉnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-732] 『Ưng Hói Đỏ』
-
-- **id:** TERM-732
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ưng Hói Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-733] 『Ưng Nhãn』
-
-- **id:** TERM-733
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ưng Nhãn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-734] 『Ảnh Nhân Hình』
-
-- **id:** TERM-734
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ảnh Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-735] 『Ảnh Nhẫn』
-
-- **id:** TERM-735
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ảnh Nhẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-736] 『Ảnh Tiễn』
-
-- **id:** TERM-736
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ảnh Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-737] 『Ếch Nhện』
-
-- **id:** TERM-737
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ếch Nhện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-738] 『Ủng da và Găng tay da』
-
-- **id:** TERM-738
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ủng da và Găng tay da』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-021] 『Thần Thánh Ngôn Ngữ "Lời Thề"』
-
-- **id:** SKILL-021
-- **loại:** KỸ NĂNG & MA PHÁP
-- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Thề"』
-- **tên_khác:** Holy Language "Oath"
-- **chủ_sở_hữu:** Lilith Godland Astoria
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
-- **mô_tả:** Kỹ năng thần thánh độc quyền của Dũng Giả Lilith do Nữ thần Elshion ban tặng. Cất lời thề thiêng liêng để kích hoạt các cấm thuật không gian và can thiệp thực tại quy ước.
-
----
-
-## [SKILL-022] 『Hắc Thánh Hòm』
-
-- **id:** SKILL-022
-- **loại:** KỸ NĂNG & MA PHÁP
-- **tên_chuẩn:** 『Hắc Thánh Hòm』
-- **tên_khác:** Black Holy Ark / Black Ark
-- **chủ_sở_hữu:** Lilith Godland Astoria
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
-- **mô_tả:** Tuyệt kỹ kết giới không gian của Lilith. Giáng cột sáng khổng lồ phong tỏa và dịch chuyển tức thời đối thủ vào một không gian phòng màu trắng tinh vô tận để tiến hành cuộc quyết đấu công bằng 1vs1 cô lập hoàn toàn với thế giới bên ngoài.
-
----
-
-## [SKILL-023] 『Kẻ Diệt Khổng Lồ』
-
-- **id:** SKILL-023
-- **loại:** KỸ NĂNG & MA PHÁP
-- **tên_chuẩn:** 『Kẻ Diệt Khổng Lồ』
-- **tên_khác:** Giant Slayer / Zagan's Pride
-- **chủ_sở_hữu:** Futaba Meiko (Cuồng Chiến Binh)
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
-- **mô_tả:** Đại chiêu tất sát giải phóng tối đa lưỡi đao 『Bát Táp Ngưu Ma Đao』 của Cuồng Chiến Binh Futaba Meiko. Yêu cầu tụ lực 10 giây phóng ra lôi điện đỏ đen cuồn cuộn ngưng tụ thành cự kiếm hắc ám đâm toạc bầu trời, đủ sức chém chết cả cự nhân khổng lồ.
-
----
-
-## [ITEM-022] 『Thánh Kiếm Ánh Sáng』
-
-- **id:** ITEM-022
-- **loại:** VẬT PHẨM & TRANG BỊ
-- **tên_chuẩn:** 『Thánh Kiếm Ánh Sáng』
-- **tên_khác:** Holy Sword of Light
-- **chủ_sở_hữu:** Lilith Godland Astoria
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
-- **mô_tả:** Thánh kiếm thần ban của Dũng Giả tiền nhiệm Lilith. Tỏa ánh sáng xanh ngọc lục bảo thuần khiết, tinh xảo và áp đảo hơn thanh kiếm của Souma Yuuto. Chỉ cần kích hoạt bằng câu "Ánh sáng ơi, hãy hiện hữu", vầng hào quang lập tức thanh tẩy, đưa toàn bộ ma pháp, sấm sét và sinh vật Undead về hư vô trong chớp mắt.
-
----
-
-## [ITEM-023] 『Vô Mệnh Thủ Đoạn』
-
-- **id:** ITEM-023
-- **loại:** VẬT PHẨM & TRANG BỊ
-- **tên_chuẩn:** 『Vô Mệnh Thủ Đoạn』
-- **tên_khác:** Lifeless Measure / Thanh kiếm của Ma Vương
-- **chủ_sở_hữu:** Chú Thần Ruinhilde / Cổ Đại Ma Vương
-- **trạng_thái:** ĐÃ XÁC NHẬN
-- **canon:** CHÍNH THỨC
-- **độ_tin_cậy:** TUYỆT ĐỐI
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Tập 408 - Nữ Dũng Giả (1)
-- **mô_tả:** Thanh đại kiếm màu đen diệt trừ thần ma của Cổ Đại Ma Vương. Chú Thần Ruinhilde (con gái Ma Vương) từng vung thanh kiếm này với câu nói "Thanh kiếm của cha ta" để chém tan nát hóa thân giáng lâm của Nữ thần Elshion.
-
----
-
-## [TERM-739] 『Basilisk』
-
-- **id:** TERM-739
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Basilisk』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-077] 『Bom Lõi』
-
-- **id:** ITEM-077
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-056] 『Bom Lõi』
 - **tên_chuẩn:** 『Bom Lõi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-740] 『Buffalo』
-
-- **id:** TERM-740
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Buffalo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-741] 『Bạch Chi Bí Thạch』
-
-- **id:** TERM-741
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Chi Bí Thạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-742] 『Bạch Thái Lang』
-
-- **id:** TERM-742
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Thái Lang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-743] 『Bảo vệ』
-
-- **id:** TERM-743
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bảo vệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-744] 『Bất Thoái Chuyển Chi Thệ Ước』
-
-- **id:** TERM-744
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bất Thoái Chuyển Chi Thệ Ước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-745] 『Chiến Binh Triệu Hồi』
-
-- **id:** TERM-745
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiến Binh Triệu Hồi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-746] 『Chiến sĩ』
-
-- **id:** TERM-746
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiến sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-129] 『Chú phát』
-
-- **id:** SKILL-129
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú phát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-130] 『Chú ấn』
-
-- **id:** SKILL-130
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú ấn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-747] 『Cà Phê Treant』
-
-- **id:** TERM-747
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cà Phê Treant』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-748] 『Cổng Dịch Chuyển』
-
-- **id:** TERM-748
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cổng Dịch Chuyển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-749] 『Cổng Không Gian』
-
-- **id:** TERM-749
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cổng Không Gian』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-750] 『Dark Rerite』
-
-- **id:** TERM-750
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dark Rerite』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-751] 『Dũng Tinh Thập Tự Đoàn』
-
-- **id:** TERM-751
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dũng Tinh Thập Tự Đoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-752] 『Dực Long』
-
-- **id:** TERM-752
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dực Long』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-078] 『Gấu Giáp Sắt』
-
-- **id:** ITEM-078
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-057] 『Gấu Giáp Sắt』
 - **tên_chuẩn:** 『Gấu Giáp Sắt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-753] 『Hắc Chi Thánh Quỹ』
-
-- **id:** TERM-753
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Chi Thánh Quỹ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-131] 『Hắc Hóa Salamander』
-
-- **id:** SKILL-131
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Hắc Hóa Salamander』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-754] 『Hắc Phát Phược』
-
-- **id:** TERM-754
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Phát Phược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-755] 『Hắc phục』
-
-- **id:** TERM-755
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc phục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-756] 『Học viện Hakurei』
-
-- **id:** TERM-756
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Học viện Hakurei』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-757] 『Hỏa Long Salamander』
-
-- **id:** TERM-757
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Long Salamander』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-758] 『Hỏa Ngưu』
-
-- **id:** TERM-758
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Ngưu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-759] 『Hỏa Sơn Golem』
-
-- **id:** TERM-759
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Sơn Golem』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-760] 『Jarja』
-
-- **id:** TERM-760
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Jarja』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-761] 『Kiến Triệt』
-
-- **id:** TERM-761
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kiến Triệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-762] 『Kính Cận Quỷ Súc』
-
-- **id:** TERM-762
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kính Cận Quỷ Súc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-763] 『LUYỆN THÀNH TRẬN』
-
-- **id:** TERM-763
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『LUYỆN THÀNH TRẬN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-764] 『Lava Lizardman』
-
-- **id:** TERM-764
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lava Lizardman』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-765] 『Long Tai』
-
-- **id:** TERM-765
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Long Tai』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-132] 『Ma thuật sư hệ Băng』
-
-- **id:** SKILL-132
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ma thuật sư hệ Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-766] 『Maid Trưởng』
-
-- **id:** TERM-766
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Maid Trưởng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-767] 『Momoko』
-
-- **id:** TERM-767
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Momoko』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-768] 『Monster Stampede』
-
-- **id:** TERM-768
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Monster Stampede』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-769] 『Mãnh Độc Long Pháo』
-
-- **id:** TERM-769
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãnh Độc Long Pháo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-770] 『Nhiên Đồn』
-
-- **id:** TERM-770
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nhiên Đồn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-771] 『Nữ Thần Elshion』
-
-- **id:** TERM-771
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nữ Thần Elshion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-772] 『Orichalcum』
-
-- **id:** TERM-772
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Orichalcum』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-773] 『Phi Tường Thiểm』
-
-- **id:** TERM-773
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phi Tường Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-774] 『Phân Thân Dung Hợp』
-
-- **id:** TERM-774
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Phân Thân Dung Hợp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-775] 『Quang Thạch Thủy Băng』
-
-- **id:** TERM-775
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Quang Thạch Thủy Băng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-776] 『Sakurako』
-
-- **id:** TERM-776
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sakurako』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-777] 『Souma Lưu』
-
-- **id:** TERM-777
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Souma Lưu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-778] 『Súng Blaster』
-
-- **id:** TERM-778
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Súng Blaster』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-779] 『Súng lục ổ quay』
-
-- **id:** TERM-779
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Súng lục ổ quay』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-780] 『Súng trường Blaster』
-
-- **id:** TERM-780
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Súng trường Blaster』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-781] 『Sứ ma』
-
-- **id:** TERM-781
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Sứ ma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-782] 『Tam đại loli』
-
-- **id:** TERM-782
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tam đại loli』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-079] 『Thiết Giáp Khốc Hào』
-
-- **id:** ITEM-079
-- **loại:** VẬT PHẨM / TRANG BỊ
-- **tên_chuẩn:** 『Thiết Giáp Khốc Hào』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-080] 『Thiết Giáp Ngưu Xa Raging Bull』
-
-- **id:** ITEM-080
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-058] 『Thiết Giáp Ngưu Xa Raging Bull』
 - **tên_chuẩn:** 『Thiết Giáp Ngưu Xa Raging Bull』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-783] 『Thánh Hoàng Bệ Hạ』
-
-- **id:** TERM-783
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thánh Hoàng Bệ Hạ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-784] 『Thần Tử của Lời Nguyền』
-
-- **id:** TERM-784
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần Tử của Lời Nguyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-785] 『Thần tử』
-
-- **id:** TERM-785
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Thần tử』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-133] 『Thủy ma thuật sư』
-
-- **id:** SKILL-133
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thủy ma thuật sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-786] 『Trường Sĩ Quan』
-
-- **id:** TERM-786
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Trường Sĩ Quan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-787] 『Tà Thần』
-
-- **id:** TERM-787
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tà Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-788] 『Tà Thần Bóng Tối Chronos』
-
-- **id:** TERM-788
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tà Thần Bóng Tối Chronos』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-789] 『Tà Thần Chronos』
-
-- **id:** TERM-789
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tà Thần Chronos』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-790] 『Tàu Ma Đạo』
-
-- **id:** TERM-790
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tàu Ma Đạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-791] 『Tứ Đại Mê Cung』
-
-- **id:** TERM-791
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tứ Đại Mê Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-792] 『Tứ Đại Thánh Khanh』
-
-- **id:** TERM-792
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tứ Đại Thánh Khanh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-793] 『Vong Khước Hình』
-
-- **id:** TERM-793
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vong Khước Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-794] 『Vạc Phù Thủy』
-
-- **id:** TERM-794
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vạc Phù Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-795] 『Vạn Cân Trọng Cước』
-
-- **id:** TERM-795
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Vạn Cân Trọng Cước』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-796] 『Xích Phong Chi Nhận』
-
-- **id:** TERM-796
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Phong Chi Nhận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-797] 『Xích Thái Lang』
-
-- **id:** TERM-797
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Xích Thái Lang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-798] 『Đại Mê Cung Albion』
-
-- **id:** TERM-798
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Mê Cung Albion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-799] 『Đại Mê Cung Sigrun』
-
-- **id:** TERM-799
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Mê Cung Sigrun』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-800] 『Đại Nham Oa』
-
-- **id:** TERM-800
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đại Nham Oa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-801] 『Đạn Hồi』
-
-- **id:** TERM-801
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đạn Hồi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-802] 『Air Cushion』
-
-- **id:** TERM-802
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Air Cushion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-803] 『Aqua Serpent』
-
-- **id:** TERM-803
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Aqua Serpent』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-804] 『Armored Cry』
-
-- **id:** TERM-804
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Armored Cry』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-805] 『Axit Thuẫn』
-
-- **id:** TERM-805
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Axit Thuẫn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-806] 『Axit Tiễn』
-
-- **id:** TERM-806
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Axit Tiễn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-807] 『Beni Tachikaze』
-
-- **id:** TERM-807
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Beni Tachikaze』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-808] 『Bio-Metal』
-
-- **id:** TERM-808
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bio-Metal』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-809] 『Biểu Tượng Thời Trang』
-
-- **id:** TERM-809
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Biểu Tượng Thời Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-810] 『Blast Sword』
-
-- **id:** TERM-810
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Blast Sword』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-811] 『Brave Star Cross』
-
-- **id:** TERM-811
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Brave Star Cross』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-812] 『Burst Lance』
-
-- **id:** TERM-812
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Burst Lance』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-813] 『Bách Oản Trảo』
-
-- **id:** TERM-813
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bách Oản Trảo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-814] 『Bé hư thì phải bị đánh đòn vào mông nha~』
-
-- **id:** TERM-814
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bé hư thì phải bị đánh đòn vào mông nha~』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-815] 『Băng Sương』
-
-- **id:** TERM-815
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng Sương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-816] 『Băng đảng』
-
-- **id:** TERM-816
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Băng đảng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-817] 『Bạch Ngân Vương Thành』
-
-- **id:** TERM-817
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bạch Ngân Vương Thành』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-818] 『Bản Luyện Thành Trận Lập Thể Song Song』
-
-- **id:** TERM-818
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bản Luyện Thành Trận Lập Thể Song Song』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-819] 『Bảo Ngọc Địa Long』
-
-- **id:** TERM-819
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bảo Ngọc Địa Long』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-820] 『Bảo Ngọc Địa Long - Raptor』
-
-- **id:** TERM-820
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bảo Ngọc Địa Long - Raptor』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-821] 『Bảo Quản Thức』
-
-- **id:** TERM-821
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bảo Quản Thức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-822] 『Bỏ trốn Cúc-cu』
-
-- **id:** TERM-822
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bỏ trốn Cúc-cu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-823] 『Bờ Hồ Nereis』
-
-- **id:** TERM-823
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Bờ Hồ Nereis』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-824] 『Chaba-goma』
-
-- **id:** TERM-824
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chaba-goma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-825] 『Che Dấu Hiện Diện』
-
-- **id:** TERM-825
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Che Dấu Hiện Diện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-826] 『Chiếc Hộp Kotori』
-
-- **id:** TERM-826
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chiếc Hộp Kotori』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-827] 『Chân Huyết Đảng』
-
-- **id:** TERM-827
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Huyết Đảng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-828] 『Chân Ma-id Phục』
-
-- **id:** TERM-828
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Ma-id Phục』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-829] 『Chân Ngụy Chi Đồng』
-
-- **id:** TERM-829
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Ngụy Chi Đồng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-830] 『Chân Tổ』
-
-- **id:** TERM-830
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Tổ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-831] 『Chân Tổ Chi Huyết』
-
-- **id:** TERM-831
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Chân Tổ Chi Huyết』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-134] 『Chú Thuật Sư Tỉnh Giấc』
-
-- **id:** SKILL-134
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chú Thuật Sư Tỉnh Giấc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-135] 『Chúng Nghị Viện』
-
-- **id:** SKILL-135
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Chúng Nghị Viện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-081] 『Crash Axe』
-
-- **id:** ITEM-081
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-059] 『Crash Axe』
 - **tên_chuẩn:** 『Crash Axe』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-832] 『Cuồng Chiến Sĩ』
-
-- **id:** TERM-832
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cuồng Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-136] 『Cuồng Hóa Tối Đa』
-
-- **id:** SKILL-136
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cuồng Hóa Tối Đa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-833] 『Câm Lặng』
-
-- **id:** TERM-833
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Câm Lặng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-834] 『Còn có đứa bé hư nào nữa hông ta~?』
-
-- **id:** TERM-834
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Còn có đứa bé hư nào nữa hông ta~?』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-835] 『Có em bé hư kìa~』
-
-- **id:** TERM-835
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Có em bé hư kìa~』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-836] 『Có em bé ngoan nào ở đây hông ta~?』
-
-- **id:** TERM-836
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Có em bé ngoan nào ở đây hông ta~?』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-837] 『Cơ Bản Luyện Thành Trận』
-
-- **id:** TERM-837
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cơ Bản Luyện Thành Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-137] 『Cường Hóa Cước Lực』
-
-- **id:** SKILL-137
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cường Hóa Cước Lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-138] 『Cường Hóa Uy Lực』
-
-- **id:** SKILL-138
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cường Hóa Uy Lực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-838] 『CẢNH BÁO: PHÁT HIỆN TRUY CẬP TRÁI PHÉP』
-
-- **id:** TERM-838
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『CẢNH BÁO: PHÁT HIỆN TRUY CẬP TRÁI PHÉP』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-839] 『Cảm nhận Khí tức』
-
-- **id:** TERM-839
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cảm nhận Khí tức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-840] 『Cảm tri khí tức』
-
-- **id:** TERM-840
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cảm tri khí tức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-841] 『Cầu Nguyện Phì Nhiêu』
-
-- **id:** TERM-841
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cầu Nguyện Phì Nhiêu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-842] 『Cộng Minh Âm Ba』
-
-- **id:** TERM-842
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cộng Minh Âm Ba』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-843] 『Cục Quản Lý Mê Cung』
-
-- **id:** TERM-843
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cục Quản Lý Mê Cung』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-844] 『Cứu Tế Phái』
-
-- **id:** TERM-844
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cứu Tế Phái』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-845] 『Cự Nhân Chi Khôi』
-
-- **id:** TERM-845
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Nhân Chi Khôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-846] 『Cự Nhân Chi Khải』
-
-- **id:** TERM-846
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Nhân Chi Khải』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-847] 『Cự Thần Chiến Trang』
-
-- **id:** TERM-847
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Cự Thần Chiến Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-139] 『Cự Đại Hóa』
-
-- **id:** SKILL-139
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cự Đại Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-140] 『Cực Cuồng Hóa』
-
-- **id:** SKILL-140
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Cực Cuồng Hóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-848] 『Daidan Gekiha』
-
-- **id:** TERM-848
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Daidan Gekiha』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-849] 『Dao rác』
-
-- **id:** TERM-849
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dao rác』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-850] 『Dread Chrome』
-
-- **id:** TERM-850
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dread Chrome』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-851] 『Dread Dite』
-
-- **id:** TERM-851
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dread Dite』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-852] 『Dread Gasta』
-
-- **id:** TERM-852
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dread Gasta』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-853] 『Dread Horn』
-
-- **id:** TERM-853
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dread Horn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-854] 『Duyên』
-
-- **id:** TERM-854
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Duyên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-855] 『DŨNG KHÍ CHI QUANG』
-
-- **id:** TERM-855
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『DŨNG KHÍ CHI QUANG』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-856] 『Dũng Khí Chi Quang』
-
-- **id:** TERM-856
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dũng Khí Chi Quang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-857] 『Dược Hiệu Thức』
-
-- **id:** TERM-857
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược Hiệu Thức』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-858] 『Dược Sĩ』
-
-- **id:** TERM-858
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dược Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-859] 『Dấu Ấn Mèo Hoang』
-
-- **id:** TERM-859
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Dấu Ấn Mèo Hoang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-860] 『Eldreich』
-
-- **id:** TERM-860
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Eldreich』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-861] 『Esmeralda』
-
-- **id:** TERM-861
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Esmeralda』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-862] 『Exo-Gogma』
-
-- **id:** TERM-862
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Exo-Gogma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-863] 『Force Edge』
-
-- **id:** TERM-863
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Force Edge』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-864] 『Full Armor Hell Guard』
-
-- **id:** TERM-864
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Full Armor Hell Guard』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-865] 『Fuma』
-
-- **id:** TERM-865
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Fuma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-866] 『GAIA POWER』
-
-- **id:** TERM-866
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『GAIA POWER』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-867] 『Gaia Power』
-
-- **id:** TERM-867
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gaia Power』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-868] 『Giác Quan Dược Học』
-
-- **id:** TERM-868
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giác Quan Dược Học』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-082] 『Giác Thương』
-
-- **id:** ITEM-082
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-060] 『Giác Thương』
 - **tên_chuẩn:** 『Giác Thương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-869] 『Giáo Hội Tóc Đen』
-
-- **id:** TERM-869
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giáo Hội Tóc Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-870] 『Giáo hội Tóc Đen』
-
-- **id:** TERM-870
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Giáo hội Tóc Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-083] 『Giáp Vỏ Cứng』
-
-- **id:** ITEM-083
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-061] 『Giáp Vỏ Cứng』
 - **tên_chuẩn:** 『Giáp Vỏ Cứng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-871] 『Gà Biển Tẩu Thoát』
-
-- **id:** TERM-871
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gà Biển Tẩu Thoát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-872] 『Gà Vàng Đào Tẩu』
-
-- **id:** TERM-872
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gà Vàng Đào Tẩu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-873] 『Gậy Kẻ Khờ』
-
-- **id:** TERM-873
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Gậy Kẻ Khờ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-874] 『Hellgate Guardian』
-
-- **id:** TERM-874
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hellgate Guardian』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-875] 『Hiệp Sĩ』
-
-- **id:** TERM-875
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hiệp Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-876] 『Hoàn Toàn Biến Thái Hệ』
-
-- **id:** TERM-876
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hoàn Toàn Biến Thái Hệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-877] 『Huyết Thao』
-
-- **id:** TERM-877
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huyết Thao』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-878] 『Huyết Toát』
-
-- **id:** TERM-878
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Huyết Toát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-141] 『Huyết Đấu Thuật』
-
-- **id:** SKILL-141
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Huyết Đấu Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-879] 『Hòm Thánh Đen』
-
-- **id:** TERM-879
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hòm Thánh Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-880] 『Hư Nguyệt』
-
-- **id:** TERM-880
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hư Nguyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-881] 『Hắc Diện Ông』
-
-- **id:** TERM-881
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Diện Ông』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-882] 『Hắc Kỵ Sĩ Đoàn』
-
-- **id:** TERM-882
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Kỵ Sĩ Đoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-883] 『Hắc Ma Nữ Luyện Ngục Lô』
-
-- **id:** TERM-883
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Ma Nữ Luyện Ngục Lô』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-884] 『Hắc Nạp』
-
-- **id:** TERM-884
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Nạp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-885] 『Hắc Phong』
-
-- **id:** TERM-885
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Phong』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-886] 『Hắc Sắc Độc Lâu』
-
-- **id:** TERM-886
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Sắc Độc Lâu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-887] 『Hắc Đầu Lâu』
-
-- **id:** TERM-887
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hắc Đầu Lâu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-888] 『Hệ Thống Phả Hệ』
-
-- **id:** TERM-888
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hệ Thống Phả Hệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-889] 『Hỏa Diễm Phụ Dữ』
-
-- **id:** TERM-889
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hỏa Diễm Phụ Dữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-890] 『Hồng Tarou』
-
-- **id:** TERM-890
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hồng Tarou』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-891] 『Hổng được nữa rồi nhen~』
-
-- **id:** TERM-891
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hổng được nữa rồi nhen~』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-892] 『Hổng được đâuuu~』
-
-- **id:** TERM-892
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hổng được đâuuu~』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-893] 『Hộp Sọ Của Kẻ Truyền Đạo』
-
-- **id:** TERM-893
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hộp Sọ Của Kẻ Truyền Đạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-894] 『Hủ Chi Chiểu』
-
-- **id:** TERM-894
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hủ Chi Chiểu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-895] 『Hủ Trạch』
-
-- **id:** TERM-895
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Hủ Trạch』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-896] 『Idea Code』
-
-- **id:** TERM-896
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Idea Code』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-897] 『Impact Hammer』
-
-- **id:** TERM-897
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Impact Hammer』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-898] 『Jobari Oblige』
-
-- **id:** TERM-898
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Jobari Oblige』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-899] 『Jobless Oblige』
-
-- **id:** TERM-899
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Jobless Oblige』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-142] 『Khinh Kiếm Sĩ』
-
-- **id:** SKILL-142
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Khinh Kiếm Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-143] 『Kho Chứa Kiếm』
-
-- **id:** SKILL-143
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kho Chứa Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-144] 『Kho Lưu Trữ Kiếm』
-
-- **id:** SKILL-144
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Kho Lưu Trữ Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-900] 『Khu Phố Hắc Ám』
-
-- **id:** TERM-900
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khu Phố Hắc Ám』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-901] 『Khuếch Thanh』
-
-- **id:** TERM-901
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Khuếch Thanh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-902] 『Kiến Nhiệm』
-
-- **id:** TERM-902
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kiến Nhiệm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-903] 『Klan』
-
-- **id:** TERM-903
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Klan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-904] 『Kronos』
-
-- **id:** TERM-904
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kronos』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-905] 『Kusarinuma』
-
-- **id:** TERM-905
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kusarinuma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-906] 『Kyoshin Sensou』
-
-- **id:** TERM-906
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kyoshin Sensou』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-907] 『Kết Giới Làm Mát』
-
-- **id:** TERM-907
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kết Giới Làm Mát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-908] 『Kỳ Đào Sư』
-
-- **id:** TERM-908
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kỳ Đào Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-909] 『Kỳ Đảo Sư』
-
-- **id:** TERM-909
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Kỳ Đảo Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-910] 『Langley Dung Binh Đoàn』
-
-- **id:** TERM-910
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Langley Dung Binh Đoàn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-911] 『Liệt Phá Đoạn』
-
-- **id:** TERM-911
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Liệt Phá Đoạn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-912] 『Luyện Khí』
-
-- **id:** TERM-912
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-913] 『Luyện Ngục Lô Hắc Ma Nữ』
-
-- **id:** TERM-913
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Ngục Lô Hắc Ma Nữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-914] 『Luyện Ngục Ác Ma』
-
-- **id:** TERM-914
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Ngục Ác Ma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-145] 『Luyện Thành Thuật Sĩ』
-
-- **id:** SKILL-145
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Luyện Thành Thuật Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-915] 『Luyện Thành Trận Giản Đơn』
-
-- **id:** TERM-915
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện Thành Trận Giản Đơn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-916] 『Luyện ngục lô của Hắc Phù Thủy』
-
-- **id:** TERM-916
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Luyện ngục lô của Hắc Phù Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-146] 『Lôi Kiếm Sĩ』
-
-- **id:** SKILL-146
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Lôi Kiếm Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-917] 『Lõi Tự Bạo』
-
-- **id:** TERM-917
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lõi Tự Bạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-084] 『Lưỡi Đao Gió Đỏ』
-
-- **id:** ITEM-084
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-062] 『Lưỡi Đao Gió Đỏ』
 - **tên_chuẩn:** 『Lưỡi Đao Gió Đỏ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-918] 『Lời Cầu Nguyện Của Mẹ』
-
-- **id:** TERM-918
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời Cầu Nguyện Của Mẹ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-919] 『Lời thề Bất thoái chuyển』
-
-- **id:** TERM-919
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lời thề Bất thoái chuyển』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-920] 『Lực Chi Tạp Phiến』
-
-- **id:** TERM-920
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Lực Chi Tạp Phiến』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-921] 『Ma Cà Rồng』
-
-- **id:** TERM-921
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Cà Rồng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-922] 『Ma Nữ Chi Phủ』
-
-- **id:** TERM-922
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ma Nữ Chi Phủ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-923] 『Medicanon』
-
-- **id:** TERM-923
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Medicanon』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-924] 『Minh Chứng Của Mèo Hoang』
-
-- **id:** TERM-924
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Minh Chứng Của Mèo Hoang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-925] 『Minh Chứng Mèo Hoang』
-
-- **id:** TERM-925
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Minh Chứng Mèo Hoang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-926] 『Muscle Suit』
-
-- **id:** TERM-926
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Muscle Suit』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-927] 『Mãn Mãn Mãn Nguyệt』
-
-- **id:** TERM-927
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mãn Mãn Mãn Nguyệt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-928] 『Mảnh Vỡ Sức Mạnh』
-
-- **id:** TERM-928
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mảnh Vỡ Sức Mạnh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-929] 『Mẫu Chi Khẩn Cầu』
-
-- **id:** TERM-929
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mẫu Chi Khẩn Cầu』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-930] 『Mẫu Thân Chi Khẩn Nguyện』
-
-- **id:** TERM-930
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mẫu Thân Chi Khẩn Nguyện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-931] 『Mẫu Thân Chi Kỳ』
-
-- **id:** TERM-931
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Mẫu Thân Chi Kỳ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-932] 『NHẤT THIẾM』
-
-- **id:** TERM-932
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『NHẤT THIẾM』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-933] 『Necro Bloodline』
-
-- **id:** TERM-933
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Necro Bloodline』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-934] 『Nghi Thức Lời Nguyện Thề』
-
-- **id:** TERM-934
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nghi Thức Lời Nguyện Thề』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-935] 『Ngoại Quách Đình Viên』
-
-- **id:** TERM-935
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ngoại Quách Đình Viên』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-936] 『Nguyền rủa』
-
-- **id:** TERM-936
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nguyền rủa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-147] 『Nguyệt Quang Chi Ngự Kiếm』
-
-- **id:** SKILL-147
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Nguyệt Quang Chi Ngự Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [ITEM-085] 『Ngưu Ma Đao Phanh Thây』
-
-- **id:** ITEM-085
-- **loại:** VẬT PHẨM / TRANG BỊ
+## [ITEM-063] 『Ngưu Ma Đao Phanh Thây』
 - **tên_chuẩn:** 『Ngưu Ma Đao Phanh Thây』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
 ---
 
-## [SKILL-148] 『Ngụy Trang Thuật - Sơ Cấp』
-
-- **id:** SKILL-148
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ngụy Trang Thuật - Sơ Cấp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
+### 3. 👹 MA THÚ & SINH VẬT (MONSTERS)
 
 ---
 
-## [TERM-937] 『Nhiệt Chiến Sĩ』
+### 4. 🌐 THUẬT NGỮ THẾ GIỚI (TERMS)
 
-- **id:** TERM-937
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-001] 『...Hãy tỉnh giấc đi』
+- **tên_chuẩn:** 『...Hãy tỉnh giấc đi』
+
+## [TERM-002] 『...này』
+- **tên_chuẩn:** 『...này』
+
+## [TERM-003] 『A-xít Thuẫn』
+- **tên_chuẩn:** 『A-xít Thuẫn』
+
+## [TERM-004] 『Alfa』
+- **tên_chuẩn:** 『Alfa』
+
+## [TERM-005] 『Alpha』
+- **tên_chuẩn:** 『Alpha』
+
+## [TERM-006] 『Ancient Villains』
+- **tên_chuẩn:** 『Ancient Villains』
+
+## [TERM-007] 『Anh Hoa Liêu Loạn』
+- **tên_chuẩn:** 『Anh Hoa Liêu Loạn』
+
+## [TERM-008] 『Arachne』
+- **tên_chuẩn:** 『Arachne』
+
+## [TERM-009] 『Assassin Suit』
+- **tên_chuẩn:** 『Assassin Suit』
+
+## [TERM-010] 『Avdran』
+- **tên_chuẩn:** 『Avdran』
+
+## [TERM-011] 『Balo Goma』
+- **tên_chuẩn:** 『Balo Goma』
+
+## [TERM-012] 『Ban Kỷ Luật』
+- **tên_chuẩn:** 『Ban Kỷ Luật』
+
+## [TERM-013] 『Ban Tuyên Truyền』
+- **tên_chuẩn:** 『Ban Tuyên Truyền』
+
+## [TERM-014] 『Ban Y Tế』
+- **tên_chuẩn:** 『Ban Y Tế』
+
+## [TERM-015] 『Binh lính Gove』
+- **tên_chuẩn:** 『Binh lính Gove』
+
+## [TERM-016] 『Biến Thái Hoàn Toàn』
+- **tên_chuẩn:** 『Biến Thái Hoàn Toàn』
+
+## [TERM-017] 『Blast Knuckle』
+- **tên_chuẩn:** 『Blast Knuckle』
+
+## [TERM-018] 『Bullwhip』
+- **tên_chuẩn:** 『Bullwhip』
+
+## [TERM-019] 『Bách Liệt Tán Hoa』
+- **tên_chuẩn:** 『Bách Liệt Tán Hoa』
+
+## [TERM-020] 『Bão Tuyết Cuồng Phong』
+- **tên_chuẩn:** 『Bão Tuyết Cuồng Phong』
+
+## [TERM-021] 『Bí Thạch Trắng』
+- **tên_chuẩn:** 『Bí Thạch Trắng』
+
+## [TERM-022] 『Bích Hành』
+- **tên_chuẩn:** 『Bích Hành』
+
+## [TERM-023] 『Búp Bê Bùn Dơ Bẩn』
+- **tên_chuẩn:** 『Búp Bê Bùn Dơ Bẩn』
+
+## [TERM-024] 『Băng Hộ Phù』
+- **tên_chuẩn:** 『Băng Hộ Phù』
+
+## [TERM-025] 『Băng Kết Phong Tinh』
+- **tên_chuẩn:** 『Băng Kết Phong Tinh』
+
+## [TERM-026] 『Băng Mỏng Tiễn』
+- **tên_chuẩn:** 『Băng Mỏng Tiễn』
+
+## [TERM-027] 『Băng Pháo』
+- **tên_chuẩn:** 『Băng Pháo』
+
+## [TERM-028] 『Băng Sơn Thành Lũy』
+- **tên_chuẩn:** 『Băng Sơn Thành Lũy』
+
+## [TERM-029] 『Băng Tinh Linh』
+- **tên_chuẩn:** 『Băng Tinh Linh』
+
+## [TERM-030] 『Băng Tinh Linh Cấp Cao』
+- **tên_chuẩn:** 『Băng Tinh Linh Cấp Cao』
+
+## [TERM-031] 『Băng Tinh Thể』
+- **tên_chuẩn:** 『Băng Tinh Thể』
+
+## [TERM-032] 『Băng Tiễn』
+- **tên_chuẩn:** 『Băng Tiễn』
+
+## [TERM-033] 『Băng Tuyết Cự Thuẫn』
+- **tên_chuẩn:** 『Băng Tuyết Cự Thuẫn』
+
+## [TERM-034] 『Băng Vụ』
+- **tên_chuẩn:** 『Băng Vụ』
+
+## [TERM-035] 『BẠCH CHI BÍ THẠCH』
+- **tên_chuẩn:** 『BẠCH CHI BÍ THẠCH』
+
+## [TERM-036] 『BẠCH DIỆN CHI VŨ - CỬU VĨ』
+- **tên_chuẩn:** 『BẠCH DIỆN CHI VŨ - CỬU VĨ』
+
+## [TERM-037] 『Bạc Âm』
+- **tên_chuẩn:** 『Bạc Âm』
+
+## [TERM-038] 『Bạc Đăng』
+- **tên_chuẩn:** 『Bạc Đăng』
+
+## [TERM-039] 『Bạch Bí Thạch』
+- **tên_chuẩn:** 『Bạch Bí Thạch』
+
+## [TERM-040] 『Bạch Giao』
+- **tên_chuẩn:** 『Bạch Giao』
+
+## [TERM-041] 『Bạch Ngân Thần Nhạc』
+- **tên_chuẩn:** 『Bạch Ngân Thần Nhạc』
+
+## [TERM-042] 『Bạch Quang Tiễn』
+- **tên_chuẩn:** 『Bạch Quang Tiễn』
+
+## [TERM-043] 『Bạch Tật Phong』
+- **tên_chuẩn:** 『Bạch Tật Phong』
+
+## [TERM-044] 『Bạo Long Đỏ』
+- **tên_chuẩn:** 『Bạo Long Đỏ』
+
+## [TERM-045] 『BẢO VỆ』
+- **tên_chuẩn:** 『BẢO VỆ』
+
+## [TERM-046] 『BẤT THOÁI CHUYỂN CHI THỆ ƯỚC』
+- **tên_chuẩn:** 『BẤT THOÁI CHUYỂN CHI THỆ ƯỚC』
+
+## [TERM-047] 『Bất Thối Chuyển Thệ Ước』
+- **tên_chuẩn:** 『Bất Thối Chuyển Thệ Ước』
+
+## [TERM-048] 『Bắt đầu』
+- **tên_chuẩn:** 『Bắt đầu』
+
+## [TERM-049] 『Bốn Dạ Dày Của Christaur』
+- **tên_chuẩn:** 『Bốn Dạ Dày Của Christaur』
+
+## [TERM-050] 『Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện』
+- **tên_chuẩn:** 『Bộ Đồ Sát Thủ Cải Tiến - Bản Cách Điện』
+
+## [TERM-051] 『Bộc Nhiệt Cân Nhục』
+- **tên_chuẩn:** 『Bộc Nhiệt Cân Nhục』
+
+## [TERM-052] 『Bộc Phá』
+- **tên_chuẩn:** 『Bộc Phá』
+
+## [TERM-053] 『CHIẾN BINH TRIỆU HỒI』
+- **tên_chuẩn:** 『CHIẾN BINH TRIỆU HỒI』
+
+## [TERM-054] 『Che Giấu Hiện Diện』
+- **tên_chuẩn:** 『Che Giấu Hiện Diện』
+
+## [TERM-055] 『Che Giấu Khí Tức』
+- **tên_chuẩn:** 『Che Giấu Khí Tức』
+
+## [TERM-056] 『Chiêu Lôi』
+- **tên_chuẩn:** 『Chiêu Lôi』
+
+## [TERM-057] 『Chiến Binh Cuồng Loạn Lang Thang』
+- **tên_chuẩn:** 『Chiến Binh Cuồng Loạn Lang Thang』
+
+## [TERM-058] 『Chiến Khiếu』
+- **tên_chuẩn:** 『Chiến Khiếu』
+
+## [TERM-059] 『Chronos』
+- **tên_chuẩn:** 『Chronos』
+
+## [TERM-060] 『Chuyển Hồn (Đổi Thân Xác)』
+- **tên_chuẩn:** 『Chuyển Hồn (Đổi Thân Xác)』
+
+## [TERM-061] 『Chân Cơ Bắp』
+- **tên_chuẩn:** 『Chân Cơ Bắp』
+
+## [TERM-062] 『Chân Nhất Thiểm』
+- **tên_chuẩn:** 『Chân Nhất Thiểm』
+
+## [TERM-063] 『Chín Mươi Chín Linh Hồn』
+- **tên_chuẩn:** 『Chín Mươi Chín Linh Hồn』
+
+## [TERM-064] 『Clan Mạo Hiểm Giả』
+- **tên_chuẩn:** 『Clan Mạo Hiểm Giả』
+
+## [TERM-065] 『Coffee Trent』
+- **tên_chuẩn:** 『Coffee Trent』
+
+## [TERM-066] 『Con Rối Bóng Tối Lệ Thuộc』
+- **tên_chuẩn:** 『Con Rối Bóng Tối Lệ Thuộc』
+
+## [TERM-067] 『Con Rối Bùn Ô Uế』
+- **tên_chuẩn:** 『Con Rối Bùn Ô Uế』
+
+## [TERM-068] 『Cool Cutlass Cải tiến』
+- **tên_chuẩn:** 『Cool Cutlass Cải tiến』
+
+## [TERM-069] 『Crimson Grilleen』
+- **tên_chuẩn:** 『Crimson Grilleen』
+
+## [TERM-070] 『Crimson Rex』
+- **tên_chuẩn:** 『Crimson Rex』
+
+## [TERM-071] 『Cursed Hexa』
+- **tên_chuẩn:** 『Cursed Hexa』
+
+## [TERM-072] 『Cursed Soil』
+- **tên_chuẩn:** 『Cursed Soil』
+
+## [TERM-073] 『Cà Phê Maid & Quản Gia Đảo Ngược』
+- **tên_chuẩn:** 『Cà Phê Maid & Quản Gia Đảo Ngược』
+
+## [TERM-074] 『Cánh Tay Cơ Bắp』
+- **tên_chuẩn:** 『Cánh Tay Cơ Bắp』
+
+## [TERM-075] 『Cánh Vệ Thần』
+- **tên_chuẩn:** 『Cánh Vệ Thần』
+
+## [TERM-076] 『Cánh Vỗ Trói Buộc』
+- **tên_chuẩn:** 『Cánh Vỗ Trói Buộc』
+
+## [TERM-077] 『Cây Gậy Ẩn Mật』
+- **tên_chuẩn:** 『Cây Gậy Ẩn Mật』
+
+## [TERM-078] 『Cơ Quan Tăng Ma Lực』
+- **tên_chuẩn:** 『Cơ Quan Tăng Ma Lực』
+
+## [TERM-079] 『Cơn Sốt Đỏ』
+- **tên_chuẩn:** 『Cơn Sốt Đỏ』
+
+## [TERM-080] 『CƯƠNG KÍCH』
+- **tên_chuẩn:** 『CƯƠNG KÍCH』
+
+## [TERM-081] 『CƯƠNG THÂN』
+- **tên_chuẩn:** 『CƯƠNG THÂN』
+
+## [TERM-082] 『CƯƠNG THỂ』
+- **tên_chuẩn:** 『CƯƠNG THỂ』
+
+## [TERM-083] 『Cương Lực』
+- **tên_chuẩn:** 『Cương Lực』
+
+## [TERM-084] 『Cương Thân (Steel Body)』
+- **tên_chuẩn:** 『Cương Thân (Steel Body)』
+
+## [TERM-085] 『Cương Đại Đả Kích』
+- **tên_chuẩn:** 『Cương Đại Đả Kích』
+
+## [TERM-086] 『Cường Đại Đả』
+- **tên_chuẩn:** 『Cường Đại Đả』
+
+## [TERM-087] 『Cảm Nhận Hiện Diện』
+- **tên_chuẩn:** 『Cảm Nhận Hiện Diện』
+
+## [TERM-088] 『Cảm Nhận Khí Biến』
+- **tên_chuẩn:** 『Cảm Nhận Khí Biến』
+
+## [TERM-089] 『Cảm Nhận Khí Tức』
+- **tên_chuẩn:** 『Cảm Nhận Khí Tức』
+
+## [TERM-090] 『Cấm giết người』
+- **tên_chuẩn:** 『Cấm giết người』
+
+## [TERM-091] 『Cấp Cứu Hồi Phục』
+- **tên_chuẩn:** 『Cấp Cứu Hồi Phục』
+
+## [TERM-092] 『Cần thiết』
+- **tên_chuẩn:** 『Cần thiết』
+
+## [TERM-093] 『Cầu Mưa Đại Tế』
+- **tên_chuẩn:** 『Cầu Mưa Đại Tế』
+
+## [TERM-094] 『Cặp học sinh』
+- **tên_chuẩn:** 『Cặp học sinh』
+
+## [TERM-095] 『CỔNG KHÔNG GIAN』
+- **tên_chuẩn:** 『CỔNG KHÔNG GIAN』
+
+## [TERM-096] 『Cổ Đại Ngữ Giải Độc - Tự (Cấp Nhập Môn)』
+- **tên_chuẩn:** 『Cổ Đại Ngữ Giải Độc - Tự (Cấp Nhập Môn)』
+
+## [TERM-097] 『Cổ Độc Chi Khí』
+- **tên_chuẩn:** 『Cổ Độc Chi Khí』
+
+## [TERM-098] 『Cộng Sự Đến Đây Capsule』
+- **tên_chuẩn:** 『Cộng Sự Đến Đây Capsule』
+
+## [TERM-099] 『Cứng Cáp』
+- **tên_chuẩn:** 『Cứng Cáp』
+
+## [TERM-100] 『Cửu Thập Cửu Chi Ngự Linh』
+- **tên_chuẩn:** 『Cửu Thập Cửu Chi Ngự Linh』
+
+## [TERM-101] 『Cự Long Đại Ngạc』
+- **tên_chuẩn:** 『Cự Long Đại Ngạc』
+
+## [TERM-102] 『Cự Nhân Chiến Trang』
+- **tên_chuẩn:** 『Cự Nhân Chiến Trang』
+
+## [TERM-103] 『Cự Nhân Sát』
+- **tên_chuẩn:** 『Cự Nhân Sát』
+
+## [TERM-104] 『Cự Thần Vĩ Đại』
+- **tên_chuẩn:** 『Cự Thần Vĩ Đại』
+
+## [TERM-105] 『Dao Phế Liệu』
+- **tên_chuẩn:** 『Dao Phế Liệu』
+
+## [TERM-106] 『Dao bướm của Higuchi』
+- **tên_chuẩn:** 『Dao bướm của Higuchi』
+
+## [TERM-107] 『Dao Đỏ』
+- **tên_chuẩn:** 『Dao Đỏ』
+
+## [TERM-108] 『Dark Tower Shield』
+- **tên_chuẩn:** 『Dark Tower Shield』
+
+## [TERM-109] 『Death Crimson Stinger』
+- **tên_chuẩn:** 『Death Crimson Stinger』
+
+## [TERM-110] 『Death Stalker』
+- **tên_chuẩn:** 『Death Stalker』
+
+## [TERM-111] 『Death Stinger』
+- **tên_chuẩn:** 『Death Stinger』
+
+## [TERM-112] 『Decakokko』
+- **tên_chuẩn:** 『Decakokko』
+
+## [TERM-113] 『Deka-Kokko Đóng Băng』
+- **tên_chuẩn:** 『Deka-Kokko Đóng Băng』
+
+## [TERM-114] 『Diamond Duster』
+- **tên_chuẩn:** 『Diamond Duster』
+
+## [TERM-115] 『Diên Vĩ』
+- **tên_chuẩn:** 『Diên Vĩ』
+
+## [TERM-116] 『Dungeon Master』
+- **tên_chuẩn:** 『Dungeon Master』
+
+## [TERM-117] 『Dâm Ma』
+- **tên_chuẩn:** 『Dâm Ma』
+
+## [TERM-118] 『Dâm Môn Hàng Ma Nghi Lễ』
+- **tên_chuẩn:** 『Dâm Môn Hàng Ma Nghi Lễ』
+
+## [TERM-119] 『Dâm Văn』
+- **tên_chuẩn:** 『Dâm Văn』
+
+## [TERM-120] 『Dược Hiệu Thánh Thủy』
+- **tên_chuẩn:** 『Dược Hiệu Thánh Thủy』
+
+## [TERM-121] 『Dược Học Trực Giác』
+- **tên_chuẩn:** 『Dược Học Trực Giác』
+
+## [TERM-122] 『Dược Sư』
+- **tên_chuẩn:** 『Dược Sư』
+
+## [TERM-123] 『Dược học Trực giác (Trực Giác Dược Học)』
+- **tên_chuẩn:** 『Dược học Trực giác (Trực Giác Dược Học)』
+
+## [TERM-124] 『Dạ Dày Không Đáy』
+- **tên_chuẩn:** 『Dạ Dày Không Đáy』
+
+## [TERM-125] 『Dạng Sóng』
+- **tên_chuẩn:** 『Dạng Sóng』
+
+## [TERM-126] 『Dẫn Bạch Ba』
+- **tên_chuẩn:** 『Dẫn Bạch Ba』
+
+## [TERM-127] 『Dịch Vụ Nô Lệ Velvet』
+- **tên_chuẩn:** 『Dịch Vụ Nô Lệ Velvet』
+
+## [TERM-128] 『Dừng lại』
+- **tên_chuẩn:** 『Dừng lại』
+
+## [TERM-129] 『Elemental Mountain』
+- **tên_chuẩn:** 『Elemental Mountain』
+
+## [TERM-130] 『Elysion』
+- **tên_chuẩn:** 『Elysion』
+
+## [TERM-131] 『End Bolt』
+- **tên_chuẩn:** 『End Bolt』
+
+## [TERM-132] 『Fairy Walnut』
+- **tên_chuẩn:** 『Fairy Walnut』
+
+## [TERM-133] 『Fear Gaze』
+- **tên_chuẩn:** 『Fear Gaze』
+
+## [TERM-134] 『Fenrir Pride』
+- **tên_chuẩn:** 『Fenrir Pride』
+
+## [TERM-135] 『Full Boost』
+- **tên_chuẩn:** 『Full Boost』
+
+## [TERM-136] 『Full Helgar』
+- **tên_chuẩn:** 『Full Helgar』
+
+## [TERM-137] 『Gamma Gold Paralyzer』
+- **tên_chuẩn:** 『Gamma Gold Paralyzer』
+
+## [TERM-138] 『General Code』
+- **tên_chuẩn:** 『General Code』
+
+## [TERM-139] 『General Guard』
+- **tên_chuẩn:** 『General Guard』
+
+## [TERM-140] 『Gia Tốc Hồi Phục』
+- **tên_chuẩn:** 『Gia Tốc Hồi Phục』
+
+## [TERM-141] 『Giao Thoa』
+- **tên_chuẩn:** 『Giao Thoa』
+
+## [TERM-142] 『Giga Michaela』
+- **tên_chuẩn:** 『Giga Michaela』
+
+## [TERM-143] 『Gilastorm』
+- **tên_chuẩn:** 『Gilastorm』
+
+## [TERM-144] 『Gira-Gogma』
+- **tên_chuẩn:** 『Gira-Gogma』
+
+## [TERM-145] 『Giải Mã Cổ Ngữ』
+- **tên_chuẩn:** 『Giải Mã Cổ Ngữ』
+
+## [TERM-146] 『Giải Mã Cổ Ngữ - Sơ Cấp』
+- **tên_chuẩn:** 『Giải Mã Cổ Ngữ - Sơ Cấp』
+
+## [TERM-147] 『Giải Mã Ngôn Ngữ Tinh Linh』
+- **tên_chuẩn:** 『Giải Mã Ngôn Ngữ Tinh Linh』
+
+## [TERM-148] 『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』
+- **tên_chuẩn:** 『Giải Mã Ngôn Ngữ Tinh Linh - Sơ Cấp』
+
+## [TERM-149] 『Giản Dị Luyện Thành Trận』
+- **tên_chuẩn:** 『Giản Dị Luyện Thành Trận』
+
+## [TERM-150] 『Giản Dị Triệu Hoán Trận』
+- **tên_chuẩn:** 『Giản Dị Triệu Hoán Trận』
+
+## [TERM-151] 『Giọt Lệ Sinh Mệnh』
+- **tên_chuẩn:** 『Giọt Lệ Sinh Mệnh』
+
+## [TERM-152] 『Giọt Nước Sinh Mệnh』
+- **tên_chuẩn:** 『Giọt Nước Sinh Mệnh』
+
+## [TERM-153] 『Giọt Nước Tinh Khiết』
+- **tên_chuẩn:** 『Giọt Nước Tinh Khiết』
+
+## [TERM-154] 『Goarex』
+- **tên_chuẩn:** 『Goarex』
+
+## [TERM-155] 『Gogma』
+- **tên_chuẩn:** 『Gogma』
+
+## [TERM-156] 『Grim Gore』
+- **tên_chuẩn:** 『Grim Gore』
+
+## [TERM-157] 『Gậy Kelpie』
+- **tên_chuẩn:** 『Gậy Kelpie』
+
+## [TERM-158] 『Gậy Kẻ Ngốc』
+- **tên_chuẩn:** 『Gậy Kẻ Ngốc』
+
+## [TERM-159] 『HOANG NGHỊCH BA』
+- **tên_chuẩn:** 『HOANG NGHỊCH BA』
+
+## [TERM-160] 『HOÀNG CHI LINH TRANG』
+- **tên_chuẩn:** 『HOÀNG CHI LINH TRANG』
+
+## [TERM-161] 『Hang động ác mộng』
+- **tên_chuẩn:** 『Hang động ác mộng』
+
+## [TERM-162] 『Hard Counter』
+- **tên_chuẩn:** 『Hard Counter』
+
+## [TERM-163] 『High Slash』
+- **tên_chuẩn:** 『High Slash』
+
+## [TERM-164] 『High Zombie』
+- **tên_chuẩn:** 『High Zombie』
+
+## [TERM-165] 『High Zombie (Cương Thi Cao Cấp)』
+- **tên_chuẩn:** 『High Zombie (Cương Thi Cao Cấp)』
+
+## [TERM-166] 『Highlander』
+- **tên_chuẩn:** 『Highlander』
+
+## [TERM-167] 『Hoa Trà』
+- **tên_chuẩn:** 『Hoa Trà』
+
+## [TERM-168] 『Horror Break』
+- **tên_chuẩn:** 『Horror Break』
+
+## [TERM-169] 『Hoàng Linh Trang』
+- **tên_chuẩn:** 『Hoàng Linh Trang』
+
+## [TERM-170] 『Hoạt động』
+- **tên_chuẩn:** 『Hoạt động』
+
+## [TERM-171] 『Huy Chương Dũng Cảm』
+- **tên_chuẩn:** 『Huy Chương Dũng Cảm』
+
+## [TERM-172] 『Huy Quang Linh Trang』
+- **tên_chuẩn:** 『Huy Quang Linh Trang』
+
+## [TERM-173] 『Huy Quang Phòng Bích』
+- **tên_chuẩn:** 『Huy Quang Phòng Bích』
+
+## [TERM-174] 『Huyết Mạch Hắc Ám』
+- **tên_chuẩn:** 『Huyết Mạch Hắc Ám』
+
+## [TERM-175] 『Huyễn Ảnh Băng Tượng』
+- **tên_chuẩn:** 『Huyễn Ảnh Băng Tượng』
+
+## [TERM-176] 『Huệ Thể』
+- **tên_chuẩn:** 『Huệ Thể』
+
+## [TERM-177] 『Hài Trang Bazuzu』
+- **tên_chuẩn:** 『Hài Trang Bazuzu』
+
+## [TERM-178] 『Hào Quang Dũng Cảm』
+- **tên_chuẩn:** 『Hào Quang Dũng Cảm』
+
+## [TERM-179] 『Hào Quyền』
+- **tên_chuẩn:** 『Hào Quyền』
+
+## [TERM-180] 『Hãy Giương Cao Quyền Trượng』
+- **tên_chuẩn:** 『Hãy Giương Cao Quyền Trượng』
+
+## [TERM-181] 『Hãy Ngâm Vịnh Chân Lý Giữa Trời Cao』
+- **tên_chuẩn:** 『Hãy Ngâm Vịnh Chân Lý Giữa Trời Cao』
+
+## [TERM-182] 『Hình Nhân Bùn Dơ Bẩn』
+- **tên_chuẩn:** 『Hình Nhân Bùn Dơ Bẩn』
+
+## [TERM-183] 『Hình Nhân Bùn Dơ Bẩn (Mud Golem)』
+- **tên_chuẩn:** 『Hình Nhân Bùn Dơ Bẩn (Mud Golem)』
+
+## [TERM-184] 『Hình Nhân Tử Thi Oán Hận』
+- **tên_chuẩn:** 『Hình Nhân Tử Thi Oán Hận』
+
+## [TERM-185] 『Hình Nhân Tử Thi Oán Hận (Corpse Doll)』
+- **tên_chuẩn:** 『Hình Nhân Tử Thi Oán Hận (Corpse Doll)』
+
+## [TERM-186] 『Hòm Thư Góp Ý』
+- **tên_chuẩn:** 『Hòm Thư Góp Ý』
+
+## [TERM-187] 『Hũ Cổ Độc』
+- **tên_chuẩn:** 『Hũ Cổ Độc』
+
+## [TERM-188] 『Hơi Thở Lửa』
+- **tên_chuẩn:** 『Hơi Thở Lửa』
+
+## [TERM-189] 『Hơi Thở Đỏ』
+- **tên_chuẩn:** 『Hơi Thở Đỏ』
+
+## [TERM-190] 『Hư Ảnh』
+- **tên_chuẩn:** 『Hư Ảnh』
+
+## [TERM-191] 『Hư Ảnh Tương Chiếu』
+- **tên_chuẩn:** 『Hư Ảnh Tương Chiếu』
+
+## [TERM-192] 『Hầu Gái』
+- **tên_chuẩn:** 『Hầu Gái』
+
+## [TERM-193] 『HẮC CHI THÁNH QUỸ』
+- **tên_chuẩn:** 『HẮC CHI THÁNH QUỸ』
+
+## [TERM-194] 『HẮC MA NỮ CHI LUYỆN NGỤC LÔ』
+- **tên_chuẩn:** 『HẮC MA NỮ CHI LUYỆN NGỤC LÔ』
+
+## [TERM-195] 『HẮC PHÁT PHƯỢC』
+- **tên_chuẩn:** 『HẮC PHÁT PHƯỢC』
+
+## [TERM-196] 『Hắc Chi Huyết Mạch』
+- **tên_chuẩn:** 『Hắc Chi Huyết Mạch』
+
+## [TERM-197] 『Hắc Giác Cung』
+- **tên_chuẩn:** 『Hắc Giác Cung』
+
+## [TERM-198] 『Hắc Huyết Mạch』
+- **tên_chuẩn:** 『Hắc Huyết Mạch』
+
+## [TERM-199] 『Hắc Kim Chi Phủ』
+- **tên_chuẩn:** 『Hắc Kim Chi Phủ』
+
+## [TERM-200] 『Hắc Kim Đại Phủ』
+- **tên_chuẩn:** 『Hắc Kim Đại Phủ』
+
+## [TERM-201] 『Hắc Lam Thành Lũy』
+- **tên_chuẩn:** 『Hắc Lam Thành Lũy』
+
+## [TERM-202] 『Hắc Long』
+- **tên_chuẩn:** 『Hắc Long』
+
+## [TERM-203] 『Hắc Lưu Tinh』
+- **tên_chuẩn:** 『Hắc Lưu Tinh』
+
+## [TERM-204] 『Hắc Nại』
+- **tên_chuẩn:** 『Hắc Nại』
+
+## [TERM-205] 『Hắc Thiết Hoàn』
+- **tên_chuẩn:** 『Hắc Thiết Hoàn』
+
+## [TERM-206] 『Hắc Thiết Kích』
+- **tên_chuẩn:** 『Hắc Thiết Kích』
+
+## [TERM-207] 『Hắc Tiễn』
+- **tên_chuẩn:** 『Hắc Tiễn』
+
+## [TERM-208] 『Hắc Tĩnh』
+- **tên_chuẩn:** 『Hắc Tĩnh』
+
+## [TERM-209] 『Hắc Yên (Black Smoke)』
+- **tên_chuẩn:** 『Hắc Yên (Black Smoke)』
+
+## [TERM-210] 『Hắc Yên (Smoke)』
+- **tên_chuẩn:** 『Hắc Yên (Smoke)』
+
+## [TERM-211] 『Hắc Ám Ma Nhân』
+- **tên_chuẩn:** 『Hắc Ám Ma Nhân』
+
+## [TERM-212] 『Hắc Ảnh Châm』
+- **tên_chuẩn:** 『Hắc Ảnh Châm』
+
+## [TERM-213] 『Hắc Ảnh Hành Giả』
+- **tên_chuẩn:** 『Hắc Ảnh Hành Giả』
+
+## [TERM-214] 『Hắc Ảnh Nhẫn』
+- **tên_chuẩn:** 『Hắc Ảnh Nhẫn』
+
+## [TERM-215] 『Hệ Biến Thái Hoàn Toàn』
+- **tên_chuẩn:** 『Hệ Biến Thái Hoàn Toàn』
+
+## [TERM-216] 『Học Viện Tháp』
+- **tên_chuẩn:** 『Học Viện Tháp』
+
+## [TERM-217] 『Hỏa Hình Địa Ngục』
+- **tên_chuẩn:** 『Hỏa Hình Địa Ngục』
+
+## [TERM-218] 『Hỏa Phong Luân』
+- **tên_chuẩn:** 『Hỏa Phong Luân』
+
+## [TERM-219] 『Hỏa Phủ』
+- **tên_chuẩn:** 『Hỏa Phủ』
+
+## [TERM-220] 『Hỏa Sơn Thần Điện』
+- **tên_chuẩn:** 『Hỏa Sơn Thần Điện』
+
+## [TERM-221] 『Hỏa Tinh Linh』
+- **tên_chuẩn:** 『Hỏa Tinh Linh』
+
+## [TERM-222] 『Hỏa Tiễn』
+- **tên_chuẩn:** 『Hỏa Tiễn』
+
+## [TERM-223] 『Hỏa Tiễn (Fire Arrow)』
+- **tên_chuẩn:** 『Hỏa Tiễn (Fire Arrow)』
+
+## [TERM-224] 『Hỏa Viêm Pháo』
+- **tên_chuẩn:** 『Hỏa Viêm Pháo』
+
+## [TERM-225] 『Hỏa Viêm Phòng Bích (Flame Wall)』
+- **tên_chuẩn:** 『Hỏa Viêm Phòng Bích (Flame Wall)』
+
+## [TERM-226] 『HỐI KÍCH CHẤN』
+- **tên_chuẩn:** 『HỐI KÍCH CHẤN』
+
+## [TERM-227] 『Hồi Thiên Song Liệt』
+- **tên_chuẩn:** 『Hồi Thiên Song Liệt』
+
+## [TERM-228] 『Hộ Vệ Ánh Sáng』
+- **tên_chuẩn:** 『Hộ Vệ Ánh Sáng』
+
+## [TERM-229] 『Hội Tụ』
+- **tên_chuẩn:** 『Hội Tụ』
+
+## [TERM-230] 『Hộp Kotori』
+- **tên_chuẩn:** 『Hộp Kotori』
+
+## [TERM-231] 『Hợp Lưu』
+- **tên_chuẩn:** 『Hợp Lưu』
+
+## [TERM-232] 『Ice Golem』
+- **tên_chuẩn:** 『Ice Golem』
+
+## [TERM-233] 『Ice Titan』
+- **tên_chuẩn:** 『Ice Titan』
+
+## [TERM-234] 『KIẾN TRIỆT』
+- **tên_chuẩn:** 『KIẾN TRIỆT』
+
+## [TERM-235] 『Khoai Bùn』
+- **tên_chuẩn:** 『Khoai Bùn』
+
+## [TERM-236] 『Khu Rừng Của Yêu Tinh』
+- **tên_chuẩn:** 『Khu Rừng Của Yêu Tinh』
+
+## [TERM-237] 『Khu Vực Cách Ly』
+- **tên_chuẩn:** 『Khu Vực Cách Ly』
+
+## [TERM-238] 『Khu Vực Phế Tích Cung Điện』
+- **tên_chuẩn:** 『Khu Vực Phế Tích Cung Điện』
+
+## [TERM-239] 『Khu Vực Phố Hắc Ám』
+- **tên_chuẩn:** 『Khu Vực Phố Hắc Ám』
+
+## [TERM-240] 『Khu Vực Sa Mạc Cổ Đại』
+- **tên_chuẩn:** 『Khu Vực Sa Mạc Cổ Đại』
+
+## [TERM-241] 『Khu Vực Đảo Hoang Ven Biển』
+- **tên_chuẩn:** 『Khu Vực Đảo Hoang Ven Biển』
+
+## [TERM-242] 『Kháng Dịch』
+- **tên_chuẩn:** 『Kháng Dịch』
+
+## [TERM-243] 『Kháng Độc』
+- **tên_chuẩn:** 『Kháng Độc』
+
+## [TERM-244] 『Khí Tức Sát Tri (Sensor)』
+- **tên_chuẩn:** 『Khí Tức Sát Tri (Sensor)』
+
+## [TERM-245] 『Không Gian Mở Rộng』
+- **tên_chuẩn:** 『Không Gian Mở Rộng』
+
+## [TERM-246] 『Không Gian Mở Rộng - Giai Đoạn Ba』
+- **tên_chuẩn:** 『Không Gian Mở Rộng - Giai Đoạn Ba』
+
+## [TERM-247] 『Không Gian Mở Rộng - Giai Đoạn Hai』
+- **tên_chuẩn:** 『Không Gian Mở Rộng - Giai Đoạn Hai』
+
+## [TERM-248] 『Không có』
+- **tên_chuẩn:** 『Không có』
+
+## [TERM-249] 『Khải Triệt』
+- **tên_chuẩn:** 『Khải Triệt』
+
+## [TERM-250] 『Khế ước』
+- **tên_chuẩn:** 『Khế ước』
+
+## [TERM-251] 『Kiên Cường』
+- **tên_chuẩn:** 『Kiên Cường』
+
+## [TERM-252] 『Knight Halberd』
+- **tên_chuẩn:** 『Knight Halberd』
+
+## [TERM-253] 『Kokko』
+- **tên_chuẩn:** 『Kokko』
+
+## [TERM-254] 『KÍCH CHẤN』
+- **tên_chuẩn:** 『KÍCH CHẤN』
+
+## [TERM-255] 『Kích Lưu Pháo』
+- **tên_chuẩn:** 『Kích Lưu Pháo』
+
+## [TERM-256] 『Kích Lưu Tiên (Torrent Whip)』
+- **tên_chuẩn:** 『Kích Lưu Tiên (Torrent Whip)』
+
+## [TERM-257] 『Kích hoạt cơ thể』
+- **tên_chuẩn:** 『Kích hoạt cơ thể』
+
+## [TERM-258] 『Kẻ Cuồng Chiến Lang Thang』
+- **tên_chuẩn:** 『Kẻ Cuồng Chiến Lang Thang』
+
+## [TERM-259] 『Kẻ Diệt Khổng Lồ』
+- **tên_chuẩn:** 『Kẻ Diệt Khổng Lồ』
+
+## [TERM-260] 『Kẻ diệt Thiên Sứ』
+- **tên_chuẩn:** 『Kẻ diệt Thiên Sứ』
+
+## [TERM-261] 『Kẻ lập khế ước với Hắc Long』
+- **tên_chuẩn:** 『Kẻ lập khế ước với Hắc Long』
+
+## [TERM-262] 『Kẻ xảo quyệt』
+- **tên_chuẩn:** 『Kẻ xảo quyệt』
+
+## [TERM-263] 『Kết Giới Cơ Làm Mát』
+- **tên_chuẩn:** 『Kết Giới Cơ Làm Mát』
+
+## [TERM-264] 『Kết thúc』
+- **tên_chuẩn:** 『Kết thúc』
+
+## [TERM-265] 『Kịch Nghệ』
+- **tên_chuẩn:** 『Kịch Nghệ』
+
+## [TERM-266] 『LINH CẢM GIẢI PHẪU HỌC』
+- **tên_chuẩn:** 『LINH CẢM GIẢI PHẪU HỌC』
+
+## [TERM-267] 『LIỆT PHÁ ĐOẠN』
+- **tên_chuẩn:** 『LIỆT PHÁ ĐOẠN』
+
+## [TERM-268] 『LONG TAI』
+- **tên_chuẩn:** 『LONG TAI』
+
+## [TERM-269] 『Large Skeleton』
+- **tên_chuẩn:** 『Large Skeleton』
+
+## [TERM-270] 『Lightning Armament』
+- **tên_chuẩn:** 『Lightning Armament』
+
+## [TERM-271] 『Linh Trang Hào Quang』
+- **tên_chuẩn:** 『Linh Trang Hào Quang』
+
+## [TERM-272] 『Lizard Type Gamma Biến Dị Thử Nghiệm』
+- **tên_chuẩn:** 『Lizard Type Gamma Biến Dị Thử Nghiệm』
+
+## [TERM-273] 『Liệt Phong Đường Lang Hoàn』
+- **tên_chuẩn:** 『Liệt Phong Đường Lang Hoàn』
+
+## [TERM-274] 『Loyrops Số 2 - Bản Đột Kích Trọng Trang』
+- **tên_chuẩn:** 『Loyrops Số 2 - Bản Đột Kích Trọng Trang』
+
+## [TERM-275] 『Loạn Vũ - Bát Kỳ Đại Xà』
+- **tên_chuẩn:** 『Loạn Vũ - Bát Kỳ Đại Xà』
+
+## [TERM-276] 『Luyện Thành』
+- **tên_chuẩn:** 『Luyện Thành』
+
+## [TERM-277] 『Luyện Thành Trận Cơ Bản』
+- **tên_chuẩn:** 『Luyện Thành Trận Cơ Bản』
+
+## [TERM-278] 『Lãng Tai』
+- **tên_chuẩn:** 『Lãng Tai』
+
+## [TERM-279] 『Lãnh địa của Yêu tinh』
+- **tên_chuẩn:** 『Lãnh địa của Yêu tinh』
+
+## [TERM-280] 『Lò Luyện Ngục Của Hắc Ma Nữ』
+- **tên_chuẩn:** 『Lò Luyện Ngục Của Hắc Ma Nữ』
+
+## [TERM-281] 『Lôi Tinh Linh』
+- **tên_chuẩn:** 『Lôi Tinh Linh』
+
+## [TERM-282] 『Lông Vũ Tốc Hành』
+- **tên_chuẩn:** 『Lông Vũ Tốc Hành』
+
+## [TERM-283] 『Lõi Death Stalker』
+- **tên_chuẩn:** 『Lõi Death Stalker』
+
+## [TERM-284] 『Lưu Tinh』
+- **tên_chuẩn:** 『Lưu Tinh』
+
+## [TERM-285] 『Lệnh Cấm Yêu Đương』
+- **tên_chuẩn:** 『Lệnh Cấm Yêu Đương』
+
+## [TERM-286] 『Lớp Trưởng』
+- **tên_chuẩn:** 『Lớp Trưởng』
+
+## [TERM-287] 『Lời Cự Tuyệt』
+- **tên_chuẩn:** 『Lời Cự Tuyệt』
+
+## [TERM-288] 『Lời Nguyền』
+- **tên_chuẩn:** 『Lời Nguyền』
+
+## [TERM-289] 『Lời Từ Chối』
+- **tên_chuẩn:** 『Lời Từ Chối』
+
+## [TERM-290] 『Lựa chọn』
+- **tên_chuẩn:** 『Lựa chọn』
+
+## [TERM-291] 『Lựu Đạn Phóng Hỏa』
+- **tên_chuẩn:** 『Lựu Đạn Phóng Hỏa』
+
+## [TERM-292] 『Ma Lực Giải Tích』
+- **tên_chuẩn:** 『Ma Lực Giải Tích』
+
+## [TERM-293] 『Ma Lực Giải Tích (Mana Analysis)』
+- **tên_chuẩn:** 『Ma Lực Giải Tích (Mana Analysis)』
+
+## [TERM-294] 『Ma Nhãn Mê Hoặc』
+- **tên_chuẩn:** 『Ma Nhãn Mê Hoặc』
+
+## [TERM-295] 『Ma Tí (Paralyze)』
+- **tên_chuẩn:** 『Ma Tí (Paralyze)』
+
+## [TERM-296] 『Ma Tí Độc Tiễn』
+- **tên_chuẩn:** 『Ma Tí Độc Tiễn』
+
+## [TERM-297] 『Ma Vương』
+- **tên_chuẩn:** 『Ma Vương』
+
+## [TERM-298] 『Ma lực』
+- **tên_chuẩn:** 『Ma lực』
+
+## [TERM-299] 『Ma Đạo Nhân Hình』
+- **tên_chuẩn:** 『Ma Đạo Nhân Hình』
+
+## [TERM-300] 『Mai Táng Thần Học』
+- **tên_chuẩn:** 『Mai Táng Thần Học』
+
+## [TERM-301] 『Mandragora Các Vùng』
+- **tên_chuẩn:** 『Mandragora Các Vùng』
+
+## [TERM-302] 『Minogorilla (Bò Rừng Gorilla)』
+- **tên_chuẩn:** 『Minogorilla (Bò Rừng Gorilla)』
+
+## [TERM-303] 『Minogorilla Đóng Băng』
+- **tên_chuẩn:** 『Minogorilla Đóng Băng』
+
+## [TERM-304] 『Miên Ngọc』
+- **tên_chuẩn:** 『Miên Ngọc』
+
+## [TERM-305] 『Mukotsu』
+- **tên_chuẩn:** 『Mukotsu』
+
+## [TERM-306] 『Mukotsu (Vô Cốt)』
+- **tên_chuẩn:** 『Mukotsu (Vô Cốt)』
+
+## [TERM-307] 『MÃNH ĐỘC LONG PHÁO』
+- **tên_chuẩn:** 『MÃNH ĐỘC LONG PHÁO』
+
+## [TERM-308] 『Mãnh Thú』
+- **tên_chuẩn:** 『Mãnh Thú』
+
+## [TERM-309] 『Mãnh Độc』
+- **tên_chuẩn:** 『Mãnh Độc』
+
+## [TERM-310] 『Mãnh Độc (Viola Poison)』
+- **tên_chuẩn:** 『Mãnh Độc (Viola Poison)』
+
+## [TERM-311] 『Mãnh Độc Tiễn』
+- **tên_chuẩn:** 『Mãnh Độc Tiễn』
+
+## [TERM-312] 『Mê Cung Quản Lý Cục』
+- **tên_chuẩn:** 『Mê Cung Quản Lý Cục』
+
+## [TERM-313] 『Môi trường』
+- **tên_chuẩn:** 『Môi trường』
+
+## [TERM-314] 『Mũi tên độc』
+- **tên_chuẩn:** 『Mũi tên độc』
+
+## [TERM-315] 『Mật Lâm Tháp』
+- **tên_chuẩn:** 『Mật Lâm Tháp』
+
+## [TERM-316] 『Mắt』
+- **tên_chuẩn:** 『Mắt』
+
+## [TERM-317] 『Mặt nạ Goma』
+- **tên_chuẩn:** 『Mặt nạ Goma』
+
+## [TERM-318] 『Mối Gắn Kết Của Lửa』
+- **tên_chuẩn:** 『Mối Gắn Kết Của Lửa』
+
+## [TERM-319] 『NGỰ TỬ』
+- **tên_chuẩn:** 『NGỰ TỬ』
+
+## [TERM-320] 『Nega Wave』
+- **tên_chuẩn:** 『Nega Wave』
+
+## [TERM-321] 『Nghịch Điệp Vũ』
+- **tên_chuẩn:** 『Nghịch Điệp Vũ』
+
+## [TERM-322] 『Ngu Giả Chi Trượng』
+- **tên_chuẩn:** 『Ngu Giả Chi Trượng』
+
+## [TERM-323] 『Nguyền Chi Tử』
+- **tên_chuẩn:** 『Nguyền Chi Tử』
+
+## [TERM-324] 『Ngòi Độc Death Stalker』
+- **tên_chuẩn:** 『Ngòi Độc Death Stalker』
+
+## [TERM-325] 『Ngươi, hãy trở thành 『Hiền Giả』
+- **tên_chuẩn:** 『Ngươi, hãy trở thành 『Hiền Giả』
+
+## [TERM-326] 『Ngự Ảnh Loạn Vũ』
+- **tên_chuẩn:** 『Ngự Ảnh Loạn Vũ』
+
+## [TERM-327] 『Nham Khắc Trảo Vết』
+- **tên_chuẩn:** 『Nham Khắc Trảo Vết』
+
+## [TERM-328] 『Nham Lịch Băng』
+- **tên_chuẩn:** 『Nham Lịch Băng』
+
+## [TERM-329] 『Nham Pháo』
+- **tên_chuẩn:** 『Nham Pháo』
+
+## [TERM-330] 『Nham Sơn Băng Lở』
+- **tên_chuẩn:** 『Nham Sơn Băng Lở』
+
+## [TERM-331] 『Nham Sơn Cự Thuẫn』
+- **tên_chuẩn:** 『Nham Sơn Cự Thuẫn』
+
+## [TERM-332] 『Nham Thạch Phòng Bích』
+- **tên_chuẩn:** 『Nham Thạch Phòng Bích』
+
+## [TERM-333] 『Nham Thạch Đại Khiên』
+- **tên_chuẩn:** 『Nham Thạch Đại Khiên』
+
+## [TERM-334] 『Nham Thạch Đại Thuẫn』
+- **tên_chuẩn:** 『Nham Thạch Đại Thuẫn』
+
+## [TERM-335] 『Nhiệt Huyết Viêm Khí』
+- **tên_chuẩn:** 『Nhiệt Huyết Viêm Khí』
+
+## [TERM-336] 『Nhân Tự Sát』
+- **tên_chuẩn:** 『Nhân Tự Sát』
+
+## [TERM-337] 『Nhãn Lục Mang Tinh』
+- **tên_chuẩn:** 『Nhãn Lục Mang Tinh』
+
+## [TERM-338] 『Nhãn Quan』
+- **tên_chuẩn:** 『Nhãn Quan』
+
+## [TERM-339] 『Nhãn Quan Nhìn Vào Thâm Uyên』
+- **tên_chuẩn:** 『Nhãn Quan Nhìn Vào Thâm Uyên』
+
+## [TERM-340] 『Nhãn Thần Chân Giả』
+- **tên_chuẩn:** 『Nhãn Thần Chân Giả』
+
+## [TERM-341] 『Nhất Kích Xuyên』
+- **tên_chuẩn:** 『Nhất Kích Xuyên』
+
+## [TERM-342] 『Nhất Thiểm』
+- **tên_chuẩn:** 『Nhất Thiểm』
+
+## [TERM-343] 『Nhẫn Phòng Ngự』
+- **tên_chuẩn:** 『Nhẫn Phòng Ngự』
+
+## [TERM-344] 『Nhục Thể Hoạt Tính』
+- **tên_chuẩn:** 『Nhục Thể Hoạt Tính』
+
+## [TERM-345] 『Nise-corn』
+- **tên_chuẩn:** 『Nise-corn』
+
+## [TERM-346] 『Nồng độ』
+- **tên_chuẩn:** 『Nồng độ』
+
+## [TERM-347] 『Nộ Đào Thổ Thạch』
+- **tên_chuẩn:** 『Nộ Đào Thổ Thạch』
+
+## [TERM-348] 『Nụ Hôn Của Nữ Thần』
+- **tên_chuẩn:** 『Nụ Hôn Của Nữ Thần』
+
+## [TERM-349] 『Nữ Hoàng Yêu Tinh』
+- **tên_chuẩn:** 『Nữ Hoàng Yêu Tinh』
+
+## [TERM-350] 『Nữ Thần Lời Nguyền』
+- **tên_chuẩn:** 『Nữ Thần Lời Nguyền』
+
+## [TERM-351] 『Nữ Thần Đang Dõi Theo』
+- **tên_chuẩn:** 『Nữ Thần Đang Dõi Theo』
+
+## [TERM-352] 『Orfrost』
+- **tên_chuẩn:** 『Orfrost』
+
+## [TERM-353] 『Orthros』
+- **tên_chuẩn:** 『Orthros』
+
+## [TERM-354] 『Oán Sa Thi Nhân Hình』
+- **tên_chuẩn:** 『Oán Sa Thi Nhân Hình』
+
+## [TERM-355] 『PHI LÔI THIỂM』
+- **tên_chuẩn:** 『PHI LÔI THIỂM』
+
+## [TERM-356] 『PHI TƯỜNG THIỂM』
+- **tên_chuẩn:** 『PHI TƯỜNG THIỂM』
+
+## [TERM-357] 『PHÁ ĐOẠN』
+- **tên_chuẩn:** 『PHÁ ĐOẠN』
+
+## [TERM-358] 『PHÂN THÂN DUNG HỢP』
+- **tên_chuẩn:** 『PHÂN THÂN DUNG HỢP』
+
+## [TERM-359] 『Pandora Thánh Giáo』
+- **tên_chuẩn:** 『Pandora Thánh Giáo』
+
+## [TERM-360] 『Phantom Mail』
+- **tên_chuẩn:** 『Phantom Mail』
+
+## [TERM-361] 『Phe Giải Phóng』
+- **tên_chuẩn:** 『Phe Giải Phóng』
+
+## [TERM-362] 『Phong Nhẫn』
+- **tên_chuẩn:** 『Phong Nhẫn』
+
+## [TERM-363] 『Phong Nhẫn (Air Sagitta)』
+- **tên_chuẩn:** 『Phong Nhẫn (Air Sagitta)』
+
+## [TERM-364] 『Phong Nhận』
+- **tên_chuẩn:** 『Phong Nhận』
+
+## [TERM-365] 『Phong Thuẫn』
+- **tên_chuẩn:** 『Phong Thuẫn』
+
+## [TERM-366] 『Phong Tiễn』
+- **tên_chuẩn:** 『Phong Tiễn』
+
+## [TERM-367] 『Phong Tiễn (Air Sagitta)』
+- **tên_chuẩn:** 『Phong Tiễn (Air Sagitta)』
+
+## [TERM-368] 『Phong Độc』
+- **tên_chuẩn:** 『Phong Độc』
+
+## [TERM-369] 『Phá Tà Hiển Chính』
+- **tên_chuẩn:** 『Phá Tà Hiển Chính』
+
+## [TERM-370] 『Pháo đài ẩn』
+- **tên_chuẩn:** 『Pháo đài ẩn』
+
+## [TERM-371] 『Phát Điện Khí Quan』
+- **tên_chuẩn:** 『Phát Điện Khí Quan』
+
+## [TERM-372] 『Phân Thân』
+- **tên_chuẩn:** 『Phân Thân』
+
+## [TERM-373] 『Phân Thân (Song Ảnh - Song Ảnh)』
+- **tên_chuẩn:** 『Phân Thân (Song Ảnh - Song Ảnh)』
+
+## [TERM-374] 『Phân Thân (Song Ảnh)』
+- **tên_chuẩn:** 『Phân Thân (Song Ảnh)』
+
+## [TERM-375] 『Phân Tán』
+- **tên_chuẩn:** 『Phân Tán』
+
+## [TERM-376] 『Phó Gia』
+- **tên_chuẩn:** 『Phó Gia』
+
+## [TERM-377] 『Phản Phục Thống Khổ』
+- **tên_chuẩn:** 『Phản Phục Thống Khổ』
+
+## [TERM-378] 『Phản Đau Đớn』
+- **tên_chuẩn:** 『Phản Đau Đớn』
+
+## [TERM-379] 『Phố Hắc Ám』
+- **tên_chuẩn:** 『Phố Hắc Ám』
+
+## [TERM-380] 『Phụ Gia (Enchant)』
+- **tên_chuẩn:** 『Phụ Gia (Enchant)』
+
+## [TERM-381] 『Phụ trách Cơm nước』
+- **tên_chuẩn:** 『Phụ trách Cơm nước』
+
+## [TERM-382] 『Phụ trách Giám sát Yamata no Orochi』
+- **tên_chuẩn:** 『Phụ trách Giám sát Yamata no Orochi』
+
+## [TERM-383] 『Phụ trách Trang Bị & Dịch Chuyển』
+- **tên_chuẩn:** 『Phụ trách Trang Bị & Dịch Chuyển』
+
+## [TERM-384] 『Player Summon Portable』
+- **tên_chuẩn:** 『Player Summon Portable』
+
+## [TERM-385] 『Portal』
+- **tên_chuẩn:** 『Portal』
+
+## [TERM-386] 『Power Inner』
+- **tên_chuẩn:** 『Power Inner』
+
+## [TERM-387] 『Power Seed』
+- **tên_chuẩn:** 『Power Seed』
+
+## [TERM-388] 『Prim Heart』
+- **tên_chuẩn:** 『Prim Heart』
+
+## [TERM-389] 『Prim Tact - Love & Double Peace』
+- **tên_chuẩn:** 『Prim Tact - Love & Double Peace』
+
+## [TERM-390] 『Primheart』
+- **tên_chuẩn:** 『Primheart』
+
+## [TERM-391] 『Pure Pink』
+- **tên_chuẩn:** 『Pure Pink』
+
+## [TERM-392] 『Quang Chi Tử』
+- **tên_chuẩn:** 『Quang Chi Tử』
+
+## [TERM-393] 『Quang Pháo』
+- **tên_chuẩn:** 『Quang Pháo』
+
+## [TERM-394] 『Quang Thiết』
+- **tên_chuẩn:** 『Quang Thiết』
+
+## [TERM-395] 『Quang Thuẫn』
+- **tên_chuẩn:** 『Quang Thuẫn』
+
+## [TERM-396] 『Quang Thạch hệ Băng』
+- **tên_chuẩn:** 『Quang Thạch hệ Băng』
+
+## [TERM-397] 『Quang Thạch hệ Hỏa』
+- **tên_chuẩn:** 『Quang Thạch hệ Hỏa』
+
+## [TERM-398] 『Quang Thạch hệ Thủy』
+- **tên_chuẩn:** 『Quang Thạch hệ Thủy』
+
+## [TERM-399] 『Quang Tiễn』
+- **tên_chuẩn:** 『Quang Tiễn』
+
+## [TERM-400] 『Quang Độ』
+- **tên_chuẩn:** 『Quang Độ』
+
+## [TERM-401] 『Quy Tắc Ý Niệm』
+- **tên_chuẩn:** 『Quy Tắc Ý Niệm』
+
+## [TERM-402] 『Quyến Thuộc』
+- **tên_chuẩn:** 『Quyến Thuộc』
+
+## [TERM-403] 『Quyến Tộc』
+- **tên_chuẩn:** 『Quyến Tộc』
+
+## [TERM-404] 『Quyến Tộc (Kin / Retainer)』
+- **tên_chuẩn:** 『Quyến Tộc (Kin / Retainer)』
+
+## [TERM-405] 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』
+- **tên_chuẩn:** 『Quán Cà Phê Hầu Gái & Quản Gia Đảo Ngược』
+
+## [TERM-406] 『Quán cà phê hầu gái』
+- **tên_chuẩn:** 『Quán cà phê hầu gái』
+
+## [TERM-407] 『Quả Xà Phòng』
+- **tên_chuẩn:** 『Quả Xà Phòng』
+
+## [TERM-408] 『Quả cầu khói』
+- **tên_chuẩn:** 『Quả cầu khói』
+
+## [TERM-409] 『Quả cầu khói độc』
+- **tên_chuẩn:** 『Quả cầu khói độc』
+
+## [TERM-410] 『Quả cầu ánh sáng』
+- **tên_chuẩn:** 『Quả cầu ánh sáng』
+
+## [TERM-411] 『Quảng Trường Tinh Linh』
+- **tên_chuẩn:** 『Quảng Trường Tinh Linh』
+
+## [TERM-412] 『REQUIEM HEART』
+- **tên_chuẩn:** 『REQUIEM HEART』
+
+## [TERM-413] 『Re-potion』
+- **tên_chuẩn:** 『Re-potion』
+
+## [TERM-414] 『Red Berry』
+- **tên_chuẩn:** 『Red Berry』
+
+## [TERM-415] 『Requiem Heart - Smart Guy』
+- **tên_chuẩn:** 『Requiem Heart - Smart Guy』
+
+## [TERM-416] 『Rock Blaster E3』
+- **tên_chuẩn:** 『Rock Blaster E3』
+
+## [TERM-417] 『Rock Blaster Sawed-off』
+- **tên_chuẩn:** 『Rock Blaster Sawed-off』
+
+## [TERM-418] 『Rock Golem』
+- **tên_chuẩn:** 『Rock Golem』
+
+## [TERM-419] 『Rìu Rực Lửa』
+- **tên_chuẩn:** 『Rìu Rực Lửa』
+
+## [TERM-420] 『SOUMA YUUTO』
+- **tên_chuẩn:** 『SOUMA YUUTO』
+
+## [TERM-421] 『Sa Khuyển』
+- **tên_chuẩn:** 『Sa Khuyển』
+
+## [TERM-422] 『Sai Khiến Tinh Linh Tí Hon』
+- **tên_chuẩn:** 『Sai Khiến Tinh Linh Tí Hon』
+
+## [TERM-423] 『Saladina』
+- **tên_chuẩn:** 『Saladina』
+
+## [TERM-424] 『Salamand Mail MK I』
+- **tên_chuẩn:** 『Salamand Mail MK I』
+
+## [TERM-425] 『Seilam』
+- **tên_chuẩn:** 『Seilam』
+
+## [TERM-426] 『Shield Protector』
+- **tên_chuẩn:** 『Shield Protector』
+
+## [TERM-427] 『Sinclair Code』
+- **tên_chuẩn:** 『Sinclair Code』
+
+## [TERM-428] 『Sinh Mệnh Chi Đích』
+- **tên_chuẩn:** 『Sinh Mệnh Chi Đích』
+
+## [TERM-429] 『Sinh Mệnh Chi Đích (Drop of Life)』
+- **tên_chuẩn:** 『Sinh Mệnh Chi Đích (Drop of Life)』
+
+## [TERM-430] 『Skeleton』
+- **tên_chuẩn:** 『Skeleton』
+
+## [TERM-431] 『Snow White Bloom』
+- **tên_chuẩn:** 『Snow White Bloom』
+
+## [TERM-432] 『Song Kích Liệt』
+- **tên_chuẩn:** 『Song Kích Liệt』
+
+## [TERM-433] 『Song Liệt』
+- **tên_chuẩn:** 『Song Liệt』
+
+## [TERM-434] 『Song Song』
+- **tên_chuẩn:** 『Song Song』
+
+## [TERM-435] 『Song Ảnh』
+- **tên_chuẩn:** 『Song Ảnh』
+
+## [TERM-436] 『Streamer』
+- **tên_chuẩn:** 『Streamer』
+
+## [TERM-437] 『Succubus』
+- **tên_chuẩn:** 『Succubus』
+
+## [TERM-438] 『Sách Địch』
+- **tên_chuẩn:** 『Sách Địch』
+
+## [TERM-439] 『Sát Na Nhất Thiểm』
+- **tên_chuẩn:** 『Sát Na Nhất Thiểm』
+
+## [TERM-440] 『Sòng Bạc』
+- **tên_chuẩn:** 『Sòng Bạc』
+
+## [TERM-441] 『Sóng U Minh』
+- **tên_chuẩn:** 『Sóng U Minh』
+
+## [TERM-442] 『Súng Phóng Khí』
+- **tên_chuẩn:** 『Súng Phóng Khí』
+
+## [TERM-443] 『Sắc Bén』
+- **tên_chuẩn:** 『Sắc Bén』
+
+## [TERM-444] 『Sốt nhẹ』
+- **tên_chuẩn:** 『Sốt nhẹ』
+
+## [TERM-445] 『Sợi dây liên kết vượt qua chủng tộc』
+- **tên_chuẩn:** 『Sợi dây liên kết vượt qua chủng tộc』
+
+## [TERM-446] 『Sứ giả của Nữ thần Elysion』
+- **tên_chuẩn:** 『Sứ giả của Nữ thần Elysion』
+
+## [TERM-447] 『THIẾT BÌ』
+- **tên_chuẩn:** 『THIẾT BÌ』
+
+## [TERM-448] 『THIỂM QUANG』
+- **tên_chuẩn:** 『THIỂM QUANG』
+
+## [TERM-449] 『THIỂM QUANG BẠCH THỈ』
+- **tên_chuẩn:** 『THIỂM QUANG BẠCH THỈ』
+
+## [TERM-450] 『THÁC HỒ ĐỌA』
+- **tên_chuẩn:** 『THÁC HỒ ĐỌA』
+
+## [TERM-451] 『THÁC THĂNG』
+- **tên_chuẩn:** 『THÁC THĂNG』
+
+## [TERM-452] 『THÁNH THIÊN KẾT GIỚI』
+- **tên_chuẩn:** 『THÁNH THIÊN KẾT GIỚI』
+
+## [TERM-453] 『THỔI TUNG BẠCH TUYẾT』
+- **tên_chuẩn:** 『THỔI TUNG BẠCH TUYẾT』
+
+## [TERM-454] 『THỦ HỘ CHIẾN SĨ』
+- **tên_chuẩn:** 『THỦ HỘ CHIẾN SĨ』
+
+## [TERM-455] 『TRỌNG CƯƠNG ĐỘT TIẾN』
+- **tên_chuẩn:** 『TRỌNG CƯƠNG ĐỘT TIẾN』
+
+## [TERM-456] 『Tam Liệt Thiểm』
+- **tên_chuẩn:** 『Tam Liệt Thiểm』
+
+## [TERM-457] 『Tank』
+- **tên_chuẩn:** 『Tank』
+
+## [TERM-458] 『Terra Fortis Sagitta』
+- **tên_chuẩn:** 『Terra Fortis Sagitta』
+
+## [TERM-459] 『Terror Break』
+- **tên_chuẩn:** 『Terror Break』
+
+## [TERM-460] 『Thi Nhân Hình』
+- **tên_chuẩn:** 『Thi Nhân Hình』
+
+## [TERM-461] 『Thi Nhân Hình (Corpse Doll)』
+- **tên_chuẩn:** 『Thi Nhân Hình (Corpse Doll)』
+
+## [TERM-462] 『Thi Thể Nhân Hình』
+- **tên_chuẩn:** 『Thi Thể Nhân Hình』
+
+## [TERM-463] 『Thiên Chức』
+- **tên_chuẩn:** 『Thiên Chức』
+
+## [TERM-464] 『Thiên Lý Tật Khu』
+- **tên_chuẩn:** 『Thiên Lý Tật Khu』
+
+## [TERM-465] 『Thiên Sứ』
+- **tên_chuẩn:** 『Thiên Sứ』
+
+## [TERM-466] 『Thiên Tinh Thuẫn』
+- **tên_chuẩn:** 『Thiên Tinh Thuẫn』
+
+## [TERM-467] 『Thiết Bì (Iron Skin)』
+- **tên_chuẩn:** 『Thiết Bì (Iron Skin)』
+
+## [TERM-468] 『Thiết Bích Bì (Iron Wall Skin)』
+- **tên_chuẩn:** 『Thiết Bích Bì (Iron Wall Skin)』
+
+## [TERM-469] 『Thiết Bị Phun』
+- **tên_chuẩn:** 『Thiết Bị Phun』
+
+## [TERM-470] 『Thiết Cương Thể (Iron Steel Body)』
+- **tên_chuẩn:** 『Thiết Cương Thể (Iron Steel Body)』
+
+## [TERM-471] 『Thung Lũng Tận Cùng』
+- **tên_chuẩn:** 『Thung Lũng Tận Cùng』
+
+## [TERM-472] 『Thành viên Đội Trinh Sát Rem - Quạ』
+- **tên_chuẩn:** 『Thành viên Đội Trinh Sát Rem - Quạ』
+
+## [TERM-473] 『Thánh Chiến Sĩ』
+- **tên_chuẩn:** 『Thánh Chiến Sĩ』
+
+## [TERM-474] 『Thánh Giả Nước』
+- **tên_chuẩn:** 『Thánh Giả Nước』
+
+## [TERM-475] 『Thánh Kỵ Sĩ』
+- **tên_chuẩn:** 『Thánh Kỵ Sĩ』
+
+## [TERM-476] 『Thánh Nữ Chi Hòa Cung』
+- **tên_chuẩn:** 『Thánh Nữ Chi Hòa Cung』
+
+## [TERM-477] 『Thánh Nữ Hòa Cung』
+- **tên_chuẩn:** 『Thánh Nữ Hòa Cung』
+
+## [TERM-478] 『Thánh Nữ Đại Hòa Cung』
+- **tên_chuẩn:** 『Thánh Nữ Đại Hòa Cung』
+
+## [TERM-479] 『Thánh Phá Đoạn』
+- **tên_chuẩn:** 『Thánh Phá Đoạn』
+
+## [TERM-480] 『Thánh Quang Giải Độc』
+- **tên_chuẩn:** 『Thánh Quang Giải Độc』
+
+## [TERM-481] 『Thánh Thiên Cấp Binh Trang』
+- **tên_chuẩn:** 『Thánh Thiên Cấp Binh Trang』
+
+## [TERM-482] 『Thánh Điểu Phách Vũ』
+- **tên_chuẩn:** 『Thánh Điểu Phách Vũ』
+
+## [TERM-483] 『Thánh Ấn - Thanh Phong Ban Tặng』
+- **tên_chuẩn:** 『Thánh Ấn - Thanh Phong Ban Tặng』
+
+## [TERM-484] 『Tháp Thử Thách』
+- **tên_chuẩn:** 『Tháp Thử Thách』
+
+## [TERM-485] 『Thạch Bích』
+- **tên_chuẩn:** 『Thạch Bích』
+
+## [TERM-486] 『Thạch Thuẫn』
+- **tên_chuẩn:** 『Thạch Thuẫn』
+
+## [TERM-487] 『Thạch Tiễn』
+- **tên_chuẩn:** 『Thạch Tiễn』
+
+## [TERM-488] 『Thạch Tiễn (Stone Arrow)』
+- **tên_chuẩn:** 『Thạch Tiễn (Stone Arrow)』
+
+## [TERM-489] 『Thất Thiên Bảo Kính』
+- **tên_chuẩn:** 『Thất Thiên Bảo Kính』
+
+## [TERM-490] 『Thần Phán Chi Chưởng Trảo Thánh Thiên』
+- **tên_chuẩn:** 『Thần Phán Chi Chưởng Trảo Thánh Thiên』
+
+## [TERM-491] 『Thần Phán Chi Thủ』
+- **tên_chuẩn:** 『Thần Phán Chi Thủ』
+
+## [TERM-492] 『Thần Thiết』
+- **tên_chuẩn:** 『Thần Thiết』
+
+## [TERM-493] 『Thần Thánh Ngôn Ngữ』
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ』
+
+## [TERM-494] 『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Lời Từ Chối"』
+
+## [TERM-495] 『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ: Lời Cự Tuyệt』
+
+## [TERM-496] 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ: Lời Từ Chối』
+
+## [TERM-497] 『Thần Thánh Ngôn Ngữ「Lời Từ Chối」』
+- **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ「Lời Từ Chối」』
+
+## [TERM-498] 『Thần Thụ Tháp』
+- **tên_chuẩn:** 『Thần Thụ Tháp』
+
+## [TERM-499] 『Thần Tử』
+- **tên_chuẩn:** 『Thần Tử』
+
+## [TERM-500] 『Thần Uy Vạn Biệt』
+- **tên_chuẩn:** 『Thần Uy Vạn Biệt』
+
+## [TERM-501] 『Thần Điện Kết Giới』
+- **tên_chuẩn:** 『Thần Điện Kết Giới』
+
+## [TERM-502] 『Thề Nguyện Trinh Khiết Với Nữ Thần』
+- **tên_chuẩn:** 『Thề Nguyện Trinh Khiết Với Nữ Thần』
+
+## [TERM-503] 『Thể Băng』
+- **tên_chuẩn:** 『Thể Băng』
+
+## [TERM-504] 『Thể Băng (Body Collapse)』
+- **tên_chuẩn:** 『Thể Băng (Body Collapse)』
+
+## [TERM-505] 『Thệ Ước』
+- **tên_chuẩn:** 『Thệ Ước』
+
+## [TERM-506] 『Thỏa Thuận Đại Xá』
+- **tên_chuẩn:** 『Thỏa Thuận Đại Xá』
+
+## [TERM-507] 『Thổ Tinh Pháo』
+- **tên_chuẩn:** 『Thổ Tinh Pháo』
+
+## [TERM-508] 『Thổ Trư』
+- **tên_chuẩn:** 『Thổ Trư』
+
+## [TERM-509] 『Thợ Săn』
+- **tên_chuẩn:** 『Thợ Săn』
+
+## [TERM-510] 『Thụy Miên (Siesta)』
+- **tên_chuẩn:** 『Thụy Miên (Siesta)』
+
+## [TERM-511] 『Thủ Cấp Của Gove Thủ Lĩnh』
+- **tên_chuẩn:** 『Thủ Cấp Của Gove Thủ Lĩnh』
+
+## [TERM-512] 『Thủ Hộ Thiên Sứ』
+- **tên_chuẩn:** 『Thủ Hộ Thiên Sứ』
+
+## [TERM-513] 『Thủy Thuẫn』
+- **tên_chuẩn:** 『Thủy Thuẫn』
+
+## [TERM-514] 『Thủy Tiên』
+- **tên_chuẩn:** 『Thủy Tiên』
+
+## [TERM-515] 『Thủy Tiên (Water Whip)』
+- **tên_chuẩn:** 『Thủy Tiên (Water Whip)』
+
+## [TERM-516] 『Thủy Tiễn』
+- **tên_chuẩn:** 『Thủy Tiễn』
+
+## [TERM-517] 『Thủy Vụ』
+- **tên_chuẩn:** 『Thủy Vụ』
+
+## [TERM-518] 『Thử nghiệm dược X』
+- **tên_chuẩn:** 『Thử nghiệm dược X』
+
+## [TERM-519] 『Tinh Linh Chiến Sĩ』
+- **tên_chuẩn:** 『Tinh Linh Chiến Sĩ』
+
+## [TERM-520] 『Tinh Linh Dược Hiệu』
+- **tên_chuẩn:** 『Tinh Linh Dược Hiệu』
+
+## [TERM-521] 『Tinh Linh Khôi Lỗi』
+- **tên_chuẩn:** 『Tinh Linh Khôi Lỗi』
+
+## [TERM-522] 『Tinh Linh Lửa』
+- **tên_chuẩn:** 『Tinh Linh Lửa』
+
+## [TERM-523] 『Tinh Linh Ánh Sáng Tí Hon』
+- **tên_chuẩn:** 『Tinh Linh Ánh Sáng Tí Hon』
+
+## [TERM-524] 『Tiểu Hình Phục Chế Trận』
+- **tên_chuẩn:** 『Tiểu Hình Phục Chế Trận』
+
+## [TERM-525] 『Tiểu thuẫn Ngân Thiết』
+- **tên_chuẩn:** 『Tiểu thuẫn Ngân Thiết』
+
+## [TERM-526] 『Tiểu Điểu Tương』
+- **tên_chuẩn:** 『Tiểu Điểu Tương』
+
+## [TERM-527] 『Tokkan Kouji-kun Mẫu 1』
+- **tên_chuẩn:** 『Tokkan Kouji-kun Mẫu 1』
+
+## [TERM-528] 『Toàn Phong』
+- **tên_chuẩn:** 『Toàn Phong』
+
+## [TERM-529] 『Trang phục Goma』
+- **tên_chuẩn:** 『Trang phục Goma』
+
+## [TERM-530] 『Triệu Hoán』
+- **tên_chuẩn:** 『Triệu Hoán』
+
+## [TERM-531] 『Triệu Hoán Băng Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Băng Tinh Linh』
+
+## [TERM-532] 『Triệu Hoán Cao Cấp Băng Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Băng Tinh Linh』
+
+## [TERM-533] 『Triệu Hoán Cao Cấp Thổ Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Thổ Tinh Linh』
+
+## [TERM-534] 『Triệu Hoán Cao Cấp Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Cao Cấp Tinh Linh』
+
+## [TERM-535] 『Triệu Hoán Linh Thú』
+- **tên_chuẩn:** 『Triệu Hoán Linh Thú』
+
+## [TERM-536] 『Triệu Hoán Quang Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Quang Tinh Linh』
+
+## [TERM-537] 『Triệu Hoán Trung Cấp Băng Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Băng Tinh Linh』
+
+## [TERM-538] 『Triệu Hoán Trung Cấp Thổ Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Thổ Tinh Linh』
+
+## [TERM-539] 『Triệu Hoán Trung Cấp Tinh Linh』
+- **tên_chuẩn:** 『Triệu Hoán Trung Cấp Tinh Linh』
+
+## [TERM-540] 『Triệu Hồi』
+- **tên_chuẩn:** 『Triệu Hồi』
+
+## [TERM-541] 『Triệu Hồi Skeleton』
+- **tên_chuẩn:** 『Triệu Hồi Skeleton』
+
+## [TERM-542] 『Triệu hoán Golem』
+- **tên_chuẩn:** 『Triệu hoán Golem』
+
+## [TERM-543] 『Trói Mạng Nhện』
+- **tên_chuẩn:** 『Trói Mạng Nhện』
+
+## [TERM-544] 『Trói Tóc Đen』
+- **tên_chuẩn:** 『Trói Tóc Đen』
+
+## [TERM-545] 『Trở Kháng』
+- **tên_chuẩn:** 『Trở Kháng』
+
+## [TERM-546] 『Trục Xuất Hình』
+- **tên_chuẩn:** 『Trục Xuất Hình』
+
+## [TERM-547] 『Trứng Salamander』
+- **tên_chuẩn:** 『Trứng Salamander』
+
+## [TERM-548] 『Trực Giác』
+- **tên_chuẩn:** 『Trực Giác』
+
+## [TERM-549] 『Trực Giác Dược Học』
+- **tên_chuẩn:** 『Trực Giác Dược Học』
+
+## [TERM-550] 『Trực nhật Giặt giũ』
+- **tên_chuẩn:** 『Trực nhật Giặt giũ』
+
+## [TERM-551] 『Trực nhật Quét dọn』
+- **tên_chuẩn:** 『Trực nhật Quét dọn』
+
+## [TERM-552] 『Tuyết Hôi Lang』
+- **tên_chuẩn:** 『Tuyết Hôi Lang』
+
+## [TERM-553] 『Tái Băng Kết』
+- **tên_chuẩn:** 『Tái Băng Kết』
+
+## [TERM-554] 『Tóc Đen Trói Buộc』
+- **tên_chuẩn:** 『Tóc Đen Trói Buộc』
+
+## [TERM-555] 『Tóc Đỏ Trói Buộc』
+- **tên_chuẩn:** 『Tóc Đỏ Trói Buộc』
+
+## [TERM-556] 『Tùy Tùng』
+- **tên_chuẩn:** 『Tùy Tùng』
+
+## [TERM-557] 『Tùy Tùng - Hầu Gái』
+- **tên_chuẩn:** 『Tùy Tùng - Hầu Gái』
+
+## [TERM-558] 『Tùy Tùng - Luyện Thành Sĩ』
+- **tên_chuẩn:** 『Tùy Tùng - Luyện Thành Sĩ』
+
+## [TERM-559] 『Tùy Tùng: Luyện Thành Sĩ』
+- **tên_chuẩn:** 『Tùy Tùng: Luyện Thành Sĩ』
+
+## [TERM-560] 『Túi sưởi tinh linh』
+- **tên_chuẩn:** 『Túi sưởi tinh linh』
+
+## [TERM-561] 『Túi Độc Lớn Của Ếch Vàng』
+- **tên_chuẩn:** 『Túi Độc Lớn Của Ếch Vàng』
+
+## [TERM-562] 『Túi Ấm Áp』
+- **tên_chuẩn:** 『Túi Ấm Áp』
+
+## [TERM-563] 『Tăng Huyết』
+- **tên_chuẩn:** 『Tăng Huyết』
+
+## [TERM-564] 『Tượng Nha Chi Tháp』
+- **tên_chuẩn:** 『Tượng Nha Chi Tháp』
+
+## [TERM-565] 『Tượng Yêu Tinh』
+- **tên_chuẩn:** 『Tượng Yêu Tinh』
+
+## [TERM-566] 『Tấn Lôi』
+- **tên_chuẩn:** 『Tấn Lôi』
+
+## [TERM-567] 『Tấu Giả』
+- **tên_chuẩn:** 『Tấu Giả』
+
+## [TERM-568] 『Tập Kích Ẩn Mình』
+- **tên_chuẩn:** 『Tập Kích Ẩn Mình』
+
+## [TERM-569] 『Tật Khu』
+- **tên_chuẩn:** 『Tật Khu』
+
+## [TERM-570] 『Tật Phong』
+- **tên_chuẩn:** 『Tật Phong』
+
+## [TERM-571] 『Tốc Hành』
+- **tên_chuẩn:** 『Tốc Hành』
+
+## [TERM-572] 『Tử Phong Bộc Kích』
+- **tên_chuẩn:** 『Tử Phong Bộc Kích』
+
+## [TERM-573] 『Vi Hồi Phục』
+- **tên_chuẩn:** 『Vi Hồi Phục』
+
+## [TERM-574] 『Viêm Ngọc』
+- **tên_chuẩn:** 『Viêm Ngọc』
+
+## [TERM-575] 『Viên thuẫn Ngân Thiết』
+- **tên_chuẩn:** 『Viên thuẫn Ngân Thiết』
+
+## [TERM-576] 『Voi Ma Mút Gai』
+- **tên_chuẩn:** 『Voi Ma Mút Gai』
+
+## [TERM-577] 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』
+- **tên_chuẩn:** 『Vong Vương Tích「Nghiệp Ma Phùng Ma」』
+
+## [TERM-578] 『VÒNG XOÁY U MINH』
+- **tên_chuẩn:** 『VÒNG XOÁY U MINH』
+
+## [TERM-579] 『VÔ HẠN LUYỆN NGỤC』
+- **tên_chuẩn:** 『VÔ HẠN LUYỆN NGỤC』
+
+## [TERM-580] 『Vây Lớn Của Kelpie』
+- **tên_chuẩn:** 『Vây Lớn Của Kelpie』
+
+## [TERM-581] 『Vòng Cổ Hồng Liên』
+- **tên_chuẩn:** 『Vòng Cổ Hồng Liên』
+
+## [TERM-582] 『Vòng Tay Sinh Lực』
+- **tên_chuẩn:** 『Vòng Tay Sinh Lực』
+
+## [TERM-583] 『Vòng Tròn Xanh Lá』
+- **tên_chuẩn:** 『Vòng Tròn Xanh Lá』
+
+## [TERM-584] 『Vô Mệnh Thủ Đoạn』
+- **tên_chuẩn:** 『Vô Mệnh Thủ Đoạn』
+
+## [TERM-585] 『Võ』
+- **tên_chuẩn:** 『Võ』
+
+## [TERM-586] 『Vĩnh Cửu』
+- **tên_chuẩn:** 『Vĩnh Cửu』
+
+## [TERM-587] 『Vĩnh Hằng』
+- **tên_chuẩn:** 『Vĩnh Hằng』
+
+## [TERM-588] 『Vạc Của Phù Thủy』
+- **tên_chuẩn:** 『Vạc Của Phù Thủy』
+
+## [TERM-589] 『Vật Phẩm Phục Chế』
+- **tên_chuẩn:** 『Vật Phẩm Phục Chế』
+
+## [TERM-590] 『VẾT CÀO KHẮC LÊN NHAM THẠCH』
+- **tên_chuẩn:** 『VẾT CÀO KHẮC LÊN NHAM THẠCH』
+
+## [TERM-591] 『Vực Sâu Vô Tận』
+- **tên_chuẩn:** 『Vực Sâu Vô Tận』
+
+## [TERM-592] 『Wild 7』
+- **tên_chuẩn:** 『Wild 7』
+
+## [TERM-593] 『Worm Head』
+- **tên_chuẩn:** 『Worm Head』
+
+## [TERM-594] 『Xung Ba』
+- **tên_chuẩn:** 『Xung Ba』
+
+## [TERM-595] 『Xung Phá』
+- **tên_chuẩn:** 『Xung Phá』
+
+## [TERM-596] 『Xuyên Kích』
+- **tên_chuẩn:** 『Xuyên Kích』
+
+## [TERM-597] 『Xuyên Quán Hoàn』
+- **tên_chuẩn:** 『Xuyên Quán Hoàn』
+
+## [TERM-598] 『XÍCH PHONG CHI NHẬN』
+- **tên_chuẩn:** 『XÍCH PHONG CHI NHẬN』
+
+## [TERM-599] 『Xác Rối』
+- **tên_chuẩn:** 『Xác Rối』
+
+## [TERM-600] 『Xác Rối - Nhện』
+- **tên_chuẩn:** 『Xác Rối - Nhện』
+
+## [TERM-601] 『Xác Rối - Rắn』
+- **tên_chuẩn:** 『Xác Rối - Rắn』
+
+## [TERM-602] 『Xích Lang』
+- **tên_chuẩn:** 『Xích Lang』
+
+## [TERM-603] 『Xích Long Ngạc』
+- **tên_chuẩn:** 『Xích Long Ngạc』
+
+## [TERM-604] 『Xích Nhiệt Bệnh』
+- **tên_chuẩn:** 『Xích Nhiệt Bệnh』
+
+## [TERM-605] 『Xích Nhiệt Bệnh (Red Fever)』
+- **tên_chuẩn:** 『Xích Nhiệt Bệnh (Red Fever)』
+
+## [TERM-606] 『Xích Nhiệt Nhất Thiểm』
+- **tên_chuẩn:** 『Xích Nhiệt Nhất Thiểm』
+
+## [TERM-607] 『Xích Phát Phược』
+- **tên_chuẩn:** 『Xích Phát Phược』
+
+## [TERM-608] 『Yellow Paralyzer』
+- **tên_chuẩn:** 『Yellow Paralyzer』
+
+## [TERM-609] 『Yên Ngọc』
+- **tên_chuẩn:** 『Yên Ngọc』
+
+## [TERM-610] 『Yêu Tinh Điệp Báo Tử』
+- **tên_chuẩn:** 『Yêu Tinh Điệp Báo Tử』
+
+## [TERM-611] 『Zagan's Pride』
+- **tên_chuẩn:** 『Zagan's Pride』
+
+## [TERM-612] 『Zeal』
+- **tên_chuẩn:** 『Zeal』
+
+## [TERM-613] 『khu phế thải』
+- **tên_chuẩn:** 『khu phế thải』
+
+## [TERM-614] 『phản phệ』
+- **tên_chuẩn:** 『phản phệ』
+
+## [TERM-615] 『ÁC LINH NHẬP』
+- **tên_chuẩn:** 『ÁC LINH NHẬP』
+
+## [TERM-616] 『Áo Choàng Kháng Nhiệt Thử Nghiệm』
+- **tên_chuẩn:** 『Áo Choàng Kháng Nhiệt Thử Nghiệm』
+
+## [TERM-617] 『Áo Choàng Tản Nhiệt』
+- **tên_chuẩn:** 『Áo Choàng Tản Nhiệt』
+
+## [TERM-618] 『Áo Khoác Tản Nhiệt』
+- **tên_chuẩn:** 『Áo Khoác Tản Nhiệt』
+
+## [TERM-619] 『Áo choàng Băng Mỏng』
+- **tên_chuẩn:** 『Áo choàng Băng Mỏng』
+
+## [TERM-620] 『Áo khoác Da Bò』
+- **tên_chuẩn:** 『Áo khoác Da Bò』
+
+## [TERM-621] 『Áo khoác Sói』
+- **tên_chuẩn:** 『Áo khoác Sói』
+
+## [TERM-622] 『Áo khoác thỏ』
+- **tên_chuẩn:** 『Áo khoác thỏ』
+
+## [TERM-623] 『Áo lót da mềm』
+- **tên_chuẩn:** 『Áo lót da mềm』
+
+## [TERM-624] 『Áo măng tô Grand Boar』
+- **tên_chuẩn:** 『Áo măng tô Grand Boar』
+
+## [TERM-625] 『Áo phao Banded』
+- **tên_chuẩn:** 『Áo phao Banded』
+
+## [TERM-626] 『Áo thun Pha lê』
+- **tên_chuẩn:** 『Áo thun Pha lê』
+
+## [TERM-627] 『Áo vest Sói』
+- **tên_chuẩn:** 『Áo vest Sói』
+
+## [TERM-628] 『Ôn Phong Kết Giới - Diễm Nhật Hòa』
+- **tên_chuẩn:** 『Ôn Phong Kết Giới - Diễm Nhật Hòa』
+
+## [TERM-629] 『Ý Niệm Luật Lệnh』
+- **tên_chuẩn:** 『Ý Niệm Luật Lệnh』
+
+## [TERM-630] 『Đa Trùng Liên Tỏa Triệu Hoán Trận』
+- **tên_chuẩn:** 『Đa Trùng Liên Tỏa Triệu Hoán Trận』
+
+## [TERM-631] 『Đa Trọng Liên Tỏa Triệu Hoán Trận』
+- **tên_chuẩn:** 『Đa Trọng Liên Tỏa Triệu Hoán Trận』
+
+## [TERM-632] 『Đai Lưng Terra』
+- **tên_chuẩn:** 『Đai Lưng Terra』
+
+## [TERM-633] 『Đi săn』
+- **tên_chuẩn:** 『Đi săn』
+
+## [TERM-634] 『Điện Lưu Thủy Hoàn』
+- **tên_chuẩn:** 『Điện Lưu Thủy Hoàn』
+
+## [TERM-635] 『Điệp Vũ Ngược』
+- **tên_chuẩn:** 『Điệp Vũ Ngược』
+
+## [TERM-636] 『Điệu Nhảy Khâu Bóng』
+- **tên_chuẩn:** 『Điệu Nhảy Khâu Bóng』
+
+## [TERM-637] 『Đào Xoài (Đào xoài)』
+- **tên_chuẩn:** 『Đào Xoài (Đào xoài)』
+
+## [TERM-638] 『Đào Ảnh』
+- **tên_chuẩn:** 『Đào Ảnh』
+
+## [TERM-639] 『Đã giải quyết xong』
+- **tên_chuẩn:** 『Đã giải quyết xong』
+
+## [TERM-640] 『Đơn Giản Luyện Thành Trận』
+- **tên_chuẩn:** 『Đơn Giản Luyện Thành Trận』
+
+## [TERM-641] 『Đơn Giản Triệu Hoán Trận』
+- **tên_chuẩn:** 『Đơn Giản Triệu Hoán Trận』
+
+## [TERM-642] 『ĐẠI ĐOẠN KÍCH PHÁ』
+- **tên_chuẩn:** 『ĐẠI ĐOẠN KÍCH PHÁ』
+
+## [TERM-643] 『ĐẠN HỒI』
+- **tên_chuẩn:** 『ĐẠN HỒI』
+
+## [TERM-644] 『Đại Chiến Sĩ Gira-Goma』
+- **tên_chuẩn:** 『Đại Chiến Sĩ Gira-Goma』
+
+## [TERM-645] 『Đại Chiến Sĩ Gira-Goma Gizaginzu』
+- **tên_chuẩn:** 『Đại Chiến Sĩ Gira-Goma Gizaginzu』
+
+## [TERM-646] 『Đại Cự Thần』
+- **tên_chuẩn:** 『Đại Cự Thần』
+
+## [TERM-647] 『Đại Hắc Anh - Uy Thiên Xung Giác』
+- **tên_chuẩn:** 『Đại Hắc Anh - Uy Thiên Xung Giác』
+
+## [TERM-648] 『Đại Hỏa Tinh Linh』
+- **tên_chuẩn:** 『Đại Hỏa Tinh Linh』
+
+## [TERM-649] 『Đại Khẩu』
+- **tên_chuẩn:** 『Đại Khẩu』
+
+## [TERM-650] 『Đại Ma Đạo Sĩ』
+- **tên_chuẩn:** 『Đại Ma Đạo Sĩ』
+
+## [TERM-651] 『Đại Phong Tinh Linh』
+- **tên_chuẩn:** 『Đại Phong Tinh Linh』
+
+## [TERM-652] 『Đại Phá Đoạn』
+- **tên_chuẩn:** 『Đại Phá Đoạn』
+
+## [TERM-653] 『Đại Thổ Tinh Linh』
+- **tên_chuẩn:** 『Đại Thổ Tinh Linh』
+
+## [TERM-654] 『Đại Thủ Hộ Thiên Sứ』
+- **tên_chuẩn:** 『Đại Thủ Hộ Thiên Sứ』
+
+## [TERM-655] 『Đại Tế』
+- **tên_chuẩn:** 『Đại Tế』
+
+## [TERM-656] 『Đại thuẫn Ngân Thiết』
+- **tên_chuẩn:** 『Đại thuẫn Ngân Thiết』
+
+## [TERM-657] 『Đại Đả』
+- **tên_chuẩn:** 『Đại Đả』
+
+## [TERM-658] 『Đại Địa Ma Nhân』
+- **tên_chuẩn:** 『Đại Địa Ma Nhân』
+
+## [TERM-659] 『Đạn Cháy』
+- **tên_chuẩn:** 『Đạn Cháy』
+
+## [TERM-660] 『Đầm Lầy Thối Rữa』
+- **tên_chuẩn:** 『Đầm Lầy Thối Rữa』
+
+## [TERM-661] 『Đầm Lầy Thối Rữa (Swamp of Decay)』
+- **tên_chuẩn:** 『Đầm Lầy Thối Rữa (Swamp of Decay)』
+
+## [TERM-662] 『Đầu Lâu Của Thực Nhân Quỷ』
+- **tên_chuẩn:** 『Đầu Lâu Của Thực Nhân Quỷ』
+
+## [TERM-663] 『Đầu Lâu Của Triệu Hoán Sư』
+- **tên_chuẩn:** 『Đầu Lâu Của Triệu Hoán Sư』
+
+## [TERM-664] 『Đầu Lâu Của Xạ Thủ』
+- **tên_chuẩn:** 『Đầu Lâu Của Xạ Thủ』
+
+## [TERM-665] 『Đầu hai ngả』
+- **tên_chuẩn:** 『Đầu hai ngả』
+
+## [TERM-666] 『Đậu Bùn』
+- **tên_chuẩn:** 『Đậu Bùn』
+
+## [TERM-667] 『Đặt Cược Vào Thiếu Nữ Ước Hẹn』
+- **tên_chuẩn:** 『Đặt Cược Vào Thiếu Nữ Ước Hẹn』
+
+## [TERM-668] 『Đệm Khí』
+- **tên_chuẩn:** 『Đệm Khí』
+
+## [TERM-669] 『Đồ bảo hộ tơ nhện』
+- **tên_chuẩn:** 『Đồ bảo hộ tơ nhện』
+
+## [TERM-670] 『Đồ ngụy trang Ghillie - Bản Sa mạc』
+- **tên_chuẩn:** 『Đồ ngụy trang Ghillie - Bản Sa mạc』
+
+## [TERM-671] 『Đồng phục thủy thủ giả』
+- **tên_chuẩn:** 『Đồng phục thủy thủ giả』
+
+## [TERM-672] 『Đồng Điệu Ba Động』
+- **tên_chuẩn:** 『Đồng Điệu Ba Động』
+
+## [TERM-673] 『Độc (Poison)』
+- **tên_chuẩn:** 『Độc (Poison)』
+
+## [TERM-674] 『Độc Tiễn』
+- **tên_chuẩn:** 『Độc Tiễn』
+
+## [TERM-675] 『Độc Tê Liệt Nhện - Ếch』
+- **tên_chuẩn:** 『Độc Tê Liệt Nhện - Ếch』
+
+## [TERM-676] 『Độc Yên Ngọc』
+- **tên_chuẩn:** 『Độc Yên Ngọc』
+
+## [TERM-677] 『Độc tê liệt của Ếch Nhện』
+- **tên_chuẩn:** 『Độc tê liệt của Ếch Nhện』
+
+## [TERM-678] 『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』
+- **tên_chuẩn:** 『Đội trưởng Đội Trinh Sát Rem - Cú Tuyết』
+
+## [TERM-679] 『Đứa con của Nữ thần Elysion』
+- **tên_chuẩn:** 『Đứa con của Nữ thần Elysion』
+
+## [TERM-680] 『Đứa con của thần』
+- **tên_chuẩn:** 『Đứa con của thần』
+
+## [TERM-681] 『điều chỉnh』
+- **tên_chuẩn:** 『điều chỉnh』
+
+## [TERM-682] 『Ưng Hói Đỏ』
+- **tên_chuẩn:** 『Ưng Hói Đỏ』
+
+## [TERM-683] 『Ưng Nhãn』
+- **tên_chuẩn:** 『Ưng Nhãn』
+
+## [TERM-684] 『Ảnh Nhân Hình』
+- **tên_chuẩn:** 『Ảnh Nhân Hình』
+
+## [TERM-685] 『Ảnh Nhẫn』
+- **tên_chuẩn:** 『Ảnh Nhẫn』
+
+## [TERM-686] 『Ảnh Tiễn』
+- **tên_chuẩn:** 『Ảnh Tiễn』
+
+## [TERM-687] 『Ếch Nhện』
+- **tên_chuẩn:** 『Ếch Nhện』
+
+## [TERM-688] 『Ủng da và Găng tay da』
+- **tên_chuẩn:** 『Ủng da và Găng tay da』
+
+## [TERM-689] 『Basilisk』
+- **tên_chuẩn:** 『Basilisk』
+
+## [TERM-690] 『Buffalo』
+- **tên_chuẩn:** 『Buffalo』
+
+## [TERM-691] 『Bạch Thái Lang』
+- **tên_chuẩn:** 『Bạch Thái Lang』
+
+## [TERM-692] 『Chiến sĩ』
+- **tên_chuẩn:** 『Chiến sĩ』
+
+## [TERM-693] 『Cà Phê Treant』
+- **tên_chuẩn:** 『Cà Phê Treant』
+
+## [TERM-694] 『Cổng Dịch Chuyển』
+- **tên_chuẩn:** 『Cổng Dịch Chuyển』
+
+## [TERM-695] 『Dark Rerite』
+- **tên_chuẩn:** 『Dark Rerite』
+
+## [TERM-696] 『Dực Long』
+- **tên_chuẩn:** 『Dực Long』
+
+## [TERM-697] 『Hắc phục』
+- **tên_chuẩn:** 『Hắc phục』
+
+## [TERM-698] 『Học viện Hakurei』
+- **tên_chuẩn:** 『Học viện Hakurei』
+
+## [TERM-699] 『Hỏa Long Salamander』
+- **tên_chuẩn:** 『Hỏa Long Salamander』
+
+## [TERM-700] 『Hỏa Ngưu』
+- **tên_chuẩn:** 『Hỏa Ngưu』
+
+## [TERM-701] 『Hỏa Sơn Golem』
+- **tên_chuẩn:** 『Hỏa Sơn Golem』
+
+## [TERM-702] 『Jarja』
+- **tên_chuẩn:** 『Jarja』
+
+## [TERM-703] 『Kính Cận Quỷ Súc』
+- **tên_chuẩn:** 『Kính Cận Quỷ Súc』
+
+## [TERM-704] 『LUYỆN THÀNH TRẬN』
+- **tên_chuẩn:** 『LUYỆN THÀNH TRẬN』
+
+## [TERM-705] 『Lava Lizardman』
+- **tên_chuẩn:** 『Lava Lizardman』
+
+## [TERM-706] 『Maid Trưởng』
+- **tên_chuẩn:** 『Maid Trưởng』
+
+## [TERM-707] 『Momoko』
+- **tên_chuẩn:** 『Momoko』
+
+## [TERM-708] 『Monster Stampede』
+- **tên_chuẩn:** 『Monster Stampede』
+
+## [TERM-709] 『Nhiên Đồn』
+- **tên_chuẩn:** 『Nhiên Đồn』
+
+## [TERM-710] 『Nữ Thần Elshion』
+- **tên_chuẩn:** 『Nữ Thần Elshion』
+
+## [TERM-711] 『Orichalcum』
+- **tên_chuẩn:** 『Orichalcum』
+
+## [TERM-712] 『Quang Thạch Thủy Băng』
+- **tên_chuẩn:** 『Quang Thạch Thủy Băng』
+
+## [TERM-713] 『Sakurako』
+- **tên_chuẩn:** 『Sakurako』
+
+## [TERM-714] 『Souma Lưu』
+- **tên_chuẩn:** 『Souma Lưu』
+
+## [TERM-715] 『Súng Blaster』
+- **tên_chuẩn:** 『Súng Blaster』
+
+## [TERM-716] 『Súng lục ổ quay』
+- **tên_chuẩn:** 『Súng lục ổ quay』
+
+## [TERM-717] 『Súng trường Blaster』
+- **tên_chuẩn:** 『Súng trường Blaster』
+
+## [TERM-718] 『Sứ ma』
+- **tên_chuẩn:** 『Sứ ma』
+
+## [TERM-719] 『Tam đại loli』
+- **tên_chuẩn:** 『Tam đại loli』
+
+## [TERM-720] 『Thánh Hoàng Bệ Hạ』
+- **tên_chuẩn:** 『Thánh Hoàng Bệ Hạ』
+
+## [TERM-721] 『Thần Tử của Lời Nguyền』
+- **tên_chuẩn:** 『Thần Tử của Lời Nguyền』
+
+## [TERM-722] 『Trường Sĩ Quan』
+- **tên_chuẩn:** 『Trường Sĩ Quan』
+
+## [TERM-723] 『Tà Thần』
+- **tên_chuẩn:** 『Tà Thần』
+
+## [TERM-724] 『Tà Thần Bóng Tối Chronos』
+- **tên_chuẩn:** 『Tà Thần Bóng Tối Chronos』
+
+## [TERM-725] 『Tà Thần Chronos』
+- **tên_chuẩn:** 『Tà Thần Chronos』
+
+## [TERM-726] 『Tàu Ma Đạo』
+- **tên_chuẩn:** 『Tàu Ma Đạo』
+
+## [TERM-727] 『Tứ Đại Mê Cung』
+- **tên_chuẩn:** 『Tứ Đại Mê Cung』
+
+## [TERM-728] 『Tứ Đại Thánh Khanh』
+- **tên_chuẩn:** 『Tứ Đại Thánh Khanh』
+
+## [TERM-729] 『Vong Khước Hình』
+- **tên_chuẩn:** 『Vong Khước Hình』
+
+## [TERM-730] 『Vạc Phù Thủy』
+- **tên_chuẩn:** 『Vạc Phù Thủy』
+
+## [TERM-731] 『Vạn Cân Trọng Cước』
+- **tên_chuẩn:** 『Vạn Cân Trọng Cước』
+
+## [TERM-732] 『Xích Thái Lang』
+- **tên_chuẩn:** 『Xích Thái Lang』
+
+## [TERM-733] 『Đại Mê Cung Albion』
+- **tên_chuẩn:** 『Đại Mê Cung Albion』
+
+## [TERM-734] 『Đại Mê Cung Sigrun』
+- **tên_chuẩn:** 『Đại Mê Cung Sigrun』
+
+## [TERM-735] 『Đại Nham Oa』
+- **tên_chuẩn:** 『Đại Nham Oa』
+
+## [TERM-736] 『Air Cushion』
+- **tên_chuẩn:** 『Air Cushion』
+
+## [TERM-737] 『Aqua Serpent』
+- **tên_chuẩn:** 『Aqua Serpent』
+
+## [TERM-738] 『Armored Cry』
+- **tên_chuẩn:** 『Armored Cry』
+
+## [TERM-739] 『Axit Thuẫn』
+- **tên_chuẩn:** 『Axit Thuẫn』
+
+## [TERM-740] 『Axit Tiễn』
+- **tên_chuẩn:** 『Axit Tiễn』
+
+## [TERM-741] 『Beni Tachikaze』
+- **tên_chuẩn:** 『Beni Tachikaze』
+
+## [TERM-742] 『Bio-Metal』
+- **tên_chuẩn:** 『Bio-Metal』
+
+## [TERM-743] 『Biểu Tượng Thời Trang』
+- **tên_chuẩn:** 『Biểu Tượng Thời Trang』
+
+## [TERM-744] 『Blast Sword』
+- **tên_chuẩn:** 『Blast Sword』
+
+## [TERM-745] 『Brave Star Cross』
+- **tên_chuẩn:** 『Brave Star Cross』
+
+## [TERM-746] 『Burst Lance』
+- **tên_chuẩn:** 『Burst Lance』
+
+## [TERM-747] 『Bách Oản Trảo』
+- **tên_chuẩn:** 『Bách Oản Trảo』
+
+## [TERM-748] 『Bé hư thì phải bị đánh đòn vào mông nha~』
+- **tên_chuẩn:** 『Bé hư thì phải bị đánh đòn vào mông nha~』
+
+## [TERM-749] 『Băng Sương』
+- **tên_chuẩn:** 『Băng Sương』
+
+## [TERM-750] 『Băng đảng』
+- **tên_chuẩn:** 『Băng đảng』
+
+## [TERM-751] 『Bạch Ngân Vương Thành』
+- **tên_chuẩn:** 『Bạch Ngân Vương Thành』
+
+## [TERM-752] 『Bản Luyện Thành Trận Lập Thể Song Song』
+- **tên_chuẩn:** 『Bản Luyện Thành Trận Lập Thể Song Song』
+
+## [TERM-753] 『Bảo Ngọc Địa Long』
+- **tên_chuẩn:** 『Bảo Ngọc Địa Long』
+
+## [TERM-754] 『Bảo Ngọc Địa Long - Raptor』
+- **tên_chuẩn:** 『Bảo Ngọc Địa Long - Raptor』
+
+## [TERM-755] 『Bảo Quản Thức』
+- **tên_chuẩn:** 『Bảo Quản Thức』
+
+## [TERM-756] 『Bỏ trốn Cúc-cu』
+- **tên_chuẩn:** 『Bỏ trốn Cúc-cu』
+
+## [TERM-757] 『Bờ Hồ Nereis』
+- **tên_chuẩn:** 『Bờ Hồ Nereis』
+
+## [TERM-758] 『Chaba-goma』
+- **tên_chuẩn:** 『Chaba-goma』
+
+## [TERM-759] 『Che Dấu Hiện Diện』
+- **tên_chuẩn:** 『Che Dấu Hiện Diện』
+
+## [TERM-760] 『Chiếc Hộp Kotori』
+- **tên_chuẩn:** 『Chiếc Hộp Kotori』
+
+## [TERM-761] 『Chân Huyết Đảng』
+- **tên_chuẩn:** 『Chân Huyết Đảng』
+
+## [TERM-762] 『Chân Ma-id Phục』
+- **tên_chuẩn:** 『Chân Ma-id Phục』
+
+## [TERM-763] 『Chân Ngụy Chi Đồng』
+- **tên_chuẩn:** 『Chân Ngụy Chi Đồng』
+
+## [TERM-764] 『Chân Tổ』
+- **tên_chuẩn:** 『Chân Tổ』
+
+## [TERM-765] 『Chân Tổ Chi Huyết』
+- **tên_chuẩn:** 『Chân Tổ Chi Huyết』
+
+## [TERM-766] 『Cuồng Chiến Sĩ』
+- **tên_chuẩn:** 『Cuồng Chiến Sĩ』
+
+## [TERM-767] 『Câm Lặng』
+- **tên_chuẩn:** 『Câm Lặng』
+
+## [TERM-768] 『Còn có đứa bé hư nào nữa hông ta~?』
+- **tên_chuẩn:** 『Còn có đứa bé hư nào nữa hông ta~?』
+
+## [TERM-769] 『Có em bé hư kìa~』
+- **tên_chuẩn:** 『Có em bé hư kìa~』
+
+## [TERM-770] 『Có em bé ngoan nào ở đây hông ta~?』
+- **tên_chuẩn:** 『Có em bé ngoan nào ở đây hông ta~?』
+
+## [TERM-771] 『Cơ Bản Luyện Thành Trận』
+- **tên_chuẩn:** 『Cơ Bản Luyện Thành Trận』
+
+## [TERM-772] 『CẢNH BÁO: PHÁT HIỆN TRUY CẬP TRÁI PHÉP』
+- **tên_chuẩn:** 『CẢNH BÁO: PHÁT HIỆN TRUY CẬP TRÁI PHÉP』
+
+## [TERM-773] 『Cảm tri khí tức』
+- **tên_chuẩn:** 『Cảm tri khí tức』
+
+## [TERM-774] 『Cầu Nguyện Phì Nhiêu』
+- **tên_chuẩn:** 『Cầu Nguyện Phì Nhiêu』
+
+## [TERM-775] 『Cộng Minh Âm Ba』
+- **tên_chuẩn:** 『Cộng Minh Âm Ba』
+
+## [TERM-776] 『Cục Quản Lý Mê Cung』
+- **tên_chuẩn:** 『Cục Quản Lý Mê Cung』
+
+## [TERM-777] 『Cứu Tế Phái』
+- **tên_chuẩn:** 『Cứu Tế Phái』
+
+## [TERM-778] 『Cự Nhân Chi Khôi』
+- **tên_chuẩn:** 『Cự Nhân Chi Khôi』
+
+## [TERM-779] 『Cự Nhân Chi Khải』
+- **tên_chuẩn:** 『Cự Nhân Chi Khải』
+
+## [TERM-780] 『Cự Thần Chiến Trang』
+- **tên_chuẩn:** 『Cự Thần Chiến Trang』
+
+## [TERM-781] 『Daidan Gekiha』
+- **tên_chuẩn:** 『Daidan Gekiha』
+
+## [TERM-782] 『Dao rác』
+- **tên_chuẩn:** 『Dao rác』
+
+## [TERM-783] 『Dread Chrome』
+- **tên_chuẩn:** 『Dread Chrome』
+
+## [TERM-784] 『Dread Dite』
+- **tên_chuẩn:** 『Dread Dite』
+
+## [TERM-785] 『Dread Gasta』
+- **tên_chuẩn:** 『Dread Gasta』
+
+## [TERM-786] 『Dread Horn』
+- **tên_chuẩn:** 『Dread Horn』
+
+## [TERM-787] 『Duyên』
+- **tên_chuẩn:** 『Duyên』
+
+## [TERM-788] 『DŨNG KHÍ CHI QUANG』
+- **tên_chuẩn:** 『DŨNG KHÍ CHI QUANG』
+
+## [TERM-789] 『Dược Hiệu Thức』
+- **tên_chuẩn:** 『Dược Hiệu Thức』
+
+## [TERM-790] 『Dược Sĩ』
+- **tên_chuẩn:** 『Dược Sĩ』
+
+## [TERM-791] 『Dấu Ấn Mèo Hoang』
+- **tên_chuẩn:** 『Dấu Ấn Mèo Hoang』
+
+## [TERM-792] 『Eldreich』
+- **tên_chuẩn:** 『Eldreich』
+
+## [TERM-793] 『Esmeralda』
+- **tên_chuẩn:** 『Esmeralda』
+
+## [TERM-794] 『Exo-Gogma』
+- **tên_chuẩn:** 『Exo-Gogma』
+
+## [TERM-795] 『Force Edge』
+- **tên_chuẩn:** 『Force Edge』
+
+## [TERM-796] 『Full Armor Hell Guard』
+- **tên_chuẩn:** 『Full Armor Hell Guard』
+
+## [TERM-797] 『Fuma』
+- **tên_chuẩn:** 『Fuma』
+
+## [TERM-798] 『GAIA POWER』
+- **tên_chuẩn:** 『GAIA POWER』
+
+## [TERM-799] 『Giác Quan Dược Học』
+- **tên_chuẩn:** 『Giác Quan Dược Học』
+
+## [TERM-800] 『Gà Biển Tẩu Thoát』
+- **tên_chuẩn:** 『Gà Biển Tẩu Thoát』
+
+## [TERM-801] 『Gà Vàng Đào Tẩu』
+- **tên_chuẩn:** 『Gà Vàng Đào Tẩu』
+
+## [TERM-802] 『Gậy Kẻ Khờ』
+- **tên_chuẩn:** 『Gậy Kẻ Khờ』
+
+## [TERM-803] 『Hellgate Guardian』
+- **tên_chuẩn:** 『Hellgate Guardian』
+
+## [TERM-804] 『Hiệp Sĩ』
+- **tên_chuẩn:** 『Hiệp Sĩ』
+
+## [TERM-805] 『Hoàn Toàn Biến Thái Hệ』
+- **tên_chuẩn:** 『Hoàn Toàn Biến Thái Hệ』
+
+## [TERM-806] 『Huyết Thao』
+- **tên_chuẩn:** 『Huyết Thao』
+
+## [TERM-807] 『Huyết Toát』
+- **tên_chuẩn:** 『Huyết Toát』
+
+## [TERM-808] 『Hòm Thánh Đen』
+- **tên_chuẩn:** 『Hòm Thánh Đen』
+
+## [TERM-809] 『Hư Nguyệt』
+- **tên_chuẩn:** 『Hư Nguyệt』
+
+## [TERM-810] 『Hắc Diện Ông』
+- **tên_chuẩn:** 『Hắc Diện Ông』
+
+## [TERM-811] 『Hắc Ma Nữ Luyện Ngục Lô』
+- **tên_chuẩn:** 『Hắc Ma Nữ Luyện Ngục Lô』
+
+## [TERM-812] 『Hắc Nạp』
+- **tên_chuẩn:** 『Hắc Nạp』
+
+## [TERM-813] 『Hắc Phong』
+- **tên_chuẩn:** 『Hắc Phong』
+
+## [TERM-814] 『Hắc Sắc Độc Lâu』
+- **tên_chuẩn:** 『Hắc Sắc Độc Lâu』
+
+## [TERM-815] 『Hắc Đầu Lâu』
+- **tên_chuẩn:** 『Hắc Đầu Lâu』
+
+## [TERM-816] 『Hệ Thống Phả Hệ』
+- **tên_chuẩn:** 『Hệ Thống Phả Hệ』
+
+## [TERM-817] 『Hỏa Diễm Phụ Dữ』
+- **tên_chuẩn:** 『Hỏa Diễm Phụ Dữ』
+
+## [TERM-818] 『Hồng Tarou』
+- **tên_chuẩn:** 『Hồng Tarou』
+
+## [TERM-819] 『Hổng được nữa rồi nhen~』
+- **tên_chuẩn:** 『Hổng được nữa rồi nhen~』
+
+## [TERM-820] 『Hổng được đâuuu~』
+- **tên_chuẩn:** 『Hổng được đâuuu~』
+
+## [TERM-821] 『Hộp Sọ Của Kẻ Truyền Đạo』
+- **tên_chuẩn:** 『Hộp Sọ Của Kẻ Truyền Đạo』
+
+## [TERM-822] 『Hủ Chi Chiểu』
+- **tên_chuẩn:** 『Hủ Chi Chiểu』
+
+## [TERM-823] 『Hủ Trạch』
+- **tên_chuẩn:** 『Hủ Trạch』
+
+## [TERM-824] 『Idea Code』
+- **tên_chuẩn:** 『Idea Code』
+
+## [TERM-825] 『Impact Hammer』
+- **tên_chuẩn:** 『Impact Hammer』
+
+## [TERM-826] 『Jobari Oblige』
+- **tên_chuẩn:** 『Jobari Oblige』
+
+## [TERM-827] 『Jobless Oblige』
+- **tên_chuẩn:** 『Jobless Oblige』
+
+## [TERM-828] 『Khu Phố Hắc Ám』
+- **tên_chuẩn:** 『Khu Phố Hắc Ám』
+
+## [TERM-829] 『Khuếch Thanh』
+- **tên_chuẩn:** 『Khuếch Thanh』
+
+## [TERM-830] 『Kiến Nhiệm』
+- **tên_chuẩn:** 『Kiến Nhiệm』
+
+## [TERM-831] 『Klan』
+- **tên_chuẩn:** 『Klan』
+
+## [TERM-832] 『Kronos』
+- **tên_chuẩn:** 『Kronos』
+
+## [TERM-833] 『Kusarinuma』
+- **tên_chuẩn:** 『Kusarinuma』
+
+## [TERM-834] 『Kyoshin Sensou』
+- **tên_chuẩn:** 『Kyoshin Sensou』
+
+## [TERM-835] 『Kết Giới Làm Mát』
+- **tên_chuẩn:** 『Kết Giới Làm Mát』
+
+## [TERM-836] 『Kỳ Đào Sư』
+- **tên_chuẩn:** 『Kỳ Đào Sư』
+
+## [TERM-837] 『Kỳ Đảo Sư』
+- **tên_chuẩn:** 『Kỳ Đảo Sư』
+
+## [TERM-838] 『Luyện Khí』
+- **tên_chuẩn:** 『Luyện Khí』
+
+## [TERM-839] 『Luyện Ngục Lô Hắc Ma Nữ』
+- **tên_chuẩn:** 『Luyện Ngục Lô Hắc Ma Nữ』
+
+## [TERM-840] 『Luyện Ngục Ác Ma』
+- **tên_chuẩn:** 『Luyện Ngục Ác Ma』
+
+## [TERM-841] 『Luyện Thành Trận Giản Đơn』
+- **tên_chuẩn:** 『Luyện Thành Trận Giản Đơn』
+
+## [TERM-842] 『Luyện ngục lô của Hắc Phù Thủy』
+- **tên_chuẩn:** 『Luyện ngục lô của Hắc Phù Thủy』
+
+## [TERM-843] 『Lõi Tự Bạo』
+- **tên_chuẩn:** 『Lõi Tự Bạo』
+
+## [TERM-844] 『Lời Cầu Nguyện Của Mẹ』
+- **tên_chuẩn:** 『Lời Cầu Nguyện Của Mẹ』
+
+## [TERM-845] 『Lời thề Bất thoái chuyển』
+- **tên_chuẩn:** 『Lời thề Bất thoái chuyển』
+
+## [TERM-846] 『Lực Chi Tạp Phiến』
+- **tên_chuẩn:** 『Lực Chi Tạp Phiến』
+
+## [TERM-847] 『Ma Cà Rồng』
+- **tên_chuẩn:** 『Ma Cà Rồng』
+
+## [TERM-848] 『Ma Nữ Chi Phủ』
+- **tên_chuẩn:** 『Ma Nữ Chi Phủ』
+
+## [TERM-849] 『Medicanon』
+- **tên_chuẩn:** 『Medicanon』
+
+## [TERM-850] 『Minh Chứng Của Mèo Hoang』
+- **tên_chuẩn:** 『Minh Chứng Của Mèo Hoang』
+
+## [TERM-851] 『Minh Chứng Mèo Hoang』
+- **tên_chuẩn:** 『Minh Chứng Mèo Hoang』
+
+## [TERM-852] 『Muscle Suit』
+- **tên_chuẩn:** 『Muscle Suit』
+
+## [TERM-853] 『Mãn Mãn Mãn Nguyệt』
+- **tên_chuẩn:** 『Mãn Mãn Mãn Nguyệt』
+
+## [TERM-854] 『Mảnh Vỡ Sức Mạnh』
+- **tên_chuẩn:** 『Mảnh Vỡ Sức Mạnh』
+
+## [TERM-855] 『Mẫu Chi Khẩn Cầu』
+- **tên_chuẩn:** 『Mẫu Chi Khẩn Cầu』
+
+## [TERM-856] 『Mẫu Thân Chi Khẩn Nguyện』
+- **tên_chuẩn:** 『Mẫu Thân Chi Khẩn Nguyện』
+
+## [TERM-857] 『Mẫu Thân Chi Kỳ』
+- **tên_chuẩn:** 『Mẫu Thân Chi Kỳ』
+
+## [TERM-858] 『NHẤT THIẾM』
+- **tên_chuẩn:** 『NHẤT THIẾM』
+
+## [TERM-859] 『Necro Bloodline』
+- **tên_chuẩn:** 『Necro Bloodline』
+
+## [TERM-860] 『Nghi Thức Lời Nguyện Thề』
+- **tên_chuẩn:** 『Nghi Thức Lời Nguyện Thề』
+
+## [TERM-861] 『Ngoại Quách Đình Viên』
+- **tên_chuẩn:** 『Ngoại Quách Đình Viên』
+
+## [TERM-862] 『Nguyền rủa』
+- **tên_chuẩn:** 『Nguyền rủa』
+
+## [TERM-863] 『Nhiệt Chiến Sĩ』
 - **tên_chuẩn:** 『Nhiệt Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-938] 『Nhiệt Huyết Chỉ Đạo』
-
-- **id:** TERM-938
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-864] 『Nhiệt Huyết Chỉ Đạo』
 - **tên_chuẩn:** 『Nhiệt Huyết Chỉ Đạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-939] 『Niềm Kiêu Hãnh Của Zagan』
-
-- **id:** TERM-939
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-865] 『Niềm Kiêu Hãnh Của Zagan』
 - **tên_chuẩn:** 『Niềm Kiêu Hãnh Của Zagan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-940] 『Nông Trang New Hope』
-
-- **id:** TERM-940
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-866] 『Nông Trang New Hope』
 - **tên_chuẩn:** 『Nông Trang New Hope』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-941] 『Nồi Phù Thủy』
-
-- **id:** TERM-941
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-867] 『Nồi Phù Thủy』
 - **tên_chuẩn:** 『Nồi Phù Thủy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-942] 『Nữ Thần Tóc Đen』
-
-- **id:** TERM-942
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-868] 『Nữ Thần Tóc Đen』
 - **tên_chuẩn:** 『Nữ Thần Tóc Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-943] 『Nữ Trang Phân Thân』
-
-- **id:** TERM-943
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-869] 『Nữ Trang Phân Thân』
 - **tên_chuẩn:** 『Nữ Trang Phân Thân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-944] 『Nữ thần Lời Nguyền』
-
-- **id:** TERM-944
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Nữ thần Lời Nguyền』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-945] 『Ouma』
-
-- **id:** TERM-945
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-870] 『Ouma』
 - **tên_chuẩn:** 『Ouma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-946] 『Oán Tha Chi Thi Nhân Hình』
-
-- **id:** TERM-946
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-871] 『Oán Tha Chi Thi Nhân Hình』
 - **tên_chuẩn:** 『Oán Tha Chi Thi Nhân Hình』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-947] 『Phe Cứu Tế』
-
-- **id:** TERM-947
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-872] 『Phe Cứu Tế』
 - **tên_chuẩn:** 『Phe Cứu Tế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-948] 『Phe Nữ Thần』
-
-- **id:** TERM-948
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-873] 『Phe Nữ Thần』
 - **tên_chuẩn:** 『Phe Nữ Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-949] 『Phi Thiểm』
-
-- **id:** TERM-949
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-874] 『Phi Thiểm』
 - **tên_chuẩn:** 『Phi Thiểm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-950] 『Phong Nhiêu Kỳ Nguyện』
-
-- **id:** TERM-950
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-875] 『Phong Nhiêu Kỳ Nguyện』
 - **tên_chuẩn:** 『Phong Nhiêu Kỳ Nguyện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-951] 『Phá Niệm』
-
-- **id:** TERM-951
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-876] 『Phá Niệm』
 - **tên_chuẩn:** 『Phá Niệm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-149] 『Phá Niệm Chú』
-
-- **id:** SKILL-149
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Phá Niệm Chú』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-952] 『Phá Niệm Phù』
-
-- **id:** TERM-952
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-877] 『Phá Niệm Phù』
 - **tên_chuẩn:** 『Phá Niệm Phù』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-953] 『Phái Chiến Thần』
-
-- **id:** TERM-953
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-878] 『Phái Chiến Thần』
 - **tên_chuẩn:** 『Phái Chiến Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-954] 『Phái Cứu Tế』
-
-- **id:** TERM-954
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-879] 『Phái Cứu Tế』
 - **tên_chuẩn:** 『Phái Cứu Tế』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-955] 『Phái Giải Phóng』
-
-- **id:** TERM-955
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-880] 『Phái Giải Phóng』
 - **tên_chuẩn:** 『Phái Giải Phóng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-956] 『Phái Ma Đạo』
-
-- **id:** TERM-956
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-881] 『Phái Ma Đạo』
 - **tên_chuẩn:** 『Phái Ma Đạo』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-957] 『Phái Nữ Thần』
-
-- **id:** TERM-957
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-882] 『Phái Nữ Thần』
 - **tên_chuẩn:** 『Phái Nữ Thần』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-958] 『Phát hiện truy cập không rõ nguồn gốc.』
-
-- **id:** TERM-958
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-883] 『Phát hiện truy cập không rõ nguồn gốc.』
 - **tên_chuẩn:** 『Phát hiện truy cập không rõ nguồn gốc.』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-959] 『Phản Hồi Đau Đớn』
-
-- **id:** TERM-959
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-884] 『Phản Hồi Đau Đớn』
 - **tên_chuẩn:** 『Phản Hồi Đau Đớn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-960] 『Phản Kích』
-
-- **id:** TERM-960
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-885] 『Phản Kích』
 - **tên_chuẩn:** 『Phản Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-961] 『Phản Phục Đau Đớn』
-
-- **id:** TERM-961
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-886] 『Phản Phục Đau Đớn』
 - **tên_chuẩn:** 『Phản Phục Đau Đớn』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-962] 『Pixie Mart』
-
-- **id:** TERM-962
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-887] 『Pixie Mart』
 - **tên_chuẩn:** 『Pixie Mart』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-150] 『Quang Chi Thánh Kiếm』
-
-- **id:** SKILL-150
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Quang Chi Thánh Kiếm』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-963] 『Quán Cà Phê Maid & Quản Gia Đảo Ngược』
-
-- **id:** TERM-963
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-888] 『Quán Cà Phê Maid & Quản Gia Đảo Ngược』
 - **tên_chuẩn:** 『Quán Cà Phê Maid & Quản Gia Đảo Ngược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-964] 『Quý Tộc Viện』
-
-- **id:** TERM-964
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-889] 『Quý Tộc Viện』
 - **tên_chuẩn:** 『Quý Tộc Viện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-965] 『Repotion』
-
-- **id:** TERM-965
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-890] 『Repotion』
 - **tên_chuẩn:** 『Repotion』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-966] 『Repotion D』
-
-- **id:** TERM-966
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-891] 『Repotion D』
 - **tên_chuẩn:** 『Repotion D』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-967] 『Requiem Heart - New Hope』
-
-- **id:** TERM-967
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-892] 『Requiem Heart - New Hope』
 - **tên_chuẩn:** 『Requiem Heart - New Hope』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-968] 『Scaleless』
-
-- **id:** TERM-968
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-893] 『Scaleless』
 - **tên_chuẩn:** 『Scaleless』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-969] 『Scout Rifle - Helgar Barrel』
-
-- **id:** TERM-969
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-894] 『Scout Rifle - Helgar Barrel』
 - **tên_chuẩn:** 『Scout Rifle - Helgar Barrel』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-970] 『Sculted』
-
-- **id:** TERM-970
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-895] 『Sculted』
 - **tên_chuẩn:** 『Sculted』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-971] 『Sculted Gale Eagle』
-
-- **id:** TERM-971
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-896] 『Sculted Gale Eagle』
 - **tên_chuẩn:** 『Sculted Gale Eagle』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-972] 『Sculted Sheldite』
-
-- **id:** TERM-972
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-897] 『Sculted Sheldite』
 - **tên_chuẩn:** 『Sculted Sheldite』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-973] 『Sleipnir』
-
-- **id:** TERM-973
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-898] 『Sleipnir』
 - **tên_chuẩn:** 『Sleipnir』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-974] 『Sửu Ác Độc Phụ』
-
-- **id:** TERM-974
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-899] 『Sửu Ác Độc Phụ』
 - **tên_chuẩn:** 『Sửu Ác Độc Phụ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-975] 『Thanh Thiên Khoái Khí』
-
-- **id:** TERM-975
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-900] 『Thanh Thiên Khoái Khí』
 - **tên_chuẩn:** 『Thanh Thiên Khoái Khí』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-976] 『Thanh Tịnh Điện』
-
-- **id:** TERM-976
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-901] 『Thanh Tịnh Điện』
 - **tên_chuẩn:** 『Thanh Tịnh Điện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-977] 『Thi Khôi』
-
-- **id:** TERM-977
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-902] 『Thi Khôi』
 - **tên_chuẩn:** 『Thi Khôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-978] 『Thi Khôi "Nghiệp Ma Hồng Ma"』
-
-- **id:** TERM-978
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-903] 『Thi Khôi "Nghiệp Ma Hồng Ma"』
 - **tên_chuẩn:** 『Thi Khôi "Nghiệp Ma Hồng Ma"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-979] 『Thi Khải』
-
-- **id:** TERM-979
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-904] 『Thi Khải』
 - **tên_chuẩn:** 『Thi Khải』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-151] 『Thi Linh Thuật』
-
-- **id:** SKILL-151
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thi Linh Thuật』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-152] 『Thi Linh Thuật Sư』
-
-- **id:** SKILL-152
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thi Linh Thuật Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-153] 『Thiên Chú Khanh』
-
-- **id:** SKILL-153
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thiên Chú Khanh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-980] 『Thiên Niên Hổ Phách』
-
-- **id:** TERM-980
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-905] 『Thiên Niên Hổ Phách』
 - **tên_chuẩn:** 『Thiên Niên Hổ Phách』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-981] 『Thánh Quỹ Đen』
-
-- **id:** TERM-981
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-906] 『Thánh Quỹ Đen』
 - **tên_chuẩn:** 『Thánh Quỹ Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-982] 『Thánh Thể』
-
-- **id:** TERM-982
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-907] 『Thánh Thể』
 - **tên_chuẩn:** 『Thánh Thể』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-983] 『Thánh Ấn - Thanh Phong Chi Huệ』
-
-- **id:** TERM-983
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-908] 『Thánh Ấn - Thanh Phong Chi Huệ』
 - **tên_chuẩn:** 『Thánh Ấn - Thanh Phong Chi Huệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-984] 『Tháp Ngà』
-
-- **id:** TERM-984
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-909] 『Tháp Ngà』
 - **tên_chuẩn:** 『Tháp Ngà』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-985] 『Thâm Uyên Thâm Hải』
-
-- **id:** TERM-985
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-910] 『Thâm Uyên Thâm Hải』
 - **tên_chuẩn:** 『Thâm Uyên Thâm Hải』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-986] 『Thượng Cấp Thổ Tinh Linh』
-
-- **id:** TERM-986
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-911] 『Thượng Cấp Thổ Tinh Linh』
 - **tên_chuẩn:** 『Thượng Cấp Thổ Tinh Linh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-987] 『Thượng Cấp Thổ Tinh Linh Triệu Hoán』
-
-- **id:** TERM-987
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-912] 『Thượng Cấp Thổ Tinh Linh Triệu Hoán』
 - **tên_chuẩn:** 『Thượng Cấp Thổ Tinh Linh Triệu Hoán』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-988] 『Thạch Chi Ất Nữ』
-
-- **id:** TERM-988
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-913] 『Thạch Chi Ất Nữ』
 - **tên_chuẩn:** 『Thạch Chi Ất Nữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-989] 『Thần Thánh Ngôn Ngữ "Thệ Ước Chi Ngôn"』
-
-- **id:** TERM-989
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-914] 『Thần Thánh Ngôn Ngữ "Thệ Ước Chi Ngôn"』
 - **tên_chuẩn:** 『Thần Thánh Ngôn Ngữ "Thệ Ước Chi Ngôn"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-990] 『Thần Tử của Nữ Thần Đất Mẹ』
-
-- **id:** TERM-990
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-915] 『Thần Tử của Nữ Thần Đất Mẹ』
 - **tên_chuẩn:** 『Thần Tử của Nữ Thần Đất Mẹ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-991] 『Thống Khổ Hoàn Trả』
-
-- **id:** TERM-991
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-916] 『Thống Khổ Hoàn Trả』
 - **tên_chuẩn:** 『Thống Khổ Hoàn Trả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-992] 『Thủy Phân Luyện Thành Trận』
-
-- **id:** TERM-992
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-917] 『Thủy Phân Luyện Thành Trận』
 - **tên_chuẩn:** 『Thủy Phân Luyện Thành Trận』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-993] 『Thủy Sương』
-
-- **id:** TERM-993
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-918] 『Thủy Sương』
 - **tên_chuẩn:** 『Thủy Sương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-154] 『Thứ Nguyên Ma Pháp』
-
-- **id:** SKILL-154
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Thứ Nguyên Ma Pháp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [SKILL-155] 『Tinh Linh Thuật Sĩ』
-
-- **id:** SKILL-155
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Tinh Linh Thuật Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-994] 『Tinh linh chiến sĩ』
-
-- **id:** TERM-994
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tinh linh chiến sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-995] 『Tiểu Điểu Hạp』
-
-- **id:** TERM-995
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-919] 『Tiểu Điểu Hạp』
 - **tên_chuẩn:** 『Tiểu Điểu Hạp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-996] 『Trang trại Yamada』
-
-- **id:** TERM-996
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-920] 『Trang trại Yamada』
 - **tên_chuẩn:** 『Trang trại Yamada』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-997] 『Truyền Đạo Sư』
-
-- **id:** TERM-997
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-921] 『Truyền Đạo Sư』
 - **tên_chuẩn:** 『Truyền Đạo Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-998] 『Trói Buộc Tóc Đen』
-
-- **id:** TERM-998
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-922] 『Trói Buộc Tóc Đen』
 - **tên_chuẩn:** 『Trói Buộc Tóc Đen』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-999] 『Trượng Kẻ Khờ』
-
-- **id:** TERM-999
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-923] 『Trượng Kẻ Khờ』
 - **tên_chuẩn:** 『Trượng Kẻ Khờ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1000] 『Trượng Kẻ Ngốc』
-
-- **id:** TERM-1000
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-924] 『Trượng Kẻ Ngốc』
 - **tên_chuẩn:** 『Trượng Kẻ Ngốc』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1001] 『Trầm Mặc Dương』
-
-- **id:** TERM-1001
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-925] 『Trầm Mặc Dương』
 - **tên_chuẩn:** 『Trầm Mặc Dương』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-156] 『Trị Liệu Thuật Sĩ』
-
-- **id:** SKILL-156
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Trị Liệu Thuật Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1002] 『Trọng Chiến Sĩ』
-
-- **id:** TERM-1002
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-926] 『Trọng Chiến Sĩ』
 - **tên_chuẩn:** 『Trọng Chiến Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1003] 『Trọng Kỵ Sĩ』
-
-- **id:** TERM-1003
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-927] 『Trọng Kỵ Sĩ』
 - **tên_chuẩn:** 『Trọng Kỵ Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1004] 『Trực Cảm Dược Học』
-
-- **id:** TERM-1004
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-928] 『Trực Cảm Dược Học』
 - **tên_chuẩn:** 『Trực Cảm Dược Học』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1005] 『Tuyền Không Liên Kích』
-
-- **id:** TERM-1005
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-929] 『Tuyền Không Liên Kích』
 - **tên_chuẩn:** 『Tuyền Không Liên Kích』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1006] 『Tuổi thọ bị bào mòn với tốc độ gấp đôi』
-
-- **id:** TERM-1006
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-930] 『Tuổi thọ bị bào mòn với tốc độ gấp đôi』
 - **tên_chuẩn:** 『Tuổi thọ bị bào mòn với tốc độ gấp đôi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1007] 『Tín Đồ Thời Trang』
-
-- **id:** TERM-1007
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-931] 『Tín Đồ Thời Trang』
 - **tên_chuẩn:** 『Tín Đồ Thời Trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1008] 『Tín đồ thời trang』
-
-- **id:** TERM-1008
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Tín đồ thời trang』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1009] 『Tùng Giả』
-
-- **id:** TERM-1009
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-932] 『Tùng Giả』
 - **tên_chuẩn:** 『Tùng Giả』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1010] 『Tăng Ma Khí Quan』
-
-- **id:** TERM-1010
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-933] 『Tăng Ma Khí Quan』
 - **tên_chuẩn:** 『Tăng Ma Khí Quan』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1011] 『Tượng Đại Kỵ Sĩ』
-
-- **id:** TERM-1011
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-934] 『Tượng Đại Kỵ Sĩ』
 - **tên_chuẩn:** 『Tượng Đại Kỵ Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1012] 『Tịnh Khiết Điện』
-
-- **id:** TERM-1012
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-935] 『Tịnh Khiết Điện』
 - **tên_chuẩn:** 『Tịnh Khiết Điện』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1013] 『Tứ Thánh Khanh』
-
-- **id:** TERM-1013
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-936] 『Tứ Thánh Khanh』
 - **tên_chuẩn:** 『Tứ Thánh Khanh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1014] 『Uy Áp』
-
-- **id:** TERM-1014
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-937] 『Uy Áp』
 - **tên_chuẩn:** 『Uy Áp』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1015] 『Velvet Servant Service』
-
-- **id:** TERM-1015
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-938] 『Velvet Servant Service』
 - **tên_chuẩn:** 『Velvet Servant Service』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1016] 『Ven Hồ Nereis』
-
-- **id:** TERM-1016
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-939] 『Ven Hồ Nereis』
 - **tên_chuẩn:** 『Ven Hồ Nereis』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-157] 『Viêm Kiếm Sĩ』
-
-- **id:** SKILL-157
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Viêm Kiếm Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1017] 『Vong Vương Tích "Nghiệp Ma Phùng Ma"』
-
-- **id:** TERM-1017
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-940] 『Vong Vương Tích "Nghiệp Ma Phùng Ma"』
 - **tên_chuẩn:** 『Vong Vương Tích "Nghiệp Ma Phùng Ma"』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1018] 『Vong Vương Tích [Nghiệp Ma Phùng Ma]』
-
-- **id:** TERM-1018
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-941] 『Vong Vương Tích [Nghiệp Ma Phùng Ma]』
 - **tên_chuẩn:** 『Vong Vương Tích [Nghiệp Ma Phùng Ma]』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1019] 『Vong Vương Tích 「Nghiệp Ma Phùng Ma」』
-
-- **id:** TERM-1019
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-942] 『Vong Vương Tích 「Nghiệp Ma Phùng Ma」』
 - **tên_chuẩn:** 『Vong Vương Tích 「Nghiệp Ma Phùng Ma」』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1020] 『Vulcania』
-
-- **id:** TERM-1020
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-943] 『Vulcania』
 - **tên_chuẩn:** 『Vulcania』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1021] 『XÍCH NHIỆT PHÁ ĐOẠN』
-
-- **id:** TERM-1021
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-944] 『XÍCH NHIỆT PHÁ ĐOẠN』
 - **tên_chuẩn:** 『XÍCH NHIỆT PHÁ ĐOẠN』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1022] 『Xích Kỵ Sĩ』
-
-- **id:** TERM-1022
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-945] 『Xích Kỵ Sĩ』
 - **tên_chuẩn:** 『Xích Kỵ Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1023] 『Xích Phát Quát』
-
-- **id:** TERM-1023
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-946] 『Xích Phát Quát』
 - **tên_chuẩn:** 『Xích Phát Quát』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1024] 『Xích Tarou』
-
-- **id:** TERM-1024
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-947] 『Xích Tarou』
 - **tên_chuẩn:** 『Xích Tarou』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1025] 『bảo vệ』
-
-- **id:** TERM-1025
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『bảo vệ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1026] 『ngực』
-
-- **id:** TERM-1026
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-948] 『ngực』
 - **tên_chuẩn:** 『ngực』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1027] 『phản ngược』
-
-- **id:** TERM-1027
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-949] 『phản ngược』
 - **tên_chuẩn:** 『phản ngược』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1028] 『Ác Linh Phụ Thân』
-
-- **id:** TERM-1028
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-950] 『Ác Linh Phụ Thân』
 - **tên_chuẩn:** 『Ác Linh Phụ Thân』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1029] 『Ác Ma』
-
-- **id:** TERM-1029
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-951] 『Ác Ma』
 - **tên_chuẩn:** 『Ác Ma』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [SKILL-158] 『Ý Niệm Khóa』
-
-- **id:** SKILL-158
-- **loại:** KỸ NĂNG / MA PHÁP
-- **tên_chuẩn:** 『Ý Niệm Khóa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1030] 『Đau Đớn Phản Hồi』
-
-- **id:** TERM-1030
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-952] 『Đau Đớn Phản Hồi』
 - **tên_chuẩn:** 『Đau Đớn Phản Hồi』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1031] 『Đôi mắt』
-
-- **id:** TERM-1031
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-953] 『Đôi mắt』
 - **tên_chuẩn:** 『Đôi mắt』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1032] 『Đông Thánh Khanh』
-
-- **id:** TERM-1032
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-954] 『Đông Thánh Khanh』
 - **tên_chuẩn:** 『Đông Thánh Khanh』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1033] 『Đông chi Thánh Nữ』
-
-- **id:** TERM-1033
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-955] 『Đông chi Thánh Nữ』
 - **tên_chuẩn:** 『Đông chi Thánh Nữ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1034] 『Đăng Hỏa』
-
-- **id:** TERM-1034
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-956] 『Đăng Hỏa』
 - **tên_chuẩn:** 『Đăng Hỏa』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1035] 『Đại Bảo Nham Quy』
-
-- **id:** TERM-1035
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-957] 『Đại Bảo Nham Quy』
 - **tên_chuẩn:** 『Đại Bảo Nham Quy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1036] 『Đại Nham Quy』
-
-- **id:** TERM-1036
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-958] 『Đại Nham Quy』
 - **tên_chuẩn:** 『Đại Nham Quy』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1037] 『Đại Địa Tán Ca』
-
-- **id:** TERM-1037
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-959] 『Đại Địa Tán Ca』
 - **tên_chuẩn:** 『Đại Địa Tán Ca』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1038] 『Đảng Tự Do Giải Phóng』
-
-- **id:** TERM-1038
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-960] 『Đảng Tự Do Giải Phóng』
 - **tên_chuẩn:** 『Đảng Tự Do Giải Phóng』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1039] 『Đầm Thối』
-
-- **id:** TERM-1039
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-961] 『Đầm Thối』
 - **tên_chuẩn:** 『Đầm Thối』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1040] 『Đầu Lâu Triệu Hồi Sư』
-
-- **id:** TERM-1040
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-962] 『Đầu Lâu Triệu Hồi Sư』
 - **tên_chuẩn:** 『Đầu Lâu Triệu Hồi Sư』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
-
-## [TERM-1041] 『Đối thoại』
-
-- **id:** TERM-1041
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Đối thoại』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
-
----
-
-## [TERM-1042] 『Ẩn Chi Kỵ Sĩ』
-
-- **id:** TERM-1042
-- **loại:** THUẬT NGỮ THẾ GIỚI
+## [TERM-963] 『Ẩn Chi Kỵ Sĩ』
 - **tên_chuẩn:** 『Ẩn Chi Kỵ Sĩ』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
 
----
+## [TERM-964] 『Bạch Miêu Musashi Hỏa Tốc』
+- **tên_chuẩn:** 『Bạch Miêu Musashi Hỏa Tốc』
 
-## [TERM-1043] 『Ống Phun』
+## [TERM-965] 『Hộ Vệ Chiến Sĩ』
+- **tên_chuẩn:** 『Hộ Vệ Chiến Sĩ』
 
-- **id:** TERM-1043
-- **loại:** THUẬT NGỮ THẾ GIỚI
-- **tên_chuẩn:** 『Ống Phun』
-- **trạng_thái:** TỰ ĐỘNG PHÁT HIỆN
-- **canon:** DỰ KIẾN
-- **độ_tin_cậy:** CAO
-- **khóa_bảo_vệ:** CÓ
-- **nguồn:** Toàn văn bản dịch
-- **mô_tả:** Thực thể được hệ thống Auto-Sync phát hiện tự động từ văn bản dịch Light Novel.
+## [TERM-966] 『Medicannon』
+- **tên_chuẩn:** 『Medicannon』
+
+## [TERM-967] 『Cây Gậy Của Kẻ Ngốc』
+- **tên_chuẩn:** 『Cây Gậy Của Kẻ Ngốc』
+
+## [TERM-968] 『Gargoyle』
+- **tên_chuẩn:** 『Gargoyle』
+
+## [TERM-969] 『Jazeera』
+- **tên_chuẩn:** 『Jazeera』
+
+## [TERM-970] 『Kị Sĩ Người Sói』
+- **tên_chuẩn:** 『Kị Sĩ Người Sói』
+
+## [TERM-971] 『Living Armor』
+- **tên_chuẩn:** 『Living Armor』
+
+## [TERM-972] 『Minotaur』
+- **tên_chuẩn:** 『Minotaur』
+
+## [SKILL-131] 『Potion Thoái Hóa』
+- **tên_chuẩn:** 『Potion Thoái Hóa』
+
+## [TERM-973] 『Quang Thạch Chủng』
+- **tên_chuẩn:** 『Quang Thạch Chủng』
+
+## [TERM-974] 『Rương Kho Báu』
+- **tên_chuẩn:** 『Rương Kho Báu』
+
+## [TERM-975] 『Tokkan Kouji Mẫu 2』
+- **tên_chuẩn:** 『Tokkan Kouji Mẫu 2』
+
+## [SKILL-132] 『Trường Kiếm Hoen Rỉ』
+- **tên_chuẩn:** 『Trường Kiếm Hoen Rỉ』
+
+## [TERM-976] 『Vòng Tay Sức Mạnh』
+- **tên_chuẩn:** 『Vòng Tay Sức Mạnh』
+
+## [TERM-977] 『Vô Đạo Nhất Thức』
+- **tên_chuẩn:** 『Vô Đạo Nhất Thức』
+
+## [TERM-978] 『Đại Chiến Sĩ Goma』
+- **tên_chuẩn:** 『Đại Chiến Sĩ Goma』
+
+## [TERM-979] 『Đại Rìu Đẫm Máu』
+- **tên_chuẩn:** 『Đại Rìu Đẫm Máu』
+
+## [TERM-980] 『Ếch Lợn』
+- **tên_chuẩn:** 『Ếch Lợn』
+
+## [TERM-981] 『Bạch Quang Cự Thuẫn』
+- **tên_chuẩn:** 『Bạch Quang Cự Thuẫn』
+
+## [TERM-982] 『Bảo Ngọc Địa Long - Lord Raptor』
+- **tên_chuẩn:** 『Bảo Ngọc Địa Long - Lord Raptor』
+
+## [TERM-983] 『Bảo Ngọc Địa Long · Tricelander』
+- **tên_chuẩn:** 『Bảo Ngọc Địa Long · Tricelander』
+
+## [TERM-984] 『Central』
+- **tên_chuẩn:** 『Central』
+
+## [TERM-985] 『Crescent Scythe』
+- **tên_chuẩn:** 『Crescent Scythe』
+
+## [TERM-986] 『Cứu Thế』
+- **tên_chuẩn:** 『Cứu Thế』
+
+## [ITEM-064] 『Cự Nhân Chi Giáp』
+- **tên_chuẩn:** 『Cự Nhân Chi Giáp』
+
+## [TERM-987] 『Cự Nhân Đầu Khôi』
+- **tên_chuẩn:** 『Cự Nhân Đầu Khôi』
+
+## [TERM-988] 『Eastside』
+- **tên_chuẩn:** 『Eastside』
+
+## [TERM-989] 『Guardian Wing』
+- **tên_chuẩn:** 『Guardian Wing』
+
+## [TERM-990] 『Hư Ảnh Phản Chiếu』
+- **tên_chuẩn:** 『Hư Ảnh Phản Chiếu』
+
+## [TERM-991] 『Hắc Lôi Đọa Thiên Sứ』
+- **tên_chuẩn:** 『Hắc Lôi Đọa Thiên Sứ』
+
+## [TERM-992] 『Hắc Ám Giới』
+- **tên_chuẩn:** 『Hắc Ám Giới』
+
+## [TERM-993] 『Kháng Chém』
+- **tên_chuẩn:** 『Kháng Chém』
+
+## [TERM-994] 『Kháng Đâm』
+- **tên_chuẩn:** 『Kháng Đâm』
+
+## [TERM-995] 『Kháng Đập』
+- **tên_chuẩn:** 『Kháng Đập』
+
+## [TERM-996] 『Kẻ Cầu Nguyện』
+- **tên_chuẩn:** 『Kẻ Cầu Nguyện』
+
+## [TERM-997] 『Lightning Arrester』
+- **tên_chuẩn:** 『Lightning Arrester』
+
+## [TERM-998] 『Lightning Arrester (Bộ Chống Sét)』
+- **tên_chuẩn:** 『Lightning Arrester (Bộ Chống Sét)』
+
+## [TERM-999] 『Loptosius』
+- **tên_chuẩn:** 『Loptosius』
+
+## [TERM-1000] 『Lôi Bích』
+- **tên_chuẩn:** 『Lôi Bích』
+
+## [TERM-1001] 『Lời Cầu Nguyện Của Mẹ Đất』
+- **tên_chuẩn:** 『Lời Cầu Nguyện Của Mẹ Đất』
+
+## [TERM-1002] 『Mang Độc』
+- **tên_chuẩn:** 『Mang Độc』
+
+## [TERM-1003] 『Mega Meteora』
+- **tên_chuẩn:** 『Mega Meteora』
+
+## [TERM-1004] 『Nguyện Cầu Của Mẹ』
+- **tên_chuẩn:** 『Nguyện Cầu Của Mẹ』
+
+## [SKILL-133] 『Nguyệt Quang Ngự Kiếm』
+- **tên_chuẩn:** 『Nguyệt Quang Ngự Kiếm』
+
+## [TERM-1005] 『Phong Thu Kì Nguyện』
+- **tên_chuẩn:** 『Phong Thu Kì Nguyện』
+
+## [TERM-1006] 『Pure Sea Glass』
+- **tên_chuẩn:** 『Pure Sea Glass』
+
+## [TERM-1007] 『Queensberry』
+- **tên_chuẩn:** 『Queensberry』
+
+## [TERM-1008] 『Quyền Đấu Vương』
+- **tên_chuẩn:** 『Quyền Đấu Vương』
+
+## [TERM-1009] 『Siêu Trọng Kị Sĩ』
+- **tên_chuẩn:** 『Siêu Trọng Kị Sĩ』
+
+## [TERM-1010] 『Siêu Trọng Kỵ Sĩ』
+- **tên_chuẩn:** 『Siêu Trọng Kỵ Sĩ』
+
+## [TERM-1011] 『South Baron』
+- **tên_chuẩn:** 『South Baron』
+
+## [TERM-1012] 『Surge Shield』
+- **tên_chuẩn:** 『Surge Shield』
+
+## [TERM-1013] 『Thiên Chi Tinh Thuẫn』
+- **tên_chuẩn:** 『Thiên Chi Tinh Thuẫn』
+
+## [TERM-1014] 『Thuần Hải Thành Lũy』
+- **tên_chuẩn:** 『Thuần Hải Thành Lũy』
+
+## [TERM-1015] 『Thuần Hải Thành Trì』
+- **tên_chuẩn:** 『Thuần Hải Thành Trì』
+
+## [TERM-1016] 『Thánh Hiệp Sĩ』
+- **tên_chuẩn:** 『Thánh Hiệp Sĩ』
+
+## [SKILL-134] 『Thánh Kiếm Kỹ』
+- **tên_chuẩn:** 『Thánh Kiếm Kỹ』
+
+## [TERM-1017] 『Triệu Hoán Thạch』
+- **tên_chuẩn:** 『Triệu Hoán Thạch』
+
+## [TERM-1018] 『Ty Lôi Nhẫn』
+- **tên_chuẩn:** 『Ty Lôi Nhẫn』
+
+## [TERM-1019] 『Tị Lôi Nhẫn』
+- **tên_chuẩn:** 『Tị Lôi Nhẫn』
+
+## [TERM-1020] 『Vương Quyền』
+- **tên_chuẩn:** 『Vương Quyền』
+
+## [TERM-1021] 『Vương Quyền - Kim Sư Tử』
+- **tên_chuẩn:** 『Vương Quyền - Kim Sư Tử』
+
+## [TERM-1022] 『Vương Y』
+- **tên_chuẩn:** 『Vương Y』
+
+## [TERM-1023] 『White Hills』
+- **tên_chuẩn:** 『White Hills』
+
+## [TERM-1024] 『Ác Ma Long Wendisark』
+- **tên_chuẩn:** 『Ác Ma Long Wendisark』
+
+## [SKILL-135] 『Ánh Nguyệt Ngự Kiếm』
+- **tên_chuẩn:** 『Ánh Nguyệt Ngự Kiếm』
+
+## [ITEM-065] 『Đông Kết Trường Thương』
+- **tên_chuẩn:** 『Đông Kết Trường Thương』
+
+## [TERM-1025] 『Đại Tư Tế』
+- **tên_chuẩn:** 『Đại Tư Tế』
+
+## [TERM-1026] 『Đồ Sát Thủ Cải Tiến Bản Cách Điện』
+- **tên_chuẩn:** 『Đồ Sát Thủ Cải Tiến Bản Cách Điện』

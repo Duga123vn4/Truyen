@@ -182,3 +182,35 @@
 - **nguồn:** Tập 270
 - **bằng_chứng:** 下川、今日からお前が、桃川に代わって派閥をまとめろ。蒼真の言いなりになんかなるかよ。お前が俺らのリーダーだ。
 - **mô_tả:** Liên minh các học sinh ngoài phe Souma (gồm bộ ba Jou-Chuu-Ge, Yamada, Juri-Mari, Himeno...) do Shimokawa Junnosuke đứng đầu kế thừa vai trò của Momokawa Kotarou nhằm tự bảo vệ và tạo thế cân bằng quyền lực.
+
+---
+
+### 🏰 THỰC THỂ TỔ CHỨC & PHE PHÁI MỚI
+
+## [FACTION-001] 『Bom Vương Quốc Sụp Đổ』 (Kingdom Fall Bomb)
+- **tên_chuẩn:** 『Bom Vương Quốc Sụp Đổ』
+- **mô_tả:** Bom lõi ma lực cực lớn được Kotarou bí mật đặt dưới các cột trụ nâng đỡ, kích nổ đánh sập toàn bộ thành trì Vương quốc Goma.
+
+## [FACTION-002] 『DŨNG TINH THẬP TỰ ĐOÀN』
+- **tên_chuẩn:** 『DŨNG TINH THẬP TỰ ĐOÀN』
+
+## [FACTION-003] 『HẮC PHÁT GIÁO HỘI』
+- **tên_chuẩn:** 『HẮC PHÁT GIÁO HỘI』
+
+## [FACTION-004] 『Thánh Đường Kỵ Sĩ Đoàn』
+- **tên_chuẩn:** 『Thánh Đường Kỵ Sĩ Đoàn』
+
+## [FACTION-005] 『Vương quốc Bomber』
+- **tên_chuẩn:** 『Vương quốc Bomber』
+
+## [FACTION-006] 『Đại Chiến Sĩ Đoàn』
+- **tên_chuẩn:** 『Đại Chiến Sĩ Đoàn』
+
+## [FACTION-007] 『Giáo Hội Tóc Đen』
+- **tên_chuẩn:** 『Giáo Hội Tóc Đen』
+
+## [FACTION-008] 『Hắc Kỵ Sĩ Đoàn』
+- **tên_chuẩn:** 『Hắc Kỵ Sĩ Đoàn』
+
+## [FACTION-009] 『Langley Dung Binh Đoàn』
+- **tên_chuẩn:** 『Langley Dung Binh Đoàn』

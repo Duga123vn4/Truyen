@@ -20,6 +20,49 @@ from tools.src.services.smart_filter import extract_relevant_glossary
 
 console = Console()
 
+def auto_update_character_status(novel: NovelContext, chapter_num: int, text: str):
+    """Quét nội dung tóm tắt/bản dịch để phát hiện sự kiện hy sinh/tử trận và tự động cập nhật characters.md."""
+    chars_file = novel.glossary_dir / "characters.md"
+    if not chars_file.exists():
+        return
+
+    content = chars_file.read_text(encoding="utf-8")
+    death_keywords = ["tử trận", "hy sinh", "hi sinh", "bị tiêu diệt", "tử vong", "qua đời", "đã chết", "bị giết"]
+
+    text_lower = text.lower()
+    if not any(k in text_lower for k in death_keywords):
+        return
+
+    char_blocks = re.findall(r'##\s*\[(CHAR-\d+)\]\s*([^\n]+)', content)
+    updated = False
+
+    for cid, name_header in char_blocks:
+        name_clean = re.sub(r'\(.*?\)', '', name_header).strip()
+        if len(name_clean) < 2:
+            continue
+
+        name_lower = name_clean.lower()
+        if name_lower in text_lower:
+            lines = text_lower.splitlines()
+            for l in lines:
+                if name_lower in l and any(k in l for k in death_keywords):
+                    pattern = rf'(##\s*\[{cid}\].*?-\s*\*\*trạng_thái_nhân_vật:\*\*\s*)([^\n]+)'
+                    m_status = re.search(pattern, content, re.DOTALL)
+                    if m_status and "ĐÃ CHẾT" not in m_status.group(2).upper():
+                        new_status = f"✝️ ĐÃ CHẾT (Hy sinh ở Tập {chapter_num})"
+                        content = re.sub(
+                            rf'(##\s*\[{cid}\][^\n]*\n.*?-\s*\*\*trạng_thái_nhân_vật:\*\*\s*)[^\n]+',
+                            rf'\g<1>{new_status}',
+                            content,
+                            flags=re.DOTALL
+                        )
+                        updated = True
+
+    if updated:
+        chars_file.write_text(content, encoding="utf-8")
+        from tools.src.services.reorganize_glossary import rebuild_entity_index
+        rebuild_entity_index(novel.folder)
+
 def build_translation_system_prompt(novel: NovelContext, raw_text: str, glossary_mode: str = "full_cache") -> str:
     """Xây dựng System Prompt dịch thuật chuẩn chỉ nạp Canon Database."""
     master_rules = MASTER_STYLE_GUIDE_FILE.read_text(encoding="utf-8") if MASTER_STYLE_GUIDE_FILE.exists() else (
@@ -147,7 +190,30 @@ async def translate_chapter(
 
             translated = translated.strip()
             translated = re.sub(r'^(?:dưới đây là|đây là bản|bản dịch)[^\n]*\n+', '', translated, flags=re.IGNORECASE).strip()
-            
+
+            # Bóc tách khối Tóm tắt [CHAPTER_SUMMARY] để tự động nối vào events.md
+            summary_match = re.search(r'\[CHAPTER_SUMMARY\](.*?)\[/CHAPTER_SUMMARY\]', translated, re.DOTALL)
+            summary_text = ""
+            if summary_match:
+                summary_text = summary_match.group(1).strip()
+                translated = re.sub(r'---?\s*\[CHAPTER_SUMMARY\].*?\[/CHAPTER_SUMMARY\]', '', translated, flags=re.DOTALL).strip()
+                translated = re.sub(r'\[CHAPTER_SUMMARY\].*?\[/CHAPTER_SUMMARY\]', '', translated, flags=re.DOTALL).strip()
+
+                if summary_text:
+                    events_file = novel.glossary_dir / "events.md"
+                    entry = f"\n\n### Tập {chapter_num}:\n{summary_text}\n"
+                    try:
+                        with open(events_file, "a", encoding="utf-8") as f:
+                            f.write(entry)
+                    except Exception:
+                        pass
+
+            # Tự động cập nhật trạng thái nhân vật (Sống / Tử trận) vào characters.md
+            try:
+                auto_update_character_status(novel, chapter_num, summary_text or translated)
+            except Exception:
+                pass
+
             # Lưu file dịch chuẩn markdown với slug tiếng Việt
             out_name = make_translated_filename(chapter_num, raw_path, translated)
             out_path = novel.translated_dir / out_name

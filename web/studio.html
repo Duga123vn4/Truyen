@@ -1421,7 +1421,7 @@
       let html = '';
       logs.slice().reverse().forEach(item => {
         const title = item.chapter_title || (item.chapter_ep ? `Tập ${item.chapter_ep}` : 'Nhiệm Vụ Khác');
-        const terms = item.terms || [];
+        const terms = Array.from(new Set(item.terms || []));
 
         let termsHtml = '';
         if (terms.length > 0) {
