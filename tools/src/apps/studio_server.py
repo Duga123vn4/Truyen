@@ -1087,6 +1087,73 @@ async def generate_art(request: web.Request) -> web.Response:
         await state.log("❌ Không thể sinh ảnh lúc này. Vui lòng thử lại.", "error")
         return web.json_response({"success": False, "error": "Lỗi sinh ảnh FLUX"}, status=500)
 
+# ----------------- UPLOAD TRANSLATED CHAPTERS API -----------------
+async def upload_translated_chapters(request: web.Request) -> web.Response:
+    if not state.active_novel:
+        return web.json_response({"success": False, "error": "Chưa chọn bộ truyện nào"}, status=400)
+
+    try:
+        reader = await request.multipart()
+        saved_files = []
+        target_dir = state.active_novel.translated_dir
+        target_dir.mkdir(parents=True, exist_ok=True)
+
+        while True:
+            field = await reader.next()
+            if field is None:
+                break
+
+            filename = field.filename
+            if not filename:
+                continue
+
+            clean_fn = Path(filename).name
+            ext = Path(clean_fn).suffix.lower()
+
+            if ext in [".md", ".txt", ".docx"]:
+                out_path = target_dir / clean_fn
+                content = await field.read(decode=False)
+                out_path.write_bytes(content)
+                saved_files.append(clean_fn)
+            elif ext == ".zip":
+                import zipfile
+                import io
+                zip_content = await field.read(decode=False)
+                with zipfile.ZipFile(io.BytesIO(zip_content)) as z:
+                    for member in z.infolist():
+                        if not member.is_dir():
+                            mem_ext = Path(member.filename).suffix.lower()
+                            if mem_ext in [".md", ".txt", ".docx"] and not Path(member.filename).name.startswith("."):
+                                mem_name = Path(member.filename).name
+                                z.extract(member, path=str(target_dir))
+                                extracted_path = target_dir / member.filename
+                                if extracted_path != target_dir / mem_name:
+                                    if extracted_path.exists():
+                                        shutil.move(str(extracted_path), str(target_dir / mem_name))
+                                saved_files.append(mem_name)
+
+        if not saved_files:
+            return web.json_response({"success": False, "error": "Không tìm thấy file .md, .txt hay .docx hợp lệ nào được tải lên"}, status=400)
+
+        # Trigger auto build web chapters
+        try:
+            build_web_chapters(state.active_novel.name)
+        except Exception as e:
+            await state.log(f"⚠️ Đã lưu file nhưng gặp lỗi đóng gói Web: {e}", "warn")
+
+        await state.log(f"📥 Đã tải lên thành công {len(saved_files)} tập bản dịch vào '{state.active_novel.name}' và tự động đóng gói lên Web Đọc!", "success")
+        await state.broadcast("raw_files_updated", {})
+
+        return web.json_response({
+            "success": True,
+            "count": len(saved_files),
+            "files": saved_files,
+            "message": f"Đã tải lên {len(saved_files)} bản dịch và nạp lên Web Đọc Truyện thành công!"
+        })
+    except Exception as e:
+        await state.log(f"❌ Lỗi tải lên bản dịch: {e}", "error")
+        return web.json_response({"success": False, "error": str(e)}, status=500)
+
 # ----------------- WEB READER SYNC API -----------------
 async def sync_web(request: web.Request) -> web.Response:
     try:
@@ -1186,6 +1253,7 @@ def make_app() -> web.Application:
     app.router.add_post("/api/novel/create", create_novel)
     app.router.add_post("/api/novel/rename", rename_novel)
     app.router.add_post("/api/novel/delete", delete_novel)
+    app.router.add_post("/api/novel/upload-translated", upload_translated_chapters)
     app.router.add_get("/api/novel/info", get_novel_info)
     app.router.add_get("/api/novel/raw-files", get_novel_raw_files)
     app.router.add_get("/api/file/read", read_file_preview)

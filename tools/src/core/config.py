@@ -16,7 +16,7 @@ console = Console()
 
 DEFAULT_CONFIG = {
     "active_provider": "llmgate",
-    "glossary_mode": "full_cache",
+    "glossary_mode": "smart_filter",
     "gemini_free": {
         "api_key": "",
         "model": "gemini-2.5-flash"

@@ -1,5 +1,27 @@
 [
   {
+    "timestamp": "2026-09-17 01:05:19",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 551",
+    "chapter_ep": 551,
+    "elapsed_sec": 76.24,
+    "input_tokens": 254953,
+    "output_tokens": 8470,
+    "cache_tokens": 0,
+    "cost": 0.04332
+  },
+  {
+    "timestamp": "2026-09-17 01:02:59",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 550",
+    "chapter_ep": 550,
+    "elapsed_sec": 67.74,
+    "input_tokens": 255606,
+    "output_tokens": 9502,
+    "cache_tokens": 0,
+    "cost": 0.04404
+  },
+  {
     "timestamp": "2026-09-07 03:09:26",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 493",

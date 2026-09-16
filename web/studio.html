@@ -41,6 +41,10 @@
         <span>📂</span>
         <span>Thư Mục</span>
       </button>
+      <button onclick="openUploadModal()" class="px-2.5 py-1 bg-emerald-50 hover:bg-emerald-100 text-emerald-700 rounded border border-emerald-200 flex items-center space-x-1 transition font-medium text-xs cursor-pointer" title="Tải các file bản dịch (.md, .txt, .docx, .zip) từ máy tính lên Web Studio">
+        <span>📤</span>
+        <span>Upload Bản Dịch</span>
+      </button>
       <button onclick="syncWebReader()" id="btn-sync-web" class="px-2.5 py-1 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded border border-indigo-200 flex items-center space-x-1 transition font-medium text-xs cursor-pointer shadow-2xs" title="Quét toàn bộ chương đã dịch và đóng gói nạp vào Web Đọc Truyện">
         <span>⚡</span>
         <span id="btn-sync-web-text">Cập Nhật Web</span>
@@ -218,7 +222,7 @@
           </div>
 
           <!-- Quick Action Buttons -->
-          <div class="grid grid-cols-3 gap-3">
+          <div class="grid grid-cols-4 gap-3">
             <button onclick="quickTranslateNext()" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
               <div class="w-8 h-8 rounded-lg bg-indigo-50 text-indigo-600 flex items-center justify-center text-base mb-2 group-hover:bg-indigo-600 group-hover:text-white transition">
                 🚀
@@ -227,12 +231,20 @@
               <div class="text-[11px] text-slate-500 mt-0.5">Tự động chọn các tập raw chưa dịch</div>
             </button>
 
+            <button onclick="openUploadModal()" class="bg-white border border-slate-200 hover:border-emerald-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
+              <div class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center text-base mb-2 group-hover:bg-emerald-600 group-hover:text-white transition">
+                📤
+              </div>
+              <div class="font-semibold text-xs text-slate-800">Upload Bản Dịch Mới</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Kéo thả file .md, .txt, .docx, .zip lên Web</div>
+            </button>
+
             <button onclick="quickAutoSyncGlossary()" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
               <div class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center text-base mb-2 group-hover:bg-emerald-600 group-hover:text-white transition">
                 🔍
               </div>
-              <div class="font-semibold text-xs text-slate-800">Auto-Sync Glossary 1-Click</div>
-              <div class="text-[11px] text-slate-500 mt-0.5">Quét thẻ 『...』 bổ sung vào từ điển</div>
+              <div class="font-semibold text-xs text-slate-800">Auto-Sync Glossary</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Quét thẻ bổ sung từ điển</div>
             </button>
 
             <button onclick="switchTab('art')" class="bg-white border border-slate-200 hover:border-indigo-400 rounded-xl p-4 text-left shadow-sm hover:shadow transition group">
@@ -240,7 +252,7 @@
                 🎨
               </div>
               <div class="font-semibold text-xs text-slate-800">Vẽ Ảnh Anime FLUX</div>
-              <div class="text-[11px] text-slate-500 mt-0.5">Sinh ảnh minh họa độ nét cao miễn phí</div>
+              <div class="text-[11px] text-slate-500 mt-0.5">Sinh ảnh minh họa miễn phí</div>
             </button>
           </div>
 
@@ -2813,6 +2825,142 @@
       startTranslation();
     }
 
+    // Upload Modal logic
+    let selectedUploadFiles = [];
+
+    function openUploadModal() {
+      selectedUploadFiles = [];
+      const listContainer = document.getElementById('upload-file-list');
+      if (listContainer) {
+        listContainer.innerHTML = '';
+        listContainer.classList.add('hidden');
+      }
+      const progContainer = document.getElementById('upload-progress-container');
+      if (progContainer) progContainer.classList.add('hidden');
+      const btn = document.getElementById('btn-do-upload');
+      if (btn) btn.disabled = true;
+      const fileInput = document.getElementById('upload-file-input');
+      if (fileInput) fileInput.value = '';
+      
+      const modal = document.getElementById('modal-upload');
+      if (modal) modal.classList.remove('hidden');
+    }
+
+    function closeUploadModal() {
+      const modal = document.getElementById('modal-upload');
+      if (modal) modal.classList.add('hidden');
+    }
+
+    function onUploadDragOver(e) {
+      e.preventDefault();
+      const dropzone = document.getElementById('upload-dropzone');
+      if (dropzone) dropzone.classList.add('border-emerald-500', 'bg-emerald-100/50');
+    }
+
+    function onUploadDragLeave(e) {
+      e.preventDefault();
+      const dropzone = document.getElementById('upload-dropzone');
+      if (dropzone) dropzone.classList.remove('border-emerald-500', 'bg-emerald-100/50');
+    }
+
+    function onUploadDrop(e) {
+      e.preventDefault();
+      const dropzone = document.getElementById('upload-dropzone');
+      if (dropzone) dropzone.classList.remove('border-emerald-500', 'bg-emerald-100/50');
+      if (e.dataTransfer && e.dataTransfer.files) {
+        setSelectedFiles(Array.from(e.dataTransfer.files));
+      }
+    }
+
+    function handleFileSelect(e) {
+      if (e.target.files) {
+        setSelectedFiles(Array.from(e.target.files));
+      }
+    }
+
+    function setSelectedFiles(files) {
+      const validExts = ['.md', '.txt', '.docx', '.zip'];
+      selectedUploadFiles = files.filter(f => validExts.some(ext => f.name.toLowerCase().endsWith(ext)));
+
+      const listContainer = document.getElementById('upload-file-list');
+      const btn = document.getElementById('btn-do-upload');
+
+      if (!listContainer) return;
+
+      if (selectedUploadFiles.length === 0) {
+        listContainer.innerHTML = '<div class="text-rose-500 text-center py-2">Không có file .md, .txt, .docx hoặc .zip hợp lệ!</div>';
+        listContainer.classList.remove('hidden');
+        if (btn) btn.disabled = true;
+        return;
+      }
+
+      let html = '';
+      selectedUploadFiles.forEach((f) => {
+        const sizeKB = (f.size / 1024).toFixed(1);
+        html += `<div class="flex items-center justify-between py-1 border-b border-slate-200/60 last:border-0">
+          <span class="truncate font-mono font-medium text-slate-700">${f.name}</span>
+          <span class="text-[10px] text-slate-400 font-mono">${sizeKB} KB</span>
+        </div>`;
+      });
+
+      listContainer.innerHTML = html;
+      listContainer.classList.remove('hidden');
+      if (btn) btn.disabled = false;
+    }
+
+    async function startUploadingFiles() {
+      if (selectedUploadFiles.length === 0) return;
+
+      const btn = document.getElementById('btn-do-upload');
+      if (btn) btn.disabled = true;
+
+      const progContainer = document.getElementById('upload-progress-container');
+      const progBar = document.getElementById('upload-progress-bar');
+      const statusText = document.getElementById('upload-status-text');
+      const pctText = document.getElementById('upload-pct-text');
+
+      if (progContainer) progContainer.classList.remove('hidden');
+      if (progBar) progBar.style.width = '20%';
+      if (pctText) pctText.innerText = '20%';
+      if (statusText) statusText.innerText = 'Đang nạp file lên Web Studio...';
+
+      const formData = new FormData();
+      selectedUploadFiles.forEach(f => formData.append('files', f));
+
+      try {
+        if (progBar) progBar.style.width = '50%';
+        if (pctText) pctText.innerText = '50%';
+
+        const res = await fetch('/api/novel/upload-translated', {
+          method: 'POST',
+          body: formData
+        });
+
+        const data = await res.json();
+        if (data.success) {
+          if (progBar) progBar.style.width = '100%';
+          if (pctText) pctText.innerText = '100%';
+          if (statusText) statusText.innerText = 'Đã upload và đóng gói lên Web Đọc thành công!';
+
+          appendLog(`🎉 ${data.message}`, 'success');
+          setTimeout(() => {
+            closeUploadModal();
+            loadNovels();
+          }, 1000);
+        } else {
+          if (progBar) progBar.classList.replace('bg-emerald-500', 'bg-rose-500');
+          if (statusText) statusText.innerText = `Lỗi: ${data.error}`;
+          appendLog(`❌ Lỗi upload: ${data.error}`, 'error');
+          if (btn) btn.disabled = false;
+        }
+      } catch (err) {
+        if (progBar) progBar.classList.replace('bg-emerald-500', 'bg-rose-500');
+        if (statusText) statusText.innerText = `Lỗi kết nối: ${err.message}`;
+        appendLog(`❌ Lỗi kết nối upload: ${err.message}`, 'error');
+        if (btn) btn.disabled = false;
+      }
+    }
+
     // Boot
     window.addEventListener('DOMContentLoaded', () => {
       initSSE();
@@ -2820,5 +2968,60 @@
       loadSettings();
     });
   </script>
+
+  <!-- MODAL: UPLOAD BẢN DỊCH -->
+  <div id="modal-upload" class="fixed inset-0 bg-slate-900/40 backdrop-blur-xs flex items-center justify-center z-50 hidden p-4">
+    <div class="bg-white rounded-2xl max-w-lg w-full p-6 shadow-2xl border border-slate-100 animate-in fade-in zoom-in duration-200">
+      <div class="flex items-center justify-between mb-4">
+        <div class="flex items-center space-x-2">
+          <div class="w-8 h-8 rounded-lg bg-emerald-50 text-emerald-600 flex items-center justify-center font-bold text-lg">📤</div>
+          <div>
+            <h3 class="font-bold text-slate-800 text-sm">Upload Bản Dịch Mới Lên Web Studio</h3>
+            <p class="text-[11px] text-slate-500">Nạp trực tiếp vào dự án & tự động đóng gói lên Web Đọc Truyện</p>
+          </div>
+        </div>
+        <button onclick="closeUploadModal()" class="text-slate-400 hover:text-slate-600 text-lg font-bold px-2 py-1">✕</button>
+      </div>
+
+      <!-- Drag & Drop Dropzone -->
+      <div id="upload-dropzone" 
+           ondragover="onUploadDragOver(event)" 
+           ondragleave="onUploadDragLeave(event)" 
+           ondrop="onUploadDrop(event)"
+           onclick="document.getElementById('upload-file-input').click()"
+           class="border-2 border-dashed border-emerald-300 bg-emerald-50/40 hover:bg-emerald-50 rounded-xl p-6 text-center cursor-pointer transition flex flex-col items-center justify-center group space-y-2">
+        <div class="w-12 h-12 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center text-2xl group-hover:scale-110 transition">
+          📄
+        </div>
+        <div>
+          <div class="text-xs font-bold text-slate-700">Kéo thả các file bản dịch vào đây</div>
+          <div class="text-[11px] text-slate-500 mt-0.5">Hoặc bấm để chọn file từ máy tính (`.md`, `.txt`, `.docx`, `.zip`)</div>
+        </div>
+        <input type="file" id="upload-file-input" multiple accept=".md,.txt,.docx,.zip" class="hidden" onchange="handleFileSelect(event)">
+      </div>
+
+      <!-- Selected files preview list -->
+      <div id="upload-file-list" class="mt-3 max-h-36 overflow-y-auto space-y-1 text-xs hidden border border-slate-100 rounded-lg p-2 bg-slate-50"></div>
+
+      <!-- Upload Progress -->
+      <div id="upload-progress-container" class="mt-3 hidden space-y-1">
+        <div class="flex justify-between text-xs text-slate-600">
+          <span id="upload-status-text">Đang nạp file...</span>
+          <span id="upload-pct-text" class="font-mono">0%</span>
+        </div>
+        <div class="w-full bg-slate-200 rounded-full h-2 overflow-hidden">
+          <div id="upload-progress-bar" class="bg-emerald-500 h-full rounded-full transition-all duration-300" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex justify-end space-x-2 mt-5 pt-3 border-t border-slate-100">
+        <button onclick="closeUploadModal()" class="px-4 py-2 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-xl text-xs font-medium transition">Hủy</button>
+        <button id="btn-do-upload" onclick="startUploadingFiles()" class="px-5 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold shadow-sm transition disabled:opacity-50" disabled>
+          📤 Nạp Lên Web Studio
+        </button>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
