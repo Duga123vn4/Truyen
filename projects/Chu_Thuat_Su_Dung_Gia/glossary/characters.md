@@ -433,7 +433,7 @@
 - **canon:** CHÍNH THỨC
 - **độ_tin_cậy:** TUYỆT ĐỐI
 - **khóa_bảo_vệ:** CÓ
-- **trạng_thái_nhân_vật:** CÒN SỐNG (Cập nhật Tập 205)
+- **trạng_thái_nhân_vật:** ✝️ ĐÃ CHẾT (Hy sinh ở Tập 565)
 - **thân_phận:** Thành viên Lớp 2-7, Học viện Tư lập Hakurei
 - **thiên_chức:** 『Cuồng Chiến Binh』 (Trưởng ban Chăn Nuôi, Hắc Thiết Đại Phủ)
 - **nguồn:** Danh bạ Lớp 2-7, Tập 1 - 205

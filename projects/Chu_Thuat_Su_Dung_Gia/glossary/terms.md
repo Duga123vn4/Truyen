@@ -3719,3 +3719,12 @@
 
 ## [TERM-1026] 『Đồ Sát Thủ Cải Tiến Bản Cách Điện』
 - **tên_chuẩn:** 『Đồ Sát Thủ Cải Tiến Bản Cách Điện』
+
+## [ITEM-066] 『Bát Tuyệt Ngưu Ma Đao』
+- **tên_chuẩn:** 『Bát Tuyệt Ngưu Ma Đao』
+
+## [TERM-1027] 『Hoang Hồn Toái』
+- **tên_chuẩn:** 『Hoang Hồn Toái』
+
+## [TERM-1028] 『Đồng phục nữ sinh Học viện Hakurei』
+- **tên_chuẩn:** 『Đồng phục nữ sinh Học viện Hakurei』

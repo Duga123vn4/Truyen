@@ -1299,3 +1299,6 @@
 * `[ITEM-065]` 『Đông Kết Trường Thương』
 * `[TERM-1025]` 『Đại Tư Tế』
 * `[TERM-1026]` 『Đồ Sát Thủ Cải Tiến Bản Cách Điện』
+* `[ITEM-066]` 『Bát Tuyệt Ngưu Ma Đao』
+* `[TERM-1027]` 『Hoang Hồn Toái』
+* `[TERM-1028]` 『Đồng phục nữ sinh Học viện Hakurei』

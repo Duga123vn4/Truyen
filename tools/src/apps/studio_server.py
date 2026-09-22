@@ -52,6 +52,7 @@ from tools.src.core.config import load_config, save_config, fetch_llmgate_models
 from tools.src.core.novel_context import NovelContext, discover_novels
 from tools.src.core.ai_client import AIClient
 from tools.src.services.syosetu_scraper import SyosetuNovel, extract_novel_code, clean_filename
+from tools.src.services.unified_scraper import get_novel_scraper
 from tools.src.services.translator import translate_chapter, generate_anime_illustration
 from tools.src.services.deep_editor import edit_single_chapter
 from tools.src.services.glossary_miner import auto_sync_glossary_from_translated
@@ -625,20 +626,22 @@ async def get_gemini_models(request: web.Request) -> web.Response:
     except Exception as e:
         return web.json_response({"success": False, "error": str(e)}, status=500)
 
-# ----------------- SYOSETU SCRAPER API -----------------
+# ----------------- UNIFIED SCRAPER API (SYOSETU & KAKUYOMU) -----------------
 async def syosetu_info(request: web.Request) -> web.Response:
     url_or_code = request.query.get("query", "").strip()
-    code = extract_novel_code(url_or_code)
-    if not code:
-        return web.json_response({"success": False, "error": "Mã truyện hoặc URL không hợp lệ. Ví dụ: n1132dk hoặc https://ncode.syosetu.com/n1132dk/"}, status=400)
+    if not url_or_code:
+        return web.json_response({"success": False, "error": "Vui lòng nhập URL hoặc mã truyện (Syosetu / Kakuyomu)"}, status=400)
 
     try:
-        syosetu = SyosetuNovel(code)
+        source_type, code, scraper = get_novel_scraper(url_or_code)
+        if not code:
+            return web.json_response({"success": False, "error": "Mã truyện hoặc URL không hợp lệ."}, status=400)
+
         import httpx
-        async with httpx.AsyncClient(timeout=15.0) as client:
-            ok = await syosetu.fetch_novel_info_and_toc(client)
+        async with httpx.AsyncClient(timeout=15.0, follow_redirects=True) as client:
+            ok = await scraper.fetch_novel_info_and_toc(client)
             if not ok:
-                return web.json_response({"success": False, "error": f"Không tìm thấy truyện với mã '{code}' trên Syosetu (Lỗi 404 hoặc mạng). Vui lòng kiểm tra lại URL!"}, status=404)
+                return web.json_response({"success": False, "error": f"Không tìm thấy truyện trên {source_type.title()} (Lỗi 404 hoặc mạng). Vui lòng kiểm tra lại URL!"}, status=404)
 
             # Lấy danh sách số tập raw đang có trong máy của bộ truyện hiện tại
             local_eps = set()
@@ -646,9 +649,9 @@ async def syosetu_info(request: web.Request) -> web.Response:
                 raws = state.active_novel.list_raw_chapters()
                 local_eps = {ep for ep, _ in raws}
 
-            total_eps = len(syosetu.episodes)
-            all_syosetu_eps = [item["ep"] for item in syosetu.episodes]
-            missing_eps = [ep for ep in all_syosetu_eps if ep not in local_eps]
+            total_eps = len(scraper.episodes)
+            all_eps = [item["ep"] for item in scraper.episodes]
+            missing_eps = [ep for ep in all_eps if ep not in local_eps]
 
             missing_start = missing_eps[0] if missing_eps else (total_eps + 1 if total_eps > 0 else 1)
             missing_end = missing_eps[-1] if missing_eps else (total_eps if total_eps > 0 else 1)
@@ -656,8 +659,9 @@ async def syosetu_info(request: web.Request) -> web.Response:
             return web.json_response({
                 "success": True,
                 "code": code,
-                "title": syosetu.title,
-                "author": syosetu.author,
+                "source": source_type,
+                "title": scraper.title,
+                "author": scraper.author,
                 "total_episodes": total_eps,
                 "local_count": len(local_eps),
                 "missing_count": len(missing_eps),
@@ -666,14 +670,14 @@ async def syosetu_info(request: web.Request) -> web.Response:
                 "missing_eps": missing_eps[:20]
             })
     except Exception as e:
-        return web.json_response({"success": False, "error": f"Lỗi truy vấn Syosetu: {str(e)}"}, status=500)
+        return web.json_response({"success": False, "error": f"Lỗi truy vấn Scraper: {str(e)}"}, status=500)
 
 async def syosetu_scrape(request: web.Request) -> web.Response:
     if state.is_task_running:
         return web.json_response({"success": False, "error": "Đang có tác vụ khác đang chạy"}, status=400)
 
     data = await request.json()
-    code = extract_novel_code(data.get("code", "").strip())
+    query = data.get("code", "").strip()
     start_ep = int(data.get("start", 1))
     end_ep = int(data.get("end", 1))
 
@@ -681,27 +685,27 @@ async def syosetu_scrape(request: web.Request) -> web.Response:
         return web.json_response({"success": False, "error": "Chưa chọn bộ truyện"}, status=400)
 
     novel = state.active_novel
+    source_type, code, scraper = get_novel_scraper(query)
 
     async def run_scrape():
         state.is_task_running = True
         try:
-            await state.log(f"Bắt đầu cào raw Syosetu ({code}) từ tập {start_ep} đến {end_ep}...", "info")
-            syosetu = SyosetuNovel(code)
+            await state.log(f"Bắt đầu cào raw {source_type.title()} ({code}) từ tập {start_ep} đến {end_ep}...", "info")
             import httpx
-            async with httpx.AsyncClient(timeout=20.0) as client:
-                ok = await syosetu.fetch_novel_info_and_toc(client)
+            async with httpx.AsyncClient(timeout=20.0, follow_redirects=True) as client:
+                ok = await scraper.fetch_novel_info_and_toc(client)
                 if not ok:
-                    await state.log("Lỗi: Không thể kết nối tới Syosetu", "error")
+                    await state.log(f"Lỗi: Không thể kết nối tới {source_type.title()}", "error")
                     return
 
-                to_dl = [ep for ep in syosetu.episodes if start_ep <= ep["ep"] <= end_ep]
+                to_dl = [ep for ep in scraper.episodes if start_ep <= ep["ep"] <= end_ep]
                 total = len(to_dl)
                 for idx, item in enumerate(to_dl, 1):
                     ep = item["ep"]
                     fname = f"chuong_{ep:03d}_{clean_filename(item['title'])}.txt"
                     fpath = novel.raw_dir / fname
                     if not fpath.exists():
-                        content = await syosetu.fetch_chapter_content(client, ep)
+                        content = await scraper.fetch_chapter_content(client, ep)
                         if content:
                             fpath.write_text(f"# {item['title']}\n\n{content}", encoding="utf-8")
                             await state.log(f"✓ Đã tải Tập {ep}: {item['title']} -> {fname}", "success")
@@ -711,7 +715,7 @@ async def syosetu_scrape(request: web.Request) -> web.Response:
                         await state.log(f"⏩ Tập {ep} đã có sẵn ({fname}), bỏ qua.", "info")
 
                     pct = int((idx / total) * 100)
-                    state.task_info = {"name": "Cào Raw Syosetu", "progress": idx, "total": total, "status": "running"}
+                    state.task_info = {"name": f"Cào Raw {source_type.title()}", "progress": idx, "total": total, "status": "running"}
                     await state.broadcast("progress", {"pct": pct, "current": idx, "total": total, "title": item['title']})
                     await asyncio.sleep(0.3)
 

@@ -1589,3 +1589,11 @@
 • Meiko tỉnh lại, lầm tưởng Momoko đã hy sinh tính mạng bảo vệ mình, rơi vào trạng thái bùng nổ phẫn nộ tột cùng của 『Cuồng Chiến Sĩ』.
 • Tại chiến trường South Baron, Ác Ma Long dùng các khối lôi cầu nhắm vào dân thường để khống chế tâm lý nhóm Souma Yuuto, đồng thời tung chiêu mới "Lôi Quang Tiên" dồn ép phe Dũng Giả vào thế tan vỡ đội hình.
 • Kotarou đang tính toán kế sách rút lui bảo toàn lực lượng thì Meiko trong trạng thái cuồng nộ tột độ, quần áo rách tơi tả, gầm thét lao thẳng vào chiến trường để báo thù cho "Momoko".
+
+
+### Tập 565:
+• Futaba Meiko trong cơn thịnh nộ tột cùng vì ngỡ Momoko đã chết liền xông thẳng vào ác chiến với Ác Ma Long Wendisark dù không mảnh vải che thân và không có vũ khí.
+• Bằng kinh nghiệm chiến đấu ăn sâu vào da thịt, Meiko dùng 『Khải Triệt』 phá giải lôi kích, áp sát rồng và dùng tuyệt kỹ mới 『Hoang Hồn Toái』 đánh gãy một bên sừng của Wendisark trước khi bị dính lôi tức cận chiến văng lên nóc nhà.
+• Tổ đội Souma Yuuto kịp thời dồn ép Ác Ma Long, tạo thời gian cho Kotarou tiếp cận và dùng thuốc chữa trị cho Meiko.
+• Kotarou dùng 『Song Ảnh』 gọi Momoko ra để chứng minh cô bé chỉ là phân thân chưa hề chết. Nhận ra Kotarou, Meiko kích hoạt lại ký ức, nhận ra sai lầm của bản thân và trao cho cậu một nụ hôn mãnh liệt.
+• Meiko lấy lại toàn bộ ký ức, quyết tâm đứng bên cạnh chiến đấu bảo vệ Kotarou. Kotarou trang bị lại cho cô bộ 『Đồng phục nữ sinh Học viện Hakurei』 đặc chế cùng hai món vũ khí quen thuộc: 『Bát Tuyệt Ngưu Ma Đao』 và 『Zagan's Pride』 để Meiko quay lại làm tiên phong tiêu diệt Ác Ma Long.
