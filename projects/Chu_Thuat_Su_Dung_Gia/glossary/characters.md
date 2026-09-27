@@ -806,3 +806,7 @@
 ## [CHAR-043] 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
 - **tên_chuẩn:** 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
 - **loại:** NHÂN VẬT
+
+## [CHAR-044] 『Tiến Công Của Binh Đoàn Cự Thần』
+- **tên_chuẩn:** 『Tiến Công Của Binh Đoàn Cự Thần』
+- **loại:** NHÂN VẬT

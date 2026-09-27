@@ -3728,3 +3728,18 @@
 
 ## [TERM-1028] 『Đồng phục nữ sinh Học viện Hakurei』
 - **tên_chuẩn:** 『Đồng phục nữ sinh Học viện Hakurei』
+
+## [TERM-1029] 『Magma Titan』
+- **tên_chuẩn:** 『Magma Titan』
+
+## [TERM-1030] 『Mũ Sắt Khổng Lồ』
+- **tên_chuẩn:** 『Mũ Sắt Khổng Lồ』
+
+## [TERM-1031] 『PSP』
+- **tên_chuẩn:** 『PSP』
+
+## [TERM-1032] 『Thượng Cấp Băng Tinh Linh Ice Titan』
+- **tên_chuẩn:** 『Thượng Cấp Băng Tinh Linh Ice Titan』
+
+## [ITEM-067] 『Áo Giáp Khổng Lồ』
+- **tên_chuẩn:** 『Áo Giáp Khổng Lồ』

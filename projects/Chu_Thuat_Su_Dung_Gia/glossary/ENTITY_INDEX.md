@@ -48,6 +48,7 @@
 * `[CHAR-041]` Shinohara Emi
 * `[CHAR-042]` Lilith Godland Astoria
 * `[CHAR-043]` 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
+* `[CHAR-044]` 『Tiến Công Của Binh Đoàn Cự Thần』
 
 ### 📌 FACTIONS_ORGS
 * `[ORG-001]` Ban Chăn Nuôi
@@ -1302,3 +1303,8 @@
 * `[ITEM-066]` 『Bát Tuyệt Ngưu Ma Đao』
 * `[TERM-1027]` 『Hoang Hồn Toái』
 * `[TERM-1028]` 『Đồng phục nữ sinh Học viện Hakurei』
+* `[TERM-1029]` 『Magma Titan』
+* `[TERM-1030]` 『Mũ Sắt Khổng Lồ』
+* `[TERM-1031]` 『PSP』
+* `[TERM-1032]` 『Thượng Cấp Băng Tinh Linh Ice Titan』
+* `[ITEM-067]` 『Áo Giáp Khổng Lồ』

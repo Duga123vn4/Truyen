@@ -1597,3 +1597,11 @@
 • Tổ đội Souma Yuuto kịp thời dồn ép Ác Ma Long, tạo thời gian cho Kotarou tiếp cận và dùng thuốc chữa trị cho Meiko.
 • Kotarou dùng 『Song Ảnh』 gọi Momoko ra để chứng minh cô bé chỉ là phân thân chưa hề chết. Nhận ra Kotarou, Meiko kích hoạt lại ký ức, nhận ra sai lầm của bản thân và trao cho cậu một nụ hôn mãnh liệt.
 • Meiko lấy lại toàn bộ ký ức, quyết tâm đứng bên cạnh chiến đấu bảo vệ Kotarou. Kotarou trang bị lại cho cô bộ 『Đồng phục nữ sinh Học viện Hakurei』 đặc chế cùng hai món vũ khí quen thuộc: 『Bát Tuyệt Ngưu Ma Đao』 và 『Zagan's Pride』 để Meiko quay lại làm tiên phong tiêu diệt Ác Ma Long.
+
+
+### Tập 566:
+• Souma Yuuto nhận ra Futaba Meiko đã hoàn toàn lấy lại ký ức và trở lại làm 『Cuồng Chiến Sĩ』. Cả hai gạt bỏ ân oán cũ, phối hợp cùng chuẩn bị tổng lực tấn công theo tín hiệu của Momokawa Kotarou.
+• Kiếm sĩ Silva cảm thấy tự ti tột cùng trước tài năng kiếm thuật trác tuyệt của Dũng Giả Souma và định bỏ cuộc, nhưng được Momokawa khích lệ và trao cho bí kỹ 『Cự Thần Chiến Trang』.
+• Momokawa Kotarou kích hoạt 『Cự Thần Chiến Trang』 biến Uraga thành cự nhân bọc giáp to lớn như King Kong, còn Silva ma nhân hóa thành quỷ kiếm với tốc độ và phản xạ vượt trội.
+• Đồng thời, Riza bộc phát toàn lực 『Cự Thần Chiến Trang』, Rem khổng lồ đích thực xuất hiện cùng 『Thượng Cấp Băng Tinh Linh Ice Titan』 của Kisaragi Ryouko và 『Magma Titan』 của Raynare.
+• Đội hình 『Tiến Công Của Binh Đoàn Cự Thần』 gồm 5 gã khổng lồ cùng các chiến sĩ tinh nhuệ đồng loạt xuất trận, áp đảo hoàn toàn khả năng phân tích và thích ứng của Ác Ma Long Wendisark.
