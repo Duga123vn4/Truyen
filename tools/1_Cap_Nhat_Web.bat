@@ -20,15 +20,12 @@ echo ========================================================
 echo [OK] Hoan tat! Web cuc bo da duoc cap nhat day du chuong moi.
 echo ========================================================
 echo.
-set /p PUSH_CHOICE="Ban co muon dong bo day chuong moi len GitHub Pages luon khong? (Y/N, mac dinh N): "
-if /i "%PUSH_CHOICE%"=="y" (
-    echo.
-    echo Dang day du lieu len GitHub...
-    git add -A
-    git commit -m "Novel Studio: Cap nhat chuong moi vao Web Reader"
-    git push origin main
-    echo [OK] Da day len GitHub thanh cong!
-)
+echo [Dang day len GitHub Pages...]
+git add -A
+git commit -m "Novel Studio: Cap nhat chuong moi vao Web Reader"
+git push origin main
+echo [OK] Da day len GitHub thanh cong!
+echo Trang web online se cap nhat sau 1-2 phut: https://duga123vn4.github.io/Truyen/
 echo.
 pause
 
