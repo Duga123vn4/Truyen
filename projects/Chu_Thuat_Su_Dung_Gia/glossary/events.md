@@ -1605,3 +1605,13 @@
 • Momokawa Kotarou kích hoạt 『Cự Thần Chiến Trang』 biến Uraga thành cự nhân bọc giáp to lớn như King Kong, còn Silva ma nhân hóa thành quỷ kiếm với tốc độ và phản xạ vượt trội.
 • Đồng thời, Riza bộc phát toàn lực 『Cự Thần Chiến Trang』, Rem khổng lồ đích thực xuất hiện cùng 『Thượng Cấp Băng Tinh Linh Ice Titan』 của Kisaragi Ryouko và 『Magma Titan』 của Raynare.
 • Đội hình 『Tiến Công Của Binh Đoàn Cự Thần』 gồm 5 gã khổng lồ cùng các chiến sĩ tinh nhuệ đồng loạt xuất trận, áp đảo hoàn toàn khả năng phân tích và thích ứng của Ác Ma Long Wendisark.
+
+
+### Tập 567:
+• Kotarou tung ra con át chủ bài 『Đại Quân Cự Thần Tiến Công』, kết hợp cùng chiến thuật ném bồn nước chứa đầy dịch ăn mòn từ chú thuật 『Đầm Lầy Thối Rữa』 để phong tỏa hoàn toàn chiêu nã Lôi Cầu diện rộng của Ác Ma Long.
+• Ác Ma Long bàng hoàng trước khả năng phân tích và đưa ra đối sách khắc chế ngay trong trận chiến của Kotarou, cảm thấy trí tuệ của mình bị lép vế.
+• Silva thi triển 『巨神戦装』, giữ vững tâm thế bình thản và dùng kiếm kỹ 『Nhất Thiểm』 bóc trọn một mảng giáp sau lưng Ác Ma Long; Ác Ma Long kinh hãi nhầm tưởng Silva là 『Kiếm Thánh』 đời mới.
+• Gerald và Minami thừa thắng xông lên, bồi thêm các đòn liên hoàn chém đứt gai tích điện và chặt đứt lìa đuôi của Ác Ma Long sau khi Silva dùng 『Nhất Thiểm - Đòn Bật (Parry)』 đánh rơi đòn quất đuôi của nó.
+• Binh đoàn khổng lồ (Rem, Uraga, Riza, Băng Titan, Nham Thạch Titan) cùng các thành viên đỡ đòn (Victoria, Ryback, Allen, Freya) phối hợp phong tỏa hoàn toàn tứ chi và 4 sợi Lôi Quang Tiên của con rồng.
+• Khi Ác Ma Long định liều mạng quay đầu bắn Plasma Tức không cần tụ lực để lật ngược thế cờ, Hapina bắn đạn hồi phục kết hợp cùng chú thuật 『Nghịch Vũ Hồ Điệp』 của Kotarou làm đảo ngược hiệu ứng trị liệu thành cơn đau xé ruột, khiến con rồng bắn trượt mục tiêu.
+• Chương truyện khép lại khi Yuuto vung kiếm tung đòn tất sát 『Thanh Kiếm Dũng Giả Tỏa Sáng Dưới Thánh Thiên』 giáng thẳng vào tấm lưng trần vô phòng bị của Ác Ma Long.

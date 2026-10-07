@@ -810,3 +810,7 @@
 ## [CHAR-044] 『Tiến Công Của Binh Đoàn Cự Thần』
 - **tên_chuẩn:** 『Tiến Công Của Binh Đoàn Cự Thần』
 - **loại:** NHÂN VẬT
+
+## [CHAR-045] 『Đại Quân Cự Thần Tiến Công』
+- **tên_chuẩn:** 『Đại Quân Cự Thần Tiến Công』
+- **loại:** NHÂN VẬT

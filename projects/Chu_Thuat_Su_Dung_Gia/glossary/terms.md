@@ -3743,3 +3743,27 @@
 
 ## [ITEM-067] 『Áo Giáp Khổng Lồ』
 - **tên_chuẩn:** 『Áo Giáp Khổng Lồ』
+
+## [TERM-1033] 『Fatal Cloak』
+- **tên_chuẩn:** 『Fatal Cloak』
+
+## [TERM-1034] 『Honest Devotion』
+- **tên_chuẩn:** 『Honest Devotion』
+
+## [ITEM-068] 『Hồng Đao Phong』
+- **tên_chuẩn:** 『Hồng Đao Phong』
+
+## [TERM-1035] 『Nghịch Vũ Hồ Điệp』
+- **tên_chuẩn:** 『Nghịch Vũ Hồ Điệp』
+
+## [TERM-1036] 『Nhất Thiểm - Đòn Bật (Parry)』
+- **tên_chuẩn:** 『Nhất Thiểm - Đòn Bật (Parry)』
+
+## [TERM-1037] 『Oanh Kích Chấn』
+- **tên_chuẩn:** 『Oanh Kích Chấn』
+
+## [TERM-1038] 『Thánh Kị Sĩ』
+- **tên_chuẩn:** 『Thánh Kị Sĩ』
+
+## [TERM-1039] 『Vương Y - Đại Chủ Thú Y』
+- **tên_chuẩn:** 『Vương Y - Đại Chủ Thú Y』

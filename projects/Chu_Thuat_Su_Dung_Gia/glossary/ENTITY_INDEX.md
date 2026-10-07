@@ -49,6 +49,7 @@
 * `[CHAR-042]` Lilith Godland Astoria
 * `[CHAR-043]` 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
 * `[CHAR-044]` 『Tiến Công Của Binh Đoàn Cự Thần』
+* `[CHAR-045]` 『Đại Quân Cự Thần Tiến Công』
 
 ### 📌 FACTIONS_ORGS
 * `[ORG-001]` Ban Chăn Nuôi
@@ -1308,3 +1309,11 @@
 * `[TERM-1031]` 『PSP』
 * `[TERM-1032]` 『Thượng Cấp Băng Tinh Linh Ice Titan』
 * `[ITEM-067]` 『Áo Giáp Khổng Lồ』
+* `[TERM-1033]` 『Fatal Cloak』
+* `[TERM-1034]` 『Honest Devotion』
+* `[ITEM-068]` 『Hồng Đao Phong』
+* `[TERM-1035]` 『Nghịch Vũ Hồ Điệp』
+* `[TERM-1036]` 『Nhất Thiểm - Đòn Bật (Parry)』
+* `[TERM-1037]` 『Oanh Kích Chấn』
+* `[TERM-1038]` 『Thánh Kị Sĩ』
+* `[TERM-1039]` 『Vương Y - Đại Chủ Thú Y』
