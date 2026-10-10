@@ -50,6 +50,8 @@
 * `[CHAR-043]` 『Thần Thiết Kiếm Thánh Hiệp Sĩ』
 * `[CHAR-044]` 『Tiến Công Của Binh Đoàn Cự Thần』
 * `[CHAR-045]` 『Đại Quân Cự Thần Tiến Công』
+* `[CHAR-046]` 『Bàn Tay Phán Thần Vươn Tới Thánh Thiên』
+* `[CHAR-047]` 『Dũng Giả Kiếm Tỏa Sáng Nơi Thánh Thiên』
 
 ### 📌 FACTIONS_ORGS
 * `[ORG-001]` Ban Chăn Nuôi
@@ -1317,3 +1319,4 @@
 * `[TERM-1037]` 『Oanh Kích Chấn』
 * `[TERM-1038]` 『Thánh Kị Sĩ』
 * `[TERM-1039]` 『Vương Y - Đại Chủ Thú Y』
+* `[SKILL-136]` 『Trảm Cự Nhân』

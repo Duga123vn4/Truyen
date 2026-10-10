@@ -1,5 +1,16 @@
 [
   {
+    "timestamp": "2026-10-11 00:01:06",
+    "model": "gemini-3.8-flash",
+    "chapter_title": "Tập 568",
+    "chapter_ep": 568,
+    "elapsed_sec": 127.01,
+    "input_tokens": 21439,
+    "output_tokens": 11801,
+    "cache_tokens": 0,
+    "cost": 0.0103
+  },
+  {
     "timestamp": "2026-10-07 23:43:18",
     "model": "gemini-3.8-flash",
     "chapter_title": "Tập 567",

@@ -3767,3 +3767,6 @@
 
 ## [TERM-1039] 『Vương Y - Đại Chủ Thú Y』
 - **tên_chuẩn:** 『Vương Y - Đại Chủ Thú Y』
+
+## [SKILL-136] 『Trảm Cự Nhân』
+- **tên_chuẩn:** 『Trảm Cự Nhân』

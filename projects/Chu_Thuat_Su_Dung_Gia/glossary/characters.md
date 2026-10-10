@@ -814,3 +814,11 @@
 ## [CHAR-045] 『Đại Quân Cự Thần Tiến Công』
 - **tên_chuẩn:** 『Đại Quân Cự Thần Tiến Công』
 - **loại:** NHÂN VẬT
+
+## [CHAR-046] 『Bàn Tay Phán Thần Vươn Tới Thánh Thiên』
+- **tên_chuẩn:** 『Bàn Tay Phán Thần Vươn Tới Thánh Thiên』
+- **loại:** NHÂN VẬT
+
+## [CHAR-047] 『Dũng Giả Kiếm Tỏa Sáng Nơi Thánh Thiên』
+- **tên_chuẩn:** 『Dũng Giả Kiếm Tỏa Sáng Nơi Thánh Thiên』
+- **loại:** NHÂN VẬT

@@ -1615,3 +1615,12 @@
 • Binh đoàn khổng lồ (Rem, Uraga, Riza, Băng Titan, Nham Thạch Titan) cùng các thành viên đỡ đòn (Victoria, Ryback, Allen, Freya) phối hợp phong tỏa hoàn toàn tứ chi và 4 sợi Lôi Quang Tiên của con rồng.
 • Khi Ác Ma Long định liều mạng quay đầu bắn Plasma Tức không cần tụ lực để lật ngược thế cờ, Hapina bắn đạn hồi phục kết hợp cùng chú thuật 『Nghịch Vũ Hồ Điệp』 của Kotarou làm đảo ngược hiệu ứng trị liệu thành cơn đau xé ruột, khiến con rồng bắn trượt mục tiêu.
 • Chương truyện khép lại khi Yuuto vung kiếm tung đòn tất sát 『Thanh Kiếm Dũng Giả Tỏa Sáng Dưới Thánh Thiên』 giáng thẳng vào tấm lưng trần vô phòng bị của Ác Ma Long.
+
+
+### Tập 568:
+• Kotarou kích hoạt chú thuật 『Nghịch Vũ Hồ Điệp』, biến hiệu ứng hồi phục thành kịch thống để phá vỡ đòn Hơi thở Plasma không cần tụ lực của Ác Ma Long, tạo thời cơ cho Souma Yuuto giáng đòn 『Dũng Giả Kiếm Tỏa Sáng Nơi Thánh Thiên』.
+• Ác Ma Long tung ra bài tẩy mới sáng tạo sau trận thua Lilith: thanh ma kiếm plasma 『Demoncalibur』. Nó chém văng Riza, xẻ đôi Rem khổng lồ và Uraga, rồi đọ kiếm ngang ngửa với Souma Yuuto.
+• Futaba Meiko (Mei-chan) kịp thời can thiệp bằng đòn 『Trảm Cự Nhân』 từ kiếm 『Zagan's Pride』, phá vỡ thế giằng co giúp đòn kiếm của Souma chém sâu vào thân thể Ác Ma Long; toàn đội dồn lực bồi thêm đòn kết liễu.
+• Ác Ma Long thoát chết trong gang tấc bằng cách lột xác bỏ lại lớp giáp đen, hóa thành rồng trắng không vảy có hai cặp cánh côn trùng và bay vút lên trời trốn thoát; Souma Yuuto kiệt sức gục ngã.
+• Rem gượng nửa thân người ném Mei-chan lên không trung. Kotarou kích hoạt trang bị cấp Thánh Thiên 『Guardian Wing』 (được độ thêm động cơ phản lực khí gas từ Fullhelger) giúp Mei-chan bay đuổi theo xé toạc cánh của Ác Ma Long.
+• Ác Ma Long rơi tự do và bị xiên thủng ngực bởi mũi thánh kiếm trên bức tượng Nữ thần Ánh sáng Elshion khổng lồ ở thủ đô Sigroon, chết ngay tại chỗ; dân chúng ngỡ ngàng trước cảnh tượng "thiên sứ trừng phạt ác long".
