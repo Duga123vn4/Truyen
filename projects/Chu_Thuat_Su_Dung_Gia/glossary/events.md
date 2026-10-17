@@ -1624,3 +1624,11 @@
 • Ác Ma Long thoát chết trong gang tấc bằng cách lột xác bỏ lại lớp giáp đen, hóa thành rồng trắng không vảy có hai cặp cánh côn trùng và bay vút lên trời trốn thoát; Souma Yuuto kiệt sức gục ngã.
 • Rem gượng nửa thân người ném Mei-chan lên không trung. Kotarou kích hoạt trang bị cấp Thánh Thiên 『Guardian Wing』 (được độ thêm động cơ phản lực khí gas từ Fullhelger) giúp Mei-chan bay đuổi theo xé toạc cánh của Ác Ma Long.
 • Ác Ma Long rơi tự do và bị xiên thủng ngực bởi mũi thánh kiếm trên bức tượng Nữ thần Ánh sáng Elshion khổng lồ ở thủ đô Sigroon, chết ngay tại chỗ; dân chúng ngỡ ngàng trước cảnh tượng "thiên sứ trừng phạt ác long".
+
+
+### Tập 569:
+• Báo chí Astoria rầm rộ đưa tin ca ngợi Dũng Tinh Thập Tự Đoàn và Nữ thần Elcyone nhằm che đậy sự bất tài của chính quyền; Kotarou âm thầm phân tích các biện pháp phòng ngự của Vương thành và Đại thánh đường để chuẩn bị cho tương lai.
+• Nhờ sự can thiệp của Souma (theo sự giật dây của Kotarou), toàn bộ thi thể và nguyên liệu quý giá của Ác Ma Long Wendysark đều được trao toàn quyền cho "Thần tử Momoka" của Hắc Phát Giáo Hội.
+• Futaba Meiko sau khi lấy lại ký ức đã trải qua chuỗi ngày thân mật bù đắp cùng Kotarou; cô cảm thấy tội lỗi vì đã quên đi cậu trong thời gian qua.
+• Meiko hẹn gặp Riza tại tầng 1 Ngoại Quách Đình Viên; cô chấp nhận sự hiện diện của Riza bên cạnh Kotarou, nhưng Riza vẫn ôm mối hận vì Meiko từng làm tổn thương Kotarou, dẫn đến một trận tỉ thí tay đôi giữa hai người.
+• Tại Dũng Tinh Thập Tự Đoàn, Ryouko giới thiệu thành viên mới là Kỳ Đảo Sư Hapina; đồng thời chào đón sự trở lại đầy uy phong của Cuồng Chiến Sĩ Futaba Meiko (cùng với hai hầu gái Momoko và Rem).

@@ -214,3 +214,11 @@
 
 ## [FACTION-009] 『Langley Dung Binh Đoàn』
 - **tên_chuẩn:** 『Langley Dung Binh Đoàn』
+
+## [FACTION-010] 『Cận Vệ Kỵ Sĩ Đoàn』
+- **tên_chuẩn:** 『Cận Vệ Kỵ Sĩ Đoàn』
+- **loại:** PHE PHÁI / TỔ CHỨC
+
+## [FACTION-011] 『Dũng Tinh Thập Tự Đoàn giải cứu Sigrun!』
+- **tên_chuẩn:** 『Dũng Tinh Thập Tự Đoàn giải cứu Sigrun!』
+- **loại:** PHE PHÁI / TỔ CHỨC

@@ -75,6 +75,8 @@
 * `[FACTION-007]` 『Giáo Hội Tóc Đen』
 * `[FACTION-008]` 『Hắc Kỵ Sĩ Đoàn』
 * `[FACTION-009]` 『Langley Dung Binh Đoàn』
+* `[FACTION-010]` 『Cận Vệ Kỵ Sĩ Đoàn』
+* `[FACTION-011]` 『Dũng Tinh Thập Tự Đoàn giải cứu Sigrun!』
 
 ### 📌 TERMS
 * `[SKILL-001]` 『Ảo Ảnh Chú』 (Illusion Curse)
@@ -1320,3 +1322,5 @@
 * `[TERM-1038]` 『Thánh Kị Sĩ』
 * `[TERM-1039]` 『Vương Y - Đại Chủ Thú Y』
 * `[SKILL-136]` 『Trảm Cự Nhân』
+* `[TERM-1040]` 『Chiến Binh Tinh Linh』
+* `[TERM-1041]` 『Tự Do Giải Phóng Đảng』

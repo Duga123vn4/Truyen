@@ -3770,3 +3770,9 @@
 
 ## [SKILL-136] 『Trảm Cự Nhân』
 - **tên_chuẩn:** 『Trảm Cự Nhân』
+
+## [TERM-1040] 『Chiến Binh Tinh Linh』
+- **tên_chuẩn:** 『Chiến Binh Tinh Linh』
+
+## [TERM-1041] 『Tự Do Giải Phóng Đảng』
+- **tên_chuẩn:** 『Tự Do Giải Phóng Đảng』
