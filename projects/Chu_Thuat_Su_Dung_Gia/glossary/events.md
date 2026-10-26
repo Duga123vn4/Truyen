@@ -1632,3 +1632,11 @@
 • Futaba Meiko sau khi lấy lại ký ức đã trải qua chuỗi ngày thân mật bù đắp cùng Kotarou; cô cảm thấy tội lỗi vì đã quên đi cậu trong thời gian qua.
 • Meiko hẹn gặp Riza tại tầng 1 Ngoại Quách Đình Viên; cô chấp nhận sự hiện diện của Riza bên cạnh Kotarou, nhưng Riza vẫn ôm mối hận vì Meiko từng làm tổn thương Kotarou, dẫn đến một trận tỉ thí tay đôi giữa hai người.
 • Tại Dũng Tinh Thập Tự Đoàn, Ryouko giới thiệu thành viên mới là Kỳ Đảo Sư Hapina; đồng thời chào đón sự trở lại đầy uy phong của Cuồng Chiến Sĩ Futaba Meiko (cùng với hai hầu gái Momoko và Rem).
+
+
+### Tập 570:
+• Lilith hoàn thành lời hứa trong Nghi thức Thệ nguyện, đến dãy núi Unicorn giải cứu ngôi làng khai hoang phương bắc, tiêu diệt bầy Thiết Giáp Trùng và phát hiện ra một mạch mỏ Mithril (Thánh Ngân) khổng lồ, sau đó nhường lại toàn bộ quyền lợi cho dân làng và Biên cảnh bá Dalton.
+• Lilith thực hiện chuyến hành hương khắp lãnh địa biên cảnh phương bắc, ghé thăm thành phố mê cung Angel Rosa và hội kiến Bắc Thánh Khanh Powell Ignatius (thủ lĩnh phái Nữ Thần). Powell thăm dò việc chinh phục 『Bạch Ngân Vương Thành』, nhưng sau đó kinh ngạc trước tin tức Souma đã tiêu diệt Ác Ma Long đúng như lời tiên tri của Lilith.
+• Trở về thủ đô Sigrun, Lilith đứng trên đỉnh Tháp Thần Thụ bí mật chứng kiến khoảnh khắc Ác Ma Long bị tiêu diệt và gặp lại người bạn thân cũ: 『Đại Ma Đạo Sĩ』 Evleece von Hohenheim (Viện trưởng Học viện Ma Đạo Sigrun, cựu thành viên tổ đội Dũng Giả đời đầu).
+• Evleece vạch trần việc Lilith cố tình để Ác Ma Long xổng ra từ tầng năm để làm bài kiểm tra cho Souma Yuuto. Đồng thời, Evleece nhận thấy bóng tối ma quái không thể nhìn thấu xung quanh Momokawa Kotarou, coi cậu là "Sứ đồ của Tà Thần" và đe dọa trừ khử vì sợ ảnh hưởng tới xưởng nghiên cứu.
+• Lilith cầu xin Evleece khoanh tay đứng nhìn và không được động vào Momokawa Kotarou, khẳng định đây là lựa chọn "vì chính bản thân tôi", khiến Evleece chấp nhận nhượng bộ để trả món ân tình cũ.
