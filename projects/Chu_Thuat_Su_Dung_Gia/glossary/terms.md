@@ -3776,3 +3776,15 @@
 
 ## [TERM-1041] 『Tự Do Giải Phóng Đảng』
 - **tên_chuẩn:** 『Tự Do Giải Phóng Đảng』
+
+## [TERM-1042] 『Angel Rosa』
+- **tên_chuẩn:** 『Angel Rosa』
+
+## [TERM-1043] 『Hỏa Tức』
+- **tên_chuẩn:** 『Hỏa Tức』
+
+## [TERM-1044] 『Thiên Sứ Chi Cung』
+- **tên_chuẩn:** 『Thiên Sứ Chi Cung』
+
+## [TERM-1045] 『Thánh Ngân』
+- **tên_chuẩn:** 『Thánh Ngân』

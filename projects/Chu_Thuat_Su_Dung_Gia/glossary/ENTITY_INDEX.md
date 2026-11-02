@@ -1324,3 +1324,7 @@
 * `[SKILL-136]` 『Trảm Cự Nhân』
 * `[TERM-1040]` 『Chiến Binh Tinh Linh』
 * `[TERM-1041]` 『Tự Do Giải Phóng Đảng』
+* `[TERM-1042]` 『Angel Rosa』
+* `[TERM-1043]` 『Hỏa Tức』
+* `[TERM-1044]` 『Thiên Sứ Chi Cung』
+* `[TERM-1045]` 『Thánh Ngân』

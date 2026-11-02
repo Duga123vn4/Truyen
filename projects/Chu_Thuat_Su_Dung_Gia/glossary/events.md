@@ -1640,3 +1640,11 @@
 • Trở về thủ đô Sigrun, Lilith đứng trên đỉnh Tháp Thần Thụ bí mật chứng kiến khoảnh khắc Ác Ma Long bị tiêu diệt và gặp lại người bạn thân cũ: 『Đại Ma Đạo Sĩ』 Evleece von Hohenheim (Viện trưởng Học viện Ma Đạo Sigrun, cựu thành viên tổ đội Dũng Giả đời đầu).
 • Evleece vạch trần việc Lilith cố tình để Ác Ma Long xổng ra từ tầng năm để làm bài kiểm tra cho Souma Yuuto. Đồng thời, Evleece nhận thấy bóng tối ma quái không thể nhìn thấu xung quanh Momokawa Kotarou, coi cậu là "Sứ đồ của Tà Thần" và đe dọa trừ khử vì sợ ảnh hưởng tới xưởng nghiên cứu.
 • Lilith cầu xin Evleece khoanh tay đứng nhìn và không được động vào Momokawa Kotarou, khẳng định đây là lựa chọn "vì chính bản thân tôi", khiến Evleece chấp nhận nhượng bộ để trả món ân tình cũ.
+
+
+### Tập 571:
+• Bầy Wyvern và đại đội 1.000 Long binh của Thiên Không Long chuẩn bị càn quét ngôi làng ẩn dật/pháo đài của tàn dư Shangri-La.
+• Tendou Ryuuichi cưỡi Hắc Long xuất hiện, thi triển hỏa tức tiêu diệt bầy Wyvern, giải cứu pháo đài và được người dân tôn xưng là "Long Vương".
+• Ryuuichi cùng Sakura, Momoko và Liberta họp bàn với lão hiệp sĩ Wilhelm; nắm bắt bản đồ đại lục Noah (vị trí Astoria, Diana, Nội hải và Tam Công quốc).
+• Cả nhóm xác định mục tiêu đánh bại Thiên Không Long, nhưng trước mắt phải tìm kiếm Himeno Airi đang thất lạc.
+• Momoko dùng mưu mẹo và tài đàm phán sắc bén ép Wilhelm chuyển giao toàn bộ quyền quản lý các Dungeon di tích cổ đại của Shangri-La cho Ryuuichi, khiến Sakura phải dè chừng vì phong cách quá giống Momokawa Kotarou.
