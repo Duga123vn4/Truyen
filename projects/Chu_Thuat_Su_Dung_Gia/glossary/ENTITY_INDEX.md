@@ -1328,3 +1328,7 @@
 * `[TERM-1043]` 『Hỏa Tức』
 * `[TERM-1044]` 『Thiên Sứ Chi Cung』
 * `[TERM-1045]` 『Thánh Ngân』
+* `[TERM-1046]` 『Khu Phố Đen』
+* `[TERM-1047]` 『Khu Vực 501』
+* `[TERM-1048]` 『Thợ Thủ Công Toàn Năng』
+* `[TERM-1049]` 『Tổ Rồng』

@@ -1648,3 +1648,12 @@
 • Ryuuichi cùng Sakura, Momoko và Liberta họp bàn với lão hiệp sĩ Wilhelm; nắm bắt bản đồ đại lục Noah (vị trí Astoria, Diana, Nội hải và Tam Công quốc).
 • Cả nhóm xác định mục tiêu đánh bại Thiên Không Long, nhưng trước mắt phải tìm kiếm Himeno Airi đang thất lạc.
 • Momoko dùng mưu mẹo và tài đàm phán sắc bén ép Wilhelm chuyển giao toàn bộ quyền quản lý các Dungeon di tích cổ đại của Shangri-La cho Ryuuichi, khiến Sakura phải dè chừng vì phong cách quá giống Momokawa Kotarou.
+
+
+### Tập 572:
+• Tendou Ryuuichi cùng Souma Sakura lập đại công, tiêu diệt toàn bộ đại đội Long Binh bảo vệ làng bí mật mà không chịu bất kỳ thương vong nào, củng cố vững chắc danh hiệu "Long Vương tái lâm" và "Thiên Nữ giáng trần".
+• Ryuuichi tiến hành chinh phục 『Khu Vực 501』 nằm ngay dưới lòng đất, giành quyền kiểm soát căn cứ cổ đại, giải quyết dứt điểm vấn đề lương thực và vật tư cho ngôi làng.
+• Momoko phát hiện bản đồ liên lạc cổ đại hiển thị vị trí các ngôi làng bí mật khác cùng các căn cứ không người; Ryuuichi quyết định kích hoạt các căn cứ bỏ hoang làm mồi nhử để đánh lạc hướng Thiên Không Long và lũ Long Binh.
+• Wilhelm cùng cháu trai Ray và các binh sĩ bắt đầu bắt giữ Wyvern và huấn luyện thành lập lại Long Kỵ Sĩ Đoàn dưới sự chỉ dẫn của Sakura.
+• Trong một tuần, Ryuuichi liên tục solo càn quét chiếm thêm hai pháo đài cổ đại làm mồi nhử, khiến cậu mệt mỏi cùng cực.
+• Sứ giả từ một ngôi làng bí mật khác bất ngờ xuất hiện, báo tin ngôi làng đó cũng đang phục hưng thần tốc nhờ sự trợ giúp của một nhân vật mang danh 『Thợ Thủ Công Toàn Năng』 (Craft Master - nghi là người bạn cùng lớp Nakai Shouta).

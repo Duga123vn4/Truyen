@@ -3788,3 +3788,15 @@
 
 ## [TERM-1045] 『Thánh Ngân』
 - **tên_chuẩn:** 『Thánh Ngân』
+
+## [TERM-1046] 『Khu Phố Đen』
+- **tên_chuẩn:** 『Khu Phố Đen』
+
+## [TERM-1047] 『Khu Vực 501』
+- **tên_chuẩn:** 『Khu Vực 501』
+
+## [TERM-1048] 『Thợ Thủ Công Toàn Năng』
+- **tên_chuẩn:** 『Thợ Thủ Công Toàn Năng』
+
+## [TERM-1049] 『Tổ Rồng』
+- **tên_chuẩn:** 『Tổ Rồng』
